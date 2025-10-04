@@ -31,6 +31,19 @@
   - BanTypes
   - BanDurations
 
+- type: guideEntry # Immernacht Station Server Regeln
+  id: IRPRules
+  name: ImmernachtRPRegeln
+  priority: 60
+  text: "/ServerInfo/Guidebook/ServerRules/IRPRules.xml"
+  children:
+  - CoreRules
+  - RoleplayRules
+  - SiliconRules
+  - RoleTypes
+  - BanTypes
+  - BanDurations
+
 - type: guideEntry
   id: RoleTypes
   name: guide-entry-rules-role-types
