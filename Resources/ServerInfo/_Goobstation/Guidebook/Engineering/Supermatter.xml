@@ -13,7 +13,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Ihr habt euch also entschlossen, die Herausforderung anzunehmen und den Supermatter-Motor einzurichten? Zuerst geben wir euch einen kurzen Überblick über den eigentlichen Supermatter-Kristall.
 
-  Seine primäre Eigenschaft ist die Emission von radioaktivem Hintergrund, der über **Strahlungskollektoren (radiation collectors)** zur Stromversorgung der Station genutzt wird.
+  Seine primäre Eigenschaft ist die Emission von radioaktivem Hintergrund, der über Strahlungskollektoren (radiation collectors) zur Stromversorgung der Station genutzt wird.
 
   Nebenwirkungen sind Blitzeinschläge, die Freisetzung von heißem Sauerstoff und Plasma, die Erhitzung der Umgebungsluft, Explosionen, die Verwandlung in ein Schwarzes Loch oder einen Energieball und das Fressen der gesamten Station, wenn ihr es hart genug vermasselt.
 
@@ -43,7 +43,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   5. [color=#19b348]Ammoniak (Ammonia)[/color]. Erhöht die Stromerzeugung leicht bei geringfügigen Kosten für die Hitze-Strafe.
 
-  6. [color=#979797]Kohlendioxid (Carbon Dioxide)[/color]. In geringen Konzentrationen erhöht es die Stromerzeugung des Kristalls. In hohen Konzentrationen wird es die Energie des Kristalls auf extrem hohe Niveaus anheben. Bei schlechtem Management und unzureichender oder geradezu schlechter Vorbereitung wird es schließlich sichere Energieniveaus überschreiten und eine Ladungsdelaminierung beginnen, die elektrische Bögen und Anomalien erzeugt, bis es schließlich in einen **Tesla-Ball** explodiert. Das Injizieren von Kohlendioxid führt auch dazu, dass der Supermatter **Pluoxium** produziert.
+  6. [color=#979797]Kohlendioxid (Carbon Dioxide)[/color]. In geringen Konzentrationen erhöht es die Stromerzeugung des Kristalls. In hohen Konzentrationen wird es die Energie des Kristalls auf extrem hohe Niveaus anheben. Bei schlechtem Management und unzureichender oder geradezu schlechter Vorbereitung wird es schließlich sichere Energieniveaus überschreiten und eine Ladungsdelaminierung beginnen, die elektrische Bögen und Anomalien erzeugt, bis es schließlich in einen Tesla-Ball explodiert. Das Injizieren von Kohlendioxid führt auch dazu, dass der Supermatter Pluoxium produziert.
 
   7. [color=#9370db]BZ[/color]. Erhöht die Stromerzeugung leicht bei erheblichen Kosten für die Hitze-Strafe.
 
@@ -65,7 +65,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   1. Stickstoff wird von passiven Lüftungsschächten von einer Seite in die Kammer gepumpt.
 
-  2. Jedes Gas wird mithilfe von **Wäschern (scrubbers)**, die auf **Saugen (Siphon)** eingestellt sind, auf der anderen Seite aus der Kammer gepumpt.
+  2. Jedes Gas wird mithilfe von Wäschern (scrubbers), die auf Saugen (Siphon) eingestellt sind, auf der anderen Seite aus der Kammer gepumpt.
 
   3. Der Ausgang wird abgekühlt, gefiltert und überschüssiger Stickstoff wird entweder in den Weltraum geleitet oder in den Eingang zurückgeführt.
 

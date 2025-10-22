@@ -6,8 +6,8 @@
     <GuideEntityEmbed Entity="ClothingMaskNinja" Caption=""/>
   </Box>
 
-  **Ninjutsu** ist eine [textlink="Kampfkunst" link="MartialArts"], die vom **Spinnen-Clan (Spider Clan)** gründlich entwickelt wurde.
-  **Weltraum-Ninjas** sind wahre Meister dieser Technik, doch auch **Weltraum-Zauberer** (Space Wizards) können ihre Geheimnisse lüften.
+  Ninjutsu ist eine [textlink="Kampfkunst" link="MartialArts"], die vom Spinnen-Clan (Spider Clan) gründlich entwickelt wurde.
+  Weltraum-Ninjas sind wahre Meister dieser Technik, doch auch Weltraum-Zauberer (Space Wizards) können ihre Geheimnisse lüften.
   Erinnert euch an eure vier Lehren. Bewegt euch niemals laut. Schlagt nur zu, wenn ihr ungesehen seid. Geduld siegt, Eile scheitert. Der Tod kommt in der Stille.
 
   ## Spezialfähigkeiten (Special abilities)
@@ -18,9 +18,9 @@
     <GuideEntityEmbed Entity="EnergyKatana" Caption=""/>
   </Box>
 
-  Im Schatten der Stille wird der Schlag des Ninjas mit doppelter Kraft widerhallen. **Verdoppelt den Schaden** für den nächsten Nahkampfangriff.
+  Im Schatten der Stille wird der Schlag des Ninjas mit doppelter Kraft widerhallen. Verdoppelt den Schaden für den nächsten Nahkampfangriff.
   Sobald Schaden zugefügt wurde, schwindet die Heimlichkeit und weicht der Schnelligkeit, wartend auf die nächste Chance zum Aufstieg.
-  **Aktiviert** **Ninjutsu Takedown** und **Assasinate**, **deaktiviert** **Swift Strike**.
+  Aktiviert Ninjutsu Takedown und Assasinate, deaktiviert Swift Strike.
 
   ### Verlust der Überraschung (Loss of Surprise)
 
@@ -30,7 +30,7 @@
 
   In der Stille einer Öffnung bewegt sich der Ninja wie ein Flüstern im Wind.
   Geschwindigkeit ist ihre Waffe, und der Moment zum Zuschlagen ist flüchtig, wie ein Schatten in der Dunkelheit.
-  **Hält 5 Sekunden**. **Deaktiviert** **Ninjutsu Takedown** und **Assasinate**, **aktiviert** aber **Swift Strike**.
+  Hält 5 Sekunden. Deaktiviert Ninjutsu Takedown und Assasinate, aktiviert aber Swift Strike.
 
   ### Fluchtplan (Escape Plan)
 
@@ -47,8 +47,8 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Verursacht massiven Schaden an der Brust des Ziels, wenn **Sneak Attack** aktiv ist. Schaden wird leicht durch Rüstung gestoppt.
-  Funktioniert im unbewaffneten Kampf oder bei Linksklick-Angriffen mit einer Waffe, die **Schlitzschaden (Slash damage)** verursacht.
+  Verursacht massiven Schaden an der Brust des Ziels, wenn Sneak Attack aktiv ist. Schaden wird leicht durch Rüstung gestoppt.
+  Funktioniert im unbewaffneten Kampf oder bei Linksklick-Angriffen mit einer Waffe, die Schlitzschaden (Slash damage) verursacht.
 
   ### Ninjutsu-Niederwerfen (Ninjutsu Takedown)
 
@@ -56,7 +56,7 @@
     <GuideEntityEmbed Entity="GuidebookHelp" Caption=""/>
   </Box>
 
-  Funktioniert nur mit aktivem **Sneak Attack**. Verlangsamt den Gegner erheblich und macht ihn **stumm (mutes them)**.
+  Funktioniert nur mit aktivem Sneak Attack. Verlangsamt den Gegner erheblich und macht ihn stumm (mutes them).
   Funktioniert besser, wenn es von hinten ausgeführt wird.
 
   ### Schneller Schlag (Swift Strike)
@@ -65,8 +65,8 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Wenn der Feind **niedergeschlagen (knocked down)** ist, kommt der Nahkampfangriff mit **Schlitzschaden** schneller, als das Auge folgen kann.
-  Und unbewaffnet entzieht jeder Angriff dem Gegner **Ausdauer (stamina)**. Funktioniert nur mit aktivem **Loss of Surprise**.
+  Wenn der Feind niedergeschlagen (knocked down) ist, kommt der Nahkampfangriff mit Schlitzschaden schneller, als das Auge folgen kann.
+  Und unbewaffnet entzieht jeder Angriff dem Gegner Ausdauer (stamina). Funktioniert nur mit aktivem Loss of Surprise.
 
   ### In den Staub beißen (Bite The Dust)
 
@@ -75,7 +75,7 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Wirft den Gegner vorübergehend zu Boden (**temporarily knocks the opponent down**). Verursacht außerdem **stumpfen Schaden (blunt damage)**.
+  Wirft den Gegner vorübergehend zu Boden (temporarily knocks the opponent down). Verursacht außerdem stumpfen Schaden (blunt damage).
 
   ### Gemeiner Kill (Dirty Kill)
 
@@ -84,6 +84,6 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Betäubt einen **niedergeschlagenen** Gegner vorübergehend. Das Ziel kann nicht länger betäubt werden, als es niedergeschlagen ist.
+  Betäubt einen niedergeschlagenen Gegner vorübergehend. Das Ziel kann nicht länger betäubt werden, als es niedergeschlagen ist.
 
 </Document>

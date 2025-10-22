@@ -6,7 +6,7 @@
     <GuideEntityEmbed Entity="LegionnaireBonfire" Caption=""/>
   </Box>
 
-  **Höllenriss** ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, mit brutaler Effizienz durch Dämonenmengen zu reißen. Diese Kunst kann nur von den **Schlachtdämonen (Slaughter Demons)** der Hölle gemeistert werden, da sie eine enorme Menge an roher Stärke und Kraft erfordert, um sie zu beherrschen.
+  Höllenriss ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, mit brutaler Effizienz durch Dämonenmengen zu reißen. Diese Kunst kann nur von den Schlachtdämonen (Slaughter Demons) der Hölle gemeistert werden, da sie eine enorme Menge an roher Stärke und Kraft erfordert, um sie zu beherrschen.
   Ein vollständiges Verständnis dieser Kunst wird euch erlauben, die Station rot zu färben. Niemand wird vor eurem Gemetzel sicher sein.
 
   ## Spezialfähigkeiten (Special abilities)
@@ -23,7 +23,7 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Verursacht massiven **Schlitzschaden (slashing damage)** und lässt das Ziel bluten.
+  Verursacht massiven Schlitzschaden (slashing damage) und lässt das Ziel bluten.
 
   ### Kopfriss (Head Rip)
 
@@ -43,7 +43,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Wirft einen Gegner zu Boden (**knocks an opponent down**) und verursacht schweren **Ausdauerschaden (stamina damage)**. Wenn ihr am Boden liegt, zieht ihr euch hoch.
+  Wirft einen Gegner zu Boden (knocks an opponent down) und verursacht schweren Ausdauerschaden (stamina damage). Wenn ihr am Boden liegt, zieht ihr euch hoch.
 
   ### Sprungtritt (Drop Kick)
 
@@ -52,6 +52,6 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Schleudert einen am Boden liegenden (**downed**) Gegner fort. Großartig zum "Malen" (**painting**). Kann nicht ausgeführt werden, während man am Boden liegt.
+  Schleudert einen am Boden liegenden (downed) Gegner fort. Großartig zum "Malen" (painting). Kann nicht ausgeführt werden, während man am Boden liegt.
 
 </Document>

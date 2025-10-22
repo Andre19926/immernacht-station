@@ -15,7 +15,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   - Erlaubt es euch, langsam und laut ein totes, krites, gefesseltes oder stark gegriffenes Crewmitglied zu absorbieren. Dies fügt ihre DNA eurem Pool hinzu, gibt euch 2 Evolutionspunkte und füllt eure Biomasse auf.
   - Wenn ein anderer Formwandler absorbiert wird, erhaltet ihr stattdessen die Hälfte seiner gesamten Evolutionspunkte und die Hälfte seiner maximalen Chemikalien.
-  - Das Ziel muss sich in einem **starken Griff (HARD grab)** befinden, um diese Fähigkeit nutzen zu können.
+  - Das Ziel muss sich in einem starken Griff (HARD grab) befinden, um diese Fähigkeit nutzen zu können.
   - Kann in der geringeren Form (Lesser Form) verwendet werden.
   - Kann nicht verwendet werden, während ihr in Flammen steht.
 
@@ -49,7 +49,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     [color=#999999][italic]0 Chemikalien[italic][/color]
   </Box>
 
-  - Der Formwandler stirbt sofort und die Fähigkeit **Stillstand Verlassen** wird freigeschaltet.
+  - Der Formwandler stirbt sofort und die Fähigkeit Stillstand Verlassen wird freigeschaltet.
   - Kann verwendet werden, während ihr gefesselt oder in geringerer Form seid.
   - Kann verwendet werden, während ihr in Flammen steht.
 
@@ -228,7 +228,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <Box>
     [color=#999999][italic] 4 Evolutionspunkte / 0 Chemikalien [italic][/ картинка/Box]
   </Box>
-  - Der Formwandler kann die Sicht zwischen **blitzresistent** und **thermovision** umschalten.
+  - Der Formwandler kann die Sicht zwischen blitzresistent und thermovision umschalten.
   - Bei Verwendung der Thermovision betäuben Blitze den Formwandler doppelt so lange.
   - Die Thermovision bietet dem Formwandler auch Nachtsicht.
   - Kann verwendet werden, während ihr gefesselt oder in geringerer Form seid.

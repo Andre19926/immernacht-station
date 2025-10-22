@@ -79,7 +79,7 @@ Nein, nicht die Chemikalien aus der Chemie, stattdessen könnt ihr ändern, was 
 
 - Regenerative Materie (Regenerative Materia) – Ihr verursacht 6 stumpfen und 15 Toxinschaden. Euer Kern regeneriert sich außerdem 10-mal schneller als normal und generiert eine zusätzliche Ressource. Eure Blob-Drops setzen beim Tod auch eine Wolke aus giftigem Rauch frei.
 
-- Explosives Gitter (Explosive Lattice) – Ihr verursacht 5 Verbrennungsschaden, **ABER** ihr lasst euer Ziel explodieren und verursacht 10 stumpfen Schaden. Im Allgemeinen lasst ihr Dinge explodieren. Eure Drops explodieren auch beim Tod. Ihr nehmt jedoch noch mehr Verbrennungs- und Elektroschaden.
+- Explosives Gitter (Explosive Lattice) – Ihr verursacht 5 Verbrennungsschaden, ABER ihr lasst euer Ziel explodieren und verursacht 10 stumpfen Schaden. Im Allgemeinen lasst ihr Dinge explodieren. Eure Drops explodieren auch beim Tod. Ihr nehmt jedoch noch mehr Verbrennungs- und Elektroschaden.
 
 - Elektromagnetisches Netz (Electomagnetic Web) – Ihr verursacht 20 Verbrennungsschaden und habt eine 20%ige Chance, beim Angriff einen EMP zu verursachen. Eure Zellen verursachen auch einen EMP-Puls, wenn sie zerstört werden. Ihr nehmt jedoch mehr stumpfen und Elektroschaden. Ihr seid praktisch der schlimmste Albtraum eines IPC (Integrated Personnel Cyborg).
 
@@ -92,7 +92,7 @@ Während der Blob wächst, durchläuft die Station mehrere Phasen.
 - 3. [color=#a4885c]Delta-Alarm[/color] – Wenn der Blob einen bedeutenden Teil der Station einnimmt, wird der Delta-Alarm ausgelöst. Das Hauptziel der Station ist nun die Zündung der Atombombe, und die Atom-Codes werden an ein Faxgerät gesendet. Die Niederlage des Blobs ist zu diesem Zeitpunkt höchstwahrscheinlich unmöglich.
 - 4. [color=#a4885c]Kritische Masse[/color] – Wenn der Blob den Großteil der Station einnimmt, erreicht er die kritische Masse, wodurch die Runde mit dem Sieg des Blobs endet.
 
-Ab der zweiten Phase hat der Captain ein vorrangiges Ziel in Form des Schutzes der nuklearen Authentifizierungsdiskette. Wenn ihr sie verliert, kann der Blob im Delta-Alarm nicht zerstört werden, was dem Blob einen nahezu garantierten Sieg verschafft! Wenn ihr der Captain seid, stürmt **NICHT** kopfüber in den Blob!!
+Ab der zweiten Phase hat der Captain ein vorrangiges Ziel in Form des Schutzes der nuklearen Authentifizierungsdiskette. Wenn ihr sie verliert, kann der Blob im Delta-Alarm nicht zerstört werden, was dem Blob einen nahezu garantierten Sieg verschafft! Wenn ihr der Captain seid, stürmt NICHT kopfüber in den Blob!!
 
   <Box>
     <GuideEntityEmbed Entity="NukeDisk" Caption="Nukleare Authentifizierungsdiskette"/>

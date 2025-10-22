@@ -12,7 +12,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 # Pflaster (Patches)
 
 Pflaster sind eine einfache und effektive Möglichkeit, einem Patienten über einen bestimmten Zeitraum Medikamente mit geringerem Risiko einer Überdosierung zu verabreichen.
-Sie können in einer **Medizinischen Techfab (Medical Techfab)** hergestellt und über einen **ChemMaster** befüllt werden. Sie können direkt auf einen Patienten aufgebracht werden und fallen von selbst ab, sobald sie leer sind.
+Sie können in einer Medizinischen Techfab (Medical Techfab) hergestellt und über einen ChemMaster befüllt werden. Sie können direkt auf einen Patienten aufgebracht werden und fallen von selbst ab, sobald sie leer sind.
 
 <GuideEntityEmbed Entity="MedicalPatchBasic" Rotation="0"/>
 
@@ -25,23 +25,23 @@ Es gibt 6 Arten von Pflastern:
 - Behelfsmäßig (Makeshift)
 
 ## Basis (Basic)
-Das **(Basis-)Pflaster** fasst 40 Einheiten Chemikalien und überträgt 1 Einheit pro Sekunde.
+Das (Basis-)Pflaster fasst 40 Einheiten Chemikalien und überträgt 1 Einheit pro Sekunde.
 
 ## Schnell (Rapid)
-Das **schnelle Pflaster** fasst 40 Einheiten und überträgt 2 Einheiten pro Sekunde.
+Das schnelle Pflaster fasst 40 Einheiten und überträgt 2 Einheiten pro Sekunde.
 
 ## Groß (Large)
-Das **große Pflaster** fasst 60 Einheiten und überträgt 1 Einheit pro Sekunde.
-Allerdings überträgt das große Pflaster auch **15 % seiner Chemikalien sofort** beim Auftragen (10 Einheiten, wenn es voll ist).
+Das große Pflaster fasst 60 Einheiten und überträgt 1 Einheit pro Sekunde.
+Allerdings überträgt das große Pflaster auch 15 % seiner Chemikalien sofort beim Auftragen (10 Einheiten, wenn es voll ist).
 
 ## Therapeutisch (Therapeutic)
-Das **therapeutische Pflaster** fasst 40 Einheiten und überträgt 0,5 Einheiten pro Sekunde.
+Das therapeutische Pflaster fasst 40 Einheiten und überträgt 0,5 Einheiten pro Sekunde.
 
 ## Vorgefüllt (Prefilled)
-NanoMed Plus-Maschinen und einige Medkits enthalten **vorgefüllte Pflaster** zur Behandlung von **Stumpfem Schaden (Brute)** oder **Verbrennungsschaden (Burn)**.
+NanoMed Plus-Maschinen und einige Medkits enthalten vorgefüllte Pflaster zur Behandlung von Stumpfem Schaden (Brute) oder Verbrennungsschaden (Burn).
 Diese fassen 30 Einheiten und übertragen 0,25 Einheiten pro Sekunde, können aber nicht nachgefüllt oder entleert werden. Nicht wiederverwendbar.
 
 ## Behelfsmäßig (Makeshift)
-Dieses **rudimentäre Pflaster** kann 20 Einheiten fassen und überträgt 1 Einheit alle 2 Sekunden.
-Es kann jedoch **von Hand mit Stoff (cloth)** hergestellt und **manuell ohne ChemMaster** befüllt werden. Nicht wiederverwendbar.
+Dieses rudimentäre Pflaster kann 20 Einheiten fassen und überträgt 1 Einheit alle 2 Sekunden.
+Es kann jedoch von Hand mit Stoff (cloth) hergestellt und manuell ohne ChemMaster befüllt werden. Nicht wiederverwendbar.
 </Document>

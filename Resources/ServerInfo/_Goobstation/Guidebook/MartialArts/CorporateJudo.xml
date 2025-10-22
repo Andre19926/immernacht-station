@@ -6,16 +6,16 @@
     <GuideEntityEmbed Entity="ClothingBeltCorporateJudo" Caption=""/>
   </Box>
 
-  **Konzern-Judo**, oder einfach **Judo**, ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, den Gegner mit komplexeren, aber effektiven Moves zu fesseln. Ihr werdet diesen Stil meist bei **Sicherheitsbeamten (Security Officers)** sehen, da sie in ihrer Abteilung Zugang zu den Gürteln erhalten.
-  Nutzt diese Kunst und schlagt jeden **Tider** nieder, der euch in die Quere kommt. Ein gutes Verständnis der **Absichten (Intents)** ist erforderlich.
+  Konzern-Judo, oder einfach Judo, ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, den Gegner mit komplexeren, aber effektiven Moves zu fesseln. Ihr werdet diesen Stil meist bei Sicherheitsbeamten (Security Officers) sehen, da sie in ihrer Abteilung Zugang zu den Gürteln erhalten.
+  Nutzt diese Kunst und schlagt jeden Tider nieder, der euch in die Quere kommt. Ein gutes Verständnis der Absichten (Intents) ist erforderlich.
 
   ## Spezialfähigkeiten (Special abilities)
 
-  Judo-Anwender sind besser in der **Schaden-Absicht (Harm intent)**, da ihre unbewaffneten Angriffe dem Gegner zusätzlichen Schaden zufügen.
+  Judo-Anwender sind besser in der Schaden-Absicht (Harm intent), da ihre unbewaffneten Angriffe dem Gegner zusätzlichen Schaden zufügen.
 
   ### Schockstab-Verachtung (Stunbaton Scorn)
 
-  Ein Judo-Anwender kann keine **Schockstäbe (stunbatons)** verwenden. Ein wahrer Meister verlässt sich auf Technik, nutzt die Hebelwirkung und Kraft des Körpers, um zu unterwerfen, und lässt die Notwendigkeit für elektrifizierte Gewalt hinter sich.
+  Ein Judo-Anwender kann keine Schockstäbe (stunbatons) verwenden. Ein wahrer Meister verlässt sich auf Technik, nutzt die Hebelwirkung und Kraft des Körpers, um zu unterwerfen, und lässt die Notwendigkeit für elektrifizierte Gewalt hinter sich.
 
   ## Kombo-Angriffe (Combo attacks)
 
@@ -26,7 +26,7 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Verlangsamt den Gegner und verursacht etwas **Ausdauerschaden (Stamina damage)**.
+  Verlangsamt den Gegner und verursacht etwas Ausdauerschaden (Stamina damage).
 
   ### Augenzwinker (Eye Poke)
 
@@ -35,7 +35,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Blendet den Gegner und verschwimmt seine Sicht, unabhängig vom Augenschutz, und verursacht etwas **Stumpfen Schaden (Blunt damage)**.
+  Blendet den Gegner und verschwimmt seine Sicht, unabhängig vom Augenschutz, und verursacht etwas Stumpfen Schaden (Blunt damage).
 
   ### Judo-Wurf (Judo Throw)
 
@@ -44,8 +44,8 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Kann nur im Stehen ausgeführt werden. Funktioniert nur bei stehenden Gegnern, verursacht **Ausdauerschaden** und wirft sie zu Boden.
-  Die Dauer des **Zu-Boden-Werfens (Knockdown)** wird durch ihre Ausdauerresistenz beeinflusst.
+  Kann nur im Stehen ausgeführt werden. Funktioniert nur bei stehenden Gegnern, verursacht Ausdauerschaden und wirft sie zu Boden.
+  Die Dauer des Zu-Boden-Werfens (Knockdown) wird durch ihre Ausdauerresistenz beeinflusst.
 
   ### Armhebel (Armbar)
 
@@ -55,8 +55,8 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Funktioniert nur bei **niedergeschlagenen (downed)** Gegnern. Fügt **Ausdauerschaden** zu, entwaffnet sie und fixiert sie in einem **Armhebel**, bis sie es schaffen, aufzustehen.
-  Der Armhebel funktioniert ähnlich wie ein **Zu-Boden-Werfen** und ein **Würgegriff (choke grab)**, und seine Dauer wird durch ihre Ausdauerresistenz beeinflusst.
+  Funktioniert nur bei niedergeschlagenen (downed) Gegnern. Fügt Ausdauerschaden zu, entwaffnet sie und fixiert sie in einem Armhebel, bis sie es schaffen, aufzustehen.
+  Der Armhebel funktioniert ähnlich wie ein Zu-Boden-Werfen und ein Würgegriff (choke grab), und seine Dauer wird durch ihre Ausdauerresistenz beeinflusst.
 
   ### Rad-Wurf (Wheel Throw)
 
@@ -66,7 +66,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Funktioniert nur bei Gegnern, die in einem **Armhebel** fixiert sind. Wirft den Gegner über die Schulter,
-  fügt massiven **Ausdauerschaden** zu und zwingt den Anwender zurück auf die Füße.
+  Funktioniert nur bei Gegnern, die in einem Armhebel fixiert sind. Wirft den Gegner über die Schulter,
+  fügt massiven Ausdauerschaden zu und zwingt den Anwender zurück auf die Füße.
 
 </Document>

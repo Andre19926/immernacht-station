@@ -18,11 +18,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   # LogProbe
 
-  Dieses kleine Add-On für euer **PDA** ist unglaublich nützlich. Installiert einfach die **Kartusche**, und euer PDA erhält die Fähigkeit, alles mit Zugang (wie Luftschleusen) zu scannen und zu sehen, wer diese kürzlich benutzt hat.
+  Dieses kleine Add-On für euer PDA ist unglaublich nützlich. Installiert einfach die Kartusche, und euer PDA erhält die Fähigkeit, alles mit Zugang (wie Luftschleusen) zu scannen und zu sehen, wer diese kürzlich benutzt hat.
 
-  Ihr könnt es normalerweise im **Detektiv-Spind (detective locker)** finden. Nachdem ihr es in euer PDA eingesetzt habt, geht zum **Programme-Tab**. Die **LogProbe**-Anwendung sollte dort sein. Um die Anwendung zu nutzen, müsst ihr einfach mit eurem PDA, während die Anwendung geöffnet ist, mit allem interagieren, was Zugang erfordert, und die Informationen werden sofort darauf angezeigt.
+  Ihr könnt es normalerweise im Detektiv-Spind (detective locker) finden. Nachdem ihr es in euer PDA eingesetzt habt, geht zum Programme-Tab. Die LogProbe-Anwendung sollte dort sein. Um die Anwendung zu nutzen, müsst ihr einfach mit eurem PDA, während die Anwendung geöffnet ist, mit allem interagieren, was Zugang erfordert, und die Informationen werden sofort darauf angezeigt.
 
-  Es sollte beachtet werden, dass der in der Anwendung angezeigte Name nicht zu 100 % vertrauenswürdig ist, da er den Namen von der **Identifikationskarte** desjenigen erhält, der das gescannte Objekt benutzt hat. Wenn zum Beispiel jemand eine Luftschleuse ohne Karte geöffnet hat, würde die Anwendung "Unknown" (Unbekannt) als Namen anzeigen.
+  Es sollte beachtet werden, dass der in der Anwendung angezeigte Name nicht zu 100 % vertrauenswürdig ist, da er den Namen von der Identifikationskarte desjenigen erhält, der das gescannte Objekt benutzt hat. Wenn zum Beispiel jemand eine Luftschleuse ohne Karte geöffnet hat, würde die Anwendung "Unknown" (Unbekannt) als Namen anzeigen.
 
   <Box>
     <GuideEntityEmbed Entity="LockerDetective"/>
@@ -33,25 +33,25 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   ## Wie erhalte ich die DNA einer Person?
 
-  Ihr könnt **Blutlachen, Erbrochenes, Gläser, Flaschen, Dosen und andere Flüssigkeitsbehälter** mit dem [color=#a4885c]Forensik-Scanner (forensic scanner)[/color] scannen, um die DNA jeder Person zu erhalten.
+  Ihr könnt Blutlachen, Erbrochenes, Gläser, Flaschen, Dosen und andere Flüssigkeitsbehälter mit dem [color=#a4885c]Forensik-Scanner (forensic scanner)[/color] scannen, um die DNA jeder Person zu erhalten.
   <Box>
     <GuideEntityEmbed Entity="ForensicScanner"/>
   </Box>
   Seid also vorsichtig, bevor ihr mit jemandem kämpft.
 
-  Derselbe **Forensik-Scanner** kann auch **Fingerabdruckinformationen** darüber erhalten, wer so ziemlich jeden Gegenstand berührt hat. Wenn der mögliche Täter **Handschuhe** trug, druckt euer Scanner aus, welche Fasern am Tatort zurückgelassen wurden.
+  Derselbe Forensik-Scanner kann auch Fingerabdruckinformationen darüber erhalten, wer so ziemlich jeden Gegenstand berührt hat. Wenn der mögliche Täter Handschuhe trug, druckt euer Scanner aus, welche Fasern am Tatort zurückgelassen wurden.
 
   ## Ich habe DNA. Wie erkenne ich, wessen sie ist?
 
   Ihr könnt die forensischen Informationen des gescannten Objekts ausdrucken, damit ihr sie nicht verpasst. Mit dem Papier, das die DNA enthält, könnt ihr einfach einen [color=#a4885c]Stationsregister-Computer (Station Records Computer)[/color] finden und nach einer Person suchen, deren DNA übereinstimmt. Dasselbe gilt für die Suche nach dem Fingerabdruck.
 
   ## Fingerabdrücke nehmen (Taking Fingerprints)
-  Es ist auch möglich, die **Fingerabdrücke** einer Person vor Ort zu nehmen, indem ihr sie dazu bringt, ihre Handschuhe auszuziehen und ein **Forensik-Pad (forensic pad)** auf ihre Finger anzuwenden. Ihr müsst nicht zum [color=#a4885c]Stationsregister-Computer[/color] zurücklaufen, um zu überprüfen, ob es der Butler war!
+  Es ist auch möglich, die Fingerabdrücke einer Person vor Ort zu nehmen, indem ihr sie dazu bringt, ihre Handschuhe auszuziehen und ein Forensik-Pad (forensic pad) auf ihre Finger anzuwenden. Ihr müsst nicht zum [color=#a4885c]Stationsregister-Computer[/color] zurücklaufen, um zu überprüfen, ob es der Butler war!
 
   <GuideEntityEmbed Entity="ForensicPad"/>
 
   ## Fasern (Fibers)
-  Immer wenn Personen, die Handschuhe tragen, irgendetwas auf der Station berühren, hinterlassen sie mit ziemlicher Sicherheit einige **Fasern**. Das macht die Sache komplizierter, aber für einen echten Detektiv ist nichts unlösbar.
+  Immer wenn Personen, die Handschuhe tragen, irgendetwas auf der Station berühren, hinterlassen sie mit ziemlicher Sicherheit einige Fasern. Das macht die Sache komplizierter, aber für einen echten Detektiv ist nichts unlösbar.
 
   Es sind bis zu [color=red]26[/color] verschiedene Arten von Fasern möglich. Kann euch das davon abhalten, den Fall zu lösen?
 

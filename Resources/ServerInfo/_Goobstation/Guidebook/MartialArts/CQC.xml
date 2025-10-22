@@ -6,17 +6,17 @@
     <GuideEntityEmbed Entity="CQCManual" Caption=""/>
   </Box>
 
-  **Nahkampf (Close Quarters Combat)**, oder einfach **CQC**, ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, euer Ziel schnell und effizient
+  Nahkampf (Close Quarters Combat), oder einfach CQC, ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, euer Ziel schnell und effizient
   auszuschalten, mit einfachen, aber mächtigen Kombos, denen die ausgefalleneren Bewegungen anderer Kampfkünste fehlen.
-  CQC ist primär ein aggressiver Kampfstil, der darauf abzielt, **Ausdauerschaden (Stamina damage)** an Zielen zu verursachen – konzipiert, um Gegner schnell zu überwältigen
-  und sie mit Drucktechniken und vernichtenden Schlägen zu dominieren. Diese Kunst erfordert gründliche Kenntnis der **Absichten (Intents)**.
+  CQC ist primär ein aggressiver Kampfstil, der darauf abzielt, Ausdauerschaden (Stamina damage) an Zielen zu verursachen – konzipiert, um Gegner schnell zu überwältigen
+  und sie mit Drucktechniken und vernichtenden Schlägen zu dominieren. Diese Kunst erfordert gründliche Kenntnis der Absichten (Intents).
 
-  Sie wird normalerweise von Syndikats-Antagonisten verwendet, jedoch erhalten auch **Köche (Chefs)** Zugang dazu. Im Fall der Köche steht CQC offensichtlich
-  für **Close Quarters Cooking** (Nahkampf-Kochen), und da Köche außerhalb der Küche nicht kochen, können sie CQC fernab davon nicht anwenden.
+  Sie wird normalerweise von Syndikats-Antagonisten verwendet, jedoch erhalten auch Köche (Chefs) Zugang dazu. Im Fall der Köche steht CQC offensichtlich
+  für Close Quarters Cooking (Nahkampf-Kochen), und da Köche außerhalb der Küche nicht kochen, können sie CQC fernab davon nicht anwenden.
 
   ## Spezialfähigkeiten (Special abilities)
 
-  CQC-Anwender sind besser in der **Entwaffnen-Absicht (Disarm intent)**, da ihre **Schubser (shoves)** dem Gegner zusätzlichen **Ausdauerschaden** zufügen.
+  CQC-Anwender sind besser in der Entwaffnen-Absicht (Disarm intent), da ihre Schubser (shoves) dem Gegner zusätzlichen Ausdauerschaden zufügen.
 
   ### Riposte
 
@@ -25,7 +25,7 @@
 
   ### Genickbruch (Neck Snap)
 
-  Es gibt kein Entkommen aus einem **Würgegriff (choke grab)** eines CQC-Meisters. Mit einer einzigen **Schaden-Aktion (Harm action)** auf den Kopf bricht das Genick des Opfers,
+  Es gibt kein Entkommen aus einem Würgegriff (choke grab) eines CQC-Meisters. Mit einer einzigen Schaden-Aktion (Harm action) auf den Kopf bricht das Genick des Opfers,
   was zu seinem sofortigen Tod führt. Keine Rüstung kann vor dieser tödlichen Präzision schützen. Das Ende kommt schnell und ohne Gnade.
 
   ## Kombo-Angriffe (Combo attacks)
@@ -37,7 +37,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Schlägt den Gegner zu Boden (**knock down**), während **stumpfer Schaden (Blunt damage)** verursacht wird. Funktioniert nur bei stehenden Gegnern.
+  Schlägt den Gegner zu Boden (knock down), während stumpfer Schaden (Blunt damage) verursacht wird. Funktioniert nur bei stehenden Gegnern.
 
   ### Tritt (Kick)
 
@@ -46,7 +46,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Stößt den Gegner weg und verursacht sowohl **stumpfen Schaden (Blunt)** als auch **Ausdauerschaden (Stamina damage)**. Wenn der Gegner keine Ausdauer mehr hat, wird er in Schlaf versetzt.
+  Stößt den Gegner weg und verursacht sowohl stumpfen Schaden (Blunt) als auch Ausdauerschaden (Stamina damage). Wenn der Gegner keine Ausdauer mehr hat, wird er in Schlaf versetzt.
 
   ### Fesseln (Restrain)
 
@@ -55,7 +55,7 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Fixiert den Gegner in einer **fesselnden Position**, wirft ihn zu Boden (**knocking them down**), während **Ausdauerschaden** verursacht wird.
+  Fixiert den Gegner in einer fesselnden Position, wirft ihn zu Boden (knocking them down), während Ausdauerschaden verursacht wird.
 
   ### Druck (Pressure)
 
@@ -64,7 +64,7 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Verursacht **Ausdauerschaden** und stiehlt den Gegenstand, den der Gegner gerade in seiner aktiven Hand hält.
+  Verursacht Ausdauerschaden und stiehlt den Gegenstand, den der Gegner gerade in seiner aktiven Hand hält.
 
   ### Folge (Consecutive)
 
@@ -74,7 +74,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Verursacht viel **Ausdauerschaden** und etwas **stumpfen Schaden** beim Gegner.
+  Verursacht viel Ausdauerschaden und etwas stumpfen Schaden beim Gegner.
 
   ### Beinfeger (Leg Sweep)
 
@@ -82,6 +82,6 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Kann nur im Liegen (**prone**) ausgeführt werden. Wirft den Gegner zu Boden (**knocks the opponent down**) und zwingt den Anwender zurück auf die Füße, selbst wenn er manuell kriecht.
+  Kann nur im Liegen (prone) ausgeführt werden. Wirft den Gegner zu Boden (knocks the opponent down) und zwingt den Anwender zurück auf die Füße, selbst wenn er manuell kriecht.
 
 </Document>

@@ -7,22 +7,22 @@
   </Box>
 
   Capoeira, der Tanz des Krieges des Syndikats, der seinen Ursprung in Brasilien hat, ist eine [textlink="Kampfkunst" link="MartialArts"], die Gewalt als Schönheit tarnt.
-  Schnelle Angriffe gehen in fließende Kombos über, wobei jeder Zug schneller und härter ist als der vorherige, angetrieben von unaufhaltsamem **Schwung (Momentum)**.
+  Schnelle Angriffe gehen in fließende Kombos über, wobei jeder Zug schneller und härter ist als der vorherige, angetrieben von unaufhaltsamem Schwung (Momentum).
 
   ## Spezialfähigkeiten (Special abilities)
 
-  Capoeira-Anwender sind besser im **Griff-Modus (Grab intent)**, da das erfolgreiche Greifen eines Gegners ihnen einen kurzen Geschwindigkeitsschub gewährt.
+  Capoeira-Anwender sind besser im Griff-Modus (Grab intent), da das erfolgreiche Greifen eines Gegners ihnen einen kurzen Geschwindigkeitsschub gewährt.
 
   ### Capoeira-Haltung (Capoeira Stance)
 
-  Ihr hört nie auf, euch zu bewegen, während ihr die **Ginga** ausführt. Das macht euch sehr mobil im Kampf.
+  Ihr hört nie auf, euch zu bewegen, während ihr die Ginga ausführt. Das macht euch sehr mobil im Kampf.
 
   Durch schnelle Bewegung kanalisieren Capoeira-Meister Geschwindigkeit in Energie, wobei Kombos umso tödlicher sind, je schneller sie laufen.
-  Stoppt ihren Fluss, und ihre Kraft wird schwinden. Ihre Kombos, angetrieben durch Bewegung, versagen, wenn sie **am Boden liegen (prone)**.
+  Stoppt ihren Fluss, und ihre Kraft wird schwinden. Ihre Kombos, angetrieben durch Bewegung, versagen, wenn sie am Boden liegen (prone).
 
   ### Capoeira-Schwung (Capoeira Momentum)
 
-  Durch die fließende, unaufhaltsame Bewegung der Capoeira stellt jede erfolgreiche Kombo die **Ausdauer (Stamina)** des Anwenders wieder her.
+  Durch die fließende, unaufhaltsame Bewegung der Capoeira stellt jede erfolgreiche Kombo die Ausdauer (Stamina) des Anwenders wieder her.
   Jeder Treffer füllt ihre Ausdauer auf und erlaubt es ihnen, länger, schneller und härter ohne Pause zu kämpfen.
 
   ### Capoeira-Tempo (Capoeira Tempo)
@@ -73,7 +73,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Verursacht viel stumpfen Schaden und wirft den Gegner zu Boden. Lässt den Anwender auch einen **Flip** machen. Funktioniert nur bei stehenden Gegnern.
+  Verursacht viel stumpfen Schaden und wirft den Gegner zu Boden. Lässt den Anwender auch einen Flip machen. Funktioniert nur bei stehenden Gegnern.
   Kann nicht ausgeführt werden, wenn sich der Anwender zu langsam bewegt.
 
   ### Hochtritt (Kick Up)
@@ -83,6 +83,6 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Muss auf den Anwender selbst gerichtet werden. Kann im Liegen (prone) ausgeführt werden. Entfernt den Status-Effekt **Zu Boden geworfen** (Knock Down) und zwingt den Anwender, sofort aufzustehen.
+  Muss auf den Anwender selbst gerichtet werden. Kann im Liegen (prone) ausgeführt werden. Entfernt den Status-Effekt Zu Boden geworfen (Knock Down) und zwingt den Anwender, sofort aufzustehen.
 
 </Document>

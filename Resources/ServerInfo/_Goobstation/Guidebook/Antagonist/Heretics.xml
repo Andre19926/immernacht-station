@@ -12,28 +12,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   # Der Schleier des Mansus schwindet (The Mansus Veil Weakens)
   Ihr seid also ein Häretiker? Nun, macht euch bereit für Magie und Kampf. Erlangt Einflüsse, vollführt Opferungen, führt Rituale durch und steigt zur Göttlichkeit auf.
 
-  Euer ultimatives Ziel ist es, aufzusteigen und allmächtig zu werden, aber dazu müsst ihr **Wissen** erlangen.
-  Alle Wissenspunkte kosten 1 Punkt, mit Ausnahme der „öffentlichen“ Punkte, die von jedem Pfad aus zugänglich sind, oder der **Aufstiege (Ascensions)**.
+  Euer ultimatives Ziel ist es, aufzusteigen und allmächtig zu werden, aber dazu müsst ihr Wissen erlangen.
+  Alle Wissenspunkte kosten 1 Punkt, mit Ausnahme der „öffentlichen“ Punkte, die von jedem Pfad aus zugänglich sind, oder der Aufstiege (Ascensions).
 
   Ihr könnt Wissenspunkte auf verschiedene Arten erlangen und stärker werden:
-  - Indem ihr **Einflüsse (Influences)** **abzapft (Draining)**, die zufällig auf der Station spawnen.
+  - Indem ihr Einflüsse (Influences) abzapft (Draining), die zufällig auf der Station spawnen.
   - Indem ihr Crewmitglieder opfert, nach denen eure dunklen Gönner hungern.
   - Indem ihr alle 20 Minuten automatisch einen Wissenspunkt erhaltet.
 
   ## Der Kaplan (The Chaplain)
-  Wahrlich ein mächtiger Feind. Versucht, dem **Kaplan** fernzubleiben, da seine **Null-Rute** und ihre Varianten euch **Heiligenschaden (Holy Damage)** zufügen, während ihr häretische Ausrüstung tragt!
+  Wahrlich ein mächtiger Feind. Versucht, dem Kaplan fernzubleiben, da seine Null-Rute und ihre Varianten euch Heiligenschaden (Holy Damage) zufügen, während ihr häretische Ausrüstung tragt!
 
   Häretiker können Heiligenschaden auf verschiedene Weise heilen:
-  - Indem sie auf einer **Transmutationsrune** stehen.
-  - Indem sie aus dem **Eldritch Flask** trinken.
+  - Indem sie auf einer Transmutationsrune stehen.
+  - Indem sie aus dem Eldritch Flask trinken.
 
   ## Eldritch-Einflüsse (Eldritch Influences)
   <Box>
     <GuideEntityEmbed Entity="EldritchInfluence" Caption=""/>
   </Box>
-  **Einflüsse** sind der einfache Weg, um Machtpunkte zu gewinnen. Immer wenn Häretiker an Bord der **Immernacht Station** sind, werden zufällig Einflüsse auf der Station spawnen.
+  Einflüsse sind der einfache Weg, um Machtpunkte zu gewinnen. Immer wenn Häretiker an Bord der Immernacht Station sind, werden zufällig Einflüsse auf der Station spawnen.
   Sie sind für das bloße Auge eines Crewmitglieds nicht sichtbar, werden aber nach der Ernte [bold]sichtbar[/bold], abgesehen von einer plötzlichen Farbänderung.
-  Tipp: Wenn ihr **Codex Cicatrix** auf einen Einfluss anwendet, werdet ihr ihn schneller ernten und die doppelte Menge an Wissenspunkten daraus erhalten, aber es wird ein verräterischer Hinweis für jeden in der Nähe sein, dass ihr ein Häretiker seid.
+  Tipp: Wenn ihr Codex Cicatrix auf einen Einfluss anwendet, werdet ihr ihn schneller ernten und die doppelte Menge an Wissenspunkten daraus erhalten, aber es wird ein verräterischer Hinweis für jeden in der Nähe sein, dass ihr ein Häretiker seid.
   <Box>
     <GuideEntityEmbed Entity="EldritchInfluenceSpent" Caption="Geernteter Einfluss. Beachtet das Leuchten."/>
   </Box>
@@ -42,41 +42,41 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   ## Opferungen (Sacrifices)
   Jetzt ist es Zeit für euch, Mut zu zeigen und mit dem Opfern von Crewmitgliedern für Punkte zu beginnen.
-  Der Mansus verlangt zu jedem Zeitpunkt nur eine ausgewählte Gruppe von **Heiden (Heathens)** (Nicht-Häretikern).
+  Der Mansus verlangt zu jedem Zeitpunkt nur eine ausgewählte Gruppe von Heiden (Heathens) (Nicht-Häretikern).
 
   Zu Beginn der Runde werden euch vier bis fünf Opferziele zugewiesen.
 
-  - Ein Ziel wird ein **Abteilungsleiter (Head of Staff)** sein.
-  - Ein Ziel wird ein **Mitglied der Sicherheit** sein.
-  - Andere Ziele werden völlig **zufällige Crewmitglieder** sein.
+  - Ein Ziel wird ein Abteilungsleiter (Head of Staff) sein.
+  - Ein Ziel wird ein Mitglied der Sicherheit sein.
+  - Andere Ziele werden völlig zufällige Crewmitglieder sein.
 
   Das Opfern eines Abteilungsleiters oder eines Sicherheitsmitglieds belohnt euch mit 3 Wissenspunkten, das Opfern jedes anderen Crewmitglieds belohnt mit 2. Ihr könnt keine regulären, nicht als Ziel markierten Crewmitglieder opfern.
 
   Folgt eurem [color=red]Living Heart[/color] zu eurem Ziel der Wahl und setzt es mit allen notwendigen Mitteln außer Gefecht. Wenn euer Ziel in kritischem Zustand oder tot ist, ist es bereit für die Opferung.
-  Zieht es über eine **Transmutationsrune** und ruft den [color=yellow]Heartbeat of the Mansus[/color] an, um es zu opfern.
+  Zieht es über eine Transmutationsrune und ruft den [color=yellow]Heartbeat of the Mansus[/color] an, um es zu opfern.
 
   Ihr könnt eure Ziele neu auswürfeln, indem ihr das Ritual [color=yellow]Relentless Heartbeat[/color] aufruft.
 
   ## Häretische Forschung (Heretical Research)
   Sobald ihr einige Machtpunkte habt, ist es Zeit zu forschen! Öffnet euren Wissensspeicher über den Aktionsbutton.
-  Das Forschungsmenü bildet einen verzweigten Baum, und eure erste Auswahl wird sein, euch einem **Pfad (path)** zu verschreiben, der eure anfänglichen Fähigkeiten und euren **Endgültigen Aufstieg (Final Ascension)** definiert.
+  Das Forschungsmenü bildet einen verzweigten Baum, und eure erste Auswahl wird sein, euch einem Pfad (path) zu verschreiben, der eure anfänglichen Fähigkeiten und euren Endgültigen Aufstieg (Final Ascension) definiert.
   Ihr könnt Fähigkeiten von anderen Pfaden in begrenztem Umfang erwerben, aber insgesamt wird euer gewählter Pfad euren Spielstil stark beeinflussen.
 
   ## Transmutation ist der Schlüssel (Transmutation is Key)
-  Irgendwann müsst ihr beginnen, echte Magie zu verwenden. Um eine **Transmutationsrune** zu zeichnen, benötigt ihr ein Schreibwerkzeug, wie einen Stift oder Buntstift.
+  Irgendwann müsst ihr beginnen, echte Magie zu verwenden. Um eine Transmutationsrune zu zeichnen, benötigt ihr ein Schreibwerkzeug, wie einen Stift oder Buntstift.
   Aktiviert [color=green]Mansus Grasp[/color] in eurer freien Hand und klickt auf den Boden, um mit dem Zeichnen einer Rune zu beginnen.
   Diese Runen sind sehr auffällig und nehmen eine Fläche von 3x3 Feldern ein.
   Ihr könnt Runen frei entfernen, indem ihr euren Stift mit dem aktivierten [color=green]Mansus Grasp[/color] darauf verwendet, und ihr könnt auch frei die Runen anderer Häretiker nutzen.
 
   Um zu [bold]transmutieren[/bold], klickt einfach mit eurer leeren Hand auf die Rune, um das benötigte Ritual auszuwählen. Danach verwendet ihr euer [color=green]Mansus Grasp[/color] auf der Rune, um zu sehen, welche Objekte ihr für das Ritual benötigt.
-  Ihr könnt euer gewähltes Ritual jederzeit sehen, indem ihr die Rune **inspiziert**.
+  Ihr könnt euer gewähltes Ritual jederzeit sehen, indem ihr die Rune inspiziert.
 
   Transmutationsrituale ermöglichen es euch, mächtige Artefakte, dämonische Monster und viele nützliche Werkzeuge zu erschaffen, die euch auf dem Weg zur ultimativen Macht helfen werden.
 
   ## Fokus ist notwendig (Focus is Necessary)
   Um fortgeschrittenere Zauber zu wirken, müsst ihr euch konzentrieren, indem ihr einen [color=orange]Amber Focus[/color] tragt.
-  Ihr könnt den **Amber Focus** durch das gleichnamige Ritual erwerben.
-  Einige mächtigere häretische Ausrüstungsgegenstände fungieren ebenfalls als Fokus – nämlich die Ominous Armor vom **Armorer's Ritual** (wenn die Kapuze hochgezogen ist).
+  Ihr könnt den Amber Focus durch das gleichnamige Ritual erwerben.
+  Einige mächtigere häretische Ausrüstungsgegenstände fungieren ebenfalls als Fokus – nämlich die Ominous Armor vom Armorer's Ritual (wenn die Kapuze hochgezogen ist).
   [color=yellow]Ascension[/color] deaktiviert die Notwendigkeit eines Fokus.
 
   ## Startwissen (Starting Knowledge)
@@ -85,19 +85,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - \[ [color=red]Amber Focus[/color] \] – Erlaubt euch, eine Glasscheibe und ein Paar Augen in einen Amber Focus zu transmutieren. Dies ist ein kleines, um den Hals getragenes Item, das es euch ermöglicht, fortgeschrittene Zauber zu wirken, während es getragen wird.
   - \[ [color=red]Living Heart[/color] \] – Erlaubt euch, eure Ziele genau zu lokalisieren. Spielt einen hörbaren Herzschlag-Sound ab, also verwendet es vorsichtig.
   - \[ [color=red]Relentless Heartbeat[/color] \] – Erlaubt euch, ein Herz, einen Stift und Papier zu transmutieren, um eure Zielauswahl neu auszuwürfeln, falls euch die Leichen ausgegangen sind oder ihr einen anderen Ansatz wünscht.
-  - \[ [color=red]Codex Cicatrix[/color] \] – Erlaubt euch, ein Buch, einen beliebigen Stift und ein beliebiges Stück Fleisch oder ein nicht-siliziumbasiertes Organ zu transmutieren, um einen Codex Cicatrix zu erstellen. Der **Codex Cicatrix** kann beim Abzapfen von Einflüssen verwendet werden, um zusätzliches Wissen zu erlangen, birgt jedoch ein größeres Risiko, bemerkt zu werden. Er kann auch verwendet werden, um Transmutationsrunen einfacher zu zeichnen und zu entfernen, und in der Not als Zauberfokus dienen.
+  - \[ [color=red]Codex Cicatrix[/color] \] – Erlaubt euch, ein Buch, einen beliebigen Stift und ein beliebiges Stück Fleisch oder ein nicht-siliziumbasiertes Organ zu transmutieren, um einen Codex Cicatrix zu erstellen. Der Codex Cicatrix kann beim Abzapfen von Einflüssen verwendet werden, um zusätzliches Wissen zu erlangen, birgt jedoch ein größeres Risiko, bemerkt zu werden. Er kann auch verwendet werden, um Transmutationsrunen einfacher zu zeichnen und zu entfernen, und in der Not als Zauberfokus dienen.
   - \[ [color=red]Cloak of Shadow[/color] \] – Ein Zauber, der eure Identität in offensichtlichem lila Rauch verbirgt, euch schneller bewegen, aber langsamer interagieren lässt. Erfordert einen Fokus zum Wirken.
   - \[ [color=red]Feast of Owls[/color] \] – Erlaubt euch, ein Ritual durchzuführen, das euch 5 Wissenspunkte gewährt, euch aber vom Aufstieg ausschließt. Eine kleine Opferung, um schnell Macht zu erlangen. Es gibt keine Rückerstattungen.
-  - \[ [color=red]Reminiscence[/color] \] – Häretische Klingen sind begrenzt. Ihr könnt je nach Pfad nur 2-4 Klingen durch das Klingen-Erstellungsritual der Stufe 2 erstellen. Das **Reminiscence**-Ritual erlaubt es euch, einen Stuhl zu transmutieren, um eure verlorene Klinge, die ihr zuvor erstellt habt, zur Transmutationsrune zurückzurufen.
+  - \[ [color=red]Reminiscence[/color] \] – Häretische Klingen sind begrenzt. Ihr könnt je nach Pfad nur 2-4 Klingen durch das Klingen-Erstellungsritual der Stufe 2 erstellen. Das Reminiscence-Ritual erlaubt es euch, einen Stuhl zu transmutieren, um eure verlorene Klinge, die ihr zuvor erstellt habt, zur Transmutationsrune zurückzurufen.
 
   ## Tipps
   - Auf dem Ashen-Pfad solltet ihr immer einen Feuerlöscher oder eine Flasche Wasser bei euch tragen! Obwohl ihr Feuerbälle speien könnt, seid ihr nicht immun gegen sie, bis ihr aufsteigt!
   - Als [color=purple]Raw Prophet[/color] ist eure Fähigkeit [color=green]Mansus Link[/color] extrem nützlich für die Kommunikation. Wenn ihr sie auf jemanden anwendet, erhält dieser einen Funkkanal, ähnlich wie Formwandler mit der Taste :z, um privat zu sprechen.
-  - Euer **Mansus Grasp** wird die Sprache der Personen, auf die ihr es anwendet, vorübergehend unverständlich machen. Das kann euch helfen, mit einem Mord davonzukommen, während die Kommunikationssysteme online sind, aber seid vorsichtig – es ist nicht narrensicher.
+  - Euer Mansus Grasp wird die Sprache der Personen, auf die ihr es anwendet, vorübergehend unverständlich machen. Das kann euch helfen, mit einem Mord davonzukommen, während die Kommunikationssysteme online sind, aber seid vorsichtig – es ist nicht narrensicher.
   - [color=purple]Einflüsse (Influences)[/color] können fast überall auf der Station spawnen, von den Hauptkorridoren und öffentlichen Toiletten bis hin zu [color=cyan]Kommandobüros[/color] und [color=red]abgeschlossenen Sicherheitsbereichen[/color] in der Arrestzelle. Es ist am besten, jeden Bereich, den ihr betreten könnt, zu überprüfen, sowohl öffentliche als auch Abteilungsbereiche.
   - Affen und andere Tiere eignen sich hervorragend als, meist unverdächtige, Quellen für Organe oder Leichen für eure häretischen Rituale.
   - Die meisten beschworenen Ghoule lassen die zur ihrer Erschaffung verwendeten Komponenten beim Tod fallen. Obwohl es nicht ideal ist, wenn sie sterben, könnt ihr die Teile leicht einsammeln und einen neuen beschwören.
   - [color=yellow]Eldritch Flask[/color], ein Wissen des Nebenpfades der Stufe 3, verhält sich wie ein Kryostase-Becher und hat eine Gesamtkapazität von 100 Einheiten, was bedeutet, dass ihr tödliche Mischungen erstellen könnt, die leicht ausgelöst werden.
-  - **Verrostete Kacheln (Rusted tiles)** verursachen Erbrechen und andere negative Effekte bei Organischen, die darauf stehen, und fügen Silizium-Wesen massiven Schaden zu. Es wird dringend davon abgeraten, sich vom Rost fernzuhalten, wenn ihr kein Häretiker, Ghul oder beschworenes Wesen seid. Andererseits könnt ihr als Häretiker den Rost immer zu eurem Vorteil nutzen, egal welchen Pfad ihr wählt.
-  - [color=yellow]Eldritch Essence[/color], enthalten im **Eldritch Flask**, ist in der Lage, Kacheln bei Bespritzen zu verrosten. Im Gegensatz dazu beseitigt [color=yellow]Space Cola[/color] die Verrostung von Kacheln, was für die Crew beim Kampf gegen Häretiker des Rusted Path nützlich ist.
+  - Verrostete Kacheln (Rusted tiles) verursachen Erbrechen und andere negative Effekte bei Organischen, die darauf stehen, und fügen Silizium-Wesen massiven Schaden zu. Es wird dringend davon abgeraten, sich vom Rost fernzuhalten, wenn ihr kein Häretiker, Ghul oder beschworenes Wesen seid. Andererseits könnt ihr als Häretiker den Rost immer zu eurem Vorteil nutzen, egal welchen Pfad ihr wählt.
+  - [color=yellow]Eldritch Essence[/color], enthalten im Eldritch Flask, ist in der Lage, Kacheln bei Bespritzen zu verrosten. Im Gegensatz dazu beseitigt [color=yellow]Space Cola[/color] die Verrostung von Kacheln, was für die Crew beim Kampf gegen Häretiker des Rusted Path nützlich ist.
 </Document>

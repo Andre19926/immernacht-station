@@ -18,7 +18,7 @@
 <GuideEntityEmbed Entity="MobXenomorphLarva" Caption=""/>
 </Box>
 
-  Auch bekannt als **Chestburster** (Brustbrecher), werden [color=#E97451]Larven[/color] gewaltsam aus den Körpern derer geboren, die Facehuggern zum Opfer fallen.
+  Auch bekannt als Chestburster (Brustbrecher), werden [color=#E97451]Larven[/color] gewaltsam aus den Körpern derer geboren, die Facehuggern zum Opfer fallen.
   Wenn eine Larve geboren wird, übernimmt ein zufälliger Geist-Spieler die Kontrolle darüber, schließt sich den Xenomorphen an und erweitert ihre wachsende Armee.
 
   [color=#E97451]Larven[/color] sind relativ hilflos und haben keine wirkliche offensive Fähigkeit; stattdessen müssen sie lange genug am Leben bleiben, um zu einem ausgewachsenen Xenomorph heranzuwachsen.
@@ -35,7 +35,7 @@
 
   Das offensive Rückgrat der Xenos, [color=#9F2B68]Jäger[/color], bewegen sich mit rasender Geschwindigkeit und können ihre unglücklichen Gegner für schnelle Betäubungen zu Boden reißen.
   Jäger sind typischerweise damit beauftragt, neue Beute zu sichern, indem sie mit Facehuggern in der Hand durch die Lüftungsschächte der Station kriechen und nach einzelnen Crewmitgliedern suchen, auf die sie sie werfen können.
-  Sie sind aufgrund ihrer Geschwindigkeit auch die beste Klasse, um neue Außenposten zu gründen und **Plasma-Unkraut (plasma weeds)** zu verbreiten.
+  Sie sind aufgrund ihrer Geschwindigkeit auch die beste Klasse, um neue Außenposten zu gründen und Plasma-Unkraut (plasma weeds) zu verbreiten.
 
 <Box>
 <GuideEntityEmbed Entity="MobXenomorphSentinel" Caption=""/>
@@ -50,14 +50,14 @@
 
   Eine wichtige Art von Xenomorph, die nur der Königin nachsteht: [color=#871F78]Drohnen[/color] sind die Baumeister der Xenomorphen.
   Sie können Harzwände (resin walls) errichten, um Wege zu blockieren, Harznester (resin nests), um Beute gesichert zu halten, und andere derartige Strukturen.
-  Drohnen sind auch der einzige ausgewachsene Xenomorph, der sich weiterentwickeln kann, nämlich zu einem **Prätorianer (Praetorian)**.
+  Drohnen sind auch der einzige ausgewachsene Xenomorph, der sich weiterentwickeln kann, nämlich zu einem Prätorianer (Praetorian).
 
 <Box>
 <GuideEntityEmbed Entity="MobXenomorphPraetorian" Caption=""/>
 </Box>
 
   [color=#871F78]Prätorianer[/color] teilen viele der gleichen Fähigkeiten wie Königinnen, ohne die Fähigkeit, Eier zu legen.
-  Wenn keine auf der Station existiert, können sich Prätorianer selbst zu **Königinnen** entwickeln.
+  Wenn keine auf der Station existiert, können sich Prätorianer selbst zu Königinnen entwickeln.
   Jede Xenomorph-Kolonie hat nur eine Königin, und jede ist eine massive Zerstörungsmaschine, obwohl ihre wahre Kraft in der Fähigkeit liegt, Eier zu legen. Ein Nest ohne Königin ist gelähmt, und eine Kolonie ohne Königinnen, Prätorianer oder Drohnen ist praktisch kastriert.
   Sowohl Prätorianer als auch Königinnen sind auch unglaublich langsam und die einzigen Aliens, die nicht durch Lüftungsschächte kriechen können.
 

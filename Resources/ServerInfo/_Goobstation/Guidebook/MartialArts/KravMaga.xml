@@ -6,14 +6,14 @@
     <GuideEntityEmbed Entity="ClothingHandsGlovesKravMaga" Caption=""/>
   </Box>
 
-  **Krav Maga** ist eine **Selbstverteidigungs-Kampfkunst** [textlink="martial art" link="MartialArts"], die vor sechs Jahrhunderten von alten Militärs auf der Terra entwickelt wurde.
+  Krav Maga ist eine Selbstverteidigungs-Kampfkunst [textlink="martial art" link="MartialArts"], die vor sechs Jahrhunderten von alten Militärs auf der Terra entwickelt wurde.
   Sie kann durch jahrelanges Training erlernt oder einem Benutzer durch fortschrittliche Nanomaschinen in Handschuhen verliehen werden.
-  Auf der Station ist ein einzelnes Paar **Krav Maga Handschuhe** im Spind des **Wärters (Warden)** zu finden. Syndikats-Antagonisten können ein **Krav Maga Implantat** für den gleichen Effekt verwenden.
+  Auf der Station ist ein einzelnes Paar Krav Maga Handschuhe im Spind des Wärters (Warden) zu finden. Syndikats-Antagonisten können ein Krav Maga Implantat für den gleichen Effekt verwenden.
 
   ## Aktionskampf (Action Combat)
 
-  Krav Maga-Angriffe sind nicht wie die Kombos der meisten Kampfkünste. Der Benutzer muss stattdessen den Angriff, den er verwenden möchte, in der **Aktionsleiste** bereitlegen (**ready**),
-  und ihn dann durch eine **Schaden-Aktion (Harm action)** am Gegner wie gewohnt ausführen.
+  Krav Maga-Angriffe sind nicht wie die Kombos der meisten Kampfkünste. Der Benutzer muss stattdessen den Angriff, den er verwenden möchte, in der Aktionsleiste bereitlegen (ready),
+  und ihn dann durch eine Schaden-Aktion (Harm action) am Gegner wie gewohnt ausführen.
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
@@ -25,7 +25,7 @@
     <GuideEntityEmbed Entity="ActionLegSweep" Caption=""/>
   </Box>
 
-  Fegt die Beine unter dem Gegner weg, um ihn zu Boden zu werfen (**knock them down**).
+  Fegt die Beine unter dem Gegner weg, um ihn zu Boden zu werfen (knock them down).
 
   ### Nackenschlag (Neck Chop)
 
@@ -33,7 +33,7 @@
     <GuideEntityEmbed Entity="ActionNeckChop" Caption=""/>
   </Box>
 
-  Ein harter Schlag mit der Seite der Hand des Benutzers deaktiviert vorübergehend die **Sprechfähigkeit** des Gegners.
+  Ein harter Schlag mit der Seite der Hand des Benutzers deaktiviert vorübergehend die Sprechfähigkeit des Gegners.
 
   ### Lungenschlag (Lung Punch)
 
@@ -41,6 +41,6 @@
     <GuideEntityEmbed Entity="ActionLungPunch" Caption=""/>
   </Box>
 
-  Verursacht **Ausdauerschaden (Stamina damage)** und deaktiviert vorübergehend die **Atemfähigkeit** des Gegners.
+  Verursacht Ausdauerschaden (Stamina damage) und deaktiviert vorübergehend die Atemfähigkeit des Gegners.
 
 </Document>

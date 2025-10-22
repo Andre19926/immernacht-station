@@ -14,7 +14,6 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <!-- Rules directly linked to prototype\rules.yml - edit both to change names of files/textlinking or add additional rules-->
 
 <Document>
-```
 # Immernacht Station Regeln
 
 - Space Station 14 ist nicht wie die meisten Spiele. Viele Regeln sind darauf ausgelegt, Rollenspiel zu erfordern, und nicht alle Regeln sind intuitiv. Bitte nimm dir die Zeit, die Regeln zu lesen und zu verstehen, bevor du spielst, damit du nicht überrascht wirst. Einige unserer Regeln sind Null-Toleranz-Regeln, was bedeutet, dass ein Verstoß zu einem unbefristeten Bann ohne Vorwarnung führt. Spiel-Admins werden dich so behandeln, als ob du die Regeln gelesen hättest, selbst wenn du das nicht getan hast.
@@ -71,5 +70,4 @@ Du bist nur ein Silicon, wenn das Spiel dir klar und deutlich sagt, dass du ein 
 - [textlink="10. Du kannst selbst bestimmen, wie du Konflikte zwischen Befehlen löst" link="RuleS10"]
 
 Indem du diese Regeln akzeptierst, stimmst du zu, dass der Server dich an andere Server in unserem Netzwerk weiterleiten (redialing) kann.
-```
 </Document>

@@ -1,7 +1,7 @@
 <Document>
 <GuideEntityEmbed Entity="RoboticArm" Caption="The factory must grow."/>
 
-Auf **Immernacht** können viele Maschinen und Prozesse automatisiert werden.
+Auf Immernacht können viele Maschinen und Prozesse automatisiert werden.
 
 Der erste Schritt ist, dass die Wissenschaft [bold]Industrielles Ingenieurwesen (Industrial Engineering)[/bold] freischaltet, was alles Notwendige freigibt.
 
@@ -42,7 +42,7 @@ Ein großer Gitter-Inventar-Speicher, auf den Roboterarme standardmäßig zugrei
 
 Er hat einen Filterschlitz, um zu steuern, welche Gegenstände eingefügt werden können, ähnlich einer Förderband-Whitelist.
 
-Eine gute Verwendung dafür ist das Stapeln von Gegenständen und deren anschließende Extraktion in Blöcken mit einem **Stapel-Filter-Roboterarm**.
+Eine gute Verwendung dafür ist das Stapeln von Gegenständen und deren anschließende Extraktion in Blöcken mit einem Stapel-Filter-Roboterarm.
 
 ## Interaktor (Interactor)
 
@@ -57,11 +57,11 @@ Ein Filterschlitz wird verwendet, um zu ändern, mit welchen Entitäten er inter
 Ohne Filter sucht er nach [bold]jeder Entität[/bold], sogar nach Dingen wie Förderbändern oder Pfützen! Verwendet Filter.
 
 Er hat 4 Signalanschlüsse:
-- **Start**: Wird verwendet, um zu versuchen, mit etwas zu interagieren
-- **Auto Start**: Wenn aktiviert, versucht er nach einer erfolgreichen Interaktion automatisch, erneut zu interagieren
-- **Started**: Wird ausgelöst, wenn die Interaktion eine **Doafter**-Aktion startet
-- **Completed**: Wird bei erfolgreicher Interaktion ODER wenn die **Doafter**-Aktion endet, ausgelöst
-- **Failed**: Wird ausgelöst, wenn er mit nichts interagieren konnte
+- Start: Wird verwendet, um zu versuchen, mit etwas zu interagieren
+- Auto Start: Wenn aktiviert, versucht er nach einer erfolgreichen Interaktion automatisch, erneut zu interagieren
+- Started: Wird ausgelöst, wenn die Interaktion eine Doafter-Aktion startet
+- Completed: Wird bei erfolgreicher Interaktion ODER wenn die Doafter-Aktion endet, ausgelöst
+- Failed: Wird ausgelöst, wenn er mit nichts interagieren konnte
 
 ## Konstruktor (Constructor)
 
@@ -73,7 +73,7 @@ Sowohl Bau-Geister (Construction ghosts) als auch erstellte Gegenstände werden 
 
 Eingabegegenstände werden sowohl vom Boden in der Nähe als auch aus seinem internen Speicher entnommen, der auch als Lagerbehälter dient.
 
-Er verfügt über die gleichen Anschlüsse wie ein **Interaktor**.
+Er verfügt über die gleichen Anschlüsse wie ein Interaktor.
 
 ## Filter (Filters)
 
@@ -83,19 +83,19 @@ Stellt sie manuell im [bold]G-Menü[/bold] her und klickt sie in Maschinen, um s
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterName"/>
-Der **Namen-Filter** sucht auf bestimmte Weise nach dem Namen eines Gegenstands.
+Der Namen-Filter sucht auf bestimmte Weise nach dem Namen eines Gegenstands.
 Wenn ihr ihn zum Beispiel so einstellt, dass er prüft, ob ein Gegenstand "sheet" [italic]enthält[/italic], stimmt er mit Steel Sheets, Glass Sheets usw. überein.
 </Box>
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterLabel"/>
-Der **Etiketten-Filter** erfordert, dass Gegenstände ein exakt übereinstimmendes Etikett haben.
+Der Etiketten-Filter erfordert, dass Gegenstände ein exakt übereinstimmendes Etikett haben.
 Verwendet einen Handetikettierer auf Gegenständen, damit sie aufgenommen werden.
 </Box>
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterStack"/>
-Der **Stapel-Filter** steuert, wie er mit Stapeln interagiert.
+Der Stapel-Filter steuert, wie er mit Stapeln interagiert.
 Die minimale Stapelgröße ist ein einfaches Minimum. Wenn ein Gegenstand nicht so viel in einem Stapel hat, wird er nicht verwendet.
 Die Blockgröße für die Ausgabe (Out chunk size) begrenzt, wie viel von einem Stapel entnommen werden kann. Es wird nur ein ganzes Vielfaches dieser Größe entnommen.
 [italic]Zum Beispiel entnimmt eine Blockgröße von 5 bei Stapeln von 6, 10, 14 und 15 jeweils 5, 10, 10 und 15.[/italic]
@@ -103,7 +103,7 @@ Die Blockgröße für die Ausgabe (Out chunk size) begrenzt, wie viel von einem 
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterCombined"/>
-Der **Kombinierte Filter** speichert 2 Filter in sich und verwendet ein Logikgatter, um deren Funktion zu steuern.
+Der Kombinierte Filter speichert 2 Filter in sich und verwendet ein Logikgatter, um deren Funktion zu steuern.
 Standardmäßig erlaubt er jeden Gegenstand, der einen der beiden Filter passiert (ein ODER-Gatter).
 Er unterstützt alle gleichen Operationen wie Logikgatter-Gegenstände.
 Diese können für beliebig komplexe Filter verschachtelt werden!
@@ -111,10 +111,10 @@ Diese können für beliebig komplexe Filter verschachtelt werden!
 
 ## Transport (Transport)
 
-**Förderbänder** sind eine offensichtliche Möglichkeit, Gegenstände zu transportieren, da Maschinen von ihnen aufnehmen können.
+Förderbänder sind eine offensichtliche Möglichkeit, Gegenstände zu transportieren, da Maschinen von ihnen aufnehmen können.
 
-Für höhere Geschwindigkeit könnt ihr **automatisierte Entsorgungseinheiten (automated disposal units)** verwenden, um Gegenstände herumzuspülen.
+Für höhere Geschwindigkeit könnt ihr automatisierte Entsorgungseinheiten (automated disposal units) verwenden, um Gegenstände herumzuspülen.
 
-Für den Langstrecken-Weltraumtransport könnt ihr **Containment Field + Disposal Unit Kanonen** verwenden, um Gegenstände präzise abzufeuern.
+Für den Langstrecken-Weltraumtransport könnt ihr Containment Field + Disposal Unit Kanonen verwenden, um Gegenstände präzise abzufeuern.
 
 </Document>

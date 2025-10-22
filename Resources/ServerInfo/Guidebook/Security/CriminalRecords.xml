@@ -14,33 +14,33 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <GuideEntityEmbed Entity="ComputerCriminalRecords"/>
   </Box>
 
-  Jeder kann die Benutzeroberfläche (UI) der Konsole öffnen, aber nur Personen mit **Sicherheitszugang** können etwas ändern.
+  Jeder kann die Benutzeroberfläche (UI) der Konsole öffnen, aber nur Personen mit Sicherheitszugang können etwas ändern.
 
   Die Benutzeroberfläche besteht aus folgenden Elementen:
-  - Einer **Suchleiste**, neben der sich ein Filter befindet, mit dem ihr die Crewmitglieder nach ihrem Namen, ihren Fingerabdrücken oder ihrer DNA filtern könnt.
+  - Einer Suchleiste, neben der sich ein Filter befindet, mit dem ihr die Crewmitglieder nach ihrem Namen, ihren Fingerabdrücken oder ihrer DNA filtern könnt.
 
-  - Einer **Liste aller Crewmitglieder** im Manifest. Wenn ihr einen der Einträge auswählt, werden die Strafregister des Crewmitglieds angezeigt. Die Liste wird durch die Suchleiste gefiltert, also stellt sicher, dass sie leer ist, wenn ihr einen Gesamtüberblick wünscht!
+  - Einer Liste aller Crewmitglieder im Manifest. Wenn ihr einen der Einträge auswählt, werden die Strafregister des Crewmitglieds angezeigt. Die Liste wird durch die Suchleiste gefiltert, also stellt sicher, dass sie leer ist, wenn ihr einen Gesamtüberblick wünscht!
 
-  - Den **Strafregistern** selbst
+  - Den Strafregistern selbst
 
-  - Die **Filter-Schaltfläche** unter der Crew-Liste kann verwendet werden, um nur **gesuchte (wanted), inhaftierte (detained)** oder **auf Bewährung entlassene (paroled)** Crewmitglieder anzuzeigen.
+  - Die Filter-Schaltfläche unter der Crew-Liste kann verwendet werden, um nur gesuchte (wanted), inhaftierte (detained) oder auf Bewährung entlassene (paroled) Crewmitglieder anzuzeigen.
   Im Abschnitt „Register“ könnt ihr:
     - Sicherheitsrelevante Informationen über ein Crewmitglied sehen, wie dessen Namen, Fingerabdrücke und DNA.
 
-    - Den **Sicherheitsstatus** zwischen [color=gray]Kein (None)[/color], [color=yellow]Gesucht (Wanted)[/color] und [color=red]Inhaftiert (Detained)[/color] ändern. Wenn ihr ihn auf **Gesucht** setzt, werdet ihr aufgefordert, einen Grund anzugeben.
+    - Den Sicherheitsstatus zwischen [color=gray]Kein (None)[/color], [color=yellow]Gesucht (Wanted)[/color] und [color=red]Inhaftiert (Detained)[/color] ändern. Wenn ihr ihn auf Gesucht setzt, werdet ihr aufgefordert, einen Grund anzugeben.
 
     - Wenn die Person gesucht wird, könnt ihr den angegebenen Grund unter dem Status-Dropdown sehen.
 
     - Sobald jemand festgenommen wurde, aktualisiert seinen Status auf der Konsole, damit jeder weiß, dass er nicht mehr gefangen genommen werden muss.
 
-    - Nachdem die Person ihre Strafe verbüßt hat, lasst sie frei und aktualisiert ihren Status auf **Kein**, damit niemand denkt, sie sei ein entflohener Sträfling.
+    - Nachdem die Person ihre Strafe verbüßt hat, lasst sie frei und aktualisiert ihren Status auf Kein, damit niemand denkt, sie sei ein entflohener Sträfling.
 
-    - Das Fenster **Verbrechenshistorie (Crime History)** öffnen, um diese zu überprüfen oder zu ändern.
+    - Das Fenster Verbrechenshistorie (Crime History) öffnen, um diese zu überprüfen oder zu ändern.
 
-  Das Fenster **Verbrechenshistorie** listet die Verbrechen einer Person auf und kann auf verschiedene Weise geändert werden:
-    - **Automatisch**, indem ihr einfach den Status einer Person auf **festgenommen (arrested)** setzt. Der Grund wird zu "ARRESTED:" hinzugefügt, sodass die automatisierten Einträge leicht zu erkennen sind.
+  Das Fenster Verbrechenshistorie listet die Verbrechen einer Person auf und kann auf verschiedene Weise geändert werden:
+    - Automatisch, indem ihr einfach den Status einer Person auf festgenommen (arrested) setzt. Der Grund wird zu "ARRESTED:" hinzugefügt, sodass die automatisierten Einträge leicht zu erkennen sind.
 
-    - Eine **neue Zeile hinzufügen**, indem ihr auf "Add" klickt und etwas in das Eingabefeld schreibt. Beim Hinzufügen eines Eintrags denkt daran, dessen Verbrechen und Strafe zu erwähnen, die Konsole fügt die Uhrzeit der Schicht automatisch ein, sodass ihr dies nicht tun müsst!
+    - Eine neue Zeile hinzufügen, indem ihr auf "Add" klickt und etwas in das Eingabefeld schreibt. Beim Hinzufügen eines Eintrags denkt daran, dessen Verbrechen und Strafe zu erwähnen, die Konsole fügt die Uhrzeit der Schicht automatisch ein, sodass ihr dies nicht tun müsst!
 
     - Eine Zeile unerwünschter Historie auswählen und auf "Delete" klicken, um sie zu entfernen. Ausgezeichnet, um Register frei von den gestohlenen ID-Mätzchen des Clowns zu halten.
 

@@ -2,7 +2,7 @@
 
   # Kampfkünste (Martial Arts)
 
-  **Kampfkünste** sind Kampfstile, die Charaktere im Spiel erlernen und anwenden können, und die ihnen spezielle Kampffähigkeiten verleihen,
+  Kampfkünste sind Kampfstile, die Charaktere im Spiel erlernen und anwenden können, und die ihnen spezielle Kampffähigkeiten verleihen,
   die normalerweise durch eine bestimmte Aktionskombination ausgeführt werden, aber auch passive Fähigkeiten oder aktionsbasiert sein können.
 
   Diese Fähigkeiten können von neuen Verteidigungsmaßnahmen wie dem Ablenken von Projektilen bis hin zu Kombo-Angriffen reichen,
@@ -16,8 +16,8 @@
 
   ## Absichten (Intents)
 
-  Wie bereits erwähnt, basieren die meisten Kampfkünste auf der Ausführung einer bestimmten **Aktionskombination (action combo)** am Gegner.
-  Es gibt im Wesentlichen 4 Arten von "Aktionen" im Spiel (die meisten Kampfkünste verwenden nur drei), die als **Absichten (Intents)** bezeichnet werden.
+  Wie bereits erwähnt, basieren die meisten Kampfkünste auf der Ausführung einer bestimmten Aktionskombination (action combo) am Gegner.
+  Es gibt im Wesentlichen 4 Arten von "Aktionen" im Spiel (die meisten Kampfkünste verwenden nur drei), die als Absichten (Intents) bezeichnet werden.
   Absichten sind ein Konzept aus Space Station 13, bei dem die Spieler anstelle von nur einem Kampfmodus
   4 Modi zur Auswahl der Art der Interaktion hatten.
   Space Station 14 hat nur einen Modus, den Kampfmodus, aber es verwendet andere Tasten, um dies zu kompensieren.
@@ -29,11 +29,11 @@
     <GuideEntityEmbed Entity="GuidebookHelp" Caption=""/>
   </Box>
 
-  Um Hilfe auszuführen, drückt einfach die [bold]Linke Maustaste[/bold] auf jemanden, während der [color=Red]Schaden-Modus (Harm Mode)[/color] **AUSGESCHALTET** ist.
+  Um Hilfe auszuführen, drückt einfach die [bold]Linke Maustaste[/bold] auf jemanden, während der [color=Red]Schaden-Modus (Harm Mode)[/color] AUSGESCHALTET ist.
 
   Normalerweise, wenn euer Ziel ein Humanoider ist und eure Hände frei sind, würdet ihr es umarmen. Wenn eure Hand belegt ist,
   würdet ihr mit dem gehaltenen Gegenstand mit dem Ziel interagieren. Dies kann im Kampf mit Gegenständen wie dem
-  **Mansus Grasp** des Häretikers nützlich sein, wird aber selten in Kampfkunst-Kombos verwendet, und wo es verwendet wird, zählen nur unbewaffnete Aktionen (Umarmungen).
+  Mansus Grasp des Häretikers nützlich sein, wird aber selten in Kampfkunst-Kombos verwendet, und wo es verwendet wird, zählen nur unbewaffnete Aktionen (Umarmungen).
 
   ### Schaden-Absicht (Harm intent)
 
@@ -41,11 +41,11 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Um Schaden auszuführen, drückt die [bold]Linke Maustaste[/bold], während der [color=Red]Schaden-Modus[/color] **EINGESCHALTET** ist.
+  Um Schaden auszuführen, drückt die [bold]Linke Maustaste[/bold], während der [color=Red]Schaden-Modus[/color] EINGESCHALTET ist.
 
   Normalerweise versucht ihr, an der Stelle eures Cursors zuzuschlagen, sei es mit bloßen Händen oder mit einem gehaltenen Gegenstand.
   Wenn ihr eine Waffe haltet, werdet ihr damit auf die Stelle eures Cursors schießen.
-  Das Angreifen mit einer Nahkampfwaffe oder das Schießen einer Waffe zählt für Kombinationszwecke nicht als erfolgreiche **Schaden-Aktion**.
+  Das Angreifen mit einer Nahkampfwaffe oder das Schießen einer Waffe zählt für Kombinationszwecke nicht als erfolgreiche Schaden-Aktion.
 
   ### Entwaffnen-Absicht (Disarm intent)
 
@@ -53,12 +53,12 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Um Entwaffnen auszuführen, drückt die [bold]Rechte Maustaste[/bold], während der [color=Red]Schaden-Modus[/color] **EINGESCHALTET** ist.
+  Um Entwaffnen auszuführen, drückt die [bold]Rechte Maustaste[/bold], während der [color=Red]Schaden-Modus[/color] EINGESCHALTET ist.
 
   Wenn ihr unbewaffnet seid, werdet ihr versuchen, an der Stelle eures Cursors zu schubsen. Schubsen stößt betroffene Charaktere,
   verursacht etwas [color=Cyan]Ausdauerschaden (Stamina damage)[/color] und hat eine Chance, dem Gegner einen Gegenstand aus den Händen zu schlagen.
   Wenn ihr mit einer Nahkampfwaffe bewaffnet seid, schwingt ihr diese, greift jeden an, den ihr trefft, und nehmt selbst etwas Ausdauerschaden.
-  Das Schwingen einer Waffe ist keine echte "Entwaffnung" und zählt für Kombinationszwecke nicht als erfolgreiche **Entwaffnen-Aktion**.
+  Das Schwingen einer Waffe ist keine echte "Entwaffnung" und zählt für Kombinationszwecke nicht als erfolgreiche Entwaffnen-Aktion.
 
   ### Greifen-Absicht (Grab intent)
 
@@ -66,17 +66,17 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Um Greifen auszuführen, drückt die [bold]Linke Maustaste[/bold] auf jemanden, während ihr [bold]STRG[/bold] haltet und der [color=Red]Schaden-Modus[/color] **EINGESCHALTET** ist.
+  Um Greifen auszuführen, drückt die [bold]Linke Maustaste[/bold] auf jemanden, während ihr [bold]STRG[/bold] haltet und der [color=Red]Schaden-Modus[/color] EINGESCHALTET ist.
 
   Wenn ihr eine freie Hand habt, beginnt ihr, das Ziel zu greifen. Wenn ihr es bereits gegriffen habt, wird der Griff verstärkt.
   Eure Chancen, dem Griff zu entkommen, hängen von eurem und dem Gewicht eures Gegners ab. Es gibt drei Stufen von Griffen:
 
-  **Sanfter Griff (Soft grab)** ist leicht zu entkommen und funktioniert größtenteils ähnlich wie das normale Ziehen.
+  Sanfter Griff (Soft grab) ist leicht zu entkommen und funktioniert größtenteils ähnlich wie das normale Ziehen.
 
-  **Fester Griff (Hard grab)** ist relativ schwer zu entkommen. Kampfkünstler greifen euch sofort fest, wenn ihr zu Boden geworfen werdet.
+  Fester Griff (Hard grab) ist relativ schwer zu entkommen. Kampfkünstler greifen euch sofort fest, wenn ihr zu Boden geworfen werdet.
   Ihr könnt jemanden, den ihr in einem festen Griff haltet, auf die gleiche Weise werfen, wie ihr einen normalen Gegenstand werft, was etwas Ausdauerschaden verursacht.
 
-  **Würgegriff (Choke harm)** nimmt beide eurer Hände (ihr könnt den Gegner immer noch mit dem Kopf schlagen), aber macht den Gegner stumm und ist sehr schwer zu entkommen.
-  Ihr könnt jemanden, den ihr in einem Würgegriff haltet, auf einen nahegelegenen Tisch schlagen (table-slam), indem ihr eine **Schaden-Absicht** auf einen Tisch in der Nähe ausführt.
+  Würgegriff (Choke harm) nimmt beide eurer Hände (ihr könnt den Gegner immer noch mit dem Kopf schlagen), aber macht den Gegner stumm und ist sehr schwer zu entkommen.
+  Ihr könnt jemanden, den ihr in einem Würgegriff haltet, auf einen nahegelegenen Tisch schlagen (table-slam), indem ihr eine Schaden-Absicht auf einen Tisch in der Nähe ausführt.
 
 </Document>

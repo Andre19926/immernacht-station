@@ -6,8 +6,8 @@
     <GuideEntityEmbed Entity="BSOManual" Caption=""/>
   </Box>
 
-  **Drachen Kung Fu** ist eine Shaolin [textlink="Kampfkunst" link="MartialArts"], die sich auf **Verteidigung und Kontrolle** konzentriert.
-  Flüssige Bewegungen und kraftvolle Schläge kommen mit Geduld und Widerstandsfähigkeit. Perfekt für **Bodyguards**, da es die Abwehr stärkt und präzise kontert.
+  Drachen Kung Fu ist eine Shaolin [textlink="Kampfkunst" link="MartialArts"], die sich auf Verteidigung und Kontrolle konzentriert.
+  Flüssige Bewegungen und kraftvolle Schläge kommen mit Geduld und Widerstandsfähigkeit. Perfekt für Bodyguards, da es die Abwehr stärkt und präzise kontert.
   Blueshield Officers (BSO) können das Handbuch dieser Kampfkunst in ihrer Waffenbox auswählen.
 
   ## Spezialfähigkeiten (Special abilities)
@@ -30,7 +30,7 @@
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Verursacht massiven **Ausdauerschaden (Stamina damage)** und verlangsamt den Gegner erheblich.
+  Verursacht massiven Ausdauerschaden (Stamina damage) und verlangsamt den Gegner erheblich.
 
   ### Drachenschwanz (Dragon Tail)
 
@@ -40,7 +40,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Verursacht **Stumpfen Schaden (Blunt)** und **Ausdauerschaden**. Wirft den Gegner zu Boden (**knocks the opponent down**), wenn er steht, und wendet andernfalls eine kurze Betäubung an.
+  Verursacht Stumpfen Schaden (Blunt) und Ausdauerschaden. Wirft den Gegner zu Boden (knocks the opponent down), wenn er steht, und wendet andernfalls eine kurze Betäubung an.
 
   ### Drachenschlag (Dragon Strike)
 
@@ -50,6 +50,6 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Verursacht 40 Schaden und betäubt für 2 Sekunden. Funktioniert nur bei **niedergeschlagenen (downed)** Gegnern.
+  Verursacht 40 Schaden und betäubt für 2 Sekunden. Funktioniert nur bei niedergeschlagenen (downed) Gegnern.
 
 </Document>
