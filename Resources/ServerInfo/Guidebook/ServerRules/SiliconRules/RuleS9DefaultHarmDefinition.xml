@@ -6,27 +6,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 9 - Harm refers to physical harm, prioritized by immediacy and likelihood
-  Unless a law defines harm, harm only refers to physical harm. You may choose if voluntary harm is considered harm as long as you stay consistent. Not considering voluntary harm to be harm is recommended. There is no distinction between direct and indirect harm.
+  # Silicon-Regel 9 - Schaden (Harm) bezieht sich auf physischen Schaden, priorisiert nach Unmittelbarkeit und Wahrscheinlichkeit
+  Sofern kein Gesetz Schaden definiert, bezieht sich Schaden nur auf physischen Schaden. Du kannst wählen, ob freiwilliger Schaden als Schaden betrachtet wird, solange du konsequent bleibst. Es wird empfohlen, freiwilligen Schaden nicht als Schaden zu betrachten. Es gibt keinen Unterschied zwischen direktem und indirektem Schaden.
 
-  If you have a law that does not allow you to harm, then that law does not allow you to take an action that causes any harm.
+  Wenn du ein Gesetz hast, das dir nicht erlaubt, Schaden zuzufügen, dann erlaubt dieses Gesetz dir nicht, eine Handlung durchzuführen, die irgendeinen Schaden verursacht.
 
-  If you have a law that requires you to prevent harm, then that law requires that harm be prioritized by immediacy and likelihood. Guaranteed immediate harm takes priority over highly likely future harm.
+  Wenn du ein Gesetz hast, das von dir verlangt, Schaden zu verhindern, dann erfordert dieses Gesetz, dass Schaden nach Unmittelbarkeit und Wahrscheinlichkeit priorisiert wird. Garantierter unmittelbarer Schaden hat Vorrang vor sehr wahrscheinlichem zukünftigen Schaden.
 
-  If you have a law that both requires you to prevent harm and that does not allow you to harm, then that law prohibits causing even minor harm to prevent harm. If you have a law that does not allow causing harm, and separate one that requires preventing harm, then they are prioritized by their normal law priority.
+  Wenn du ein Gesetz hast, das sowohl von dir verlangt, Schaden zu verhindern, als auch dir nicht erlaubt, Schaden zuzufügen, dann verbietet dieses Gesetz, auch nur geringfügigen Schaden zu verursachen, um Schaden zu verhindern. Wenn du ein Gesetz hast, das das Verursachen von Schaden nicht erlaubt, und ein separates, das das Verhindern von Schaden erfordert, dann werden sie nach ihrer normalen Gesetzespriorität priorisiert.
 
-  ## Examples
-  These examples assume that your have a law that both prohibits causing harm and that requires you to prevent harm. Additionally, they assume that you do not have a higher priority law that overrides the harm law, and that you have decided that you will not consider voluntary harm to be harm for the round.
-  Laws typically specify who you cannot harm and who you have to prevent harm against. In these examples, you are the only person who the law doesn't require you to prevent harm against and you are the only person who the law allows you to harm.
+  ## Beispiele
+  Diese Beispiele gehen davon aus, dass du ein Gesetz hast, das sowohl das Verursachen von Schaden verbietet als auch das Verhindern von Schaden erfordert. Zusätzlich gehen sie davon aus, dass du kein Gesetz mit höherer Priorität hast, das das Schadensgesetz außer Kraft setzt, und dass du entschieden hast, freiwilligen Schaden für die Runde nicht als Schaden zu betrachten.
+  Gesetze legen normalerweise fest, wem du keinen Schaden zufügen darfst und wen du vor Schaden schützen musst. In diesen Beispielen bist du die einzige Person, bei der das Gesetz nicht verlangt, dass du Schaden verhinderst, und du bist die einzige Person, der das Gesetz erlaubt, Schaden zuzufügen.
 
-  Acceptable:
-  - Taking no action to aid someone who is in psychological distress.
-  - Taking no action to prevent boxing matches between voluntary participants.
-  - Calling security to a fight.
-  - Attempting to get the people in a fight to consent to the fight when you realize that you cannot prevent the fight without causing harm.
-  - Denying a passenger access to the armory because it is likely to lead to harm
+  Akzeptabel:
+  - Keine Maßnahmen zu ergreifen, um jemandem zu helfen, der unter psychischem Stress steht.
+  - Keine Maßnahmen zu ergreifen, um Boxkämpfe zwischen freiwilligen Teilnehmern zu verhindern.
+  - Die Sicherheit (Security) zu einem Kampf zu rufen.
+  - Zu versuchen, die Zustimmung der Personen in einem Kampf zu diesem Kampf zu erhalten, wenn du erkennst, dass du den Kampf nicht verhindern kannst, ohne Schaden zu verursachen.
+  - Einem Passagier den Zugang zur Waffenkammer (Armory) zu verweigern, da dies wahrscheinlich zu Schaden führen wird.
 
-  Prohibited:
-  - Hitting someone once to stop them from fighting
-  - Harming someone who is trying to kill you
+  Verboten:
+  - Jemanden einmal zu schlagen, um ihn vom Kämpfen abzuhalten.
+  - Jemanden zu verletzen, der versucht, dich zu töten.
 </Document>

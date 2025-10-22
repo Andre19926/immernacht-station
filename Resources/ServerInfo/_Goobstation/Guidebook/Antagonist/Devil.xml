@@ -1,126 +1,126 @@
 <Document>
-  # Devil
+  # Teufel (Devil)
 
-  [color=#ac3a0d]A devilish trickster with a silver tongue making deals around the station.[/color]
+  [color=#ac3a0d]Ein teuflischer Trickser mit einer silbernen Zunge, der Deals auf der Station macht.[/color]
 
-  A devil is an entity originating from some ungodly dimension far, far away from our own.
-  <Box>
-    <GuideEntityEmbed Entity="PaperDevilContract" Caption="Contract"/>
-    <GuideEntityEmbed Entity="ClothingUniformJumpsuitDevil" Caption="Devilish Attire"/>
-  </Box>
+  Ein Teufel ist eine Entität, die aus einer unheiligen Dimension weit, weit entfernt von unserer eigenen stammt.
+  <Box>
+    <GuideEntityEmbed Entity="PaperDevilContract" Caption="Vertrag"/>
+    <GuideEntityEmbed Entity="ClothingUniformJumpsuitDevil" Caption="Teuflische Kleidung"/>
+  </Box>
 
-  Unlike most depictions in media, a devil isn't easy to find at a glance. There's no fire and brimstone, no pitchfork and screaming. The easiest way to tell is that red glow in their eyes, and sometimes the horns or tail.
-  [bold] Not everyone with a tail or horns is a devil, that's just specist! [/bold]
+  Anders als die meisten Darstellungen in den Medien ist ein Teufel auf den ersten Blick nicht leicht zu erkennen. Es gibt weder Feuer und Schwefel, noch eine Mistgabel und Geschrei. Der einfachste Weg, ihn zu erkennen, ist das rote Leuchten in seinen Augen und manchmal die Hörner oder der Schwanz.
+  [bold]Nicht jeder mit einem Schwanz oder Hörnern ist ein Teufel, das ist nur Speziesismus![/bold]
 
-  Despite their usually not-so-good intentions, a Devil is still considered crew!
-  As a Devil, [color=red][bold] you should not interfere with station affairs unless you are directly asked, or you can make a deal out of it. [/bold][/color]
+  Trotz ihrer meist nicht so guten Absichten wird ein Teufel immer noch als Crewmitglied betrachtet!
+  Als Teufel [color=red][bold]solltet ihr euch nicht in die Angelegenheiten der Station einmischen, es sei denn, ihr werdet direkt dazu aufgefordert, oder ihr könnt einen Deal daraus machen.[/bold][/color]
 
-  Under normal circumstances, [color=red][bold] a crew member making a deal with the Devil should be considered a crime [/bold][/color]
+  Unter normalen Umständen [color=red][bold]sollte ein Crewmitglied, das einen Deal mit dem Teufel eingeht, als Verbrechen betrachtet werden.[/bold][/color]
 
-  ## Contracts
+  ## Verträge (Contracts)
 
-  The bread and butter of a devil is their [color=darkred]contracts[/color]. When signing a contract, various effects can be applied onto an entity.
+  Das A und O eines Teufels sind seine [color=darkred]Verträge[/color]. Beim Unterzeichnen eines Vertrags können verschiedene Effekte auf eine Entität angewendet werden.
 
-  Contracts are indestructible once signed, there's no going back once pen touches parchment.
+  Verträge sind nach der Unterzeichnung unzerstörbar, es gibt kein Zurück, sobald die Feder das Pergament berührt hat.
 
-  The particular effect of a contract changes depending on which [bold] clauses [/bold] are written on it.
-  Effects can be applied to the Contractor, the Devil, or the Contractee, the signer.
+  Der spezielle Effekt eines Vertrags ändert sich je nachdem, welche [bold]Klauseln[/bold] darauf geschrieben sind.
+  Effekte können auf den **Vertragspartner (Contractor)**, den Teufel, oder den **Vertragsnehmer (Contractee)**, den Unterzeichner, angewendet werden.
 
-  Prefixing a [bold]Clause[/bold] with either "Contractee:" or "Contractor:" will dictate who it applies to.
+  Das Voranstellen einer [bold]Klausel[/bold] mit entweder „Contractee:“ oder „Contractor:“ bestimmt, auf wen sie sich bezieht.
 
-  A [bold]Clause[/bold] is a concept or thing that one of the parties is giving up, either to the other party or destroying it entirely.
+  Eine [bold]Klausel[/bold] ist ein Konzept oder eine Sache, die eine der Parteien aufgibt, entweder an die andere Partei oder sie vollständig zerstört.
 
-  Example:
-    Contractee: Weakness
-    Contractee: Soul
+  Beispiel:
+    Contractee: Weakness (Schwäche)
+    Contractee: Soul (Seele)
 
-  In the above contract, the contractee is giving up their weakness and the rights to their soul.
-  Giving up your weakness will grant you massive resistance to all damage types, but giving up your soul could have unforeseen consequences.
+  In dem obigen Vertrag gibt der Vertragsnehmer seine Schwäche und die Rechte an seiner Seele auf.
+  Das Aufgeben der Schwäche gewährt massive Resistenz gegen alle Schadensarten, aber das Aufgeben der Seele könnte unvorhergesehene Konsequenzen haben.
 
-  ## Contract Weight
+  ## Vertragsgewicht (Contract Weight)
 
-  Every contract has a weight associated with it, which can be viewed by inspecting it.
-  Contracts with an uneven weight (below zero) cannot be signed.
+  Jeder Vertrag hat ein damit verbundenes Gewicht, das durch Inspizieren eingesehen werden kann.
+  Verträge mit einem ungeraden Gewicht (unter Null) können nicht unterzeichnet werden.
 
-  Each clause has its own weight value.
-  As a general rule of thumb, the better the clause is for the contractee the higher the weight will be.
+  Jede Klausel hat ihren eigenen Gewichtswert.
+  Als allgemeine Faustregel gilt: Je besser die Klausel für den Vertragsnehmer ist, desto höher ist das Gewicht.
 
-  This effectively means you have to balance good clauses with bad clauses.
-  [italic] It's important to note that there is no limit on how many bad clauses you can put on one contract, always read the fine-print! [/italic]
+  Das bedeutet effektiv, dass ihr gute Klauseln mit schlechten Klauseln ausbalancieren müsst.
+  [italic]Es ist wichtig zu beachten, dass es keine Begrenzung dafür gibt, wie viele schlechte Klauseln ihr in einen Vertrag einfügen könnt, lest immer das Kleingedruckte![/italic]
 
-  ## Selling your soul?
+  ## Eure Seele verkaufen?
 
-  Selling your soul is a fickle thing; and usually what most devils are after.
-  As a devil, your main objective is to collect as many souls as possible. The more souls you gain, the more powerful you become.
+  Die Seele zu verkaufen ist eine heikle Sache; und normalerweise das, wonach die meisten Teufel streben.
+  Als Teufel ist es euer Hauptziel, so viele Seelen wie möglich zu sammeln. Je mehr Seelen ihr gewinnt, desto mächtiger werdet ihr.
 
-  As a contractee, selling your soul has consequences.
-  - Without a soul, you will go [bold][color=red]STRAIGHT[/color][/bold] to hell on death. No more second chances.
-  - You cannot make any more deals after selling your soul.
-  - You will be marked as "Condemned", which could have other consequences.
+  Als Vertragsnehmer hat der Verkauf eurer Seele Konsequenzen.
+  - Ohne Seele geht ihr beim Tod [bold][color=red]DIREKT[/color][/bold] zur Hölle. Keine zweite Chance mehr.
+  - Ihr könnt nach dem Verkauf eurer Seele keine weiteren Deals mehr eingehen.
+  - Ihr werdet als „Verdammt“ („Condemned“) markiert, was andere Konsequenzen haben könnte.
 
-  A Devil may want to be wary of the stations security team after purchasing a soul, [bold] as it can be considered prevention of revival. [/bold]
+  Ein Teufel sollte sich vor dem Sicherheitsteam der Station in Acht nehmen, nachdem er eine Seele „gekauft“ hat, [bold] da dies als Verhinderung der Wiederbelebung angesehen werden kann. [/bold]
 
-  ## No such thing as no second chances.
+  ## Es gibt keine zweite Chance. (No such thing as no second chances.)
 
-  A devil can increase their overall power level by collecting enough souls during the duration of their stay on station.
-  Upon reaching the first level, they unlock the ability to create revival contracts.
+  Ein Teufel kann sein Gesamtmachtlevel erhöhen, indem er während seines Aufenthalts auf der Station genügend Seelen sammelt.
+  Beim Erreichen der ersten Stufe schalten sie die Fähigkeit frei, Wiederbelebungsverträge zu erstellen.
 
-  These contracts can be used on a corpse to offer that ghost a second chance at life.
-  When accepting, they will lose their soul in-exchange for a second chance at life.
+  Diese Verträge können an einer Leiche verwendet werden, um diesem Geist eine zweite Chance auf das Leben zu bieten.
+  Bei Annahme verlieren sie ihre Seele im Austausch für eine zweite Chance auf das Leben.
 
-  ## Possession?
+  ## Besessenheit (Possession)?
 
-  A devil unlocks the ability to possess targets at the second level.
-  Possession allows them to temporarily take over a targets body and do practically whatever they want.
+  Ein Teufel schaltet auf der zweiten Stufe die Fähigkeit frei, Ziele zu besitzen.
+  Besessenheit erlaubt es ihm, vorübergehend den Körper eines Ziels zu übernehmen und praktisch zu tun, was er will.
 
-  However, there are a few things they [italic] cannot [/italic] do:
-  - Harm themselves or others.
-  - Perform actions related to their implants or clothing.
+  Es gibt jedoch ein paar Dinge, die er [italic]nicht[/italic] tun kann:
+  - Sich selbst oder anderen Schaden zufügen.
+  - Aktionen im Zusammenhang mit ihren Implantaten oder ihrer Kleidung durchführen.
 
-  You may only possess targets that are vulnerable to it, such as people who have sold their soul.
+  Ihr dürft nur Ziele besitzen, die dafür anfällig sind, wie zum Beispiel Personen, die ihre Seele verkauft haben.
 
-  ## Won't you shake a poor sinners hand?
+  ## Wollt ihr einem armen Sünder nicht die Hand schütteln?
 
-  As depicted in many different forms of media, a good old-fashioned handshake is practically unbeatable.
-  Shaking hands with a devil will provide you with a quick and easy reward: Full health, and a second life.
+  Wie in vielen verschiedenen Formen der Medien dargestellt, ist ein guter alter Händedruck praktisch unschlagbar.
+  Das Händeschütteln mit einem Teufel verschafft euch eine schnelle und einfache Belohnung: Volle Gesundheit und ein zweites Leben.
 
-  The cost? Well, let's just say it varies.
-  You'll lose your soul immediately, and also gain one random negative clause from the list of clauses.
+  Die Kosten? Nun, sagen wir einfach, sie variieren.
+  Ihr verliert sofort eure Seele und erhaltet auch eine zufällige negative Klausel aus der Liste der Klauseln.
 
-  ## Dealing with the devil.
+  ## Mit dem Teufel umgehen.
 
-  Sometimes, in pursuit of finishing their end of a deal, a devil can become quite troublesome for the stations inhabitants.
-  Whether this be through it stealing items, or offering ungodly power to the stations enemies; it's clear to see why someone might want to get rid of one.
+  Manchmal kann ein Teufel, um seinen Teil eines Deals zu erfüllen, für die Bewohner der Station ziemlich lästig werden.
+  Ob dies nun dadurch geschieht, dass er Gegenstände stiehlt oder den Feinden der Station unheilige Macht anbietet; es ist klar, warum jemand ihn loswerden möchte.
 
-  Luckily for them, there's several ways to deal with a devil.
-  - Pronouncing the true name of a devil will stun them.
-  - A bible or holy water will burn a devil to the touch.
-  - Chaplains can utilize bibles to banish a devil.
+  Glücklicherweise gibt es mehrere Möglichkeiten, mit einem Teufel umzugehen.
+  - Das Aussprechen des wahren Namens eines Teufels wird ihn betäuben.
+  - Eine Bibel oder Weihwasser verbrennt einen Teufel bei Berührung.
+  - Kapläne können Bibeln verwenden, um einen Teufel zu verbannen.
 
-  As one would guess, a chaplain is more effective at facing a devil than most.
-  Chaplains cannot be tricked to give up their soul, as they already pledged it to whatever God(s) they believe in.
+  Wie man vermuten würde, ist ein Kaplan effektiver im Umgang mit einem Teufel als die meisten anderen.
+  Kapläne können nicht dazu verleitet werden, ihre Seele aufzugeben, da sie diese bereits dem Gott/den Göttern geweiht haben, an den/die sie glauben.
 
-  When a chaplain uses a bible on critical or otherwise incapacitated devil, they can temporarily banish them.
-  For the next couple of minutes or so, that devil will be unable to sustain a material form.
+  Wenn ein Kaplan eine Bibel auf einen kritischen oder anderweitig handlungsunfähigen Teufel anwendet, kann er ihn vorübergehend verbannen.
+  Für die nächsten paar Minuten oder so wird dieser Teufel nicht in der Lage sein, eine materielle Form aufrechtzuerhalten.
 
-  [bold]When a chaplain speaks a devils true name, it will harm them [color=red]significantly![/bold][/color]
+  [bold]Wenn ein Kaplan den wahren Namen eines Teufels ausspricht, wird es ihm [color=red]erheblich[/color] schaden![/bold]
 
-  ## True or fake name?
+  ## Wahrer oder falscher Name?
 
-  When a devil arrives at a station they take the form of a random crew member.
-  Whether they are possessed, shape-shifted, or perhaps just a coincidental twin, they'll replace someone on station.
+  Wenn ein Teufel auf einer Station ankommt, nimmt er die Form eines zufälligen Crewmitglieds an.
+  Ob sie besessen, gestaltgewandelt oder vielleicht nur ein zufälliger Zwilling sind, sie ersetzen jemanden auf der Station.
 
-  What's important is that devil's [bold]cannot replace command staff or security members. [/bold]
+  Wichtig ist, dass Teufel [bold]keine Kommandmitglieder oder Sicherheitsmitglieder ersetzen können.[/bold]
 
-  In all manners but one, a devil will appear with their false name.
-  The only way to view a devils true name is to read a contract they have signed, or ask them directly.
+  In jeder Hinsicht, bis auf eine, erscheint ein Teufel mit seinem falschen Namen.
+  Die einzige Möglichkeit, den wahren Namen eines Teufels zu sehen, besteht darin, einen von ihm unterzeichneten Vertrag zu lesen oder ihn direkt zu fragen.
 
-  ## Trickery goes both ways!
+  ## List funktioniert in beide Richtungen!
 
-  The contractee is not the only person that can be tricked.
-  Contract weight is applied [bold] no matter who the effect applies to [/bold]
+  Der Vertragsnehmer ist nicht die einzige Person, die getäuscht werden kann.
+  Das Vertragsgewicht wird angewendet, [bold]egal auf wen sich der Effekt bezieht.[/bold]
 
-  This means if you can trick a devil to sign a paper negatively affecting them, you can get some positive clauses for free!
+  Das bedeutet, wenn ihr einen Teufel dazu bringen könnt, ein Papier zu unterschreiben, das sich negativ auf ihn auswirkt, könnt ihr einige positive Klauseln kostenlos erhalten!
 
-  [textlink="Learn more about each clause." link="DevilClauses"]
+  [textlink="Erfahrt mehr über jede Klausel." link="DevilClauses"]
 </Document>

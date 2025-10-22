@@ -6,19 +6,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Ban Durations
+  # Bann-Dauer
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Gegen Banns kann unter discord.gg/XNtp65CKvY im Bereich für Bann-Einsprüche (Ban Appeals) Einspruch eingelegt werden.
 
-  ## Temporary
-  Temporary bans will be lifted automatically after a certain amount of time. If they are a game ban, they will tell you how much time is remaining when you try to connect.
+  ## Temporär
+  Temporäre Banns werden nach einer bestimmten Zeit automatisch aufgehoben. Wenn es sich um einen Spiel-Bann (Game Ban) handelt, wird dir beim Verbindungsversuch mitgeteilt, wie viel Zeit noch verbleibt.
 
-  ## Indefinite
-  These bans will only be removed on a successful appeal on the forums. Any ban which doesn't tell you when it expires and doesn't specify otherwise can be presumed to be an indefinite ban.
+  ## Unbefristet
+  Diese Banns werden nur nach einem erfolgreichen Einspruch im Discord aufgehoben. Jeder Bann, der dir kein Ablaufdatum nennt und nichts anderes angibt, kann als unbefristeter Bann angesehen werden.
 
-  ## Voucher
-  This is an indefinite ban which may only be appealed both with a successful appeal and which require a voucher of good behavior from the administrative team of a well-known or at least decently active SS13/SS14 server in order for the appeal to be considered. Voucher bans typically cannot be appealed for at least six months after being issued. Without a voucher, a player can only attempt to appeal a voucher ban once, and only if the ban was inappropriately placed. Voucher bans are typically only placed as a result of an unsuccessful appeal of an indefinite game ban by players with a history of bans and of causing issues.
+  ## Voucher (Bürgschaft)
+  Dies ist ein unbefristeter Bann, gegen den nur mit einem erfolgreichen Einspruch Einspruch eingelegt werden kann, und der zusätzlich eine Bürgschaft (Voucher) für gutes Verhalten vom Administrationsteam eines bekannten oder zumindest einigermaßen aktiven SS13/SS14-Servers erfordert, damit der Einspruch berücksichtigt wird. Gegen Voucher-Banns kann in der Regel frühestens sechs Monate nach ihrer Verhängung Einspruch eingelegt werden. Ohne eine Bürgschaft kann ein Spieler nur einmal versuchen, gegen einen Voucher-Bann Einspruch einzulegen, und nur, wenn der Bann unangemessen verhängt wurde. Voucher-Banns werden typischerweise nur als Ergebnis eines erfolglosen Einspruchs gegen einen unbefristeten Spiel-Bann von Spielern verhängt, die eine Vorgeschichte von Banns und dem Verursachen von Problemen haben.
 
   ## Permanent
-  This is a ban that is only appealable if the ban was inappropriately placed, including if the ban should not have been permanent. If the result of the appeal is that the ban was appropriately placed, the ban may not be appealed again and will not be lifted. These bans are extremely rare, but are applied to players who continually cause problems even after a voucher ban or users who have completely unacceptable behavior may be permanently removed.
+  Dies ist ein Bann, gegen den nur Einspruch eingelegt werden kann, wenn der Bann unangemessen verhängt wurde, einschließlich wenn der Bann nicht permanent hätte sein sollen. Wenn das Ergebnis des Einspruchs ist, dass der Bann angemessen verhängt wurde, kann gegen den Bann nicht erneut Einspruch eingelegt werden und er wird nicht aufgehoben. Diese Banns sind extrem selten, werden aber gegen Spieler verhängt, die auch nach einem Voucher-Bann weiterhin Probleme verursachen, oder Benutzer mit völlig inakzeptablem Verhalten können permanent entfernt werden.
 </Document>

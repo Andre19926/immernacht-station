@@ -9,42 +9,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
 # Autodoc Mk.XIV
 
-With designs rescued from the derelict KC13, this powerhouse of a mechanical surgeon can be programmed to do just about anything.
+Mit Designs, die aus dem verlassenen KC13 gerettet wurden, kann dieses Kraftpaket eines mechanischen Chirurgen so programmiert werden, dass es so ziemlich alles erledigt.
 
-WARNING: Operation of this device requires proper medical certification and adherence to established medical protocols.
+WARNUNG: Der Betrieb dieses Geräts erfordert eine ordnungsgemäße medizinische Zertifizierung und die Einhaltung festgelegter medizinischer Protokolle.
 
-To get started, use a multitool to link it to a nearby operating table, once it detects a patient sleeping on it, you are ready to operate!
+Um zu beginnen, verwendet ein **Multitool**, um es mit einem nahegelegenen **Operationstisch** zu verbinden. Sobald es einen darauf liegenden Patienten erkennt, seid ihr bereit für die Operation!
 
-Before operating put any items a program needs in its storage trays. The Autodoc cannot pick up items off your dirty, blood-stained floor.
+Legt vor der Operation alle Gegenstände, die ein Programm benötigt, in seine **Ablagefächer (storage trays)**. Der Autodoc kann keine Gegenstände von eurem schmutzigen, blutbefleckten Boden aufnehmen.
 
-# How I make it do the thing help
+# Wie ich es dazu bringe, die Sache zu tun, helft mir (How I make it do the thing help)
 
-An autodoc unit has a list of programs, which have steps that are completed in order until the program is complete.
+Eine **Autodoc-Einheit** verfügt über eine Liste von Programmen, die Schritte enthalten, die der Reihe nach abgeschlossen werden, bis das Programm vollständig ist.
 
-Should any issues arise during these steps, it will immediately abort the procedure, unless the program has safety disabled.
+Sollten während dieser Schritte Probleme auftreten, wird der Vorgang sofort abgebrochen, es sei denn, die **Sicherheit (safety)** des Programms ist deaktiviert.
 
-To get started, create a new program with a memorable name, such as "organ stealy". Hit "ADD STEP" to add different kinds of steps:
-- PERFORM SURGERY, the beast itself. Can target any bodypart and complete any surgery. It is up to the programmer to ensure that compatible surgeries are selected, it's a bad idea to install a brain in someones feet.
-  You do not need to add prerequesites like opening the ribcage, they are automatically done.
-- GRAB ITEM, this will look in its item trays for an item with that exact name and grab it for use in surgeries. Use a hand labeler to distinguish multiple of the same item.
-- GRAB ORGAN, this is a shorthand to grab any kind of organ.
-- GRAB PART, this is a shorthand to grab any kind of bodypart.
-- STORE ITEM, this puts the held item in the item trays (if they aren't full). You have to do this after removing an item from the patient, or future operations will get dropped on the floor!
-- SET LABEL, gives the held item a short label. Extremely useful for organ transplants, where specific a organ is needed.
-- WAIT, this just waits a length of time before continuing.
+Um zu beginnen, erstellt ein neues Programm mit einem einprägsamen Namen, wie zum Beispiel "organ stealy". Drückt **"ADD STEP"** (Schritt hinzufügen), um verschiedene Arten von Schritten hinzuzufügen:
+- **PERFORM SURGERY (Operation durchführen)**, das Biest selbst. Kann jedes Körperteil anvisieren und jede Operation abschließen. Es liegt am Programmierer sicherzustellen, dass kompatible Operationen ausgewählt werden – es ist eine schlechte Idee, jemandem ein Gehirn in die Füße zu implantieren.
+  Ihr müsst keine Voraussetzungen wie das Öffnen des Brustkorbs hinzufügen, diese werden automatisch erledigt.
+- **GRAB ITEM (Gegenstand greifen)**, sucht in seinen Ablagefächern nach einem Gegenstand mit genau diesem Namen und greift ihn zur Verwendung in Operationen. Verwendet einen **Handetikettierer (hand labeler)**, um mehrere gleiche Gegenstände zu unterscheiden.
+- **GRAB ORGAN (Organ greifen)**, dies ist eine Abkürzung, um jede Art von Organ zu greifen.
+- **GRAB PART (Teil greifen)**, dies ist eine Abkürzung, um jede Art von Körperteil zu greifen.
+- **STORE ITEM (Gegenstand lagern)**, legt den gehaltenen Gegenstand in die Ablagefächer (wenn diese nicht voll sind). Ihr müsst dies tun, nachdem ihr einen Gegenstand aus dem Patienten entfernt habt, da zukünftige Operationen sonst auf den Boden fallen!
+- **SET LABEL (Etikett setzen)**, gibt dem gehaltenen Gegenstand ein kurzes Etikett. Extrem nützlich für **Organtransplantationen**, bei denen ein spezifisches Organ benötigt wird.
+- **WAIT (Warten)**, wartet einfach eine Zeit lang, bevor es fortfährt.
 
-So what are you waiting for comrade? Commit war crimes today!
+Also, worauf wartet ihr noch, Genossen? Begeht noch heute Kriegsverbrechen!
 
-# Additional program usage
+# Zusätzliche Programmnutzung (Additional program usage)
 
-- Disabling a program's safety makes it skip failed steps instead of aborting the entire program.
-  Only do this if you know what you are doing!
-- Selecting a step lets you remove it or add a new step before it, instead of always inserting at the end.
+- Das **Deaktivieren der Sicherheit** eines Programms führt dazu, dass fehlerhafte Schritte übersprungen werden, anstatt das gesamte Programm abzubrechen.
+  Tut dies nur, wenn ihr wisst, was ihr tut!
+- Das **Auswählen eines Schritts** ermöglicht es euch, ihn zu entfernen oder einen neuen Schritt davor hinzuzufügen, anstatt ihn immer am Ende einzufügen.
 
-# Caveats
+# Vorbehalte (Caveats)
 
-- Do not under any circumstances snip the machines SAFETY wire, automated personnel medical license would be void.
-  Anesthesia is REQUIRED for safe operation and disabling the need for it is highly unethical to patients.
-- Amputating legs or arms will detach their feet and hands to the floor. Manual intervention will be required, so cut them off first if you need them.
-- If the storage trays are filled, storing items will be impossible and the device will essentially seize up.
+- Durchtrennt unter keinen Umständen das **SICHERHEITSkabel** der Maschine, da die medizinische Lizenz des automatisierten Personals ungültig würde.
+  **Anästhesie** ist für einen sicheren Betrieb **ERFORDERLICH**, und das Deaktivieren der Notwendigkeit ist Patienten gegenüber höchst unethisch.
+- Das **Amputieren** von Beinen oder Armen führt dazu, dass ihre Füße und Hände auf den Boden fallen. Manuelles Eingreifen ist erforderlich, also schneidet sie zuerst ab, wenn ihr sie benötigt.
+- Wenn die Ablagefächer gefüllt sind, ist das Lagern von Gegenständen unmöglich, und das Gerät wird im Wesentlichen **blockiert**.
 </Document>

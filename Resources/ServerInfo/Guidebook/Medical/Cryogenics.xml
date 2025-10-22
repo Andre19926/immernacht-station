@@ -12,58 +12,58 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Cryogenics
-Cryogenics can be a bit daunting to understand, but hopefully, quick run through of this diagram, you'll learn how to work it! So, let's go over what each part does:
+# Kryogenik (Cryogenics)
+Kryogenik (Cryogenics) kann etwas einschüchternd wirken, aber mit einer kurzen Durchsicht dieses Diagramms lernen Sie, wie es funktioniert! Schauen wir uns an, was die einzelnen Teile tun:
 
-- Air in: Air comes in here through the distro or an air tank, giving those inside something to breathe, and the freezer something to chill.
-- Gas pump: Limits the network pressure, so those in the tube aren't crushed.
-- Freezer: Chills the air, and by extension, patients in the tube, so Cryoxadone can activate.
-- Gas filters: Removes waste gas (Carbon Dioxide and Nitrous Oxide) from the loop.
-- Air out: Waste gasses go here, either into a storage tank, or into the waste network.
+- Lufteinlass (Air In): Hier kommt Luft aus dem Verteilungsnetz (Distro) oder einem Lufttank herein, um den Personen im Inneren Atemluft zu geben und den Gefrierschrank (Freezer) zu kühlen.
+- Gaspumpe (Gas Pump): Begrenzt den Netzwerkdruck, damit die Personen in der Röhre nicht zerquetscht werden.
+- Gefrierschrank (Freezer): Kühlt die Luft und damit die Patienten in der Röhre, damit Cryoxadon (Cryoxadone) aktiviert werden kann.
+- Gasfilter (Gas Filters): Entfernt Abfallgase (Kohlendioxid (Carbon Dioxide) und Lachgas (Nitrous Oxide)) aus dem Kreislauf.
+- Luftauslass (Air Out): Abfallgase werden hierher geleitet, entweder in einen Lagertank oder in das Abfallnetz (Waste Network).
 <Box>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
-<GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
-<GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
+<GuideEntityEmbed Entity="CryoPod" Caption="Kryoröhre (Cryo Pod)" Rotation="0"/>
+<GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0" Caption="Gefrierschrank (Freezer)"/>
 </Box>
 <Box>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="180"/>
-<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
-<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
+<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90" Caption="Gasfilter (Gas Filter)"/>
+<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90" Caption="Gasfilter (Gas Filter)"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="Luftauslass (Air Out)" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-<GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
-<GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="Lufteinlass (Air In)" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPressurePump" Rotation="90" Caption="Gaspumpe (Gas Pressure Pump)"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
 </Box>
 
-Not every network will look like this, but hopefully, it's enough to give you the basic gist of how it's functioning.
+Nicht jedes Netzwerk sieht genau so aus, aber dies sollte Ihnen einen grundlegenden Eindruck von der Funktionsweise vermitteln.
 
-An important thing to note, winter clothing (and hardsuits) will make cryogenic treatment less, or completely ineffective. Be sure to remove cold preventative clothing before placing people in the pod.
+Wichtig: Winterkleidung und Hartsuits (Hardsuits) machen die kryogene Behandlung weniger oder völlig ineffektiv. Entfernen Sie Kälteschutzkleidung, bevor Sie Personen in die Röhre legen.
 
-## Using the Pod
-  Once things have been set up, you're going to require cryogenic medications (all listed below). They each provide healing when a patient is chilled, and should be loaded into the pod directly with a beaker. Do note, patients won't begin to heal until they've chilled to the appropriate temperature, it may be worthwhile to wait a bit before placing a beaker inside.
+## Nutzung der Kryoröhre (Using the Pod)
+Nach der Einrichtung benötigen Sie kryogene Medikamente (unten aufgelistet). Diese fördern die Heilung, wenn der Patient gekühlt ist, und sollten direkt mit einem Becher in die Röhre geladen werden. Beachten Sie, dass die Heilung erst beginnt, wenn die richtige Temperatur erreicht ist. Es kann sinnvoll sein, etwas zu warten, bevor Sie einen Becher einsetzen.
 
-## Additional Information:
+## Zusätzliche Informationen (Additional Information):
 
-  The standard pressure for a gas pump is 100.325 kpa, and sometimes increased for faster results. A majority of cryogenics medicines work at under 213K (150K for Opporozidone), but it is standard practice to set the freezer to 100K for faster freezing.
+Der Standarddruck für eine Gaspumpe (Gas Pump) beträgt 100,325 kPa, manchmal erhöht für schnellere Ergebnisse. Die meisten kryogenen Medikamente wirken unter 213 K (150 K für Opporozidon (Opporozidone)), aber es ist üblich, den Gefrierschrank (Freezer) auf 100 K einzustellen, um schneller zu kühlen.
 
-  Cryo pods separate out each reagent from the beaker in the pod, injecting a small, steady amount of each into the patient.  This allows for medicine to be administered twice as efficiently than with injection or oral administration.
+Kryoröhren (Cryo Pods) trennen die Reagenzien aus dem Becher in der Röhre und injizieren kleine, stetige Mengen in den Patienten. Dies ermöglicht eine doppelt so effiziente Verabreichung von Medikamenten im Vergleich zu Injektionen oder oraler Einnahme.
 
-<GuideReagentEmbed Reagent="Aloxadone"/>
-<GuideReagentEmbed Reagent="Cryoxadone"/>
-<GuideReagentEmbed Reagent="Doxarubixadone"/>
-<GuideReagentEmbed Reagent="Dexalin"/>
-<GuideReagentEmbed Reagent="Leporazine"/>
-<GuideReagentEmbed Reagent="Necrosol"/>
-<GuideReagentEmbed Reagent="Opporozidone"/>
+<GuideReagentEmbed Reagent="Aloxadone" Caption="Aloxadon (Aloxadone)"/>
+<GuideReagentEmbed Reagent="Cryoxadone" Caption="Cryoxadon (Cryoxadone)"/>
+<GuideReagentEmbed Reagent="Doxarubixadone" Caption="Doxarubixadon (Doxarubixadone)"/>
+<GuideReagentEmbed Reagent="Dexalin" Caption="Dexalin"/>
+<GuideReagentEmbed Reagent="Leporazine" Caption="Leporazin (Leporazine)"/>
+<GuideReagentEmbed Reagent="Necrosol" Caption="Necrosol"/>
+<GuideReagentEmbed Reagent="Opporozidone" Caption="Opporozidon (Opporozidone)"/>
 
 </Document>

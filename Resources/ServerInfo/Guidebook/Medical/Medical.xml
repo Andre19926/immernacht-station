@@ -8,34 +8,35 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Medical
-This is the department where people go to when they're hurt, it's up to the folks working here to fix them.
+# Medizin (Medical)
+Dies ist die Abteilung, in die Personen gehen, wenn sie verletzt sind. Es liegt an den hier arbeitenden Mitarbeitern, sie zu heilen.
 
-## Personnel
-[color=#5b97bc]Medical[/color]'s staff is made up of Medical Interns, Medical Doctors, Paramedics and Chemists. [color=#5b97bc]Medical[/color] is run by the Chief Medical Officer.
+## Personal (Personnel)
+Das Personal der [color=#5b97bc]Medizin (Medical)[/color] besteht aus Medizinischen Praktikanten (Medical Interns), Medizinischen Doktoren (Medical Doctors), Sanitätern (Paramedics) und Chemikern (Chemists). Die [color=#5b97bc]Medizin (Medical)[/color] wird vom Obersten Medizinischen Offizier (Chief Medical Officer) geleitet.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doctor"/>
-    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Paramedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Chemist"/>
+    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doktor (Doctor)"/>
+    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Sanitäter (Paramedic)"/>
+    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Chemiker (Chemist)"/>
     <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="CMO"/>
   </Box>
-  
-Right now, medbay is divided into two different sets of care:
 
-## Medical Treatment
+Derzeit ist die Krankenstation (Medbay) in zwei Bereiche der Versorgung unterteilt:
+
+## Medizinische Behandlung (Medical Treatment)
   <Box>
-    <GuideEntityEmbed Entity="Brutepack"/>
-    <GuideEntityEmbed Entity="Bloodpack"/>
-    <GuideEntityEmbed Entity="Ointment"/>
-    <GuideEntityEmbed Entity="Gauze"/>
-    <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+    <GuideEntityEmbed Entity="Brutepack" Caption="Wuchtpflaster (Brutepack)"/>
+    <GuideEntityEmbed Entity="Bloodpack" Caption="Blutbeutel (Bloodpack)"/>
+    <GuideEntityEmbed Entity="Ointment" Caption="Salbe (Ointment)"/>
+    <GuideEntityEmbed Entity="Gauze" Caption="Gaze (Gauze)"/>
+    <GuideEntityEmbed Entity="HandheldHealthAnalyzer" Caption="Handgesundheitsanalysator (Handheld Health Analyzer)"/>
   </Box>
-## Chemical Production
+
+## Chemische Produktion (Chemical Production)
   <Box>
-    <GuideEntityEmbed Entity="ChemDispenser"/>
-    <GuideEntityEmbed Entity="LargeBeaker"/>
-    <GuideEntityEmbed Entity="PillCanister"/>
-    <GuideEntityEmbed Entity="ChemMaster"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="Chemischer Spender (ChemDispenser)"/>
+    <GuideEntityEmbed Entity="LargeBeaker" Caption="Großer Becher (Large Beaker)"/>
+    <GuideEntityEmbed Entity="PillCanister" Caption="Pillendose (Pill Canister)"/>
+    <GuideEntityEmbed Entity="ChemMaster" Caption="ChemMaster"/>
   </Box>
 </Document>

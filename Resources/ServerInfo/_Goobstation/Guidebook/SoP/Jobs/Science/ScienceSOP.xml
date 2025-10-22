@@ -6,17 +6,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Science Department SOP
-These are the list of SOPs that Science Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP der Wissenschaftsabteilung (Science Department SOP)
+Dies ist die Liste der SOPs (Standard Operating Procedures), die das **Wissenschaftspersonal (Science Personnel)** befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-<Box>For clarification, Roboticist can extend to any Science personnel working on Robots.</Box>
+<Box>Zur Klarstellung: Der Robotiker (Roboticist) kann sich auf jedes Wissenschaftspersonal erstrecken, das an Robotern arbeitet.</Box>
 
-It is expected that [color=#cc74fc]Research Assistant[/color] and [color=#cc74fc]Scientist[/color] coincide in the same SOP guidelines.
+Es wird erwartet, dass der [color=#cc74fc]Forschungsassistent (Research Assistant)[/color] und der [color=#cc74fc]Wissenschaftler (Scientist)[/color] in denselben SOP-Richtlinien zusammenfallen.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Research Director[/bold][/color] being the Head of Staff:
-- [textlink="Research Director" link="ResearchDirector SOP"]
-- [textlink="Roboticist" link="Roboticist SOP"]
-- [textlink="Scientist" link="Scientist SOP"]
-- [textlink="Research Assistant" link="Scientist SOP"]
+Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Forschungsdirektor (Research Director)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
+- [textlink="Forschungsdirektor" link="ResearchDirector SOP"]
+- [textlink="Robotiker (Roboticist)" link="Roboticist SOP"]
+- [textlink="Wissenschaftler (Scientist)" link="Scientist SOP"]
+- [textlink="Forschungsassistent (Research Assistant)" link="Scientist SOP"]
 
 </Document>

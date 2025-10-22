@@ -12,41 +12,41 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Survival
-It is generally wise to avoid situations that will cause you harm, because medical can only heal you so much with limited chemicals and medical items and especially when there's nuclear operatives on your doorstep.
+# Überleben (Survival)
+Es ist im Allgemeinen klug, Situationen zu vermeiden, die euch Schaden zufügen, da die Sanitätsabteilung euch nur begrenzt mit Chemikalien und medizinischen Gegenständen heilen kann, besonders wenn nukleare Agenten vor eurer Tür stehen.
 
-## Identifying your situation
-Your PDA contains both a vessel name and list of crew currently active in your vessel, a reminder for your name if needed, and your assigned job for the shift, allowing you to quickly assess the situation.
+## Eure Situation erkennen (Identifying your situation)
+Euer PDA enthält sowohl einen **Schiffsnamen (vessel name)** als auch eine Liste der derzeit aktiven Crewmitglieder auf eurem Schiff, eine Erinnerung an euren Namen, falls nötig, und euren zugewiesenen Job für die Schicht, was euch ermöglicht, die Situation schnell einzuschätzen.
 
-## Emergency Treatment
-In the event of a serious emergency, there are a few things you can do to help ensure your long-term survival, including:
-- If entering critical condition, use the emergency medipen from your emergency box, it'll make sure you don't end up unable to do anything. Emergency medipens can also be used to revive people currently in crit on the floor, and to prolong the amount of time you have to deal with poisons/etc.
-
-<Box>
-  <GuideEntityEmbed Entity="EmergencyMedipen"/>
-  <GuideEntityEmbed Entity="SpaceMedipen"/>
-</Box>
-
-- Your emergency box contains a breath mask and oxygen tank, which can help you survive longer in a spacing situation. If you're one of the slimepeople, be aware that nitrogen replaces oxygen for you and that your emergency box will start with a red tank of nitrogen replacing the standard blue/yellow oxygen tank.
+## Notfallbehandlung (Emergency Treatment)
+Im Falle eines ernsten Notfalls gibt es ein paar Dinge, die ihr tun könnt, um euer langfristiges Überleben zu sichern, darunter:
+- Wenn ihr in einen **kritischen Zustand** geratet, verwendet den **Notfall-Medipen (emergency medipen)** aus eurer Notfallbox. Er stellt sicher, dass ihr nicht handlungsunfähig werdet. Notfall-Medipens können auch verwendet werden, um Personen, die sich gerade im kritischen Zustand auf dem Boden befinden, **wiederzubeleben** und die Zeit zu verlängern, die ihr habt, um mit Giften/usw. umzugehen.
 
 <Box>
-  <GuideEntityEmbed Entity="ClothingMaskBreath"/>
-  <GuideEntityEmbed Entity="EmergencyOxygenTankFilled"/>
+  <GuideEntityEmbed Entity="EmergencyMedipen"/>
+  <GuideEntityEmbed Entity="SpaceMedipen"/>
 </Box>
 
-- If actively bleeding out, or simply wishing to prepare, it's possible to slice up cloth items with a knife or other sharp object and use the resulting cloth to create gauze in the crafting menu to stem bleeding with, however cloth alone can be used to less of a degree in emergencies.
+- Eure Notfallbox enthält eine **Atemmaske** und einen **Sauerstofftank**, die euch helfen können, in einer **Weltraumsituation (spacing situation)** länger zu überleben. Wenn ihr zu den **Schleimmenschen (slimepeople)** gehört, beachtet, dass Stickstoff bei euch Sauerstoff ersetzt und eure Notfallbox mit einem roten Stickstofftank anstelle des standardmäßigen blau/gelben Sauerstofftanks beginnt.
 
 <Box>
-  <GuideEntityEmbed Entity="Gauze"/>
-  <GuideEntityEmbed Entity="MaterialCloth"/>
+  <GuideEntityEmbed Entity="ClothingMaskBreath"/>
+  <GuideEntityEmbed Entity="EmergencyOxygenTankFilled"/>
 </Box>
 
-## Other Various Tips
-- In lieu of an actual health analyzer, simply examining yourself and using the detailed examine is a good way to figure out what wounds you have.
-- If going blind, carrots are another way to treat the issue (as they contain Oculine, the chemistry drug used to treat blindness) should they be available.
-- Well-made meals (cooked food not from a vending machine) is generally much better for your overall health and can help heal smaller wounds more quickly.
-- Simple bed rest can allow some wounds to close up on their own. Medical beds are best for this, providing a sterile surface and support for all damaged body parts, but any bed works.
-- Actually sleeping on a bed boosts your healing rate even farther.
-- Meals that contain proteins, such as meat, will tremendously help your body's condition after severe bloodloss. It's still advised to visit a doctor and get treated though.
+- Wenn ihr aktiv **verblutet** oder euch einfach vorbereiten wollt, ist es möglich, **Stoffgegenstände (cloth items)** mit einem Messer oder einem anderen scharfen Gegenstand aufzuschneiden und den daraus resultierenden **Verbandsstoff (gauze)** im Herstellungsmenü zu verwenden, um Blutungen zu stillen. Allerdings kann Stoff allein in Notfällen in geringerem Maße verwendet werden.
+
+<Box>
+  <GuideEntityEmbed Entity="Gauze"/>
+  <GuideEntityEmbed Entity="MaterialCloth"/>
+</Box>
+
+## Diverse andere Tipps (Other Various Tips)
+- Anstelle eines tatsächlichen **Gesundheitsanalysators (health analyzer)** ist es eine gute Möglichkeit, eure Wunden festzustellen, indem ihr euch selbst untersucht und die **detaillierte Untersuchung (detailed examine)** verwendet.
+- Wenn ihr blind werdet, sind **Karotten** eine weitere Möglichkeit, das Problem zu behandeln (da sie **Oculine** enthalten, das in der Chemie verwendete Medikament zur Behandlung von Blindheit), sofern sie verfügbar sind.
+- **Gut zubereitete Mahlzeiten** (gekochtes Essen, das nicht aus einem Verkaufsautomaten stammt) sind im Allgemeinen viel besser für eure allgemeine Gesundheit und können helfen, kleinere Wunden schneller zu heilen.
+- Einfache **Bettruhe** kann es einigen Wunden ermöglichen, von selbst zu heilen. **Medizinische Betten** sind am besten dafür geeignet, da sie eine sterile Oberfläche und Unterstützung für alle beschädigten Körperteile bieten, aber jedes Bett funktioniert.
+- Tatsächliches **Schlafen** auf einem Bett steigert eure Heilungsrate noch weiter.
+- Mahlzeiten, die **Proteine** enthalten, wie zum Beispiel Fleisch, helfen eurem Körperzustand nach **starkem Blutverlust (severe bloodloss)** enorm. Es wird jedoch weiterhin geraten, einen Arzt aufzusuchen und sich behandeln zu lassen.
 
 </Document>

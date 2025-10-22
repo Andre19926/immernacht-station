@@ -6,15 +6,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Engineering Department SOP
-These are the list of SOPs that Engineering Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP der Ingenieurabteilung (Engineering Department SOP)
+Dies ist die Liste der SOPs (Standard Operating Procedures), die das **Ingenieurpersonal (Engineering Personnel)** befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-For clarification, [color=#c8a404][bold]Station Engineer[/bold][/color] and [color=#c8a404][bold]Technical Assistant[/bold][/color] are combined into the same entry, and should be followed as such.
+Zur Klarstellung: [color=#c8a404][bold]Stationsingenieur (Station Engineer)[/bold][/color] und [color=#c8a404][bold]Technischer Assistent (Technical Assistant)[/bold][/color] sind in demselben Eintrag zusammengefasst und sollten als solche befolgt werden.
 
-The following jobs have entries in this Department, with [color=#1b67a5][bold]Chief Engineer[/bold][/color] being the Head of Staff:
-- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
-- [textlink="Atmospheric Technician" link="AtmosTech SOP"]
-- [textlink="Station Engineer" link="StationEngineer SOP"]
-- [textlink="Technical Assistant" link="StationEngineer SOP"]
+Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Chefingenieur (Chief Engineer)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
+- [textlink="Chefingenieur" link="ChiefEngineer SOP"]
+- [textlink="Atmosphärentechniker (Atmospheric Technician)" link="AtmosTech SOP"]
+- [textlink="Stationsingenieur (Station Engineer)" link="StationEngineer SOP"]
+- [textlink="Technischer Assistent (Technical Assistant)" link="StationEngineer SOP"]
 
 </Document>

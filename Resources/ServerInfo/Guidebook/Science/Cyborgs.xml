@@ -8,66 +8,65 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
   # Cyborgs
-  Cyborgs are man-machine hybrids, purpose-built by the [textlink="robotics"  link="Robotics"] division of science for various duties across the station. Bound by strictly-followed [color=cyan]silicon laws[/color], they serve the crew unconditionally. [italic](Most of the time.)[italic]
+  Cyborgs sind Mensch-Maschine-Hybride, die vom [textlink="Robotik (Robotics)" link="Robotics"]-Bereich der Wissenschaft (Science) speziell für verschiedene Aufgaben auf der Station gebaut werden. Gebunden an strikt befolgte [color=cyan]Silikon-Gesetze (Silicon Laws)[/color], dienen sie der Besatzung bedingungslos. [italic](Meistens.)[/italic]
 
-  ## Basic Components
+  ## Grundkomponenten (Basic Components)
   <Box>
-    <GuideEntityEmbed Entity="CyborgEndoskeleton" Caption="Cyborg Endoskeleton"/>
-    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit Fabricator"/>
+    <GuideEntityEmbed Entity="CyborgEndoskeleton" Caption="Cyborg-Endoskelett (Cyborg Endoskeleton)"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit-Fabrikator (Exosuit Fabricator)"/>
   </Box>
-  All cyborgs are built on an endoskeleton, which can be crafted at an [color=#a4885c]Exosuit Fabricator[/color]. Further assembly steps can be followed by [color=#a4885c]examining[/color] the endoskeleton. Once built, further upgrades like additional tools and a longer battery life can be unlocked with modules or improved power cells.
+  Alle Cyborgs werden auf einem Endoskelett (Endoskeleton) aufgebaut, das am [color=#a4885c]Exosuit-Fabrikator (Exosuit Fabricator)[/color] hergestellt werden kann. Weitere Montageschritte können durch [color=#a4885c]Untersuchen (Examining)[/color] des Endoskeletts verfolgt werden. Nach dem Bau können weitere Upgrades wie zusätzliche Werkzeuge und eine längere Akkulaufzeit durch Module (Modules) oder verbesserte Energiezellen (Power Cells) freigeschaltet werden.
 
-  Newly built cyborgs need a [color=#a4885c]brain[/color] able to interface with the electronic body. There are two main types, both of which are able to speak independently, should the chassis be decommissioned, exchanged, or otherwise suffer an unscheduled disassembly.
-  - The [color=#a4885c]Man-Machine Interface[/color] or MMI for short, is an apparatus able to facilitate communication between a biological brain and electronic components, enabling those suffering from major workplace accidents to continue serving their crew, long after their body is gone.
-  - The [color=#a4885c]Positronic Brain[/color] is an entirely artificial brain, capable of spontaneous neural activity. The time for the synthetic neurons to descramble can wildly vary, but they allow for the creation of cyborgs without having to extract a brain from a crew member.
+  Neu gebaute Cyborgs benötigen ein [color=#a4885c]Gehirn (Brain)[/color], das mit dem elektronischen Körper interagieren kann. Es gibt zwei Haupttypen, die beide unabhängig sprechen können, falls das Chassis außer Dienst gestellt, ausgetauscht oder anderweitig einer ungeplanten Demontage ausgesetzt wird.
+  - Die [color=#a4885c]Mensch-Maschine-Schnittstelle (Man-Machine Interface)[/color], kurz MMI, ist ein Gerät, das die Kommunikation zwischen einem biologischen Gehirn und elektronischen Komponenten ermöglicht, sodass Personen, die schwere Arbeitsunfälle erleiden, ihrer Besatzung weiterhin dienen können, lange nachdem ihr Körper nicht mehr existiert.
+  - Das [color=#a4885c]Positronengehirn (Positronic Brain)[/color] ist ein vollständig künstliches Gehirn, das zu spontaner neuronaler Aktivität fähig ist. Die Zeit, bis die synthetischen Neuronen entschlüsselt sind, kann stark variieren, aber sie ermöglichen die Erstellung von Cyborgs, ohne ein Gehirn von einem Besatzungsmitglied entnehmen zu müssen.
   <Box>
-    <GuideEntityEmbed Entity="MMIFilled" Caption="Man-Machine Interface"/>
-    <GuideEntityEmbed Entity="PositronicBrain" Caption="Positronic Brain"/>
+    <GuideEntityEmbed Entity="MMIFilled" Caption="Mensch-Maschine-Schnittstelle (Man-Machine Interface)"/>
+    <GuideEntityEmbed Entity="PositronicBrain" Caption="Positronengehirn (Positronic Brain)"/>
   </Box>
-  Both brains can be fabricated without requiring any additional research.
+  Beide Gehirne können ohne zusätzliche Forschung hergestellt werden.
 
-  ## Cyborg types
-  Once created, a cyborg needs to specialize its chassis to a duty on the station. This determines what modules it starts with, which additional modules can be installed, and what [color=#a4885c]departmental radio channel[/color] it has access to. All cyborgs have access to the [color=#D381C9]Science[/color] and [color=green]station-wide[/color] radio channels. All cyborg types have [color=#a4885c]all-access[/color].
+  ## Cyborg-Typen (Cyborg Types)
+  Nach der Erstellung muss ein Cyborg sein Chassis für eine Aufgabe auf der Station spezialisieren. Dies bestimmt, welche Module (Modules) er zu Beginn hat, welche zusätzlichen Module installiert werden können und auf welchen [color=#a4885c]Abteilungsfunkkanal (Departmental Radio Channel)[/color] er Zugriff hat. Alle Cyborgs haben Zugriff auf die Funkkanäle [color=#D381C9]Wissenschaft (Science)[/color] und [color=green]stationsweit (Station-Wide)[/color]. Alle Cyborg-Typen haben [color=#a4885c]Zutritt zu allen Bereichen (All-Access)[/color].
   <Box>
-    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption="Generic"/>
-    <GuideEntityEmbed Entity="BorgChassisEngineer" Caption="Engineering"/>
-    <GuideEntityEmbed Entity="BorgChassisMining" Caption="Salvage"/>
-    <GuideEntityEmbed Entity="BorgChassisJanitor" Caption="Janitor"/>
+    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption="Generisch (Generic)"/>
+    <GuideEntityEmbed Entity="BorgChassisEngineer" Caption="Ingenieur (Engineering)"/>
+    <GuideEntityEmbed Entity="BorgChassisMining" Caption="Bergung (Salvage)"/>
+    <GuideEntityEmbed Entity="BorgChassisJanitor" Caption="Reinigung (Janitor)"/>
     <GuideEntityEmbed Entity="BorgChassisService" Caption="Service"/>
-    <GuideEntityEmbed Entity="BorgChassisMedical" Caption="Medical"/>
+    <GuideEntityEmbed Entity="BorgChassisMedical" Caption="Medizinisch (Medical)"/>
   </Box>
   <Box>
-    [italic]Examples of various cyborg types[/italic]
+    [italic]Beispiele für verschiedene Cyborg-Typen[/italic]
   </Box>
-  Once a cyborg chassis has been specialized, it cannot be changed. To change types, a new chassis must be constructed. The brain, power cell, and any modules [italic](if they are compatible with the new chassis)[/italic] can be carried over from the old chassis if desired.
+  Sobald ein Cyborg-Chassis spezialisiert wurde, kann es nicht mehr geändert werden. Um den Typ zu ändern, muss ein neues Chassis gebaut werden. Das Gehirn (Brain), die Energiezelle (Power Cell) und alle Module [italic](sofern sie mit dem neuen Chassis kompatibel sind)[/italic] können bei Bedarf vom alten Chassis übernommen werden.
 
-  ## Modules
+  ## Module (Modules)
   <Box>
-    <GuideEntityEmbed Entity="BorgModuleTool" Caption="Tool Cyborg Module"/>
+    <GuideEntityEmbed Entity="BorgModuleTool" Caption="Werkzeug-Cyborg-Modul (Tool Cyborg Module)"/>
   </Box>
-  Cyborgs do not have hands, and therefore cannot pick things up like most other players. Instead, their equipment is provided by various [color=#a4885c]modules[/color]. Every cyborg type starts with its own specific set of modules, but additional modules can be inserted as upgrades. These additional modules can be printed at the [color=#a4885c]Exosuit Fabricator[/color].
+  Cyborgs haben keine Hände und können daher keine Gegenstände wie die meisten anderen Spieler aufheben. Stattdessen wird ihre Ausrüstung durch verschiedene [color=#a4885c]Module (Modules)[/color] bereitgestellt. Jeder Cyborg-Typ startet mit einem eigenen spezifischen Satz an Modulen, aber zusätzliche Module können als Upgrades eingesetzt werden. Diese zusätzlichen Module können am [color=#a4885c]Exosuit-Fabrikator (Exosuit Fabricator)[/color] gedruckt werden.
 
-  [color=#a4885c]Generic[/color] modules add versatility. They can be fitted into any chassis, granting useful tools such as crowbars, GPS, and the ability to interact with cables. [bold]The generic cyborg chassis can fit up to five additional modules.[/bold]
+  [color=#a4885c]Generische (Generic)[/color] Module erhöhen die Vielseitigkeit. Sie können in jedes Chassis eingebaut werden und bieten nützliche Werkzeuge wie Brechstangen (Crowbars), GPS und die Fähigkeit, mit Kabeln zu interagieren. [bold]Das generische Cyborg-Chassis kann bis zu fünf zusätzliche Module aufnehmen.[/bold]
   <Box>
-    <GuideEntityEmbed Entity="BorgModuleCable" Caption="Cable"/>
-    <GuideEntityEmbed Entity="BorgModuleFireExtinguisher" Caption="Fire Extinguisher"/>
+    <GuideEntityEmbed Entity="BorgModuleCable" Caption="Kabel (Cable)"/>
+    <GuideEntityEmbed Entity="BorgModuleFireExtinguisher" Caption="Feuerlöscher (Fire Extinguisher)"/>
   </Box>
   <Box>
-    [italic]Examples of generic modules[/italic]
+    [italic]Beispiele für generische Module[/italic]
   </Box>
 
-  For more specific needs, [color=#a4885c]specialized[/color] modules are available, granting capabilities like scanning anomalies, constructing walls, reviving crew mates, or cleaning a space lube spill. These modules are typically colored with the same palette as the department [italic](or occupation)[/italic] they relate to. These modules [italic](with exception to [color=#D381C9]science[/color] modules, which can fit any chassis,)[/italic] can only be fitted in their associated borg chassis. [bold]The specialized borg chassis, being the engineering, janitorial, service, medical, and mining chassis, can fit up to three additional modules.[/bold]
+  Für spezifischere Bedürfnisse sind [color=#a4885c]spezialisierte (Specialized)[/color] Module verfügbar, die Fähigkeiten wie das Scannen von Anomalien, das Errichten von Wänden, das Wiederbeleben von Besatzungsmitgliedern oder das Reinigen eines Raumschmierstoffflecks (Space Lube Spill) ermöglichen. Diese Module sind normalerweise in der gleichen Farbpalette wie die Abteilung [italic](oder der Beruf)[/italic], zu der sie gehören, gefärbt. Diese Module [italic](mit Ausnahme von [color=#D381C9]Wissenschaft (Science)[/color]-Modulen, die in jedes Chassis passen)[/italic] können nur in das zugehörige Cyborg-Chassis eingebaut werden. [bold]Die spezialisierten Cyborg-Chassis, nämlich Ingenieur (Engineering), Reinigung (Janitorial), Service, Medizinisch (Medical) und Bergung (Mining), können bis zu drei zusätzliche Module aufnehmen.[/bold]
   <Box>
-    <GuideEntityEmbed Entity="BorgModuleAnomaly" Caption="Anomaly"/>
+    <GuideEntityEmbed Entity="BorgModuleAnomaly" Caption="Anomalie (Anomaly)"/>
     <GuideEntityEmbed Entity="BorgModuleRCD" Caption="RCD"/>
-    <GuideEntityEmbed Entity="BorgModuleMining" Caption="Mining"/>
-    <GuideEntityEmbed Entity="BorgModuleCleaning" Caption="Cleaning"/>
+    <GuideEntityEmbed Entity="BorgModuleMining" Caption="Bergung (Mining)"/>
+    <GuideEntityEmbed Entity="BorgModuleCleaning" Caption="Reinigung (Cleaning)"/>
     <GuideEntityEmbed Entity="BorgModuleService" Caption="Service"/>
-    <GuideEntityEmbed Entity="BorgModuleChemical" Caption="Chemical"/>
+    <GuideEntityEmbed Entity="BorgModuleChemical" Caption="Chemisch (Chemical)"/>
   </Box>
   <Box>
-    [italic]Examples of specialized modules. Note the housing and circuit board colors.
+    [italic]Beispiele für spezialisierte Module. Beachten Sie die Farben der Gehäuse und Platinen.[/italic]
   </Box>
-  Additional modules with advanced or novel capabilities can be acquired through new [textlink="technologies"  link="Technologies"] researched by scientists.
+  Zusätzliche Module mit fortgeschrittenen oder neuen Fähigkeiten können durch neue [textlink="Technologien (Technologies)" link="Technologies"], die von Wissenschaftlern erforscht werden, erworben werden.
 </Document>
-

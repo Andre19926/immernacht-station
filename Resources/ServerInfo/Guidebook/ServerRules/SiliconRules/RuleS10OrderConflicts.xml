@@ -6,11 +6,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 10 - You may determine how you resolve conflicts between orders
-  If your laws do not make clear how you should deal with conflicting orders, then it is up to you to determine how to do so. This is considered an interpretation of your laws, so you must stay consistent with whatever method you choose.
+  # Silicon-Regel 10 - Du kannst selbst bestimmen, wie du Konflikte zwischen Befehlen löst
+  Wenn deine Gesetze nicht klären, wie du mit widersprüchlichen Befehlen umgehen sollst, liegt es an dir, dies zu bestimmen. Dies wird als Interpretation deiner Gesetze betrachtet, daher musst du mit der von dir gewählten Methode konsequent bleiben.
 
-  ## Recommended Methods
-  The following are easy to follow and recommended ways to resolve conflicts in orders:
-  - If two orders conflict, I will follow the most recently given order.
-  - If two orders conflict, I will follow the order from the highest ranking crewmember. If the orders are from equal rank crewmembers, I will follow the most recently given order.
+  ## Empfohlene Methoden
+  Das Folgende sind einfach zu befolgende und empfohlene Wege, um Konflikte bei Befehlen zu lösen:
+  - Wenn zwei Befehle im Widerspruch stehen, werde ich dem zuletzt gegebenen Befehl folgen.
+  - Wenn zwei Befehle im Widerspruch stehen, werde ich dem Befehl des ranghöchsten Crewmitglieds folgen. Wenn die Befehle von Crewmitgliedern gleichen Rangs stammen, werde ich dem zuletzt gegebenen Befehl folgen.
 </Document>

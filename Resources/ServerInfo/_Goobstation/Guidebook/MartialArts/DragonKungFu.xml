@@ -1,55 +1,55 @@
 <Document>
 
-  # Dragon Kung Fu
+  # Drachen Kung Fu (Dragon Kung Fu)
 
-  <Box>
-    <GuideEntityEmbed Entity="BSOManual" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="BSOManual" Caption=""/>
+  </Box>
 
-  Dragon Kung Fu is a Shaolin [textlink="martial art" link="MartialArts"] focused on defense and control.
-  Fluid movements and powerful strikes come with patience and resilience. Perfect for bodyguards, it strengthens defenses and counters with precision.
-  Blueshield Officers can select the manual of this martial art in their weaponry box.
+  **Drachen Kung Fu** ist eine Shaolin [textlink="Kampfkunst" link="MartialArts"], die sich auf **Verteidigung und Kontrolle** konzentriert.
+  Flüssige Bewegungen und kraftvolle Schläge kommen mit Geduld und Widerstandsfähigkeit. Perfekt für **Bodyguards**, da es die Abwehr stärkt und präzise kontert.
+  Blueshield Officers (BSO) können das Handbuch dieser Kampfkunst in ihrer Waffenbox auswählen.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  ### Dragon Power
+  ### Drachenkraft (Dragon Power)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDragonPower" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDragonPower" Caption=""/>
+  </Box>
 
-  A moment of staying still unarmed turns the warrior into a living mountain, greatly lowering
-  the force of incoming melee strikes and boosting their own attacks, both armed and not.
+  Ein Moment des unbewaffneten Stillstehens verwandelt den Krieger in einen lebenden Berg, der die Kraft eingehender Nahkampfschläge stark reduziert
+  und ihre eigenen Angriffe, sowohl bewaffnet als auch unbewaffnet, verstärkt.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Dragon Claw
+  ### Drachenklaue (Dragon Claw)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Deals massive Stamina damage and slows the opponent down significantly.
+  Verursacht massiven **Ausdauerschaden (Stamina damage)** und verlangsamt den Gegner erheblich.
 
-  ### Dragon Tail
+  ### Drachenschwanz (Dragon Tail)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals Blunt and Stamina damage. Knocks the opponent down if they are standing, and applies a short stun otherwise.
+  Verursacht **Stumpfen Schaden (Blunt)** und **Ausdauerschaden**. Wirft den Gegner zu Boden (**knocks the opponent down**), wenn er steht, und wendet andernfalls eine kurze Betäubung an.
 
-  ### Dragon Strike
+  ### Drachenschlag (Dragon Strike)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals 40 damage and stuns for 2 seconds. Only works on downed opponents.
+  Verursacht 40 Schaden und betäubt für 2 Sekunden. Funktioniert nur bei **niedergeschlagenen (downed)** Gegnern.
 
 </Document>

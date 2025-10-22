@@ -12,60 +12,60 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Revolutionaries
+  # Revolutionäre (Revolutionaries)
 
-  <Box>
-    [color=#999999][italic]"Viva la revolución!!"[/italic][/color]
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
-  </Box>
+  <Box>
+    [color=#999999][italic]"Viva la revolución!!"[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
+  </Box>
 
-  Revolutionaries are conversion antagonists sponsored by the [color=#ff0000]Syndicate[/color] who are tasked with taking control of the station. They have no fancy gimmicks or cheap tricks, they only have a cause and strength in numbers.
+  Revolutionäre sind Konversions-Antagonisten, die vom [color=#ff0000]Syndikat[/color] gesponsert werden und beauftragt sind, die Kontrolle über die Station zu übernehmen. Sie haben keine ausgefallenen Gimmicks oder billigen Tricks, sie haben nur eine Sache und Stärke in der Masse.
 
-  ## Objectives
-  You must cuff, kill, convert, or exile all of the [textlink="Command staff" link="Command"] on station in no particular order.
+  ## Ziele
+  Ihr müsst alle [textlink="Kommandmitglieder" link="Command"] auf der Station fesseln, töten, konvertieren oder ins Exil schicken, in keiner bestimmten Reihenfolge.
 
-  Your objective is not to destroy the station, but [italic]take it over[/italic], so try to minimize damage where possible.
+  Euer Ziel ist nicht die Zerstörung der Station, sondern deren [italic]Übernahme[/italic], also versucht, den Schaden so gering wie möglich zu halten.
 
-  [bold]The revolution will fail[/bold] if all of the [bold][color=#5e9cff]Head Revolutionaries[/color][/bold] die or all their hypnotic abilities will be disabled with MindShield implant, and all [color=red]Revolutionaries[/color] will de-convert if this happens.
+  [bold]Die Revolution wird scheitern[/bold], wenn alle [bold][color=#5e9cff]Führenden Revolutionäre (Head Revolutionaries)[/color][/bold] sterben oder alle ihre hypnotischen Fähigkeiten durch das Gedankenschild-Implantat (MindShield implant) deaktiviert werden, und alle [color=red]Revolutionäre[/color] werden de-konvertieren, wenn dies geschieht.
 
-  ## Headrevs & Conversion
-  [bold][color=#5e9cff]Head Revolutionaries[/color][/bold] are chosen at the start of the shift and begin with a [color=#a4885c]Revolutionary Manifesto[/color] and a [color=cyan]syndicate encryption key[/color].
+  ## Führende Revolutionäre & Konvertierung (Headrevs & Conversion)
+  [bold][color=#5e9cff]Führende Revolutionäre[/color][/bold] werden zu Beginn der Schicht ausgewählt und starten mit einem [color=#a4885c]Revolutionären Manifest (Revolutionary Manifesto)[/color] und einem [color=cyan]Syndikats-Verschlüsselungsschlüssel (syndicate encryption key)[/color].
 
-  <Box>
-    <GuideEntityEmbed Entity="RevolutionaryManifesto"/>
-    <GuideEntityEmbed Entity="EncryptionKeySyndie"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="RevolutionaryManifesto"/>
+    <GuideEntityEmbed Entity="EncryptionKeySyndie"/>
+  </Box>
 
-  You can convert crew members to your side by taking any [color=#a4885c]Revolutionary Manifesto[/color] and using it on someone.
-  Beware! A [color=#a4885c]MindShield Implant[/color] will prevent the implanted person from being converted into a revolutionary. Assume all of [color=#a4885c]Security[/color] and [color=#a4885c]Command[/color] are implanted already. These will:
-  - Prevent the implanted person from being converted into a [color=red]Revolutionary[/color]
-  - De-convert Revolutionaries, and will make them no longer loyal to your cause
-  - Visibly change appearance upon being implanted into a [bold][color=#5e9cff]Head Revolutionary[/color][/bold], giving away his cover and disabling your convert ability
+  Ihr könnt Crewmitglieder auf eure Seite konvertieren, indem ihr ein beliebiges [color=#a4885c]Revolutionäres Manifest[/color] nehmt und es auf jemanden anwendet.
+  Achtung! Ein [color=#a4885c]Gedankenschild-Implantat (MindShield Implant)[/color] verhindert, dass die implantierte Person in einen Revolutionär konvertiert wird. Geht davon aus, dass die gesamte [color=#a4885c]Sicherheit[/color] und das [color=#a4885c]Kommando[/color] bereits implantiert sind. Dies wird:
+  - Verhindern, dass die implantierte Person in einen [color=red]Revolutionär[/color] konvertiert wird
+  - Revolutionäre de-konvertieren und sie nicht länger eurer Sache loyal machen
+  - Das Aussehen des [bold][color=#5e9cff]Führenden Revolutionärs[/color][/bold] bei der Implantation sichtbar verändern, seine Tarnung verraten und eure Konvertierungsfähigkeit deaktivieren
 
-  Assume all of [color=#cb0000]Security[/color] and [color=#1b67a5]Command[/color] are implanted with mindshields already.
+  Geht davon aus, dass die gesamte [color=#cb0000]Sicherheit[/color] und das [color=#1b67a5]Kommando[/color] bereits mit Gedankenschilden implantiert sind.
 
-  <Box>
-    <GuideEntityEmbed Entity="MindShieldImplanter"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MindShieldImplanter"/>
+  </Box>
 
-  ## Fight against MindShield
+  ## Kampf gegen das Gedankenschild
 
-  MindShield implant can be ejected from your target by using empty [color = cyan]implanter[/color] that can be made on [color = yellow]medical techfab[/color] that can be found in medical department.
+  Das Gedankenschild-Implantat kann aus eurem Ziel entfernt werden, indem ihr einen leeren [color = cyan]Implanter[/color] verwendet, der in der [color = yellow]Medizinischen Techfab[/color] hergestellt werden kann, die in der medizinischen Abteilung zu finden ist.
 
-  When implant ejected your can convert your target, including command and security.
+  Wenn das Implantat entfernt wurde, könnt ihr euer Ziel konvertieren, einschließlich Kommando und Sicherheit.
 
-  If your convert ability was disabled by [color=cyan]mindshield implant[/color] you just need to remove mindshield implant to turn on your ability back.
+  Wenn eure Konvertierungsfähigkeit durch das [color=cyan]Gedankenschild-Implantat[/color] deaktiviert wurde, müsst ihr einfach das Gedankenschild-Implantat entfernen, um eure Fähigkeit wieder zu aktivieren.
 
-  <Box>
-    <GuideEntityEmbed Entity="Implanter"/>
-    <GuideEntityEmbed Entity="MedicalTechFab"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Implanter"/>
+    <GuideEntityEmbed Entity="MedicalTechFab"/>
+  </Box>
 
-  ## Revolutionary
-  A [bold][color=red]Revolutionary[/color][/bold] is a crew member that has been converted by a [bold][color=#5e9cff]Head Revolutionary[/color][/bold].
+  ## Revolutionär (Revolutionary)
+  Ein [bold][color=red]Revolutionär[/color][/bold] ist ein Crewmitglied, das von einem [bold][color=#5e9cff]Führenden Revolutionär[/color][/bold] konvertiert wurde.
 
-  [bold][color=red]Revolutionaries[/color] can't convert people themselves,[/bold] but they're more than capable of doing dirty work and carrying out orders.
+  [bold][color=red]Revolutionäre[/color] können selbst keine Leute konvertieren,[/bold] aber sie sind mehr als fähig, die Drecksarbeit zu erledigen und Befehle auszuführen.
 
 </Document>

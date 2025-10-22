@@ -1,88 +1,88 @@
 <Document>
 
-  # Capoeira
+  # Capoeira
 
-  <Box>
-    <GuideEntityEmbed Entity="CapoeiraManual" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="CapoeiraManual" Caption=""/>
+  </Box>
 
-  Capoeira, the Syndicate's dance of war originating in Brazil, is a [textlink="martial art" link="MartialArts"] that disguises violence as beauty.
-  Swift attacks link into flowing combos, each move faster and harder than the last one, fueled by relentless momentum.
+  Capoeira, der Tanz des Krieges des Syndikats, der seinen Ursprung in Brasilien hat, ist eine [textlink="Kampfkunst" link="MartialArts"], die Gewalt als Schönheit tarnt.
+  Schnelle Angriffe gehen in fließende Kombos über, wobei jeder Zug schneller und härter ist als der vorherige, angetrieben von unaufhaltsamem **Schwung (Momentum)**.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  Capoeira users are better at Grab intent, as successfully grabbing an opponent grants them a brief speed boost.
+  Capoeira-Anwender sind besser im **Griff-Modus (Grab intent)**, da das erfolgreiche Greifen eines Gegners ihnen einen kurzen Geschwindigkeitsschub gewährt.
 
-  ### Capoeira Stance
+  ### Capoeira-Haltung (Capoeira Stance)
 
-  You never stop moving while performing the ginga. This makes you very mobile while fighting.
+  Ihr hört nie auf, euch zu bewegen, während ihr die **Ginga** ausführt. Das macht euch sehr mobil im Kampf.
 
-  Through swift motion, Capoeira masters channel speed into energy, with combos being more deadly the faster they run.
-  Halt their flow, and their strength will vanish. Their combos, powered by movement, falter when they are prone.
+  Durch schnelle Bewegung kanalisieren Capoeira-Meister Geschwindigkeit in Energie, wobei Kombos umso tödlicher sind, je schneller sie laufen.
+  Stoppt ihren Fluss, und ihre Kraft wird schwinden. Ihre Kombos, angetrieben durch Bewegung, versagen, wenn sie **am Boden liegen (prone)**.
 
-  ### Capoeira Momentum
+  ### Capoeira-Schwung (Capoeira Momentum)
 
-  Through the flowing, relentless motion of Capoeira, each successful combo restores the user's stamina.
-  Every connected strike fuels their endurance, allowing them to fight longer, faster, and harder without pause.
+  Durch die fließende, unaufhaltsame Bewegung der Capoeira stellt jede erfolgreiche Kombo die **Ausdauer (Stamina)** des Anwenders wieder her.
+  Jeder Treffer füllt ihre Ausdauer auf und erlaubt es ihnen, länger, schneller und härter ohne Pause zu kämpfen.
 
-  ### Capoeira Tempo
+  ### Capoeira-Tempo (Capoeira Tempo)
 
-  Hit or miss, it's just part of the dance! And the best part is about to start!
+  Treffer oder Fehlschlag, es ist nur Teil des Tanzes! Und der beste Teil beginnt gleich!
 
-  A missed attack sharpens the next, reducing its recovery and increasing the damage.
+  Ein verfehlter Angriff schärft den nächsten, reduziert dessen Erholung (Recovery) und erhöht den Schaden.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Push Kick
+  ### Stoßtritt (Push Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Knocks down and pushes opponent away from the user. Doesn't force to drop held items.
+  Wirft den Gegner zu Boden und stößt ihn vom Anwender weg. Erzwingt nicht das Fallenlassen gehaltener Gegenstände.
 
-  ### Circle Kick
+  ### Kreistritt (Circle Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals Blunt damage and also slows down the opponent significantly.
+  Verursacht stumpfen Schaden (Blunt damage) und verlangsamt den Gegner erheblich.
 
-  ### Sweep Kick
+  ### Fegentritt (Sweep Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Knocks down and deals Blunt and Stamina damage. Temporarily increases user's attack speed by a bit.
-  Cannot be performed if the user is moving too slow.
+  Wirft zu Boden und verursacht stumpfen Schaden (Blunt) und Ausdauerschaden (Stamina damage). Erhöht vorübergehend die Angriffsgeschwindigkeit des Anwenders etwas.
+  Kann nicht ausgeführt werden, wenn sich der Anwender zu langsam bewegt.
 
-  ### Spin Kick
+  ### Drehtritt (Spin Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals a lot of Blunt damage and knocks the opponent down. Also makes the user flip. Only works on standing opponents.
-  Cannot be performed if the user is moving too slow.
+  Verursacht viel stumpfen Schaden und wirft den Gegner zu Boden. Lässt den Anwender auch einen **Flip** machen. Funktioniert nur bei stehenden Gegnern.
+  Kann nicht ausgeführt werden, wenn sich der Anwender zu langsam bewegt.
 
-  ### Kick Up
+  ### Hochtritt (Kick Up)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Needs to be targeted at the user themselves. Can be performed while prone. Removes knock down status effect and forces the user to stand up instantly.
+  Muss auf den Anwender selbst gerichtet werden. Kann im Liegen (prone) ausgeführt werden. Entfernt den Status-Effekt **Zu Boden geworfen** (Knock Down) und zwingt den Anwender, sofort aufzustehen.
 
 </Document>

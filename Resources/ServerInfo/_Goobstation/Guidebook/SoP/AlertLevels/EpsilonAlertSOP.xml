@@ -6,34 +6,34 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Epsilon
+  # Stationsalarm - Epsilon
 
   <Box>
-    [italic]Called by: Central Command Only.[/italic]
+    [italic]Ausgerufen von: Nur Zentralkommando.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Bedingungen:[/bold]
 
-  Central Command has deemed it necessary to terminate all contracts.
+  Das Zentralkommando hat es für notwendig erachtet, alle Verträge zu beenden.
 
-  [bold]Security:[/bold]
+  [bold]Sicherheit:[/bold]
 
-  Security and the rest of the station are to fend for themselves. All contracts are terminated and nothing is required to act upon.
+  Die Sicherheit und der Rest der Station sind auf sich allein gestellt. Alle Verträge sind beendet und es besteht keine Handlungspflicht.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Sichere Bereiche:[/bold]
 
-  The entire station is considered a secure area.
+  Die gesamte Station wird als sicherer Bereich betrachtet.
 
-  All Secure Areas are to be bolted down. Secure Areas may be left unbolted at the discretion of any personnel with access to do so.
+  Alle Sicheren Bereiche sind zu verriegeln. Sichere Bereiche können nach Ermessen von Personal mit entsprechender Zugangsberechtigung unverriegelt bleiben.
 
-  [bold]General Crew:[/bold]
+  [bold]Allgemeine Crew:[/bold]
 
-  All personnel are no longer required to maximize suit sensors. Do so at your discretion.
+  Alles Personal ist nicht länger verpflichtet, die Anzugsensoren zu maximieren. Tut dies nach eigenem Ermessen.
 
-  All personnel are no longer required to remain in any Department.
+  Alles Personal ist nicht länger verpflichtet, in irgendeiner Abteilung zu bleiben.
 
-  Visitors of the station, anyone without Central Command access, are to fend for themselves along with the station crew.
+  Besucher der Station, jeder ohne Zugang zum Zentralkommando, sind zusammen mit der Stationscrew auf sich allein gestellt.
 
-  Personnel are no longer required to follow instructions from any other person.
+  Personal ist nicht länger verpflichtet, Anweisungen von irgendeiner anderen Person zu befolgen.
 
 </Document>

@@ -6,36 +6,36 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Service
-[color=#9fed58]Service[/color] keeps the station clean, efficient and sane so that all other departments can do their jobs better and keep their staff happy. They also end up doing most of the paperwork on the station.
+# Dienstleistung (Service)
+[color=#9fed58]Dienstleistung[/color] hält die Station sauber, effizient und vernünftig, damit alle anderen Abteilungen ihre Arbeit besser erledigen und ihr Personal zufrieden halten können. Sie erledigen auch am Ende den größten Teil des Papierkrams auf der Station.
 
-## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Service Workers, Chefs, Botanists, Bartenders, Janitors, Chaplains, Clowns, Mimes, Musicians, Lawyers, Librarians and Passengers. Service is run by the Head of Personnel.
+## Personal
+Das Personal der [color=#9fed58]Dienstleistungsabteilung[/color] besteht aus **Dienstleistungsarbeitern (Service Workers)**, **Köchen (Chefs)**, **Botanikern (Botanists)**, **Barkeepers (Bartenders)**, **Hausmeistern (Janitors)**, **Kaplänen (Chaplains)**, **Clowns**, **Mimen (Mimes)**, **Musikern (Musicians)**, **Anwälten (Lawyers)**, **Bibliothekaren (Librarians)** und **Passagieren**. Die Dienstleistungsabteilung wird vom **Personalleiter (Head of Personnel)** geleitet.
 
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
-    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botanist"/>
-    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Bartender"/>
-    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Janitor"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Chaplain"/>
-    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Clown"/>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mime"/>
-    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Musician"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Lawyer"/>
-    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Librarian"/>
-    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passenger"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Koch (Chef)"/>
+    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botaniker (Botanist)"/>
+    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Barkeeper (Bartender)"/>
+    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Hausmeister (Janitor)"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Kaplan (Chaplain)"/>
+    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Clown"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mime"/>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Musiker (Musician)"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Anwalt (Lawyer)"/>
+    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Bibliothekar (Librarian)"/>
+    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passagier (Passenger)"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="Personalleiter (HoP)"/>
+  </Box>
 
-## Working Together
-[color=#9fed58]Service[/color], despite being the most diverse, tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas that only clowns carry in abundance.
-The lawyer may invite the mime to play charades to convince the judge that their client is innocent.
+## Zusammenarbeit (Working Together)
+Die [color=#9fed58]Dienstleistungsabteilung[/color] ist, obwohl sie die vielfältigste ist, mit Abstand die am stärksten [color=#a4885c]vernetzte[/color] Abteilung.
+Die meisten Berufe der [color=#9fed58]Dienstleistungsabteilung[/color] erfordern [color=#a4885c]Zusammenarbeit[/color] zwischen den Mitarbeitern.
+**Köche** benötigen oft Zutaten, die nur **Botaniker** effizient anbauen können. Der **Barkeeper** fragt möglicherweise nach Bananen, die nur **Clowns** im Überfluss bei sich tragen.
+Der **Anwalt** lädt möglicherweise den **Mimen** ein, Scharaden zu spielen, um den Richter davon zu überzeugen, dass sein Klient unschuldig ist.
 
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
+Eine Menge [color=#a4885c]Zusammenarbeit[/color] ist innerhalb und außerhalb der [color=#9fed58]Dienstleistungsabteilung[/color] notwendig. Oft wird die [color=#9fed58]Dienstleistungsabteilung[/color] von anderen Abteilungen benötigt, seid also auf der Hut.
 </Document>

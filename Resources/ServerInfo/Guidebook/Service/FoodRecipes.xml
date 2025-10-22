@@ -18,53 +18,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Microwave Recipes
+# Mikrowellen-Rezepte (Microwave Recipes)
 
-This is the latest published version of NanoTrasen Central Command Kitchen de Cuisine's recipe collection for chefs upon NanoTrasen vessels to prepare.
+Dies ist die neueste veröffentlichte Version der Rezeptsammlung der NanoTrasen Zentral-Kommando-Küche (NanoTrasen Central Command Kitchen de Cuisine) für Köche auf NanoTrasen-Schiffen zur Zubereitung.
 
-## Pizza Pies
+## Pizzastücke (Pizza Pies)
 <GuideMicrowaveGroupEmbed Group="Pizza"/>
 
-## Savory Cooking
+## Herzhaftes Kochen (Savory Cooking)
 <GuideMicrowaveGroupEmbed Group="Savory"/>
 
-## Breads
+## Brot (Breads)
 <GuideMicrowaveGroupEmbed Group="Breads"/>
 
-## Breakfast Foods
+## Frühstücksgerichte (Breakfast Foods)
 <GuideMicrowaveGroupEmbed Group="Breakfast"/>
 
-## Moth Foods
+## Motten-Mahlzeiten (Moth Foods)
 <GuideMicrowaveGroupEmbed Group="Moth"/>
 
-## Pastas & Noodles
+## Nudeln & Pasta (Pastas & Noodles)
 <GuideMicrowaveGroupEmbed Group="Pasta"/>
 
-## Pastries & Desserts
+## Gebäck & Desserts (Pastries & Desserts)
 <GuideMicrowaveGroupEmbed Group="Dessert"/>
 
-## Soups & Stews
+## Suppen & Eintöpfe (Soups & Stews)
 <GuideMicrowaveGroupEmbed Group="Soup"/>
 
-## Pies & Tarts
+## Kuchen & Tartes (Pies & Tarts)
 <GuideMicrowaveGroupEmbed Group="Pie"/>
 
-## Bars & Cookies
+## Riegel & Kekse (Bars & Cookies)
 <GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
 
-## Cakes
+## Torten (Cakes)
 <GuideMicrowaveGroupEmbed Group="Cake"/>
 
-## Salads
+## Salate (Salads)
 <GuideMicrowaveGroupEmbed Group="Salad"/>
 
-## Medicinal
+## Medizinisch (Medicinal)
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 
-## Other
+## Sonstiges (Other)
 <GuideMicrowaveGroupEmbed Group="Other"/>
 
-## Secret
+## Geheime Rezepte (Secret)
 <GuideMicrowaveGroupEmbed Group="Secret"/>
 
 </Document>

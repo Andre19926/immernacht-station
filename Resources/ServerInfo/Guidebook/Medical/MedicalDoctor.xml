@@ -8,79 +8,78 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Medical Doctor
-It's time to heal. Or at least, try to heal, anyway. Medical Doctors are the primary caretakers of every boo boo and ouchie crewmembers get on the station, be it a small scratch, or boiled skin.
+# Medizinischer Doktor (Medical Doctor)
+Es ist Zeit zu heilen – oder es zumindest zu versuchen. Medizinische Doktoren (Medical Doctors) sind die Hauptverantwortlichen für die Versorgung aller Verletzungen und Beschwerden der Besatzungsmitglieder (Crewmembers) auf der Station, sei es ein kleiner Kratzer oder verbrannte Haut.
 
-This guide will give you a basic outline of the treatment options you have available, triage, and other avenues of care.
+Dieser Leitfaden gibt Ihnen einen Überblick über Behandlungsmöglichkeiten, Triage und weitere Pflegeoptionen.
 
-## The Basics
-There are two ways to tell what's ailing someone: Taking a scan (with a health analyzer or a medical PDA), or examining them, with a shift-click, and clicking the heart symbol.
+## Grundlagen (The Basics)
+Es gibt zwei Möglichkeiten, die Beschwerden einer Person festzustellen: Scannen mit einem Gesundheitsanalysator (Health Analyzer) oder einem medizinischen PDA (Medical PDA) oder Untersuchen durch Shift-Klick und Klicken auf das Herzsymbol.
 
-Using a health analyzer is often more powerful than examination, as some things (such as poison, or radiation) don't show up on examination. However, using an analyzer has its drawbacks, as it makes noise and uses up a battery.
+Ein Gesundheitsanalysator (Health Analyzer) ist oft leistungsfähiger als das Untersuchen, da einige Probleme (wie Gift oder Strahlung) beim Untersuchen nicht sichtbar sind. Allerdings macht ein Analysator Geräusche und verbraucht Batterie.
 <Box>
-<GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
-<GuideEntityEmbed Entity="MedicalPDA"/>
-<GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
-<GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+<GuideEntityEmbed Entity="SignExamroom" Caption="Patient untersuchen (Examine Patient)"/>
+<GuideEntityEmbed Entity="MedicalPDA" Caption="Medizinischer PDA (Medical PDA)"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="Praktikanten-PDA (Intern PDA)"/>
+<GuideEntityEmbed Entity="HandheldHealthAnalyzer" Caption="Handgesundheitsanalysator (Handheld Health Analyzer)"/>
 </Box>
 
-## Medication and Treatment Options
-Before we go any further, it's probably a good idea to go over damage types, and what will heal them. The wiki has more extensive info available, but these are commonly used.
+## Medikamente und Behandlungsmöglichkeiten (Medication and Treatment Options)
+Bevor wir weitergehen, sollten wir die Schadensarten und deren Heilmittel durchgehen. Das Wiki bietet detailliertere Informationen, aber dies sind die häufig verwendeten:
 
-An important note: Most medication has an overdose level, which will cause harm to your patient. Chemicals also take time to metabolise in pill form, if you want things to act quickly, use a syringe.
+Wichtiger Hinweis: Die meisten Medikamente haben eine Überdosisgrenze, die Patienten schadet. Chemikalien in Pillenform brauchen Zeit zum Metabolisieren; für schnelle Wirkung verwenden Sie eine Spritze.
 
-- Brute Damage: Bicaridine or Bruise Packs
-- Burn Damage: Dermaline or Ointment
-- Toxin (Poison): Dylovene
-- Toxin (Radiation) Hyronalin or Arithrazine
-- Airloss: Dexaline or Inaprovaline
-- Bloodloss: Dexaline (Examine the patient, if pale, they still need blood or iron.)
-- Bleeding: Tranexamic acid and Gauze (Bleeding can also be cauterized with burn damage.)
+- Wuchtschaden (Brute Damage): Bicaridin (Bicaridine) oder Wuchtpflaster (Bruise Packs)
+- Verbrennungsschaden (Burn Damage): Dermalyn (Dermaline) oder Salbe (Ointment)
+- Gift (Toxin, Poison): Dyloven (Dylovene)
+- Strahlung (Toxin, Radiation): Hyronalin oder Arithrazin (Arithrazine)
+- Sauerstoffmangel (Airloss): Dexalin oder Inaprovalin (Inaprovaline)
+- Blutverlust (Bloodloss): Dexalin (prüfen Sie den Patienten; wenn blass, benötigen sie Blut oder Eisen (Iron))
+- Blutung (Bleeding): Tranexamsäure (Tranexamic Acid) und Gaze (Gauze) (Blutung kann auch durch Verbrennungsschaden kauterisiert werden)
 
-Many stations are stocked with kits in storage, and all medics have some equipment in their starting belt.
-
+Viele Stationen haben Vorräte an Kits, und alle Mediziner haben etwas Ausrüstung in ihrem Startgürtel.
 <Box>
-<GuideEntityEmbed Entity="MedkitFilled"/>
-<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
-<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
-<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
-<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
+<GuideEntityEmbed Entity="MedkitFilled" Caption="Medikit (Medkit Filled)"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="Wuchtkit (Brute Kit)"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="Strahlungskit (Radiation Kit)"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="Verbrennungskit (Burn Kit)"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="Giftkit (Toxin Kit)"/>
 </Box>
 
 <Box>
-<GuideEntityEmbed Entity="Brutepack"/>
-<GuideEntityEmbed Entity="Ointment"/>
-<GuideEntityEmbed Entity="EmergencyMedipen"/>
-<GuideEntityEmbed Entity="Bloodpack"/>
-<GuideEntityEmbed Entity="Gauze"/>
+<GuideEntityEmbed Entity="Brutepack" Caption="Wuchtpflaster (Brutepack)"/>
+<GuideEntityEmbed Entity="Ointment" Caption="Salbe (Ointment)"/>
+<GuideEntityEmbed Entity="EmergencyMedipen" Caption="Notfall-Medistift (Emergency Medipen)"/>
+<GuideEntityEmbed Entity="Bloodpack" Caption="Blutbeutel (Bloodpack)"/>
+<GuideEntityEmbed Entity="Gauze" Caption="Gaze (Gauze)"/>
 </Box>
 
-## Basic Treatment and Triage
-Examine your patient, and note down the important details: Are they alive? Bleeding? What type of damage?
+## Grundlegende Behandlung und Triage (Basic Treatment and Triage)
+Untersuchen Sie Ihren Patienten und notieren Sie wichtige Details: Leben sie? Bluten sie? Welche Schadensart?
 
-If alive, treat them as best as you can. Patients are in critical condition at 100 damage, and dead at 200. Keep this in mind when choosing how to treat them. Emergency Pens and Epinephrine are often used to keep patients stable.
+Wenn sie leben, behandeln Sie sie bestmöglich. Patienten sind bei 100 Schaden kritisch (Critical Condition) und bei 200 tot. Berücksichtigen Sie dies bei der Behandlung. Notfall-Stifte (Emergency Pens) und Epinephrin (Epinephrine) werden oft verwendet, um Patienten stabil zu halten.
 
-If possible, buckle them to a medical bed, if you need time to treat them, strap them to a stasis bed instead. Just keep in mind that metabolism (and by extension, healing chemicals) are slowed to a crawl when on stasis, they'll need to be taken off of it for the medicine to be effective. (But Blood Packs, Ointment, and Brute packs all work as normal.)
+Schnallen Sie sie wenn möglich an ein medizinisches Bett (Medical Bed); wenn Sie Zeit brauchen, nutzen Sie ein Stasisbett (Stasis Bed). Beachten Sie, dass der Stoffwechsel (Metabolism) in Stasis stark verlangsamt ist, wodurch Heilchemikalien kaum wirken. Nehmen Sie den Patienten aus der Stasis, damit Medikamente wirken. (Blutbeutel (Blood Packs), Salbe (Ointment) und Wuchtpflaster (Brute Packs) funktionieren normal.)
 <Box>
-<GuideEntityEmbed Entity="MedicalBed"/>
-<GuideEntityEmbed Entity="StasisBed"/>
+<GuideEntityEmbed Entity="MedicalBed" Caption="Medizinisches Bett (Medical Bed)"/>
+<GuideEntityEmbed Entity="StasisBed" Caption="Stasisbett (Stasis Bed)"/>
 </Box>
-## Assessing Corpses
-You can't save them all, sometimes, death happens. Depending on the [color=#a4885c]status[/color] of the body, there are a few things that can be done.
 
-1. Do they have a soul attached? You can tell if, when examining, the following phrase is displayed: "Their soul has departed." If this isn't displayed, there is still a player who can be revived.
+## Beurteilung von Leichen (Assessing Corpses)
+Nicht alle können gerettet werden; manchmal tritt der Tod ein. Je nach [color=#a4885c]Status[/color] der Leiche gibt es einige Optionen:
 
-2. Is the body rotting? If it is, sadly, they'll have to be cloned. A rotting body can't be brought back with a defibrillator. (See Cloning)
+1. Ist eine Seele vorhanden? Beim Untersuchen steht „Ihre Seele ist gegangen“ (Their Soul Has Departed), wenn keine Seele da ist. Ohne diese Meldung kann der Spieler wiederbelebt werden.
 
-3. If they have a soul, and aren't rotten, it's possible to revive them. Consider storing the body in a morgue tray if you don't have enough time to revive someone, as the body will rot if you wait too long.
+2. Verwest die Leiche? Wenn ja, muss sie geklont werden (Cloning). Eine verwesende Leiche kann nicht mit einem Defibrillator wiederbelebt werden.
 
-## Revival
-Not counting airloss, Defibrillator's can be used to revive patients under 200 total damage. Chemicals don't metabolise in the dead, but brute packs and ointment can still patch them up. Use them to bring their numbers down enough for revival.
+3. Wenn eine Seele vorhanden ist und die Leiche nicht verwest, ist eine Wiederbelebung möglich. Lagern Sie die Leiche in einer Leichenschublade (Morgue Tray), wenn Sie keine Zeit für eine sofortige Wiederbelebung haben, da sie sonst verwest.
 
+## Wiederbelebung (Revival)
+Abgesehen von Sauerstoffmangel (Airloss) können Defibrillatoren Patienten unter 200 Gesamtschaden wiederbeleben. Chemikalien werden bei Toten nicht metabolisiert, aber Wuchtpflaster (Brute Packs) und Salbe (Ointment) können sie soweit heilen, dass eine Wiederbelebung möglich ist.
 <Box>
-<GuideEntityEmbed Entity="Brutepack"/>
-<GuideEntityEmbed Entity="Defibrillator"/>
-<GuideEntityEmbed Entity="Ointment"/>
+<GuideEntityEmbed Entity="Brutepack" Caption="Wuchtpflaster (Brutepack)"/>
+<GuideEntityEmbed Entity="Defibrillator" Caption="Defibrillator"/>
+<GuideEntityEmbed Entity="Ointment" Caption="Salbe (Ointment)"/>
 </Box>
 
 </Document>

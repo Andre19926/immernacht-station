@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Tesla/Singularity Containment Loose Procedures
-In the event of a tesla or singularity containment failure (aptly named "tesloose" and "singuloose"), the station evac is to be called and the station alert set to [color=#c8a404]Yellow Alert[/color].
+# Verfahren bei Entfesselten Tesla/Singularitäts-Eindämmungen
+Im Falle eines Tesla- oder Singularitäts-Eindämmungsfehlers (treffend "Tesloose" und "Singuloose" genannt), ist die Stationsevakuierung auszurufen und der Stationsalarm auf [color=#c8a404]Gelben Alarm[/color] zu setzen.
 
-1. Attempts to stop the loosed material should be made, if possible, via containment weapons, such as the [bold][italic]Portable Particle Decelerator[/italic][/bold].
+1. Versuche, das entfesselte Material zu stoppen, sollten, wenn möglich, mittels Eindämmungswaffen, wie dem [bold][italic]Tragbaren Teilchenverzögerer[/italic][/bold] (Portable Particle Decelerator), unternommen werden.
 
-2. Command and Engineering are to do their best at tracking and notifying crew via Communications Channels of the location of the loosed tesla/singularity.
-<Box>It is not required, but vastly recommended of doing so.</Box>
+2. Kommando (Command) und Technik (Engineering) sollen ihr Bestes tun, um die Crew über die Kommunikationskanäle über den Standort des entfesselten Tesla/der Singularität zu verfolgen und zu benachrichtigen.
+<Box>Dies ist nicht erforderlich, aber dringend empfohlen.</Box>
 
-3. Command [bold]must[/bold] open and set EVA Storage to Emergency Access.
+3. Das Kommando [bold]muss[/bold] das EVA-Lager öffnen und auf Notfallzugang (Emergency Access) setzen.
 
-4. In the event of a complete containment of the loosed material, if the station is relatively undamaged, normal shift activity should resume and the alert should be set to a safe alert.
+4. Im Falle einer vollständigen Eindämmung des entfesselten Materials sollte, wenn die Station relativ unbeschädigt ist, der normale Schichtbetrieb wieder aufgenommen und der Alarm auf eine sichere Alarmstufe gesetzt werden.
 
 </Document>

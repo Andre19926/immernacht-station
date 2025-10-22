@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Medical Department SOP
-These are the list of SOPs that Medical Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP der Medizinischen Abteilung (Medical Department SOP)
+Dies ist die Liste der SOPs (Standard Operating Procedures), die das **Medizinische Personal (Medical Personnel)** befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-For purposes of condensing entries, [color=#42636d][bold]Medical Doctor[/bold][/color], [color=#42636d][bold]Medical Intern[/bold][/color], [color=#42636d][bold]Paramedic[/bold][/color] are combined.
+Zur Vereinfachung der Einträge sind [color=#42636d][bold]Arzt (Medical Doctor)[/bold][/color], [color=#42636d][bold]Medizinischer Praktikant (Medical Intern)[/bold][/color] und [color=#42636d][bold]Sanitäter (Paramedic)[/bold][/color] zusammengefasst.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Chief Medical Officer[/bold][/color] being the Head of Staff:
-- [textlink="Chief Medical Officer" link="ChiefMedicalOfficer SOP"]
-- [textlink="Chemist" link="Chemist SOP"]
-- [textlink="Paramedic" link="DoctorIntern SOP"]
-- [textlink="Medical Doctor" link="DoctorIntern SOP"]
-- [textlink="Medical Intern" link="DoctorIntern SOP"]
+Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Leitende Medizinische Offizier (Chief Medical Officer)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
+- [textlink="Leitender Medizinischer Offizier" link="ChiefMedicalOfficer SOP"]
+- [textlink="Chemiker (Chemist)" link="Chemist SOP"]
+- [textlink="Sanitäter (Paramedic)" link="DoctorIntern SOP"]
+- [textlink="Arzt (Medical Doctor)" link="DoctorIntern SOP"]
+- [textlink="Medizinischer Praktikant (Medical Intern)" link="DoctorIntern SOP"]
 
 </Document>

@@ -1,231 +1,231 @@
 <Document>
-  ## Mortality
-  <Box>
-    [color=#999999][italic]-135 Weight[/italic][/color]
-  </Box>
+  ## Mortality
+  <Box>
+    [color=#999999][italic]-135 Weight[/italic][/color]
+  </Box>
 
-  - Grants the target an unlimited amount of self revives.
+  - Gewährt dem Ziel eine unbegrenzte Anzahl von Wiederbelebungen.
 
-  ## Weakness
-  <Box>
-    [color=#999999][italic]-35 Weight[/italic][/color]
-  </Box>
+  ## Weakness
+  <Box>
+    [color=#999999][italic]-35 Weight[/italic][/color]
+  </Box>
 
-  - Cuts all damage the contractee takes in half.
-  - Increases holy damage taken.
+  - Halbiert jeglichen Schaden, den der Vertragsnehmer erleidet.
+  - Erhöht den erlittenen Heiligenschaden (Holy Damage).
 
-  ## Avarice
-  <Box>
-    [color=#999999][italic]-30 Weight[/italic][/color]
-  </Box>
+  ## Avarice
+  <Box>
+    [color=#999999][italic]-30 Weight[/italic][/color]
+  </Box>
 
-  - Allows the contractee to devour things whole, just like a dragon.
+  - Erlaubt dem Vertragsnehmer, Dinge ganz zu verschlingen, genau wie ein Drache.
 
-  ## Fear of Death
-  <Box>
-    [color=#999999][italic]-25 Weight[/italic][/color]
-  </Box>
+  ## Fear of Death
+  <Box>
+    [color=#999999][italic]-25 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee have no critical state. You stand, or you die.
+  - Führt dazu, dass der Vertragsnehmer keinen kritischen Zustand hat. Entweder man steht, oder man stirbt.
 
-  ## Death
-  <Box>
-    [color=#999999][italic]-25 Weight[/italic][/color]
-  </Box>
+  ## Death
+  <Box>
+    [color=#999999][italic]-25 Weight[/italic][/color]
+  </Box>
 
-  - Allows the contractee to revive themselves exactly once on death.
-  - Default on every contract.
+  - Erlaubt dem Vertragsnehmer, sich beim Tod genau einmal selbst wiederzubeleben.
+  - Standardmäßig in jedem Vertrag enthalten.
 
-  ## Shadows
-  <Box>
-    [color=#999999][italic]-25 Weight[/italic][/color]
-  </Box>
+  ## Shadows
+  <Box>
+    [color=#999999][italic]-25 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee invisible.
+  - Macht den Vertragsnehmer unsichtbar.
 
-  ## Brokeness
-  <Box>
-    [color=#999999][italic]-20 Weight[/italic][/color]
-  </Box>
+  ## Brokeness
+  <Box>
+    [color=#999999][italic]-20 Weight[/italic][/color]
+  </Box>
 
-  - Grants the contractee a pair of sick fucking jays, signed by Micheal Jordan himself.
+  - Gewährt dem Vertragsnehmer ein Paar geile, verdammte J's, signiert von Micheal Jordan persönlich.
 
-  ## Fear of Fire
-  <Box>
-    [color=#999999][italic]-20 Weight[/italic][/color]
-  </Box>
+  ## Fear of Fire
+  <Box>
+    [color=#999999][italic]-20 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee immune to fire, and immune to being lit on fire.
+  - Macht den Vertragsnehmer immun gegen Feuer und immun dagegen, in Brand gesetzt zu werden.
 
-  ## Chance
-  <Box>
-    [color=#999999][italic]-15 Weight[/italic][/color]
-  </Box>
+  ## Chance
+  <Box>
+    [color=#999999][italic]-15 Weight[/italic][/color]
+  </Box>
 
-  - Grants the contractee a completely random clause. Want to try your luck?
+  - Gewährt dem Vertragsnehmer eine völlig zufällige Klausel. Wollt ihr euer Glück versuchen?
 
-  ## Fear of Light
-  <Box>
-    [color=#999999][italic]-15 Weight[/italic][/color]
-  </Box>
+  ## Fear of Light
+  <Box>
+    [color=#999999][italic]-15 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee immune to flashes.
+  - Macht den Vertragsnehmer immun gegen Blitze.
 
 
-  ## Fear of Electricity
-  <Box>
-    [color=#999999][italic]-15 Weight[/italic][/color]
-  </Box>
+  ## Fear of Electricity
+  <Box>
+    [color=#999999][italic]-15 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee immune to electrical shocks.
+  - Macht den Vertragsnehmer immun gegen elektrische Schocks.
 
-  ## Gluttony
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Gluttony
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee not need food or water.
+  - Führt dazu, dass der Vertragsnehmer weder Essen noch Wasser benötigt.
 
-  ## Fear of Drowning
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Fear of Drowning
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Disables the contractees need to breathe.
+  - Deaktiviert das Bedürfnis des Vertragsnehmers zu atmen.
 
-  ## Fear of Clowns
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Fear of Clowns
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Disables the contractees ability to slip.
+  - Deaktiviert die Fähigkeit des Vertragsnehmers auszurutschen.
 
-  ## Fear of Crushing
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Fear of Crushing
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee immune to pressure damage.
+  - Macht den Vertragsnehmer immun gegen Druckschaden.
 
-  ## Fear of Freezing
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Fear of Freezing
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee immune to low temperatures.
+  - Macht den Vertragsnehmer immun gegen niedrige Temperaturen.
 
-  ## Greed
-  <Box>
-    [color=#999999][italic]-10 Weight[/italic][/color]
-  </Box>
+  ## Greed
+  <Box>
+    [color=#999999][italic]-10 Weight[/italic][/color]
+  </Box>
 
-  - Grants the target a ton of cash-money.
+  - Gewährt dem Ziel jede Menge Bares.
 
-  ## Pain
-  <Box>
-    [color=#999999][italic]-5 Weight[/italic][/color]
-  </Box>
+  ## Pain
+  <Box>
+    [color=#999999][italic]-5 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee feel no pain, and suffer no negatives from pain.
+  - Führt dazu, dass der Vertragsnehmer keinen Schmerz fühlt und keine negativen Auswirkungen durch Schmerz erleidet.
 
-  ## Inner Peace
-  <Box>
-    [color=#999999][italic]5 Weight[/italic][/color]
-  </Box>
+  ## Inner Peace
+  <Box>
+    [color=#999999][italic]5 Weight[/italic][/color]
+  </Box>
 
-  - Grants the target peace. Everlasting.
+  - Gewährt dem Ziel Frieden. Ewig während.
 
-  ## Voice
-  <Box>
-    [color=#999999][italic]20 Weight[/italic][/color]
-  </Box>
+  ## Voice
+  <Box>
+    [color=#999999][italic]20 Weight[/italic][/color]
+  </Box>
 
-  - Permanently mutes the contractee.
+  - Stummschaltet den Vertragsnehmer permanent.
 
-  ## A hand
-  <Box>
-    [color=#999999][italic]20 Weight[/italic][/color]
-  </Box>
+  ## A hand
+  <Box>
+    [color=#999999][italic]20 Weight[/italic][/color]
+  </Box>
 
-  - Immediately severs one of the contractees hands.
+  - Durchtrennt sofort eine der Hände des Vertragsnehmers.
 
-  ## A leg
-  <Box>
-    [color=#999999][italic]20 Weight[/italic][/color]
-  </Box>
+  ## A leg
+  <Box>
+    [color=#999999][italic]20 Weight[/italic][/color]
+  </Box>
 
-  - Immediately severs one of the contractees legs.
+  - Durchtrennt sofort eines der Beine des Vertragsnehmers.
 
-  ## Soul Ownership
-  <Box>
-    [color=#999999][italic]25 Weight[/italic][/color]
-  </Box>
+  ## Soul Ownership
+  <Box>
+    [color=#999999][italic]25 Weight[/italic][/color]
+  </Box>
 
-  - Transfers ownership of a soul to the contractor.
-  - Default on every contract.
+  - Überträgt das Eigentum einer Seele auf den Vertragspartner.
+  - Standardmäßig in jedem Vertrag enthalten.
 
-  ## Strength
-  <Box>
-    [color=#999999][italic]30 Weight[/italic][/color]
-  </Box>
+  ## Strength
+  <Box>
+    [color=#999999][italic]30 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee take double damage.
+  - Führt dazu, dass der Vertragsnehmer doppelten Schaden erleidet.
 
-  ## Coherence
-  <Box>
-    [color=#999999][italic]30 Weight[/italic][/color]
-  </Box>
+  ## Coherence
+  <Box>
+    [color=#999999][italic]30 Weight[/italic][/color]
+  </Box>
 
-  - Makes the contractee clumsy and messes up their speech.
+  - Macht den Vertragsnehmer ungeschickt und verhunzt seine Sprache.
 
-  ## Awake
-  <Box>
-    [color=#999999][italic]35 Weight[/italic][/color]
-  </Box>
+  ## Awake
+  <Box>
+    [color=#999999][italic]35 Weight[/italic][/color]
+  </Box>
 
-  - Turns the target narcoleptic.
+  - Macht das Ziel narkoleptisch.
 
-  ## An organ
-  <Box>
-    [color=#999999][italic]30 Weight[/italic][/color]
-  </Box>
+  ## An organ
+  <Box>
+    [color=#999999][italic]30 Weight[/italic][/color]
+  </Box>
 
-  - Dumps one of the contractees organs on the ground.
-  - This is most likely the heart.
+  - Wirft eines der Organe des Vertragsnehmers auf den Boden.
+  - Dies ist höchstwahrscheinlich das Herz.
 
-  ## Legs
-  <Box>
-    [color=#999999][italic]40 Weight[/italic][/color]
-  </Box>
+  ## Legs
+  <Box>
+    [color=#999999][italic]40 Weight[/italic][/color]
+  </Box>
 
-  - Permanently paralyzes both of the contractees legs.
+  - Lähmtt beide Beine des Vertragsnehmers permanent.
 
-  ## Sight
-  <Box>
-    [color=#999999][italic]60 Weight[/italic][/color]
-  </Box>
+  ## Sight
+  <Box>
+    [color=#999999][italic]60 Weight[/italic][/color]
+  </Box>
 
-  - Permanently blinds the contractee.
+  - Blendet den Vertragsnehmer permanent.
 
-  ## Will to fight
-  <Box>
-    [color=#999999][italic]60 Weight[/italic][/color]
-  </Box>
+  ## Will to fight
+  <Box>
+    [color=#999999][italic]60 Weight[/italic][/color]
+  </Box>
 
-  - Permanently pacifies the contractee.
+  - Pazifiziert den Vertragsnehmer permanent.
 
-  ## Humanity
-  <Box>
-    [color=#999999][italic]80 Weight[/italic][/color]
-  </Box>
+  ## Humanity
+  <Box>
+    [color=#999999][italic]80 Weight[/italic][/color]
+  </Box>
 
-  - Turns the contractee into a frog.
-  - This is permanent.
+  - Verwandelt den Vertragsnehmer in einen Frosch.
+  - Dies ist permanent.
 
-  ## Time
-  <Box>
-    [color=#999999][italic]150 Weight[/italic][/color]
-  </Box>
+  ## Time
+  <Box>
+    [color=#999999][italic]150 Weight[/italic][/color]
+  </Box>
 
-  - Kills the contractee after five minutes.
+  - Tötet den Vertragsnehmer nach fünf Minuten.
 </Document>

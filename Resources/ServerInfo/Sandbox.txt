@@ -1,16 +1,15 @@
+[color=#ffffff]Optionen des Entitäts-Spawn-Panels[/color]
+[color=#a4885c]Default[/color] spawnt kleine Entitäten wie Tassen, ohne sie an etwas auszurichten, während Block-Entitäten wie Wände am Raster ausgerichtet werden.
+[color=#a4885c]PlaceFree[/color] spawnt alle Entitäten, ohne sie auszurichten.
+[color=#a4885c]PlaceNearby[/color] begrenzt den Spawn-Radius auf etwa 2 Kacheln (Tiles).
+[color=#a4885c]SnapgridCenter[/color] richtet die Entität an der Mitte der Kachel aus.
+[color=#a4885c]SnapgridBorder[/color] richtet die Entität am Rand der Kachel aus.
 
-[color=#ffffff]Entity spawn panel options[/color]
-[color=#a4885c]Default[/color] spawns small entities like mugs without aligning them to anything, while aligning block entities like walls to the grid.
-[color=#a4885c]PlaceFree[/color] spawns all entities without aligning them.
-[color=#a4885c]PlaceNearby[/color] limits the spawn radius to around 2 tiles.
-[color=#a4885c]SnapgridCenter[/color] aligns the entity to the middle of the tile.
-[color=#a4885c]SnapgridBorder[/color] aligns the entity to the border of the tile.
-
-[color=#ffffff]Grid aligned options[/color]
-[color=#a4885c]AlignSimilar[/color] snaps the entity to similar entities. Currently broken.
-[color=#a4885c]AlignTileAny[/color] aligns the entity to the grid.
-[color=#a4885c]AlignTileEmpty[/color] target tile must be empty
-[color=#a4885c]AlignTileNonDense[/color] no colliders allowed in the target tile.
-[color=#a4885c]AlignTileDense[/color] colliders must be in the target tile.
-[color=#a4885c]AlignWall[/color] snaps to vertical halftiles.
-[color=#a4885c]AlignWallProper[/color] snaps the entity to the middle of the tile edges
+[color=#ffffff]Am Raster ausgerichtete Optionen[/color]
+[color=#a4885c]AlignSimilar[/color] rastet die Entität an ähnlichen Entitäten ein. Derzeit defekt.
+[color=#a4885c]AlignTileAny[/color] richtet die Entität am Raster aus.
+[color=#a4885c]AlignTileEmpty[/color] Zielkachel muss leer sein.
+[color=#a4885c]AlignTileNonDense[/color] keine Kollider (Collider) in der Zielkachel erlaubt.
+[color=#a4885c]AlignTileDense[/color] Kollider müssen sich in der Zielkachel befinden.
+[color=#a4885c]AlignWall[/color] rastet an vertikalen halben Kacheln (Halftiles) ein.
+[color=#a4885c]AlignWallProper[/color] rastet die Entität an der Mitte der Kachelkanten ein.

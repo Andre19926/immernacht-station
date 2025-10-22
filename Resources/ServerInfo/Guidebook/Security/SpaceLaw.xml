@@ -8,284 +8,275 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Space Law
-  Goob Station operates under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to know and follow these laws.
+  # Weltraumgesetz
+  Die Goob-Station unterliegt einem verkürzten Weltraumgesetz. Alle Besatzungsmitglieder, Passagiere und Besucher an Bord der Station müssen diese Gesetze kennen und befolgen.
 
-  - [color=red][bold]Head of Security[/bold][/color] and especially [color=red][bold]Warden[/bold][/color] should be very familiar with space law.
-  - Security players should strive to fully comprehend Space Law.
-  - [bold]Ignoring or misuse of Space Law may be subject to punishment under incompetence. Do not play security if you do not plan to follow the rules[/bold]
+  - [color=red][bold]Sicherheitschef[/bold][/color] und insbesondere [color=red][bold]Wärter[/bold][/color] sollten mit dem Weltraumgesetz bestens vertraut sein.
+  - Sicherheitsspieler sollten bestrebt sein, das Weltraumgesetz vollständig zu verstehen.
+  - [bold]Das Ignorieren oder Missbrauchen des Weltraumgesetzes kann unter Inkompetenz bestraft werden. Spielen Sie keine Sicherheitsrolle, wenn Sie nicht vorhaben, die Regeln zu befolgen[/bold]
 
-  ## Treatment Of Prisoners
+  ## Behandlung von Gefangenen
 
-  Prisoners still have rights that must be upheld by law enforcement:
+  Gefangene haben weiterhin Rechte, die von den Strafverfolgungsbehörden eingehalten werden müssen:
 
-  - Prisoners must be granted adequate medical care. They should also be provided psychiatric and spiritual counselling if requested.
-  - Prisoners must be allowed access to communications equipment (Radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA during confinement. Unless there is solid proof of PDA tampering, in which case the PDA is to be secured and replaced with a fresh one
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for extended or permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  - Gefangenen muss angemessene medizinische Versorgung gewährt werden. Auf Wunsch sollten sie auch psychiatrische und spirituelle Beratung erhalten.
+  - Gefangenen muss der Zugang zu Kommunikationsgeräten (Radios) gewährt werden, solange diese nicht missbraucht werden.
+  - Gefangenen müssen Kleidung, Nahrung, Wasser, Unterkunft und Sicherheit gewährt werden. Wenn das Gefängnis nicht mehr sicher ist, muss die Haft an einem anderen Ort eingerichtet werden.
+  - Gefangenen muss auf Wunsch und bei Verfügbarkeit während eines Verhörs Zugang zu rechtlichem Beistand gewährt werden.
+  - Gefangenen muss während der Haft ihr schichtbezogener PDA zur Verfügung gestellt werden. Es sei denn, es gibt stichhaltige Beweise für eine Manipulation des PDAs, in diesem Fall ist der PDA zu sichern und durch einen neuen zu ersetzen.
+  - Gefangenen muss Bewegungsfreiheit gewährt werden, und sie sollten nach der Inhaftierung nicht mit Handschellen oder anderen Vorrichtungen gefesselt werden, es sei denn, es besteht ein unangemessenes Risiko für Leib und Leben. Ebenso sollten Gefangene, die für längere oder dauerhafte Haft gehalten werden, im Gemeinschaftsgefängnis untergebracht werden und nicht in einer Einzelzelle, es sei denn, sie stellen ein Risiko für Leib und Leben dar.
 
-  ## Searches
+  ## Durchsuchungen
 
-  - A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, pockets, and hat. If any contraband is found during a search the officer may choose to further the search into a detainment or simply confiscate the restricted items. After the search is conducted all legal items are to be returned to the person.
+  - Eine Personendurchsuchung ist die Beschlagnahmung der Gegenstände in einem Rucksack, den Händen, dem Mantel, dem Gürtel, den Taschen und dem Hut einer Person. Wenn während einer Durchsuchung Schmuggelware gefunden wird, kann der Beamte entscheiden, die Durchsuchung in eine Festnahme auszuweiten oder die verbotenen Gegenstände lediglich zu konfiszieren. Nach der Durchsuchung sind alle legalen Gegenstände an die Person zurückzugeben.
 
-  - A crewmate may legally decline any search conducted without a warrant while the alert level is green. Should be noted that if the alert level is blue or above all personnel searches are legal and no longer require a warrant.
+  - Ein Besatzungsmitglied kann jede Durchsuchung ohne Durchsuchungsbefehl rechtlich ablehnen, solange der Alarmstatus grün ist. Es ist zu beachten, dass bei einem Alarmstatus blau oder höher alle Personendurchsuchungen legal sind und keinen Durchsuchungsbefehl mehr erfordern.
 
   ## Implantation
 
-  - Any prisoner in custody can be subjected to implantation or implant removal procedures, so long as there's proof, or reasonable suspicion of an implant. The process of removing an implant should be done quickly, not holding the detainee for longer than their stated sentence. A prisoner can still be subject to receive an implant/removal if there has been clear permission given.
+  - Jeder inhaftierte Gefangene kann Implantations- oder Implantat-Entfernungsverfahren unterzogen werden, sofern ein Beweis oder ein begründeter Verdacht auf ein Implantat vorliegt. Das Verfahren zur Entfernung eines Implantats sollte schnell durchgeführt werden, ohne den Inhaftierten länger als die angegebene Strafe festzuhalten. Ein Gefangener kann auch dann einer Implantation/Entfernung unterzogen werden, wenn eine klare Zustimmung vorliegt.
 
-  - [bold]Mind Shields[/bold]: Shields can be administered to any inmate who has been clearly mind controlled, lost control of themselves, or a suspect charged with unlawful control. Unlike standard implantation you may hold a prisoner until you finish issuing Mind Shields, so long as it's done in a timely fashion. If a suspect refuses cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  - [bold]Gedankenschilde[/bold]: Schilde können jedem Insassen verabreicht werden, der eindeutig geistig kontrolliert wurde, die Kontrolle über sich selbst verloren hat oder eines unrechtmäßigen Kontrollvergehens beschuldigt wird. Im Gegensatz zur Standardimplantation kann ein Gefangener festgehalten werden, bis die Ausgabe der Gedankenschilde abgeschlossen ist, sofern dies zeitnah geschieht. Wenn ein Verdächtiger die Zusammenarbeit verweigert oder das Implantat nicht funktioniert, kann er wegen Verweigerung der Gedankenschilde angeklagt werden.
 
-  # Removal
+  # Entfernung
 
-  - A suspect can be forced to receive implant removal if there is strong reasonable proof that they have been implanted, such as an officer seeing them use one or their prints being on a discarded injector. Unlike implantation procedure a prisoner can have their sentence entirely delayed or extended until they comply with the procedure, as long as security are actively making attempts to preform it. Akin to implanting, if an inmate gives their clear permission, implant removal can proceed without proof.
+  - Ein Verdächtiger kann zur Entfernung eines Implantats gezwungen werden, wenn ein starker begründeter Beweis vorliegt, dass er implantiert wurde, wie z. B. wenn ein Beamter sieht, wie er eines verwendet, oder seine Fingerabdrücke auf einem weggeworfenen Injektor gefunden werden. Im Gegensatz zum Implantationsverfahren kann die Strafe eines Gefangenen vollständig verzögert oder verlängert werden, bis er dem Verfahren nachkommt, solange die Sicherheitskräfte aktiv versuchen, es durchzuführen. Ähnlich wie bei der Implantation kann die Entfernung eines Implantats ohne Beweis fortgesetzt werden, wenn der Insasse seine klare Zustimmung gibt.
 
-  ## Sentencing
-  - All sentencing is to be handled by the Warden, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member.
+  ## Verurteilung
 
-  - Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  - Alle Verurteilungen sind vom Wärter zu handhaben; ist kein Wärter verfügbar, übernimmt der Sicherheitschef diese Aufgabe; ist kein Sicherheitschef vorhanden, fällt dies dem ranghöchsten Kommandomitglied zu.
 
-  - [bold]Accessory, Attempting, And Intention:[/bold] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with terrorism. Does not apply to crimes that have an attempted listing already, like attempted murder.
+  - Verwenden Sie gesunden Menschenverstand und Menschlichkeit bei der Verhängung von Strafen. Sie sollten nicht immer die höchstmögliche Strafe anstreben, Sie müssen nicht immer die maximale Zeit verhängen oder immer eine Degradierung anstreben. Berücksichtigen Sie stets die Schwere des Vergehens und klagen Sie nur das an, was nötig ist, damit jemand seine Lektion lernt.
 
-  - [bold]Stackable Crimes:[/bold] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime.
+  - [bold]Beihilfe, Versuch und Absicht:[/bold] Wenn jemand absichtlich, wissentlich und erheblich jemandem hilft, ein Verbrechen zu begehen, kann er für die entsprechenden Verbrechen angeklagt werden, wie z. B. ein Ingenieur, der jemandem Werkzeuge gibt, der sagt, er werde in einen Bereich einbrechen. Dasselbe gilt für einen klaren und soliden Versuch eines Verbrechens oder eine Person, die klare Absicht zeigt, ein Verbrechen zu begehen, wie z. B. ein Syndikat-Nuklearoperativer, der eine Bombe scharf macht, aber vor der Detonation verhaftet wird; er kann dennoch wegen Terrorismus angeklagt werden. Gilt nicht für Verbrechen, die bereits eine versuchte Auflistung haben, wie versuchter Mord.
 
-  # [color=red][bold]"YOU MAY NOT EXCEED 10 MINUTES AS A BRIG TIME"[/bold][/color]
+  - [bold]Stapelbare Verbrechen:[/bold] Verbrechen gelten als „stapelbar“ in dem Sinne, dass, wenn Sie jemanden wegen zwei oder mehr verschiedener Verbrechen anklagen, Sie die Zeiten, die Sie für jedes Verbrechen verhängen würden, kombinieren sollten.
 
-  # Any total brig time that adds up to above 10 minutes will be shortened to meet this limit.
+  # [color=red][bold]"SIE DÜRFEN EINE HAFTZEIT VON 10 MINUTEN NICHT ÜBERSCHREITEN"[/bold][/color]
 
-  # If it goes above 20 minutes, you may perma the person.
+  # Jede Gesamthaftzeit, die über 10 Minuten hinausgeht, wird verkürzt, um diese Grenze einzuhalten.
 
+  # Wenn sie über 20 Minuten hinausgeht, können Sie die Person dauerhaft einsperren.
 
+  # Verbrechen
 
-  # Crimes
+  # I. Grad
 
-  # I Degree
+  Für kleinere Verbrechen beheben Sie das Problem und warnen Sie die Person, das Verbrechen nicht erneut zu begehen; wenn sie es zu einem späteren Zeitpunkt dennoch tun, ist eine Haftzeit möglicherweise besser geeignet.
 
-  For minor crimes, fix the issue then warn the person to not attempt the crime again, if they still proceed to do it at a later date, a brig time may be better.
+  ## Störung der öffentlichen Ordnung
 
-  ## Disturbance
+  [bold]Beschreibung[/bold]: Eine öffentliche Störung verursachen.
 
-  [bold]Description[/bold]: To cause a public disturbance.
+  [bold]Maximale Strafe:[/bold] 2:00
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  [bold]Hinweise:[/bold] Manchmal als Rowdytum bezeichnet. Der Sammelbegriff für störende Besatzungsmitglieder. Umfasst Dinge wie öffentliche Nacktheit, unnötige Beleidigungen, Behinderung von Behörden und Anstachelung zu Verbrechen oder Gewalt.
 
-  [bold]Notes:[/bold] Sometimes referred to as hooliganism. The catch-all for obnoxious crewmates. Covers things such as public nudity, needless insults, obstructing authorities, and inciting crime or violence.
+  ## Kleiner Diebstahl
 
-  ## Petty Theft
+  [bold]Beschreibung[/bold]: Nicht lebenswichtiges oder preiswertes Eigentum einer anderen Person, Organisation oder Gemeinschaftseigentum ohne Zustimmung nehmen.
 
-  [bold]Description[/bold]: To take non-vital or inexpensive property of another individual, organization, or common property, without consent.
+  [bold]Maximale Strafe:[/bold] 3:00
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  [bold]Hinweise:[/bold] Der Unterschied zwischen kleinem Diebstahl und schwerem Diebstahl basiert darauf, wie wichtig der gestohlene Gegenstand ist; Dinge wie Instrumente, Kleidung und Werkzeuge fallen unter kleinen Diebstahl. In den meisten Fällen müssen Sie den Dieb lediglich festnehmen, den gestohlenen Gegenstand zurückgeben und ihn mit einer Verwarnung freilassen.
 
-  [bold]Notes:[/bold] The difference between petty theft and grand theft is based on how crucial the stolen item is, things like instruments, clothing and tools fall under petty theft. In most cases all you need to do is detain the thief, return the stolen item and let them go with a warning.
+  ## Besitz/Konsum illegaler Substanzen
 
-  ## Possession/Use of Illegal Substances
+  [bold]Beschreibung[/bold]: Verbotene Drogen oder Chemikalien herstellen, besitzen oder missbrauchen.
 
-  [bold]Description[/bold]: To make, hold, or abuse restricted drugs or chemicals.
+  [bold]Maximale Strafe:[/bold] 3:00
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  [bold]Hinweise:[/bold] Dies ist gemäß Standardbetriebsverfahren zu befolgen. Wenn etwas Fragliches nicht in den SOP erwähnt wird, kann der Kapitän oder das ranghöchste Kommandomitglied es öffentlich verbieten.
 
-  [bold]Notes: This is to be followed in accordance with Standard Operating Procedure. If anything questionable is not brought up in SOP the captain or highest standing command staff may publicly restrict it.[/bold]
+  ## Unbefugtes Betreten
 
-  ## Tresspass
+  [bold]Beschreibung[/bold]: Einen nicht gesicherten Bereich ohne Erlaubnis betreten.
 
-  [bold]Description[/bold]: To enter a non-secured area without permission.
+  [bold]Maximale Strafe:[/bold] 2:00
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  [bold]Hinweise:[/bold] Am besten ist es, sie aus dem Bereich zu entfernen, es sei denn, es handelt sich um ein wiederholtes Vergehen.
 
-  [bold]Notes:[/bold] It's best to just remove them from the area unless this is a repeated crime.
+  ## Vandalismus
 
-  ## Vandalism
+  [bold]Beschreibung[/bold]: Öffentliches oder privates Eigentum absichtlich verunstalten oder oberflächlich beschädigen.
 
-  [bold]Description[/bold]: To intentionally deface or superficially damage public or private property.
+  [bold]Maximale Strafe:[/bold] 2:00
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  [bold]Hinweise:[/bold] Graffiti malen, Bargläser zerschlagen und interne Fenster zerkratzen ist Vandalismus; das Einschlagen eines Fensters ins All oder in gesicherte Bereiche ist es nicht.
 
-  [bold]Notes:[/bold] Painting graffiti, smashing bar glasses, and cracking internal windows is vandalism, breaking a window into space or secure areas is not.
+  # II. Grad
 
+  ## Tierquälerei
 
+  [bold]Beschreibung[/bold]: Einem nicht-sapienten Wesen mit böser Absicht unnötiges Leiden oder Schaden zufügen.
 
-  # II Degree
+  [bold]Maximale Strafe:[/bold] 3:00
 
-  ## Animal Cruelty
+  [bold]Hinweise:[/bold] Dies schließt legitime und autorisierte Tierversuche nicht ein und erstreckt sich normalerweise nicht auf Ungeziefer oder Kreaturen, die eine Bedrohung für die Station darstellen könnten.
 
-  [bold]Description[/bold]: To inflict unnecessary suffering or harm on a non-sapient being with malicious intent.
+  ## Beschädigung/Zerstörung von Eigentum
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  [bold]Beschreibung[/bold]: Öffentliches oder privates Eigentum oder Ausrüstung böswillig beschädigen oder verunstalten.
 
-  [bold]Notes:[/bold] This doesn't include legitimate and authorized animal testing and usually doesn't extend to vermin or creatures that could pose a threat to the station.
+  [bold]Maximale Strafe:[/bold] 4:00
 
-  ## Damage/Destruction of Property
+  [bold]Hinweise:[/bold] Ein Schritt über Vandalismus, aber ein Schritt unter Massenzerstörung.
 
-  [bold]Description[/bold]: To maliciously damage or deface public or private property or equipment.
+  ## Gefährdung
 
-  [bold]Maximum Punishment:[/bold] 4:00
+  [bold]Beschreibung[/bold]: Sich selbst oder andere durch direkte Handlungen oder Unterlassungen rücksichtslos in Gefahr bringen.
 
-  [bold]Notes:[/bold] Step up from vandalism but a step down from mass destruction.
+  [bold]Maximale Strafe:[/bold] 4:00
 
-  ## Endangerment
+  [bold]Hinweise:[/bold] Umfasst industrielle Unfälle, industrielle Fahrlässigkeit, Selbstexperimente oder sogar medizinische Kunstfehler.
 
-  [bold]Description[/bold]: To recklessly put yourself or others in danger, either through direct action, or failure to act.
+  ## Nichtbefolgung von Anweisungen
 
-  [bold]Maximum Punishment:[/bold] 4:00
+  [bold]Beschreibung[/bold]: Sich angemessenen Anweisungen einer Autorität widersetzen. Dies erstreckt sich auf Haftbefehle und autorisierte Durchsuchungen.
 
-  [bold]Notes:[/bold] Covers industrial accidents, industrial negligence, self-experimentation, or even medical malpractice.
+  [bold]Maximale Strafe:[/bold] 2:00
 
-  ## Failure to Comply
+  [bold]Hinweise:[/bold] Die Anweisung muss angemessen sein, und die Person muss ausreichend gewarnt werden, bevor die Verhaftung erfolgt.
 
-  [bold]Description[/bold]: To resist reasonable orders given by an authority. This extends to warrants and authorized searches.
+  ## Besitz eingeschränkter Ausrüstung
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  [bold]Beschreibung[/bold]: Nicht-tödliche Gegenstände oder Objekte besitzen oder verwenden, die eingeschränkt oder illegal sind.
 
-  [bold]Notes:[/bold] The order has to be reasonable and the person has to receive a good amount of warning before the arrest is issued.
+  [bold]Maximale Strafe:[/bold] 5:00
 
-  ## Posession of Restricted Gear
+  [bold]Hinweise:[/bold] Dies betrifft hauptsächlich Schmuggelware des Syndikats: EMAGs, Syndikat-Gasmasken, blutrote Hartsuits, gehackte PDAs oder Implantate, kann sich aber manchmal auch auf Dinge erstrecken, die die Person nicht besitzen sollte, wie Kevlarwesten und Sicherheitsausrüstung.
 
-  [bold]Description[/bold]: To hold or use non-lethal items or objects that are restricted or illegal.
+  ## Aufruhr
 
-  [bold]Maximum Punishment:[/bold] 5:00
+  [bold]Beschreibung[/bold]: An einer großen Gruppe von Personen teilnehmen, die eine unrechtmäßige öffentliche Störung verursachen.
 
-  [bold]Notes:[/bold] This is mostly for syndicate contraband; EMAGs, syndicate gas masks, bloodred hardsuits, hijacked PDAs, or implants, however can sometimes extend to things the individual shouldn't possess like kevlar vests and security gear.
+  [bold]Maximale Strafe:[/bold] 4:00
 
-  ## Rioting
+  [bold]Hinweise:[/bold] Verbrechen wie Sachbeschädigung oder Körperverletzung sollten zusätzlich zu dieser Anklage erhoben werden. Anführer eines Aufruhrs können für alle Verbrechen angeklagt werden, die unter ihrer Führung geschehen.
 
-  [bold]Description[/bold]: To take part in a large group of personnel creating an unlawful public disturbance.
+  # III. Grad
 
-  [bold]Maximum Punishment:[/bold] 4:00
+  ## Körperverletzung
 
-  [bold]Notes:[/bold] Crimes like damage of property or battery are expected to be thrown on top of this charge. Leaders of a riot can be charged with all crimes that happen under their lead.
+  [bold]Beschreibung[/bold]: Jemanden mit physischer Gewalt bedrohen oder gegen jemanden physische Gewalt anwenden, ohne die Absicht zu töten.
 
+  [bold]Maximale Strafe:[/bold] 6:00
 
+  [bold]Hinweise:[/bold] Versuchter Mord und Körperverletzung sind unterschiedlich, stellen Sie sicher, dass Sie es richtig einschätzen.
 
-  # III Degree
+  ## Verhaftungswiderstand
 
-  ## Assault/Battery
+  [bold]Beschreibung[/bold]: Sich absichtlich der Verhaftung oder Festnahme durch autorisiertes Personal widersetzen und fliehen.
 
-  [bold]Description[/bold]: To threaten to or to use physical force against someone without the intent to kill.
+  [bold]Maximale Strafe:[/bold] 4:00
 
-  [bold]Maximum Punishment:[/bold] 6:00
+  [bold]Hinweise:[/bold] Dies gilt nur, wenn die Person aktiv physisch verhaftet wird. Umfasst Personen, die Handschellen lösen oder anderen bei der Flucht aus einer Verhaftung helfen. Haftbruch ist ein separates Verbrechen.
 
-  [bold]Notes:[/bold] Attempted murder and battery are different, make sure you've got it right.
+  ## Schwerer Diebstahl
 
-  ## Breach of Arrest
+  [bold]Beschreibung[/bold]: Kritisches oder unersetzliches Eigentum einer anderen Person oder Organisation ohne Zustimmung nehmen.
 
-  [bold]Description[/bold]: To intentionally resist and flee arrest or detainment by an authorized staff.
+  [bold]Maximale Strafe:[/bold] 6:00
 
-  [bold]Maximum Punishment:[/bold] 4:00
+  [bold]Hinweise:[/bold] Der Unterschied zwischen kleinem Diebstahl und schwerem Diebstahl basiert darauf, wie wichtig der gestohlene Gegenstand ist; dies wird hauptsächlich für den Diebstahl von Gegenständen des Kommandopersonals verwendet, wie Türfernbedienungen, Hartsuits, Jetpacks und unersetzliche Maschinenteile.
 
-  [bold]Notes:[/bold] This only applies if the person is actively being physically arrested. Includes people uncuffing or assisting others out of an arrest. Breach of custody is a separate crime.
+  ## Totschlag
 
-  ## Grand Theft
+  [bold]Beschreibung[/bold]: Ein sapientes Wesen unbeabsichtigt töten.
 
-  [bold]Description[/bold]: To take critical or unreplaceable property of another individual or organization without consent.
+  [bold]Maximale Strafe:[/bold] 8:00
 
-  [bold]Maximum Punishment:[/bold] 6:00
+  [bold]Hinweise:[/bold] Umfasst Totschlag in Notwehr und fahrlässigen Totschlag.
 
-  [bold]Notes:[/bold] The difference between petty theft and grand theft is based on how crucial the stolen item is, this mostly is used for the theft of command staff items, things like door remotes, hardsuits, jetpacks, and unreplaceable machine parts.
+  ## Massenzerstörung
 
-  ## Manslaughter
+  [bold]Beschreibung[/bold]: Massive Schäden an einem Bereich oder einem wichtigen Stationssystem verursachen.
 
-  [bold]Description[/bold]: To incidentally kill a sapient being without intent.
+  [bold]Maximale Strafe:[/bold] 10:00
 
-  [bold]Maximum Punishment:[/bold] 8:00
+  [bold]Hinweise:[/bold] Dies wird hauptsächlich für tödliche Bombenanschläge oder Sabotage großer Stationssysteme wie Stromproduktion, Klonen, Unterstationen oder Atmosphärensysteme verwendet.
 
-  [bold]Notes:[/bold] Includes manslaughter in self-defense and negligent manslaughter.
+  ## Besitz verbotener Waffen
 
-  ## Mass Destruction
+  [bold]Beschreibung[/bold]: Eine illegale oder Schmuggelware-Waffe besitzen oder verwenden.
 
-  [bold]Description[/bold]: To cause massive damage to an area or major station system.
+  [bold]Maximale Strafe:[/bold] 6:00
 
-  [bold]Maximum Punishment:[/bold] 10:00
+  [bold]Hinweise:[/bold] Umfasst alles von Waffen ohne Genehmigung, tödlichen Klingen, Sprengstoffen, Syndikat-Schusswaffen bis hin zu Sprengimplantaten.
 
-  [bold]Notes:[/bold] This is mostly used for deadly bombings or sabotage of major station systems such as power production, cloning, substations, or atmos.
+  ## Gesichertes unbefugtes Betreten
 
-  ## Posession of Restricted Weaponry
+  [bold]Beschreibung[/bold]: Einen gesicherten Bereich ohne Erlaubnis betreten.
 
-  [bold]Description[/bold]: To hold or use a weapon that is unlawful or contraband.
+  [bold]Maximale Strafe:[/bold] 6:00
 
-  [bold]Maximum Punishment:[/bold] 6:00
+  [bold]Hinweise:[/bold] Dies umfasst Orte wie Telekommunikation, Büros der Führungskräfte, Sicherheitszonen, Kommandobereiche, das Tresor und das Waffenlager.
 
-  [bold]Notes:[/bold] Everything from guns without a permit, deadly blades, explosives, syndicate firearms to explosive implants.
+  ## Haftbruch
 
-  ## Secure Tresspass
+  [bold]Beschreibung[/bold]: Aus einer Zelle oder Haft mit der Absicht auszubrechen.
 
-  [bold]Description[/bold]: To enter a secured area without permission.
+  [bold]Maximale Strafe:[/bold] 5:00
 
-  [bold]Maximum Punishment:[/bold] 6:00
+  [bold]Hinweise:[/bold] Diese Zeit sollte zur aktuellen Haftzeit eines Gefangenen hinzugefügt werden. Obwohl selten, kann diese Anklage auf dauerhafte Haft erhöht werden, wenn der Verdächtige wiederholt versucht hat, aus der dauerhaften Haft auszubrechen. Umfasst Personen, die andere ausbrechen lassen.
 
-  [bold]Notes:[/bold] This covers places like telecomms, head offices, security zones, command areas, the vault and armory.
+  # IV. Grad
 
-  ## Breach of Custody
+  ## Versucher Mord
 
-  [bold]Description[/bold]: To break out of a cell or custody with the intention of escaping.
+  [bold]Beschreibung[/bold]: Einen Versuch unternehmen, physische Gewalt gegen jemanden mit der klaren Absicht zu töten, anzuwenden.
 
-  [bold]Maximum Punishment:[/bold] 5:00
+  [bold]Maximale Strafe:[/bold] 10:00
 
-  [bold]Notes:[/bold] This time should be added on top of a prisoners current brig time. While rare, this charge can be bumped to permanent brig if the suspect has repeatedly attempted to break out of the permanent brig. Includes people breaking others out.
+  [bold]Hinweise:[/bold] Stellen Sie sicher, dass Sie Beweise für die behaupteten Absichten haben.
 
+  ## Unrechtmäßige Kontrolle/Entführung/Geiselnahme
 
+  [bold]Beschreibung[/bold]: Ein sapientes Wesen gegen seinen Willen unrechtmäßig einsperren, transportieren, kontrollieren oder einschränken.
 
-  # IV Degree
+  [bold]Maximale Strafe:[/bold] 10:00
 
-  ## Attempted Murder
+  [bold]Hinweise:[/bold] Ein breites Spektrum an Dingen, hauptsächlich als Sammelbegriff verwendet, wenn es um die unrechtmäßige Kontrolle eines anderen Wesens geht.
 
-  [bold]Description[/bold]: To make an attempt to use physical force against someone with the clear intent to kill.
+  ## Mord
 
-  [bold]Maximum Punishment:[/bold] 10:00
+  [bold]Beschreibung[/bold]: Ein sapientes Wesen mit böser Absicht töten.
 
-  [bold]Notes:[/bold] Make sure you've got the proof to back up the intention claims.
+  [bold]Maximale Strafe:[/bold] 10:00
 
-  ## Unlawful Control/Kidnapping/Hostage Taking
+  [bold]Hinweise:[/bold] Dies ändert sich von versuchtem Mord zu vollem Mord, nur wenn das Opfer in einen Zustand des Todes gerät und wiederbelebt werden muss.
 
-  [bold]Description[/bold]: To unlawfully restrain, transport, control or confine a sapient being against that individual's will.
+  # V. Grad
 
-  [bold]Maximum Punishment:[/bold] 10:00
+  ## Massenmord
 
-  [bold]Notes:[/bold] A large range of things, used mostly as a catch all when dealing with unlawful control of another being.
+  [bold]Beschreibung[/bold]: Drei oder mehr sapiente Wesen mit böser Absicht töten.
 
-  ## Murder
+  [bold]Maximale Strafe:[/bold] Dauerhaft
 
-  [bold]Description[/bold]: To kill a sapient being with malicious intent.
+  [bold]Hinweise:[/bold] Gilt nur, wenn mehrere Morde mit Absicht begangen wurden.
 
-  [bold]Maximum Punishment:[/bold] 10:00
+  ## Verhinderung der Wiederbelebung
 
-  [bold]Notes:[/bold] This only changes from attempted to full on murder if the victim enters a state of being deceased, having to be resurrected.
+  [bold]Beschreibung[/bold]: Einen Körper unweiterbelebbar machen.
 
+  [bold]Maximale Strafe:[/bold] Dauerhaft
 
+  [bold]Hinweise:[/bold] Dies umfasst Zerstörung, ins All werfen, absichtliches Verstecken eines Körpers, das zum Verrotten führt, oder andere Wege, um die Wiederbelebung eines Körpers mit einer Seele zu verhindern.
 
-  # V Degree
+  ## Verweigerung der Gedankenschilde
 
-  ## Mass Murder
+  [bold]Beschreibung[/bold]: Sich einer angemessenen Gedankenschilde-Prozedur zu widersetzen.
 
-  [bold]Description[/bold]: To kill three or more sapient beings with malicious intent.
+  [bold]Maximale Strafe:[/bold] Dauerhaft
 
-  [bold]Maximum Punishment:[/bold] Permanent
+  [bold]Hinweise:[/bold] Gilt, wenn der Verdächtige übermäßig unkooperativ ist oder das Implantat aufgrund des mentalen Zustands des Gefangenen, der bereits zu weit fortgeschritten ist, nicht funktioniert. Wenn das Implantat nicht funktioniert, wird die maximale Strafe auf beschleunigte Hinrichtung erhöht.
 
-  [bold]Notes:[/bold] Only applies when there have been multiple killings with intention.
+  ## Terrorismus
 
-  ## Prevention of Revival
+  [bold]Beschreibung[/bold]: Böswillige zerstörerische Handlungen ausführen, die ein Schiff oder Habitat zerstören könnten oder erfolgreich zerstören.
 
-  [bold]Description[/bold]: To render a body unresurrectable.
+  [bold]Maximale Strafe:[/bold] Hinrichtung
 
-  [bold]Maximum Punishment:[/bold] Permanent
-
-  [bold]Notes:[/bold] This covers gibbing, spacing, intentionally hiding a body leading to it rotting, or other ways of preventing a body with a soul from being resurrected.
-
-  ## Refusal of Mental Shielding
-
-  [bold]Description[/bold]: To refuse to comply with a reasonable Mind Shielding procedure.
-
-  [bold]Maximum Punishment:[/bold] Permanent
-
-  [bold]Notes:[/bold] Applies if the suspect is excessively uncooperative or the implant fails to function due to the mental state of the prisoner already being too far gone. If the implant fails the maximum punishment is upped to Expedited Execution.
-
-  ## Terrorism
-
-  [bold]Description[/bold]: To engage in maliciously destructive actions which threaten to destroy, or successfully destroy a vessel or habitat.
-
-  [bold]Maximum Punishment:[/bold] Execution
-
-  [bold]Notes:[/bold] Summed up; extreme sabotage of station systems or setting off self-destruction systems.
+  [bold]Hinweise:[/bold] Zusammengefasst: extreme Sabotage von Stationssystemen oder das Auslösen von Selbstzerstörungssystemen.
 </Document>

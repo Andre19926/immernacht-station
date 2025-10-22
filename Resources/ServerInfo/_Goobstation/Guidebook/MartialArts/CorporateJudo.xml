@@ -1,74 +1,72 @@
 <Document>
 
-  # Corporate Judo
+  # Konzern-Judo (Corporate Judo)
 
-  <Box>
-    <GuideEntityEmbed Entity="ClothingBeltCorporateJudo" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingBeltCorporateJudo" Caption=""/>
+  </Box>
 
-  Corporate Judo, or simply Judo, is a [textlink="martial art" link="MartialArts"] that focuses on restraining your opponent with more
-  complex but effective moves. You will see this style most used by Security Officers, as they get access to the belts in their department.
-  Harness the art and strike any tider that gets in your way. A good understanding of intents is required.
+  **Konzern-Judo**, oder einfach **Judo**, ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, den Gegner mit komplexeren, aber effektiven Moves zu fesseln. Ihr werdet diesen Stil meist bei **Sicherheitsbeamten (Security Officers)** sehen, da sie in ihrer Abteilung Zugang zu den Gürteln erhalten.
+  Nutzt diese Kunst und schlagt jeden **Tider** nieder, der euch in die Quere kommt. Ein gutes Verständnis der **Absichten (Intents)** ist erforderlich.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  Judo users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Judo-Anwender sind besser in der **Schaden-Absicht (Harm intent)**, da ihre unbewaffneten Angriffe dem Gegner zusätzlichen Schaden zufügen.
 
-  ### Stunbaton Scorn
+  ### Schockstab-Verachtung (Stunbaton Scorn)
 
-  A Judo user is unable to use stunbatons. A true master relies on technique, using the
-  body’s leverage and strength to subdue, leaving the need for electrified force behind.
+  Ein Judo-Anwender kann keine **Schockstäbe (stunbatons)** verwenden. Ein wahrer Meister verlässt sich auf Technik, nutzt die Hebelwirkung und Kraft des Körpers, um zu unterwerfen, und lässt die Notwendigkeit für elektrifizierte Gewalt hinter sich.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Discombobulate
+  ### Verwirren (Discombobulate)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Slows the opponent down and deals some Stamina damage.
+  Verlangsamt den Gegner und verursacht etwas **Ausdauerschaden (Stamina damage)**.
 
-  ### Eye Poke
+  ### Augenzwinker (Eye Poke)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Blinds the opponent and blurs their vision, regardless of eye protection, and deals some Blunt damage.
+  Blendet den Gegner und verschwimmt seine Sicht, unabhängig vom Augenschutz, und verursacht etwas **Stumpfen Schaden (Blunt damage)**.
 
-  ### Judo Throw
+  ### Judo-Wurf (Judo Throw)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Can only be perfomed while standing. Only works on standing opponents, dealing Stamina damage and knocking them down.
-  Knockdown duration is affected by their Stamina resistance.
+  Kann nur im Stehen ausgeführt werden. Funktioniert nur bei stehenden Gegnern, verursacht **Ausdauerschaden** und wirft sie zu Boden.
+  Die Dauer des **Zu-Boden-Werfens (Knockdown)** wird durch ihre Ausdauerresistenz beeinflusst.
 
-  ### Armbar
+  ### Armhebel (Armbar)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Only works on downed opponents. Inflicts Stamina damage, disarms them, and locks them in an armbar until they manage to stand up.
-  Armbar works similarly to a knockdown and choke grab, and its duration is affected by their Stamina resistance.
+  Funktioniert nur bei **niedergeschlagenen (downed)** Gegnern. Fügt **Ausdauerschaden** zu, entwaffnet sie und fixiert sie in einem **Armhebel**, bis sie es schaffen, aufzustehen.
+  Der Armhebel funktioniert ähnlich wie ein **Zu-Boden-Werfen** und ein **Würgegriff (choke grab)**, und seine Dauer wird durch ihre Ausdauerresistenz beeinflusst.
 
-  ### Wheel Throw
+  ### Rad-Wurf (Wheel Throw)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Only works on opponents locked in an armbar. Flips the opponent over the shoulder,
-  inflicting massive Stamina damage, and forces the user back on their feet.
+  Funktioniert nur bei Gegnern, die in einem **Armhebel** fixiert sind. Wirft den Gegner über die Schulter,
+  fügt massiven **Ausdauerschaden** zu und zwingt den Anwender zurück auf die Füße.
 
 </Document>

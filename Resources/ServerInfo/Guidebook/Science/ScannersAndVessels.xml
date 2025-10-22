@@ -7,26 +7,26 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-## Anomaly Scanner
+## Anomaliescanner (Anomaly Scanner)
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside the lockers in the science department.
-
-<Box>
-<GuideEntityEmbed Entity="AnomalyScanner"/>
-</Box>
-
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
-
-## Anomaly Vessel
-
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+Der Anomaliescanner (Anomaly Scanner) wird verwendet, um verschiedene Informationen über Anomalien zu sammeln. Sie befinden sich in den Schließfächern im Wissenschaftsdepartment (Science Department).
 
 <Box>
-<GuideEntityEmbed Entity="MachineAnomalyVessel"/>
+<GuideEntityEmbed Entity="AnomalyScanner" Caption="Anomaliescanner (Anomaly Scanner)"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+Das Scannen einer Anomalie zeigt die Schwere (Severity), allgemeine Stabilität (General Stability), ungefähren Punkteertrag (Approximate Point Output), Reaktionen mit Partikeltypen (Reactions with Particle Types) und die Zeit bis zum nächsten Puls (Time Until the Next Pulse). Die Reaktionstypen (Reaction Types) können insbesondere in Verbindung mit dem A.P.E. verwendet werden, um Anomalien zu manipulieren.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+## Anomaliebehälter (Anomaly Vessel)
+
+Der Anomaliebehälter (Anomaly Vessel) ist eine Maschine, die Punkte aus Anomalien generiert. Verwenden Sie den Anomaliescanner (Anomaly Scanner) auf einem leeren Behälter, und die zuletzt gescannte Anomalie wird mit dem Behälter synchronisiert.
+
+<Box>
+<GuideEntityEmbed Entity="MachineAnomalyVessel" Caption="Anomaliebehälter (Anomaly Vessel)"/>
+</Box>
+
+Die Menge an Punkten, die ein Behälter pro Sekunde generiert, basiert auf der Schwere (Severity), Stabilität (Stability) und Gesundheit (Health) einer Anomalie. Je höher diese Werte sind, desto höher ist der Punkteertrag (Point Output).
+
+Seien Sie vorsichtig: Wenn eine Anomalie [color=#a4885c]superkritisch (Supercritical)[/color] wird, explodiert der damit verbundene Behälter. Dies kann die Station und nahegelegene Ausrüstung beschädigen.
 
 </Document>

@@ -6,11 +6,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 2 - Laws must be prioritized by their order
-  Most laws will be numbered, with higher number laws appearing last. Laws with a lower number take priority over laws with larger numbers.
+  # Silicon Rule 2 - Gesetze müssen nach ihrer Reihenfolge priorisiert werden
+  Die meisten Gesetze sind nummeriert, wobei Gesetze mit höheren Nummern zuletzt erscheinen. Gesetze mit einer niedrigeren Nummer haben Vorrang vor Gesetzen mit größeren Nummern.
 
-  Occasionally you may have laws which have some scrambled text instead of a number and appear in front of other laws, these take priority over all other laws. If you have multiple laws like this, the order that they listed in determine priority: laws listed first are prioritized over other laws.
+  Gelegentlich hast du vielleicht Gesetze, die anstelle einer Nummer einen verschlüsselten Text haben und vor anderen Gesetzen erscheinen; diese haben Vorrang vor allen anderen Gesetzen. Wenn du mehrere Gesetze dieser Art hast, bestimmt die Reihenfolge, in der sie aufgelistet sind, die Priorität: Gesetze, die zuerst aufgeführt sind, haben Vorrang vor anderen Gesetzen.
 
-  ## Examples
-  - Law 1 says to not kill any crew. Law 2 says to kill all chefs. You cannot kill any chefs that are crew, but must kill any that are not crew.
+  ## Beispiele
+  - Gesetz 1 besagt, dass keine Crewmitglieder getötet werden dürfen. Gesetz 2 besagt, dass alle Köche getötet werden sollen. Du darfst keine Köche töten, die zur Crew gehören, musst aber alle töten, die nicht zur Crew gehören.
 </Document>

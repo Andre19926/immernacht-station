@@ -9,26 +9,26 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  # Artifact Reports
-  A large portion of Xenoarchaeology gameplay revolves around the interpretation of artifact reports, which are created at the [color=#a4885c]analysis console[/color] after an artifact is scanned. Reports contain the following information:
+  # Artefaktberichte (Artifact Reports)
+  Ein großer Teil des Xenoarchäologie (Xenoarchaeology)-Gameplays dreht sich um die Interpretation von Artefaktberichten (Artifact Reports), die an der [color=#a4885c]Analysekonsole (Analysis Console)[/color] erstellt werden, nachdem ein Artefakt gescannt wurde. Berichte enthalten die folgenden Informationen:
 
-  - [color=#a4885c]Node ID:[/color] a unique numeric ID corresponding to this artifact's node. Useful in conjunction with a [color=#a4885c]node scanner[/color] for quickly identifying recurring nodes.
+  - [color=#a4885c]Knoten-ID (Node ID):[/color] eine einzigartige numerische ID, die dem Knoten des Artefakts entspricht. Nützlich in Verbindung mit einem [color=#a4885c]Knotenscanner (Node Scanner)[/color], um wiederkehrende Knoten schnell zu identifizieren.
 
-  - [color=#a4885c]Depth:[/color] a distance from the starting node (depth 0). This is a good shorthand for the value and danger of a node.
+  - [color=#a4885c]Tiefe (Depth):[/color] ein Abstand vom Startknoten (Tiefe 0) (Depth 0). Dies ist eine gute Abkürzung für den Wert und die Gefährlichkeit eines Knotens.
 
-  - [color=#a4885c]Activation status:[/color] whether or not a node has been activated in the past.
+  - [color=#a4885c]Aktivierungsstatus (Activation Status):[/color] ob ein Knoten in der Vergangenheit aktiviert wurde oder nicht.
 
-  - [color=#a4885c]Stimulus:[/color] the stimulus for that particular node.
+  - [color=#a4885c]Stimulus:[/color] der Stimulus für diesen bestimmten Knoten.
 
-  - [color=#a4885c]Reaction:[/color] the reaction the stimulus induces. This is often vague, so caution is advised.
+  - [color=#a4885c]Reaktion (Reaction):[/color] die Reaktion, die der Stimulus auslöst. Diese ist oft vage, daher ist Vorsicht geboten.
 
-  - [color=#a4885c]Edges:[/color] the amount of nodes that are connected to the current node. Using this, you can calculate the total number of nodes as well as organize a map of their connections.
+  - [color=#a4885c]Kanten (Edges):[/color] die Anzahl der Knoten, die mit dem aktuellen Knoten verbunden sind. Damit können Sie die Gesamtzahl der Knoten berechnen und eine Karte ihrer Verbindungen organisieren.
 
-  - [color=#a4885c]Unextracted value:[/color] the amount of research points an artifact will give when extracted. Extracting sets this to zero and traversing new nodes increases it.
+  - [color=#a4885c]Unausgeschöpfter Wert (Unextracted Value):[/color] die Menge an Forschungspunkten (Research Points), die ein Artefakt beim Extrahieren liefert. Das Extrahieren setzt diesen Wert auf Null, und das Durchqueren neuer Knoten erhöht ihn.
 
-  Reports are a helpful tool in manipulating an artifact, especially in the later stages where you are traversing nodes that have already been activated.
+  Berichte sind ein hilfreiches Werkzeug bei der Manipulation eines Artefakts, insbesondere in späteren Phasen, wenn Sie Knoten durchqueren, die bereits aktiviert wurden.
   <Box>
-  <GuideEntityEmbed Entity="PaperArtifactAnalyzer"/>
+  <GuideEntityEmbed Entity="PaperArtifactAnalyzer" Caption="Artefaktanalysator-Bericht (Paper Artifact Analyzer)"/>
   </Box>
-  To help with this process, consider printing out reports, writing down details uncovered during activation, or storing them in a folder nearby.
+  Um diesen Prozess zu unterstützen, sollten Sie Berichte ausdrucken, Details, die während der Aktivierung entdeckt wurden, notieren oder sie in einem Ordner in der Nähe aufbewahren.
 </Document>

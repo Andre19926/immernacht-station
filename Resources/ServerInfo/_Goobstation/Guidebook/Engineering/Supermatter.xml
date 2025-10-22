@@ -9,71 +9,70 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
+  <GuideEntityEmbed Entity="Supermatter"/>
 
-  <GuideEntityEmbed Entity="Supermatter"/>
+  Ihr habt euch also entschlossen, die Herausforderung anzunehmen und den Supermatter-Motor einzurichten? Zuerst geben wir euch einen kurzen Überblick über den eigentlichen Supermatter-Kristall.
 
-  So, you've decided to take on the challenge and set up the Supermatter Engine? First, let's give you a short overview of the main Supermatter crystal beforehand.
+  Seine primäre Eigenschaft ist die Emission von radioaktivem Hintergrund, der über **Strahlungskollektoren (radiation collectors)** zur Stromversorgung der Station genutzt wird.
 
-  Its primary feature is emitting radioactive background that is harnessed to power the station through radiation collectors.
+  Nebenwirkungen sind Blitzeinschläge, die Freisetzung von heißem Sauerstoff und Plasma, die Erhitzung der Umgebungsluft, Explosionen, die Verwandlung in ein Schwarzes Loch oder einen Energieball und das Fressen der gesamten Station, wenn ihr es hart genug vermasselt.
 
-  Side effects include lightning strikes, releasing hot oxygen and plasma, heating the air around, exploding, transforming into a black hole or an energy ball and eating the entire station if you screw up hard enough.
+  Er beginnt inaktiv, aber ein Treffer durch ein Objekt oder ein Projektil wird ihn aktivieren, und er beginnt, fast alle der oben genannten Eigenschaften zu zeigen.
 
-  It begins inert but being hit by an object or a projectile will activate it and it'll start exhibiting nearly all of the aforementioned properties.
+  ## Worte der Warnung (Words of Warning)
 
-  ## Words of Warning
+  1. Der Supermatter-Kristall ist [color=#ff0000]SEHR GEFÄHRLICH[/color]. Die Aktivierung des Kristalls sollte der letzte Schritt beim Einrichten jeglicher Form von Supermatter-basierter Energie sein!
 
-  1. The Supermatter crystal is [color=#ff0000]VERY DANGEROUS[/color]. Activating the crystal should be the last step in setting up any form of Supermatter based power!
+  2. [color=#ff0000]ZIEHT VERDAMMT NOCH MAL EUREN STRAHLENSCHUTZANZUG AN[/color]!!
 
-  2. [color=#ff0000]PUT YOUR GOD DAMN RADIATION SUIT ON[/color]!!
+  3. Der Großteil der Einrichtung des Supermatters beinhaltet einen Gaskreislauf, der zur Abkühlung der Supermatter-Kammer dient. Bitte habt zumindest einige Kenntnisse über Gase und deren atmosphärische Eigenschaften.
 
-  3. Most of setting up the Supermatter involves a gas loop that is designed to cool down the Supermatter chamber. Please have at least some knowledge of gases and their atmospheric properties.
+  4. Alles, was gegen den Supermatter stößt, wird [color=#ff0000]grundlegend ausgelöscht[/color]. [color=#ff0000]Berührt ihn nicht[/color]. Das bedeutet: die Tür zur Kammer verschweißen und verschrauben.
 
-  4. Anything that bumps into the Supermatter is [color=#ff0000]fundamentally annihilated[/color]. [color=#ff0000]Do not touch it[/color]. This means weld and bolt the door to the chamber.
+  ## Gas-Interaktionen (Gas Interactions)
 
-  ## Gas Interactions
+  Hier ist eine Liste aller Gase, vom am wenigsten gefährlichen bis zum gefährlichsten.
 
-  Here's a list of all gases from least dangerous to most dangerous.
+  1. [color=#bffffe]Frezon[/color]. Abgesehen von der Abkühlung des Supermatters stoppt es im Grunde die Strom- und Abfallproduktion, was nützlich sein kann, wenn der Supermatter kurz vor der Delaminierung steht und ihr ihn schnell abschalten müsst.
 
-  1. [color=#bffffe]Frezon[/color]. Aside from cooling down the Supermatter, it basically stops power and waste production, which may come handy if the Supermatter is close to delaminating and you need to shut it down fast.
+  2. [color=#c20000]Stickstoff (Nitrogen)[/color]. N2 ist das Basisgas, mit dem die meisten Supermatter-Setups ausschließlich betrieben werden und das einfach einzurichten ist. Es dämpft die Stromerzeugung durch Hitze und reduziert die Menge an Plasma, die der SM ausstößt, was gut ist, wenn ihr nicht versucht, etwas Albernes zu tun.
 
-  2. [color=#c20000]Nitrogen[/color]. N2 is the basic gas most Supermatter setups will run exclusively, being bog simple to set up for. It dampens the power generation from heat, and reduces the amount of plasma the SM belches out, making it good for when you aren't trying to do something silly.
+  3. [color=#b16d6d]Lachgas (Nitrous oxide)[/color]. Verstärkt die Hitzeresistenz des Kristalls, was viel heißere Setups als üblich ermöglicht. Bei hohen Temperaturen zersetzt es sich jedoch in Stickstoff und Sauerstoff. Während N2 gut ist, ist O2 es sicherlich nicht. Dieser O2 reagiert auch mit dem Plasma zu Tritium und dann... zu einem Tritium-Feuer.
 
-  3. [color=#b16d6d]Nitrous oxide[/color]. Reinforces the heat resistance of the crystal, allowing for much hotter setups than usual. Hovewer, at high temperatures it will decompose into Nitrogen and Oxygen. While N2 is good, O2 certainly is not. This O2 will also react with the Plasma to create Tritium and then... a Tritium fire.
+  4. [color=#62d5ca]Sauerstoff (Oxygen)[/color]. Bietet einen Schub für die Stromübertragung, ohne die Abfallgasmenge oder Temperatur aktiv zu erhöhen. Ziemlich riskant in der Anwendung, da jede Unterbrechung des Kühlkreislaufs bald ein Plasma-Feuer in der Kristallkammer verursachen wird. Schon eine hohe O2-Konzentration aktiviert und versorgt den Kristall kontinuierlich mit Energie.
 
-  4. [color=#62d5ca]Oxygen[/color]. Provides a boost to power transmission without actively increasing the waste gas amount or temperature. Pretty risky to use, as any disruption of the cooling loop will soon cause a plasma fire in the crystal chamber. Even just a high concentration of O2 will activate and continuously power the crystal.
+  5. [color=#19b348]Ammoniak (Ammonia)[/color]. Erhöht die Stromerzeugung leicht bei geringfügigen Kosten für die Hitze-Strafe.
 
-  5. [color=#19b348]Ammonia[/color]. Increases the power generation slightly at a minor cost to the heat penalty.
+  6. [color=#979797]Kohlendioxid (Carbon Dioxide)[/color]. In geringen Konzentrationen erhöht es die Stromerzeugung des Kristalls. In hohen Konzentrationen wird es die Energie des Kristalls auf extrem hohe Niveaus anheben. Bei schlechtem Management und unzureichender oder geradezu schlechter Vorbereitung wird es schließlich sichere Energieniveaus überschreiten und eine Ladungsdelaminierung beginnen, die elektrische Bögen und Anomalien erzeugt, bis es schließlich in einen **Tesla-Ball** explodiert. Das Injizieren von Kohlendioxid führt auch dazu, dass der Supermatter **Pluoxium** produziert.
 
-  6. [color=#979797]Carbon Dioxide[/color]. In low concentrations, it will increase the crystal's power generation. In high concentrations it will raise the crystal's energy to extremely high levels. With poor management and insufficient or downright bad preparation, it will eventually exceed safe energy levels and begin a charge delamination, producing electric arcs and anomalies until it eventually explodes into a Tesla ball. Injecting Carbon Dioxide will also cause the Supermatter to produce Pluoxium.
+  7. [color=#9370db]BZ[/color]. Erhöht die Stromerzeugung leicht bei erheblichen Kosten für die Hitze-Strafe.
 
-  7. [color=#9370db]BZ[/color]. Increases the power generation slightly at a major cost to the heat penalty.
+  8. [color=#fa8072]Healium[/color]. Erhöht die Stromproduktion beträchtlich, aber mit einer viel höheren Hitze-Strafe als die meisten nicht brennbaren Gase.
 
-  8. [color=#fa8072]Healium[/color]. Increases power production considerably but with a much higher heat penalty than most non-flammable gases.
+  9. [color=#7b68ee]Pluoxium[/color]. Dämpft die Hitze beträchtlich und reduziert die Menge an Plasma, die vom SM produziert wird.
 
-  9. [color=#7b68ee]Pluoxium[/color]. Dampens heat considerably and reduces the amount of plasma produced by the SM.
+  [color=#ff0000]10[/color]. [color=#ff9d00]Plasma[/color]. Sehr ähnlich wie Sauerstoff, bietet aber einen höheren Stromschub sowie eine viel höhere Abfall- und Hitzebelastung. Die extremen Drücke und Volumina des durch dieses Gas erzeugten Gases führen sehr wahrscheinlich zu einer Verstopfung der Rohre und einer Überhitzung der Kammer.
 
-  [color=#ff0000]10[/color]. [color=#ff9d00]Plasma[/color]. Very similar to Oxygen but provides a higher power boost as well as a much higher waste and heat penalty. The extreme pressures and volumes of gas produced by this gas are very likely to clog pipes and overheat the chamber.
+  [color=#ff0000]11[/color]. [color=#08a800]Tritium[/color]. Erhöht die Stromproduktion des Supermatters um das bis zu 3-fache, es gibt ein kleines Problem damit. Es ist gefährlich. Es ist sehr gefährlich. Tritium ist ein schrecklich reizbares und unbeständiges Gas. Obwohl es für das Hitzenniveau nicht so schädlich ist wie Plasma (gerade noch), hat es auch die zweitschlechteste Wärmekapazität aller Gase, während Plasma die zweithöchste hat. Das bedeutet, dass Plasma mit genügend Kühlung zufrieden gehalten werden kann, wohingegen Tritium eifrig von einem sicheren Weltraumkreislauf in ein brennendes Höllenfeuer übergeht. Fügt man dem das Nebenprodukt großer Mengen an Sauerstoffproduktion hinzu (nicht exklusiv für Tritium, auch ein Problem in einem Plasma-Motor), hat man ein Tritium-Feuer und einen sehr heißen Kristall. Verwendet dieses Gas nicht, es sei denn, ihr habt ein sehr starkes Verständnis der Atmosphäre und des Supermatters und seid bereit, kreativ zu werden.
 
-  [color=#ff0000]11[/color]. [color=#08a800]Tritium[/color]. Increases the power production of the Supermatter by up to 3 times, there is one slight issue with it. It is dangerous. It is very dangerous. Tritium is a horrifyingly irritable and jumpy gas. While it isn't as harmful to the heat level as Plasma is (just barely), it also has the second worst heat capacity of all gasses while Plasma has the second highest. This means that Plasma can be kept happy with enough cooling, whereas Tritium eagerly goes from a safe space loop into a burning hellfire. Add to this the byproduct of large amounts of Oxygen production (not exclusive to Tritium. An issue in a Plasma engine too), and you have a tritium fire and a very hot crystal. Do not use this gas unless you have a very strong understanding of atmospherics and the Supermatter, and are willing to get creative.
+  ## Praktischer Leitfaden zum Supermatter (Practical guide to the Supermatter)
 
-  ## Practical guide to the Supermatter
+  Vergesst nun alles, was ihr gerade gelesen habt, und macht euch daran, den grundlegendsten Kreislauf einzurichten, den es gibt: den Stickstoffkreislauf.
 
-  Now, forget about everything you've just read and get to setting up the most basic loop there is: the Nitrogen loop.
+  Der atmosphärische Aufbau in seiner grundlegendsten Form sollte so aussehen:
 
-  The atmospheric setup in it's most basic form should look like this:
+  (Wir hatten nicht genug Budget für Bilder, hier ist eine Textdarstellung)
 
-  (We did not have enough budget for images, here is a text representation)
+  1. Stickstoff wird von passiven Lüftungsschächten von einer Seite in die Kammer gepumpt.
 
-  1. Nitrogen gets pumped into the chamber by passive vents from one side
+  2. Jedes Gas wird mithilfe von **Wäschern (scrubbers)**, die auf **Saugen (Siphon)** eingestellt sind, auf der anderen Seite aus der Kammer gepumpt.
 
-  2. Every gas gets pumped out of the chamber by using scrubbers set on Siphon on the other side.
+  3. Der Ausgang wird abgekühlt, gefiltert und überschüssiger Stickstoff wird entweder in den Weltraum geleitet oder in den Eingang zurückgeführt.
 
-  3. The output gets cooled down, filtered and excess nitrogen gets either outted into space or rerouted into the input.
+  Das ist im Grunde alles. Ich hoffe, ihr versteht zumindest etwas in diesem Beispiel. Jetzt macht euch daran!
 
-  That's basically it. I hope you understand at least something in this example. Now get to it!
+  ## Experiment (Experiment)
 
-  ## Experiment
-
-  You're not a real engineer if you haven't figured out the most efficient way to produce electricity using the Supermatter crystal, are you?
+  Ihr seid kein echter Ingenieur, wenn ihr nicht den effizientesten Weg gefunden habt, mit dem Supermatter-Kristall Strom zu erzeugen, oder?
 
 </Document>

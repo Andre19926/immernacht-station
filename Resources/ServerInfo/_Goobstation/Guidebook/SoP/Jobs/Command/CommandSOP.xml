@@ -6,26 +6,26 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Command Department SOP
-These are the list of SOPs that Command Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# Kommandobereich SOP (Command Department SOP)
+Dies ist die Liste der SOPs (Standard Operating Procedures), die das **Kommandopersonal (Command Personnel)** befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-Below are the list of guidelines [bold]all of Command should follow[/bold]:
+Nachfolgend sind die Richtlinien aufgeführt, die [bold]das gesamte Kommando befolgen sollte[/bold]:
 
-1. The Command Personnel, excluding Head of Security, should not act as Security. Their job is to maintain their own Departments and assist the station.
+1. Das Kommandopersonal, mit Ausnahme des Sicherheitschefs (Head of Security), sollte nicht als Sicherheitspersonal handeln. Ihre Aufgabe ist es, ihre eigenen Abteilungen zu warten und die Station zu unterstützen.
 
-2. The Command Personnel may defend themselves and perform arrests as needed in self-defense, but may not try, place times, or perform any other Security activities except hand-off arrested personnel to Security.
+2. Das Kommandopersonal darf sich verteidigen und Verhaftungen im Rahmen der **Selbstverteidigung** vornehmen, darf jedoch keine Gerichtsverfahren durchführen, Haftstrafen festlegen oder andere Sicherheitsaktivitäten durchführen, außer die Übergabe von festgenommenem Personal an die Sicherheit.
 
-3. The Command Personnel may not, under any circumstances, promote station personnel to Central Command VIP Positions ([color=#1b67a5][bold]Nanotrasen Representative[/bold][/color] and [color=#1b67a5][bold]Blueshield Officer[/bold][/color]) without authorization from Central Command.
+3. Das Kommandopersonal darf unter keinen Umständen Stationspersonal ohne Genehmigung des Zentralkommandos in **VIP-Positionen des Zentralkommandos** ([color=#1b67a5][bold]Nanotrasen-Vertreter (Nanotrasen Representative)[/bold][/color] und [color=#1b67a5][bold]Blueshield Officer[/bold][/color]) befördern.
 
-The following jobs have entries in this Department, the Chain of Command being linked at the top, the Central Command VIP being separated in terms of Chain of Command, the Captain being the top of Chain of Command, and all Heads of Staff on equal footing:
-- [textlink="Chain of Command" link="Succession"]
-- [textlink="Nanotrasen Representative" link="NanotrasenRep SOP"]
+Die folgenden Berufe haben Einträge in dieser Abteilung, wobei die **Befehlskette** oben verlinkt ist, die **VIPs des Zentralkommandos** hinsichtlich der Befehlskette getrennt sind, der **Captain** an der Spitze der Befehlskette steht und alle **Abteilungsleiter** (Heads of Staff) gleichgestellt sind:
+- [textlink="Befehlskette (Chain of Command)" link="Succession"]
+- [textlink="Nanotrasen-Vertreter (Nanotrasen Representative)" link="NanotrasenRep SOP"]
 - [textlink="Blueshield Officer" link="BlueshieldOfficer SOP"]
-- [textlink="Head of Personnel" link="HeadOfPersonnel SOP"]
-- [textlink="Head of Security" link="HeadOfSecurity SOP"]
-- [textlink="Research Director" link="ResearchDirector SOP"]
-- [textlink="Chief Medical Officer" link="ChiefMedicalOfficer SOP"]
-- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
-- [textlink="Quartermaster" link="Quartermaster SOP"]
+- [textlink="Personalleiter (Head of Personnel)" link="HeadOfPersonnel SOP"]
+- [textlink="Sicherheitschef (Head of Security)" link="HeadOfSecurity SOP"]
+- [textlink="Forschungsdirektor (Research Director)" link="ResearchDirector SOP"]
+- [textlink="Leitender Medizinischer Offizier (Chief Medical Officer)" link="ChiefMedicalOfficer SOP"]
+- [textlink="Chefingenieur (Chief Engineer)" link="ChiefEngineer SOP"]
+- [textlink="Quartiermeister (Quartermaster)" link="Quartermaster SOP"]
 
 </Document>

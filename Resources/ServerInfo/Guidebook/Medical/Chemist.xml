@@ -9,53 +9,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chemist
-Now you've done it. You picked the one job where -math- is mandatory. Grab your beaker, pull up a chair, and get cracking, it's time to cook up some chems.
+# Chemiker (Chemist)
+Jetzt haben Sie es geschafft. Sie haben den einen Beruf gewählt, bei dem Mathematik Pflicht ist. Schnappen Sie sich Ihren Becher, ziehen Sie einen Stuhl heran und legen Sie los – es ist Zeit, Chemikalien zu brauen.
 
-While chemists primarily make medications, there's a very wide variety of chemicals that can be made, all of which are showcased in the Chemicals entry of the Guidebook.
+Chemiker stellen hauptsächlich Medikamente her, aber es gibt eine Vielzahl von Chemikalien, die produziert werden können, alle aufgelistet im Eintrag „Chemikalien“ (Chemicals) des Handbuchs.
 
-[textlink="Click here to see a complete list of chemicals." link="Chemicals"]
+[textlink="Klicken Sie hier für eine vollständige Liste der Chemikalien." link="Chemicals"]
 
-## Equipment:
+## Ausrüstung (Equipment):
 
   <Box>
-    <GuideEntityEmbed Entity="ChemDispenser"/>
-    <GuideEntityEmbed Entity="ChemBag"/>
-    <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
-    <GuideEntityEmbed Entity="ChemMaster"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="Chemischer Spender (ChemDispenser)"/>
+    <GuideEntityEmbed Entity="ChemBag" Caption="Chemikalienbeutel (ChemBag)"/>
+    <GuideEntityEmbed Entity="KitchenReagentGrinder" Caption="Reagenzienmühle (Kitchen Reagent Grinder)"/>
+    <GuideEntityEmbed Entity="ChemMaster" Caption="ChemMaster"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="LargeBeaker"/>
-    <GuideEntityEmbed Entity="ChemistryEmptyBottle01"/>
-    <GuideEntityEmbed Entity="HandLabeler"/>
-    <GuideEntityEmbed Entity="Syringe"/>
-    <GuideEntityEmbed Entity="PillCanister"/>
+    <GuideEntityEmbed Entity="LargeBeaker" Caption="Großer Becher (Large Beaker)"/>
+    <GuideEntityEmbed Entity="ChemistryEmptyBottle01" Caption="Leere Flasche (Chemistry Empty Bottle)"/>
+    <GuideEntityEmbed Entity="HandLabeler" Caption="Handetikettierer (Hand Labeler)"/>
+    <GuideEntityEmbed Entity="Syringe" Caption="Spritze (Syringe)"/>
+    <GuideEntityEmbed Entity="PillCanister" Caption="Pillendose (Pill Canister)"/>
   </Box>
 
-## The Basics:
-Chemistry is fairly straightforward once you know what to expect. Here's a simple, step-by-step process on how to begin.
+## Grundlagen (The Basics):
+Chemie ist recht einfach, sobald Sie wissen, was Sie erwartet. Hier ist ein einfacher, schrittweiser Prozess, um zu beginnen:
 
-- Grab a beaker, Pill Canister, and if desired, some Bottles.
-- Place the beaker in the Chemical Dispenser, and Pill Canister (or bottle) in the Chem Master.
-- Open the Chemical Dispenser UI, and make your mix. Recipes are in other sections of the guidebook.
-- Alt-click the dispenser to remove your beaker, and place it in the Chem Master.
-- Open the Chem Master UI. On the Input tab, move your mix into the buffer.
-- Move to the Output tab, customise your pill, and press the Create button.
-- Alt-click the Chem Master to get the pill bottle out. You may have to remove the beaker first.
-- Click on a table, crate, or another surface to empty the pill bottle if desired. Alternatively, store or empty it into another storage container.
+- Nehmen Sie einen Becher (Beaker), eine Pillendose (Pill Canister) und, falls gewünscht, einige Flaschen (Bottles).
+- Platzieren Sie den Becher im Chemischen Spender (ChemDispenser) und die Pillendose (oder Flasche) im ChemMaster.
+- Öffnen Sie die Benutzeroberfläche des Chemischen Spenders und stellen Sie Ihre Mischung her. Rezepte finden Sie in anderen Abschnitten des Handbuchs.
+- Alt-Klick auf den Spender, um den Becher zu entnehmen, und platzieren Sie ihn im ChemMaster.
+- Öffnen Sie die ChemMaster-Benutzeroberfläche. Auf dem „Eingabe“-Tab verschieben Sie Ihre Mischung in den Puffer.
+- Wechseln Sie zum „Ausgabe“-Tab, passen Sie Ihre Pille an und drücken Sie die Schaltfläche „Erstellen“.
+- Alt-Klick auf den ChemMaster, um die Pillenflasche herauszunehmen. Möglicherweise müssen Sie zuerst den Becher entfernen.
+- Klicken Sie auf einen Tisch, eine Kiste oder eine andere Oberfläche, um die Pillenflasche zu entleeren, falls gewünscht. Alternativ können Sie sie lagern oder in einen anderen Behälter umfüllen.
 
-That's it, you've made your first set of pills! Consider checking with Medical Doctors and other crew to see what else may be requested, refilling the medical kits in medbay storage, or just experimenting!
+Das war’s, Sie haben Ihre erste Charge Pillen hergestellt! Erkundigen Sie sich bei Medizinischen Doktoren (Medical Doctors) und anderen Besatzungsmitgliedern, was noch benötigt wird, füllen Sie die Medikits in der Krankenstation (Medbay) auf oder experimentieren Sie einfach!
 
-You can also use the hand labeler to organize individual bottles or bags without using the Chem Master labeling system.
+Mit dem Handetikettierer (Hand Labeler) können Sie einzelne Flaschen oder Beutel organisieren, ohne das ChemMaster-Beschriftungssystem zu verwenden.
 
-## Extra Content:
+## Zusatzinhalte (Extra Content):
 
-Speaking of experimentation, there are a few more toy you can use when it comes to chemistry. This job requires a lot of trial and error, but it was worth mentioning that these things exist! It's up to you to figure out what to make with them.
+Apropos Experimentieren: Es gibt einige weitere Spielzeuge für die Chemie. Dieser Beruf erfordert viel Ausprobieren, aber es ist erwähnenswert, dass diese Dinge existieren! Es liegt an Ihnen, herauszufinden, was Sie damit herstellen können.
 
   <Box>
-    <GuideEntityEmbed Entity="ModularGrenade"/>
-    <GuideEntityEmbed Entity="CableApcStack"/>
-    <GuideEntityEmbed Entity="ChemicalPayload"/>
-    <GuideEntityEmbed Entity="TimerTrigger"/>
+    <GuideEntityEmbed Entity="ModularGrenade" Caption="Modulare Granate (Modular Grenade)"/>
+    <GuideEntityEmbed Entity="CableApcStack" Caption="Kabelstapel (Cable APC Stack)"/>
+    <GuideEntityEmbed Entity="ChemicalPayload" Caption="Chemische Nutzlast (Chemical Payload)"/>
+    <GuideEntityEmbed Entity="TimerTrigger" Caption="Zeitauslöser (Timer Trigger)"/>
   </Box>
 </Document>

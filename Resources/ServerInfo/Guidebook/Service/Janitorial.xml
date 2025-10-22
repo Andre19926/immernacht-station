@@ -9,11 +9,11 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Janitorial
+# Hausmeister (Janitorial)
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+Ihr haltet die Dinge sauber, es ist manchmal ein harter Job, aber irgendjemand muss es tun. Dies führt euch durch die Werkzeuge des Handwerks und deren Verwendung.
 
-## Basic Equipment
+## Grundausstattung (Basic Equipment)
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -28,54 +28,54 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Zusätzliche Ausrüstung (Additional Equipment)
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
-<GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
+<GuideEntityEmbed Entity="Holoprojector" Caption="Holoschild-Projektor (holosign projector)"/>
 <GuideEntityEmbed Entity="LightReplacer"/>
 <GuideEntityEmbed Entity="WireBrush"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="Fortgeschrittener Mopp, in F&E (R&D) anfragen"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Flüssigkeitsbeschaffung und -entsorgung (Fluid Acquisition and Disposal)
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
 <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Aufräumen (Tidying up.)
+Nun zum (figurativen) Wesentlichen. Wir sind hier, um zu putzen, oder? Halten wir es einfach. Die Hauptwerkzeuge, die ihr verwenden werdet, sind der treue **Mopp**, ein **Müllsack**, **Weltraumreiniger (space cleaner)** und einer der drei verschiedenen **Eimer (buckets)**.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+**Wischen (Mopping)**: Füllt euren **Wagen** mit Wasser, dann sucht **Pfützen**! Befeuchtet euren Mopp und wischt sie auf. Die resultierende Wasserpfütze trocknet nach kurzer Zeit. Vergesst nicht die **Nassboden-Schilder (wet floor signs)**!
+- Um euren Wagen zu entleeren, zieht ihn (mit eurem Cursor) auf einen **Bodenabfluss (floor drain)**. Dadurch wird die gesamte Flüssigkeit im Inneren entleert! Bodenabflüsse findet man normalerweise irgendwo in der Medizinischen Abteilung, im Küchengefrierschrank und natürlich im Hausmeister-Schrank.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+**Müll (Trash)**: Legt ihn direkt in den Sack oder haltet ihn in eurer Hand. Klickt -in der Nähe- von Müll, um -allen- Müll in der Nähe aufzunehmen, oder klickt auf jedes einzelne Stück. Die Verwendung des Sacks an einem **Entsorgungsbehälter (disposal)** leert ihn.
+- Die **Frachtabteilung (Cargo)** möchte vielleicht einen Teil eures Mülls haben. Es könnte sich lohnen, von Zeit zu Zeit nachzufragen!
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+**Weltraumreiniger (Space Cleaner)**: Dieses Wunder-Spray kann zwei Dinge tun: **Graffiti reinigen** und notfalls **Pfützen aufwischen**!
+- Ihr könnt möglicherweise mehr davon in der **Chemie** bekommen.
 
-Light Replacer: Just point at broken bulbs and click!
-- Replace enough broken ones, get a bulb for free!
+**Lichtaustauscher (Light Replacer)**: Zeigt einfach auf kaputte Glühbirnen und klickt!
+- Tauscht genug kaputte aus, um eine Glühbirne umsonst zu bekommen!
 
-Janitorial Keyring: Your trusty keys, hundreds of them on a single ring. If only you could remember which goes where...
-- At the start of the round, the keyring will spawn with a few randomized access levels. It could open cargo, it could open medical, who knows?
+**Hausmeister-Schlüsselbund (Janitorial Keyring)**: Euer treuer Schlüsselbund, Hunderte von Schlüsseln an einem einzigen Ring. Wenn ihr euch nur erinnern könntet, welcher wohin gehört...
+- Zu Beginn der Runde wird der Schlüsselbund mit einigen **zufälligen Zugriffsstufen** spawnen. Er könnte die Frachtabteilung öffnen, er könnte die Medizinische Abteilung öffnen, wer weiß?
 
-## Dealing with footprints and trails.
-It gets a little tedious cleaning [italic]every[/italic] little footprint left behind by those pesky doctors.
-The solution? A little bit of elbow grease!
+## Umgang mit Fußabdrücken und Spuren (Dealing with footprints and trails.)
+Es wird ein wenig mühsam, [italic]jeden[/italic] kleinen Fußabdruck zu reinigen, den diese lästigen Ärzte hinterlassen.
+Die Lösung? Ein bisschen Muskelkraft!
 
-There's two ways of going about this:
-- Using a mop on the floor near footprints will scrub the area of footprints and trails. [bold]Although slow, this has the benefit of not gunking up your mop.[/bold]
-- You can use a bar of soap or a damp rag for the same effect, albeit worse.
+Es gibt zwei Möglichkeiten, dies zu tun:
+- Die Verwendung eines **Mopps** auf dem Boden in der Nähe von Fußabdrücken reinigt den Bereich von Fußabdrücken und Spuren. [bold]Obwohl langsam, hat dies den Vorteil, dass euer Mopp nicht verschmutzt wird.[/bold]
+- Ihr könnt ein **Stück Seife** oder einen **feuchten Lappen** für denselben Effekt verwenden, wenn auch schlechter.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Zusätzliche Pflichten (Extra Duties)
+Ein guter Hausmeister hält immer Ausschau nach etwas mehr zu tun, und euch stehen viele Werkzeuge zur Verfügung. Haltet Ausschau nach **kaputten Lichtern**, helft dem **Koch**, sich um **Mäuse in der Küche** zu kümmern, und wenn ihr euch -wirklich- großzügig fühlt, versucht, die **Verkaufsautomaten** und **Notfallschränke** auf der Station aufzufüllen!
 
-##Additional Information:
+## Zusätzliche Informationen (Additional Information):
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

@@ -1,46 +1,46 @@
 <Document>
 
-  # Krav Maga
+  # Krav Maga
 
-  <Box>
-    <GuideEntityEmbed Entity="ClothingHandsGlovesKravMaga" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesKravMaga" Caption=""/>
+  </Box>
 
-  Krav Maga is a self-defence [textlink="martial art" link="MartialArts"] that was developed by ancient militaries on Terra six centuries ago.
-  It can be learned through years of training or be given to a user by advanced nanomachines stored inside gloves.
-  On the station, a singular pair of Krav Maga Gloves can be found the Warden's locker. Syndicate antagonists can use Krav Maga Implant for the same effect.
+  **Krav Maga** ist eine **Selbstverteidigungs-Kampfkunst** [textlink="martial art" link="MartialArts"], die vor sechs Jahrhunderten von alten Militärs auf der Terra entwickelt wurde.
+  Sie kann durch jahrelanges Training erlernt oder einem Benutzer durch fortschrittliche Nanomaschinen in Handschuhen verliehen werden.
+  Auf der Station ist ein einzelnes Paar **Krav Maga Handschuhe** im Spind des **Wärters (Warden)** zu finden. Syndikats-Antagonisten können ein **Krav Maga Implantat** für den gleichen Effekt verwenden.
 
-  ## Action Combat
+  ## Aktionskampf (Action Combat)
 
-  Krav Maga attacks aren't like the combos of most martial arts. The user must instead ready the attack they
-  wish to use in the action bar, then follow it up by performing Harm action on the opponent as normal.
+  Krav Maga-Angriffe sind nicht wie die Kombos der meisten Kampfkünste. Der Benutzer muss stattdessen den Angriff, den er verwenden möchte, in der **Aktionsleiste** bereitlegen (**ready**),
+  und ihn dann durch eine **Schaden-Aktion (Harm action)** am Gegner wie gewohnt ausführen.
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  ### Leg Sweep
+  ### Beinfeger (Leg Sweep)
 
-  <Box>
-    <GuideEntityEmbed Entity="ActionLegSweep" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ActionLegSweep" Caption=""/>
+  </Box>
 
-  Sweeps the legs out from under an opponent to knock them down.
+  Fegt die Beine unter dem Gegner weg, um ihn zu Boden zu werfen (**knock them down**).
 
-  ### Neck Chop
+  ### Nackenschlag (Neck Chop)
 
-  <Box>
-    <GuideEntityEmbed Entity="ActionNeckChop" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ActionNeckChop" Caption=""/>
+  </Box>
 
-  A hard swing with the side of the user's hand temporally disables the opponent's ability to speak.
+  Ein harter Schlag mit der Seite der Hand des Benutzers deaktiviert vorübergehend die **Sprechfähigkeit** des Gegners.
 
-  ### Lung Punch
+  ### Lungenschlag (Lung Punch)
 
-  <Box>
-    <GuideEntityEmbed Entity="ActionLungPunch" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ActionLungPunch" Caption=""/>
+  </Box>
 
-  Deals Stamina damage and temporally disables the opponent's ability to breath.
+  Verursacht **Ausdauerschaden (Stamina damage)** und deaktiviert vorübergehend die **Atemfähigkeit** des Gegners.
 
 </Document>

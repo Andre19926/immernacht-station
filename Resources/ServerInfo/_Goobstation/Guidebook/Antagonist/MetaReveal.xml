@@ -9,76 +9,76 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Revealing conditions for antags
+  # Aufdeckende Bedingungen für Antagonisten (Antags)
 
-  The following list provides revealing conditions for different antags you may see on the station
+  Die folgende Liste enthält aufdeckende Bedingungen für verschiedene Antagonisten, denen ihr auf der Station begegnen könnt.
 
-  ## Heretics
-  The revealing condition for this shield is any of the following:
-  - Finding a rune
-  - The chaplain sees a reality fracture and notifies security
-  - Witnessing a crewmember using their powers
+  ## Häretiker (Heretics)
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Das Finden einer Rune
+  - Der Kaplan sieht eine Realitätsfraktur und benachrichtigt die Sicherheit
+  - Das Bezeugen, wie ein Crewmitglied seine Kräfte einsetzt
 
-  ## Cosmic Cult
+  ## Kosmischer Kult (Cosmic Cult)
 
-  The revealing condition for this shield is any of the following:
-  - witnessing a crewmember with the telltale facemask
-  - Seeing a glyph
-  - witnessing a crewmember absorb a malign shift
-  - witnessing a crewmember use a cult-specific ability
-  - witnessing cult gear like entropic swords and armor
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Das Bezeugen eines Crewmitglieds mit der verräterischen Gesichtsmaske
+  - Das Sehen einer Glyphe
+  - Das Bezeugen, wie ein Crewmitglied eine bösartige Verschiebung (malign shift) absorbiert
+  - Das Bezeugen, wie ein Crewmitglied eine kultspezifische Fähigkeit einsetzt
+  - Das Bezeugen von Kultausrüstung wie entropische Schwerter und Rüstungen
 
-  ## Devils
+  ## Teufel (Devils)
 
-  The revealing condition for this shield is any of the following:
-  - You are a Devil.
-  - You are the Chaplain, a lawyer, or a member of Central Command. (Including BSO and NTR)
-  - You have made a deal with the Devil.
-  - You have witnessed someone make a deal.
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Ihr seid ein Teufel.
+  - Ihr seid der Kaplan, ein Anwalt oder ein Mitglied des Zentralkommandos. (Einschließlich BSO und NTR)
+  - Ihr habt einen Deal mit dem Teufel gemacht.
+  - Ihr habt bezeugt, wie jemand einen Deal gemacht hat.
 
-  ## Zombies
+  ## Zombies
 
-  Revealing conditions to the "Zombie" Shield:
-  - You are a Nuclear Operative
-  - You are a Syndicate Agent
-  - You are a Zombie
-  - You have seen Zombies on the station
+  Aufdeckende Bedingungen für den „Zombie“-Schild:
+  - Ihr seid ein Nuklear-Agent
+  - Ihr seid ein Syndikatsagent
+  - Ihr seid ein Zombie
+  - Ihr habt Zombies auf der Station gesehen
 
-  ## Infections(Once the zombie virus is proven)
+  ## Infektionen (Sobald das Zombievirus nachgewiesen ist) (Infections)
 
-  Revealing conditions to the "Infections" Shield:
-  - You are a Chemist
-  - You are a Chief Medical Officer
-  - Zombies are announced to be real and station-wide
+  Aufdeckende Bedingungen für den „Infektionen“-Schild:
+  - Ihr seid ein Chemiker
+  - Ihr seid der Leitende Medizinische Offizier (Chief Medical Officer)
+  - Zombies werden als real und stationsweit angekündigt
 
-  ## Deathsquad
+  ## Todesschwadron (Deathsquad)
 
-  Revealing conditions to the "Deathsquad" Shield:
-  - You'll know.
+  Aufdeckende Bedingungen für den „Todesschwadron“-Schild:
+  - Ihr werdet es wissen.
 
-  ## Implanted implants
+  ## Implantierte Implantate (Implanted implants)
 
-  The revealing condition for this shield is any of the following:
-  - discovering a non-NT implanter, used or unused
-  - discovering a non-NT implant box
-  - discovering use of a non-NT implant by anyone
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Das Entdecken eines Nicht-NT-Implanters, benutzt oder unbenutzt
+  - Das Entdecken einer Nicht-NT-Implantatbox
+  - Das Entdecken der Nutzung eines Nicht-NT-Implantats durch irgendjemanden
+  - Das Erleben einer Situation, in der absolut keine andere Erklärung möglich ist
+  - Das Entdecken eines entsperrten Uplinks
 
-  ## Chameleon Items
+  ## Chamäleon-Gegenstände (Chameleon Items)
 
-  The revealing condition for this shield is any of the following:
-  - seeing someone else cause any chameleon item to change
-  - finding holographic nanomachine fibers
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Das Sehen, wie jemand anderes irgendeinen Chamäleon-Gegenstand wechselt
+  - Das Finden holografischer Nanomaschinenfasern
+  - Das Erleben einer Situation, in der absolut keine andere Erklärung möglich ist
+  - Das Entdecken eines entsperrten Uplinks
 
-  ## Stealth Items
+  ## Tarn-Gegenstände (Stealth Items)
 
-  The revealing condition for this shield is any of the following:
-  - seeing the item behave differently than the expected behavior for the item
-  - seeing the item used for its hidden purpose
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Die aufdeckende Bedingung für diesen Schild ist jede der folgenden:
+  - Das Sehen, wie sich der Gegenstand anders verhält als das erwartete Verhalten für den Gegenstand
+  - Das Sehen, wie der Gegenstand für seinen verborgenen Zweck verwendet wird
+  - Das Erleben einer Situation, in der absolut keine andere Erklärung möglich ist
+  - Das Entdecken eines entsperrten Uplinks
 
 </Document>

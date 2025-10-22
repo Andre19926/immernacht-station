@@ -12,193 +12,192 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Glossary
+# Glossar (Glossary)
 
-This page contains most slang terms you might encounter on the station and throughout the community !
+Diese Seite enthält die meisten Slang-Begriffe, denen ihr auf der Station und in der gesamten Community begegnen könnt!
 
-# In-Character Slang
+# In-Character Slang (IC)
 
-These are terms you might encounter in-game.
+Dies sind Begriffe, denen ihr im Spiel begegnen könnt.
 
 ## AOS
-Arrest on sight.
+**Arrest on sight.** (Festnahme bei Sichtkontakt.)
 
 ## AA
-All Access, or an ID which has every access on the station. The captain is the only person who will have this kind of access under normal circumstances.
+**All Access** (Voller Zugang) oder eine ID, die jeden Zugang auf der Station hat. Der Captain ist unter normalen Umständen die einzige Person, die diese Art von Zugang hat.
 
 ## Atmos
-Short for Atmospherics.
+Kurz für **Atmospherics** (Atmosphärensysteme).
 
 ## Atmosian
-A term for Atmospheric Technicians, or generally anyone who spends most of their time or is particularly skilled with Atmospherics.
+Ein Begriff für **Atmosphärentechniker** (Atmospheric Technicians) oder allgemein jeden, der die meiste Zeit im Bereich **Atmospherics** verbringt oder besonders geschickt darin ist.
 
 ## Bolted
-An airlock that will never change states. It will stay permanently open or permanently closed until it is unbolted. Closed and bolted airlocks have solid red lights.
+Eine **geschlossene/verbolzte** Schleuse (airlock), die ihren Zustand niemals ändern wird. Sie bleibt dauerhaft offen oder dauerhaft geschlossen, bis sie entbolzt (unbolted) wird. Geschlossene und verbolzte Schleusen haben durchgehend rote Lichter.
 
 ## Borg
-Short for cyborgs, player-controlled robots.
+Kurz für **Cyborgs**, von Spielern gesteuerte Roboter.
 
 ## Braindead
-Refers to a user who has disconnected from the game. Disconnected users may still reconnect to the server and assume control of their character again.
+Bezieht sich auf einen Benutzer, der sich vom Spiel **getrennt (disconnected)** hat. Getrennte Benutzer können sich immer noch wieder mit dem Server verbinden und die Kontrolle über ihren Charakter übernehmen.
 
 ## Brig
-The main area of the security department. This is where prisoners are brought and held for their punishment. The Warden is in charge of the brig's smooth operation.
+Der Hauptbereich der Sicherheitsabteilung. Hier werden Gefangene hingebracht und für ihre Bestrafung festgehalten. Der **Wärter (Warden)** ist für den reibungslosen Betrieb der Arrestzelle (Brig) verantwortlich.
 
 ## Cap
-Short for Captain.
+Kurz für **Captain**.
 
 ## Cargonia
-Reference to cargo declaring independence. Against the rules.
+Bezieht sich auf die **Unabhängigkeitserklärung der Frachtabteilung (Cargo)**. Gegen die Regeln.
 
 ## CE
-Short for Chief Engineer, the head of the Engineering Department.
+Kurz für **Chief Engineer** (Chefingenieur), der Leiter der **Technikabteilung (Engineering Department)**.
 
 ## CentComm/Central Command
-An administrative agency which oversees the Nanotrasen space station you inhabit.
+Eine Verwaltungsbehörde, die die **Nanotrasen-Raumstation** überwacht, die ihr bewohnt.
 
 ## CMO
-Short for Chief Medical Officer, the head of the Medical Department.
+Kurz für **Chief Medical Officer** (Leitender Medizinischer Offizier), der Leiter der **Medizinischen Abteilung (Medical Department)**.
 
 ## Crit/Critical
-Refers to the health state at which you fall unconscious and unable to move. While in critical, your health slowly decays until you die, unless you happen to get outside assistance.
+Bezieht sich auf den Gesundheitszustand, in dem ihr **bewusstlos** werdet und euch nicht mehr bewegen könnt. Im kritischen Zustand baut eure Gesundheit langsam ab, bis ihr sterbt, es sei denn, ihr erhaltet Hilfe von außen.
 
 ## Emag
-  Refers to the Syndicate cryptographic sequencer. "Emagged" usually refers to airlocks or lockers that are bolted open, but also any other device hacked into by an Emag.
+Bezieht sich auf den **Syndikats-Kryptographie-Sequenzer (Syndicate cryptographic sequencer)**. "Emagged" (ge-emagt) bezieht sich normalerweise auf **Schleusen** oder **Spinde**, die **offen verbolzt** sind, aber auch auf jedes andere Gerät, das von einem **Emag** gehackt wurde.
 
 ## Emergency Access/EA
-  An airlock that can be opened by anyone, even without access or an ID at all. Airlocks that are set to emergency access have blinking yellow lights.
+Eine Schleuse, die von **jedem** geöffnet werden kann, selbst ohne Zugang oder ID. Schleusen, die auf Notfallzugang eingestellt sind, haben **blinkende gelbe Lichter**.
 
 ## ERT
-An Emergency Response Team. These may be dispatched by Central Command for a number of purposes.
+Ein **Emergency Response Team** (Notfallreaktionsteam). Diese können vom **Zentralkommando** für eine Reihe von Zwecken entsandt werden.
 
 ## Flukie
-A portmanteau of "Fluke" and "Nukie" used to (usually derogatorily) refer to a team of Nuclear Operatives who fail their objective. May also appear as "Fluke Ops".
+Ein Kofferwort aus "Fluke" (Zufall/Glück) und "Nukie", das (normalerweise abwertend) ein Team von **Nuklear-Agenten (Nuclear Operatives)** bezeichnet, das sein Ziel verfehlt. Kann auch als "Fluke Ops" auftreten.
 
 ## God(s)
-An IC term representing a Server Administrator. CentComm is also sometimes used in this manner.
+Ein IC-Begriff, der einen **Server-Administrator** repräsentiert. **CentComm** wird manchmal auch in dieser Weise verwendet.
 
 ## Greytide/Greyshirt/Tider/Assistant
-Typically utilized to refer to a Passenger due to the color of their standard uniform, though this may be used to negatively refer to other crew members (not only passengers) who act unruly or commit various minor crimes.
+Wird typischerweise verwendet, um sich auf einen **Passagier** aufgrund der Farbe seiner **Standarduniform** zu beziehen, obwohl es auch negativ für andere Crewmitglieder (nicht nur Passagiere) verwendet werden kann, die sich ungebührlich verhalten oder verschiedene geringfügige Verbrechen begehen.
 
 ## HoP
-Short for Head of Personnel, head of the Service Department. Can also refer to the HoP's office, where IDs are given or changed.
+Kurz für **Head of Personnel** (Personalleiter), Leiter der **Dienstleistungsabteilung (Service Department)**. Kann sich auch auf das Büro des HoP beziehen, in dem IDs ausgegeben oder geändert werden.
 
 ## HoS
-Short for Head of Security, head of the Security Department.
+Kurz für **Head of Security** (Sicherheitschef), Leiter der **Sicherheitsabteilung (Security Department)**.
 
 ## Insuls
-Short for Insulated Gloves. These are the yellow gloves most often worn by Engineers. They are offer complete protection from getting electrocuted from shocked things. Vastily more effective than their budget variety.
+Kurz für **Insulated Gloves** (Isolierte Handschuhe). Dies sind die gelben Handschuhe, die am häufigsten von Ingenieuren getragen werden. Sie bieten **vollständigen Schutz** davor, durch geschockte Gegenstände einen elektrischen Schlag zu bekommen. Wesentlich effektiver als ihre Budget-Variante.
 
 ## Jani
-Short for Janitor.
+Kurz für **Janitor** (Hausmeister).
 
 ## KOS
-Kill on sight. Someone has commited such a serious crime that they are deemed not even worth arresting.
+**Kill on sight** (Töten bei Sichtkontakt). Jemand hat ein so ernstes Verbrechen begangen, dass er nicht einmal der Festnahme für würdig befunden wird.
 
 ## Mats
-Materials. Usually steel, plastic, plasteel, glass, silver and gold.
+**Materials** (Materialien). Normalerweise Stahl, Plastik, Plasteel, Glas, Silber und Gold.
 
 ## Nanotrasen/NT
-Nanotrasen is the company which owns the space station you inhabit.
+**Nanotrasen** ist die Firma, der die Raumstation gehört, die ihr bewohnt.
 
 ## Newkie
-A portmanteau of "New" and "Nukie" used to refer to an inexperienced player in the role of a Nuclear Operative.
+Ein Kofferwort aus "New" (Neu) und "Nukie", das sich auf einen **unerfahrenen Spieler** in der Rolle eines **Nuklear-Agenten** bezieht.
 
 ## Nukie
-A slang/shorthand term of a Nuclear Operative. May sometimes also appear as "Nuke Op".
+Ein Slang-/Kurzbegriff für einen **Nuklear-Agenten**. Kann manchmal auch als "Nuke Op" auftreten.
 
 ## Perma
-Short for Permanent Brig. This is for the most serious crime and means that a prisoner will never be released. Most stations have a dedicated, separate area of security for the permanent brig.
+Kurz für **Permanent Brig** (Dauerarrestzelle). Dies ist für die schwerwiegendsten Verbrechen und bedeutet, dass ein Gefangener **nie** freigelassen wird. Die meisten Stationen haben einen dedizierten, separaten Bereich der Sicherheit für die Dauerarrestzelle.
 
 ## QM
-Short for Quartermaster, the head of the Cargo department.
+Kurz für **Quartermaster** (Quartiermeister), der Leiter der **Frachtabteilung (Cargo department)**.
 
 ## RD
-Short for Research Director, the head of the Science Department.
+Kurz für **Research Director** (Forschungsdirektor), der Leiter der **Wissenschaftsabteilung (Science Department)**.
 
 ## Robust
-A word used to describe someone who is particularly adept in combat, or endured through a tough fight.
+Ein Wort, das verwendet wird, um jemanden zu beschreiben, der besonders **geschickt im Kampf** ist oder einen harten Kampf überstanden hat.
 
 ## Salv
-Short for Salvage tech.
+Kurz für **Salvage tech** (Bergungstechniker).
 
 ## Sci
-Short for Science.
+Kurz für **Science** (Wissenschaft).
 
 ## Sec
-Short for Security.
+Kurz für **Security** (Sicherheit).
 
 ## Secoff
-Short for Security Officer.
+Kurz für **Security Officer** (Sicherheitsbeamter).
 
 ## Shift
-In-Character way to refer to rounds.
+Die In-Character-Bezeichnung für Runden.
 
 ## Singulo
-A shortening of the Singularity Engine. A Singulo can create infinite power for the station but is very dangerous.
+Eine Abkürzung für den **Singularity Engine** (Singularitätsmotor). Eine Singulo kann unendliche Energie für die Station erzeugen, ist aber sehr gefährlich.
 
 ## Singuloose
-A Singularity that has grown too much and breached its containment. It will rip through the station causing massive damage.
+Eine Singularität, die zu groß geworden ist und ihre Eindämmung durchbrochen hat. Sie reißt durch die Station und verursacht massive Schäden.
 
 ## Spacing
-An event which causes an area to lose air pressure, i.e. a hull breach.
+Ein Ereignis, das dazu führt, dass ein Bereich den Luftdruck verliert, d. h. ein **Rumpfbruch (hull breach)**.
 
 ## Spess
-An intentional mis-spelling of "Space", sometimes used as a portmanteau of "space" and "mess". May also appear in words such as "Spessmen".
+Eine absichtliche Falschschreibung von "Space" (Weltraum), manchmal als Kofferwort aus "space" und "mess" (Durcheinander) verwendet. Kann auch in Wörtern wie "Spessmen" (Weltraummänner) auftreten.
 
 ## SSD
-Short for Sudden Sleep Disorder or Space Sleep Disorder. This is an in-character way to refer to a player who has disconnected and is no longer responding.
+Kurz für **Sudden Sleep Disorder** (Plötzliche Schlafstörung) oder **Space Sleep Disorder** (Weltraum-Schlafstörung). Dies ist eine In-Character-Art, sich auf einen Spieler zu beziehen, der sich **getrennt** hat und nicht mehr reagiert.
 
 ## Syndie/Syndi/Syndicate
-A catch-all reference to anyone employed by the Syndicate. This ranges from (suspected) Syndicate Agents to Nuclear Operatives.
+Eine Sammelbezeichnung für jeden, der beim **Syndikat** angestellt ist. Dies reicht von (vermuteten) **Syndikatsagenten** bis hin zu **Nuklear-Agenten**.
 
 ## TC
-A telecrystal, which is a currency used by Syndicate Agents to purchase restricted contraband such as weapons and other illegal equipment.
+Ein **Telekristall (telecrystal)**, eine Währung, die von **Syndikatsagenten** verwendet wird, um eingeschränkte Schmuggelware wie Waffen und andere illegale Ausrüstung zu kaufen.
 
 ## Wardenloose
-A joke term referencing a Singuloose. A wardenloose is when the Warden is seen outside of the brig.
+Ein Scherzbegriff in Anlehnung an **Singuloose**. Ein **Wardenloose** liegt vor, wenn der **Wärter** außerhalb der Arrestzelle gesehen wird.
 
 ## Xenoarchaeology
-Study of artifacts, usually performed by science.
+Die Untersuchung von Artefakten, die normalerweise von der **Wissenschaft** durchgeführt wird.
 
-# Out-Of-Character Slang
+# Out-Of-Character Slang (OOC)
 
-These are terms you should only be using in OOC chat or outside the game.
+Dies sind Begriffe, die ihr nur im OOC-Chat oder außerhalb des Spiels verwenden solltet.
 
 ## Admeme
-An event hosted or caused by an admin.
+Ein Ereignis, das von einem **Admin** veranstaltet oder verursacht wird.
 
 ## AHelp/Admin Help
-A relay used to report rulebreaking behavior or other issues to administrators.
+Ein Meldekanal, der verwendet wird, um **Regelverstöße** oder andere Probleme an **Administratoren** zu melden.
 
 ## Antag
-Short for Antagonists, which are specifically picked individuals designed to drive the round into chaos.
+Kurz für **Antagonisten**, speziell ausgewählte Personen, die darauf ausgelegt sind, die Runde ins Chaos zu stürzen.
 
 ## Bwoink
-The noise made when an admin-help is received. Pray this isn't a ban.
+Das Geräusch, das ertönt, wenn ein Admin-Help eingeht. Betet, dass dies kein Bann ist.
 
 ## Ick Ock
-A phrase usually shouted in OOC when somebody reveals IC current round information, or "in-character, out-of-character".
+Ein Ausdruck, der normalerweise im OOC gerufen wird, wenn jemand IC-Informationen der aktuellen Runde preisgibt, oder "in-character, out-of-character".
 
 ## LOOC/OOC
-Local out-of-character and (global) out-of-character respectively. They are text channels that allow players to talk to other players outside of roleplay. LOOC is enabled during rounds, while OOC is typically only on after the round ends.
+**Local out-of-character** (Lokales Out-of-Character) bzw. **(Global) out-of-character**. Dies sind Textkanäle, die es Spielern ermöglichen, außerhalb des Rollenspiels miteinander zu sprechen. **LOOC** ist während der Runden aktiviert, während **OOC** typischerweise nur nach Rundenende eingeschaltet ist.
 
 ## LRP
-Low Roleplay. Servers marked LRP typically have relaxed roleplaying rules.
+**Low Roleplay** (Niedriges Rollenspiel). Als LRP gekennzeichnete Server haben normalerweise **entspannte Rollenspielregeln**.
 
 ## MRP
-Medium Roleplay. Servers marked MRP usually have a decent basis of roleplaying rules and generally require players to act as their character would realistically in a given situation. Less leeway is afforded to behavior such as openly defying Security or your boss.
+**Medium Roleplay** (Mittleres Rollenspiel). Als MRP gekennzeichnete Server haben in der Regel eine **solide Basis von Rollenspielregeln** und erfordern im Allgemeinen von den Spielern, sich so zu verhalten, wie ihr Charakter es in einer gegebenen Situation realistischerweise tun würde. Es wird weniger Spielraum für Verhalten wie das offene Missachten der Sicherheit oder eures Chefs eingeräumt.
 
 ## HRP
-High Roleplay. Servers marked HRP generally have extensive rules on what is and is not constituted while playing a character. You are generally required to act as your character would, have a character backstory, and follow protocol on the station. Some HRP servers may create their own lore or settings to further facilitate the type of server they wish to host.
+**High Roleplay** (Hohes Rollenspiel). Als HRP gekennzeichnete Server haben im Allgemeinen **umfangreiche Regeln** dafür, was beim Spielen eines Charakters erlaubt ist und was nicht. Von euch wird im Allgemeinen erwartet, dass ihr euch so verhaltet, wie euer Charakter es tun würde, eine **Charakter-Hintergrundgeschichte** habt und das Protokoll auf der Station befolgt. Einige HRP-Server erstellen möglicherweise ihre eigene **Lore** oder **Settings**, um die Art des Servers, den sie hosten möchten, weiter zu fördern.
 
 ## Self-Antag
-A term for a player who engages in antagonist-like activity without actually being an antagonist. This encompasses a wide variety of behavior, but is typically used to describe annoying behavior or actions which are greatly detrimental to other players for no purpose. Self-antagonism is a bannable offense. Sometimes used in IC. DO NOT DO THIS.
+Ein Begriff für einen Spieler, der **Antagonisten-ähnliche Aktivitäten** ausübt, ohne tatsächlich ein Antagonist zu sein. Dies umfasst eine Vielzahl von Verhaltensweisen, wird aber typischerweise verwendet, um **nerviges Verhalten** oder Aktionen zu beschreiben, die anderen Spielern ohne Zweck stark abträglich sind. **Self-Antagonismus ist ein Bann-Grund.** Manchmal wird dies IC verwendet. TUT DIES NICHT.
 
 ## Upstream
-The baseline version of the game. Any changes to Upstream will "flow" down to all other forks of the game. All official Wizard's Den servers work off of Upstream.
+Die **Baseline-Version** des Spiels. Alle Änderungen an **Upstream** "fließen" zu allen anderen Forks des Spiels. Alle offiziellen Wizard's Den Server arbeiten mit **Upstream**.
 
 ## Validhunter
-A player who hunts down "valids", as in people that are valid to kill, even though this person isn't security.
-
+Ein Spieler, der "valids" jagt, d.h. Leute, die **tötungswürdig** sind (valid to kill), obwohl diese Person nicht zur Sicherheit gehört.
 </Document>

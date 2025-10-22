@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Job Standards
-Attached below this are several different categories for Job-Specific Standard Operating Procedures (SOP). These are here to help clarify different goals in your job or department.
+# Berufsstandards (Job Standards)
+Unten sind mehrere verschiedene Kategorien für **Berufsspezifische Standardarbeitsanweisungen (Standard Operating Procedures - SOP)** aufgeführt. Diese sollen helfen, verschiedene Ziele in eurem Beruf oder eurer Abteilung zu klären.
 
 <Box>
-[bold][color=#f0e4b4]To be clear:[/color][/bold] these are not a [italic]checklist[/italic] for you to follow. They can be used as such, but should be used more as guidelines.
+[bold][color=#f0e4b4]Zur Klarstellung:[/color][/bold] Dies ist keine [italic]Checkliste[/italic], die ihr befolgen müsst. Sie können als solche verwendet werden, sollten aber eher als Richtlinien dienen.
 </Box>
 
-The following folders are listed underneath this folder:
-- [textlink="Cargo Department" link="Cargo SOP"]
-- [textlink="Command Department" link="Command SOP"]
-- [textlink="Engineering Department" link="Engineering SOP"]
-- [textlink="Medical Department" link="Medical SOP"]
-- [textlink="Science Department" link="Science SOP"]
-- [textlink="Security Department" link="Security SOP"]
-- [textlink="Service Department" link="Service SOP"]
+Die folgenden Ordner sind unter diesem Ordner aufgelistet:
+- [textlink="Frachtabteilung (Cargo Department)" link="Cargo SOP"]
+- [textlink="Kommandobereich (Command Department)" link="Command SOP"]
+- [textlink="Ingenieurabteilung (Engineering Department)" link="Engineering SOP"]
+- [textlink="Medizinische Abteilung (Medical Department)" link="Medical SOP"]
+- [textlink="Wissenschaftsabteilung (Science Department)" link="Science SOP"]
+- [textlink="Sicherheitsabteilung (Security Department)" link="Security SOP"]
+- [textlink="Dienstleistungsabteilung (Service Department)" link="Service SOP"]
 
 </Document>

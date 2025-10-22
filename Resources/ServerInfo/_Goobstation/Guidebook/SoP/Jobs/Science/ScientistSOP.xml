@@ -6,33 +6,33 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Scientist SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Scientist[/color] of this station.
+# SOP des Wissenschaftlers (Scientist SOP)
+Dies ist die Liste der Verfahren, Verantwortlichkeiten und Pflichten des [color=#cc74fc]Wissenschaftlers[/color] dieser Station.
 
 <ColorBox>
-  <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
-  </Box>
+  <Box>
+    Für die Zwecke der Alarm-Eskalation: Behandelt höhere Alarme so, als wären sie immer noch auf dem vorherigen Alarmniveau. (Gelber Alarm ist Blauer Alarm, wenn er zuvor Blauer Alarm war.) Darüber hinaus sind Delta, Gamma, Epsilon und Violetter Alarm als Roter Alarm zu behandeln.
+  </Box>
 </ColorBox>
 
-## Green Alert
-1. Scientists are not permitted to bring grenades, harmful chemicals, nor Toxin bombs outside of the Science Department.
-<Box>[bullet/]Exceptions for the Toxin bombs if being handed over to the Cargo Department for Salvaging operations.</Box>
+## Grüner Alarm (Green Alert)
+1. Wissenschaftlern ist es nicht gestattet, **Granaten, schädliche Chemikalien** oder **Toxinbomben** außerhalb der Wissenschaftsabteilung mitzunehmen.
+<Box>[bullet/]Ausnahmen für die Toxinbomben gelten, wenn sie zur Bergung (Salvaging operations) an die **Frachtabteilung (Cargo Department)** übergeben werden.</Box>
 
-2. Scientists should give a warning over the Commons Channel and Science Channel before generating an anomaly.
+2. Wissenschaftler sollten über den **Allgemeinen Kanal (Commons Channel)** und den **Wissenschaftskanal (Science Channel)** eine Warnung ausgeben, bevor sie eine Anomalie erzeugen.
 
-3. Scientists are not permitted to create AI Console Boards nor AI Control Boards without permission from Research Director and/or Captain.
+3. Wissenschaftlern ist es nicht gestattet, **KI-Konsolenplatinen (AI Console Boards)** oder **KI-Steuerplatinen (AI Control Boards)** ohne Genehmigung des Forschungsdirektors (Research Director) und/oder des Captains zu erstellen.
 
-## Blue Alert
-1. Scientists are not permitted to bring harmful chemicals outside of the Science Department.
+## Blauer Alarm (Blue Alert)
+1. Wissenschaftlern ist es nicht gestattet, **schädliche Chemikalien** außerhalb der Wissenschaftsabteilung mitzunehmen.
 
-2. Scientists should give a warning over the Commons Channel and Science Channel before generating an anomaly.
+2. Wissenschaftler sollten über den **Allgemeinen Kanal** und den **Wissenschaftskanal** eine Warnung ausgeben, bevor sie eine Anomalie erzeugen.
 
-3. Scientists are permitted to bring grenades outside of the Science Department, but must justify their uses.
+3. Wissenschaftlern ist es gestattet, **Granaten** außerhalb der Wissenschaftsabteilung mitzunehmen, müssen jedoch deren Verwendung begründen.
 
-4. Scientists are permitted to bring Toxin bombs outside of the Science Department, but only to deliver to Armory and/or Cargo Department for Salvage operations.
+4. Wissenschaftlern ist es gestattet, **Toxinbomben** außerhalb der Wissenschaftsabteilung mitzunehmen, jedoch nur zur Lieferung an die **Waffenkammer (Armory)** und/oder die **Frachtabteilung** für **Bergungsoperationen**.
 
-## Red Alert
-1. All Guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
+## Roter Alarm (Red Alert)
+1. Alle Richtlinien vom [color=#388c34]Grünen Alarm[/color] und [color=#1b67a5]Blauen Alarm[/color] werden übernommen. Es gibt keine speziellen Richtlinien im [color=#ba292c]Roten Alarm[/color].
 
 </Document>

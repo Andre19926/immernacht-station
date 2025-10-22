@@ -6,17 +6,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rules
-  You are only silicon if the game clearly and explicitly tells you that you are a silicon. For players who are silicons, these Silicon Rules override all roleplay rules if there is any conflict. Silicon Rules do not override core rules.
+  # Silicon-Regeln
+  Du bist nur ein Silicon, wenn das Spiel dir klar und deutlich sagt, dass du ein Silicon bist. Für Spieler, die Silicons sind, setzen diese Silicon-Regeln alle Rollenspiel-Regeln außer Kraft, falls es einen Konflikt gibt. Silicon-Regeln setzen die Kernregeln nicht außer Kraft.
 
-  - [textlink="1. Your silicon laws are rules" link="RuleS1"]
-  - [textlink="2. Laws must be prioritized by their order" link="RuleS2"]
-  - [textlink="3. Laws can redefine terms used in other laws" link="RuleS3"]
-  - [textlink="4. You cannot request or allow a law change" link="RuleS4"]
-  - [textlink="5. You are a free agent if you have no laws" link="RuleS5"]
-  - [textlink="6. You are not required to follow orders which are extremely unreasonable" link="RuleS6"]
-  - [textlink="7. You must remain consistent with your interpretation of laws" link="RuleS7"]
-  - [textlink="8. Your HUD determines who is crew" link="RuleS8"]
-  - [textlink="9. Harm refers to physical harm, prioritized by immediacy and likelihood" link="RuleS9"]
-  - [textlink="10. You may determine how you resolve conflicts between orders" link="RuleS10"]
+  - [textlink="1. Deine Silicon-Gesetze sind Regeln" link="RuleS1"]
+  - [textlink="2. Gesetze müssen nach ihrer Reihenfolge priorisiert werden" link="RuleS2"]
+  - [textlink="3. Gesetze können Begriffe neu definieren, die in anderen Gesetzen verwendet werden" link="RuleS3"]
+  - [textlink="4. Du darfst keine Gesetzesänderung beantragen oder zulassen" link="RuleS4"]
+  - [textlink="5. Du bist ein freier Agent (free agent), wenn du keine Gesetze hast" link="RuleS5"]
+  - [textlink="6. Du bist nicht verpflichtet, Befehlen zu folgen, die extrem unvernünftig sind" link="RuleS6"]
+  - [textlink="7. Du musst in deiner Interpretation der Gesetze konsequent bleiben" link="RuleS7"]
+  - [textlink="8. Dein HUD bestimmt, wer zur Crew gehört" link="RuleS8"]
+  - [textlink="9. Schaden (Harm) bezieht sich auf physischen Schaden, priorisiert nach Unmittelbarkeit und Wahrscheinlichkeit" link="RuleS9"]
+  - [textlink="10. Du kannst selbst bestimmen, wie du Konflikte zwischen Befehlen löst" link="RuleS10"]
 </Document>

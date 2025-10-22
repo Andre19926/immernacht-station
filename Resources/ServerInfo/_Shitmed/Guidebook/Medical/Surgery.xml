@@ -8,55 +8,55 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Surgery
-Your usual weekly activity. By performing surgical operations on your patients, you can heal wounds, remove or add body parts, organs, and more.
+# Chirurgie (Surgery)
+Eure übliche wöchentliche Aktivität. Durch die Durchführung chirurgischer Operationen an euren Patienten könnt ihr Wunden heilen, Körperteile, Organe und mehr entfernen oder hinzufügen.
 
-## The Basics
-To start surgery your patient needs to be laying down, and ideally sedated.
+## Die Grundlagen (The Basics)
+Um mit der Chirurgie zu beginnen, muss euer Patient **liegen** und idealerweise **sediert** sein.
 
-If they are not sedated, they will be in a lot of pain, which decreases their mood, and will make surgical wounds worse.
-
-<Box>
-<GuideEntityEmbed Entity="NitrousOxideTank" Caption="nitrous oxide"/>
-<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="any breathing tool"/>
-</Box>
-
-You also need to wear protective gear such as a mask and gloves to prevent harming the patient due to contamination.
+Wenn er nicht sediert ist, wird er starke Schmerzen haben, was seine Stimmung verschlechtert und chirurgische Wunden schlimmer macht.
 
 <Box>
-<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="any mask"/>
-<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="any gloves"/>
+<GuideEntityEmbed Entity="NitrousOxideTank" Caption="Lachgas (nitrous oxide)"/>
+<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="jedes Atemwerkzeug (any breathing tool)"/>
 </Box>
 
-## Getting Started
-
-To engage in surgery, you'll need a set of surgical tools.
+Ihr müsst auch Schutzausrüstung wie eine Maske und Handschuhe tragen, um eine Schädigung des Patienten durch Kontamination zu verhindern.
 
 <Box>
-<GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
-<GuideEntityEmbed Entity="Retractor" Caption="retractor"/>
-<GuideEntityEmbed Entity="Hemostat" Caption="hemostat"/>
-<GuideEntityEmbed Entity="Drill" Caption="drill"/>
+<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="jede Maske (any mask)"/>
+<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="alle Handschuhe (any gloves)"/>
+</Box>
+
+## Erste Schritte (Getting Started)
+
+Um eine Operation durchzuführen, benötigt ihr ein Set chirurgischer Werkzeuge.
+
+<Box>
+<GuideEntityEmbed Entity="Scalpel" Caption="Skalpell (scalpel)"/>
+<GuideEntityEmbed Entity="Retractor" Caption="Spreizer (retractor)"/>
+<GuideEntityEmbed Entity="Hemostat" Caption="Klemme (hemostat)"/>
+<GuideEntityEmbed Entity="Drill" Caption="Bohrer (drill)"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="Saw" Caption="saw"/>
-<GuideEntityEmbed Entity="Cautery" Caption="cautery"/>
-<GuideEntityEmbed Entity="BoneGel" Caption="bone gel"/>
+<GuideEntityEmbed Entity="Saw" Caption="Säge (saw)"/>
+<GuideEntityEmbed Entity="Cautery" Caption="Kauter (cautery)"/>
+<GuideEntityEmbed Entity="BoneGel" Caption="Knochengel (bone gel)"/>
 </Box>
 
-Once you've got tools in hand, interact with your patient to begin surgery. You'll be able to choose which part you want to operate on.
+Sobald ihr die Werkzeuge in der Hand habt, interagiert mit eurem Patienten, um die Operation zu beginnen. Ihr könnt dann auswählen, an welchem Körperteil ihr operieren möchtet.
 
-## Ghetto Surgery
+## Notoperation (Ghetto Surgery)
 
-Certain non-surgical tools can be used in a pinch, use the scalpel examine icon to see how good or bad something is.
+Bestimmte nicht-chirurgische Werkzeuge können notfalls verwendet werden. Benutzt das **Untersuchungssymbol (examine icon)** am Skalpell, um zu sehen, wie gut oder schlecht etwas ist.
 <Box>
-<GuideEntityEmbed Entity="Welder" Caption="welder"/>
-<GuideEntityEmbed Entity="Wirecutter" Caption="wirecutter"/>
-<GuideEntityEmbed Entity="KitchenKnife" Caption="knife"/>
-<GuideEntityEmbed Entity="Crowbar" Caption="crowbar"/>
-<GuideEntityEmbed Entity="CableApcStack" Caption="lv cable"/>
+<GuideEntityEmbed Entity="Welder" Caption="Schweißgerät (welder)"/>
+<GuideEntityEmbed Entity="Wirecutter" Caption="Kabelschneider (wirecutter)"/>
+<GuideEntityEmbed Entity="KitchenKnife" Caption="Messer (knife)"/>
+<GuideEntityEmbed Entity="Crowbar" Caption="Brecheisen (crowbar)"/>
+<GuideEntityEmbed Entity="CableApcStack" Caption="NS-Kabel (lv cable)"/>
 </Box>
 
-They aren't ideal compared to real surgical equipment, but they'll do in a pinch!
+Sie sind nicht ideal im Vergleich zu echter chirurgischer Ausrüstung, aber im Notfall tun sie es!
 
 </Document>

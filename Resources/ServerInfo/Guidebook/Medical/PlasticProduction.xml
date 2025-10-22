@@ -1,29 +1,29 @@
 ﻿<Document>
 
-  # Plastic Sheet Production
+  # Plastikplatten-Herstellung (Plastic Sheet Production)
 
-  <GuideEntityEmbed Entity="SheetPlastic"/>
+  <GuideEntityEmbed Entity="SheetPlastic" Caption="Plastikplatte (Sheet Plastic)"/>
 
-  Plastic sheets are versatile synthetic materials used in a wide variety of recipes. While not inherently complex to produce, they require high temperatures and multiple reagents to synthesize correctly.
+  Plastikplatten sind vielseitige synthetische Materialien, die in einer Vielzahl von Rezepten verwendet werden. Ihre Herstellung ist nicht besonders kompliziert, erfordert jedoch hohe Temperaturen und mehrere Reagenzien, um korrekt synthetisiert zu werden.
 
-  ## Recipe
+  ## Rezept (Recipe)
 
-  To produce [bold]10 Plastic Sheets[/bold], combine the following in a chemical mixer and heat to at least [bold]374 Kelvin[/bold]:
+  Um [bold]10 Plastikplatten (Plastic Sheets)[/bold] herzustellen, mischen Sie Folgendes in einem Chemischen Mischer (Chemical Mixer) und erhitzen Sie es auf mindestens [bold]374 Kelvin[/bold]:
 
-  — 10 units of [bold]Oil[/bold]
+  — 10 Einheiten [bold]Öl (Oil)[/bold]
 
-  — 6 units of [bold]Ash[/bold]
+  — 6 Einheiten [bold]Asche (Ash)[/bold]
 
-  — 4 units of [bold]Sulfuric Acid[/bold]
+  — 4 Einheiten [bold]Schwefelsäure (Sulfuric Acid)[/bold]
 
-  ## Components
+  ## Komponenten (Components)
 
-  <GuideReagentEmbed Reagent="Oil"/>
-  <GuideReagentEmbed Reagent="Ash"/>
-  <GuideReagentEmbed Reagent="SulfuricAcid"/>
+  <GuideReagentEmbed Reagent="Oil" Caption="Öl (Oil)"/>
+  <GuideReagentEmbed Reagent="Ash" Caption="Asche (Ash)"/>
+  <GuideReagentEmbed Reagent="SulfuricAcid" Caption="Schwefelsäure (Sulfuric Acid)"/>
 
-  ## Output
+  ## Ausgabe (Output)
 
-  Once complete, Plastic will appear on top of the beaker or ChemMaster. Transfer it to storage or fabrication systems as needed.
+  Nach Abschluss erscheinen die Plastikplatten (Plastic Sheets) auf dem Becher oder ChemMaster. Übertragen Sie sie nach Bedarf in Lager- oder Fertigungssysteme (Fabrication Systems).
 
 </Document>

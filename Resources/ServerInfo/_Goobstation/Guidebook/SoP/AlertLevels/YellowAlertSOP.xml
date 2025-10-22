@@ -6,32 +6,32 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Yellow
+  # Stationsalarm - Gelb
 
   <Box>
-    [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+    [italic]Ausgerufen von: Jeder mit Zugriff auf Kommandoebene an einer funktionierenden Kommunikationskonsole.[/italic]
   </Box>
 
 
-  [bold]Conditions:[/bold]
-  There is an atmospheric threat aboard the station such as mass hull breaches, spacing, or high temperatures that make the station uninhabitable without an EVA suit.
+  [bold]Bedingungen:[/bold]
+  Es besteht eine atmosphärische Bedrohung an Bord der Station, wie z. B. massive Hüllenbrüche, Evakuierung ins All (Spacing) oder hohe Temperaturen, die die Station ohne EVA-Anzug unbewohnbar machen.
 
-  [bold]Security:[/bold]
+  [bold]Sicherheit:[/bold]
 
-  You should ensure EVA suits are properly distributed around the station while maintaining vigilance.
+  Ihr solltet sicherstellen, dass EVA-Anzüge ordnungsgemäß auf der Station verteilt werden, während ihr wachsam bleibt.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Sichere Bereiche:[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  EVA-Lager, Technik-Lager, Gravitationsgenerator, Gesichertes Ingenieurslager, KI-Upload, Tresorraum, Gateway, jeder andere Ort, der Zugriff auf Kommandoebene erfordert und nicht regelmäßig genutzt wird.
 
-  It is recommended that all Secure Areas be bolted down unless their use is necessary;
+  Es wird empfohlen, dass alle Sicheren Bereiche verriegelt werden, es sei denn, ihre Nutzung ist notwendig;
 
-  [bold]General Crew:[/bold]
+  [bold]Allgemeine Crew:[/bold]
 
-  All personnel are highly recommended to maximize their Suit Sensors;
+  Allen Mitarbeitern wird dringend empfohlen, ihre Anzugsensoren zu maximieren;
 
-  Personnel are to report any suspicious activity to the nearest member of Security, or use their PDA or headsets if required;
+  Personal soll jede verdächtige Aktivität dem nächsten Mitglied der Sicherheit melden oder bei Bedarf ihr PDA oder Headset verwenden;
 
-  Personnel are highly encouraged to either get into a safe area or find emergency EVA suits as well as a source of oxygen/nitrogen as required.
+  Personal wird dringend ermutigt, sich entweder in einen sicheren Bereich zu begeben oder Notfall-EVA-Anzüge sowie eine Quelle für Sauerstoff/Stickstoff nach Bedarf zu finden.
 
 </Document>

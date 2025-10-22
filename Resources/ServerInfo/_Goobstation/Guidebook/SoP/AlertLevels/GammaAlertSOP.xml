@@ -6,42 +6,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Gamma
+  # Stationsalarm - Gamma
 
   <Box>
-    [italic]Called by: Central Command. Use a Fax Machine and send a fax stamped by a member of command.[/italic]
+    [italic]Ausgerufen von: Zentralkommando. Benutze ein Faxgerät und sende ein von einem Mitglied des Führungspersonals gestempeltes Fax.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Bedingungen:[/bold]
 
-  There is a massive threat to the continued safety of the station and crew, threatening the very existence of the Station;
+  Es besteht eine massive Bedrohung für die fortwährende Sicherheit der Station und der Crew, die die Existenz der Station selbst gefährdet;
 
-  However, this threat is not yet big enough to warrant the destruction of the Station, and Central Command may still want to protect their assets.
+  Diese Bedrohung ist jedoch noch nicht groß genug, um die Zerstörung der Station zu rechtfertigen, und das Zentralkommando möchte möglicherweise seine Vermögenswerte noch schützen.
 
-  [bold]Security:[/bold]
+  [bold]Sicherheit:[/bold]
 
-  Martial Law is enacted. Standard Operating Procedure is suspended. Security personnel have full permission to do whatever it takes to ensure that the safety of the station and crew is maintained. Personnel interfering with emergency procedures may be detained. Security are cleared to use lethal force in response to any physical threat. Assault of Command or ERT may be punished with immediate field execution.
+  Das Kriegsrecht (Martial Law) wird verhängt. Die Standardbetriebsanweisung (Standard Operating Procedure) wird ausgesetzt. Das Sicherheitspersonal hat die volle Erlaubnis, alles Notwendige zu tun, um sicherzustellen, dass die Sicherheit der Station und der Crew aufrechterhalten wird. Personal, das Notfallverfahren behindert, darf festgenommen werden. Der Sicherheit ist es gestattet, als Reaktion auf jede physische Bedrohung tödliche Gewalt anzuwenden. Ein Angriff auf Führungspersonal (Command) oder ERT (Notfallreaktionsteam) kann mit sofortiger Feldhinrichtung bestraft werden.
 
-  Random searches are fully permitted, allowed and encouraged. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+  Stichprobenartige Durchsuchungen sind uneingeschränkt erlaubt, gestattet und werden gefördert. Sicherheitspersonal darf jedes Personal, das eine stichprobenartige Durchsuchung verweigert, festnehmen, um die besagte Durchsuchung durchzuführen;
 
-  Security personnel are to cooperate fully with any Central Command Staff (such as Emergency Response Teams) in order to eliminate the threat to the station.
+  Sicherheitspersonal hat uneingeschränkt mit jeglichem Personal des Zentralkommandos (wie Notfallreaktionsteams) zusammenzuarbeiten, um die Bedrohung für die Station zu beseitigen.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Sichere Bereiche:[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  EVA-Lager, Technik-Lager, Gravitationsgenerator, Gesichertes Ingenieurslager, KI-Upload, Tresorraum, Gateway, jeder andere Ort, der Zugriff auf Kommandoebene erfordert und nicht regelmäßig genutzt wird.
 
-  All Secure Areas are to be bolted down. Secure Areas may be left unbolted at the discretion of Command personnel;
+  Alle Sicheren Bereiche sind zu verriegeln. Sichere Bereiche können nach Ermessen von Führungspersonal unverriegelt bleiben;
 
-  Excursions into the Gateway are fully prohibited.
+  Exkursionen in das Gateway sind vollständig verboten.
 
-  [bold]General Crew:[/bold]
+  [bold]Allgemeine Crew:[/bold]
 
-  All personnel are required to maximize their Suit Sensors;
+  Alles Personal ist verpflichtet, seine Anzugsensoren zu maximieren;
 
-  All personnel are to remain inside their Departments until such a point as Code Gamma has passed, unless specifically requested by Security and/or Command, or their particular skills can help resolve the situation (such as Field Medics or Engineers);
+  Alles Personal hat in seinen Abteilungen zu bleiben, bis Code Gamma aufgehoben wurde, es sei denn, es wird ausdrücklich von der Sicherheit und/oder dem Kommando angefordert oder ihre besonderen Fähigkeiten können zur Lösung der Situation beitragen (wie Feldmediziner oder Ingenieure);
 
-  Visitors to the station (anyone with Civilian-level access) are to remain inside the Bar, Library or Dormitories until such a point as Code Gamma has passed;
+  Besucher der Station (jeder mit zivilem Zugriff) haben in der Bar, Bibliothek oder den Schlafsälen zu bleiben, bis Code Gamma aufgehoben wurde;
 
-  Personnel are to follow the instructions of Security staff, so long as they are within the bounds of Space Law and are not acting against the general well-being of the station and its crew. Failure to do so may lead to their arrest for Creating a Workplace Hazard.
+  Personal hat den Anweisungen des Sicherheitspersonals Folge zu leisten, solange diese im Rahmen des Weltraumgesetzes (Space Law) liegen und nicht gegen das allgemeine Wohl der Station und ihrer Crew gerichtet sind. Bei Nichtbeachtung können sie wegen Schaffung einer Gefahr am Arbeitsplatz (Creating a Workplace Hazard) verhaftet werden.
 
 </Document>

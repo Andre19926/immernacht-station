@@ -8,36 +8,36 @@ SPDX-License-Identifier: MIT
 
 <Document>
 
-# Core Medications
+# Kernmedikamente (Core Medications)
 
-These medications are almost always useful to medbay in one way or another.
+Diese Medikamente sind für die Krankenstation (Medbay) fast immer auf die eine oder andere Weise nützlich.
 
-<GuideReagentEmbed Reagent="Bicaridine"/>
-<GuideReagentEmbed Reagent="Kelotane"/>
-<GuideReagentEmbed Reagent="Dermaline"/>
-<GuideReagentEmbed Reagent="Dylovene"/>
-<GuideReagentEmbed Reagent="Inaprovaline"/>
-<GuideReagentEmbed Reagent="Dexalin"/>
-<GuideReagentEmbed Reagent="DexalinPlus"/>
-<GuideReagentEmbed Reagent="Iron"/>
+<GuideReagentEmbed Reagent="Bicaridine" Caption="Bicaridin (Bicaridine)"/>
+<GuideReagentEmbed Reagent="Kelotane" Caption="Kelotan (Kelotane)"/>
+<GuideReagentEmbed Reagent="Dermaline" Caption="Dermalyn (Dermaline)"/>
+<GuideReagentEmbed Reagent="Dylovene" Caption="Dyloven (Dylovene)"/>
+<GuideReagentEmbed Reagent="Inaprovaline" Caption="Inaprovalin (Inaprovaline)"/>
+<GuideReagentEmbed Reagent="Dexalin" Caption="Dexalin"/>
+<GuideReagentEmbed Reagent="DexalinPlus" Caption="Dexalin Plus (DexalinPlus)"/>
+<GuideReagentEmbed Reagent="Iron" Caption="Eisen (Iron)"/>
 
-# Specialty Medications
+# Spezialmedikamente (Specialty Medications)
 
-These medications tend to have specific use cases.
+Diese Medikamente haben spezifische Anwendungsfälle.
 
-<GuideReagentEmbed Reagent="Cryoxadone"/>
-<GuideReagentEmbed Reagent="Epinephrine"/>
-<GuideReagentEmbed Reagent="Hyronalin"/>
-<GuideReagentEmbed Reagent="Arithrazine"/>
-<GuideReagentEmbed Reagent="Phalanximine"/>
-<GuideReagentEmbed Reagent="Tricordrazine"/>
-<GuideReagentEmbed Reagent="TranexamicAcid"/>
-<GuideReagentEmbed Reagent="Ambuzol"/>
-<GuideReagentEmbed Reagent="Oculine"/>
+<GuideReagentEmbed Reagent="Cryoxadone" Caption="Cryoxadon (Cryoxadone)"/>
+<GuideReagentEmbed Reagent="Epinephrine" Caption="Epinephrin (Epinephrine)"/>
+<GuideReagentEmbed Reagent="Hyronalin" Caption="Hyronalin"/>
+<GuideReagentEmbed Reagent="Arithrazine" Caption="Arithrazin (Arithrazine)"/>
+<GuideReagentEmbed Reagent="Phalanximine" Caption="Phalanximin (Phalanximine)"/>
+<GuideReagentEmbed Reagent="Tricordrazine" Caption="Tricordrazin (Tricordrazine)"/>
+<GuideReagentEmbed Reagent="TranexamicAcid" Caption="Tranexamsäure (TranexamicAcid)"/>
+<GuideReagentEmbed Reagent="Ambuzol" Caption="Ambuzol"/>
+<GuideReagentEmbed Reagent="Oculine" Caption="Oculin (Oculine)"/>
 
-# All Medications
+# Alle Medikamente (All Medications)
 
-This is a list of -all- medications available, including ones previously listed.
+Dies ist eine Liste aller verfügbaren Medikamente, einschließlich der bereits aufgeführten.
 
 <GuideReagentGroupEmbed Group="Medicine"/>
 

@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Security Department SOP
-These are the list of SOPs that Security Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP der Sicherheitsabteilung (Security Department SOP)
+Dies ist die Liste der SOPs (Standard Operating Procedures), die das **Sicherheitspersonal (Security Personnel)** befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-For reference, [color=#ba292c][bold]Security Officer[/bold][/color] and [color=#ba292c][bold]Security Cadet[/bold][/color] have been combined in the same entry, for ease of use.
+Als Referenz sind der [color=#ba292c][bold]Sicherheitsbeamte (Security Officer)[/bold][/color] und der [color=#ba292c][bold]Sicherheitskadett (Security Cadet)[/bold][/color] der Einfachheit halber im selben Eintrag zusammengefasst.
 
-The following jobs have entries in this department, the [color=#1b67a5][bold]Head of Security[/bold][/color] being the Head of Staff and [color=#ba292c][bold]Warden[/bold][/color] commanding underneath them:
-- [textlink="Head of Security" link="HeadOfSecurity SOP"]
-- [textlink="Warden" link="Warden SOP"]
-- [textlink="Detective" link="Detective SOP"]
-- [textlink="Security Officer" link="OfficerCadet SOP"]
-- [textlink="Security Cadet" link="OfficerCadet SOP"]
+Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Sicherheitschef (Head of Security)[/bold][/color] der Abteilungsleiter (Head of Staff) ist und der [color=#ba292c][bold]Wärter (Warden)[/bold][/color] ihm unterstellt ist:
+- [textlink="Sicherheitschef" link="HeadOfSecurity SOP"]
+- [textlink="Wärter" link="Warden SOP"]
+- [textlink="Detektiv (Detective)" link="Detective SOP"]
+- [textlink="Sicherheitsbeamter (Security Officer)" link="OfficerCadet SOP"]
+- [textlink="Sicherheitskadett (Security Cadet)" link="OfficerCadet SOP"]
 
 </Document>

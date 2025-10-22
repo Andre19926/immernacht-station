@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Fire/Gas Spill Procedures
-In the event of a fire or gas spill (namely anything considered station-wide dangerous), Command should set the alert to [color=#c8a404]Yellow Alert[/color] until Engineering personnel can deal with the problem.
-<Box>This is namely for massive gas spills, such as Plasma, Tritium, N2O, and anything that damages the station.</Box>
+# Verfahren bei Feuer/Gasaustritten
+Im Falle eines Feuers oder Gasaustritts (insbesondere alles, was als stationsweit gefährlich gilt), sollte das Kommando (Command) den Alarm auf [color=#c8a404]Gelben Alarm[/color] setzen, bis das Ingenieurspersonal (Engineering Personnel) das Problem beheben kann.
+<Box>Dies gilt insbesondere für massive Gasaustritte, wie Plasma, Tritium, N2O und alles, was die Station beschädigt.</Box>
 
-1. If there is a plasma/tritium flood with no ignition, all personnel should vacate the area and turn off flammable sources until Engineering can scrub/vent the gas out of the area.
+1. Wenn es eine Plasma-/Tritiumflutung ohne Zündung gibt, sollte alles Personal den Bereich verlassen und brennbare Quellen abschalten, bis die Technik (Engineering) das Gas aus dem Bereich entfernen/absaugen (scrub/vent) kann.
 
-2. If there is an ignited plasma/tritium flood, all personnel should vacate the area and maintain safe distance while Engineering scrubs/vents the area and balances the temperature to a safe, optimal level.
+2. Wenn es eine gezündete Plasma-/Tritiumflutung gibt, sollte alles Personal den Bereich verlassen und einen sicheren Abstand halten, während die Technik den Bereich reinigt/absaugt und die Temperatur auf ein sicheres, optimales Niveau ausgleicht.
 
-3. If there is a deadly/harmful gas spill (non-plasma/tritium), such as N2O or any other gas, Engineering should scrub the area and ensure all affected personnel are vacated from the area.
+3. Wenn es einen tödlichen/schädlichen Gasaustritt (nicht Plasma/Tritium) gibt, wie z. B. N2O oder ein anderes Gas, sollte die Technik den Bereich reinigen und sicherstellen, dass alles betroffene Personal aus dem Bereich evakuiert wird.
 
-4. Once the fire/gas is dealt with and the area affected is returned to optimal conditions, Engineering should give the all clear and Command should return to a safe alert level.
+4. Sobald das Feuer/Gas beseitigt ist und der betroffene Bereich wieder optimale Bedingungen aufweist, sollte die Technik Entwarnung geben und das Kommando sollte zu einer sicheren Alarmstufe zurückkehren.
 
 </Document>

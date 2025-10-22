@@ -9,39 +9,39 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chemicals
+# Chemikalien (Cemicals)
 
-Chemicals are a powerful tool that can cause a variety of effects when consumed. Some can be found in plants, purchased from cargo, or be synthesized through combination with other chemicals.
+Chemikalien sind ein mächtiges Werkzeug, das beim Konsum eine Vielzahl von Effekten hervorrufen kann. Einige können in Pflanzen gefunden, bei der Fracht (Cargo) gekauft oder durch die Kombination mit anderen Chemikalien synthetisiert werden.
 
-Knowing different types of chemicals and their effects is important for being able to manage injury and danger.
+Das Wissen über verschiedene Arten von Chemikalien und deren Wirkungen ist wichtig, um Verletzungen und Gefahren bewältigen zu können.
 
-## Elements
+## Elemente (Elements)
 <GuideReagentGroupEmbed Group="Elements"/>
 
-## Medicine
+## Medizin (Medicine)
 <GuideReagentGroupEmbed Group="Medicine"/>
 
-## Narcotics
+## Narkotika (Narcotics)
 <GuideReagentGroupEmbed Group="Narcotics"/>
 
-## Pyrotechnics
+## Pyrotechnik (Pyrotechnics)
 <GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-## Toxins
+## Toxine (Toxins)
 <GuideReagentGroupEmbed Group="Toxins"/>
 
-## Foods
+## Lebensmittel (Foods)
 <GuideReagentGroupEmbed Group="Foods"/>
 
-## Botanical
+## Botanisch (Botanical)
 <GuideReagentGroupEmbed Group="Botanical"/>
 
-## Biological
+## Biologisch (Biological)
 <GuideReagentGroupEmbed Group="Biological"/>
 
-## Special
+## Speziell (Special)
 <GuideReagentGroupEmbed Group="Special"/>
 
-## Other
+## Sonstiges (Other)
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

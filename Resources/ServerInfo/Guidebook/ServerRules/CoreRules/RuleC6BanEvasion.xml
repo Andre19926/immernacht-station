@@ -6,23 +6,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Core Rule 6 - In-game administration rulings are final
+  # Kernregel 6 - Entscheidungen der In-Game-Administration sind endgültig
 
-  Incidences of admin abuse, negligence or disputed rulings can be taken to the Discord server. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.
+  Vorfälle von Admin-Missbrauch, Fahrlässigkeit oder umstrittenen Entscheidungen können auf dem Discord-Server vorgebracht werden. Wenn ein Admin zu einem Problem sagt, es wurde "untersucht, gehandhabt, gelöst" usw., ist es unwahrscheinlich, dass der Admin weitere Informationen bereitstellt. Admins sind nicht verpflichtet, IC-Informationen (In-Character-Informationen) preiszugeben. Absichtliches Lügen oder Verdrehen von Tatsachen in Adminhelps wird streng geahndet.
 
-  Almost all bans may be appealed on our forums at discord.gg/goobstation in the ban appeals section. This is generally the only acceptable way to contact the administration team to discuss your ban and revise it if inappropriate, including mistaken bans.
+  Gegen fast alle Banns kann auf unserem Discord unter discord.gg/goobstation im Bereich für Bann-Einsprüche (Ban Appeals) Einspruch eingelegt werden. Dies ist im Allgemeinen der einzig akzeptable Weg, das Administrationsteam zu kontaktieren, um über deinen Bann zu sprechen und ihn gegebenenfalls zu revidieren, einschließlich irrtümlicher Banns.
 
-  Any attempt to circumvent or bypass a game ban will result in a voucher ban. Attempting to evade role bans by gaining access to or working in the capacity of a job you are banned from will result in a game ban. These bans are applied even if the evasion attempt is unsuccessful.
+  Jeder Versuch, einen Spiel-Bann (Game Ban) zu umgehen, führt zu einem "Voucher Ban" (einem permanenten Bann, der mit dem Hauptkonto verknüpft wird). Der Versuch, Rollen-Banns (Role Bans) zu umgehen, indem man sich Zugang zu einem Job verschafft oder in der Kapazität eines Jobs arbeitet, für den man gebannt ist, führt zu einem Spiel-Bann (Game Ban). Diese Banns werden auch dann verhängt, wenn der Umgehungsversuch erfolglos bleibt.
 
-  ## Exceptions
-  There are no exemptions for evading or attempting to evade game bans. Antagonists who impersonate or take over a role which they are banned from to aid in their goals are not considered to be evading their role ban.
+  ## Ausnahmen
+  Es gibt keine Ausnahmen für die Umgehung oder den Versuch der Umgehung von Spiel-Banns. Antagonisten, die eine Rolle imitieren oder übernehmen, für die sie gebannt sind, um ihre Ziele zu erreichen, gelten nicht als Umgehung ihres Rollen-Banns.
 
-  ## Additional Information
-  - [textlink="Ban Types" link="BanTypes"]
-  - [textlink="Ban Durations" link="BanDurations"]
+  ## Zusätzliche Informationen
+  - [textlink="Bann-Typen" link="BanTypes"]
+  - [textlink="Bann-Dauer" link="BanDurations"]
 
-  ## Precedents
-  - Incidents of admin abuse or negligence should be reported along with a date and time, along with details to pinpoint the incident in the logs, to any full admin via forum PM or posted on the admin complaints sub-forum located at https://discord.gg/goobstation. Incidents of poorly conducted admin events may also be taken to https://discord.gg/goobstation in their respective feedback threads, for less serious complaints.
-  - Lying in adminhelps, misrepresenting facts deliberately, or logging off when an admin has asked a question may result in permabans. Admins will not automatically place bans for players logging off however, and will generally wait a while in case real life situations caused a player to disconnect or go AFK.
-
+  ## Präzedenzfälle
+  - Vorfälle von Admin-Missbrauch oder Fahrlässigkeit sollten zusammen mit Datum und Uhrzeit sowie Details zur Lokalisierung des Vorfalls in den Logs an einen beliebigen Full-Admin per Forum-PN (Privatnachricht) gemeldet oder im Unterforum für Admin-Beschwerden unter https://discord.gg/XNtp65CKvY veröffentlicht werden. Vorfälle von schlecht durchgeführten Admin-Events können bei weniger schwerwiegenden Beschwerden auch unter https://discord.gg/goobstation in den entsprechenden Feedback-Threads vorgebracht werden.
+  - Lügen in Adminhelps, absichtliches Verdrehen von Tatsachen oder das Ausloggen, während ein Admin eine Frage gestellt hat, kann zu permanenten Banns (Permabans) führen. Admins werden jedoch nicht automatisch Banns für Spieler verhängen, die sich ausloggen, und werden im Allgemeinen eine Weile warten, falls reale Lebenssituationen einen Spieler zum Trennen der Verbindung oder zum AFK-Gehen gezwungen haben.
 </Document>

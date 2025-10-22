@@ -12,50 +12,50 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Sicherheit (Security)
+Die Sicherheit von Station und Besatzung hat oberste Priorität für den [color=#cb0000]Sicherheitsdienst (Security)[/color]. Sie sind für jede Situation gerüstet, und der [color=#cb0000]Sicherheitsdienst (Security)[/color] ist zur Stelle, um Ordnung zu wahren und Menschenmengen zu kontrollieren.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Sie stellen sich [textlink="Syndikat-Agenten (Syndicate Agents)" link="Traitors"], [textlink="Nuklearoperative (Nuclear Operatives)" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] und ungebärdigen Mitarbeitern.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, the Detective and the Brigmedic. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+## Personal
+Das Personal des [color=#cb0000]Sicherheitsdienstes (Security)[/color] besteht aus Sicherheitskadetten (Security Cadets), Sicherheitsbeamten (Security Officers), dem Detektiv (Detective) und dem Arrestmediziner (Brigmedic). Der [color=#cb0000]Sicherheitsdienst (Security)[/color] wird vom Wärter (Warden) und dem Sicherheitschef (Head of Security) geleitet.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
-    <GuideEntityEmbed Entity="ToyFigurineBrigmedic" Caption="Brigmedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Sicherheitsbeamter (Secoff)"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detektiv (Detective)"/>
+    <GuideEntityEmbed Entity="ToyFigurineBrigmedic" Caption="Arrestmediziner (Brigmedic)"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Wärter (Warden)"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="Sicherheitschef (HoS)"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands.
+## Ausrüstung (Gear)
+Zunächst gibt es nicht-tödliche Mittel, die über das bloße Auffordern zur Kooperation hinausgehen. Sowohl der Elektroschockstock (Stunbaton) als auch der Entwaffner (Disabler) können die Bewegungsfreiheit eines Angreifers einschränken, während Handschellen (Handcuffs) angelegt werden können, um einem Kriminellen die freie Bewegung und den Zugriff auf seine Hände zu verwehren.
 
-Stunbaton operates differently depending on attack type. On light attack ([color=yellow]Left click[/color]) it deals 75 immediate stamina damage and knocks target down for 4 seconds after 2 second delay, these values are can be modified or cancelled entirely by armor and stimulants. Light attacks are delayed by 2.5 seconds and consume twice as much battery power. Heavy attacks ([color=yellow]Right click[/color]) deal 15 immediate stamina damage and 40 overtime stamina damage, which soft-crits the target after 2 hits when overtime stamina damage reaches stamcrit threshold (100 stamina damage for most species). Soft stamina crit still allows the target to crawl, but any immediate stamina damage will stamcrit them, allowing them to be cuffed. To stun your target using heavy stunbaton attack, you need to either hit them twice, then wait a while until they are knocked down and hit them once more to fully stamcrit them, or hit them four times in quick succession.
+Der Elektroschockstock (Stunbaton) funktioniert je nach Angriffsart unterschiedlich. Bei einem leichten Angriff ([color=yellow]Linksklick[/color]) verursacht er 75 sofortigen Ausdauerschaden und wirft das Ziel für 4 Sekunden nach einer Verzögerung von 2 Sekunden zu Boden; diese Werte können durch Rüstung und Stimulanzien modifiziert oder ganz aufgehoben werden. Leichte Angriffe sind um 2,5 Sekunden verzögert und verbrauchen doppelt so viel Batterieleistung. Schwere Angriffe ([color=yellow]Rechtsklick[/color]) verursachen 15 sofortigen Ausdauerschaden und 40 Ausdauerschaden über Zeit, was das Ziel nach 2 Treffern in einen weichen kritischen Zustand (Soft Stamina Crit) versetzt, wenn der Ausdauerschaden über Zeit die Schwelle für den kritischen Zustand (100 Ausdauerschaden für die meisten Spezies) erreicht. Ein weicher kritischer Zustand (Soft Stamina Crit) erlaubt es dem Ziel noch zu kriechen, aber jeder weitere sofortige Ausdauerschaden führt zu einem vollständigen kritischen Zustand (Stamcrit), sodass Handschellen (Handcuffs) angelegt werden können. Um ein Ziel mit einem schweren Elektroschockstock (Stunbaton)-Angriff zu betäuben, müssen Sie es entweder zweimal treffen, dann warten, bis es zu Boden geht, und es einmal mehr treffen, um es vollständig in den kritischen Zustand (Stamcrit) zu versetzen, oder es viermal in schneller Folge treffen.
   <Box>
-    <GuideEntityEmbed Entity="Stunbaton"/>
-    <GuideEntityEmbed Entity="Handcuffs"/>
-   <GuideEntityEmbed Entity="WeaponDisabler"/>
+    <GuideEntityEmbed Entity="Stunbaton" Caption="Elektroschockstock (Stunbaton)"/>
+    <GuideEntityEmbed Entity="Handcuffs" Caption="Handschellen (Handcuffs)"/>
+    <GuideEntityEmbed Entity="WeaponDisabler" Caption="Entwaffner (Disabler)"/>
   </Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+## Blendgranaten (Flashes)
+[color=#a4885c]Blendgranaten (Flashes)[/color] sind ein effektives Mittel, um Menschenmengen aufzulösen und besonders ausweichende Ziele festzunehmen, mit einem großen Wirkungsbereich, der alle ohne Schutz blendet.
+Es ist zu beachten, dass Blendgranaten (Flashes) sowohl in einem großen Bereich ([color=yellow]Z-Taste[/color]) als auch bei einem Angriff auf eine Person im [color=red]Schadensmodus (Harm Mode)[/color] verwendet werden können. Wichtig zu wissen ist, dass lokale Blendgranaten (Flashes) [color=yellow]2,5[/color]-mal länger wirken als solche mit großem Wirkungsbereich.
+[color=#cb0000]Sicherheitsdienst (Security)[/color] und [color=#a4885c]einige[/color] andere Mitarbeiter haben Augenschutz (Eye Protection) gegen Blendgranaten (Flashbangs) und Blitze (Flashes).
 
-Flashbangs emit loud noise on trigger, knocking down everyone in large area, knockdown duration scales with the distance to the epicenter. Ear protection in a form of some helmets and over-ear headsets that [color=#cb0000]Security[/color] and [color=#a4885c]all[/color] command staff has suppresses flashbang noise to some extent, allowing you to use flashbangs safely at range but at the same time preventing you from blowing them up in your hands.
+Blendgranaten (Flashbangs) erzeugen bei Auslösung einen lauten Knall, der alle in einem großen Bereich zu Boden wirft; die Dauer des Niederschlags (Knockdown) hängt von der Entfernung zum Epizentrum ab. Gehörschutz (Ear Protection) in Form einiger Helme und Over-Ear-Headsets, die [color=#cb0000]Sicherheitsdienst (Security)[/color] und [color=#a4885c]alle[/color] Kommandomitarbeiter (Command Staff) haben, dämpft den Lärm von Blendgranaten (Flashbangs) bis zu einem gewissen Grad, was es ermöglicht, Blendgranaten (Flashbangs) sicher aus der Entfernung zu verwenden, aber gleichzeitig verhindert, sie in den eigenen Händen detonieren zu lassen.
   <Box>
-    <GuideEntityEmbed Entity="Flash"/>
-    <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
-    <GuideEntityEmbed Entity="GrenadeFlashBang"/>
+    <GuideEntityEmbed Entity="Flash" Caption="Blendgranate (Flash)"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity" Caption="Sicherheitsbrille (Security Glasses)"/>
+    <GuideEntityEmbed Entity="GrenadeFlashBang" Caption="Blendgranate (Flashbang)"/>
   </Box>
 
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substantial fire against any who would stand against the station.
+## Tödliche Waffen (Lethals)
+Sollte die Situation es erfordern, hat der [color=#cb0000]Sicherheitsdienst (Security)[/color] Zugang zu Lasergewehren (Laser Rifles), Schrotflinten (Shotguns), Handfeuerwaffen (Handguns) und automatischen Gewehren (Automatic Rifles), die in der Lage sind, erhebliches Feuer gegen jeden zu richten, der sich gegen die Station stellt.
   <Box>
-    <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
-    <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>
-    <GuideEntityEmbed Entity="WeaponPistolMk58"/>
-    <GuideEntityEmbed Entity="WeaponRifleLecter"/>
+    <GuideEntityEmbed Entity="WeaponLaserCarbine" Caption="Laserkarabiner (Laser Carbine)"/>
+    <GuideEntityEmbed Entity="WeaponShotgunKammerer" Caption="Schrotflinte Kammerer (Kammerer Shotgun)"/>
+    <GuideEntityEmbed Entity="WeaponPistolMk58" Caption="Pistole Mk58 (Mk58 Pistol)"/>
+    <GuideEntityEmbed Entity="WeaponRifleLecter" Caption="Gewehr Lecter (Lecter Rifle)"/>
   </Box>
 </Document>

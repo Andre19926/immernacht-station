@@ -8,39 +8,39 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
 # Bingle
 
-A bingle is a disgusting fungus that rapidly grows and takes over stations. Very weak on its own, their strength is in numbers.
+Ein Bingle ist ein widerlicher Pilz, der schnell wächst und Stationen übernimmt. Alleine sehr schwach, liegt ihre Stärke in der Masse.
 
-  <Box>
-    <GuideEntityEmbed Entity="MobBingle" Caption="Bingle"/>
-	  <GuideEntityEmbed Entity="BinglePit" Caption="Bingle Pit"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobBingle" Caption="Bingle"/>
+      <GuideEntityEmbed Entity="BinglePit" Caption="Bingle-Grube"/>
+  </Box>
 
-A bingle is a midround antagonist that spawns alone, but can quickly grow in numbers
+Ein Bingle ist ein Mid-Round-Antagonist, der alleine spawnt, aber schnell an Zahl zunehmen kann.
 
-## Playing As A Bingle
+## Als Bingle spielen
 
-- The most difficult part of a bingle pit's development is the beginning, when it is very weak. As the first bingle you should prioritize dragging as many items to the pit as fast as you can.
-Bingles are very strong in melee combat, stunning in a few hits. Try to take out any lone witnesses before they can call out the pits location.
+- Der schwierigste Teil der Entwicklung einer Bingle-Grube ist der Anfang, wenn sie sehr schwach ist. Als erster Bingle solltet ihr priorisieren, so schnell wie möglich so viele Gegenstände wie möglich zur Grube zu ziehen.
+Bingles sind im Nahkampf sehr stark und betäuben in wenigen Treffern. Versucht, einzelne Zeugen auszuschalten, bevor sie den Standort der Grube melden können.
 
-- Once there are a few bingles, you should focus on dragging items in, as well as protecting the pit. If it breaks, you wont be able to make any more bingles and the colony will die out.
+- Sobald es ein paar Bingle gibt, solltet ihr euch darauf konzentrieren, Gegenstände hineinzuziehen und die Grube zu schützen. Wenn sie zerstört wird, könnt ihr keine weiteren Bingle mehr erschaffen und die Kolonie wird aussterben.
 
-- The bingle pit is the home of bingles, when several items are drug into it and fall down a new bingle is made. After quite a large number of items are drug into it, bingles are upgraded into armored bingles, which have far more health than the normal ones. The bingle pit also grows to larger than before, allowing for corpses to be dropped into the pit.
+- Die Bingle-Grube ist die Heimat der Bingle; wenn mehrere Gegenstände hineingezogen werden und hinunterfallen, wird ein neuer Bingle erschaffen. Nachdem eine recht große Anzahl von Gegenständen hineingezogen wurde, werden die Bingle zu gepanzerten Bingle aufgewertet, die weitaus mehr Gesundheit haben als die normalen. Die Bingle-Grube wächst auch über ihre vorherige Größe hinaus, wodurch Leichen in die Grube geworfen werden können.
 
-## Playing Against Bingles
+## Gegen Bingle spielen
 
-The most best way to play against bingles is to avoid melee combat. Instead; Use ranged weapons to deal with them and thin their numbers from afar.
-  <Box>
-    <GuideEntityEmbed Entity="WeaponRifleLecter"/>
-	  <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
-  </Box>
-The bingle pit itself can only be damaged by melee weapons and explosives. When attacking the pit directly be careful to avoid falling into it, as you can do so even while alive. It is typically best to deal with the bingles themselves before attacking the pit.
+Der beste Weg, gegen Bingle zu spielen, ist es, den Nahkampf zu vermeiden. Verwendet stattdessen Fernkampfwaffen, um sie zu bekämpfen und ihre Anzahl aus der Ferne zu dezimieren.
+  <Box>
+    <GuideEntityEmbed Entity="WeaponRifleLecter"/>
+      <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
+  </Box>
+Die Bingle-Grube selbst kann nur durch Nahkampfwaffen und Sprengstoffe beschädigt werden. Seid vorsichtig, wenn ihr die Grube direkt angreift, um nicht hineinzufallen, da dies auch im lebendigen Zustand möglich ist. Es ist typischerweise am besten, sich zuerst um die Bingle selbst zu kümmern, bevor ihr die Grube angreift.
 
-If a bingle infestation is growing out of hand, consider shutting down gravity, bingles cannot drop items into a pit without gravity and therefor cannot multiply.
+Wenn eine Bingle-Plage überhandnimmt, solltet ihr in Betracht ziehen, die Schwerkraft abzuschalten. Bingle können ohne Schwerkraft keine Gegenstände in eine Grube fallen lassen und sich somit nicht vermehren.
 
-  <Box>
-    <GuideEntityEmbed Entity="GravityGenerator"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GravityGenerator"/>
+  </Box>
 
-All items (and people) lost to the pit will be spat out when destroyed!
+Alle Gegenstände (und Personen), die in der Grube verloren gehen, werden bei deren Zerstörung wieder ausgespuckt!
 
 </Document>

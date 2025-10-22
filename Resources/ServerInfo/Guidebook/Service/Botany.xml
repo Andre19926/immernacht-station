@@ -11,86 +11,84 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Botany
-As a botanist, it is your job to grow enough food to stop the chef from seeking "alternative sources". Grow lots of wheat, and when you get tired of that, grow weed. Make weed smoothies and spike drinks with nettles. Just keep growing plants, and you'll do great!
+# Botanik (Botany)
+Als Botaniker ist es eure Aufgabe, genug Nahrung anzubauen, um den Koch davon abzuhalten, nach "alternativen Quellen" zu suchen. Baut viel Weizen an, und wenn ihr dessen überdrüssig werdet, baut Gras (Weed) an. Macht Weed-Smoothies und **spiked** Drinks mit Brennnesseln. Baut einfach weiter Pflanzen an, und ihr werdet großartig sein!
 
-## Starting your shift
-First identify the machines around you that you will be using. Coordinate with the Chef to see if they want anything specific to be grown, otherwise grow wheat and bananas and whatever else you feel like growing. You may also grow plants for Chemistry (Medbay), the Bartender, or to sell by Cargo.
+## Beginn eurer Schicht (Starting your shift)
+Identifiziert zuerst die Maschinen um euch herum, die ihr verwenden werdet. Koordiniert euch mit dem **Koch (Chef)**, um zu sehen, ob dieser etwas Spezifisches angebaut haben möchte, andernfalls baut Weizen, Bananen und alles andere an, wonach euch ist. Ihr könnt auch Pflanzen für die **Chemie (Medbay)**, den **Barkeeper** oder zum Verkauf durch die **Frachtabteilung (Cargo)** anbauen.
 
+# Werkzeuge (Tools)
+Es gibt viele Werkzeuge, die verwendet werden können, um eure Pflanzen gesund zu halten und zu züchten. Die **Hydroponik-Schale (Hydroponics Tray)** ist der Ort, an dem ihr die meiste Zeit als Botaniker verbringen werdet.
 
-# Tools
-There are many tools that can be used to keep your crops healthy and growing. The Hydroponics Tray is where you will spend most of your time as a botanist.
-
-## Hydroponics Tray
+## Hydroponik-Schale (Hydroponics Tray)
 <Box>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 </Box>
-It's a hydroponics tray, it grows plants with water. First fill the tray with water, then add seeds.
-Hydroponics tray lights indicate different things depending on color and position:
-- [color=red]Red Light, Left[/color]: Dead plant that needs re-planting. Use a spade to remove the plant.
-- [color=orange]Flashing Orange Light, Center[/color]: The environment is sub-optimal. Check what is affecting the plant by Shift Clicking on it. It is likely weeds but it could be undesirable pressure or lack of oxygen. If weeds, use a mini hoe or spray 1 time with weed spray. Be warned, however, that overuse of weed killers can lead to unhealthy plants, possibly killing them.
-- [color=#0336ff]Blue Light, Right[/color]: Needs water. Use bucket on the water tank and fill the tray.
-- [color=green]Green Light, Left[/color]: Ready for harvest. Left click to harvest.
-- [color=yellow]Yellow Light, Right[/color]: Needs nutrients. Use any fruit and put it into the soil or get EZ nutrients from chemistry.
+Es ist eine Hydroponik-Schale, die Pflanzen mit Wasser wachsen lässt. Füllt zuerst die Schale mit Wasser, dann fügt Samen hinzu.
+Die Lichter der Hydroponik-Schale zeigen je nach Farbe und Position unterschiedliche Dinge an:
+- [color=red]Rotes Licht, Links[/color]: Tote Pflanze, die neu gepflanzt werden muss. Verwendet einen Spaten, um die Pflanze zu entfernen.
+- [color=orange]Blinkendes orangefarbenes Licht, Mitte[/color]: Die Umgebung ist suboptimal. Überprüft, was die Pflanze beeinträchtigt, indem ihr mit **Shift + Klick** darauf klickt. Es handelt sich wahrscheinlich um **Unkraut**, es könnte aber auch unerwünschter Druck oder Sauerstoffmangel sein. Wenn es Unkraut ist, verwendet eine Mini-Hacke oder sprüht 1 Mal mit Unkrautspray. Seid jedoch gewarnt, dass **übermäßiger Gebrauch von Unkrautvernichtern zu ungesunden Pflanzen führen** und diese möglicherweise töten kann.
+- [color=#0336ff]Blaues Licht, Rechts[/color]: Benötigt Wasser. Verwendet den Eimer am Wassertank und füllt die Schale.
+- [color=green]Grünes Licht, Links[/color]: **Bereit zur Ernte**. Linksklick zum Ernten.
+- [color=yellow]Gelbes Licht, Rechts[/color]: Benötigt Nährstoffe. Gebt eine beliebige Frucht in die Erde oder holt **EZ-Nährstoffe** aus der **Chemie**.
 
-The lifecycle of a hydroponics tray is the following:
-- [color=lightgreen]Empty[/color]: no water, seed or nutrients
-- [color=lightgreen]Hydrated[/color]: you've added water to it (e.g. from a bottle or bucket).
-- [color=lightgreen]Ready for planting[/color]: you've added water and nutrients to it (i.e. fertilizer).
-- [color=lightgreen]Planted[/color]: you've added a seed to it
-- [color=lightgreen]Ready for Harvest[/color]: you've waited for the plant to grow
-- [color=lightgreen]Sampled[/color]: you've taken a sample (seed)
-- [color=lightgreen]Harvested[/color]: you've picked ready plants. Some plants will then grow again. Others will die and need replanting.
-- [color=lightgreen]Unhealthy[/color]: You've sampled too many seeds or sprayed it with deadly chemicals. The plant isn't coping too well. It'll continue to grow. Health can be restored by fertilizers or you can cut your losses and extract a seed (plant clippers) and replant.
-- [color=lightgreen]Old / Wilted[/color]: the plant has matured and will soon die. It will still be harvestable and you can extract seeds but only for a short duration. Extract the seed and then pluck it out / chop it down.
-- [color=lightgreen]Dead[/color]: the plant has been harvested and ceased growing. It should be plucked out / chopped down. No seeds can be extracted.
+Der Lebenszyklus einer Hydroponik-Schale ist der folgende:
+- [color=lightgreen]Leer (Empty)[/color]: kein Wasser, Samen oder Nährstoffe
+- [color=lightgreen]Hydriert (Hydrated)[/color]: ihr habt Wasser hinzugefügt (z. B. aus einer Flasche oder einem Eimer).
+- [color=lightgreen]Bereit zum Pflanzen (Ready for planting)[/color]: ihr habt Wasser und Nährstoffe hinzugefügt (d. h. Dünger).
+- [color=lightgreen]Gepflanzt (Planted)[/color]: ihr habt einen Samen hinzugefügt
+- [color=lightgreen]Bereit zur Ernte (Ready for Harvest)[/color]: ihr habt gewartet, bis die Pflanze gewachsen ist
+- [color=lightgreen]Beprobt (Sampled)[/color]: ihr habt eine Probe (Samen) entnommen
+- [color=lightgreen]Geerntet (Harvested)[/color]: ihr habt fertige Pflanzen gepflückt. Einige Pflanzen wachsen dann wieder nach. Andere sterben ab und müssen neu gepflanzt werden.
+- [color=lightgreen]Ungesund (Unhealthy)[/color]: Ihr habt zu viele Samen entnommen oder sie mit tödlichen Chemikalien besprüht. Die Pflanze kommt nicht gut zurecht. Sie wird weiterwachsen. Die Gesundheit kann durch Dünger wiederhergestellt werden oder ihr könnt eure Verluste minimieren, indem ihr einen Samen entnehmt (**Pflanzenschneider**) und neu pflanzt.
+- [color=lightgreen]Alt / Verwelkt (Old / Wilted)[/color]: die Pflanze ist ausgewachsen und wird bald sterben. Sie ist immer noch erntefähig und ihr könnt Samen entnehmen, aber nur für kurze Zeit. Entnehmt den Samen und pflückt/hackt sie dann heraus.
+- [color=lightgreen]Tot (Dead)[/color]: die Pflanze wurde geerntet und hat aufgehört zu wachsen. Sie sollte herausgepflückt/gehackt werden. Es können keine Samen mehr entnommen werden.
 
-## Seed Extractor
+## Samen-Extraktor (Seed Extractor)
 <Box>
 <GuideEntityEmbed Entity="SeedExtractor"/>
 </Box>
-It extracts seeds. Insert crop, receive seeds.
+Er extrahiert Samen. Ernte einfügen, Samen erhalten.
 
+# Pflanzengenetik (Plant Genetics)
+Wie alle anderen NanoTrasen bekannten Lebensformen vererben Pflanzen Merkmale an Nachkommen in ihren Genen. Durch die Manipulation der Pflanzengenetik können Botaniker Pflanzensorten mit wünschenswerten Mutationen erzeugen, die die Pflanzengesundheit und den Ertrag steigern.
 
-# Plant Genetics
-Like all other forms of life known to NanoTrasen, plants pass traits to offspring in their genes. By manipulating plant genetics, botanists can produce plant varieties with desirable mutations that increase plant health and yield.
+## Merkmale (Traits)
+Der Phänotyp oder die Menge beobachtbarer Eigenschaften und Merkmale einer Pflanze kann durch sorgfältige Beobachtung und Studium bestimmt werden. Einige gängige Merkmale sind:
 
-## Traits
-The phenotype, or set of observable characteristics and traits of a plant, can be determined through careful observation and study. A few common traits include:
+- [color=lightgreen]Biolumineszenz (Bioluminescence)[/color]: Pflanzen mit diesem Merkmal leuchten im Dunkeln
+- [color=lightgreen]Hoher Ertrag (High yield)[/color]: Pflanzen mit diesem Merkmal bringen mehr Früchte pro Ernte
+- [color=lightgreen]Weniger Wasser (Less water)[/color]: Pflanzen mit diesem Merkmal benötigen weniger Wasser als normal zum Wachsen
+- [color=lightgreen]Holzig (Ligneous)[/color]: Pflanzen mit diesem Merkmal erfordern scharfe Werkzeuge zum Ernten
+- [color=lightgreen]Lange Lebensdauer (Long life)[/color]: Pflanzen mit diesem Merkmal leben länger über mehrere Erntezyklen, bevor sie absterben
+- [color=lightgreen]Wenig Licht (Low light)[/color]: Pflanzen mit diesem Merkmal benötigen weniger Licht als normal zum Wachsen
+- [color=lightgreen]Schädlingsresistenz (Pest resistance)[/color]: Pflanzen mit diesem Merkmal sind resistenter gegen Schädlinge
+- [color=lightgreen]Samenlos (Seedless)[/color]: Pflanzen mit diesem Merkmal produzieren keine lebensfähigen Samen
+- [color=lightgreen]Unkrautresistenz (Weed resistance)[/color]: Pflanzen mit diesem Merkmal unterdrücken das Unkrautwachstum
 
-- [color=lightgreen]Bioluminescence[/color]: plants with this trait glow in the dark
-- [color=lightgreen]High yield[/color]: plants with this trait yield more fruit per harvest
-- [color=lightgreen]Less water[/color]: plants with this trait require less water than normal to grow
-- [color=lightgreen]Ligneous[/color]: plants with this trait require sharp tools to harvest
-- [color=lightgreen]Long life[/color]: plants with this trait live for more harvest cycles before dying
-- [color=lightgreen]Low light[/color]: plants with this trait need less light than normal to grow
-- [color=lightgreen]Pest resistance[/color]: plants with this trait are more resistant to pests
-- [color=lightgreen]Seedless[/color]: plants with this trait do not produce viable seeds
-- [color=lightgreen]Weed resistance[/color]: plants with this trait suppress weed growth
+Ihr könnt den Phänotyp einer Pflanze bestimmen, indem ihr sie einfach anbaut und beobachtet! So hat Gregor Mendel, der Vater der Genetik, sie 1866 studiert.
 
-You can determine the phenotype of a plant simply by growing them and observing them! This is how Gregor Mendel, father of genetics, studied them in 1866.
+## Mutationen (Mutations)
+Pflanzen, die mit [color=cyan]instabilem Mutagen (unstable mutagen)[/color] behandelt werden, erleben zufällige genetische Mutationen, die ihre Gene verändern und zu Änderungen ihrer Merkmale führen können. Ihr könnt die Pflanzen mit den gewünschten Mutationen retten, indem ihr ihre Samen erntet.
 
-## Mutations
-Plants treated with [color=cyan]unstable mutagen[/color] will experience random genetic mutations, which can alter their genes and result in changes to their traits. You can save the plants with mutations you want by harvesting their seeds.
-
-The more unstable mutagen you use, the more mutations you will get. Since many genes are vital to a plant's survival, most mutations will cause a plant to die.
+Je mehr **instabiles Mutagen** ihr verwendet, desto mehr Mutationen werdet ihr erhalten. Da viele Gene für das Überleben einer Pflanze lebenswichtig sind, werden die meisten Mutationen dazu führen, dass eine Pflanze stirbt.
 
 <Box>
 <GuideEntityEmbed Entity="ChemistryBottleUnstableMutagen"/>
 </Box>
 
-## Cross-Pollination
-You can use a [color=cyan]sterile swab[/color] to transfer pollen from one plant to another. Plants that are cross-pollinated have a chance to transfer traits. Be careful re-using swabs; pollen is sticky!
+## Kreuzbestäubung (Cross-Pollination)
+Ihr könnt ein [color=cyan]steriles Wattestäbchen (sterile swab)[/color] verwenden, um Pollen von einer Pflanze auf eine andere zu übertragen. Pflanzen, die **kreuzbestäubt** werden, haben eine Chance, Merkmale zu übertragen. Seid vorsichtig beim Wiederverwenden von Wattestäbchen; Pollen ist klebrig!
 
 <Box>
 <GuideEntityEmbed Entity="BoxMouthSwab"/>
 <GuideEntityEmbed Entity="DiseaseSwab"/>
 </Box>
 
-## Chemicals
-Some chemicals have special effects on plants.
+## Chemikalien (Chemicals)
+Einige Chemikalien haben spezielle Auswirkungen auf Pflanzen.
 
-[textlink="Click here to see all botanical chemicals." link="Botanical"]
+[textlink="Klickt hier, um alle botanischen Chemikalien zu sehen." link="Botanical"]
 
 <GuideReagentEmbed Reagent="Dylovene"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>

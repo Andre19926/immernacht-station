@@ -6,27 +6,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Do not Powergame
+  # Kein Powergaming
 
-  You must have an In-Character justification for your actions. The Research Director does not need a gun when the station is code-green. The Head of Security does not need All Access at shift start when no threat is identified.
+  Du musst eine In-Character-Rechtfertigung (IC-Rechtfertigung) für deine Handlungen haben. Der Forschungsdirektor (Research Director) braucht keine Waffe, wenn auf der Station Code Grün herrscht. Der Sicherheitschef (Head of Security) braucht zu Schichtbeginn keinen vollen Zugriff (All Access), wenn keine Bedrohung identifiziert wurde.
 
-  ## Examples
+  ## Beispiele
 
- Acceptable:
- - Command carrying non-lethals when there is a plausible threat
- - Command carrying lethals when there is a confirmed threat
- - Command carrying (non-)lethals they start with in their rooms at any time
- - Captain hiding the spare ID in a properly secure location
- - Increasing security (such as bolting doors, adding walls, etc) during Red or Blue alert
- - Several minutes into the round, Captain promotes Warden to HoS because there isn’t one on station
- - General situations where a character is reacting to information during a round in a way that makes logical sense
+  Akzeptabel:
+  - Führungspersonal (Command) trägt nicht-tödliche Waffen (non-lethals), wenn eine plausible Bedrohung besteht
+  - Führungspersonal trägt tödliche Waffen (lethals), wenn eine bestätigte Bedrohung besteht
+  - Führungspersonal trägt (nicht-)tödliche Waffen, mit denen sie in ihren Räumen starten, zu jeder Zeit
+  - Captain versteckt die Ersatz-ID an einem angemessen sicheren Ort
+  - Erhöhen der Sicherheit (wie das Verriegeln von Türen, Hinzufügen von Wänden, etc.) während Alarmstufe Rot oder Blau
+  - Einige Minuten nach Rundenbeginn befördert der Captain den Warden zum HoS (Head of Security), weil keiner auf der Station ist
+  - Allgemeine Situationen, in denen ein Charakter auf Informationen während einer Runde auf eine Weise reagiert, die logisch sinnvoll ist
 
-  Not Acceptable:
-  - Roundstart Captain granting all heads AA
-  - Roundstart HoP takes Ian to ATS because “He’s a high profile target”
-  - Creating duplicates of high-value or unique items to hand off to others
-  - Using low-effort roleplay to skirt the metashield
-  - Bolting doors to areas to increase their security before a threat is confirmed that makes that security inefficient
-  - Setting the alert level to Blue or Red when the situation does not have a need for the severity implied (this includes maintaining these levels far past when said threats have been confirmed as no longer in play)
-  - General situations where a character is preemptively preparing for situations that have yet to happen in ways that logically do not make sense
+  Nicht Akzeptabel:
+  - Captain gewährt zu Rundenbeginn allen Abteilungsleitern (Heads) vollen Zugriff (AA)
+  - HoP (Head of Personnel) bringt Ian zu Rundenbeginn zur ATS (Arrivals Shuttle), weil "Er ein hochrangiges Ziel (high profile target) ist"
+  - Erstellen von Duplikaten von hochwertigen oder einzigartigen Gegenständen, um sie an andere weiterzugeben
+  - Verwenden von Rollenspiel mit geringem Aufwand (low-effort roleplay), um das Metashield zu umgehen
+  - Verriegeln von Türen zu Bereichen, um deren Sicherheit zu erhöhen, bevor eine Bedrohung bestätigt ist, was diese Sicherheitsmaßnahme ineffizient macht
+  - Einstellen der Alarmstufe auf Blau oder Rot, wenn die Situation nicht die damit verbundene Schwere erfordert (dies schließt das Aufrechterhalten dieser Stufen weit über den Zeitpunkt hinaus ein, an dem bestätigt wurde, dass diese Bedrohungen nicht mehr bestehen)
+  - Allgemeine Situationen, in denen sich ein Charakter präventiv auf Situationen vorbereitet, die noch nicht eingetreten sind, auf eine Weise, die logisch keinen Sinn ergibt
 </Document>

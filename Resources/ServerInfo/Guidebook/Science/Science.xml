@@ -10,56 +10,56 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Science
-[color=#c96dbf]Science[/color], often called Research and Development, is a job consisting of generating research points to unlock new technologies and using said technologies to produce new items at lathes to help out the station.
+# Wissenschaft (Science)
+[color=#c96dbf]Wissenschaft (Science)[/color], oft als Forschung und Entwicklung (Research and Development) bezeichnet, ist ein Beruf, der darin besteht, Forschungspunkte (Research Points) zu generieren, um neue Technologien (Technologies) freizuschalten und diese Technologien zu nutzen, um neue Gegenstände an Drehbänken (Lathes) herzustellen, die der Station helfen.
 
-## Personnel
-[color=#c96dbf]Science[/color]'s staff is made up of Research Assistants and Scientists. [color=#c96dbf]Science[/color] is run by the Research Director.
+## Personal (Personnel)
+Das Personal der [color=#c96dbf]Wissenschaft (Science)[/color] besteht aus Forschungsassistenten (Research Assistants) und Wissenschaftlern (Scientists). Die [color=#c96dbf]Wissenschaft (Science)[/color] wird vom Forschungsleiter (Research Director) geleitet.
 
   <Box>
-   <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="Scientist"/>
-   <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="RD"/>
+   <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="Wissenschaftler (Scientist)"/>
+   <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="Forschungsleiter (RD)"/>
   </Box>
 
-## Technologies
+## Technologien (Technologies)
   <Box>
-    <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
-    <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
+    <GuideEntityEmbed Entity="ComputerResearchAndDevelopment" Caption="Forschungs- und Entwicklungscomputer (R&D Computer)"/>
+    <GuideEntityEmbed Entity="ResearchAndDevelopmentServer" Caption="Forschungs- und Entwicklungsserver (R&D Server)"/>
   </Box>
-The most important thing inside your department is the R&D server, which stores unlocked technologies, and the R&D computer, which allows you to unlock [color=#a4885c]technologies[/color].
+Das Wichtigste in Ihrem Department ist der Forschungs- und Entwicklungsserver (R&D Server), der freigeschaltete Technologien speichert, und der Forschungs- und Entwicklungscomputer (R&D Computer), mit dem Sie [color=#a4885c]Technologien (Technologies)[/color] freischalten können.
 
-Each technology costs [color=#a4885c]Research Points[/color] and unlocks recipes at lathes. Some technologies will also have prerequisites you have to unlock before you can research them.
+Jede Technologie kostet [color=#a4885c]Forschungspunkte (Research Points)[/color] und schaltet Rezepte an Drehbänken (Lathes) frei. Einige Technologien haben auch Voraussetzungen (Prerequisites), die Sie zuerst freischalten müssen, bevor Sie sie erforschen können.
 
-[textlink="Click here to see a list of technologies." link="Technologies"].
+[textlink="Klicken Sie hier, um eine Liste der Technologien zu sehen." link="Technologies"]
 
-## Disciplines
-Technologies are spread over 4 different Disciplines:
+## Disziplinen (Disciplines)
+Technologien sind über 4 verschiedene Disziplinen (Disciplines) verteilt:
   <Box>
-    <GuideEntityEmbed Entity="Wrench" Caption="Industrial"/>
-    <GuideEntityEmbed Entity="WeaponTetherGun" Caption="Experimental"/>
-    <GuideEntityEmbed Entity="ComputerTelevision" Caption="Civil Services"/>
-    <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Arsenal"/>
+    <GuideEntityEmbed Entity="Wrench" Caption="Industriell (Industrial)"/>
+    <GuideEntityEmbed Entity="WeaponTetherGun" Caption="Experimentell (Experimental)"/>
+    <GuideEntityEmbed Entity="ComputerTelevision" Caption="Zivile Dienstleistungen (Civil Services)"/>
+    <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Arsenal (Arsenal)"/>
   </Box>
 
-<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> Use your nearest R&D console to take note of which kind of research is locked behind each Discipline tree.
+<GuideEntityEmbed Entity="ComputerResearchAndDevelopment" Caption="Forschungs- und Entwicklungscomputer (R&D Computer)"/> Verwenden Sie Ihre nächste Forschungs- und Entwicklungskonsole (R&D Console), um festzuhalten, welche Art von Forschung hinter jedem Disziplinbaum (Discipline Tree) gesperrt ist.
 
-## Tiers
-Each Discipline tree has up to 3 tiers of technologies. At the start the only tier that is open and available for you is tier 1.
+## Stufen (Tiers)
+Jeder Disziplinbaum (Discipline Tree) hat bis zu 3 Stufen (Tiers) von Technologien. Zu Beginn ist die einzige Stufe, die für Sie offen und verfügbar ist, Stufe 1 (Tier 1).
 
-In order to progress further, you have to research up to [color=brown]75%[/color] of the current tier to move to the next one. So in order to unlock T2 researches you need to research 75% of T1.
+Um weiter fortzuschreiten, müssen Sie bis zu [color=brown]75%[/color] der aktuellen Stufe erforschen, um zur nächsten überzugehen. Um also Forschungen der Stufe 2 (T2) freizuschalten, müssen Sie 75% der Stufe 1 (T1) erforschen.
 
-Now [color=green]Tier 3[/color] is where it gets interesting. If you research a T3 tech, you [color=brown]lock out[/color] T3 techs from other Discipline trees. That is, unless you can find some other way around it... you should probably ask your [color=purple]Research Director[/color].
+Nun wird es bei [color=green]Stufe 3 (Tier 3)[/color] interessant. Wenn Sie eine Technologie der Stufe 3 (T3 Tech) erforschen, [color=brown]sperren Sie[/color] Technologien der Stufe 3 (T3 Techs) anderer Disziplinbäume (Discipline Trees) aus. Das heißt, es sei denn, Sie finden einen anderen Weg, dies zu umgehen... Sie sollten wahrscheinlich Ihren [color=purple]Forschungsleiter (Research Director)[/color] fragen.
 
-## Lathes
+## Drehbänke (Lathes)
   <Box>
-    <GuideEntityEmbed Entity="Protolathe"/>
-    <GuideEntityEmbed Entity="CircuitImprinter"/>
+    <GuideEntityEmbed Entity="Protolathe" Caption="Protodrehbank (Protolathe)"/>
+    <GuideEntityEmbed Entity="CircuitImprinter" Caption="Schaltkreisdrucker (Circuit Imprinter)"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ExosuitFabricator"/>
-    <GuideEntityEmbed Entity="MedicalTechFab"/>
-    <GuideEntityEmbed Entity="SecurityTechFab"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit-Fabrikator (Exosuit Fabricator)"/>
+    <GuideEntityEmbed Entity="MedicalTechFab" Caption="Medizinischer Technologiefabrikator (Medical TechFab)"/>
+    <GuideEntityEmbed Entity="SecurityTechFab" Caption="Sicherheitstechnologiefabrikator (Security TechFab)"/>
   </Box>
-At a lathe, you can choose a server to allow it print whatever recipes you have unlocked. Recipes require various materials (steel, glass, plastic, gold, plasma) which can be acquired at Cargo or Salvage.
+An einer Drehbank (Lathe) können Sie einen Server auswählen, um die freigeschalteten Rezepte drucken zu lassen. Rezepte erfordern verschiedene Materialien (Stahl, Glas, Plastik, Gold, Plasma), die beim Frachtdepartment (Cargo) oder der Bergung (Salvage) erworben werden können.
 
 </Document>

@@ -6,28 +6,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Search Procedures
-This is the list of procedures that should be followed when performing searches on station personnel and/or in Departments.
+# Durchsuchungsverfahren
+Dies ist die Liste der Verfahren, die bei der Durchführung von Durchsuchungen bei Stationspersonal und/oder in Abteilungen befolgt werden sollten.
 
-1. On [color=#388c34]Green Alert[/color], a search requires probable cause and/or approval from the Captain and/or Head of Security.
-<Box>Probable Cause is defined as any circumstance that creates reasonable suspicion that a crime was committed (eg, direct accusation from a crewmember, witnessing the crime directly, prints on a crime scene, presence in a restricted area with high value items, etc).</Box>
-<Box>Approval simply requires permission from the relevant person - verbal or over radio is enough.</Box>
+1. Bei [color=#388c34]Grünem Alarm[/color] erfordert eine Durchsuchung einen hinreichenden Verdacht (Probable Cause) und/oder die Genehmigung des Captains und/oder des Head of Security.
+<Box>Hinreichender Verdacht ist definiert als jeder Umstand, der einen begründeten Verdacht erzeugt, dass ein Verbrechen begangen wurde (z.B. direkte Anschuldigung durch ein Crewmitglied, direkte Beobachtung des Verbrechens, Fingerabdrücke am Tatort, Anwesenheit in einem gesperrten Bereich mit hochwertigen Gegenständen, etc.).</Box>
+<Box>Genehmigung erfordert lediglich die Erlaubnis der relevanten Person - mündlich oder über Funk reicht aus.</Box>
 
-2. On [color=#388c34]Green Alert[/color], searches should be conducted without cuffs, and the searched personnel must hand over requested items.
+2. Bei [color=#388c34]Grünem Alarm[/color] sollten Durchsuchungen ohne Handschellen durchgeführt werden, und das durchsuchte Personal muss angeforderte Gegenstände aushändigen.
 
-3. Searchees who refuse may be cuffed for the search.
+3. Durchsuchte Personen, die sich weigern, dürfen für die Durchsuchung gefesselt werden.
 
-4. Any other item in the searchee's possession may be asked for, including but not limited to bags, belts, jackets, headsets, and PDAs.
+4. Nach jedem anderen Gegenstand im Besitz der durchsuchten Person kann gefragt werden, einschließlich, aber nicht beschränkt auf Taschen, Gürtel, Jacken, Headsets und PDAs.
 
-5. On [color=#1b67a5]Blue Alert[/color] and above, a search can be done without probable cause.
-<Box>This can be done by cuffing the searched, and forcibly removing their bags and emptying their pockets.</Box>
+5. Bei [color=#1b67a5]Blauem Alarm[/color] und höher kann eine Durchsuchung ohne hinreichenden Verdacht durchgeführt werden.
+<Box>Dies kann geschehen, indem die durchsuchte Person gefesselt wird und ihre Taschen gewaltsam entfernt und ihre Taschen geleert werden.</Box>
 
-6. Refusing a legal search is considered resisting arrest (on [color=#1b67a5]Blue Alert[/color] or higher).
+6. Die Verweigerung einer legalen Durchsuchung gilt als Widerstand gegen die Festnahme (bei [color=#1b67a5]Blauem Alarm[/color] oder höher).
 
-7. Security may only perform surgery to search for illegal implants if the searched personnel is a confirmed EoC or has been confirmed to have stolen an item that can no longer be located.
-<Box>In addition, if there is reasonable suspicion of illegal implant possession, the Captain and/or Head of Security can issue a warrant for an implant search if they deem it necessary.</Box>
+7. Die Sicherheit darf nur dann eine Operation durchführen, um nach illegalen Implantaten zu suchen, wenn das durchsuchte Personal ein bestätigter EoC (Enemy of the Corporation) ist oder bestätigt wurde, dass es einen Gegenstand gestohlen hat, der nicht mehr auffindbar ist.
+<Box>Zusätzlich kann der Captain und/oder Head of Security, wenn ein begründeter Verdacht auf den Besitz illegaler Implantate besteht, einen Durchsuchungsbefehl für eine Implantatsuche ausstellen, wenn sie es für notwendig erachten.</Box>
 
-8. Recommended but optional: After searching someone, their security status should be set to RELEASED, and add a note that they were searched but nothing was found.
-<Box>This helps prevent security wasting time by repeatedly re-searching the same person, and makes it easier to tell who has not yet been searched.</Box>
+8. Empfohlen, aber optional: Nach der Durchsuchung einer Person sollte ihr Sicherheitsstatus auf FREIGELASSEN (RELEASED) gesetzt und eine Notiz hinzugefügt werden, dass sie durchsucht wurde, aber nichts gefunden wurde.
+<Box>Dies hilft zu verhindern, dass die Sicherheit Zeit verschwendet, indem dieselbe Person wiederholt durchsucht wird, und erleichtert die Unterscheidung, wer noch nicht durchsucht wurde.</Box>
 
 </Document>

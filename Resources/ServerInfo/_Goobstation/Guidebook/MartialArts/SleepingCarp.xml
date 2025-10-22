@@ -1,67 +1,64 @@
 <Document>
 
-  # Way of The Sleeping Carp
+  # Der Weg des Schlafenden Karpfens (Way of The Sleeping Carp)
 
-  <Box>
-    <GuideEntityEmbed Entity="SleepingCarpScroll" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="SleepingCarpScroll" Caption=""/>
+  </Box>
 
-  The Way of The Sleeping Carp, or simply the Sleeping Carp, is an ancient [textlink="martial art" link="MartialArts"] learned through intense study and meditation.
-  It is modeled after the graceful movement, combat, and flow of Space Carp. Ancient masters of this art are rumored to have studied among great schools of space carp
-  and survived, some have even befriended the aggressive creatures. This art is often utilized by zealots and extremists especially among The Syndicate.
+  **Der Weg des Schlafenden Karpfens**, oder einfach der **Schlafende Karpfen**, ist eine uralte [textlink="Kampfkunst" link="MartialArts"], die durch intensives Studium und Meditation erlernt wird.
+  Sie ist dem anmutigen **Bewegungsfluss, Kampf und Fluss** des **Weltraumkarpfens (Space Carp)** nachempfunden. Man munkelt, dass alte Meister dieser Kunst unter großen Schwärmen von Weltraumkarpfen studiert und überlebt haben; einige haben sich sogar mit den aggressiven Kreaturen angefreundet. Diese Kunst wird oft von Eiferern und Extremisten, insbesondere unter dem Syndikat, angewandt.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  Sleeping Carp users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Anwender des **Schlafenden Karpfens** sind besser in der **Schaden-Absicht (Harm intent)**, da ihre unbewaffneten Angriffe dem Gegner zusätzlichen Schaden zufügen.
 
-  ### Riptide Reflection
+  ### Brandungswellen-Reflexion (Riptide Reflection)
 
-  Due to the graceful nature of this martial art, Sleeping Carp users are able to completely deflect almost all incoming
-  projectiles. Whether ballistic or energy-based projectiles, hitscan shots or bolas, they effortlessly reflect them.
-  However, explosives, knives, and syringes remain outside their control, slipping through the serene flow of their defense.
+  Aufgrund der anmutigen Natur dieser Kampfkunst können Anwender des **Schlafenden Karpfens** fast alle eingehenden **Projektile** vollständig ablenken. Egal ob ballistische oder energiebasierte Projektile, Hitscan-Schüsse oder Bolas, sie reflektieren sie mühelos.
+  Jedoch bleiben **Sprengstoffe, Messer und Spritzen** außerhalb ihrer Kontrolle und schlüpfen durch den gelassenen Fluss ihrer Verteidigung.
 
-  ### Fellow Fish
+  ### Artgenossen (Fellow Fish)
 
-  Users of the Sleeping Carp style move with the grace of the waters, in perfect harmony with Space Carp.
-  These creatures, sensing the peaceful bond, will more often than not treat them as allies, not attacking them.
-  This connection extends to other Carp-like beings, including Sharkminnows and even the mighty Space Dragons.
+  Anwender des Stils des **Schlafenden Karpfens** bewegen sich mit der Anmut der Gewässer, in perfekter Harmonie mit dem **Weltraumkarpfen**.
+  Diese Kreaturen, die die friedliche Verbindung spüren, behandeln sie meist als Verbündete und greifen sie nicht an.
+  Diese Verbindung erstreckt sich auf andere Karpfen-ähnliche Wesen, einschließlich **Hai-Elritzen (Sharkminnows)** und sogar die mächtigen **Weltraum-Drachen (Space Dragons)**.
 
-  ### Gun Gainsay
+  ### Gewehr-Verleugnung (Gun Gainsay)
 
-  Part of becoming a Master of Sleeping Carp is to take an oath to abstain from using guns. This includes regular guns
-  and firearms attached to equipment such as mechs. It isn't quite clear why, however, it is thought that it allows the
-  user to intensify their focus on perfect flow and deflection. Others believe that it is part of the drive of the master
-  to further emulate the way of the Carp, to completely focus on the attack of the Carp: its [bold] Bite [/bold]. This does not prevent
-  the practitioners of Sleeping Carp from throwing items, bolas, floor tiles, or even people, all useful ranged weapons.
+  Teil der Meisterschaft des **Schlafenden Karpfens** ist es, einen **Eid** abzulegen, auf die Verwendung von **Schusswaffen (guns)** zu verzichten. Dies umfasst reguläre Waffen
+  und an Ausrüstung, wie Mechs, angebrachte Schusswaffen. Es ist nicht ganz klar, warum, aber es wird angenommen, dass es dem
+  Anwender ermöglicht, seinen Fokus auf den perfekten Fluss und die Ablenkung zu intensivieren. Andere glauben, dass es Teil des Bestrebens des Meisters ist,
+  die Art des Karpfens weiter nachzuahmen und sich vollständig auf den Angriff des Karpfens zu konzentrieren: seinen [bold]Biss (Bite)[/bold]. Dies hindert die Praktizierenden des Schlafenden Karpfens nicht daran, Gegenstände, Bolas, Bodenplatten oder sogar Menschen zu werfen – alles nützliche Fernkampfwaffen.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Keelhaul
+  ### Kielholen (Keelhaul)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Kicks an opponent in the head, knocking them down and dealing both Slash and Stamina damage to them,
-  unless they are already stunned. In that case, it will as well completely disarm the opponent.
+  Tritt einem Gegner gegen den Kopf, wirft ihn zu Boden (**knocking them down**) und verursacht sowohl **Schlitz- (Slash)** als auch **Ausdauerschaden (Stamina damage)**,
+  es sei denn, er ist bereits betäubt. In diesem Fall wird er den Gegner zusätzlich vollständig **entwaffnen (disarm)**.
 
-  ### Crashing Waves Kick
+  ### Brechende-Wellen-Tritt (Crashing Waves Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Kicks the opponent square in the chest, sending them flying and dealing Slash damage. Only works on standing opponents.
+  Tritt dem Gegner direkt gegen die Brust, schleudert ihn weg und verursacht **Schlitzschaden**. Funktioniert nur bei stehenden Gegnern.
 
-  ### Gnashing Teeth
+  ### Knirschende Zähne (Gnashing Teeth)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals extra Slash damage, and makes the user shout to strike fear into their opponent's heart.
+  Verursacht zusätzlichen **Schlitzschaden** und lässt den Anwender schreien, um dem Gegner Angst einzujagen.
 
 </Document>

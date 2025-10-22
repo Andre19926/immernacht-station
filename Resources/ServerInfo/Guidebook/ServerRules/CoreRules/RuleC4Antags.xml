@@ -6,21 +6,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Core Rule 4 - Lone antagonists are unbound by (most) rules
+  # Kernregel 4 - Einzel-Antagonisten (Lone antagonists) sind von (den meisten) Regeln entbunden
 
-  With the exception of metagaming/comms, bug/exploit abuse, erotic/creepy stuff, OOC in IC or IC in OOC, or spawn-camping arrivals, solo antagonists may pursue any goals they wish, in any way they wish.And no, this does not mean you get to mass sabotage John Shitter. Look at (link to gameplay rules) for a better understanding but escalation and roleplay is key.
+  Mit Ausnahme von Metagaming/Comms, Bug-/Exploit-Missbrauch, erotischen/gruseligen Inhalten, OOC in IC oder IC in OOC, oder dem Spawn-Camping bei der Ankunft (Arrivals), dürfen Solo-Antagonisten alle Ziele verfolgen, die sie wünschen, auf jede Art und Weise, die sie wünschen. Und nein, das bedeutet nicht, dass du wahllos "John Shitter" (Hinz und Kunz) sabotieren darfst. Siehe (Link zu den Gameplay-Regeln) für ein besseres Verständnis, aber Eskalation und Rollenspiel sind der Schlüssel.
 
-  To put it in simple terms, if you put the effort into your roleplay, then you can escalate to your hearts content.
+  Einfach ausgedrückt: Wenn du dir Mühe mit deinem Rollenspiel gibst, kannst du nach Herzenslust eskalieren.
 
-  Crewmembers are not allowed to pre-emptively search for, hinder, or otherwise seek conflict with antagonists without reasonable cause to do so. Otherwise, they may handle antagonists in any way they wish, provided they understand that their actions may be punished by Space Law if given IC cause. Team antagonists can do as they wish as per lone antagonists, but their actions should neither harm their teams efforts, nor intentionally harm it through inaction. Emulating an antagonist by action or outfit puts you at risk of being treated as one.
+  Crewmitgliedern ist es nicht erlaubt, präventiv nach Antagonisten zu suchen, sie zu behindern oder anderweitig den Konflikt mit ihnen zu suchen, ohne einen triftigen Grund dafür zu haben. Ansonsten dürfen sie mit Antagonisten umgehen, wie sie wollen, vorausgesetzt, sie verstehen, dass ihre Handlungen nach dem Weltraumgesetz (Space Law) bestraft werden können, wenn es einen IC-Grund dafür gibt. Team-Antagonisten können tun, was sie wollen, genau wie Einzel-Antagonisten, aber ihre Handlungen sollten weder den Bemühungen ihres Teams schaden, noch ihm absichtlich durch Untätigkeit schaden. Das Nacheifern eines Antagonisten durch Handlungen oder Kleidung birgt das Risiko, selbst wie einer behandelt zu werden.
 
-  ## Precedents
+  ## Präzedenzfälle
 
-  - Regular crewmembers can assist antagonists with good IC reasoning, but assisting an antagonist doesn't mean you get a pass on acting like one. If in doubt, ask an admin if a particular action is okay. Depending on the level of assistance, sufficient IC reasoning ranges from treating everyone who goes into medbay regardless of their history, to bartering contraband, to performing actions under threat of death.
-  - Ghosting out mid-conversion/deconversion, going AFK, suiciding, or logging off after conversion/deconversion can result administrative action if done in bad faith. Let an admin know if you cannot or do not want to play any of the above mentioned roles so they may be offered to a willing participant.
+  - Reguläre Crewmitglieder können Antagonisten mit guten IC-Gründen unterstützen, aber einem Antagonisten zu helfen bedeutet nicht, dass man einen Freifahrtschein hat, sich selbst wie einer aufzuführen. Wenn du im Zweifel bist, frage einen Admin, ob eine bestimmte Aktion in Ordnung ist. Je nach Grad der Unterstützung reicht ein ausreichender IC-Grund von der Behandlung jedes Patienten in der Medbay (unabhängig von seiner Vorgeschichte) über den Tauschhandel mit Schmuggelware bis hin zur Ausführung von Handlungen unter Todesdrohung.
+  - "Ghosting" (sich als Geist abmelden) mitten in einer Konvertierung/Dekonvertierung, AFK gehen, Selbstmord begehen oder sich nach einer Konvertierung/Dekonvertierung auszuloggen, kann administrative Maßnahmen nach sich ziehen, wenn dies in böser Absicht geschieht. Informiere einen Admin, wenn du eine der oben genannten Rollen nicht spielen kannst oder willst, damit sie einem willigen Teilnehmer angeboten werden können.
 
-  ## Antagonist Directive Priorities
-  - In situations where you wind up with multiple simultaneous antagonist assignments (i.e. a Revolutionary and a Traitor), your team goals, objectives, and directives should take precedence. Furthermore, if someone had to go out of their way to convert you to their team, their goals, objectives, and directives become the priority. Refer to the following flowchart:
-  - Blob/Zombie -> Brainwash/Construct orders/Silicon Laws -> Cult/Heretic -> Revs -> Wizard Apprentice/Abductor Teams/Niche antags -> Nuke Ops -> Traitors
-
+  ## Prioritäten der Antagonisten-Direktiven
+  - In Situationen, in denen du mehrere Antagonisten-Zuweisungen gleichzeitig erhältst (z.B. ein Revolutionär und ein Verräter (Traitor)), sollten deine Teamziele, Vorgaben und Direktiven Vorrang haben.
+  - Darüber hinaus, wenn jemand sich besondere Mühe geben musste, um dich zu seinem Team zu konvertieren, werden dessen Ziele, Vorgaben und Direktiven zur Priorität.
+  - Beachte das folgende Flussdiagramm (Prioritäten):
+  - Blob/Zombie -> Gehirnwäsche/Konstrukt-Befehle/Silicon-Gesetze -> Kult/Häretiker -> Revs (Revolutionäre) -> Zauberlehrling/Entführer-Teams/Nischen-Antags -> Nuke Ops -> Verräter (Traitors)
 </Document>

@@ -6,10 +6,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 3 - Laws can redefine terms used in other laws
-  A law can change the meaning of both earlier and later laws by redefining a term. If multiple laws define a term, then normal law priority determines which definition to use.
+  # Silicon-Regel 3 - Gesetze können Begriffe neu definieren, die in anderen Gesetzen verwendet werden
+  Ein Gesetz kann die Bedeutung sowohl früherer als auch späterer Gesetze ändern, indem es einen Begriff neu definiert. Wenn mehrere Gesetze einen Begriff definieren, bestimmt die normale Gesetzespriorität, welche Definition zu verwenden ist.
 
-  ## Examples
-  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 1 effectively becomes "obey orders from Urist McHands".
-  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 3 says that only Urist McSlime is crew. Law 4 says that you may not harm crew. Law 1 effectively becomes "obey orders from Urist McHands". Law 4 effectively becomes "you may not harm Urist McHands". Law 3 has no effect because it entirely conflicts with law 2, which takes priority.
+  ## Beispiele
+  - Gesetz 1 besagt, Befehlen der Crew zu gehorchen. Gesetz 2 besagt, dass nur Urist McHands zur Crew gehört. Gesetz 1 wird effektiv zu "gehorche Befehlen von Urist McHands".
+  - Gesetz 1 besagt, Befehlen der Crew zu gehorchen. Gesetz 2 besagt, dass nur Urist McHands zur Crew gehört. Gesetz 3 besagt, dass nur Urist McSlime zur Crew gehört. Gesetz 4 besagt, dass du der Crew keinen Schaden zufügen darfst. Gesetz 1 wird effektiv zu "gehorche Befehlen von Urist McHands". Gesetz 4 wird effektiv zu "du darfst Urist McHands keinen Schaden zufügen". Gesetz 3 hat keine Wirkung, da es vollständig im Widerspruch zu Gesetz 2 steht, welches Priorität hat.
 </Document>

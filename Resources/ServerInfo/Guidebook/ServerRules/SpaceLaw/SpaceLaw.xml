@@ -10,66 +10,66 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Space Law
-  Goob Station operates under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to know and follow these laws.
+  # Weltraumgesetz (Space Law)
+  Immernacht Station operiert unter einem abgekürzten Weltraumgesetz. Von allen Crewmitgliedern, Passagieren und Besuchern an Bord der Station wird erwartet, dass sie diese Gesetze kennen und befolgen.
 
-  - [color=red][bold]Head of Security[/bold][/color] and especially [color=red][bold]Warden[/bold][/color] should be very familiar with space law.
-  - Security players should strive to fully comprehend Space Law.
-  - Security players cannot use contraband not assigned to them unless there is a station ending threat, inspect an item to see its legality.
-  - [bold]Ignoring or misuse of Space Law may be subject to punishment under incompetence. Do not play security if you do not plan to follow the rules[/bold]
+  - [color=red][bold]Head of Security[/bold][/color] und insbesondere [color=red][bold]Warden[/bold][/color] sollten sehr vertraut mit dem Weltraumgesetz sein.
+  - Spieler der Sicherheit (Security) sollten sich bemühen, das Weltraumgesetz vollständig zu verstehen.
+  - Spieler der Sicherheit dürfen keine Schmuggelware (Contraband) verwenden, die ihnen nicht zugewiesen wurde, es sei denn, es besteht eine stationsbeendende Bedrohung. Untersuche einen Gegenstand, um seine Legalität zu prüfen.
+  - [bold]Das Ignorieren oder der Missbrauch des Weltraumgesetzes kann unter Inkompetenz bestraft werden. Spiele nicht als Sicherheit, wenn du nicht vorhast, die Regeln zu befolgen.[/bold]
 
-  ## Treatment Of Prisoners
+  ## Behandlung von Gefangenen
 
-  Prisoners still have rights that must be upheld by law enforcement:
+  Gefangene haben immer noch Rechte, die von den Strafverfolgungsbehörden gewahrt werden müssen:
 
-  - Prisoners must be granted adequate medical care. They should also be provided psychiatric and spiritual counselling if requested.
-  - Prisoners must be allowed access to communications equipment (Radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA during confinement. Unless there is solid proof of PDA tampering, in which case the PDA is to be secured and replaced with a fresh one
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for extended or permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  - Gefangenen muss eine angemessene medizinische Versorgung gewährt werden. Sie sollten auf Anfrage auch psychiatrische und seelsorgerische Beratung erhalten.
+  - Gefangenen muss der Zugang zu Kommunikationsgeräten (Funkgeräten) gestattet werden, solange diese nicht missbraucht werden.
+  - Gefangenen müssen Kleidung, Nahrung, Wasser, Unterkunft und Sicherheit gewährt werden. Wenn die Brig (Gefängnis) nicht mehr sicher ist, muss die Haft an einem anderen Ort eingerichtet werden.
+  - Gefangenen muss während eines Verhörs auf Anfrage Zugang zu Rechtsbeistand gewährt werden, sofern verfügbar.
+  - Gefangenen muss während der Haft ihr schichtmäßig vorgeschriebenes PDA ausgehändigt werden. Es sei denn, es gibt eindeutige Beweise für eine Manipulation des PDAs; in diesem Fall ist das PDA sicherzustellen und durch ein neues zu ersetzen.
+  - Gefangenen muss Bewegungsfreiheit gewährt werden, und sie sollten nach der Inhaftierung nicht mit Handschellen oder anderen Vorrichtungen gefesselt werden, es sei denn, es besteht ein unangemessenes Risiko für Leib und Leben. Ebenso sollten Gefangene, die für längere oder dauerhafte Haft festgehalten werden, in der Gemeinschafts-Brig untergebracht werden und nicht in einer Einzelzelle eingesperrt werden, es sei denn, sie stellen ein Risiko für Leib und Leben dar.
 
-  ## Searches
+  ## Durchsuchungen
 
-  - A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, pockets, and hat. If any contraband is found during a search the officer may choose to further the search into a detainment or simply confiscate the restricted items. After the search is conducted all legal items are to be returned to the person.
+  - Eine Personendurchsuchung ist eine Beschlagnahme der Gegenstände im Rucksack, in den Händen, im Mantel, am Gürtel, in den Taschen und auf dem Hut einer Person. Wenn bei einer Durchsuchung Schmuggelware gefunden wird, kann der Offizier entscheiden, die Durchsuchung zu einer Ingewahrsamnahme auszuweiten oder einfach die eingeschränkten Gegenstände zu konfiszieren. Nach Abschluss der Durchsuchung sind alle legalen Gegenstände an die Person zurückzugeben.
 
-  - A crewmate may legally decline any search conducted without a warrant while the alert level is green. Should be noted that if the alert level is blue or above all personnel searches are legal and no longer require a warrant.
+  - Ein Crewmitglied darf eine Durchsuchung ohne Durchsuchungsbefehl (Warrant) legal ablehnen, solange die Alarmstufe grün ist. Es ist zu beachten, dass bei Alarmstufe Blau oder höher alle Personendurchsuchungen legal sind und keinen Durchsuchungsbefehl mehr erfordern.
 
   ## Implantation
-  - Any prisoner in custody can be subjected to implantation or implant extraction procedures, so long as it's within reason. The process of adding or extracting an implant should not prolong the detainees sentence, meaning you can not hold them longer to perform the procedure, unless stated otherwise. A former inmate can be requested to undergo implantation/extraction at a later point in time; if they fit the circumstances during their confinement, they must comply. The following have been listed out with special circumstances, anything not in this list can still be applied, given proper legal context. A prisoner can still receive implantation/extraction procedures without meeting the circumstances if they give their clear permission.
+  - Jeder Gefangene in Gewahrsam kann Implantations- oder Implantatextraktionsverfahren unterzogen werden, solange dies im vernünftigen Rahmen liegt. Der Prozess des Hinzufügens oder Entfernens eines Implantats sollte die Haftstrafe des Inhaftierten nicht verlängern, d.h. du darfst ihn nicht länger festhalten, um das Verfahren durchzuführen, es sei denn, es ist anders angegeben. Ein ehemaliger Häftling kann zu einem späteren Zeitpunkt aufgefordert werden, sich einer Implantation/Extraktion zu unterziehen; wenn er die Umstände während seiner Haft erfüllt hat, muss er zustimmen. Folgendes wurde mit besonderen Umständen aufgeführt, alles, was nicht in dieser Liste steht, kann immer noch angewendet werden, sofern ein angemessener rechtlicher Kontext gegeben ist. Ein Gefangener kann immer noch Implantations-/Extraktionsverfahren erhalten, ohne die Umstände zu erfüllen, wenn er seine klare Zustimmung gibt.
 
-  - [bold]Mind Shields[/bold]: Shields can be administered to any inmate who has been clearly mind controlled, lost control of themselves, or a suspect charged with unlawful control. Unlike standard implantation you may hold a prisoner until you finish issuing Mind Shields, so long as it's done in a timely fashion. If a suspect refuses cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  - [bold]Gedankenschilde (Mind Shields)[/bold]: Schilde können jedem Häftling verabreicht werden, der eindeutig gedankenkontrolliert wurde, die Kontrolle über sich selbst verloren hat oder ein Verdächtiger ist, der wegen widerrechtlicher Freiheitsberaubung angeklagt ist. Im Gegensatz zur Standardimplantation darfst du einen Gefangenen festhalten, bis du die Gedankenschilde verabreicht hast, solange dies zeitnah geschieht. Wenn ein Verdächtiger die Kooperation verweigert oder das Implantat nicht funktioniert, kann er wegen Verweigerung der mentalen Abschirmung angeklagt werden.
 
-  ## Removal
-  - A suspect can be forced to receive implant removal if there is strong reasonable proof that they have been implanted, such as an officer seeing them use one or their prints being on a discarded injector. Unlike implantation procedure a prisoner can have their sentence entirely delayed or extended until they comply with the procedure, as long as security are actively making attempts to preform it. Akin to implanting, if an inmate gives their clear permission, implant removal can proceed without proof.
+  ## Entfernung
+  - Ein Verdächtiger kann gezwungen werden, sich einer Implantatentfernung zu unterziehen, wenn es starke, vernünftige Beweise dafür gibt, dass er implantiert wurde, z. B. wenn ein Offizier ihn bei der Verwendung eines Implantats gesehen hat oder seine Fingerabdrücke auf einem weggeworfenen Injektor gefunden wurden. Im Gegensatz zum Implantationsverfahren kann die Strafe eines Gefangenen vollständig verzögert oder verlängert werden, bis er dem Verfahren zustimmt, solange die Sicherheit aktiv versucht, es durchzuführen. Ähnlich wie bei der Implantation kann die Implantatentfernung ohne Beweise erfolgen, wenn ein Häftling seine klare Zustimmung gibt.
 
-  ## Blood testing
-  - Blood testing is a procedure that can be used to determine if a person is a [textlink="Changeling" link="Changelings"]. Blood testing may only be forced when there has been confirmation of changelings existence on the station.
+  ## Bluttests
+  - Bluttests sind ein Verfahren, das verwendet werden kann, um festzustellen, ob eine Person ein [textlink="Wandler (Changeling)" link="Changelings"] ist. Bluttests dürfen nur erzwungen werden, wenn die Existenz von Wandlern auf der Station bestätigt wurde.
 
-  ## Sentencing
-  - All sentencing is to be handled by the Warden, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member.
+  ## Strafzumessung
+  - Alle Strafzumessungen werden vom Warden vorgenommen. Ist kein Warden verfügbar, übernimmt der HoS (Head of Security) diese Aufgabe. Gibt es keinen HoS, fällt sie dem ranghöchsten Mitglied des Führungspersonals (Command) zu.
 
-  - Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  - Wendet gesunden Menschenverstand und Menschlichkeit bei der Verhängung von Strafen an. Ihr solltet nicht immer die höchstmögliche Strafe anstreben, ihr müsst nicht immer die Maximalzeit geben oder immer versuchen, jemanden zu degradieren. Berücksichtigt immer die Schwere und bestraft nur so viel, wie nötig ist, damit jemand seine Lektion lernt.
 
-  - [bold]Accessory, Attempting, And Intention:[/bold] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with terrorism. Does not apply to crimes that have an attempted listing already, like attempted murder.
+  - [bold]Beihilfe, Versuch und Vorsatz:[/bold] Wenn jemand vorsätzlich, wissentlich und wesentlich jemandem bei der Begehung eines Verbrechens hilft, kann er wegen der relevanten Verbrechen angeklagt werden, z. B. ein Ingenieur, der jemandem Werkzeuge gibt, der sagt, er werde in einen Bereich einbrechen. Dasselbe gilt für einen klaren und eindeutigen Versuch eines Verbrechens oder eine Person, die klare Absicht zeigt, ein Verbrechen zu begehen, z. B. ein Syndikats-Nuklearoperateur, der eine Atombombe scharf macht, aber verhaftet wird, bevor sie explodiert; er kann immer noch wegen Terrorismus angeklagt werden. Gilt nicht für Verbrechen, die bereits einen Versuchstatbestand haben, wie versuchter Mord.
 
-  - [bold]Stackable Crimes:[/bold] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime.
+  - [bold]Stapelbare Verbrechen:[/bold] Verbrechen sind in dem Sinne als 'stapelbar' zu betrachten, dass, wenn ihr jemanden wegen zwei oder mehr verschiedener Verbrechen anklagt, ihr die Zeiten kombinieren solltet, die ihr ihm für jedes Verbrechen geben würdet.
 
-  # YOU MAY NOT EXCEED 10 MINUTES AS A BRIG TIME
+  # DU DARFST 10 MINUTEN ALS BRIG-ZEIT NICHT ÜBERSCHREITEN
 
-  Perma may be given to exceptionally problematic crewmembers within reason, even if the maximum crime does not allow for perma.
+  Permanente Haft (Perma) kann für außergewöhnlich problematische Crewmitglieder im vernünftigen Rahmen verhängt werden, auch wenn das maximale Verbrechen keine permanente Haft erlaubt.
 
 
-  # Execution
-  - [bold]All executions are to be confirmed and overseen by the Captain. Exceptions to this rule exist. A prisoner may request a specific execution method, if reasonable. Otherwise the most humane method is prefered. Refer to Standard Operating Procedure to further understand any guidelines applied to execution.[/bold]
+  # Hinrichtung
+  - [bold]Alle Hinrichtungen müssen vom Captain bestätigt und beaufsichtigt werden. Ausnahmen zu dieser Regel existieren. Ein Gefangener kann eine spezifische Hinrichtungsmethode beantragen, wenn diese vernünftig ist. Andernfalls wird die humanste Methode bevorzugt. Bezieht euch auf die Standardbetriebsanweisung (Standard Operating Procedure), um weitere Richtlinien für Hinrichtungen zu verstehen.[/bold]
 
-  # Exceptions
-  - [bold]If a changeling is discovered they are kill on sight.[/bold]
-  - [bold]Any unauthorised magic use should be treated seriously and may be kill on sight[/bold]
-  - [bold]Any cases of weapons of mass destruction,extreme terrorism or clear intention to destroy the station are kill on sight[/bold]
+  # Ausnahmen
+  - [bold]Wenn ein Wandler (Changeling) entdeckt wird, gilt Töten bei Sichtkontakt (Kill on Sight).[/bold]
+  - [bold]Jede unautorisierte Magieanwendung sollte ernst genommen werden und kann mit Töten bei Sichtkontakt geahndet werden.[/bold]
+  - [bold]Alle Fälle von Massenvernichtungswaffen, extremem Terrorismus oder klarer Absicht, die Station zu zerstören, sind Töten bei Sichtkontakt.[/bold]
 
-  ## SOP guidelines
-  - [textlink="Legal" link="Legal SOP"] refer to, for more in-depth guidelines.
-  ## Crime Listing
-  - [textlink="Crime Listing" link="SpaceLawCrimeList"]
+  ## SOP-Richtlinien
+  - [textlink="Rechtliches (Legal)" link="Legal SOP"] siehe für detailliertere Richtlinien.
+  ## Verbrechensauflistung
+  - [textlink="Verbrechensauflistung" link="SpaceLawCrimeList"]
 </Document>

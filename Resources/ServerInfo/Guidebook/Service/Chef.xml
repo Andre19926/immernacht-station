@@ -10,13 +10,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chef
-A fella has gotta eat, and it's the chef's job to make sure folks have something other than junk to munch on.
+# Koch (Chef)
+Ein Kerl muss essen, und es ist der Job des Kochs, dafür zu sorgen, dass die Leute etwas anderes als nur Junk-Food zu knabbern haben.
 
 
-[textlink="Click here to see a list of food recipes." link="FoodRecipes"]
+[textlink="Klickt hier, um eine Liste der Lebensmittelrezepte zu sehen." link="FoodRecipes"]
 
-First and foremost, you'll need to familiarize yourself with the kitchen, and the tools available to you.
+Zuallererst müsst ihr euch mit der Küche und den euch zur Verfügung stehenden Werkzeugen vertraut machen.
 
 <Box>
 <GuideEntityEmbed Entity="KitchenKnife"/>
@@ -26,57 +26,57 @@ First and foremost, you'll need to familiarize yourself with the kitchen, and th
 <GuideEntityEmbed Entity="MobCow"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="VendingMachineChefvend" Caption="Chef Vendor"/>
+<GuideEntityEmbed Entity="VendingMachineChefvend" Caption="Koch-Automat (Chef Vendor)"/>
 <GuideEntityEmbed Entity="KitchenMicrowave"/>
 <GuideEntityEmbed Entity="KitchenSpike"/>
-<GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Dinnerware Vend"/>
+<GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Geschirr-Automat (Dinnerware Vend)"/>
 </Box>
 
-## Kitchen Prep:
+## Küchenvorbereitung (Kitchen Prep):
 
-It's hard to put into words how to play chef without feeling like you're being given orders, but here are some basics.
+Es ist schwer in Worte zu fassen, wie man Koch spielt, ohne dass es sich anfühlt, als würde man Befehle bekommen, aber hier sind ein paar Grundlagen.
 
-- Check what you have on hand when it comes to ingredients, most kitchens have some Flour, Rice, Eggs, Monkey Cubes, and a few other things to get started with.
-- Try your hand at mixing up some dough by putting water and flour together in a beaker. (Use the sinks!)
-- Check the Wiki (or Food Recipes) guidebook for things you can make, and put all the listed ingredients into a microwave to cook it into a meal.
-- Set up mouse traps. Yes, really. It's easy to see all your hard work disappear if you don't take precautions for mice infestations.
+- Überprüft, welche Zutaten ihr zur Hand habt. Die meisten Küchen haben etwas Mehl, Reis, Eier, Affen-Würfel (Monkey Cubes) und ein paar andere Dinge, um loszulegen.
+- Versucht euch daran, etwas **Teig** anzurühren, indem ihr Wasser und Mehl in einem Becherglas mischt. (Verwendet die Spüle!)
+- Überprüft das Wiki-Handbuch (oder die Lebensmittelrezepte) auf Dinge, die ihr machen könnt, und gebt alle aufgelisteten Zutaten in eine Mikrowelle, um daraus eine Mahlzeit zu kochen.
+- Stellt **Mausefallen** auf. Ja, wirklich. Eure ganze harte Arbeit könnte leicht verschwinden, wenn ihr keine Vorkehrungen gegen Mäusebefall trefft.
 
-Once you're a bit more experienced and familiar with what you can make, it might be best to put together a few menus, or a "cheat sheet" so you can give a list of ingredients to botany.
+Sobald ihr etwas erfahrener seid und wisst, was ihr machen könnt, ist es vielleicht am besten, ein paar Menüs oder einen "Spickzettel" zusammenzustellen, damit ihr der Botanik (Botany) eine Liste der benötigten Zutaten geben könnt.
 
-## Mixing Dough:
-Add Flour and Water together in a beaker. (Use the sink for water!)
+## Teig mischen (Mixing Dough):
+Gebt Mehl und Wasser in ein Becherglas. (Verwendet die Spüle für Wasser!)
 <Box>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
-<GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="water"/>
+<GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="Wasser (water)"/>
 <GuideEntityEmbed Entity="FoodDough"/>
 </Box>
-## Making Flour:
-Place wheat in a grinder (with a beaker placed inside) and grind it up!
+## Mehl herstellen (Making Flour):
+Legt Weizen in einen **Grinder** (mit einem Becherglas im Inneren) und mahlt ihn!
 <Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 </Box>
-## Getting Plants:
-Ask Botany for what you need, without a botanist, you may need to grow more plants yourself.
+## Pflanzen besorgen (Getting Plants):
+Fragt die Botanik, was ihr braucht. Ohne einen Botaniker müsst ihr möglicherweise selbst mehr Pflanzen anbauen.
 <Box>
 <GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 </Box>
-## Gathering Milk:
-Alt-Click on a Cow with a container in your hand. (Beakers, Buckets, Milk Jugs, ect.)
+## Milch sammeln (Gathering Milk):
+Alt-Klickt auf eine Kuh mit einem Behälter in der Hand. (Bechergläser, Eimer, Milchkannen usw.)
 <Box>
 <GuideEntityEmbed Entity="Bucket"/>
 <GuideEntityEmbed Entity="MobCow"/>
 <GuideEntityEmbed Entity="DrinkMilkCarton"/>
 </Box>
-## How to Butcher:
-In most cases, you should be able to use a knife directly on a creature that's dead. It's best to do this in the freezer, as the results are... messy.
+## Wie man schlachtet (How to Butcher):
+In den meisten Fällen solltet ihr in der Lage sein, ein Messer direkt auf eine tote Kreatur anzuwenden. Es ist am besten, dies im Gefrierschrank zu tun, da die Ergebnisse... unordentlich sind.
 
-Monkeys, however, (and other humanoids), need to be dragged onto a meatspike to be butchered.
+**Affen** (und andere Humanoide) müssen jedoch auf einen **Fleischspieß (meatspike)** gezogen werden, um geschlachtet zu werden.
 <Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>

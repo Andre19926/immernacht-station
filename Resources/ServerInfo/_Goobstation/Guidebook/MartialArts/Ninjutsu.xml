@@ -1,89 +1,89 @@
 <Document>
 
-  # Ninjutsu
+  # Ninjutsu
 
-  <Box>
-    <GuideEntityEmbed Entity="ClothingMaskNinja" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingMaskNinja" Caption=""/>
+  </Box>
 
-  Ninjutsu is a [textlink="martial art" link="MartialArts"] thoroughly developed by the Spider Clan.
-  Space Ninjas are true masters of this technique, yet Space Wizards may also unravel its secrets.
-  Remember your four teachings. Never move around loud. Only strike when unseen. Patience prevails, haste fails. Death comes in silence.
+  **Ninjutsu** ist eine [textlink="Kampfkunst" link="MartialArts"], die vom **Spinnen-Clan (Spider Clan)** gründlich entwickelt wurde.
+  **Weltraum-Ninjas** sind wahre Meister dieser Technik, doch auch **Weltraum-Zauberer** (Space Wizards) können ihre Geheimnisse lüften.
+  Erinnert euch an eure vier Lehren. Bewegt euch niemals laut. Schlagt nur zu, wenn ihr ungesehen seid. Geduld siegt, Eile scheitert. Der Tod kommt in der Stille.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  ### Sneak Attack
+  ### Heimlicher Angriff (Sneak Attack)
 
-  <Box>
-    <GuideEntityEmbed Entity="EnergyKatana" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="EnergyKatana" Caption=""/>
+  </Box>
 
-  In the shadow of stillness, the Ninja's strike shall echo with the force of two. Doubles the damage for next melee attack.
-  Once harm is dealt, the sneakiness fades, retreating into swiftness, waiting for the next chance to rise.
-  Enables Ninjutsu Takedown and Assassinate, disables Swift Strike.
+  Im Schatten der Stille wird der Schlag des Ninjas mit doppelter Kraft widerhallen. **Verdoppelt den Schaden** für den nächsten Nahkampfangriff.
+  Sobald Schaden zugefügt wurde, schwindet die Heimlichkeit und weicht der Schnelligkeit, wartend auf die nächste Chance zum Aufstieg.
+  **Aktiviert** **Ninjutsu Takedown** und **Assasinate**, **deaktiviert** **Swift Strike**.
 
-  ### Loss of Surprise
+  ### Verlust der Überraschung (Loss of Surprise)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookLossOfSurprise" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookLossOfSurprise" Caption=""/>
+  </Box>
 
-  In the silence of an opening, the ninja moves like a whisper in the wind.
-  Speed is their weapon, and the moment to strike is fleeting, like a shadow in the dark.
-  Lasts 5 seconds. Disables Ninjutsu Takedown and Assassinate but enables Swift Strike.
+  In der Stille einer Öffnung bewegt sich der Ninja wie ein Flüstern im Wind.
+  Geschwindigkeit ist ihre Waffe, und der Moment zum Zuschlagen ist flüchtig, wie ein Schatten in der Dunkelheit.
+  **Hält 5 Sekunden**. **Deaktiviert** **Ninjutsu Takedown** und **Assasinate**, **aktiviert** aber **Swift Strike**.
 
-  ### Escape Plan
+  ### Fluchtplan (Escape Plan)
 
-  Your target has perished. It is time to leave and plan your next attack.
+  Euer Ziel ist gestorben. Es ist Zeit zu gehen und euren nächsten Angriff zu planen.
 
-  After a successful kill, the ninja's spirit sharpens and quickens. Their movement speed increases temporally,
-  gliding through shadow and blood alike — unseen, unstoppable, and already gone before the next breath is drawn.
+  Nach einem erfolgreichen Tötungsschlag schärft und beschleunigt sich der Geist des Ninjas. Ihre Bewegungsgeschwindigkeit erhöht sich vorübergehend,
+  gleitend durch Schatten und Blut gleichermaßen — ungesehen, unaufhaltsam und bereits verschwunden, bevor der nächste Atemzug gezogen wird.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Assasinate
+  ### Attentat (Assasinate)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Deals massive damage to target's chest if Sneak Attack is active. Damage is easily stopped by armor.
-  Works in unarmed combat or Left Mouse Button attacks using a Slash damage weapon.
+  Verursacht massiven Schaden an der Brust des Ziels, wenn **Sneak Attack** aktiv ist. Schaden wird leicht durch Rüstung gestoppt.
+  Funktioniert im unbewaffneten Kampf oder bei Linksklick-Angriffen mit einer Waffe, die **Schlitzschaden (Slash damage)** verursacht.
 
-  ### Ninjutsu Takedown
+  ### Ninjutsu-Niederwerfen (Ninjutsu Takedown)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHelp" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHelp" Caption=""/>
+  </Box>
 
-  Only works with active Sneak Attack. Slows the opponent down significantly and mutes them.
-  Works better if performed from behind.
+  Funktioniert nur mit aktivem **Sneak Attack**. Verlangsamt den Gegner erheblich und macht ihn **stumm (mutes them)**.
+  Funktioniert besser, wenn es von hinten ausgeführt wird.
 
-  ### Swift Strike
+  ### Schneller Schlag (Swift Strike)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  When the foe is knocked down, melee weapon dealing slash strike comes faster than the eye can follow.
-  And unarmed, each attack will drain the opponent's stamina. Only works with Loss of Surprise active.
+  Wenn der Feind **niedergeschlagen (knocked down)** ist, kommt der Nahkampfangriff mit **Schlitzschaden** schneller, als das Auge folgen kann.
+  Und unbewaffnet entzieht jeder Angriff dem Gegner **Ausdauer (stamina)**. Funktioniert nur mit aktivem **Loss of Surprise**.
 
-  ### Bite The Dust
+  ### In den Staub beißen (Bite The Dust)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Temporarily knocks the opponent down. As well as dealing blunt damage.
+  Wirft den Gegner vorübergehend zu Boden (**temporarily knocks the opponent down**). Verursacht außerdem **stumpfen Schaden (blunt damage)**.
 
-  ### Dirty Kill
+  ### Gemeiner Kill (Dirty Kill)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Temporarily stuns a knocked down opponent. Target cannot be stunned for longer than they are knocked down.
+  Betäubt einen **niedergeschlagenen** Gegner vorübergehend. Das Ziel kann nicht länger betäubt werden, als es niedergeschlagen ist.
 
 </Document>

@@ -7,42 +7,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Criminal Records
-  The criminal records console is accessible in every station's security department, it serves the purpose of tracking and managing the criminal history and status of anybody part of the crew manifest.
+  # Strafregister (Criminal Records)
+  Die Strafregisterkonsole (criminal records console) ist in der Sicherheitsabteilung jeder Station zugänglich und dient dazu, die kriminelle Vorgeschichte und den Status aller Personen auf dem Crew-Manifest zu verfolgen und zu verwalten.
 
-  <Box>
-  <GuideEntityEmbed Entity="ComputerCriminalRecords"/>
-  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="ComputerCriminalRecords"/>
+  </Box>
 
-  Anyone can open the console's UI, but only those with Security access can modify anything.
+  Jeder kann die Benutzeroberfläche (UI) der Konsole öffnen, aber nur Personen mit **Sicherheitszugang** können etwas ändern.
 
-  The UI is composed by the following elements:
-  - A search bar that has a filter next to it that lets you filter the crewmembers by their names, fingerprints or DNA.
+  Die Benutzeroberfläche besteht aus folgenden Elementen:
+  - Einer **Suchleiste**, neben der sich ein Filter befindet, mit dem ihr die Crewmitglieder nach ihrem Namen, ihren Fingerabdrücken oder ihrer DNA filtern könnt.
 
-  - A list of all the crewmembers in the manifest, selecting one of the entries will make the criminal records of a crewmember appear. The list is filtered by the search bar so make sure it's empty if you want an overall overview!
+  - Einer **Liste aller Crewmitglieder** im Manifest. Wenn ihr einen der Einträge auswählt, werden die Strafregister des Crewmitglieds angezeigt. Die Liste wird durch die Suchleiste gefiltert, also stellt sicher, dass sie leer ist, wenn ihr einen Gesamtüberblick wünscht!
 
-  - The criminal records themselves
+  - Den **Strafregistern** selbst
 
-  - The filter button below the crew list can be used to show only wanted, detained, or paroled crew.
-  In the record section you can:
-    - See security-related information about a crewmember like their name, fingerprints and DNA.
+  - Die **Filter-Schaltfläche** unter der Crew-Liste kann verwendet werden, um nur **gesuchte (wanted), inhaftierte (detained)** oder **auf Bewährung entlassene (paroled)** Crewmitglieder anzuzeigen.
+  Im Abschnitt „Register“ könnt ihr:
+    - Sicherheitsrelevante Informationen über ein Crewmitglied sehen, wie dessen Namen, Fingerabdrücke und DNA.
 
-    - Change the security status between [color=gray]None[/color], [color=yellow]Wanted[/color] and [color=red]Detained[/color]. When setting it to Wanted you will be asked to write a reason.
+    - Den **Sicherheitsstatus** zwischen [color=gray]Kein (None)[/color], [color=yellow]Gesucht (Wanted)[/color] und [color=red]Inhaftiert (Detained)[/color] ändern. Wenn ihr ihn auf **Gesucht** setzt, werdet ihr aufgefordert, einen Grund anzugeben.
 
-    - If they are wanted, you can see the reason given below the status dropdown.
+    - Wenn die Person gesucht wird, könnt ihr den angegebenen Grund unter dem Status-Dropdown sehen.
 
-    - Once someone has been arrested, update their status on the console so everyone knows they no longer need to be captured.
+    - Sobald jemand festgenommen wurde, aktualisiert seinen Status auf der Konsole, damit jeder weiß, dass er nicht mehr gefangen genommen werden muss.
 
-    - After they've done their time, release them and update their status to None so nobody thinks they are an escaped convict.
+    - Nachdem die Person ihre Strafe verbüßt hat, lasst sie frei und aktualisiert ihren Status auf **Kein**, damit niemand denkt, sie sei ein entflohener Sträfling.
 
-    - Open the Crime History window to check or modify it.
+    - Das Fenster **Verbrechenshistorie (Crime History)** öffnen, um diese zu überprüfen oder zu ändern.
 
-  The Crime History window lists someone's crimes and can be modified in multiple ways:
-    - Automatically, just by setting someone's status to arrested. The reason will be added to "ARRESTED:" so it's easy to see the automated entries.
+  Das Fenster **Verbrechenshistorie** listet die Verbrechen einer Person auf und kann auf verschiedene Weise geändert werden:
+    - **Automatisch**, indem ihr einfach den Status einer Person auf **festgenommen (arrested)** setzt. Der Grund wird zu "ARRESTED:" hinzugefügt, sodass die automatisierten Einträge leicht zu erkennen sind.
 
-    - Adding a new line by clicking "Add" and writing something in the input box. When adding a record, remember to mention their crime and sentence, the console will automatically insert the shift's time so you don't need to!
+    - Eine **neue Zeile hinzufügen**, indem ihr auf "Add" klickt und etwas in das Eingabefeld schreibt. Beim Hinzufügen eines Eintrags denkt daran, dessen Verbrechen und Strafe zu erwähnen, die Konsole fügt die Uhrzeit der Schicht automatisch ein, sodass ihr dies nicht tun müsst!
 
-    - Select a line of unwanted history and click "Delete" to remove it. Excellent for keeping records clean from the clown's stolen ID antics.
+    - Eine Zeile unerwünschter Historie auswählen und auf "Delete" klicken, um sie zu entfernen. Ausgezeichnet, um Register frei von den gestohlenen ID-Mätzchen des Clowns zu halten.
 
-  Now you can be the desk jockey you've always wanted to be.
+  Jetzt könnt ihr der Schreibtischtäter sein, der ihr schon immer sein wolltet.
 </Document>

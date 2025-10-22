@@ -6,68 +6,68 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Warden SOP
-This is the list of procedures, responsibilities, and duties of the [color=#ba292c][bold]Warden[/bold][/color] of this station.
+# SOP des Wärters (Warden SOP)
+Dies ist die Liste der Verfahren, Verantwortlichkeiten und Pflichten des [color=#ba292c][bold]Wärters[/bold][/color] dieser Station.
 
 <ColorBox>
-  <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
-  </Box>
+  <Box>
+    Für die Zwecke der Alarm-Eskalation: Behandelt höhere Alarme so, als wären sie immer noch auf dem vorherigen Alarmniveau. (Gelber Alarm ist Blauer Alarm, wenn er zuvor Blauer Alarm war.) Darüber hinaus sind Delta, Gamma, Epsilon und Violetter Alarm als Roter Alarm zu behandeln.
+  </Box>
 </ColorBox>
 
-The [color=#ba292c][bold]Warden[/bold][/color] is permitted to carry their shift-start equipment, but should follow escalation procedures and refrain from using lethals.
+Dem [color=#ba292c][bold]Wärter[/bold][/color] ist es gestattet, seine Ausrüstung vom Schichtbeginn mit sich zu führen, sollte aber die Eskalationsverfahren befolgen und auf den Einsatz tödlicher Waffen verzichten.
 
-## Green Alert
-1. The Warden is obligated to remain in the Security Department at all times except to assist in transportation of prisoners.
-<Box>The Warden must maintain control over the Armory as well, with only exceptions being allowed for Captain and Head of Security.</Box>
+## Grüner Alarm (Green Alert)
+1. Der Wärter ist verpflichtet, sich jederzeit in der **Sicherheitsabteilung** aufzuhalten, außer um beim Transport von Gefangenen zu helfen.
+<Box>Der Wärter muss auch die Kontrolle über die **Waffenkammer (Armory)** aufrechterhalten, wobei nur Ausnahmen für den Captain und den Sicherheitschef (Head of Security) zulässig sind.</Box>
 
-2. The Warden may not perform arrests if there are Security Officers active.
+2. Der Wärter darf keine Verhaftungen durchführen, wenn Sicherheitsbeamte (Security Officers) aktiv sind.
 
-3. The Warden must conduct a thorough search of every prisoner's belongings, including pockets, PDA slots, any coat pockets and suit storage slots.
-<Box>Following proper Space Law: PDA, clothes, and Headsets are to be returned when the search is finished; unless contraband/tampering is evident. Then replacements should be issued.</Box>
+3. Der Wärter muss eine gründliche Durchsuchung aller Habseligkeiten der Gefangenen durchführen, einschließlich Taschen, PDA-Slots, allen Manteltaschen und Anzug-Lagerplätzen.
+<Box>Gemäß dem geltenden Weltraumgesetz (Space Law): PDA, Kleidung und Headsets sind zurückzugeben, wenn die Durchsuchung abgeschlossen ist; es sei denn, Schmuggelware/Manipulation ist ersichtlich. Dann sollten Ersatzgegenstände ausgegeben werden.</Box>
 
-4. The warden should ensure that all prisoners are equipped with their PDA, Headset, and clothes (provided they are not contraband/tampered with).
-<Box>In such cases where the PDA, Headset, and/or clothes are tampered with or harboring contraband, replacements should be issued.</Box>
+4. Der Wärter sollte sicherstellen, dass alle Gefangenen mit ihrem **PDA, Headset und Kleidung** ausgestattet sind (vorausgesetzt, diese sind keine Schmuggelware/manipuliert).
+<Box>In Fällen, in denen das PDA, das Headset und/oder die Kleidung manipuliert wurden oder Schmuggelware beherbergen, sollte Ersatz ausgegeben werden.</Box>
 
-5. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes.
+5. Der Wärter ist nicht verpflichtet, ein Gerichtsverfahren durchzuführen, wird jedoch ermutigt, dem Verdächtigen rechtlichen Beistand zu gewähren, falls dieser darum bittet. Dies gilt nur für **Kapitalverbrechen (Capital Crimes)**.
 
-6. The Warden may not hand out any weapons or armour from the Armory, except for extra disablers.
+6. Der Wärter darf keine Waffen oder Rüstungen aus der **Waffenkammer** aushändigen, mit Ausnahme von zusätzlichen **Deaktivierern (disablers)**.
 
-7. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and their provided energy shotgun.
+7. Der Wärter darf einen **Standard-Deaktivierer, einen Blitzer, einen Schockstab (stunbaton), eine Blendgranate (flashbang)** und seine bereitgestellte **Energie-Schrotflinte** mit sich führen.
 
-8. The Warden may not place the portable flashers nor deployable barriers within the Brig.
+8. Der Wärter darf die **tragbaren Blitzer (portable flashers)** oder **einsatzbereiten Barrieren (deployable barriers)** nicht innerhalb der Arrestzelle (Brig) platzieren.
 
-9. The Warden must read to every prisoner the crimes they are sentenced to.
+9. Der Wärter muss jedem Gefangenen die Verbrechen vorlesen, für die er verurteilt wurde.
 
-10. The Warden is not permitted to leave prisoners buckled and cuffed to their beds.
-<Box>An exception is made if the prisoners are acting overly hostile or attempting to breach the cell in order to escape.</Box>
+10. Dem Wärter ist es nicht gestattet, Gefangene mit angelegten Schnallenhandschellen (buckled and cuffed) an ihre Betten gefesselt zu lassen.
+<Box>Eine Ausnahme gilt, wenn die Gefangenen übermäßig feindselig handeln oder versuchen, die Zelle aufzubrechen, um zu entkommen.</Box>
 
-11. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+11. Der Wärter muss dieselben Richtlinien wie Sicherheitsbeamte für die Kleidung befolgen, mit der Ausnahme, dass seine eigene zugewiesene Kleidung auch für jede der für Sicherheitsbeamte genannten Kleidungsstücke akzeptabel ist.
 
-12. The Warden is permitted to place the portable flashers inside the Brig if there is an influx of prisoner personnel and/or several attempts to escape.
+12. Dem Wärter ist es gestattet, die **tragbaren Blitzer** in der Arrestzelle zu platzieren, wenn ein Zustrom von Gefangenen und/oder mehrere Fluchtversuche vorliegen.
 
-## Blue Alert
-1. Guidelines 2, 3, 5, 7, 10, and 12 are carried over from [color=#388c34]Green Alert[/color].
+## Blauer Alarm (Blue Alert)
+1. Die Richtlinien 2, 3, 5, 7, 10 und 12 werden vom [color=#388c34]Grünen Alarm[/color] übernommen.
 
-2. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Captain and/or Head of Security's approval, as they present a lethal risk.
-<Box>Exceptions apply if there is a lethal threat and/or emergency, such as Nuclear Operatives, Blob, and/or Delta Alert.</Box>
+2. Dem Wärter ist es gestattet, die gesamte Ausrüstung aus der **Waffenkammer** auszuhändigen. **Energie- und Laserpistolen** dürfen nur mit Genehmigung des Captains und/oder des Sicherheitschefs ausgehändigt werden, da sie ein tödliches Risiko darstellen.
+<Box>Ausnahmen gelten, wenn eine tödliche Bedrohung und/oder ein Notfall vorliegt, wie zum Beispiel Nuklear-Agenten (Nuclear Operatives), Blob und/oder Delta-Alarm.</Box>
 
-3. The Warden is permitted to place the portable flashes and deployable barriers inside the Brig at all times.
+3. Dem Wärter ist es gestattet, die **tragbaren Blitzer** und **einsatzbereiten Barrieren** jederzeit in der Arrestzelle zu platzieren.
 
-4. The Warden should still remain in the Security Department unless an emergency requires moving.
+4. Der Wärter sollte weiterhin in der **Sicherheitsabteilung** bleiben, es sei denn, ein Notfall erfordert einen Ortswechsel.
 
-## Red Alert
-1. Guidelines 3, 5, 7, 10, and 12 are carried over from [color=#388c34]Green Alert[/color].
+## Roter Alarm (Red Alert)
+1. Die Richtlinien 3, 5, 7, 10 und 12 werden vom [color=#388c34]Grünen Alarm[/color] übernommen.
 
-2. Guidelines 2 and 3 are carried over from [color=#1b67a5]Blue Alert[/color]. In addition, the Warden may also carry any weapon from the Armory, but never more than one at a time.
+2. Die Richtlinien 2 und 3 werden vom [color=#1b67a5]Blauen Alarm[/color] übernommen. Zusätzlich darf der Wärter auch jede Waffe aus der **Waffenkammer** mit sich führen, jedoch nie mehr als eine gleichzeitig.
 
-3.The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided.
+3. Dem Wärter ist es gestattet, jede Waffe oder Ausrüstung in der **Waffenkammer** zu verteilen. Dies schließt alles ein, was die Forschung bereitgestellt hat.
 
-4. The Warden is permitted to carry out arrests freely.
+4. Der Wärter darf Verhaftungen frei durchführen.
 
-5. The Warden, with approval from Captain and/or Head of Security, may give one (1) lethal weapon to a Head of Staff.
-<Box>The lethal weapon must be returned when the alert is reduced.</Box>
+5. Der Wärter darf mit Genehmigung des Captains und/oder des Sicherheitschefs eine (1) **tödliche Waffe** an einen Abteilungsleiter (Head of Staff) aushändigen.
+<Box>Die tödliche Waffe muss zurückgegeben werden, wenn der Alarm reduziert wird.</Box>
 
-6. The Warden should still remain in the Security Department unless an emergency requires moving.
+6. Der Wärter sollte weiterhin in der **Sicherheitsabteilung** bleiben, es sei denn, ein Notfall erfordert einen Ortswechsel.
 
 </Document>

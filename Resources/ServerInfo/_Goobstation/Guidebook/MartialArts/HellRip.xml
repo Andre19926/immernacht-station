@@ -1,58 +1,57 @@
 <Document>
 
-  # Hell Ripte
+  # Höllenriss (Hell Ripte)
 
-  <Box>
-    <GuideEntityEmbed Entity="LegionnaireBonfire" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="LegionnaireBonfire" Caption=""/>
+  </Box>
 
-  Hell Ripte, is a [textlink="martial art" link="MartialArts"] that focuses on ripping through crowds of demons with
-  brutal efficiency. This art can only be mastered by the slaughter demons of hell, as it requires an enormous amount of raw strength and power to master.
-  A full understanding of this art will allow you to paint the station red. None will be safe from your carnage.
+  **Höllenriss** ist eine [textlink="Kampfkunst" link="MartialArts"], die sich darauf konzentriert, mit brutaler Effizienz durch Dämonenmengen zu reißen. Diese Kunst kann nur von den **Schlachtdämonen (Slaughter Demons)** der Hölle gemeistert werden, da sie eine enorme Menge an roher Stärke und Kraft erfordert, um sie zu beherrschen.
+  Ein vollständiges Verständnis dieser Kunst wird euch erlauben, die Station rot zu färben. Niemand wird vor eurem Gemetzel sicher sein.
 
-  ## Special abilities
+  ## Spezialfähigkeiten (Special abilities)
 
-  Hell Ripte masters do extreme amounts of damage in short windows, making them unmatched in hand to hand combat.
+  Meister des Höllenrisses verursachen in kurzen Zeitfenstern extremen Schaden, was sie im Nahkampf unübertroffen macht.
 
-  ## Combo attacks
+  ## Kombo-Angriffe (Combo attacks)
 
-  ### Tear Down
+  ### Niederreißen (Tear Down)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Deals massive slashing damage and bleeds the target.
+  Verursacht massiven **Schlitzschaden (slashing damage)** und lässt das Ziel bluten.
 
-  ### Head Rip
+  ### Kopfriss (Head Rip)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+  </Box>
 
-  Rip off the head of an opponent who is dead, very lethal. Cannot be done while target is alive.
+  Reißt den Kopf eines toten Gegners ab, sehr tödlich. Kann nicht ausgeführt werden, solange das Ziel lebt.
 
-  ### Hellish Slam
+  ### Höllenschlag (Hellish Slam)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
 
-  Knocks an opponent down and deals heavy stamina damage. If you are downed you pull yourself up.
+  Wirft einen Gegner zu Boden (**knocks an opponent down**) und verursacht schweren **Ausdauerschaden (stamina damage)**. Wenn ihr am Boden liegt, zieht ihr euch hoch.
 
-  ### Drop Kick
+  ### Sprungtritt (Drop Kick)
 
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
 
-  Launch a downed opponent. Great for painting. Cannot be done while on the ground.
+  Schleudert einen am Boden liegenden (**downed**) Gegner fort. Großartig zum "Malen" (**painting**). Kann nicht ausgeführt werden, während man am Boden liegt.
 
 </Document>

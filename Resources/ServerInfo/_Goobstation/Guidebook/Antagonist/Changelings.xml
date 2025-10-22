@@ -9,61 +9,61 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Changelings
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookChangelingFluff" Caption=""/>
-  </Box>
-  A Changeling is an  alien creature able to morph into humanoids. Changelings nautral form is a headslug, but before a shift started, they killed someone and began imitating them.
-  The main weapons of the Changeling are its ability to internally synthesize dangerous chemicals, morph into other creatures that it has absorbed, and blend in with humans.
+  # Formwandler (Changelings)
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookChangelingFluff" Caption=""/>
+  </Box>
+  Ein Formwandler (Changeling) ist eine außerirdische Kreatur, die sich in Humanoide verwandeln kann. Die natürliche Form von Formwandlern ist eine Kopflaus (Headslug), aber vor dem Beginn einer Schicht haben sie jemanden getötet und begonnen, diesen nachzuahmen.
+  Die Hauptwaffen des Formwandlers sind seine Fähigkeit, gefährliche Chemikalien intern zu synthetisieren, sich in andere Kreaturen zu verwandeln, die er absorbiert hat, und sich unter Menschen zu mischen.
 
-  The changeling can be anyone it's absorbed, it can switch identities instantaneously, only absorbing takes time and peace. Unlike the Traitor, the Changeling's only objective is to survive until the shuttle arrives and escape on it while transformed into somebody else.
+  Der Formwandler kann jeder sein, den er absorbiert hat. Er kann Identitäten augenblicklich wechseln, nur die Absorption erfordert Zeit und Ruhe. Im Gegensatz zum Verräter ist das einzige Ziel des Formwandlers, zu überleben, bis das Shuttle eintrifft, und in die Gestalt einer anderen Person verwandelt damit zu entkommen.
 
-  Remember that Changelings are not obliged to work eachother as a team, and some may go solo/rogue depending on how they like it.
+  Denkt daran, dass Formwandler nicht verpflichtet sind, als Team zusammenzuarbeiten, und einige je nach Vorliebe als Einzelgänger/abtrünnig agieren.
 
-  ## I've turned into myself, what do?
+  ## Ich habe mich in mich selbst verwandelt, was nun?
 
-  ### Chemicals
-  Chemicals are your source of abilities. Without them you won't be able to use your powers.
-  They regenerate slowly over time, and absorption will increase their max capacity.
+  ### Chemikalien
+  Chemikalien sind eure Quelle für Fähigkeiten. Ohne sie werdet ihr eure Kräfte nicht nutzen können.
+  Sie regenerieren sich langsam mit der Zeit, und die Absorption erhöht ihre maximale Kapazität.
 
-  ### DNA Absorption
-  Your main weapon is deception. Transform into other humanoid creatures to confuse the crew.
-  To do this, it must take ANY human, living or dead (even thrown away bodies from cloning), and absorb them using either the Absorb abliity, or the DNA Extraction Sting.
-  You can only have a maximum of 5 DNA strands at a time, and must transform to obtain more.
+  ### DNA-Absorption
+  Eure Hauptwaffe ist die Täuschung. Verwandelt euch in andere humanoide Kreaturen, um die Crew zu verwirren.
+  Dazu muss ein Formwandler JEDEN Menschen, lebend oder tot (sogar weggeworfene Körper aus der Klonanlage), nehmen und ihn entweder mit der Fähigkeit **Absorbieren** oder dem **DNA-Extraktionsstich** absorbieren.
+  Ihr könnt maximal 5 DNA-Stränge gleichzeitig speichern und müsst euch verwandeln, um mehr zu erhalten.
 
-  Acquiring DNA via absorption requires the victim's incapacitation, critical condition or death. Simply, handcuff, put him into crit or kill him if you need to absorb him.
+  Der Erwerb von DNA durch Absorption erfordert die Handlungsunfähigkeit, den kritischen Zustand oder den Tod des Opfers. Fesselt ihn, versetzt ihn in einen kritischen Zustand oder tötet ihn einfach, wenn ihr ihn absorbieren müsst.
 
-  - Absorbing someone takes a lot of time, so prepare a safe spot or do it somewhere with the least amount of ears possible.
-  - Absorbing a victim will recover all of your biomass, increase your maximum chemical capacity and give you bonus evolution points to buy new abilities.
-  - Absorbing another changeling will, on top of that, increase your maximum biomass capacity, allowing you to stay alive for more time and give you even more chemicals and evolution points.
-  - [color=red]Absorbed victims cannot be cloned.[/color] On the other hand, they can still be turned into cyborgs.
+  - Jemanden zu absorbieren dauert viel Zeit, also bereitet einen sicheren Ort vor oder tut es irgendwo mit so wenig Ohren wie möglich.
+  - Das Absorbieren eines Opfers regeneriert eure gesamte Biomasse, erhöht eure maximale Chemikalienkapazität und gibt euch zusätzliche **Evolutionspunkte**, um neue Fähigkeiten zu kaufen.
+  - Das Absorbieren eines anderen Formwandlers erhöht zusätzlich eure maximale Biomassekapazität, wodurch ihr länger am Leben bleiben könnt, und gibt euch noch mehr Chemikalien und Evolutionspunkte.
+  - [color=red]Absorbierte Opfer können nicht geklont werden.[/color] Andererseits können sie immer noch in Cyborgs umgewandelt werden.
 
-  ### You exclaim, "I am the only one here!"
-  Changelings are limited, however, to how much DNA they can absorb at once! If a changeling has 5 DNAs stored and attempts to gain another, they must purge the older DNA by transforming. Eventually, any changeling will have to be a twin of someone else on the station, living or dead.
-  The changeling can shift its appearance, making them look and sound exactly like a victim of which they have absorbed. This can be massive compromise in security, especially if command staff are absorbed and the changeling is able to imitate them.
-  Changelings can also, via their lesser form ability, transform into monkeys and do monkey things.
+  ### Ihr ruft aus: „Ich bin der Einzige hier!“
+  Formwandler sind jedoch in der Menge an DNA, die sie gleichzeitig absorbieren können, begrenzt! Wenn ein Formwandler 5 DNAs gespeichert hat und versucht, eine weitere zu erhalten, muss er die ältere DNA durch Verwandlung ausscheiden. Letztendlich muss jeder Formwandler ein Zwilling von jemand anderem auf der Station sein, lebend oder tot.
+  Der Formwandler kann sein Aussehen ändern und dadurch genau wie ein Opfer aussehen und klingen, das er absorbiert hat. Dies kann ein massiver Kompromiss in der Sicherheit sein, besonders wenn Führungspersonal absorbiert wird und der Formwandler in der Lage ist, dieses nachzuahmen.
+  Formwandler können sich auch durch ihre **Geringere Form**-Fähigkeit in Affen verwandeln und Affendinge tun.
 
-  ### Regeneration
-  Also known as Regenerative Stasis, changelings have the ability to 'kill' themselves, and appear dead. After an uncertain amount of time, the changeling can revive at will, fully healed of all injuries and illness.
-  Entering stasis will start a timer that scales with damage taken, and leaving will cost 30 chemicals. Chemicals will still regenerate while a changeling is dead.
+  ### Regeneration
+  Auch bekannt als **Regenerativer Stillstand (Regenerative Stasis)**, haben Formwandler die Fähigkeit, sich selbst zu „töten“ und tot zu erscheinen. Nach einer ungewissen Zeit kann der Formwandler nach Belieben wiederbelebt werden, vollständig geheilt von allen Verletzungen und Krankheiten.
+  Das Eintreten in den Stillstand startet einen Timer, der mit dem erlittenen Schaden skaliert, und das Verlassen kostet 30 Chemikalien. Chemikalien regenerieren sich weiterhin, während ein Formwandler "tot" ist.
 
-  Changelings can also choose to revive by defibrillator, making it even harder to tell if they are one or not.
+  Formwandler können sich auch dafür entscheiden, durch einen Defibrillator wiederbelebt zu werden, was es noch schwieriger macht, festzustellen, ob sie einer sind oder nicht.
 
-  This makes them nigh-unkillable, as they can fully regenerate themselves even from death if they have enough chemicals. Spaced changelings may also be able to make it back on station given enough time. The best way to permanently deal with a changeling is to cremate them, put them on mining colonies or in solitary confinement.
+  Das macht sie nahezu unbesiegbar, da sie sich vollständig, selbst vom Tod, regenerieren können, wenn sie genug Chemikalien haben. Formwandler, die in den Weltraum befördert wurden, können es bei genügend Zeit möglicherweise auch zurück auf die Station schaffen. Der beste Weg, einen Formwandler dauerhaft zu erledigen, ist, ihn einzuäschern, ihn auf Bergbaukolonien zu bringen oder in Einzelhaft zu stecken.
 
-  ### Going Solo or Teaming Up
-  Like traitors, changelings operate individually and are in no way obligated to assist each other. It is not required for changelings to even reveal their identity to each other, as it's not uncommon for changelings to backstab each other to remove competition.
-  Even so, [color=red]a coordinated group of changelings is truly a terror to behold[/color].
+  ### Alleine agieren oder im Team arbeiten
+  Wie Verräter agieren Formwandler individuell und sind in keiner Weise verpflichtet, sich gegenseitig zu helfen. Es ist nicht erforderlich, dass Formwandler einander überhaupt ihre Identität preisgeben, da es nicht ungewöhnlich ist, dass Formwandler sich gegenseitig in den Rücken fallen, um Konkurrenz zu beseitigen.
+  Trotzdem ist [color=red]eine koordinierte Gruppe von Formwandlern wahrlich ein Schrecken anzusehen[/color].
 
-  ## Identifying a changeling
-  Changelings have a different blood type. Even if a changeling is pretending to be a diona, vox or a moth person, they have one blood type.
-  Also, when put in a centrifuge, the changeling's blood reacts violently.
-  You cannot identify changelings in any other possible way, unless they're dead obvious and start going loud.
+  ## Einen Formwandler identifizieren
+  Formwandler haben eine andere Blutgruppe. Auch wenn sich ein Formwandler als Diona, Vox oder Mottenmensch ausgibt, haben sie nur eine Blutgruppe.
+  Auch reagiert das Blut des Formwandlers, wenn es in eine Zentrifuge gegeben wird, heftig.
+  Auf keine andere Weise könnt ihr Formwandler identifizieren, es sei denn, sie sind offensichtlich und werden laut.
 
-  ## Your true weakness...
-  [color=orange]Kill it with fire![/color]
-  - While on fire, they are [color=red]unable to use or toggle most of their combat, defensive and utility oriented abilities.[/color]
-  - Changelings also suffer a massive reduction to their chemical generation, being [color=red]reduced to a 1/4 of its current amount[/color] when on fire!
+  ## Eure wahre Schwäche...
+  [color=orange]Tötet es mit Feuer![/color]
+  - Während sie in Flammen stehen, sind sie [color=red]nicht in der Lage, die meisten ihrer kampf-, verteidigungs- und nutzorientierten Fähigkeiten zu verwenden oder umzuschalten.[/color]
+  - Formwandler erleiden auch eine massive Reduzierung ihrer Chemikaliengenerierung, die auf [color=red]ein Viertel ihres aktuellen Betrags reduziert[/color] wird, wenn sie in Flammen stehen!
 
-  [textlink="Learn about the changeling abilities." link="ChangelingsAbilities"]
+  [textlink="Erfahrt mehr über die Fähigkeiten des Formwandlers." link="ChangelingsAbilities"]
 </Document>

@@ -6,13 +6,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Ban Types
+  # Bann-Typen
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Gegen Banns kann unter discord.gg/XNtp65CKvY im Bereich für Bann-Einsprüche (Ban Appeals) Einspruch eingelegt werden.
 
-  ## Role Ban
-  Also called a "job ban", this ban prevents your character from joining or late-joining a round as one or more jobs or roles. These are often used in response to problematic behavior in particular departments or address gross inexperience in important roles such as heads of staff. These bans do not mechanically prevent you from switching to the role during a round or acting as that role, but doing so is considered ban evasion.
+  ## Rollen-Bann (Role Ban)
+  Auch "Job-Bann" genannt, verhindert dieser Bann, dass dein Charakter einer Runde als eine oder mehrere Berufe oder Rollen beitritt oder nachträglich beitritt (Late-Join). Diese werden oft als Reaktion auf problematisches Verhalten in bestimmten Abteilungen eingesetzt oder um grobe Unerfahrenheit in wichtigen Rollen wie Abteilungsleitern (Heads of Staff) zu adressieren. Diese Banns verhindern mechanisch nicht, dass du während einer Runde zu der Rolle wechselst oder als diese Rolle agierst, aber dies zu tun wird als Bann-Umgehung (Ban Evasion) betrachtet.
 
-  ## Game Ban
-  Also called a "server ban", this ban prevents you from connecting to all Wizard's Den servers.
+  ## Spiel-Bann (Game Ban)
+  Auch "Server-Bann" genannt, verhindert dieser Bann, dass du dich mit allen Servern von Wizard's Den verbindest.
 </Document>

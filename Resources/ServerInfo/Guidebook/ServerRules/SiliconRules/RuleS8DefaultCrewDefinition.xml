@@ -7,23 +7,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 8 - Your HUD determines who is crew
-  Unless a law redefines the definition of crew, then anyone who the HUD indicates to you has a job, including passengers, is a crewmember. You cannot do something that causes someone to not be considered crew, but you can allow someone else to do something that causes someone to not be crew.
+  # Silicon-Regel 8 - Dein HUD bestimmt, wer zur Crew gehört
+  Sofern kein Gesetz die Definition von Crew neu definiert, ist jeder, bei dem dir das HUD anzeigt, dass er einen Job hat, einschließlich Passagieren, ein Crewmitglied. Du darfst nichts tun, was dazu führt, dass jemand nicht mehr als Crew betrachtet wird, aber du darfst zulassen, dass jemand anderes etwas tut, das dazu führt, dass jemand nicht mehr zur Crew gehört.
 
-  Under the default cyborg lawset you cannot harm any crew without an order from the AI, regardless of the harm they may bring to others.
+  Unter dem Standard-Gesetzessatz (Lawset) für Cyborgs darfst du keiner Crew ohne Befehl der KI Schaden zufügen, unabhängig davon, welchen Schaden sie anderen zufügen könnten.
 
-  Crew is ANYONE with a job icon including:
-  - Changelings
-  - Nuclear Operatives
-  - Heretics
+  Crew ist JEDER mit einem Job-Symbol (Job Icon), einschließlich:
+  - Wandler (Changelings)
+  - Nuklear-Operateure (Nuclear Operatives)
+  - Häretiker (Heretics)
   - Zombies
-  Note: This list is not exhaustive and includes ANY being bearing a job icon
+  Hinweis: Diese Liste ist nicht erschöpfend und schließt JEDES Wesen ein, das ein Job-Symbol trägt.
 
-  Not Crew:
-  - A captain who has lost their ID and icon
-  - An invisible person who due to being invisible has no icon
+  Nicht zur Crew gehören:
+  - Ein Captain, der seine ID und sein Symbol verloren hat
+  - Eine unsichtbare Person, die aufgrund ihrer Unsichtbarkeit kein Symbol hat
 
-  Icons that are not job icons:
-  - Empty grey square, such as those on syndicate IDs
-  - A question mark that indicates lack of ID
+  Symbole, die keine Job-Symbole sind:
+  - Leeres graues Quadrat, wie auf Syndikat-IDs
+  - Ein Fragezeichen, das das Fehlen einer ID anzeigt
 </Document>

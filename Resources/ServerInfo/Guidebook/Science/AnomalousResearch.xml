@@ -7,43 +7,43 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Anomalous Research
+# Anomale Forschung (Anomalous Research)
 
-Anomalous Research is a subdepartment of Science focused around the containment and manipulation of various unique anomalies.
+Die Anomale Forschung (Anomalous Research) ist ein Unterdepartment der Wissenschaft (Science), das sich auf die Eindämmung (Containment) und Manipulation verschiedener einzigartiger Anomalien (Anomalies) konzentriert.
 
-## Equipment
+## Ausrüstung (Equipment)
 <Box>
-<GuideEntityEmbed Entity="AnomalyScanner"/>
-<GuideEntityEmbed Entity="MachineAnomalyVessel"/>
-<GuideEntityEmbed Entity="MachineAPE"/>
+<GuideEntityEmbed Entity="AnomalyScanner" Caption="Anomaliescanner (Anomaly Scanner)"/>
+<GuideEntityEmbed Entity="MachineAnomalyVessel" Caption="Anomaliebehälter (Anomaly Vessel)"/>
+<GuideEntityEmbed Entity="MachineAPE" Caption="Anomale Partikelemitter (Machine APE)"/>
 </Box>
 
-Scanners, vessels, and A.P.E.s are all used in the containment and observation of anomalies.
+Scanner (Scanners), Behälter (Vessels) und A.P.E.s (Anomalous Particle Emitters) werden alle zur Eindämmung (Containment) und Beobachtung (Observation) von Anomalien verwendet.
 
 <Box>
-<GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
+<GuideEntityEmbed Entity="MachineAnomalyGenerator" Caption="Anomaliegenerator (Anomaly Generator)"/>
 </Box>
 
-The anomaly generator can produce a random anomaly somewhere on the station at the cost of plasma.
+Der Anomaliegenerator (Anomaly Generator) kann zufällig eine Anomalie irgendwo auf der Station erzeugen, kostet jedoch Plasma (Plasma).
 
-## Anomalies
-Anomalies are static objects that appear on the station. They cannot be moved, and must be worked around, no matter their location.
+## Anomalien (Anomalies)
+Anomalien (Anomalies) sind statische Objekte, die auf der Station erscheinen. Sie können nicht bewegt werden und müssen unabhängig von ihrem Standort bearbeitet werden.
 
 <Box>
-<GuideEntityEmbed Entity="AnomalyPyroclastic"/>
+<GuideEntityEmbed Entity="AnomalyPyroclastic" Caption="Pyroklastische Anomalie (Anomaly Pyroclastic)"/>
 </Box>
 
-Each anomaly has three main stats, two of which can be seen in anomaly scans:
+Jede Anomalie hat drei Hauptwerte (Stats), von denen zwei in Anomalie-Scans sichtbar sind:
 
-- [color=#a4885c]Severity:[/color] This is a numerical value corresponding to the danger of an anomaly.
-- [color=#a4885c]Stability:[/color] Shown as either decaying, stable, or growing; this is how frequently and widespread the effects will be.
-- [color=#a4885c]Health:[/color] Health is a hidden stat. It decreases when you use [color=#a4885c]containment particles[/color] on an anomaly. If you use too many, the anomaly will disappear.
+- [color=#a4885c]Schwere (Severity):[/color] Dies ist ein numerischer Wert, der der Gefährlichkeit (Danger) einer Anomalie entspricht.
+- [color=#a4885c]Stabilität (Stability):[/color] Angezeigt als abnehmend (Decaying), stabil (Stable) oder wachsend (Growing); dies bestimmt, wie häufig und weit verbreitet die Effekte sein werden.
+- [color=#a4885c]Gesundheit (Health):[/color] Die Gesundheit ist ein verborgener Wert (Hidden Stat). Sie nimmt ab, wenn Sie [color=#a4885c]Eindämmungspartikel (Containment Particles)[/color] auf eine Anomalie anwenden. Wenn Sie zu viele verwenden, verschwindet die Anomalie.
 
-## Pulses and Supercritical Events
-The most dangerous effects of anomalies are seen during [color=#a4885c]pulses[/color] and [color=#a4885c]supercritical events[/color].
+## Pulse und Superkritische Ereignisse (Pulses and Supercritical Events)
+Die gefährlichsten Effekte von Anomalien treten während [color=#a4885c]Pulsen (Pulses)[/color] und [color=#a4885c]superkritischen Ereignissen (Supercritical Events)[/color] auf.
 
-Pulses are semi-regular bursts of anomalous effects. They're moderately dangerous, scaling with both the severity and stability of an anomaly.
+Pulse (Pulses) sind halbregelmäßige Ausbrüche anomaler Effekte. Sie sind mäßig gefährlich und skalieren mit der Schwere (Severity) und Stabilität (Stability) einer Anomalie.
 
-Supercritical events are only seen if an anomaly reaches 100% severity. If this happens, the anomaly will swell before disappearing into a catastrophic event. These should be avoided at all costs!
+Superkritische Ereignisse (Supercritical Events) treten nur auf, wenn eine Anomalie 100% Schwere (Severity) erreicht. Wenn dies geschieht, schwillt die Anomalie an, bevor sie in einem katastrophalen Ereignis verschwindet. Diese sollten um jeden Preis vermieden werden!
 
 </Document>

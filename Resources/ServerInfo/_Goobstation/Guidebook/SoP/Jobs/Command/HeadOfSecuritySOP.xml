@@ -6,53 +6,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Head of Security (HOS) SOP
-This is the list of procedures, responsibilities, and duties of the [color=#1b67a5][bold]Head of Security[/bold][/color] of this station.
+# Sicherheitschef (Head of Security - HOS) SOP
+Dies ist die Liste der Verfahren, Verantwortlichkeiten und Pflichten des [color=#1b67a5][bold]Sicherheitschefs[/bold][/color] dieser Station.
 
 <ColorBox>
-  <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
-  </Box>
+  <Box>
+    Für die Zwecke der Alarm-Eskalation: Behandelt höhere Alarme so, als wären sie immer noch auf dem vorherigen Alarmniveau. (Gelber Alarm ist Blauer Alarm, wenn er zuvor Blauer Alarm war.) Darüber hinaus sind Delta, Gamma, Epsilon und Violetter Alarm als Roter Alarm zu behandeln.
+  </Box>
 </ColorBox>
 
-The [color=#1b67a5][bold]Head of Security[/bold][/color] is permitted to carry their shift-start equipment, but should follow escalation procedures and refrain from using lethals.
+Dem [color=#1b67a5][bold]Sicherheitschef[/bold][/color] ist es gestattet, seine Ausrüstung vom Schichtbeginn mit sich zu führen, sollte aber die Eskalationsverfahren befolgen und auf den Einsatz tödlicher Waffen verzichten.
 
-## Green Alert
-1. The Head of Security is permitted to carry out arrests under the same conditions as their Security Officers.
+## Grüner Alarm (Green Alert)
+1. Dem Sicherheitschef ist es gestattet, Verhaftungen unter denselben Bedingungen wie seinen Sicherheitsbeamten durchzuführen.
 
-2. The Head of Security is permitted to carry a standard disabler, a flash, a telescopic baton, a flashbang, and a standard energy gun.
-<Box>While permitted to carry their unique Energy Gun, they should keep it on Stun/Disable.</Box>
+2. Der Sicherheitschef darf einen Standard-Deaktivierer, einen Blitzer, einen Teleskopschlagstock, eine Blendgranate und eine Standard-Energiewaffe mit sich führen.
+<Box>Obwohl es ihm gestattet ist, seine einzigartige Energiewaffe zu tragen, sollte er sie auf **Betäuben/Deaktivieren** (Stun/Disable) eingestellt lassen.</Box>
 
-3. The Head of Security is permitted to carry their standard equipment provided in their locker, including their submachine gun, but should refrain from using it.
+3. Der Sicherheitschef darf seine in seinem Spind bereitgestellte Standardausrüstung, einschließlich seiner Maschinenpistole, mit sich führen, sollte jedoch auf deren Verwendung verzichten.
 
-4. The Head of Security is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes.
+4. Der Sicherheitschef ist nicht verpflichtet, ein Gerichtsverfahren durchzuführen, wird jedoch ermutigt, dem Verdächtigen rechtlichen Beistand zu gewähren, falls dieser darum bittet. Dies gilt nur für **Kapitalverbrechen (Capital Crimes)**.
 
-5. The Head of Security may not overrule a Captain/Nanotrasen Representative, unless their decisions are blatantly breaking Standard Operating Procedure and/or Space Law. In which case Central Command is to be contacted as well.
+5. Der Sicherheitschef darf einen Captain/Nanotrasen-Vertreter nicht überstimmen, es sei denn, deren Entscheidungen verstoßen eklatant gegen die **Standard Operating Procedure (SOP)** und/oder das **Weltraumgesetz (Space Law)**. In diesem Fall ist auch das Zentralkommando zu kontaktieren.
 
-6. The Head of Security must follow the same guidelines as the Warden for Armory equipment, portable flashers and deployable barriers.
+6. Der Sicherheitschef muss dieselben Richtlinien wie der Wärter für **Waffenkammerausrüstung**, **tragbare Blitzer** und **einsatzbereite Barrieren** befolgen.
 
-7. The Head of Security is not permitted to collect equipment from the Armory to carry on their person.
+7. Dem Sicherheitschef ist es nicht gestattet, Ausrüstung aus der Waffenkammer zu sammeln, um sie bei sich zu tragen.
 
-8. The Head of Security is permitted to either use their regular coat, or armored trenchcoat.
+8. Dem Sicherheitschef ist es gestattet, entweder seinen regulären Mantel oder seinen gepanzerten Trenchcoat zu tragen.
 
-9. The Head of Security is permitted to wear their unique gas mask.
+9. Dem Sicherheitschef ist es gestattet, seine einzigartige Gasmaske zu tragen.
 
-10. The Head of Security may not overrule established sentences, unless further evidence is brought to light or the prisoner in question attempts to escape.
+10. Der Sicherheitschef darf festgelegte Strafen nicht aufheben, es sei denn, es kommen weitere Beweise ans Licht oder der betreffende Gefangene versucht zu entkommen.
 
-11. The Head of Security must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+11. Der Sicherheitschef muss dieselben Richtlinien wie Sicherheitsbeamte für die Kleidung befolgen, mit der Ausnahme, dass auch seine eigene zugewiesene Kleidung für jede der für Sicherheitsbeamte genannten Kleidungsstücke akzeptabel ist.
 
-## Blue Alert
-1. All Guidelines carry over from [color=#388c34]Green Alert[/color].
-<Box>The exception being that the energy gun may now be used in energy or ion mode if needed.</Box>
+## Blauer Alarm (Blue Alert)
+1. Alle Richtlinien werden vom [color=#388c34]Grünen Alarm[/color] übernommen.
+<Box>Die Ausnahme ist, dass die Energiewaffe nun bei Bedarf im Energie- oder Ionen-Modus verwendet werden darf.</Box>
 
-2. The Head of Security is permitted to use the submachine gun lethally for self-defense purposes. They must follow the same escalation laws for hostiles.
+2. Dem Sicherheitschef ist es gestattet, die Maschinenpistole zur Selbstverteidigung tödlich einzusetzen. Er muss dieselben Eskalationsgesetze für feindliche Personen befolgen.
 
-## Red Alert
-1. All Guidelines carry over from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color].
+## Roter Alarm (Red Alert)
+1. Alle Richtlinien werden vom [color=#388c34]Grünen Alarm[/color] und [color=#1b67a5]Blauen Alarm[/color] übernommen.
 
-2. The Head of Security is required to make a Station Announcement regarding the nature of the confirmed threat that caused [color=#ba292c]Red Alert[/color].
-<Box>The Captain may perform this duty in the place of the Head of Security.</Box>
+2. Der Sicherheitschef ist verpflichtet, eine Stationsdurchsage bezüglich der Art der bestätigten Bedrohung zu machen, die zum [color=#ba292c]Roten Alarm[/color] geführt hat.
+<Box>Der Captain darf diese Pflicht anstelle des Sicherheitschefs wahrnehmen.</Box>
 
-3. The Head of Security may also wear their hardsuit if necessary.
+3. Der Sicherheitschef darf bei Bedarf auch seinen Hardsuit tragen.
 
 </Document>

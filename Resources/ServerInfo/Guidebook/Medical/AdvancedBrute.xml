@@ -6,30 +6,31 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  
-  # Specialized Brute Chemicals
 
-  Nanotrasen's greatest scientists have synthesized three more specific brute chemicals! Each one heals a specific damage subtype.
+  # Spezialisierte Wuchtchemikalien (Specialized Brute Chemicals)
 
-  <GuideReagentEmbed Reagent="Bruizine"/>
-  <GuideReagentEmbed Reagent="Puncturase"/>
-  <GuideReagentEmbed Reagent="Lacerinol"/>
+  Nanotrasens führende Wissenschaftler haben drei spezifische Wuchtchemikalien synthetisiert! Jede heilt einen bestimmten Schadenstyp (Damage Subtype).
+
+  <GuideReagentEmbed Reagent="Bruizine" Caption="Bruizin (Bruizine)"/>
+  <GuideReagentEmbed Reagent="Puncturase" Caption="Puncturas (Puncturase)"/>
+  <GuideReagentEmbed Reagent="Lacerinol" Caption="Lacerinol"/>
 
   # Razorium
 
-  [color=red]USE CAUTION[/color] when using the aforementioned specialized brute chemicals. Should one mix together with a different type of brute chemical, the resulting mixture will create a dangerous chemical known as Razorium!
-  <GuideReagentEmbed Reagent="Razorium"/>
-  To avoid this, make sure the patient is done metabolizing one brute medication before giving them another. Keep an eye on the rate their health is changing.
+  [color=red]VORSICHT[/color] bei der Verwendung der oben genannten spezialisierten Wuchtchemikalien. Wenn eine mit einer anderen Wuchtchemikalie gemischt wird, entsteht die gefährliche Chemikalie Razorium!
+  <GuideReagentEmbed Reagent="Razorium" Caption="Razorium"/>
+  Um dies zu vermeiden, stellen Sie sicher, dass der Patient eine Wuchtmedikation vollständig metabolisiert hat, bevor Sie eine andere verabreichen. Achten Sie auf die Rate, mit der sich die Gesundheit (Health) verändert.
 
-  [bold]Some examples of mixtures that create Razorium are as follows:[/bold]
+  [bold]Beispiele für Mischungen, die Razorium erzeugen, sind:[/bold]
 
-  Bicaridine and Puncturase
+  Bicaridin (Bicaridine) und Puncturas (Puncturase)
 
-  Puncturase and Lacerinol
+  Puncturas (Puncturase) und Lacerinol
 
-  Bruizine and Bicaridine
+  Bruizin (Bruizine) und Bicaridin (Bicaridine)
 
-  Lacerinol and Bruizine
+  Lacerinol und Bruizin (Bruizine)
 
-  Please note that [bold]any[/bold] combination of these 4 chemicals will likely mix and create Razorium! Be careful when creating these chemicals, as they contain Bicaridine. Any leftover Bicaridine will likely mix to create Razorium!
+  Beachten Sie, dass [bold]jede[/bold] Kombination dieser vier Chemikalien wahrscheinlich Razorium erzeugt! Seien Sie vorsichtig bei der Herstellung, da sie Bicaridin (Bicaridine) enthalten. Verbleibendes Bicaridin wird wahrscheinlich Razorium bilden!
+
 </Document>

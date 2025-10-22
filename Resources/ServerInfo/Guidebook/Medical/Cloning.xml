@@ -7,25 +7,26 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Cloning
-If all else fails, patients will need to be cloned. This should only be used as a last resort, if recovery is impossible. This is most often the case when the body has started to rot, or if they have excessive amounts of damage.
+# Klonen (Cloning)
+Wenn alles andere fehlschlägt, müssen Patienten geklont (Cloning) werden. Dies sollte nur als letzte Option genutzt werden, wenn eine Wiederherstellung unmöglich ist. Dies ist meist der Fall, wenn der Körper zu verwesen begonnen hat oder zu stark beschädigt ist.
 
-Cloning itself is relatively simple. (Assuming the network is set.) Just drag a body into the scanner, check the cloning console, and clone! If they've taken cellular damage, or have rotted for too long, the results can be... less than pleasant.
+Das Klonen (Cloning) selbst ist relativ einfach (vorausgesetzt, das Netzwerk ist eingerichtet). Ziehen Sie einen Körper in den Scanner, überprüfen Sie die Klonkonsole (Cloning Console) und klonen Sie! Bei Zelldamage (Cellular Damage) oder zu langem Verwesen können die Ergebnisse jedoch... unerfreulich sein.
 
-As a note: Cloning isn't always available, and it would be best not to rely on it. 
+Hinweis: Klonen (Cloning) ist nicht immer verfügbar, und es ist besser, sich nicht darauf zu verlassen.
 <Box>
-<GuideEntityEmbed Entity="ComputerCloningConsole" Caption="cloning console"/>
-<GuideEntityEmbed Entity="MedicalScanner"/>
-<GuideEntityEmbed Entity="CloningPod"/>
-<GuideEntityEmbed Entity="NetworkConfigurator"/>
+<GuideEntityEmbed Entity="ComputerCloningConsole" Caption="Klonkonsole (Cloning Console)"/>
+<GuideEntityEmbed Entity="MedicalScanner" Caption="Medizinischer Scanner (Medical Scanner)"/>
+<GuideEntityEmbed Entity="CloningPod" Caption="Klonröhre (Cloning Pod)"/>
+<GuideEntityEmbed Entity="NetworkConfigurator" Caption="Netzwerkkonfigurator (Network Configurator)"/>
 </Box>
-## Biomass
-Creating a clone requires biomass, which, gruesomely, involves recycling organic material. Be it crew members without a soul, station pets, or hostile creatures that have been 'taken care of', things can often be recycled.
 
-Dragging a body onto the biomass reclaimer (with your cursor) will mulch it for re-use. If it's a crew member, it's common practice to strip the body and return departmental gear before doing such.
+## Biomasse (Biomass)
+Das Erstellen eines Klons erfordert Biomasse (Biomass), die, so grausam es klingt, das Recycling organischen Materials beinhaltet. Dies können Besatzungsmitglieder (Crew Members) ohne Seele, Stationshaustiere (Station Pets) oder erledigte feindliche Kreaturen (Hostile Creatures) sein.
+
+Ziehen Sie einen Körper (mit Ihrem Cursor) auf den Biomasse-Reclaimer (Biomass Reclaimer), um ihn für die Wiederverwendung zu zerkleinern. Bei Besatzungsmitgliedern ist es üblich, den Körper zu entkleiden (Strip) und Abteilungsausrüstung (Departmental Gear) zurückzugeben, bevor dies geschieht.
 <Box>
-<GuideEntityEmbed Entity="BiomassReclaimer"/>
-<GuideEntityEmbed Entity="MaterialBiomass"/>
+<GuideEntityEmbed Entity="BiomassReclaimer" Caption="Biomasse-Reclaimer (Biomass Reclaimer)"/>
+<GuideEntityEmbed Entity="MaterialBiomass" Caption="Biomasse (Material Biomass)"/>
 </Box>
 
 </Document>

@@ -10,53 +10,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Station and Shifts
+# Station und Schichten (Station and Shifts)
 
-Every round of SS14 is a [bold]self-contained shift[/bold] that takes place on one of many different stations.
+Jede Runde von SS14 ist eine [bold]abgeschlossene Schicht (self-contained shift)[/bold], die auf einer von vielen verschiedenen Stationen stattfindet.
 
-Rounds typically last from [color=cyan]45 to 90 minutes[/color], but players are free to leave and join at any point during a round.
+Runden dauern typischerweise [color=cyan]45 bis 90 Minuten[/color], aber Spieler können die Runde jederzeit verlassen und ihr beitreten.
 
-## Shuttle Terminal
-If you join in the middle of a shift, you will likely spawn on the [color=lime]shuttle terminal[/color].
-Here you can grab drinks, converse with other players, and wait for the shuttle to take you to the station.
+## Shuttle-Terminal (Shuttle Terminal)
+Wenn ihr mitten in einer Schicht beitretet, werdet ihr wahrscheinlich am [color=lime]Shuttle-Terminal[/color] spawnen.
+Hier könnt ihr Getränke holen, euch mit anderen Spielern unterhalten und auf das Shuttle warten, das euch zur Station bringt.
 
-Screens on the walls will give you an ETA for the shuttle.
-When it arrives, simply walk on to be transported to the station.
+Bildschirme an den Wänden zeigen euch die **voraussichtliche Ankunftszeit (ETA)** des Shuttles an.
+Wenn es ankommt, lauft einfach hinein, um zur Station transportiert zu werden.
 
-Make sure to stay inside the terminal and to not stand in the shuttle landing zone. [color=#EB2D3A][bold]You can be crushed by shuttles flying in[/bold][/color]
+Stellt sicher, dass ihr im Terminal bleibt und nicht im **Shuttle-Landegebiet** steht. [color=#EB2D3A][bold]Ihr könnt von einfliegenden Shuttles zerquetscht werden[/bold][/color]
 
 ## Navigation
-Every station has a wide variety of locations to visit.
-These range from specific departments where work happens to common areas where you can relax and chat with others.
+Jede Station hat eine große Vielfalt an Orten zu besuchen.
+Diese reichen von spezifischen Abteilungen, in denen gearbeitet wird, bis hin zu Gemeinschaftsbereichen, in denen ihr euch entspannen und mit anderen chatten könnt.
 
 <Box>
-  <GuideEntityEmbed Entity="StationMap"/>
-  <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="Directional Signs"/>
-  <GuideEntityEmbed Entity="SignBridge" Caption="Marker Signs"/>
+  <GuideEntityEmbed Entity="StationMap"/>
+  <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="Richtungsschilder (Directional Signs)"/>
+  <GuideEntityEmbed Entity="SignBridge" Caption="Markierungsschilder (Marker Signs)"/>
 </Box>
 
-[color=cyan]Station maps[/color] give you an overview of the entire station with colored markers denoting locations of different things.
-Regular [color=cyan]signs[/color] on walls can point you to different departments.
+[color=cyan]Stationskarten (Station maps)[/color] geben euch einen Überblick über die gesamte Station mit farbigen Markierungen, die die Standorte verschiedener Dinge anzeigen.
+Reguläre [color=cyan]Schilder[/color] an Wänden können euch zu verschiedenen Abteilungen weisen.
 
-## Leaving the Station
-At the end of the shift [color=gray](barring a [color=red][bold]nuclear disaster[/bold][/color])[/color], you will leave the station via the [color=lime]evac shuttle[/color].
-When it's called, an announcement will play on the station alerting the crew and signaling its [color=cyan]arrival in 10 minutes.[/color]
-Once it arrives, you'll need to make your way over to it, board it, and then survive the trip to [bold]Central Command[/bold].
+## Die Station verlassen (Leaving the Station)
+Am Ende der Schicht [color=gray](abgesehen von einer [color=red][bold]nuklearen Katastrophe[/bold][/color])[/color] werdet ihr die Station über das [color=lime]Evakuierungsshuttle (evac shuttle)[/color] verlassen.
+Wenn es gerufen wird, wird eine Durchsage auf der Station abgespielt, die die Crew alarmiert und seine [color=cyan]Ankunft in 10 Minuten[/color] signalisiert.
+Sobald es ankommt, müsst ihr euch auf den Weg dorthin machen, einsteigen und dann die Reise zum [bold]Zentralkommando (Central Command)[/bold] überleben.
 
-The round doesn't officially end until you reach [bold]Central Command[/bold]
+Die Runde endet nicht offiziell, bevor ihr das [bold]Zentralkommando[/bold] erreicht.
 
 <Box>
-  <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
+  <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
 </Box>
 
-If you need to leave a round early, you can do so through a [color=lime]cryogenic sleep unit[/color].
-Simply going inside and leaving the game will store your belongings and ensure that they are not stolen or misused.
+Wenn ihr eine Runde frühzeitig verlassen müsst, könnt ihr dies über eine [color=lime]kryogene Schlafeinheit (cryogenic sleep unit)[/color] tun.
+Einfach hineinzugehen und das Spiel zu verlassen, speichert eure Habseligkeiten und stellt sicher, dass sie nicht gestohlen oder missbraucht werden.
 
-## More Info
-Learning the controls? [textlink="Click here to read about the different controls" link="Controls"]
+## Mehr Informationen
+Lernt ihr gerade die Steuerung? [textlink="Klickt hier, um mehr über die verschiedenen Steuerungen zu lesen" link="Controls"]
 
-Don't know how to perform a job? [textlink="Click here to jump to a list of departments" link="Jobs"]
+Wisst ihr nicht, wie ihr eine Arbeit ausführen sollt? [textlink="Klickt hier, um zu einer Liste der Abteilungen zu springen" link="Jobs"]
 
-Keep dying? [textlink="Click here to see a survival guide" link="Survival"]
+Sterbt ihr ständig? [textlink="Klickt hier, um einen Überlebensleitfaden einzusehen" link="Survival"]
 
 </Document>

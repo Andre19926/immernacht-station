@@ -6,41 +6,41 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Research Director (RD) SOP
-This is the list of procedures, responsibilities, and duties of the [color=#1b67a5][bold]Research Director[/bold][/color] of this station.
+# Forschungsdirektor (Research Director - RD) SOP
+Dies ist die Liste der Verfahren, Verantwortlichkeiten und Pflichten des [color=#1b67a5][bold]Forschungsdirektors[/bold][/color] dieser Station.
 
 <ColorBox>
-  <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
-  </Box>
+  <Box>
+    Für die Zwecke der Alarm-Eskalation: Behandelt höhere Alarme so, als wären sie immer noch auf dem vorherigen Alarmniveau. (Gelber Alarm ist Blauer Alarm, wenn er zuvor Blauer Alarm war.) Darüber hinaus sind Delta, Gamma, Epsilon und Violetter Alarm als Roter Alarm zu behandeln.
+  </Box>
 </ColorBox>
 
-## Green Alert
-1. The Research Director must make sure Research is being done, and monitor Anomalies and Artifacts progress, including Robotics as well.
+## Grüner Alarm (Green Alert)
+1. Der Forschungsdirektor muss sicherstellen, dass Forschung betrieben wird, und den Fortschritt von **Anomalien (Anomalies)** und **Artefakten (Artifacts)** überwachen, einschließlich der **Robotik (Robotics)**.
 
-2. The Research Director is permitted to carry a telescopic baton and flash.
+2. Dem Forschungsdirektor ist es gestattet, einen Teleskopschlagstock und einen Blitzer mit sich zu führen.
 
-3. The Research Director is not permitted to bring harmful chemicals outside of Science.
+3. Dem Forschungsdirektor ist es nicht gestattet, schädliche Chemikalien außerhalb der **Wissenschaft** mitzunehmen.
 
-4. The Research Director is permitted to carry/wear their Experimental Hardsuit on them, but should keep it inactive unless necessary, for personal safety.
+4. Dem Forschungsdirektor ist es gestattet, seinen **Experimentellen Hardsuit** zu tragen, sollte ihn jedoch, falls nicht notwendig, zur persönlichen Sicherheit inaktiv lassen.
 
-5. The Research Director is permitted to change the AI Unit's lawset, provided they receive general approval from the Captain and another Head of Staff.
-<Box>If there are no other Heads of Staff available, Captain approval will suffice.</Box>
+5. Dem Forschungsdirektor ist es gestattet, den **Gesetzesrahmen (lawset)** der **KI-Einheit (AI Unit)** zu ändern, vorausgesetzt, er erhält die allgemeine Genehmigung vom **Captain** und einem weiteren **Abteilungsleiter (Head of Staff)**.
+<Box>Wenn keine anderen Abteilungsleiter verfügbar sind, reicht die Genehmigung des Captains aus.</Box>
 
-6. The Research Director must ensure the cyborg computer is kept safe and used appropriately, avoiding any unnecessary damage to crew or NanoTrasen property.
+6. Der Forschungsdirektor muss sicherstellen, dass der **Cyborg-Computer** sicher aufbewahrt und angemessen genutzt wird, um unnötigen Schaden an der Crew oder dem Eigentum von NanoTrasen zu vermeiden.
 
-## Blue Alert
-1. All guidelines from [color=#388c34]Green Alert[/color] carry over to [color=#1b67a5]Blue Alert[/color]. No special guidelines added.
+## Blauer Alarm (Blue Alert)
+1. Alle Richtlinien vom [color=#388c34]Grünen Alarm[/color] werden auf den [color=#1b67a5]Blauen Alarm[/color] übertragen. Es werden keine speziellen Richtlinien hinzugefügt.
 
-## Red Alert
-1. Guidelines 1, 4, 5, and 6 carry over from [color=#388c34]Green Alert[/color].
+## Roter Alarm (Red Alert)
+1. Die Richtlinien 1, 4, 5 und 6 werden vom [color=#388c34]Grünen Alarm[/color] übernommen.
 
-2. In addition to the telescopic baton and flash, the Research Director is permitted to carry a single weapon created in the Protolathe, with permission from Captain, Head of Security, and/or Warden.
-<Box>Exceptions apply for extreme emergencies, permitting the use without approval, for cases such as Blobs, Nuclear Operatives, and/or Delta Alert.</Box>
+2. Zusätzlich zum **Teleskopschlagstock** und **Blitzer** ist es dem Forschungsdirektor gestattet, eine einzelne Waffe mit sich zu führen, die in der **Protolathe** hergestellt wurde, mit Genehmigung des **Captain**, des **Sicherheitschefs (Head of Security)** und/oder des **Wärters (Warden)**.
+<Box>Ausnahmen gelten für extreme Notfälle, die die Verwendung ohne Genehmigung erlauben, wie zum Beispiel bei Blobs, Nuklear-Agenten (Nuclear Operatives) und/oder Delta-Alarm.</Box>
 
-3. The Research Director is permitted to bring harmful chemicals outside of Security so long as it is for Security personnel.
-<Box>Said chemicals must be for security-oriented purposes, such as thermite, controlled explosives, crowd control, biohazard containment, et cetera.</Box>
+3. Dem Forschungsdirektor ist es gestattet, schädliche Chemikalien außerhalb der Sicherheit mitzunehmen, solange dies für das **Sicherheitspersonal** bestimmt ist.
+<Box>Die besagten Chemikalien müssen für sicherheitsorientierte Zwecke bestimmt sein, wie z.B. **Thermit, kontrollierte Sprengstoffe, Massenkontrolle, Biohazard-Eindämmung** usw.</Box>
 
-4. The Research Director should ensure that AI and Cyborgs are to remain under control of crew personnel (not corrupted) to the best of their ability.
+4. Der Forschungsdirektor sollte sicherstellen, dass **KI und Cyborgs** nach besten Kräften unter der Kontrolle des Crewpersonals bleiben (nicht korrumpiert werden).
 
 </Document>

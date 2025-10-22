@@ -6,53 +6,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Organ Manipulation
-These surgeries allow you to remove or replace organs from a patient for healthy ones. Which can help treat conditions on their bodies.
+# Organmanipulation (Organ Manipulation)
+Diese Operationen ermöglichen es euch, Organe von einem Patienten zu entfernen oder durch gesunde zu ersetzen. Dies kann helfen, Zustände ihres Körpers zu behandeln.
 
-## Anatomy
-Normally a body has the following organs:
-
-<Box>
-<GuideEntityEmbed Entity="OrganHumanBrain" Caption="brain"/>
-<GuideEntityEmbed Entity="OrganHumanEyes" Caption="eyes"/>
-<GuideEntityEmbed Entity="OrganHumanHeart" Caption="heart"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="OrganHumanKidneys" Caption="kidneys"/>
-<GuideEntityEmbed Entity="OrganHumanLiver" Caption="liver"/>
-<GuideEntityEmbed Entity="OrganHumanLungs" Caption="lungs"/>
-<GuideEntityEmbed Entity="OrganHumanStomach" Caption="stomach"/>
-</Box>
-
-Certain species might have more or less organs, such as Diona having a combined organ that serves multiple functions, but this is the rough outline of what you'll see.
-To remove an organ, you'll need to apply the respective Organ Removal surgery on it, which will then remove it without harming the patient.
-
-However if you want to transplant an organ, you'll need to apply the respective Organ Transplant surgery where it originally was.
-
-## What does each organ transplant do?
-
-- Transplanting a [color=#a4885c]brain[/color] will allow the patient to take over another body. An excellent alternative to cloning if you can afford to spare another body.
-- Transplanting a [color=#a4885c]liver[/color] will cure severe poisoning from a patient's body.
-- Transplanting [color=#a4885c]lungs[/color] will help cure patients from severe asphyxiation.
-- Transplanting a [color=#a4885c]heart[/color] will cure a patient's body of rot and decay.
-- Transplanting [color=#a4885c]eyes[/color] will allow the patient to see again, and heal any eye damage.
-
-## Where do I get more organs?
-
-Normally when your patients come in needing new organs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic organs for all species.
+## Anatomie (Anatomy)
+Normalerweise hat ein Körper die folgenden Organe:
 
 <Box>
-<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
-<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="biofabricator board"/>
-<GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
+<GuideEntityEmbed Entity="OrganHumanBrain" Caption="Gehirn (brain)"/>
+<GuideEntityEmbed Entity="OrganHumanEyes" Caption="Augen (eyes)"/>
+<GuideEntityEmbed Entity="OrganHumanHeart" Caption="Herz (heart)"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="OrganHumanKidneys" Caption="Nieren (kidneys)"/>
+<GuideEntityEmbed Entity="OrganHumanLiver" Caption="Leber (liver)"/>
+<GuideEntityEmbed Entity="OrganHumanLungs" Caption="Lungen (lungs)"/>
+<GuideEntityEmbed Entity="OrganHumanStomach" Caption="Magen (stomach)"/>
 </Box>
 
-By default, every Chief Medical Officer has access to a Medical Biofabricator board in their locker.
+Bestimmte Spezies haben möglicherweise mehr oder weniger Organe, wie zum Beispiel die Diona, die ein kombiniertes Organ mit mehreren Funktionen hat, aber dies ist die grobe Übersicht dessen, was ihr sehen werdet.
+Um ein Organ zu entfernen, müsst ihr die entsprechende **Organentfernungs-Operation (Organ Removal surgery)** darauf anwenden, wodurch es entfernt wird, ohne den Patienten zu schädigen.
 
-## Why didn't the organ transplant
-## do anything?
+Wenn ihr jedoch ein Organ **transplantieren** möchtet, müsst ihr die entsprechende **Organtransplantations-Operation (Organ Transplant surgery)** an der Stelle anwenden, an der es ursprünglich war.
 
-Your patient's body rejected the organ as it is in a bad shape, try using a fresh organ from a donor, or getting a new one from the Medical Biofabricator.
+## Was bewirkt jede Organtransplantation?
+
+- Das Transplantieren eines [color=#a4885c]Gehirns[/color] ermöglicht es dem Patienten, einen anderen Körper zu übernehmen. Eine ausgezeichnete Alternative zum Klonen, wenn ihr euch einen anderen Körper leisten könnt.
+- Das Transplantieren einer [color=#a4885c]Leber[/color] heilt schwere Vergiftungen im Körper eines Patienten.
+- Das Transplantieren von [color=#a4885c]Lungen[/color] hilft, Patienten von schwerer Erstickung zu heilen.
+- Das Transplantieren eines [color=#a4885c]Herzens[/color] heilt den Körper eines Patienten von Fäulnis und Verfall.
+- Das Transplantieren von [color=#a4885c]Augen[/color] ermöglicht es dem Patienten, wieder zu sehen, und heilt jegliche Augenschäden.
+
+## Woher bekomme ich mehr Organe?
+
+Wenn eure Patienten mit der Notwendigkeit neuer Organe kommen, benötigen sie normalerweise ein neues, da ihre alten entweder fehlen oder irreparabel beschädigt sind.
+Dafür könnt ihr den **Medizinischen Biofabrikator (Medical Biofabricator)** mit etwas **Biomasse** verwenden. Dieser kann **biosynthetische Organe** für alle Spezies herstellen.
+
+<Box>
+<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medizinischer Biofabrikator"/>
+<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="Biofabrikator-Platine"/>
+<GuideEntityEmbed Entity="MaterialBiomass" Caption="Biomasse"/>
+</Box>
+
+Standardmäßig hat jeder **Leitende Medizinische Offizier (Chief Medical Officer)** Zugang zu einer **Medizinischen Biofabrikator-Platine** in seinem Spind.
+
+## Warum hat die Organtransplantation
+## nichts bewirkt?
+
+Der Körper eures Patienten hat das Organ abgestoßen, da es in einem schlechten Zustand war. Versucht, ein **frisches Organ von einem Spender** zu verwenden oder ein neues vom **Medizinischen Biofabrikator** zu besorgen.
 
 </Document>

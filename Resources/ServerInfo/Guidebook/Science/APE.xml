@@ -11,21 +11,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
 # A.P.E.
 
-The Anomalous Particle Emitter is a machine used to interface with anomalies. It is the primary way of manipulating the stats of an anomaly.
+Der Anomale Partikelemitter (Anomalous Particle Emitter, A.P.E.) ist eine Maschine, die verwendet wird, um mit Anomalien zu interagieren. Er ist die Hauptmethode, um die Eigenschaften einer Anomalie zu manipulieren.
 
 <Box>
-<GuideEntityEmbed Entity="MachineAPE"/>
+<GuideEntityEmbed Entity="MachineAPE" Caption="Anomale Partikelemitter (Machine APE)"/>
 </Box>
 
-The A.P.E. can shoot four different kinds of anomalous particles: Delta, Epsilon, Sigma and Zeta. Each particle type has certain effects:
+Der A.P.E. kann vier verschiedene Arten von anomalen Partikeln abfeuern: Delta, Epsilon, Sigma und Zeta. Jeder Partikeltyp hat bestimmte Effekte:
 
-- [color=crimson]Danger:[/color] Increases the severity of an anomaly.
-- [color=plum]Unstable:[/color] Increases the instability of an anomaly.
-- [color=goldenrod]Containment:[/color] Increases anomaly stability at the cost of its health - if an anomaly is struck by too many containment particles, it will collapse, leaving behind an anomaly core.
-- [color=#6b75fa]Transformation:[/color] Increases anomaly severity with a chance of changing its behavior.
+- [color=crimson]Gefahr (Danger):[/color] Erhöht die Schwere (Severity) einer Anomalie.
+- [color=plum]Instabil (Unstable):[/color] Erhöht die Instabilität (Instability) einer Anomalie.
+- [color=goldenrod]Eindämmung (Containment):[/color] Erhöht die Stabilität (Stability) einer Anomalie auf Kosten ihrer Gesundheit (Health) – wenn eine Anomalie von zu vielen Eindämmungspartikeln (Containment Particles) getroffen wird, kollabiert sie und hinterlässt einen Anomaliekern (Anomaly Core).
+- [color=#6b75fa]Transformation:[/color] Erhöht die Schwere (Severity) einer Anomalie mit der Chance, ihr Verhalten zu verändern.
 
-Which particle type corresponds to each effect is unique and can be learned by scanning the anomaly.
+Welcher Partikeltyp welchem Effekt entspricht, ist einzigartig und kann durch das Scannen der Anomalie herausgefunden werden.
 
-The A.P.E. can also be locked by anyone with science access, which prevents it from being deconstructed, turned on or off, or having the particle type switched.
+Der A.P.E. kann auch von jedem mit Zugang zur Wissenschaft (Science Access) gesperrt werden, was verhindert, dass er dekonstruiert, ein- oder ausgeschaltet oder der Partikeltyp gewechselt wird.
 
 </Document>

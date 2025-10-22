@@ -7,22 +7,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Technologies
+# Technologien (Technologies)
 
-All technologies have a cost and a tier requirement in order to be researched. Unlocking them adds a variety of recipes that can be printed at various lathes.
+Alle Technologien (Technologies) haben Kosten und eine Stufenanforderung (Tier Requirement), um erforscht zu werden. Das Freischalten fügt eine Vielzahl von Rezepten hinzu, die an verschiedenen Drehbänken (Lathes) gedruckt werden können.
 
-The different technologies and their respective discipline are listed below.
+Die verschiedenen Technologien und ihre jeweilige Disziplin sind unten aufgelistet.
 
-## Industrial
+## Industriell (Industrial)
 <GuideTechDisciplineEmbed Discipline="Industrial"/>
 
-## Arsenal
+## Arsenal (Arsenal)
 <GuideTechDisciplineEmbed Discipline="Arsenal"/>
 
-## Experimental
+## Experimentell (Experimental)
 <GuideTechDisciplineEmbed Discipline="Experimental"/>
 
-## Civilian Services
+## Zivile Dienstleistungen (Civilian Services)
 <GuideTechDisciplineEmbed Discipline="CivilianServices"/>
 
 </Document>

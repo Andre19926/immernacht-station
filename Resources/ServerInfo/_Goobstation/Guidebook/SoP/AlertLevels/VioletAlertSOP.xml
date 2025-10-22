@@ -6,40 +6,40 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Violet
+  # Stationsalarm - Violett
 
   <Box>
-    [italic]Called by: A viral threat aboard the station.[/italic]
+    [italic]Ausgerufen von: Einer viralen Bedrohung an Bord der Station.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Bedingungen:[/bold]
 
-  There is a known viral threat aboard the station, and all hands on deck are required to combat it.
+  Es gibt eine bekannte virale Bedrohung an Bord der Station, und alle Mann an Deck sind erforderlich, um sie zu bekämpfen.
 
-  [bold]Security:[/bold]
+  [bold]Sicherheit:[/bold]
 
-  Security should fully arm themselves, and at their discretion may also hand out arms to trusted crewmembers and Command.
+  Die Sicherheit sollte sich vollständig bewaffnen und darf nach eigenem Ermessen auch Waffen an vertrauenswürdige Crewmitglieder und das Führungspersonal (Command) aushändigen.
 
-  Security personnel are to prioritize the safety of themselves and Command, and crewmembers as the next-highest priority.
+  Sicherheitspersonal hat die Sicherheit von sich selbst und dem Führungspersonal als höchste Priorität zu behandeln, Crewmitglieder als nächsthöchste Priorität.
 
-  Security personnel should distance themselves from others in order to avoid the spread of unknown pathogens.
+  Sicherheitspersonal sollte Abstand zu anderen halten, um die Ausbreitung unbekannter Krankheitserreger zu vermeiden.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Sichere Bereiche:[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  EVA-Lager, Technik-Lager, Gravitationsgenerator, Gesichertes Ingenieurslager, KI-Upload, Tresorraum, Gateway, jeder andere Ort, der Zugriff auf Kommandoebene erfordert und nicht regelmäßig genutzt wird.
 
-  It is recommended that all Secure Areas be bolted down unless their use is necessary;
+  Es wird empfohlen, dass alle Sicheren Bereiche verriegelt werden, es sei denn, ihre Nutzung ist notwendig;
 
-  The Gateway should be fully closed to avoid off-station spread of the virus.
+  Das Gateway sollte vollständig geschlossen werden, um eine Ausbreitung des Virus außerhalb der Station zu verhindern.
 
-  [bold]General Crew:[/bold]
+  [bold]Allgemeine Crew:[/bold]
 
-  All personnel are required to maximize their Suit Sensors;
+  Alles Personal ist verpflichtet, seine Anzugsensoren zu maximieren;
 
-  Personnel are to distance themselves from other personnel where infection or carrier status is suspected.
+  Personal soll Abstand zu anderem Personal halten, bei dem eine Infektion oder der Trägerstatus vermutet wird.
 
-  Personnel must exercise caution at all times. Following simple safety procedures (such as not going through Maintenance alone) can prevent needless accidents.
+  Personal muss jederzeit Vorsicht walten lassen. Das Befolgen einfacher Sicherheitsverfahren (wie z. B. nicht allein durch die Wartungsschächte zu gehen) kann unnötige Unfälle verhindern.
 
-  Personnel are advised to secure a secluded location to ride out the viral threat in. Stock as much food and water as is possible.
+  Dem Personal wird geraten, einen abgelegenen Ort zu sichern, um die virale Bedrohung auszusitzen. Lagert so viel Nahrung und Wasser wie möglich ein.
 
 </Document>
