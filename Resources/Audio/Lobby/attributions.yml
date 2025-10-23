@@ -249,3 +249,18 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "The Future Soon by Jonathan Coulton"
   source: "https://www.youtube.com/watch?v=l5PEz3kGbp4"
+
+- files: ["computerliebe.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Paso Doble - Computerliebe"
+  source: "https://soundcloud.com/pasodoble-music/paso-doble-computerliebe"
+
+- files: ["majortom.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Peter Schilling - Major Tom"
+  source: "https://www.youtube.com/watch?v=LsVQEMWs6qE"
+
+- files: ["engel07.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Hubert Kah - Engel 07"
+  source: "https://www.youtube.com/watch?v=bfXiObdgflk"
