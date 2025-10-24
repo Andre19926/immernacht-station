@@ -264,3 +264,18 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "Hubert Kah - Engel 07"
   source: "https://www.youtube.com/watch?v=bfXiObdgflk"
+
+- files: ["preussen.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Luftwaffen-Musikkorps - Preussens Gloria"
+  source: "https://www.youtube.com/watch?v=-TEGPelS3Ac"
+
+- files: ["arbeitervonwien.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Erich-Weinert-Ensemble - Arbeiter von Wien"
+  source: "https://www.youtube.com/watch?v=P0lb4zgFySI"
+
+- files: ["nextstop.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Dirk Dehler - Next Stop Planet Earth"
+  source: "https://freemusicarchive.org/music/dirk-dehler/single/next-stop-planet-earth/"
