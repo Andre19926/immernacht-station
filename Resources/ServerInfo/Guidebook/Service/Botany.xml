@@ -12,13 +12,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 # Botanik (Botany)
-Als Botaniker ist es eure Aufgabe, genug Nahrung anzubauen, um den Koch davon abzuhalten, nach "alternativen Quellen" zu suchen. Baut viel Weizen an, und wenn ihr dessen überdrüssig werdet, baut Gras (Weed) an. Macht Weed-Smoothies und **spiked** Drinks mit Brennnesseln. Baut einfach weiter Pflanzen an, und ihr werdet großartig sein!
+Als Botaniker ist es eure Aufgabe, genug Nahrung anzubauen, um den Koch davon abzuhalten, nach "alternativen Quellen" zu suchen. Baut viel Weizen an, und wenn ihr dessen überdrüssig werdet, baut Gras (Weed) an. Macht Weed-Smoothies und spiked Drinks mit Brennnesseln. Baut einfach weiter Pflanzen an, und ihr werdet großartig sein!
 
 ## Beginn eurer Schicht (Starting your shift)
-Identifiziert zuerst die Maschinen um euch herum, die ihr verwenden werdet. Koordiniert euch mit dem **Koch (Chef)**, um zu sehen, ob dieser etwas Spezifisches angebaut haben möchte, andernfalls baut Weizen, Bananen und alles andere an, wonach euch ist. Ihr könnt auch Pflanzen für die **Chemie (Medbay)**, den **Barkeeper** oder zum Verkauf durch die **Frachtabteilung (Cargo)** anbauen.
+Identifiziert zuerst die Maschinen um euch herum, die ihr verwenden werdet. Koordiniert euch mit dem Koch (Chef), um zu sehen, ob dieser etwas Spezifisches angebaut haben möchte, andernfalls baut Weizen, Bananen und alles andere an, wonach euch ist. Ihr könnt auch Pflanzen für die Chemie (Medbay), den Barkeeper oder zum Verkauf durch die Frachtabteilung (Cargo) anbauen.
 
 # Werkzeuge (Tools)
-Es gibt viele Werkzeuge, die verwendet werden können, um eure Pflanzen gesund zu halten und zu züchten. Die **Hydroponik-Schale (Hydroponics Tray)** ist der Ort, an dem ihr die meiste Zeit als Botaniker verbringen werdet.
+Es gibt viele Werkzeuge, die verwendet werden können, um eure Pflanzen gesund zu halten und zu züchten. Die Hydroponik-Schale (Hydroponics Tray) ist der Ort, an dem ihr die meiste Zeit als Botaniker verbringen werdet.
 
 ## Hydroponik-Schale (Hydroponics Tray)
 <Box>
@@ -27,10 +27,10 @@ Es gibt viele Werkzeuge, die verwendet werden können, um eure Pflanzen gesund z
 Es ist eine Hydroponik-Schale, die Pflanzen mit Wasser wachsen lässt. Füllt zuerst die Schale mit Wasser, dann fügt Samen hinzu.
 Die Lichter der Hydroponik-Schale zeigen je nach Farbe und Position unterschiedliche Dinge an:
 - [color=red]Rotes Licht, Links[/color]: Tote Pflanze, die neu gepflanzt werden muss. Verwendet einen Spaten, um die Pflanze zu entfernen.
-- [color=orange]Blinkendes orangefarbenes Licht, Mitte[/color]: Die Umgebung ist suboptimal. Überprüft, was die Pflanze beeinträchtigt, indem ihr mit **Shift + Klick** darauf klickt. Es handelt sich wahrscheinlich um **Unkraut**, es könnte aber auch unerwünschter Druck oder Sauerstoffmangel sein. Wenn es Unkraut ist, verwendet eine Mini-Hacke oder sprüht 1 Mal mit Unkrautspray. Seid jedoch gewarnt, dass **übermäßiger Gebrauch von Unkrautvernichtern zu ungesunden Pflanzen führen** und diese möglicherweise töten kann.
+- [color=orange]Blinkendes orangefarbenes Licht, Mitte[/color]: Die Umgebung ist suboptimal. Überprüft, was die Pflanze beeinträchtigt, indem ihr mit Shift + Klick darauf klickt. Es handelt sich wahrscheinlich um Unkraut, es könnte aber auch unerwünschter Druck oder Sauerstoffmangel sein. Wenn es Unkraut ist, verwendet eine Mini-Hacke oder sprüht 1 Mal mit Unkrautspray. Seid jedoch gewarnt, dass übermäßiger Gebrauch von Unkrautvernichtern zu ungesunden Pflanzen führen und diese möglicherweise töten kann.
 - [color=#0336ff]Blaues Licht, Rechts[/color]: Benötigt Wasser. Verwendet den Eimer am Wassertank und füllt die Schale.
-- [color=green]Grünes Licht, Links[/color]: **Bereit zur Ernte**. Linksklick zum Ernten.
-- [color=yellow]Gelbes Licht, Rechts[/color]: Benötigt Nährstoffe. Gebt eine beliebige Frucht in die Erde oder holt **EZ-Nährstoffe** aus der **Chemie**.
+- [color=green]Grünes Licht, Links[/color]: Bereit zur Ernte. Linksklick zum Ernten.
+- [color=yellow]Gelbes Licht, Rechts[/color]: Benötigt Nährstoffe. Gebt eine beliebige Frucht in die Erde oder holt EZ-Nährstoffe aus der Chemie.
 
 Der Lebenszyklus einer Hydroponik-Schale ist der folgende:
 - [color=lightgreen]Leer (Empty)[/color]: kein Wasser, Samen oder Nährstoffe
@@ -40,7 +40,7 @@ Der Lebenszyklus einer Hydroponik-Schale ist der folgende:
 - [color=lightgreen]Bereit zur Ernte (Ready for Harvest)[/color]: ihr habt gewartet, bis die Pflanze gewachsen ist
 - [color=lightgreen]Beprobt (Sampled)[/color]: ihr habt eine Probe (Samen) entnommen
 - [color=lightgreen]Geerntet (Harvested)[/color]: ihr habt fertige Pflanzen gepflückt. Einige Pflanzen wachsen dann wieder nach. Andere sterben ab und müssen neu gepflanzt werden.
-- [color=lightgreen]Ungesund (Unhealthy)[/color]: Ihr habt zu viele Samen entnommen oder sie mit tödlichen Chemikalien besprüht. Die Pflanze kommt nicht gut zurecht. Sie wird weiterwachsen. Die Gesundheit kann durch Dünger wiederhergestellt werden oder ihr könnt eure Verluste minimieren, indem ihr einen Samen entnehmt (**Pflanzenschneider**) und neu pflanzt.
+- [color=lightgreen]Ungesund (Unhealthy)[/color]: Ihr habt zu viele Samen entnommen oder sie mit tödlichen Chemikalien besprüht. Die Pflanze kommt nicht gut zurecht. Sie wird weiterwachsen. Die Gesundheit kann durch Dünger wiederhergestellt werden oder ihr könnt eure Verluste minimieren, indem ihr einen Samen entnehmt (Pflanzenschneider) und neu pflanzt.
 - [color=lightgreen]Alt / Verwelkt (Old / Wilted)[/color]: die Pflanze ist ausgewachsen und wird bald sterben. Sie ist immer noch erntefähig und ihr könnt Samen entnehmen, aber nur für kurze Zeit. Entnehmt den Samen und pflückt/hackt sie dann heraus.
 - [color=lightgreen]Tot (Dead)[/color]: die Pflanze wurde geerntet und hat aufgehört zu wachsen. Sie sollte herausgepflückt/gehackt werden. Es können keine Samen mehr entnommen werden.
 
@@ -71,14 +71,14 @@ Ihr könnt den Phänotyp einer Pflanze bestimmen, indem ihr sie einfach anbaut u
 ## Mutationen (Mutations)
 Pflanzen, die mit [color=cyan]instabilem Mutagen (unstable mutagen)[/color] behandelt werden, erleben zufällige genetische Mutationen, die ihre Gene verändern und zu Änderungen ihrer Merkmale führen können. Ihr könnt die Pflanzen mit den gewünschten Mutationen retten, indem ihr ihre Samen erntet.
 
-Je mehr **instabiles Mutagen** ihr verwendet, desto mehr Mutationen werdet ihr erhalten. Da viele Gene für das Überleben einer Pflanze lebenswichtig sind, werden die meisten Mutationen dazu führen, dass eine Pflanze stirbt.
+Je mehr instabiles Mutagen ihr verwendet, desto mehr Mutationen werdet ihr erhalten. Da viele Gene für das Überleben einer Pflanze lebenswichtig sind, werden die meisten Mutationen dazu führen, dass eine Pflanze stirbt.
 
 <Box>
 <GuideEntityEmbed Entity="ChemistryBottleUnstableMutagen"/>
 </Box>
 
 ## Kreuzbestäubung (Cross-Pollination)
-Ihr könnt ein [color=cyan]steriles Wattestäbchen (sterile swab)[/color] verwenden, um Pollen von einer Pflanze auf eine andere zu übertragen. Pflanzen, die **kreuzbestäubt** werden, haben eine Chance, Merkmale zu übertragen. Seid vorsichtig beim Wiederverwenden von Wattestäbchen; Pollen ist klebrig!
+Ihr könnt ein [color=cyan]steriles Wattestäbchen (sterile swab)[/color] verwenden, um Pollen von einer Pflanze auf eine andere zu übertragen. Pflanzen, die kreuzbestäubt werden, haben eine Chance, Merkmale zu übertragen. Seid vorsichtig beim Wiederverwenden von Wattestäbchen; Pollen ist klebrig!
 
 <Box>
 <GuideEntityEmbed Entity="BoxMouthSwab"/>

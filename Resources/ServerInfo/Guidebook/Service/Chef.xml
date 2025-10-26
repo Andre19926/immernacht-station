@@ -37,9 +37,9 @@ Zuallererst müsst ihr euch mit der Küche und den euch zur Verfügung stehenden
 Es ist schwer in Worte zu fassen, wie man Koch spielt, ohne dass es sich anfühlt, als würde man Befehle bekommen, aber hier sind ein paar Grundlagen.
 
 - Überprüft, welche Zutaten ihr zur Hand habt. Die meisten Küchen haben etwas Mehl, Reis, Eier, Affen-Würfel (Monkey Cubes) und ein paar andere Dinge, um loszulegen.
-- Versucht euch daran, etwas **Teig** anzurühren, indem ihr Wasser und Mehl in einem Becherglas mischt. (Verwendet die Spüle!)
+- Versucht euch daran, etwas Teig anzurühren, indem ihr Wasser und Mehl in einem Becherglas mischt. (Verwendet die Spüle!)
 - Überprüft das Wiki-Handbuch (oder die Lebensmittelrezepte) auf Dinge, die ihr machen könnt, und gebt alle aufgelisteten Zutaten in eine Mikrowelle, um daraus eine Mahlzeit zu kochen.
-- Stellt **Mausefallen** auf. Ja, wirklich. Eure ganze harte Arbeit könnte leicht verschwinden, wenn ihr keine Vorkehrungen gegen Mäusebefall trefft.
+- Stellt Mausefallen auf. Ja, wirklich. Eure ganze harte Arbeit könnte leicht verschwinden, wenn ihr keine Vorkehrungen gegen Mäusebefall trefft.
 
 Sobald ihr etwas erfahrener seid und wisst, was ihr machen könnt, ist es vielleicht am besten, ein paar Menüs oder einen "Spickzettel" zusammenzustellen, damit ihr der Botanik (Botany) eine Liste der benötigten Zutaten geben könnt.
 
@@ -52,7 +52,7 @@ Gebt Mehl und Wasser in ein Becherglas. (Verwendet die Spüle für Wasser!)
 <GuideEntityEmbed Entity="FoodDough"/>
 </Box>
 ## Mehl herstellen (Making Flour):
-Legt Weizen in einen **Grinder** (mit einem Becherglas im Inneren) und mahlt ihn!
+Legt Weizen in einen Grinder (mit einem Becherglas im Inneren) und mahlt ihn!
 <Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
@@ -76,7 +76,7 @@ Alt-Klickt auf eine Kuh mit einem Behälter in der Hand. (Bechergläser, Eimer, 
 ## Wie man schlachtet (How to Butcher):
 In den meisten Fällen solltet ihr in der Lage sein, ein Messer direkt auf eine tote Kreatur anzuwenden. Es ist am besten, dies im Gefrierschrank zu tun, da die Ergebnisse... unordentlich sind.
 
-**Affen** (und andere Humanoide) müssen jedoch auf einen **Fleischspieß (meatspike)** gezogen werden, um geschlachtet zu werden.
+Affen (und andere Humanoide) müssen jedoch auf einen Fleischspieß (meatspike) gezogen werden, um geschlachtet zu werden.
 <Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>

@@ -16,25 +16,25 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Es ist im Allgemeinen klug, Situationen zu vermeiden, die euch Schaden zufügen, da die Sanitätsabteilung euch nur begrenzt mit Chemikalien und medizinischen Gegenständen heilen kann, besonders wenn nukleare Agenten vor eurer Tür stehen.
 
 ## Eure Situation erkennen (Identifying your situation)
-Euer PDA enthält sowohl einen **Schiffsnamen (vessel name)** als auch eine Liste der derzeit aktiven Crewmitglieder auf eurem Schiff, eine Erinnerung an euren Namen, falls nötig, und euren zugewiesenen Job für die Schicht, was euch ermöglicht, die Situation schnell einzuschätzen.
+Euer PDA enthält sowohl einen Schiffsnamen (vessel name) als auch eine Liste der derzeit aktiven Crewmitglieder auf eurem Schiff, eine Erinnerung an euren Namen, falls nötig, und euren zugewiesenen Job für die Schicht, was euch ermöglicht, die Situation schnell einzuschätzen.
 
 ## Notfallbehandlung (Emergency Treatment)
 Im Falle eines ernsten Notfalls gibt es ein paar Dinge, die ihr tun könnt, um euer langfristiges Überleben zu sichern, darunter:
-- Wenn ihr in einen **kritischen Zustand** geratet, verwendet den **Notfall-Medipen (emergency medipen)** aus eurer Notfallbox. Er stellt sicher, dass ihr nicht handlungsunfähig werdet. Notfall-Medipens können auch verwendet werden, um Personen, die sich gerade im kritischen Zustand auf dem Boden befinden, **wiederzubeleben** und die Zeit zu verlängern, die ihr habt, um mit Giften/usw. umzugehen.
+- Wenn ihr in einen kritischen Zustand geratet, verwendet den Notfall-Medipen (emergency medipen) aus eurer Notfallbox. Er stellt sicher, dass ihr nicht handlungsunfähig werdet. Notfall-Medipens können auch verwendet werden, um Personen, die sich gerade im kritischen Zustand auf dem Boden befinden, wiederzubeleben und die Zeit zu verlängern, die ihr habt, um mit Giften/usw. umzugehen.
 
 <Box>
   <GuideEntityEmbed Entity="EmergencyMedipen"/>
   <GuideEntityEmbed Entity="SpaceMedipen"/>
 </Box>
 
-- Eure Notfallbox enthält eine **Atemmaske** und einen **Sauerstofftank**, die euch helfen können, in einer **Weltraumsituation (spacing situation)** länger zu überleben. Wenn ihr zu den **Schleimmenschen (slimepeople)** gehört, beachtet, dass Stickstoff bei euch Sauerstoff ersetzt und eure Notfallbox mit einem roten Stickstofftank anstelle des standardmäßigen blau/gelben Sauerstofftanks beginnt.
+- Eure Notfallbox enthält eine Atemmaske und einen Sauerstofftank, die euch helfen können, in einer Weltraumsituation (spacing situation) länger zu überleben. Wenn ihr zu den Schleimmenschen (slimepeople) gehört, beachtet, dass Stickstoff bei euch Sauerstoff ersetzt und eure Notfallbox mit einem roten Stickstofftank anstelle des standardmäßigen blau/gelben Sauerstofftanks beginnt.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingMaskBreath"/>
   <GuideEntityEmbed Entity="EmergencyOxygenTankFilled"/>
 </Box>
 
-- Wenn ihr aktiv **verblutet** oder euch einfach vorbereiten wollt, ist es möglich, **Stoffgegenstände (cloth items)** mit einem Messer oder einem anderen scharfen Gegenstand aufzuschneiden und den daraus resultierenden **Verbandsstoff (gauze)** im Herstellungsmenü zu verwenden, um Blutungen zu stillen. Allerdings kann Stoff allein in Notfällen in geringerem Maße verwendet werden.
+- Wenn ihr aktiv verblutet oder euch einfach vorbereiten wollt, ist es möglich, Stoffgegenstände (cloth items) mit einem Messer oder einem anderen scharfen Gegenstand aufzuschneiden und den daraus resultierenden Verbandsstoff (gauze) im Herstellungsmenü zu verwenden, um Blutungen zu stillen. Allerdings kann Stoff allein in Notfällen in geringerem Maße verwendet werden.
 
 <Box>
   <GuideEntityEmbed Entity="Gauze"/>
@@ -42,11 +42,11 @@ Im Falle eines ernsten Notfalls gibt es ein paar Dinge, die ihr tun könnt, um e
 </Box>
 
 ## Diverse andere Tipps (Other Various Tips)
-- Anstelle eines tatsächlichen **Gesundheitsanalysators (health analyzer)** ist es eine gute Möglichkeit, eure Wunden festzustellen, indem ihr euch selbst untersucht und die **detaillierte Untersuchung (detailed examine)** verwendet.
-- Wenn ihr blind werdet, sind **Karotten** eine weitere Möglichkeit, das Problem zu behandeln (da sie **Oculine** enthalten, das in der Chemie verwendete Medikament zur Behandlung von Blindheit), sofern sie verfügbar sind.
-- **Gut zubereitete Mahlzeiten** (gekochtes Essen, das nicht aus einem Verkaufsautomaten stammt) sind im Allgemeinen viel besser für eure allgemeine Gesundheit und können helfen, kleinere Wunden schneller zu heilen.
-- Einfache **Bettruhe** kann es einigen Wunden ermöglichen, von selbst zu heilen. **Medizinische Betten** sind am besten dafür geeignet, da sie eine sterile Oberfläche und Unterstützung für alle beschädigten Körperteile bieten, aber jedes Bett funktioniert.
-- Tatsächliches **Schlafen** auf einem Bett steigert eure Heilungsrate noch weiter.
-- Mahlzeiten, die **Proteine** enthalten, wie zum Beispiel Fleisch, helfen eurem Körperzustand nach **starkem Blutverlust (severe bloodloss)** enorm. Es wird jedoch weiterhin geraten, einen Arzt aufzusuchen und sich behandeln zu lassen.
+- Anstelle eines tatsächlichen Gesundheitsanalysators (health analyzer) ist es eine gute Möglichkeit, eure Wunden festzustellen, indem ihr euch selbst untersucht und die detaillierte Untersuchung (detailed examine) verwendet.
+- Wenn ihr blind werdet, sind Karotten eine weitere Möglichkeit, das Problem zu behandeln (da sie Oculine enthalten, das in der Chemie verwendete Medikament zur Behandlung von Blindheit), sofern sie verfügbar sind.
+- Gut zubereitete Mahlzeiten (gekochtes Essen, das nicht aus einem Verkaufsautomaten stammt) sind im Allgemeinen viel besser für eure allgemeine Gesundheit und können helfen, kleinere Wunden schneller zu heilen.
+- Einfache Bettruhe kann es einigen Wunden ermöglichen, von selbst zu heilen. Medizinische Betten sind am besten dafür geeignet, da sie eine sterile Oberfläche und Unterstützung für alle beschädigten Körperteile bieten, aber jedes Bett funktioniert.
+- Tatsächliches Schlafen auf einem Bett steigert eure Heilungsrate noch weiter.
+- Mahlzeiten, die Proteine enthalten, wie zum Beispiel Fleisch, helfen eurem Körperzustand nach starkem Blutverlust (severe bloodloss) enorm. Es wird jedoch weiterhin geraten, einen Arzt aufzusuchen und sich behandeln zu lassen.
 
 </Document>
