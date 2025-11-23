@@ -204,92 +204,95 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <Box>
     [color=#999999][italic] 2 Evolution Points / 30 Chems [italic][/color]
   </Box>
-  - Produces 10 units of Ling Panacea within the changeling.
-  - Heals 60 genetic, radiation and poison damage.
-  - Cures disabilities (permanent blindness, narcolepsy, leg paralysis ect)
+  - User is given the "Anatomic panacea" status effect, lasting 10 seconds.
+  - Treats eye damage
+  - Sobers the user, removing the influence of drugs and alcohol.
+  - Removes any present disabilities from the user.
+  - Removes and destroys any present xenomorph embryos in the user.
+  - Cleanses 25u of chemicals from the bloodstream per tick (250 in total).
+  - Heals 10 overall toxin damage per tick (100 in total).
+  - Heals 10 cellular damage per tick (100 in total).
+
+  ## Last Resort
+  <Box>
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
+  </Box>
+  - Explodes the changelings current body and turns them into a headslug.
+  - Headslugs are extremely fast, can ventcrawl, and can crawl under doors.
+  - It can be used while cuffed but cannot be used in lesser form.
+  - Headslugs can infect a non-hollow corpse to turn into a lesser form changeling after a short timer.
+  - If the infected body is destroyed, the headslug will not revive, and will be forever lost.
+  - Can be activated while on fire.
+
+  ## Lesser Form
+  <Box>
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
+  </Box>
+  - Changeling turns into a monkey.
+  - Uncuffs changeling.
+  - Money can ventcrawl, but loses some abilities that the ling would otherwise have.
+
+  ## Absorb Biomatter
+  <Box>
+    [color=#999999][italic] 3 Evolution Points [italic][/color]
+  </Box>
+  - Consuming meat products restores the changelings chemical stores.
+
+  ## Augmented Eyesight
+  <Box>
+    [color=#999999][italic] 4 Evolution Points / 0 Chems [italic][/color]
+  </Box>
+  - Changeling can toggle eyesight between flash resistant and thermal vision.
+  - While using thermal vision, flashes stun the changeling for twice as long.
+  - Thermal vision also provides changeling with night vision.
   - Can be used while cuffed or in lesser form.
 
-  ## Letzter Ausweg (Last Resort)
-  <Box>
-    [color=#999999][italic] 2 Evolutionspunkte / 20 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Lässt den aktuellen Körper des Formwandlers explodieren und verwandelt ihn in eine Kopflaus (Headslug).
-  - Kopfläuse sind extrem schnell, können durch Lüftungsschächte kriechen und unter Türen hindurchkriechen.
-  - Kann verwendet werden, während ihr gefesselt seid, aber nicht in geringerer Form.
-  - Kopfläuse können eine nicht-hohle Leiche infizieren, um sich nach einem kurzen Timer in einen Formwandler geringerer Form zu verwandeln.
-  - Wenn der infizierte Körper zerstört wird, wird die Kopflaus nicht wiederbelebt und geht für immer verloren.
-  - Kann aktiviert werden, während ihr in Flammen steht.
+  ## Biodegrade
+  <Box>
+    [color=#999999][italic] 4 Evolution Points / 30 Chems [italic][/color]
+  </Box>
+  - Burns cuffs off the changeling.
+  - Uncuffs changeling.
+  - Splashes anyone grabbing changeling with acid, doing slight caustic damage, blinding them and knocking them down.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Geringere Form (Lesser Form)
-  <Box>
-    [color=#999999][italic] 2 Evolutionspunkte / 20 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Der Formwandler verwandelt sich in einen Affen.
-  - Entfesselt den Formwandler.
-  - Affen können durch Lüftungsschächte kriechen, verlieren aber einige Fähigkeiten, die der Formwandler sonst hätte.
+  ## Chameleon Skin
+  <Box>
+    [color=#999999][italic] 4 Evolution Points / 20 Chems [italic][/color]
+  </Box>
+  - Changeling gains invisibility.
+  - Invisibility increases while standing still.
+  - Invisibility rapidly decreases while moving.
+  - Can be used while cuffed.
+  - Slows down chem regen rate by 25%.
 
-  ## Biomaterie Absorbieren (Absorb Biomatter)
-  <Box>
-    [color=#999999][italic] 3 Evolutionspunkte [italic][/ картинка/Box]
-  </Box>
-  - Der Verzehr von Fleischprodukten stellt die Chemikalienvorräte des Formwandlers wieder her.
+  ## Adrenaline Reserves
+  <Box>
+    [color=#999999][italic] 4 Evolution Points / 25 Chems [italic][/color]
+  </Box>
+  - User is given the "Adrenaline reserves" status effect, lasting for 10 seconds.
+  - Renders the user completely immune to stuns, stamina damage, damage slowdown and most incapacitation methods.
+  - Regenerates 10 stamina per tick (100 in total).
+  - Deals 1.5 poison damage to the user per tick (15 in total).
+  - Can be used while on fire.
 
-  ## Erweiterte Sicht (Augmented Eyesight)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte / 0 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Der Formwandler kann die Sicht zwischen blitzresistent und thermovision umschalten.
-  - Bei Verwendung der Thermovision betäuben Blitze den Formwandler doppelt so lange.
-  - Die Thermovision bietet dem Formwandler auch Nachtsicht.
-  - Kann verwendet werden, während ihr gefesselt oder in geringerer Form seid.
+  ## Hivemind Access
+  <Box>
+    [color=#999999][italic] 4 Evolution Points [italic][/color]
+  </Box>
+  - Shows a symbol above all changelings with this ability.
+  - Togglable on and off.
+  - Grants access to the hivemind channel - :g
 
-  ## Biologisch Abbauen (Biodegrade)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte / 30 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Verbrennt Fesseln vom Formwandler.
-  - Entfesselt den Formwandler.
-  - Bespritzt jeden, der den Formwandler festhält, mit Säure, verursacht leichten ätzenden Schaden, blendet ihn und wirft ihn zu Boden.
-  - Kann verwendet werden, während ihr gefesselt oder in geringerer Form seid.
-  - Kann verwendet werden, während ihr in Flammen steht.
-
-  ## Chamäleonhaut (Chameleon Skin)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte / 20 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Der Formwandler erlangt Unsichtbarkeit.
-  - Die Unsichtbarkeit nimmt zu, wenn man stillsteht.
-  - Die Unsichtbarkeit nimmt schnell ab, wenn man sich bewegt.
-  - Kann verwendet werden, während ihr gefesselt seid.
-  - Verlangsamt die Chemikalien-Regenerationsrate um 25 %.
-
-  ## Adrenalinreserven (Adrenaline Reserves)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte / 25 Chemikalien [italic][/ картинка/Box]
-  </Box>
-  - Der Formwandler produziert 5 Einheiten Formwandler-Adrenalin.
-  - Verursacht beim Formwandler bei sofortiger zweiter Verwendung 6,75 Giftschaden.
-  - Entfernt Betäubungen, Niederschlagszeiten und macht euch immun gegen die meisten Formen von Ermüdung.
-  - Kann verwendet werden, während ihr gefesselt oder in geringerer Form seid.
-  - Kann verwendet werden, während ihr in Flammen steht.
-
-  ## Hivemind-Zugang (Hivemind Access)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte [italic][/ картинка/Box]
-  </Box>
-  - Zeigt ein Symbol über allen Formwandlern mit dieser Fähigkeit an.
-  - Kann ein- und ausgeschaltet werden.
-  - Gewährt Zugriff auf den Hivemind-Kanal - :g
-
-  ## Leeren-Anpassung (Void Adaption)
-  <Box>
-    [color=#999999][italic] 4 Evolutionspunkte / 0 Chemikalien / 2 Absorbierte Organische [italic][/ картинка/Box]
-  </Box>
-  - Macht euch immun gegen Barotrauma (Weltraum)-Schaden, wenn aktiv.
-  - Immun gegen Gefriertemperaturen und deren Auswirkungen, wenn aktiv.
-  - Schützt nicht vor Kälteschaden.
-  - Der Formwandler muss nicht mehr atmen, wenn aktiv.
-  - Verlangsamt die Chemikalien-Regenerationsrate um 25 %.
+  ## Void Adaption
+  <Box>
+    [color=#999999][italic] 4 Evolution Points / Automatic  [italic][/color]
+  </Box>
+  - Will automatically protect you from low pressure or temperature.
+  - Removes the need for the presence of air to breathe. Can still be affected by breathing in dangerous gases.
+  - Will not protect from cold damage from other sources.
+  - While active against low pressure or temperature, chem regen rate is decreased by 25%
 
   ## Fleischflicken (Fleshmend)
   <Box>
