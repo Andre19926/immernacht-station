@@ -16,13 +16,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Handlungen als Antagonist müssen nicht heimtückisch oder böse sein, sollten aber darauf abzielen, die Geschichte zu beeinflussen und die Runde (Shift) sinnvoll zu prägen. Explizit freundliches antagonistisches Spiel oder das offene Paktieren mit der Crew ist eingeschränkt – Spieler müssen gute In-Character-Gründe für die Entscheidung haben oder ein antagonistisches Ziel damit verfolgen.
   - Rollenspiel-Regel 11 gilt für die Handlungen von Antagonisten – extrem repetitive antagonistische Aktionen, die langfristig wiederholt werden, können eine administrative Aufforderung nach sich ziehen, diese abzuschwächen oder etwas Neues auszuprobieren. Wenn die meisten Leute auf dem Server sofort erraten können, was du tun wirst, wenn du zum Antagonisten gemacht wirst, ist es vielleicht an der Zeit, einen neuen Plan zu entwickeln.
 
-  ## important information regarding antag labels.
-  - Verräter (Traitors) und Wandler (Changelings) können sich zusammenschließen, obwohl sie Solo-Antagonisten sind, riskieren aber, selbst zum Ziel zu werden oder wegen ihrer Biomasse oder TC (Telekristalle) hintergangen zu werden.
-  - Häretiker (Heretics) bilden keine Teams, sie sind explizit Solo-Antagonisten. Häretiker haben widersprüchliche Ideologien. Das stellt sie gegeneinander auf. Der stärkere Gott gewinnt.
-  - Bingles sind nur daran interessiert, das Loch zu füttern. Du musst das Loch füttern.
-  - Obwohl der Entführer (Abductor) alles stehlen kann, ist er im Allgemeinen nur an Forschung interessiert. Einige Schmuckstücke sind cool zu sammeln, aber welchen Nutzen haben diese normalen Gegenstände?
- 
-  # Restricted Antag Death and Destruction
+  ## Important information regarding antag labels.
+  - Traitors and Changelings may team despite being solo antagonists, but risk being a target themselves or double crossed for their biomass or TC.
+  - Heretics do not team, they are explicitly solo antagonists, heretics have conflicting ideologies. This puts them at odds with each other. The stronger god wins.
+  - Bingles are only interested in feeding the hole. You must feed the hole.
+  - While the abductor may steal anything, it is generally only interested in research. Some trinkets are cool to collect but what use are these normal items?
+  - The Thief antagonist should only deliberately kill in self-defense, while protecting their stash, or after proper
+  escalation.
+  # Restricted Antag Death and Destruction
 
   ## With Objectives
   Antagonisten-Ziele sind der Kern dessen, was Antagonisten direkt ohne oder mit begrenzter Rollenspiel-Begründung tun dürfen. Handlungen, die direkt zur Erfüllung eines Ziels unternommen werden, müssen nicht verhältnismäßig sein.
@@ -45,10 +46,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Um dies zu vermeiden, ist Massensabotage der Station, die wahrscheinlich Menschen töten wird, erlaubt, solange der Antagonist keine direkten und spezifischen persönlichen Maßnahmen ergreift, um die Zahl der Leichen über das hinaus zu maximieren, was die Sabotage selbst verursacht.
 
-  Der Test für Massensabotage besteht darin, nur Strategien zu berücksichtigen, die ein eingeschränkter Antagonist niemals zur Erfüllung eines Standard-Kill-Ziels rechtfertigen könnte. Beispiele hierfür sind das Fluten mit Plasma, das Verursachen einer Supermaterie-Delamination und das Evakuieren der Station ins All (spacing), obwohl diese Liste nicht erschöpfend ist. Ein Beispiel für eine Strategie, die nicht unter Massensabotage fällt, wäre der Einsatz von Bomben oder anderen Sprengstoffen, die eine Rechtfertigung für die Erfüllung eines Standard-Kill-Ziels bilden können und stattdessen diesen Regeln folgen.
- 
-  # Ist diese Antagonisten-Rolle in der Art und Weise eingeschränkt, wie sie Tod und Zerstörung bringen kann?
-  Diese Tabelle zeigt, welche Antagonisten sich gemäß RPR 6 an Einschränkungen halten müssen, wie sie Tod und Zerstörung über die Station bringen, sowie etwaige teilweise oder Grauzonen-Ausnahmen.
+  The test for mass station sabotage is to consider only strategies that a restricted antagonist could never justify using to complete a standard kill objective. Examples include plasma flooding, causing a supermatter delamination and spacing the station, although this list is not exhaustive. An example of a strategy which does not fall under mass station sabotage would be uses of bombs or other explosives, which can form justification for completing a standard kill objective and follow those rules instead.
+
+  # Is this antagonist role restricted in how it can deliver death and destruction?
+  This table covers which antagonists must abide by restrictions in how they deliver death and destruction to the station under RPR 6, as well as any partial or grey-area exemptions.
 
   <Table Columns="2">
     <ColorBox>

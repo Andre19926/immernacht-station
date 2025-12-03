@@ -37,13 +37,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AbductorGizmo"/>
   </Box>
 
-  Entführer beginnen auf ihrem Schiff irgendwo in der Nähe der Station. Mit der [color=#a149bf]„Human Observation Console“[/color] (Menschliche Beobachtungskonsole) könnt ihr Opfer ausfindig machen, die allein sind, und in ihre Nähe [color=lightblue]warpen[/color], um die Entführung zu beginnen.
+  Abductors begin on their ship somewhere near the station. Using the [color=#a149bf]"Human Observation Console"[/color] you can seek out victims who are alone and [color=lightblue]warp[/color] near them to begin abduction.
 
-  Der **Wonderprod** ist das primäre Werkzeug eines Entführers. Er hat vier Modi, die ihr für die Entführung verwenden werdet:
-  - [color=yellow]{Stun}[/color] Betäubt das Opfer für ungefähr 5 Sekunden.
-  - [color=pink]{Restrain}[/color] Fesselt die Hände des Opfers in schwachen Kabeln.
-  - [color=blue]{Sleep}[/color] Versetzt das Opfer in einen schlafähnlichen Zustand.
-  - [color=red]{Harm}[/color] Verbrennt das Ziel und fügt Schaden zu. [bold]NUR VERWENDEN, WENN IHR MÜSST.[/bold]
+  The wonderprod is the primary tool of an Abductor. It has four modes you will use for abduction:
+  - [color=yellow]{Stun}[/color] Stuns the victim for roughly 5 seconds.
+  - [color=pink]{Restrain}[/color] binds the victims hands in weak cables.
+  - [color=blue]{Sleep}[/color] Induces a sleep-like state in the victim, and inflicts ion damage on anything that cannot be slept.
 
   Sobald ein Ziel immobilisiert ist, könnt ihr das [italic]Gizmo[/italic] (Gerät) verwenden, um ihm einen **Nano-Tracker** zu implantieren, mit der [color=lightblue]Rückkehr-Aktion[/color] zu eurem Schiff zurückkehren und dann das Gizmo auf eurer [color=#a149bf]Abductor Console[/color] verwenden.
 
