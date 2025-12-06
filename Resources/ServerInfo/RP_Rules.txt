@@ -22,7 +22,7 @@ Dies ist die "kurze" Form der Regeln, die alle Informationen enthält, die ein n
 
 [color=#ff0000]ALLGEMEINE ETIKETTE[/color]
 
-[color=#a4885c]06.[/color] Dies sind englische Server. Sprich nur Englisch in IC und OOC.
+[color=#a4885c]06.[/color] Dies sind deutsche Server. Sprich nur Deutsch in IC und OOC.
 
 [color=#a4885c]07.[/color] Nutze keine Exploits oder externen Programme, um zu spielen, einen Vorteil zu erlangen oder die Runde/den Server zu stören/abzustürzen zu lassen. Dies schließt Autoclicker und Skripte zur Automatisierung des Spiels oder zur Umgehung der AFK-Erkennung ein. Der absichtliche Versuch, den Server zu verlangsamen/abzustürzen zu lassen, führt zu einem sofortigen Bann, gegen den nur Einspruch eingelegt werden kann.
 
