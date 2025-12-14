@@ -9,5 +9,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 # Getränke (Drinks)
 Zu wissen, wie man ein gewünschtes Getränk zubereitet, ist wichtig. Hier sind die verschiedenen Getränke (Drinks) im Spiel, einschließlich ihrer Rezepte:
 
-<GuideReagentGroupEmbed Group="Drinks"/>
+## Alcoholic Drinks
+<GuideReagentGroupEmbed Group="AlcoholicDrinks"/>
+
+## Non-Alcoholic Drinks
+<GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
+<!-- Goobstation - Split the drinks page into separte 'Alcoholic' and 'Non-alcoholic' categories-->
 </Document>

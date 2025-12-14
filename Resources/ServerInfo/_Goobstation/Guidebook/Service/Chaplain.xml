@@ -5,32 +5,34 @@ Die unendliche Weite des Weltraums hat etwas an sich, das Menschen zum Gebet tre
 
 Als Kaplan solltet ihr idealerweise über euer Headset für die verrückte Religion werben, die ihr euch für die Runde ausgedacht habt. Abgesehen von eurem Büro, dem höllischen Krematorium nebenan und der selten genutzten Leichenhalle habt ihr jedoch keinen Zugang.
 
-  <Box>
-    <GuideEntityEmbed Entity="Bible"/>
-    <GuideEntityEmbed Entity="Nullrod"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Bible"/>
+    <GuideEntityEmbed Entity="Nullrod"/>
+    <GuideEntityEmbed Entity="ArmamentsBeacon"/>
+  </Box>
 
 ## Religionen:
 Es steht euch frei, jede euch bekannte gegenwärtige Religion zu verbreiten oder sogar eine eigene zu erfinden! Stellt nur sicher, dass sie nicht gegen NanoTrasen und deren Werte verstößt, sonst landet ihr möglicherweise in der Arrestzelle.
 
 Falls ihr noch keinen habt, baut einen Altar und findet ein Opfergabe, die ihr darauf platziert:
 
-  <Box>
-    <GuideEntityEmbed Entity="AltarBananium"/>
-    <GuideEntityEmbed Entity="AltarChaos"/>
-    <GuideEntityEmbed Entity="AltarDruid"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="AltarFangs"/>
-    <GuideEntityEmbed Entity="AltarHeaven"/>
-    <GuideEntityEmbed Entity="AltarConvertMaint"/>
-    <GuideEntityEmbed Entity="AltarNanotrasen"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="AltarSpaceChristian"/>
-    <GuideEntityEmbed Entity="AltarTechnology"/>
-    <GuideEntityEmbed Entity="AltarToolbox"/>
-  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AltarBananium"/>
+    <GuideEntityEmbed Entity="AltarChaos"/>
+    <GuideEntityEmbed Entity="AltarDruid"/>
+    <GuideEntityEmbed Entity="AltarClock"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AltarFangs"/>
+    <GuideEntityEmbed Entity="AltarHeaven"/>
+    <GuideEntityEmbed Entity="AltarConvertMaint"/>
+    <GuideEntityEmbed Entity="AltarNanotrasen"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AltarSpaceChristian"/>
+    <GuideEntityEmbed Entity="AltarTechnology"/>
+    <GuideEntityEmbed Entity="AltarToolbox"/>
+  </Box>
 
 Diese Altäre können gebaut werden, indem die folgenden Opfergaben auf euren Basis-Konvertierungsaltar gelegt werden:
 
@@ -41,14 +43,15 @@ Diese Altäre können gebaut werden, indem die folgenden Opfergaben auf euren Ba
 - Himmels Altar (Heaven Altar): 1 x Templer Helm (Templar Helmet)
 - Wartungs-Altar (Maints Altar): 1 x Preisgünstige Isolierte Handschuhe (Budget Insulated Gloves)
 - Nanotrasen Altar: 1 x Plasteel
-- Weltraum-Christlicher Altar (Space-Christian Altar): 1 x Nonnenhaube (Nun Hood)
-- Technologie Altar: 1 x Kondensator (Capacitor)
-- Werkzeugkasten Altar (Toolbox Altar): 1 x Werkzeugkasten (Toolbox)
+- Space-Christian Altar: 1 x Nun Hood
+- Technology Altar: 1 x Capacitor
+- Toolbox Altar: 1 x Toolbox
+- Clockwork Altar: 1 x Small Power Cell
 
-## Heilige Artefakte (Holy Artefacts)
+## Holy Artefacts
 
-### Kreuzritter Rüstung (Crusader Armour)
-Ein veralteter Plattenpanzer, der früher Teil eines heiligen Kreuzzugs war. Bietet anständige Rüstung. Das Tragen dieser Rüstung verlangsamt eure Bewegungsgeschwindigkeit leicht.
+### Armaments Beacon
+Allows you to choose a set of armor. All armors have identical stats.
 
 ### Null Rod
 The obsidian rod will be your defense against the forces of evil. [color=blue][bold] Having it in your hands will make you completely immune to the effects of magic. [/bold][/color]
