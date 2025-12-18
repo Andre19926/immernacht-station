@@ -1,7 +1,7 @@
 patron-support-window-title = Unterstützt Immernacht Station
 patron-support-window-header = Vielen Dank, dass du auf Immernacht Station spielst!
 patron-support-window-description1 = Wenn du deine Zeit hier genießt, ziehe bitte in Betracht, uns auf Patreon zu unterstützen!
-patron-support-window-description2 = Deine Unterstützung hilft uns, die Server am Laufen zu halten, die Entwicklung zu finanzieren und das Spiel weiter zu verbessern. Wir arbeiten derzeit daran, einen US-Ost-Server in Virginia zu eröffnen und eine umfassende Neustrukturierung unseres Codes durchzuführen.
+patron-support-window-description2 = Deine Unterstützung hilft uns, die Server am Laufen zu halten, die Entwicklung zu finanzieren und das Spiel weiter zu verbessern.
 
 patron-support-window-tiers-header = Patron Level und Vorteile:
 
