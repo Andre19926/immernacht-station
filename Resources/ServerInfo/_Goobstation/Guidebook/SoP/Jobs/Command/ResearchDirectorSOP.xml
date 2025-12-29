@@ -24,8 +24,12 @@ Dies ist die Liste der Verfahren, Verantwortlichkeiten und Pflichten des [color=
 
 4. Dem Forschungsdirektor ist es gestattet, seinen Experimentellen Hardsuit zu tragen, sollte ihn jedoch, falls nicht notwendig, zur persönlichen Sicherheit inaktiv lassen.
 
-5. Dem Forschungsdirektor ist es gestattet, den Gesetzesrahmen (lawset) der KI-Einheit (AI Unit) zu ändern, vorausgesetzt, er erhält die allgemeine Genehmigung vom Captain und einem weiteren Abteilungsleiter (Head of Staff).
-<Box>Wenn keine anderen Abteilungsleiter verfügbar sind, reicht die Genehmigung des Captains aus.</Box>
+5. The Research Director is permitted to change the AI Unit's lawset, provided they receive general approval from the Captain and another Head of Staff.
+<Box Orientation="Vertical">
+  - If there are no other Heads of Staff available, Captain approval will suffice.
+  - To protect against tampering, the station AI is hard-coded to resist [color=#FF0000]any[/color] modification of its lawset.
+</Box>
+<!--Goob addition - AI can't allow law changes-->
 
 6. Der Forschungsdirektor muss sicherstellen, dass der Cyborg-Computer sicher aufbewahrt und angemessen genutzt wird, um unnötigen Schaden an der Crew oder dem Eigentum von NanoTrasen zu vermeiden.
 
