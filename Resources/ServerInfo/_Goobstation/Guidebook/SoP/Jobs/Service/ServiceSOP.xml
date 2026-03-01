@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# SOP der Dienstleistungsabteilung (Service Department SOP)
-Dies ist die Liste der SOPs (Standard Operating Procedures), die das Dienstleistungspersonal (Service Personnel) befolgen sollte. Diese sind, wie bereits erwähnt, [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
+# Service Department SOP
+These are the list of SOPs that Service Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
 
-Darüber hinaus stimmen diese Auflistungen nicht notwendigerweise miteinander überein und sind nach Beruf getrennt, sofern nicht anders angegeben.
+Furthermore, these listings do not necessarily coincide with one another, and are separated by Job unless otherwise stated.
 
-Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Personalleiter (Head of Personnel)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
-- [textlink="Personalleiter" link="HeadOfPersonnel SOP"]
-- [textlink="Barkeer (Bartender)" link="Bartender SOP"]
-- [textlink="Botaniker (Botanist)" link="Botanist SOP"]
-- [textlink="Koch (Chef)" link="Chef SOP"]
-- [textlink="Clown" link="Clown SOP"]
-- [textlink="Hausmeister (Janitor)" link="Janitor SOP"]
-- [textlink="Bibliothekar (Librarian)" link="Librarian SOP"]
-- [textlink="Mime" link="Mime SOP"]
-- [textlink="Reporter" link="Reporter SOP"]
+The following jobs have entries in this Department, the [color=#1b67a5][bold]Head of Personnel[/bold][/color] being the Head of Staff:
+- [textlink="Head of Personnel" link="HeadOfPersonnelSOP"]
+- [textlink="Bartender" link="BartenderSOP"]
+- [textlink="Botanist" link="BotanistSOP"]
+- [textlink="Chef" link="ChefSOP"]
+- [textlink="Clown" link="ClownSOP"]
+- [textlink="Janitor" link="JanitorSOP"]
+- [textlink="Librarian" link="LibrarianSOP"]
+- [textlink="Mime" link="MimeSOP"]
+- [textlink="Reporter" link="ReporterSOP"]
 
 </Document>

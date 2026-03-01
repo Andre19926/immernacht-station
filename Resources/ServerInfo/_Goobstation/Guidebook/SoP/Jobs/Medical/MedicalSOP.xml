@@ -11,11 +11,11 @@ Dies ist die Liste der SOPs (Standard Operating Procedures), die das Medizinisch
 
 Zur Vereinfachung der Einträge sind [color=#42636d][bold]Arzt (Medical Doctor)[/bold][/color], [color=#42636d][bold]Medizinischer Praktikant (Medical Intern)[/bold][/color] und [color=#42636d][bold]Sanitäter (Paramedic)[/bold][/color] zusammengefasst.
 
-Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Leitende Medizinische Offizier (Chief Medical Officer)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
-- [textlink="Leitender Medizinischer Offizier" link="ChiefMedicalOfficer SOP"]
-- [textlink="Chemiker (Chemist)" link="Chemist SOP"]
-- [textlink="Sanitäter (Paramedic)" link="DoctorIntern SOP"]
-- [textlink="Arzt (Medical Doctor)" link="DoctorIntern SOP"]
-- [textlink="Medizinischer Praktikant (Medical Intern)" link="DoctorIntern SOP"]
+The following jobs have entries in this Department, the [color=#1b67a5][bold]Chief Medical Officer[/bold][/color] being the Head of Staff:
+- [textlink="Chief Medical Officer" link="ChiefMedicalOfficerSOP"]
+- [textlink="Chemist" link="ChemistSOP"]
+- [textlink="Paramedic" link="DoctorInternSOP"]
+- [textlink="Medical Doctor" link="DoctorInternSOP"]
+- [textlink="Medical Intern" link="DoctorInternSOP"]
 
 </Document>

@@ -32,6 +32,8 @@ Falls ihr noch keinen habt, baut einen Altar und findet ein Opfergabe, die ihr d
     <GuideEntityEmbed Entity="AltarSpaceChristian"/>
     <GuideEntityEmbed Entity="AltarTechnology"/>
     <GuideEntityEmbed Entity="AltarToolbox"/>
+    <GuideEntityEmbed Entity="AltarDragon"/>
+    <GuideEntityEmbed Entity="AltarEmpire"/>
   </Box>
 
 Diese Altäre können gebaut werden, indem die folgenden Opfergaben auf euren Basis-Konvertierungsaltar gelegt werden:
@@ -47,6 +49,8 @@ Diese Altäre können gebaut werden, indem die folgenden Opfergaben auf euren Ba
 - Technology Altar: 1 x Capacitor
 - Toolbox Altar: 1 x Toolbox
 - Clockwork Altar: 1 x Small Power Cell
+- Draconic Altar: 1 x Carp plushie
+- Imperial altar: 1 x Book
 
 ## Holy Artefacts
 

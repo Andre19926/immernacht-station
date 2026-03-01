@@ -37,8 +37,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     ## Scharfmachen
     Um eine Bombe scharfzumachen, kannst du entweder [color=yellow]Rechtsklick[/color] und [color=yellow]Countdown starten[/click] wählen oder die Bombe [color=yellow]mit Alt anklicken[/color]. Sie beginnt dann zu piepen.
 
-    ## Zeit
-    Eine Bombe hat eine begrenzte Zeit, mindestens [protodata="SyndicateBomb" comp="OnUseTimerTrigger" member="ShortestDelayOption"/] Sekunden und maximal [protodata="SyndicateBomb" comp="OnUseTimerTrigger" member="LongestDelayOption"/] Sekunden. Du kannst den Timer sehen, indem du sie untersuchst, es sei denn, der Proceed-Draht ist durchtrennt. Wenn der Timer null erreicht, detontiert die Bombe.
+  ## Time
+  A bomb has a limited time, at a minimum of [protodata="SyndicateBomb" comp="TimerTrigger" member="ShortestDelayOption"/] seconds and a maximum of [protodata="SyndicateBomb" comp="TimerTrigger" member="LongestDelayOption"/] seconds. You can view the timer by examining it, unless the Proceed wire is cut. Once the timer hits zero, the bomb will detonate.
 
     ## Bolzen
     Standardmäßig verriegelt sich eine Bombe beim Scharfmachen am Boden. Du musst den BOLT-Draht finden und durchtrennen, um die Bolzen zu deaktivieren; danach kannst du sie mit dem Schraubenschlüssel lösen und ins All werfen.

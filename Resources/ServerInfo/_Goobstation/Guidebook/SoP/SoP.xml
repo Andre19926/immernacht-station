@@ -25,23 +25,23 @@ Die Einhaltung dieser Richtlinien wird erwartet, aber die Richtlinien sind an ve
     Beachten Sie ferner, dass sich alle Verweise auf "Diese Station" oder "Station" auf die Station beziehen, auf der Sie während dieser Schicht arbeiten. Sie finden dies auf Ihrem PDA.
   </Box>
 
-## Allgemeine Stations-SOP
-Die folgenden Links dienen dem allgemeinen Wissen über die Station.
-- [textlink="Einstellung, Beförderung, Versetzung" link="Hiring SOP"]
-- [textlink="Entlassung, Degradierung, Kündigung" link="Demoting SOP"]
-- [textlink="Befehlskette" link="Succession"]
-- [textlink="Rechtliches" link="Legal SOP"]
-- [textlink="Notfälle" link="Emergencies SOP"]
-- [textlink="Alarmstufen" link="Alert Levels"]
+## General Station SOP
+The following links are for general knowledge of the station.
+- [textlink="Hiring, Promoting, Transferring" link="HiringSOP"]
+- [textlink="Firing, Demoting, Terminating" link="DemotingSOP"]
+- [textlink="Chain of Command" link="Succession"]
+- [textlink="Legal" link="LegalSOP"]
+- [textlink="Emergencies" link="EmergenciesSOP"]
+- [textlink="Alert Levels" link="AlertLevels"]
 
-## Allgemeine Abteilungen
-Die folgenden Links sind für allgemeine Abteilungs-SOPs. Diese führen Sie zum Ordner-Eintrag.
-- [textlink="Frachtabteilung (Cargo)" link="Cargo SOP"]
-- [textlink="Kommandoabteilung (Command)" link="Command SOP"]
-- [textlink="Technikabteilung (Engineering)" link="Engineering SOP"]
-- [textlink="Medizinische Abteilung (Medical)" link="Medical SOP"]
-- [textlink="Wissenschaftsabteilung (Science)" link="Science SOP"]
-- [textlink="Sicherheitsabteilung (Security)" link="Security SOP"]
-- [textlink="Serviceabteilung (Service)" link="Service SOP"]
+## General Department
+The following links are for general department SOPs. These will guide you to the folder entry.
+- [textlink="Cargo Department" link="CargoSOP"]
+- [textlink="Command Department" link="CommandSOP"]
+- [textlink="Engineering Department" link="EngineeringSOP"]
+- [textlink="Medical Department" link="MedicalSOP"]
+- [textlink="Science Department" link="ScienceSOP"]
+- [textlink="Security Department" link="SecuritySOP"]
+- [textlink="Service Department" link="ServiceSOP"]
 
 </Document>

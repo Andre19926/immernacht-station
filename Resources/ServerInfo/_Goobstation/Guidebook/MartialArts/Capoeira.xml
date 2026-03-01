@@ -41,7 +41,8 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Wirft den Gegner zu Boden und stößt ihn vom Anwender weg. Erzwingt nicht das Fallenlassen gehaltener Gegenstände.
+  Disarms the opponent, pushes them away, as well as knocking them down causing them to be more vulnerable to unarmed melee attacks while they're down.
+  Only works on standing opponents.
 
   ### Kreistritt (Circle Kick)
 

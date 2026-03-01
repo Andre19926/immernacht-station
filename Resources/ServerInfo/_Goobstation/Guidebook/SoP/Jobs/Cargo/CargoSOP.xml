@@ -9,9 +9,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 # SOP der Frachtabteilung (Cargo Department)
 Dies ist die Liste der SOPs (Standard Operating Procedures), die das Frachtpersonal befolgen sollte. Wie bereits erwähnt, sind dies [bold]keine Checklisten[/bold] und sollten als Richtlinien behandelt werden.
 
-Die folgenden Jobs haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Quartiermeister[/bold][/color] (Quartermaster) der Abteilungsleiter (Head of Staff) ist:
-- [textlink="Quartiermeister" link="Quartermaster SOP"]
-- [textlink="Frachttechniker" link="CargoTech SOP"]
-- [textlink="Bergungsspezialist" link="SalvageSpecialist SOP"]
+The following jobs have entries in this Department, the [color=#1b67a5][bold]Quartermaster[/bold][/color] being the Head of Staff:
+- [textlink="Quartermaster" link="QuartermasterSOP"]
+- [textlink="Cargo Technician" link="CargoTechSOP"]
+- [textlink="Salvage Specialist" link="SalvageSpecialistSOP"]
 
 </Document>

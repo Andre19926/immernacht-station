@@ -13,10 +13,10 @@ Dies ist die Liste der SOPs (Standard Operating Procedures), die das Wissenschaf
 
 Es wird erwartet, dass der [color=#cc74fc]Forschungsassistent (Research Assistant)[/color] und der [color=#cc74fc]Wissenschaftler (Scientist)[/color] in denselben SOP-Richtlinien zusammenfallen.
 
-Die folgenden Berufe haben Einträge in dieser Abteilung, wobei der [color=#1b67a5][bold]Forschungsdirektor (Research Director)[/bold][/color] der Abteilungsleiter (Head of Staff) ist:
-- [textlink="Forschungsdirektor" link="ResearchDirector SOP"]
-- [textlink="Robotiker (Roboticist)" link="Roboticist SOP"]
-- [textlink="Wissenschaftler (Scientist)" link="Scientist SOP"]
-- [textlink="Forschungsassistent (Research Assistant)" link="Scientist SOP"]
+The following jobs have entries in this Department, the [color=#1b67a5][bold]Research Director[/bold][/color] being the Head of Staff:
+- [textlink="Research Director" link="ResearchDirectorSOP"]
+- [textlink="Roboticist" link="RoboticistSOP"]
+- [textlink="Scientist" link="ScientistSOP"]
+- [textlink="Research Assistant" link="ScientistSOP"]
 
 </Document>
