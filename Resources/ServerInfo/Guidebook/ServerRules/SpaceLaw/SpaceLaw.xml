@@ -1,11 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Chief-Engineer <119664036+Chief-Engineer@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 NeKognitoHazard <168395829+NeKognitoHazard@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 TheNeonViking <julian.sean.ison@gmail.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Rouge2t7 <81053047+Sarahon@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -38,7 +31,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Implantation
   - Jeder Gefangene in Gewahrsam kann Implantations- oder Implantatextraktionsverfahren unterzogen werden, solange dies im vernünftigen Rahmen liegt. Der Prozess des Hinzufügens oder Entfernens eines Implantats sollte die Haftstrafe des Inhaftierten nicht verlängern, d.h. du darfst ihn nicht länger festhalten, um das Verfahren durchzuführen, es sei denn, es ist anders angegeben. Ein ehemaliger Häftling kann zu einem späteren Zeitpunkt aufgefordert werden, sich einer Implantation/Extraktion zu unterziehen; wenn er die Umstände während seiner Haft erfüllt hat, muss er zustimmen. Folgendes wurde mit besonderen Umständen aufgeführt, alles, was nicht in dieser Liste steht, kann immer noch angewendet werden, sofern ein angemessener rechtlicher Kontext gegeben ist. Ein Gefangener kann immer noch Implantations-/Extraktionsverfahren erhalten, ohne die Umstände zu erfüllen, wenn er seine klare Zustimmung gibt.
 
+<<<<<<< HEAD
   - [bold]Gedankenschilde (Mind Shields)[/bold]: Schilde können jedem Häftling verabreicht werden, der eindeutig gedankenkontrolliert wurde, die Kontrolle über sich selbst verloren hat oder ein Verdächtiger ist, der wegen widerrechtlicher Freiheitsberaubung angeklagt ist. Im Gegensatz zur Standardimplantation darfst du einen Gefangenen festhalten, bis du die Gedankenschilde verabreicht hast, solange dies zeitnah geschieht. Wenn ein Verdächtiger die Kooperation verweigert oder das Implantat nicht funktioniert, kann er wegen Verweigerung der mentalen Abschirmung angeklagt werden.
+=======
+  [color=#a4885c]Tracking Implants:[/color] Trackers can be applied to any suspect that has been convicted of a violent crime (the red linked crimes).
+
+  [color=#a4885c]Mind Shields:[/color] Mind Shields can be administered to any suspect charged with a crime if there is reasonable and articulable suspicion to believe they committed the crime while under mind control. If there is undeniable proof of ongoing mind control on the station, such as a successful deconversion, all the following statements apply:
+
+  - Crew can be required to be shielded and may be forcibly implanted if they refuse.
+  - If a suspect refuses to cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  - Unlike standard implantation you may indefinitely extend the duration of a prisoner's sentence until you finish issuing Mind Shields, so long as active attempts are made to procure implants and complete the implantation procedure.
+>>>>>>> upstream/master
 
   ## Entfernung
   - Ein Verdächtiger kann gezwungen werden, sich einer Implantatentfernung zu unterziehen, wenn es starke, vernünftige Beweise dafür gibt, dass er implantiert wurde, z. B. wenn ein Offizier ihn bei der Verwendung eines Implantats gesehen hat oder seine Fingerabdrücke auf einem weggeworfenen Injektor gefunden wurden. Im Gegensatz zum Implantationsverfahren kann die Strafe eines Gefangenen vollständig verzögert oder verlängert werden, bis er dem Verfahren zustimmt, solange die Sicherheit aktiv versucht, es durchzuführen. Ähnlich wie bei der Implantation kann die Implantatentfernung ohne Beweise erfolgen, wenn ein Häftling seine klare Zustimmung gibt.

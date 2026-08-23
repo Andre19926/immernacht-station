@@ -27,13 +27,19 @@
 
   Seid darauf vorbereitet, das Monument während des Herbeirufens zu verteidigen, da nur eine fehlgeleitete Aktion von einer einzigen störenden Seele dieses Ritual zu einem abrupten, unzeremoniellen Halt bringen wird.
 
+<<<<<<< HEAD
   Das Konvertieren zusätzlicher Besatzungsmitglieder mithilfe einer [color=#4cabb3]Glyphe der Wahrheit[/color], während das Herbeirufen aktiv ist, beschleunigt dessen Geschwindigkeit und bringt den Kult näher an den vollständigen Sieg.
 
   ## Glyphen
   Glyphen können durch Interaktion mit dem Monument [color=#4cabb3]Geschrieben (Scribed)[/color] werden. Ihr könnt eine unbenutzte Glyphe auf ähnliche Weise am Monument auch [color=#4cabb3]Entschreiben (Unscribe)[/color].
+=======
+  ## Glyphs
+  Glyphs may be [color=#4cabb3]Scribed[/color] by interacting with the Monument. You may also [color=#4cabb3]Unscribe[/color] an unused Glyph in a similar manner at The Monument.
+>>>>>>> upstream/master
 
   Beachtet, dass die Aktivierung einer Glyphe die Gesundheit aller Kultisten schwächt, die bei der Aktivierung der Glyphe helfen!
 
+<<<<<<< HEAD
   <Box>
     <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption=""/>
     <GuideEntityEmbed Entity="CosmicGlyphProjection" Caption=""/>
@@ -50,4 +56,22 @@
   - [bold]Glyphe der Klingen (Glyph of Blades)[/bold] verwandelt zufällig jeden scharfen Gegenstand in eine der [color=#4cabb3]Einzigartigen Waffen[/color] des kosmischen Kults.
   - [bold]Glyphe des Stillstands (Glyph of Cessation)[/bold] verwandelt einen tragbaren Atmosphärenwäscher in eine unbefestigte [color=#4cabb3]Leere Spitze (Vacuous Spire)[/color].
   - [bold]Glyphe der Wahrheit (Glyph of Truth)[/bold] erlaubt es jedem Nicht-Kultisten, der darauf gebracht wird, in einen anderen kosmischen Kultisten [color=#4cabb3]konvertiert[/color] zu werden, selbst wenn sie ein Kaplan sind oder durch einen Gedankenschild geschützt werden.
+=======
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphProjection" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphWarding" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphBlades" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphCessation" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
+  </Box>
+  - [bold]Glyph of Knowledge[/bold] allows a non-cultist brought upon it to be [color=#4cabb3]converted[/color] into a fellow cosmic cultist! Chaplains and individuals with a mindshield cannot be converted using this glyph.
+  - [bold]Glyph of Projection[/bold] will allow the cultist using it to temporarily escape their body as a free-floating and imperceptible [color=#4cabb3]Astral Form[/color], allowing the cultist to spy on unsuspecting crewmembers.
+  - [bold]Glyph of Warding[/bold] transmutes any spacesuit - hard or soft - into the cosmic cult's special [color=#4cabb3]Entropic Armor[/color].
+  - [bold]Glyph of Blades[/bold] randomly transmutes any sharp object into one of the cosmic cult's [color=#4cabb3]Unique Weapons[/color].
+  - [bold]Glyph of Cessation[/bold] transmutes a portable atmospherics scrubber into an unanchored [color=#4cabb3]Vacuous Spire[/color], or a telecommunication server into a [color=#4cabb3]Multispectral Inhibitor[/color].
+  - [bold]Glyph of Truth[/bold] allows any non-cultist brought upon it to be [color=#4cabb3]converted[/color] into a fellow cosmic cultist, even if they are a chaplain or protected by a mindshield.
+>>>>>>> upstream/master
 </Document>

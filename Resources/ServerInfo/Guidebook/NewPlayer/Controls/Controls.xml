@@ -1,14 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2023 BismarckShuffle <107375341+BismarckShuffle@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Julian Giebel <juliangiebel@live.de>
-SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
-SPDX-FileCopyrightText: 2023 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Myakot <30875116+Myakot@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 UBlueberry <161545003+UBlueberry@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 GrownSamoyedDog <61863648+GrownSamoyedDog@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -71,7 +61,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Verwenden Sie [color=yellow][bold][keybind="Use"][/bold][/color], um einen Gegenstand [color=cyan]abzulegen[/color] oder auf etwas/jemanden zu [color=cyan]verwenden[/color], je nach Kontext.
   - Achten Sie auf die aktive Hand, um versehentliches Verwenden gehaltener Gegenstände zu vermeiden.
 
+<<<<<<< HEAD
   [bold]Gegenstände können nicht per Drag-and-Drop übertragen werden.[/bold]
+=======
+  [bold]Items cannot be transferred by drag and drop.[/bold]
+>>>>>>> upstream/master
 
   ### Fallen lassen und Werfen
   Verwenden Sie [color=yellow][bold][keybind="Drop"][/bold][/color], um einen Gegenstand [color=cyan]fallen zu lassen[/color] innerhalb der Reichweite.
@@ -94,7 +88,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Standardinteraktionen reichen vom Klicken auf [bold]Tische[/bold], um gehaltene Gegenstände abzulegen, bis zum [bold]Benutzen[/bold] von Objekten in der Welt mit leeren Händen oder dem Interagieren mit Mobs und anderen Gegenständen.
 
+<<<<<<< HEAD
   In manchen Situationen können Sie [color=cyan]Gegenstände direkt tauschen[/color], z. B. durch Klicken auf eine Maschine mit einem Becher, während Sie einen anderen halten.
+=======
+  In some situations, you can directly [color=cyan]swap items[/color] by clicking on a machine while holding an item.
+  For example, while holding a beaker, click on a machine storing another beaker. This also works with air tanks and canisters.
+>>>>>>> upstream/master
 
   Einige Gegenstände haben [color=cyan]alternative Interaktionen[/color] – nutzen Sie [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color], um z. B. Schließfächer zu [bold]verriegeln[/bold] oder Batterien aus Gegenständen zu [bold]entnehmen[/bold].
 
@@ -102,6 +101,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Interagieren Sie mit Objekten wie Behältern, auch wenn Ihre Hände voll sind, durch [color=cyan]Aktivierungsinteraktionen[/color] mit [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color].
   Damit können Sie z. B. [bold]Behälter öffnen[/bold], [bold]Türen öffnen[/bold], ohne den gehaltenen Gegenstand zu verwenden, oder [bold]Waffen wechseln[/bold].
 
+<<<<<<< HEAD
   Drücken Sie [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color] auf einen Mob, um das [color=cyan]Inventar-Menü (Strip Menu)[/color] zu öffnen und dessen Inventar anzuzeigen.
 
   ### In-Hand
@@ -117,6 +117,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Einen Mob [color=cyan]auf[/color] einen Stuhl, ein Bett oder in eine Kryokammer zu [color=cyan]legen[/color],
   - Sich selbst [color=cyan]auf einen Tisch zu klettern[/color] – alternativ klicken Sie [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] auf den Tisch,
   - Das [color=cyan]Inventar-Menü (Strip Menu)[/color] zu öffnen, indem Sie einen anderen Mob auf Ihren Charakter ziehen – auch möglich mit [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color].
+=======
+  Notably, press [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color] on a mob to open the [color=cyan]strip menu[/color], allowing you to view their inventory — which lets you try to take off or steal items from them.
+
+  ### In-hand
+  Many items also have [color=cyan]use-in-hand interactions[/color], such as [bold]opening[/bold] bottles, [bold]wielding[/bold] two-handed guns and big melee weapons with both hands (clubs, spears, axes, mops, shotguns, etc.), [bold]cycling[/bold] guns, or [bold]toggling[/bold] syringes between injecting and drawing.
+
+  You may just perform in-hand interactions by clicking [color=yellow][bold][keybind="Use"][/bold][/color] or [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] on your active hand, but it's worth remembering the hotkeys — [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] and [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] for [color=cyan]standard[/color] and [color=cyan]alternative[/color] in-hand interactions, respectively.
+
+  ### Click and drag
+  You can "use" an entity on another entity by dragging one onto another with [color=yellow][bold][keybind="Use"][/bold][/color]. (Not to be confused with [italic]pulling[/italic].)
+
+  Use it to:
+  - [color=cyan]Place[/color] or force a mob (player or NPC) on a chair, bed, into a cryogenic chamber, disposal unit, etc.
+>>>>>>> upstream/master
 
   ### Zeigen
   Nutzen Sie [color=yellow][bold][keybind="Point"][/bold][/color], um [color=cyan]auf eine Stelle[/color] in der Welt zu zeigen, wodurch ein temporärer Pfeil für alle sichtbar wird.
@@ -130,9 +144,25 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - [italic]Alternative In-Hand[/italic] ([color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]),
   - Klicken und Ziehen (einzigartig für das Platzieren von Mobs auf Objekten).
 
+<<<<<<< HEAD
   Keine Sorge, sie sind meist intuitiv und konsistent, und die meisten Entitäten nutzen nur ein oder zwei Interaktionen.
 
   [bold]Gegenstände in Behältern sind weiterhin interagierbar.[/bold]
+=======
+  - [color=cyan]Pour[/color] the contents of a liquid container (janitorial trolley, bucket, beaker) into another container, a drain, a machine, etc. But first, remember to place the container on the ground — you can't do it from your inventory.
+
+  ### Pointing
+  Use [color=yellow][bold][keybind="Point"][/bold][/color] to [color=cyan]point[/color] at a location in the world, creating a temporary arrow visible to everyone.
+
+  ### Conclusion
+  The main interactions are:
+  - [bolditalic]standard[/bolditalic] ([color=yellow][bold][keybind="Use"][/bold][/color]),
+  - [italic]alternative[/italic] ([color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]),
+  - [bold]activation[/bold] ([color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]),
+  - [bolditalic]use-in-hand[/bolditalic] ([color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]),
+  - [italic]alternative use-in-hand[/italic] ([color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]),
+  - click and drag.
+>>>>>>> upstream/master
 
   ## Kontextmenüs
   Klicken Sie [color=yellow][bold][keybind="UIRightClick"][/bold][/color] auf eine interaktive Entität, um das [color=cyan]Kontextmenü (Context Menu)[/color] zu öffnen, das zusätzliche mögliche Interaktionen anzeigt, wie:
@@ -141,7 +171,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Auswahl präziser [bold]Transfermengen[/bold] für Chemikalien,
   - Anzeige von [bold]Dekonstruktionsschritten[/bold] für Objekte.
 
+<<<<<<< HEAD
   Klicken Sie [color=yellow][bold][keybind="UIRightClick"][/bold][/color] auf einen Stapel von Gegenständen, um das [color=cyan]Entitätenmenü (Entity Menu)[/color] zu öffnen, das überlappende Entitäten auflistet.
+=======
+  [bold]Items stored in containers are still interactable.[/bold]
+>>>>>>> upstream/master
 
   ### Untersuchen
   Wenn Sie sich über eine Entität unsicher sind, [color=cyan]untersuchen (Examine)[/color] Sie sie mit [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
@@ -176,8 +210,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   [color=cyan]Ordnen[/color] Sie Gegenstände durch Ziehen mit [color=yellow][bold][keybind="MoveStoredItem"][/bold][/color].
   Drehen Sie sie während des Ziehens mit [color=yellow][bold][keybind="RotateStoredItem"][/bold][/color].
 
+<<<<<<< HEAD
   Klicken Sie [color=yellow][bold][keybind="SaveItemLocation"][/bold][/color] auf einen Gegenstand in einem Behälter, um seine Position zu [color=cyan]speichern[/color], sodass er immer an diese Position zurückkehrt.
   Gespeicherte Positionen sehen Sie, indem Sie [color=yellow][bold]mit der Maus über Gegenstände fahren[/bold][/color].
+=======
+  ### Smart-equipping
+  You can [color=cyan]quick-move[/color] items between your active hand and a corresponding slot. If that slot has a container in it, this action will [color=cyan]quick-store[/color] or [color=cyan]quick-take[/color] the most recent item from that container (signified with a golden star icon in the container).
+
+  - [color=yellow][bold][keybind="SmartEquipBackpack"][/bold][/color] smart-equips the back slot.
+  - [color=yellow][bold][keybind="SmartEquipBelt"][/bold][/color] smart-equips the belt slot.
+  - [color=yellow][bold][keybind="SmartEquipPocket1"][/bold][/color], [color=yellow][bold][keybind="SmartEquipPocket2"][/bold][/color], and [color=yellow][bold][keybind="SmartEquipSuitStorage"][/bold][/color] smart-equip the left pocket, right pocket, and suit storage slots, respectively.
+>>>>>>> upstream/master
 
   ## Kamera
   [color=cyan]Zoomen[/color] Sie die Kamera mit [color=yellow][bold][keybind="ZoomIn"][/bold][/color] und [color=yellow][bold][keybind="ZoomOut"][/bold][/color] und setzen Sie sie mit [color=yellow][bold][keybind="ResetZoom"][/bold][/color] zurück.
