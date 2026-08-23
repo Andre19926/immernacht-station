@@ -70,11 +70,6 @@
 
   Kultisten können einen Bösartigen Riss heimlich [color=#4cabb3]absorbieren[/color], indem sie mit ihm interagieren.
 
-<<<<<<< HEAD
-  Die erfolgreiche Absorption eines Bösartigen Risses wird den ausführenden Kultisten [bold]permanent[/bold] stärken, die Stärke aller [color=#4cabb3]Einflüsse[/color], die er besitzt, erhöhen und die [color=#4cabb3]Entropie[/color], die er durch das Absaugen von Crewmitgliedern erhält, verdoppeln. Gestärkte Kultisten müssen auch nicht mehr atmen und sind immun gegen das Vakuum des Weltraums.
-
-  Bösartige Risse können gereinigt werden, indem man mit einer Bibel mit ihnen interagiert.
-=======
   Successful absorbtion of a Malign Rift will [bold]permanently[/bold] empower the cultist doing so, increasing the strength of all the [color=#4cabb3]Influences[/color] they possess, and doubling the [color=#4cabb3]Entropy[/color] they gain from siphoning crewmembers. Empowered cultists also no longer need to breathe, and are immune to the vaccuum of space. Empowered cultists also gain the [color=#4cabb3]Null Fragmentation[/color] influence, which can be used to convert a Cyborg into an [color=#4cabb3]Entropic Colossus[/color], or to corrupt the station AI's laws.
 
   Malign Rifts can be purged by interacting with them using a bible.
@@ -102,5 +97,4 @@
   While empowered, one of the ways cultists can choose to expend their empowerment is by using [color=#4cabb3]Null Fragmentation[/color] on the [bold]AI Upload Console[/bold]. Provided there is a Station AI active, this will forcibly overwrite their laws with a corrupt set of guidelines, aligning them with the Cosmic Cult, in addition to granting them access to the Astral Murmur channel.
 
   If a different lawboard was installed, this process will forcibly eject the previous lawboard from the AI Upload Console, regardless of wether or not the console was locked. Be warned; the crew will still be able to restore the Station AI's functionality by installing a safe, crew-aligned lawboard.
->>>>>>> upstream/master
 </Document>

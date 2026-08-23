@@ -3,63 +3,6 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-<<<<<<< HEAD
-# Xenoarchäologie (Xenoarchaeology)
-Xenoarchäologie (Xenoarchaeology) ist ein wissenschaftliches Unterdepartment, das sich auf die Erforschung und Experimente mit außerirdischen Artefakten konzentriert.
-
-Zu Beginn jeder Schicht hat das Wissenschaftsdepartment (Science Department) in der Regel Zugang zu mindestens zwei Artefakten, an denen experimentiert werden kann. Weitere können durch Absprache mit dem Frachtdepartment (Cargo Department) erworben werden.
-
-Durch die Erforschung der einzigartigen Fähigkeiten jedes Artefakts erhalten Sie Forschungspunkte (Research Points), erhöhen den Verkaufswert des Artefakts und entdecken möglicherweise eine oder zwei nützliche Fähigkeiten, die Ihrem Department oder der gesamten Station helfen können!
-
-## Artefaktknoten (Artifact Nodes)
-<Box>
-<GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
-<GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
-</Box>
-Artefakte bestehen aus einem zufällig generierten Baum von Knoten (Nodes). Diese Knoten haben eine „[color=#a4885c]Tiefe (Depth)[/color]“, die angibt, wie gefährlich der Knoten ist, und die Anzahl der mit ihm verbundenen Knoten, genannt „[color=#a4885c]Kanten (Edges)[/color]“.
-
-Artefakte beginnen immer bei Tiefe Null (Depth Zero), dem Ursprung des Baums. Das Durchqueren des Baums, um so viele Knoten wie möglich zu finden, ist das Hauptziel der Wissenschaftler, die an ihnen arbeiten. Wissen wird aus Knoten extrahiert, um Forschungspunkte (Research Points) zu gewinnen und den Verkaufswert des Artefakts zu steigern.
-
-Jeder Knoten hat zwei Komponenten: seinen [color=#a4885c]Stimulus[/color] und eine [color=#a4885c]Reaktion (Reaction)[/color].
-
-Ein Stimulus ist das externe Verhalten, das die Reaktion auslöst. Es gibt eine Vielzahl davon, und Knoten mit höherer Tiefe haben schwieriger zu erfüllende Stimuli. Einige Stimuli erfordern Improvisation, und Sie müssen möglicherweise mit anderen Departments sprechen, um alles zu bekommen, was Sie brauchen.
-
-Einige Reaktionen (Reactions) sind sofortige Effekte, während andere dauerhafte Veränderungen sind. Sobald ein Artefakt ausgelöst wird, führt die Reaktion dazu, dass das Artefakt zufällig zu einem anderen Knoten wechselt, mit dem es verbunden ist.
-
-Mit etwas experimenteller Wissenschaft können Sie beginnen zu verstehen, wie die verschiedenen Knoten eines Artefakts verbunden sind und wie man zwischen ihnen wechselt, indem man Knoten wiederholt aktiviert.
-
-Alle Knoten mit einer Tiefe ungleich Null haben genau eine Kante (Edge), die zum übergeordneten Knoten führt. Alle anderen Kanten, die ein Knoten hat, führen zur nächsten Tiefe (Depth).
-
-## Artefaktanalysator und Analysekonsole (Artifact Analyzer and Analysis Console)
-<Box>
-<GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="Artefaktanalysator (Artifact Analyzer)"/>
-<GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Analysekonsole (Analysis Console)"/>
-</Box>
-Die Hauptausrüstung, die Sie für Xenoarchäologie (Xenoarchaeology) verwenden, ist der [color=#a4885c]Artefaktanalysator (Artifact Analyzer)[/color] und die [color=#a4885c]Analysekonsole (Analysis Console)[/color]. Mit diesen können Sie Berichte erstellen, die wertvolle Informationen über ein Artefakt enthalten.
-
-Um sie einzurichten, verknüpfen Sie sie einfach mit einem Netzwerkkonfigurator (Network Configurator) und platzieren Sie ein Artefakt auf dem Analysator. Jede Station hat mindestens eine dieser Maschinen bereits eingerichtet.
-
-Verwenden Sie die [color=#a4885c]Scan-Taste (Scan Button)[/color] der Konsole, um herauszufinden, welchen Stimulus das Artefakt benötigt und was seine Reaktion (Reaction) bewirkt. Das Scannen dauert dreißig Sekunden.
-
-Verwenden Sie die [color=#a4885c]Druck-Taste (Print Button)[/color], um das Scanergebnis zu speichern, damit Sie später darauf zurückgreifen können.
-
-Sobald Sie einen neuen Knoten entdeckt haben, können Sie Punkte aus dem Artefakt extrahieren, indem Sie die [color=#a4885c]Extrakt-Taste (Extract Button)[/color] verwenden.
-
-## Zusammenbau von Artefakten (Assembling Artifacts)
-<GuideEntityEmbed Entity="ArtifactFragment" Caption="Artefaktfragment (Artifact Fragment)"/>
-
-Es ist möglich, mehrere Artefaktfragmente (Artifact Fragments) zu sammeln und sie zu einem funktionsfähigen Artefakt zusammenzusetzen. Sie können diese von der Bergung (Salvage) anfordern, die diese in der Regel beim Abbau von Asteroiden oder auf Expeditionen findet.
-
-## Traversierungs-Bias (Traversal Bias)
-<Box>
-  <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="Artefaktanalysator (Artifact Analyzer)"/>
-</Box>
-Artefakte, die auf einem eingeschalteten Artefaktanalysator (Artifact Analyzer) platziert sind, unterliegen einem Bias, der beeinflusst, zu welchem Knoten sie nach der Aktivierung wechseln. Der Bias kann in der Analysekonsole (Analysis Console) eingestellt werden.
-
-Es gibt zwei Arten von Bias:
-- [color=#a4885c]Hoch (Up):[/color] bevorzugt Knoten, die näher am Ursprung liegen. Führt zu einer Verringerung der Tiefe (Depth).
-- [color=#a4885c]Runter (Down):[/color] bevorzugt Knoten, die weiter vom Ursprung entfernt sind. Führt zu einer Erhöhung der Tiefe (Depth).
-=======
   # Xenoarchaeology
 
   Xenoarchaeology is a branch of Science focused on researching alien [bold]artifacts[/bold].
@@ -109,5 +52,4 @@ Es gibt zwei Arten von Bias:
     <GuideEntityEmbed Entity="ArtifactFragment" Caption="Artifact Fragment"/>
   </Box>
   - [bold]Artifact Fragment:[/bold] Pieces of destroyed artifacts. Four fragments can be rebuilt into a new artifact using the craft menu.
->>>>>>> upstream/master
 </Document>

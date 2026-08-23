@@ -11,18 +11,6 @@
     <GuideEntityEmbed Entity="CosmicEchoVfx" Caption=""/>
   </Box>
 
-<<<<<<< HEAD
-  ## Start-Einflüsse
-  - [color=#4cabb3][bold]Entropie Abziehen (Siphon Entropy):[/bold][/color] Entzieht eurem Ziel stillschweigend Entropie und verursacht dabei etwas Schaden.
-  - [color=#4cabb3][bold]Nichtiges Funkeln (Null Glare):[/bold][/color] Sendet einen schrecklichen Puls kosmischen Lichts aus, der alle um euch herum verlangsamt und desorientiert.
-
-  ## Freischaltbare aktive Einflüsse
-  - [color=#4cabb3][bold]Abweichender Aussetzer (Abberant Lapse):[/bold][/color] Lässt die körperliche Form eures Ziels aussetzen, wodurch es vorübergehend unveränderlich, unpassierbar und an Ort und Stelle erstarrt wird.
-  - [color=#4cabb3][bold]Subjektivität Ableiten (Shunt Subjectivity):[/bold][/color] Leitet den Geist eures Ziels aus seinem Körper und in die kosmische Dunkelheit, wodurch sein Körper vorübergehend geistlos wird.
-  - [color=#4cabb3][bold]Erzwungener Zutritt (Force Ingress):[/bold][/color] Verwendet eine konzentrierte Explosion von Kraft, um eine gesicherte Tür gewaltsam zu öffnen.
-  - [color=#4cabb3][bold]Astrale Nova (Astral Nova):[/bold][/color] Schleudert eine große und störende Explosion astraler Energie.
-  - [color=#4cabb3][bold]Leere Auferlegung (Vacuous Imposition):[/bold][/color] Negiert jeglichen eingehenden Schaden für kurze Zeit.
-=======
   ## Starting Influences
   - [color=#4cabb3][bold]Siphon Entropy:[/bold][/color] Silently siphon entropy from your target, dealing some damage in the process.
   - [color=#4cabb3][bold]Shunt Subjectivity:[/bold][/color] Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
@@ -36,7 +24,6 @@
   - [color=#4cabb3][bold]Force Ingress:[/bold][/color] Use a concentrated blast of power to force a secure doorway open.
   - [color=#4cabb3][bold]Astral Nova:[/bold][/color] Hurl a large and disruptive blast of astral energy.
   - [color=#4cabb3][bold]Vacuous Imposition:[/bold][/color] You negate any incoming damage for a short time.
->>>>>>> upstream/master
 
   ## Freischaltbare passive Einflüsse
   - [color=#4cabb3][bold]Stoffwechsel Entziehen (Eschew Metabolism):[/bold][/color] Eure körperlichen Bedürfnisse nach Hunger und Durst sind zerrissen – ihr müsst nicht mehr essen oder trinken.

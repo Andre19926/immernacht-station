@@ -3,19 +3,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-<<<<<<< HEAD
 # Die Kapitäne und die Clowns (The Captains and the Clowns)
 Dies ist ein Leitfaden zur Bearbeitung des Aussehens Ihres Charakters. Lesen Sie zuerst die Charaktererstellung (Character Creation).
-=======
-# The Captains and the Clowns
-This is a guide for editing your character's appearance. Make sure you read Character Creation first.
-Upon creating your character, you may be intimidated by your vast range of options.
-
-It's okay to make your first character [color=#a4885c]randomized[/color] and roll with it, even experienced players do it.
-Making your first character doesn't have to be precise, either. You can [color=#a4885c]wing it[/color] and see what happens.
-
-If you'd like to be [color=#a4885c]methodical[/color], though, creating a character is easy to do one step at a time.
->>>>>>> upstream/master
 
 Bei der Charaktererstellung können die vielen Optionen überwältigend sein.
 
@@ -41,21 +30,10 @@ Dazu gehören:
 - Augenfarbe (RGB)
 - Haarfarbe (RGB)
 
-<<<<<<< HEAD
 Diese sind kleine Änderungen und haben wenig Einfluss auf das Gameplay. Spieler sehen diese, wenn sie Sie [color=#a4885c]untersuchen (Examine)[/color] (z. B. „junger Mann“).
 
 ## Haare und Gesichtsbehaarung (Hair and Facial Hair)
 Die vielen Optionen können einschüchternd sein. Das ist in Ordnung.
-=======
-If you really can't decide, some popular haircut options include Floorlength Bedhead, Modern, Business, CIA or simply bald.
-Alternatively, [color=#a4885c]randomize[/color] a separate character and see what kind of haircuts they're rocking with. Surprise yourself.
-
-Don't feel obligated to use any of these, though.
-
-## Markings
-Markings range from [color=#a4885c]scars and snouts[/color] to [color=#a4885c]tattoos and tails[/color].
-Think of them like [color=#a4885c]accessories[/color] that are a part of your body, for giving your character some extra flair and uniqueness. They cannot be changed during the round.
->>>>>>> upstream/master
 
 [color=#a4885c]Nehmen Sie sich Zeit.[/color] Sie können die Optionen durchsehen oder anklicken, um Ihre Favoriten zu finden.
 Manchmal ist es einfacher, zuerst die gewünschte Haarfarbe festzulegen.

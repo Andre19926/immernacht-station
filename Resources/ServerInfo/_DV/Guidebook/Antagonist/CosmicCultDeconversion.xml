@@ -1,30 +1,12 @@
 <Document>
-<<<<<<< HEAD
-  # De-Konvertierung
-  <Box>
-    <GuideEntityEmbed Entity="Bible" Caption=""/>
-  </Box>
-=======
   # Deconversion
   <Box>
     <GuideEntityEmbed Entity="Bible" Caption=""/>
     <GuideEntityEmbed Entity="CosmicCenser" Caption=""/>
   </Box>
->>>>>>> upstream/master
 
   Wenn eine Anstrengung unternommen wird, um den [color=#4cabb3]Kosmischen Kult[/color] zu vereiteln, gibt es verschiedene Methoden, die die Besatzung anwenden kann, um ihr Überleben und ihre Sicherheit zu gewährleisten. Eine dieser Methoden ist die [color=Yellow]De-Konvertierung[/color].
 
-<<<<<<< HEAD
-  Um einen kosmischen Kultisten zu [color=Yellow]de-konvertieren[/color], können zwei Methoden angewendet werden. Die erste besteht darin, einem Kultisten ein Glas [color=#91C3F7]Weihwasser[/color] zu trinken zu geben – notfalls mit Gewalt. Weihwasser kann beschafft werden von:
-  - Lieferungen religiöser Vorräte, erhältlich von der Fracht. Diese enthalten zwei Krüge Weihwasser, sowie eine Bibel.
-  - Die Verwendung einer Bibel durch einen Kaplan auf den meisten Wasserbehältern segnet das Wasser, wodurch es zu Weihwasser wird.
-
-  ## Unterdrückungsmethoden
-  <Box>
-    <GuideEntityEmbed Entity="Bible" Caption=""/>
-    <GuideEntityEmbed Entity="MindShieldImplanter" Caption=""/>
-  </Box>
-=======
   To [color=Yellow]Deconvert[/color] a cosmic cultist, an [bold]Ardent Censer[/bold] must be used. Censers are fueled with Holy Water, which can be procured from:
   - Usage of a Bible by a Chaplain or Mystagogue on most containers of water will bless the water, turning it into Holy Water.
 
@@ -34,16 +16,11 @@
     <GuideEntityEmbed Entity="MindShieldImplanter" Caption=""/>
     <GuideEntityEmbed Entity="CosmicCenser" Caption=""/>
   </Box>
->>>>>>> upstream/master
 
   Die De-Konvertierung ist nur eine Methode, um mit einem sich ausbreitenden Kult umzugehen. Die Besatzung an Bord der Immernacht Station möchte möglicherweise alternativ in [color=Green]Gedankenschild[/color]-Implantierer investieren.
 
   Diese hochmodernen Geräte können verhindern, dass äußere Einflüsse Besatzungsmitglieder einer Gehirnwäsche unterziehen, und bieten einen mächtigen Nutzen gegen den Einfluss des Kults.
 
-<<<<<<< HEAD
-  Die Hingabe des [color=Yellow]Kaplans[/color] macht sie nahezu immun gegen fast alle Kräfte des Kosmischen Kults.
-=======
   The [color=Yellow]Chaplain[/color] and [color=Yellow]Mystagogue[/color]'s noospheric attuning renders them immune to nearly all of the cosmic cult's powers.
->>>>>>> upstream/master
 
 </Document>
