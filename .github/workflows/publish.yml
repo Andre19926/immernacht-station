@@ -46,9 +46,9 @@ jobs:
         cd RobustToolbox
         git fetch --depth=1
 
-
     - name: Clean
-      run: dotnet clean
+      run: |
+        find . -type d \( -name bin -o -name obj \) -prune -exec rm -rf {} +
 
     - name: Install dependencies
       run: dotnet restore
