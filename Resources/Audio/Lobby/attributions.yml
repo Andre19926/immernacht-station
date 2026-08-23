@@ -141,7 +141,6 @@
   copyright: "The Future Soon by Jonathan Coulton"
   source: "https://www.youtube.com/watch?v=l5PEz3kGbp4"
 
-<<<<<<< HEAD
 - files: ["computerliebe.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Paso Doble - Computerliebe"
@@ -176,9 +175,8 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "It's Been So Long - The Living Tombstone"
   source: "https://www.youtube.com/watch?v=gk-aCL6eyGc"
-=======
+
 - files: ["CHUDSHIFT.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "dannyy_uwu - CHUDSHIFT- deer destroyer"
   source: "https://youtu.be/vbGYg9chpGY"
->>>>>>> upstream/master
