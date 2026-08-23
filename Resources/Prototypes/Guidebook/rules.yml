@@ -1,16 +1,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- type: guideEntry # Default for forks and stuff. Should not be listed anywhere if the server is using a custom ruleset.
-  id: DefaultRuleset
-  name: guide-entry-rules
-  priority: 60
-  text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
-  children:
-  - CoreRules
-  - RoleplayRules
-  - SiliconRules
-  - BanTypes
-  - BanDurations
+#- type: guideEntry # Default for forks and stuff. Should not be listed anywhere if the server is using a custom ruleset.
+#  id: DefaultRuleset
+#  name: guide-entry-rules
+#  priority: 60
+#  text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
+#  children:
+#  - CoreRules
+#  - RoleplayRules
+#  - SiliconRules
+#  - BanTypes
+#  - BanDurations
 
 - type: guideEntry # Immernacht Station Server Regeln
   id: IRPRules
