@@ -1,0 +1,1 @@
+ent-ClothingHeadHelmetAbductor = Fremdenhelm

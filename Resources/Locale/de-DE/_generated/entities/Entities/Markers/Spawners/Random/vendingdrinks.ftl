@@ -1,0 +1,1 @@
+ent-RandomVendingDrinks = Zufallsautomat Spawner

@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: 2022 keronshb <54602815+keronshb@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Arendian <137322659+Arendian@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Vordenburg <114301317+Vordenburg@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 deltanedas <39013340+deltanedas@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 deltanedas <@deltanedas:kde.org>
+# SPDX-FileCopyrightText: 2023 deltanedas <user@zenith>
+# SPDX-FileCopyrightText: 2023 metalgearsloth <comedian_vs_clown@hotmail.com>
+# SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2024 Simon <63975668+Simyon264@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 SlamBamActionman <83650252+SlamBamActionman@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Zachary Higgs <compgeek223@gmail.com>
+# SPDX-FileCopyrightText: 2025 lzk <124214523+lzk228@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+## Implanter Attempt Messages
+
+implanter-component-implanting-target = {$user} versucht, dich mit etwas zu implantieren!
+implanter-component-implant-failed = Die {$implant} kann nicht gegeben werden {$target}!
+implanter-draw-failed-permanent = Die {$implant} in {$target} kondensiert mit { OBJECT($target) } und kann nicht entfernt werden!
+implanter-draw-failed = Sie haben versucht, ein Implantat zu entfernen, aber nichts gefunden.
+implanter-draw-failed-catastrophically = Der Implanter findet nichts und scheitert katastrophal, indem er genetisches Material in {$user}Hand!
+implanter-component-implant-already = {$target} bereits hat die {$implant}!
+
+## UI
+implanter-set-draw-verb = Set Implant Draw
+implanter-set-draw-window = Set Implant Draw
+implanter-set-draw-info = Wählen Sie den Implantattyp, den dieser Implantator entfernen soll:
+implanter-set-draw-type = Art des Implantats:
+
+implanter-draw-text = Zeichnung
+implanter-inject-text = Einspritzung
+
+implanter-empty-text = Leer
+
+implanter-label-inject = [color=green]{$implantName}[/color]
+    Modus: [color=white]{$modeString}[/color]
+
+implanter-label-draw = [color=red]{$implantName}[/color]
+    Modus: [color=white]{$modeString}[/color]
+
+implanter-contained-implant-text = [color=green]{$desc}[/color]

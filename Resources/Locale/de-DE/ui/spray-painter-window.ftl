@@ -1,0 +1,1 @@
+pipe-painter-no-color-selected = (Keine Farbe ausgewählt)

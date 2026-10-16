@@ -1,0 +1,224 @@
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Bloody2372 <146976013+Bloody2372@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 KingFroozy <140668342+KingFroozy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 MACMAN2003 <macman2003c@gmail.com>
+# SPDX-FileCopyrightText: 2023 liltenhead <104418166+liltenhead@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Илья Стокалюк <darkelement237@mail.ru>
+# SPDX-FileCopyrightText: 2024 BeeRobynn <robynthewarcrime@proton.me>
+# SPDX-FileCopyrightText: 2024 Emisse <99158783+Emisse@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Futuristic-OK <141568243+Futuristic-OK@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 RenQ <164364533+ImRenQ@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 UnicornOnLSD <149102472+UnicornOnLSD@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 nao fujiwara <awkwarddryad@gmail.com>
+# SPDX-FileCopyrightText: 2024 ~DreamlyJack~ <148849095+DreamlyJack@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Арт <123451459+JustArt1m@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+marking-HumanHairAfro = Afro
+marking-HumanHairAfro2 = Afro 2
+marking-HumanHairBigafro = Afro (Groß)
+marking-HumanHairAntenna = Ahoge
+marking-HumanHairBaby = Baby
+marking-HumanHairBalding = Glatzenhaar
+marking-HumanHairBedhead = Bettkopf
+marking-HumanHairBedheadv2 = Bettkopf 2
+marking-HumanHairBedheadv3 = Bettkopf 3
+marking-HumanHairLongBedhead = Langes Bett
+marking-HumanHairLongBedhead2 = Langer Bettkopf 2
+marking-HumanHairFloorlengthBedhead = Bodenlänge Bettkopf
+marking-HumanHairBeehive = Bienenstock
+marking-HumanHairBeehivev2 = Bienenstock 2
+marking-HumanHairBob = Bob Hair
+marking-HumanHairBob2 = Bob Hair 2
+marking-HumanHairBobcut = Bob Hair 3
+marking-HumanHairBob4 = Bob Hair 4
+marking-HumanHairBob5 = Bob Hair 5
+marking-HumanHairBobcurl = Bobcurl
+marking-HumanHairBoddicker = Boddicker
+marking-HumanHairBowlcut = Schalenschnitt
+marking-HumanHairBowlcut2 = Schalenschnitt 2
+marking-HumanHairBraid = Geflecht (Floorlength)
+marking-HumanHairBraided = Geflochten
+marking-HumanHairBraidfront = Geflochtene Front
+marking-HumanHairBraid2 = Geflecht (hoch)
+marking-HumanHairHbraid = Geflecht (niedrig)
+marking-HumanHairShortbraid = Geflecht (kurz)
+marking-HumanHairBraidtail = Geflochtener Schwanz
+marking-HumanHairBun = Bun Kopf
+marking-HumanHairBunhead2 = Bun Head 2
+marking-HumanHairBun3 = Bun Head 3
+marking-HumanHairLargebun = Bun (Groß)
+marking-HumanHairManbun = Bun (Manbun)
+marking-HumanHairTightbun = Bun (Tight)
+marking-HumanHairBusiness = Business Hair
+marking-HumanHairBusiness2 = Business Hair 2
+marking-HumanHairBusiness3 = Business Hair 3
+marking-HumanHairBusiness4 = Business Hair 4
+marking-HumanHairBuzzcut = Buzzcut
+marking-HumanHairCia = CIA
+marking-HumanHairClassicAfro = Klassischer Afro
+marking-HumanHairClassicBigAfro = Klassischer Big Afro
+marking-HumanHairClassicBusiness = Klassisches Business-Haar
+marking-HumanHairClassicCia = Klassische CIA
+marking-HumanHairClassicCornrows2 = Classic Cornrows 2
+marking-HumanHairClassicFloorlengthBedhead = Klassisches Fußbodenbett
+marking-HumanHairClassicLong2 = Klassisches Langhaar 2
+marking-HumanHairClassicLong3 = Klassisches Langhaar 3
+marking-HumanHairClassicModern = Klassisch modern
+marking-HumanHairClassicMulder = Klassischer Mulder
+marking-HumanHairClassicWisp = Klassische Wisp
+marking-HumanHairCoffeehouse = Kaffeehaus
+marking-HumanHairCombover = Verbrennung
+marking-HumanHairCornrows = Cornrows
+marking-HumanHairCornrows2 = Cornrows 2
+marking-HumanHairCornrowbun = Cornrow Bun
+marking-HumanHairCornrowbraid = Cornrow Braid
+marking-HumanHairCornrowtail = Cornrow Tail
+marking-HumanHairCrewcut = Crewcut
+marking-HumanHairCrewcut2 = Crewcut 2
+marking-HumanHairCube = Würfel
+marking-HumanHairCurls = Locken
+marking-HumanHairC = Schnitthaar
+marking-HumanHairDandypompadour = Dandy Pompadour
+marking-HumanHairDevilock = Devil Lock
+marking-HumanHairDoublebun = Double Bun
+marking-HumanHairDoublebunLong = Double Bun Long Ubersetzungen
+marking-HumanHairDreads = Dreadlocks
+marking-HumanHairDrillruru = Drillruru
+marking-HumanHairDrillhairextended = Bohrhaar (erweitert)
+marking-HumanHairEmo = Emo
+marking-HumanHairEmofringe = Emo Rand
+marking-HumanHairNofade = Fade (keine)
+marking-HumanHairHighfade = Fade (hoch)
+marking-HumanHairMedfade = Fade (Mittelwert)
+marking-HumanHairLowfade = Fade (niedrig)
+marking-HumanHairBaldfade = Fade (Bald)
+marking-HumanHairFeather = Feder
+marking-HumanHairFather = Vater
+marking-HumanHairNiko = Niko
+marking-HumanHairSargeant = Flat Top
+marking-HumanHairFlair = Flair
+marking-HumanHairBigflattop = Flat Top (Groß)
+marking-HumanHairFlow = Fließhaar
+marking-HumanHairGelled = Gel zurück
+marking-HumanHairGentle = Sanft
+marking-HumanHairHalfbang = Halbschliffiges Haar
+marking-HumanHairHalfbang2 = Halbschliffiges Haar 2
+marking-HumanHairHalfshaved = Halbrasiert
+marking-HumanHairHedgehog = Igelhaar
+marking-HumanHairHimecut = Hime Cut
+marking-HumanHairHimecut2 = Hime Cut 2
+marking-HumanHairShorthime = Hime Cut (Short)
+marking-HumanHairHimeup = Hime Updo
+marking-HumanHairHitop = Treffer
+marking-HumanHairJade = Jade
+marking-HumanHairJensen = Jensen Hair
+marking-HumanHairJoestar = Joestar
+marking-HumanHairKeanu = Keanu Hair
+marking-HumanHairKusanagi = Kusanagi Haar
+marking-HumanHairLongBow = Langer Bogen
+marking-HumanHairLong = Langes Haar 1
+marking-HumanHairLong2 = Langes Haar 2
+marking-HumanHairLong3 = Langes Haar 3
+marking-HumanHairLongWithBundles = Lang mit Bundles
+marking-HumanHairLongovereye = Langes Auge
+marking-HumanHairLbangs = Lange Bangs
+marking-HumanHairLongemo = Lange Mutter
+marking-HumanHairLongfringe = Lange Ränder
+marking-HumanHairLongsidepart = Längsseitenteil
+marking-HumanHairMegaeyebrows = Mega Augenbrauen
+marking-HumanHairMessy = Messing
+marking-HumanHairModern = modern
+marking-HumanHairMohawk = Mohawk
+marking-HumanHairNitori = Nitorin
+marking-HumanHairReversemohawk = Mohawk (umgekehrt)
+marking-HumanHairUnshavenMohawk = Mohawk (Unrasiert)
+marking-HumanHairMulder = Mulder
+marking-HumanHairOdango = Odango
+marking-HumanHairOmbre = Ombre
+marking-HumanHairOneshoulder = Eine Schulter
+marking-HumanHairShortovereye = Über Auge
+marking-HumanHairOxton = Oxton
+marking-HumanHairParted = Geteilt
+marking-HumanHairPart = Getrennt (Seite)
+marking-HumanHairKagami = Ferkelschwänze
+marking-HumanHairPigtails = Pigtails 2
+marking-HumanHairPigtails2 = Pigtails 3
+marking-HumanHairPixie = Pixie Cut
+marking-HumanHairPompadour = Pompadour
+marking-HumanHairBigpompadour = Pompadour (Groß)
+marking-HumanHairPonytail = Pferdeschwanz
+marking-HumanHairPonytail2 = Pferdeschwanz 2
+marking-HumanHairPonytail3 = Pferdeschwanz 3
+marking-HumanHairPonytail4 = Pferdeschwanz 4
+marking-HumanHairPonytail5 = Pferdeschwanz 5
+marking-HumanHairPonytail6 = Pferdeschwanz 6
+marking-HumanHairPonytail7 = Pferdeschwanz 7
+marking-HumanHairHighponytail = Pferdeschwanz (hoch)
+marking-HumanHairStail = Pferdeschwanz (kurz)
+marking-HumanHairLongstraightponytail = Pferdeschwanz (Lang)
+marking-HumanHairCountry = Pferdeschwanz (Land)
+marking-HumanHairFringetail = Pferdeschwanz (Fringe)
+marking-HumanHairSidetail = Pferdeschwanz (Seite)
+marking-HumanHairSidetail2 = Pferdeschwanz (Seite) 2
+marking-HumanHairSidetail3 = Pferdeschwanz (Seite) 3
+marking-HumanHairSidetail4 = Pferdeschwanz (Seite) 4
+marking-HumanHairSpikyponytail = Pferdeschwanz (Spiky)
+marking-HumanHairPoofy = Poofy
+marking-HumanHairPulato = Pulato
+marking-HumanHairQuiff = Quiffel
+marking-HumanHairRonin = Ronin
+marking-HumanHairShaped = geformt
+marking-HumanHairShaved = Rasiert
+marking-HumanHairShavedpart = Scherteil
+marking-HumanHairShortbangs = Short Bangs
+marking-HumanHairA = Kurzhaar
+marking-HumanHairShorthair2 = Kurzhaar 2
+marking-HumanHairShorthair3 = Kurzes Haar 3
+marking-HumanHairD = Kurzes Haar 4
+marking-HumanHairE = Kurzes Haar 5
+marking-HumanHairF = Kurzes Haar 6
+marking-HumanHairShorthairg = Kurzes Haar 7
+marking-HumanHair80s = Kurzes Haar 80er
+marking-HumanHairRosa = Kurzhaar Rosa
+marking-HumanHairB = Schulterlanges Haar
+marking-HumanHairBAlt = Schulterlanges Haar (über dem Auge)
+marking-HumanHairSidecut = Sidecut
+marking-HumanHairSkinhead = Skinhead
+marking-HumanHairProtagonist = Etwas langes Haar
+marking-HumanHairSpikey = Spike
+marking-HumanHairSpiky = Spiky 2
+marking-HumanHairSpiky2 = Spiky 3
+marking-HumanHairSpookyLong = Spooky Long
+marking-HumanHairSwept = Zurückgestrichenes Haar
+marking-HumanHairSwept2 = Swept Back Hair 2
+marking-HumanHairTailed = Tailing
+marking-HumanHairThinning = Ausdünnung
+marking-HumanHairThinningfront = Ausdünnung (Vorderseite)
+marking-HumanHairThinningrear = Ausdünnung (hinten)
+marking-HumanHairTopknot = Topknot
+marking-HumanHairTressshoulder = Tress Shoulder
+marking-HumanHairTrimmed = Beschnitten
+marking-HumanHairTrimflat = Trim Flat
+marking-HumanHairTwintail = Zwillingsschwänze
+marking-HumanHairTwoStrands = Zwei Stränge
+marking-HumanHairUndercut = Unterschnitt
+marking-HumanHairUndercutleft = Unterschnitt links
+marking-HumanHairUndercutright = Unterschnitt rechts
+marking-HumanHairUneven = gleichmäßig
+marking-HumanHairUnkept = ungepflegt
+marking-HumanHairUpdo = Updo
+marking-HumanHairVlong = Sehr langes Haar
+marking-HumanHairLongest = Sehr langes Haar 2
+marking-HumanHairLongest2 = Sehr lange über Auge
+marking-HumanHairVeryshortovereyealternate = Sehr kurz (Over Eye)
+marking-HumanHairVlongfringe = Sehr lang mit Fringe
+marking-HumanHairVolaju = Volaju
+marking-HumanHairWisp = Wisp.
+marking-HumanHairLongWithBangs = Lange mit Bangs
+marking-HumanHairOverEyePigtail = Schwanz (Over Eye)

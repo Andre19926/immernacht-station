@@ -1,0 +1,14 @@
+ent-MedkitCombatStasiziumFilled = futuristisches Medkit
+    .desc = Medkit gefüllt mit Medikamenten der Zukunft
+
+ent-MedkitBSOFilled = taktisches medizinisches Kit
+    .desc = Enthält alles, was Sie brauchen, um eine Person schnell wieder aufstehen zu lassen.
+
+ent-MedkitBSOIPCFilled = taktisches Reparatur-Kit
+    .desc = Enthält alles, was Sie brauchen, um ein Silizium schnell wieder zu bekommen.
+
+ent-MedkitCombatBlueFilled = Kampfmedizinisches Kit
+    .desc = Enthält die meisten Medikamente, die Sie benötigen, um sich von Verletzungen und Krankheiten zu erholen, alles in einer bequemen Pillenform.
+
+ent-MedkitCombatPurpleFilled = Kampfmedizinisches Kit
+    .desc = Für die IPCs unter uns.

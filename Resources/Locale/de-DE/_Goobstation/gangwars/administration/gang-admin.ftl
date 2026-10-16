@@ -1,0 +1,14 @@
+gang-admin-title = Gang Admin Panel
+gang-admin-no-selection = Wählen Sie eine Gang
+gang-admin-members-header = Mitglieder:
+gang-admin-member-leader = {$name} (Leader)
+gang-admin-manual-rename = Manueller Name
+gang-admin-force-rename = Force Rename
+gang-admin-kick = Kick
+gang-admin-set-leader = Gruppenführer
+gang-admin-add-member = Add Member
+gang-admin-add-member-title = Spieler zur Gang hinzufügen
+gang-admin-player-in-gang = {$name} (Bereits in einer Gang)
+gang-admin-points-button = {$points} pts
+gang-admin-set-points = Sollpunkte
+gang-admin-points-title = Sollwerte für {$name}

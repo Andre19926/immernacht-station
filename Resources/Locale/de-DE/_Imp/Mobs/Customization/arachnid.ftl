@@ -1,0 +1,150 @@
+# Chest
+
+marking-ArachnidOverlayFluffy = Fluffy
+marking-ArachnidOverlayFluffy-fluffy = Fluff
+
+marking-ArachnidTorsoSegments = Segmentierte Brust
+marking-ArachnidTorsoSegments-segments1 = Brust
+marking-ArachnidTorsoSegments-segments2 = Magen
+
+marking-SpiderMirror = Spiegel
+marking-SpiderMirror-mirror = Spiegel
+
+# Head
+
+marking-ArachnidHeadSegments = Segmentierter Kopf
+marking-ArachnidHeadSegments-segments1 = Kopf
+marking-ArachnidHeadSegments-segments2 = Streifen
+
+# Snout
+
+marking-WhipSpiderMouth = Chelicerae (Whip)
+marking-WhipSpiderMouth-whipspidermouth = Chelicerae
+
+# Eyes
+
+marking-ArachnidEyesDefault = Augen
+marking-ArachnidEyesDefault-eyes = Augen (Standard)
+
+marking-ArachnidEyesJumper = Jumper Eyes
+marking-ArachnidEyesJumper-jumper1 = Äußeres Recht
+marking-ArachnidEyesJumper-jumper2 = Inneres Recht
+marking-ArachnidEyesJumper-jumper3 = Innere Linke
+marking-ArachnidEyesJumper-jumper4 = Linksaußen
+
+marking-ArachnidEyesJumperGlowing = Jumper leuchtende Augen
+marking-ArachnidEyesJumperGlowing-jumper1 = Äußeres Recht
+marking-ArachnidEyesJumperGlowing-jumper2 = Inneres Recht
+marking-ArachnidEyesJumperGlowing-jumper3 = Innere Linke
+marking-ArachnidEyesJumperGlowing-jumper4 = Linksaußen
+
+marking-ArachnidEyesRound = Rundaugen
+marking-ArachnidEyesRound-round1 = Inneres
+marking-ArachnidEyesRound-round2 = Oberschenkel
+marking-ArachnidEyesRound-round3 = Äußeres
+marking-ArachnidEyesRound-round4 = Seiten
+
+marking-ArachnidEyesRoundGlowing = Rund leuchtende Augen
+marking-ArachnidEyesRoundGlowing-round1 = Inneres
+marking-ArachnidEyesRoundGlowing-round2 = Oberschenkel
+marking-ArachnidEyesRoundGlowing-round3 = Äußeres
+marking-ArachnidEyesRoundGlowing-round4 = Seiten
+
+marking-SpiderEyesMulti = Mehrfarbige Augen
+marking-SpiderEyesMulti-multi1 = oben
+marking-SpiderEyesMulti-multi2 = Middle Top
+marking-SpiderEyesMulti-multi3 = mittlerer Boden
+marking-SpiderEyesMulti-multi4 = Boden
+
+marking-SpiderGlowEyes = Leuchtende Augen
+marking-SpiderGlowEyes-glow = Leuchtende Augen
+
+# RArm
+
+marking-ArachnidRArmSegments = Segmentierter Arm (rechts)
+marking-ArachnidRArmSegments-segments1 = Oberarm
+marking-ArachnidRArmSegments-segments2 = Unterarm
+
+# LArm
+
+marking-ArachnidLArmSegments = Segmentarm (links)
+marking-ArachnidLArmSegments-segments1 = Oberarm
+marking-ArachnidLArmSegments-segments2 = Unterarm
+
+# RLeg
+
+marking-ArachnidRLegSegments = Segmentiertes Bein (rechts)
+marking-ArachnidRLegSegments-segments1 = Oberschenkel
+marking-ArachnidRLegSegments-segments2 = Schinken
+
+# LLeg
+
+marking-ArachnidLLegSegments = Segmentiertes Bein (links)
+marking-ArachnidLLegSegments-segments1 = Oberschenkel
+marking-ArachnidLLegSegments-segments2 = Schinken
+
+# UndergarmentBottom
+
+# UndergarmentTop
+
+marking-UndergarmentTopBinderA = Binder
+marking-UndergarmentTopBinderA-binder = Binder
+
+marking-UndergarmentTopTanktopA = Tankstelle
+marking-UndergarmentTopTanktopA-tanktop = Tankstelle
+
+marking-UndershirtBraSportsA = Bra (Sport)
+marking-UndershirtBraSportsA-sports = Brabra
+
+marking-UndershirtBraStraplessA = Bra (bandlos)
+marking-UndershirtBraStraplessA-strapless = Brabra
+
+marking-UndershirtDefaultA = Unterhemden
+marking-UndershirtDefaultA-undershirt = Unterhemden
+
+marking-UndershirtGrossSleevelessA = Tanktop (Gross)
+marking-UndershirtGrossSleevelessA-grosssleeveless = Tankstelle
+
+marking-UndershirtNanotrasenA = Unterhemd (Nanotrasen)
+marking-UndershirtNanotrasenA-nanotrasen = Unterhemden
+
+marking-UndershirtRolledA = Unterhemd (abgeschnitten)
+marking-UndershirtRolledA-rolledundershirt = Unterhemden
+
+# LFoot
+
+# RFoot
+
+# LHand
+
+# RHand
+
+# FacialHair
+
+# Hair
+
+marking-SpiderHair1 = Fluffy
+marking-SpiderHair2 = Langhörner
+marking-SpiderHair3 = Wisps
+
+# HeadSide
+
+marking-ArachnidCheliceraeSmall = Chelicerae (klein)
+marking-ArachnidCheliceraeSmall-small = Chelicerae
+
+# HeadTop
+
+# Tail
+
+marking-AbdomenBasic = Abdomen (Basic)
+marking-AbdomenBasic-abdomenbasic1 = Beine
+marking-AbdomenBasic-abdomenbasic2 = Abdomen
+
+marking-AbdomenWidow = Abdomen (Widow)
+marking-AbdomenWidow-widow1 = Bauch und Arme
+marking-AbdomenWidow-widow2 = Kennzeichnung
+
+marking-CreepyArms = Griechische Arme
+marking-CreepyArms-creepy = Griechische Arme
+
+# RArmExtension

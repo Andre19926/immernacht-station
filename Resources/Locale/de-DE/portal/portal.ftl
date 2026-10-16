@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+### Portal verb text
+
+portal-component-ghost-traverse = Traverse
+
+portal-component-no-linked-entities = Kann kein Geist ein Portal durchqueren, das nicht genau 1 verknüpftes Portal hat
+portal-component-can-ghost-traverse = Teleportieren zum verknüpften Portal
+
+portal-component-invalid-configuration-fizzle = Das Portal verpufft!

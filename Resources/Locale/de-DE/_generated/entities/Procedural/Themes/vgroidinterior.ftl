@@ -1,0 +1,1 @@
+ent-VGRoidInteriorRoomMarker = VGRoid Innenmarkierung

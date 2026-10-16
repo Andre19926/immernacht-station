@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: 2022 Fishfish458 <47410468+Fishfish458@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Rinkashikachi <15rinkashikachi15@gmail.com>
+# SPDX-FileCopyrightText: 2022 fishfish458 <fishfish458>
+# SPDX-FileCopyrightText: 2023 Artjom <artjombebenin@gmail.com>
+# SPDX-FileCopyrightText: 2023 Maxtone <124747282+MagnusCrowe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 MilenVolf <63782763+MilenVolf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 KrasnoshchekovPavel <119816022+KrasnoshchekovPavel@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 Rainfey <rainfey0+github@gmail.com>
+# SPDX-FileCopyrightText: 2024 Saphire Lattice <lattice@saphi.re>
+# SPDX-FileCopyrightText: 2024 Thomas <87614336+Aeshus@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Whisper <121047731+QuietlyWhisper@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 lzk <124214523+lzk228@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+health-analyzer-window-no-patient-data-text = Keine Patientendaten.
+health-analyzer-window-entity-unknown-text = Unbekannt
+health-analyzer-window-entity-unknown-species-text = Nicht-humanoid
+health-analyzer-window-entity-unknown-value-text = N/A
+
+health-analyzer-window-entity-alive-text = Lebend
+health-analyzer-window-entity-dead-text = Tot
+health-analyzer-window-entity-critical-text = Kritisch
+
+health-analyzer-window-entity-temperature-text = Temperatur:
+health-analyzer-window-entity-blood-level-text = Blutspiegel:
+health-analyzer-window-entity-status-text = Status:
+health-analyzer-window-entity-damage-total-text = Gesamtschaden:
+
+health-analyzer-window-damage-group-text = {$damageGroup}: {$amount}
+health-analyzer-window-damage-type-text = {$damageType}: {$amount}
+
+health-analyzer-window-entity-unrevivable-text = [color=yellow]Einzigartige Körperzusammensetzung erkannt! Patient kann nicht mit normalen Mitteln wiederbelebt werden![/color]
+health-analyzer-window-entity-bleeding-text = [color=red]Patient hat offene Wunden![/color]
+
+health-analyzer-window-scan-mode-text = Scanmodus:
+health-analyzer-window-scan-mode-active = Aktiv
+health-analyzer-window-scan-mode-inactive = inaktiv
+
+health-analyzer-popup-scan-target = {CAPITALIZE(THE($user))} versucht, dich zu scannen!
+## Shitmed Change
+health-analyzer-window-return-button-text = < Rückkehr

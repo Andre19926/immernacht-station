@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+mousebites-effects-vexes = Das ärgert mich...
+mousebites-effects-stupid = Habe ich die dumme Droge versucht?
+mousebites-effects-metoo = Auch ich bin in dieser Episode.

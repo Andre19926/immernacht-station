@@ -1,0 +1,13 @@
+medical-item-cant-use-rebell = Du kannst nicht helfen { $target }. Sie bluten zu stark...
+cant-heal-damage-container-rebell = Du kannst nicht helfen { $target } mit dem { $used }
+rebell-medical-item-stop-bleeding-fully = Sie haben die Blutung vollständig gestoppt.
+rebell-medical-item-stop-bleeding-partially = Sie haben die Blutung teilweise gestoppt
+missing-body-part = Der Körperteil fehlt.
+puts-on-a-tourniquet = { CAPITALIZE($user) } Ein Tourniquet auf dem { $part }.
+takes-off-a-tourniquet = { CAPITALIZE($user) } entfernt das Tourniquet auf dem { $part }.
+take-off-tourniquet = Entfernen Sie das Tourniquet aus dem { $part }
+already-tourniqueted = Das Hinzufügen eines weiteren Tourniquets wäre fatal.
+cant-tourniquet = Es ist unmöglich, hier ein Tourniquet anzuwenden ...
+no-wounds-tourniquet = Es gibt keine Wunden, auf die man ein Tourniquet auftragen kann.
+cant-put-tourniquet-here =  Sie können kein Tourniquet hier hinstellen.
+medical-item-requires-surgery-rebell = Du hast alles getan, was du konntest. { $target } muss operiert werden.

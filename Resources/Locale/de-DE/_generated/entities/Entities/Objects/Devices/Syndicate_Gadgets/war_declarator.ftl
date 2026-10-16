@@ -1,0 +1,2 @@
+ent-NukeOpsDeclarationOfWar = Kriegserklärung
+    .desc = Senden Sie eine Erklärung der Feindseligkeiten an das Ziel und verzögern Sie Ihre Shuttle-Abfahrt, während sie sich auf Ihren Angriff vorbereiten. Solch ein dreister Schritt wird die Aufmerksamkeit mächtiger Wohltäter innerhalb des Syndicate-S auf sich ziehen, die Ihr Team mit einer riesigen Menge an Bonus-Telekristallen versorgen werden. Muss zu Beginn der Mission verwendet werden, oder Ihre Wohltäter verlieren das Interesse.

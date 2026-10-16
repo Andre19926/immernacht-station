@@ -1,0 +1,1 @@
+player-panel-account-age = Kontoalter: {$days}d:{$hours}h:{$minutes}m

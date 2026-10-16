@@ -1,0 +1,153 @@
+# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ilya246 <57039557+Ilya246@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <92357316+Piras314@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 K-Dynamic <20566341+K-Dynamic@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Simon <63975668+Simyon264@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 SpeltIncorrectyl <66873282+SpeltIncorrectyl@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+tips-dataset-1 = Wenn du brennst, kannst du auf die Anzeige rechts auf dem Bildschirm klicken, um dich fallen zu lassen und zu rollen.
+tips-dataset-2 = Alle Tastenbelegungen im Spiel kannst du jederzeit im Optionsmenü ansehen und ändern.
+tips-dataset-3 = Das Handbuch im Spiel erreichst du über das Escape-Menü oder standardmäßig mit Ziffernblock 0.
+tips-dataset-4 = Einige Entities im Spiel haben Handbucheinträge. Du siehst sie, wenn du die Entity untersuchst und auf das Fragezeichen klickst.
+tips-dataset-5 = Artefakte können für einige ausgelöste Knoten dauerhafte Effekte erhalten, etwa zu einem Intercom oder einem extrem effizienten Generator zu werden.
+tips-dataset-6 = Auf den meisten Pfützen rutschst du nicht aus, wenn du gehst. Einige starke Chemikalien wie Weltraum-Gleitmittel lassen dich aber trotzdem ausrutschen.
+tips-dataset-7 = Einige Pflanzen wie die Galaxiedistel lassen sich zu äußerst nützlichen und starken Medikamenten zermahlen.
+tips-dataset-8 = Wenn du Pfützen aufwischst und in andere Behälter ausleerst, bleiben die Reagenzien der Pfütze erhalten.
+tips-dataset-9 = Bodenabflüsse, meist im Kühlraum des Kochs oder im Büro des Hausmeisters, saugen Reagenzien in Pfützen um sich herum rasch auf – auch Blut.
+tips-dataset-10 = Cognizin, eine schwer herzustellende Chemikalie, macht Tiere empfindungsfähig, wenn man es ihnen injiziert.
+tips-dataset-11 = Scharfe Mausefallen sind äußerst wirksam gegen alle Arten von Leichtgewichten – auch gegen Rattendiener.
+tips-dataset-12 = Feuerlöscher lassen sich mit jedem Reagenz im Spiel befüllen.
+tips-dataset-13 = Einige Reagenzien wie Chlortrifluorid haben besondere Effekte, wenn sie durch Berührung aufgetragen werden, etwa per Sprühflasche oder Schaum.
+tips-dataset-14 = Denk daran, zwischendurch mal Gras zu berühren, wenn du Space Station 14 spielst.
+tips-dataset-15 = Mit der Taste „In der Welt aktivieren“ (standardmäßig E) kannst du mit Objekten interagieren, während deine Hände voll sind, oder ohne sie aufzuheben.
+tips-dataset-16 = Mit gesundem Menschenverstand lassen sich viele Konflikte vermeiden.
+tips-dataset-17 = Auch alle anderen Spieler im Spiel sind Menschen.
+tips-dataset-18 = Wenn du die Singularität betreibst, sieh regelmäßig nach ihr. Wird sie sabotiert, kann sie die ganze Station gefährden.
+tips-dataset-19 = Wenn die Singularität läuft, fülle ab und zu die Strahlungskollektoren nach.
+tips-dataset-20 = Chemikalien reagieren nicht, solange sie sich im Puffer des ChemMasters befinden.
+tips-dataset-21 = Bring den Barkeeper nicht gegen dich auf, indem du seine Gläser wirfst! Stell sie höflich mit Q auf den Tisch.
+tips-dataset-22 = Du kannst beim Steuern eines Shuttles standardmäßig LEERTASTE gedrückt halten, um die Bewegung zu verlangsamen und präzise zu manövrieren – oder sogar komplett anzuhalten.
+tips-dataset-23 = Dexalin, Dexalin Plus und Epinephrin entfernen beim Abbau alle Herzensbrecher-Toxine aus deinem Blutkreislauf.
+tips-dataset-24 = Jedes Crewmitglied hat in seiner Überlebensbox einen Notfall-Medipen mit Epinephrin und Tranexamsäure.
+tips-dataset-25 = Der AME ist ein Ziel mit hoher Priorität und leicht zu sabotieren. Richte Singularität oder Solar ein, damit dir der Strom nicht ausgeht, falls er hochgeht.
+tips-dataset-26 = Wenn die Tesla frei ist, jagt sie Personen, stationäre Maschinen und Computer. Deine Elektronik auszuschalten macht dich nicht weniger zum Ziel. Am besten hältst du dich von ihr fern.
+tips-dataset-27 = Mit einem Handetikettierer kannst du jeden Gegenstand beschriften, auch Essen oder Pillendosen.
+tips-dataset-28 = Antiunruhe-Panzerung ist gegen Gegner ohne Schusswaffen deutlich stärker als normale Panzerung.
+tips-dataset-29 = Als Geist kannst du über das Verbmenü jede Entity im Spiel automatisch umkreisen und ihr folgen.
+tips-dataset-30 = Als Verräter kann es sein, dass du den Auftrag bekommst, andere Verräter zu jagen, und selbst von anderen gejagt wirst.
+tips-dataset-31 = Als Verräter kannst du mit dem Syndicate-Verschlüsselungsschlüssel über einen sicheren Kanal mit allen anderen Verrätern kommunizieren, die ihn gekauft haben.
+tips-dataset-32 = Als Verräter kann das Abhören wichtiger Kommunikationskanäle wie Sicherheit oder Technik wertvolle Informationen liefern. Das gilt aber auch umgekehrt – die Sicherheit kann Syndicate-Kommunikation ebenfalls abhören!
+# Goobstation - Telecrystal rework
+tips-dataset-33 = Als Verräter ist die Syndicate-Werkzeugkiste äußerst vielseitig. Für nur 10 Telekristalle bekommst du einen kompletten Werkzeugsatz für Notfälle, isolierte Kampfhandschuhe und eine Syndicate-Gasmaske.
+tips-dataset-34 = Als Verräter solltest du die Netzweste nie unterschätzen. Sie schützt nicht im Weltraum, ist aber billig und bietet kräftigen Schutz gegen schießwütige Gegner.
+tips-dataset-35 = Als Verräter greifen dich gekaufte Granatenpinguine nicht an, und sie explodieren, wenn sie getötet werden.
+tips-dataset-36 = Als Verräter sei vorsichtig mit Vestin aus dem Chemiesynthese-Set. Wenn jemand deine Station überprüft, kann er dich leicht auffliegen lassen.
+tips-dataset-37 = Als Verräter denk daran, dass Stromsenken nach einiger Laufzeit ein lautes Geräusch machen und die Crew alarmieren. Versteck sie an einem schwer auffindbaren Ort oder sichere die Umgebung, damit sie schwerer zu erreichen sind.
+tips-dataset-38 = Als Verräter ist Plasmagas hervorragend geeignet, um Chaos zu stiften. Man kann es entzünden, um einen Bereich zusätzlich unbewohnbar zu machen, und es verursacht Giftschaden bei denen, die es einatmen.
+tips-dataset-39 = Als Verräter sind dehydrierte Karpfen nützlich, um eine große Menschenmenge zu töten. Solange du ihn streichelst, bevor du ihn rehydrierst, ist er außerdem eine tolle Ablenkung.
+tips-dataset-40 = Als Verräter: Hast du schon mal Plasma in Batterien injiziert? Bei einem Defibrillator explodiert er bei der Benutzung und verletzt Anwender und Patienten!
+tips-dataset-41 = Als Atomaroperator haltet zusammen! Eure Ausrüstung ist robust, aber eure Kameraden retten dir viel besser das Leben: Sie können dich betäubt aus der Gefahr ziehen und Feuerschutz geben.
+tips-dataset-42 = Als Atomaroperator ist Kommunikation das A und O! Nutze dein Funkgerät, um mit deinen Kameraden zu sprechen und einen Angriffsplan abzustimmen.
+tips-dataset-43 = Als Atomaroperator denk daran, dass Tarnung eine Option ist. Der Kapitän wird sich schwer wehren können, wenn er von einem vermeintlich gewöhnlichen Assistent überrascht wird!
+tips-dataset-44 = Als Antagonist unterschätze nicht die Macht, die Telekommunikation zu zerstören. Es ist viel schwerer, dich zu verraten, wenn niemand effektiv Alarm schlagen kann!
+tips-dataset-45 = Du kannst dein Headset untersuchen, um zu sehen, welche Funkkanäle du hast und wie du darauf sprichst.
+tips-dataset-46 = Als Salvage-Spezialist trag immer ein GPS bei dir und merk dir die Koordinaten der Station, falls deine Salvage im All verloren geht.
+tips-dataset-47 = Als Salvage-Spezialist kannst du im Notfall mit deinem Protokinetik-Beschleuniger durchs All manövrieren. Er ist dafür aber nicht besonders effektiv.
+tips-dataset-48 = Als Salvage-Spezialist vergiss nie, Erz abzubauen! Erz lässt sich an die Fracht für gutes Geld verkaufen, für den Bau verwenden und von Wissenschaftlern für schicke Technologie nutzen.
+tips-dataset-49 = Als Salvage-Spezialist frag die Wissenschaft nach einer Seilkanone. Damit holst du extrem effizient Gegenstände von Salvage-Wracks.
+tips-dataset-50 = Als Salvage-Spezialist frag die Wissenschaft nach einem Enterhaken. Damit kannst du dich auf Wracks ziehen, und wenn du im All feststeckst, bist du nicht auf den Protokinetik-Beschleuniger angewiesen.
+tips-dataset-51 = Tipp Nr. 51 existiert nicht und hat nie existiert. Ignoriere alle anderslautenden Gerüchte.
+tips-dataset-52 = Als Salvage-Spezialist arbeite am besten mit den Frachttechnikern zusammen. Sie können dir viele nützliche Dinge bestellen, auch schwer zu bekommende wie Laserwaffen und Baumaterial für Shuttles.
+tips-dataset-53 = Als Frachttechniker frag die Wissenschaft nach einem Ripley APLU. Mit einer Hydraulikklemme kannst du wertvolle Wartungsobjekte wie Treibstofftanks viel leichter greifen und Lieferungen schnell erledigen.
+tips-dataset-54 = Als Frachttechniker versuche, einen Materialüberschuss zu halten. Für Wissenschaftler und Stationsingenieure ist es sehr nützlich, sofort darauf zugreifen zu können.
+tips-dataset-55 = Als Frachttechniker versuch es mit Glücksspiel, wenn du Geld übrig hast! Manchmal gewinnst du mehr, als du eingesetzt hast.
+tips-dataset-56 = Als Frachttechniker denk daran, dass du im Notfall Waffen bestellen kannst! Die zusätzliche Feuerkraft kann den Unterschied zwischen Leben und Tod für dich und deine Kollegen machen.
+tips-dataset-57 = Als Barkeeper kannst du mit einer Kreissäge deine Schrotflinte kürzen, damit sie sich leichter verstauen lässt.
+tips-dataset-58 = Als Barkeeper experimentiere mit einzigartigen Getränken. Hast du schon Dämonenblut gemixt?
+tips-dataset-59 = Als Botaniker kannst du Pflanzen mutieren und kreuzen, um stärkere Erzeugnisse mit höheren Erträgen zu erhalten.
+tips-dataset-60 = Als Clown würze deine Gags auf! Niemand mag Einmal-Tricks.
+tips-dataset-61 = Als Clown kannst du auch ohne Bananenschalen und Seife Leute zum Ausrutschen bringen – mit deinem PDA! Hupp!
+tips-dataset-62 = Als Koch ist dein Messer im Notfall eine Waffe.
+tips-dataset-63 = Als Koch kannst du Flüssigkeiten in dein Essen schmuggeln. Als Verräter kann ein bisschen Amatoxin oder anderes Gift die Crew ordentlich ärgern!
+tips-dataset-64 = Als Mime ist dein Schweige- und Schreibgelübde deine Kraftquelle. Wenn du es brichst, verlierst du deine Kräfte und deine Ehre.
+tips-dataset-65 = Als Anwalt verhandle mit dem Warden, wenn Strafen zu hoch für das Vergehen erscheinen.
+tips-dataset-66 = Als Sicherheitsbeamter kommuniziere und koordiniere dich mit deinen Kollegen über den Sicherheitsfunk, um Verwirrung zu vermeiden.
+tips-dataset-67 = Als Sicherheitsbeamter denk daran: Korrelation ist nicht Kausalität. Jemand war vielleicht einfach zur falschen Zeit am falschen Ort!
+tips-dataset-68 = Als Detektiv kannst du Kriminelle effektiver jagen, indem du Fingerabdruckfasern und DNA aus forensischen Scans von Objekten nutzt, mit denen der Täter wahrscheinlich interagiert hat.
+tips-dataset-69 = Als Atmos-Techniker blockiert dein ATMOS-Holofächer-Projektor Gase, lässt aber Objekte durch. Damit kannst du Gaslecks, Brände und Hüllenbrüche schnell eindämmen.
+tips-dataset-70 = Als Atmos-Techniker widerstehe der Versuchung, Kanisterbomben für Atomaroperatoren zu bauen, außer im letzten Moment. Sie führen oft zu unnötig viel Eigenbeschuss!
+tips-dataset-71 = Als Ingenieur kannst du gesprungene Fenster reparieren, indem du sie mit einem angezündeten Schweißgerät bearbeitest, ohne im Kampfmodus zu sein.
+tips-dataset-72 = Als Ingenieur kannst du Gitter unter Strom setzen, indem du stromführende Kabel darunter verlegst.
+tips-dataset-73 = Als Ingenieur prüfe beim Einrichten der Singularität alles doppelt. Sie zu verlieren geht leichter, als du denkst!
+tips-dataset-74 = Als Ingenieur kannst du mit Plasmaglas einen Bereich verstärken und Strahlung abhalten. Auch Uranglas verhindert Strahlung.
+tips-dataset-75 = Als Kapitän bist du eines der Hauptziele auf der Station. Revolutionen, Atomaroperatoren und Verräter, die dir deine einzigartige Laserpistole oder dein Leben nehmen wollen, sind alles Dinge, um die du dir Sorgen machen musst.
+tips-dataset-76 = Als Kapitän nimm in jeder Schicht die Atomdiskette und den Pinpointer mit. Es ist eine gute Idee, einen davon einem anderen Abteilungsleiter zu geben, dem du die sichere Verwahrung zutraust.
+tips-dataset-77 = Als Kapitän hast du absoluten Zugriff und Kontrolle über die Station, aber das heißt nicht, dass du dich ungestraft wie ein schrecklicher Mensch verhalten kannst – sonst droht Meuterei.
+tips-dataset-78 = Als Kapitän sei aktiv und patrouilliere über die Station. Auf der Bridge zu bleiben ist verlockend, aber du machst dich damit nur zum größeren Ziel!
+tips-dataset-79 = Als Wissenschaftler kannst du mit dem Knotenscanner sehen, wann ein Artefakt auf Auslöser reagieren kann und auf welche es gerade reagiert; jede angezeigte Zahl entspricht einem anderen Auslöser!
+tips-dataset-80 = Als Wissenschaftler kannst du verbesserte Maschinen nutzen, um ihre Effektivität zu steigern. Manche Maschinen werden dadurch deutlich besser; die Salvage wird dich lieben, wenn du ihren Erzverarbeiter aufrüstest!
+tips-dataset-81 = Als Wissenschaftler kannst du mit positronischen Gehirnen und einem Chassis Cyborgs bauen, die genauso nützlich sind wie ein neues Crewmitglied.
+tips-dataset-82 = Als Arzt achte auf Überdosierungen bei deinen Patienten, besonders wenn schon jemand anderes am Einsatzort war. Überdosen sind für Patienten im kritischen Zustand oft tödlich!
+tips-dataset-83 = Als Arzt unterschätze deine Kryokapseln nicht! Sie heilen fast jede Schadensart und sind sehr nützlich, wenn du überlastet bist oder jemanden schnell heilen musst.
+tips-dataset-84 = Als Arzt sei vorsichtig, wenn du Reptilienartige in Kryokapseln legst. Sie nehmen viel zusätzlichen Kälteschaden, den du aber mit Brandmedizin oder Leporazin abmildern kannst.
+tips-dataset-85 = Als Arzt denk daran, dass du den Gesundheitsscanner benutzen kannst, wenn du dein PDA verlierst. Er hat allerdings eine Batterie, und wenn sie dir zu schnell leer ist, kannst du die Wissenschaft bitten, dir eine bessere zu drucken!
+tips-dataset-86 = Als Chemiker: Wenn du alles Nötige hergestellt hast, scheu dich nicht, auch alberne Reagenzien herzustellen. Hast du schon Desoxyephedrin oder Licoxid probiert?
+tips-dataset-87 = Als Arzt, Chemiker oder Chefarzt kannst du mit Chloralhydrat widerspenstige Patienten nicht tödlich ruhigstellen.
+tips-dataset-88 = Scheu dich nicht, um Hilfe zu bitten, sei es bei deinen Kollegen im Spiel, über LOOC oder bei den Admins!
+tips-dataset-89 = Wenn du nur spielst, um zu gewinnen und zu töten, verlierst du schnell die Lust am Spiel. Wenn du das merkst, geh einen Schritt zurück und rede mit den Leuten – das ist ein viel besseres Erlebnis!
+tips-dataset-90 = Wenn du etwas von einer anderen Abteilung brauchst, frag einfach! Dieses Spiel ist kein Einzelspielerspiel, und du wirst überrascht sein, was ihr zusammen erreichen könnt!
+tips-dataset-91 = Die Nuke der Station ist unzerstörbar. Such lieber die Diskette, statt sie zerstören zu wollen.
+tips-dataset-92 = Die Wartungsgänge sind voller Ausrüstung, die jede Runde zufällig ist. Schau dich um, ob etwas Brauchbares dabei ist.
+tips-dataset-93 = Wir waren alle mal neu. Sei geduldig und führe neue Spieler in die richtige Richtung, besonders die in Einsteigerrollen.
+tips-dataset-94 = Feueranzüge, Wintermäntel und Not-EVA-Anzüge bieten leichten Schutz vor Kälte, sodass du länger in der Nähe von Lecks und im All bleiben kannst als ganz ohne.
+tips-dataset-95 = Im Notfall kannst du dich immer auf Feueranzüge und Not-EVA-Anzüge verlassen; sie sind immer in ihren jeweiligen Spinden. Sie sind vielleicht unhandlich, können dir in einer gefährlichen Lage aber leicht das Leben retten.
+tips-dataset-96 = Im Notfall denk daran, dass du improvisierte Waffen herstellen kannst! Ein Baseballschläger oder ein Speer kann den Unterschied machen, ob du einen Angreifer abschreckst oder durch seine Hand stirbst.
+tips-dataset-97 = Speere können mit Chemikalien bestrichen werden und injizieren bei jedem direkten Treffer ein paar Einheiten.
+tips-dataset-98 = Du kannst Speere mit Scherben aus verstärktem Glas, Plasmaglas oder Uranglas bauen, um ihren Schaden zu erhöhen.
+tips-dataset-99 = Geworfene Speere richten zusätzlichen Schaden an! Aber Vorsicht: Wirfst du sie zu oft, gehen sie kaputt.
+tips-dataset-100 = Alle Formen von Giftschaden sind ziemlich schwer zu behandeln und erfordern meist Chemikalien oder andere umständliche Methoden. Das kannst du im Kampf zu deinem Vorteil nutzen.
+tips-dataset-101 = Du kannst selbstgebaute Bolas auf Leute werfen, um sie zu verlangsamen, damit du sie leichter töten oder dich absetzen kannst.
+tips-dataset-102 = Du kannst Napalm in einen Rücken-Wassertank füllen, um einen Flammenwerfer zu bauen.
+tips-dataset-103 = Einige Berufe haben alternative Uniformen in ihren Kleiderautomaten. Probier ruhig mal einen neuen Look aus!
+tips-dataset-104 = Geschwindigkeit ist im Kampf fast alles. Hardsuits nur wegen der Panzerung zu tragen ist meist eine schlechte Idee, außer ihre Resistenzen sind auf Kampf ausgelegt oder du willst nicht kopfüber ins Getümmel.
+tips-dataset-105 = Nur weil ein Beruf zu Rundenbeginn kein Verräter sein kann, heißt das nicht, dass er nie einer wird.
+tips-dataset-106 = Syndicate-Gasmasken schützen sowohl vor Schweißlicht als auch vor Blendung. Überleg es dir zweimal, bevor du versuchst, einen Atomaroperator zu blenden!
+tips-dataset-107 = Sprengstoffexperte zu sein erfordert Können.
+tips-dataset-108 = Du kannst im All mit einem Feuerlöscher sprühen, Gegenstände werfen oder eine Waffe abfeuern, um dir einen kleinen Schub zu geben. Feuere einfach entgegen deiner gewünschten Richtung.
+tips-dataset-109 = Du kannst andere Spieler auf dich ziehen, um das Ausziehen-Menü zu öffnen und ihre Ausrüstung zu entfernen oder sie etwas anziehen zu lassen. Beachte, dass Anzüge oder Helme den Zugriff auf die darunterliegende Kleidung blockieren und manche Gegenstände länger zum Aus- oder Anziehen brauchen als andere.
+tips-dataset-110 = Du kannst auf einen Tisch klettern, indem du dich auf ihn ziehst.
+tips-dataset-111 = Du kannst einen Gegenstand aus dem Weg schieben, indem du ihn ziehst, dann STRG + Rechtsklick hältst und die Maus in die gewünschte Richtung bewegst.
+tips-dataset-112 = Im Umgang mit der Sicherheit kannst du deine Strafe oft durch Kooperation und Täuschung komplett abwenden.
+tips-dataset-113 = Feuer kann sich durch Berührung auf andere Spieler ausbreiten! Sei vorsichtig bei brennenden Körpern oder großen Menschenmengen, in denen jemand brennt.
+tips-dataset-114 = Hüllenbrüche brauchen ein paar Sekunden, um einen Bereich komplett zu entlüften. Du kannst die Zeit nutzen, um das Loch zu flicken, wenn du dir sicher bist, oder einfach wegrennen.
+tips-dataset-115 = Brandschaden, etwa von einem Schweißgerät oder einer Glühbirne, kann Wunden ausbrennen und Blutungen stoppen.
+tips-dataset-116 = Blutungen sind kein Spaß! Wenn du angeschossen wurdest oder eine andere schwere Verletzung hast, behandle sie schnell.
+tips-dataset-117 = Im Notfall kannst du einen Overall mit einem scharfen Gegenstand zerlegen, um Stoff zu erhalten, aus dem man Verbandmull herstellen kann.
+tips-dataset-118 = Mit scharfen Gegenständen kannst du im Rechtsklickmenü Kleidung oder Tiere zerlegen. Dazu gehören auch Glasscherben.
+tips-dataset-119 = Die meisten Sprengstoffe haben einen einstellbaren Timer, den du im Rechtsklickmenü setzen kannst. Das gilt auch für Granatenpinguine!
+tips-dataset-120 = Du kannst Granatenpinguine betäuben, was dir wertvolle Zeit verschafft, sie zu töten.
+tips-dataset-121 = Du kannst im Rechtsklickmenü auf den Namen eines Gegenstands klicken, um ihn aufzuheben, statt mit der Maus darüber zu fahren und dann „Aufheben“ zu wählen.
+tips-dataset-122 = Space Station 14 ist Open Source! Wenn du etwas ändern oder einen einfachen Gegenstand hinzufügen willst, trag zum Spiel bei. Es ist nicht so schwer, wie du denkst.
+tips-dataset-123 = Im Notfall kannst du Getränke oder andere Reagenzbehälter hinter dich werfen, um eine Pfütze zu erzeugen, auf der deine Verfolger ausrutschen können.
+tips-dataset-124 = Einige Waffen, etwa Messer und Dolche, haben eine hohe Angriffsgeschwindigkeit.
+tips-dataset-125 = Mit dem Rettungsspreizer kannst du Türen mit Strom öffnen.
+tips-dataset-126 = Wenn du kein Mensch bist, kannst du Blut trinken, um etwas Blutvolumen zurückzugewinnen, wenn auch sehr ineffizient.
+tips-dataset-127 = Wenn du ein Mensch bist, trink kein Blut! Es macht dich krank und du nimmst Schaden.
+tips-dataset-128 = Es gibt ein chemisches Stoffwechsellimit, das begrenzt, wie viel eines bestimmten Reagenzes du auf einmal verdauen kannst. Manche Spezies, etwa Schleime, haben höhere Limits.
+tips-dataset-129 = Schweißen ohne passenden Augenschutz kann Augenschäden verursachen, die mit Okulin geheilt werden müssen.
+tips-dataset-130 = Zombies sind sehr anfällig für Hitzeschaden, daher sind Schweißgeräte und Laserwaffen gegen sie äußerst effektiv.
+tips-dataset-131 = Du kannst Glasscherben zu Glasscheiben schweißen.
+tips-dataset-132 = Wenn du einen Spieler mit Rechtsklick und dann dem Herzsymbol anklickst, kannst du ihn schnell untersuchen, um Verletzungen oder die Stärke der Blutung zu prüfen. Das geht auch bei dir selbst.
+tips-dataset-133 = Affen und Kobolde sind mit geringer Wahrscheinlichkeit empfindungsfähig. Ook!
+tips-dataset-134 = Du erkennst, ob ein Bereich mit geöffneten Brandschotten entlüftet ist, daran, ob neben den Brandschotten Lichter leuchten.
+tips-dataset-135 = Statt Essen aufzuheben, kannst du es mit Alt-Klick essen. Das funktioniert auch bei Mäusen und anderen Kreaturen ohne Hände.
+tips-dataset-136 = Wenn du hinter einer elektrifizierten Tür festsitzt, deaktiviere den APC oder wirf deine ID-Karte gegen die Tür, um keinen Stromschlag zu bekommen!
+tips-dataset-137 = Wenn die KI eine Tür elektrifiziert und du Isolierhandschuhe hast, zwick das Stromkabel durch und flick es wieder zusammen, um die Elektrifizierung zurückzusetzen!
+tips-dataset-138 = Wenn du verhindern willst, dass dein Gefangener direkt nach dem Entfesseln aus der Zelle flieht, schalte beim Entfesseln den Kampfmodus ein – das schubst den Gefangenen zu Boden.
+tips-dataset-139 = Reinige deine illegalen Implantatoren nach Gebrauch mit Seife! Detektive können benutzte Implantatoren auf belastende DNA-Spuren scannen, aber nicht, wenn sie sauber gewischt wurden.

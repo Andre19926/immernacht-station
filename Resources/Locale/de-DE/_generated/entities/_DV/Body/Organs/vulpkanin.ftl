@@ -1,0 +1,1 @@
+ent-OrganVulpkaninStomach = Tierischer Magen

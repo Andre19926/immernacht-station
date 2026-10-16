@@ -1,0 +1,10 @@
+ent-MobMothroachMustard = Senfmothroach
+    .desc = Ein herrliches Ergebnis der Köche der Welt Kreuzung Fleisch mit Sauce.
+ent-MobMothroachLeopard = Leopardmothroach
+    .desc = Ein charmantes Ergebnis zahlreicher Versuche, Insekten mit Raubtieren zu kreuzen.
+ent-MobMothroachCecropia = Cecropia mothroach
+    .desc = Ein charmantes Ergebnis zahlreicher Versuche, eine Gattung der Nesselfamilie mit Kakerlaken zu kreuzen.
+ent-MobMothroachLunar = Mondmothroach
+    .desc = Jemand verließ die Motte unter dem Mondlicht.
+ent-FoodBurgerMustard = Mothroachburger
+    .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.

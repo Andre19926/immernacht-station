@@ -1,0 +1,15 @@
+names-regal-rat-kingdom-dataset-1 = Pest
+names-regal-rat-kingdom-dataset-2 = Ammoniak
+names-regal-rat-kingdom-dataset-3 = Instandhaltung
+names-regal-rat-kingdom-dataset-4 = Müll
+names-regal-rat-kingdom-dataset-5 = Müll
+names-regal-rat-kingdom-dataset-6 = Ratte
+names-regal-rat-kingdom-dataset-7 = Vermind
+names-regal-rat-kingdom-dataset-8 = Käse
+names-regal-rat-kingdom-dataset-9 = Munching
+names-regal-rat-kingdom-dataset-10 = Groß
+names-regal-rat-kingdom-dataset-11 = Filz
+names-regal-rat-kingdom-dataset-12 = Kanalisation
+names-regal-rat-kingdom-dataset-13 = Entsorgung
+names-regal-rat-kingdom-dataset-14 = Dienst
+names-regal-rat-kingdom-dataset-15 = Die

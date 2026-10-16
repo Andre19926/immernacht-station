@@ -1,0 +1,1 @@
+ent-RandomFoodSingle = Zufalls-LebensmittelSpawner

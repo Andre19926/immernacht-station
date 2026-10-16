@@ -1,0 +1,1 @@
+ent-RandomFoodBreakfast = Zufalls-LebensmittelSpawner

@@ -1,0 +1,5 @@
+ent-SpawnVendingMachineRestockFoodDrink = Automatenaufstockung
+
+ent-SpawnVendingMachineRestockFood = Automatenaufstockung
+
+ent-SpawnVendingMachineRestockDrink = Automatenaufstockung

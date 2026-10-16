@@ -1,0 +1,20 @@
+ent-DroneSatchelUnremovable = Sattel
+    .desc = Ein trendy aussehender Satchel.
+
+ent-trayScannerUnremoveable = t-Strahlenscanner
+    .desc = Ein High-Tech-Scanner, der Terahertz-Strahlung verwendet, um Unterflurinfrastruktur zu erkennen.
+
+ent-OmnitoolUnremoveable = Omnitool
+    .desc = Der beste Freund einer Drohne.
+
+ent-WelderExperimentalUnremoveable = experimentelles Schweißgerät
+    .desc = Ein experimentelles Schweißgerät, das in der Lage ist, selbst zu erzeugen und weniger schädlich für die Augen zu sein.
+
+ent-RCDRechargingUnremoveable = Versuchs-RCD
+    .desc = Cyborg-montierte Rapid Construction Device, die komprimierte Materie im laufenden Betrieb mit einem internen Hersteller erzeugt.
+
+ent-NetworkConfiguratorUnremoveable = Netzwerkkonfigurator
+    .desc = Ein Werkzeug zum Verbinden von Geräten. Hat zwei Modi, einen Listenmodus für Massenverknüpfungsgeräte und einen Verknüpfungsmodus für fortgeschrittene Geräteverknüpfungen.
+
+ent-PinpointerStationUnremoveable = Stationspinpointer
+    .desc = Du bist die Station. Finden Sie sich selbst. Drücken Sie E zum Aktivieren.

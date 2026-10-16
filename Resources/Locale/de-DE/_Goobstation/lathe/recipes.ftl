@@ -1,0 +1,20 @@
+lathe-recipe-BaseTranslatorImplanter-name = Translatorimplantat
+
+lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = Gemeinsames Translationsimplantat
+lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = Advanced Common Translator Implantat
+lathe-recipe-BubblishTranslatorImplanter-subname = blases Translatorimplantat
+lathe-recipe-NekomimeticTranslatorImplanter-subname = nekomimetisches Translatorimplantat
+lathe-recipe-DraconicTranslatorImplanter-subname = Draconic Translator Implantat
+lathe-recipe-CanilunztTranslatorImplanter-subname = Canilunzt Translatorimplantat
+lathe-recipe-SolCommonTranslatorImplanter-subname = Sol-Common-Translator-Implantat
+lathe-recipe-ChittinTranslatorImplanter-subname = Chittin-Translationsimplantat
+lathe-recipe-RootSpeakTranslatorImplanter-subname = Wurzel-Sprach-Translatorimplantat
+lathe-recipe-MofficTranslatorImplanter-subname = moffic Translatorimplantat
+lathe-recipe-ValyrianStandardTranslatorImplanter-subname = Valyrisches Standardtranslatorimplantat
+lathe-recipe-SiikMaasTranslatorImplanter-subname = siik'maas Übersetzerimplantat
+lathe-recipe-MarishTranslatorImplanter-subname = Marish Translatorimplantat
+lathe-recipe-SchechiTranslatorImplanter-subname = Schechi-Transponderimplantat
+lathe-recipe-NewKinPidginTranslatorImplanter-subname = ka'rakk translator implant
+lathe-recipe-ChevalTranslatorImplanter-subname = Cheval-Translatorimplantat
+lathe-recipe-YowKriolTranslatorImplanter-subname = Yow Kriol Translator Implantat
+lathe-recipe-SignTranslatorImplanter-subname = Sign Translator Implantat

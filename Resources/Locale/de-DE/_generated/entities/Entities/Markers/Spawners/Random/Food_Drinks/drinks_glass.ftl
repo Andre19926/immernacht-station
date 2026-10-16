@@ -1,0 +1,1 @@
+ent-RandomDrinkGlass = Zufallsgetränk Spawner

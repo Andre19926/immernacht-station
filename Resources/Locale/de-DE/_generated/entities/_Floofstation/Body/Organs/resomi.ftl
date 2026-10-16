@@ -1,0 +1,1 @@
+ent-OrganResomiStomach = Tierischer Magen

@@ -1,0 +1,11 @@
+ent-ClothingBackpackCentcomm = Centcomm Rucksack
+    .desc = Ein luxuriöser Rucksack, riecht nach Geld.
+
+ent-ClothingBackpackBlueshield = Blauschild-Rucksack
+    .desc = Ein sehr schützender Rucksack, riecht nach Energiepistole.
+
+ent-ClothingBackpackUnremoveable = Rucksack
+    .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
+
+ent-ClothingBackpackSantasSack = Sack des Weihnachtsmanns
+    .desc = Alles, was Sie brauchen, um Weihnachtsjubel zu verbreiten, ist im Inneren enthalten!

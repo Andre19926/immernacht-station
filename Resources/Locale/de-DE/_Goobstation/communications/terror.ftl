@@ -1,0 +1,9 @@
+terror-slaughter-demon = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einem blutigen mann verschlingen im nahen raum gemacht hat.
+terror-lone-operative = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einem rivalisierenden unternehmen im nahen raum gemacht hat.
+terror-wraith = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einem rachsüchtigen geist im nahen weltraum gemacht hat.
+terror-slasher = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einem berüchtigten serienmörder im nahen raum gemacht hat.
+terror-vox = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einer gruppe von raidern im nahen raum gemacht hat.
+terror-blob = Achtung Crew, es scheint, dass jemand auf Ihrer Station eine unerwartete Kommunikation mit einem verrückten Wissenschaftler im nahen Raum gemacht hat.
+terror-grey-tide = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einer sehr robusten person im nahen raum gemacht hat.
+terror-wizard = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einer geistig instabilen person im nahen raum gemacht hat.
+terror-sleeper-agent = Achtung Crew, es scheint, dass eine unerwartete Kommunikation negative Auswirkungen auf Crewmitglieder rund um die Station hatte.

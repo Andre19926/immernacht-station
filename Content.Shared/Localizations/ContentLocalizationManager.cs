@@ -12,7 +12,7 @@ namespace Content.Shared.Localizations
         [Dependency] private readonly ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "de-DE";
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -27,31 +27,37 @@ namespace Content.Shared.Localizations
 
         public void Initialize()
         {
+            var cultureEn = new CultureInfo("en-US");
             var culture = new CultureInfo(Culture);
 
-            _loc.LoadCulture(culture);
-            _loc.AddFunction(culture, "PRESSURE", FormatPressure);
-            _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
-            _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
-            // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
-            _loc.AddFunction(culture, "ENERGYWATTHOURS", FormatEnergyWattHours);
-            _loc.AddFunction(culture, "UNITS", FormatUnits);
-            _loc.AddFunction(culture, "TOSTRING", args => FormatToString(culture, args));
-            _loc.AddFunction(culture, "LOC", FormatLoc);
-            _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
-            _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
-            _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            // English is always loaded and used as fallback for every key that has no translation yet.
+            _loc.LoadCulture(cultureEn);
+            if (!culture.Equals(cultureEn))
+                _loc.LoadCulture(culture);
 
+            foreach (var c in new[] { cultureEn, culture }.Distinct())
+            {
+                _loc.AddFunction(c, "PRESSURE", FormatPressure);
+                _loc.AddFunction(c, "POWERWATTS", FormatPowerWatts);
+                _loc.AddFunction(c, "POWERJOULES", FormatPowerJoules);
+                // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
+                _loc.AddFunction(c, "ENERGYWATTHOURS", FormatEnergyWattHours);
+                _loc.AddFunction(c, "UNITS", FormatUnits);
+                var cc = c;
+                _loc.AddFunction(c, "TOSTRING", args => FormatToString(cc, args));
+                _loc.AddFunction(c, "LOC", FormatLoc);
+                _loc.AddFunction(c, "NATURALFIXED", FormatNaturalFixed);
+                _loc.AddFunction(c, "NATURALPERCENT", FormatNaturalPercent);
+                _loc.AddFunction(c, "PLAYTIME", FormatPlaytime);
 
-            /*
-             * The following language functions are specific to the english localization. When working on your own
-             * localization you should NOT modify these, instead add new functions specific to your language/culture.
-             * This ensures the english translations continue to work as expected when fallbacks are needed.
-             */
-            var cultureEn = new CultureInfo("en-US");
+                // English plural helpers, registered for every culture so that untranslated English
+                // fallback strings (and any leftover usage) keep working.
+                _loc.AddFunction(c, "MAKEPLURAL", FormatMakePlural);
+                _loc.AddFunction(c, "MANY", FormatMany);
+            }
 
-            _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
-            _loc.AddFunction(cultureEn, "MANY", FormatMany);
+            _loc.SetCulture(culture);
+            _loc.SetFallbackCulture(cultureEn);
         }
 
         private ILocValue FormatMany(LocArgs args)

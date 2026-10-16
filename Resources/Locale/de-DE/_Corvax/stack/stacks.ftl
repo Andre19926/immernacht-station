@@ -1,0 +1,17 @@
+stack-black-wood-tile = schwarze Holzfliese
+stack-dark-wood-tile = dunkle Holzfliese
+stack-light-wood-tile = leichte Holzfliesen
+stack-red-wood-tile = rote Holzfliese
+stack-black-large-wood-tile = große schwarze Holzfliese
+stack-dark-large-wood-tile = große dunkle Holzfliese
+stack-light-large-wood-tile = Große leichte Holzfliese
+stack-red-large-wood-tile = Große rote Holzfliese
+stack-black-parquet-wood-tile = Schwarzholzparkettfliesen
+stack-dark-parquet-wood-tile = dunkle Holzparkettziegel
+stack-light-parquet-wood-tile = Leichtholzparkettziegel
+stack-red-parquet-wood-tile = rote Holzparkettziegel
+stack-chess-wood-tile = Holzschachziegel
+stack-black-chess-wood-tile = Schachsteine aus schwarzem Holz
+stack-dark-chess-wood-tile = dunkle Holzschachsteine
+stack-light-chess-wood-tile = leichte Holzschachsteine
+stack-red-chess-wood-tile = Schachsteine aus rotem Holz

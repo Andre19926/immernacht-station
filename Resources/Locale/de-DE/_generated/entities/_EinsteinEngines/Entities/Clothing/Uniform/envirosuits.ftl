@@ -1,0 +1,241 @@
+ent-ClothingUniformEnvirosuit = Plasma Umweltanzug
+    .desc = Ein spezieller Containment-Anzug, der es plasmabasierten Lebensformen ermöglicht, sicher in einer sauerstoffhaltigen Umgebung zu existieren.
+
+ent-ClothingUniformEnvirosuitAtmos = Atmosphären Umweltanzug
+    .desc = Ein luftdichter Anzug, der von Plasmamen als Atmos-Techniker verwendet werden soll.
+
+ent-ClothingUniformEnvirosuitCargo = cargo tech Umweltanzug
+    .desc = Ein Umweltanzug von Plasmamen Frachttechnikern verwendet.
+
+ent-ClothingUniformEnvirosuitCaptain = Kapitäns Umweltanzug
+    .desc = Es ist ein blauer Umweltanzug mit einigen Goldmarkierungen, die den Rang eines "Captain" bezeichnen.
+
+ent-ClothingUniformEnvirosuitChiefEngineer = Chefingenieur Umweltanzug
+    .desc = Ein luftdichter Anzug, der von Plasmamen verwendet werden soll, der verrückt genug ist, um den Rang eines "Chief Engineer" zu erreichen.
+
+ent-ClothingUniformEnvirosuitChaplain = Seelsorge-Umweltanzug
+    .desc = Ein Umweltanzug, der speziell für nur die frommsten Plasmamänner entworfen wurde.
+
+ent-ClothingUniformEnvirosuitChef = chef's Umweltanzug
+    .desc = Ein weißer Plasmaman Umweltanzug, entworfen für cullinary Praktiken. Man könnte sich fragen, warum ein Mitglied einer Spezies, die nicht essen muss, Koch werden würde.
+
+ent-ClothingUniformEnvirosuitChemist = Chemie Umweltanzug
+    .desc = Ein Plasmaman Umweltanzug für Chemiker.
+
+ent-ClothingUniformEnvirosuitClown = Clown Umweltanzug
+
+ent-ClothingUniformEnvirosuitCMO = Chefarzt Umweltanzug
+    .desc = Es ist ein Umweltanzug, getragen von denen mit der Erfahrung, "Chief Medical Officer" zu sein.
+
+ent-ClothingUniformEnvirosuitEngineering = Ingenieurwesen Umweltanzug
+    .desc = Ein luftdichter Anzug, der entworfen wurde, um von Plasmamen verwendet zu werden, die als Ingenieure eingesetzt wurden, wobei die üblichen violetten Streifen durch die Orange des Ingenieurs ersetzt wurden.
+
+ent-ClothingUniformEnvirosuitDetective = Detektiv Umweltanzug
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, dieser kundenspezifische Anzug wurde von Nanotrasen für seine Detektive modifiziert.
+
+ent-ClothingUniformEnvirosuitHoP = Leiter des Personals Umweltanzug
+    .desc = Es ist ein Umweltanzug, der von jemandem getragen wird, der in der Position des "Personalchefs" arbeitet.
+
+ent-ClothingUniformEnvirosuitHoS = Sicherheitschef Umweltanzug
+    .desc = Ein Plasmaman Containment-Anzug, der für die wenigen mit dem Engagement dekoriert ist, um die Position des Head of Security zu erreichen.
+
+ent-ClothingUniformEnvirosuitHydroponics = Hydrokultur Umweltanzug
+    .desc = Ein grün-blauer Umweltanzug zum Schutz von Plasmamen vor kleineren pflanzenbedingten Verletzungen.
+
+ent-ClothingUniformEnvirosuitJanitor = Hausmeister Umweltanzug
+    .desc = Ein grauer und violetter Umweltanzug für Plasmamen Hausmeister.
+
+ent-ClothingUniformEnvirosuitAncientVoid = NTSRA Umweltanzug
+    .desc = Hergestellt aus einem modifizierten NTSRA-Vacsuit, war dieser nicht raumtaugliche Anzug NanoTrasens erster entworfener Umweltanzug für Plasmamen.
+
+ent-ClothingUniformEnvirosuitMedicalDoctor = Arzt Umweltanzug
+    .desc = Ein Anzug, der für die plasmabasierten Ärzte der Station entwickelt wurde.
+
+ent-ClothingUniformEnvirosuitGenetics = Genetik Umweltanzug
+    .desc = Ein Plasmaman Umweltanzug für Genetiker.
+
+ent-ClothingUniformEnvirosuitMime = Mime Umweltanzug
+    .desc = Es ist nicht sehr bunt.
+
+ent-ClothingUniformEnvirosuitParamedic = Sanitäter Umweltanzug
+    .desc = Ein Anzug für die Plasmaman Sanitäter der Station.
+
+ent-ClothingUniformEnvirosuitPrisoner = Gefangener Umweltanzug
+    .desc = Ein orangefarbener Umweltanzug, der einen kriminellen Plasmamann identifiziert und schützt.
+
+ent-ClothingUniformEnvirosuitResearchDirector = Forschungsleiter Umweltanzug
+    .desc = Es ist ein Umweltanzug, der von denen getragen wird, die das Know-how haben, um die Position des Forschungsdirektors zu erreichen.
+
+ent-ClothingUniformEnvirosuitRoboticist = Robotiker Umweltanzug
+    .desc = Ein Plasmaman Umweltanzug für Robotiker.
+
+ent-ClothingUniformEnvirosuitSalvage = Salvage Umweltanzug
+    .desc = Ein luftdichter Khaki-Anzug, der für Salvage-Operationen von Plasmamen entwickelt wurde.
+
+ent-ClothingUniformEnvirosuitScientist = Wissenschaft Umweltanzug
+    .desc = Ein Plasmaman Umweltanzug für Wissenschaftler.
+
+ent-ClothingUniformEnvirosuitSec = Sicherheit Umweltanzug
+    .desc = Ein Plasmaman Containment-Anzug für Sicherheitsbeamte.
+
+ent-ClothingUniformEnvirosuitSecBlue = blue security Umweltanzug
+    .desc = Ein kühles blaues enviroshirt über kohlenhosen, für den ruhigen und gesammelten plasmaman-offizier.
+
+ent-ClothingUniformEnvirosuitSecGrey = graue Sicherheit Umweltanzug
+    .desc = Hellgraue Umgebungen mit leuchtend roten Highlights für engagierte und reaktionsschnelle Sicherheitsbeamte.
+
+ent-ClothingUniformEnvirosuitVirology = Virologie Umweltanzug
+    .desc = Der Anzug, der von den sichersten Menschen auf der Station getragen wird, diejenigen, die völlig immun gegen die Monstrositäten sind, die sie schaffen.
+
+ent-ClothingUniformEnvirosuitWarden = Umweltanzug
+    .desc = Ein Plasmaman-Containment-Anzug, der für den Wärter entwickelt wurde, weiße Streifen, die hinzugefügt wurden, um sie von anderen Sicherheitsmitgliedern zu unterscheiden.
+
+ent-ClothingUniformEnvirosuitOperative = operativer Umweltanzug
+    .desc = Ein unheimlich aussehender Umweltanzug, für die Elite der knöchernen Agenten.
+
+ent-ClothingUniformEnvirosuitTacticool = Tactool Umweltanzug
+    .desc = Ein unheimlich aussehender Umweltanzug, für die boniest der Agenten.
+
+ent-ClothingUniformEnvirosuitCentcomAgent = Umweltanzug des CentCom-Agenten
+    .desc = Ein Umweltanzug, zugeschnitten auf das Rechtsteam von CentCom. Gerüche nach verbranntem Kaffee.
+
+ent-ClothingUniformEnvirosuitCentcomOfficial = Umweltanzug des CentCom-Beamten
+    .desc = Es ist ein Umweltanzug, der von den Beamten von CentCom getragen wird.
+
+ent-ClothingUniformEnvirosuitCentcomOfficer = Umweltanzug des CentCom-Beamten
+    .desc = Konsequenzzellenucht us, TO! -! -! -! - -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -! -!
+
+ent-ClothingUniformEnvirosuitBlueshield = Blauschild-Umweltanzug
+    .desc = Ein Umweltanzug für Plasmamen, die als Blueshield verwendet wurden.
+
+ent-ClothingUniformEnvirosuitCourier = Kurier-Umweltanzug
+    .desc = Ein auf den Kurier zugeschnittener Umweltanzug.
+
+ent-ClothingUniformEnvirosuitMailCarrier = Umweltanzug des Postunternehmens
+    .desc = Ein auf den Postbeförderer zugeschnittener Umweltanzug. Das Farbmuster lässt Pitbulls wild werden.
+
+ent-ClothingUniformEnvirosuitMusician = Musiker Umweltanzug
+    .desc = Ein Umweltanzug zum Musikspielen.
+
+ent-ClothingUniformEnvirosuitReporter = Reporter Umweltanzug
+    .desc = Ein Umweltanzug für die nachrichtenorientierten Plasmamen.
+
+ent-ClothingUniformEnvirosuitGladiator = Gladiator Umweltanzug
+    .desc = Hergestellt für blutrünstige Plasmamänner.
+
+ent-ClothingUniformEnvirosuitMantis = mantis Umweltanzug
+    .desc = Jagd auf Psionik in der Sicherheit dieses Umweltanzugs.
+
+ent-ClothingUniformEnvirosuitSafari = safari Umweltanzug
+    .desc = Perfekt für einen Dschungelausflug.
+
+ent-ClothingUniformEnvirosuitMartialGi = gi Umweltanzug
+    .desc = Ein fließender Umweltanzug, maßgeschneidert für Kampfsportarten, der Ihre Mobilität nicht einschränkt.
+
+ent-ClothingUniformEnvirosuitQM = Umweltanzug des Frachtbeauftragten
+    .desc = Ein luftdichter Anzug, der von Plasmamen verwendet werden soll, der verrückt genug ist, um den Rang eines "Frachtoffiziers" zu erreichen.
+
+ent-ClothingUniformEnvirosuitBoxing = Boxen Umweltanzug
+    .desc = Verwendet von Plasmamen Boxern.
+
+ent-ClothingUniformEnvirosuitAdminAssistant = Verwaltungsassistent Umweltanzug
+    .desc = Ein Umweltanzug, der vom Verwaltungsassistenten getragen wird. Gerüche nach verbranntem Kaffee.
+
+ent-ClothingUniformEnvirosuitBlackPink = schwarzrosa Umweltanzug
+    .desc = Schwarzrosa Umweltanzug in Ihrer Nähe!
+
+ent-ClothingUniformEnvirosuitBlackPinkAlt = schwarzrosa Umweltanzug
+    .desc = Schwarzrosa Umweltanzug in Ihrer Nähe!
+
+ent-ClothingUniformEnvirosuitTrans = trans Umweltanzug
+    .desc = Die Unterschrift Umweltanzug von Transylvanian Plasmamen.
+
+ent-ClothingUniformEnvirosuitPrisonGuard = Umweltanzug des Gefängniswärters
+    .desc = Ein komfortabler, langlebiger Umweltanzug, der das Gefängnispersonal von Plasmamen komfortabel und sicher hält.
+
+ent-ClothingUniformEnvirosuitBrigmedic = Korpsmann Umweltanzug
+    .desc = Ein Umweltanzug zugewiesen Corpsmen Plasmamen.
+
+ent-ClothingUniformEnvirosuitNanotrasenRepresentative = Nanotrasen Vertreter Umweltanzug
+    .desc = Ein schwarzer Umweltanzug, getragen von Beamten.
+
+ent-ClothingUniformEnvirosuitMagistrate = Richterin Umweltanzug
+    .desc = Der Umweltanzug, der Gerechtigkeit austeilt.
+
+ent-ClothingUniformEnvirosuitEnviroslacks = enviroslacks
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman. Professionell!
+
+ent-ClothingUniformEnvirosuitEnviroslacksNegative = Negative Umgebungslacke
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante hat invertierte Farben. Dapper!
+
+ent-ClothingUniformEnvirosuitEnviroslacksColorRed = Rote Umgebungslacke
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante kommt mit roten Akzenten. Fancy!
+
+ent-ClothingUniformEnvirosuitEnviroslacksColorOrange = Orangenbärblinge
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante kommt mit orange Akzenten. Zesty!
+
+ent-ClothingUniformEnvirosuitEnviroslacksColorGreen = Grüne Umgebungslacke
+    .desc = Das Lieblingsprojekt eines besonders glänzenden Plasmamanns, diese Variante kommt mit grünen Akzenten. Blatt!
+
+ent-ClothingUniformEnvirosuitEnviroslacksColorBlue = Blaue Umgebungslacke
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante kommt mit blauen Akzenten. Cool!
+
+ent-ClothingUniformEnvirosuitEnviroslacksColorBrown = Braune Umgebungslacke
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante hat braune Hosen. Erinnert Sie an staubige Büros.
+
+ent-ClothingUniformEnvirosuitEnviroslacksMNK = MNK enviroslacks
+    .desc = Die ikonische enviroslacks, mit MNK Unterschrift monochrome Ästhetik. Klassisch!
+
+ent-ClothingUniformEnvirosuitEnviroslacksMNKAlt = MNK enviroslacks
+    .desc = Die ikonische enviroslacks, mit MNK Unterschrift monochrome Ästhetik. Noir!
+
+ent-ClothingUniformEnvirosuitEnviroslacksPsychologist = Psychologe enviroslacks
+    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante wurde für den Psychologen gemacht. Unglaublich!
+
+ent-ClothingUniformEnvirosuitColorWhite = Weißer Umweltanzug
+    .desc = Ein generisches Weiß Insgesamt ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorGrey = grauer Umweltanzug
+    .desc = Ein geschmackvoller grauer Umweltanzug, der an die guten alten Zeiten erinnert.
+
+ent-ClothingUniformEnvirosuitColorBlack = schwarzer Umweltanzug
+    .desc = Ein generisch schwarzer Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorRed = Roter Umweltanzug
+    .desc = Ein dunkelgrüner Umweltanzug.
+
+ent-ClothingUniformEnvirosuitColorGreen = grüner Umweltanzug
+    .desc = Ein generisch grüner Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorDarkGreen = dunkelgrüner Umweltanzug
+    .desc = Ein generischer dunkelgrüner Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorBlue = Blauer Umweltanzug
+    .desc = Ein generisch blauer Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorDarkBlue = dunkelblauer Umweltanzug
+    .desc = Ein generischer dunkelblauer Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorTeal = Teal Umweltanzug
+    .desc = Ein generisches Teal Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorMaroon = Maroon Umweltanzug
+    .desc = Eine generische Maroon Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorPink = rosa Umweltanzug
+    .desc = "Plasmamen können nicht töten" und andere Witze, die Sie sich selbst erzählen können.
+
+ent-ClothingUniformEnvirosuitColorYellow = gelber Umweltanzug
+    .desc = Ein generischer gelber Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorPurple = purpurfarbener Umweltanzug
+    .desc = Ein generisches lila Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorOrange = orangefarbener Umweltanzug
+    .desc = Tragen sie das nicht in der nähe von paranoiden sicherheitsbeamten.
+
+ent-ClothingUniformEnvirosuitColorLightBrown = hellbrauner Umweltanzug
+    .desc = Ein generischer hellbrauner Umweltanzug ohne Rangmarkierungen.
+
+ent-ClothingUniformEnvirosuitColorBrown = Brauner Umweltanzug
+    .desc = Ein generisch brauner Umweltanzug ohne Rangmarkierungen.

@@ -1,0 +1,1 @@
+ent-SpawnMobPlantbot = Pflanzebot Spawner

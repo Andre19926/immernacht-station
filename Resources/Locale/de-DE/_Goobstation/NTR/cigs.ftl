@@ -1,0 +1,12 @@
+advertisement-cigs-deluxe-1 = RAUCHKÖNIG FILTERS!!
+advertisement-cigs-deluxe-2 = LICHT AUF GLÜCKLICHE SCHLAFTEN!!
+advertisement-cigs-deluxe-3 = NANOTRASEN SATISFACTION!
+advertisement-cigs-deluxe-4 = PALL MALL PLEASURE!!
+advertisement-cigs-deluxe-5 = GET YOUR NANOLBORO BLUES!!!
+advertisement-cigs-deluxe-6 = SPACE CAMEL FILTERS SIND HIER!!
+advertisement-cigs-deluxe-7 = Genieße den KROMBACH'S TASTE!!
+advertisement-cigs-deluxe-8 = TRY EXECUTIVE FINESS!!
+advertisement-cigs-deluxe-9 = CHESTERFILLED QUALITÄT!!
+advertisement-cigs-deluxe-10 = ALTES GOLD GLAUBE!!!
+advertisement-cigs-deluxe-11 = N&T FRESHNESS!!
+advertisement-cigs-deluxe-12 = Lass sie wissen, dass du reich bist!!

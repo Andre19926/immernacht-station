@@ -1,0 +1,1 @@
+ent-MangoSeeds = Packung Mangosamen

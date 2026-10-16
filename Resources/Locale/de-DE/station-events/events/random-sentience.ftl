@@ -1,0 +1,50 @@
+# SPDX-FileCopyrightText: 2022 Moony <moonheart08@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Morb <14136326+Morb0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 moonheart08 <moonheart08@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Nim <128169402+Nimfar11@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Psychpsyo <60073468+Psychpsyo@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 deathride58 <deathride58@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+## Phrases used for where central command got this information.
+random-sentience-event-data-1 = Scans von unseren Langstreckensensoren
+random-sentience-event-data-2 = unsere ausgefeilten probabilistischen Modelle
+random-sentience-event-data-3 = Unsere Allmacht
+random-sentience-event-data-4 = der Kommunikationsverkehr auf Ihrer Station
+random-sentience-event-data-5 = Energieemissionen, die wir entdeckt haben
+random-sentience-event-data-6 = [REDACTED]
+
+## Phrases used to describe the level of intelligence, though it doesn't actually affect anything.
+random-sentience-event-strength-1 = Mensch
+random-sentience-event-strength-2 = Primaten
+random-sentience-event-strength-3 = mäßig
+random-sentience-event-strength-4 = Sicherheit
+random-sentience-event-strength-5 = Befehl
+random-sentience-event-strength-6 = Clown
+random-sentience-event-strength-7 = niedrig
+random-sentience-event-strength-8 = AI
+
+## Announcement text
+
+station-event-random-sentience-announcement = Based on { $data }, we believe that some of the station's { $amount ->
+    [1] { $kind1 }
+    [2] { $kind1 } and { $kind2 }
+    [3] { $kind1 }, { $kind2 }, and { $kind3 }
+    *[other] { $kind1 }, { $kind2 }, { $kind3 }, etc.
+} beings have developed { $strength } level intelligence, and the ability to communicate.
+
+## Ghost role description
+
+station-event-random-sentience-role-description = Du bist ein fühlender { $name }und durch die Magie des Weltraums zum Leben erweckt.
+
+# Flavors
+station-event-random-sentience-flavor-mechanical = mechanisch
+station-event-random-sentience-flavor-organic = organisch
+station-event-random-sentience-flavor-primate = Primaten
+station-event-random-sentience-flavor-kobold = Kobold
+station-event-random-sentience-flavor-inanimate = unbelebt
+# Goob fix
+station-event-random-sentience-flavor-corgi = Korridor

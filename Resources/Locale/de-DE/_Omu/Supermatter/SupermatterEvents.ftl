@@ -1,0 +1,9 @@
+# Goob edit: unfuck grammar
+gas-spill-plasma = Überwachungssysteme haben eine bevorstehende Freisetzung von Plasma aus dem Supermatterkristall festgestellt. Das Engineering-Team muss sicherstellen, dass der sekundäre Leistungsstoß innerhalb der erwarteten Parameter liegt.
+gas-spill-oxygen = Überwachungssysteme haben eine bevorstehende Freisetzung von Sauerstoff aus dem Supermatterkristall festgestellt. Dem Ingenieurteam wird empfohlen, bei Bedarf zu überwachen und einzugreifen.
+gas-spill-nitrium = Überwachungssysteme haben eine bevorstehende Freisetzung von Nitrium aus dem Supermatter-Kristall festgestellt. Dem Ingenieurteam wird empfohlen, bei Bedarf zu überwachen und einzugreifen.
+gas-spill-nitrogen = Überwachungssysteme haben eine bevorstehende Freisetzung von Stickstoff aus dem Supermatterkristall festgestellt. Dem Ingenieurteam wird empfohlen, bei Bedarf zu überwachen und einzugreifen.
+gas-spill-carbondioxide = Überwachungssysteme haben eine bevorstehende Freisetzung von Kohlendioxid aus dem Supermatterkristall festgestellt. Das Engineering-Team muss sicherstellen, dass der sekundäre Leistungsstoß innerhalb der erwarteten Parameter liegt.
+gas-spill-frezon = Überwachungssysteme haben eine bevorstehende Freisetzung von Frezon aus dem Supermatter-Kristall festgestellt. Dem Ingenieurteam wird empfohlen, die instabile Temperaturanomalie zu korrigieren.
+supermatter-energy-surge = Passive Sicherheitssysteme sagen eine erhebliche Energieemission aus dem Supermatter-Kristall voraus. Dem Ingenieurteam wird empfohlen, bei Bedarf zu überwachen und einzugreifen.
+supermatter-surge = Aktive Sicherheitssysteme haben einen starken Aktivitätsschub innerhalb des Supermatter-Kristalls signalisiert. Das Engineering-Team muss den Anstieg enthalten. Das verbleibende Personal muss die Umgebung des Supermatters sofort verlassen.

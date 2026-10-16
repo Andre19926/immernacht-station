@@ -1,0 +1,3 @@
+ent-StatusEffectStaminaResistanceModifier = Ausdauerwiderstandsmodifikator
+
+ent-StatusEffectMeleeVulnerability = Nahkampfanfälligkeit

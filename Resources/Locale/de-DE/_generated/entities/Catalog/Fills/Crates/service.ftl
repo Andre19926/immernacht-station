@@ -1,0 +1,59 @@
+ent-CrateServiceJanitorialSupplies = Kasten für Hausmeisterwaren
+    .desc = Kämpfen Sie sich gegen Schmutz und Schmutz mit Nanotrasens Janitorial Essentials(tm) zurück! Enthält drei Eimer, Vorsicht Schild und saubere Granaten. Hat auch einen einzigen Mopp, Besen, Sprayreiniger, Drahtbürste, Lappen und Müllbeutel.
+
+ent-CrateServiceCleanerGrenades = Schüttgut-Reinigungskaste
+    .desc = Enthält zwei Kisten mit sauberen Granaten, für diese tief verwurzelten Flecken.
+
+ent-CrateServiceReplacementLights = Ersatzbeleuchtungskasten
+    .desc = Möge das Licht des Äthers auf diese Station scheinen! Oder zumindest das Licht von zwölf Leuchtstoffröhren und zwölf Glühbirnen.
+
+ent-CrateServiceColorfulLights = bunte Lichterkiste
+    .desc = Es ist keine Party, bis es schwer zu sehen ist, ein wenig desorientiert und deine Ohren schmerzen. Enthält zwölf Glühröhren und zwölf Glühbirnen in verschiedenen Farben.
+
+ent-CrateServiceHolidayLights = Ferienbeleuchtungskasten
+    .desc = Decken Sie die Hallen mit diesen festlichen Weihnachtslichtern! Enthält zwölf Rotlichtröhren und zwölf Grünlichtröhren.
+
+ent-CrateMousetrapBoxes = Kasten für Mausfallen
+    .desc = Mousetraps, wenn der ganze Dienst von einer ganzen Horde von Ratten verfolgt wird. Verwenden Sie sparsam ... oder nicht.
+
+ent-CrateServiceSmokeables = rauchbare Kiste
+    .desc = Müde von einem schnellen Tod auf der Station? Bestellen Sie diese Kiste und Kettenrauchen Sie Ihren Weg zu einem Husten Untergang!
+
+ent-CrateServiceTheatre = Theateraufführungen Kiste
+    .desc = Enthält einen Mottenmantel, eine Friseurschere, eine Dienstmädchenuniform, Clown- und Mime-Attribute und andere Performance-Charme.
+
+ent-CrateServiceCustomSmokable = DIY Smokeables Kiste
+    .desc = Möchten Sie ein wenig kreativ mit dem, was Sie verwenden, um Ihre Lungen zu zerstören? Dann ist diese Kiste für dich! Hat alles, was Sie brauchen, um Ihre eigenen Zigaretten zu rollen.
+
+ent-CrateServiceBureaucracy = Bürokratie-Kiste
+    .desc = Mehrere Stapel Papier, ein paar Stifte und ein Bürospielzeug. Was könnten Sie mehr verlangen?
+
+ent-CrateServiceFaxMachine = Faxgerätekasten
+    .desc = Ein Faxgerät und ein Schraubendreher, um den Namen festzulegen.
+
+ent-CrateServicePersonnel = Personalkasten
+    .desc = Enthält eine Box mit leeren ID-Karten und PDAs.
+
+ent-CrateServiceBooks = Bücherkiste
+    .desc = Enthält 10 leere Bücher mit zufälliger Erscheinung.
+
+ent-CrateServiceGuidebooks = Reiseführer Kiste
+    .desc = Enthält Reiseführer.
+
+ent-CrateServiceSodaDispenser = Soda Dispenser Nachfüllkasten
+    .desc = Enthält Nachfüllungen für Sodaspender.
+
+ent-CrateServiceBoozeDispenser = Nachfüllkasten für Alkoholspender
+    .desc = Enthält Nachfüllungen für Alkoholspender.
+
+ent-CrateServiceBox = Boxen
+    .desc = Enthält 6 leere Mehrzweckboxen.
+
+ent-CrateJanitorBiosuit = Hausmeister Bioanzug Kiste
+    .desc = Enthält 2 Biohazard-Anzüge, um sicherzustellen, dass keine Krankheit Sie von der Reinigung ablenkt.
+
+ent-CrateTrashCartFilled = Müllwagen
+    .desc = Ein großer Container für Gegenstände.
+
+ent-CrateCandles = Kerzenkiste
+    .desc = Enthält 4 Schachteln Kerzen, 2 große und 2 kleine. Für Atmosphäre oder so.

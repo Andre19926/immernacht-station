@@ -1,0 +1,40 @@
+interaction-HelpUp-name = Helfen Sie
+interaction-HelpUp-description = Helfen Sie der Person aufzustehen.
+interaction-HelpUp-delayed-self-popup = Sie versuchen zu helfen {THE($target)} Aufstehen...
+interaction-HelpUp-delayed-target-popup = {THE($user)} Versucht dir zu helfen, aufzustehen...
+interaction-HelpUp-delayed-others-popup = {THE($user)} Versuche zu helfen {THE($target)} Aufstehen...
+interaction-HelpUp-success-self-popup = Sie helfen {THE($target)} aufstehen.
+interaction-HelpUp-success-target-popup = {THE($user)} Helft euch auf.
+interaction-HelpUp-success-others-popup = {THE($user)} Helfen {THE($target)} up.
+interaction-HelpUp-fail-self-popup = Sie helfen nicht {THE($target)} aufstehen.
+interaction-HelpUp-fail-target-popup = {THE($user)} hilft dir nicht weiter.
+
+interaction-ForceDown-name = Kraft nach unten
+interaction-ForceDown-description = Zwingen Sie die Person, sich auf den Boden zu legen.
+interaction-ForceDown-delayed-self-popup = Sie versuchen zu zwingen {THE($target)} Daunen...
+interaction-ForceDown-delayed-target-popup = {THE($user)} Versucht dich zu zwingen, dich niederzudrücken...
+interaction-ForceDown-delayed-others-popup = {THE($user)} Versuche zur Gewalt {THE($target)} Daunen...
+interaction-ForceDown-success-self-popup = Du zwingst {THE($target)} zu legen.
+interaction-ForceDown-success-target-popup = {THE($user)} Zwingt dich, dich niederzulegen.
+interaction-ForceDown-success-others-popup = {THE($user)} Kräfte {THE($target)} zu legen.
+interaction-ForceDown-fail-self-popup = Sie versagen zu zwingen {THE($target)} nach unten.
+interaction-ForceDown-fail-target-popup = {THE($user)} Er zwingt dich nicht runter.
+
+interaction-MakeSleepOther-name = Schlaf machen
+interaction-MakeSleepOther-description = Setzen Sie das Ziel in den Schlaf.
+interaction-MakeSleepOther-delayed-self-popup = Sie versuchen zu setzen {THE($target)} Schlafen...
+interaction-MakeSleepOther-delayed-target-popup = {THE($user)} Versucht dich einzuschlafen...
+interaction-MakeSleepOther-delayed-others-popup = {THE($user)} versucht zu setzen {THE($target)} Schlafen...
+interaction-MakeSleepOther-fail-self-popup = Sie scheitern zu setzen {THE($target)} um zu schlafen.
+interaction-MakeSleepOther-fail-target-popup = {THE($user)} Sie bringt dich nicht in den Schlaf.
+interaction-MakeSleepOther-success-self-popup = Sie setzen {THE($target)} um zu schlafen.
+interaction-MakeSleepOther-success-target-popup = {THE($user)} bringt dich in den Schlaf.
+interaction-MakeSleepOther-success-others-popup = {THE($user)} Pfannen {THE($target)} um zu schlafen.
+
+interaction-ShakeOther-name = Schütteln
+interaction-ShakeOther-description = Schütteln Sie das Ziel.
+interaction-ShakeOther-fail-self-popup = Irgendwie schütteln Sie nicht {THE($target)}.
+interaction-ShakeOther-fail-target-popup = {THE($user)} Irgendwie schüttelt es dich nicht.
+interaction-ShakeOther-success-self-popup = Sie greifen und schütteln {THE($target)}.
+interaction-ShakeOther-success-target-popup = {THE($user)} packt und schüttelt dich.
+interaction-ShakeOther-success-others-popup = {THE($user)} Greifer und Shakes {THE($target)}.

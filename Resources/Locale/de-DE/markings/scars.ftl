@@ -1,0 +1,37 @@
+# SPDX-FileCopyrightText: 2023 Nairod <110078045+Nairodian@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 RiceMar1244 <138547931+RiceMar1244@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+marking-ScarEyeRight-scar_eye_right = Rechtes Auge Narkose
+marking-ScarEyeRight = Augennarbe (rechts)
+
+marking-ScarEyeLeft-scar_eye_left = Linke Augennarbe
+marking-ScarEyeLeft = Augennarbe (links)
+
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
+marking-ScarTopSurgeryShort = Top Surgery Scar (kurz)
+
+marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
+marking-ScarTopSurgeryLong = Top Surgery Scar (lang)
+
+marking-ScarChest-scar_chest = Brustnarbe
+marking-ScarChest = Brustnarbe
+
+marking-ScarNeck-scar_neck = Halsnarbe
+marking-ScarNeck = Halsnarbe
+
+marking-ScarChestBullets-scar_chest_bullets = Bullet Holes Scar
+marking-ScarChestBullets = Brustnarbe (Bullets)
+
+marking-ScarStomachBullets-scar_stomach_bullets = Bullet Holes Scar
+marking-ScarStomachBullets = Magennarbe (Bullets)
+
+marking-ScarFace1-scar_face_1 = Gesichtsnarbe
+marking-ScarFace1 = Gesichtsnarbe (groß)
+
+marking-ScarFace2-scar_face_2 = Gesichtsnarbe
+marking-ScarFace2 = Gesichtsnarbe (klein)
