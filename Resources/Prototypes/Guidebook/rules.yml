@@ -5,12 +5,6 @@
   name: guide-entry-rules
   priority: 60
   text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
-  children:
-  - CoreRules
-  - RoleplayRules
-  - SiliconRules
-  - BanTypes
-  - BanDurations
 
 - type: guideEntry # Immernacht Station Server Regeln
   id: IRPRules
