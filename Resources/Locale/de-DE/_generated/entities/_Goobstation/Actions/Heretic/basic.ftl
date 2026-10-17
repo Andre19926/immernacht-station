@@ -1,17 +1,17 @@
 ent-ActionHereticOpenStore = Wissensladen öffnen
     .desc = Öffnet den Wissensladen.
 
-ent-ActionHereticMansusGrasp = Mansusgras
+ent-ActionHereticMansusGrasp = Mansus-Griff
     .desc = Kanalisiere die Macht der alten Götter durch deinen Griff.
 
 ent-ActionHereticLivingHeart = Lebendes Herz
-    .desc = Benutze dein herz, um deine opferziele zu lokalisieren.
+    .desc = Benutze dein Herz, um deine Opferziele zu lokalisieren.
 
-ent-ActionHereticMansusLink = Manse Link
-    .desc = Pierce durch die Realität und verbinden Geist miteinander. Default Key ist +m
+ent-ActionHereticMansusLink = Mansus-Verbindung
+    .desc = Durchdringe die Realität und verbinde Geister miteinander. Standardtaste ist +m
 
-ent-ActionHereticShadowCloak = Umhang von Shadow
-    .desc = Versteckt deine Identität vollständig, macht dich aber nicht unsichtbar. Kann früh aktiviert werden, um es zu deaktivieren. Während du dich verhüllt bewegst, bewegst du dich schneller, aber du unternimmst Handlungen viel langsamer. Schaden nehmen, während verhüllt kann dazu führen, dass es plötzlich hebt.
+ent-ActionHereticShadowCloak = Schattenumhang
+    .desc = Verbirgt deine Identität vollständig, macht dich aber nicht unsichtbar. Kann erneut aktiviert werden, um ihn abzulegen. Verhüllt bewegst du dich schneller, handelst aber viel langsamer. Erleidest du verhüllt Schaden, kann der Umhang plötzlich abfallen.
 
 ent-ActionHereticShapeshift = Formwechsel
     .desc = Ein Zauberspruch, der es dir ermöglicht, die Form einer anderen Kreatur anzunehmen und ihre Fähigkeiten zu erlangen.

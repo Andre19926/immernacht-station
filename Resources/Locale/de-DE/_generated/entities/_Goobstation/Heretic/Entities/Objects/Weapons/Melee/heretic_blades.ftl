@@ -1,26 +1,26 @@
-ent-HereticBladeBase = Winkelmesser
-    .desc = Eine kränkliche grüne Sichelklinge, dekoriert mit einem dekorativen Auge. Du hast das Gefühl, dass du beobachtet wirst...
+ent-HereticBladeBase = Ketzerklinge
+    .desc = Eine kränklich grüne Sichelklinge, verziert mit einem dekorativen Auge. Du hast das Gefühl, beobachtet zu werden...
 
-ent-HereticBladeAsh = Aschenblatt
-    .desc = Geschmolzen und in Rohform, ein Stück Metall verzogen zu Asche und Schlacke. Ungemacht strebt es danach, mehr zu sein, als es ist, und schert rußgefüllte Wunden mit einer stumpfen Kante.
+ent-HereticBladeAsh = Aschenklinge
+    .desc = Geschmolzen und roh, ein zu Asche und Schlacke verzogenes Stück Metall. Unvollendet strebt es danach, mehr zu sein, als es ist, und schlägt rußgefüllte Wunden mit stumpfer Schneide.
 
-ent-HereticBladeBlade = Getrennte Klinge
-    .desc = Eine galiante Klinge, getrennt und zerrissen. Wütend schneidet die Klinge. Silbernarben binden es für immer an seinen dunklen Zweck.
+ent-HereticBladeBlade = Gespaltene Klinge
+    .desc = Eine stattliche Klinge, gespalten und zerrissen. Wütend schneidet sie zu. Silberne Narben binden sie für immer an ihren finsteren Zweck.
 
-ent-HereticBladeFleshGhoul = Ghoulschaufel
-    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Es ist sich dessen bewusst, dass es versucht, das Leiden, das es aus seinen schrecklichen Ursprüngen erlitten hat, an andere weiterzugeben.
+ent-HereticBladeFleshGhoul = Ghul-Sichel
+    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Sie scheint zu wissen, dass sie das Leid, das sie aus ihrem schrecklichen Ursprung erlitten hat, an andere weitergeben will.
 
-ent-HereticBladeFlesh = blutige Klinge
-    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Es ist sich dessen bewusst, dass es versucht, das Leiden, das es aus seinen schrecklichen Ursprüngen erlitten hat, an andere weiterzugeben.
+ent-HereticBladeFlesh = Blutige Klinge
+    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Sie scheint zu wissen, dass sie das Leid, das sie aus ihrem schrecklichen Ursprung erlitten hat, an andere weitergeben will.
 
-ent-HereticBladeLock = Schlüsselblatt
-    .desc = Eine Klinge und ein Schlüssel, ein Schlüssel zu was? Welche großen Tore öffnet sie?
+ent-HereticBladeLock = Schlüsselklinge
+    .desc = Eine Klinge und ein Schlüssel – ein Schlüssel wozu? Welche großen Tore öffnet sie?
 
-ent-HereticBladeRust = verrostete Klinge
-    .desc = Diese Sichelklinge ist altersschwach und verschwendet zu rosten. Dennoch beißt es und reißt Fleisch und Knochen mit gezackten, faulen Zähnen.
+ent-HereticBladeRust = Rostklinge
+    .desc = Diese Sichelklinge ist altersschwach und rostet vor sich hin. Dennoch beißt und reißt sie Fleisch und Knochen mit gezackten, fauligen Zähnen.
 
 ent-HereticBladeVoid = Klinge der Leere
-    .desc = Ohne jede Substanz spiegelt diese Klinge das Nichts wider. Es ist eine echte Darstellung von Reinheit und Chaos, das nach seiner Umsetzung entsteht.
+    .desc = Ohne jede Substanz spiegelt diese Klinge das Nichts wider. Sie ist ein wahres Abbild von Reinheit und dem Chaos, das nach ihrer Anwendung entsteht.
 
-ent-HereticBladeCosmos = Kosmische Schaufel
-    .desc = Ein Teilchen der himmlischen Resonanz, geformt zu einer sterngewebten Klinge. Ein schillerndes Exil, schnitzend strahlende Pfade, verzweifelt auf der Suche nach Vereinigung.
+ent-HereticBladeCosmos = Kosmische Klinge
+    .desc = Ein Splitter himmlischer Resonanz, geformt zu einer sterngewebten Klinge. Ein schillerndes Exil, das strahlende Pfade schnitzt, verzweifelt auf der Suche nach Vereinigung.

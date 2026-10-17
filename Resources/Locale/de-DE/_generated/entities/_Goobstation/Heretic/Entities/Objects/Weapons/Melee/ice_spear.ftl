@@ -1,2 +1,2 @@
 ent-SpearIceHeretic = Gletscherspeer
-    .desc = Wenn der Schleier zwischen Frost und Gedanken dünn wird, wird der Speer mit der Macht der Winterdämmerung beißen.
+    .desc = Wird der Schleier zwischen Frost und Gedanken dünn, beißt der Speer mit der Macht der Winterdämmerung zu.

@@ -1,2 +1,2 @@
-ent-ClothingMaskMadHeretic = Abgrundmaske
-    .desc = Eine Maske, geschaffen aus Leiden. Wenn man ihm in die Augen schaut, schaut er zurück.
+ent-ClothingMaskMadHeretic = Maske des Wahnsinns
+    .desc = Eine aus Leiden geschaffene Maske. Wenn man ihr in die Augen schaut, schaut sie zurück.

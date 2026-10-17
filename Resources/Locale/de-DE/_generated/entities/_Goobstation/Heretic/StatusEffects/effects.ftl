@@ -1,11 +1,11 @@
 ent-StatusEffectFireBlasted = Feuerexplosion
 
-ent-StatusEffectStarMark = Sternmarke
+ent-StatusEffectStarMark = Sternenmal
 
-ent-StatusEffectStarTouched = Stern berührt
+ent-StatusEffectStarTouched = Von Sternen berührt
 
 ent-CarvingAlertedStatusEffect = alarmiert
 
-ent-ShadowCloakStatusEffect = Schattenmantel
+ent-ShadowCloakStatusEffect = Schattenumhang
 
-ent-ShadowCloakRevealStatusEffect = Schattenmantel enthüllt
+ent-ShadowCloakRevealStatusEffect = Schattenumhang enthüllt

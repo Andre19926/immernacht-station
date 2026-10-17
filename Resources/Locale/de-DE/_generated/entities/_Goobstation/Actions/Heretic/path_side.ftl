@@ -1,5 +1,5 @@
 ent-ActionHereticIceSpear = Mysterien der Schöpfung
     .desc = Aktiviere, um einen Gletscherspeer zu erschaffen oder einen bereits vorhandenen Speer herbeizurufen.
 
-ent-ActionHereticCleave = Cleave
-    .desc = Es ist eine schwere Blutung auf einem Ziel und mehrere Ziele um uns herum.
+ent-ActionHereticCleave = Blutspalt
+    .desc = Verursacht eine schwere Blutung bei einem Ziel und mehreren Zielen um uns herum.

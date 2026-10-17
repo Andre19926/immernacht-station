@@ -1,11 +1,11 @@
-ent-CodexCicatrix = Codex cicatrix
-    .desc = Dieser schwere Wälzer ist voller kryptischer Schreiber und unmöglicher Diagramme. Der Legende nach kann es entschlüsselt werden, um die Geheimnisse des Schleiers zwischen den Welten zu enthüllen.
+ent-CodexCicatrix = Codex Cicatrix
+    .desc = Dieser schwere Wälzer ist voll kryptischer Kritzeleien und unmöglicher Diagramme. Der Legende nach lässt er sich entschlüsseln und enthüllt die Geheimnisse des Schleiers zwischen den Welten.
 
-ent-HereticEldritchFlask = Eldritch-Flasche
-    .desc = Ein Kolben, der mit einer unbekannten Substanz gefüllt ist. Wer weiß, was passiert, wenn du einen Schluck davon nimmst.
+ent-HereticEldritchFlask = Unheimliche Flasche
+    .desc = Ein Kolben, gefüllt mit einer unbekannten Substanz. Wer weiß, was passiert, wenn du einen Schluck nimmst.
 
-ent-HereticProtectiveBlade = Winkelmesser
-    .desc = Maelstrom von Rasiermessern blinkt direkt vor deinen Augen. Warum hörst du auf, um es dir anzusehen!?
+ent-HereticProtectiveBlade = Schutzklinge
+    .desc = Ein Mahlstrom aus Klingen blitzt direkt vor deinen Augen. Warum hältst du an, um ihn dir anzusehen!?
 
-ent-HereticProtectiveBladeProjectile = Winkelmesser
-    .desc = Maelstrom von Rasiermessern blinkt direkt vor deinen Augen. Warum hörst du auf, um es dir anzusehen!?
+ent-HereticProtectiveBladeProjectile = Schutzklinge
+    .desc = Ein Mahlstrom aus Klingen blitzt direkt vor deinen Augen. Warum hältst du an, um ihn dir anzusehen!?

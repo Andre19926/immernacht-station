@@ -1,14 +1,14 @@
-ent-ActionHereticRustConstruction = Rostbildung
-    .desc = Verwandelt einen verrosteten Boden in eine volle Rostwand. Das Erstellen einer Wand unter einem Mob wird ihm schaden.
+ent-ActionHereticRustConstruction = Rostbau
+    .desc = Verwandelt einen verrosteten Boden in eine vollständige Rostwand. Eine Wand unter einem Wesen zu erschaffen, schadet ihm.
 
-ent-ActionHereticAggressiveSpread = Aggressiver Spread
-    .desc = Streut Rost auf nahe gelegenen Oberflächen.
+ent-ActionHereticAggressiveSpread = Aggressive Ausbreitung
+    .desc = Verbreitet Rost auf nahen Oberflächen.
 
-ent-ActionHereticEntropicPlume = Entropischer Plume
-    .desc = Spuckt eine desorientierende Wolke aus, die Feinde dazu bringt, sich gegenseitig zu schlagen, sie kurzzeitig blind macht und sie vergiftet. Auch verteilt Rost auf dem Weg der Wolke.
+ent-ActionHereticEntropicPlume = Entropische Wolke
+    .desc = Speit eine desorientierende Wolke aus, die Feinde dazu bringt, sich gegenseitig zu schlagen, sie kurzzeitig blendet und vergiftet. Verbreitet außerdem Rost auf dem Weg der Wolke.
 
 ent-ActionHereticRustCharge = Rostladung
-    .desc = Eine Ladung, die auf einer verrosteten Kachel gestartet werden muss und alle verrosteten Objekte zerstört, mit denen du in Kontakt kommst, wird anderen hohen Schaden zufügen und während der Ladung um dich herum rosten. Da es der Rost ist, der dich mit dieser Fähigkeit befähigt, ist kein Fokus erforderlich.
+    .desc = Ein Ansturm, der auf einer verrosteten Kachel begonnen werden muss. Er zerstört alle verrosteten Objekte, mit denen du in Kontakt kommst, fügt anderen hohen Schaden zu und lässt während des Ansturms alles um dich herum rosten. Da der Rost dich bei dieser Fähigkeit stärkt, ist kein Fokus erforderlich.
 
-ent-ActionHereticRustWave = Die Reichweite des Patrons
-    .desc = Setze eine giftige Rostwelle frei.
+ent-ActionHereticRustWave = Welle des Rostes
+    .desc = Setzt eine giftige Rostwelle frei.

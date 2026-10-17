@@ -1,14 +1,14 @@
 ent-HereticFireAA = Feuer
-    .desc = Verdammt, das ist heiß.
+    .desc = Verdammt, ist das heiß.
 
-ent-TileHereticVoid = Void
-    .desc = Verdammt, das ist kalt.
+ent-TileHereticVoid = Leere
+    .desc = Verdammt, ist das kalt.
 
 ent-TileHereticRustRune = Rune
-    .desc = Rustig ...
+    .desc = Rostig ...
 
 ent-HereticRustAscensionSpreader = Rost
     .desc = Es wächst...
 
 ent-WallFieldCosmic = kosmisches Feld
-    .desc = Ein Feld, das nicht von Menschen passiert werden kann, die mit einem kosmischen Stern markiert sind.
+    .desc = Ein Feld, das von Menschen mit einem kosmischen Sternenmal nicht passiert werden kann.

@@ -59,7 +59,7 @@ knowledge-path-side-s3-void-cloak-desc =
     Solange die Kapuze unten ist, fungiert der Mantel als Fokus und bietet Schutz vor niedrigem Druck und niedriger Temperatur; solange die Kapuze oben ist, ist der Mantel völlig unsichtbar.
     Er bietet auch ordentlichen Schutz und hat Taschen, die eine deiner Klingen, verschiedene rituelle Komponenten (wie Organe) und kleine ketzerische Schmuckstücke aufnehmen können.
 
-knowledge-path-side-s3-shark-name = Weißer Hai
+knowledge-path-side-s3-shark-name = Sengender Hai
 knowledge-path-side-s3-shark-desc =
     Die Wiege des Nebels war kalt, aber nicht tot. Licht und Hitze strömen selbst durch die tiefste Dunkelheit und werden von ihren eigenen Raubtieren gejagt.
 
@@ -75,7 +75,7 @@ knowledge-path-side-s6-ice-spear-desc =
     Gewährt dir Mysterien der Schöpfung, einen Zauber, der es dir erlaubt, einen Gletscherspeer nach Belieben zu beschwören. Dieser magische Speer kühlt die Opfer beim Treffer, aber noch wichtiger ist, dass er beim Werfen zerbricht, eine erhebliche Menge an Schaden verursacht und das Ziel vorübergehend in einen Eiswürfel einfriert. Wenn der Speer zerstört wird, wird die Aktivierung dieser Fähigkeit eine neue erzeugen, sonst wird der vorhandene Speer in deine Hand gerufen.
 
 ## stage 6
-knowledge-path-side-s6-rustwalker-name = Rustiges Ritual
+knowledge-path-side-s6-rustwalker-name = Rostiges Ritual
 knowledge-path-side-s6-rustwalker-desc =
     Ich kombinierte mein Wissen über die Schöpfung mit meinem Wunsch nach Korruption. Der Marschall kannte meinen Namen, und die Rusted Hills hallten wider.
 
@@ -106,7 +106,7 @@ knowledge-path-side-s7-siphon-desc =
     Gewährt dir Blood Siphon, einen Fernzauber, der deinem Ziel etwas Leben stiehlt, deine Prellungen heilt und Blut wiederherstellt.
     Darüber hinaus kannst du Wunden, die du erleidest, auf das Ziel übertragen.
 
-knowledge-path-side-s7-crucible-name = Gemähter Schmelztiegel
+knowledge-path-side-s7-crucible-name = Schlund-Schmelztiegel
 knowledge-path-side-s7-crucible-desc =
     Das ist pure Agonie. Ich konnte die Gestalt des Aristokraten nicht herbeirufen,
     Aber mit der Aufmerksamkeit des Priesters stolperte ich über ein anderes Rezept...

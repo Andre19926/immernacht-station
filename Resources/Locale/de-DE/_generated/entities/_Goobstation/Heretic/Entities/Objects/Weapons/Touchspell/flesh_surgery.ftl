@@ -1,2 +1,2 @@
-ent-TouchSpellFleshSurgery = Fleisch zusammenfügen
+ent-TouchSpellFleshSurgery = Fleisch zusammenflicken
     .desc = Lasst uns Medizin praktizieren.

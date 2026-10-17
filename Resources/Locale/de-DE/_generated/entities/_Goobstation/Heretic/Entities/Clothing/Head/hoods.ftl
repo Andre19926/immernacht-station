@@ -1,20 +1,20 @@
-ent-ClothingHeadHatHoodHeretic = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHeretic = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodHereticVoid = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHereticVoid = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodHereticAsh = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHereticAsh = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodHereticFlesh = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHereticFlesh = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodHereticBlade = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHereticBlade = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodHereticCosmos = ominöse Haube
-    .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
+ent-ClothingHeadHatHoodHereticCosmos = ominöse Kapuze
+    .desc = Eine zerrissene, staubverkrustete Kapuze. Seltsame Augen säumen das Innere.
 
-ent-ClothingHeadHatHoodVoidCloakHeretic = leere Haube
-    .desc = Schwarz wie Teer, kein Licht reflektierend. Runische Symbole säumen die Außenseite. Mit jedem Blitz verlierst du das Verständnis dessen, was du siehst.
+ent-ClothingHeadHatHoodVoidCloakHeretic = Leerenkapuze
+    .desc = Schwarz wie Teer, reflektiert sie kein Licht. Runische Symbole säumen die Außenseite. Mit jedem Blitzen verlierst du das Verständnis dafür, was du siehst.

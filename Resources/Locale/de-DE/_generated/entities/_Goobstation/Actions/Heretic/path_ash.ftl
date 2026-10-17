@@ -1,14 +1,14 @@
-ent-ActionHereticJaunt = Asche Passage
-    .desc = Ein Zauber aus kurzer Reichweite, mit dem du ungehindert durch Wände gehen kannst.
+ent-ActionHereticJaunt = Aschenverschiebung
+    .desc = Ein Zauber mit kurzer Reichweite, mit dem du ungehindert durch Wände gehen kannst.
 
-ent-ActionHereticJauntLong = Asche Passage
+ent-ActionHereticJauntLong = Aschenverschiebung
     .desc = Ein Zauber mit großer Reichweite, mit dem du ungehindert durch Wände gehen kannst.
 
 ent-ActionHereticVolcanoBlast = Vulkanexplosion
-    .desc = Lade eine Feuerexplosion auf, die sich zwischen nahe gelegenen Zielen kettet und sie in Brand setzt. Ziele, die bereits in Flammen stehen, werden Vorrang haben. Wenn das Ziel nicht in Flammen aufgeht oder sich selbst auslöscht, bevor es prallt, stoppt die Kette.
+    .desc = Lade eine Feuerexplosion auf, die zwischen nahen Zielen überspringt und sie in Brand setzt. Ziele, die bereits brennen, werden bevorzugt. Geht das Ziel nicht in Flammen auf oder löscht es sich vor dem Überspringen selbst, endet die Kette.
 
-ent-ActionHereticNightwatcherRebirth = Nightwatchers Wiedergeburt
-    .desc = Drains in der Nähe Heiden in Flammen ihrer Lebenskraft verschlungen.
+ent-ActionHereticNightwatcherRebirth = Wiedergeburt des Nachtwächters
+    .desc = Entzieht nahen brennenden Ungläubigen die Lebenskraft und verschlingt sie.
 
 ent-ActionHereticAscension1 = Eid der Flamme
     .desc = Erschaffe einen Ring aus Feuer um dich herum.

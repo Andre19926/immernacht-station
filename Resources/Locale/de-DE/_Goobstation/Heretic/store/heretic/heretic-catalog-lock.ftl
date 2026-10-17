@@ -31,7 +31,7 @@ knowledge-path-lock-s1-desc =
     Du kannst nur zwei auf einmal erstellen; sie funktionieren als schnelle Brecheisen.
     Außerdem passen sie in Gürtel.
 
-knowledge-path-lock-s2-name = Griff von Lock
+knowledge-path-lock-s2-name = Griff des Schlosses
 knowledge-path-lock-s2-desc =
     Nichts kann von meiner Berührung verschlossen bleiben.
 
@@ -50,7 +50,7 @@ knowledge-path-lock-s3-desc =
     Wenn du eine normale ID-Karte damit angreifst, wird diese verbraucht und ihr Zugang übernommen.
     Bewahrt die ursprünglich verwendete Karte nicht auf.
 
-knowledge-path-lock-s4-name = Kennzeichen der Schleuse
+knowledge-path-lock-s4-name = Mal des Schlosses
 knowledge-path-lock-s4-desc =
     Der Torwächter war ein korrupter Verwalter. Zu seiner eigenen verdrehten Belustigung behinderte er seine Kameraden.
 

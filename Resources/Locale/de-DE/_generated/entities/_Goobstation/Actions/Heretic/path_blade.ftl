@@ -1,5 +1,5 @@
-ent-ActionHereticRealignment = Anpassung
-    .desc = Wiederherstelle dich von allen Betäubungen und Knockdowns und gewinne kurzfristigen Pazifismus.
+ent-ActionHereticRealignment = Neuausrichtung
+    .desc = Erhole dich von allen Betäubungen und Niederschlägen und erhalte kurzzeitigen Pazifismus.
 
-ent-ActionHereticFuriousSteel = Furnierstahl
-    .desc = Beschwöre drei umkreisende Schutzblätter um dich herum.
+ent-ActionHereticFuriousSteel = Wütender Stahl
+    .desc = Beschwöre drei umkreisende Schutzklingen um dich herum.

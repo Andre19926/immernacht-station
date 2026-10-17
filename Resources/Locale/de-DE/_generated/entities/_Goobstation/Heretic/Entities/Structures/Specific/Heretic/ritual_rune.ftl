@@ -1,11 +1,11 @@
 ent-HereticRuneRitual = Transmutationsrune
-    .desc = Eine alte Zeichnung, die von finsteren Individuen für Opfer verwendet wurde.
+    .desc = Eine uralte Zeichnung, die von finsteren Gestalten für Opferrituale verwendet wird.
 
-ent-HereticRuneRitualDrawAnimation = unfertige Transmutationsrinde
-    .desc = Eine unvollendete antike Zeichnung, die von finsteren Individuen für Opfer verwendet wurde.
+ent-HereticRuneRitualDrawAnimation = unfertige Transmutationsrune
+    .desc = Eine unvollendete uralte Zeichnung, die von finsteren Gestalten für Opferrituale verwendet wird.
 
-ent-HereticRuneRitualDrawAnimationCicatrix = unfertige Transmutationsrinde
-    .desc = Eine unvollendete antike Zeichnung, die von finsteren Individuen für Opfer verwendet wurde.
+ent-HereticRuneRitualDrawAnimationCicatrix = unfertige Transmutationsrune
+    .desc = Eine unvollendete uralte Zeichnung, die von finsteren Gestalten für Opferrituale verwendet wird.
 
-ent-HereticRuneRitualAnimation = Transmutationsrinde
+ent-HereticRuneRitualAnimation = Transmutationsrune
     .desc = Du solltest diese Beschreibung nicht sehen

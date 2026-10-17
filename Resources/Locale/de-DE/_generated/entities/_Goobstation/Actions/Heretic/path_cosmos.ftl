@@ -1,20 +1,20 @@
 ent-ActionHereticCosmicRune = Kosmische Rune
-    .desc = Erstellt eine kosmische Rune an deiner Position, nur zwei können gleichzeitig existieren. Das Aufrufen einer Rune transportiert dich zum anderen. Jeder mit einer Sternmarke wird mit dir transportiert.
+    .desc = Erschafft eine kosmische Rune an deiner Position, es können nur zwei gleichzeitig existieren. Das Aktivieren einer Rune transportiert dich zur anderen. Jeder mit einem Sternenmal wird mit dir transportiert.
 
-ent-ActionHereticStarTouch = Star Touch
-    .desc = Kann verwendet werden, um eine Sternmarke auf ein Ziel anzuwenden. Wenn dein Opfer bereits sternmarkiert ist, bindet dich mit einem kosmischen Strahl an dein Ziel. Wenn das Kabel 8 Sekunden lang ungebrochen bleibt, werden sie in den Schlaf versetzt und zu dir teleportiert. Star Touch kann auch Cosmic Runes entfernen oder dich zu deinem Star Gazer teleportieren, wenn du in der Hand benutzt wirst.
+ent-ActionHereticStarTouch = Sternenberührung
+    .desc = Setzt ein Sternenmal auf ein Ziel. Ist dein Opfer bereits sternenmarkiert, bindet dich ein kosmischer Strahl an dein Ziel. Bleibt die Verbindung 8 Sekunden lang ununterbrochen, wird das Ziel eingeschläfert und zu dir teleportiert. Sternenberührung kann auch Kosmische Runen entfernen oder dich zu deinem Star Gazer teleportieren, wenn sie in der Hand benutzt wird.
 
-ent-ActionHereticStarBlast = Star Blast
-    .desc = Dieser Zauber feuert eine unaufhaltsame Scheibe mit kosmischen Energien auf ein Ziel und verbreitet die Sternmarke. Wenn du neu gestaltet wirst, wirst du auf die Scheibe teleportiert, und kosmische Felder werden von der Scheibe und von der Rolle erzeugt und Heiden in die Nähe ziehen.
+ent-ActionHereticStarBlast = Sternenschlag
+    .desc = Dieser Zauber feuert eine unaufhaltsame Scheibe aus kosmischer Energie auf ein Ziel und verbreitet das Sternenmal. Wird er erneut gewirkt, wirst du zur Scheibe teleportiert, und kosmische Felder gehen von der Scheibe und von dir aus und ziehen nahe Ungläubige heran.
 
 ent-ActionHereticCosmicExpansion = Kosmische Expansion
-    .desc = Dieser Zauber erzeugt eine 5x5-Domäne kosmischer Felder. Kreaturen bis zu 7 Kacheln entfernt erhalten auch eine Sternmarke.
+    .desc = Dieser Zauber erschafft eine 5x5-Domäne aus kosmischen Feldern. Kreaturen in bis zu 7 Kacheln Entfernung erhalten ebenfalls ein Sternenmal.
 
-ent-ActionStarGaze = Sternblick
-    .desc = Erzeugt einen massiven Todesstrahl, der alles auf seinem Weg auslöscht. Hat es seine eigene Anziehungskraft, die neue Opfer ansaugt.
+ent-ActionStarGaze = Sternenblick
+    .desc = Erzeugt einen gewaltigen Todesstrahl, der alles auf seinem Weg auslöscht. Er hat eine eigene Anziehungskraft, die neue Opfer ansaugt.
 
-ent-ActionResetStarGazerConsciousness = Reset Star Gazer Bewusstsein
+ent-ActionResetStarGazerConsciousness = Bewusstsein des Star Gazers zurücksetzen
     .desc = Ersetzt den Geist deiner Beschwörung durch den eines anderen Geistes.
 
-ent-ActionStarGazerSeekMaster = Suchmeister
+ent-ActionStarGazerSeekMaster = Meister aufsuchen
     .desc = Teleportiert dich zu deinem Meister.

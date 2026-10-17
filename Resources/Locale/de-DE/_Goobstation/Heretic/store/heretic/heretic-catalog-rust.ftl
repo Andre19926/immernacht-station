@@ -22,7 +22,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-rust-s1-name = Die Geschichte von Blacksmith
+knowledge-path-rust-s1-name = Die Geschichte des Schmieds
 knowledge-path-rust-s1-desc =
     "Lass mich dir eine Geschichte erzählen", sagte der Schmied, als er tief in seine rostige Klinge blickte.
 
