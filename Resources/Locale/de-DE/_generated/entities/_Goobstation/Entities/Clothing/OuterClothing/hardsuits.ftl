@@ -4,16 +4,16 @@ ent-ClothingOuterHardsuitChronolegioneer = futuristischer Hardsuit
 ent-ClothingOuterHardsuitChronolegioneerUnremoveable = futuristischer Hardsuit
     .desc = Ein Hardsuit, der mit einem unbekannten Material bedeckt ist und vor den meisten materiellen und zeitlichen Schäden schützt.
 
-ent-ClothingOuterHardsuitBlueshieldLight = "Prätorianer" Escort Hardsuit
+ent-ClothingOuterHardsuitBlueshieldLight = „Prätorianer“-Eskorten-Hardsuit
     .desc = Ein Hardsuit für einen Elite-Bodyguard. Dieser spezielle ist aus einem leichteren Metall gefertigt, was eine höhere Manövrierfähigkeit ermöglicht.
 
-ent-ClothingOuterHardsuitCybersunStealth = Cybersun Stealth Hardsuit
+ent-ClothingOuterHardsuitCybersunStealth = Cybersun-Stealth-Hardsuit
     .desc = Ein Hardsuit mit photoreaktiver Beschichtung für hinterhältige Operationen, die Abschirmung funktioniert nicht, während du dich bewegst! Benötigt den Helm, um das Stealth-Feld zu beenden.
 
 ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun Dreadnought Anzug
     .desc = Das Syndicate legt seine Herrlichkeit auf deine Schultern, enttäusche es nicht.
 
-ent-ClothingOuterVoidsuitSecurity = Sicherheit Hardsuit
+ent-ClothingOuterVoidsuitSecurity = Sicherheits-Hardsuit
     .desc = Ein leichter Hardsuit mit eingebautem Plattenträger, um einen moderaten Schutz zu bieten und dabei mobil zu bleiben.
 
 ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 „Ehrengarde“-Paradehardsuit
@@ -28,8 +28,8 @@ ent-ClothingSingulothArmor = Singuloth Ritterrüstung
 ent-ClothingOuterHardsuitVoxRaiderStealth = Vox Raider Stealth Anzug
     .desc = Ein eleganter schwarzer Anzug. Es scheint einen Schwanz zu haben und ist sehr schwer.
 
-ent-ClothingOuterHardsuitDetective = Detektiv Hardsuit
+ent-ClothingOuterHardsuitDetective = Detektiv-Hardsuit
     .desc = Ein Hardsuit maßgefertigt für den Detektiv. Es hat einen starken Geruch von Alkohol und Zigaretten.
 
-ent-ClothingOuterHardsuitContractor = Bauunternehmer Hardsuit
+ent-ClothingOuterHardsuitContractor = Contractor-Hardsuit
     .desc = Ein leichter Hardsuit mit eingebautem Plattenträger, um einen moderaten Schutz zu bieten und dabei mobil zu bleiben.

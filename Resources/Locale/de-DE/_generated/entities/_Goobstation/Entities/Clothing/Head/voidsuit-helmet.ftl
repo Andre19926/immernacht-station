@@ -4,13 +4,13 @@ ent-ClothingHeadHelmetHardsuitChronolegioneer = futuristischer Helm
 ent-ClothingHeadHelmetHardsuitBlueshield = Blueshield-Hardsuit-Helm
     .desc = Der Helm des Hardsuit des Kapitäns.
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = Cybersun Stealth Hardsuit Helm
+ent-ClothingHeadHelmetHardsuitCybersunStealth = Cybersun-Stealth-Hardsuit-Helm
     .desc = Ein Helm mit photoreaktiver Beschichtung für Stealth-Operationen.
 
 ent-ClothingHeadHelmetHardsuitDreadnought = Cybersun Dreadnought-Helm
     .desc = Ein Helm, wenn man sich das ansieht, fragt man sich, ob da jemand lebt.
 
-ent-ClothingHeadHelmetVoidsuitSecurity = Sicherheitshelm Hardsuit
+ent-ClothingHeadHelmetVoidsuitSecurity = Sicherheits-Hardsuit-Helm
     .desc = Eine gut gebaute Faceplate, die am Sicherheits-Hardsuit befestigt ist.
 
 ent-ClothingHeadHelmetHardsuitHeadOfSecurityExperimental = Moderner Sicherheitschef-Hardsuit-Helm
@@ -25,8 +25,8 @@ ent-ClothingHeadSinguloth = Singuloth-Ritterhelm
 ent-ClothingHeadHelmetHardsuitVoxRaiderStealth = Vox Raider Stealth Helm
     .desc = Ein glatt konturierter, matt-schwarzer Alienhelm.
 
-ent-ClothingHeadHelmetHardsuitDetective = Detektiv Hardsuit Helm
+ent-ClothingHeadHelmetHardsuitDetective = Detektiv-Hardsuit-Helm
     .desc = Ein Helm mit eingebautem Fedora für den Hardsuit des Detektivs.
 
-ent-ClothingHeadHelmetHardsuitContractor = Bauunternehmer Hardsuit Helm
+ent-ClothingHeadHelmetHardsuitContractor = Contractor-Hardsuit-Helm
     .desc = Eine gut gebaute Faceplate, die am Auftragnehmer Hardsuit befestigt ist.

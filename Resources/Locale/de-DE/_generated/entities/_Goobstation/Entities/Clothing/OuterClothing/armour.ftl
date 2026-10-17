@@ -4,7 +4,7 @@ ent-ClothingOuterVestWebDurathread = Rote Fleckenweste
 ent-ClothingOuterArmourDurathread = Durathread Rüstung
     .desc = Eine gepanzerte Weste aus Plastikplatten, die mit Durathread gewebt sind. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
 
-ent-ClothingOuterArmorHelldiver = Salvage-NT-01-Taktik-Hardsuit
+ent-ClothingOuterArmorHelldiver = Bergungs-NT-01-Taktik-Hardsuit
     .desc = Diese Rüstung ist die Standardausgabe von NanoTrasen und besteht aus derselben Titanlegierung wie die Goliath-Hülle.
 
 ent-ClothingOuterArmorHoSVestWeb = Leiter der Sicherheitswebweste

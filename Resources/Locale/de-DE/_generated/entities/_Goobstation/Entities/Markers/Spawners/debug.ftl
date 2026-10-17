@@ -30,7 +30,7 @@ ent-SpawnMobHumanChangelingArmor = Wechselarmor Spawner
 
 ent-SpawnHumanHereticArmor = Ketzer Rüstung Spawner
 
-ent-SpawnMobHumanCaptainHardsuit = Hauptmann Armor Spawner Hardsuit
+ent-SpawnMobHumanCaptainHardsuit = Hauptmann-Rüstungs-Spawner (Hardsuit)
 
 ent-SpawnMobHumanCaptainModsuit = Hauptmann Armor Spawner Modsuit
 
