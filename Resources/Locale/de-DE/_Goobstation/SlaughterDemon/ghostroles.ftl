@@ -1,17 +1,17 @@
-ghost-role-information-slaughter-demon-name = Schlachtung von Dämonen
-ghost-role-information-slaughter-demon-description = Was ist die Zeit, lebendig zu sein! LASS DIESE PUNY MORTALS MEINEN WAHREN WRATH VERBINDEN!
+ghost-role-information-slaughter-demon-name = Schlachtdämon
+ghost-role-information-slaughter-demon-description = Was für eine Zeit, am Leben zu sein! LASS DIESE WINZIGEN STERBLICHEN MEINEN WAHREN ZORN SPÜREN!
 ghost-role-information-slaughter-demon-rules =
-    SITZEN SIE NUR ZURÜCK und genieße das Töten, weil niemand anderes wird. Hier ist ein paar dinge, um in den sinn zu halten, demon to demon.
-        HIERARCHY:
-        ES WIRD WIE DIES
+    LEHN DICH EINFACH ZURÜCK und genieße das Töten, denn sonst tut es niemand. Hier ein paar Dinge, die du dir merken solltest – von Dämon zu Dämon.
+        HIERARCHIE:
+        SO LÄUFT ES
             SATAN
-            UMWELT
-            DEMON KING, BUBBLEGUM
-            DEMONEN
+            DIE UNTERWELT
+            DÄMONENKÖNIG BUBBLEGUM
+            DÄMONEN
             IMPS
-            DUMME GOOBALLE, die wir MENSCHEN nennen
-    Meine nachfolgenden Dämonen, bitte [color=red] TÖTEN SIE NICHT TÖTEN[/color] Weil Satan euch wirklich schnell so schnell wie das Böse über euch in der Unterwelt schnappen wird
+            DUMME GLIBBERKLUMPEN, die wir MENSCHEN nennen
+    Meine werten Mitdämonen, bitte [color=red]TÖTET EURESGLEICHEN NICHT[/color], denn Satan wird euch ganz schnell in der Unterwelt schnappen, so böse er auch ist.
 
 
-ghost-role-information-laughter-demon-name = Gelächter Dämon
-ghost-role-information-laughter-demon-description = Was ist die Zeit, lebendig zu sein! IHR BESSERT JEDEN, DEN IHR SEHT, UND ZEIHT IHNEN, WELCHE WAHRE LIEBE FÜHLEN!
+ghost-role-information-laughter-demon-name = Lachdämon
+ghost-role-information-laughter-demon-description = Was für eine Zeit, am Leben zu sein! IHR UMARMT JEDEN, DEN IHR SEHT, UND ZEIGT IHNEN, WIE SICH WAHRE LIEBE ANFÜHLT!

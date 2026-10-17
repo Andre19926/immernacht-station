@@ -8,7 +8,7 @@ accent-demonic-words-3 = Reptilien
 accent-demonic-words-replace-3 = Abscheulichkeit
 
 accent-demonic-words-4 = Schleim
-accent-demonic-words-replace-4 = Bubbling Dreck
+accent-demonic-words-replace-4 = Blubbernder Dreck
 
 accent-demonic-words-5 = Diona
 accent-demonic-words-replace-5 = Dornenbauer
@@ -32,7 +32,7 @@ accent-demonic-words-11 = Hosen
 accent-demonic-words-replace-11 = verherrlichte Krankenschwester
 
 accent-demonic-words-12 = Leiter
-accent-demonic-words-replace-12 = Jailhouse Hund
+accent-demonic-words-replace-12 = Knasthund
 
 accent-demonic-words-13 = Offizier
 accent-demonic-words-replace-13 = Schmuggler
