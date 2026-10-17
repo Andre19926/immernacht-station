@@ -1,4 +1,4 @@
-ent-BorgChassisDerelictSyndicateAssault = derelict syndicate assasult cyborg
+ent-BorgChassisDerelictSyndicateAssault = Verfallener Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen. Dieser ist in einem Zustand des großen Verfalls.
 
 ent-BorgChassisUrist = Urist McBorg
@@ -10,113 +10,113 @@ ent-PlayerBorgUrist = Urist McBorg
 ent-PlayerBorgUristGhostRole = Urist McBorg
     .desc = Eine Abscheulichkeit, die angeblich bei der Aktivität der Station hilft.
 
-ent-BorgChassisSEC = S.E.C. Cyborg
+ent-BorgChassisSEC = S.E.C.-Cyborg
     .desc = Ein Sicherheitsdurchsetzungscyborg, der speziell für die Einhaltung des Weltraumgesetzes entwickelt wurde.
 
-ent-BorgChassisMiningBasic = Basic Mining Cyborg
+ent-BorgChassisMiningBasic = Einfacher Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMiningAdvanced = Advanced Mining Cyborg
+ent-BorgChassisMiningAdvanced = Fortgeschrittener Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMiningCoffin = Sarg Cyborg
+ent-BorgChassisMiningCoffin = Sarg-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMiningLavaland = Lavaland Cyborg
+ent-BorgChassisMiningLavaland = Lavaland-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMiningCricket = Cricket Mining Cyborg
+ent-BorgChassisMiningCricket = Cricket-Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMiningSquat = Squat Cyborg
+ent-BorgChassisMiningSquat = Kompakt-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisMiningNoble = Edelminen-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerBasic = Grundingenieur Cyborg
+ent-BorgChassisEngineerBasic = Einfacher Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerAntique = Alter Ingenieur Cyborg
+ent-BorgChassisEngineerAntique = Antiker Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerStandart = Standart-Ingenieur Cyborg
+ent-BorgChassisEngineerStandart = Standard-Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerNoble = Ingenieur Cyborg
+ent-BorgChassisEngineerNoble = Edler Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerCricket = Cricket-Ingenieur Cyborg
+ent-BorgChassisEngineerCricket = Cricket-Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineerRover = Rover-Ingenieur Cyborg
+ent-BorgChassisEngineerRover = Rover-Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorBasic = Basic Hausmeister Cyborg
+ent-BorgChassisJanitorBasic = Einfacher Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorMopbot = Mopbot Cyborg
+ent-BorgChassisJanitorMopbot = Mopbot-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorStandart = Standart Hausmeister Cyborg
+ent-BorgChassisJanitorStandart = Standard-Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorCustodi = Custodi cyborg
+ent-BorgChassisJanitorCustodi = Custodi-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorNoble = Edelhausmeister Cyborg
+ent-BorgChassisJanitorNoble = Edler Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorCricket = Cricket Janitor Cyborg
+ent-BorgChassisJanitorCricket = Cricket-Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitorRover = Rover Janitor Cyborg
+ent-BorgChassisJanitorRover = Rover-Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalStandart = Medizinischer Cyborg
+ent-BorgChassisMedicalStandart = Standard-Medizin-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalMedbot = medbot cyborg
+ent-BorgChassisMedicalMedbot = Medbot-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalNeedles = Cyborgnadeln
+ent-BorgChassisMedicalNeedles = Nadel-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalAdvanced = fortgeschrittene medizinische Cyborg
+ent-BorgChassisMedicalAdvanced = Fortgeschrittener medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalQualified = qualifizierter medizinischer Cyborg
+ent-BorgChassisMedicalQualified = Qualifizierter medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalNoble = edle medizinische Cyborg
+ent-BorgChassisMedicalNoble = Edler medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalCricket = Cricket Medical Cyborg
+ent-BorgChassisMedicalCricket = Cricket-Medizin-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMedicalRover = Rover Medical Cyborg
+ent-BorgChassisMedicalRover = Rover-Medizin-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceStandart = Standart Service von Cyborg
+ent-BorgChassisServiceStandart = Standard-Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceBrobot = BRobot Cyborg
+ent-BorgChassisServiceBrobot = BRobot-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceWaitress = Kellnerin Cyborg
+ent-BorgChassisServiceWaitress = Kellnerinnen-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceCricket = Cricketservice Cyborg
+ent-BorgChassisServiceCricket = Cricket-Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceKent = Kent Cyborg
+ent-BorgChassisServiceKent = Kent-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceNoble = noble service cyborg
+ent-BorgChassisServiceNoble = Edler Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceRich = reichhaltiger Cyborg
+ent-BorgChassisServiceRich = Reicher Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisServiceRover = Roverservice Cyborg
+ent-BorgChassisServiceRover = Rover-Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.

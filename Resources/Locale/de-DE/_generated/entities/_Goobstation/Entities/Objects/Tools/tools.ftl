@@ -13,7 +13,7 @@ ent-HandheldFaxNanorep = Nanotrasen Vertreter Handfax
 ent-HandheldFaxOfficial = CentComm offizielle Handfax
     .desc = Ein Tool, das Tonnen von Papier auf Centcomm Fax senden kann.
 
-ent-MultitoolBorg = borg multitool
+ent-MultitoolBorg = Borg-Multitool
     .desc = Ein fortschrittliches Werkzeug zum Kopieren, Speichern und Senden elektrischer Impulse und Signale durch Drähte und Maschinen.
 
 ent-RPDRecharging = experimentelle RPD

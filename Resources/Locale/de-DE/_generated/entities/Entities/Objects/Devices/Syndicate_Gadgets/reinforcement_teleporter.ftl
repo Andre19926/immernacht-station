@@ -13,5 +13,5 @@ ent-ReinforcementRadioSyndicateAncestorNukeops = Syndicate genetische Vorfahren 
 ent-ReinforcementRadioSyndicateSyndiCat = Syndicat-Verstärkungsfunk
     .desc = Ruft eine treu ausgebildete Katze mit einer Mikrobombe an, um dir zu helfen.
 
-ent-ReinforcementRadioSyndicateCyborgAssault = Syndicate Angriff Cyborg Verstärkung Radio
+ent-ReinforcementRadioSyndicateCyborgAssault = Syndicate-Angriffs-Cyborg-Verstärkungsradio
     .desc = Rufe einen gut bewaffneten Angriff Cyborg, sofort!

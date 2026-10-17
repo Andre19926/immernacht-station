@@ -13,8 +13,8 @@ ent-TurboItemRecharger = Turbolader
 ent-WallWeaponCapacitorRecharger = Wandauflader
     .desc = Ein kompakter Wandlader. Es kann nur elektronische Geräte aufladen und hat keinen Platz für Stromzellen.
 
-ent-BorgCharger = Ladestation Cyborg
+ent-BorgCharger = Cyborg-Ladestation
     .desc = Ein stationäres Ladegerät für verschiedene Roboter- und Cyborg-Einheiten. Überraschend geräumig.
 
-ent-BorgChargerXenoborg = Ladestation xenoborg
+ent-BorgChargerXenoborg = Xenoborg-Ladestation
     .desc = Ein stationäres Ladegerät für Xenoborgs. Fühlt sich klaustrophobisch.

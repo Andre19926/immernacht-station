@@ -20,20 +20,20 @@ ent-SpawnPointGhostSpaceNinja = Ghost Rolle Spawn Point
 
 ent-SpawnPointGhostParadoxClone = Ghost Rolle Spawn Point
 
-ent-SpawnPointGhostDerelictEngineeringCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictEngineeringCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDerelictCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictCyborg = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostRoleMothershipCore = Ghost Rolle Spawn Point
 
 ent-SpawnPointGhostRoleXenoborg = Ghost Rolle Spawn Point
 
-ent-SpawnPointGhostDerelictJanitorCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictJanitorCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDerelictMedicalCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictMedicalCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDerelictMiningCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictMiningCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDerelictSyndicateAssaultCyborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictSyndicateAssaultCyborg = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostAncientRogueKing = Ghost Rolle Spawn Point

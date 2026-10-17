@@ -1,4 +1,4 @@
-ent-SpawnPointGhostDerelictCyborgSyndicate = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictCyborgSyndicate = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostGreyTide = Gray Tide Antag Spawn
 

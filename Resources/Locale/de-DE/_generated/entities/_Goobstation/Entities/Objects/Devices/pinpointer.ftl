@@ -4,7 +4,7 @@ ent-PinpointerAnomaly = Anomalie-Pinpointer
 ent-PinpointerArtifact = Artefakt-Pinpointer
     .desc = Ein Hand-Tracking-Gerät, das alle Artefakte in der Nähe verfolgt. Halte aufrecht, um Genauigkeit zu behalten.
 
-ent-PinpointerBorg = borg pinpointer
+ent-PinpointerBorg = Borg-Pinpointer
     .desc = Ein Hand-Tracking-Gerät, das auf jedem Silizium sperrt, während ausgeschaltet. Halte aufrecht, um Genauigkeit zu behalten.
 
 ent-PinpointerGeneric = generischer Pinpointer

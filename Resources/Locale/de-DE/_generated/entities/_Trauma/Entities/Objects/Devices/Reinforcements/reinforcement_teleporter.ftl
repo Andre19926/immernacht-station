@@ -7,10 +7,10 @@ ent-ReinforcementRadioSyndicateNukieCarp = Syndicate Carp Verstärkung Radio
 ent-ReinforcementRadioSyndicateNukieSpider = Unerklärlicherweise drohendes Ei
     .desc = Du bist dir nicht sicher, ob das ein Radio-Transceiver oder ein Augenblinken ist. Könnte eine seltsame Spinne anziehen.
 
-ent-ReinforcementRadioSyndicateCyborgSaboteur = Syndicate Saboteur Cyborg Verstärkung Radio
+ent-ReinforcementRadioSyndicateCyborgSaboteur = Syndicate-Saboteur-Cyborg-Verstärkungsradio
     .desc = Ruft einen Saboteurborg mit leichten Waffen und störender Ausrüstung an.
 
-ent-ReinforcementRadioSyndicateCyborgMedical = Medizinisches Syndicate-Zyborg-Bewehrungsradio
+ent-ReinforcementRadioSyndicateCyborgMedical = Syndicate-Sanitäter-Cyborg-Verstärkungsradio
     .desc = Ruft eine medizinische Cyborg mit guten Unterstützungsfähigkeiten und störender Ausrüstung an.
 
 ent-ReinforcementRadioSyndicateBehonker = behonker Verstärkungsfunk

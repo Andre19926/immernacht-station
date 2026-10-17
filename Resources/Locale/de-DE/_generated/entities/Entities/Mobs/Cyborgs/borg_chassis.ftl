@@ -1,47 +1,47 @@
 ent-BorgChassisSelectable = Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisGeneric = Cyborg-Generika
+ent-BorgChassisGeneric = Allgemeiner Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisMining = Salvage Cyborg
+ent-BorgChassisMining = Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisEngineer = Ingenieur Cyborg
+ent-BorgChassisEngineer = Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisJanitor = Hausmeister Cyborg
+ent-BorgChassisJanitor = Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisMedical = Medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisService = Service Cyborg
+ent-BorgChassisService = Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
-ent-BorgChassisSyndicateAssault = Syndicate Angriff Cyborg
+ent-BorgChassisSyndicateAssault = Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.
 
-ent-BorgChassisSyndicateMedical = Syndicate medizinische Cyborg
+ent-BorgChassisSyndicateMedical = Syndicate-Sanitäter-Cyborg
     .desc = Ein kampfmedizinischer Cyborg. Hat begrenztes offensives potenzial, macht es aber mit seinen unterstützungsfähigkeiten mehr als wett.
 
-ent-BorgChassisSyndicateSaboteur = Syndicate Saboteur Cyborg
+ent-BorgChassisSyndicateSaboteur = Syndicate-Saboteur-Cyborg
     .desc = Ein stromlinienförmiger Engineering-Cyborg, ausgestattet mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn sich als Nanotrasen-Cyborg tarnen.
 
-ent-BorgChassisDerelict = derelict Cyborg
+ent-BorgChassisDerelict = Verfallener Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Dieser befindet sich in einem Zustand des großen Verfalls.
 
-ent-EngineeringBorgChassisDerelict = verfallener Ingenieur Cyborg
+ent-EngineeringBorgChassisDerelict = Verfallener Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Dieser scheint Stücke von seltsamen Kristallen zu haben, die seine Oberfläche pockmarkieren.
 
-ent-JanitorBorgChassisDerelict = derelict janitor cyborg
+ent-JanitorBorgChassisDerelict = Verfallener Hausmeister-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Serviceabteilung unterstützt. Es ist ein größeres Durcheinander als alles, was es aufräumen kann.
 
-ent-MedicalBorgChassisDerelict = verfallene medizinische Cyborg
+ent-MedicalBorgChassisDerelict = Verfallener medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die medizinische Abteilung unterstützt. Diese Nadeln sehen nicht sehr hygienisch aus.
 
-ent-MiningBorgChassisDerelict = derelict salvage cyborg
+ent-MiningBorgChassisDerelict = Verfallener Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hat die falsche Seite eines Gabonit-Brockens gesehen.
 
-ent-SyndicateAssaultBorgChassisDerelict = derelict syndicate assault cyborg
+ent-SyndicateAssaultBorgChassisDerelict = Verfallener Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen. Dieser ist eher rostorange als blutrot.

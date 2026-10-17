@@ -31,7 +31,7 @@ ent-MindRoleGhostRoleTeamAntagonistFlock = Ghost Role (Teamantagonist)
 ent-MindRoleJob = Job Rolle
     .desc = Mind Role Entität
 
-ent-MindRoleSiliconBrain = Cyborg Brain Rolle
+ent-MindRoleSiliconBrain = Cyborg-Gehirn-Rolle
     .desc = Mind Role Entität
 
 ent-MindRoleSubvertedSilicon = Unterhandelte Silizium-Rolle

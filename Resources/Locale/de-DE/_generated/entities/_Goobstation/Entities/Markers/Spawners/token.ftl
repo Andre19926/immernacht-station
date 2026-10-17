@@ -4,7 +4,7 @@ ent-SpawnPointGhostDragonToken = Ghost Rolle Spawn Point
 
 ent-SpawnPointLoneNukeOperativeToken = Ghost Rolle Spawn Point
 
-ent-SpawnPointGhostDerelictCyborgSyndicateToken = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDerelictCyborgSyndicateToken = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostBinglePrimeToken = Ghost Rolle Spawn Point
 
