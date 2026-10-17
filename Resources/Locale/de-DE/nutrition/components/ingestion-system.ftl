@@ -27,8 +27,8 @@ ingestion-verb-drink = Trinken
 
 edible-nom = Nom. {$flavors}
 edible-nom-other = Nom.
-edible-slurp = Slurp. {$flavors}
-edible-slurp-other = Slurp.
+edible-slurp = Schlürf. {$flavors}
+edible-slurp-other = Schlürf.
 edible-swallow = Du schluckst { THE($food) } hinunter
 edible-gulp = Schluck. {$flavors}
 edible-gulp-other = Schluck.

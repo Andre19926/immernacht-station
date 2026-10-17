@@ -37,10 +37,10 @@ examinable-solution-on-examine-volume-puddle = Die Pfütze { $fillLevel ->
 
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [color=white]Voll[/color]
-        [mostlyfull] [color=#DFDFDF]Fast voll[/color]
-        [halffull] [color=#C8C8C8]Halb voll[/color]
-        [halfempty] [color=#C8C8C8]Halb leer[/color]
-        [mostlyempty] [color=#A4A4A4]Fast leer[/color]
-       *[empty] [color=gray]Leer[/color]
+        [full] [color=white]voll[/color]
+        [mostlyfull] [color=#DFDFDF]fast voll[/color]
+        [halffull] [color=#C8C8C8]halb voll[/color]
+        [halfempty] [color=#C8C8C8]halb leer[/color]
+        [mostlyempty] [color=#A4A4A4]fast leer[/color]
+       *[empty] [color=gray]leer[/color]
     }

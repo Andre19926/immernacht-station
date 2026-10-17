@@ -12,7 +12,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-anchoring-name = Verankerung
+tool-quality-anchoring-name = Verankern
 tool-quality-anchoring-tool-name = Schraubenschlüssel
 
 tool-quality-prying-name = Hebeln
@@ -22,18 +22,18 @@ tool-quality-screwing-name = Schrauben
 tool-quality-screwing-tool-name = Schraubendreher
 
 tool-quality-cutting-name = Schneiden
-tool-quality-cutting-tool-name = Drahtabnehmer
+tool-quality-cutting-tool-name = Seitenschneider
 
 tool-quality-welding-name = Schweißen
 tool-quality-welding-tool-name = Schweißgerät
 
-tool-quality-pulsing-name = Pulsung
+tool-quality-pulsing-name = Pulsen
 tool-quality-pulsing-tool-name = Multitool
 
-tool-quality-slicing-name = Schneiden
+tool-quality-slicing-name = Aufschneiden
 tool-quality-slicing-tool-name = Messer
 
-tool-quality-ignition-name = Zündung
+tool-quality-ignition-name = Entzünden
 tool-quality-ignition-tool-name = Streichholz
 
 tool-quality-sawing-name = Sägen
@@ -43,10 +43,10 @@ tool-quality-honking-name = Hupen
 tool-quality-honking-tool-name = Radhorn
 
 tool-quality-woodcutting-name = Holzschneiden
-tool-quality-woodcutting-tool-name = Luke
+tool-quality-woodcutting-tool-name = Beil
 
 tool-quality-rolling-name = Rollen
-tool-quality-rolling-tool-name = Rollbolzen
+tool-quality-rolling-tool-name = Nudelholz
 
 tool-quality-digging-name = Graben
 tool-quality-digging-tool-name = Schaufel

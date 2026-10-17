@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-axing-name = Streichung
+tool-quality-axing-name = Hacken
 tool-quality-axing-tool-name = Feuerachse
 
 tool-quality-hammering-name = Hämmern
 tool-quality-hammering-tool-name = Hammer
 
-tool-quality-painting-name = Malerei
+tool-quality-painting-name = Anmalen
 tool-quality-painting-tool-name = Sprühmaler
