@@ -41,7 +41,7 @@ ent-MaterialHideBear = Bärenfell
     .desc = Ein Rohstoff.
 
 ent-MaterialHideCorgi = Korgihaut
-    .desc = Luxuspelz, der nur auf die edelste Art und Weise verwendet wird. Gerüchten zufolge fällt er an, wenn ein Corgi auf die schöne Farm geschickt wird.
+    .desc = Luxuspelz, der nur auf edelste Weise verwendet wird. Gerüchten zufolge fällt er an, wenn ein Corgi auf die schöne Farm geschickt wird.
 
 ent-MaterialDiamond = raffinierter Diamant
     .desc = Ein Rohstoff.
@@ -77,16 +77,16 @@ ent-MaterialWebSilk1 = Seide
     .desc = Ein Material aus Spinnweben.
 
 ent-MaterialToothSpaceCarp = Weltraumkarpfenzahn
-    .desc = Ziemlich klein, aber viel böse. Du magst sie am besten, wenn sie nicht in dich versinken.
+    .desc = Ziemlich klein, aber sehr böse. Du magst sie am liebsten, wenn sie nicht in dich eindringen.
 
 ent-MaterialToothSpaceCarp1 = Raumkarrenzahn
-    .desc = Ziemlich klein, aber viel böse. Du magst sie am besten, wenn sie nicht in dich versinken.
+    .desc = Ziemlich klein, aber sehr böse. Du magst sie am liebsten, wenn sie nicht in dich eindringen.
 
 ent-MaterialToothSharkminnow = Haifischwurzzahn
-    .desc = Sieht scharf aus. Scharf genug, um jemandem die Augen auszustrecken. Heiliger fick, es ist groß.
+    .desc = Sieht scharf aus. Scharf genug, um jemandem die Augen auszustechen. Heilige Scheiße, ist das groß.
 
 ent-MaterialToothSharkminnow1 = Haifischwurzzahn
-    .desc = Sieht scharf aus. Scharf genug, um jemandem die Augen auszustrecken. Heiliger fick, es ist groß.
+    .desc = Sieht scharf aus. Scharf genug, um jemandem die Augen auszustechen. Heilige Scheiße, ist das groß.
 
 ent-MaterialBones = Knochen
     .desc = Ein Rohstoff.
@@ -98,7 +98,7 @@ ent-MaterialGunpowder = Schießpulver
     .desc = Eine explosive Verbindung.
 
 ent-MaterialGoliathHide = Goliathhautplatten
-    .desc = Stücke eines Goliaths felsige Haut, diese könnten deinen Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.
+    .desc = Stücke der felsigen Haut eines Goliaths; sie könnten deinen Anzug etwas widerstandsfähiger gegen Angriffe der einheimischen Fauna machen.
 
 ent-MaterialGoliathHide1 = Goliathhautplatten
-    .desc = Stücke eines Goliaths felsige Haut, diese könnten deinen Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.
+    .desc = Stücke der felsigen Haut eines Goliaths; sie könnten deinen Anzug etwas widerstandsfähiger gegen Angriffe der einheimischen Fauna machen.

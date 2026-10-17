@@ -1,5 +1,5 @@
 ent-ChessBoard = Schachbrett
-    .desc = Ein Schachbrett. Stücke inklusive!
+    .desc = Ein Schachbrett. Figuren inklusive!
 
 ent-ChessBoardTabletop = Schachbrett
 

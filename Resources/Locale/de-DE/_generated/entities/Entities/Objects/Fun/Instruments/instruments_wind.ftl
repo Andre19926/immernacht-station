@@ -1,5 +1,5 @@
 ent-SaxophoneInstrument = Saxofon
-    .desc = Ein Instrument. Du könntest dies wahrscheinlich in rohen Jazz schleifen.
+    .desc = Ein Instrument. Damit könntest du wahrscheinlich rohen Jazz schleifen.
 
 ent-HarmonicaInstrument = Mundharmonika
     .desc = Das ist ein Instrument.
@@ -8,16 +8,16 @@ ent-ClarinetInstrument = Klarinette
     .desc = Skweedward Tintacklays.
 
 ent-FluteInstrument = Flöte
-    .desc = Erreicht neue Höhen des erschreckend schrill sein.
+    .desc = Erreicht neue Höhen schrecklicher Schrillheit.
 
 ent-RecorderInstrument = Aufzeichnungsgerät
-    .desc = Kommt in verschiedenen Farben aus modischem Kunststoff!
+    .desc = Gibt es in verschiedenen Farben aus modischem Kunststoff!
 
 ent-PanFluteInstrument = Panflöte
-    .desc = Perfekt, um alte mythische Wesen zu locken, um mit dir zu tanzen.
+    .desc = Perfekt, um uralte mythische Wesen anzulocken, damit sie mit dir tanzen.
 
 ent-OcarinaInstrument = Okarin
     .desc = Gut zum Spielen von Schlafliedern.
 
 ent-BagpipeInstrument = Beutelrohr
-    .desc = Pairs schön mit einem Kilt.
+    .desc = Passt wunderbar zu einem Kilt.

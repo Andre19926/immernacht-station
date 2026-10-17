@@ -1,11 +1,11 @@
 ent-SheetGlass = Glas
-    .desc = Eine Glasscheibe, die oft auf der Station in verschiedenen Anwendungen verwendet wird.
+    .desc = Eine Glasscheibe, die auf der Station häufig in verschiedenen Anwendungen verwendet wird.
 
 ent-SheetGlass10 = Glas
-    .desc = Eine Glasscheibe, die oft auf der Station in verschiedenen Anwendungen verwendet wird.
+    .desc = Eine Glasscheibe, die auf der Station häufig in verschiedenen Anwendungen verwendet wird.
 
 ent-SheetGlass1 = Glas
-    .desc = Eine Glasscheibe, die oft auf der Station in verschiedenen Anwendungen verwendet wird.
+    .desc = Eine Glasscheibe, die auf der Station häufig in verschiedenen Anwendungen verwendet wird.
 
 ent-SheetRGlass = verstärktes Glas
     .desc = Eine verstärkte Glasscheibe.
@@ -14,28 +14,28 @@ ent-SheetRGlass1 = verstärktes Glas
     .desc = Eine verstärkte Glasscheibe.
 
 ent-SheetPGlass = Plasmaglas
-    .desc = Ein Blatt transluzentes Plasma.
+    .desc = Eine Scheibe aus durchscheinendem Plasma.
 
 ent-SheetPGlass1 = Plasmaglas
-    .desc = Ein Blatt transluzentes Plasma.
+    .desc = Eine Scheibe aus durchscheinendem Plasma.
 
 ent-SheetRPGlass = verstärktes Plasmaglas
-    .desc = Eine verstärkte Folie aus transluzentem Plasma.
+    .desc = Eine verstärkte Scheibe aus durchscheinendem Plasma.
 
 ent-SheetRPGlass1 = verstärktes Plasmaglas
-    .desc = Eine verstärkte Folie aus transluzentem Plasma.
+    .desc = Eine verstärkte Scheibe aus durchscheinendem Plasma.
 
 ent-SheetUGlass = Uranglas
-    .desc = Ein Blatt Uranglas.
+    .desc = Eine Scheibe Uranglas.
 
 ent-SheetUGlass1 = Uranglas
-    .desc = Ein Blatt Uranglas.
+    .desc = Eine Scheibe Uranglas.
 
 ent-SheetRUGlass = verstärktes Uranglas
-    .desc = Ein verstärktes Uranblatt.
+    .desc = Eine verstärkte Uranglasscheibe.
 
 ent-SheetRUGlass1 = verstärktes Uranglas
-    .desc = Ein verstärktes Uranblatt.
+    .desc = Eine verstärkte Uranglasscheibe.
 
 ent-SheetClockworkGlass = Uhrwerksglas
     .desc = Eine Platte aus messinggehärtetem Glas, die hauptsächlich von Uhrwerk-Enthusiasten und Überresten von Ratvarian-Kulten verwendet wird.

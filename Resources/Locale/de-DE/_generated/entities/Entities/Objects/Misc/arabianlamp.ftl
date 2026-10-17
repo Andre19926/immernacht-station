@@ -1,2 +1,2 @@
 ent-ArabianLamp = Leuchte
-    .desc = Warum zum Teufel wird dieses Stück Müll nicht öffnen!?
+    .desc = Warum zum Teufel geht dieses Stück Müll nicht auf!?

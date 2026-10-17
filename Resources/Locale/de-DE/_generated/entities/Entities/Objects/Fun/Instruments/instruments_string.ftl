@@ -1,8 +1,8 @@
 ent-ElectricGuitarInstrument = E-Gitarre
-    .desc = Jetzt fühle dich wie ein Rockstar!
+    .desc = Jetzt fühl dich wie ein Rockstar!
 
 ent-BassGuitarInstrument = Bassgitarre
-    .desc = Du fühlst dich wirklich cool, das zu halten. Schade, dass du der Einzige bist, der das denkt.
+    .desc = Du fühlst dich richtig cool, das in der Hand zu halten. Schade, dass du der Einzige bist, der das denkt.
 
 ent-RockGuitarInstrument = Rockgitarre
     .desc = Was für eine Axt!
@@ -17,10 +17,10 @@ ent-BanjoInstrument = Banjo
     .desc = Das ist ein Instrument.
 
 ent-ViolinInstrument = Violin
-    .desc = Der Favorit von musikalischen Virtuosen und Bluegrass Bands.
+    .desc = Der Favorit musikalischer Virtuosen und Bluegrass-Bands.
 
 ent-ViolaInstrument = Viola
-    .desc = Wie eine Violine, aber schlimmer.
+    .desc = Wie eine Geige, nur schlimmer.
 
 ent-CelloInstrument = Cello
-    .desc = Die Nerds nennen diese Violoncellos.
+    .desc = Die Nerds nennen das Violoncello.

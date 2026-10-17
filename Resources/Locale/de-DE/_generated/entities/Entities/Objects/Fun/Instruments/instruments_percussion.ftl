@@ -2,16 +2,16 @@ ent-GlockenspielInstrument = Glockenspiel
     .desc = Das ist ein Instrument.
 
 ent-MusicBoxInstrument = Musikbox
-    .desc = Wenn du dies spielst, fühle dich vor gruseliger Animatronik sicher.
+    .desc = Wenn du das spielst, bist du vor gruseliger Animatronik sicher.
 
 ent-XylophoneInstrument = Xylophon
     .desc = Ein regenbogenfarbenes Glockenspiel.
 
 ent-MicrophoneInstrument = Mikrofon
-    .desc = Perfekt, um dein herz zu singen.
+    .desc = Perfekt, um sich das Herz aus dem Leib zu singen.
 
 ent-WoodblockInstrument = Holzblock
-    .desc = Wenn du das genug hörst, wird es anfangen, sich in deinen Verstand zu treiben.
+    .desc = Wenn du das oft genug hörst, bohrt es sich in deinen Verstand.
 
 ent-ReverseCymbalsInstrument = Reverse Becken
-    .desc = Ich denke, du hast es falsch herum?
+    .desc = Ich glaube, du hältst es falsch herum?

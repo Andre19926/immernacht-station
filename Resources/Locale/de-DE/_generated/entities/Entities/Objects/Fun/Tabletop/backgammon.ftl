@@ -1,4 +1,4 @@
 ent-BackgammonBoard = Backgammonbrett
-    .desc = Altmodisches Spiel von Würfeln und Stücken.
+    .desc = Altmodisches Spiel mit Würfeln und Figuren.
 
 ent-BackgammonBoardTabletop = Backgammon

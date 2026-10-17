@@ -1,5 +1,5 @@
 ent-PianoInstrument = Klavier
-    .desc = Jetzt Needles Piano spielen.
+    .desc = Jetzt Needles Klavier spielen.
 
 ent-UprightPianoInstrument = Klavier
     .desc = Ich sagte Piannie!
@@ -10,28 +10,28 @@ ent-VibraphoneInstrument = Vibraphon
 ent-MarimbaInstrument = Marimba
 
 ent-ChurchOrganInstrument = Kirchenorgel
-    .desc = Dieses Ding weht wirklich!
+    .desc = Das Ding bläst wirklich!
 
 ent-TubaInstrument = Tuba
-    .desc = Der große Daddy der Brass-Familie. Stehen neben seiner Majestät macht dich unsicher fühlen.
+    .desc = Der große Daddy der Blechbläserfamilie. Neben seiner Majestät zu stehen, macht dich unsicher.
 
 ent-HarpInstrument = Harfe
-    .desc = Zupfen an den Saiten schneidet die Finger, aber zumindest die Musik ist hübsch.
+    .desc = Das Zupfen der Saiten schneidet in die Finger, aber immerhin ist die Musik schön.
 
 ent-TimpaniInstrument = Timpani
-    .desc = Es geht um BOOM BOOM BOOM BOOM!
+    .desc = Es geht um BUMM BUMM BUMM BUMM!
 
 ent-TaikoInstrument = Taiko
-    .desc = Eine große Trommel. Wenn du es betrachtest, wirst du mit dem Drang erfüllt, es zu schlagen.
+    .desc = Eine große Trommel. Wenn du sie ansiehst, überkommt dich der Drang, draufzuhauen.
 
 ent-ContrabassInstrument = Kontrabass
-    .desc = Perfekt, um einen schönen jazzigen Beat abzulegen.
+    .desc = Perfekt, um einen schönen jazzigen Beat hinzulegen.
 
 ent-MinimoogInstrument = Minimoog
-    .desc = Dies ist ein Minimoog, wie ein Weltraumpiano, aber spacey!
+    .desc = Das ist ein Minimoog, wie ein Weltraumklavier, nur spaciger!
 
 ent-TomDrumsInstrument = tom drums
-    .desc = Wo ist der Rest des Kits geblieben?
+    .desc = Wo ist der Rest des Sets geblieben?
 
 ent-DawInstrument = Digital Audio Workstation
-    .desc = Modernste Musiktechnologie, direkt aus den 90er Jahren.
+    .desc = Modernste Musiktechnologie, direkt aus den 90ern.

@@ -1,14 +1,14 @@
 ent-WizardsGrimoire = Grimoire des Zauberers
-    .desc = Ein schwerer Wälzer mit komplizierten arkanen Formeln zur Vorbereitung von Zaubersprüchen und zur Beschwörung übernatürlicher Ausrüstung. Jahrzehnte des Studiums gingen in die Erforschung dieser Sammlung mystischer Geheimnisse; jetzt geh mit ihnen, um jemandes Tag zu ruinieren.
+    .desc = Ein schwerer Wälzer voller komplizierter arkaner Formeln zur Vorbereitung von Zaubersprüchen und zur Beschwörung übernatürlicher Ausrüstung. Jahrzehnte des Studiums flossen in die Erforschung dieser Sammlung mystischer Geheimnisse; nun geh hin und ruiniere damit jemandes Tag.
 
 ent-WizardsGrimoireGhost = Gespenstischer Grimoire
-    .desc = Ein modifizierter Zauberer, der von mehr als einer Person verwendet werden kann und mehr Wizcoins hat, aber bestimmte Zaubersprüche nicht kaufen kann.
+    .desc = Ein modifiziertes Zauberbuch, das von mehr als einer Person benutzt werden kann und mehr Wizcoins hat, aber bestimmte Zaubersprüche nicht kaufen kann.
 
 ent-WizardsGrimoireNoRefund = Grimoire des Zauberers
-    .desc = Ein schwerer Wälzer mit komplizierten arkanen Formeln zur Vorbereitung von Zaubersprüchen und zur Beschwörung übernatürlicher Ausrüstung. Jahrzehnte des Studiums gingen in die Erforschung dieser Sammlung mystischer Geheimnisse; jetzt geh mit ihnen, um jemandes Tag zu ruinieren.
+    .desc = Ein schwerer Wälzer voller komplizierter arkaner Formeln zur Vorbereitung von Zaubersprüchen und zur Beschwörung übernatürlicher Ausrüstung. Jahrzehnte des Studiums flossen in die Erforschung dieser Sammlung mystischer Geheimnisse; nun geh hin und ruiniere damit jemandes Tag.
 
 ent-WizardsGrimoireDebug = Grimoire des Zauberers
-    .desc = Ein schwerer Wälzer mit komplizierten arkanen Formeln für die Vorbereitung von Zaubersprüchen und die Beschwörung übernatürlicher Ausrüstung. Jemand schrieb "FOR EXPERIMENTAL USE ONLY" auf dem Einband.
+    .desc = Ein schwerer Wälzer voller komplizierter arkaner Formeln zur Vorbereitung von Zaubersprüchen und zur Beschwörung übernatürlicher Ausrüstung. Jemand hat „FOR EXPERIMENTAL USE ONLY“ auf den Einband geschrieben.
 
 ent-SpawnSpellbook = Spawnzauberbuch
 

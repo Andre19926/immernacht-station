@@ -1,5 +1,5 @@
 ent-CheckerBoard = Schachbrett
-    .desc = Ein Schachbrett. Stücke inklusive!
+    .desc = Ein Schachbrett. Figuren inklusive!
 
 ent-CheckerBoardTabletop = Schachbrett
 

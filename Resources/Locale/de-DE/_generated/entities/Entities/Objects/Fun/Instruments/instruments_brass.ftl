@@ -1,11 +1,11 @@
 ent-TrumpetInstrument = Trompete
-    .desc = Das Lieblingsinstrument von Jazzmusikern und egoistischen Mittelschülern.
+    .desc = Das Lieblingsinstrument von Jazzmusikern und egozentrischen Mittelschülern.
 
 ent-TromboneInstrument = Trombone
-    .desc = Das Lieblingsinstrument aller: Schiebe-Blechblasinstrument.
+    .desc = Das Lieblingsinstrument aller: die Posaune.
 
 ent-FrenchHornInstrument = Französisches Horn
-    .desc = Die Tatsache, dass das Halten es beinhaltet, deine Hand zu benutzen, um es zu dämpfen, kann etwas über seinen Klang vorschlagen.
+    .desc = Dass man beim Spielen die Hand zum Dämpfen benutzt, sagt vielleicht etwas über den Klang aus.
 
 ent-EuphoniumInstrument = Euphonium
-    .desc = Ein Baby Tuba? Ein Bariton? Was auch immer es ist, es ist ein ziemlich cooles Durcheinander von Rohren.
+    .desc = Eine Baby-Tuba? Ein Bariton? Was auch immer es ist, es ist ein ziemlich cooles Durcheinander aus Rohren.
