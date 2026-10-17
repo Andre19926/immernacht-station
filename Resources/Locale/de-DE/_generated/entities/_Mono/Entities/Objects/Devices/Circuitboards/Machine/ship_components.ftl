@@ -1,11 +1,11 @@
-ent-MachineGCSLowCircuitboard = Low-Power Gunnery Control Server Board
+ent-MachineGCSLowCircuitboard = Geschützsteuerungs-Serverplatine (niedrige Leistung)
     .desc = Eine Maschinenplatine für ein GCS.
 
-ent-MachineGCSMediumCircuitboard = mittlere Power Gunnery Control Server Board
+ent-MachineGCSMediumCircuitboard = Geschützsteuerungs-Serverplatine (mittlere Leistung)
     .desc = Eine Maschinenplatine für ein GCS.
 
-ent-MachineGCSHighCircuitboard = High-Power Gunnery Control Server Board
+ent-MachineGCSHighCircuitboard = Geschützsteuerungs-Serverplatine (hohe Leistung)
     .desc = Eine Maschinenplatine für ein GCS.
 
-ent-MachineGCSUltraCircuitboard = Ultra-High-Power Gunnery Control Server Board
+ent-MachineGCSUltraCircuitboard = Geschützsteuerungs-Serverplatine (höchste Leistung)
     .desc = Eine Maschinenplatine für ein GCS.

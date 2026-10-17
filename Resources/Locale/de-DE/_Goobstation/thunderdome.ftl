@@ -45,14 +45,14 @@ thunderdome-desc-capo = Capoeira-Handbuch + 2 Injektorstifte
 thunderdome-desc-mosin = Kardashev-Mosin + 2 Reservemagazine + Ushanka + ein Wodka
 
 # Kill streak announcements
-thunderdome-streak-3 = {$player} Ist auf einer Killing Spree!
+thunderdome-streak-3 = {$player} ist auf einem Killing Spree!
 thunderdome-streak-4 = {$player} dominiert!
-thunderdome-streak-5 = {$player} Hat einen Mega Kill!
+thunderdome-streak-5 = {$player} hat einen Mega Kill!
 thunderdome-streak-6 = {$player} Es ist unaufhaltsam!
-thunderdome-streak-7 = {$player} Ist Wicked Sick!
+thunderdome-streak-7 = {$player} ist Wicked Sick!
 thunderdome-streak-8 = {$player} Ein Monster Kill!
 thunderdome-streak-9 = {$player} Das ist GODLIKE!
-thunderdome-streak-12 = {$player} Ist über Gott hinaus!
+thunderdome-streak-12 = {$player} ist ÜBER GÖTTLICH!
 
 # Revival
 thunderdome-revival-title = Körper wiederbelebt

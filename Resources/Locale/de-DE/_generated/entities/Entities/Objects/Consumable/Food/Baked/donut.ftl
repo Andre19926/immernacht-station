@@ -28,7 +28,7 @@ ent-FoodDonutCaramel = Caramel Donut
 ent-FoodDonutChocolate = Schokoladen-Donut
     .desc = Passt gut zu einem Glas warmer Milch.
 
-ent-FoodDonutBluePumpkin = Blue Pumpkin Donut
+ent-FoodDonutBluePumpkin = Blauer Kürbis-Donut
     .desc = Passt hervorragend zu einer Tasse beruhigendem betrunkenem blauem Kürbis.
 
 ent-FoodDonutBungo = Bungo donut

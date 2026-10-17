@@ -49,7 +49,7 @@ ent-ClothingShoesBootsWinterWeb = Web-Winterstiefel
 ent-ClothingShoesBootsCowboyBrown = Braune Cowboystiefel
     .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
-ent-ClothingShoesBootsCowboyBlack = Black Cowboy Stiefel
+ent-ClothingShoesBootsCowboyBlack = Schwarze Cowboystiefel
     .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsCowboyWhite = weiße Cowboystiefel

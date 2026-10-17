@@ -13,7 +13,7 @@ ent-CrateClawMachine = Klauenmaschinenkasten
 ent-CrateCargoForklift = Gabelstapler
     .desc = Ein perfektes Nutzfahrzeug für Fracht.
 
-ent-CrateRadioStationAds = Ads Crate
+ent-CrateRadioStationAds = Werbekiste
     .desc = Eine ganze Kiste, deren einziger Zweck darin besteht, 6 exklusive Werbeanzeigen zu speichern – Kapitalismus ist großartig, oder?
 
 ent-CrateRadioStationVinyls = Vinylkiste

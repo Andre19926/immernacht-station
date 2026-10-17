@@ -1,4 +1,4 @@
-ent-ClothingMaskBandBlack = Black Bandana
+ent-ClothingMaskBandBlack = Schwarze Bandana
     .desc = Ein schwarzes Bandana, damit du cool aussiehst.
 
 ent-ClothingMaskBandBlue = Blaubandana

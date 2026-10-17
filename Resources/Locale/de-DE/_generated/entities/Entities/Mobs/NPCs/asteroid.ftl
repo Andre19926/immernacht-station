@@ -1,7 +1,7 @@
 ent-MobGoliath = Goliath
     .desc = Ein massives Tier, das seine Beute mit langen Tentakeln fesselt. Es zu bedrohen ist unter keinen Umständen ratsam.
 
-ent-ActionGoliathTentacle = [color=red]Tentakel-Slam[/color]
+ent-ActionGoliathTentacle = [color=red]Tentakelschlag[/color]
     .desc = Greife mit deinen Tentakeln einen Zielspieler und betäube ihn!
 
 ent-GoliathTentacle = Tentakel

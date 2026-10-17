@@ -1,4 +1,4 @@
-ent-PowerCellIRSMG = SMG Power Cell
+ent-PowerCellIRSMG = SMG-Kraftzelle
     .desc = Eine militarisierte Kraftzelle, die mit Lasern im SMG-Maßstab kompatibel ist.
 
 ent-PowerCellXraySMG = Röntgen-SMG-Power-Zelle
@@ -7,13 +7,13 @@ ent-PowerCellXraySMG = Röntgen-SMG-Power-Zelle
 ent-PowerCellOverchargedSMG = übertaktete SMG-Kraftzelle
     .desc = Eine militarisierte Kraftzelle, die mit Lasern im SMG-Maßstab kompatibel ist und übertaktet wurde.
 
-ent-PowerCellBluespaceSMG = bluespace SMG Power Cell
+ent-PowerCellBluespaceSMG = Bluespace-SMG-Kraftzelle
     .desc = Eine militarisierte Kraftzelle für SMG-Laser, die Strahlen aus kalibrierten Bluespace-Partikeln abfeuert, welche einige Zentimeter Panzerung umgehen.
 
-ent-PowerCellPulseSMG = Puls SMG Power Cell
+ent-PowerCellPulseSMG = Puls-SMG-Kraftzelle
     .desc = Eine militarisierte Kraftzelle, die mit SMG-Lasern kompatibel ist und Pulsstrahlen abfeuert.
 
-ent-PowerCellIonSMG = ion SMG Power Cell
+ent-PowerCellIonSMG = Ionen-SMG-Kraftzelle
     .desc = Eine militarisierte Kraftzelle, die mit SMG-Lasern kompatibel ist, die Ionenstrahlen abfeuern.
 
 ent-PowerCellIRSniper = Scharfschützen-Kraftzelle

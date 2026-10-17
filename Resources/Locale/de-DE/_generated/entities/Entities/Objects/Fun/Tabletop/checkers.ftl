@@ -9,4 +9,4 @@ ent-CheckerCrownWhite = Weiße Checker Krone
 
 ent-CheckerPieceBlack = Damestein (schwarz)
 
-ent-CheckerCrownBlack = Black Checker Krone
+ent-CheckerCrownBlack = Schwarze Damekrone

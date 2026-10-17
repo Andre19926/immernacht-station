@@ -118,7 +118,7 @@ ent-PillRomerol = Romerolpille
 ent-PillAmbuzol = Ambuzol-Pille
     .desc = Es ist kein Zäpfchen.
 
-ent-PillAmbuzolPlus = Ambuzol plus Pille
+ent-PillAmbuzolPlus = Ambuzol-Plus-Pille
     .desc = Es ist kein Zäpfchen.
 
 ent-PillCanisterRandom = Pillenkanister

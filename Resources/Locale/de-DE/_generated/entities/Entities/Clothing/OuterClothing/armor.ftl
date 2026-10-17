@@ -34,10 +34,10 @@ ent-ClothingOuterArmorHeavyGreen = Grüner schwerer Rüstungsanzug
 ent-ClothingOuterArmorHeavyRed = Rote schwere Rüstung
     .desc = Ein schwer gepanzerter Anzug mit roten Akzenten, der vor übermäßigem Schaden schützt.
 
-ent-ClothingOuterArmorMagusblue = Blue Magus Rüstung
+ent-ClothingOuterArmorMagusblue = Blaue Magus-Rüstung
     .desc = Ein blauer gepanzerter Anzug, der guten Schutz bietet. Zählt nicht als Zaubererrobe.
 
-ent-ClothingOuterArmorMagusred = Red Magus Rüstung
+ent-ClothingOuterArmorMagusred = Rote Magus-Rüstung
     .desc = Ein rot gepanzerter Anzug, der guten Schutz bietet. Zählt nicht als Zaubererrobe.
 
 ent-ClothingOuterArmorChangeling = Chitinpanzerung

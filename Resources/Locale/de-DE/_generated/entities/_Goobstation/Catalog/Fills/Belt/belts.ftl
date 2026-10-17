@@ -16,7 +16,7 @@ ent-ClothingBeltSheathFilledNavyOfficer = Säbelschale
 ent-ClothingBeltSheathHeadOfSecurityFilled = Leiter der Sicherheitshülle
     .desc = Eine robuste Scheide, entworfen, um das maßgefertigte Energieschwert des Sicherheitschefs aufzunehmen.
 
-ent-ClothingBeltCorporateJudoFilled = Konzern-Judo Belt
+ent-ClothingBeltCorporateJudoFilled = Konzern-Judogürtel
     .desc = Bringt dem Träger das Nanotrasen-Unternehmens-Judo bei.
 
 ent-ClothingBeltHolsterFilledChaplain = Chaplains' Holster

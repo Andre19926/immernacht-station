@@ -7,7 +7,7 @@ ent-ClothingShoesBootsJackFilled = Jackstiefel
 ent-ClothingShoesBootsWinterSecFilled = Winterstiefel
     .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
-ent-ClothingShoesBootsCowboyBlackFilled = Black Cowboy Stiefel
+ent-ClothingShoesBootsCowboyBlackFilled = Schwarze Cowboystiefel
     .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsCowboyBrownFilled = Braune Cowboystiefel

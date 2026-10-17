@@ -25,7 +25,7 @@ ent-ModsuitPlatingEngineer = MOD Standard Engineer "Sapper" Plattierung
 ent-ModsuitPlatingSecurity = MOD Standard-Sicherheit 'Soldat' plating
     .desc = Ein Bauteil für den MOD-Bau.
 
-ent-ModsuitPlatingHeadOfSecurity = MOD Standard Head of Security 'Bulwark' plating
+ent-ModsuitPlatingHeadOfSecurity = MOD-Standardverkleidung „Bulwark“ des Sicherheitschefs
     .desc = Ein Bauteil für den MOD-Bau.
 
 ent-ModsuitPlatingCaptain = MOD-Standardpanzerung (Kapitän, Magnat)

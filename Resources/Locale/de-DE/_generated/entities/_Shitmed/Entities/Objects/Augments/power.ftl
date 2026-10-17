@@ -1,10 +1,10 @@
-ent-AugmentPowerCellSlotCasing = Augment Power Cell Slot Gehäuse
+ent-AugmentPowerCellSlotCasing = Augment-Kraftzellenschacht-Gehäuse
     .desc = Kann in einen Körper implantiert werden, um andere Implantate mit Strom zu versorgen. Dieses ist unvollständig.
 
-ent-AugmentPowerCellSlotCables = Augment Power Cell Slot Gehäuse mit Kabeln
+ent-AugmentPowerCellSlotCables = Augment-Kraftzellenschacht-Gehäuse mit Kabeln
     .desc = Kann in einen Körper implantiert werden, um andere Implantate mit Strom zu versorgen. Dieses ist unvollständig.
 
-ent-AugmentPowerCellSlot = Augment Power Cell Slot
+ent-AugmentPowerCellSlot = Augment-Kraftzellenschacht
     .desc = Kann in einen Körper implantiert werden, um andere Implantate mit Strom zu versorgen.
 
 ent-AugmentRechargerCasing = Verstärktes Ladegehäuse

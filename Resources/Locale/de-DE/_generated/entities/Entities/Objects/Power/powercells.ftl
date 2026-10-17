@@ -10,10 +10,10 @@ ent-PowerCellSmallPrinted = Energiezelle (klein)
 ent-PowerCellSmallNuclear = Kernkraftzelle mit geringer Kapazität
     .desc = Eine selbstaufladende Energiezelle, auf schnelle Aufladung auf Kosten der Kapazität ausgelegt.
 
-ent-PowerCellMedium = Power Cell mittlerer Kapazität
+ent-PowerCellMedium = Kraftzelle mittlerer Kapazität
     .desc = Eine wiederaufladbare Energiezelle. Die beliebte und zuverlässige Version.
 
-ent-PowerCellMediumPrinted = Power Cell mittlerer Kapazität
+ent-PowerCellMediumPrinted = Kraftzelle mittlerer Kapazität
     .desc = Eine wiederaufladbare Energiezelle. Die beliebte und zuverlässige Version.
 
 ent-PowerCellHigh = Energiezelle (groß)
@@ -34,7 +34,7 @@ ent-PowerCellMicroreactor = Mikroreaktor-Energiezelle
 ent-PowerCellMicroreactorPrinted = Mikroreaktor-Energiezelle
     .desc = Eine wiederaufladbare Standard-Mikroreaktorzelle. Geringere Kapazität, lädt sich aber langsam von selbst auf.
 
-ent-PowerCellAntiqueProto = Antike Power Cell Prototyp
+ent-PowerCellAntiqueProto = Antiker Kraftzellen-Prototyp
     .desc = Eine kleine, selbstaufladende Zelle. Wird in der alten Laserwaffenforschung verwendet.
 
 ent-PowerCageSmall = Netzkäfige mit geringer Kapazität

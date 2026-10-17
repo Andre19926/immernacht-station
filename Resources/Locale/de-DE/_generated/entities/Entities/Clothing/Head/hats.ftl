@@ -206,7 +206,7 @@ ent-ClothingHeadHatCentcomcap = Obergrenze für CentComm
 ent-ClothingHeadHatGladiator = Gladiatorhelm
     .desc = Schützt den Kopf vor harten Aschewinden und Spielzeugspeeren.
 
-ent-ClothingHeadHatPartyRed = Red Party Hut
+ent-ClothingHeadHatPartyRed = Roter Partyhut
     .desc = Verbreite Freude!
 
 ent-ClothingHeadHatPartyYellow = gelber Partyhut

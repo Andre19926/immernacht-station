@@ -24,13 +24,13 @@ ent-FoodBoxDonkpocket = Schachtel mit Donk-Taschen
 ent-FoodBoxDonkpocketSpicy = Kiste mit würzigen Donktaschen
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
-ent-FoodBoxDonkpocketTeriyaki = Box mit Donk-Taschen mit Teriyaki-Aroma
+ent-FoodBoxDonkpocketTeriyaki = Schachtel mit Donk-Taschen mit Teriyaki-Geschmack
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketPizza = Schachtel mit Donk-Taschen mit Pizzageschmack
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
-ent-FoodBoxDonkpocketStonk = Box Limited Edition Stonk-Taschen
+ent-FoodBoxDonkpocketStonk = Schachtel mit Stonk-Taschen (Limited Edition)
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketCarp = Karpfentaschen

@@ -76,10 +76,10 @@ ent-FoodSnackLollypopWrappedOmnizine = gewickelte Omnizine Lutscher
 ent-FoodSnackLollypopOmnizine = omnizine Lutscher
     .desc = Ein mit Omnizin gefüllter Lutscher. Reserviert für die besten Patienten.
 
-ent-FoodSnackLollypopWrappedDexalinPlus = gewickeltes Dexalin plus Lutscher
+ent-FoodSnackLollypopWrappedDexalinPlus = eingewickelter Dexalin-Plus-Lutscher
     .desc = Ein mit Dexalin Plus gefüllter Lutscher. Er ist noch eingewickelt.
 
-ent-FoodSnackLollypopDexalinPlus = Dexalin plus Lutscher
+ent-FoodSnackLollypopDexalinPlus = Dexalin-Plus-Lutscher
     .desc = Ein mit Dexalin Plus gefüllter Lutscher. Wird üblicherweise Leuten zwangsverabreicht, die vergessen haben, wo ihr Inneres hingehört.
 
 ent-FoodSnackLollypopWrappedHyronalin = Hyronalin Lutscher

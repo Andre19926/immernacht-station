@@ -1,4 +1,4 @@
-ent-ClothingOuterCoatBomberPunkRed = Red Punk Bomber
+ent-ClothingOuterCoatBomberPunkRed = Rote Punk-Bomberjacke
     .desc = Du brauchst Style auf der Straße.
 
 ent-ClothingOuterCoatJacketLeather = Lederjacke

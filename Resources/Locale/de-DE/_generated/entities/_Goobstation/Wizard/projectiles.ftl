@@ -19,7 +19,7 @@ ent-ProjectileSpellCardPurpleNoHoming = verzauberte Karte
 ent-ProjectileSpellCardRedSpread = Rote Karte Spread
     .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
-ent-ProjectileSpellCardPurpleSpread = Lila Card Spread
+ent-ProjectileSpellCardPurpleSpread = Lila Kartenfächer
     .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileArcaneBarrage = Arkan-Riegel

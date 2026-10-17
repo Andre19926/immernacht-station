@@ -112,5 +112,5 @@ ent-ClothingUniformJumpsuitGoldenLiaison = Golden Liaison CentCom-Uniform
 ent-ClothingUniformJumpsuitMonk = Lange Hosen für Mönche
     .desc = Einfache Hose, kaum besser als ein alter Sack.
 
-ent-ClothingUniformJumpsuitHawaiGreen = Green Hawaii Hemd
+ent-ClothingUniformJumpsuitHawaiGreen = Grünes Hawaiihemd
     .desc = Central Command™-Grün.

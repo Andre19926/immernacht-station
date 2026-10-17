@@ -33,8 +33,8 @@ gang-creator-confirm = Bestätigen
 gang-creator-too-dark = Diese Farbe ist zu transparent!
 gang-creator-name-label = Wähle einen Namen für deine Gang:
 gang-creator-name-placeholder = z.B. Die Cobras
-gang-creator-name-too-short = Name muss mindestens {$min} Zeichen.
-gang-creator-name-too-long = Name muss höchstens {$max} Zeichen.
+gang-creator-name-too-short = Der Name muss mindestens {$min} Zeichen lang sein.
+gang-creator-name-too-long = Der Name darf höchstens {$max} Zeichen lang sein.
 gang-creator-name-already-taken = Dieser Bandenname ist bereits vergeben!
 
 gang-territory-too-close = Du bist zu nah an einem bestehenden Territorium!

@@ -25,7 +25,7 @@ ent-BookStruck = die demütigende und transformative Erfahrung, vom Blitz getrof
 ent-BookSun = Erreichen der Sonne - die Suche einer Pflanze nach Leben
     .desc = Das Buch ist neu, mit hellem, lebendigem Cover: Eine Pflanze streckt ihre Blätter der Sonne entgegen. Der Titel „Reaching for the Sun – A Plant's Quest for Life“ steht in fetten grünen Buchstaben, dazu eine Sonne, die hinter der Pflanze aufgeht. Der Einband vermittelt Wachstum, Energie und die Schönheit der Natur.
 
-ent-BookPossum = Gefallene Ambitionen - die tragische Geschichte von Morty the Opossum
+ent-BookPossum = Gefallene Ambitionen – die tragische Geschichte von Morty dem Opossum
     .desc = Das Buch ist in gutem Zustand, mit festem Einband und dunkelgrünem Waldhintergrund. In der Mitte des Covers sitzt ein traurig aussehendes Opossum auf einem Ast, mit entferntem, einsamem Blick. Der Titel „Fallen Ambitions – Die tragische Geschichte von Morty dem Opossum“ steht in fetten goldenen Buchstaben über dem Opossum.
 
 ent-BookCafe = Das Café Opossum

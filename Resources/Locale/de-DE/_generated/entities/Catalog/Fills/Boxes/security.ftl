@@ -22,7 +22,7 @@ ent-BoxSecglasses = Glaskasten
 ent-BoxSunglasses = Sonnenbrillenkasten
     .desc = Eine Schachtel cooler, blitzsicherer Sonnenbrillen.
 
-ent-BoxForensicPad = Forensische Pad Box
+ent-BoxForensicPad = Schachtel mit forensischen Pads
     .desc = Eine Schachtel mit forensischen Abstrichtupfern.
 
 ent-BoxDetonator = Zündbox

@@ -169,7 +169,7 @@ ent-ClothingUniformJumpsuitLibrarian = Bibliothekaruniform
 ent-ClothingUniformJumpsuitCurator = vernünftiger Anzug
     .desc = Er ist vernünftig. Zu vernünftig ...
 
-ent-ClothingUniformJumpsuitLawyerRed = Red Advokatanzug
+ent-ClothingUniformJumpsuitLawyerRed = Roter Advokatenanzug
     .desc = Ein auffälliger roter Anzug für Anwälte und Angeber.
 
 ent-ClothingUniformJumpsuitLawyerBlue = blauer Anwaltsanzug

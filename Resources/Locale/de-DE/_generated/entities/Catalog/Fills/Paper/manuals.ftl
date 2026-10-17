@@ -7,5 +7,5 @@ ent-HoloparasiteInfo = Holoparasit Bedingungen
 ent-PaperAgrichemManual = NT "AgriChem Is Fun" Handbuch
     .desc = Das einzelne Anleitungsblatt, das dem Bausatz beilag.
 
-ent-PaperWrittenCombatBakeryKit = Kampf Bäckerei Kit Anweisungen
+ent-PaperWrittenCombatBakeryKit = Anweisungen: Kampfbäckerei-Kit
     .desc = Notiz nach dem Lesen aufessen.

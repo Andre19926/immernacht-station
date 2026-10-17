@@ -13,7 +13,7 @@
 ### EmitterComponent
 
 # Shows when attempting to turn the emitter on or off without proper access
-comp-emitter-access-locked = Die {$target} Ist der Zugang gesperrt!
+comp-emitter-access-locked = Der Zugang zu {$target} ist gesperrt!
 
 # Shows when turning the emitter on/off
 comp-emitter-turned-on = Die {$target} sich einschaltet.

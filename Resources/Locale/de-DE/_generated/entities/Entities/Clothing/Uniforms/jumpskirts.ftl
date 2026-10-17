@@ -132,7 +132,7 @@ ent-ClothingUniformJumpskirtJanimaid = Hausmädchenuniform
 ent-ClothingUniformJumpskirtJanimaidmini = Hausmädchenuniform mit Minirock
     .desc = Elite-Service, nicht irgendwelche Bonbonpapiere.
 
-ent-ClothingUniformJumpskirtLawyerRed = Red Advocat suitskirt
+ent-ClothingUniformJumpskirtLawyerRed = Roter Advokatenrock
     .desc = Ein auffälliger roter Anzug für Anwälte und Angeber.
 
 ent-ClothingUniformJumpskirtLawyerBlue = blauer Rechtsanwaltssuitskit

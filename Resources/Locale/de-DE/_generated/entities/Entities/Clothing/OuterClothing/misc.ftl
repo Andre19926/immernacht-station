@@ -13,7 +13,7 @@ ent-ClothingOuterApronChef = Apron
 ent-ClothingOuterJacketChef = Kochjacke
     .desc = Eine Kochjacke, wie sie ein erstklassiger Koch trägt.
 
-ent-ClothingOuterHoodieBlack = Black Hoodie
+ent-ClothingOuterHoodieBlack = Schwarzer Hoodie
     .desc = Oh mein Gott, es ist ein schwarzer Hoodie!
 
 ent-ClothingOuterHoodieGrey = Hoodie
@@ -72,5 +72,5 @@ ent-ClothingOuterFlannelBlue = Blaue Flanelljacke
 ent-ClothingOuterFlannelGreen = Grüne Flanelljacke
     .desc = Eine altmodische grüne Flanelljacke für den Weltraumherbst.
 
-ent-ClothingOuterRedRacoon = Red Racoon Anzug
+ent-ClothingOuterRedRacoon = Roter Waschbäranzug
     .desc = Flauschiger Anzug der Roten Rakone!

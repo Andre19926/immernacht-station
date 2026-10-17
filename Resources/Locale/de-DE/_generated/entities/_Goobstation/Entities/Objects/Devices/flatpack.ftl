@@ -46,10 +46,10 @@ ent-TegCirculatorFlatpack = Umwälzpumpe Flatpack
 ent-TegMiddleFlatpack = Thermoelektrischer Generator Flatpack
     .desc = Ein Flatpack zum Bau eines thermoelektrischen Generators.
 
-ent-SlotMachineFlatpack = Slot Machine Flatpack
+ent-SlotMachineFlatpack = Spielautomat-Flatpack
     .desc = Ein Flatpack zum Bau eines Spielautomaten.
 
-ent-SlotMachineHighRollerFlatPack = High Roller Slot Machine Flatpack
+ent-SlotMachineHighRollerFlatPack = High-Roller-Spielautomat-Flatpack
     .desc = Ein Flatpack zum Bau eines High-Roller-Spielautomaten
 
 ent-CoinFlipperFlatPack = Münzflipper Flatpack
@@ -61,16 +61,16 @@ ent-ClawMachineFlatPack = Klauenmaschine Flachpackung
 ent-ChemistryHotplateFlatPack = Kochplattenflachpackung
     .desc = Ein Flatpack zum Bau einer Kochplatte.
 
-ent-DiseaseDiagnoserFlatPack = Krankheitsdiagnose Flat Pack
+ent-DiseaseDiagnoserFlatPack = Krankheitsdiagnose-Flatpack
     .desc = Ein Flatpack zum Bau eines Krankheitsdiagnosegeräts.
 
 ent-VaccinatorFlatPack = Impfmaschine Flachpackung
     .desc = Ein Flatpack zum Bau eines Impfgeräts.
 
-ent-ResearchAndDevelopmentServerMachineFlatpack = R&D Server Flat Pack
+ent-ResearchAndDevelopmentServerMachineFlatpack = F&E-Server-Flatpack
     .desc = Ein Flatpack zum Aufbau eines R&D-Servers.
 
-ent-ResearchComputerFlatpack = F&E Computer Flat Pack
+ent-ResearchComputerFlatpack = F&E-Computer-Flatpack
     .desc = Ein Flatpack zum Bau eines R&D-Computers.
 
 ent-MaterialSiloFlatpack = Materialsilo Flachpackung

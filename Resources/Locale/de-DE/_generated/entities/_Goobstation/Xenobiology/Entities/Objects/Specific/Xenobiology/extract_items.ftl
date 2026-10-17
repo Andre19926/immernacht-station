@@ -16,7 +16,7 @@ ent-FloorTileItemSepia = Sepia-Teppichkachel
 ent-FloorTileItemSepia30 = Sepia-Teppichkachel (30)
     .desc = Der Boden sollte das tragen, nicht du.
 
-ent-XenobioVolatileRedExtractJelly = flüchtiges Gelee Red Slime
+ent-XenobioVolatileRedExtractJelly = flüchtiges Gelee (roter Schleim)
     .desc = Auf einem Kleidungsstück angewendet, scheint es mögliche Verlangsamungen zu beseitigen. Allerdings wurden Probanden, die solche Kleidung trugen, knusprig verbrannt, nachdem ein Wissenschaftler seine Zigarette angezündet hatte.
 
 ent-XenobioAdamantineBar = Adamantinstab

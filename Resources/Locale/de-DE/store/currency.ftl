@@ -13,7 +13,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 store-currency-inserted = {CAPITALIZE(THE($used))} wird in {THE($target)} eingesteckt.
-store-currency-war-boost-given = { CAPITALIZE($target) } Beginnt zu summen
+store-currency-war-boost-given = { CAPITALIZE($target) } beginnt zu summen
 store-currency-inserted-implant = {CAPITALIZE(THE($used))} wird in dein Implantat eingeführt.
 
 store-currency-free = frei

@@ -4,7 +4,7 @@ ent-FitnessWeightsBench1 = Gewichte auf dem Sitz
 ent-FitnessWeightLifter = Gewichtheber
     .desc = Du sitzt darin. Entweder freiwillig oder unter Zwang.
 
-ent-FitnessPunchingBagBopClown = Clown Bop Bag
+ent-FitnessPunchingBagBopClown = Clown-Boxsack
     .desc = Eine Sporttasche mit aufgedrucktem Clown.
 
 ent-FitnessPunchingBag = Stanzbeutel

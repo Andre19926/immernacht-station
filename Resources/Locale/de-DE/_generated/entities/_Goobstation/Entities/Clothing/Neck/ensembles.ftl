@@ -4,7 +4,7 @@ ent-ClothingNeckEnsembleCaptain = Ensemble des Kapitäns
 ent-ClothingNeckEnsembleChiefEngineerWhite = Weißes Ensemble des Chefingenieurs
     .desc = Bei einer Delaminierung schützt dich das nicht vor der Strahlung. Wie lange hättest du damit überlebt? Richtig?
 
-ent-ClothingNeckEnsembleChiefEngineerGreen = Green Ensemble des Chefingenieurs
+ent-ClothingNeckEnsembleChiefEngineerGreen = Grünes Ensemble des Chefingenieurs
     .desc = Bei einer Delaminierung schützt dich das nicht vor der Strahlung. Wie lange hättest du damit überlebt? Richtig?
 
 ent-ClothingNeckEnsembleChiefMedicalOfficer = Chefarzt-Ensemble

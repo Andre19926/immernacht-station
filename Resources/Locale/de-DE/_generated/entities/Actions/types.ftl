@@ -76,7 +76,7 @@ ent-ActionToggleEyes = Augen öffnen/schließen
 ent-ActionToggleWagging = Schwanz wedeln
     .desc = Beginne oder höre auf, mit dem Schwanz zu wedeln.
 
-ent-FakeMindShieldToggleAction = [color=green]Fake Mindshield[/color]
+ent-FakeMindShieldToggleAction = [color=green]Gefälschtes Mindshield[/color]
     .desc = Schaltet die Übertragung des gefälschten Mindshield-Implantats ein oder aus.
 
 ent-ActionGravityJump = Sprung

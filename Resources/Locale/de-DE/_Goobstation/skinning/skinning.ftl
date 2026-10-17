@@ -1,2 +1,2 @@
-skinning-start = {$performer} Beginnt der Haut {$target}!
+skinning-start = {$performer} beginnt, {$target} die Haut abzuziehen!
 skin-verb = Hautkreatur

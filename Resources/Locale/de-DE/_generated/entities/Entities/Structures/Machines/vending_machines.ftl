@@ -49,13 +49,13 @@ ent-VendingMachineStarkist = Spezi-Automat
 ent-VendingMachineShamblersJuice = Shambler’s-Juice-Automat
     .desc = Schüttel dir was von diesem Shambler's Juice!
 
-ent-VendingMachinePwrGame = Pwr Game Vendor
+ent-VendingMachinePwrGame = Pwr-Game-Automat
     .desc = Du willst es, wir haben es. Betrieben in Partnerschaft mit Vlad's Salads.
 
-ent-VendingMachineDrGibb = Dr. Gibb Vendor
+ent-VendingMachineDrGibb = Dr.-Gibb-Automat
     .desc = Eine Dosenexplosion verschiedener Geschmacksrichtungen in diesem Automaten!
 
-ent-VendingMachineSmite = Smite Vendor
+ent-VendingMachineSmite = Smite-Automat
     .desc = Beliebt in der Verwaltung.
 
 ent-VendingMachineDinnerware = Plasteel-Chef's-Geschirrautomat
