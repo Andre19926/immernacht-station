@@ -202,7 +202,7 @@ uplink-pistol-magazine-caseless-name = Pistolenmagazin (9.5mm HP)
 uplink-pistol-magazine-caseless-desc = Pistolenmagazin mit 10 hohlspitzenhülsenlosen Raupen. Kompatibel mit der Cobra.
 
 uplink-speedloader-magnum-name = Schnelllader (.45 Magnum, panzerbrechend)
-uplink-speedloader-magnu-desc = Revolver-Geschwindigkeitslader mit 6 Panzer-durchdringenden Kiste, die in der Lage sind, die Panzerung vollständig zu ignorieren. Kompatibel mit Python.
+uplink-speedloader-magnu-desc = Revolver-Schnelllader mit 6 panzerbrechenden Patronen, die in der Lage sind, die Panzerung vollständig zu ignorieren. Kompatibel mit Python.
 
 uplink-mosin-ammo-name = Munitionskasten (.30 Gewehr)
 uplink-mosin-ammo-desc = Eine Schachtel mit 60 Patronen für das überschüssige Gewehr.

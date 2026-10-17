@@ -198,5 +198,5 @@ language-Schechi-description =
 language-NewKinPidgin-name = Ka'rakk
 language-NewKinPidgin-description = Ein degradierter Dialekt, der von Vox der unteren Kaste zusammengeschustert und bis zur Unkenntlichkeit verstümmelt wurde.
     Während ein primitiver und ungeschickter Versuch zu einer langweiligen, vereinfachten Verhöhnung ihrer wahren Sprache führte,
-    Vox höherer Kiste kann immer noch Bedeutung innerhalb der groben Annäherungen erkennen.
+    Vox höherer Kaste kann immer noch Bedeutung innerhalb der groben Annäherungen erkennen.
     Es klingt wie chaotisches Schreien zu allen anderen.

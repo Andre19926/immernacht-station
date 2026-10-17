@@ -10,7 +10,7 @@ ent-MobArgocyteSkitter = Skitter
 ent-MobArgocyteSwiper = Wischgerät
     .desc = Wohin ging dieser Stahlstapel?
 
-ent-MobArgocyteMolder = Formwerkzeug
+ent-MobArgocyteMolder = Argozyt-Schimmler
     .desc = Ein gefährlicher Alien, der auf der falschen Seite von Planeten gefunden wurde, bekannt für seine Neigung, Ruinen zu kauen.
 
 ent-MobArgocytePouncer = Türsteher

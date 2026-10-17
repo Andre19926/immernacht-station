@@ -181,40 +181,40 @@ ent-WallRockBasaltArtifactFragment = Basalt
 ent-WallRockBasaltSalt = Basalt
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnow = Schneeweide
+ent-WallRockSnow = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowCoal = Schneeweide
+ent-WallRockSnowCoal = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowGold = Schneeweide
+ent-WallRockSnowGold = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowDiamond = Schneeweide
+ent-WallRockSnowDiamond = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowPlasma = Schneeweide
+ent-WallRockSnowPlasma = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowQuartz = Schneeweide
+ent-WallRockSnowQuartz = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowSilver = Schneeweide
+ent-WallRockSnowSilver = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowTin = Schneeweide
+ent-WallRockSnowTin = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowUranium = Schneeweide
+ent-WallRockSnowUranium = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowBananium = Schneeweide
+ent-WallRockSnowBananium = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowArtifactFragment = Schneeweide
+ent-WallRockSnowArtifactFragment = Verschneiter Fels
     .desc = Eine Felswand. Was steckt da heraus?
 
-ent-WallRockSnowSalt = Schneeweide
+ent-WallRockSnowSalt = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
 ent-WallRockSand = Sandstein

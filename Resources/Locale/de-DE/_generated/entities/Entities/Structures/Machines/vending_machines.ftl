@@ -91,7 +91,7 @@ ent-VendingMachineSeeds = MegaSeed Servitor
 ent-VendingMachineSnack = Getmore Chocolate Corp.
     .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
 
-ent-VendingMachineSustenance = Versorgungsanbieter
+ent-VendingMachineSustenance = Verpflegungsautomat
     .desc = Ein automat, der essen verkauft, wie in abschnitt 47 c des abkommens über ethische behandlung für gefangene des nt erforderlich.
 
 ent-VendingMachineSnackBlue = Getmore Chocolate Corp.

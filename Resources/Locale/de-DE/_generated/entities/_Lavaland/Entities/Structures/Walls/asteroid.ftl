@@ -4,7 +4,7 @@ ent-WallRockGibtonite = Felsen
 ent-WallRockBasaltGibtonite = Basalt
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowGibtonite = Schneeweide
+ent-WallRockSnowGibtonite = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
 ent-WallRockSandGibtonite = Sandstein

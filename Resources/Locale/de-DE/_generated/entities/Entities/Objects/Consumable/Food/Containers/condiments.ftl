@@ -43,8 +43,8 @@ ent-FoodCondimentBottleEnzyme = Universales Enzym
 ent-FoodCondimentBottleVinegar = Essigflasche
     .desc = Wird beim Kochen verwendet, um den Geschmack zu verbessern.
 
-ent-FoodCondimentBottleHotsauce = Heißaugenflasche
-    .desc = Du kannst die Magengeschwüre jetzt fast schmälern!
+ent-FoodCondimentBottleHotsauce = Hot-Sauce-Flasche
+    .desc = Du kannst die Magengeschwüre jetzt fast schmecken!
 
 ent-FoodCondimentBottleKetchup = Ketchupflasche
     .desc = Du fühlst dich jetzt schon amerikanischer.

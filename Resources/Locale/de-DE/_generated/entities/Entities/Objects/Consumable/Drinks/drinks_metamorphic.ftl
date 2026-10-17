@@ -175,7 +175,7 @@ ent-DrinkGreenTeaGlass = metamorphes Glas
 ent-DrinkGrenadineGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.
 
-ent-DrinkGrogGlass = metamorphes Glas
+ent-DrinkGrogGlass = Grog-Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.
 
 ent-DrinkHippiesDelightGlass = metamorphes Glas

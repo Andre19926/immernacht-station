@@ -142,22 +142,22 @@ ent-AirlockVaultLocked = Luftschleuse
 ent-AirlockEVALocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockServiceGlassLocked = Glas Luftschleuse
+ent-AirlockServiceGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockLawyerGlassLocked = Glas Luftschleuse
+ent-AirlockLawyerGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockTheatreGlassLocked = Glas Luftschleuse
+ent-AirlockTheatreGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockServiceTheatreGlassLocked = Glas Luftschleuse
+ent-AirlockServiceTheatreGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockBarGlassLocked = Glas Luftschleuse
+ent-AirlockBarGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockBarKitchenGlassLocked = Glas Luftschleuse
+ent-AirlockBarKitchenGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockExternalGlassLocked = Luftschleuse
@@ -178,103 +178,103 @@ ent-AirlockExternalGlassEngineeringLocked = Luftschleuse
 ent-AirlockExternalGlassAtmosphericsLocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
 
-ent-AirlockKitchenGlassLocked = Glas Luftschleuse
+ent-AirlockKitchenGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockJanitorGlassLocked = Glas Luftschleuse
+ent-AirlockJanitorGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockHydroGlassLocked = Glas Luftschleuse
+ent-AirlockHydroGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockChapelGlassLocked = Glas Luftschleuse
+ent-AirlockChapelGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockChapelStandardGlassLocked = Glas Luftschleuse
+ent-AirlockChapelStandardGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockEngineeringGlassLocked = Glas Luftschleuse
+ent-AirlockEngineeringGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockAtmosphericsGlassLocked = Glas Luftschleuse
+ent-AirlockAtmosphericsGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockCargoGlassLocked = Glas Luftschleuse
+ent-AirlockCargoGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockSalvageGlassLocked = Glas Luftschleuse
+ent-AirlockSalvageGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMiningGlassLocked = Glas Luftschleuse
+ent-AirlockMiningGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockChemistryGlassLocked = Glas Luftschleuse
+ent-AirlockChemistryGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMedicalMorgueGlassLocked = Glas Luftschleuse
+ent-AirlockMedicalMorgueGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMedicalGlassLocked = Glas Luftschleuse
+ent-AirlockMedicalGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockVirologyGlassLocked = Glas Luftschleuse
+ent-AirlockVirologyGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockScienceGlassLocked = Glas Luftschleuse
+ent-AirlockScienceGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMedicalScienceGlassLocked = Glas Luftschleuse
+ent-AirlockMedicalScienceGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockCentralCommandGlassLocked = Glas Luftschleuse
+ent-AirlockCentralCommandGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockCommandGlassLocked = Glas Luftschleuse
+ent-AirlockCommandGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockCaptainGlassLocked = Glas Luftschleuse
+ent-AirlockCaptainGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockChiefMedicalOfficerGlassLocked = Glas Luftschleuse
+ent-AirlockChiefMedicalOfficerGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockChiefEngineerGlassLocked = Glas Luftschleuse
+ent-AirlockChiefEngineerGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockHeadOfSecurityGlassLocked = Glas Luftschleuse
+ent-AirlockHeadOfSecurityGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockResearchDirectorGlassLocked = Glas Luftschleuse
+ent-AirlockResearchDirectorGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockHeadOfPersonnelGlassLocked = Glas Luftschleuse
+ent-AirlockHeadOfPersonnelGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockQuartermasterGlassLocked = Glas Luftschleuse
+ent-AirlockQuartermasterGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockSecurityGlassLocked = Glas Luftschleuse
+ent-AirlockSecurityGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockDetectiveGlassLocked = Glas Luftschleuse
+ent-AirlockDetectiveGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockBrigGlassLocked = Glas Luftschleuse
+ent-AirlockBrigGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockSecurityLawyerGlassLocked = Glas Luftschleuse
+ent-AirlockSecurityLawyerGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockArmoryGlassLocked = Glas Luftschleuse
+ent-AirlockArmoryGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockEVAGlassLocked = Glas Luftschleuse
+ent-AirlockEVAGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockSyndicateGlassLocked = Glas Luftschleuse
+ent-AirlockSyndicateGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockSyndicateNukeopGlassLocked = Glas Luftschleuse
+ent-AirlockSyndicateNukeopGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockMaintLocked = Wartungszugang (verschlossen)
@@ -283,7 +283,7 @@ ent-AirlockMaintLocked = Wartungszugang (verschlossen)
 ent-AirlockXenoMaintLocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMaintGlassLocked = Glas Luftschleuse
+ent-AirlockMaintGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockMaintSalvageLocked = Luftschleuse

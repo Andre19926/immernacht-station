@@ -103,7 +103,7 @@ ent-BulletGrenadeEMP = EMP-Rakete
 ent-BulletCap = Zündplättchen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletAcid = Sauerspuck
+ent-BulletAcid = Säurespucke
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletWaterShot = Wasser

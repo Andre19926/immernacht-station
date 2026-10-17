@@ -34,5 +34,5 @@ ent-BibleNanoTrasen = Codex nanotrasimus
 ent-BibleHonk = Die Freude der Honkmother
     .desc = Oh große und glorreiche Mutter, Herrin der Wunder, Matrone der Maske und Frömmigkeiten, gesegnet ist sie unter uns Narren.
 
-ent-BibleRatvar = Tablette von Ratvar
+ent-BibleRatvar = Tafel von Ratvar
     .desc = Eine heilige Reliquie des Clockwork Cult, gesegnet von der Clockwork Justice, Ratvar.

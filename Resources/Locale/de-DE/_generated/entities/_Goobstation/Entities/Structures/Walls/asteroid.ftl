@@ -10,7 +10,7 @@ ent-WallRockBSCrystal = Felsen
 ent-WallRockBasaltBSCrystal = Basalt
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
-ent-WallRockSnowBSCrystal = Schneeweide
+ent-WallRockSnowBSCrystal = Verschneiter Fels
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
 ent-WallRockSandBSCrystal = Sandstein

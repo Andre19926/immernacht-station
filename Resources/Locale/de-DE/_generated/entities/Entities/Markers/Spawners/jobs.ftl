@@ -52,7 +52,7 @@ ent-SpawnPointChiefEngineer = Chefingenieur
 
 ent-SpawnPointStationEngineer = Stationstechniker
 
-ent-SpawnPointAtmos = Atmosphären
+ent-SpawnPointAtmos = Atmos-Spawnpunkt
 
 ent-SpawnPointChiefMedicalOfficer = Chiefmedicalofficer
 

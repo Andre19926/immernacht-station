@@ -4,13 +4,13 @@ ent-DoorElectronicsWizard = Türelektronik
 ent-AirlockUranium = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockUraniumGlass = Glas Luftschleuse
+ent-AirlockUraniumGlass = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockUraniumWizardLocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockUraniumGlassWizardLocked = Glas Luftschleuse
+ent-AirlockUraniumGlassWizardLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockUraniumAssembly = Luftschleusebaugruppe
