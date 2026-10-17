@@ -29,4 +29,4 @@ ent-OrganSynthKidneys = Energiespule
     .desc = Eine Synth-Energiespule. Sie filtert alles heraus, was der Rest des Körpers nicht braucht.
 
 ent-OrganSynthPowerCell = Synthesizer-Energiezelle
-    .desc = Eine wiederaufladbare Kraftzelle, die so geformt ist, dass sie in das Endoskelett eines Synth passt. Kann in jedem Zellenladegerät nachgefüllt werden.
+    .desc = Eine wiederaufladbare Kraftzelle, geformt für das Endoskelett eines Synths. Kann in jedem Zellenladegerät aufgeladen werden.
