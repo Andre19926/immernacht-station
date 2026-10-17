@@ -1,2 +1,2 @@
 ent-voicesensor = Sprachsensor
-    .desc = Dieses Mikrofon, das von Micheal Phone während seiner Zeit bei Michealsoft erfunden wurde, sendet Signale, wenn eine aufgezeichnete Codephrase ausgesprochen wird!
+    .desc = Dieses Mikrofon, erfunden von Micheal Phone während seiner Zeit bei Michealsoft, sendet Signale, wenn ein aufgezeichnetes Codewort gesprochen wird!

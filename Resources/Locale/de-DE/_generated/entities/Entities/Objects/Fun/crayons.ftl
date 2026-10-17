@@ -8,7 +8,7 @@ ent-CrayonInfinite = Unendlicher Stift
     .desc = Ein farbenfroher Stift. Sieht lecker aus. Mmmm …
 
 ent-CrayonBorg = elektrischer Stift
-    .desc = Angeblich der köstlichste Buntstifttyp in allen Universen; leider kann man nicht essen.
+    .desc = Angeblich die köstlichste Buntstiftsorte in allen Universen; leider kann man sie nicht essen.
 
 ent-CrayonWhite = Weißer Stift
     .desc = Ein farbenfroher Stift. Sieht lecker aus. Mmmm …
@@ -35,4 +35,4 @@ ent-CrayonPurple = Purpurstift
     .desc = Ein farbenfroher Stift. Sieht lecker aus. Mmmm …
 
 ent-CrayonBox = Buntstiftbox
-    .desc = Es ist eine Schachtel mit Buntstiften.
+    .desc = Eine Schachtel Buntstifte.

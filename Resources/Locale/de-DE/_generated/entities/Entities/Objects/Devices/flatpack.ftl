@@ -8,16 +8,16 @@ ent-AmePartFlatpack = AME Flatpack
     .desc = Ein Flatpack zum Bau eines Antimaterie-Motorreaktors.
 
 ent-SingularityGeneratorFlatpack = Singularitätsgenerator Flatpack
-    .desc = Ein Flatpack zum Aufbau eines Singularitätsgenerators.
+    .desc = Ein Flatpack zum Bau eines Singularitätsgenerators.
 
 ent-RadiationCollectorFlatpack = Flatpack für Strahlungssammler
     .desc = Ein Flatpack zum Bau eines Strahlungssammlers.
 
 ent-ContainmentFieldGeneratorFlatpack = Containment-Feldgenerator Flatpack
-    .desc = Ein Flatpack zum Aufbau eines Containment-Feldgenerators.
+    .desc = Ein Flatpack zum Bau eines Containment-Feldgenerators.
 
 ent-EmitterFlatpack = Emitterflachpack
-    .desc = Ein Flatpack zum Aufbau eines Emitters.
+    .desc = Ein Flatpack zum Bau eines Emitters.
 
 ent-TeslaGeneratorFlatpack = Tesla Generator Flatpack
     .desc = Ein Flatpack zum Bau eines Tesla-Generators.
@@ -32,7 +32,7 @@ ent-GyroscopeFlatpack = Gyroskop Flatpack
     .desc = Ein Flatpack zum Bau eines Gyroskops.
 
 ent-ThrusterFlatpack = Düsenflachpack
-    .desc = Ein Flatpack, der zum Bau eines Triebwerks verwendet wird.
+    .desc = Ein Flatpack zum Bau eines Triebwerks verwendet wird.
 
 ent-SpaceHeaterFlatpack = Raumheizgeräte-Flachpack
     .desc = Ein Flatpack zum Bau eines Raumheizgerätes.
@@ -41,10 +41,10 @@ ent-FaxMachineFlatpack = Faxgerät Flatpack
     .desc = Ein Flatpack zum Bau eines Faxgeräts.
 
 ent-CrewMonitoringServerFlatpack = Crew Monitoring Server Flatpack
-    .desc = Ein Flatpack zum Aufbau eines Crew Monitoring Servers.
+    .desc = Ein Flatpack zum Bau eines Crew-Überwachungsservers.
 
 ent-CrewMonitoringComputerFlatpack = Crew Monitoring Computer Flatpack
-    .desc = Ein Flatpack, der für den Bau einer Crew-Überwachungskonsole verwendet wird.
+    .desc = Ein Flatpack zum Bau einer Crew-Überwachungskonsole.
 
 ent-HydroponicsTrayFlatpack = Botanikschale Flatpack
-    .desc = Ein Flatpack zum Bau eines Botanikschales.
+    .desc = Ein Flatpack zum Bau einer Botanikschale.

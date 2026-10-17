@@ -2,13 +2,13 @@ ent-AutolatheMachineCircuitboard = Autolathe Maschinenplatine
     .desc = Eine Maschinenplatine für eine Autolathe.
 
 ent-AutolatheHyperConvectionMachineCircuitboard = Hyperkonvektions-Autolathe Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Hyperkonvektion Autolathe.
+    .desc = Eine Maschinenplatine für eine Hyperkonvektions- Autolathe.
 
 ent-ProtolatheMachineCircuitboard = Protolathe Maschinenplatine
     .desc = Eine Maschinenplatine für eine Protolathe.
 
 ent-ProtolatheHyperConvectionMachineCircuitboard = Hyperkonvektions-Protolathe Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Hyperkonvektion Protolathe.
+    .desc = Eine Maschinenplatine für eine Hyperkonvektions- Protolathe.
 
 ent-BiofabricatorMachineCircuitboard = Biowürfel-Fabrikator Maschinenplatine
     .desc = Eine Maschinenplatine für einen Biowürfelhersteller.
@@ -30,7 +30,7 @@ ent-CircuitImprinterHyperConvectionMachineCircuitboard = Hyperkonvektions-Platin
 ent-ExosuitFabricatorMachineCircuitboard = Exosuit-Fabrikator Maschinenplatine
 
 ent-ResearchAndDevelopmentServerMachineCircuitboard = R&D-Server Maschinenplatine
-    .desc = Eine Maschinenplatine für den R & D-Server.
+    .desc = Eine Maschinenplatine für den Forschungsserver.
 
 ent-BiogeneratorMachineCircuitboard = Biogenerator Maschinenplatine
     .desc = Eine Maschinenplatine für einen Biogenerator.
@@ -87,7 +87,7 @@ ent-MedicalScannerMachineCircuitboard = Medizinische Scanner Maschinenplatine
     .desc = Eine Maschinenplatine für einen medizinischen Scanner.
 
 ent-CrewMonitoringServerMachineCircuitboard = Crew Monitoring Server Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Crew Monitoring Server.
+    .desc = Eine Maschinenplatine für einen Crew-Überwachungsserver.
 
 ent-CryoPodMachineCircuitboard = Kryo-Pod Maschinenplatine
     .desc = Eine Maschinenplatine für einen Kryo-Pod.
@@ -102,7 +102,7 @@ ent-BiomassReclaimerMachineCircuitboard = Biomasserückgewinnung Maschinenplatin
     .desc = Eine Maschinenplatine für einen Biomasse-Reclaimer.
 
 ent-HydroponicsTrayMachineCircuitboard = Botanikschale Maschinenplatine
-    .desc = Eine Maschinenplatine für ein Botanikschale.
+    .desc = Eine Maschinenplatine für eine Botanikschale.
 
 ent-SeedExtractorMachineCircuitboard = Saatextraktor Maschinenplatine
     .desc = Eine Maschinenplatine für einen Samenextraktor.
@@ -111,7 +111,7 @@ ent-SMESMachineCircuitboard = SMES Maschinenplatine
     .desc = Eine Maschinenplatine für ein SMES.
 
 ent-SMESAdvancedMachineCircuitboard = fortgeschrittene SMES Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Advanced SMES.
+    .desc = Eine Maschinenplatine für ein fortschrittliches SMES.
 
 ent-CellRechargerCircuitboard = Zellenladegerät Maschinenplatine
     .desc = Eine Maschinenplatine für ein Zellenladegerät.
@@ -147,7 +147,7 @@ ent-ReagentGrinderMachineCircuitboard = Reagenzmühle Maschinenplatine
     .desc = Eine Maschinenplatine für eine Reagenzmühle.
 
 ent-HotplateMachineCircuitboard = Hotplate Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Kochplatte.
+    .desc = Eine Maschinenplatine für eine Herdplatte.
 
 ent-ElectricGrillMachineCircuitboard = Elektrogrill Maschinenplatine
     .desc = Eine Maschinenplatine für einen elektrischen Grill.
@@ -182,10 +182,10 @@ ent-SurveillanceCameraRouterCircuitboard = Überwachungskamera-Router (Platine)
     .desc = Eine Maschinenplatine für einen Überwachungskamera-Router.
 
 ent-SurveillanceCameraWirelessRouterCircuitboard = Drahtloser Überwachungskamera-Router (Platine)
-    .desc = Eine Maschinenplatine für eine Überwachungskamera Wireless Router.
+    .desc = Eine Maschinenplatine für einen drahtlosen Überwachungskamera-Router.
 
 ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = Drahtloser Xenoborg-Kamera-Router (Platine)
-    .desc = Eine Maschinenplatine für eine Xenoborg Kamera Wireless Router.
+    .desc = Eine Maschinenplatine für einen drahtlosen Xenoborg-Kamera-Router.
 
 ent-SurveillanceWirelessCameraMovableCircuitboard = bewegliche drahtlose Kameraplatine
     .desc = Eine Maschinenplatine für eine bewegliche drahtlose Kamera.
@@ -203,7 +203,7 @@ ent-CargoTelepadMachineCircuitboard = Fracht Telepad Maschinenplatine
     .desc = Eine Maschinenplatine für ein Frachttelepad.
 
 ent-MailTeleporterMachineCircuitboard = Post-Teleporter Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Mail-Teleporter.
+    .desc = Eine Maschinenplatine für einen Post-Teleporter.
 
 ent-SodaDispenserMachineCircuitboard = Limonadenspender Maschinenplatine
     .desc = Eine Maschinenplatine für einen Sodaspender.
@@ -212,7 +212,7 @@ ent-TelecomServerCircuitboard = Telekommunikationsserver Maschinenplatine
     .desc = Eine Maschinenplatine für einen Telekommunikationsserver.
 
 ent-SalvageMagnetMachineCircuitboard = Salvage-Magnet Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Salvage-Magneten.
+    .desc = Eine Maschinenplatine für einen Bergungsmagneten.
 
 ent-MiniGravityGeneratorCircuitboard = Minigravitationsgenerator Maschinenplatine
     .desc = Eine Maschinenplatine für einen Mini-Schwerkraftgenerator.

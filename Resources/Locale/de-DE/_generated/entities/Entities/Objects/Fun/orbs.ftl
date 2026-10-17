@@ -5,4 +5,4 @@ ent-TeslaToy = Teddy Tesla
     .desc = Das Lieblingsspielzeug des großen Ingenieurs Nikola Tesla.
 
 ent-PonderingOrb = Pondering Orb
-    .desc = Schwerfällig, Mann ... wirklich schwerfällig.
+    .desc = Klobig, Mann ... wirklich klobig.

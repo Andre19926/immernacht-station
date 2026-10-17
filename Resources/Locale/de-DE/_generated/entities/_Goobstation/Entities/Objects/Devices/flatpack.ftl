@@ -20,7 +20,7 @@ ent-MedicalBiofabricatorFlatpack = Medizinischer Biofabricator Flatpack
     .desc = Ein Flatpack zum Bau eines medizinischen Biofabrikators
 
 ent-ComputerNTRTasksFlatpack = ntr Task Computer Flatpack
-    .desc = Ein Flatpack zum Aufbau eines NTR-Task-Computers.
+    .desc = Ein Flatpack zum Bau eines NTR-Task-Computers.
 
 ent-MachinePowerTransmissionLaserFlatpack = Leistungsübertragung Laser Flatpack
     .desc = Ein Flatpack zum Bau eines Energieübertragungslasers
@@ -29,7 +29,7 @@ ent-ComputerFundingAllocationFlatpack = Mittelzuweisung Computer Flatpack
     .desc = Ein Flatpack zum Bau eines Fördermittel-Computers
 
 ent-ComputerCargoRequestServiceFlatpack = Service-Anforderungscomputer (Flatpack)
-    .desc = Ein Flatpack zum Aufbau eines Service-Anforderungscomputers.
+    .desc = Ein Flatpack zum Bau eines Service-Anforderungscomputers.
 
 ent-ComputerCargoRequestMedicalFlatpack = medizinische Anfrage Computer Flatpack
     .desc = Ein Flatpack zum Bau eines medizinischen Anforderungscomputers

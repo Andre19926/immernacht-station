@@ -1,35 +1,35 @@
 ent-EncryptionKeyCommon = gemeinsamer Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von jedermann verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für jedermann.
 
 ent-EncryptionKeyCargo = Frachtverschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von Versorgungsmitarbeitern verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für Versorgungsmitarbeiter.
 
 ent-EncryptionKeyCentCom = zentraler Befehlsverschlüsselungsschlüssel
-    .desc = Eine Verschlüsselung, die von den Chefs des Kapitäns verwendet wurde.
+    .desc = Ein Verschlüsselungsschlüssel für die Chefs und den Kapitän.
 
 ent-EncryptionKeyStationMaster = Stationsmaster-Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von den Chefs der Station verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für die Chefs der Station.
 
 ent-EncryptionKeyCommand = Befehlsverschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von den Chefs der Crew verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für die Chefs der Crew.
 
 ent-EncryptionKeyEngineering = Engineering-Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von den Ingenieuren verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für Ingenieure.
 
 ent-EncryptionKeyMedical = medizinischer Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von denen verwendet wird, die Leben retten.
+    .desc = Ein Verschlüsselungsschlüssel für alle, die Leben retten.
 
 ent-EncryptionKeyMedicalScience = med-sci-Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von jemandem verwendet wird, der nicht entschieden hat, welche Seite er nehmen soll.
+    .desc = Ein Verschlüsselungsschlüssel für jemanden, der sich noch nicht entschieden hat, welche Seite er wählt.
 
 ent-EncryptionKeyScience = Wissenschaftlicher Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von Wissenschaftlern verwendet wird. Vielleicht ist es plasmadicht?
+    .desc = Ein Verschlüsselungsschlüssel für Wissenschaftler. Vielleicht ist es plasmadicht?
 
 ent-EncryptionKeyRobo = Roboter-Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von Robototech-Ingenieuren verwendet wird. Vielleicht hat es einen LAH-6000 drauf?
+    .desc = Ein Verschlüsselungsschlüssel für Robotechniker. Vielleicht ist ein LAH-6000 drauf?
 
 ent-EncryptionKeySecurity = Sicherheitsverschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von der Sicherheit verwendet wird.
+    .desc = Ein Verschlüsselungsschlüssel für die Sicherheit.
 
 ent-EncryptionKeyService = Dienstverschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel, der vom Servicepersonal verwendet wird und die Aufgabe hat, die Station voll, glücklich und sauber zu halten.
@@ -38,10 +38,10 @@ ent-EncryptionKeySyndie = blutroter Verschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel, benutzt von ... Moment ... Wem gehört dieser Chip eigentlich?
 
 ent-EncryptionKeyBinary = Binärer Übersetzerschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der binäre Signale übersetzt, die von Siliziumen verwendet werden.
+    .desc = Ein Verschlüsselungsschlüssel, der die binären Signale der Siliziumwesen übersetzt.
 
 ent-EncryptionKeyBinarySyndicate = Binärer Übersetzerschlüssel
-    .desc = Ein Syndicate-Verschlüsselungsschlüssel, der binäre Signale übersetzt, die von Siliziumen verwendet werden.
+    .desc = Ein Syndicate-Verschlüsselungsschlüssel, der die binären Signale der Siliziumwesen übersetzt.
 
 ent-EncryptionKeyFreelance = Freelancer-Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von Freelancern verwendet wird, die möglicherweise eine Zugehörigkeit haben oder nicht. Es sieht so aus, als wäre es abgenutzt.
+    .desc = Ein Verschlüsselungsschlüssel für Freelancer, die vielleicht einer Gruppierung angehören, vielleicht auch nicht. Er sieht abgenutzt aus.

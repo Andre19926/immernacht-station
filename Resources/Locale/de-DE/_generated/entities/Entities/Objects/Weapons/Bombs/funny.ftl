@@ -7,4 +7,4 @@ ent-TrashBananaPeelExplosiveUnarmed = Bananen
     .desc = Es gibt etwas Ungewöhnliches an dieser Banane.
 
 ent-SnapPopExplosive = Snap Pop
-    .desc = Wirf es auf den Boden und hör es POPPEN!
+    .desc = Wirf es auf den Boden und hör es KNALLEN!

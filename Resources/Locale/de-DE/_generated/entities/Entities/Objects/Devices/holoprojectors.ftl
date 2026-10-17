@@ -1,29 +1,29 @@
 ent-Holoprojector = holographischer Schildprojektor
-    .desc = Ein praktischer holografischer Projektor, der ein Hausmeisterschild zeigt.
+    .desc = Ein praktischer holografischer Projektor, der ein Hausmeisterschild anzeigt.
 
 ent-HoloprojectorEmpty = holographischer Schildprojektor
-    .desc = Ein handy-dandy holographischer projektor, der ein hausmeisterschild zeigt.
+    .desc = Ein praktischer holografischer Projektor, der ein Hausmeisterschild anzeigt.
 
 ent-HoloprojectorBorg = Holosign-Projektor
-    .desc = Ein modifizierter holographischer Schild-Projektor für den Einsatz in Cyborgs. Automatische Selbstladung.
+    .desc = Ein modifizierter holografischer Schildprojektor für Cyborgs. Lädt sich automatisch selbst auf.
 
 ent-HoloprojectorClownBorg = Holopeel-Projektor
-    .desc = Ein Holopeel-Projektor, der eine rutschige, harte leichte Bananenschale erzeugt. Es lädt sich auf, so dass der Spaß nie endet!
+    .desc = Ein Holo-Schalenprojektor, der eine rutschige, harte Licht-Bananenschale erzeugt. Er lädt sich auf, damit der Spaß nie endet!
 
 ent-HolofanProjector = Holofan-Projektor
-    .desc = Stoppen sie selbstmörderische passagiere, alle während atmos notfällen zu töten.
+    .desc = Hält lebensmüde Passagiere davon ab, bei Atmos-Notfällen alle umzubringen.
 
 ent-HolofanProjectorEmpty = Holofan-Projektor
-    .desc = Stoppen sie selbstmörderische passagiere, alle während atmos notfällen zu töten.
+    .desc = Hält lebensmüde Passagiere davon ab, bei Atmos-Notfällen alle umzubringen.
 
 ent-HoloprojectorField = Kraftfeldprojektor
-    .desc = Erzeugt ein unpassierbares Kraftfeld, das nichts durchlässt. Die Nähe kann oder kann nicht Krebs verursachen.
+    .desc = Erzeugt ein undurchdringliches Kraftfeld, das nichts durchlässt. Die Nähe kann Krebs verursachen – oder auch nicht.
 
 ent-HoloprojectorFieldEmpty = Kraftfeldprojektor
-    .desc = Erzeugt ein unpassierbares Kraftfeld, das nichts durchlässt. Die Nähe kann oder kann nicht Krebs verursachen.
+    .desc = Erzeugt ein undurchdringliches Kraftfeld, das nichts durchlässt. Die Nähe kann Krebs verursachen – oder auch nicht.
 
 ent-HoloprojectorSecurity = Holobarrierprojektor
-    .desc = Erzeugt eine solide, aber fragile holographische Barriere.
+    .desc = Erzeugt eine feste, aber zerbrechliche holografische Barriere.
 
 ent-HoloprojectorSecurityEmpty = Holobarrierprojektor
-    .desc = Erzeugt eine solide, aber fragile holographische Barriere.
+    .desc = Erzeugt eine feste, aber zerbrechliche holografische Barriere.

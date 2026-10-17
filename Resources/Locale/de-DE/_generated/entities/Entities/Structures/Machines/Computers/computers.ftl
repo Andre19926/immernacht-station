@@ -17,10 +17,10 @@ ent-ComputerShuttleCargo = Frachtshuttle-Konsole
     .desc = Wird verwendet, um das Frachtshuttle zu steuern.
 
 ent-ComputerIFF = IFF-Computer
-    .desc = Ermöglicht es dir, die IFF-Eigenschaften dieses Schiffes zu kontrollieren.
+    .desc = Ermöglicht es dir, die IFF-Eigenschaften dieses Schiffes zu steuern.
 
 ent-ComputerIFFSyndicate = IFF-Computer
-    .desc = Ermöglicht es dir, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
+    .desc = Ermöglicht es dir, die IFF- und Tarneigenschaften dieses Schiffes zu steuern.
 
 ent-ComputerPowerMonitoring = Strom-Monitorcomputer
     .desc = Es überwacht die Leistungspegel in der gesamten Station.
@@ -113,7 +113,7 @@ ent-ComputerPalletConsole = Frachtverkaufscomputer
     .desc = Wird zum Verkauf von Waren verwendet, die auf Frachtpaletten geladen werden.
 
 ent-ComputerMassMedia = Nachrichtenkonsole
-    .desc = Schreibe deine Botschaft an die Welt!
+    .desc = Schreib deine Botschaft an die Welt!
 
 ent-ComputerSensorMonitoring = Sensor-Monitorcomputer
     .desc = Eine flexible Konsole zur Überwachung aller Arten von Sensoren.

@@ -1,8 +1,8 @@
 ent-BikeHorn = Radhorn
-    .desc = Ein Horn von einem Fahrrad.
+    .desc = Eine Fahrradhupe.
 
 ent-CluwneHorn = gebrochenes Fahrradhorn
-    .desc = Ein gebrochenes Horn von einem Fahrrad.
+    .desc = Eine kaputte Fahrradhupe.
 
 ent-GoldenBikeHorn = Goldhonker
     .desc = Ein fröhlicher Hupenpreis, bete zu den Göttern für deine Belohnung.
@@ -11,16 +11,16 @@ ent-BananiumHorn = Bananium-Hupe
     .desc = Ein Lufthorn aus Bananium.
 
 ent-PushHorn = Drückhorn
-    .desc = Dieses leistungsstarke Bikehorn wird mit Sicherheit die Stirn runzeln.
+    .desc = Diese leistungsstarke Fahrradhupe sorgt garantiert für Stirnrunzeln.
 
 ent-Whistle = Pfeife
-    .desc = Hat jemand vergessen, einen Wasserkocher auszuschalten?
+    .desc = Hat jemand vergessen, den Wasserkocher auszuschalten?
 
 ent-SecurityWhistle = Pfeife
-    .desc = Der Klang davon bringt Angst.
+    .desc = Der Klang davon macht Angst.
 
 ent-SyndicateWhistle = Trenchpfeifen
-    .desc = Eine Pfeife, die von Syndicate-Kommandanten benutzt wurde, um Aufmerksamkeit zu erregen. Avanti!
+    .desc = Eine Pfeife, mit der Syndicate-Kommandanten Aufmerksamkeit erregten. Avanti!
 
 ent-ToyRubberDuck = Gummiente
     .desc = Nicht von Meeresströmungen getragen.
@@ -29,13 +29,13 @@ ent-RubberChicken = Gummihuhn
     .desc = Eine stressauslösende Parodie auf den schönsten Vogel der Natur.
 
 ent-NewtonCradle = Newton Cradle
-    .desc = Ein Gerät gelangweilte Papierdrücker verwenden, um sich daran zu erinnern, dass die Zeit noch nicht gestoppt. Enthält die Schwerkraft.
+    .desc = Ein Gerät, mit dem gelangweilte Büromenschen sich daran erinnern, dass die Zeit noch nicht stehen geblieben ist. Enthält die Schwerkraft.
 
 ent-ClownRecorder = Clownschreiber
-    .desc = Wenn du diese Lacher einfach nicht auf natürliche Weise bekommen kannst!
+    .desc = Für den Fall, dass du diese Lacher einfach nicht auf natürliche Weise bekommst!
 
 ent-WhoopieCushion = Whoopie-Kissen
-    .desc = Ein praktisches Witzgerät mit Blähungen Humor.
+    .desc = Ein praktisches Scherzgerät mit Blähungshumor.
 
 ent-Skub = Skub
-    .desc = Skub ist der fünfte Chaos-Gott.
+    .desc = Skub ist der fünfte Chaosgott.

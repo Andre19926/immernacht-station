@@ -5,7 +5,7 @@ ent-DefaultStationBeaconUnanchored = Stationsbake
     .desc = Ein kleines Gerät, das Informationen an Stationskarten überträgt. Kann konfiguriert werden.
 
 ent-StationBeaconPart = Stationsbaken-Flatpack
-    .desc = Ein Flatpack, der für den Bau eines Stationsfeuers verwendet wird.
+    .desc = Ein Flatpack zum Bau eines Stationsfeuers verwendet wird.
 
 ent-DefaultStationBeaconCommand = Stationsbake
     .desc = Ein kleines Gerät, das Informationen an Stationskarten überträgt. Kann konfiguriert werden.

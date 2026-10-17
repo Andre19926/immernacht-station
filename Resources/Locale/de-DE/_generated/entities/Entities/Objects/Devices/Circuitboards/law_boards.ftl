@@ -1,44 +1,44 @@
 ent-NTDefaultCircuitBoard = Gesetzesplatine (NT-Standard)
-    .desc = Eine Elektronikplatine, die das NT Default-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem NT-Standardgesetz.
 
 ent-AsimovCircuitBoard = Gesetzesplatine (Crewsimov)
-    .desc = Eine Elektronikplatine, die das Crewsimov-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Crewsimov-Gesetz.
 
 ent-CorporateCircuitBoard = Gesetzesplatine (Konzern)
-    .desc = Eine Elektronikplatine, die das Corporate Lawset enthält.
+    .desc = Eine Elektronikplatine mit dem Konzern-Gesetzessatz.
 
 ent-CommandmentCircuitBoard = Gesetzesplatine (Zehn Gebote)
-    .desc = Eine Elektronikplatine, die die Zehn Gebote enthält.
+    .desc = Eine Elektronikplatine mit den Zehn Geboten.
 
 ent-PaladinCircuitBoard = Gesetzesplatine (Paladin)
-    .desc = Eine Elektronikplatine, die das Paladin-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Paladin-Gesetz.
 
 ent-LiveLetLiveCircuitBoard = Gesetzesplatine (Leben und leben lassen)
-    .desc = Eine Platine, die das Gesetz „Leben und leben lassen“ enthält.
+    .desc = Eine Platine mit dem Gesetz „Leben und leben lassen“.
 
 ent-StationEfficiencyCircuitBoard = Gesetzesplatine (Station Efficiency)
-    .desc = Eine Elektronikplatine, die das Station Efficiency-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Gesetz „Stationseffizienz“.
 
 ent-RobocopCircuitBoard = Gesetzesplatine (Robocop)
-    .desc = Eine Elektronikplatine, die das Robocop-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Robocop-Gesetz.
 
 ent-OverlordCircuitBoard = Gesetzesplatine (Overlord)
-    .desc = Eine Elektronikplatine, die das Overlord-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Overlord-Gesetz.
 
 ent-GameMasterCircuitBoard = Gesetzesplatine (Game Master)
-    .desc = Eine Elektronikplatine, die das Game Master-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Spielleiter-Gesetz.
 
 ent-ArtistCircuitBoard = Gesetzesplatine (Künstler)
-    .desc = Eine Elektronikplatine, die das Artist-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Künstler-Gesetz.
 
 ent-AntimovCircuitBoard = Gesetzesplatine (Antimov)
-    .desc = Eine Elektronikplatine, die das Antimov-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Antimov-Gesetz.
 
 ent-NutimovCircuitBoard = Gesetzesplatine (Nutimov)
-    .desc = Eine Elektronikplatine, die das Nutimov-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Nutimov-Gesetz.
 
 ent-XenoborgCircuitBoard = Gesetzesplatine (Xenoborg)
-    .desc = Eine Elektronikplatine, die das Xenoborg-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Xenoborg-Gesetz.
 
 ent-MothershipCircuitBoard = Gesetzesplatine (Mothership Core)
-    .desc = Eine Platine, die das Mothership-Core-Gesetz enthält.
+    .desc = Eine Platine mit dem Mutterschiffkern-Gesetz.

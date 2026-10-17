@@ -23,25 +23,25 @@ ent-BotanistPDA = Botaniker PDA
     .desc = Er hat einen erdigen Duft.
 
 ent-ClownPDA = Clown PDA
-    .desc = Blicke können täuschen.
+    .desc = Der Schein kann trügen.
 
 ent-VisitorClownPDA = Clown PDA
-    .desc = Blicke können täuschen.
+    .desc = Der Schein kann trügen.
 
 ent-MimePDA = mime PDA
-    .desc = Überraschenderweise nicht auf stumm.
+    .desc = Überraschenderweise nicht stummgeschaltet.
 
 ent-ChaplainPDA = Kaplan PDA
-    .desc = Gottes gewählte PDA.
+    .desc = Der PDA der Auserwählten Gottes.
 
 ent-VisitorChaplainPDA = Kaplan PDA
-    .desc = Gottes gewählte PDA.
+    .desc = Der PDA der Auserwählten Gottes.
 
 ent-QuartermasterPDA = Quartiermeister-PDA
     .desc = PDA für den Kerl, der die Waffen bestellt.
 
 ent-CargoPDA = Fracht PDA
-    .desc = PDA für die Jungs, die die Pizzas bestellen.
+    .desc = PDA für die Jungs, die die Pizzen bestellen.
 
 ent-SalvagePDA = Salvage PDA
     .desc = Riecht nach Asche.
@@ -56,22 +56,22 @@ ent-VisitorLibrarianPDA = Bibliothekar PDA
     .desc = Riecht wie Bücher.
 
 ent-LawyerPDA = Rechtsanwalt PDA
-    .desc = Für Anwälte, um zweifelhafte Kunden zu gewinnen.
+    .desc = Für Anwälte, um zweifelhafte Mandanten zu gewinnen.
 
 ent-VisitorLawyerPDA = Rechtsanwalt PDA
-    .desc = Für Anwälte, um zweifelhafte Kunden zu gewinnen.
+    .desc = Für Anwälte, um zweifelhafte Mandanten zu gewinnen.
 
 ent-JanitorPDA = Hausmeister PDA
     .desc = Riecht wie Bleichmittel.
 
 ent-CaptainPDA = Kapitän PDA
-    .desc = Überraschenderweise nicht anders als dein PDA.
+    .desc = Überraschenderweise kaum anders als dein PDA.
 
 ent-HoPPDA = Personalchef-PDA
-    .desc = Sieht so aus, als wäre es gekaut worden.
+    .desc = Sieht aus, als wäre er zerkaut worden.
 
 ent-CEPDA = Chefingenieur PDA
-    .desc = Sieht so aus, als wäre es kaum benutzt worden.
+    .desc = Sieht aus, als wäre er kaum benutzt worden.
 
 ent-EngineerPDA = Ingenieur PDA
     .desc = Robust und abgenutzt.
@@ -89,34 +89,34 @@ ent-ParamedicPDA = Sanitäter PDA
     .desc = Glänzend und steril.
 
 ent-ChemistryPDA = Chemie PDA
-    .desc = Es hat ein paar verfärbte Flecken hier und da.
+    .desc = Er hat hier und da ein paar verfärbte Flecken.
 
 ent-RnDPDA = Reißverschluss
-    .desc = Es erscheint überraschend gewöhnlich.
+    .desc = Er wirkt überraschend gewöhnlich.
 
 ent-SciencePDA = Wissenschaft PDA
-    .desc = Es ist mit einer unbekannten klebrigen Substanz bedeckt.
+    .desc = Er ist mit einer unbekannten klebrigen Substanz bedeckt.
 
 ent-HoSPDA = Leiter der Sicherheits-PDA
-    .desc = Wer auch immer diese PDA trägt, ist das Gesetz.
+    .desc = Wer auch immer diesen PDA trägt, ist das Gesetz.
 
 ent-WardenPDA = Warden-PDA
-    .desc = Das OS scheint zu haben, wurde jailbroken.
+    .desc = Das Betriebssystem scheint gejailbreakt worden zu sein.
 
 ent-SecurityPDA = Sicherheit PDA
     .desc = Rot, um die Flecken von Assistentenblut zu verbergen.
 
 ent-CentcomPDA = CentComm PDA
-    .desc = Lichtgrüner Schild der wandelnden Bürokratie.
+    .desc = Hellgrünes Abzeichen der wandelnden Bürokratie.
 
 ent-AdminPDA = Admin PDA
-    .desc = Wenn du kein Administrator bist, gib diesen PDA bitte an den nächstgelegenen Administrator zurück.
+    .desc = Wenn du kein Administrator bist, gib diesen PDA bitte beim nächsten Administrator ab.
 
 ent-MusicianPDA = Musiker PDA
-    .desc = Es erfüllt dich mit Inspiration.
+    .desc = Er erfüllt dich mit Inspiration.
 
 ent-VisitorMusicianPDA = Musiker PDA
-    .desc = Es erfüllt dich mit Inspiration.
+    .desc = Er erfüllt dich mit Inspiration.
 
 ent-AtmosPDA = atmos PDA
     .desc = Duftet immer noch nach Plasma.
@@ -128,7 +128,7 @@ ent-VisitorPDA = klarer PDA
     .desc = 99 und 44/100 Prozent reiner Kunststoff.
 
 ent-SyndiPDA = Syndicate PDA
-    .desc = Ok, zeit, ein produktives mitglied von oh cool, ich bin ein böser kerl zeit, um menschen zu töten.
+    .desc = Ok, Zeit, ein produktives Mitglied von ... oh cool, ich bin ein böser Kerl, Zeit, Leute zu töten.
 
 ent-SyndiOperativePDA = Syndicate operative PDA
     .desc = Tod zu NT!
@@ -137,25 +137,25 @@ ent-SyndiCorpsmanPDA = Syndicate Corpsman PDA
     .desc = Kommandant ... ich muss kochen!
 
 ent-SyndiCommanderPDA = Konsortialkommandeur PDA
-    .desc = Also, was sind wir, eine Art Nukie-Trupp?
+    .desc = Also, was sind wir, so eine Art Nukie-Trupp?
 
 ent-ERTLeaderPDA = ERT Leader PDA
     .desc = Rot für Feuerkraft.
 
 ent-ERTChaplainPDA = ERT Kaplan PDA
-    .desc = Rot für Feuerkraft, es ist gesegnet.
+    .desc = Rot für Feuerkraft, er ist gesegnet.
 
 ent-ERTEngineerPDA = ERT Ingenieur PDA
-    .desc = Rot für Feuerkraft, es ist gut getragen.
+    .desc = Rot für Feuerkraft, er ist gut eingetragen.
 
 ent-ERTJanitorPDA = ERT Janitor PDA
-    .desc = Rot für Feuerkraft, es ist quietschend sauber.
+    .desc = Rot für Feuerkraft, er ist blitzblank.
 
 ent-ERTMedicPDA = ERT Medizinische PDA
-    .desc = Rot für Feuerkraft, es ist glänzend und steril.
+    .desc = Rot für Feuerkraft, er ist glänzend und steril.
 
 ent-ERTSecurityPDA = ERT Security PDA
-    .desc = Rot für Feuerkraft, es hat Tally-Marken auf der Seite geätzt.
+    .desc = Rot für Feuerkraft, an der Seite sind Strichlisten eingeritzt.
 
 ent-CBURNPDA = CBURN PDA
     .desc = Riecht wie faules Fleisch.
@@ -164,42 +164,42 @@ ent-PsychologistPDA = Psychologe PDA
     .desc = Sieht makellos gereinigt aus.
 
 ent-ReporterPDA = Reporter PDA
-    .desc = Riecht nach frisch gedruckter Presse.
+    .desc = Riecht nach frisch gedruckter Zeitung.
 
 ent-DetectivePDA = Detektiv PDA
-    .desc = Riecht nach Regen ... der auf die Dächer niederprasselt ...
+    .desc = Riecht nach Regen ... der auf die Dächer prasselt ...
 
 ent-BrigmedicPDA = Brigmedo PDA
-    .desc = Ich frage mich, wessen Puls auf dem Bildschirm ist? Ich hoffe es hört nicht auf...
+    .desc = Ich frage mich, wessen Puls auf dem Bildschirm zu sehen ist? Hoffentlich hört er nicht auf ...
 
 ent-CluwnePDA = Cluwne PDA
-    .desc = Verfluchte Cluwne PDA.
+    .desc = Verfluchter Cluwne-PDA.
 
 ent-SeniorEngineerPDA = Senior Engineer PDA
-    .desc = Scheint mehrere Male auseinander genommen und wieder zusammengesetzt worden zu sein.
+    .desc = Scheint mehrfach auseinandergenommen und wieder zusammengesetzt worden zu sein.
 
 ent-SeniorResearcherPDA = Senior Researcher PDA
-    .desc = Sieht so aus, als hätte es jahrelange chemische Verbrennungen und Explosionen gegeben.
+    .desc = Sieht aus, als hätte er jahrelang chemische Verbrennungen und Explosionen überstanden.
 
 ent-SeniorPhysicianPDA = Oberarzt PDA
-    .desc = Riecht schwach wie Eisen und Chemikalien.
+    .desc = Riecht schwach nach Eisen und Chemikalien.
 
 ent-SeniorOfficerPDA = Senior Officer PDA
-    .desc = Geschlagen, zerschlagen und zerbrochen, aber kaum nutzbar.
+    .desc = Geprügelt, zerschlagen und zerbrochen, aber kaum noch benutzbar.
 
 ent-SeniorCourierPDA = Senior Kurier PDA
-    .desc = Gerüche wie Briefmarken und Shuttle Kraftstoff.
+    .desc = Riecht nach Briefmarken und Shuttle-Treibstoff.
 
 ent-PiratePDA = Piraterie PDA
 
 ent-SyndiAgentPDA = Syndicate Corpsman PDA
-    .desc = Für die Tage, an denen die Heilung normaler Syndicate-E nicht ausreicht, versuche stattdessen, nukleare Agenten zu heilen!
+    .desc = Für die Tage, an denen die Heilung normaler Syndicate-Agenten nicht reicht: Versuch stattdessen, Atomagenten zu heilen!
 
 ent-ChameleonPDA = Fluggast PDA
     .desc = Warum ist es nicht grau?
 
 ent-WizardPDA = Zauberer-PDA
-    .desc = Du hörst schwaches Flüstern, das von ihm kommt.
+    .desc = Du hörst ein schwaches Flüstern aus ihm.
 
 ent-ScurretPDA = klarer PDA
-    .desc = Ein temporärer PDA, der gewährt wird, um Temperaturen zu verhindern. Tut nicht viel. Wawa!
+    .desc = Ein vorübergehender PDA, ausgegeben, um Temperaturen zu verhindern. Tut nicht viel. Wawa!

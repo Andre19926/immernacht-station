@@ -2,7 +2,7 @@ ent-MailRobustToolsSpam = Robuster Werkzeugkasten - Sonderangebot!
     .desc = Eine Werbung für den robusten Werkzeugkasten.
 
 ent-MailNanotrasenSpam = Gründe für Nanotrasen!
-    .desc = Eine Werbung für die Nanotrasen.
+    .desc = Eine Werbung für Nanotrasen.
 
 ent-MailSyndicateSpam = Gründe für die Wahl von The Syndicate!
     .desc = Eine Werbung für das Syndicate.
@@ -23,10 +23,10 @@ ent-MailScienceSpiderClanSpam = Müde von der Wissenschaft in die Luft?
     .desc = Befolge diese einfachen Schritte, um sicherzustellen, dass es nie wieder passiert!
 
 ent-MailAllAccessSpam = FREI ALLE AXCESS!!!
-    .desc = Wolltest du jemals freien Zugang?!
+    .desc = Wolltest du schon immer freien Zugang?!
 
 ent-MailCentcommRetributionSpam = HINWEIS VON NANOTRASN!!
-    .desc = Eine offizielle Mitteilung des CEO von Nanotrasn?!
+    .desc = Eine offizielle Mitteilung des Nanotrasen-CEOs?!
 
 ent-MailEvilLizardSpam = ÖFFNEN SIE DIESEN MAHL NICHT
     .desc = Du bist verflucht worden!

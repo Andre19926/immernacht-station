@@ -1,2 +1,2 @@
 ent-StationMapCircuitboard = Stationskartenelektronik
-    .desc = Eine in Stationskarten verwendete Elektronikplatine.
+    .desc = Eine Elektronikplatine, die in Stationskarten verwendet wird.

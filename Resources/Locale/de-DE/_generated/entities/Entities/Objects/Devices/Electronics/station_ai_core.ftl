@@ -1,2 +1,2 @@
 ent-StationAiCoreElectronics = Stations-KI Kernelektronik
-    .desc = Eine Elektronikplatine, die in Stations-KI-Kernen verwendet wird.
+    .desc = Eine Elektronikplatine für Stations-KI-Kerne.

@@ -1,5 +1,5 @@
 ent-AirAlarmElectronics = Luftalarmelektronik
-    .desc = Eine Elektronikplatine, die in Luftalarmen verwendet wird.
+    .desc = Eine Elektronikplatine für Luftalarme.
 
 ent-FireAlarmElectronics = Brandmeldeelektronik
-    .desc = Eine Elektronikplatine, die in Brandmeldern verwendet wird.
+    .desc = Eine Elektronikplatine für Brandmelder.

@@ -1,7 +1,7 @@
 ent-ShrapnelPayload = Nutzlast Schrapnell
 
 ent-ChemicalPayload = chemische Nutzlast
-    .desc = Eine chemische Nutzlast. Hat Platz, um zwei Becherglas zu speichern. In Kombination mit einem Auslöser und einem Fall kann dies verwendet werden, um chemische Reaktionen einzuleiten.
+    .desc = Eine chemische Nutzlast. Bietet Platz für zwei Bechergläser. In Kombination mit einem Auslöser und einer Zündschnur kann sie chemische Reaktionen auslösen.
 
 ent-FlashPayload = Flash Nutzlast
-    .desc = Eine Single-Use Flash Nutzlast.
+    .desc = Eine Einweg-Blitz-Nutzlast.

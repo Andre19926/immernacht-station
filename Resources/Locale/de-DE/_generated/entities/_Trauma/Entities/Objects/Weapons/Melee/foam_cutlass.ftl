@@ -1,2 +1,2 @@
 ent-RealFoamCutlass = Schaumschneider
-    .desc = Cosplay als Pirat und zwinge deine Freunde, die Planke zu gehen.
+    .desc = Verkleide dich als Pirat und zwing deine Freunde, über die Planke zu gehen.

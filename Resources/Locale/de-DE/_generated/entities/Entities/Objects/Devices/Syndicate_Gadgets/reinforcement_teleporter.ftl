@@ -1,17 +1,17 @@
 ent-ReinforcementRadioSyndicate = Syndicate-Verstärkungsfunk
-    .desc = Rufe sofort einen Syndicate-Agenten von fragwürdiger Qualität an!
+    .desc = Ruf sofort einen Syndicate-Agenten fragwürdiger Qualität herbei!
 
 ent-ReinforcementRadioSyndicateNukeops = Nukleares Funkgerät
-    .desc = Rufe sofort einen Atomagenten von fragwürdiger Qualität herbei! Die Basisausrüstung für Atomagenten ist enthalten.
+    .desc = Ruf sofort einen Atomagenten fragwürdiger Qualität herbei! Die Basisausrüstung für Atomagenten ist enthalten.
 
 ent-ReinforcementRadioSyndicateAncestor = Syndicate genetische Vorfahren Verstärkung Radio
-    .desc = Ruft einen speziell ausgebildeten Vorfahren deiner Wahl an, um dir zu helfen.
+    .desc = Ruft einen speziell ausgebildeten Vorfahren deiner Wahl herbei, der dir hilft.
 
 ent-ReinforcementRadioSyndicateAncestorNukeops = Syndicate genetische Vorfahren Verstärkung Radio
-    .desc = Ruft einen speziell ausgebildeten Vorfahren deiner Wahl an, um dir zu helfen.
+    .desc = Ruft einen speziell ausgebildeten Vorfahren deiner Wahl herbei, der dir hilft.
 
 ent-ReinforcementRadioSyndicateSyndiCat = Syndicat-Verstärkungsfunk
-    .desc = Ruft eine treu ausgebildete Katze mit einer Mikrobombe an, um dir zu helfen.
+    .desc = Ruft eine treu ergebene Katze mit einer Mikrobombe herbei, die dir hilft.
 
 ent-ReinforcementRadioSyndicateCyborgAssault = Syndicate-Angriffs-Cyborg-Verstärkungsradio
-    .desc = Rufe einen gut bewaffneten Angriff Cyborg, sofort!
+    .desc = Ruf sofort einen gut bewaffneten Angriffs-Cyborg herbei!

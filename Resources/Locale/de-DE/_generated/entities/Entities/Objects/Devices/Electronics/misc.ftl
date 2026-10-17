@@ -1,2 +1,2 @@
 ent-FreezerElectronics = Gefrierelektronik
-    .desc = Eine Elektronikplatine, die in Gefrierschränken verwendet wird.
+    .desc = Eine Elektronikplatine für Gefrierschränke.

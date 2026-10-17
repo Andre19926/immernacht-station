@@ -1,2 +1,2 @@
 ent-IntercomElectronics = Intercom-Elektronik
-    .desc = Eine Elektronikplatine, die in Sprechanlagen verwendet wird.
+    .desc = Eine Elektronikplatine für Gegensprechanlagen.

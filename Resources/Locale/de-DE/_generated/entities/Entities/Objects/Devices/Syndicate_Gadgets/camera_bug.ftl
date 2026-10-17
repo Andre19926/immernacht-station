@@ -1,2 +1,2 @@
 ent-CameraBug = Kamerafehler
-    .desc = Ein illegales syndikatgerät, mit dem sie sich in das kameranetzwerk der station hacken können.
+    .desc = Ein illegales Syndicate-Gerät, mit dem man sich in das Kameranetzwerk der Station hacken kann.

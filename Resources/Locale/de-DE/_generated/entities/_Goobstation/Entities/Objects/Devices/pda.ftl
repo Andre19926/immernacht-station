@@ -38,7 +38,7 @@ ent-InspectorPDA = PDA des Auditors
     .desc = Der Teufel steckt im Detail.
 
 ent-SyndiPDANukie = Syndicate PDA
-    .desc = Ok, zeit, ein produktives mitglied von oh cool, ich bin ein böser kerl zeit, um menschen zu töten.
+    .desc = Ok, Zeit, ein produktives Mitglied von ... oh cool, ich bin ein böser Kerl, Zeit, Leute zu töten.
 
 ent-HighCommandPDA = Hochkommandant PDA
     .desc = Ein gewöhnliches Syndicate PDA, geschmückt mit vergoldeten Symbolen. Sein Besitzer ist eindeutig von einer höheren Stellung.
