@@ -5,16 +5,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-effect-condition-guidebook-has-component =
-    the target { $invert ->
+    das Ziel { $invert ->
                  [true] ist nicht
                  *[false] ist
                 } {$comp}
 
 reagent-effect-guidebook-drop-items =
     { $chance ->
-        [1] Kräfte
-        *[other] Kraft
-    } zu Drop Holded Items
+        [1] Zwingt
+        *[other] zwingen
+    } dazu, gehaltene Gegenstände fallen zu lassen
 
 reagent-name-thick-smoke = dicker Rauch
 reagent-desc-thick-smoke = Extrem dichter Rauch mit magischen Eigenschaften. Du willst ihn nicht einatmen.
