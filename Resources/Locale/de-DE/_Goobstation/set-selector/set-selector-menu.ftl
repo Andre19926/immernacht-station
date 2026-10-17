@@ -1,10 +1,10 @@
-set-selector-window-title = unbestimmte Mengenauswahl
+set-selector-window-title = Set-Auswahl
 
 set-selector-window-description =
-    Im Inneren sind deine Werkzeuge des Handels, und sie werden bereit sein, sobald du bist.
-    Choose {$maxCount ->
-        [1] ein Satz
-        *[other] {$maxCount} verschiedene Sätze
+    Darin befinden sich deine Arbeitsmittel, und sie sind bereit, sobald du es bist.
+    Wähle {$maxCount ->
+        [1] ein Set
+        *[other] {$maxCount} verschiedene Sets
     } aus der Liste.
 
 set-selector-window-selected = Ausgewählte Sets: ({$selectedCount}/{$maxCount})
