@@ -1,5 +1,5 @@
 ent-DoorElectronicsWizard = Türelektronik
-    .desc = Eine Elektronikplatine in Türen und Luftschleuse verwendet.
+    .desc = Eine Elektronikplatine, die in Türen und Luftschleusen verwendet wird.
 
 ent-AirlockUranium = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.

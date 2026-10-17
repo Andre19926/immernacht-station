@@ -5,7 +5,7 @@ ent-CleanerGrenade = Reiniger
     .desc = Spezielle Granate für Hausmeister, die große Wolke von Weltraumreinigerschaum freisetzt.
 
 ent-TearGasGrenade = Tränengasgranaten
-    .desc = Eine riot control Tränengasgranate. Verursacht Irritationen, Schmerzen und lässt dich deine Augen ausschreien.
+    .desc = Eine Tränengasgranate zur Aufstandsbekämpfung. Verursacht Reizungen, Schmerzen und lässt dich die Augen aus dem Kopf schreien.
 
 ent-MetalFoamGrenade = Metallschaumgranaten
     .desc = Ein Notfallwerkzeug zum Patchen von Rumpfverletzungen mit speziellem schnell eingestelltem Metallschaum. Fast so gut wie echte Böden!

@@ -46,7 +46,7 @@ ent-BorgModuleCleaning = Reinigungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
 ent-BorgModuleAdvancedCleaning = Fortgeschrittenes Reinigungs-Cyborg-Modul
-    .desc = Fortgeschrittenes Hausmeistermodul mit, naja... fortgeschrittener Hausmeisterausrüstung. Was hast du erwartet?
+    .desc = Fortgeschrittenes Hausmeistermodul mit, naja ... fortgeschrittener Hausmeisterausrüstung. Was hast du erwartet?
 
 ent-BorgModuleDiagnosis = Diagnose-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.

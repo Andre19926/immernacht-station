@@ -92,7 +92,7 @@ ent-MaterialSmileExtract = Lächelnextrakt
     .desc = Es ist ein echtes Allheilmittel. Aber zu welchen Kosten?
 
 ent-FoodMeatCooked = Steak
-    .desc = Eine gekochte Fleischplatte. riecht primal.
+    .desc = Eine gekochte Fleischplatte. Riecht urtümlich.
 
 ent-FoodMeatBaconCooked = Speck
     .desc = Ein leckeres Stück gekochten Speck.
@@ -110,7 +110,7 @@ ent-FoodMeatChickenFried = gebratenes Huhn
     .desc = Ein saftiges Stück Hühnerfleisch, perfekt gebraten.
 
 ent-FoodMeatChickenFriedVox = Mysteriöses gebratenes Huhn
-    .desc = "Elf geheime Kräuter und ... oh nein." Das ist kein Huhn.
+    .desc = „Elf geheime Kräuter und ... oh nein.“ Das ist kein Huhn.
 
 ent-FoodMeatDuckCooked = gekochte Ente
     .desc = Ein gekochtes Stück Ente. Am besten in anderen Rezepten verwendet.
@@ -131,7 +131,7 @@ ent-FoodMeatSpiderlegCooked = Gekochtes Spinnenbein
     .desc = Ein riesiges Spinnenbein, das immer noch zuckt, nachdem es gekocht wurde. Brutto!
 
 ent-FoodMeatMeatballCooked = Fleischbällchen
-    .desc = Ein gekochter Fleischball. Perfekt, um andere Gerichte hinzuzufügen ... außer fruchtigen.
+    .desc = Ein gekochtes Fleischbällchen. Perfekt als Zutat für andere Gerichte ... außer fruchtige.
 
 ent-FoodMeatPattyCooked = gekochte Fleischpastete
     .desc = Eine gekochte Fleischpastete.

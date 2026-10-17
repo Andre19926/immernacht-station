@@ -2,46 +2,46 @@ ent-ClothingUniformJumpsuitMilitaryColorGrey = Militäruniform (grau)
     .desc = Ein geschmackvoller grauer Overall, der dich an die guten alten Zeiten erinnert.
 
 ent-ClothingUniformJumpsuitMilitaryColorBlack = Militäruniform (schwarz)
-    .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.
+    .desc = Ein generischer Overall in Schwarz ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorBlue = Uniform (blau, Militär)
-    .desc = Ein generisches Blau Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Blau ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorDarkBlue = Uniform (dunkelblau, Militär)
-    .desc = Ein generischer dunkelblauer Uniform ohne rangmarkierungen.
+    .desc = Ein generischer Overall in Dunkelblau ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorTeal = Uniform (türkis, Militär)
-    .desc = Ein generisches teal Uniform ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Türkis ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorGreen = Uniform (grün, Militär)
-    .desc = Ein generisches Grün Uniform ohne Rang warum.
+    .desc = Ein generischer Overall in Grün ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorDarkGreen = Uniform (dunkelgrün, Militär)
-    .desc = Ein generisches dunkles Grün Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Dunkelgrün ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorOrange = Uniform (orange, Militär)
-    .desc = Ein generisches Orange Uniform ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Orange ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorPink = Uniform (rosa, Militär)
-    .desc = Ein generischer rosaer Uniform ohne rangmarkierungen.
+    .desc = Ein generischer Overall in Rosa ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorRed = Uniform (rot, Militär)
     .desc = Eine schlichte rote Uniform ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorYellow = Uniform (gelb, Militär)
-    .desc = Ein generisches Gelb Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Gelb ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorPurple = Uniform (lila, Militär)
-    .desc = Ein generisches Purpur Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Purpur ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorLightBrown = Uniform (hellbraun, Militär)
     .desc = Ein allgemeines braunes gesamt mit keine rangmarken.
 
 ent-ClothingUniformJumpsuitMilitaryColorBrown = Uniform (braun, Militär)
-    .desc = Ein generisches Braun Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Braun ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorMaroon = Uniform (kastanienbraun, Militär)
-    .desc = Eine generische Maroon Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Kastanienbraun ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryContractor = Auftragnehmeruniform
     .desc = Ein robustes Uniform, das üblicherweise an NT-Auftragnehmer ausgegeben wird.

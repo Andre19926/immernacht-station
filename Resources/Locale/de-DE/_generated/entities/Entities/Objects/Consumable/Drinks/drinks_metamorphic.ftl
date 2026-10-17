@@ -182,7 +182,7 @@ ent-DrinkHippiesDelightGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.
 
 ent-DrinkHoochGlass = metamorphes Glas
-    .desc = Du hast jetzt wirklich den Tiefpunkt erreicht ... deine Leber hat ihre Taschen gepackt und ist letzte Nacht gegangen.
+    .desc = Du hast jetzt wirklich den Tiefpunkt erreicht ... Deine Leber hat ihre Sachen gepackt und ist letzte Nacht gegangen.
 
 ent-DrinkIcedCoffeeGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.

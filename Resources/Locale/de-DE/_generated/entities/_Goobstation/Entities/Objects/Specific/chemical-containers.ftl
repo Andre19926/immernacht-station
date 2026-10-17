@@ -1,8 +1,8 @@
 ent-JugSalicylicAcid = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugOxandrolone = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugHolyWater = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.

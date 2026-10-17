@@ -38,7 +38,7 @@ ent-FoodMealBearsteak = Filet-Migrawr
     .desc = Weil Bärenessen nicht männlich genug war.
 
 ent-FoodMealPigblanket = Schwein in einer Decke
-    .desc = Eine winzige Wurst, eingewickelt in eine flakey, buttery roll. Befreie dieses Schwein aus seinem Deckengefängnis, indem du es isst.
+    .desc = Eine winzige Wurst, eingewickelt in ein blättriges, butteriges Brötchen. Befreie dieses Schwein aus seinem Deckengefängnis, indem du es isst.
 
 ent-FoodMealRibs = bbq-Rippen
     .desc = BBQ-Rippen, in einer gesunden BBQ-Sauce überzogen. Die am wenigsten vegane Sache, die es je gab.

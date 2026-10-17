@@ -99,7 +99,7 @@ ent-ClothingUniformJumpsuitHoSParadeMale = Paradeuniform des Sicherheitschefs
     .desc = Ein männlicher Leiter der Sicherheits-Luxus-Bekleidung, für besondere Anlässe.
 
 ent-ClothingUniformJumpsuitCommandGeneric = Führungsuniform
-    .desc = Ein generisches Command-colored Uniform, das nicht mit einer bestimmten Abteilung verbunden ist.
+    .desc = Eine generische Uniform in Kommandofarben, die keiner bestimmten Abteilung zugeordnet ist.
 
 ent-ClothingUniformJumpsuitHydroponics = Botaniker-Arbeitskleidung
     .desc = Hat einen starken erdigen Geruch. Hoffentlich ist es nur schmutzig im Gegensatz zu verschmutzt.
@@ -260,7 +260,7 @@ ent-ClothingUniformJumpsuitERTMedic = ERT medizinische Uniform
     .desc = Ein Spezialanzug für die Elite Sanitäter unter CentComm.
 
 ent-ClothingUniformJumpsuitERTSecurity = ERT-Sicherheitseinheit
-    .desc = Ein spezieller anzug für die elite-sicherheit unter centcomm.
+    .desc = Ein spezieller Anzug für die Elite-Sicherheit unter CentComm.
 
 ent-ClothingUniformJumpsuitCluwne = Cluwne-Anzug
     .desc = Verfluchter Cluwne-Anzug.

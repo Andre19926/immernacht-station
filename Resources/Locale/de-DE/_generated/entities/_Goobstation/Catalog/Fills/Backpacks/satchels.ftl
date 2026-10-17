@@ -1,11 +1,11 @@
 ent-ClothingBackpackSatchelLeatherFilledNavyOfficer = Leder-Umhängetasche
-    .desc = Ein richtungsweisender Satchel aus einer vergangenen Ära.
+    .desc = Eine wegweisende Umhängetasche aus vergangener Zeit.
 
 ent-ClothingBackpackSatchelLeatherFilledSpecOps = Leder-Umhängetasche
-    .desc = Ein richtungsweisender Satchel aus einer vergangenen Ära.
+    .desc = Eine wegweisende Umhängetasche aus vergangener Zeit.
 
 ent-ClothingBackpackChameleonFilledUndercover = Rucksack
     .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
 
 ent-ClothingBackpackSatchelLeatherFilledInspector = Leder-Umhängetasche
-    .desc = Ein richtungsweisender Satchel aus einer vergangenen Ära.
+    .desc = Eine wegweisende Umhängetasche aus vergangener Zeit.

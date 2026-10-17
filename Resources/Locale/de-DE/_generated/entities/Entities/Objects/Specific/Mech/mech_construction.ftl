@@ -14,19 +14,19 @@ ent-RipleyRArm = Ripley-Rechterarm
     .desc = Der rechte Arm des Ripley APLU. Es gehört auf das Chassis des Mech.
 
 ent-HonkerHarness = H.O.N.K.-Rumpf
-    .desc = Der Kern des H.O.N.K. mech
+    .desc = Der Kern des H.O.N.K.-Mechs.
 
 ent-HonkerLArm = H.O.N.K.-Linkerarm
-    .desc = Ein H.O.N.K. linker Arm, mit einzigartigen Steckdosen, die von Clown-Wissenschaftlern entworfene seltsame Waffen akzeptieren.
+    .desc = Ein linker Arm für den H.O.N.K. mit einzigartigen Anschlüssen, die von Clown-Wissenschaftlern entworfene, seltsame Waffen aufnehmen.
 
 ent-HonkerLLeg = H.O.N.K.-Linkes Bein
-    .desc = Ein H.O.N.K. linkes Bein. Der Fuß erscheint gerade groß genug, um einen Clownschuh vollständig unterzubringen.
+    .desc = Ein linkes Bein für den H.O.N.K. Der Fuß scheint gerade groß genug, um einen Clownschuh vollständig aufzunehmen.
 
 ent-HonkerRLeg = H.O.N.K.-Rechtes Bein
-    .desc = Ein H.O.N.K. rechtes Bein. Der Fuß erscheint gerade groß genug, um einen Clownschuh vollständig unterzubringen.
+    .desc = Ein rechtes Bein für den H.O.N.K. Der Fuß scheint gerade groß genug, um einen Clownschuh vollständig aufzunehmen.
 
 ent-HonkerRArm = H.O.N.K.-Rechterarm
-    .desc = Ein H.O.N.K. rechter Arm mit einzigartigen Steckdosen, die seltsame Waffen akzeptieren, die von Clownwissenschaftlern entworfen wurden.
+    .desc = Ein rechter Arm für den H.O.N.K. mit einzigartigen Anschlüssen, die von Clown-Wissenschaftlern entworfene, seltsame Waffen aufnehmen.
 
 ent-HamtrHarness = HAMTR-Rumpf
     .desc = Der Kern des HAMTR.

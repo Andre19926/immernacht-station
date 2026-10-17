@@ -1,5 +1,5 @@
 ent-RMCContainerBlueLeft = Frachtcontainer
-    .desc = Ein riesiger
+    .desc = Ein riesiger Container.
 
 ent-RMCContainerBlueMiddle = Frachtcontainer
     .desc = Ein riesiger

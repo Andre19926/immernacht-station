@@ -8,7 +8,7 @@ ent-FoodNoodlesCopy = Copypasta
     .desc = Du solltest das wahrscheinlich nicht versuchen, du hörst immer Leute darüber reden, wie schlimm es ist ...
 
 ent-FoodNoodlesMeatball = Spaghetti und Fleischbällchen
-    .desc = Nun, das ist ein nice-a meatball!
+    .desc = Nun, das ist ein nice-a Meatball!
 
 ent-FoodNoodlesSpesslaw = Spesslaw
     .desc = Der Favorit eines Anwalts.

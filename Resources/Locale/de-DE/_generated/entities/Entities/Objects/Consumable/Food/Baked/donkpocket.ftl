@@ -32,7 +32,7 @@ ent-FoodDonkpocketHonk = Honk-pocket
     .desc = Der preisgekrönte Donk-Pocket, der die Herzen von Clowns und Menschen gleichermaßen gewonnen hat.
 
 ent-FoodDonkpocketHonkWarm = warme Honktasche
-    .desc = Die preisgekrönte Donk-Tasche, jetzt warm und toasty.
+    .desc = Die preisgekrönte Donk-Tasche, jetzt warm und knusprig.
 
 ent-FoodDonkpocketBerry = Beeren-Pocket
     .desc = Eine unerbittlich süße Donk-Tasche. Hergestellt mit 100% künstlichem Aroma.

@@ -17,10 +17,10 @@ ent-ClothingNeckGangTophat6 = Gang Tophat
     .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
 
 ent-ClothingShoesGangDameDane = Gang Yakuza Schuhe
-    .desc = Endlich... die Farben deiner Gang zeigen sich endlich.
+    .desc = Endlich ... die Farben deiner Gang kommen zum Vorschein.
 
 ent-ClothingOuterGangDameDane = Gang Yakuza
-    .desc = Freitag... im Stil deiner Gang.
+    .desc = Freitag ... im Stil deiner Gang.
 
 ent-ClothingUniformGangDameDane = Gang Yakuza Outfit
-    .desc = Baka Mitai... in den Farben deiner Gang gekleidet.
+    .desc = Baka mitai ... gekleidet in den Farben deiner Gang.

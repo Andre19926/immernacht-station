@@ -38,49 +38,49 @@ ent-SodiumLightTube = Natriumlichtröhre
     .desc = Eine High Power High Energy Birne für die Tiefen des Weltraums. Salzig.
 
 ent-LightTubeCrystalCyan = Cyankristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalBlue = blaue Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalYellow = gelbe Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalPink = rosa Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalOrange = orange Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalBlack = schwarze Kristalllichtröhre
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat. Es ist nicht sehr hell.
 
 ent-LightTubeCrystalRed = rote Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightTubeCrystalGreen = grüne Kristalllichtröhre
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalCyan = Cyankristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalBlue = blaue Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalYellow = Gelbe Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalPink = rosafarbene Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalOrange = orangefarbene Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalBlack = Schwarze Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat. Es ist nicht sehr hell.
 
 ent-LightBulbCrystalRed = rote Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.
 
 ent-LightBulbCrystalGreen = Grüne Kristalllampe
-    .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
+    .desc = Eine leistungsstarke Hochenergie-Glühbirne mit einem kleinen farbigen Kristall im Inneren.

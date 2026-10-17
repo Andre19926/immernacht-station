@@ -2,4 +2,4 @@ ent-ShardCrystalStyptic = Styptische Kristallscherbe
     .desc = Ein kleines Stück Kristall.
 
 ent-FoodMeatSynth = Synthiefleisch
-    .desc = Künstliches Stück ... synthetisches Fleisch? Kann es sogar gekocht werden? Es ist besser, es nicht zu essen.
+    .desc = Künstlich erzeugtes Stück ... synthetisches Fleisch? Lässt es sich überhaupt kochen? Besser nicht essen.

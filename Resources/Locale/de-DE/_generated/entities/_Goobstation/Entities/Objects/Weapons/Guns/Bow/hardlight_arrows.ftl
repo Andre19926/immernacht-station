@@ -20,4 +20,4 @@ ent-ArrowBee = Bienenpfeil
     .desc = Ein Pfeil aus hartem Licht. Dieser beschwört wütende Bienen.
 
 ent-ArrowIon = Ionenpfeil
-    .desc = Ein Pfeil aus Hardlight. verursacht EMP beim Treffer.
+    .desc = Ein Pfeil aus Hartlicht. Verursacht beim Treffer einen EMP.

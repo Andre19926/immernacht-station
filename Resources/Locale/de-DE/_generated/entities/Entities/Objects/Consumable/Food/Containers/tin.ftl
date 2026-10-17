@@ -1,14 +1,14 @@
 ent-FoodTinPeaches = Pfirsiche in Dosen
-    .desc = Nur eine schöne Dose reife Pfirsiche schwimmen in ihren eigenen Säften.
+    .desc = Einfach eine schöne Dose reifer Pfirsiche, die in ihrem eigenen Saft schwimmen.
 
 ent-FoodTinPeachesTrash = Pfirsiche in Dosen
     .desc = Eine leere Dose. Könnte ein bisschen Metall daraus bekommen.
 
 ent-FoodTinPeachesMaint = Unterhaltspfirsiche
-    .desc = Nur eine schöne Dose reife Pfirsiche schwimmen in ihren eigenen Säften.
+    .desc = Einfach eine schöne Dose reifer Pfirsiche, die in ihrem eigenen Saft schwimmen.
 
 ent-FoodTinPeachesMaintOpen = Unterhaltspfirsiche
-    .desc = Nur eine schöne Dose reife Pfirsiche schwimmen in ihren eigenen Säften.
+    .desc = Einfach eine schöne Dose reifer Pfirsiche, die in ihrem eigenen Saft schwimmen.
 
 ent-FoodTinPeachesMaintTrash = Unterhaltspfirsiche
     .desc = Eine leere Dose. Könnte ein bisschen Metall daraus bekommen.

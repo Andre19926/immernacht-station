@@ -1,5 +1,5 @@
 ent-CartridgeRocket = PG-7VL Granate
-    .desc = Ein 1,5er Gefechtskopf für den RPG-7-Trägerraketen. hat eine rohrförmige Form.
+    .desc = Ein 1,5er Gefechtskopf für den RPG-7-Raketenwerfer. Hat eine röhrenförmige Gestalt.
 
 ent-CartridgeRocketSlow = PG-7VL Granate "Snail-Rocket"
     .desc = Ein 1,5er Gefechtskopf für den RPG-7-Trägerraketen. Es ist ungewöhnlich langsam.

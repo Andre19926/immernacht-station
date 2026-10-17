@@ -10,7 +10,7 @@ ent-ClothingModsuitGauntletsParamedic = Sanitater Modsuit Gauntlets
     .desc = Schwarz-weiße modulare Anzughandschuhe zum Greifen von Percs und Patienten fest.
 
 ent-ClothingModsuitGauntletsHeadOfSecurity = bulwark Modsuit gauntlets Ubersetzungen
-    .desc = Robuste modulare Anzughandschuhe zum Festhalten von Perpen und Waffen. isoliert.
+    .desc = Robuste modulare Anzughandschuhe, um Verbrecher und Waffen fest im Griff zu halten. Isoliert.
 
 ent-ClothingModsuitGauntletsEngineer = Sapper Modsuit Gauntlets
     .desc = Ölbefleckte modulare Anzughandschuhe zum einfachen Drücken von Tasten auf einem RCD.
@@ -22,7 +22,7 @@ ent-ClothingModsuitGauntletsResearchDirector = Minerva Modsuit Gauntlets
     .desc = Um deine Ziffern bei 10 zu halten, nachdem das Artefakt thermonuklear auf dich geht.
 
 ent-ClothingModsuitGauntletsCaptain = Magnat-MODsuit-Handschuhe
-    .desc = Hat spezielle Rillen und Schnitte für das Halten dat fukn diiisskk einfacher.
+    .desc = Hat spezielle Rillen und Aussparungen, damit sich dieses verdammte Diskettenteil leichter halten lässt.
 
 ent-ClothingModsuitGauntletsBrigMed = Trauma Modsuit Gauntlets
     .desc = Kühle Handschuhe.

@@ -44,7 +44,7 @@ ent-DrinkTeaJug = Teekanne
     .desc = Das Getränk der Wahl für die Bri'ish und Hipster.
 
 ent-DrinkGreenTeaJug = Grüner Teekrug
-    .desc = Es ist wie Tee ... aber grün! Toll, um den Magen zu beruhigen.
+    .desc = Er ist wie Tee ... aber grün! Perfekt, um den Magen zu beruhigen.
 
 ent-DrinkIcedTeaJug = Eistee-Kanister
     .desc = Denn wenn der normale Tee zu heiß für dich ist. Boohoo.

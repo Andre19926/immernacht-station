@@ -15,7 +15,7 @@ ent-TrackingImplanter = Tracking-Implantator
     .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
 
 ent-StorageImplanter = Speicher-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten ausgelegt ist. Schrubbe sie nach dem Gebrauch mit Seife ab, um restliche DNA zu entfernen!
 
 ent-FreedomImplanter = Freiheits-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!

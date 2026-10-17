@@ -56,10 +56,10 @@ ent-WeaponAdvancedLaser = Laserpistole
     .desc = Eine experimentelle Laserpistole mit einer selbstaufladenden Kernbatterie.
 
 ent-WeaponPistolCHIMP = C.H.I.M.P. Handkanone
-    .desc = Nur weil es ein wenig C.H.I.M.P. ist, heißt das nicht, dass es nicht wie ein A.P.E. schlagen kann.
+    .desc = Nur weil sie ein bisschen C.H.I.M.P. ist, heißt das nicht, dass sie nicht wie ein A.P.E. zuschlagen kann.
 
 ent-WeaponPistolCHIMPUpgraded = experimentelle C.H.I.M.P. Handkanone
-    .desc = Diese C.H.I.M.P. scheint einen größeren Schlag zu haben als gewöhnlich...
+    .desc = Dieser C.H.I.M.P. scheint einen stärkeren Schlag zu haben als gewöhnlich ...
 
 ent-WeaponBehonkerLaser = Auge eines Behonkers
     .desc = Das Auge eines Behonkers, es feuert einen Laser, wenn es zusammengedrückt wird.

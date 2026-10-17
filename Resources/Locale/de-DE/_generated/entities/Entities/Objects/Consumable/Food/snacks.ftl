@@ -5,7 +5,7 @@ ent-FoodSnackCnDs = C&D
     .desc = Rechtlich gesehen können wir nicht sagen, dass diese nicht in deinen Händen schmelzen werden.
 
 ent-FoodSnackCheesie = cheesie Honkers
-    .desc = Angebliche cheesie-snacks, die überall in ihrem mund horchen.
+    .desc = Angebliche Käsesnacks, die überall in deinem Mund herumhorchen.
 
 ent-FoodSnackChips = Chips
     .desc = Commander Rikers „Was-zum-Crisps“.
@@ -116,7 +116,7 @@ ent-FoodPacketDanDanTrash = leere Dan Dan Box
     .desc = Das ist Unsinn.
 
 ent-FoodCookieFortune = Cookie Vermögen
-    .desc = Das Glück liest: Das Ende ist nahe ... und es ist alles deine Schuld.
+    .desc = Das Glück sagt: Das Ende ist nah ... und es ist alles deine Schuld.
 
 ent-FoodPacketMRETrash = MRE-Umschlag
     .desc = Ein Allzweck-Wrapper für eine Vielzahl von militärischen Lebensmitteln.

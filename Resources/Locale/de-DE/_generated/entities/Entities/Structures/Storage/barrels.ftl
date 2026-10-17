@@ -26,10 +26,10 @@ ent-BarrelChemFilledLube = Chemisches Barrel
     .desc = Slippery ...
 
 ent-BaseBarrelChemRadioactiveEmpty = radioaktives Fass
-    .desc = Es scheint ein wenig zu sein undicht. Ich glaube nicht, dass du so lange dabei sein willst.
+    .desc = Es scheint ein wenig undicht zu sein. Ich glaube nicht, dass du so lange dabeibleiben willst.
 
 ent-BaseBarrelChemRadioactiveFilledRadium = radioaktives Fass
-    .desc = Es scheint ein wenig zu sein undicht. Ich glaube nicht, dass du so lange dabei sein willst.
+    .desc = Es scheint ein wenig undicht zu sein. Ich glaube nicht, dass du so lange dabeibleiben willst.
 
 ent-BaseBarrelChemRadioactiveFilledUranium = radioaktives Fass
-    .desc = Es scheint ein wenig zu sein undicht. Ich glaube nicht, dass du so lange dabei sein willst.
+    .desc = Es scheint ein wenig undicht zu sein. Ich glaube nicht, dass du so lange dabeibleiben willst.

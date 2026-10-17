@@ -1,5 +1,5 @@
 ent-BlueshieldOfficerLockerTeleporter = Blueshield Spind Teleporter
-    .desc = Gerät, mit dem sie die lieferung von blueshield officer spind anfordern können.
+    .desc = Ein Gerät, mit dem sich die Lieferung eines Blueshield-Officer-Spinds anfordern lässt.
 
 ent-UniqueBlueshieldOfficerLockerTeleporter = Blueshield Spind Teleporter
     .desc = Gerät, mit dem sie die lieferung von blueshield officer spind anfordern können.

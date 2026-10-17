@@ -47,7 +47,7 @@ ent-VendingMachineRestockPTech = PTech-Nachfüllbox
     .desc = All die Bürokratie, mit der du umgehen kannst, und mehr! Lade in den PTech-Automaten, um zu beginnen.
 
 ent-VendingMachineRestockRobustSoftdrinks = beverage-Nachfüllbox
-    .desc = Ein riesiger, kolossaler Container, in dem es hin und her geht. Ausschließlich im Auftrag von „Deal d’Azur hin.
+    .desc = Ein kalter, klobiger Container voller aneinanderstoßender, kühler Zylinder. Nur nach Anweisung von Robust Industries, LLC verwenden.
 
 ent-VendingMachineRestockSecTech = SecTech-Nachfüllbox
     .desc = Die Kommunisten hüten sich: Die Verstärkungen sind angekommen! Ein Label liest nur SECURITY PERSONNEL.

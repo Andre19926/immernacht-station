@@ -1,17 +1,17 @@
 ent-ParticleAcceleratorEmitterPort = PA Port Containment Emitter
-    .desc = Dies startet die Alpha-Teilchen, die vielleicht nicht in der Nähe dieses Endes stehen wollen.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende.
 
 ent-ParticleAcceleratorEmitterFore = PA Vorcontainment-Emitter
-    .desc = Dies startet die Alpha-Teilchen, die vielleicht nicht in der Nähe dieses Endes stehen wollen.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende.
 
 ent-ParticleAcceleratorEmitterStarboard = PA Steuerbord-Einhaltungsemitter
-    .desc = Dies startet die Alpha-Teilchen, die vielleicht nicht in der Nähe dieses Endes stehen wollen.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende.
 
 ent-ParticleAcceleratorEmitterPortUnfinished = PA Port Containment Emitter
-    .desc = Dies startet die Alpha-Teilchen, möchte vielleicht nicht in der Nähe dieses Endes stehen. Es sieht unvollendet aus.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende. Es sieht unfertig aus.
 
 ent-ParticleAcceleratorEmitterForeUnfinished = PA Vorcontainment-Emitter
-    .desc = Dies startet die Alpha-Teilchen, möchte vielleicht nicht in der Nähe dieses Endes stehen. Es sieht unvollendet aus.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende. Es sieht unfertig aus.
 
 ent-ParticleAcceleratorEmitterStarboardUnfinished = PA Steuerbord-Einhaltungsemitter
-    .desc = Dies startet die Alpha-Teilchen, möchte vielleicht nicht in der Nähe dieses Endes stehen. Es sieht unvollendet aus.
+    .desc = Das hier feuert Alpha-Teilchen ab. Stell dich besser nicht an dieses Ende. Es sieht unfertig aus.

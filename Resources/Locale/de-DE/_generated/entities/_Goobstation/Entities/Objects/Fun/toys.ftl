@@ -41,7 +41,7 @@ ent-PlushieJvne = jvne Plüschtier
     .desc = Es war ein harter Tag...
 
 ent-PlushieFern = Mystische Echse Plüschtier
-    .desc = Du fühlst dich, als ob etwas anderes dich beobachtet ... nur außer Sichtweite, im Schatten.
+    .desc = Du hast das Gefühl, dass dich etwas anderes beobachtet ... knapp außer Sichtweite, im Schatten.
 
 ent-PlushieNigel = hübsches Plüschtier
     .desc = Riecht nach Größe, und ein deutlicher Geruch von adalamin Marke Parfüm?

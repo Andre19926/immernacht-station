@@ -11,7 +11,7 @@ ent-MechHonkerBattery = H.O.N.K.
     .desc = Produziert von "Tyranny of Honk, INC", ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Verwendet, um den Spaß und die Freude des Lebens zu verbreiten. HONK!
 
 ent-MechHamtr = HAMTR
-    .desc = Ein experimentelles mech, das eine gehirn-computer-schnittstelle verwendet, um sich direkt mit einem hamstergehirn zu verbinden.
+    .desc = Ein experimenteller Mech, der eine Gehirn-Computer-Schnittstelle benutzt, um sich direkt mit einem Hamstergehirn zu verbinden.
 
 ent-MechHamtrBattery = HAMTR
     .desc = Ein experimentelles mech, das eine gehirn-computer-schnittstelle verwendet, um sich direkt mit einem hamstergehirn zu verbinden.

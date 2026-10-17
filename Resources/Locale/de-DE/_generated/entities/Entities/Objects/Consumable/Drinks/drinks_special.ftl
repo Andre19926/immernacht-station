@@ -19,7 +19,7 @@ ent-DrinkJigger = Jigger
     .desc = Wie ein Shaker, aber kleiner. Wird verwendet, um die Menge der Zutaten zu kontrollieren.
 
 ent-Pitcher = Metallkrug
-    .desc = Ein isolierter Pitcher aus Edelstahl. Jeder ist der beste Freund am Morgen.
+    .desc = Eine isolierte Kanne aus Edelstahl. Der beste Freund aller am Morgen.
 
 ent-DrinkShakeBlue = Blauer Milchshake
 

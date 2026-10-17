@@ -35,34 +35,34 @@ ent-CandlePurpleSmall = Kleine lila Kerze
     .desc = Ein dünner Docht durch Fett gefädelt.
 
 ent-CandleInfinite = Zauberkerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleRedInfinite = Magische rote Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleBlueInfinite = Magisch blaue Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleBlackInfinite = Magische schwarze Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleGreenInfinite = Magische grüne Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandlePurpleInfinite = Magische lila Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleRedSmallInfinite = kleine magische rote Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleBlueSmallInfinite = kleine magische blaue Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleBlackSmallInfinite = kleine magische schwarze Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandleGreenSmallInfinite = kleine magische grüne Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.
 
 ent-CandlePurpleSmallInfinite = kleine magische lila Kerze
-    .desc = Es ist entweder magie oder high tech, aber diese kerze geht nie aus. Auf der anderen Seite ist seine Flamme ziemlich kalt.
+    .desc = Ob Magie oder Hightech – diese Kerze geht jedenfalls nie aus. Dafür ist ihre Flamme ziemlich kalt.

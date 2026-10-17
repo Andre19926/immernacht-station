@@ -20,4 +20,4 @@ ent-AutomationFilterMob = Mob-Filter
     .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt Lebewesen und Filter basierend auf lebendigen, kritischen oder toten Zuständen.
 
 ent-AutomationFilterCuff = Manschettenfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt, ob die Leute zurückhaltend sind ... wer hat das gemacht!?
+    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt, ob Leute gefesselt sind ... Wer hat das gebaut!?

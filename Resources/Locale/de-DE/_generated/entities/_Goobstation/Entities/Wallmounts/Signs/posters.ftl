@@ -38,7 +38,7 @@ ent-PosterLegitGoobDurkPlush = Durk-Plüschtier-Werbung
     .desc = Ein Poster mit einer Plüschfigur, die bald an eine Station in deiner Nähe geliefert wird.
 
 ent-PosterLegitGoobWelderBomb = Gefahren von Kraftstofftanks
-    .desc = Ein Poster mit einem undichten Kraftstofftank ... etwas in dir fragt sich, was passiert, wenn man einen Schweißbrenner danebenlegt.
+    .desc = Ein Poster mit einem undichten Kraftstofftank ... etwas in dir fragt sich, was passiert, wenn man einen Schweißbrenner danebenhält.
 
 ent-PosterLegitGoobLokoAdvertisement = 14-Loko-Werbung
     .desc = Ein Poster, das für ein Getränk der Marke 14 Loko wirbt ... beim Anblick bekommst du plötzlich Durst.

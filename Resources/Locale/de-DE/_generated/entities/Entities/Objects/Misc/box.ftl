@@ -1,2 +1,2 @@
 ent-ToteBase = Schaltungstote
-    .desc = Eine große Tote zum Tragen von Platinen.
+    .desc = Eine große Tragetasche für Platinen.

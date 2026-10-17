@@ -1,2 +1,2 @@
 ent-DoorElectronics = Türelektronik
-    .desc = Eine Elektronikplatine in Türen und Luftschleuse verwendet.
+    .desc = Eine Elektronikplatine, die in Türen und Luftschleusen verwendet wird.

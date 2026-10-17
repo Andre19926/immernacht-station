@@ -20,7 +20,7 @@ ent-RMCPropVehicleCargoCraneDestroyed = Frachtkran
     .desc = Ein Kran zum Be- und Entladen von Fracht.
 
 ent-RMCPropVehicleCrawler = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein kettengetriebener Crawler für raue Bedingungen. Geliefert von Orbital Blue International; „Deine Freunde im Luft- und Raumfahrtgeschäft.“ Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCovered = Colony Crawler
     .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.

@@ -1,26 +1,26 @@
 ent-RMCOverheadRoadsign = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsign2 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsign3 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsign4 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsignAlt1 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsignAlt2 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsignAlt3 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadRoadsignAlt4 = Straßenschild
-    .desc = Ein Road Schild.
+    .desc = Ein Straßenschild.
 
 ent-RMCOverheadBillboardBigger1 = Billboard
     .desc = Eine Werbetafel.

@@ -1,5 +1,5 @@
 ent-WheatBushel = Weizenbuscheln
-    .desc = Seufzer... Weizen... a-Korn?
+    .desc = Einige blutgetränkte Weizenhalme. Du kannst sie zu etwas zerdrücken, das mit viel Fantasie als Fleisch durchgeht.
 
 ent-MeatwheatBushel = Fleischweizen-Buschel
     .desc = Einige blutgetränkte Weizenstiele. Du kannst sie in das zerquetschen, was für Fleisch gilt, wenn du hart genug schielst.

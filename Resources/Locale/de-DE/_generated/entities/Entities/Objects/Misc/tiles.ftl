@@ -323,7 +323,7 @@ ent-FloorTileItemDarkMarble = dunkle Marmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Am besten nicht verlieren.
 
 ent-FloorTileItemPlasmaMarble = Plasmamarmorkachel
-    .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Plasma-infundiert für extra ... etwas.
+    .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Weltraummarmors. Mit Uran angereichert, damit es extra rad ist! Wortspiel beabsichtigt!
 
 ent-FloorTileItemUraniumMarble = Uran-Marmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Uran-infundiert, um es extra rad zu machen! Pun beabsichtigt!

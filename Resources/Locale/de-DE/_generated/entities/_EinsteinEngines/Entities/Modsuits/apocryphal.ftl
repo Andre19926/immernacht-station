@@ -2,7 +2,7 @@ ent-ClothingModsuitApocryphal = Apokryphe Modsuit-Kontrolleinheit
     .desc = Der Hauptcontroller für einen apokryphen Modsuit.
 
 ent-ClothingModsuitGauntletsApocryphal = Apokryphe Modsuit Gauntlets
-    .desc = Ein paar gauntlets für den apokryphen modsuit gemacht.
+    .desc = Ein Paar Handschuhe, gefertigt für den apokryphen Modsuit.
 
 ent-ClothingModsuitHelmetApocryphal = Apokrypher Modsuit Helm
     .desc = Ein modernster Helm von NanoTrasen für den Apokryphen Modsuit. Es enthält ein eingebautes HUD.

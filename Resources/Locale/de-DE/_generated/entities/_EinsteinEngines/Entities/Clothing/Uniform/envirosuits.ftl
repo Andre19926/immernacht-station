@@ -79,7 +79,7 @@ ent-ClothingUniformEnvirosuitSec = Sicherheit-Umweltanzug
     .desc = Ein Plasmaman Containment-Anzug für Sicherheitsbeamte.
 
 ent-ClothingUniformEnvirosuitSecBlue = Umweltanzug (Sicherheit, blau)
-    .desc = Ein kühles blaues enviroshirt über kohlenhosen, für den ruhigen und gesammelten plasmaman-offizier.
+    .desc = Ein cooles blaues Envirohemd über Kohlehosen, für den ruhigen und gelassenen Plasmaman-Offizier.
 
 ent-ClothingUniformEnvirosuitSecGrey = Umweltanzug (grau (Sicherheit))
     .desc = Hellgraue Umgebungen mit leuchtend roten Highlights für engagierte und reaktionsschnelle Sicherheitsbeamte.
@@ -184,58 +184,58 @@ ent-ClothingUniformEnvirosuitEnviroslacksColorBrown = Umwelthose (braun)
     .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante hat braune Hosen. Erinnert dich an staubige Büros.
 
 ent-ClothingUniformEnvirosuitEnviroslacksMNK = Umwelthose (MNK)
-    .desc = Die ikonische enviroslacks, mit MNK Unterschrift monochrome Ästhetik. Klassisch!
+    .desc = Die ikonischen Enviroslacks mit MNK-typischer monochromer Ästhetik. Klassisch!
 
 ent-ClothingUniformEnvirosuitEnviroslacksMNKAlt = Umwelthose (MNK, Alternativ)
-    .desc = Die ikonische enviroslacks, mit MNK Unterschrift monochrome Ästhetik. Noir!
+    .desc = Die ikonischen Enviroslacks mit MNK-typischer monochromer Ästhetik. Noir!
 
 ent-ClothingUniformEnvirosuitEnviroslacksPsychologist = Psychologen-Umwelthose
     .desc = Das Haustierprojekt eines besonders noblen Plasmaman, diese Variante wurde für den Psychologen gemacht. Unglaublich!
 
 ent-ClothingUniformEnvirosuitColorWhite = Umweltanzug (weiß)
-    .desc = Ein generisches Weiß Insgesamt ohne Rangmarkierungen.
+    .desc = Ein generischer Overall in Weiß ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorGrey = Umweltanzug (grau)
     .desc = Ein geschmackvoller grauer Umweltanzug, der an die guten alten Zeiten erinnert.
 
 ent-ClothingUniformEnvirosuitColorBlack = Umweltanzug (schwarz)
-    .desc = Ein generisch schwarzer Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Schwarz ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorRed = Umweltanzug (rot)
     .desc = Ein dunkelgrüner Umweltanzug.
 
 ent-ClothingUniformEnvirosuitColorGreen = Umweltanzug (grün)
-    .desc = Ein generisch grüner Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Grün ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorDarkGreen = Umweltanzug (dunkelgrün)
-    .desc = Ein generischer dunkelgrüner Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Dunkelgrün ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorBlue = Umweltanzug (blau)
-    .desc = Ein generisch blauer Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Blau ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorDarkBlue = Umweltanzug (dunkelblau)
-    .desc = Ein generischer dunkelblauer Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Dunkelblau ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorTeal = Umweltanzug (türkis)
-    .desc = Ein generisches Teal Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Türkis ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorMaroon = Umweltanzug (kastanienbraun)
-    .desc = Eine generische Maroon Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Kastanienbraun ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorPink = Umweltanzug (rosa)
     .desc = "Plasmamen können nicht töten" und andere Witze, die du dich selbst erzählen kannst.
 
 ent-ClothingUniformEnvirosuitColorYellow = Umweltanzug (gelb)
-    .desc = Ein generischer gelber Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Gelb ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorPurple = Umweltanzug (lila)
-    .desc = Ein generisches lila Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Violett ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorOrange = Umweltanzug (orange)
     .desc = Tragen sie das nicht in der nähe von paranoiden sicherheitsbeamten.
 
 ent-ClothingUniformEnvirosuitColorLightBrown = Umweltanzug (hellbraun)
-    .desc = Ein generischer hellbrauner Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Hellbraun ohne Rangabzeichen.
 
 ent-ClothingUniformEnvirosuitColorBrown = Umweltanzug (braun)
-    .desc = Ein generisch brauner Umweltanzug ohne Rangmarkierungen.
+    .desc = Ein generischer Umweltanzug in Braun ohne Rangabzeichen.

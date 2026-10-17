@@ -29,7 +29,7 @@ ent-ClothingHandsGlovesLeather = Handschuhe für Botaniker
     .desc = Diese Lederhandschuhe schützen vor Dornen, Widerhaken, Stacheln und anderen schädlichen Gegenständen pflanzlichen Ursprungs. Sie sind außerdem ziemlich warm.
 
 ent-ClothingHandsGlovesPowerglove = Elektrohandschuhe
-    .desc = Jetzt spiele ich mit Macht! Warte... sie sind abgedreht.
+    .desc = Jetzt spiele ich mit Power! Warte ... sie sind ausgeschaltet.
 
 ent-ClothingHandsGlovesRobohands = Robohandschuhe
 

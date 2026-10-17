@@ -2,7 +2,7 @@ ent-DrinkGoldenCup = Goldbecher
     .desc = Ein goldener Becher.
 
 ent-DrinkTeacupEmpty = Teetasse
-    .desc = Eine schlichte weiße Porzellan-Teekasse.
+    .desc = Eine schlichte Teetasse aus weißem Porzellan.
 
 ent-DrinkGlassCoupeShaped = Coupéglas
     .desc = Ein klassisches dünnes Hals-Coupéglas, die Ikone der zerbrechlichen Etiketten auf Kisten rund um die Galaxie.
@@ -53,10 +53,10 @@ ent-DrinkCafeLatte = Cafe Latte
     .desc = Ein schönes, starkes und leckeres Getränk, während du liest.
 
 ent-DrinkTeacup = Tee
-    .desc = Eine schlichte weiße Porzellan-Teekasse.
+    .desc = Eine schlichte Teetasse aus weißem Porzellan.
 
 ent-DrinkGreenTea = Grüner Tee
-    .desc = Eine schlichte weiße Porzellan-Teekasse.
+    .desc = Eine schlichte Teetasse aus weißem Porzellan.
 
 ent-DrinkLean = Traubensaft
     .desc = Verdammt, kein Spaß erlaubt.

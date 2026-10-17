@@ -124,7 +124,7 @@ ent-MobPenguin = Pinguin
     .desc = Ihr Leben sind ständige Schmerzen aufgrund ihrer inneren Körperknie.
 
 ent-MobGrenadePenguin = Granatpinguin
-    .desc = Ein kleiner Pinguin mit einer Granate um den Hals geschnallt. Geerntet vom syndikat von eisigen shit-hole-planeten.
+    .desc = Ein kleiner Pinguin mit einer um den Hals geschnallten Granate. Vom Syndikat von eisigen Drecksplaneten geerntet.
 
 ent-MobSnake = Schlange
     .desc = Zisch! Bisse sind nicht giftig.
@@ -193,7 +193,7 @@ ent-MobPig = Schwein
     .desc = Eiche.
 
 ent-MobDionaNymph = Diona-Nymphe
-    .desc = Es ist wie eine Katze, nur ... branch-ier.
+    .desc = Sie ist wie eine Katze, nur ... ästiger.
 
 ent-MobDionaNymphAccent = Diona-Nymphe
     .desc = Es ist wie eine Katze, nur ... branch-ier.

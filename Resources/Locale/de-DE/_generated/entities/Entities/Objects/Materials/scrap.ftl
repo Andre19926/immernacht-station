@@ -56,7 +56,7 @@ ent-ScrapPAI = Personal-KI-Gerät
     .desc = Ein Kumpel! Bist du noch da? Hallo? Kumpel???
 
 ent-ScrapPAIGold = vergoldetes Personal KI Gerät
-    .desc = Wow! Was für ein One-in-a-Million finden! Das wäre ein Vermögen wert ... wenn es in gutem Zustand wäre.
+    .desc = Wow! Was für ein Jahrhundertfund! Das wäre ein Vermögen wert ... wenn es in gutem Zustand wäre.
 
 ent-ScrapTube = zerbrochenes Probenröhrchen
     .desc = Eine Glasröhre mit einer Art seltener Probe. Oder zumindest hat er es enthalten. Jetzt ist nicht mehr viel drin.

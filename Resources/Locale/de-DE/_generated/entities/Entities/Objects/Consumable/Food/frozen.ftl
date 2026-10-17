@@ -43,7 +43,7 @@ ent-FoodFrozenSnowconeRainbow = Regenbogen-Schneezapfen
     .desc = Ein sehr bunter Schneeball in einem Papierbecher.
 
 ent-FoodFrozenSnowconeTrash = Papierkegel
-    .desc = Ein zerknitterter Papierkegel, der für eine eisige Behandlung verwendet wird. wertlos.
+    .desc = Eine zerknüllte Papiertüte, die für eine eisige Leckerei verwendet wurde. Wertlos.
 
 ent-FoodFrozenPopsicleTrash = Stielstiel
     .desc = Einmal ein köstliches Leckerbissen. Nun, 'tis unfruchtbar.

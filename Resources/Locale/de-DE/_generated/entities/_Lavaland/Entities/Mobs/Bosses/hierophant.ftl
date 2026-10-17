@@ -1,2 +1,2 @@
 ent-MobHierophant = Hierophant
-    .desc = Ein riesiger Metal Club, der in der Luft hängt, als ob er warten würde. Es wird dich zum Tanzen bringen.
+    .desc = Eine riesige Metallkeule, die in der Luft schwebt, als würde sie warten. Sie bringt dich dazu, nach ihrem Takt zu tanzen.

@@ -83,7 +83,7 @@ ent-ToyFigurineChaplain = Kaplanfigur
     .desc = Eine Figur, die einen Kaplan zeigt, der hoffentlich für gute Dinge betet.
 
 ent-ToyFigurineChef = Kochfigur
-    .desc = Eine Figur, die einen Koch zeigt, Meister der kulinarischen Künste!.. die meiste Zeit.
+    .desc = Eine Figur, die einen Koch zeigt, Meister der Kochkunst! ... meistens.
 
 ent-ToyFigurineBartender = Barkeeperfigur
     .desc = Eine Figur, die einen Barkeeper darstellt, der mit ihren rockigen Schattierungen und Tophat stilvoll aussieht.

@@ -38,7 +38,7 @@ ent-FishNuker = Nuke-Ops-Fisch
     .desc = Räuber der Nuke Disc Fish.
 
 ent-FishPuffer = Kugelfisch
-    .desc = Es ist giftig ... in vielerlei Hinsicht.
+    .desc = Er ist giftig ... in vielerlei Hinsicht.
 
 ent-FishSilver = Silberner Fisch
     .desc = Enthält tatsächlich Silber.

@@ -50,7 +50,7 @@ ent-DeathRattleImplant = Todesratternimplantat
     .desc = Dieses Implantat informiert den Syndicate-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.
 
 ent-FakeMindShieldImplant = Fake Mindshield Implantat
-    .desc = Dieses Implantat ermöglicht es dem Implanter, ein gefälschtes Signal zu erzeugen, das NT-Sicherheitsteams verwenden, um Personen zu identifizieren, die mit einem Mindshield implantiert wurden.
+    .desc = Dieses Implantat ermöglicht es dem Implantierenden, ein gefälschtes Signal zu erzeugen, das NT-Sicherheitsteams verwenden, um Personen zu identifizieren, die mit einem Mindshield implantiert wurden.
 
 ent-MindShieldImplant = Mindshield Implantat
     .desc = Dieses Implantat wird die Loyalität zu Nanotrasen sicherstellen und Mind-Control-Geräte verhindern.

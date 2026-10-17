@@ -5,7 +5,7 @@ ent-CrateArmoryShotgun = Schrotflintenkiste
     .desc = Denn wenn der Feind unbedingt durch Blei ersetzt werden muss. Enthält zwei Enforcer Combat Shotguns und einige Standard-Schrotflintengranaten. Erfordert Armory Zugang zu öffnen.
 
 ent-CrateTrackingImplants = Tracking-Implantate
-    .desc = Enthält eine Handvoll Tracking Implanter. Gut für Gefangene, die du freilassen möchtest, aber dennoch den Überblick behalten.
+    .desc = Enthält eine Handvoll Tracking-Implantate. Gut für Gefangene, die du freilassen möchtest, aber dennoch den Überblick behalten.
 
 ent-CrateTrainingBombs = Trainingsbomben
     .desc = Enthält drei Low-Yield-Trainingsbomben für die Sicherheit, um defusale und sichere Kampfmittelentsorgung zu lernen, EOD-Anzug nicht enthalten. Erfordert Armory Zugang zu öffnen.

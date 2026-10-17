@@ -5,7 +5,7 @@ ent-PoweredLightPostSmallEmpty = Nachlicht
     .desc = Ein kleiner Lichtposten.
 
 ent-PoweredLightPostSmall = Nachlicht
-    .desc = Eine Leuchte. Erzeugt die Leistung und erzeugt das Licht, wenn er mit einem Lichtrohr ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-PoweredLEDLightPostSmall = Nachlicht
-    .desc = Eine Leuchte. Erzeugt die Leistung und erzeugt das Licht, wenn er mit einem Lichtrohr ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.

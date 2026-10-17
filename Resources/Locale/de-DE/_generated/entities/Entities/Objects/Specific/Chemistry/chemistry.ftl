@@ -1,26 +1,26 @@
 ent-Beaker = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-CryoxadoneBeakerSmall = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallArith = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallSigy = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallPhal = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallDiph = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallBruiz = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-BeakerSmallLace = Becherglas
-    .desc = Wird verwendet, um eine moderate Menge an Chemikalien und Lösungen zu enthalten.
+    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
 
 ent-LargeBeaker = großes Becherglas
     .desc = Wird verwendet, um eine große Menge an Chemikalien oder Lösungen zu enthalten.

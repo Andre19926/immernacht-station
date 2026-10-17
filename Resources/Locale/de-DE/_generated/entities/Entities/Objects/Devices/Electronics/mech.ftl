@@ -5,10 +5,10 @@ ent-RipleyPeripheralsElectronics = Ripley-Peripheriesteuermodul
     .desc = Die elektrische Peripherie steuert den Riley Mech.
 
 ent-HonkerCentralElectronics = H.O.N.K.-Zentralsteuermodul
-    .desc = Die elektrische Leitstelle für den H.O.N.K. mech.
+    .desc = Die elektrische Steuerzentrale für den H.O.N.K.-Mech.
 
 ent-HonkerPeripheralsElectronics = H.O.N.K.-Peripheriesteuermodul
-    .desc = Die elektrische Peripheriesteuerung für den H.O.N.K. mech.
+    .desc = Die elektrische Peripheriesteuerung für den H.O.N.K.-Mech.
 
 ent-HonkerTargetingElectronics = H.O.N.K.-Waffensteuer- und Zielmodul
     .desc = Die elektrische Ausrichtungssteuerung ist für die HM-Anordnung bestimmt.

@@ -17,7 +17,7 @@ ent-FoodBreadCottonSlice = Baumwollbrotscheiben
     .desc = Ein Stück (vielleicht) leckeres Baumwollbrot.
 
 ent-FoodBreadCorn = Maisbrot
-    .desc = Einige gute Down-Home-Country-Stil, rootin '-tootin', Revolver-shootin ', Papa-Gum yeehaw Maisbrot.
+    .desc = Einfaches, bodenständiges Country-Maisbrot – rootin' tootin', revolverschießendes Papa-Gum-Yeehaw-Maisbrot.
 
 ent-FoodBreadCornSlice = Cornbrotscheibe
     .desc = Eine Scheibe Maisbrot.

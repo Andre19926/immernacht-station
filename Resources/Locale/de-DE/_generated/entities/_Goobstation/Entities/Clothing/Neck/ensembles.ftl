@@ -17,7 +17,7 @@ ent-ClothingNeckEnsembleResearchDirector = Ensemble des Forschungsleiters
     .desc = Hier führt der Endpunkt aller Forschung hin. Du bist wahrlich der Gipfel der Wissenschaft, ein Denkmal für Nanotrasens Errungenschaften und deren Fähigkeit, dich wieder zusammenzukleben – musst du so oft explodieren?
 
 ent-ClothingNeckEnsembleQuarterMaster = Ensemble des Quartiermeisters
-    .desc = Köstlich gefertigt mit den meisten Premium-Materialien, die mit Spesos gekauft werden können; ein Mantel, der wirklich den Geist von Cargonia darstellt... und dein Bankkonto.
+    .desc = Fein gefertigt aus den hochwertigsten Materialien, die man mit Spesos kaufen kann; ein Umhang, der den Geist von Cargonia wahrhaft verkörpert ... und dein Bankkonto.
 
 ent-ClothingNeckEnsembleHeadOfPersonnel = Personalchef-Ensemble
     .desc = Es gibt nichts Süßeres auf dieser Welt als die Tränen von jemandem, der gemacht wurde, um fünf Absätze Papierkram auszufüllen. Du hast sie danach natürlich geleugnet.

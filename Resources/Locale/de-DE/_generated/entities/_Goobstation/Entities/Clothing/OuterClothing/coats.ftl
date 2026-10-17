@@ -14,7 +14,7 @@ ent-ClothingOuterCoatWardenBlue = Blaue Warden-Jacke
     .desc = Eine robuste, utilitaristische Jacke für diejenigen, die mit der Brig vertraut sind.
 
 ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsleiters
-    .desc = Gewoben mit experimenteller Technologie... dieser Labcoat scheint nicht schützender zu sein als dein üblicher. Zumindest sieht es schön aus.
+    .desc = Gewebt mit experimenteller Technologie ... dieser Laborkittel scheint nicht schützender zu sein als dein üblicher. Zumindest sieht er hübsch aus.
 
 ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsleiters
     .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.

@@ -95,7 +95,7 @@ ent-ClothingMaskNeckGaiterRed = Rote Hals-Gamasche
     .desc = Stilvolle Nacken-Gamasche für den Hals, kann vor dem kosmischen Wind schützen?
 
 ent-ClothingMaskSexyClown = Sexy Clown Maske
-    .desc = Einige freche clowns denken, dass die honkmother so aussieht.
+    .desc = Manche frechen Clowns finden, dass die Honkmother so aussieht.
 
 ent-ClothingMaskSexyMime = sexy Mime Maske
     .desc = Diese steinigen Wangen wollen nur gerieben werden.

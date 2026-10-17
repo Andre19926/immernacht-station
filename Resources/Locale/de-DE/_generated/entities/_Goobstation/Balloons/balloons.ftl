@@ -20,7 +20,7 @@ ent-WhiteBalloon = weißer Ballon
     .desc = Der emotionsloseste Ballon. Wird nicht einmal ein richtiger name gegeben, nur ein zweck. Immun gegen Kälteschäden!
 
 ent-ZebraBalloon = Zebraballon
-    .desc = gehört in einen Zoo. Immunität gegen jeden Brandschaden!
+    .desc = Der am stärksten gepanzerte Ballon. So gefürchtet, dass ihn nicht einmal Tiere angreifen. Immun gegen stumpfen Schaden!
 
 ent-SteelBalloon = Stahlballon
     .desc = Der am meisten gepanzerte Ballon. So befürchtete, dass sogar Tiere es nicht angreifen. Immun gegen physische Schäden!

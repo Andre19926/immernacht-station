@@ -35,7 +35,7 @@ ent-EncryptionKeyService = Dienstverschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel, der vom Servicepersonal verwendet wird und die Aufgabe hat, die Station voll, glücklich und sauber zu halten.
 
 ent-EncryptionKeySyndie = blutroter Verschlüsselungsschlüssel
-    .desc = Ein Verschlüsselungsschlüssel, der von... wait... Wer ist der Besitzer dieses Chips?
+    .desc = Ein Verschlüsselungsschlüssel, benutzt von ... Moment ... Wem gehört dieser Chip eigentlich?
 
 ent-EncryptionKeyBinary = Binärer Übersetzerschlüssel
     .desc = Ein Verschlüsselungsschlüssel, der binäre Signale übersetzt, die von Siliziumen verwendet werden.

@@ -2,7 +2,7 @@ ent-CMMobXenoDrone = Alte Drohne
     .desc = Eine fremde Drohne.
 
 ent-CMMobXenoBurrower = Alte Burrower
-    .desc = Ein beefy alien mit scharfen krallen.
+    .desc = Ein kräftiger Alien mit scharfen Klauen.
 
 ent-CMMobXenoWarrior = Alte Krieger
     .desc = Ein bulliger Außerirdischer mit gepanzertem Panzer.

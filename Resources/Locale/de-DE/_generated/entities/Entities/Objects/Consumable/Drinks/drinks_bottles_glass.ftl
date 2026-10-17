@@ -56,13 +56,13 @@ ent-DrinkBeerGrowler = Bier-Growler
     .desc = Ein alkoholisches Getränk aus gemälztem Getreide, Hopfen, Hefe und Wasser. XL Growler Flasche.
 
 ent-DrinkAleBottleFullGrowler = Magm-Ale-Growler
-    .desc = Ein echtes dorf's drink der wahl. XL Growler Flasche.
+    .desc = Ein echtes Zwergen-Getränk der Wahl. XL-Growler-Flasche.
 
 ent-DrinkBeerBottleFull = Bierflasche
     .desc = Ein alkoholisches Getränk aus gemälztem Getreide, Hopfen, Hefe und Wasser.
 
 ent-DrinkAleBottleFull = Magm-Ale-Flasche
-    .desc = Ein echtes dorf's drink der wahl.
+    .desc = Ein echtes Zwergen-Getränk der Wahl.
 
 ent-DrinkSakeBottleFull = Kleine Sakeflasche
     .desc = Das Bedauern des nächsten Morgens scheint auch an der Flasche zu knipsen.

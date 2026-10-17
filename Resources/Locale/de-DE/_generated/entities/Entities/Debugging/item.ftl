@@ -2,7 +2,7 @@ ent-DebugItemShapeWeird = Seltsam geformter Gegenstand
     .desc = Was ist das...?
 
 ent-PonderingOrbRadioactive = Pönderıng örb [700 rads]
-    .desc = Wenn du dies tun kannst, bist du auf der Welt. auch jemand ist in der
+    .desc = Wenn du das lesen kannst, bist du tot ... und jemand türkt es auch noch.
 
 ent-PonderingOrbRadioactiveM = Pönderıng örb [100 rads]
     .desc = Zum Ruhm von Richard Turk

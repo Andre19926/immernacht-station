@@ -16,7 +16,7 @@ ent-CabbageSeeds = Kohlsaatgut
 ent-GarlicSeeds = Knoblauchsamen
 
 ent-LaughinPeaSeeds = Lachende-Erbsen-Samen
-    .desc = Diese Samen geben einen sehr weichen violetten Glanz ab.. sie sollten zu Laughin' Peas wachsen.
+    .desc = Diese Samen geben einen sehr sanften violetten Schimmer ab ... Sie sollten zu Lachenden Erbsen heranwachsen.
 
 ent-LemonSeeds = Zitronensamen
 
@@ -70,7 +70,7 @@ ent-CannabisSeeds = Cannabissamen
     .desc = Steuerpflichtig.
 
 ent-RainbowCannabisSeeds = Regenbogen-Cannabissamen
-    .desc = Diese Samen wachsen zu Regenbogen-Unkraut. Groovy ... und auch sehr süchtig machend.
+    .desc = Mit Handschuhen anfassen.
 
 ent-NettleSeeds = Nesselsaatgut
     .desc = Handle mit Handschuhen.

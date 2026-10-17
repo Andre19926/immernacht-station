@@ -19,34 +19,34 @@ ent-FoodBoxNugget = Hühnernuggets
     .desc = Du spürst plötzlich den Drang, an der intergalaktischen Börse zu handeln.
 
 ent-FoodBoxDonkpocket = Schachtel mit Donk-Taschen
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketSpicy = Kiste mit würzigen Donktaschen
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketTeriyaki = Box mit Donk-Taschen mit Teriyaki-Aroma
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketPizza = Schachtel mit Donk-Taschen mit Pizzageschmack
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketStonk = Box Limited Edition Stonk-Taschen
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketCarp = Karpfentaschen
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketBerry = Schachtel mit Donktaschen mit Beerengeschmack
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketHonk = Schachtel mit Donktaschen mit Bananengeschmack
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketDink = Kiste mit Dink-Taschen
     .desc = Net Zero Kohlenhydrate! Keine Notwendigkeit zum Heizen!
 
 ent-FoodBoxDonkpocketMoth = Kiste von Mottentaschen
-    .desc = Anleitung: Wärme in der Mikrowelle. Das Produkt wird abkühlen, wenn es nicht innerhalb von sieben Minuten gegessen wird.
+    .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-HappyHonk = Happy-Honk-Menü
     .desc = Das Spielzeug ist essbarer als das Essen.

@@ -1,2 +1,2 @@
 ent-ClothingNeckMimemedal = Medaille der Milerie
-    .desc = Gegeben an crewmates, die ausgezeichnete mimery zeigen.
+    .desc = Wird an Crewmitglieder verliehen, die ausgezeichnete Pantomimekunst zeigen.

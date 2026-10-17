@@ -1,5 +1,5 @@
 ent-DroneSatchelUnremovable = Umhängetasche
-    .desc = Ein trendy aussehender Satchel.
+    .desc = Eine trendig aussehende Umhängetasche.
 
 ent-trayScannerUnremoveable = t-Strahlenscanner
     .desc = Ein High-Tech-Scanner, der Terahertz-Strahlung verwendet, um Unterflurinfrastruktur zu erkennen.

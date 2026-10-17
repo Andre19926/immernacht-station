@@ -29,7 +29,7 @@ ent-SawImprov = Choppa
     .desc = Eine böse gezackte Klinge aus allen fiesen scharfen Dingen, die man finden konnte.
 
 ent-SawElectric = Kreissäge
-    .desc = für schweres Schneiden.
+    .desc = Für schwere Schneidearbeiten.
 
 ent-SawAdvanced = vorgerückte Kreissäge
     .desc = Du denkst, du kannst alles damit schneiden.

@@ -1,116 +1,116 @@
 ent-Jug = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPunctTranex = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPyraDerma = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugDexPlusSaline = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugTrico = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugBlood = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugWater = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugCarbon = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugIodine = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugFluorine = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugChlorine = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugAluminium = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPhosphorus = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSulfur = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSilicon = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugHydrogen = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugLithium = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSodium = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPotassium = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugRadium = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugIron = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugCopper = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugGold = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugMercury = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSilver = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugEthanol = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSugar = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugNitrogen = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugOxygen = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPlantBGone = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugWeldingFuel = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugBicaridine = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugPuncturase = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugDermaline = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugDylovene = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugTranexamicAcid = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugHyronalin = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugSaline = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.
 
 ent-JugDexalinPlus = Krüge
-    .desc = Wird verwendet, um eine sehr große Menge an Chemikalien oder Lösungen zu enthalten. Chugging ist extrem schlecht beraten.
+    .desc = Fasst eine sehr große Menge an Chemikalien oder Lösungen. Direkt daraus zu trinken ist äußerst unratsam.

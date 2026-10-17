@@ -137,7 +137,7 @@ ent-VendingMachineHydrobe = HyDrobe
     .desc = Eine Maschine mit einem einprägsamen Namen. Es gibt botanische Kleidung und Ausrüstung aus.
 
 ent-VendingMachineLawDrobe = LawDrobe
-    .desc = Einspruch! Diese Garderobe verzichtet auf den Rechtsstaat ... und Anwaltskleidung ...
+    .desc = Einspruch! Diese Garderobe gibt Rechtsstaat aus ... und Anwaltskleidung.
 
 ent-VendingMachineSecDrobe = SecDrobe
     .desc = Ein Verkaufsautomat für Sicherheits- und Sicherheitsbekleidung!

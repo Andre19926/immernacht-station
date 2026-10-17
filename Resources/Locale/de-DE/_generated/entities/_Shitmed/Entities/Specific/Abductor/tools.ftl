@@ -14,4 +14,4 @@ ent-WelderAbductor = Hightech-Schweißgeräte
     .desc = Ein hochentwickeltes Schweißgerät, das in der Lage ist, unendlichen Brennstoff zu produzieren.
 
 ent-MultitoolAbductor = High-Tech Multitool
-    .desc = Ein hochentwickeltes hacking-tool, das in der lage ist, die drahtfunktionalität anzuzeigen. Kann als kryptographischer Sequenzer in seinem alternativen Modus verwendet werden.
+    .desc = Ein hochentwickeltes Hacking-Werkzeug, das die Verdrahtungsfunktion anzeigen kann. Kann in seinem alternativen Modus als kryptografischer Sequenzer verwendet werden.

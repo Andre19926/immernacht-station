@@ -17,7 +17,7 @@ ent-WeaponWandPolymorphDoor = Eingangsstab
     .desc = Denn wenn du eine Fluchtroute brauchst.
 
 ent-WeaponWandCluwne = Zauberstab
-    .desc = Machen sie ihre situation schlimmer, indem sie sie in eine cluwne verwandeln.
+    .desc = Mach ihre Lage schlimmer, indem du sie in eine Cluwne verwandelst.
 
 ent-WeaponWandPolymorphBread = Zauberbrotstab
     .desc = Verwandle alle deine Freunde in Brot! Dein Chef! Deine Feinde! Dein Hund! Mach alles Brot!

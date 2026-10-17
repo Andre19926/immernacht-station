@@ -80,7 +80,7 @@ ent-ActionSanguineStrike = Aderlassschlag
     .desc = Verzaubert deinen nächsten Waffenschlag, sodass er mehr Schaden verursacht, dich um den verursachten Schaden heilt und Blut auffüllt.
 
 ent-ActionChuuniInvocations = Chuuni-Aufrufe
-    .desc = Lässt alle deine Zaubersprüche Anrufungen schreien, und die Anrufungen werden ... albern. Du heilst dich leicht, nachdem du einen Zauber gesprochen hast.
+    .desc = Lässt alle deine Zauber Beschwörungsformeln schreien, und die Beschwörungsformeln werden ... albern. Du heilst dich leicht, nachdem du einen Zauber gewirkt hast.
 
 ent-ActionSwapSpell = Tausch
     .desc = Ermöglicht es dir, den Ort mit jedem Lebewesen zu tauschen.

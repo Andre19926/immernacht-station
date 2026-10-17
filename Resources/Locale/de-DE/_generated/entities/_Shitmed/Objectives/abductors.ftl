@@ -44,7 +44,7 @@ ent-AbductorVictimNarrator = Erzähle die Geschichte.
     .desc = Du bist der Erzähler dieser Geschichte. Folge den Protagonisten, um ihre Geschichte zu erzählen.
 
 ent-AbductorVictimSixthsense = Bist du wirklich am Leben?
-    .desc = Du bist dort gestorben und bist in den Himmel gegangen... oder ist es die Hölle? Niemand hier scheint zu wissen, dass sie tot sind. Überzeuge sie, und vielleicht können dich dieser Limbus entkommen.
+    .desc = Du bist dort hinten gestorben und in den Himmel gekommen ... oder ist es die Hölle? Niemand hier scheint zu wissen, dass er tot ist. Überzeuge sie, und vielleicht kannst du diesem Limbus entkommen.
 
 ent-AbductorVictimParty = PARTEI!
     .desc = Du musst eine riesige Wut werfen. Mach es so fantastisch wie möglich, damit die ganze Crew kommt ... ODER ANDERES!

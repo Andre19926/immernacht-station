@@ -56,7 +56,7 @@ ent-FoodSnackLollypopWrappedDermaline = gewickelter Dermalin Lutscher
     .desc = Ein Dermalin gefüllter Lutscher. Es ist immer noch in einem Wrapper.
 
 ent-FoodSnackLollypopDermaline = Dermalin-Lutscher
-    .desc = Ein Dermalin gefüllter Lutscher. Aromatisiert mit ... blau?
+    .desc = Ein mit Dermalin gefüllter Lutscher. Aromatisiert mit ... Blau?
 
 ent-FoodSnackLollypopWrappedTricordrazine = gewickelter Tricordrazin-Lutscher
     .desc = Ein Tricordrazin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
@@ -200,10 +200,10 @@ ent-FoodSnackLollypopCognizine = cognizine Lutscher
     .desc = Ein mit Kognis gefüllter Lutscher. Es schimmert ein hypnotisierendes Purpur.
 
 ent-FoodSnackLollypopWrappedWeh = gewickelt weh Lutscher
-    .desc = Ein Weh! gefüllt Lutscher. Es ist immer noch in einer Verpackung.
+    .desc = Ein mit Weh! gefüllter Lutscher. Er ist noch eingewickelt.
 
 ent-FoodSnackLollypopWeh = Weh! Lutscher
-    .desc = Ein Weh! gefüllter Lutscher. Weh!
+    .desc = Ein mit Weh! gefüllter Lutscher. Weh!
 
 ent-FoodSnackLollypopWrappedCarpEvil = gewickelter Karpfen Lutscher
     .desc = Ein karpfenförmiger Lutscher. Wie albern!
@@ -221,7 +221,7 @@ ent-FoodSnackLollypopWrappedMindbreakerToxin = Wraped Mindbreaker Lutscher
     .desc = Ein Mindbreaker-Toxin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
 
 ent-FoodSnackLollypopMindbreakerToxin = Mindbreaker-Toxin Lutscher
-    .desc = Ein Mindbreaker-Toxin gefüllt Lutscher. Solltest du... das essen?
+    .desc = Ein mit Mindbreaker-Toxin gefüllter Lutscher. Solltest du ... das essen?
 
 ent-FoodPacketLollypopTrash = Lutscherstab
     .desc = Es wird leicht gekaut.

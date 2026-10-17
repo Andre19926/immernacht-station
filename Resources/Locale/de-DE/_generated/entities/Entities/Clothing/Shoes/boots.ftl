@@ -1,5 +1,5 @@
 ent-ClothingShoesBootsWork = Workboots
-    .desc = Engineering Schnürschuhe für die besonders blue-collar.
+    .desc = Technik-Schnürschuhe für die besonders Bodenständigen (Blue Collar).
 
 ent-ClothingShoesBootsJack = Jackstiefel
     .desc = Sicherheits-Kampfstiefel nach Nanotrasen-Standard für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.
@@ -47,13 +47,13 @@ ent-ClothingShoesBootsWinterWeb = Web-Winterstiefel
     .desc = Stiefel aus dichtem Gurtband, um selbst den kältesten Winter zu überleben.
 
 ent-ClothingShoesBootsCowboyBrown = Braune Cowboystiefel
-    .desc = Sie haben Sporen, die klimpern und / oder klingeln.
+    .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsCowboyBlack = Black Cowboy Stiefel
-    .desc = Sie haben Sporen, die klimpern und / oder klingeln.
+    .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsCowboyWhite = weiße Cowboystiefel
-    .desc = Sie haben Sporen, die klimpern und / oder klingeln.
+    .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsCowboyFancy = Schicke Cowboystiefel
-    .desc = Sie haben Sporen, die klimpern und / oder klingeln.
+    .desc = Sie haben Sporen, die klimpern und/oder klingeln.

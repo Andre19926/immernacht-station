@@ -41,7 +41,7 @@ ent-MaterialHideBear = Bärenfell
     .desc = Ein Rohstoff.
 
 ent-MaterialHideCorgi = Korgihaut
-    .desc = Luxuspelz wird nur in der elitärsten Art und Weise verwendet. Gerüchte sagen, dass dies gefunden wird, wenn ein corgi auf die schöne farm geschickt wird.
+    .desc = Luxuspelz, der nur auf die edelste Art und Weise verwendet wird. Gerüchten zufolge fällt er an, wenn ein Corgi auf die schöne Farm geschickt wird.
 
 ent-MaterialDiamond = raffinierter Diamant
     .desc = Ein Rohstoff.
@@ -68,13 +68,13 @@ ent-MaterialBananium1 = Bananium
     .desc = Ein Rohstoff.
 
 ent-MaterialWebSilk = Seide
-    .desc = Ein Webby-Material.
+    .desc = Ein Material aus Spinnweben.
 
 ent-MaterialWebSilk25 = Seide
-    .desc = Ein Webby-Material.
+    .desc = Ein Material aus Spinnweben.
 
 ent-MaterialWebSilk1 = Seide
-    .desc = Ein Webby-Material.
+    .desc = Ein Material aus Spinnweben.
 
 ent-MaterialToothSpaceCarp = Weltraumkarpfenzahn
     .desc = Ziemlich klein, aber viel böse. Du magst sie am besten, wenn sie nicht in dich versinken.

@@ -14,7 +14,7 @@ ent-SoapletSyndie = Seifen
     .desc = Ein kleines Stück Syndicate-Eife.
 
 ent-SoapHomemade = Seife
-    .desc = Eine hausgemachte Bar Seife. Gerüche von... naja...
+    .desc = Ein selbstgemachtes Stück Seife. Riecht nach ... naja ...
 
 ent-SoapOmega = Omega-Seife
     .desc = Die fortschrittlichste Seife, die der Menschheit bekannt ist. Gerüche nach Bluespace.

@@ -382,7 +382,7 @@ ent-PosterMapLighthouse = Leuchtturm-Karte
     .desc = Eine Karte des Leuchtturms.
 
 ent-PosterMapWaystation = Waystation-Karte
-    .desc = Eine Karte von Waystation ... warte, ist das nicht kopfüber gepackt?
+    .desc = Eine Karte von Waystation ... Moment, ist die nicht verkehrt herum eingepackt?
 
 ent-PosterMapOrigin = Origin-Karte
     .desc = Eine Karte von Origin Station.

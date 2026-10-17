@@ -14,7 +14,7 @@ ent-CrateServiceHolidayLights = Ferienbeleuchtungskasten
     .desc = Decke die Hallen mit diesen festlichen Weihnachtslichtern! Enthält zwölf Rotlichtröhren und zwölf Grünlichtröhren.
 
 ent-CrateMousetrapBoxes = Kiste für Mausfallen
-    .desc = Mousetraps, wenn der ganze Dienst von einer ganzen Horde von Ratten verfolgt wird. Verwende sparsam... oder nicht.
+    .desc = Mausefallen für den Fall, dass der gesamte Service von einer ganzen Rattenhorde heimgesucht wird. Sparsam verwenden ... oder auch nicht.
 
 ent-CrateServiceSmokeables = rauchbare Kiste
     .desc = Müde von einem schnellen Tod auf der Station? Bestelle diese Kiste und Kettenrauche deinen Weg zu einem Husten Untergang!

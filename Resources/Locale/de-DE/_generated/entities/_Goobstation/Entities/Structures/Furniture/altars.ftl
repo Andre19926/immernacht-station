@@ -1,5 +1,5 @@
 ent-AltarClock = Uhrwerkaltar
-    .desc = eigentum Inhaltswende historisch
+    .desc = Altar des Ratvar.
 
 ent-AltarDragon = drakonischer Altar
     .desc = Altar der Drachen.

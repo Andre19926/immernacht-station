@@ -41,7 +41,7 @@ ent-ClothingBackpackVirology = Virologie-Rucksack
     .desc = Ein Rucksack aus hypoallergenen Fasern. Es soll helfen, die Ausbreitung von Krankheiten zu verhindern. Riecht nach Affen.
 
 ent-ClothingBackpackGenetics = Genetik-Rucksack
-    .desc = Ein Rucksack entworfen, um super hart zu sein, nur für den Fall, dass jemand auf dich hulks.
+    .desc = Ein Rucksack, der extra robust sein soll, nur für den Fall, dass dich jemand hulkt.
 
 ent-ClothingBackpackCargo = Fracht-Rucksack
     .desc = Ein robuster Rucksack, um die Beute der Ladung zu stehlen.

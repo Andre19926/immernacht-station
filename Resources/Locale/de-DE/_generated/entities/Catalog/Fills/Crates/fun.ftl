@@ -2,7 +2,7 @@ ent-CratePlants = Pflanzenkasten
     .desc = Eine Vielzahl von Topfpflanzen, um deine Station zu verschönern!
 
 ent-CrateFunPlushie = Plüschtierkiste
-    .desc = Ein buncha soft Plüschtier. Wirf sie herum und frage dich dann, wie du diesen Kauf NT erklären wirst.
+    .desc = Ein Haufen weicher Plüschtiere. Wirf sie herum und überlege dir dann, wie du NT diesen Kauf erklärst.
 
 ent-CrateFunLizardPlushieBulk = lose Echse Plüschtier-Kiste
     .desc = Eine buncha weiche Eidechse Plüschtier. Wirf sie herum und frage dich dann, wie du diesen Kauf NT erklären wirst.

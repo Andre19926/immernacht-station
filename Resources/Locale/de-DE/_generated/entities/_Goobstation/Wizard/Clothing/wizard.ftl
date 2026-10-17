@@ -95,7 +95,7 @@ ent-ClothingHandsGlovesWizard = Zauberhandschuhe
     .desc = Ein prächtiges Paar blauer Edelsteinhandschuhe, die isoliert zu sein scheinen.
 
 ent-ClothingHeadHatCrimsonReal = Purpur-Zauberer
-    .desc = Ein breitkrempiger, spitzer Zaubererhut, geschmückt mit einer purpurnen Band und einem Hauch von theatralischem Flair. Fühlt sich ... explosiv an.
+    .desc = Ein breitkrempiger, spitzer Zaubererhut, geschmückt mit einem purpurroten Band und einem Hauch von theatralischem Flair. Fühlt sich ... explosiv an.
 
 ent-ClothingOuterWizardCrimsonReal = Purpur-Zauberrobe
     .desc = Ein fließender Satz roter und goldbeschnittener Gewänder, der für dramatische Zauberei sorgte. Du kannst spüren, wie die Kraft durch dich fließt...

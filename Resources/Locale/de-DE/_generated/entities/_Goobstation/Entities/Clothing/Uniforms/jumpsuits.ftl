@@ -77,7 +77,7 @@ ent-ClothingUniformJumpsuitHoPSummer = Sommerhemd des Personalchefs
     .desc = Der Leiter des Personals maßgefertigte Sommer-Outfit, für wenn du bequem Papierkram machen willst.
 
 ent-ClothingUniformJumpsuitCESummer = Sommerhemd des Chefingenieurs
-    .desc = Der Chef-Ingenieur der custom-commissioned Sommer-outfit, für wenn du nur willst, sich hinlegen und Blick auf die tesla.
+    .desc = Das maßgeschneiderte Sommeroutfit des Cheftechnikers, für alle, die sich einfach hinlegen und die Tesla betrachten wollen.
 
 ent-ClothingUniformJumpsuitPassengerQuarterzip = graue Quartiers
     .desc = Eine Quarterzip für den anspruchsvollen Assistenten.

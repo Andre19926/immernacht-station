@@ -1,5 +1,5 @@
 ent-Holoprojector = holographischer Schildprojektor
-    .desc = Ein handy-dandy holographischer projektor, der ein hausmeisterschild zeigt.
+    .desc = Ein praktischer holografischer Projektor, der ein Hausmeisterschild zeigt.
 
 ent-HoloprojectorEmpty = holographischer Schildprojektor
     .desc = Ein handy-dandy holographischer projektor, der ein hausmeisterschild zeigt.

@@ -15,9 +15,9 @@ ent-IronMetalFoam = Eisenmetallschaum
 ent-AluminiumMetalFoam = Aluminiummetallschaum
 
 ent-FoamedIronMetal = geschäumtes Eisenmetall
-    .desc = zur Abdichtung von Schiffskörperverletzungen.
+    .desc = Zum Abdichten von Hüllenbrüchen.
 
 ent-FoamedAluminiumMetal = geschäumtes Aluminiummetall
-    .desc = Resthafter Schaumstoff einer Aluminiumschaumgranate. leicht zu zerstören.
+    .desc = Überreste von lockerem Schaum einer Aluminiumschaumgranate. Leicht zu zerstören.
 
 ent-Resin = Harz

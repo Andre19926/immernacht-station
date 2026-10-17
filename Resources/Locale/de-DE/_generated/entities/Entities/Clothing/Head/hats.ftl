@@ -13,7 +13,7 @@ ent-ClothingHeadHatSecurityTrooper = Hut für Soldaten
     .desc = Ein Kampagnenhut für die Nanotrasen Troopers. Es soll auch mit einem Fall kommen ...
 
 ent-ClothingHeadHatCasa = Casa
-    .desc = kegelförmiger Hut.
+    .desc = Ein kegelförmiger Hut.
 
 ent-ClothingHeadHatBeretRND = Wissenschaftsbarett
     .desc = Eine Baskenmütze für echte Wissenschaftler.
@@ -144,7 +144,7 @@ ent-ClothingHeadPyjamaSyndicateRed = Rote Syndicate-Pyjamamütze
     .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
 ent-ClothingHeadPaperSack = Papiersackhut
-    .desc = Ein Papiersack mit groben Löchern für die Augen ausgeschnitten. Nützlich, um seine identität und / oder hässlichkeit zu verbergen.
+    .desc = Ein Papiersack mit grob ausgeschnittenen Löchern für die Augen. Nützlich, um die eigene Identität und/oder Hässlichkeit zu verbergen.
 
 ent-ClothingHeadPaperSackSmile = Lächelnder Papiersackhut
     .desc = Ein Papiersack mit groben Löchern für die Augen und ein skizzenhaftes Lächeln auf der Vorderseite. Nicht gruselig überhaupt.
@@ -159,7 +159,7 @@ ent-ClothingHeadNurseHat = Krankenschwesternhut
     .desc = Irgendwie habe ich das Gefühl, dass ich diesen Ort nicht verlassen soll.
 
 ent-ClothingHeadRastaHat = Rastahut
-    .desc = In der nähe von da beach, boyee.
+    .desc = Hier am Strand, Alter.
 
 ent-ClothingHeadSafari = Safari-Hafen
     .desc = Haltet die Sonne aus deinen Augen. Macht dich zu einem Ziel für die Einheimischen.

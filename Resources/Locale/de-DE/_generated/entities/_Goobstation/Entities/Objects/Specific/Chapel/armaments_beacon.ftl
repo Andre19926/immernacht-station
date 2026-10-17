@@ -1,2 +1,2 @@
 ent-ArmamentsBeacon = Bewaffnungsfeuer
-    .desc = Beschwöre eine Reihe von Standard-Seelsorgern, wie von I.C.R.A. diktiert.
+    .desc = Beschwöre eine Reihe von Standard-Kaplänen, wie von der I.C.R.A. vorgegeben.

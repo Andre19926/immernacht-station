@@ -8,7 +8,7 @@ ent-CigPackBlue = AcmeCo-Paket
     .desc = Für diejenigen, die irgendwie den Rekord für die meisten Krebstumoren erhalten wollen.
 
 ent-CigPackBlack = Nomads (Packung)
-    .desc = Nomaden sind extra stark, wenn dein Leben extra hart ist.
+    .desc = Nomads sind extra stark, wenn dein Leben extra hart ist.
 
 ent-CigPackSyndicate = Interdyne Herbals (Packung)
     .desc = Elite-Zigaretten für Elite-Syndicate-Agenten. Infundiert mit Medizin, wenn du mehr tun musst, als deine Nerven zu beruhigen.

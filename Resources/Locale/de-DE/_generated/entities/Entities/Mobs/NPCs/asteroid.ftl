@@ -1,5 +1,5 @@
 ent-MobGoliath = Goliath
-    .desc = Ein massives Tier, das seine Tollwürde mit langen Tentakeln ums Leben bringt und sie bedroht, ist unter keinen Umständen zu begrüßen.
+    .desc = Ein massives Tier, das mit langen Tentakeln seine Beute fesselt. Ihm zu drohen ist unter keinen Umständen ratsam.
 
 ent-ActionGoliathTentacle = [color=red]Tentakel-Slam[/color]
     .desc = Verwende deine Tentakel, um einen Zielspieler zu greifen und zu betäuben!
@@ -17,7 +17,7 @@ ent-MobHivelordBrood = Hivelordbrut
     .desc = Ein Fragment des ursprünglichen Hivelords, das sich hinter seinem Original verbirgt. Eine ist keine große Bedrohung, aber...
 
 ent-FoodHivelordRemains = Hivelord bleibt
-    .desc = Alles, was von einem Hivelord bleibt, scheint es zu sein, was es ihm erlaubt, Stücke von sich selbst zu brechen, ohne verletzt zu werden ... seine heilenden Eigenschaften werden bald inert, wenn sie nicht schnell verwendet werden. Versuche nicht darüber nachzudenken, was du isst.
+    .desc = Alles, was von einem Hivelord übrig bleibt. Es scheint das zu sein, was es ihm erlaubt, Teile von sich abzubrechen, ohne verletzt zu werden ... Die heilenden Eigenschaften werden bald wirkungslos, wenn es nicht schnell verwendet wird. Denk lieber nicht darüber nach, was du da isst.
 
 ent-FoodHivelordRemainsInert = inerte Hivelordreste
     .desc = Alles was von einem Hivelord übrig bleibt... Jetzt ist wirklich alles verloren.

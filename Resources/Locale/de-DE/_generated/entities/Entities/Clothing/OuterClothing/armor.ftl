@@ -47,7 +47,7 @@ ent-ClothingOuterArmorBone = Knochenpanzerung
     .desc = Sitzt auf dir wie eine zweite Haut.
 
 ent-ClothingOuterArmorPodWars = Ironclad II-Rüstung
-    .desc = Ein repurposed Anzug von ironclad II Rüstung, ein Relikt der Pod-Kriege.
+    .desc = Ein umfunktionierter Anzug der Ironclad-II-Rüstung, ein Relikt der Pod-Kriege.
 
 ent-CardArmour = Panzerung aus Pappe
     .desc = Ein mittelalterliches Bruststück aus Karton.

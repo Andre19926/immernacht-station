@@ -47,28 +47,28 @@ ent-LockerWallEvacRepair = Notfall-Shuttle-Notwand
     .desc = Es sind Notfälle ganz nach unten.
 
 ent-LockerWallBasePrisoner = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner2 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner3 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner4 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner5 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner6 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner7 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallPrisoner8 = Wandschrank für Gefangene
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerWallSyndicate = Blutrote Wand Spind
     .desc = Es ist ein Wandspeicher mit einem blutroten Design.

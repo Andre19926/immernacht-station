@@ -11,7 +11,7 @@ ent-d10Dice = d10
     .desc = Ein Würfel mit zehn Seiten. Nützlich für Prozentsätze.
 
 ent-d8Dice = d8
-    .desc = Ein Würfel mit acht Seiten. Es fühlt sich an ... glücklich.
+    .desc = Ein Würfel mit acht Seiten. Er fühlt sich ... glücklich an.
 
 ent-d6Dice = d6
     .desc = Ein Würfel mit sechs Seiten. Basic und serviceable.

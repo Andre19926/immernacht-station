@@ -97,7 +97,7 @@ ent-FoodBurgerTofu = Tofuburger
     .desc = Was ... ist das Fleisch?
 
 ent-FoodBurgerXeno = Xenoburger
-    .desc = riecht ätzend. Schmeckt nach Häresie.
+    .desc = Riecht ätzend. Schmeckt nach Häresie.
 
 ent-FoodBurgerMothRoach = Mottenschabenburger
     .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.

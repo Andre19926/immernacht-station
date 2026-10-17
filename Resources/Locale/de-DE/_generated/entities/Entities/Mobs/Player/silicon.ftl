@@ -20,7 +20,7 @@ ent-StationAiHoloLocal = KI-Hologramm
     .desc = Eine holographische Darstellung einer KI.
 
 ent-PlayerBorgBattery = Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.
 
 ent-PlayerBorgSyndicateAssaultBattery = Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.

@@ -8,7 +8,7 @@ ent-MailSyndicateSpam = Gründe für die Wahl von The Syndicate!
     .desc = Eine Werbung für das Syndicate.
 
 ent-MailAlternativeDimensionSpam = Schicke Verstärkungen!
-    .desc = Eine offizielle Mitteilung von ... einer alternativen Timeline?
+    .desc = Eine offizielle Mitteilung aus ... einer alternativen Zeitlinie?
 
 ent-MailNarsieCultSpam = Die Kinder von Nar'dich
     .desc = Ein lokaler Kult sucht Rekruten.

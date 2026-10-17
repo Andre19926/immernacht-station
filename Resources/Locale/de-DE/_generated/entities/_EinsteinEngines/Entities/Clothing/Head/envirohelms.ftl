@@ -164,7 +164,7 @@ ent-ClothingHeadEnvirohelmMagistrate = Magistrat-Umweltanzughelm
     .desc = Ein schlichter weißer Umweltanzug mit gelben Streifen.
 
 ent-ClothingHeadEnvirohelmColorWhite = Umweltanzughelm (weiß)
-    .desc = Ein generisches weißes Envirohelm.
+    .desc = Ein generischer weißer Envirohelm.
 
 ent-ClothingHeadEnvirohelmColorGrey = Umweltanzughelm (grau)
     .desc = Ein grauer Umweltanzug Helm.
@@ -215,7 +215,7 @@ ent-ClothingHeadEnvirohelmEnviroslacksColorRed = Umwelthosenhelm (rot)
     .desc = Das Lieblingsprojekt eines besonders possigen Plasmaman, dieser Umwelthelm, kommt mit roten Akzenten. Fancy!
 
 ent-ClothingHeadEnvirohelmEnviroslacksColorOrange = Umwelthosenhelm (orange)
-    .desc = Das Haustier Projekt eines besonders noblen Plasmaman, dieser envirohelm kommt mit orange Akzenten. Zesty!
+    .desc = Das Herzensprojekt eines besonders noblen Plasmamans, dieser Envirohelm kommt mit orangen Akzenten. Spritzig!
 
 ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = Umwelthosenhelm (grün)
     .desc = Das Haustierprojekt eines besonders noblen Plasmaman, dieser envirohelm kommt mit grünen Akzenten. Blatt!

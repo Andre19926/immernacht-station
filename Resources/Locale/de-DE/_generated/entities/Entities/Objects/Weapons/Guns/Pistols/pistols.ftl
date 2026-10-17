@@ -1,5 +1,5 @@
 ent-WeaponPistolViper = Viper
-    .desc = Eine schlanke Maschinenpistole, entworfen von der Waffle Corporation. Mit einem wählerschalter, der zwischen semi-auto und rock & roll umschaltet, schlägt die viper hoch über ihrer gewichtsklasse aufgrund ihrer masse und verschleierungsfähigkeit. Feeds von .35 Auto Pistolenmagazine.
+    .desc = Eine schlanke Maschinenpistole, entworfen von der Waffle Corporation. Mit einem Wahlschalter, der zwischen Halbautomatik und Rock ’n’ Roll umschaltet, schlägt die Viper hart zu.
 
 ent-WeaponPistolEchis = Echis
     .desc = Ein Cyborg-montiertes Waffensystem, das auf der Viper-Plattform basiert. Erstellt Munition im laufenden Betrieb von einem internen Hersteller, der sich langsam selbst auflädt.

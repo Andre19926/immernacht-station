@@ -5,7 +5,7 @@ ent-BoxLethalshot = Munitionskasten (12 Gauge-Pellet)
     .desc = Ein Karton aus 12 Gauge-Schrotflintengranaten. Beabsichtigt, allgemeine kinetische Munition aufzunehmen.
 
 ent-BoxShotgunSlug = Munitionskasten (12 Gauge Slug)
-    .desc = Eine Kartonbox mit 12 Gauge-Schrotgunschalen. mit der Absicht, Schlammmunition mit großer Reichweite aufzunehmen.
+    .desc = Eine Pappschachtel mit Schrotflintenpatronen im Kaliber 12. Gedacht für Flintenlaufgeschosse mit großer Reichweite.
 
 ent-BoxShotgunFlare = Munitionskiste (12 Gauge, Leuchtfackel)
     .desc = Ein Karton mit 12 Gauge-Schrotflintengranaten. Soll leuchtende Fackelmunition aufnehmen.

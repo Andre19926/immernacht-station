@@ -22,7 +22,7 @@ ent-WebShield = Bahnschild
 ent-ClockworkShield = Uhrwerksschild
 
 ent-MirrorShield = Spiegelschutz
-    .desc = Unheimlich leuchtet rot ... du hörst das Geometer flüstern
+    .desc = Leuchtet unheimlich rot ... du hörst den Geometer flüstern.
 
 ent-EnergyShield = Energieschild
     .desc = Exotische Energie Schild, wenn gefaltet, kann sogar in deine Tasche passen.

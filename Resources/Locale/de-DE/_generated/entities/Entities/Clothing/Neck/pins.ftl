@@ -34,7 +34,7 @@ ent-ClothingNeckPluralPin = mehrere Stifte
     .desc = Sei plural, tu Verbrechen.
 
 ent-ClothingNeckOmnisexualPin = Omnisexueller Pinsel
-    .desc = Sei omni do crime.
+    .desc = Sei omni, do crime.
 
 ent-ClothingNeckGenderqueerPin = Genderqueer Pin
     .desc = Verbrechen sein, Geschlecht tun
@@ -43,7 +43,7 @@ ent-ClothingNeckGenderfluidPin = Genderfluid Pin
     .desc = Sei geschlecht, sei fließend
 
 ent-ClothingNeckTransPin = Transgender Pin
-    .desc = Sei trans do crime.
+    .desc = Sei trans, do crime.
 
 ent-ClothingNeckAutismPin = neurodivergenter Pin
     .desc = Sei neurodivergent, tu Verbrechen.

@@ -119,4 +119,4 @@ ent-FoodCroissantRaw = Rohes Croissant
     .desc = Buttery, flaky Güte wartet auf geschehen.
 
 ent-FoodCroissantRawCotton = Rohes Croissant aus Baumwolle
-    .desc = Buttery, flaky, fibery Güte wartet auf passieren.
+    .desc = Butterige, blättrige, faserige Güte wartet darauf, zu passieren.

@@ -29,7 +29,7 @@ ent-DiseaseBehaviorDeaf = Taubheit
     .desc = Seltenes Krankheitssymptom, das vollständige Taubheit verursacht.
 
 ent-DiseaseBehaviorAnxiety = Angst
-    .desc = verursacht Angst und Angst vor Umarmungen.
+    .desc = Verursacht Angstzustände und Angst vor Umarmungen.
 
 ent-DiseaseBehaviorDrowsiness = Schläfrigkeit
     .desc = Verursacht einen starken Wunsch zu schlafen.

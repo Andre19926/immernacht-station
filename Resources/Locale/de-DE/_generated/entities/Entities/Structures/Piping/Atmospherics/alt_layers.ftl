@@ -47,10 +47,10 @@ ent-GasPassiveGateAlt2 = passives Gate
     .desc = Ein Einweg-Luftventil, das keinen Strom benötigt.
 
 ent-GasValveAlt1 = Handventil
-    .desc = Lässe mit einem Ventil, das verwendet werden kann, um den Lässe aus dem GL
+    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand unterbinden lässt.
 
 ent-GasValveAlt2 = Handventil
-    .desc = Lässe mit einem Ventil, das verwendet werden kann, um den Lässe aus dem GL
+    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand unterbinden lässt.
 
 ent-SignalControlledValveAlt1 = Signalventil
     .desc = Ein Rohr mit einem Ventil, das mit Signalen gesteuert werden kann.

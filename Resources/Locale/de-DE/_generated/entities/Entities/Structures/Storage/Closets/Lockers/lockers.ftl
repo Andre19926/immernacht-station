@@ -86,28 +86,28 @@ ent-GunSafeBaseSecure = Waffe sicher
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerPrisoner = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner2 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner3 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner4 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner5 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner6 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner7 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerPrisoner8 = Gefangenenschrank
-    .desc = Es ist ein sicherer spind für die persönlichen sachen eines häftlings während seiner zeit im gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerDetective = Detektivkabinett
     .desc = Normalerweise kalt und leer ... wie dein Herz.

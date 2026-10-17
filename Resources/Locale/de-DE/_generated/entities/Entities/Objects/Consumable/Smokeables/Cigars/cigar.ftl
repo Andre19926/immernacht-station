@@ -1,5 +1,5 @@
 ent-Cigar = Zigarre
-    .desc = Eine braune Rolle Tabak und ... naja, du bist dir nicht ganz sicher.
+    .desc = Eine braune Rolle Tabak und ... naja, du bist dir nicht ganz sicher, was noch.
 
 ent-CigarSpent = Zigarre
     .desc = Eine braune Rolle Tabak und ... naja, du bist dir nicht ganz sicher.

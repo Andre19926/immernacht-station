@@ -1,2 +1,2 @@
 ent-ClothingUniformJumpsuitChameleon = Uniform (schwarz)
-    .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.
+    .desc = Ein generischer Overall in Schwarz ohne Rangabzeichen.

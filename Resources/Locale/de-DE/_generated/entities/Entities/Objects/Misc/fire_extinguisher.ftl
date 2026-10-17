@@ -2,7 +2,7 @@ ent-FireExtinguisher = Feuerlöscher
     .desc = Es löscht Feuer.
 
 ent-BorgFireExtinguisher = Rangierstrahl
-    .desc = Basierend auf der Feuerlöschertechnologie ist der Manövrierjet ... nun ja, es ist nur ein größerer Feuerlöscher.
+    .desc = Basierend auf Feuerlöschertechnologie ist die Manövrierdüse ... nun ja, einfach ein größerer Feuerlöscher.
 
 ent-ExtinguisherSpray = Löschspray
 

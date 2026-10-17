@@ -1,2 +1,2 @@
 ent-EncryptionKeyFuture = futuristischer Verschlüsselungsschlüssel
-    .desc = Whiskey Echo ... was kommt als nächstes?
+    .desc = Whiskey Echo ... was kommt als Nächstes?

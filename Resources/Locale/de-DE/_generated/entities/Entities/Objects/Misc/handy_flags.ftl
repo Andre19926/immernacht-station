@@ -8,7 +8,7 @@ ent-SyndieHandyFlag = Syndicate-Handheld-Flagge
     .desc = Für wirklich rebellische Patrioten. Tod zu NT!
 
 ent-LGBTQHandyFlag = LGBTQ Handheld Flag
-    .desc = Die be gay do crime handy flagge.
+    .desc = Die „Be gay, do crime“-Handfahne.
 
 ent-PirateHandyFlag = Piratenhandflagge
     .desc = Halte es in deinen Händen, zeige diesen Karpfen, dass du keine Witze machst.

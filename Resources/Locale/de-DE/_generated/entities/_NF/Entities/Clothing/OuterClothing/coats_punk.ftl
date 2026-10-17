@@ -1,5 +1,5 @@
 ent-ClothingOuterCoatBomberPunkRed = Red Punk Bomber
-    .desc = Ya gotta 'ave Stil auf dem Straßen.
+    .desc = Du musst Stil auf der Straße haben.
 
 ent-ClothingOuterCoatJacketLeather = Lederjacke
     .desc = Rock'n'Roll, Babe!

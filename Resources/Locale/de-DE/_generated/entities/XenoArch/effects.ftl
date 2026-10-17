@@ -8,7 +8,7 @@ ent-XenoArtifactStorage = Einmaleffekt
     .desc = Erlangt die Fähigkeit zur versteckten Speicherung
 
 ent-XenoArtifactPhasing = Einmaleffekt
-    .desc = wird phasenweise
+    .desc = Wird phasenverschoben
 
 ent-XenoArtifactWandering = Einmaleffekt
     .desc = Beginnt sich sporadisch zu bewegen
@@ -29,7 +29,7 @@ ent-XenoArtifactGun = Einmaleffekt
     .desc = Erlangt die Fähigkeit der Waffe
 
 ent-XenoArtifactGhost = Einmaleffekt
-    .desc = wird fühlend
+    .desc = Wird empfindungsfähig
 
 ent-XenoArtifactOmnitool = Einmaleffekt
     .desc = Bekommt die Fähigkeit von Omnitool
@@ -74,7 +74,7 @@ ent-XenoArtifactMonkeySpawn = Wirkung
     .desc = Erschafft Primaten
 
 ent-XenoArtifactRadioactive = Einmaleffekt
-    .desc = wird leicht radioaktiv
+    .desc = Wird leicht radioaktiv
 
 ent-XenoArtifactChargeBattery = Wirkung
     .desc = Batterien aufladen
@@ -151,7 +151,7 @@ ent-XenoArtifactPolyLuminous = Wirkung
     .desc = Fleisch vorübergehend zu Licht umformen
 
 ent-XenoArtifactRadioactiveStrong = Einmaleffekt
-    .desc = wird hoch radioaktiv
+    .desc = Wird stark radioaktiv
 
 ent-XenoArtifactMaterialSpawnGlass = Wirkung
     .desc = Glas erzeugen

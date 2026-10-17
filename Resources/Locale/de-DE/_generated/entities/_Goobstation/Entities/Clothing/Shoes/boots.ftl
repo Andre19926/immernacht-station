@@ -17,7 +17,7 @@ ent-ClothingShoesRealJordans = Air Jordans
     .desc = Hochmoderne, offizielle, knitterfreie Jordans, die dich vor dem Ausrutschen schützen, wenn sie eingeschaltet sind.
 
 ent-ClothingShoesFakeJordans = Air Jordans
-    .desc = Bei näherer Betrachtung fühlt sich etwas darüber ab. Sind sie ... verkleinert? Nein, das kann es nicht sein. Warte, das Logo sieht ein wenig aus...
+    .desc = Bei näherer Betrachtung fühlt sich etwas daran seltsam an. Sind sie ... zerknittert? Nein, das kann nicht sein. Warte, das Logo sieht ein wenig falsch aus ...
 
 ent-ClothingShoesCreasedJordans = Zerknitterte Air Jordans
     .desc = Nein, warte ... das kann nicht sein ... SIE HABEN KNICKE!

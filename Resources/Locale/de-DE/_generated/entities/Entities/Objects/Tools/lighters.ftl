@@ -35,7 +35,7 @@ ent-WaffleCoFlippo = Waffle Co. flippo
     .desc = Eine robuste Masse produziert leichter. Das Waffle Co.-Logo dreht das Funkenrad, wenn es nach oben gedrückt wird, wodurch das Risiko leichter Verbrennungen selbst für den ungeschicktesten Benutzer minimiert wird.
 
 ent-HonkCoFlippo = Honk Co. flippo
-    .desc = ender Gag Feuerzeug produziert von Honk Co. versteckt in einer echten Bananenschale.
+    .desc = Ein schlüpfriges Gag-Feuerzeug von Honk Co., versteckt in einer echten Bananenschale.
 
 ent-DonkcoLighter = Donk Co. flippo
     .desc = Das Flippo der Wahl für den erfahrenen Verräter. A Breaded novelty Feuerzeug von Donk Co. Irgendwie essbar, während beleuchtet.

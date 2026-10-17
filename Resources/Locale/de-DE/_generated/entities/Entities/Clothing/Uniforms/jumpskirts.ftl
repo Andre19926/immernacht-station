@@ -56,7 +56,7 @@ ent-ClothingUniformJumpskirtHoSParadeMale = Paradeuniform des Sicherheitschefs (
     .desc = Ein Leiter der Sicherheits-Luxus-Bekleidung, für besondere Anlässe.
 
 ent-ClothingUniformJumpskirtCommandGeneric = Führungsuniform (Rock)
-    .desc = Ein generisches Command-colored Uniform, das nicht mit einer bestimmten Abteilung verbunden ist.
+    .desc = Eine generische Uniform in Kommandofarben, die keiner bestimmten Abteilung zugeordnet ist.
 
 ent-ClothingUniformJumpskirtHydroponics = Botaniker-Arbeitskleidung (Rock)
     .desc = Hat einen starken erdigen Geruch. Hoffentlich ist es nur schmutzig im Gegensatz zu verschmutzt.
@@ -130,7 +130,7 @@ ent-ClothingUniformJumpskirtJanimaid = Hausmädchenuniform
     .desc = Für Profis, nicht die Posens.
 
 ent-ClothingUniformJumpskirtJanimaidmini = Hausmädchenuniform mit Minirock
-    .desc = Elite-service, nicht einige candy wrappers.
+    .desc = Elite-Service, nicht irgendwelche Bonbonpapiere.
 
 ent-ClothingUniformJumpskirtLawyerRed = Red Advocat suitskirt
     .desc = Ein auffälliger roter Anzug, getragen von Anwälten und Show-offs.

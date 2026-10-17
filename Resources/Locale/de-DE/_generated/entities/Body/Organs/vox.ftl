@@ -5,7 +5,7 @@ ent-OrganVoxStomach = Magen
     .desc = Ein Magen, der nach Ammoniak riecht.
 
 ent-OrganVoxLiver = Leber
-    .desc = riecht brennbar.
+    .desc = Riecht brennbar.
 
 ent-OrganVoxHeart = Herz
     .desc = Das seltsame Herz einer Vox.

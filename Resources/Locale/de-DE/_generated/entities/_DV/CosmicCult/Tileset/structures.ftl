@@ -16,7 +16,7 @@ ent-CosmicMalignRift = Bösartige Kluft
     .desc = Ein böses Licht strömt von innen heraus.
 
 ent-CosmicVacuousSpire = vakuumiger Turm
-    .desc = Auch bekannt als "chuuni fork".
+    .desc = Auch bekannt als „Chuuni-Gabel“.
 
 ent-CosmicRadioJammer = multispektraler Inhibitor
     .desc = Strahlen starke kosmische Energie und verhindern Funkkommunikation in einem großen Bereich.

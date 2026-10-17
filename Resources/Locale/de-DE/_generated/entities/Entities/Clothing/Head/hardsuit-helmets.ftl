@@ -38,7 +38,7 @@ ent-ClothingHeadHelmetHardsuitRd = Forschungsdirektor-Hardsuit-Helm
     .desc = Leichter Hardsuit-Helm, der deine Kopfbewegungen nicht einschränkt.
 
 ent-ClothingHeadHelmetHardsuitSecurityRed = Sicherheitschef-Hardsuit-Helm
-    .desc = Sicherheitshelm mit der neuesten streng geheimen NT-HUD-Software. gehört der HoS an.
+    .desc = Sicherheits-Hardsuit-Helm mit der neuesten streng geheimen NT-HUD-Software. Gehört dem HoS.
 
 ent-ClothingHeadHelmetHardsuitLuxury = Luxus-Bergbau-Hardsuit-Helm
     .desc = Ein renovierter Bergbau-Helm, ausgestattet mit Satin-Dämpfung und einer zusätzlichen (nicht funktionierenden) Antenne, weil du das extra bist.

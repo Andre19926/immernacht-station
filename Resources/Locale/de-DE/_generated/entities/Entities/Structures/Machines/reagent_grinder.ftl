@@ -1,5 +1,5 @@
 ent-KitchenReagentGrinder = Reagenzmühle
-    .desc = von BlenderTech. Wird es sich vermischen? Lass es uns herausfinden!
+    .desc = Von BlenderTech. Wird es sich mischen lassen? Finden wir es heraus!
 
 ent-ReagentGrinderIndustrial = Industrielle Reagenzmühle
     .desc = Eine industrielle Reagenzmühle.
