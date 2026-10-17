@@ -1,10 +1,10 @@
-ent-ActionCosmicSiphon = Siphonentropie
+ent-ActionCosmicSiphon = Entropie absaugen
     .desc = Silent Siphon Entropie von deinem Ziel.
 
-ent-ActionCosmicBlank = Shunt Subjektivität
+ent-ActionCosmicBlank = Subjektivitätsverschiebung
     .desc = Schneite den Geist deines Ziels aus ihrem Körper und in die kosmische Dunkelheit und mache ihren Körper vorübergehend geistlos.
 
-ent-ActionCosmicPlaceMonument = Beckon Das Monument
+ent-ActionCosmicPlaceMonument = Monument herbeirufen
     .desc = Rufe das Monument in den realen Raum. Halte es versteckt und sicher vor Nicht-Kultisten!
 
 ent-ActionCosmicMoveMonument = Verlege das Monument
@@ -13,7 +13,7 @@ ent-ActionCosmicMoveMonument = Verlege das Monument
 ent-ActionCosmicReturn = Rückkehr
     .desc = Dissipiere deine Astralprojektion und kehre zu deinem Körper zurück.
 
-ent-ActionCosmicLapse = Abberant Lapse
+ent-ActionCosmicLapse = Aberranter Verfall
     .desc = Lappe die körperliche Form deines Ziels und mache es vorübergehend unveränderlich, unpassierbar und eingefroren.
 
 ent-ActionCosmicGlare = Nullblende
@@ -22,7 +22,7 @@ ent-ActionCosmicGlare = Nullblende
 ent-ActionCosmicIngress = Gewalteingriff
     .desc = Verwende einen konzentrierten Kraftstoß, um eine sichere Tür zu öffnen.
 
-ent-ActionCosmicImposition = Vakkulose Aufbringung
+ent-ActionCosmicImposition = Leere Aufbürdung
     .desc = Du negierst für kurze Zeit jeden eingehenden Schaden.
 
 ent-ActionCosmicNova = Astral-Nova
@@ -40,5 +40,5 @@ ent-ActionCosmicColossusIngress = Kolossales Eindringen
 ent-ActionCosmicColossusHibernate = Slumberschale
     .desc = Schlummern dich deinen Körper für eine gewisse Zeit, um Integrität zu regenerieren. Muss auf stabilem Boden erfolgen.
 
-ent-ActionCosmicColossusEffigy = Beckon an Effigy
+ent-ActionCosmicColossusEffigy = Bildnis herbeirufen
     .desc = Zeichne eine Effigy der Entropie in den Realraum.

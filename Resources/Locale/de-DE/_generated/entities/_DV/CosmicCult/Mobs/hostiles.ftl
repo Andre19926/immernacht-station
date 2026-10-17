@@ -4,5 +4,5 @@ ent-MobCosmicCustodianHostile = Bösartige Verwahrstelle
 ent-MobCosmicOracleHostile = Maulkorb-Orakel
     .desc = Eine Abscheulichkeit aus bösartiger Masse. Sein Blick sucht unerbittlich.
 
-ent-MobCosmicLodestarHostile = Malign Lodestar
+ent-MobCosmicLodestarHostile = Maligner Leitstern
     .desc = Eine Abscheulichkeit aus bösartiger Masse. Ein sengendes Licht schimmert im Inneren.

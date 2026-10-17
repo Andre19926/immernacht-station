@@ -21,14 +21,14 @@ ghost-role-colossus-briefing =
 
 ghost-role-colossus-death = Der Koloss bricht zusammen, sein Licht erlischt.
 ghost-role-colossus-hibernate = Der Koloss fängt an, Energie anzuziehen!
-ghost-role-colossus-effigy-confirm = Wenn die Platzierung gültig ist, drücke erneut auf Beckon an Effigy.
+ghost-role-colossus-effigy-confirm = Wenn die Platzierung gültig ist, drücke erneut auf „Bildnis herbeirufen“.
 
-ghost-role-colossus-effigy-error-grid = Ungültiger Standort! Ein Effigy muss auf eine stabile Oberfläche gelockt werden.
-ghost-role-colossus-effigy-error-location = Ungültiger Standort! Die Effigy muss in die Nähe gelockt werden {$LOCATION}.
-ghost-role-colossus-effigy-error-intersection = Zu voll! Ein Effigy erfordert, dass ein leerer 3x1-Bereich angelockt wird.
-ghost-role-colossus-effigy-error-space = Zu nah am Weltraum! Ein Effigy muss mindestens {$DISTANCE}m weg.
+ghost-role-colossus-effigy-error-grid = Ungültiger Standort! Ein Bildnis muss auf einer stabilen Oberfläche verankert werden.
+ghost-role-colossus-effigy-error-location = Ungültiger Standort! Das Bildnis muss in der Nähe von {$LOCATION} verankert werden.
+ghost-role-colossus-effigy-error-intersection = Zu eng! Ein Bildnis benötigt einen freien 3x1-Bereich, um verankert zu werden.
+ghost-role-colossus-effigy-error-space = Zu nah am Weltraum! Ein Bildnis muss mindestens {$DISTANCE}m entfernt sein.
 
-objective-condition-effigy-no-target = Beckon ein effigy, wo immer sie wollen.
+objective-condition-effigy-no-target = Rufe ein Bildnis herbei, wo immer du willst.
 objective-condition-effigy = Rufe ein Götzenbild in der Nähe von „{$location}“ herbei.
 
 # MINDSINK (Positronic Brain)
@@ -37,10 +37,10 @@ ghost-role-mindsink-installed = Flüstern summt von seiner Oberfläche!
 ghost-role-mindsink-off = Es ruht.
 ghost-role-mindsink-still-searching = Es bezieht sich auf die Noösphere...
 ghost-role-mindsink-searching = Es hat begonnen, sich auf die Noösphere zu stützen ...
-ghost-role-mindsink-role-name = Bösartige Mindsink
+ghost-role-mindsink-role-name = Maligner Mindsink
 ghost-role-mindsink-role-description = Diene der Stationscrew, trotz deiner ungewöhnlichen Herkunft.
 ghost-role-mindsink-wipe-device-verb-text = Lösche den Verstand
 ghost-role-mindsink-wiped-device = Der Verstand wurde ausgelöscht.
-ghost-role-mindsink-stop-searching-verb-text = Stop Seeing
+ghost-role-mindsink-stop-searching-verb-text = Suche beenden
 ghost-role-mindsink-stopped-searching = Noösphärische Resonanz stoppte.
 ghost-role-mindsink-slot-component-slot-name-brain = Gehirn

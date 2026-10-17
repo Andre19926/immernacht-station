@@ -11,13 +11,13 @@ monument-interface-entropy-infused-label = Infundiert:
 monument-interface-entropy-value = {$infused} Entropie
 monument-interface-entropy-available-label = Zur Verwendung verfügbar:
 monument-interface-entropy-next-stage-title = Entropie bis zur nächsten Stufe:
-monument-interface-entropy-seperator = OR
+monument-interface-entropy-seperator = ODER
 monument-interface-entropy-crew-convert-title = Konvertiert bis zur nächsten Stufe:
 
 # Glyphs
 monument-interface-glyphs-title = Glyphen
-monument-interface-glyphs-button-scribe = Scribe Glyphe
-monument-interface-glyphs-button-unscribe = Unscribe Glyph
+monument-interface-glyphs-button-scribe = Glyphe einritzen
+monument-interface-glyphs-button-unscribe = Glyphe löschen
 
 # Influences
 monument-interface-influences-title = Einflüsse
@@ -29,4 +29,4 @@ monument-interface-influences-button-gain = Gewinn
 monument-interface-influences-purchased = erhalten
 monument-interface-influences-owned-tooltip = Du besitzt diesen Einfluss bereits.
 monument-interface-influences-unlocked-not-enough-entropy-tooltip = Du brauchst mehr Entropie ({$entropy}), um diesen Einfluss zu gewinnen.
-monument-interface-influences-locked-tooltip = Dieser Einfluss ist gesperrt, liefern mehr Entropie auf das Denkmal.
+monument-interface-influences-locked-tooltip = Dieser Einfluss ist gesperrt. Liefere mehr Entropie an das Monument.

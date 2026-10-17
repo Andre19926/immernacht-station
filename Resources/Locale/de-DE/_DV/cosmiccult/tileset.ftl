@@ -1,8 +1,8 @@
-tiles-cosmiccult-floor-glyph = bösartige Glyphenoberfläche
-tiles-cosmiccult-floor-smooth = Böden glatte Oberfläche
-tiles-cosmiccult-floor-half = malign Halbmuster Oberfläche
-tiles-cosmiccult-floor-notched = Oberfläche des malignen Kerbmusters
-tiles-cosmiccult-floor-split = Böde Split-Muster-Oberfläche
+tiles-cosmiccult-floor-glyph = maligne Glyphenoberfläche
+tiles-cosmiccult-floor-smooth = maligne glatte Oberfläche
+tiles-cosmiccult-floor-half = maligne Halbmuster-Oberfläche
+tiles-cosmiccult-floor-notched = maligne Kerbmuster-Oberfläche
+tiles-cosmiccult-floor-split = maligne Split-Muster-Oberfläche
 
-tiles-cosmiccult-floor-void = leere Bodenfläche
-tiles-cosmiccult-floor-malign = Bödenfläche
+tiles-cosmiccult-floor-void = leere Bodenoberfläche
+tiles-cosmiccult-floor-malign = maligne Bodenoberfläche

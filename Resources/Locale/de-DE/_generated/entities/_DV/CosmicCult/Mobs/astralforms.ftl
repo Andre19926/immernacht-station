@@ -10,5 +10,5 @@ ent-MobCosmicCustodian = Bösartige Verwahrstelle
 ent-MobCosmicOracle = Maulkorb-Orakel
     .desc = Eine Abscheulichkeit aus bösartiger Masse. Sein Blick sucht unerbittlich.
 
-ent-MobCosmicLodestar = Malign Lodestar
+ent-MobCosmicLodestar = Maligner Leitstern
     .desc = Eine Abscheulichkeit aus bösartiger Masse. Ein sengendes Licht schimmert im Inneren.

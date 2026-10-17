@@ -15,7 +15,7 @@ reagent-name-anti-entropy = flüssige Antientropie
 
 reagent-desc-anti-entropy = Eine geheimnisvolle Substanz, die die Gesetze der Thermodynamik selbst zu leugnen scheint. Überlastet den Körper mit bösartiger Energie, wenn er aufgenommen wird.
 
-reagent-physical-desc-malign = Wurm
+reagent-physical-desc-malign = maligne
 
 reagent-condition-is-cultist = Ziel ist ein kosmischer Kultist
 reagent-condition-is-not-cultist = Ziel ist kein kosmischer Kultist
