@@ -1,2 +1,2 @@
-ent-ChangelingClothingOuterHardsuit = organischer Raumanzug
-    .desc = Eine raumgerechte Biomasse aus druck- und temperaturbeständigem Gewebe.
+ent-ChangelingClothingOuterHardsuit = Organischer Hardsuit
+    .desc = Eine raumtaugliche Biomasse aus druck- und temperaturbeständigem Gewebe.

@@ -1,7 +1,7 @@
 ent-MobMouseBlob = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
-ent-SpawnPointGhostBlobRat = Maus Blob Spawn Point
+ent-SpawnPointGhostBlobRat = Blob-Mäuse-Spawnpunkt
 
-ent-MindRoleBlob = Blob Rolle
-    .desc = Mind Role Entität
+ent-MindRoleBlob = Blob-Rolle
+    .desc = Mind-Role-Entität

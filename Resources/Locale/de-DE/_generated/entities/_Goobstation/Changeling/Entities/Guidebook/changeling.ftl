@@ -1,2 +1,2 @@
-ent-GuidebookChangelingFluff = Reiseführerwechsel
-    .desc = Du solltest das nicht normal sehen.
+ent-GuidebookChangelingFluff = Wechselbalg-Leitfaden
+    .desc = Das solltest du nicht sehen.

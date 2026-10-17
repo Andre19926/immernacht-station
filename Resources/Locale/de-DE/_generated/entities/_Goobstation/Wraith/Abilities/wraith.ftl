@@ -1,5 +1,5 @@
-ent-WraithAbilities = Wraith Fähigkeiten
+ent-WraithAbilities = Phantomgeist-Fähigkeiten
 
-ent-HarbingerAbilities = Harbinger Fähigkeiten
+ent-HarbingerAbilities = Harbinger-Fähigkeiten
 
-ent-PlaguebringerAbilities = Pestbringerfähigkeiten
+ent-PlaguebringerAbilities = Pestbringer-Fähigkeiten

@@ -1,5 +1,5 @@
-ent-MobRotHulk = Aufgeblasene Gräuel
-    .desc = Eine verrottende, wandelnde Masse aus Fleisch.
+ent-MobRotHulk = Aufgedunsene Gräuel
+    .desc = Eine verrottende, wandelnde Fleischmasse.
 
-ent-MobRotHulkBuff = Riesiger, von der Pest geplagter Goliath
-    .desc = Eine verrottende, wandelnde Masse aus Fleisch.
+ent-MobRotHulkBuff = Riesiger pestgeplagter Goliath
+    .desc = Eine verrottende, wandelnde Fleischmasse.

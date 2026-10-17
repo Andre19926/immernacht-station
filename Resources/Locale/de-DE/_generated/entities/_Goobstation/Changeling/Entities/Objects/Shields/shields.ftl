@@ -1,2 +1,2 @@
-ent-ChangelingShield = organischer Schild
-    .desc = Ein großes, fleischiges Schild.
+ent-ChangelingShield = Organischer Schild
+    .desc = Ein großer, fleischiger Schild.

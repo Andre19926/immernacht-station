@@ -1,1 +1,1 @@
-ent-MobObserverBlobController = BLOB-Beobachter-Anpasser
+ent-MobObserverBlobController = Blob-Beobachter-Steuerung

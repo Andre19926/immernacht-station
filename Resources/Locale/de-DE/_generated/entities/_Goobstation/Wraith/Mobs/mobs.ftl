@@ -1,26 +1,26 @@
 ent-MobSkeletonGoon = Schadskelett
-    .desc = Ein feindliches Skelett, das von einem Wraith beschworen wird.
+    .desc = Ein feindliches Skelett, beschworen von einem Phantomgeist.
 
-ent-MobCrunched = Transponierter Wissenschaftler
-    .desc = Ein Kerl, der zwischen den Dimensionen hin- und hergeschoben zu sein scheint. Kein guter Staat, in dem man sein kann.
+ent-MobCrunched = Zerquetschter Wissenschaftler
+    .desc = Ein Kerl, der zwischen die Dimensionen gequetscht worden zu sein scheint. Nicht gerade ein guter Zustand.
 
-ent-MobShade = Dunkelheit
+ent-MobShade = Schatten
     .desc = Oh Gott.
 
-ent-MobMonstrosityHead = mechanische Monstrosität
-    .desc = Ein schwer entstellter menschlicher Rumpf, der durch die mechanischen Teile gewaltsam am Leben erhalten wird.
+ent-MobMonstrosityHead = Mechanische Monstrosität
+    .desc = Ein schwer entstellter menschlicher Rumpf, der durch mechanische Teile gewaltsam am Leben gehalten wird.
 
-ent-MobMonstrosityBody = mechanische Monstrosität
-    .desc = Ein schwer entstellter menschlicher Rumpf, der durch die mechanischen Teile gewaltsam am Leben erhalten wird.
+ent-MobMonstrosityBody = Mechanische Monstrosität
+    .desc = Ein schwer entstellter menschlicher Rumpf, der durch mechanische Teile gewaltsam am Leben gehalten wird.
 
 ent-MobLion = Löwe
-    .desc = Oh Christus.
+    .desc = Oh Gott.
 
 ent-MobAncientRepairBot = Seltsamer Roboter
-    .desc = Es sieht aus wie eine Art schwimmender Reparaturbot oder so?
+    .desc = Er sieht aus wie eine Art schwebender Reparaturroboter oder so?
 
 ent-MobAncientGuardBot = Seltsamer Roboter
-    .desc = Ein Sicherheitsroboter, etwas scheint ein bisschen aus.
+    .desc = Ein Sicherheitsroboter, mit dem irgendetwas nicht stimmt.
 
 ent-MobAncientRobot1 = ???
     .desc = Was zum Teufel ist das?
@@ -38,28 +38,28 @@ ent-MobSkeletonGoonLesser = Schadskelett
     .desc = Ein feindliches Skelett, das von einem Wraith beschworen wird.
 
 ent-MobSkeletonGoonWraith = Schadskelett
-    .desc = Ein feindliches Skelett, das von einem Wraith beschworen wird.
+    .desc = Ein feindliches Skelett, beschworen von einem Phantomgeist.
 
-ent-MobCrunchedWraith = Transponierter Wissenschaftler
-    .desc = Ein Kerl, der zwischen den Dimensionen hin- und hergeschoben zu sein scheint. Kein guter Staat, in dem man sein kann.
+ent-MobCrunchedWraith = Zerquetschter Wissenschaftler
+    .desc = Ein Kerl, der zwischen die Dimensionen gequetscht worden zu sein scheint. Nicht gerade ein guter Zustand.
 
-ent-MobShadeWraith = Dunkelheit
+ent-MobShadeWraith = Schatten
     .desc = Oh Gott.
 
-ent-MobMonstrosityHeadWraith = mechanische Monstrosität
-    .desc = Ein schwer entstellter menschlicher Rumpf, der durch die mechanischen Teile gewaltsam am Leben erhalten wird.
+ent-MobMonstrosityHeadWraith = Mechanische Monstrosität
+    .desc = Ein schwer entstellter menschlicher Rumpf, der durch mechanische Teile gewaltsam am Leben gehalten wird.
 
-ent-MobMonstrosityBodyWraith = mechanische Monstrosität
-    .desc = Ein schwer entstellter menschlicher Rumpf, der durch die mechanischen Teile gewaltsam am Leben erhalten wird.
+ent-MobMonstrosityBodyWraith = Mechanische Monstrosität
+    .desc = Ein schwer entstellter menschlicher Rumpf, der durch mechanische Teile gewaltsam am Leben gehalten wird.
 
 ent-MobLionWraith = Löwe
-    .desc = Oh Christus.
+    .desc = Oh Gott.
 
 ent-MobAncientRepairBotWraith = Seltsamer Roboter
-    .desc = Es sieht aus wie eine Art schwimmender Reparaturbot oder so?
+    .desc = Er sieht aus wie eine Art schwebender Reparaturroboter oder so?
 
 ent-MobAncientGuardBotWraith = Seltsamer Roboter
-    .desc = Ein Sicherheitsroboter, etwas scheint ein bisschen aus.
+    .desc = Ein Sicherheitsroboter, mit dem irgendetwas nicht stimmt.
 
 ent-MobAncientRobot1Wraith = ???
     .desc = Was zum Teufel ist das?
@@ -74,13 +74,13 @@ ent-MobAncientLegsWraith = ???
     .desc = Was zum Teufel ist das?
 
 ent-MobBearGoonWraith = Bär
-    .desc = Warum starrst du an? Noch nie einen Bären gesehen?
+    .desc = Was starrst du so? Noch nie einen Bären gesehen?
 
-ent-MobBrullbarWraith = Oberarm
+ent-MobBrullbarWraith = Brullbär
     .desc = Oh Gott.
 
 ent-MobBGunbotWraith = Gunbot
-    .desc = Ein Sicherheitsroboter, etwas scheint ein bisschen aus.
+    .desc = Ein Sicherheitsroboter, mit dem irgendetwas nicht stimmt.
 
-ent-MobNukebotWraith = Syndicate Gunbot
-    .desc = Ein älteres Modell des Syndicate-S Angriff borg, spezialisiert auf Nahkampf.
+ent-MobNukebotWraith = Syndicate-Gunbot
+    .desc = Ein älteres Modell des Syndicate-Angriffsborgs, spezialisiert auf den Nahkampf.

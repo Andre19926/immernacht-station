@@ -1,104 +1,104 @@
-ent-ActionEvolutionMenu = Offenes Evolutionsmenü
+ent-ActionEvolutionMenu = Evolutionsmenü öffnen
     .desc = Öffnet das Evolutionsmenü.
 
-ent-ActionAbsorbDNA = Absorbierende DNA
-    .desc = Nimm die DNA des Ziels auf und schäle sie dabei. Kosten 25 Chemikalien.
+ent-ActionAbsorbDNA = DNA absorbieren
+    .desc = Nimm die DNA des Ziels auf und häute es dabei. Kostet 25 Chemikalien.
 
 ent-ActionStingExtractDNA = DNA-Extraktionsstich
-    .desc = Stiehl die genetische Information deines Ziels. Kosten 25 Chemikalien.
+    .desc = Stiehl die genetische Information deines Ziels. Kostet 25 Chemikalien.
 
-ent-ActionChangelingTransformCycle = Zyklus-DNA
-    .desc = Zirkuliere deine verfügbare DNA.
+ent-ActionChangelingTransformCycle = DNA durchschalten
+    .desc = Schalte durch deine verfügbare DNA.
 
-ent-ActionChangelingTransform = Transform
-    .desc = Verwandle dich in einen anderen Humanoiden. Es kommt nicht mit Kleidung. Kosten 5 Chemikalien.
+ent-ActionChangelingTransform = Verwandlung
+    .desc = Verwandle dich in einen anderen Humanoiden. Kleidung wird nicht mitverwandelt. Kostet 5 Chemikalien.
 
-ent-ActionRegenerativeStasis = Regenerative Stasis
-    .desc = Bereite / lassen dich regenerative Stasis. Kosten 15 Chemikalien zu verlassen.
+ent-ActionRegenerativeStasis = Regenerative Stase
+    .desc = Tritt in die regenerative Stase ein oder verlasse sie. Das Verlassen kostet 15 Chemikalien.
 
-ent-ActionRegenerate = Regenerat
+ent-ActionRegenerate = Regenerieren
     .desc = Regeneriere fehlende Gliedmaßen, stelle Blut wieder her, stoppe Blutungen, repariere Wunden und heile gebrochene Knochen. Kostet 15 Chemikalien.
 
-ent-ActionToggleArmblade = Toggle Armklinge
-    .desc = Verwandeln dich einen deiner Arme in eine starke Klinge, die aus Knochen und Fleisch besteht. Retract auf sekundäre Verwendung. Kosten 15 Chemikalien.
+ent-ActionToggleArmblade = Armklinge umschalten
+    .desc = Verwandle einen deiner Arme in eine starke Klinge aus Knochen und Fleisch. Zieh sie mit der Sekundäraktion wieder ein. Kostet 15 Chemikalien.
 
-ent-ActionToggleHammer = Toggle Arm Hammer
-    .desc = Verwandeln dich einen deiner Arme in einen starken Hammer, der aus Knochen und Fleisch besteht. Retract auf sekundäre Verwendung. Kosten 15 Chemikalien.
+ent-ActionToggleHammer = Armhammer umschalten
+    .desc = Verwandle einen deiner Arme in einen starken Hammer aus Knochen und Fleisch. Zieh ihn mit der Sekundäraktion wieder ein. Kostet 15 Chemikalien.
 
-ent-ActionToggleClaw = Kniehebelarmklaue
-    .desc = Reformiere einen deiner Arme in eine starke Klaue, bestehend aus Knochen und Fleisch. Retract auf sekundäre Verwendung. Kosten 15 Chemikalien.
+ent-ActionToggleClaw = Armklaue umschalten
+    .desc = Forme einen deiner Arme in eine starke Klaue aus Knochen und Fleisch um. Zieh sie mit der Sekundäraktion wieder ein. Kostet 15 Chemikalien.
 
-ent-ActionToggleDartGun = Toggle Dart Gun
-    .desc = Verwandeln dich einen deiner Arme in eine Dartpistole, die aus Knochen und Fleisch besteht. Retract auf sekundäre Verwendung. Kosten 15 Chemikalien.
+ent-ActionToggleDartGun = Pfeilpistole umschalten
+    .desc = Verwandle einen deiner Arme in eine Pfeilpistole aus Knochen und Fleisch. Zieh sie mit der Sekundäraktion wieder ein. Kostet 15 Chemikalien.
 
 ent-ActionCreateBoneShard = Knochensplitter formen
-    .desc = Brich Scherben deines Knochens ab und forme sie zu einem Wurfstern. Kosten 15 Chemikalien.
+    .desc = Brich Splitter von deinen Knochen ab und forme sie zu einem Wurfstern. Kostet 15 Chemikalien.
 
-ent-ActionToggleChitinousArmor = Toggle Rüstung
-    .desc = Aufblase deinen Körper in eine alles verbrauchende chitinöse Masse von Rüstung. Kosten 25 Chemikalien.
+ent-ActionToggleChitinousArmor = Chitinrüstung umschalten
+    .desc = Blähe deinen Körper zu einer alles verschlingenden, chitinösen Rüstungsmasse auf. Kostet 25 Chemikalien.
 
-ent-ActionToggleOrganicShield = Formblatt
-    .desc = Reformiere einen deiner Arme in einen großen, fleischigen Schild. Kosten 20 Chemikalien.
+ent-ActionToggleOrganicShield = Organischer Schild
+    .desc = Forme einen deiner Arme in einen großen, fleischigen Schild um. Kostet 20 Chemikalien.
 
-ent-ActionShriekDissonant = Dissonant Shriek
-    .desc = Sende einen EMP-Blast aus, nur mit deiner Stimme. Kosten 30 Chemikalien.
+ent-ActionShriekDissonant = Dissonanter Schrei
+    .desc = Sende einen EMP-Impuls aus – allein mit deiner Stimme. Kostet 30 Chemikalien.
 
-ent-ActionShriekResonant = Resonant Shriek
+ent-ActionShriekResonant = Resonanter Schrei
     .desc = Desorientiere Menschen und lass Lichter zerspringen – allein mit deiner Stimme. Kostet 30 Chemikalien.
 
-ent-ActionToggleStrainedMuscles = Dehnungsmuskeln
-    .desc = Bewege dich mit extrem schnellen Geschwindigkeiten. Ausdauerschaden verursacht.
+ent-ActionToggleStrainedMuscles = Gespannte Muskeln
+    .desc = Bewege dich mit extrem hoher Geschwindigkeit. Verursacht Ausdauerschaden.
 
-ent-ActionStingBlind = Blindheitsstachel
-    .desc = Still stechen dich dein Ziel, blende sie für kurze Zeit und mache sie nahe gesichtet. Kosten 25 Chemikalien.
+ent-ActionStingBlind = Blindstich
+    .desc = Stich dein Ziel unbemerkt, um es kurzzeitig zu blenden und kurzsichtig zu machen. Kostet 25 Chemikalien.
 
-ent-ActionStingCryo = Kryogener Sting
-    .desc = Still stechen dich dein Ziel, ständig verlangsamen und einfrieren. Kosten 25 Chemikalien.
+ent-ActionStingCryo = Kryostich
+    .desc = Stich dein Ziel unbemerkt, um es dauerhaft zu verlangsamen und einzufrieren. Kostet 25 Chemikalien.
 
-ent-ActionStingLethargic = Lethargischer Sting
-    .desc = Injiziere leise einen Cocktail aus Anästhetika in das Ziel. Kosten 30 Chemikalien.
+ent-ActionStingLethargic = Lethargischer Stich
+    .desc = Injiziere dem Ziel unbemerkt einen Cocktail aus Betäubungsmitteln. Kostet 30 Chemikalien.
 
-ent-ActionStingMute = Mute Sting
-    .desc = Still stechen dich dein Ziel, völlig zum Schweigen bringen sie für eine kurze Zeit. Kosten 25 Chemikalien.
+ent-ActionStingMute = Stummheitsstich
+    .desc = Stich dein Ziel unbemerkt, um es kurzzeitig völlig zum Schweigen zu bringen. Kostet 25 Chemikalien.
 
-ent-ActionStingFakeArmblade = Armblade Sting
-    .desc = Still stechen dich dein Ziel, so dass sie für kurze Zeit eine langweilige Armklinge wachsen. Kosten 30 Chemikalien.
+ent-ActionStingFakeArmblade = Falscher Armklingenstich
+    .desc = Stich dein Ziel unbemerkt, sodass ihm kurzzeitig eine nutzlose Armklinge wächst. Kostet 30 Chemikalien.
 
-ent-ActionStingTransform = Transformation Sting
-    .desc = Stich still dein Ziel und verwandeln dich es in eine Person deiner Wahl. Kosten 75 Chemikalien.
+ent-ActionStingTransform = Verwandlungsstich
+    .desc = Stich dein Ziel unbemerkt und verwandle es in eine Person deiner Wahl. Kostet 75 Chemikalien.
 
-ent-ActionLayEgg = Laienei
-    .desc = Pflanze ein Ei in eine tote Leiche, die für uns in eine neue Form reifen wird.
+ent-ActionLayEgg = Ei legen
+    .desc = Pflanze ein Ei in eine Leiche, das für uns zu einer neuen Form heranreifen wird.
 
 ent-ActionAnatomicPanacea = Anatomisches Allheilmittel
     .desc = Heile dich von Krankheiten, Leiden, Strahlung, Toxinen, Trunkenheit und Hirnschäden. Kostet 30 Chemikalien.
 
-ent-ActionAugmentedEyesight = Augmented Eyesight
-    .desc = Röntgensicht umschalten.
+ent-ActionAugmentedEyesight = Verbessertes Sehvermögen
+    .desc = Schalte die Röntgensicht um.
 
 ent-ActionBiodegrade = Bioabbau
-    .desc = Erbrich eine ätzende Substanz auf irgendwelche Beschränkungen oder jemandes Gesicht. Kosten 30 Chemikalien.
+    .desc = Spei eine ätzende Substanz auf Fesseln oder jemandes Gesicht. Kostet 30 Chemikalien.
 
 ent-ActionChameleonSkin = Chamäleonhaut
-    .desc = Mische dich langsam in die Umwelt ein. Kosten 20 Chemikalien.
+    .desc = Verschmelze langsam mit der Umgebung. Kostet 20 Chemikalien.
 
-ent-ActionDarknessAdaption = Anpassung der Dunkelheit
-    .desc = Umschalten, um lichtdurchlässig zu werden und Nachtsicht in der Dunkelheit zu gewinnen. Kosten 10 Chemikalien.
+ent-ActionDarknessAdaption = Dunkelheitsanpassung
+    .desc = Schalte um, um in der Dunkelheit lichtdurchlässig zu werden und Nachtsicht zu erhalten. Kostet 10 Chemikalien.
 
 ent-ActionAdrenalineReserves = Adrenalinreserven
-    .desc = Setze starkes Adrenalin aus deinen Drüsen frei. Kosten 30 Chemikalien.
+    .desc = Setze starkes Adrenalin aus deinen Drüsen frei. Kostet 30 Chemikalien.
 
-ent-ActionFleshmend = Fleshmend
-    .desc = Heile dich schnell selbst. Kosten 30 Chemikalien.
+ent-ActionFleshmend = Fleischheilung
+    .desc = Heile dich schnell selbst. Kostet 30 Chemikalien.
 
 ent-ActionLastResort = Letztes Mittel
-    .desc = Gib deinen gegenwärtigen Körper auf und entkomme in Form einer Kopfstütze. Kosten 20 Chemikalien.
+    .desc = Gib deinen jetzigen Körper auf und entkomme in Gestalt eines Kopfkrabblers. Kostet 20 Chemikalien.
 
 ent-ActionToggleLesserForm = Kleinere Form
-    .desc = Gib deine gegenwärtige Form auf und verwandle dich in einen Affen. Kosten 20 Chemikalien.
+    .desc = Gib deine jetzige Form auf und verwandle dich in einen Affen. Kostet 20 Chemikalien.
 
-ent-ActionHivemindAccess = Hivemind Access
-    .desc = Tune deine chemischen rezeptoren für die hivemind-kommunikation.
+ent-ActionHivemindAccess = Schwarmgeist-Zugang
+    .desc = Stimme deine chemischen Rezeptoren auf die Kommunikation des Schwarmgeists ab.
 
-ent-ActionAbsorbBiomatter = Absorbierte Biomaterie
-    .desc = Absorbiere ein Lebensmittel, um einige Chemikalien zurückzugewinnen.
+ent-ActionAbsorbBiomatter = Biomaterie absorbieren
+    .desc = Absorbiere ein Nahrungsmittel, um einige Chemikalien zurückzugewinnen.

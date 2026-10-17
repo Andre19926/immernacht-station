@@ -1,7 +1,7 @@
 ent-StatusEffectTouchOfEvil = Berührung des Bösen
 
-ent-StatusEffectRally = Rallye
+ent-StatusEffectRally = Sammeln
 
-ent-StatusEffectShuffle = Shuffle
+ent-StatusEffectShuffle = Schlängeln
 
-ent-StatusEffectWeakenedWraith = schwach
+ent-StatusEffectWeakenedWraith = Geschwächt

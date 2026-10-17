@@ -1,2 +1,2 @@
-ent-SaltLine = Salzleitung
-    .desc = Eine Linie Salz. Haltet die Geister fern, oder so sagen sie.
+ent-SaltLine = Salzlinie
+    .desc = Eine Linie aus Salz. Hält Geister fern, heißt es.

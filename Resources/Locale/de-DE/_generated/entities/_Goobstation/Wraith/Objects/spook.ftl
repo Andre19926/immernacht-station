@@ -1,5 +1,5 @@
 ent-SpookObject = ???
-    .desc = Es kann verschiedene Dinge tun, indem es mit ihm interagiert wird.
+    .desc = Man kann mit ihm interagieren, um verschiedene Dinge auszulösen.
 
 ent-EctoplasmGoon = Ektoplasma
-    .desc = Ein Globus von wer weiß was. Einfach nur anzustarren gibt dir die Kriechen.
+    .desc = Ein Klumpen von wer weiß was. Ihn nur anzustarren, verursacht dir Gänsehaut.

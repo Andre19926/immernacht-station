@@ -1,1 +1,1 @@
-ent-RevenantAbilities = Überlebende Fähigkeiten
+ent-RevenantAbilities = Wiedergänger-Fähigkeiten

@@ -1,2 +1,2 @@
-ent-RatDen = Ratten
-    .desc = Ein Haufen Müll, der vage einem Nest ähnelt.
+ent-RatDen = Rattenbau
+    .desc = Ein Haufen Müll, der vage an ein Nest erinnert.

@@ -1,2 +1,2 @@
 ent-DevilGrip = Teufelsgriff
-    .desc = Der kleine Bruchteil deiner Macht bleibt in diesem Bereich, kanalisiert in deine Hände.
+    .desc = Ein winziger Bruchteil deiner Macht bleibt in dieser Gestalt erhalten, gebündelt in deinen Händen.

@@ -1,17 +1,17 @@
-ent-MobSkeletonCommander = Kommandant des Skeletts
-    .desc = Ein sperriges Skelett hier, um seine Freunde zu ermutigen.
+ent-MobSkeletonCommander = Skelettkommandant
+    .desc = Ein klobiges Skelett, das hier ist, um seine Freunde anzufeuern.
 
-ent-MobVoidSpiker = Tentakelfieber
-    .desc = Stillstand ist wahrscheinlich keine gute Idee.
+ent-MobVoidSpiker = Tentakel-Spiker
+    .desc = Stehenbleiben ist wahrscheinlich keine gute Idee.
 
-ent-MobVoidHound = Voidhound
-    .desc = Du solltest wahrscheinlich nicht auf dieses Ding starren.
+ent-MobVoidHound = Leerenhund
+    .desc = Du solltest dieses Ding wahrscheinlich nicht anstarren.
 
-ent-MobSkeletonCommanderWraith = Kommandant des Skeletts
-    .desc = Ein sperriges Skelett hier, um seine Freunde zu ermutigen.
+ent-MobSkeletonCommanderWraith = Skelettkommandant
+    .desc = Ein klobiges Skelett, das hier ist, um seine Freunde anzufeuern.
 
-ent-MobVoidSpikerWraith = Tentakelfieber
-    .desc = Stillstand ist wahrscheinlich keine gute Idee.
+ent-MobVoidSpikerWraith = Tentakel-Spiker
+    .desc = Stehenbleiben ist wahrscheinlich keine gute Idee.
 
-ent-MobVoidHoundWraith = Voidhound
-    .desc = Du solltest wahrscheinlich nicht auf dieses Ding starren.
+ent-MobVoidHoundWraith = Leerenhund
+    .desc = Du solltest dieses Ding wahrscheinlich nicht anstarren.

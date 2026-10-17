@@ -1,2 +1,2 @@
 ent-SummonVoidGhost = ???
-    .desc = Es sieht unvollendet aus.
+    .desc = Es sieht unfertig aus.

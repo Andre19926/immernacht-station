@@ -1,17 +1,17 @@
-ent-DartGunChangeling = Stinger
-    .desc = Reagensstachel, der organische Darts auf Ziele abfeuern kann.
+ent-DartGunChangeling = Stachler
+    .desc = Ein Reagenzienstachler, der organische Pfeile auf Ziele abfeuern kann.
 
-ent-ChangelingDart = organischer Dart
+ent-ChangelingDart = Organischer Pfeil
     .desc = Ein nadeldünner Pfeil aus Knochen.
 
-ent-ChangelingDartMute = stumme organische Dart
+ent-ChangelingDartMute = Stummheits-Organikpfeil
     .desc = Ein nadeldünner Pfeil aus Knochen.
 
-ent-ChangelingDartBlind = blendender organischer Dart
+ent-ChangelingDartBlind = Blendender Organikpfeil
     .desc = Ein nadeldünner Pfeil aus Knochen.
 
-ent-ChangelingDartCryo = kryogener organischer Dart
+ent-ChangelingDartCryo = Kryo-Organikpfeil
     .desc = Ein nadeldünner Pfeil aus Knochen.
 
-ent-ChangelingDartLethargic = Lethargischer organischer Dart
+ent-ChangelingDartLethargic = Lethargie-Organikpfeil
     .desc = Ein nadeldünner Pfeil aus Knochen.

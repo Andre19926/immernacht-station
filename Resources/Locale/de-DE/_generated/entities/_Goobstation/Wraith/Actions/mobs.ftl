@@ -1,26 +1,26 @@
-ent-ActionRally = Rallye
-    .desc = Buff alle umliegenden Tiere, um dir zu helfen zu kämpfen.
+ent-ActionRally = Sammeln
+    .desc = Stärke alle Tiere in der Umgebung, damit sie dir im Kampf helfen.
 
 ent-ActionSummonLesserSkeleton = Kleines Skelett beschwören
-    .desc = Materialisiere ein Skelett aus der Leere, um dir zu helfen.
+    .desc = Materialisiere ein Skelett aus der Leere, das dir hilft.
 
-ent-ActionTentacleHook = Hakenhaken
-    .desc = Starte ein Tentakel auf dein Ziel und ziehe es zu dir
+ent-ActionTentacleHook = Tentakelhaken
+    .desc = Schleudere ein Tentakel auf dein Ziel und ziehe es zu dir.
 
-ent-ActionShuffle = Shuffle
-    .desc = Brich dich nieder, um Betäubungen abzubrechen, durch Türen zu drücken und Angreifern zu entkommen.
+ent-ActionShuffle = Schlängeln
+    .desc = Winde dich, um Betäubungen abzuschütteln, dich durch Türen zu zwängen und Angreifern zu entkommen.
 
-ent-ActionLash = Asche
-    .desc = Geh in einen blutigen Rausch auf ein Ziel und reiße sie zu Fetzen.
+ent-ActionLash = Peitschen
+    .desc = Stürze dich im Blutrausch auf ein Ziel und reiße es in Fetzen.
 
-ent-ActionRushdown = Rushdown
-    .desc = Springe vorwärts und schlage die in deinem Weg nieder.
+ent-ActionRushdown = Ansturm
+    .desc = Springe vorwärts und schlage alle nieder, die dir im Weg stehen.
 
-ent-ActionCloak = Umhang
-    .desc = Schlüpfe in die Leere und mache dich für kurze Zeit schwer zu erkennen.
+ent-ActionCloak = Tarnumhang
+    .desc = Gleite in die Leere und mache dich kurzzeitig schwer erkennbar.
 
-ent-ActionEatFilth = Iss Dreck
-    .desc = Iss etwas Dreck, heile dich ein wenig und wachse langsam.
+ent-ActionEatFilth = Dreck fressen
+    .desc = Friss etwas Dreck, heile dich ein wenig und wachse langsam.
 
 ent-ActionRatBite = Biss
     .desc = Beiße ein Lebewesen, richte etwas Schaden an und injiziere ihm etwas Rattengift.
@@ -28,8 +28,8 @@ ent-ActionRatBite = Biss
 ent-ActionRatDen = Rattenbau gründen
     .desc = Erschaffe dein Rattennest, das dich in Reichweite heilt und einige kleine kranke Mäuse herbeiruft.
 
-ent-ActionRatSlam = Slam
-    .desc = Slam in etwas. Emittiert eine starke Stoßwelle bei Kollision.
+ent-ActionRatSlam = Rammen
+    .desc = Renne in etwas hinein. Löst bei der Kollision eine starke Druckwelle aus.
 
 ent-ActionChooseVoidCreature = Wähle deinen Kämpfer
-    .desc = Wähle eine der drei leeren Kreaturen, in denen du laichen möchtest.
+    .desc = Wähle eine der drei Leerenkreaturen, als die du erscheinen möchtest.
