@@ -1,2 +1,2 @@
 ent-Chainsaw = Kettensäge
-    .desc = Eine sehr große Kettensäge. Normalerweise benutzt du sie zum Fällen von Bäumen ... normalerweise.
+    .desc = Eine sehr große Kettensäge. Normalerweise fällst du damit Bäume ... normalerweise.

@@ -1,41 +1,41 @@
 ent-Lighter = Grundfeuerzeug
-    .desc = Ein einfaches Plastik-Zigarettenfeuerzeug.
+    .desc = Ein einfaches Zigarettenfeuerzeug aus Kunststoff.
 
 ent-CheapLighter = billiges Feuerzeug
-    .desc = Ein gefährlich preiswertes Plastikfeuerzeug, verbrenne nicht deinen Daumen!
+    .desc = Ein gefährlich billiges Plastikfeuerzeug – verbrenn dir nicht den Daumen!
 
 ent-FlippoLighter = Flippo-Feuerzeug
-    .desc = Ein robustes Metallfeuerzeug, hält eine ganze Weile.
+    .desc = Ein robustes Metallfeuerzeug, das eine ganze Weile hält.
 
 ent-FlippoEngravedLighter = Flippo-Feuerzeug
-    .desc = Ein robustes goldenes Feuerzeug, hält eine ganze Weile. Gravuren dienen keinem taktischen Vorteil.
+    .desc = Ein robustes goldenes Feuerzeug, das eine ganze Weile hält. Die Gravuren bieten keinen taktischen Vorteil.
 
 ent-SyndicateFlippo = Blutrotes Flippo
-    .desc = Eine "Valid" -Wahl in Feuerzeugen. Enthält kein Kupfer.
+    .desc = Eine „Valid“-Wahl unter den Feuerzeugen. Enthält kein Kupfer.
 
 ent-DiscountDanLighter = Discount-Dan's-Feuerzeug
-    .desc = Das schlechteste Feuerzeug, das jemals produziert wurde, ist unvermeidlich, tanke nicht, während du angezündet bist.
+    .desc = Das schlechteste Feuerzeug, das je hergestellt wurde. Unvermeidlich: Tank nicht nach, während du brennst.
 
 ent-CybersunFlippo = CyberSun Flippo
-    .desc = Ein elegantes schwarzes und magenta-Flippo-Feuerzeug mit dem Logo und der Ikonographie von CyberSun Industries.
+    .desc = Ein elegantes schwarz-magentafarbenes Flippo-Feuerzeug mit dem Logo und der Ikonografie von CyberSun Industries.
 
 ent-InterdyneFlippo = Interdyne Flippo
-    .desc = Ein tiefblaues Flippo-Feuerzeug, das mit dem Logo der "Gene Clean" -Kliniken von Interdyne Pharmaceuticals verziert ist. Werde zum Meister deiner eigenen Zigarette.
+    .desc = Ein tiefblaues Flippo-Feuerzeug, verziert mit dem Logo der „Gene Clean“-Kliniken von Interdyne Pharmaceuticals. Werde zum Meister deiner eigenen Zigarette.
 
 ent-NanotrasenFlippo = Nanotrasen Flippo
     .desc = Ein marineblaues Luxus-Feuerzeug, das üblicherweise anstelle einer Gehaltserhöhung an treue Mitarbeiter verteilt wird. Mit flüssigem Plasma betrieben.
 
 ent-CentCommFlippo = Gilded CentComm Flippo
-    .desc = Ein verzierter, jade geprägter und vergoldeter Flippo-Rahmen, der einen blauraumbetriebenen Jet enthält. Das Latch wird durch einen Miniaturzugriffsleser gesichert, der nur auf CentComm-Beamte reagiert. Das schönste Feuerzeug, das dem Menschen bekannt ist.
+    .desc = Ein verziertes, jadegeprägtes und vergoldetes Flippo-Gehäuse mit einem Bluespace-betriebenen Jet. Der Verschluss wird durch einen Miniatur-Zugangsleser gesichert, der nur auf CentComm-Beamte reagiert. Das schönste Feuerzeug, das der Menschheit bekannt ist.
 
 ent-SpiderclanFlippo = Spinnenklammernfeuerzeug
-    .desc = Ein High-Tech-Jetfeuerzeug, entwickelt, um auch im Weltraum zu funktionieren. Läuft auf einer winzigen Mikrofusionszelle.
+    .desc = Ein Hightech-Jetfeuerzeug, das auch im Weltraum funktioniert. Läuft mit einer winzigen Mikrofusionszelle.
 
 ent-WaffleCoFlippo = Waffle Co. flippo
-    .desc = Eine robuste Masse produziert leichter. Das Waffle Co.-Logo dreht das Funkenrad, wenn es nach oben gedrückt wird, wodurch das Risiko leichter Verbrennungen selbst für den ungeschicktesten Benutzer minimiert wird.
+    .desc = Ein robustes Massenprodukt-Feuerzeug. Das Waffle-Co.-Logo dreht beim Hochdrücken das Zündrad und minimiert so selbst für den ungeschicktesten Benutzer das Risiko leichter Verbrennungen.
 
 ent-HonkCoFlippo = Honk Co. flippo
-    .desc = Ein schlüpfriges Gag-Feuerzeug von Honk Co., versteckt in einer echten Bananenschale.
+    .desc = Ein schlüpfriges Scherzfeuerzeug von Honk Co., versteckt in einer echten Bananenschale.
 
 ent-DonkcoLighter = Donk Co. flippo
-    .desc = Das Flippo der Wahl für den erfahrenen Verräter. A Breaded novelty Feuerzeug von Donk Co. Irgendwie essbar, während beleuchtet.
+    .desc = Das Flippo der Wahl für den erfahrenen Verräter. Ein paniertes Neuheiten-Feuerzeug von Donk Co. Irgendwie essbar, solange es brennt.

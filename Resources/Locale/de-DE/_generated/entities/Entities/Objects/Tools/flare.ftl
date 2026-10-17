@@ -1,2 +1,2 @@
 ent-Flare = Fackeln im Notfall
-    .desc = Eine Fackel, die für kurze Zeit ein sehr helles Licht erzeugt. Richte die Flamme von dir weg.
+    .desc = Eine Fackel, die kurzzeitig ein sehr helles Licht erzeugt. Halte die Flamme von dir weg.

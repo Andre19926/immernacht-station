@@ -1,8 +1,8 @@
 ent-CartridgeLightRifle = Patrone (.30 Gewehr)
-    .desc = Eine klassische Zwischenpatrone, die von vielen Kampfgewehren und LMGs verwendet wird. Standard kinetische Munition ist in den meisten Situationen üblich und nützlich.
+    .desc = Eine klassische Zwischenpatrone, die von vielen Kampfgewehren und LMGs verwendet wird. Standard-Kinetikmunition ist in den meisten Situationen gebräuchlich und nützlich.
 
 ent-CartridgeLightRiflePractice = Patrone (.30 Gewehrübung)
-    .desc = Eine klassische Zwischenpatrone, die von vielen Kampfgewehren und LMGs verwendet wird. Übungsmunition feuert ein Kreideprojektil ab, das ein wenig sticht, aber sonst keinen bleibenden Schaden verursacht.
+    .desc = Eine klassische Zwischenpatrone, die von vielen Kampfgewehren und LMGs verwendet wird. Übungsmunition verschießt ein Kreideprojektil, das ein wenig sticht, aber sonst keinen bleibenden Schaden anrichtet.
 
 ent-CartridgeLightRifleIncendiary = Patrone (.30 Gewehrbrand)
     .desc = Eine klassische Zwischenpatrone, die von vielen Kampfgewehren und LMGs verwendet wird. Brandmunition enthält eine selbstzündende Verbindung, die Ziele in Brand setzt.

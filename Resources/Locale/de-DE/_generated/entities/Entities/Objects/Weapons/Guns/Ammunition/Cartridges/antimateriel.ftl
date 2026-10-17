@@ -1,2 +1,2 @@
 ent-CartridgeAntiMateriel = Patrone (.60 Antimaterial)
-    .desc = Eine Hochleistungspatrone, die von Hochleistungsgewehren verwendet wird.
+    .desc = Eine Hochleistungspatrone, wie sie von Hochleistungsgewehren verwendet wird.

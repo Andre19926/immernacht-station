@@ -1,8 +1,8 @@
 ent-RitualDagger = ritueller Dolch
-    .desc = Ein seltsamer Dolch, der von finsteren Gruppen für Rituale und Opfer verwendet wird.
+    .desc = Ein seltsamer Dolch, den finstere Gruppen für Rituale und Opfer verwenden.
 
 ent-EldritchBlade = Unheimliche Klinge
     .desc = Ein Schwert, das mit unheiliger Energie summt.
 
 ent-UnholyHalberd = Unheiliger Heller
-    .desc = Eine Poleaxe, die mit ihrem Träger verbunden zu sein scheint.
+    .desc = Eine Streitaxt, die mit ihrem Träger verbunden zu sein scheint.

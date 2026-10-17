@@ -8,13 +8,13 @@ ent-CaptainSabre = Säbel des Kapitäns
     .desc = Eine zeremonielle Waffe, die dem Kapitän der Station gehört.
 
 ent-Katana = Katana
-    .desc = Altes Handwerk mit nicht so altem Plastik.
+    .desc = Altes Handwerk mit nicht ganz so altem Plastik.
 
 ent-EnergyKatana = Energiekatana
-    .desc = Ein Katana infundiert mit starker Energie.
+    .desc = Ein mit starker Energie durchdrungenes Katana.
 
 ent-Claymore = Claymore
-    .desc = Ein altes Kriegsblatt.
+    .desc = Eine alte Kriegsklinge.
 
 ent-Throngler = Tonnage
-    .desc = Wenn die Sicherheit es wagt, es von dir zu nehmen, erinnere sie nur daran, dass sie tatsächlich sterblich sind.
+    .desc = Wenn die Sicherheit es wagt, es dir abzunehmen, erinnere sie daran, dass sie tatsächlich sterblich sind.

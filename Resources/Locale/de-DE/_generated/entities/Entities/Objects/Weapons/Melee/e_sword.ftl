@@ -1,26 +1,26 @@
 ent-EnergySword = Energieschwert
-    .desc = Ein sehr lautes & gefährliches Schwert mit einem Balken aus reinem, konzentriertem Plasma. Schnitte durch ungepanzerte Ziele wie Butter.
+    .desc = Ein sehr lautes und gefährliches Schwert mit einem Strahl aus reinem, konzentriertem Plasma. Schneidet durch ungepanzerte Ziele wie durch Butter.
 
 ent-EnergyDaggerLoud = Energiedolch
-    .desc = Ein nicht so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unverhüllt.
+    .desc = Ein nicht ganz so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unscheinbar.
 
 ent-EnergyDagger = Stift
     .desc = Ein Stift mit dunkler Tinte.
 
 ent-EnergyDaggerBox = E-Daggerbox
-    .desc = Eine kleine Box mit einem E-Dolch. Die Verpackung zerfällt beim Öffnen und hinterlässt keine Beweise.
+    .desc = Eine kleine Schachtel mit einem E-Dolch. Die Verpackung zerfällt beim Öffnen und hinterlässt keine Beweise.
 
 ent-EnergyCutlass = Energie-Scheibe
     .desc = Eine exotische Energiewaffe.
 
 ent-EnergySwordDouble = Doppelblatt-Energieschwert
-    .desc = Syndicate Command Interns dachten, dass eine Klinge am Energieschwert nicht genug sei. Diese kann in Taschen aufbewahrt werden.
+    .desc = Praktikanten des Syndicate-Kommandos fanden eine Klinge am Energieschwert nicht genug. Dieses hier lässt sich in Taschen verstauen.
 
 ent-CyborgEnergySword = Energieschwert
-    .desc = Ein sehr lautes & gefährliches Schwert mit einem Balken aus reinem, konzentriertem Plasma. Speziell entwickelt für Syndicate-Cyborgs.
+    .desc = Ein sehr lautes und gefährliches Schwert mit einem Strahl aus reinem, konzentriertem Plasma. Speziell für Syndicate-Cyborgs entwickelt.
 
 ent-CyborgEnergySwordDouble = Doppelblatt-Energieschwert
-    .desc = Syndicate Command Interns dachten, dass eine Klinge am Energieschwert nicht genug sei. Speziell entwickelt für Syndicate-Cyborgs.
+    .desc = Praktikanten des Syndicate-Kommandos fanden eine Klinge am Energieschwert nicht genug. Speziell für Syndicate-Cyborgs entwickelt.
 
 ent-EnergyDaggerLoudBlue = Energiedolch
-    .desc = Ein nicht so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unverhüllt.
+    .desc = Ein nicht ganz so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unscheinbar.

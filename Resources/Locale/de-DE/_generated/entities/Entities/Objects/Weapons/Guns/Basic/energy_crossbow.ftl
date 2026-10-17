@@ -1,2 +1,2 @@
 ent-WeaponEnergyCrossbow = Mini Energie Armbrust
-    .desc = Startet erneuerbare toxische Pfeile, die in der Lage sind, Bodenziele sofort zu erreichen.
+    .desc = Verschießt nachwachsende Giftpfeile, die Bodenziele sofort erreichen können.

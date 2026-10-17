@@ -1,2 +1,2 @@
 ent-WeaponCroissant = Croissant
-    .desc = Butterige, schuppige Güte.
+    .desc = Butterig-blättrige Güte.

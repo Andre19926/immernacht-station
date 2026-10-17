@@ -1,5 +1,5 @@
 ent-hydroponicsSoil = Pflanzerde
-    .desc = Eine Mischung aus organischer Substanz und Mineralien, die einen Boden schaffen, um deine Pflanze im Weltraum wachsen zu lassen. Scheint trocken zu sein.
+    .desc = Eine Mischung aus organischer Substanz und Mineralien, die einen Boden bildet, in dem deine Pflanze im Weltraum wachsen kann. Wirkt trocken.
 
 ent-FungalSoil = Pilzerde
-    .desc = Eine Mischung aus organischer Substanz und Pilzwurzel, die einen Boden schafft, um deine Pflanze im Weltraum wachsen zu lassen. Scheint trocken zu sein.
+    .desc = Eine Mischung aus organischer Substanz und Pilzwurzeln, die einen Boden bildet, in dem deine Pflanze im Weltraum wachsen kann. Wirkt trocken.

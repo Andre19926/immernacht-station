@@ -1,8 +1,8 @@
 ent-WeaponWaterPistol = Wasserpistole
-    .desc = Die dümmste Waffe auf Wasserbasis. Du könntest schwören, dass der Abzug nichts bewirkt.
+    .desc = Die dümmste Wasserwaffe. Du könntest schwören, dass der Abzug nichts bewirkt.
 
 ent-WeaponWaterBlaster = Wasserblasgerät
-    .desc = Mit diesem bösen Jungen wirst du das coolste Kind beim Sommergrill sein.
+    .desc = Mit diesem Prachtstück wirst du das coolste Kind beim Sommergrillen sein.
 
 ent-WeaponWaterBlasterSuper = Superwasserbläser
-    .desc = Nein! Nein! Nicht in den Augen!
+    .desc = Nein! Nein! Nicht in die Augen!

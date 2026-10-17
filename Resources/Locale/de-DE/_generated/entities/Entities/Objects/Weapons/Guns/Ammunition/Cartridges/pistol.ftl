@@ -1,8 +1,8 @@
 ent-CartridgePistol = Patrone (.35 Auto)
-    .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Standard kinetische Munition ist in den meisten Situationen üblich und nützlich.
+    .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Standard-Kinetikmunition ist in den meisten Situationen gebräuchlich und nützlich.
 
 ent-CartridgePistolPractice = Patrone (.35 Auto-Übung)
-    .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Übungsmunition feuert ein Kreideprojektil ab, das ein wenig sticht, aber sonst keinen bleibenden Schaden verursacht.
+    .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Übungsmunition verschießt ein Kreideprojektil, das ein wenig sticht, aber sonst keinen bleibenden Schaden anrichtet.
 
 ent-CartridgePistolIncendiary = Patrone (.35 Autobrand)
     .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Brandmunition enthält eine selbstzündende Verbindung, die Ziele in Brand setzt.

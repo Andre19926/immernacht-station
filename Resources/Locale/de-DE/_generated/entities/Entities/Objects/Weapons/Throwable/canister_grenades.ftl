@@ -1,14 +1,14 @@
 ent-SmokeGrenade = Rauchgranaten
-    .desc = Eine taktische Granate, die beim Gebrauch eine große, lang anhaltende Rauchwolke freisetzt.
+    .desc = Eine taktische Granate, die beim Einsatz eine große, lang anhaltende Rauchwolke freisetzt.
 
 ent-CleanerGrenade = Reiniger
-    .desc = Spezielle Granate für Hausmeister, die große Wolke von Weltraumreinigerschaum freisetzt.
+    .desc = Spezialgranate für Hausmeister, die eine große Wolke aus Weltraumreinigerschaum freisetzt.
 
 ent-TearGasGrenade = Tränengasgranaten
-    .desc = Eine Tränengasgranate zur Aufstandsbekämpfung. Verursacht Reizungen, Schmerzen und lässt dich die Augen aus dem Kopf schreien.
+    .desc = Eine Tränengasgranate zur Aufstandsbekämpfung. Verursacht Reizungen, Schmerzen und lässt dich dir die Augen aus dem Kopf schreien.
 
 ent-MetalFoamGrenade = Metallschaumgranaten
-    .desc = Ein Notfallwerkzeug zum Patchen von Rumpfverletzungen mit speziellem schnell eingestelltem Metallschaum. Fast so gut wie echte Böden!
+    .desc = Ein Notfallwerkzeug zum Flicken von Rumpfschäden mit schnell härtendem Spezial-Metallschaum. Fast so gut wie echter Boden!
 
 ent-AirGrenade = Luftgranaten
-    .desc = Eine spezielle chemische Festkörpergranate, die für die schnelle Freisetzung von Standardluft in einen beabstandeten Bereich verwendet wird. Füllt bis zu 30 Kacheln!
+    .desc = Eine spezielle chemische Feststoffgranate zur schnellen Freisetzung von Standardluft in einem begrenzten Bereich. Füllt bis zu 30 Felder!

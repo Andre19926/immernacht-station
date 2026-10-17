@@ -1,10 +1,10 @@
 ent-FultonBeacon = Fultonbake
-    .desc = Leuchtfeuer, um Fultonextraktionen zu erhalten.
+    .desc = Ein Peilsender für Fulton-Extraktionen.
 
 ent-Fulton = Fulton
-    .desc = Wird verwendet, um Container, Gegenstände zu extrahieren oder zwangsweise Personen in deine Operationsbasis zu rekrutieren.
+    .desc = Dient dazu, Container und Gegenstände zu extrahieren oder Personen zwangsweise in deine Operationsbasis zu rekrutieren.
 
 ent-Fulton1 = Fulton
-    .desc = Wird verwendet, um Container, Gegenstände zu extrahieren oder zwangsweise Personen in deine Operationsbasis zu rekrutieren.
+    .desc = Dient dazu, Container und Gegenstände zu extrahieren oder Personen zwangsweise in deine Operationsbasis zu rekrutieren.
 
 ent-FultonEffect = Fultoneffekt

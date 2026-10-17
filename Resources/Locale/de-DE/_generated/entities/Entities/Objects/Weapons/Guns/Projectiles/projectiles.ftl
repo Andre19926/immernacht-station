@@ -152,4 +152,4 @@ ent-BulletLaserWindowPiercingMagnum = Fensterstanzbolzen aus Magnum
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-EnergyCrossbowBolt = Energiebolzen
-    .desc = Das wird weh tun.
+    .desc = Das wird wehtun.

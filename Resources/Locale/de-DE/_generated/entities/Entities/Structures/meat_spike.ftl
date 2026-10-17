@@ -1,2 +1,2 @@
 ent-KitchenSpike = Fleischspitze
-    .desc = Ein Spike zum Sammeln von Fleisch von Tieren.
+    .desc = Ein Spieß zum Gewinnen von Fleisch von Tieren.

@@ -1,14 +1,14 @@
 ent-Matchstick = Matching-Stick
-    .desc = Ein einfacher Streichholzstab, der für die Beleuchtung feiner Rauchwaren verwendet wird.
+    .desc = Ein einfaches Streichholz zum Anzünden feiner Rauchwaren.
 
 ent-MatchstickSpent = Matching-Stick
-    .desc = Ein einfacher Streichholzstab, der für die Beleuchtung feiner Rauchwaren verwendet wird.
+    .desc = Ein einfaches Streichholz zum Anzünden feiner Rauchwaren.
 
 ent-Matchbox = Streichholzschachtel
-    .desc = Eine kleine Schachtel mit „Almost But Not Quite“-Plasma-Premium-Streichhölzern.
+    .desc = Eine kleine Schachtel „Almost But Not Quite“-Plasma-Premium-Streichhölzer.
 
 ent-GorlexMatchbox = Gorlex-Matchbox
-    .desc = Eine pneumatische Streichholzbox, die nach der Ausrüstung der Gorlex Marauders gestaltet ist. Enthält 24 Matches.
+    .desc = Eine pneumatische Streichholzschachtel im Stil der Ausrüstung der Gorlex-Marodeure. Enthält 24 Streichhölzer.
 
 ent-GorlexMatchstick = Matching-Stick
-    .desc = Ein militärischer Matchstick, der für die Beleuchtung von feinen Rauchwaren und Nicht-Kämpfern gleichermaßen verwendet wird.
+    .desc = Ein militärisches Streichholz zum Anzünden feiner Rauchwaren und Nichtkombattanten gleichermaßen.

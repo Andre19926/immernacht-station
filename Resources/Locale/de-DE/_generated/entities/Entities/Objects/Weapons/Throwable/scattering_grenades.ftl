@@ -1,17 +1,17 @@
 ent-ClusterBang = Clusterbang
-    .desc = Kann nur mit Flashbangs verwendet werden. Explodiert mehrmals.
+    .desc = Kann nur mit Blendgranaten verwendet werden. Explodiert mehrmals.
 
 ent-ClusterBangFull = Clusterbang
-    .desc = Startet drei Flashbangs, nachdem der Timer abgelaufen ist.
+    .desc = Wirft drei Blendgranaten, sobald der Timer abgelaufen ist.
 
 ent-ClusterGrenade = Clustergranate
-    .desc = Warum eine Granate verwenden, wenn du drei auf einmal verwenden kannst!
+    .desc = Warum eine Granate benutzen, wenn du drei auf einmal benutzen kannst!
 
 ent-ClusterBananaPeel = Clusterbananenschale
-    .desc = Splits in 6 explosive Bananenschalen nach dem Werfen, garantiert Spaß!
+    .desc = Teilt sich nach dem Wurf in 6 explosive Bananenschalen auf – garantiert Spaß!
 
 ent-SlipocalypseClusterSoap = Slipokalypse-Clusterseife
-    .desc = Verteilt kleine Stücke von Syndicate-Eife über einen Bereich bei der Landung auf dem Boden.
+    .desc = Verteilt beim Aufprall auf den Boden kleine Stücke Syndicate-Seife über einen Bereich.
 
 ent-GrenadeFoamDart = Dartgranatenschaum
-    .desc = Gibt ein lästiges Spray von Schaumpfeilen frei, die starkes Schweißen verursachen.
+    .desc = Setzt einen lästigen Schaumpfeil-Hagel frei, der starkes Schwitzen verursacht.

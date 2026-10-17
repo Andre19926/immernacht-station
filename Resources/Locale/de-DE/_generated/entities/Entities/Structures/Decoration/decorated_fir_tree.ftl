@@ -1,2 +1,2 @@
 ent-DecoratedFirTree = dekorierter Tannenbaum
-    .desc = Ein sehr festlicher Baum für einen sehr festlichen Urlaub.
+    .desc = Ein sehr festlicher Baum für ein sehr festliches Fest.

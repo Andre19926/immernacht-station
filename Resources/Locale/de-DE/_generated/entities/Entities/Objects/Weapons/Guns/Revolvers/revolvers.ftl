@@ -1,23 +1,23 @@
 ent-WeaponRevolverDeckard = Deckard
-    .desc = Ein wunderschön bearbeiteter, maßgeschneiderter Revolver. Wird verwendet, wenn keine Zeit für den Voight-Kampff-Test vorhanden ist. Lade 5 Runden von.45 magnum.
+    .desc = Ein wunderschön gearbeiteter, maßgefertigter Revolver. Wird verwendet, wenn keine Zeit für den Voight-Kampff-Test bleibt. Fasst 5 Patronen .45 Magnum.
 
 ent-WeaponRevolverInspector = Inspektor
-    .desc = Ein Double-Action-Revolver, der von verschiedenen Unternehmen hergestellt wird. Es ist leicht verfügbar auf dem zivilen Markt, so dass es eine beliebte Wahl unter privaten Ermittlern. Du fühlst dich glücklich, es nur zu halten. Kämme 6 Runden von .45 magnum.
+    .desc = Ein Double-Action-Revolver, der von verschiedenen Unternehmen hergestellt wird. Auf dem zivilen Markt leicht erhältlich und daher bei Privatdetektiven beliebt. Du fühlst dich glücklich, ihn nur zu halten. Fasst 6 Patronen .45 Magnum.
 
 ent-WeaponRevolverMateba = Mateba
-    .desc = Ein seltener und schöner halbautomatischer Revolver. Die Mateba, die nur der Nanotrasen-Elite zur Verfügung gestellt wird, verfügt über ein einzigartiges Fassdesign, das die Mündungsdrehung stark reduziert. Viele haben den Lauf dieser Waffe angestarrt, und noch weniger haben gelebt, um die Geschichte zu erzählen. Lade 6 Runden von.45 Magnum.
+    .desc = Ein seltener und schöner halbautomatischer Revolver. Die Mateba, die nur der Nanotrasen-Elite zur Verfügung steht, hat ein einzigartiges Laufdesign, das den Mündungsanstieg stark reduziert. Viele haben in den Lauf dieser Waffe gestarrt, und noch weniger haben überlebt, um davon zu erzählen. Fasst 6 Patronen .45 Magnum.
 
 ent-WeaponRevolverMatebaAP = Mateba
-    .desc = Ein seltener und schöner halbautomatischer Revolver. Die Mateba, die nur der Nanotrasen-Elite zur Verfügung gestellt wird, verfügt über ein einzigartiges Fassdesign, das die Mündungsdrehung stark reduziert. Viele haben den Lauf dieser Waffe angestarrt, und noch weniger haben gelebt, um die Geschichte zu erzählen. Lade 6 Runden von.45 Magnum.
+    .desc = Ein seltener und schöner halbautomatischer Revolver. Die Mateba, die nur der Nanotrasen-Elite zur Verfügung steht, hat ein einzigartiges Laufdesign, das den Mündungsanstieg stark reduziert. Viele haben in den Lauf dieser Waffe gestarrt, und noch weniger haben überlebt, um davon zu erzählen. Fasst 6 Patronen .45 Magnum.
 
 ent-WeaponRevolverPython = Python
-    .desc = Ein leistungsstarker Doppel-Action-Revolver, der von der Waffle Corporation entworfen wurde. Laut und auffällig und perfekt für jeden Agenten, der eine Aussage machen möchte. Lade 6 Runden von.45 magnum.
+    .desc = Ein leistungsstarker Double-Action-Revolver der Waffle Corporation. Laut, auffällig und perfekt für jeden Agenten, der ein Statement setzen will. Fasst 6 Patronen .45 Magnum.
 
 ent-WeaponRevolverPythonAP = Python
-    .desc = Ein leistungsstarker Doppel-Action-Revolver, der von der Waffle Corporation entworfen wurde. Laut und auffällig und perfekt für jeden Agenten, der eine Aussage machen möchte. Lade 6 Runden von.45 magnum.
+    .desc = Ein leistungsstarker Double-Action-Revolver der Waffle Corporation. Laut, auffällig und perfekt für jeden Agenten, der ein Statement setzen will. Fasst 6 Patronen .45 Magnum.
 
 ent-WeaponRevolverPirate = Piratenrevolver
-    .desc = Ein roher Single-Action-Revolver, handgefertigt von einem Weltraumpiraten. Alt und mit Rost bedeckt, funktioniert es irgendwie immer noch. Lade 5 Runden von.45 magnum.
+    .desc = Ein roher Single-Action-Revolver, handgefertigt von einem Weltraumpiraten. Alt und rostbedeckt, funktioniert er irgendwie trotzdem noch. Fasst 5 Patronen .45 Magnum.
 
 ent-WeaponRevolverPirateEmpty = Piratenrevolver
-    .desc = Ein roher Single-Action-Revolver, handgefertigt von einem Weltraumpiraten. Alt und mit Rost bedeckt, funktioniert es irgendwie immer noch. Lade 5 Runden von.45 magnum.
+    .desc = Ein roher Single-Action-Revolver, handgefertigt von einem Weltraumpiraten. Alt und rostbedeckt, funktioniert er irgendwie trotzdem noch. Fasst 5 Patronen .45 Magnum.

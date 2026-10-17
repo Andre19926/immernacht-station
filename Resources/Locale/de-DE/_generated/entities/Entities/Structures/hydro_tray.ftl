@@ -1,5 +1,5 @@
 ent-hydroponicsTray = Botanikschale
-    .desc = Ein interstellares Raumfarmplot, das schnelles Wachstum und selektive Züchtung von Nutzpflanzen ermöglicht. Denke nur an das Weltraum-Unkraut.
+    .desc = Ein interstellares Weltraum-Farmbeet, das schnelles Wachstum und gezielte Züchtung von Nutzpflanzen ermöglicht. Denk nur an das Weltraumunkraut.
 
 ent-HydroponicsTrayEmpty = Botanikschale
-    .desc = Ein interstellares Raumfarmplot, das schnelles Wachstum und selektive Züchtung von Nutzpflanzen ermöglicht. Denke nur an das Weltraum-Unkraut.
+    .desc = Ein interstellares Weltraum-Farmbeet, das schnelles Wachstum und gezielte Züchtung von Nutzpflanzen ermöglicht. Denk nur an das Weltraumunkraut.

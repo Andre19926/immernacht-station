@@ -41,34 +41,34 @@ ent-VendingMachineRestockMedical = NanoMed-Nachfüllbox
     .desc = In deinen NanoMed oder NanoMedPlus der Abteilung einlegen, um Nachschub auszugeben. Mit Sorgfalt behandeln.
 
 ent-VendingMachineRestockNutriMax = NutriMax-Nachfüllbox
-    .desc = Wir machen deine Daumen grün mit unseren Werkzeugen. Kommen wir zur Ernte! Lade in einen NutriMax-Automaten.
+    .desc = Wir machen deinen Daumen grün – mit unseren Werkzeugen. Ran an die Ernte! In einen NutriMax-Automaten einlegen.
 
 ent-VendingMachineRestockPTech = PTech-Nachfüllbox
-    .desc = All die Bürokratie, mit der du umgehen kannst, und mehr! Lade in den PTech-Automaten, um zu beginnen.
+    .desc = Alle Bürokratie, die du bewältigen kannst, und mehr! In den PTech-Automaten einlegen, um zu beginnen.
 
 ent-VendingMachineRestockRobustSoftdrinks = beverage-Nachfüllbox
-    .desc = Ein kalter, klobiger Container voller aneinanderstoßender, kühler Zylinder. Nur nach Anweisung von Robust Industries, LLC verwenden.
+    .desc = Ein kalter, klobiger Behälter voller aneinanderstoßender, kühler Zylinder. Nur nach Anweisung von Robust Industries, LLC verwenden.
 
 ent-VendingMachineRestockSecTech = SecTech-Nachfüllbox
-    .desc = Die Kommunisten hüten sich: Die Verstärkungen sind angekommen! Ein Label liest nur SECURITY PERSONNEL.
+    .desc = Kommunisten, hütet euch: Die Verstärkung ist eingetroffen! Auf dem Etikett steht nur SECURITY PERSONNEL.
 
 ent-VendingMachineRestockSeeds = MegaSeed-Nachfüllbox
-    .desc = Ein Etikett sagt, dass sie Erbstücksamen sind, die von unseren Vorfahren weitergegeben wurden. Packe es in den MegaSeed Servitor!
+    .desc = Laut Etikett sind das Erbstücksamen, von unseren Vorfahren weitergegeben. Ab damit in den MegaSeed Servitor!
 
 ent-VendingMachineRestockSmokes = ShadyCigs-Nachfüllbox
-    .desc = Es ist schwer, etwas unter all den Surgeon General Warnungen zu sehen, aber es erwähnt das Laden in einen Automaten.
+    .desc = Unter all den Warnhinweisen des Surgeon General ist kaum etwas zu erkennen, aber das Einlegen in einen Automaten wird erwähnt.
 
 ent-VendingMachineRestockTankDispenser = Tankspender-Nachfüllbox
-    .desc = Kann Tanks in einem Gastankspender ersetzen. Umgang mit Sorgfalt.
+    .desc = Kann Tanks in einem Gastankspender ersetzen. Mit Sorgfalt behandeln.
 
 ent-VendingMachineRestockVendomat = Vendomat-Nachfüllbox
-    .desc = Eine Schachtel voller Teile für verschiedene Maschinen. Lade es in einen Vendomat, um zu beginnen.
+    .desc = Eine Schachtel voller Teile für verschiedene Maschinen. In einen Vendomat einlegen, um zu beginnen.
 
 ent-VendingMachineRestockRobotics = Robotech Deluxe-Nachfüllbox
-    .desc = Eine Schachtel voller Werkzeuge zum Erstellen von Cyborgs. Lade es in ein Robotech Deluxe, um zu beginnen.
+    .desc = Eine Schachtel voller Werkzeuge zum Bau von Cyborgs. In ein Robotech Deluxe einlegen, um zu beginnen.
 
 ent-VendingMachineRestockHappyHonk = Happy Honk-Nachfüllbox
-    .desc = Setze diese Box voller Spaß in den Nachfüllschacht des Happy-Honk-Spenders ein, um zu beginnen.
+    .desc = Diese Schachtel voller Spaß in den Nachfüllschacht des Happy-Honk-Spenders einlegen, um zu beginnen.
 
 ent-VendingMachineRestockChemVend = ChemVend-Nachfüllbox
-    .desc = Eine Box, die mit Chemikalien gefüllt und mit gefährlich aussehenden NFPA-Diamanten bedeckt ist. Lade es in einen ChemVend, um zu beginnen.
+    .desc = Eine mit Chemikalien gefüllte Schachtel, bedeckt mit gefährlich aussehenden NFPA-Rauten. In einen ChemVend einlegen, um zu beginnen.

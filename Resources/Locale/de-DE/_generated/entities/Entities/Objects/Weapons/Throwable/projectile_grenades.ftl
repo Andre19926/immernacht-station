@@ -1,8 +1,8 @@
 ent-GrenadeStinger = Stachelgranaten
-    .desc = Nichts zu sehen hier, bitte zerstreuen.
+    .desc = Hier gibt es nichts zu sehen, bitte zerstreuen.
 
 ent-GrenadeIncendiary = Brandgranate
-    .desc = Garantiert, um die Stimmung zu erhellen.
+    .desc = Garantiert stimmungsaufhellend.
 
 ent-GrenadeShrapnel = Granate
-    .desc = Gibt ein tödliches Splitterspray frei, das schwere Blutungen verursacht.
+    .desc = Setzt einen tödlichen Splitterhagel frei, der schwere Blutungen verursacht.

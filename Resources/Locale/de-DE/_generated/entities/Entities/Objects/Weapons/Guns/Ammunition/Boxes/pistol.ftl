@@ -1,11 +1,11 @@
 ent-MagazineBoxPistol = Munitionsbox (.35 Auto)
-    .desc = Ein Karton mit .35 Autorunden. Geplant zur Aufnahme von Allzweck-Kinetikmunition.
+    .desc = Eine Schachtel mit .35 Auto-Patronen. Für Standard-Kinetikmunition gedacht.
 
 ent-MagazineBoxPistolPractice = Munitionsbox (.35 Auto Übung)
-    .desc = Ein Karton mit .35 Autorunden. Beabsichtigt, harmlose Übungsmunition zu halten.
+    .desc = Eine Schachtel mit .35 Auto-Patronen. Für harmlose Übungsmunition gedacht.
 
 ent-MagazineBoxPistolIncendiary = Munitionsbox (.35 Autobrand)
-    .desc = Ein Karton mit .35 Autorunden. Beabsichtigt, selbstzündende Brandmunition zu halten.
+    .desc = Eine Schachtel mit .35 Auto-Patronen. Für selbstzündende Brandmunition gedacht.
 
 ent-MagazineBoxPistolUranium = Munitionsbox (.35 Auto-Uran)
-    .desc = Ein Karton mit .35 Autorunden. Beabsichtigt, exotische Urankernmunition zu halten.
+    .desc = Eine Schachtel mit .35 Auto-Patronen. Für exotische Urankernmunition gedacht.

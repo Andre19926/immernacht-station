@@ -1,2 +1,2 @@
 ent-StunbatonBorg = Betäubungsstab
-    .desc = Ein betäubungsstab, um menschen handlungsunfähig zu machen. Aktiv damit zu schaden gilt als schlechter Ton.
+    .desc = Ein Betäubungsstab, um Menschen kampfunfähig zu machen. Ihn aktiv zum Schaden einzusetzen gilt als schlechter Ton.

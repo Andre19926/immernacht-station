@@ -1,8 +1,8 @@
 ent-WeaponEnergyTurretAI = Wachturm
-    .desc = Ein autonomes Hightech-Waffensystem, das darauf ausgelegt ist, nicht autorisiertes Personal aus sensiblen Bereichen fernzuhalten.
+    .desc = Ein autonomes Hightech-Waffensystem, das unbefugtes Personal aus sensiblen Bereichen fernhalten soll.
 
 ent-WeaponEnergyTurretSecurity = Wachturm
-    .desc = Ein autonomes Hightech-Waffensystem, das darauf ausgelegt ist, nicht autorisiertes Personal aus sensiblen Bereichen fernzuhalten.
+    .desc = Ein autonomes Hightech-Waffensystem, das unbefugtes Personal aus sensiblen Bereichen fernhalten soll.
 
 ent-WeaponEnergyTurretCommand = Wachturm
-    .desc = Ein autonomes Hightech-Waffensystem, das darauf ausgelegt ist, nicht autorisiertes Personal aus sensiblen Bereichen fernzuhalten.
+    .desc = Ein autonomes Hightech-Waffensystem, das unbefugtes Personal aus sensiblen Bereichen fernhalten soll.

@@ -5,4 +5,4 @@ ent-IncompleteBaseBallBat = unvollständiger Baseballschläger
     .desc = Ein paar zusammengeklebte Holzbretter.
 
 ent-WeaponMeleeKnockbackStick = Rückstoßstab
-    .desc = Und dann spleefed er überall.
+    .desc = Und dann spleeft er überall herum.

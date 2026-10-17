@@ -1,5 +1,5 @@
 ent-CrateArtifactContainer = Artefaktbehälter
-    .desc = Wird verwendet, um Artefakte sicher einzuschließen und zu bewegen.
+    .desc = Dient dazu, Artefakte sicher einzuschließen und zu transportieren.
 
 ent-HandheldArtifactContainer = Handartefaktbehälter
-    .desc = Ein Handkoffer, der verwendet wird, um kleine Artefakte sicher zu enthalten und zu bewegen.
+    .desc = Ein Handkoffer, um kleine Artefakte sicher aufzubewahren und zu transportieren.

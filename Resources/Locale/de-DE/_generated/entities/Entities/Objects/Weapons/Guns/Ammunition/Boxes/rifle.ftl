@@ -1,13 +1,13 @@
 ent-MagazineBoxRifleBig = Munitionskasten (.20 Gewehr)
 
 ent-MagazineBoxRifle = Munitionskasten (.20 Gewehr)
-    .desc = Ein Karton von .20 Gewehrrunden. Geplant zur Aufnahme von Allzweck-Kinetikmunition.
+    .desc = Eine Schachtel mit .20 Gewehrpatronen. Für Standard-Kinetikmunition gedacht.
 
 ent-MagazineBoxRiflePractice = Munitionsbox (.20 Gewehr-Übung)
-    .desc = Ein Karton von .20 Gewehrrunden. Beabsichtigt, harmlose Übungsmunition zu halten.
+    .desc = Eine Schachtel mit .20 Gewehrpatronen. Für harmlose Übungsmunition gedacht.
 
 ent-MagazineBoxRifleIncendiary = Munitionsbox (.20 Gewehrbrand)
-    .desc = Ein Karton von .20 Gewehrrunden. Beabsichtigt, selbstzündende Brandmunition zu halten.
+    .desc = Eine Schachtel mit .20 Gewehrpatronen. Für selbstzündende Brandmunition gedacht.
 
 ent-MagazineBoxRifleUranium = Munitionsbox (.20 Gewehr-Uran)
-    .desc = Ein Karton von .20 Gewehrrunden. Beabsichtigt, exotische Urankernmunition zu halten.
+    .desc = Eine Schachtel mit .20 Gewehrpatronen. Für exotische Urankernmunition gedacht.

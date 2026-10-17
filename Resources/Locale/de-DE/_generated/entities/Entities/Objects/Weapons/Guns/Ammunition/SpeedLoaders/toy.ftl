@@ -1,2 +1,2 @@
 ent-SpeedLoaderCap = Zündplättchen-Schnelllader
-    .desc = Entwickelt, um schnell bis zu sechs Patronen in eine leere Kappenpistole zu laden.
+    .desc = Zum schnellen Laden von bis zu sechs Patronen in eine leere Spielzeugpistole.

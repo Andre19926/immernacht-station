@@ -1,38 +1,38 @@
 ent-WeaponShotgunBulldog = Bulldogge
-    .desc = Eine vollautomatische Bullpup-Flinte, wenn du drei Sekunden Zeit hast, um acht Personen in Pasta-Sauce zu verwandeln. Kicks wie ein Maultier auf Steroiden. Wird von 12 Gauge Trommelmagazinen gespeist.
+    .desc = Eine vollautomatische Bullpup-Flinte, falls du drei Sekunden Zeit hast, acht Leute in Pastasauce zu verwandeln. Tritt wie ein Maultier auf Steroiden. Wird von Trommelmagazinen im Kaliber 12 gespeist.
 
 ent-WeaponShotgunDoubleBarreled = Doppelläufige Schrotflinte
-    .desc = Ein unsterblicher Klassiker. Verwendet 12 Gauge Shotgun Granaten.
+    .desc = Ein unsterblicher Klassiker. Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunDoubleBarreledRubber = Doppelläufige Schrotflinte (Gummi)
-    .desc = Ein unsterblicher Klassiker. Verwendet 12 Gauge Shotgun Granaten.
+    .desc = Ein unsterblicher Klassiker. Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunEnforcer = Vollstrecker
-    .desc = Eine Premium-, halbautomatische Schrotflinte Plattform für Strafverfolgung und Terrorismusbekämpfung. Zuverlässig als Pumpaktion, auch unter extremen Bedingungen. Ladet 7 Runden von 12 Gauge.
+    .desc = Eine hochwertige, halbautomatische Schrotflinte für Strafverfolgung und Terrorabwehr. Zuverlässig wie eine Vorderschaftrepetierflinte, auch unter extremen Bedingungen. Fasst 7 Patronen im Kaliber 12.
 
 ent-WeaponShotgunEnforcerRubber = Vollstrecker
-    .desc = Eine Premium-, halbautomatische Schrotflinte Plattform für Strafverfolgung und Terrorismusbekämpfung. Zuverlässig als Pumpaktion, auch unter extremen Bedingungen. Ladet 7 Runden von 12 Gauge.
+    .desc = Eine hochwertige, halbautomatische Schrotflinte für Strafverfolgung und Terrorabwehr. Zuverlässig wie eine Vorderschaftrepetierflinte, auch unter extremen Bedingungen. Fasst 7 Patronen im Kaliber 12.
 
 ent-WeaponShotgunKammerer = Kammerer
-    .desc = Eine alte und treue Pumpaktion, der Kammerer ist billig, leicht und würde wahrscheinlich noch funktionieren, wenn du ihn eine Woche lang in der Brennkammer lassen würdest. Beliebt für den zivilen Gebrauch und geliebt von NanoTrasen für seinen winzigen Preis. Ladet 7 Runden von 12 Gauge.
+    .desc = Eine alte, treue Vorderschaftrepetierflinte. Die Kammerer ist billig, leicht und würde wahrscheinlich noch funktionieren, wenn du sie eine Woche lang in der Brennkammer ließest. Beliebt im zivilen Gebrauch und von Nanotrasen für ihren winzigen Preis geliebt. Fasst 7 Patronen im Kaliber 12.
 
 ent-WeaponShotgunSawn = abgesägte Schrotflinte
     .desc = Groovy! Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunSawnEmpty = abgesägte Schrotflinte
-    .desc = Groovy! Verwendet 12 Gauge Shotgun Granaten.
+    .desc = Groovy! Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunHandmade = Handgemachte Pistole
-    .desc = Sieht unzuverlässig aus. Verwendet 12 Gauge Shotgun Granaten.
+    .desc = Sieht unzuverlässig aus. Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunBlunderbuss = blunderbuss
-    .desc = Tödlich aus nächster Nähe.
+    .desc = Tödlich auf kurze Distanz.
 
 ent-WeaponShotgunImprovised = improvisierte Schrotflinte
-    .desc = Eine beschissene, handgefertigte Schrotflinte, die 12 Gauge-Schrotflintenschalen verwendet. Es kann nur eine Runde in der Kammer halten.
+    .desc = Eine beschissene, handgefertigte Schrotflinte, die Schrotpatronen im Kaliber 12 verwendet. Es fasst nur eine Patrone im Lauf.
 
 ent-WeaponShotgunImprovisedLoaded = improvisierte Schrotflinte
-    .desc = Eine beschissene, handgefertigte Schrotflinte, die 12 Gauge-Schrotflintenschalen verwendet. Es kann nur eine Runde in der Kammer halten.
+    .desc = Eine beschissene, handgefertigte Schrotflinte, die Schrotpatronen im Kaliber 12 verwendet. Es fasst nur eine Patrone im Lauf.
 
 ent-WeaponShotgunHushpup = Hushpupfer
-    .desc = Eine obskure Modifikation des Enforcers, ausgestattet mit einem experimentellen Schalldämpfer. Großartig für diejenigen mit einem strengen Moralkodex. Verwendet .50 Schrotflintengranaten.
+    .desc = Eine obskure Modifikation des Enforcers mit experimentellem Schalldämpfer. Großartig für alle mit strengem Moralkodex. Verwendet .50-Schrotpatronen.

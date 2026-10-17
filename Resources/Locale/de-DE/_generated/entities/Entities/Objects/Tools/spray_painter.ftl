@@ -1,14 +1,14 @@
 ent-SprayPainter = Sprühlackierer
-    .desc = Ein Sprühmaler zum Malen von Luftschleuse, Pfeifen und anderen Gegenständen.
+    .desc = Eine Sprühdose zum Bemalen von Luftschleusen, Rohren und anderen Gegenständen.
 
 ent-SprayPainterRecharging = Sprühlackierer
-    .desc = Ein Sprühmaler zum Malen von Luftschleuse, Pfeifen und anderen Gegenständen.
+    .desc = Eine Sprühdose zum Bemalen von Luftschleusen, Rohren und anderen Gegenständen.
 
 ent-SprayPainterBorg = Versuchssprühlack
-    .desc = Ein experimentelles Wiederaufladen von Sprühlacken, die komprimierte Farbe unendlich replizieren können.
+    .desc = Eine experimentelle Nachfüllung für Sprühdosen, die komprimierte Farbe unendlich vervielfältigen kann.
 
 ent-SprayPainterEmpty = Sprühlackierer
-    .desc = Ein Sprühmaler zum Malen von Luftschleuse, Pfeifen und anderen Gegenständen.
+    .desc = Eine Sprühdose zum Bemalen von Luftschleusen, Rohren und anderen Gegenständen.
 
 ent-SprayPainterAmmo = komprimierte Farbe
-    .desc = Eine Kartusche aus hochkomprimierter Farbe, die üblicherweise in Sprühlacken verwendet wird.
+    .desc = Eine Kartusche aus hochkomprimierter Farbe, üblicherweise in Sprühdosen verwendet.

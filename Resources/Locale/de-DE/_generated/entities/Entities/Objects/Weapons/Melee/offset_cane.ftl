@@ -1,14 +1,14 @@
 ent-OffsetCane = Standard-Gehstock mit Krümmgriff
-    .desc = Ein Standard-Offsetstock, der wichtig ist, um herumzukommen, wenn deine Beine der Aufgabe nicht gewachsen sind. Kann oder darf dir nicht die Weisheit der alten Menschen gewähren.
+    .desc = Ein einfacher Gehstock, wichtig, um sich fortzubewegen, wenn deine Beine der Aufgabe nicht gewachsen sind. Verleiht dir womöglich nicht die Weisheit der Alten.
 
 ent-OffsetCaneClown = Regenbogen-Gehstock
-    .desc = Ein Regenbogen-Offsetstock, perfekt für Clowns und diejenigen, die einen Spritzer Farbe in ihrem Leben genießen.
+    .desc = Ein Regenbogen-Gehstock, perfekt für Clowns und alle, die einen Farbtupfer in ihrem Leben mögen.
 
 ent-OffsetCaneMime = Gestreifter Gehstock
-    .desc = Ein schwarz-weiß gestreifter Stock, perfekt für stille Aufführungen.
+    .desc = Ein schwarz-weiß gestreifter Stock, perfekt für stille Darbietungen.
 
 ent-OffsetCaneNT = Nanotrasen-Gehstock
-    .desc = Ein Nanotrasen-Standard-Ausgabe-Offsetrohr mit dem NT-Logo, das von denjenigen bevorzugt wird, die einen Corporate-Look bevorzugen.
+    .desc = Ein Nanotrasen-Standard-Gehstock mit NT-Logo, bevorzugt von allen, die einen Konzernlook mögen.
 
 ent-OffsetCaneWood = Holzgehstock
-    .desc = Ein Holzstock, eine klassische Wahl für diejenigen, die natürliche Materialien und einen robusten Griff schätzen.
+    .desc = Ein Holzstock, eine klassische Wahl für alle, die natürliche Materialien und einen robusten Griff schätzen.

@@ -1,5 +1,5 @@
 ent-C4 = Zusammensetzung C-4
-    .desc = Wird verwendet, um Löcher in bestimmten Bereichen ohne zu viel zusätzliches Loch zu setzen. Der Favorit eines Saboteurs.
+    .desc = Dient dazu, Löcher in bestimmte Bereiche zu sprengen, ohne zu viel zusätzliches Loch zu hinterlassen. Der Favorit eines Saboteurs.
 
 ent-SeismicCharge = seismische Ladung
-    .desc = Eine Gehirnerschütterung basiert auf Sprengstoff entwickelt, um große Mengen an Gestein zu zerstören.
+    .desc = Ein auf Erschütterung basierender Sprengstoff, entwickelt, um große Mengen Gestein zu zertrümmern.

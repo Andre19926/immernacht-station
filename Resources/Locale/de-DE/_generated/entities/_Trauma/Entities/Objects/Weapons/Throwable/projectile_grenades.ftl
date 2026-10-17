@@ -1,2 +1,2 @@
 ent-GrenadeShrapnelFoam = Dartgranatenschaum
-    .desc = Gibt ein lästiges Spray von Schaumpfeilen frei, die starkes Schweißen verursachen.
+    .desc = Setzt einen lästigen Schaumpfeil-Hagel frei, der starkes Schwitzen verursacht.

@@ -1,5 +1,5 @@
 ent-AccessBreakerUnlimited = Authentifizierungsunterbrecher
-    .desc = Ein gehackter Zugangskonfigurator, spezialisiert auf das Entsperren und Löschen des Zugriffs aus digitalen Schlössern.
+    .desc = Ein gehackter Zugangskonfigurator, spezialisiert darauf, Zugriffsrechte digitaler Schlösser freizuschalten und zu löschen.
 
 ent-AccessBreaker = Authentifizierungsunterbrecher
-    .desc = Ein gehackter Zugangskonfigurator, spezialisiert auf das Entsperren und Löschen des Zugriffs aus digitalen Schlössern.
+    .desc = Ein gehackter Zugangskonfigurator, spezialisiert darauf, Zugriffsrechte digitaler Schlösser freizuschalten und zu löschen.

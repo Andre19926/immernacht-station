@@ -1,2 +1,2 @@
 ent-Fireplace = Feuerstelle
-    .desc = Ein Ort, der Feuer hat. Gemütlich!
+    .desc = Ein Ort mit Feuer. Gemütlich!

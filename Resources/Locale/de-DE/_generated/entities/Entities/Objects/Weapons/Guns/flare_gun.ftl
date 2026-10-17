@@ -1,5 +1,5 @@
 ent-WeaponFlareGun = Leuchtpistole
-    .desc = Eine kompakte, Single-Shot-Pistole, die Schrotflintenschalen abfeuert. Kommt mit einer Sicherheitsfunktion, die verhindert, dass der Benutzer tödliche Schalen innen anbringt.
+    .desc = Eine kompakte Einzelschusspistole, die Schrotpatronen verschießt. Mit Sicherheitsfunktion, die verhindert, dass der Benutzer tödliche Patronen einlegt.
 
 ent-WeaponFlareGunSecurity = Sicherheitsgranate
-    .desc = Eine modifizierte Flare-Pistole, die ursprünglich für die Sicherheit entwickelt wurde, um nicht-tödliche Schrotflinten zu starten, kann jedoch auch tödliche Granaten ohne Risiko abfeuern.
+    .desc = Eine modifizierte Leuchtpistole, ursprünglich für die Sicherheit entwickelt, um nichtletale Schrotpatronen abzufeuern, kann aber auch tödliche Patronen gefahrlos verschießen.

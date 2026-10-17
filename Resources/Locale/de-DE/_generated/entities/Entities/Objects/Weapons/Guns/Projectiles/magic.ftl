@@ -1,8 +1,8 @@
 ent-ProjectileFireball = Feuerball
-    .desc = Mach besser GITTAH WEIGH.
+    .desc = Verschwinde besser: GITTAH WEIGH.
 
 ent-ProjectileDragonsBreath = Drachenatmen
-    .desc = Versuche, nicht geröstet zu werden.
+    .desc = Versuch, nicht geröstet zu werden.
 
 ent-ProjectileAnomalyFireball = Feuerball
     .desc = Schwebender Flammenfleck.
@@ -20,10 +20,10 @@ ent-ProjectilePolyboltDoor = Türpolybolzen
     .desc = Nooo, ich will keine Tür sein!
 
 ent-ProjectileHealingBolt = Heilungsbolzen
-    .desc = Ich verpflichte dich zu leben!
+    .desc = Ich verpflichte dich zum Leben!
 
 ent-BulletInstakillMagic = magischer Bleizylinder
-    .desc = Das sieht bekannt aus.
+    .desc = Das kommt dir bekannt vor.
 
 ent-ProjectilePolyboltCluwne = cluwne polybolt CAS-Nr.
 

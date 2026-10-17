@@ -21,7 +21,7 @@ ent-WeaponForceGun = Kraftgewehr
 ent-WeaponGrapplingGun = Greifpistole
 
 ent-WeaponLauncherSingularityBuster = Singularitäts-Buster Raketenwerfer
-    .desc = Ein experimenteller Raketenwerfer, der entwickelt wurde, um Raketen abzufeuern, die eine Singularität oder Tesla zersetzen können.
+    .desc = Ein experimenteller Raketenwerfer, der Raketen abfeuert, die eine Singularität oder Tesla zersetzen können.
 
 ent-WeaponTetherGunAdmin = Fesselpistole
     .desc = Manipuliert die Schwerkraft um Objekte, um sie mit hoher Geschwindigkeit zu schleudern.
@@ -33,4 +33,4 @@ ent-WeaponLauncherAdmemeMeteorLarge = Meteorwerfer
     .desc = Es schießt große Meteore.
 
 ent-WeaponLauncherAdmemeImmovableRodSlow = unbewegliche Stangenwerfer
-    .desc = Es feuert langsame unbewegliche Stangen.
+    .desc = Es feuert langsame, unbewegliche Stangen ab.

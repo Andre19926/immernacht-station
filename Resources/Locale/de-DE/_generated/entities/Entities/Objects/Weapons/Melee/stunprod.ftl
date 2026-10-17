@@ -1,2 +1,2 @@
 ent-Stunprod = Betäubungsprothese
-    .desc = Ein Betäubungsmittel für illegale Entmündigung.
+    .desc = Ein Betäubungsmittel für rechtswidrige Entmündigung.

@@ -1,5 +1,5 @@
 ent-BoxDonkSoftBox = Schaumpfeilbox
-    .desc = Ein Pappkarton mit Schaumpfeilen.
+    .desc = Eine Pappschachtel mit Schaumpfeilen.
 
 ent-BoxCartridgeCap = Munitionskiste (Zündplättchenpistole)
-    .desc = Ein Karton mit Cap Gun Patronen.
+    .desc = Eine Schachtel mit Knallplättchen für Spielzeugpistolen.

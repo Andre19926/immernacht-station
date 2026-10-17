@@ -1,5 +1,5 @@
 ent-ConveyorBelt = Förderband
-    .desc = Ein Förderband, das häufig verwendet wird, um eine große Anzahl von Gegenständen an anderer Stelle ziemlich schnell zu transportieren.
+    .desc = Ein Förderband, das häufig verwendet wird, um viele Gegenstände ziemlich schnell an einen anderen Ort zu transportieren.
 
 ent-ConveyorBeltAssembly = Förderband
-    .desc = Eine Förderbandanordnung. Wird verwendet, um ein Förderband zu bauen.
+    .desc = Ein Förderbandbausatz. Wird zum Bau eines Förderbands verwendet.

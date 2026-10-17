@@ -1,8 +1,8 @@
 ent-ThiefBeacon = Diebstähle
-    .desc = Ein Gerät, das alles um es herum zum Tresor des Diebes am Ende der Schicht teleportiert.
+    .desc = Ein Gerät, das alles in seiner Umgebung am Schichtende in den Tresor des Diebes teleportiert.
 
 ent-ToolboxThief = unbestimmter Dieb Werkzeugkasten
-    .desc = Hier liegen die Vorräte deines Lieblingsdiebs. Versuche dich zu erinnern, welche.
+    .desc = Hier liegen die Vorräte deines Lieblingsdiebs. Versuch dich zu erinnern, welche.
 
 ent-SatchelThief = Unbestimmte Diebestasche
-    .desc = Dies ist, wo die versorgungen ihres favoriten-telfs liegen. Zur Vereinfachung gefaltet.
+    .desc = Hier liegen die Vorräte deines Lieblingsdiebs. Zur Vereinfachung zusammengefaltet.

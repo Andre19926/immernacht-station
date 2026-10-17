@@ -1,23 +1,23 @@
 ent-MagazineLightRifleBox = L6 SAW Magazinbox (.30 Gewehr)
-    .desc = Box mit einem 100-runden Gürtel von verbundenen .30 Gewehrrunden, die von leichten Maschinengewehren wie dem L6 verwendet werden.
+    .desc = Kiste mit einem 100-Schuss-Gürtel aus verbundenen .30-Gewehrpatronen, wie sie von leichten Maschinengewehren wie dem L6 verwendet werden.
 
 ent-MagazineLightRifleBoxEmpty = L6 SAW Magazinbox (.30 Gewehr beliebig)
-    .desc = Box mit einem 100-runden Gürtel von verbundenen .30 Gewehrrunden, die von leichten Maschinengewehren wie dem L6 verwendet werden.
+    .desc = Kiste mit einem 100-Schuss-Gürtel aus verbundenen .30-Gewehrpatronen, wie sie von leichten Maschinengewehren wie dem L6 verwendet werden.
 
 ent-MagazineLightRifle = Magazin (.30 Gewehr)
-    .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, allgemeine kinetische Munition aufzunehmen.
+    .desc = Gebogenes 30-Schuss-Doppelstapelmagazin für Kampfgewehre. Für Standard-Kinetikmunition gedacht.
 
 ent-MagazineLightRifleEmpty = Magazin (.30 Gewehre)
-    .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre.
+    .desc = Gebogenes 30-Schuss-Doppelstapelmagazin für Kampfgewehre.
 
 ent-MagazineLightRiflePractice = Magazin (.30 Gewehr-Übung)
-    .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, harmlose Übungsmunition zu halten.
+    .desc = Gebogenes 30-Schuss-Doppelstapelmagazin für Kampfgewehre. Für harmlose Übungsmunition gedacht.
 
 ent-MagazineLightRifleUranium = Magazin (.30 Gewehr-Uran)
-    .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, exotische Urankernmunition zu halten.
+    .desc = Gebogenes 30-Schuss-Doppelstapelmagazin für Kampfgewehre. Für exotische Urankernmunition gedacht.
 
 ent-MagazineLightRifleIncendiary = Magazin (.30 Gewehrbrand)
-    .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, selbstzündende Brandmunition zu halten.
+    .desc = Gebogenes 30-Schuss-Doppelstapelmagazin für Kampfgewehre. Für selbstzündende Brandmunition gedacht.
 
 ent-MagazineLightRifleMaxim = Pfannenmagazin (.30 Gewehr)
 

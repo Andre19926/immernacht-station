@@ -1,14 +1,14 @@
 ent-WeaponImprovisedPneumaticCannon = improvisierte pneumatische Kanone
-    .desc = Improvisiert mit nichts als einem Rohr, einigen Zipties und einer pneumatischen Kanone. Akzeptiert keine Tanks ohne genug Gas.
+    .desc = Aus nichts als einem Rohr, ein paar Kabelbindern und einer pneumatischen Kanone improvisiert. Akzeptiert keine Tanks ohne genug Gas.
 
 ent-LauncherCreamPie = Tortenkanone
-    .desc = Lade Creme Pie für optimale Ergebnisse.
+    .desc = Für optimale Ergebnisse Sahnetorte laden.
 
 ent-BorgLauncherCreamPie = Versuchskanone
-    .desc = Liefern dich eine großzügige Portion Creme direkt an die Crew! Backt im Laufe der Zeit automatisch Kuchen.
+    .desc = Liefert eine großzügige Portion Sahne direkt an die Crew! Backt mit der Zeit automatisch Kuchen.
 
 ent-WeaponImprovisedPneumaticCannonGun = improvisierte pneumatische Kanone
-    .desc = Improvisiert mit nichts als einem Rohr, einigen Zipties und einer pneumatischen Kanone. Akzeptiert keine Tanks ohne genug Gas.
+    .desc = Aus nichts als einem Rohr, ein paar Kabelbindern und einer pneumatischen Kanone improvisiert. Akzeptiert keine Tanks ohne genug Gas.
 
 ent-WeaponImprovisedPneumaticCannonAdmeme = improvisierte pneumatische Kanone
-    .desc = Improvisiert mit nichts als einem Rohr, einigen Zipties und einer pneumatischen Kanone. Akzeptiert keine Tanks ohne genug Gas.
+    .desc = Aus nichts als einem Rohr, ein paar Kabelbindern und einer pneumatischen Kanone improvisiert. Akzeptiert keine Tanks ohne genug Gas.
