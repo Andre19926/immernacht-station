@@ -5,4 +5,4 @@ ent-ActionQuietBackThere = Ruhig zurück da
     .desc = Sage den Assistenten, dass sie still sein sollen.
 
 ent-ActionDrivingWithStyle = JukeBox
-    .desc = Fahren mit Musik
+    .desc = Mit Musik fahren.

@@ -5,7 +5,7 @@ ent-ActionPolymorphWizardSpider = Spinnenverwandlung
     .desc = Verwandelt dich in eine Spinne.
 
 ent-ActionPolymorphWizardRod = Stabverwandlung
-    .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
+    .desc = Nimm die Gestalt eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
 ent-ActionPolymorphJaunt = Ätherischer Sprung
     .desc = Tauche für einen kurzen Ausflug in die ätherische Ebene ein!

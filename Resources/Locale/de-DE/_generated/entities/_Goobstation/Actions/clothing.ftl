@@ -5,4 +5,4 @@ ent-ActionActivateProjector = Toggle Clone
     .desc = Generiert oder dissipiert deine verbundenen Zwillinge.
 
 ent-ActionHailer = Hagel
-    .desc = Audibly Hagel in der Nähe Crew, nützlich für schnelle Bestellungen.
+    .desc = Ruft hörbar die Crew in der Nähe, nützlich für schnelle Bestellungen.

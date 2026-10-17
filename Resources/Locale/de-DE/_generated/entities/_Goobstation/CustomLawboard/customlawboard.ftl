@@ -1,5 +1,5 @@
 ent-SyndicateCustomLawboard = Experimental Syndicate Gesetzesplatine
-    .desc = Eine seltsam aussehende experimentelle Lawboard. Nach dem Syndicate-Display zu urteilen, wird es wahrscheinlich für schändliche Zwecke verwendet.
+    .desc = Ein seltsam aussehendes experimentelles Gesetzesboard. Dem Syndicate-Display nach zu urteilen, wird es wahrscheinlich für schändliche Zwecke verwendet.
 
 ent-NTCustomLawboard = Freeform Gesetzesplatine
-    .desc = Eine Freeform Lawboard, akzeptiert alle Zollgesetze.
+    .desc = Ein Freiform-Gesetzesboard, akzeptiert alle Sondergesetze.

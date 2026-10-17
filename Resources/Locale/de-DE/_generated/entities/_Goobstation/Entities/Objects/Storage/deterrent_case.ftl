@@ -1,2 +1,2 @@
 ent-DeterrentCase = Abschreckungsfall
-    .desc = Ein kleiner grüner Fall gefüllt mit einem Central Command Mitglieder beste Freunde. Warm zur Berührung.
+    .desc = Ein kleiner grüner Koffer, gefüllt mit den besten Freunden eines Central-Command-Mitglieds. Warm bei Berührung.

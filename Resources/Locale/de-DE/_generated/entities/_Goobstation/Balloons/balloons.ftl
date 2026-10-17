@@ -5,28 +5,28 @@ ent-BlueBalloon = Blauer Ballon
     .desc = Ein ziemlich kalter Ballon.
 
 ent-GreenBalloon = grüner Ballon
-    .desc = Der strategischste Ballon des Haufens. Kann fortgeschrittene Wellen planen, wenn es nur eine Spur zu folgen hätte.
+    .desc = Der strategischste Ballon im Haufen. Könnte fortgeschrittene Angriffswellen planen, wenn er nur einer Spur folgen könnte.
 
 ent-YellowBalloon = gelber Ballon
-    .desc = Der gierigste Ballon, der seinen Reichtum immer den anderen Ballons zur Schau stellt.
+    .desc = Der gierigste Ballon, der seinen Reichtum den anderen Ballons stets zur Schau stellt.
 
 ent-PinkBalloon = rosafarbener Ballon
     .desc = Der lästigste und unerträglichste Ballon.
 
 ent-BlackBalloon = schwarzer Ballon
-    .desc = Der kantige Ballon wuchs nie aus seiner Emo-Phase heraus. Immun gegen Hitze und Schockschäden!
+    .desc = Der kantige Ballon ist nie aus seiner Emo-Phase herausgewachsen. Immun gegen Hitze- und Schockschaden!
 
 ent-WhiteBalloon = weißer Ballon
-    .desc = Der emotionsloseste Ballon. Wird nicht einmal ein richtiger name gegeben, nur ein zweck. Immun gegen Kälteschäden!
+    .desc = Der emotionsloseste Ballon. Er bekommt nicht einmal einen richtigen Namen, nur einen Zweck. Immun gegen Kälteschaden!
 
 ent-ZebraBalloon = Zebraballon
     .desc = Der am stärksten gepanzerte Ballon. So gefürchtet, dass ihn nicht einmal Tiere angreifen. Immun gegen stumpfen Schaden!
 
 ent-SteelBalloon = Stahlballon
-    .desc = Der am meisten gepanzerte Ballon. So befürchtete, dass sogar Tiere es nicht angreifen. Immun gegen physische Schäden!
+    .desc = Der am stärksten gepanzerte Ballon. So gefürchtet, dass ihn nicht einmal Tiere angreifen. Immun gegen physischen Schaden!
 
 ent-RainbowBalloon = Regenbogenballon
     .desc = Der böseste Ballon von allen. Lass dich nicht von den hübschen Farben täuschen.
 
 ent-CeramicBalloon = Karpfenballon
-    .desc = Ist es eine Kombination aus Ballon- und Karpfen-DNA? Oder einen Ballon im Karpfenanzug? Niemand weiß es.
+    .desc = Ist das eine Kombination aus Ballon- und Karpfen-DNA? Oder ein Ballon im Karpfenanzug? Niemand weiß es.

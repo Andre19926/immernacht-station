@@ -1,8 +1,8 @@
 ent-ClothingHeadHelmetHelldiver = Salvage NT-01 taktischer Helm
-    .desc = Diese ist die Nano-Achtung, die aus der gleichen Titan-Legierung besteht wie der Goliath-Achtung.
+    .desc = Dies ist der Nano-Schutzhelm, aus derselben Titanlegierung wie der Goliath-Helm.
 
 ent-ClothingHeadHelmetHEV = H.E.V. Helm
-    .desc = Nicht in einem Set mit Brecheisen, dem Weitsprung-Modul und dem Schwerkraft-Manipulationsgerät enthalten.
+    .desc = Nicht im Set mit Brecheisen, Weitsprung-Modul und Schwerkraftmanipulator enthalten.
 
 ent-ClothingHeadHelmetBasicAlt = Helm
     .desc = Standard-Sicherheitsausrüstung. Schützt den Kopf vor Stößen.
@@ -11,21 +11,21 @@ ent-ReverseBearTrap = Umgekehrte Bärenfalle
     .desc = Ein grauenhafter Satz geschlossener Metallbacken, an einer Küchenuhr befestigt und mit einem Vorhängeschloss an einer Kopfklemme gesichert. Um sich zu bewerben, schlag jemanden damit.
 
 ent-ClothingHeadHatHoodCloakSith = Dark Lord Hood
-    .desc = Was als einfache Cosplay-Haube begann, wurde illegal mit gepanzerten Platten verstärkt und in ein funktionales Stück Rüstung verwandelt. Sieht so aus, als wäre es sogar in der Lage, den Benutzer vor dem fehlenden Druck im Weltraum zu schützen.
+    .desc = Was als einfache Cosplay-Haube begann, wurde illegal mit Panzerplatten verstärkt und in ein funktionales Rüstungsstück verwandelt. Sieht so aus, als könnte es den Träger sogar vor dem fehlenden Druck im Weltraum schützen.
 
 ent-ClothingHeadHatCowboyBrownRobust = authentischer brauner Cowboyhut
-    .desc = "Diese Station ist nicht groß genug für uns beide."
+    .desc = „Diese Station ist nicht groß genug für uns beide.“
 
 ent-ClothingHeadHatHelmetTemplar = Kreuzritterhelm
 
 ent-ClothingHeadHatHelmetCage = Käfig
-    .desc = Ein Käfig, der den Willen des Selbst zurückhält und es einem ermöglicht, die profane Welt als das zu sehen, was sie ist.
+    .desc = Ein Käfig, der den Willen des Selbst zurückhält und es ermöglicht, die profane Welt so zu sehen, wie sie ist.
 
 ent-ClothingHeadHatHelmetAncient = Alter Helm
     .desc = Du kommst hier nicht vorbei!
 
 ent-ClothingHeadHatHelmetWitchhunter = Hexenhut
-    .desc = Dieser Hut sah viel Gebrauch zurück in den Tag.
+    .desc = Dieser Hut hat früher viel Gebrauch gesehen.
 
 ent-ClothingHeadHatHelmetAdept = Adept Hood
     .desc = Es ist nur ketzerisch, wenn andere es tun.
@@ -34,19 +34,19 @@ ent-ClothingHeadHatHelmetClock = vergessener Helm
     .desc = Es hat den unnachgiebigen Blick eines ewig vergessenen Gottes.
 
 ent-ClothingHeadHatHelmetMonk = Die Augenbinde des Mönchs
-    .desc = Für Menschen, die unnötige Gefühle aufgeben wollen.
+    .desc = Für Menschen, die unnötige Gefühle ablegen wollen.
 
 ent-ClothingHeadHatHelmetBishop = Bischof Mitre
-    .desc = Ein opulenter Hut, der als Radio zu Gott fungiert. Oder als Blitzableiter, je nachdem, wen dich fragen.
+    .desc = Ein opulenter Hut, der als Funkgerät zu Gott dient. Oder als Blitzableiter, je nachdem, wen du fragst.
 
 ent-ClothingHeadHatHelmetDragon = Drachenschädel
-    .desc = Kühler Schädel.
+    .desc = Cooler Schädel.
 
 ent-ClothingHeadHatHelmetInquisitor = Inquisitor Cap
-    .desc = Eine majestätische vergoldete Kappe. Die Personifizierung der Strafe, die Ketzern widerfahren wird!
+    .desc = Eine majestätische vergoldete Kappe. Die Verkörperung der Strafe, die Ketzern widerfahren wird!
 
 ent-ClothingHeadHatHoodSchemaMonk = Haube eines monastischen Gewandes
-    .desc = Bequeme Kapuze des monastischen Gewandes.
+    .desc = Bequeme Kapuze des Mönchsgewandes.
 
 ent-ClothingHeadHatHelmetBrass = Messinghelm
-    .desc = Brasshelm, wie in den guten alten Tagen.
+    .desc = Messinghelm, wie in den guten alten Tagen.

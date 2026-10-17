@@ -13,7 +13,7 @@ ent-SmartlinkRightHand = SmartLink-Hand (rechts)
     .desc = Eine kybernetische rechte Hand, mit der ihr Träger mit jeder Waffe „intelligente“ Kugeln abfeuern kann.
 
 ent-RecoilAbsorberLeftHand = rückstoßabsorbierende Hand (links)
-    .desc = Eine kybernetische linke Hand, die die meisten Fernwaffen absorbiert, prallt zurück.
+    .desc = Eine kybernetische linke Hand, die die meisten Fernkampfwaffen absorbiert und abprallen lässt.
 
 ent-RecoilAbsorberRightHand = rückstoßabsorbierende Hand (rechts)
     .desc = Eine kybernetische rechte Hand, die die meisten Fernkampfwaffen absorbiert.

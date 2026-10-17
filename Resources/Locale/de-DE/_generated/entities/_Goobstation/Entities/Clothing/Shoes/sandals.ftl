@@ -1,2 +1,2 @@
 ent-ClothingShoesSandals = Sandalen
-    .desc = Ein Paar einfache, aber stilvolle Sandalen.
+    .desc = Ein Paar einfacher, aber stilvoller Sandalen.

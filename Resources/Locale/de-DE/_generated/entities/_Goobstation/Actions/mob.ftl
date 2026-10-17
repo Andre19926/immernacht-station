@@ -1,2 +1,2 @@
 ent-ActionMouseCall = Mousecall
-    .desc = Rufe nahe gelegene Mäuse an deinen Standort.
+    .desc = Rufe nahe Mäuse an deinen Standort.

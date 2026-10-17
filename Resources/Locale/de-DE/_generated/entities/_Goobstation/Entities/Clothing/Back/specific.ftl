@@ -11,10 +11,10 @@ ent-ClothingBackpackMercFilledHECU = Söldnerbeutel
     .desc = Ein Rucksack, der an vielen gefährlichen Orten war, ein zuverlässiger Kampfrucksack.
 
 ent-ClothingBackpackDuffelGman = Merkwürdiger Seesack
-    .desc = Eine seltsame, unentfernbare Tasche, die eine absurde Menge an Gegenständen enthalten kann. Scheinbar unsichtbar für das bloße Auge.
+    .desc = Eine seltsame, nicht entfernbare Tasche, die eine absurde Menge an Gegenständen fassen kann. Für das bloße Auge scheinbar unsichtbar.
 
 ent-ClothingBackpackLMGBattery = EL-20 Speicherung
-    .desc = Akzeptiert spezielle Autobatterien, um den EL-20 HAMRR LMG anzutreiben.
+    .desc = Nimmt spezielle Autobatterien auf, um das LMG EL-20 HAMRR anzutreiben.
 
 ent-ClothingBackpackFirefighterTank = Feuerwehr Wassertank Rucksack
-    .desc = Ein gekühlter Wassertank-Rucksack, der die Modi wechseln kann, um ATMOS-Harz zu starten oder als Hochdrucklöscher zu arbeiten.
+    .desc = Ein gekühlter Wassertank-Rucksack, der den Modus wechseln kann, um ATMOS-Harz zu verschießen oder als Hochdrucklöscher zu arbeiten.

@@ -5,7 +5,7 @@ ent-ActionBananaTouch = Bananenberührung
     .desc = Zeit, den Clown zu geben.
 
 ent-ActionMagicMissile = Magische Rakete
-    .desc = Feuert mehrere betäubende, sich langsam bewegende magische Projektile auf nahe Ziele ab.
+    .desc = Feuert mehrere betäubende, langsam fliegende magische Projektile auf nahe Ziele ab.
 
 ent-ActionDisableTech = Technologie deaktivieren
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Geräte in Reichweite.
@@ -23,13 +23,13 @@ ent-ActionStopTime = Zeitstopp
     .desc = Stoppt die Zeit um dich herum.
 
 ent-ActionCorpseExplosion = Leichenexplosion
-    .desc = Füllt eine Leiche mit Energie, sodass sie heftig explodiert.
+    .desc = Lädt eine Leiche mit Energie auf, sodass sie heftig explodiert.
 
 ent-ActionBlindSpell = Blenden
     .desc = Blendet ein einzelnes Ziel vorübergehend.
 
 ent-ActionBindSoul = Seele binden
-    .desc = Binde deine Seele an einen Gegenstand, damit du nach dem Tod auferstehen kannst. Ist deine Seele bereits an einen Gegenstand gebunden und du bist tot, versuche die Wiederauferstehung.
+    .desc = Binde deine Seele an einen Gegenstand, um nach dem Tod aufzuerstehen. Ist deine Seele bereits an einen Gegenstand gebunden und du bist tot, versuchst du die Wiederauferstehung.
 
 ent-ActionMutateSpell = Mutieren
     .desc = Verwandelt dich in einen Hulk und verleiht dir für kurze Zeit Laserblick.
@@ -41,7 +41,7 @@ ent-ActionLightningBolt = Blitzschlag
     .desc = Feuere einen Blitz auf deine Feinde ab.
 
 ent-ActionHomingToolbox = Zielsuchende Werkzeugkiste
-    .desc = Feuert eine magische, zielsuchende Werkzeugkiste auf deinen Gegner ab.
+    .desc = Feuert einen magischen, zielsuchenden Werkzeugkasten auf deinen Gegner ab.
 
 ent-ActionSpellCards = Zauberkarten
     .desc = Feuere bis zu sechs Salven zielsuchender Zauberkarten ab.
@@ -53,10 +53,10 @@ ent-ActionLesserSummonGuns = Kleinere Beschwörungswaffen
     .desc = Beschwöre einen endlosen Strom von Repetiergewehren.
 
 ent-ActionBarnyardCurse = Fluch des Bauernhofs
-    .desc = Verdammt eine unglückliche Seele dazu, die Sprach- und Gesichtsmerkmale eines Scheunentiers zu besitzen.
+    .desc = Verdammt eine unglückliche Seele dazu, Sprache und Gesichtszüge eines Stalltiers anzunehmen.
 
 ent-ActionScreamForMe = Schreien für mich
-    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, sodass es wahrscheinlich verblutet, wenn es nicht sofort medizinisch behandelt wird.
+    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, sodass es ohne sofortige medizinische Behandlung wahrscheinlich verblutet.
 
 ent-ActionInstantSummons = Sofortiger Abruf
     .desc = Ruft einen zuvor markierten Gegenstand von überall im Universum in deine Hand zurück.
@@ -68,19 +68,19 @@ ent-ActionTrapsSpell = Die Fallen!
     .desc = Beschwöre mehrere Fallen um dich herum.
 
 ent-ActionLesserSummonBees = Kleinere Bienenbeschwörung
-    .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
+    .desc = Dieser Zauber öffnet magisch einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm an deinen Standort.
 
 ent-ActionSummonSimians = Affen beschwören
-    .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown) und ruft kleinere Affen und Gorillas herbei, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
+    .desc = Dieser Zauber greift tief in die Elementarebene der Bananen (der Affe, nicht der Clown) und ruft kleinere Affen und Gorillas herbei, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
 ent-ActionGorillaForm = Gorillagestalt
-    .desc = Nimm die Form eines mächtigen Gorillas an.
+    .desc = Nimm die Gestalt eines mächtigen Gorillas an.
 
 ent-ActionSanguineStrike = Aderlassschlag
-    .desc = Verzaubert deinen nächsten Waffenschlag, sodass er mehr Schaden verursacht, dich um den verursachten Schaden heilt und Blut auffüllt.
+    .desc = Verzaubert deinen nächsten Waffenschlag: Er verursacht mehr Schaden, heilt dich um den verursachten Schaden und füllt Blut auf.
 
 ent-ActionChuuniInvocations = Chuuni-Aufrufe
-    .desc = Lässt alle deine Zauber Beschwörungsformeln schreien, und die Beschwörungsformeln werden ... albern. Du heilst dich leicht, nachdem du einen Zauber gewirkt hast.
+    .desc = Lässt alle deine Zauber Beschwörungsformeln schreien, und diese Formeln werden ... albern. Du heilst dich leicht, nachdem du einen Zauber gewirkt hast.
 
 ent-ActionSwapSpell = Tausch
     .desc = Ermöglicht es dir, den Ort mit jedem Lebewesen zu tauschen.
@@ -89,16 +89,16 @@ ent-ActionSoulTap = Seelenzapfen
     .desc = Speise deine Zaubersprüche mit deiner eigenen Seele!
 
 ent-ActionThrownLightning = Geworfener Blitz
-    .desc = Aus unheimlichen Energien geschmiedet, erscheint ein Bündel reiner Kraft in deiner Hand, das, wenn es geworfen wird, deinem Ziel viel Ausdauerschaden zufügt.
+    .desc = Aus unheimlichen Energien geschmiedet, erscheint ein Bündel reiner Kraft in deiner Hand, das beim Wurf deinem Ziel viel Ausdauerschaden zufügt.
 
 ent-ActionBlinkSpell = Blinzeln
-    .desc = Teleportiert dich zufällig eine kurze Strecke.
+    .desc = Teleportiert dich zufällig über eine kurze Strecke.
 
 ent-ActionSummonStickmen = Strichmännchen beschwören
     .desc = Erlaubt dir, treue Strichmännchen-Verbündete zu beschwören, die dir im Kampf helfen.
 
 ent-ActionTileToggle = Kachelbewegung umschalten
-    .desc = Schaltet die Bewegung für das Ziel um.
+    .desc = Schaltet die Bewegung des Ziels um.
 
 ent-ActionRathenSpell = Rathens Geheimnis
-    .desc = Sprenge den Blinddarm jedes Opfers in der Nähe.
+    .desc = Sprenge den Blinddarm aller Opfer in der Nähe.

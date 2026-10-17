@@ -1,14 +1,14 @@
 ent-OrganBananaMenStomach = Bananenmagen
-    .desc = Eine sehr seltsam aussehende Banane, es sieht so aus, als hätte sie Platz, um Lebensmittel zu lagern.
+    .desc = Eine sehr seltsam aussehende Banane, die innen Platz zum Lagern von Lebensmitteln zu haben scheint.
 
 ent-OrganBananaMenLiver = Bananenleber
-    .desc = Eine sehr seltsam aussehende Banane, es sieht so aus, als hätte sie Raum im Inneren, um Chemikalien zu metabolisieren
+    .desc = Eine sehr seltsam aussehende Banane, die innen Platz zum Verstoffwechseln von Chemikalien zu haben scheint.
 
 ent-OrganBananaMenHeart = Bananenherz
-    .desc = Eine sehr seltsam aussehende Banane, es sieht aus wie seine fast schlagen.
+    .desc = Eine sehr seltsam aussehende Banane, die aussieht, als würde sie fast schlagen.
 
 ent-OrganBananaMenLungs = Bananenlungen
-    .desc = Eine sehr seltsam aussehende Banane, sie sieht schlaff genug aus, um Luft oder etwas zu speichern.
+    .desc = Eine sehr seltsam aussehende Banane, die schlaff genug aussieht, um Luft oder Ähnliches zu speichern.
 
 ent-OrganBananaMenKidneys = Bananennieren
-    .desc = Eine sehr seltsam aussehende Banane, es sieht so aus, als könnte sie verwendet werden, um Verunreinigungen zu filtern.
+    .desc = Eine sehr seltsam aussehende Banane, die aussieht, als ließe sie sich zum Filtern von Verunreinigungen verwenden.

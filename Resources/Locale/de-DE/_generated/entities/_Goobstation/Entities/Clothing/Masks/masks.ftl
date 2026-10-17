@@ -11,13 +11,13 @@ ent-ClothingMaskGasVoiceCraftable = Sprachmodulatormaske
     .desc = Ein schlecht gebauter Stimmverzerrer aus einer Gasmaske und einem Sprachauslöser.
 
 ent-ClothingMaskGasHalf = Halbe Gasmaske
-    .desc = Eine Gasmaske ... nur die Hälfte davon.
+    .desc = Eine Gasmaske ... nur zur Hälfte.
 
 ent-ClothingMaskMuzzleSecure = sichere Mündung
-    .desc = Kann Vampire am Beißen hindern, oder lästige Leute am Reden.
+    .desc = Kann Vampire am Beißen hindern – oder lästige Leute am Reden.
 
 ent-ClothingMaskMuzzleShock = Schockmündung
-    .desc = Eine Mündung, die das Beißen verhindern soll. Dieser ist mit einem Verhaltenskorrektursystem ausgestattet.
+    .desc = Ein Maulkorb, der das Beißen verhindern soll. Dieser ist mit einem Verhaltenskorrektursystem ausgestattet.
 
 ent-ClothingMaskGasUnremoveable = Gasmaske
     .desc = Eine Gesichtsmaske, die an eine Luftzufuhr angeschlossen werden kann.

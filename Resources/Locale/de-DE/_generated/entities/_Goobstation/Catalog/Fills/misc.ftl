@@ -1,5 +1,5 @@
 ent-ClothingShoesWinterCombatBootsFilled = Schneejackenstiefel
-    .desc = Nanotrasen-issue Security combat boots für Kampfszenarien oder Kampfsituationen. Jetzt in der Winterausgabe.
+    .desc = Nanotrasen-Kampfstiefel der Sicherheit für Kampfszenarien oder Kampfsituationen. Jetzt in der Winterausgabe.
 
 ent-ClothingShoesBootsWinterSnowjackBsoFilled = Blueshield-Schneestiefel
-    .desc = Denn wenn du einen Kopf vor einem Wechselblatt auf einer Forschungsstation in der Antarktis retten musst.
+    .desc = Für den Fall, dass du auf einer Forschungsstation in der Antarktis einen Kopf vor einem Wechselbalg retten musst.

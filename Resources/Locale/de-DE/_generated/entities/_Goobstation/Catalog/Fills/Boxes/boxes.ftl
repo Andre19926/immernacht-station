@@ -1,8 +1,8 @@
 ent-BoxReverseBearTrap = Reverse-Bärenfallenpackung
-    .desc = Eine schachtel voller völlig legaler sachen.
+    .desc = Eine Schachtel voller völlig legaler Sachen.
 
 ent-BoxCombatInjector = Kampfinjektorbox
-    .desc = Eine Box mit einem Kampfinjektor und ein paar heilenden Chemikalien.
+    .desc = Eine Schachtel mit einem Kampfinjektor und ein paar heilenden Chemikalien.
 
 ent-BoxAutoinjectorCartidges = Autoinjektor-Kartuschenbox
-    .desc = Eine Box mit Autoinjektorpatronen.
+    .desc = Eine Schachtel mit Autoinjektorpatronen.

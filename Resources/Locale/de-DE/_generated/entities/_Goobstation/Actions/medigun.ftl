@@ -1,2 +1,2 @@
 ent-ActionActivateMedigunUber = Uber-Modus aktivieren
-    .desc = Der Uber-Modus heilt Ziele schneller, ist aber nur für 10 Sekunden aktiviert und entleert die Batterie schneller.
+    .desc = Der Über-Modus heilt Ziele schneller, ist aber nur 10 Sekunden aktiv und entleert die Batterie schneller.

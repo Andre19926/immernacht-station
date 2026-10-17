@@ -2,10 +2,10 @@ ent-ClothingHeadsetAltSyndicateCommander = Blutrotes Kommandanten-Over-Ear-Heads
     .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.
 
 ent-ClothingHeadsetChronolegioneer = Futuristisches Over-Ear-Headset
-    .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen aufnehmen kann.
+    .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen empfangen kann.
 
 ent-ClothingHeadsetChronolegioneerUnremoveable = Futuristisches Over-Ear-Headset
-    .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen aufnehmen kann.
+    .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen empfangen kann.
 
 ent-ClothingHeadsetAltWarden = Warden-Over-Ear-Headset
     .desc = Ein verbessertes, modulares Headset, das eine schnelle Kommunikation mit dem Führungspersonal ermöglicht.

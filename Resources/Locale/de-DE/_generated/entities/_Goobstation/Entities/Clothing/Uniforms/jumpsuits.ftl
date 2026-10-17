@@ -1,17 +1,17 @@
 ent-ClothingUniformJumpsuitDurathread = Durathreaduniform
-    .desc = Ein loses abgenutztes Durathread-Shirt mit einer grauen Hose, seine elastischen Fasern bieten dem Träger einen gewissen Schutz.
+    .desc = Ein lockeres, abgenutztes Durathread-Shirt mit grauer Hose; seine elastischen Fasern bieten dem Träger einen gewissen Schutz.
 
 ent-ClothingUniformJumpsuitResonant = Resonanz-Uniform
-    .desc = Lasst uns nicht zu hart spielen. Weder du noch ich können es jetzt erreichen...
+    .desc = Spielen wir nicht zu hart. Weder du noch ich können das jetzt noch erreichen ...
 
 ent-ClothingUniformJumpsuitWestern = Authentischer Cowboy-Anzug
-    .desc = Lasst uns dem Sicherheitschef zeigen, wie wir früher Dinge im Westen gemacht haben.
+    .desc = Zeigen wir dem Sicherheitschef, wie wir im Westen früher Dinge erledigt haben.
 
 ent-ClothingUniformJumpsuitNanotrasenRepresentative = Nanotrasen-Repräsentantenanzug (Representative)
-    .desc = Ein schwarzer Anzug, der von Beamten getragen wird.
+    .desc = Ein schwarzer Anzug, getragen von Beamten.
 
 ent-ClothingUniformJumpsuitNanotrasenRepresentativeFancy = Phantastische Nanotrasen Vertreteranzug
-    .desc = Ein schicker schwarzer anzug, der von beamten getragen wird, geschmückt mit mehr goldenen fäden als normal.
+    .desc = Ein schicker schwarzer Anzug, getragen von Beamten, mit mehr goldenen Fäden als gewöhnlich.
 
 ent-ClothingUniformJumpsuitCasualSyndicate = Casual Syndicate-Uniform
     .desc = Kurze Ärmel, kurzes Temperament.
@@ -23,10 +23,10 @@ ent-ClothingUniformJumpsuitCasualCommand = Führungsuniform (leger)
     .desc = Wo ist mein PDA?
 
 ent-ClothingUniformJumpsuitCasualEngineer = Ingenieurs-Arbeitskleidung (leger)
-    .desc = Funken? Fiberglas? Was ist mit 'em?
+    .desc = Funken? Glasfaser? Was ist damit?
 
 ent-ClothingUniformJumpsuitBlueshieldOfficer = Blueshield-Offiziersuniform
-    .desc = Ein kurzärmeliges Grau und Blau Insgesamt, aus einem robusten Material. Blueshield Standard Ausgabe.
+    .desc = Ein kurzärmeliger grau-blauer Overall aus robustem Material. Blueshield-Standardausgabe.
 
 ent-ClothingUniformJumpsuitBlueshieldShirt = Blueshield Officer blaues Hemd
     .desc = Eine offizielle Sicherheitsuniform. Ziemlich sicher und ziemlich beschäftigt.
@@ -38,7 +38,7 @@ ent-ClothingUniformHecu = HECU-Einheit
     .desc = Jagd auf den Freeman.
 
 ent-ClothingUniformJumpsuitNavyGold = Marineoffiziersuniform
-    .desc = Ein Anzug, der von hochrangigen Mitgliedern des Central Command getragen wird. Der Rest ist klassifiziert.
+    .desc = Ein Anzug, getragen von hochrangigen Mitgliedern des Central Command. Der Rest ist geheim.
 
 ent-ClothingUniformJumpsuitSpecOps = Spezialeinsatz-Offiziersuniform
     .desc = Ein Anzug, getragen von hochrangigen Spec Ops Offizieren. Der Rest ist klassifiziert.

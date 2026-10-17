@@ -5,31 +5,31 @@ ent-ClothingEyesPrescriptionGlasses = Rezeptbrillen
     .desc = Deine Versicherung deckt die nicht ab. Verlier sie nicht.
 
 ent-ClothingEyesGlassesBroken = Kaputte Brille
-    .desc = Meine Brille! Ich kann nicht ohne meine Brille sehen!
+    .desc = Meine Brille! Ich sehe nichts ohne meine Brille!
 
 ent-ClothingEyesGlassesDiag = Diagnosegläser
-    .desc = Sonnenbrillen mit Diagnosehülle.
+    .desc = Sonnenbrille mit Diagnose-HUD.
 
 ent-ClothingEyesGlassesMed = Medizinische Brillen
-    .desc = Sonnenbrillen mit einer medizinischen Hütte.
+    .desc = Sonnenbrille mit medizinischem HUD.
 
 ent-ClothingEyesGlassesDeathsquad = Zentralkommandant Schattierungen
-    .desc = Stolz. Hubris. Zorn. Es ist keine Sünde, wenn du recht hast.
+    .desc = Stolz. Hybris. Zorn. Es ist keine Sünde, wenn du recht hast.
 
 ent-ClothingEyesGlassesCentComm = Zentralbefehlstöne
-    .desc = Ein Paar Schattierungen für das zentrale Führungspersonal. Es ist nichts Persönliches.
+    .desc = Eine Sonnenbrille für das zentrale Führungspersonal. Nichts Persönliches.
 
 ent-ClothingEyesGlassesCentCommNoThermal = Zentralbefehlstöne
-    .desc = Ein Paar Schattierungen für das zentrale Führungspersonal. Kommt mit mehr Funktionen, als du dich vorstellen kannst.
+    .desc = Eine Sonnenbrille für das zentrale Führungspersonal. Kommt mit mehr Funktionen, als du dir vorstellen kannst.
 
 ent-ClothingEyesGlassesBSO = BlueShield Officer Brille
-    .desc = Sonnenbrillen mit einem medizinischen, Job und Diagnose Hud.
+    .desc = Sonnenbrille mit medizinischem, Job- und Diagnose-HUD.
 
 ent-ClothingEyesGlassesMedDiag = Meddiag-Brillen
-    .desc = Sonnenbrillen mit medizinischer und diagnostischer Hütte.
+    .desc = Sonnenbrille mit medizinischem und diagnostischem HUD.
 
 ent-ClothingEyesGlassesSecurityAdvanced = Erweiterte Sicherheitsbrille
-    .desc = Eine Reihe von Brillen, die einen Blitzschutz, ein Sicherheits-HUD und eine grundlegende thermische Sicht bieten.
+    .desc = Eine Brille mit Blitzschutz, Sicherheits-HUD und einfacher Wärmesicht.
 
 ent-ClothingEyesGlassesSecurityContraDetect = Schmuggeldetektor Sicherheitsbrille
-    .desc = Eine Brille, die Blitzschutz, ein Sicherheits-HUD und einen eingebauten Schmuggeldetektor bietet.
+    .desc = Eine Brille mit Blitzschutz, Sicherheits-HUD und eingebautem Schmuggeldetektor.

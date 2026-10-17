@@ -1,2 +1,2 @@
 ent-ClothingUniformJumpskirtDressOpenShoulder = Kleidung für offene Schultern
-    .desc = Keine ärmer in diesem kleid, nur stil wild genug, um perücken zu schnappen.
+    .desc = Keine Ärmel an diesem Kleid, nur Stil, wild genug, um Perücken zu schnappen.

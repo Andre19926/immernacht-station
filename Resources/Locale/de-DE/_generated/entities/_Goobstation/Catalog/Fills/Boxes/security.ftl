@@ -1,14 +1,14 @@
 ent-BoxTracker = Trackerbox
-    .desc = Eine Buchse mit zwei Buchsen.
+    .desc = Eine Schachtel mit zwei Fächern.
 
 ent-BoxLethalInjection = Injektionsdosen
-    .desc = Eine Box mit mehreren tödlichen Injektion Spritze.
+    .desc = Eine Schachtel mit mehreren tödlichen Injektionsspritzen.
 
 ent-BoxGrenadesBaton = 40-mm-Stabgranatenbox
-    .desc = Eine Box mit acht 40mm Stabgranaten für die Einzelzielbetäubung.
+    .desc = Eine Schachtel mit acht 40-mm-Betäubungsstab-Granaten zur Betäubung einzelner Ziele.
 
 ent-BoxGrenadesFlash = 40mm Blitzgranatenbox
-    .desc = Eine Box mit acht 40mm Flashbang-Granaten für die Massenbetäubung.
+    .desc = Eine Schachtel mit acht 40-mm-Blendgranaten zur Massenbetäubung.
 
 ent-BoxGrenadesTeargas = 40mm Tränengasgranatenbox
-    .desc = Eine Box mit acht 40mm Tränengasgranaten für eine effiziente Streuung.
+    .desc = Eine Schachtel mit acht 40-mm-Tränengasgranaten für effiziente Streuung.

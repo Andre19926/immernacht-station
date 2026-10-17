@@ -1,32 +1,32 @@
 ent-ClothingOuterArmorHoSExperimental = Leiter der Sicherheitsabteilung experimenteller gepanzerter Trenchcoat
-    .desc = Ein Greatcoat, der mit einer experimentellen Bluespace-unterstützten Legierung für zusätzlichen Schutz und Stil für diejenigen mit einer beherrschenden Präsenz verbessert wurde.
+    .desc = Ein Greatcoat, mit einer experimentellen Bluespace-gestützten Legierung für zusätzlichen Schutz und Stil verbessert, für alle mit dominanter Präsenz.
 
 ent-ClothingOuterCoatZeusJacket = Zeusjacke
     .desc = Gibt dir den Drang, den nächsten Fußgänger auf einen fliegenden Hubschrauber zu werfen.
 
 ent-ClothingOuterDavidsJacket = EMT Jacke
-    .desc = Eine leuchtend gelbe Signaljacke, geliebt von Sanitätern des Ende des 21. Jahrhunderts.
+    .desc = Eine leuchtend gelbe Warnjacke, geliebt von Sanitätern des späten 21. Jahrhunderts.
 
 ent-ClothingOuterDavidsJacketValid = Edgerunnerjacke
-    .desc = Du bist am Rande. Zeig ihnen, dass du das hast.
+    .desc = Du bist am Limit. Zeig ihnen, dass du es drauf hast.
 
 ent-ClothingOuterCoatWardenBlue = Blaue Warden-Jacke
     .desc = Eine robuste, utilitaristische Jacke für diejenigen, die mit der Brig vertraut sind.
 
 ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsleiters
-    .desc = Gewebt mit experimenteller Technologie ... dieser Laborkittel scheint nicht schützender zu sein als dein üblicher. Zumindest sieht er hübsch aus.
+    .desc = Mit experimenteller Technologie gewebt ... dieser Laborkittel scheint nicht schützender zu sein als dein üblicher. Zumindest sieht er hübsch aus.
 
 ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsleiters
     .desc = Dieser mit Spitzentechnologie durchwirkte Laborkittel schützt ähnlich vor Strahlung wie der experimentelle Hardsuit.
 
 ent-ClothingOuterCoatHoPLong = Personalchef-Longcoat
-    .desc = Ein smarter Langmantel für den Personalchef.
+    .desc = Ein schicker Langmantel für den Personalchef.
 
 ent-ClothingOuterArmoredJacketOuterCommand = Äußere Führungsjacke
-    .desc = Eine lila Jacke mit sehr ausgefallenen Elementen. Auf der Rückseite befindet sich ein Terra-Gov-Insignia.
+    .desc = Eine lila Jacke mit sehr ausgefallenen Elementen. Auf dem Rücken befindet sich ein Terra-Gov-Abzeichen.
 
 ent-ClothingOuterArmoredJacketCentralCommand = Zentrale Führungsjacke
-    .desc = Eine formelle grüne Jacke, die mit vergoldeter Schulterpanzerung und einem hohen Kragen akzentuiert wird.
+    .desc = Eine formelle grüne Jacke mit vergoldeten Schulterpanzern und hohem Kragen.
 
 ent-ClothingOuterJacketCentralCommandIke = Zentralbefehl Ike Jacke
-    .desc = Eine utilitaristische grün-schwarze Jacke mit einem scharfen, militärisch inspirierten Design, das im CentComm getragen wird.
+    .desc = Eine zweckmäßige grün-schwarze Jacke mit scharfem, militärisch inspiriertem Design, getragen im CentComm.

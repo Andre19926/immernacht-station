@@ -1,2 +1,2 @@
 ent-ActionTelepathy = Telepathie
-    .desc = Telepathisch sendet eine Nachricht an das Ziel.
+    .desc = Sendet telepathisch eine Nachricht an das Ziel.

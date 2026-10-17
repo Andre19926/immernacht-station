@@ -1,26 +1,26 @@
 ent-ClothingModsuitHelmetStandard = Standard Modsuit Helm
-    .desc = Ein spezieller modularer raumsicherer Helm für kompaktes Falten innerhalb der modularen Anzugsteuerung.
+    .desc = Ein spezieller modularer raumtauglicher Helm, der sich kompakt in die Anzugsteuerung falten lässt.
 
 ent-ClothingModsuitHelmetSecurity = Modsuit Helm verkauft
-    .desc = Ein robuster Gehirneimer, um dein Gehirn gerade genug an Ort und Stelle zu halten, damit es gerettet werden kann.
+    .desc = Ein robuster Gehirneimer, der dein Gehirn gerade so an Ort und Stelle hält, damit es gerettet werden kann.
 
 ent-ClothingModsuitHelmetHeadOfSecurity = Bollwerk Modsuit Helm
-    .desc = Setze auf den Kopf der Sicherheit... Wie siehst du aus diesem Ding heraus?
+    .desc = Setz es dem Sicherheitschef auf den Kopf ... Wie siehst du aus diesem Ding überhaupt heraus?
 
 ent-ClothingModsuitHelmetParamedic = Sanitärhelm Modsuit
-    .desc = Ein robuster Gehirneimer für die Arbeit an kaum errettbaren Gehirnen.
+    .desc = Ein robuster Gehirneimer für die Arbeit an kaum noch zu rettenden Gehirnen.
 
 ent-ClothingModsuitHelmetEngineer = Sapper Modsuit Helm
-    .desc = Eine flache Platte mit Kameras, die dir die Sicht ermöglichen. Macht dich zu einem Aero-Trottel, aber im Weltraum spielt das ohnehin keine Rolle.
+    .desc = Eine flache Platte mit Kameras, die dir die Sicht ermöglichen. Macht dich zum Aero-Trottel, aber im Weltraum spielt das ohnehin keine Rolle.
 
 ent-ClothingModsuitHelmetAtmostech = Aeolus Modsuit Helm
-    .desc = Ein spezieller Gashelm, um Sauerstoff effizienter bereitzustellen.
+    .desc = Ein spezieller Gashelm, der Sauerstoff effizienter bereitstellt.
 
 ent-ClothingModsuitHelmetResearchDirector = Minerva Modsuit Helm
-    .desc = Ein dunkles dunkles Visier, das dein kostbares Gesicht vor Schrap und Explosion schützt.
+    .desc = Ein dunkles Visier, das dein kostbares Gesicht vor Schrapnell und Explosionen schützt.
 
 ent-ClothingModsuitHelmetCaptain = Magnat Modsuit Helm
-    .desc = Das Visier besteht aus 10.000 Jahre alt amythest.
+    .desc = Das Visier besteht aus 10.000 Jahre altem Amethyst.
 
 ent-ClothingModsuitHelmetBrigMed = Trauma Modsuit Helm
-    .desc = Cooler Helm ohne Augenlinsen. Augen sind nicht für eine Operation erforderlich.
+    .desc = Cooler Helm ohne Augenlinsen. Augen sind für eine Operation nicht erforderlich.
