@@ -1,29 +1,29 @@
 ent-DiseaseBehaviorVomit = Erbrechen
-    .desc = Macht dich regelmäßig Erbrechen.
+    .desc = Lässt dich regelmäßig erbrechen.
 
 ent-DiseaseBehaviorFeelUnwell = Sich unwohl fühlen
     .desc = Du fühlst dich unwohl.
 
 ent-DiseaseBehaviorHeadache = Kopfschmerz
-    .desc = Gibt Ihnenn Kopfschmerzen, die das Arbeiten erschweren können.
+    .desc = Verursacht Kopfschmerzen, die das Arbeiten erschweren können.
 
 ent-DiseaseBehaviorGravitosisA = Gravitose A
-    .desc = Seltene und exotische Krankheitssymptome, die dazu führen, dass Objekte um dich herumwirbeln.
+    .desc = Seltenes und exotisches Krankheitssymptom, das Objekte um dich herumwirbeln lässt.
 
 ent-DiseaseBehaviorGravitosisB = Gravitose B
-    .desc = Seltene und exotische Krankheitssymptome, die dazu führen, dass Objekte auf dich zugehen.
+    .desc = Seltenes und exotisches Krankheitssymptom, das Objekte auf dich zufliegen lässt.
 
 ent-DiseaseBehaviorGravitosisC = Gravitose C
-    .desc = Seltene und exotische Krankheitssymptome, die dazu führen, dass Objekte von dir weggehen.
+    .desc = Seltenes und exotisches Krankheitssymptom, das Objekte von dir wegfliegen lässt.
 
 ent-DiseaseBehaviorOwO = Eulenwein
-    .desc = Seltene und exotische Krankheitssymptome, die dazu führen, dass du wie eine Katze sprichst.
+    .desc = Seltenes und exotisches Krankheitssymptom, das dich wie eine Katze sprechen lässt.
 
 ent-DiseaseBehaviorBlindness = Blindheit
     .desc = Seltenes Krankheitssymptom, das vollständige Blindheit verursacht.
 
 ent-DiseaseBehaviorPainNumbness = Analgesie
-    .desc = Seltenes Krankheitssymptom, das dazu führt, dass du unempfindlich gegenüber Schmerzen wirst.
+    .desc = Seltenes Krankheitssymptom, das dich unempfindlich gegen Schmerzen macht.
 
 ent-DiseaseBehaviorDeaf = Taubheit
     .desc = Seltenes Krankheitssymptom, das vollständige Taubheit verursacht.
@@ -32,13 +32,13 @@ ent-DiseaseBehaviorAnxiety = Angst
     .desc = Verursacht Angstzustände und Angst vor Umarmungen.
 
 ent-DiseaseBehaviorDrowsiness = Schläfrigkeit
-    .desc = Verursacht einen starken Wunsch zu schlafen.
+    .desc = Verursacht ein starkes Schlafbedürfnis.
 
 ent-DiseaseBehaviorEuphoria = Euphorie
-    .desc = Symptom, das Glück verursacht!
+    .desc = Symptom, das Glücksgefühle auslöst!
 
 ent-DiseaseBehaviorApathy = Apathie
-    .desc = Symptom, dass die Welt nach und nach ihre Farbpalette verliert.
+    .desc = Symptom, bei dem die Welt nach und nach ihre Farben verliert.
 
 ent-DiseaseBehaviorBS = Blaurauminstabilität
-    .desc = Extrem seltenes Symptom, das dazu führt, dass du dich unregelmäßig teleportierst.
+    .desc = Extrem seltenes Symptom, das dich unregelmäßig teleportieren lässt.

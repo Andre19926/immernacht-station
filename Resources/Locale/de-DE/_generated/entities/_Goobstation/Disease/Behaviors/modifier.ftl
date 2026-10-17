@@ -1,5 +1,5 @@
 ent-DiseaseBehaviorFightImmunity = Immunresistenz
-    .desc = Macht die Krankheit Immunität widerstehen einmal entwickelt.
+    .desc = Macht die Krankheit nach vollständiger Entwicklung immun gegen Gegenmittel.
 
 ent-DiseaseBehaviorSluggish = Gefühl träge
     .desc = Du fühlst dich träge.
@@ -11,4 +11,4 @@ ent-DiseaseBehaviorCold = Thermophagie
     .desc = Verbraucht Körperwärme und senkt deine Körpertemperatur auf schädliche Werte.
 
 ent-DiseaseBehaviorRapidMutation = Schnelle Mutation
-    .desc = Diese Krankheit mutiert schnell selbst und andere Krankheiten, auch wenn sie sich im Wirt befinden.
+    .desc = Diese Krankheit mutiert schnell, auch andere Krankheiten, selbst wenn sie sich im Wirt befinden.

@@ -62,7 +62,7 @@ ent-ClothingHeadHelmetHardsuitWizard = Zauberer-Hardsuit-Helm
     .desc = Ein bizarrer Edelsteinhelm, der magische Energien ausstrahlt.
 
 ent-ClothingHeadHelmetHardsuitLing = Bio-Weltraumhelm
-    .desc = Eine raumgerechte Biomasse aus druck- und temperaturbeständigem Gewebe.
+    .desc = Eine raumtaugliche Biomasse aus druck- und temperaturbeständigem Gewebe.
 
 ent-ClothingHeadHelmetHardsuitPirateEVA = Deep Space EVA Helm
     .desc = Ein Deep Space EVA Helm, sehr schwer, bietet aber guten Schutz.

@@ -1,8 +1,8 @@
 ent-DiseaseFlu = Fluss
-    .desc = Sehr ärgerlich und leicht gefährlich.
+    .desc = Sehr lästig und leicht gefährlich.
 
 ent-DiseaseCancer = Krebs
-    .desc = Behandelt genetische Schäden an den Infizierten. Es geht nicht von selbst weg.
+    .desc = Behandelt genetische Schäden bei den Infizierten. Vergeht nicht von selbst.
 
 ent-DiseaseGravitosisA = Gravitose A
     .desc = Eine seltsame Krankheit.

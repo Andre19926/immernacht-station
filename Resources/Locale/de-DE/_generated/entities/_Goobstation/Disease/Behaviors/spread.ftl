@@ -5,13 +5,13 @@ ent-DiseaseBehaviorHonk = HONK!
     .desc = HONK! Sehr infektiös.
 
 ent-DiseaseBehaviorPneumonia = Lungenentzündung
-    .desc = Lässt dich husten. Schmerzvoll zu husten.
+    .desc = Lässt dich husten. Das Husten schmerzt.
 
 ent-DiseaseBehaviorSneeze = Niesen
     .desc = Lässt dich niesen. Sehr infektiös.
 
 ent-DiseaseBehaviorSkinLesion = Hautläsionen
-    .desc = Verringert den Schaden. Infektiös.
+    .desc = Verringert Schaden. Ansteckend.
 
 ent-DiseaseBehaviorAbscesses = Abszesse
-    .desc = In der Endphase verursacht schwere Slash-Schäden. Infektiös.
+    .desc = In der Endphase verursacht es schweren Schnittschaden. Ansteckend.

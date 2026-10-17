@@ -62,7 +62,7 @@ ent-ClothingOuterHardsuitWizard = Zauberer-Hardsuit
     .desc = Ein bizarrer Edelsteinanzug, der magische Energien ausstrahlt.
 
 ent-ClothingOuterHardsuitLing = organischer Raumanzug
-    .desc = Eine raumgerechte Biomasse aus druck- und temperaturbeständigem Gewebe.
+    .desc = Eine raumtaugliche Biomasse aus druck- und temperaturbeständigem Gewebe.
 
 ent-ClothingOuterHardsuitPirateEVA = Deep Space EVA Anzug
     .desc = Ein schwerer Raumanzug, der einen grundlegenden Schutz vor den kalten harten Realitäten des Weltraums bietet.

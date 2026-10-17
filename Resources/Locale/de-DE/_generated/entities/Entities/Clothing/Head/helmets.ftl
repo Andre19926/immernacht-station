@@ -41,7 +41,7 @@ ent-ClothingHeadHelmetAtmosFire = atmos Feuerhelm
     .desc = Ein atmos-Feuerhelm, der den Benutzer in jeder Situation kühl halten kann.
 
 ent-ClothingHeadHelmetLing = Chitinhelm
-    .desc = Eine alles verzehrende chitinöse Masse der Rüstung.
+    .desc = Eine alles verschlingende, chitinöse Rüstungsmasse.
 
 ent-ClothingHeadHelmetERTLeader = Helm des ERT-Führers
     .desc = Ein In-Atmosphäre-Helm, der vom Leiter eines Nanotrasen-Notfallteams getragen wird. Es hat blaue Highlights.

@@ -1,26 +1,26 @@
 ent-DiseaseBehaviorCancer = Krebs
-    .desc = Behandelt genetische Schäden im Laufe der Zeit.
+    .desc = Behandelt genetische Schäden über Zeit.
 
 ent-DiseaseBehaviorPoison = Gift
-    .desc = Verursacht Giftschäden im Laufe der Zeit.
+    .desc = Verursacht Giftschaden über Zeit.
 
 ent-DiseaseBehaviorBlunt = Gewebeabbau
-    .desc = Verursacht stumpfen Schaden im Laufe der Zeit.
+    .desc = Verursacht stumpfen Schaden über Zeit.
 
 ent-DiseaseBehaviorNecrosis = Nekrose
-    .desc = In der Endphase verursacht es im Laufe der Zeit schwere Gift- und Blutverlustschäden.
+    .desc = In der Endphase verursacht es über Zeit schweren Gift- und Blutverlustschaden.
 
 ent-DiseaseBehaviorPulmonaryEdema = Lungenödem
-    .desc = Behandelt Erstickungsschäden im Laufe der Zeit.
+    .desc = Behandelt Erstickungsschaden über Zeit.
 
 ent-DiseaseBehaviorInternalBleeding = Innere Blutungen
-    .desc = In der Endphase verursacht es im Laufe der Zeit Piercing-Schäden und reduziert die Blutmenge im Körper.
+    .desc = In der Endphase verursacht es über Zeit Stichschaden und verringert die Blutmenge im Körper.
 
 ent-DiseaseBehaviorAnemia = Anämie
-    .desc = In den letzten Phasen verursacht schwere Erstickungsschäden im Laufe der Zeit.
+    .desc = In der Endphase verursacht es über Zeit schweren Erstickungsschaden.
 
 ent-DiseaseBehaviorOrganFailure = Organversagen
     .desc = In der Endphase besteht die Möglichkeit eines sofortigen Todes.
 
 ent-DiseaseBehaviorGunemia = Gunämie
-    .desc = Macht dich Husten Kugeln. Mechanismus unbekannt.
+    .desc = Lässt dich Kugeln husten. Mechanismus unbekannt.

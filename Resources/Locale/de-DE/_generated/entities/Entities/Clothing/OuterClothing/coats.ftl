@@ -79,7 +79,7 @@ ent-ClothingOuterDameDane = Yakuza-Mantel
     .desc = Freitag...
 
 ent-ClothingOuterClownPriest = Gewänder der Honkmother
-    .desc = Für einen Clown des Tuchs.
+    .desc = Für einen Clown von Stand. Und anscheinend auch für Mord.
 
 ent-ClothingOuterDogi = Samurai og.
     .desc = Dogi ist eine Art traditionelle japanische Kleidung. Die Dogi besteht aus schwerem, langlebigem Stoff, ist praktisch im Kampf und stilvoll im Aussehen. Es ist mit komplizierten Mustern und Stickereien auf der Rückseite dekoriert.

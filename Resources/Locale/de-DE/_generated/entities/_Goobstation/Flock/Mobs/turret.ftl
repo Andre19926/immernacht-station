@@ -1,5 +1,5 @@
 ent-WeaponTurretFlock = Flock Totem
-    .desc = Dieses Totem ruft Schmerzen statt Regen hervor.
+    .desc = Dieses Totem ruft Schmerz statt Regen herbei.
 
 ent-WeaponTurretFlockBroken = Flock Totem
-    .desc = Ein gebrochenes Totem. Sieht so aus, als ob es etwas Wertvolles enthält.
+    .desc = Ein zerbrochenes Totem. Sieht aus, als enthielte es etwas Wertvolles.

@@ -1,5 +1,5 @@
 ent-SpaceLeviathan = Weltraumwal
-    .desc = Wenn der Raum zu ruhig wird, gibt es keine Hoffnung, es gibt kein Entkommen, aber es gibt dieses.
+    .desc = Wird der Raum zu still, gibt es keine Hoffnung und kein Entkommen – aber es gibt dies hier.
 
 ent-SpaceLeviathanDespawn = Weltraumwal
-    .desc = Wenn der Raum zu ruhig wird, gibt es keine Hoffnung, es gibt kein Entkommen, aber es gibt dieses.
+    .desc = Wird der Raum zu still, gibt es keine Hoffnung und kein Entkommen – aber es gibt dies hier.

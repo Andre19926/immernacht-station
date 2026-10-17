@@ -17,7 +17,7 @@ ent-ClothingNeckGangTophat6 = Gang Tophat
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingShoesGangDameDane = Gang Yakuza Schuhe
-    .desc = Endlich ... die Farben deiner Gang kommen zum Vorschein.
+    .desc = Endlich ... kommen die Farben deiner Gang zum Vorschein.
 
 ent-ClothingOuterGangDameDane = Gang Yakuza
     .desc = Freitag ... im Stil deiner Gang.

@@ -1,8 +1,8 @@
 ent-ActionGangMemberToggleOverlay = Toggle Vision
-    .desc = Schalte deine Territoriumsansicht um.
+    .desc = Schaltet deine Territoriumsansicht um.
 
 ent-ActionGangLeaderSummonLocker = Spind beschwören
-    .desc = Beschwöre deine Gang Spind. Wenn bereits platziert, verschiebe es stattdessen.
+    .desc = Beschwöre deinen Gang-Spind. Ist er bereits platziert, verschiebe ihn stattdessen.
 
 ent-ActionGangLeaderMemberOffer = Rekrut
-    .desc = Biete jemandem einen Platz in deiner Gang. Du kannst nur drei Mitglieder rekrutieren.
+    .desc = Biete jemandem einen Platz in deiner Gang an. Du kannst nur drei Mitglieder rekrutieren.

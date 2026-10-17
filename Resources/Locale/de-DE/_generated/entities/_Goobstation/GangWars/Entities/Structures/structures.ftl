@@ -53,7 +53,7 @@ ent-GangLocker = Gang Spind
     .desc = Ein Spind, der zu einer Gang gehört.
 
 ent-CrateGang = Gangkiste
-    .desc = Eine verschlossene Kiste mit verschiedenen Goodies. Kann nur neben einer Gang Spind geöffnet werden.
+    .desc = Eine verschlossene Kiste mit allerlei Goodies. Lässt sich nur neben einem Gang-Spind öffnen.
 
 ent-GangDuffelBag = Gang-Seesack
-    .desc = Eine zerschlagene Duffeltasche mit einer verdächtigen Ausbuchtung im Inneren. Sieht so aus, als wäre es manipuliert worden.
+    .desc = Ein zerschlissener Seesack mit einer verdächtigen Ausbuchtung im Inneren. Sieht aus, als wäre daran herumgepfuscht worden.
