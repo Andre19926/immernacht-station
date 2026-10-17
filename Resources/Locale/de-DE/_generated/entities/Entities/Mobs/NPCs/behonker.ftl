@@ -1,11 +1,11 @@
 ent-MobBehonkerElectrical = Behonker
-    .desc = Ein schwimmender dämonenaspekt der honkmother.
+    .desc = Ein schwebender Dämonenaspekt der Honkmother.
 
 ent-MobBehonkerPyro = Behonker
-    .desc = Ein schwimmender dämonenaspekt der honkmother.
+    .desc = Ein schwebender Dämonenaspekt der Honkmother.
 
 ent-MobBehonkerGrav = Behonker
-    .desc = Ein schwimmender dämonenaspekt der honkmother.
+    .desc = Ein schwebender Dämonenaspekt der Honkmother.
 
 ent-MobBehonkerIce = Behonker
-    .desc = Ein schwimmender dämonenaspekt der honkmother.
+    .desc = Ein schwebender Dämonenaspekt der Honkmother.

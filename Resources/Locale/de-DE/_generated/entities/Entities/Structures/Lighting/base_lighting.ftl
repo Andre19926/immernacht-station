@@ -1,5 +1,5 @@
 ent-AlwaysPoweredWallLight = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightEmpty = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
@@ -11,22 +11,22 @@ ent-PoweredlightLED = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredLightLED = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightExterior = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredLightExterior = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightSodium = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredLightSodium = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-SmallLight = kleines Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredSmallLightEmpty = kleines Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
@@ -50,46 +50,46 @@ ent-PoweredlightCyan = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightCyan = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightBlue = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightBlue = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightYellow = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightYellow = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightPink = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightPink = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightOrange = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightOrange = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightBlack = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightBlack = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightRed = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightRed = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredlightGreen = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.
 
 ent-AlwaysPoweredlightGreen = Licht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.

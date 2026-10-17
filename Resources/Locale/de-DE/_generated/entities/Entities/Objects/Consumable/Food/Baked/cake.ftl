@@ -8,7 +8,7 @@ ent-FoodCakePlain = Kuchen
     .desc = Ein einfacher Kuchen, keine Lüge.
 
 ent-FoodCakePlainSlice = Kuchenstück
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeCarrot = Karottenkuchen
     .desc = Eine Lieblingswüste eines bestimmten Wascally Wabbit.
@@ -32,19 +32,19 @@ ent-FoodCakeOrange = Orangenkuchen
     .desc = Ein Kuchen mit Orange.
 
 ent-FoodCakeOrangeSlice = Stück Orangenkuchen
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeLime = Limettenkuchen
     .desc = Kuchen mit Limettenzusatz.
 
 ent-FoodCakeLimeSlice = Stück Limettenkuchen
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeLemon = Zitronenkuchen
     .desc = Ein Kuchen mit Zitronenzusatz.
 
 ent-FoodCakeLemonSlice = Scheibe Zitronenkuchen
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeLemoon = Lemoonkuchen
     .desc = Ein Kuchen, der den Mond der Erde darstellt.
@@ -56,7 +56,7 @@ ent-FoodCakeChocolate = Schokoladenkuchen
     .desc = Ein Kuchen mit zugesetzter Schokolade.
 
 ent-FoodCakeChocolateSlice = Schokoladenstück
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeApple = Apfelkuchen
     .desc = Ein Kuchen zentriert mit Apfel.
@@ -80,7 +80,7 @@ ent-FoodCakeChristmas = Weihnachtskuchen
     .desc = Ein Kuchen aus Weihnachten.
 
 ent-FoodCakeChristmasSlice = Stück Weihnachtskuchen
-    .desc = Nur ein Stück Kuchen, es ist genug für alle.
+    .desc = Nur ein Stück Kuchen, es reicht für alle.
 
 ent-FoodCakeBirthday = Geburtstagskuchen
     .desc = Alles Gute zum Geburtstag, kleiner Clown ...

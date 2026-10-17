@@ -32,10 +32,10 @@ ent-ClothingHandsGlovesColorBlack = schwarze Handschuhe
     .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorYellow = Isolierte Handschuhe
-    .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
+    .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.
 
 ent-ClothingHandsGlovesColorYellowBudget = isolierte Haushaltshandschuhe
     .desc = Diese Handschuhe sind billige Knockoffs der begehrten - auf keinen Fall kann dies schlecht enden.
 
 ent-ClothingHandsGlovesConducting = Isolierte Handschuhe
-    .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
+    .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.

@@ -119,37 +119,37 @@ ent-FoodSnackLollypopWrappedSyndicate = gewickeltes Syndicate Lutscher
     .desc = Hergestellt von Donk Co, und perfekt für die diskrete Lagerung von Chems.
 
 ent-FoodSnackLollypopSyndicate = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedLexorin = gewickeltes Syndicate Lutscher
     .desc = Ein Lutscher mit Lexorin. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopLexorin = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedRomerol = gewickeltes Syndicate Lutscher
     .desc = Lutscher mit Romerol. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopRomerol = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedNocturine = gewickeltes Syndicate Lutscher
     .desc = Ein Nocturin gefüllt Lutscher. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopNocturine = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedHyperzine = gewickeltes Syndicate Lutscher
     .desc = Ein Hyperzin gefüllt Lutscher. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopHyperzine = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedSynaptizine = gewickeltes Syndicate Lutscher
     .desc = Synaptizin-Lutscher. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopSynaptizine = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedCarpoToxin = gewickeltes Syndicate Lutscher
     .desc = Wer zum Teufel ist Audrey White?
@@ -161,37 +161,37 @@ ent-FoodSnackLollypopWrappedFentanyl = eingewickelter Fentanyl-Lutscher
     .desc = Deshalb haben deine Eltern dich davor gewarnt, Süßigkeiten von Fremden zu nehmen. Erscheint gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopFentanyl = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedPhlogiston = gewickeltes Syndicate Lutscher
     .desc = Ein Lutscher mit Phlogiston. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopPhlogiston = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedCyanide = gewickeltes Syndicate Lutscher
     .desc = Ein Lutscher mit Cyanid. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopCyanide = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedTirizene = gewickeltes Syndicate Lutscher
     .desc = Ein Lutscher mit Tirizen. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopTirizene = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedAnacea = gewickeltes Syndicate Lutscher
     .desc = Ein Lutscher mit Anacea. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopAnacea = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedPotassiumBomb = gewickeltes Syndicate Lutscher
     .desc = Ein explosiver Lutscher. Erscheint völlig gewöhnlich, wenn ausgepackt.
 
 ent-FoodSnackLollypopPotassiumBomb = Lutscher
-    .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
+    .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedCognizine = Cognizin Lutscher
     .desc = Ein mit Kognizin gefüllter Lutscher. Er ist noch in einer Verpackung.

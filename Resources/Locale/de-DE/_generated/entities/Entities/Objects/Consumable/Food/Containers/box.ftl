@@ -7,13 +7,13 @@ ent-EggBoxBroken = Eierkarton
     .desc = Lass sie nicht fallen!
 
 ent-FoodBoxPizza = Pizzabox
-    .desc = Eine Schachtel für Pizza. Es hält in der Hitze, dem Geruch und den Erinnerungen an die besten fünf Minuten deines Lebens.
+    .desc = Ein Pizzakarton. Er hält die Hitze, den Geruch und die Erinnerung an die besten fünf Minuten deines Lebens.
 
 ent-FoodBoxPizzaFilled = Pizzabox
-    .desc = Eine Schachtel für Pizza. Es hält in der Hitze, dem Geruch und den Erinnerungen an die besten fünf Minuten deines Lebens.
+    .desc = Ein Pizzakarton. Er hält die Hitze, den Geruch und die Erinnerung an die besten fünf Minuten deines Lebens.
 
 ent-FoodBoxPizzaCotton = Pizzabox
-    .desc = Eine Schachtel für Pizza. Es hält in der Hitze, dem Geruch und den Erinnerungen an die besten fünf Minuten deines Lebens.
+    .desc = Ein Pizzakarton. Er hält die Hitze, den Geruch und die Erinnerung an die besten fünf Minuten deines Lebens.
 
 ent-FoodBoxNugget = Hühnernuggets
     .desc = Du spürst plötzlich den Drang, an der intergalaktischen Börse zu handeln.

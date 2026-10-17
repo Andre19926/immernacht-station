@@ -1,2 +1,2 @@
 ent-PolymorphBloodCrawlJaunt = Unbekannt
-    .desc = Du kannst nicht herausfinden, was das ist.
+    .desc = Du kannst nicht erkennen, was das ist.

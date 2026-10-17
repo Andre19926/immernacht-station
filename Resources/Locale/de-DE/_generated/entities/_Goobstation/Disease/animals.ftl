@@ -1,5 +1,5 @@
 ent-MobMousePlague = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMousePandemic = Maus
-    .desc = Quietschen!
+    .desc = Quiek!

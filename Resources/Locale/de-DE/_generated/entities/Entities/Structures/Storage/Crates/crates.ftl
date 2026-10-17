@@ -80,19 +80,19 @@ ent-CrateRodentCage = Hamsterkäfig
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateLockBoxEngineering = Engineering-Schlossbox
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxMedical = Medizinische Lockbox
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxScience = Wissenschaft Lock Box
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxSecurity = Sicherheitssperre
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxService = Betriebssperre
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CratePirate = Piraterie
     .desc = Eine Weltraumpiratenkiste, nichts für Stationslandratten.

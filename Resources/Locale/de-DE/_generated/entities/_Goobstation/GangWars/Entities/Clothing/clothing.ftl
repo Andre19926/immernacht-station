@@ -1,20 +1,20 @@
 ent-ClothingNeckGangTophat1 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingNeckGangTophat2 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingNeckGangTophat3 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingNeckGangTophat4 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingNeckGangTophat5 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingNeckGangTophat6 = Gang Tophat
-    .desc = Ein stilvoller Tophat. Verwende eine Spraydose, um die Farben deiner Gangs zu entblößen.
+    .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingShoesGangDameDane = Gang Yakuza Schuhe
     .desc = Endlich ... die Farben deiner Gang kommen zum Vorschein.

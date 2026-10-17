@@ -1,71 +1,71 @@
 ent-AnomalyCorePyroclastic = Pyroklastischer Anomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreGravity = Gravitationsanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreIce = Eisanomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFlesh = Fleischanomalienkern
     .desc = Der Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, könnte aber eine herzhafte Mahlzeit sein, wenn sie gekocht wird.
 
 ent-AnomalyCoreRock = Felsanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreLiquid = Flüssiger Anomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreBluespace = Bluespace Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreElectricity = Stromanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFlora = Flora Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreShadow = Schattenanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreTech = Tech Anomalie Core
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreSanta = Santa Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCorePyroclasticInert = Pyroklastischer Anomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreGravityInert = Gravitationsanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreIceInert = Eisanomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFleshInert = Fleischanomalienkern
     .desc = Der inerte Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, aber könnte gutes Essen in den richtigen Händen sein?
 
 ent-AnomalyCoreRockInert = Felsanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreLiquidInert = Flüssiger Anomaliekern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreBluespaceInert = Bluespace Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreElectricityInert = Stromanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFloraInert = Flora Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreShadowInert = Schattenanomalienkern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreTechInert = Tech Anomalie Core
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreSantaInert = Santa Anomalie Kern
-    .desc = Der Kern eines zerstörten unverständlichen Objekts.
+    .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.

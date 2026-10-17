@@ -1,14 +1,14 @@
 ent-SinkEmpty = Senke
-    .desc = Die Wasserhähne sind bis zum maximal möglichen Drehmoment angezogen, aber noch immer tropfen bekannt.
+    .desc = Die Hähne sind bis zum maximal möglichen Drehmoment angezogen, tropfen aber trotzdem.
 
 ent-Sink = Senke
-    .desc = Die Wasserhähne sind bis zum maximal möglichen Drehmoment angezogen, aber noch immer tropfen bekannt.
+    .desc = Die Hähne sind bis zum maximal möglichen Drehmoment angezogen, tropfen aber trotzdem.
 
 ent-SinkWide = Breites Waschbecken
-    .desc = Die Wasserhähne sind bis zum maximal möglichen Drehmoment angezogen, aber noch immer tropfen bekannt.
+    .desc = Die Hähne sind bis zum maximal möglichen Drehmoment angezogen, tropfen aber trotzdem.
 
 ent-SinkStemless = Senke
-    .desc = Die Wasserhähne sind bis zum maximal möglichen Drehmoment angezogen, aber noch immer tropfen bekannt.
+    .desc = Die Hähne sind bis zum maximal möglichen Drehmoment angezogen, tropfen aber trotzdem.
 
 ent-SinkStemlessWater = Senke
-    .desc = Die Wasserhähne sind bis zum maximal möglichen Drehmoment angezogen, aber noch immer tropfen bekannt.
+    .desc = Die Hähne sind bis zum maximal möglichen Drehmoment angezogen, tropfen aber trotzdem.

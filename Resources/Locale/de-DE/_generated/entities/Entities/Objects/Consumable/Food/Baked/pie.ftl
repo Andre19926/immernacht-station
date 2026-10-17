@@ -2,7 +2,7 @@ ent-FoodPieApple = Apfelkuchen
     .desc = Ein Kuchen mit süßer, süßer Liebe ... oder Apfel.
 
 ent-FoodPieAppleSlice = Apfelkuchenstück
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieBaklava = Baklava
     .desc = Ein köstlicher Snack aus Nussschichten mit dünnem Brot.
@@ -20,41 +20,41 @@ ent-FoodPieClafoutis = Beerenklafoutis
     .desc = Keine schwarzen Vögel, das ist ein gutes Schild.
 
 ent-FoodPieClafoutisSlice = Beerenklafoutis
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieCherry = Kirschkuchen
     .desc = Schmeckt gut genug, um einen erwachsenen Mann zum Weinen zu bringen.
 
 ent-FoodPieCherrySlice = Stück Kirschkuchen
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieMeat = Fleischkuchen
     .desc = Ein altes Friseurrezept, sehr lecker!
 
 ent-FoodPieMeatSlice = Stück Fleischkuchen
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPiePumpkin = Kürbiskuchen
     .desc = Jemand sollte das in einen Latte verwandeln.
 
 ent-FoodPiePumpkinSlice = Kürbiskuchenstück
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieXeno = Xeno Piece
 
 ent-FoodPieXenoSlice = Stück Xeno Pie
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieFrosty = frostiger Kuchen
     .desc = Schmeckt wie blau und kalt.
 
 ent-FoodPieFrostySlice = Stück frostiger Kuchen
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodTartMime = Mime tart
 
 ent-FoodTartMimeSlice = Mime Tart-Scheibe
-    .desc = Ein Stück Kuchen. Schmackhaft!
+    .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieAmanita = Amanita-Torte
     .desc = Süße und leckere Giftkuchen.

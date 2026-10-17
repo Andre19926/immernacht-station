@@ -1,11 +1,11 @@
 ent-FireAxeCabinet = Feueraxtschrank
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Axt liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Axt. Als ob.
 
 ent-FireAxeCabinetOpen = Feueraxtschrank
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Axt liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Axt. Als ob.
 
 ent-FireAxeCabinetFilled = Feueraxtschrank
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Axt liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Axt. Als ob.
 
 ent-FireAxeCabinetFilledOpen = Feueraxtschrank
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Axt liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Axt. Als ob.

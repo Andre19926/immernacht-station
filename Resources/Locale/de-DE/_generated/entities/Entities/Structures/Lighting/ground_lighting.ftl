@@ -1,5 +1,5 @@
 ent-LightPostSmall = Nachlicht
-    .desc = Ein stets angetriebenes Licht.
+    .desc = Ein dauerhaft betriebenes Licht.
 
 ent-PoweredLightPostSmallEmpty = Nachlicht
     .desc = Ein kleiner Lichtposten.

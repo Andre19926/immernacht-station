@@ -11,4 +11,4 @@ ent-PonderingOrbRadioactiveS = Pönderıng örb [7 rads]
     .desc = Lokales Artefakt wurde strahlend.
 
 ent-GasMinerNitrogenSM = N2-Gasbergbau
-    .desc = Gase, die vom Gasriesen unten (oben?) abgebaut wurden, strömen durch diese massive Entlüftung.
+    .desc = Gase, die vom Gasriesen unten (oder oben?) abgebaut wurden, strömen durch diese gewaltige Entlüftung.

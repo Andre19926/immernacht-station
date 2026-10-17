@@ -2,16 +2,16 @@ ent-ChemistryEmptyVial = Fläschchen
     .desc = Ein kleines Fläschchen.
 
 ent-ChemistryEmptyVialSmall = Minifläschchen
-    .desc = Eine kleinere Fläschchen.
+    .desc = Ein kleineres Fläschchen.
 
 ent-VestineChemistryVial = Fläschchen
     .desc = Ein kleines Fläschchen.
 
 ent-RadiumChemistryVial = Minifläschchen
-    .desc = Eine kleinere Fläschchen.
+    .desc = Ein kleineres Fläschchen.
 
 ent-ChlorineChemistryVial = Minifläschchen
-    .desc = Eine kleinere Fläschchen.
+    .desc = Ein kleineres Fläschchen.
 
 ent-PlasmaChemistryVial = Minifläschchen
-    .desc = Eine kleinere Fläschchen.
+    .desc = Ein kleineres Fläschchen.

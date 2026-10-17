@@ -71,22 +71,22 @@ ent-ClothingHeadHelmetHardsuitPirateCap = Piratenkapitän-Hardsuit-Helm
     .desc = Ein spezieller Hardsuit-Helm, gemacht für den Kapitän eines Piratenschiffes.
 
 ent-ClothingHeadHelmetHardsuitERTLeader = ERT-Leiter-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetHardsuitERTChaplain = ERT-Kaplan-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetHardsuitERTEngineer = ERT-Ingenieur-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetHardsuitERTMedical = ERT-Sanitäter-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetHardsuitERTSecurity = ERT-Sicherheits-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetHardsuitERTJanitor = ERT-Hausmeister-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit Helm, der von Mitgliedern eines Notfallteams getragen wird.
+    .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetCBURN = CBURN-Exosuithelm
     .desc = Eine druckfeste und feuerfeste Haube, die von speziellen Reinigungseinheiten getragen wird.

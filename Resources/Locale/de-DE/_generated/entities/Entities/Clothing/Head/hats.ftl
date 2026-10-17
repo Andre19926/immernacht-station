@@ -207,25 +207,25 @@ ent-ClothingHeadHatGladiator = Gladiatorhelm
     .desc = Schützt den Kopf vor harten Aschewinden und Spielzeugspeeren.
 
 ent-ClothingHeadHatPartyRed = Red Party Hut
-    .desc = Verbreite eine Freude!
+    .desc = Verbreite Freude!
 
 ent-ClothingHeadHatPartyYellow = gelber Partyhut
-    .desc = Verbreite eine Freude!
+    .desc = Verbreite Freude!
 
 ent-ClothingHeadHatPartyGreen = Grüner Partyhut
-    .desc = Verbreite eine Freude!
+    .desc = Verbreite Freude!
 
 ent-ClothingHeadHatPartyBlue = blauer Partyhut
-    .desc = Verbreite eine Freude!
+    .desc = Verbreite Freude!
 
 ent-ClothingHeadHatPartyWaterCup = Water Cup Party Hut
     .desc = Nicht so erfüllend, wie du gehofft hattest...
 
 ent-ClothingHeadHatGreyFlatcap = grauer Flatcap
-    .desc = Mode für die Arbeiterklasse und den alten Mann Jenkins.
+    .desc = Mode für die Arbeiterklasse und den alten Jenkins. In der Krempe sind Glassplitter versteckt.
 
 ent-ClothingHeadHatBrownFlatcap = Brauner Flatcap
-    .desc = Dummer Clown! Du hast mich schlecht aussehen lassen!
+    .desc = Dummer Clown! Du hast mich schlecht aussehen lassen! In der Krempe sind Glassplitter versteckt.
 
 ent-ClothingHeadHatCowboyBrown = Brauner Cowboyhut
     .desc = "Dieser Hut ist nicht groß genug für uns beide."

@@ -1,17 +1,17 @@
 ent-ClothingRandomSpawner = zufälliges buntes Kostüm
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.
 
 ent-ClothingUniformRandomArmless = buntes Freisprechkostüm
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.
 
 ent-ClothingUniformRandomStandard = Buntes Kostüm (Standard)
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.
 
 ent-ClothingUniformRandomBra = bunter BH
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.
 
 ent-ClothingUniformRandomShorts = bunte Hose
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.
 
 ent-ClothingUniformRandomShirt = Buntes Kostüm (Shirt)
-    .desc = Generiert von neuronalen Netzwerken basierend auf den neuesten Modetrends.
+    .desc = Von neuronalen Netzen anhand der neuesten Modetrends generiert.

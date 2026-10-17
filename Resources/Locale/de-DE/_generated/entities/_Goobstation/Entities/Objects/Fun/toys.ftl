@@ -11,19 +11,19 @@ ent-FoamWonderprod = Toy Wonderprod
     .desc = Mit diesem wird sec dich töten.
 
 ent-PlushieBingle = Bingle Plüschtier (lebensgroß)
-    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du fühlst einen seltsamen zwang, bingle zu sagen.
+    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du verspürst einen seltsamen Zwang, „Bingle“ zu sagen.
 
 ent-PlushieBingleSmall = Bingle Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du fühlst einen seltsamen zwang, bingle zu sagen.
+    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du verspürst einen seltsamen Zwang, „Bingle“ zu sagen.
 
 ent-PlushieBingleYakub = Yakub Bingle Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du fühlst einen seltsamen zwang, bingle zu sagen.
+    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du verspürst einen seltsamen Zwang, „Bingle“ zu sagen.
 
 ent-PlushieBongle = bongle Plüschtier
     .desc = Ein süßes Stoffspielzeug, das einem roten Alien ähnelt. Du fühlst einen seltsamen zwang, bongle zu sagen.
 
 ent-PlushieBinglePony = Bingle Pony Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du fühlst einen seltsamen zwang, bingle zu sagen.
+    .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du verspürst einen seltsamen Zwang, „Bingle“ zu sagen.
 
 ent-PlushieAbductor = Fremdplüsch
 

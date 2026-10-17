@@ -1,2 +1,2 @@
 ent-DimensionPot = Topfpflanzen
-    .desc = Ein bisschen Natur in einem Topf.
+    .desc = Ein bisschen Natur im Topf.

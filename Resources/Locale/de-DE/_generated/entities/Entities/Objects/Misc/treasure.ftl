@@ -17,16 +17,16 @@ ent-TreasureSampleTube = Probenröhrchen
     .desc = Eine Glasröhre mit einer Art Gänse darin. Sieht anfällig für Bruch aus.
 
 ent-TreasureCoinIron = Münze
-    .desc = Ein flaches Stück Metall. Wenn es noch im Umlauf wäre, hätte die Inflation es wertlos gemacht. Da es nicht ist, ist es genug wert, um in einem Buch zu bleiben.
+    .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.
 
 ent-TreasureCoinSilver = Münze
-    .desc = Ein flaches Stück Metall. Wenn es noch im Umlauf wäre, hätte die Inflation es wertlos gemacht. Da es nicht ist, ist es genug wert, um in einem Buch zu bleiben.
+    .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.
 
 ent-TreasureCoinGold = Münze
-    .desc = Ein flaches Stück Metall. Wenn es noch im Umlauf wäre, hätte die Inflation es wertlos gemacht. Da es nicht ist, ist es genug wert, um in einem Buch zu bleiben.
+    .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.
 
 ent-TreasureCoinAdamantine = Münze
-    .desc = Ein flaches Stück Metall. Wenn es noch im Umlauf wäre, hätte die Inflation es wertlos gemacht. Da es nicht ist, ist es genug wert, um in einem Buch zu bleiben.
+    .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.
 
 ent-TreasureCoinDiamond = Münze
-    .desc = Ein flaches Stück Metall. Wenn es noch im Umlauf wäre, hätte die Inflation es wertlos gemacht. Da es nicht ist, ist es genug wert, um in einem Buch zu bleiben.
+    .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.

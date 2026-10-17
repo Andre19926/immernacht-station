@@ -5,7 +5,7 @@ ent-AirlockJanitorGlass = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-HighSecAtmosLocked = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.
 
 ent-AirlockRobotics = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.

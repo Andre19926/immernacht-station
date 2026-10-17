@@ -1,26 +1,26 @@
 ent-Beaker = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-CryoxadoneBeakerSmall = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallArith = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallSigy = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallPhal = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallDiph = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallBruiz = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-BeakerSmallLace = Becherglas
-    .desc = Fasst eine mittlere Menge an Chemikalien und Lösungen.
+    .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-LargeBeaker = großes Becherglas
     .desc = Wird verwendet, um eine große Menge an Chemikalien oder Lösungen zu enthalten.
@@ -38,7 +38,7 @@ ent-BorgDropper = Hydraulikpipette
     .desc = Modernste hydraulische Dropper für Cyborgs gebaut. Es verfügt über eine höhere Kapazität als handbetriebene Dropper, die 15 Einheiten Flüssigkeit aufnehmen können.
 
 ent-Syringe = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeBluespace = bluespace Spritze
     .desc = Injektion mit fortschrittlicher Bluespace-Technologie.

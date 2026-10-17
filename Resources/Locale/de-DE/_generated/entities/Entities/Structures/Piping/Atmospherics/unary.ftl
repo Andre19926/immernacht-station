@@ -5,10 +5,10 @@ ent-GasPassiveVent = passive Entlüftung
     .desc = Es ist ein offenes Ventil.
 
 ent-GasVentScrubber = Luftwäscher
-    .desc = Hat ein ventil und eine pumpe daran befestigt.
+    .desc = Hat ein Ventil und eine Pumpe daran befestigt.
 
 ent-GasOutletInjector = Lufteinblasventil
-    .desc = Hat ein ventil und eine pumpe daran befestigt.
+    .desc = Hat ein Ventil und eine Pumpe daran befestigt.
 
 ent-GasThermoMachineFreezer = Gefriergeräte
     .desc = Gas in verbundenen Rohren kühlt.

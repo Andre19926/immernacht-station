@@ -125,43 +125,43 @@ ent-PillCanisterRandom = Pillenkanister
     .desc = Es enthält bis zu 15 Pillen.
 
 ent-SyringeEphedrine = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeInaprovaline = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeTranexamicAcid = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeBicaridine = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeDermaline = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeHyronalin = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeIpecac = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeAmbuzol = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeSigynate = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeEthylredoxrazine = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringePhalanximine = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeSaline = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeRomerol = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeStimulants = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.

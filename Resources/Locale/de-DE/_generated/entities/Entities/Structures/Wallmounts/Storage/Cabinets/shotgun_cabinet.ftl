@@ -1,11 +1,11 @@
 ent-ShotGunCabinet = Schrotflintenkabinett
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Schrotflinte liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Schrotflinte. Als ob.
 
 ent-ShotGunCabinetOpen = Schrotflintenkabinett
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Schrotflinte liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Schrotflinte. Als ob.
 
 ent-ShotGunCabinetFilled = Schrotflintenkabinett
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Schrotflinte liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Schrotflinte. Als ob.
 
 ent-ShotGunCabinetFilledOpen = Schrotflintenkabinett
-    .desc = Es gibt ein kleines Etikett, das "Nur für den Notfallgebrauch" zusammen mit Details für die sichere Verwendung der Schrotflinte liest. Als ob.
+    .desc = Ein kleines Etikett lautet „Nur für den Notfall“, dazu Hinweise zur sicheren Verwendung der Schrotflinte. Als ob.

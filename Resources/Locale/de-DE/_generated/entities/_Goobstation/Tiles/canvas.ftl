@@ -1,2 +1,2 @@
 ent-FloorTileItemCanvas = Leinwandboden
-    .desc = Der Boden sollte das halten, nicht dich.
+    .desc = Der Boden sollte das tragen, nicht du.

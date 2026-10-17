@@ -89,22 +89,22 @@ ent-VendingMachineSeeds = MegaSeed Servitor
     .desc = Denn wenn du schnell Samen brauchst. Mit Abstand die beste Saatgutauswahl der Station!
 
 ent-VendingMachineSnack = Getmore Chocolate Corp.
-    .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
+    .desc = Ein Snackautomat mit freundlicher Genehmigung der Getmore Chocolate Corporation, mit Sitz auf dem Mars.
 
 ent-VendingMachineSustenance = Verpflegungsautomat
     .desc = Ein automat, der essen verkauft, wie in abschnitt 47 c des abkommens über ethische behandlung für gefangene des nt erforderlich.
 
 ent-VendingMachineSnackBlue = Getmore Chocolate Corp.
-    .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
+    .desc = Ein Snackautomat mit freundlicher Genehmigung der Getmore Chocolate Corporation, mit Sitz auf dem Mars.
 
 ent-VendingMachineSnackOrange = Getmore Chocolate Corp.
-    .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
+    .desc = Ein Snackautomat mit freundlicher Genehmigung der Getmore Chocolate Corporation, mit Sitz auf dem Mars.
 
 ent-VendingMachineSnackGreen = Getmore Chocolate Corp.
-    .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
+    .desc = Ein Snackautomat mit freundlicher Genehmigung der Getmore Chocolate Corporation, mit Sitz auf dem Mars.
 
 ent-VendingMachineSnackTeal = Getmore Chocolate Corp.
-    .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
+    .desc = Ein Snackautomat mit freundlicher Genehmigung der Getmore Chocolate Corporation, mit Sitz auf dem Mars.
 
 ent-VendingMachineSovietSoda = ВОДА
     .desc = Ein alter automat mit süßem wasser.

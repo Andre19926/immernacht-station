@@ -5,22 +5,22 @@ ent-ProjectileToolboxHoming = Homing Werkzeugkasten
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-ProjectileSpellCardRedNoHoming = verzauberte Karte
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileSpellCardRed = verzauberte Karte
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileSpellCardPurple = verzauberte Karte
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileSpellCardPurpleNoHoming = verzauberte Karte
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileSpellCardRedSpread = Rote Karte Spread
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileSpellCardPurpleSpread = Lila Card Spread
-    .desc = Ein Stück Papier verzauberte, um ihm extreme Haltbarkeit und Steifheit zu verleihen, zusammen mit einer sehr heißen Verbrennung für jeden, der unglücklich genug war, von einem aufgeladenen getroffen zu werden.
+    .desc = Ein Stück Papier, verzaubert, um ihm extreme Haltbarkeit und Steifheit zu verleihen – dazu eine sehr heiße Verbrennung für jeden, der das Pech hatte, es anzufassen.
 
 ent-ProjectileArcaneBarrage = Arkan-Riegel
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!

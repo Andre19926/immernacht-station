@@ -13,10 +13,10 @@ ent-WeaponLauncherMultipleRocket = Mehrfachraketenwerfer
 ent-WeaponLauncherPirateCannon = Piratenkanone
 
 ent-WeaponTetherGun = Fesselpistole
-    .desc = Manipuliert die Schwerkraft um Objekte herum, um sie mit hohen Geschwindigkeiten zu werfen.
+    .desc = Manipuliert die Schwerkraft um Objekte, um sie mit hoher Geschwindigkeit zu schleudern.
 
 ent-WeaponForceGun = Kraftgewehr
-    .desc = Manipuliert die Schwerkraft um Objekte herum, um sie mit hohen Geschwindigkeiten zu werfen.
+    .desc = Manipuliert die Schwerkraft um Objekte, um sie mit hoher Geschwindigkeit zu schleudern.
 
 ent-WeaponGrapplingGun = Greifpistole
 
@@ -24,10 +24,10 @@ ent-WeaponLauncherSingularityBuster = Singularitäts-Buster Raketenwerfer
     .desc = Ein experimenteller Raketenwerfer, der entwickelt wurde, um Raketen abzufeuern, die eine Singularität oder Tesla zersetzen können.
 
 ent-WeaponTetherGunAdmin = Fesselpistole
-    .desc = Manipuliert die Schwerkraft um Objekte herum, um sie mit hohen Geschwindigkeiten zu werfen.
+    .desc = Manipuliert die Schwerkraft um Objekte, um sie mit hoher Geschwindigkeit zu schleudern.
 
 ent-WeaponForceGunAdmin = Kraftgewehr
-    .desc = Manipuliert die Schwerkraft um Objekte herum, um sie mit hohen Geschwindigkeiten zu werfen.
+    .desc = Manipuliert die Schwerkraft um Objekte, um sie mit hoher Geschwindigkeit zu schleudern.
 
 ent-WeaponLauncherAdmemeMeteorLarge = Meteorwerfer
     .desc = Es schießt große Meteore.

@@ -1,11 +1,11 @@
 ent-ExtinguisherCabinet = Löschschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Feuerlöscher zu halten.
+    .desc = Ein kleiner Wandschrank für einen Feuerlöscher.
 
 ent-ExtinguisherCabinetOpen = Löschschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Feuerlöscher zu halten.
+    .desc = Ein kleiner Wandschrank für einen Feuerlöscher.
 
 ent-ExtinguisherCabinetFilled = Löschschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Feuerlöscher zu halten.
+    .desc = Ein kleiner Wandschrank für einen Feuerlöscher.
 
 ent-ExtinguisherCabinetFilledOpen = Löschschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Feuerlöscher zu halten.
+    .desc = Ein kleiner Wandschrank für einen Feuerlöscher.

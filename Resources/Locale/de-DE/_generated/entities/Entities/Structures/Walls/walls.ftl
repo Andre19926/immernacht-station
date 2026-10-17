@@ -119,25 +119,25 @@ ent-WallInvisible = unsichtbare Wand
 ent-WallForce = Kraftwand
 
 ent-WallCobblebrick = Kopfsteinpflaster-Wand
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallBasaltCobblebrick = Basaltsteinmauer
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallSnowCobblebrick = Schneeziegelmauer
     .desc = Eine kalte, nicht so undurchdringliche Mauer.
 
 ent-WallAsteroidCobblebrick = Asteroiden-Ziegelmauer
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallSandCobblebrick = Sandsteinmauer
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallChromiteCobblebrick = Chromitsteinmauer
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallAndesiteCobblebrick = Andesite Ziegelmauer
-    .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
+    .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallIronsandCobblebrick = Wand aus Eisen und Ziegeln
     .desc = Die blassen, abgerundeten Formen, aus denen diese Wand besteht, unterscheiden sich auffallend von den Eisensanden, aus denen sie angeblich hergestellt wurden.

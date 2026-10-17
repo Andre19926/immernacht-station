@@ -41,37 +41,37 @@ ent-FrezonCanister = Frezonkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Frezon enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.
 
 ent-GasCanisterBrokenBase = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-StorageCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-AirCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-OxygenCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-NitrogenCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-CarbonDioxideCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-PlasmaCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-TritiumCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-WaterVaporCanisterBroken = Wasserdampffilter
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-AmmoniaCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-NitrousOxideCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-FrezonCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.

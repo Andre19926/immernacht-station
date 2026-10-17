@@ -1,2 +1,2 @@
 ent-BlackSlimeExtract = Schwarzschleimextrakt
-    .desc = Goo aus einem Schleim extrahiert. Legenden behaupten, diese hätten "magische Kräfte".
+    .desc = Aus einem Schleim gewonnener Glibber. Legenden zufolge besitzt er „magische Kräfte“.

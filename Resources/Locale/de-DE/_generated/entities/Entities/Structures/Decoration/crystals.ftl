@@ -1,23 +1,23 @@
 ent-CrystalGreen = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalPink = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalGrey = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalOrange = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalBlack = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalBlue = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalYellow = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.
 
 ent-CrystalCyan = Kristall
-    .desc = Kristallin-Feststoff.
+    .desc = Kristalliner Feststoff.

@@ -23,7 +23,7 @@ ent-MobHomunculus = Homunculus
     .desc = Was für ein elendes Biest...
 
 ent-MouseMenace = Bedrohung
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobCorgiIanClown = Clown Ian
     .desc = Der Lieblingscorgi der Honkmother.

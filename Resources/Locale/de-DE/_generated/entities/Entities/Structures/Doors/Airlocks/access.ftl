@@ -29,28 +29,28 @@ ent-AirlockHydroponicsLocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockExternalLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalCargoLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalEngineeringLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalCommandLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassCommandLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalAtmosphericsLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalSyndicateLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalNukeopLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockFreezerLocked = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
@@ -161,22 +161,22 @@ ent-AirlockBarKitchenGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockExternalGlassLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassCargoLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassSyndicateLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassNukeopLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassEngineeringLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockExternalGlassAtmosphericsLocked = Luftschleuse
-    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen, und es könnte nur Platz dahinter sein.
+    .desc = Es öffnet sich, es schließt sich, es könnte dich zerquetschen – und dahinter ist vielleicht nur Platz.
 
 ent-AirlockKitchenGlassLocked = Glas-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
@@ -419,16 +419,16 @@ ent-AirlockExternalGlassShuttleEscape = Außenluftschleuse
     .desc = Notwendig, um zwei Raumfahrzeuge miteinander zu verbinden.
 
 ent-HighSecCentralCommandLocked = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.
 
 ent-HighSecCommandLocked = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.
 
 ent-HighSecCaptainLocked = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.
 
 ent-HighSecArmoryLocked = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.
 
 ent-AirlockHatchSyndicateLocked = luftdichte Luke
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.

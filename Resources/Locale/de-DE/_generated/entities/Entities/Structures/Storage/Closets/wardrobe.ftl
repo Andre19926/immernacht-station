@@ -11,7 +11,7 @@ ent-WardrobeGreen = Grüner Kleiderschrank
     .desc = Ein Kleiderschrank voller stilvoller grüner Kleidung.
 
 ent-WardrobePrison = Gefängnisschrank
-    .desc = Es ist eine Speichereinheit für Standard-Ausgabe Nanotrasen Kleidung.
+    .desc = Ein Schrank für Standard-Nanotrasen-Kleidung.
 
 ent-WardrobeYellow = Gelbe Garderobe
     .desc = Ein Kleiderschrank mit stilvoller gelber Kleidung.
@@ -26,10 +26,10 @@ ent-WardrobeMixed = Mischgarderobe
     .desc = Ein Kleiderschrank mit bunt gemischter Kleidung.
 
 ent-WardrobeSecurity = Sicherheitsschrank
-    .desc = Es ist eine Speichereinheit für Standard-Ausgabe Nanotrasen Kleidung.
+    .desc = Ein Schrank für Standard-Nanotrasen-Kleidung.
 
 ent-WardrobeAtmospherics = Atmosphärengarderobe
-    .desc = Es ist eine Speichereinheit für Standard-Ausgabe Nanotrasen Kleidung.
+    .desc = Ein Schrank für Standard-Nanotrasen-Kleidung.
 
 ent-ClosetJanitor = Hausmeisterschrank
     .desc = Ein Schrank für Hausmeisterkleidung und -ausrüstung.
@@ -47,7 +47,7 @@ ent-ClosetLegal = Rechtsschrank
     .desc = Ein Schrank für Gerichtskleidung und -gegenstände.
 
 ent-WardrobeCargo = Frachtschränke
-    .desc = Es ist eine Speichereinheit für Standard-Ausgabe Nanotrasen Kleidung.
+    .desc = Ein Schrank für Standard-Nanotrasen-Kleidung.
 
 ent-WardrobeSalvage = Salvage-Schrank
     .desc = Vor allem nicht gerettet.

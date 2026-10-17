@@ -1,20 +1,20 @@
 ent-ImmovableRod = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodDespawn = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodSlow = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodKeepTiles = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodWizard = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodKeepTilesStill = unbewegliche Stange
-    .desc = Du kannst spüren, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
+    .desc = Du spürst, dass es hungrig ist. Das ist normalerweise kein gutes Zeichen.
 
 ent-ImmovableRodMop = unbeweglicher Wischmopp
     .desc = Wie ein Speer, mit der Kraft von tausend wütenden Hausmeistern.

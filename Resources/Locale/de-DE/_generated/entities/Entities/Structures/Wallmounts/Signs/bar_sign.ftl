@@ -67,7 +67,7 @@ ent-BarSignSpacebucks = Spacebucks
     .desc = Du kannst ihnen nicht entkommen, nicht einmal im Weltraum, und nicht einmal, nachdem wir angefangen haben, sie stattdessen „Spesos“ zu nennen.
 
 ent-BarSignMaltroach = Der Maltroach
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-BarSignWhiskeyEchoes = Whiskey-Echos
     .desc = Eine Elite-Bar für Elite-Oper-Warte, dies ist eine Nanotrasen-Station. Warum ist dieses Schild in der Datenbank?

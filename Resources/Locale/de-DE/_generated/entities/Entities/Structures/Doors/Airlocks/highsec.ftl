@@ -1,2 +1,2 @@
 ent-HighSecDoor = Hochsicherheitstür
-    .desc = Haltet das Schlechte draußen und hält das Gute drin.
+    .desc = Hält das Schlechte draußen und das Gute drinnen.

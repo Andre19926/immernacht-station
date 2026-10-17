@@ -86,28 +86,28 @@ ent-GunSafeBaseSecure = Waffe sicher
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerPrisoner = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner2 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner3 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner4 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner5 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner6 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner7 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerPrisoner8 = Gefangenenschrank
-    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
+    .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerDetective = Detektivkabinett
     .desc = Normalerweise kalt und leer … wie dein Herz.

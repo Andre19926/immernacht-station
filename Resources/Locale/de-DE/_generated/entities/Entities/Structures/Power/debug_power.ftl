@@ -14,10 +14,10 @@ ent-DebugSMESRecharging = SMES
     .desc = Eine hochleistungsfähige supraleitende magnetische Energiespeichereinheit (SMES).
 
 ent-DebugSubstation = Substation
-    .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
+    .desc = Reduziert die Spannung des eingespeisten Stroms.
 
 ent-DebugSubstationRecharging = Substation
-    .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
+    .desc = Reduziert die Spannung des eingespeisten Stroms.
 
 ent-DebugSubstationWall = Wandmontierte Substation
     .desc = Eine Umspannstation für kompakte Shuttles und Räume.

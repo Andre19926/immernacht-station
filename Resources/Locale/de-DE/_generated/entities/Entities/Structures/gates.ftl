@@ -2,22 +2,22 @@ ent-LogicEmptyCircuit = Leerlauf
     .desc = Irgendetwas scheint zu fehlen.
 
 ent-LogicGateOr = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateAnd = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateXor = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateNor = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateNand = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateXnor = Logik-Gate
-    .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
+    .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-EdgeDetector = Kantendetektor
     .desc = Teile steigende und fallende Kanten in einzigartige Impulse und erkennt, wie nervös dich sind.

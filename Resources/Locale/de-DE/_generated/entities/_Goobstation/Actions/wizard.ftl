@@ -8,7 +8,7 @@ ent-ActionMagicMissile = Magische Rakete
     .desc = Feuert mehrere betäubende, sich langsam bewegende magische Projektile auf nahe Ziele ab.
 
 ent-ActionDisableTech = Technologie deaktivieren
-    .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
+    .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Geräte in Reichweite.
 
 ent-ActionSmoke = Rauch
     .desc = Erzeugt an deinem Standort eine Wolke aus erstickendem Rauch.
@@ -65,7 +65,7 @@ ent-ActionTeleportWizard = Teleportation
     .desc = Dieser Zauber teleportiert dich an einen Ort deiner Wahl.
 
 ent-ActionTrapsSpell = Die Fallen!
-    .desc = Beschwöre eine Reihe von Fallen um dich herum.
+    .desc = Beschwöre mehrere Fallen um dich herum.
 
 ent-ActionLesserSummonBees = Kleinere Bienenbeschwörung
     .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.

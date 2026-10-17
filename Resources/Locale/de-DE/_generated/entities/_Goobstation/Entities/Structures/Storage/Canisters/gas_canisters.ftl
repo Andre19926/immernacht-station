@@ -11,13 +11,13 @@ ent-PluoxiumCanister = Pluoxiumkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.
 
 ent-BZCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-HealiumCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-NitriumCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.
 
 ent-PluoxiumCanisterBroken = Zerkleinerungsgaskanister
-    .desc = Ein kaputter Gaskanister. Noch nicht nutzlos, denn er lässt sich auf hochwertige Materialien ausschlachten.
+    .desc = Ein kaputter Gaskanister. Noch nicht wertlos, denn er lässt sich zu hochwertigen Materialien ausschlachten.

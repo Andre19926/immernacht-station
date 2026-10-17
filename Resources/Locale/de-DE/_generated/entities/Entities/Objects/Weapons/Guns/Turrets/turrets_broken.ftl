@@ -1,2 +1,2 @@
 ent-WeaponTurretSyndicateBroken = ballistischer Turm (gebrochen)
-    .desc = Ein ballistischer Maschinengewehr-Autoturm.
+    .desc = Ein ballistischer Maschinengewehr-Selbstschussturm.

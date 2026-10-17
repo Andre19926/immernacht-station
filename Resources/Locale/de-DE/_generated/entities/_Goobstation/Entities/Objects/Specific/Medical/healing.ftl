@@ -1,8 +1,8 @@
 ent-SyringePax = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringePoisonCentcomm = Spritze
-    .desc = Wird verwendet, um Blutproben von Mobs zu entnehmen oder ihnen Reagenzien zu injizieren.
+    .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringePoisonFentUsed = gebrauchte Fent Spritze
     .desc = Was zum Teufel?

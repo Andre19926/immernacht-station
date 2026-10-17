@@ -1,2 +1,2 @@
 ent-FoodBoxPizzaBomb = Pizzabox
-    .desc = Eine Schachtel für Pizza. Es hält in der Hitze, dem Geruch und den Erinnerungen an die besten fünf Minuten deines Lebens.
+    .desc = Ein Pizzakarton. Er hält die Hitze, den Geruch und die Erinnerung an die besten fünf Minuten deines Lebens.

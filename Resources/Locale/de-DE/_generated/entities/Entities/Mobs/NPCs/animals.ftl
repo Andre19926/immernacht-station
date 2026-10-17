@@ -55,7 +55,7 @@ ent-MobGoose = Gans
     .desc = Sein Magen und Geist sind ein Rätsel jenseits des menschlichen Verständnisses.
 
 ent-MobGorilla = Gorilla
-    .desc = Smashes, Brüllen, sieht cool aus. Steh nicht in der Nähe von einem.
+    .desc = Zertrümmern, Brüllen, sieht cool aus. Steh nicht in der Nähe von einem.
 
 ent-MobKangaroo = Känguru
     .desc = Ein großer Beuteltier Herbivore. Es hat starke Hinterbeine, mit Nägeln, die langen Krallen ähneln.
@@ -64,46 +64,46 @@ ent-MobBoxingKangaroo = Boxkänguru
     .desc = Ein großer Beuteltier Herbivore. Es hat starke Hinterbeine, mit Nägeln, die langen Krallen ähneln.
 
 ent-MobMonkey = A AA
-    .desc = Neue Kirche von Neo-Dawinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch entspannend.
+    .desc = Die Neue Kirche der Neo-Darwinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch befriedigend.
 
 ent-MobBaseSyndicateMonkey = A AA
-    .desc = Neue Kirche von Neo-Dawinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch entspannend.
+    .desc = Die Neue Kirche der Neo-Darwinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch befriedigend.
 
 ent-MobMonkeySyndicateAgent = A AA
-    .desc = Neue Kirche von Neo-Dawinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch entspannend.
+    .desc = Die Neue Kirche der Neo-Darwinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch befriedigend.
 
 ent-MobMonkeySyndicateAgentNukeops = A AA
-    .desc = Neue Kirche von Neo-Dawinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch entspannend.
+    .desc = Die Neue Kirche der Neo-Darwinisten glaubt tatsächlich, dass JEDES Tier sich aus einem Affen entwickelt hat. Schmeckt wie Schweinefleisch, und sie zu töten ist sowohl lustig als auch befriedigend.
 
 ent-MobKobold = Kosold
-    .desc = Cousins der fühlenden Rasse von Echsen, Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen; bereit, deine Haare herauszuziehen und dich zu Tode zu stechen.
+    .desc = Verwandte der fühlenden Echsenrasse: Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen – bereit, dir die Haare auszureißen und dich zu Tode zu prügeln.
 
 ent-MobBaseSyndicateKobold = Kosold
-    .desc = Cousins der fühlenden Rasse von Echsen, Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen; bereit, deine Haare herauszuziehen und dich zu Tode zu stechen.
+    .desc = Verwandte der fühlenden Echsenrasse: Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen – bereit, dir die Haare auszureißen und dich zu Tode zu prügeln.
 
 ent-MobKoboldSyndicateAgent = Kosold
-    .desc = Cousins der fühlenden Rasse von Echsen, Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen; bereit, deine Haare herauszuziehen und dich zu Tode zu stechen.
+    .desc = Verwandte der fühlenden Echsenrasse: Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen – bereit, dir die Haare auszureißen und dich zu Tode zu prügeln.
 
 ent-MobKoboldSyndicateAgentNukeops = Kosold
-    .desc = Cousins der fühlenden Rasse von Echsen, Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen; bereit, deine Haare herauszuziehen und dich zu Tode zu stechen.
+    .desc = Verwandte der fühlenden Echsenrasse: Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen – bereit, dir die Haare auszureißen und dich zu Tode zu prügeln.
 
 ent-MobGuidebookMonkey = Reiseführer Affen
     .desc = Ein hoffentlich hilfreicher Affe, dessen einziger Zweck im Leben darin besteht, dass du darauf klickst. Zählt das so, dass ein Affe dir ein Tutorial gibt?
 
 ent-MobMouse = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMouseDead = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMouseAdmeme = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMouse1 = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMouse2 = Maus
-    .desc = Quietschen!
+    .desc = Quiek!
 
 ent-MobMouseCancer = Krebs Maus
     .desc = Giftig. Quietschen!

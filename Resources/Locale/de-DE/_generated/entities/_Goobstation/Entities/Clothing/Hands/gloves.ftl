@@ -5,7 +5,7 @@ ent-ClothingHandsGlovesChronoLegioneerUnremoveable = futuristische Handschuhe
     .desc = Futuristische Handschuhe aus unbekanntem Material, die keine Spuren hinterlassen.
 
 ent-ClothingHandsGlovesExplosiveShock = Isolierte Handschuhe
-    .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
+    .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.
 
 ent-ClothingHandsGlovesDeathsquad = mk-3 "Redaktor" Powerhandschuhe
     .desc = Ein Paar hochentwickelte Handschuhe, die in der Lage sind, offene Türen zu zerreißen. Seine einziehbaren Klauen sind mit einem starken Neurotoxin versehen.
@@ -29,7 +29,7 @@ ent-ClothingHandsGlovesConquestUnremovable = Viltrumitprothese
     .desc = Steh bereit für meine Ankunft, Wurm.
 
 ent-ClothingHandsGlovesColorYellowUnremovable = Isolierte Handschuhe
-    .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
+    .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.
 
 ent-ClothingHandsKnuckleDusters = Schädelstäube
     .desc = Knöchelstäbchen aus kräftigem Plastik. Fügt eine ganze Menge mehr Gewicht zu deinen Schlägen.

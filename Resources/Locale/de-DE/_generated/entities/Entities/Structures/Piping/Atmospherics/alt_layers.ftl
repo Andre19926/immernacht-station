@@ -59,40 +59,40 @@ ent-SignalControlledValveAlt2 = Signalventil
     .desc = Ein Rohr mit einem Ventil, das mit Signalen gesteuert werden kann.
 
 ent-GasPipeSensorAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorDistributionAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorDistributionAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorWasteAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorWasteAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorMixedAirAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorMixedAirAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorTEGHotAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorTEGHotAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorTEGColdAlt1 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPipeSensorTEGColdAlt2 = Gasrohrsensor
-    .desc = Berichte über den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
+    .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.
 
 ent-GasPressureRegulatorAlt1 = Eingangsdruckregler
     .desc = Ein Ventil, das Gas freigibt, wenn der Eingangsdruck eine bestimmte Schwelle überschreitet.

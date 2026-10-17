@@ -1,11 +1,11 @@
 ent-DefibrillatorCabinet = Defibrillatorschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Defibrillator zu halten.
+    .desc = Ein kleiner Wandschrank für einen Defibrillator.
 
 ent-DefibrillatorCabinetOpen = Defibrillatorschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Defibrillator zu halten.
+    .desc = Ein kleiner Wandschrank für einen Defibrillator.
 
 ent-DefibrillatorCabinetFilled = Defibrillatorschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Defibrillator zu halten.
+    .desc = Ein kleiner Wandschrank für einen Defibrillator.
 
 ent-DefibrillatorCabinetFilledOpen = Defibrillatorschrank
-    .desc = Eine kleine Wand montiert Schrank entworfen, um einen Defibrillator zu halten.
+    .desc = Ein kleiner Wandschrank für einen Defibrillator.

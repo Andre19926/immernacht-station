@@ -1,17 +1,17 @@
 ent-Dart = Dart
-    .desc = Lichtwurfpfeil zum Dartspielen. Geh nicht in die Augen!
+    .desc = Leuchtwurfpfeil zum Dartspielen. Nicht in die Augen!
 
 ent-DartBlue = Dart
-    .desc = Lichtwurfpfeil zum Dartspielen. Geh nicht in die Augen!
+    .desc = Leuchtwurfpfeil zum Dartspielen. Nicht in die Augen!
 
 ent-DartPurple = Dart
-    .desc = Lichtwurfpfeil zum Dartspielen. Geh nicht in die Augen!
+    .desc = Leuchtwurfpfeil zum Dartspielen. Nicht in die Augen!
 
 ent-DartYellow = Dart
-    .desc = Lichtwurfpfeil zum Dartspielen. Geh nicht in die Augen!
+    .desc = Leuchtwurfpfeil zum Dartspielen. Nicht in die Augen!
 
 ent-HypoDart = Dart
-    .desc = Lichtwurfpfeil zum Dartspielen. Geh nicht in die Augen!
+    .desc = Leuchtwurfpfeil zum Dartspielen. Nicht in die Augen!
 
 ent-TargetDarts = Dartbrett
     .desc = Ein Ziel zum Dartspielen.

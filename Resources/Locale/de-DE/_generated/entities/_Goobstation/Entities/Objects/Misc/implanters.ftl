@@ -29,25 +29,25 @@ ent-PacifismImplanter = Pazifismus-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
 ent-SmokeImplanter = Syndicate-Rauch-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-JaunterImplanter = Syndicate-Jaunter-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-NutrimentImplanter = Syndicate-Nährstoff-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-StypticStimulatorImplanter = Syndicate-Blutstiller-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-KravMagaImplanter = Syndicate-Krav-Maga-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-ClumsyImplanter = Syndicate-Tollpatsch-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-BinaryImplanter = Syndicate-Binär-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-VaporizeImplanter = CentComm-Verdampfungs-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
@@ -74,7 +74,7 @@ ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
 ent-RedspaceLifelineImplanter = Syndicate-Redspace-Lebensader-Implantator
-    .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-TelepathyImplanter = Telepathie-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
