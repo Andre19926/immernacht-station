@@ -1,0 +1,11 @@
+ui-options-interaction-outline-header = Einstellungen zur Interaktionsumrandung
+ui-options-use-custom-interaction-outline-color = Eigene Farben für die Interaktionsumrandung verwenden
+ui-options-interaction-outline-color-expand = Farbeinstellungen der Interaktionsumrandung ausklappen
+ui-options-interaction-outline-color-valid = Umrandungsfarbe für Objekte in Interaktionsreichweite
+ui-options-interaction-outline-color-invalid = Umrandungsfarbe für Objekte außerhalb der Interaktionsreichweite
+ui-options-interaction-outline-color-example = Dies ist die Umrandungsfarbe.
+ui-options-color-slider-default-button = Zurücksetzen
+ui-options-radio-channel-colors-header = Funkkanalfarben
+ui-options-use-custom-radio-channel-colors = Eigene Funkkanalfarben verwenden
+ui-options-radio-channel-colors-expand = Farbeinstellungen der Funkkanäle ausklappen
+ui-options-radio-channel-colors-example = [{$channel}] Dies ist die Kanalfarbe.

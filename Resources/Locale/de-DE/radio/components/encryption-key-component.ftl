@@ -14,5 +14,6 @@ encryption-keys-are-locked = Die Schlüsselfächer sind gesperrt!
 encryption-keys-panel-locked = Öffne zuerst die Wartungsklappe!
 
 examine-encryption-channels-prefix = Verfügbare Frequenzen:
-examine-encryption-channel = [color={$color}]{$key} für {$id} ({NATURALFIXED($freq, 1)}) {$deviceType}[/color]
-examine-encryption-default-channel = Der Standardkanal ist [color={$color}]{$channel}[/color].
+# Goob - radiochannel tags so players can customize channel colors
+examine-encryption-channel = [radiochannel="{$channelId}"]{$key} für {$id} ({NATURALFIXED($freq, 1)}) {$deviceType}[/radiochannel]
+examine-encryption-default-channel = Der Standardkanal ist [radiochannel="{$channelId}"]{$channel}[/radiochannel].
