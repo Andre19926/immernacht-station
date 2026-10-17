@@ -1,8 +1,8 @@
 ent-OrganDwarfHeart = Zwergherz
-    .desc = Ich fühle mich schlecht für den herzlosen Bastard, der das verloren hat.
+    .desc = Der arme Kerl tut mir leid, der das verloren hat – ein herzloser Bastard.
 
 ent-OrganDwarfLiver = Zwergleber
-    .desc = Paarungsvorschlag: Chianti und Fava Bohnen.
+    .desc = Dazu passen Fava-Bohnen und ein guter Chianti.
 
 ent-OrganDwarfStomach = Zwergmagen
-    .desc = Igitt. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu verdauen.

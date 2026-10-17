@@ -1,11 +1,11 @@
 ent-OrganYowieStomach = Yowie-Magen
-    .desc = Igitt. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu verdauen.
 
 ent-OrganYowieLiver = Yowie-Leber
-    .desc = Paarungsvorschlag: Chianti und Fava Bohnen.
+    .desc = Dazu passen Fava-Bohnen und ein guter Chianti.
 
 ent-OrganYowieHeart = Yowie-Herz
-    .desc = Ich fühle mich schlecht für den herzlosen Bastard, der das verloren hat.
+    .desc = Der arme Kerl tut mir leid, der das verloren hat – ein herzloser Bastard.
 
 ent-OrganYowieLungs = Yowie-Lungen
-    .desc = Filtert Sauerstoff aus einer Atmosphäre, die dann in den Blutkreislauf geschickt wird, um als Elektronenträger verwendet zu werden.
+    .desc = Filtert Sauerstoff aus der Atmosphäre und gibt ihn in den Blutkreislauf ab, wo er als Elektronenträger dient.

@@ -1,11 +1,11 @@
 ent-ActionRevenantShop = Revenant-Shop
-    .desc = Öffnet den Fähigkeitsshop.
+    .desc = Öffnet den Fähigkeitenladen.
 
 ent-ActionRevenantDefile = Entweihen
-    .desc = Brich Fenster, Kacheln und öffnet nahegelegene Container. Kosten 30 Essenz.
+    .desc = Zerbricht Fenster und Fliesen und öffnet Container in der Nähe. Kostet 30 Essenz.
 
 ent-ActionRevenantOverloadLights = Lichter überlasten
-    .desc = Beschwört Blitze aus nahe gelegenen Lichtern. Kosten 40 Essenz.
+    .desc = Beschwört Blitze aus nahe gelegenen Lichtern. Kostet 40 Essenz.
 
 ent-ActionRevenantMalfunction = Fehlfunktion
-    .desc = Verursacht in der Nähe Mechanismen zu Fehlfunktionen. Kosten 60 Essenz.
+    .desc = Lässt Geräte in der Nähe ausfallen. Kostet 60 Essenz.

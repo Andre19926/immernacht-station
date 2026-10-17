@@ -1,32 +1,32 @@
 ent-ActionSlasherSummonMachete = Machete beschwören
-    .desc = Beschwöre deine gebundene Machete zu deiner aktiven Hand oder erstelle eine, wenn du verloren gehst.
+    .desc = Beschwöre deine gebundene Machete in deine aktive Hand oder erschaffe eine neue, falls du sie verloren hast.
 
 ent-ActionSlasherSummonMeatSpike = Fleischspieß
-    .desc = Beschwöre eine schreckliche Fleischspitze unter dir, um deine Opfer zu fangen.
+    .desc = Beschwöre unter dir einen schrecklichen Fleischdorn, um deine Opfer festzusetzen.
 
 ent-ActionSlasherIncorporealize = Körperlos werden
-    .desc = Werde unkörperlich, in der Lage, sich durch Wände zu bewegen und völlig unsichtbar zu sein, aber nicht in der Lage, mit der Welt zu interagieren. Kann nur verwendet werden, wenn nicht gesehen.
+    .desc = Werde unkörperlich: Du kannst dich durch Wände bewegen und bist völlig unsichtbar, kannst aber nicht mit der Welt interagieren. Nur verwendbar, wenn du nicht gesehen wirst.
 
 ent-ActionSlasherCorporealize = Körperlich werden
-    .desc = Manifestiere dein Wesen aus deinem unkörperlichen Zustand. Kann nur verwendet werden, wenn unkörperlich.
+    .desc = Manifestiere dein Wesen aus dem unkörperlichen Zustand. Nur im unkörperlichen Zustand verwendbar.
 
 ent-ActionSlasherPossession = Besessenheit
-    .desc = Verwende dies bei einer Person, um zu beginnen, deine Kontrolle über sie auszuüben, was dir für 45 Sekunden eine vorübergehende Kontrolle über ihren Körper gibt. Sobald die Zeit abgelaufen ist, kehren beide Körper zurück.
+    .desc = Wende dies auf eine Person an, um 45 Sekunden lang die Kontrolle über ihren Körper zu übernehmen. Danach kehren beide Körper zurück.
 
 ent-ActionSlasherRegenerate = Regeneration
-    .desc = Regeneriere dein Wesen schnell, stelle alle verlorene Gesundheit wieder her, repariere Wunden und beende alle Betäubungen. Muss nach jedem Gebrauch durch das Stehlen einer Seele wieder aufgeladen werden.
+    .desc = Regeneriere dein Wesen schnell: Stellt alle verlorene Gesundheit wieder her, heilt Wunden und beendet alle Betäubungen. Muss nach jedem Gebrauch durch den Raub einer Seele wieder aufgeladen werden.
 
 ent-ActionSlasherStaggerArea = Taumel-Bereich
-    .desc = Du übst deine dunkle Aura auf Menschen in Reichweite aus und verlangsamen sie für kurze Zeit.
+    .desc = Du übst deine dunkle Aura auf Personen in Reichweite aus und verlangsamst sie für kurze Zeit.
 
 ent-ActionSlasherMassacre = Massaker
-    .desc = Löse eine brutale Kette von Angriffen. Je mehr Treffer in Folge dich treffen, desto mehr Schaden verursachen dich. Du enthauptest dein Ziel nach 13 Treffern.
+    .desc = Löse eine brutale Angriffskette aus. Je mehr Treffer in Folge du landest, desto mehr Schaden richtest du an. Nach 13 Treffern enthauptest du dein Ziel.
 
 ent-ActionSlasherSoulSteal = Seelenraub
-    .desc = Siphon eine Opferseele. Muss auf einem unfähigen lebenden Ziel (oder toten Körper) verwendet werden, um ihre Seele zu stehlen, deine Machete zu stärken und deine Gesundheit zu erhöhen.
+    .desc = Entziehe einem Opfer die Seele. Muss auf ein kampfunfähiges lebendes Ziel (oder einen toten Körper) angewendet werden, um dessen Seele zu stehlen, deine Machete zu stärken und deine Gesundheit zu erhöhen.
 
 ent-ActionSlasherNightVision = Verbesserte Vision
     .desc = Du siehst durch die Dunkelheit.
 
 ent-ActionSlasherRelentlessGrab = Gnadenloser Griff
-    .desc = Dein nächster Nahkampfangriff wird dein Ziel ergreifen.
+    .desc = Dein nächster Nahkampfangriff packt dein Ziel.

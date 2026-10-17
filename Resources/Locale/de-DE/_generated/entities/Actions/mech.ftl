@@ -1,8 +1,8 @@
 ent-ActionMechCycleEquipment = Ausrüstung wechseln
-    .desc = Derzeit ausgewählte Ausrüstung durchschalten.
+    .desc = Schaltet durch die derzeit ausgewählte Ausrüstung.
 
 ent-ActionMechOpenUI = Kontrollfeld
-    .desc = Öffnet das Bedienfeld für den Mech
+    .desc = Öffnet das Bedienfeld des Mechs.
 
 ent-ActionMechEject = Aussteigen
-    .desc = Wirf den Piloten vom Mech aus
+    .desc = Wirf den Piloten aus dem Mech.

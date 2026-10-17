@@ -1,2 +1,2 @@
 ent-ActionRetractableItemArmBlade = Armklinge
-    .desc = Vergieße dein Fleisch und reformiere es in eine fleischige Klinge.
+    .desc = Wirf dein Fleisch ab und forme es zu einer fleischigen Klinge um.

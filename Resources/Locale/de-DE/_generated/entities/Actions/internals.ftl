@@ -1,2 +1,2 @@
 ent-ActionToggleInternals = Atemgerät umschalten
-    .desc = Atme aus dem ausgestatteten Gastank. Erfordert auch eine ausgestattete Atemmaske.
+    .desc = Atme aus dem angelegten Gastank. Erfordert außerdem eine angelegte Atemmaske.

@@ -1,29 +1,29 @@
 ent-OrganDionaBrain = Gehirn
-    .desc = Der zentrale Knotenpunkt der pseudoneurologischen Aktivität einer Diona, ihre wurzelähnlichen Ranken, suchen nach ihrem früheren Körper.
+    .desc = Der zentrale Knotenpunkt der pseudoneurologischen Aktivität einer Diona. Ihre wurzelähnlichen Ranken suchen nach dem früheren Körper.
 
 ent-OrganDionaEyes = Augen
     .desc = Ich sehe dich!
 
 ent-OrganDionaStomach = Magen
-    .desc = Die Diona entspricht einem Magen, sie riecht nach Spargel und Essig.
+    .desc = Das Verdauungsorgan einer Diona, entspricht einem Magen. Es riecht nach Spargel und Essig.
 
 ent-OrganDionaLungs = Lungen
-    .desc = Ein schwammiges Durcheinander von schleimigen, blattartigen Strukturen. Fähigkeit, sowohl Kohlendioxid als auch Sauerstoff zu atmen.
+    .desc = Ein schwammiges Durcheinander aus schleimigen, blattartigen Strukturen. Kann sowohl Kohlendioxid als auch Sauerstoff atmen.
 
 ent-OrganDionaBrainNymph = Gehirn
     .desc = Die Quelle unglaublicher, endloser Intelligenz. Honk.
 
 ent-OrganDionaStomachNymph = Magen
-    .desc = Igitt. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu verdauen.
 
 ent-OrganDionaLungsNymph = Lungen
-    .desc = Filtert Sauerstoff aus einer Atmosphäre, die dann in den Blutkreislauf geschickt wird, um als Elektronenträger verwendet zu werden.
+    .desc = Filtert Sauerstoff aus der Atmosphäre und gibt ihn in den Blutkreislauf ab, wo er als Elektronenträger dient.
 
 ent-OrganDionaNymphBrain = Diona-Nymphengehirn
-    .desc = Enthält das Gehirn einer ehemals voll ausgebildeten Diona. Dies zu töten, würde die Diona für immer töten. Du Monster.
+    .desc = Enthält das Gehirn einer ehemals vollständigen Diona. Es zu töten, würde die Diona für immer töten. Du Monster.
 
 ent-OrganDionaNymphStomach = Diona-Nymphenmagen
-    .desc = Enthält den Magen einer ehemals voll ausgebildeten Diona. Es schmeckt nicht besser dafür.
+    .desc = Enthält den Magen einer ehemals vollständigen Diona. Er schmeckt dadurch nicht besser.
 
 ent-OrganDionaNymphLungs = Diona-Nymphenlungen
-    .desc = Enthält die Lunge einer ehemals voll ausgebildeten Diona. Atemberaubend.
+    .desc = Enthält die Lunge einer ehemals vollständigen Diona. Atemberaubend.

@@ -1,5 +1,5 @@
 ent-SentientSlimeCore = empfindungsfähiger Schleimkern
-    .desc = Die Quelle der unglaublichen, endlosen Gooeyness.
+    .desc = Die Quelle unglaublicher, endloser Schleimigkeit.
 
 ent-OrganSlimeLungs = Schleimlungen
-    .desc = Sammelt Stickstoff, den Schleimzellen für die Wartung verwenden.
+    .desc = Sammelt Stickstoff, den Schleimzellen zur Erhaltung verwenden.

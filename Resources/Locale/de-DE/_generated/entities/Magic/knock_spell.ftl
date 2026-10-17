@@ -1,2 +1,2 @@
 ent-ActionKnock = Klopfen
-    .desc = Öffnet in der Nähe Türen und Spind.
+    .desc = Öffnet Türen und Spinde in der Nähe.

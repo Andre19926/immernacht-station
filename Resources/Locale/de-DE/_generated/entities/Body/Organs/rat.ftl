@@ -1,4 +1,4 @@
 ent-OrganRatLungs = Lungen
-    .desc = Filtert Sauerstoff aus einer Atmosphäre, die dann in den Blutkreislauf geschickt wird, um als Elektronenträger verwendet zu werden.
+    .desc = Filtert Sauerstoff aus der Atmosphäre und gibt ihn in den Blutkreislauf ab, wo er als Elektronenträger dient.
 
 ent-OrganRatStomach = Rattenmagen

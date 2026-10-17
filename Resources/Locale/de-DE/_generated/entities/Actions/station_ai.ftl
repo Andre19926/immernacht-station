@@ -2,7 +2,7 @@ ent-ActionJumpToCore = Sprung zum Kern
     .desc = Schickt dein Auge zurück zum Kern.
 
 ent-ActionSurvCameraLights = Kameraleuchten schalten
-    .desc = Aktiviere Überwachungskameraleuchten in der Nähe, wo immer dich sehen.
+    .desc = Aktiviere Überwachungskameralichter in der Nähe, wo immer du sehen kannst.
 
 ent-ActionAIViewLaws = Gesetze anzeigen
-    .desc = Siehst du dir die Gesetze an, dene folgen müssen.
+    .desc = Zeige dir die Gesetze an, denen du folgen musst.

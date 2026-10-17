@@ -1,2 +1,2 @@
 ent-ActionConfigureMeleeSpeech = Schlachtruf festlegen
-    .desc = Setze einen benutzerdefinierten Schlachtruf, wenn du angreifst!
+    .desc = Lege einen eigenen Schlachtruf fest, den du beim Angreifen ausrufst!

@@ -1,5 +1,5 @@
 ent-OrganHydrakinStomach = Hydrakin-Bauch
-    .desc = Igitt. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu verdauen.
 
 ent-OrganHydrakinBrain = Hydrakin-Gehirn
     .desc = Die Quelle unglaublicher, endloser Intelligenz. Honk.
@@ -7,7 +7,7 @@ ent-OrganHydrakinBrain = Hydrakin-Gehirn
 ent-OrganHydrakinLiver = Hydrakinleber
 
 ent-OrganHydrakinHeart = Hydrakinherz
-    .desc = Ich fühle mich schlecht für den herzlosen Bastard, der das verloren hat.
+    .desc = Der arme Kerl tut mir leid, der das verloren hat – ein herzloser Bastard.
 
 ent-OrganHydrakinLungs = Hydrakin-Lungen
     .desc = Hydrakin-Lungen, die in der Lage sind, jedes Gas ohne negative Auswirkungen zu verarbeiten.

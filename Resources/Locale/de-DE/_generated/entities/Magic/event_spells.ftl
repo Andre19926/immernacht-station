@@ -1,8 +1,8 @@
 ent-ActionSummonGhosts = Geister beschwören
-    .desc = Macht alle aktuellen Geister dauerhaft sichtbar
+    .desc = Macht alle aktuellen Geister dauerhaft sichtbar.
 
 ent-ActionSummonGuns = Waffen beschwören
-    .desc = AK47 für alle! Legt eine zufällige Waffe vor jedem.
+    .desc = AK-47 für alle! Legt vor jeden eine zufällige Waffe.
 
 ent-ActionSummonMagic = Zauberei
-    .desc = Platziert einen zufälligen magischen Gegenstand vor allen. Nichts kann schief gehen!
+    .desc = Platziert vor jeden einen zufälligen magischen Gegenstand. Da kann nichts schiefgehen!

@@ -1,5 +1,5 @@
 ent-DionaGibAction = Gib dich selbst!
-    .desc = Aufgeteilt in 3 Nymphen.
+    .desc = Teile dich in 3 Nymphen auf.
 
 ent-DionaReformAction = Reform
-    .desc = Reform zurück in eine ganze Diona.
+    .desc = Forme dich wieder zu einer ganzen Diona zusammen.

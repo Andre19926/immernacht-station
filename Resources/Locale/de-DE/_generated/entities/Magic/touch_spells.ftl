@@ -1,8 +1,8 @@
 ent-ActionSmiteNoReq = Schmitt
-    .desc = Lade deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
+    .desc = Lade deine Hand mit unheiliger Energie auf, die ein berührtes Opfer gewaltsam explodieren lässt.
 
 ent-ActionCluwne = Der Fluch von Cluwne
     .desc = Verwandelt jemanden in eine Cluwne!
 
 ent-ActionSlippery = Slippery Slope
-    .desc = Mach jemanden rutschig.
+    .desc = Macht jemanden rutschig.

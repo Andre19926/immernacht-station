@@ -182,28 +182,28 @@ ent-ActionBlinkIII = Blinzeln III
     .desc = Zufällig teleportieren eine kurze Strecke.
 
 ent-ActionForceWallII = Kraftwand II
-    .desc = Erstelle eine magische Barriere, die nur du passierst können.
+    .desc = Erschaffe eine magische Barriere, die nur du passieren kannst.
 
 ent-ActionForceWallIII = Kraftwand III
-    .desc = Erstelle eine magische Barriere, die nur du passierst können.
+    .desc = Erschaffe eine magische Barriere, die nur du passieren kannst.
 
 ent-ActionForceWallIV = Kraftwand IV
-    .desc = Erstelle eine magische Barriere, die nur du passierst können.
+    .desc = Erschaffe eine magische Barriere, die nur du passieren kannst.
 
 ent-ActionForceWallV = Kraftwand V
-    .desc = Erstelle eine magische Barriere, die nur du passierst können.
+    .desc = Erschaffe eine magische Barriere, die nur du passieren kannst.
 
 ent-ActionChargeII = Aufladen II
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+    .desc = Dieser Zauber kann viele Dinge in deinen Händen aufladen, von magischen Artefakten bis zu elektrischen Bauteilen. Ein kreativer Zauberer kann damit sogar einem anderen Magier magische Kraft verleihen.
 
 ent-ActionChargeIII = Aufladen III
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+    .desc = Dieser Zauber kann viele Dinge in deinen Händen aufladen, von magischen Artefakten bis zu elektrischen Bauteilen. Ein kreativer Zauberer kann damit sogar einem anderen Magier magische Kraft verleihen.
 
 ent-ActionChargeIV = Aufladen IV
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+    .desc = Dieser Zauber kann viele Dinge in deinen Händen aufladen, von magischen Artefakten bis zu elektrischen Bauteilen. Ein kreativer Zauberer kann damit sogar einem anderen Magier magische Kraft verleihen.
 
 ent-ActionChargeV = Aufladen V
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+    .desc = Dieser Zauber kann viele Dinge in deinen Händen aufladen, von magischen Artefakten bis zu elektrischen Bauteilen. Ein kreativer Zauberer kann damit sogar einem anderen Magier magische Kraft verleihen.
 
 ent-ActionMindSwapII = Gedankentausch II
     .desc = Tausche Körper mit einer anderen Person aus!
@@ -212,10 +212,10 @@ ent-ActionMindSwapIII = Gedankentausch III
     .desc = Tausche Körper mit einer anderen Person aus!
 
 ent-ActionSmiteII = Strafgericht II
-    .desc = Lade deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
+    .desc = Lade deine Hand mit unheiliger Energie auf, die ein berührtes Opfer gewaltsam explodieren lässt.
 
 ent-ActionSmiteIII = Strafgericht III
-    .desc = Lade deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
+    .desc = Lade deine Hand mit unheiliger Energie auf, die ein berührtes Opfer gewaltsam explodieren lässt.
 
 ent-ActionRathenSpellII = Rathens Geheimnis II
     .desc = Sprenge jeden nahe gelegenen opfer arsch.
@@ -224,10 +224,10 @@ ent-ActionRathenSpellIII = Rathens Geheimnis III
     .desc = Sprenge jeden nahe gelegenen opfer arsch.
 
 ent-ActionKnockII = Klopfen II
-    .desc = Öffnet in der Nähe Türen und Spind.
+    .desc = Öffnet Türen und Spinde in der Nähe.
 
 ent-ActionKnockIII = Klopfen III
-    .desc = Öffnet in der Nähe Türen und Spind.
+    .desc = Öffnet Türen und Spinde in der Nähe.
 
 ent-ActionSpellCardsII = Zauberkarten II
     .desc = Feuern dich bis zu sechs Ausbrüche von Homing Zauberkarten.

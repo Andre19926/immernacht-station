@@ -5,4 +5,4 @@ ent-TerrorObjective = Eine Bedrohung herbeirufen
     .desc = Benutze deine Handschuhe an einer Kommunikationskonsole, um eine weitere Bedrohung auf die Station zu holen.
 
 ent-MassArrestObjective = Alle auf Wunsch
-    .desc = Verwende deine Handschuhe, um eine Strafregisterkonsole zu hacken und die gesamte Station so einzustellen, dass sie gewünscht wird!
+    .desc = Verwende deine Handschuhe, um eine Strafregisterkonsole zu hacken und die gesamte Station zur Fahndung auszuschreiben!

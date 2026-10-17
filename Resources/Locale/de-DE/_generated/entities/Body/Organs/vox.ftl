@@ -1,5 +1,5 @@
 ent-OrganVoxLungs = Vox-Lungen
-    .desc = Die blauen, anaeroben Lungen einer Vox nehmen Stickstoff zum Atmen auf. Jede Form von gasförmigem Sauerstoff ist beim Einatmen tödlich giftig.
+    .desc = Die blauen, anaeroben Lungen eines Vox nehmen Stickstoff zum Atmen auf. Jede Form von gasförmigem Sauerstoff ist beim Einatmen tödlich giftig.
 
 ent-OrganVoxStomach = Magen
     .desc = Ein Magen, der nach Ammoniak riecht.
@@ -8,16 +8,16 @@ ent-OrganVoxLiver = Leber
     .desc = Riecht brennbar.
 
 ent-OrganVoxHeart = Herz
-    .desc = Das seltsame Herz einer Vox.
+    .desc = Das seltsame Herz eines Vox.
 
 ent-OrganVoxKidneys = Vox-Nieren
-    .desc = riecht brennbar.
+    .desc = Riecht brennbar.
 
 ent-OrganVoxEyes = Augen
     .desc = Ich sehe dich!
 
 ent-OrganVoxTongueA = Zunge
-    .desc = Ein fleischiger Muskel, der hauptsächlich zum Schreien verwendet wird.
+    .desc = Ein fleischiger Muskel, der hauptsächlich zum Schreien benutzt wird.
 
 ent-OrganVoxTongueB = Zunge
-    .desc = Ein fleischiger Muskel, der hauptsächlich zum Schreien verwendet wird.
+    .desc = Ein fleischiger Muskel, der hauptsächlich zum Schreien benutzt wird.

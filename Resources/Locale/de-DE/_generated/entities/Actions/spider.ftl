@@ -1,5 +1,5 @@
 ent-ActionSpiderWeb = Spinnennetz
-    .desc = Spawnt ein Netz, das deine Beute verlangsamt.
+    .desc = Spinnt ein Netz, das deine Beute verlangsamt.
 
 ent-ActionSericulture = Seide spinnen
-    .desc = Webe ein wenig Seide für den Einsatz in Kunst und Handwerk.
+    .desc = Webe etwas Seide für Kunst und Handwerk.

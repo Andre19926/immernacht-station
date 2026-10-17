@@ -1,11 +1,11 @@
 ent-ActionFlashRune = Flash Rune
-    .desc = Beschwört eine Rune, die blinkt, wenn sie benutzt wird.
+    .desc = Beschwört eine Rune, die beim Benutzen blitzt.
 
 ent-ActionExplosionRune = Explosion Rune
-    .desc = Beschwört eine Rune, die explodiert, wenn sie benutzt wird.
+    .desc = Beschwört eine Rune, die beim Benutzen explodiert.
 
 ent-ActionIgniteRune = Rune entzünden
-    .desc = Beschwört eine Rune, die sich entzündet, wenn sie benutzt wird.
+    .desc = Beschwört eine Rune, die sich beim Benutzen entzündet.
 
 ent-ActionStunRune = Stun Rune
-    .desc = Beschwört eine Rune, die betäubt, wenn sie benutzt wird.
+    .desc = Beschwört eine Rune, die beim Benutzen betäubt.

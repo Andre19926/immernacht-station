@@ -1,2 +1,2 @@
 ent-ActionMimeInvisibleWall = Erstelle eine unsichtbare Wand
-    .desc = Erstelle eine unsichtbare Wand vor dir, wenn du dort platziert werden kannst.
+    .desc = Erschaffe vor dir eine unsichtbare Wand, sofern dort Platz ist.

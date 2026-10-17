@@ -1,2 +1,2 @@
 ent-ActionForceWall = Kraftwand
-    .desc = Erstelle eine magische Barriere, die nur du passierst können.
+    .desc = Erschaffe eine magische Barriere, die nur du passieren kannst.
