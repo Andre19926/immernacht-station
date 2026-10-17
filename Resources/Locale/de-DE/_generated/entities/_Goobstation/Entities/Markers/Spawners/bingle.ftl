@@ -1,5 +1,5 @@
-ent-SpawnPointGhostBingle = Ghost Rolle Spawn Point
+ent-SpawnPointGhostBingle = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostTurkle = Ghost Rolle Spawn Point
+ent-SpawnPointGhostTurkle = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostBinglePrime = Ghost Rolle Spawn Point
+ent-SpawnPointGhostBinglePrime = Geisterrollen-Spawnpunkt

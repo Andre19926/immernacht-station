@@ -25,7 +25,7 @@ ent-CrateVoidJetpack = void Jetpack Kiste
 ent-CrateSalvageHardsuit = Bergungs-Hardsuit-Kiste
     .desc = Enthält einen Salvage-Hardsuit, eine Atemmaske und einen Sauerstofftank.
 
-ent-CrateCrusherGlaive = Brecherglasur
+ent-CrateCrusherGlaive = Brecher-Glefenkiste
     .desc = Enthält eine Brecherlaive für die Verwendung durch Salvage.
 
 ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Salvage-Umhang

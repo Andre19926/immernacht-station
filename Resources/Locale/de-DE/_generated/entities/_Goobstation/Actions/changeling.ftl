@@ -49,7 +49,7 @@ ent-ActionShriekResonant = Resonant Shriek
 ent-ActionToggleStrainedMuscles = Dehnungsmuskeln
     .desc = Bewege dich mit extrem schnellen Geschwindigkeiten. Ausdauerschaden verursacht.
 
-ent-ActionStingBlind = Blindstiel
+ent-ActionStingBlind = Blindheitsstachel
     .desc = Still stechen dich dein Ziel, blende sie für kurze Zeit und mache sie nahe gesichtet. Kosten 25 Chemikalien.
 
 ent-ActionStingCryo = Kryogener Sting

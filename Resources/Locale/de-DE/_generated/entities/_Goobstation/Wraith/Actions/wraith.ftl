@@ -34,13 +34,13 @@ ent-ActionEvolve = Evolvent
 ent-ActionRaiseSkeleton = Skelett erhöhen
     .desc = Hebe einen skelettierten Leichnam auf oder fülle einen Spind mit einem unhaltbaren Skelettdiener.
 
-ent-ActionSummonVoidPortal = Summon void Portal
+ent-ActionSummonVoidPortal = Leerenportal beschwören
     .desc = Beschwöre ein leeres Portal, aus dem jenseitige Kreaturen herausströmen.
 
-ent-ActionSummonVoidCreature = Beschwörungslose Wesen
+ent-ActionSummonVoidCreature = Leerenwesen beschwören
     .desc = Versucht, den Schleier zwischen den Welten zu durchbrechen, um einer kleineren leeren Kreatur zu erlauben, dieses Reich zu betreten.
 
-ent-ActionMakeRevenant = Machen revenant
+ent-ActionMakeRevenant = Revenant erschaffen
     .desc = Übernimm die Kontrolle über einen intakten Leiche als mächtigen Revenant! Du wirst diesen Leiche später nicht mehr aufnehmen können. Als Revenant erhältst du eine erhöhte Punktgenerierung, aber deine Revenant-Fähigkeiten kosten viel mehr Punkte als normal.
 
 ent-ActionCurseBlindness = Fluch der Blindheit
@@ -64,5 +64,5 @@ ent-ActionDefile = Defile
 ent-ActionSummonPlagueRat = Sumpfpestratte
     .desc = Versucht, den Schleier zwischen den Welten zu durchbrechen, um einer Pestratte zu erlauben, dieses Reich zu betreten.
 
-ent-ActionSummonRotHulk = Summon Rot Hulk
+ent-ActionSummonRotHulk = Fäulnis-Hulk beschwören
     .desc = Assimiliere den Dreck in einem Bereich und erschaffe einen instabilen Diener.

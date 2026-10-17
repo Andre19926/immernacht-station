@@ -1,4 +1,4 @@
-ent-MobHumanSecurityOfficerSuit = Sicherheitsoffizier Suit
+ent-MobHumanSecurityOfficerSuit = Sicherheitsoffizier-Anzug
 
 ent-MobHumanSecurityOfficerModSuit = Sicherheitsbeauftragter Modsuit
 
@@ -8,13 +8,13 @@ ent-MobHumanHoSSuit = Leiter des Sicherheitsanzugs
 
 ent-MobHumanBrigmedicSuit = Gefängnissanitäter-Anzug
 
-ent-MobHumanSecurityOfficerBulletproofArmorHelmet = Sicherheitsoffizier Bulletproof Rüstung
+ent-MobHumanSecurityOfficerBulletproofArmorHelmet = Sicherheitsoffizier-Kugelsichere Rüstung
 
-ent-MobHumanSecurityOfficerRiotArmorHelmet = Sicherheitsoffizier Riot Armor
+ent-MobHumanSecurityOfficerRiotArmorHelmet = Sicherheitsoffizier-Krawallrüstung
 
-ent-MobHumanSecurityOfficerReflectiveArmorHelmet = Sicherheitsoffizier Reflective Rüstung
+ent-MobHumanSecurityOfficerReflectiveArmorHelmet = Sicherheitsoffizier-Reflektierende Rüstung
 
-ent-MobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsoffizier Basic Armor
+ent-MobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsoffizier-Grundrüstung
 
 ent-MobHumanHos = Leiter der Sicherheitsabteilung
 

@@ -1,27 +1,27 @@
-ent-SpawnPointGhostSpaceNinjaToken = Ghost Rolle Spawn Point
+ent-SpawnPointGhostSpaceNinjaToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDragonToken = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDragonToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointLoneNukeOperativeToken = Ghost Rolle Spawn Point
+ent-SpawnPointLoneNukeOperativeToken = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostDerelictCyborgSyndicateToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostBinglePrimeToken = Ghost Rolle Spawn Point
+ent-SpawnPointGhostBinglePrimeToken = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostBlobRatToken = Maus Blob Spawn Point
 
-ent-LoneAbductorSpawnerToken = Ghost Rolle Spawn Point
+ent-LoneAbductorSpawnerToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointWizardToken = Ghost Rolle Spawn Point
+ent-SpawnPointWizardToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointSlaughterDemonToken = Ghost Rolle Spawn Point
+ent-SpawnPointSlaughterDemonToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointLaughterDemonToken = Ghost Rolle Spawn Point
+ent-SpawnPointLaughterDemonToken = Geisterrollen-Spawnpunkt
 
-ent-AncientRogueKingToken = Ghost Rolle Spawn Point
+ent-AncientRogueKingToken = Geisterrollen-Spawnpunkt
 
-ent-WraithToken = Ghost Rolle Spawn Point
+ent-WraithToken = Geisterrollen-Spawnpunkt
 
-ent-HasturToken = Ghost Rolle Spawn Point
+ent-HasturToken = Geisterrollen-Spawnpunkt
 
-ent-ContractorTokenSpawner = Ghost Rolle Spawn Point
+ent-ContractorTokenSpawner = Geisterrollen-Spawnpunkt

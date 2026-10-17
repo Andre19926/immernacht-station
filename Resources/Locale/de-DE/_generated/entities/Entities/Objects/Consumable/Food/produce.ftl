@@ -138,7 +138,7 @@ ent-FoodLingzhi = Lingzhi
 ent-FoodAmbrosiaVulgaris = Ambrosia vulgaris
     .desc = Eine Heilpflanze. Vielleicht fühlst du dir ein wenig lustig.
 
-ent-FoodAmbrosiaDeus = ambrosia de
+ent-FoodAmbrosiaDeus = Ambrosia deus
     .desc = Eine äußerst begehrte Heilpflanze. Kann einige funky Nebenwirkungen haben.
 
 ent-FoodGalaxythistle = Galaxisthion

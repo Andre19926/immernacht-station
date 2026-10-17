@@ -1,4 +1,4 @@
-ent-DiseaseFlu = Fluß
+ent-DiseaseFlu = Fluss
     .desc = Sehr ärgerlich und leicht gefährlich.
 
 ent-DiseaseCancer = Krebs

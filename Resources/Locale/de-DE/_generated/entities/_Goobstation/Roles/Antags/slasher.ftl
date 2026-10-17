@@ -1,3 +1,3 @@
-ent-SpawnPointGhostSlasher = Ghost Rolle Spawn Point
+ent-SpawnPointGhostSlasher = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostSlasherToken = Ghost Rolle Spawn Point
+ent-SpawnPointGhostSlasherToken = Geisterrollen-Spawnpunkt

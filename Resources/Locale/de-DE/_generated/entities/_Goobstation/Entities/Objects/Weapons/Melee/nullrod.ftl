@@ -13,7 +13,7 @@ ent-GodHand = Hand Gottes
 ent-ArrythmicKnife = arythmisches Messer
     .desc = Man sagt, Angst sei der wahre Gedankenkiller, aber sie in den Kopf zu stechen funktioniert auch. Verlangsamt und beschleunigt dich zufällig.
 
-ent-MonkStaff = Mitarbeiter des Mönchs
+ent-MonkStaff = Stab des Mönchs
     .desc = Ein langer, großer Stab aus poliertem Holz. Traditionell in alten alten Kampfkünsten verwendet, jetzt verwendet, um den Clown zu belästigen.
 
 ent-AtheistFedora = Fedora der Atheisten

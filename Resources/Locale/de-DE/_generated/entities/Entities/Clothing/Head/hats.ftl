@@ -69,7 +69,7 @@ ent-ClothingHeadHatFez = Fez
 ent-ClothingHeadHatHopcap = Personalchef-Kappe
     .desc = Eine stilvolle Kappe, die vom Leiter des Personals getragen wird. Zeigt Papierkram, wer verantwortlich ist.
 
-ent-ClothingHeadHatHoshat = einmaloptik gezogen Effekt deren Hinweis der
+ent-ClothingHeadHatHoshat = Hut des Sicherheitschefs
     .desc = Eine stilvolle Kappe, die vom Sicherheitschef getragen wird. Zeigt den Beamten, wer verantwortlich ist.
 
 ent-ClothingHeadHatOutlawHat = Outlaw-Hut
@@ -84,7 +84,7 @@ ent-ClothingHeadHatPaper = Papierhut
 ent-ClothingHeadHatPirate = Piraterie
     .desc = "Yo ho ho und eine Flasche Rum!"
 
-ent-ClothingHeadHatPlaguedoctor = Pest Arzt Hut
+ent-ClothingHeadHatPlaguedoctor = Pestarzthut
     .desc = Diese wurden einst von Pestärzten verwendet.
 
 ent-ClothingHeadHatRedwizard = Roter Zauberer

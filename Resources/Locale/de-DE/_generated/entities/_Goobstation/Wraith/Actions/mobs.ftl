@@ -1,7 +1,7 @@
 ent-ActionRally = Rallye
     .desc = Buff alle umliegenden Tiere, um dir zu helfen zu kämpfen.
 
-ent-ActionSummonLesserSkeleton = Summon kleiner Skelett
+ent-ActionSummonLesserSkeleton = Kleines Skelett beschwören
     .desc = Materialisiere ein Skelett aus der Leere, um dir zu helfen.
 
 ent-ActionTentacleHook = Hakenhaken

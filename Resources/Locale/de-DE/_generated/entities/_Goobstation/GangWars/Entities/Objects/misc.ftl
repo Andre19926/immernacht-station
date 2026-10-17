@@ -4,7 +4,7 @@ ent-CigarGoldenGang = Goldzigarre
 ent-OmnizineMedipen = Omnizin medipen CAS-Nr.
     .desc = Eine Spritze Omnizine. Heilt die meisten Schadensarten schnell.
 
-ent-GangBeginnerBundle = diverse überwunden entwickelte
+ent-GangBeginnerBundle = Anfängerbündel
     .desc = Eine Duffel-Tasche mit allem, was ein neues Gangmitglied braucht, um loszulegen.
 
 ent-GangClothesBundle = Gruppenkleidungsbündel

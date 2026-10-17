@@ -22,7 +22,7 @@ ent-ActionTeleportBlobToCore = Sprung zum Kern
 ent-ActionSwapBlobChem = Swapchemikalien (70)
     .desc = Du kannst deine aktuelle Chemikalie austauschen.
 
-ent-ActionTransformToBlob = Verwandeln dich in einen Blob
+ent-ActionTransformToBlob = Verwandle dich in einen Blob
     .desc = Sofort zerstört deinen Körper und erzeugt einen Blob-Kern. Stelle sicher, dass du auf einer Bodenkachel stehst, sonst verschwinde einfach.
 
 ent-ActionDowngradeBlob = Downgrade Blob

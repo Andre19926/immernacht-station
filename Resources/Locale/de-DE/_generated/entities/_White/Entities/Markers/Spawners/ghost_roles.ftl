@@ -1,1 +1,1 @@
-ent-SpawnPointGhostXenomorph = Ghost Rolle Spawn Point
+ent-SpawnPointGhostXenomorph = Geisterrollen-Spawnpunkt

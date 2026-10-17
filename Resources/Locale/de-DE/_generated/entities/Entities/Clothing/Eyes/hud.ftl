@@ -10,7 +10,7 @@ ent-ClothingEyesHudSecurity = Sicherheitstrupp
 ent-ClothingEyesHudCommand = Verwaltungshud
     .desc = Ein Heads-up-Display, das die Humanoiden in der Ansicht scannt und genaue Daten über ihren ID-Status liefert.
 
-ent-ClothingEyesHudBeer = Beer-Glocken
+ent-ClothingEyesHudBeer = Bierbrille
     .desc = Ein Paar sunHud, ausgestattet mit Geräten zum Scannen von Reagenzien, sowie ein angeborenes Verständnis der flüssigen Viskosität während der Bewegung.
 
 ent-ClothingEyesHudFriedOnion = gebratene Zwiebelbrille

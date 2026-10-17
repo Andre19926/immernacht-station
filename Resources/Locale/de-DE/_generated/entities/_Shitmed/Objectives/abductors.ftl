@@ -67,13 +67,13 @@ ent-AbductorVictimNations = Lass deine Abteilung gedeihen.
 ent-AbductorVictimPowerUnlimited = Unbegrenzte Macht.
     .desc = Überflute das Stromnetz der Station mit so viel Strom wie möglich.
 
-ent-AbductorVictimBuild = Erweitern dich die Station.
+ent-AbductorVictimBuild = Erweitere die Station.
     .desc = Die Station ist zu klein, und du wirst das reparieren.
 
 ent-AbductorVictimDefect = Defekt von der Station.
     .desc = Scheiß auf das System! Defekt von der Station und starte eine unabhängige Kolonie im Weltraum, Mining Outpost oder der verfallene. Rekrutiere Crewkollegen, wenn du kannst.
 
-ent-AbductorVictimMonkeyTakeover = Hebe eine Armee von Affen auf.
+ent-AbductorVictimMonkeyTakeover = Stelle eine Armee von Affen auf.
 
 ent-AbductorVictimAverageFrontierPirate = Schuhe stehlen.
     .desc = Stiehl so viele Schuhe wie möglich.

@@ -1,1 +1,1 @@
-ent-TokenAncientRogueKingSpawn = Ghost Rolle Spawn Point
+ent-TokenAncientRogueKingSpawn = Geisterrollen-Spawnpunkt

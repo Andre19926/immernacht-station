@@ -1,3 +1,3 @@
-ent-SpawnPointGhostSlaughterDemon = Ghost Rolle Spawn Point
+ent-SpawnPointGhostSlaughterDemon = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostLaughterDemon = Ghost Rolle Spawn Point
+ent-SpawnPointGhostLaughterDemon = Geisterrollen-Spawnpunkt

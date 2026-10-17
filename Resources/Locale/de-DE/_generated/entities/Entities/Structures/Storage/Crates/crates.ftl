@@ -19,7 +19,7 @@ ent-CrateRadiation = Strahlungsradkiste
 ent-CrateInternals = Sauerstoffkiste
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateElectrical = elektrischer Kiste
+ent-CrateElectrical = Elektrokiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateEngineering = Maschinenkasten

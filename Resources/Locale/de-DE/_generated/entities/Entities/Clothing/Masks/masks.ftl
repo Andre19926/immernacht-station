@@ -49,7 +49,7 @@ ent-ClothingMaskSterile = Sterilmaske
 ent-ClothingMaskMuzzle = Mündung
     .desc = Um diesen schrecklichen Lärm zu stoppen.
 
-ent-ClothingMaskPlague = Pest Arzt Maske
+ent-ClothingMaskPlague = Pestarztmaske
     .desc = Ein schlechtes Omen.
 
 ent-ClothingMaskCluwne = cluwne Gesicht und Haare

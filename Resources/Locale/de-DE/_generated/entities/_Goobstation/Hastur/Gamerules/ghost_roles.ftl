@@ -1,1 +1,1 @@
-ent-SpawnPointGhostHastur = Ghost Rolle Spawn Point
+ent-SpawnPointGhostHastur = Geisterrollen-Spawnpunkt

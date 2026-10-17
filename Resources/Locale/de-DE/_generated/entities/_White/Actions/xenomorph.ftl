@@ -10,7 +10,7 @@ ent-ActionEvolution = Evolvent
 ent-ActionEvolutionPraetorian = Entwicklung zum Prätorianer (500)
     .desc = Entwickeln dich zum Hauptverteidiger des Bienenstocks.
 
-ent-ActionEvolutionQueen = Entwickeln dich zur Königin (500)
+ent-ActionEvolutionQueen = Entwickle dich zur Königin (500)
     .desc = Produziere einen inneren Eiersack, der Kinder laichen kann. Nur eine Königin kann gleichzeitig existieren.
 
 ent-ActionSpawnResinWeedNode = Unkräuter (50)

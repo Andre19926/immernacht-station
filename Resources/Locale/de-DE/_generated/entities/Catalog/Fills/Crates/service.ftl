@@ -1,7 +1,7 @@
 ent-CrateServiceJanitorialSupplies = Kiste für Hausmeisterwaren
     .desc = Kämpfe dich gegen Schmutz und Schmutz mit Nanotrasens Janitorial Essentials(tm) zurück! Enthält drei Eimer, Vorsicht Schild und saubere Granaten. Hat auch einen einzigen Mopp, Besen, Sprayreiniger, Drahtbürste, Lappen und Müllbeutel.
 
-ent-CrateServiceCleanerGrenades = Schüttgut-Reinigungskaste
+ent-CrateServiceCleanerGrenades = Schüttgut-Reinigungskiste
     .desc = Enthält zwei Kisten mit sauberen Granaten, für diese tief verwurzelten Flecken.
 
 ent-CrateServiceReplacementLights = Ersatzbeleuchtungskasten

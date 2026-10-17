@@ -96,7 +96,7 @@ ent-PlushieXeno = xeno Plüschtier
 ent-PlushiePenguin = Pinguin Plüschtier
     .desc = Ich benutze arch btw!
 
-ent-PlushieHuman = Menschlicher Plüschtier
+ent-PlushieHuman = Menschliches Plüschtier
     .desc = Dies ist ein gefühlter Plüsch eines Menschen. Alle Handwerkskunst ist von niedrigster Qualität. Der Mensch ist nackt. Der Mensch weint. Der Mensch schreit.
 
 ent-PlushieMoth = Motte Plüschtier

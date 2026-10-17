@@ -4,7 +4,7 @@ ent-TunnelClownProtectMaintenanceObjective = Instandhaltung schützen.
 ent-SingulothKnightPreachObjective = Predigt das Wort von Lord Singuloth!
     .desc = Du sollst die Technikabteilung dieser Station aufsuchen und die Leute dort zu Gefährten und Anhängern Singuloths bekehren. Verweigern sie sich, sollst du sie gnadenlos hinrichten.
 
-ent-SingulothKnightSingularityObjective = Erweitern dich die Singularität
+ent-SingulothKnightSingularityObjective = Erweitere die Singularität
     .desc = Du willst prithee Lord singuloth, doth dies durch die Erweiterung (aber nicht zu verlieren) die Singularität, je größer desto besser!
 
 ent-SingulothKnightTeslaObjective = Entferne alle Teslas von der Station

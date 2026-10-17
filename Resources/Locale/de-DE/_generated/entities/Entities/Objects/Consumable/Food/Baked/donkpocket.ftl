@@ -7,7 +7,7 @@ ent-FoodDonkpocketWarm = warme Donk-Tasche
 ent-FoodDonkpocketDank = Dank-Pocket
     .desc = Das Essen der Wahl für den erfahrenen Botaniker.
 
-ent-FoodDonkpocketDankWarm = warme Naßtasche
+ent-FoodDonkpocketDankWarm = warme Nasstasche
     .desc = Das erhitzte Essen der Wahl für den erfahrenen Botaniker.
 
 ent-FoodDonkpocketSpicy = Scharfe Pocket

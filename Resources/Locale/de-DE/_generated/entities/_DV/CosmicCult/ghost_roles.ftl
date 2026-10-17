@@ -1,1 +1,1 @@
-ent-SpawnPointCosmicColossus = Ghost Rolle Spawn Point
+ent-SpawnPointCosmicColossus = Geisterrollen-Spawnpunkt

@@ -1,7 +1,7 @@
 ent-CosmicShuttleCore = Malign-Instrument
     .desc = Seine Oberfläche leuchtet mit einer Vielzahl von unergründlichen Glyphen, die ein einziges Wort in deinen Geist kommunizieren: "Flucht".
 
-ent-CosmicChair = Bösartige Soße
+ent-CosmicChair = Kosmischer Stuhl
     .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-CosmicObelisk = Maligner Obelisk
@@ -9,7 +9,7 @@ ent-CosmicObelisk = Maligner Obelisk
 
 ent-CosmicThruster = bösartiger Motor
 
-ent-CosmicLamp = Bödenlicht
+ent-CosmicLamp = Kosmisches Licht
     .desc = Ein Mote von un-light schimmert im Inneren.
 
 ent-CosmicMalignRift = Bösartige Kluft
@@ -24,5 +24,5 @@ ent-CosmicRadioJammer = multispektraler Inhibitor
 ent-AltarCosmic = Kosmischer Altar
     .desc = Altar von.. Etwas.
 
-ent-CosmicTable = Bödentisch
+ent-CosmicTable = Kosmischer Tisch
     .desc = Unergründlich, kosmisch... Quadrat.

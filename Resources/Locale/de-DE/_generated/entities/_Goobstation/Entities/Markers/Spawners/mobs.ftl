@@ -24,7 +24,7 @@ ent-SpawnCMMobXenoQueen = Bergungs-Uralt-Königin-Spawner
 
 ent-SpawnCMMobXenoRogueKing = Bergungs-Uralt-Rogue-King-Spawner
 
-ent-SpawnCMMobXenoDroneSentient = Ein altes Drohne-Kiefer
+ent-SpawnCMMobXenoDroneSentient = Kiefer einer alten Drohne
 
 ent-SpawnCMMobXenoBurrowerSentient = Uralt-Burrower-Spawner
 

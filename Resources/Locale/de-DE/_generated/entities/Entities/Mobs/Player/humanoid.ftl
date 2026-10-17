@@ -38,4 +38,4 @@ ent-RandomHumanoidSpawnerCentcomOfficial = CentComm offiziell
 
 ent-RandomHumanoidSpawnerSyndicateAgent = Syndicatagent
 
-ent-RandomHumanoidSpawnerNukeOp = Kernbetriebsmittel
+ent-RandomHumanoidSpawnerNukeOp = Nuke-Ops-Agent

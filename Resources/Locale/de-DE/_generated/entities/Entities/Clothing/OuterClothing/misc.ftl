@@ -51,7 +51,7 @@ ent-ClothingOuterWizardRed = Rote Zaubererrobe
 ent-ClothingOuterSkub = Skub-Anzug
     .desc = Skub ist grob auf der Außenseite dieses zylindrischen Anzugs geschrieben.
 
-ent-ClothingOuterPlagueSuit = Pest Arztanzug
+ent-ClothingOuterPlagueSuit = Pestarztanzug
     .desc = Ein schlechtes Omen.
 
 ent-ClothingOuterNunRobe = Nonne robe

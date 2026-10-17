@@ -34,7 +34,7 @@ ent-FishGib = Gib-Stick-Fisch
 ent-FishMutant = Mutierte Fische
     .desc = Anomaler Fisch, der aussieht, als hätte er Atommüll gegessen.
 
-ent-FishNuker = Kernbetriebsfähige Fische
+ent-FishNuker = Nuke-Ops-Fisch
     .desc = Räuber der Nuke Disc Fish.
 
 ent-FishPuffer = Kugelfisch

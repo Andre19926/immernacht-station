@@ -1,32 +1,32 @@
-ent-SpawnPointGhostRatKing = Ghost Rolle Spawn Point
+ent-SpawnPointGhostRatKing = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostRemilia = Ghost Rolle Spawn Point
+ent-SpawnPointGhostRemilia = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostCerberus = Ghost Rolle Spawn Point
+ent-SpawnPointGhostCerberus = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostNukeOperative = Ghost Rolle Spawn Point
+ent-SpawnPointGhostNukeOperative = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointLoneNukeOperative = Ghost Rolle Spawn Point
+ent-SpawnPointLoneNukeOperative = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointNukeopsCommander = Ghost Rolle Spawn Point
+ent-SpawnPointNukeopsCommander = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointNukeopsMedic = Ghost Rolle Spawn Point
+ent-SpawnPointNukeopsMedic = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointNukeopsOperative = Ghost Rolle Spawn Point
+ent-SpawnPointNukeopsOperative = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostDragon = Ghost Rolle Spawn Point
+ent-SpawnPointGhostDragon = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostSpaceNinja = Ghost Rolle Spawn Point
+ent-SpawnPointGhostSpaceNinja = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostParadoxClone = Ghost Rolle Spawn Point
+ent-SpawnPointGhostParadoxClone = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostDerelictEngineeringCyborg = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostDerelictCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostRoleMothershipCore = Ghost Rolle Spawn Point
+ent-SpawnPointGhostRoleMothershipCore = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostRoleXenoborg = Ghost Rolle Spawn Point
+ent-SpawnPointGhostRoleXenoborg = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostDerelictJanitorCyborg = Geisterrollen-Spawnpunkt
 
@@ -36,4 +36,4 @@ ent-SpawnPointGhostDerelictMiningCyborg = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostDerelictSyndicateAssaultCyborg = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostAncientRogueKing = Ghost Rolle Spawn Point
+ent-SpawnPointGhostAncientRogueKing = Geisterrollen-Spawnpunkt

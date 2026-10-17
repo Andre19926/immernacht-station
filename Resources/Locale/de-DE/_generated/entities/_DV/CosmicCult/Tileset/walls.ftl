@@ -1,7 +1,7 @@
-ent-WallCosmicCult = Bödenwand
+ent-WallCosmicCult = Kosmische Wand
     .desc = Eine seltsam aussehende Wand. Zu lange darauf zu starren, weckt ein Gefühl von Unbehagen.
 
-ent-WallCosmicCultTrimmed = Bödenwand
+ent-WallCosmicCultTrimmed = Kosmische Wand
     .desc = Eine seltsam aussehende Wand. Zu lange darauf zu starren, weckt ein Gefühl von Unbehagen.
 
 ent-WindowCosmicCult = Peitschenscheibe

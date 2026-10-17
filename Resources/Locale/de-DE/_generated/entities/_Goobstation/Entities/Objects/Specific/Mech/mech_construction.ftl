@@ -7,10 +7,10 @@ ent-ClarkeHarness = Clarke-Rumpf
 ent-ClarkeHead = Clarke-Kopf
     .desc = Der Kopf der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-ClarkeRArm = Clarke-Rechter Arm
+ent-ClarkeRArm = Clarke-Rechterarm
     .desc = Der rechte Arm der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-ClarkeLArm = Clarke-Linker Arm
+ent-ClarkeLArm = Clarke-Linkerarm
     .desc = Der linke Arm der Clarke. Es gehört auf das Chassis des Mech.
 
 ent-ClarkeTreads = Clarke-Ketten
@@ -22,7 +22,7 @@ ent-DurandHarness = Durand-Rumpf
 ent-DurandHead = Durand-Kopf
     .desc = Der Kopf des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandLArm = Durand-Linker Arm
+ent-DurandLArm = Durand-Linkerarm
     .desc = Der linke Arm des Durand. Es gehört auf das Chassis des Mech.
 
 ent-DurandLLeg = Durand-Linkes Bein
@@ -31,7 +31,7 @@ ent-DurandLLeg = Durand-Linkes Bein
 ent-DurandRLeg = Durand-Rechtes Bein
     .desc = Das rechte Bein des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandRArm = Durand-Rechter Arm
+ent-DurandRArm = Durand-Rechterarm
     .desc = Der rechte Arm des Durand. Es gehört auf das Chassis des Mech.
 
 ent-GygaxHarness = Gygax-Rumpf
@@ -40,7 +40,7 @@ ent-GygaxHarness = Gygax-Rumpf
 ent-GygaxHead = Gygax-Kopf
     .desc = Der Chef des Gygax. Es gehört zum Chassis des Mech.
 
-ent-GygaxLArm = Gygax-Linker Arm
+ent-GygaxLArm = Gygax-Linkerarm
     .desc = Der linke Arm des Gygax. Es gehört auf das Chassis des Mech.
 
 ent-GygaxLLeg = Gygax-Linkes Bein
@@ -49,5 +49,5 @@ ent-GygaxLLeg = Gygax-Linkes Bein
 ent-GygaxRLeg = Gygax-Rechtes Bein
     .desc = Das rechte Bein des Gygax. Es gehört auf das Chassis des Mech.
 
-ent-GygaxRArm = Gygax-Rechter Arm
+ent-GygaxRArm = Gygax-Rechterarm
     .desc = Der rechte Arm des Gygax. Es gehört auf das Chassis des Mech.

@@ -1,10 +1,10 @@
-ent-MobNukieMouse = Kernbetriebsmaus
+ent-MobNukieMouse = Nuke-Ops-Maus
     .desc = A Nuclear Operate... MOUSE?!
 
 ent-MobNukieSpider = kerntechnische Tarantel
     .desc = Eine Spinne? Ein NUKIE SPIDER?
 
-ent-MobNukieCarp = Kernbetriebskarpfen
+ent-MobNukieCarp = Nuke-Ops-Karpfen
     .desc = Ein blutroter Karp, der im Karpfen-zu-Karpfen-Kampf trainiert wird.
 
 ent-MobNukieBehonker = Nuklearer Behonker

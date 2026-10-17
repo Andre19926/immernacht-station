@@ -4,28 +4,28 @@ ent-MindRoleObserver = Rolle des Beobachters
 ent-MindRoleGhostRoleNeutral = Geisterrolle
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFamiliar = Ghost Role (Vertraute)
+ent-MindRoleGhostRoleFamiliar = Geisterrolle (Vertraute)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFreeAgent = Ghost Role (Freier Agent)
+ent-MindRoleGhostRoleFreeAgent = Geisterrolle (Freier Agent)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFreeAgentHarmless = Ghost Role (Freier Agent)
+ent-MindRoleGhostRoleFreeAgentHarmless = Geisterrolle (Freier Agent)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleSilicon = Ghost Role (Silikon)
+ent-MindRoleGhostRoleSilicon = Geisterrolle (Silikon)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleSiliconAntagonist = Ghost Role (Silicon Antagonist)
+ent-MindRoleGhostRoleSiliconAntagonist = Geisterrolle (Silicon Antagonist)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleSoloAntagonist = Ghost Role (Solo Antagonist)
+ent-MindRoleGhostRoleSoloAntagonist = Geisterrolle (Solo Antagonist)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleTeamAntagonist = Ghost Role (Teamantagonist)
+ent-MindRoleGhostRoleTeamAntagonist = Geisterrolle (Teamantagonist)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleTeamAntagonistFlock = Ghost Role (Teamantagonist)
+ent-MindRoleGhostRoleTeamAntagonistFlock = Geisterrolle (Teamantagonist)
     .desc = Mind Role Entität
 
 ent-MindRoleJob = Job Rolle

@@ -13,5 +13,5 @@ ent-PortalGatewayBlue = bluespace Portal
 ent-PortalGatewayOrange = bluespace Portal
     .desc = Transportiert dich zu einem verknüpften Ziel!
 
-ent-ShadowPortal = Schattenriß
+ent-ShadowPortal = Schattenriss
     .desc = Sieht instabil aus.

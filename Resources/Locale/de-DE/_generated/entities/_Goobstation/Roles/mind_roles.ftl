@@ -16,7 +16,7 @@ ent-MindRoleBrainwashed = Gehirngewaschene Rolle
 ent-MindRoleSlasher = Slasher Rolle
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleSentientAnimal = Ghost Role (SentientAnimal)
+ent-MindRoleGhostRoleSentientAnimal = Geisterrolle (SentientAnimal)
     .desc = Mind Role Entität
 
 ent-MindRoleContractor = Rolle des Auftragnehmers
@@ -31,16 +31,16 @@ ent-MindRoleGangMember = Rolle des Gangmitglieds
 ent-MindRoleGemini = Gemini Rolle
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleSoloAntagonistGoob = Ghost Role (Solo Antagonist)
+ent-MindRoleGhostRoleSoloAntagonistGoob = Geisterrolle (Solo Antagonist)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFreeAgentGoob = Ghost Role (Freier Agent)
+ent-MindRoleGhostRoleFreeAgentGoob = Geisterrolle (Freier Agent)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFreeAgentEngineeringGoob = Ghost Role (Freier Agent)
+ent-MindRoleGhostRoleFreeAgentEngineeringGoob = Geisterrolle (Freier Agent)
     .desc = Mind Role Entität
 
-ent-MindRoleGhostRoleFreeAgentSecurityGoob = Ghost Role (Freier Agent)
+ent-MindRoleGhostRoleFreeAgentSecurityGoob = Geisterrolle (Freier Agent)
     .desc = Mind Role Entität
 
 ent-MindRoleGhostRoleSoloAntagonistMimeGoob = Rolle des Antag Mind

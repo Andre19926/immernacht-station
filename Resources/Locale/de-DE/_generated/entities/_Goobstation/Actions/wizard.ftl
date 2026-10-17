@@ -70,7 +70,7 @@ ent-ActionTrapsSpell = Die Fallen!
 ent-ActionLesserSummonBees = Kleinere Beschwörerbienen
     .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
 
-ent-ActionSummonSimians = Summon Simians
+ent-ActionSummonSimians = Primaten beschwören
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
 ent-ActionGorillaForm = Gorillaform

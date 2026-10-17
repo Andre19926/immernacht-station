@@ -247,14 +247,14 @@ ent-ActionPolymorphWizardRodIV = Stabformblatt IV
 ent-ActionPolymorphWizardRodV = Stabformblatt V
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
-ent-ActionSummonSimiansII = Summon Simians II
+ent-ActionSummonSimiansII = Primaten beschwören II
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansIII = Summon Simians III
+ent-ActionSummonSimiansIII = Primaten beschwören III
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansIV = Summon Simians IV
+ent-ActionSummonSimiansIV = Primaten beschwören IV
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansV = Summon Simians V
+ent-ActionSummonSimiansV = Primaten beschwören V
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!

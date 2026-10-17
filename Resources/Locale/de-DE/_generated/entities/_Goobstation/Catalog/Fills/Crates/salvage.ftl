@@ -4,5 +4,5 @@ ent-CrateSalvageHardsuitLuxury = Luxus-Bergungs-Hardsuit-Kiste
 ent-CrateCrusherHammer = Brecher Hammerkiste
     .desc = Enthält einen Brecherhammer für die Verwendung durch Salvage.
 
-ent-CrateCrusherHalberd = Brecher-Halbbart
+ent-CrateCrusherHalberd = Brecher-Hellebardenkiste
     .desc = Enthält einen Brecher halberd für die Verwendung durch Salvage.

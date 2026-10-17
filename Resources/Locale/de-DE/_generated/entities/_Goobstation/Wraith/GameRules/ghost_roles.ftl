@@ -1,1 +1,1 @@
-ent-SpawnPointGhostWraith = Ghost Rolle Spawn Point
+ent-SpawnPointGhostWraith = Geisterrollen-Spawnpunkt

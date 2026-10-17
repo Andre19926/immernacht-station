@@ -85,7 +85,7 @@ ent-FoodSoupChiliHot = Schüssel mit heißem Chili
 ent-FoodSoupChiliCold = kaltes Chili
     .desc = Dieser Matsch ist kaum eine Flüssigkeit!
 
-ent-FoodSoupChiliClown = Chili con carneval
+ent-FoodSoupChiliClown = Chili con Carne
     .desc = Ein köstlicher Eintopf aus Fleisch, Chilis und salzigen, salzigen Clown-Tränen.
 
 ent-FoodSoupMonkey = Affenfreude

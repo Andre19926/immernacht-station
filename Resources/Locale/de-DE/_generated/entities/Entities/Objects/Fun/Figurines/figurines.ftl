@@ -109,7 +109,7 @@ ent-ToyFigurineFootsoldier = Syndicate Footsoldier Figur
 ent-ToyFigurineWizard = Zaubererfigur
     .desc = Eine Figur, die jemanden mit einem langen, seidigen Bart zeigt, der ein Zauberer-Outfit trägt. Warlocks wünschten, sie hätten etwas dazu.
 
-ent-ToyFigurineWizardFake = Fake Wizard Figur
+ent-ToyFigurineWizardFake = Falsche Zaubererfigur
     .desc = Eine Figur, die jemanden in einem gefälschten Zaubererkostüm zeigt. Was für eine Abzocke!
 
 ent-ToyFigurineGriffin = Greiffigur

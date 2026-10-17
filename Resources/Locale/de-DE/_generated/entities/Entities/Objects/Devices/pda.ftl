@@ -37,7 +37,7 @@ ent-ChaplainPDA = Kaplan PDA
 ent-VisitorChaplainPDA = Kaplan PDA
     .desc = Gottes gewählte PDA.
 
-ent-QuartermasterPDA = Quartermaster PDA
+ent-QuartermasterPDA = Quartiermeister-PDA
     .desc = PDA für den Kerl, der die Waffen bestellt.
 
 ent-CargoPDA = Fracht PDA
@@ -198,7 +198,7 @@ ent-SyndiAgentPDA = Syndicate Corpsman PDA
 ent-ChameleonPDA = Fluggast PDA
     .desc = Warum ist es nicht grau?
 
-ent-WizardPDA = Wizard PDA
+ent-WizardPDA = Zauberer-PDA
     .desc = Du hörst schwaches Flüstern, das von ihm kommt.
 
 ent-ScurretPDA = klarer PDA

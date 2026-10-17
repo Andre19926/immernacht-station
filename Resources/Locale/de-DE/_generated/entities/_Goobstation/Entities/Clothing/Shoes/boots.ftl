@@ -13,10 +13,10 @@ ent-ClothingShoesBootsMagEmergencyResponseTeam = taktische Antwort magboots
 ent-ClothingShoesBootsMagDeathsquad = Deathquad Magboots
     .desc = Der Klang dieser Stiefel ist ikonisch; der Klang des Terrors.
 
-ent-ClothingShoesRealJordans = Luftjordanien
+ent-ClothingShoesRealJordans = Air Jordans
     .desc = Hochmoderne, offizielle, knitterfreie Jordans, die dich vor dem Ausrutschen schützen, wenn sie eingeschaltet sind.
 
-ent-ClothingShoesFakeJordans = Luftjordanien
+ent-ClothingShoesFakeJordans = Air Jordans
     .desc = Bei näherer Betrachtung fühlt sich etwas darüber ab. Sind sie ... verkleinert? Nein, das kann es nicht sein. Warte, das Logo sieht ein wenig aus...
 
 ent-ClothingShoesCreasedJordans = Zerknitterte Air Jordans
@@ -25,7 +25,7 @@ ent-ClothingShoesCreasedJordans = Zerknitterte Air Jordans
 ent-ClothingShoesBootsJackAdvanced = fortgeschrittene Jackstiefel
     .desc = Dieses Paar Springerstiefel wurde für den Sicherheitschef entworfen. Niemand weiß, warum sie „fortgeschritten“ heißen, aber im Style sind sie auf jeden Fall weit voraus.
 
-ent-ClothingShoesRealJordansAutographed = Luftjordanien
+ent-ClothingShoesRealJordansAutographed = Air Jordans
     .desc = Das sind nicht irgendwelche Jordans, diese hat Michael Jordan höchstpersönlich signiert. Sie müssen ein Vermögen wert sein.
 
 ent-ClothingShoesBootsWinterSnowjackBso = Blueshield-Schneestiefel

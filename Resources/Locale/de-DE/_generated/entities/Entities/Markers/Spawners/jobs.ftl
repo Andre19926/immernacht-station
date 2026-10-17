@@ -4,7 +4,7 @@ ent-SpawnPointLatejoin = Spätbeitritts-Spawnpunkt
 
 ent-SpawnPointAnyJob = Jeder Job Spawn Point
 
-ent-SpawnPointQuartermaster = Quartiersmeister
+ent-SpawnPointQuartermaster = Quartiermeister
 
 ent-SpawnPointCargoTechnician = Frachttechniker
 

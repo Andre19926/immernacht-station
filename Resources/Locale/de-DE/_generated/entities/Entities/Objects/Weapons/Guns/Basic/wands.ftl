@@ -7,7 +7,7 @@ ent-WeaponWandPolymorphMonkey = Stab der Affenverwandlung
 ent-WeaponWandFireball = Zauberstab des Feuerballs
     .desc = Große große Feuerbälle!
 
-ent-WeaponWandLocker = Mitarbeiter des Spind
+ent-WeaponWandLocker = Stab des Spinds
     .desc = Ein Artefakt, das verkapselnde Bolzen ausstößt, um deinen Feind außer Gefecht zu setzen.
 
 ent-WeaponWandDeath = Zauberstab des sofortigen Todes

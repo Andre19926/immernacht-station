@@ -10,4 +10,4 @@ ent-MobHumanSyndicateAgentThief = Syndicate-Dieb
 
 ent-MobHumanSyndicateAgentNukeops = Syndicatagent
 
-ent-MobHumanNukeOp = Kernbetriebsmittel
+ent-MobHumanNukeOp = Nuke-Ops-Agent

@@ -26,4 +26,4 @@ ent-SpawnMobPenguin = Pinguine
 
 ent-SpawnMobReindeerBuck = Rentierbock-Spawner
 
-ent-SpawnMobReindeerDoe = reifen zurückzuführen halbefärbmelde großerieren
+ent-SpawnMobReindeerDoe = Rentierkuh-Spawner
