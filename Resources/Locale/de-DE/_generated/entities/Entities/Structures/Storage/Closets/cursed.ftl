@@ -1,2 +1,2 @@
 ent-ClosetCursed = Schrank
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

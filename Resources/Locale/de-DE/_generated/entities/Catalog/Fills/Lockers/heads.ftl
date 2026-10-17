@@ -1,41 +1,41 @@
 ent-LockerQuarterMasterFilled = Quartiermeisters Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerCaptainFilledNoLaser = Kapitänsspind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerCaptainFilled = Kapitänsspind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerCaptainFilledHardsuit = Kapitänsspind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfPersonnelFilled = Personalchef-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefEngineerFilled = Spind des Chefingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefEngineerFilledHardsuit = Spind des Chefingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefMedicalOfficerFilled = Chefarzt-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefMedicalOfficerFilledHardsuit = Chefarzt-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerResearchDirectorFilled = Spind des Forschungsdirektors
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerResearchDirectorFilledHardsuit = Spind des Forschungsdirektors
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfSecurityFilled = Sicherheitschef Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfSecurityFilledHardsuit = Sicherheitschef Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerFreezerVaultFilled = Gefriergeräte
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

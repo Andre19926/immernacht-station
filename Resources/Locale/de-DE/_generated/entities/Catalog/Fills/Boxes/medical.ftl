@@ -1,8 +1,8 @@
 ent-BoxSyringe = Spritzbox
-    .desc = Eine Schachtel voller Spritze.
+    .desc = Eine Schachtel voller Spritzen.
 
 ent-BoxPillCanister = Pillenkanisterbox
-    .desc = Eine Schachtel voller Pillenkanister.
+    .desc = Eine Schachtel voller Pillendosen.
 
 ent-BoxBottle = Flaschenkasten
     .desc = Eine Schachtel voller Flaschen.

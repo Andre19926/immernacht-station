@@ -17,28 +17,28 @@ ent-ClothingShoesHighheelBoots = hochhackige Stiefel
     .desc = Snazy Stiefel für, wenn du stilvoll sein willst, aber vorbereitet.
 
 ent-ClothingShoesBootsMerc = Söldnerstiefel
-    .desc = Stiefel, die viele Konflikte durchgemacht haben und ihre Kampfzuverlässigkeit bewiesen haben.
+    .desc = Stiefel, die viele Konflikte überstanden und ihre Kampfzuverlässigkeit bewiesen haben.
 
 ent-ClothingShoesBootsLaceup = Schnürschuhe
     .desc = Die Höhe der Mode, und sie sind vorpoliert!
 
 ent-ClothingShoesBootsWinter = Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterCargo = Fracht-Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterEngi = Technische Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterMed = Medizinische Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterSci = Wissenschaft Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterSec = Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsWinterSyndicate = Winterstiefel des Syndicate-S
     .desc = Langlebige schwere Stiefel, sieht aus wie Merch aus "Syndieland".

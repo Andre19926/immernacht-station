@@ -2,10 +2,10 @@ ent-PaperWrittenAMEScribbles = Papier
     .desc = Ein Stück weißes Papier.
 
 ent-HoloparasiteInfo = Holoparasit Bedingungen
-    .desc = Eine winzige volumetrische Anzeige für Dokumente lässt einen sich fragen, ob das gesetzliche Budget von Cybersun viel zu hoch ist.
+    .desc = Eine winzige volumetrische Dokumentenanzeige lässt einen fragen, ob Cybersuns gesetzliches Budget viel zu hoch ist.
 
 ent-PaperAgrichemManual = NT "AgriChem Is Fun" Handbuch
-    .desc = Das einzelne Blatt mit Anweisungen, die in das Kit kamen.
+    .desc = Das einzelne Anleitungsblatt, das dem Bausatz beilag.
 
 ent-PaperWrittenCombatBakeryKit = Kampf Bäckerei Kit Anweisungen
-    .desc = Iss Notiz nach dem Lesen.
+    .desc = Notiz nach dem Lesen aufessen.

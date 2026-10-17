@@ -1,5 +1,5 @@
 ent-CrateMaterialGlass = Glastafelkiste
-    .desc = 90 Glasplatten, mit Sorgfalt verpackt.
+    .desc = 90 Glasscheiben, sorgfältig verpackt.
 
 ent-CrateMaterialSteel = Stahlblechkasten
     .desc = 90 Stahlbleche.
@@ -11,16 +11,16 @@ ent-CrateMaterialPlastic = Kunststoffolie
     .desc = 90 Kunststoffplatten.
 
 ent-CrateMaterialWood = Holzkiste
-    .desc = Hüllen von Holzbrettern.
+    .desc = Stapel von Holzbrettern.
 
 ent-CrateMaterialBrass = Messingkiste
-    .desc = 90 Bleche Messing.
+    .desc = 90 Messingbleche.
 
 ent-CrateMaterialPlasteel = Plasteelkiste
     .desc = 30 Stück Plastik.
 
 ent-CrateMaterialPlasma = feste Plasmakiste
-    .desc = 30 Blätter Plasma.
+    .desc = 30 Plasmableche.
 
 ent-CrateMaterialGold = Goldkiste
     .desc = 30 Barren Gold.
@@ -38,7 +38,7 @@ ent-CrateMaterialRandom = Überschussmaterial
     .desc = Überschüssige Materialien von irgendwo.
 
 ent-CrateMaterialSilo = Material Silo Kiste
-    .desc = Ein Paket mit allen Materialien, um ein Materialsilo zu erstellen.
+    .desc = Ein Paket mit allen Materialien zum Bau eines Materialsilos.
 
 ent-CrateMaterialBasicResource = Grundplankiste
-    .desc = 30 Bleche aus Stahl, Glas und Kunststoff.
+    .desc = Je 30 Bleche aus Stahl, Glas und Kunststoff.

@@ -14,7 +14,7 @@ ent-ClothingBackpackDuffelCaptain = Kapitäns-Seesack
     .desc = Ein großer Duffelbeutel für zusätzliche Kapitänsgüter.
 
 ent-ClothingBackpackDuffelClown = Clown-Seesack
-    .desc = Ein großer Duffelbeutel für zusätzliche Honk-Waren.
+    .desc = Ein großer Seesack für zusätzliche Honk-Waren.
 
 ent-ClothingBackpackDuffelSecurity = Sicherheits-Seesack
     .desc = Ein großer Duffelbeutel für zusätzliche sicherheitsrelevante Waren.

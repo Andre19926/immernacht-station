@@ -1,2 +1,2 @@
 ent-Catwalk = Laufsteg
-    .desc = Ein Laufsteg für einfacheres EVA-Manövrieren und Kabelplatzieren.
+    .desc = Ein Laufsteg für leichteres EVA-Manövrieren und Kabelverlegen.

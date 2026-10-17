@@ -1,17 +1,17 @@
 ent-LockerMedicineFilled = Medizin Spind
-    .desc = Gefüllt bis zum Rand mit medizinischem Müll.
+    .desc = Bis zum Rand mit medizinischem Krempel gefüllt.
 
 ent-LockerWallMedicalFilled = Medizinwand Spind
-    .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
+    .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
 ent-LockerMedicalFilled = Spind des Arztes
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWallMedicalDoctorFilled = Wand des Arztes Spind
-    .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
+    .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
 ent-LockerChemistryFilled = Chemie-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerParamedicFilled = Sanitäter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

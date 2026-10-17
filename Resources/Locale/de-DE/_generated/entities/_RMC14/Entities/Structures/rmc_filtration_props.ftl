@@ -1,20 +1,20 @@
 ent-RMCFiltration = Wasserfiltersystem
-    .desc = Ein Wasserfilter, der sowohl organische als auch anorganische Stoffe, gefährliche Abfälle und korrosive Säuren aus Wasser trennt, so dass es weiterverarbeitet werden kann.
+    .desc = Ein Wasserfilter, der organische und anorganische Stoffe, gefährliche Abfälle und ätzende Säuren aus dem Wasser abtrennt, damit es weiterverarbeitet werden kann.
 
 ent-RMCFiltrationDisinfection = Desinfektionsfilter
-    .desc = Ein Wasserfilter, der speziell entwickelt wurde, um Mikroorganismen wie Viren und Bakterien vom Wasser zu trennen.
+    .desc = Ein Wasserfilter, der speziell dafür entwickelt wurde, Mikroorganismen wie Viren und Bakterien aus dem Wasser abzutrennen.
 
 ent-RMCFiltrationDistribution = Abfallverteilungssystem
-    .desc = Diese Maschine trennt die übrig gebliebenen Abfälle aus den Reinigungsprozessen, um in den Weltraum entsorgt, für Vorräte recycelt oder für die Forschung verwendet zu werden.
+    .desc = Diese Maschine trennt die Abfälle aus den Reinigungsprozessen ab, damit sie in den Weltraum entsorgt, zu Vorräten recycelt oder für die Forschung verwendet werden können.
 
 ent-RMCFiltrationDistributionDamaged = Abfallverteilungssystem
-    .desc = Diese Maschine trennt die übrig gebliebenen Abfälle aus den Reinigungsprozessen, um in den Weltraum entsorgt, für Vorräte recycelt oder für die Forschung verwendet zu werden.
+    .desc = Diese Maschine trennt die Abfälle aus den Reinigungsprozessen ab, damit sie in den Weltraum entsorgt, zu Vorräten recycelt oder für die Forschung verwendet werden können.
 
 ent-RMCFiltrationSedimentation = Sedimentationsfilter
-    .desc = Ein Wasserfilter, der speziell zum Einfangen und Entfernen von Sedimenten wie Sand, Schlamm, Schmutz und Rost aus dem Wasser entwickelt wurde, ohne die nahrhaften Mineralien für diesen klaren, sauberen Geschmack jedes Mal zu entfernen.
+    .desc = Ein Wasserfilter, der speziell dafür entwickelt wurde, Sedimente wie Sand, Schlamm, Schmutz und Rost aus dem Wasser zu entfernen, ohne die nahrhaften Mineralien für den klaren, sauberen Geschmack zu entfernen.
 
 ent-RMCFiltrationSedimentationAlt = Sedimentationsfilter
-    .desc = Ein Wasserfilter, der speziell zum Einfangen und Entfernen von Sedimenten wie Sand, Schlamm, Schmutz und Rost aus dem Wasser entwickelt wurde, ohne die nahrhaften Mineralien für diesen klaren, sauberen Geschmack jedes Mal zu entfernen.
+    .desc = Ein Wasserfilter, der speziell dafür entwickelt wurde, Sedimente wie Sand, Schlamm, Schmutz und Rost aus dem Wasser zu entfernen, ohne die nahrhaften Mineralien für den klaren, sauberen Geschmack zu entfernen.
 
 ent-RMCCoagulationArm = Koagulationsarm
-    .desc = Eine Axel mit vier Seiten, gemacht, um zu drehen, um zu helfen, das Wasser zu filtern.
+    .desc = Eine vierseitige Achse, die sich dreht und so beim Filtern des Wassers hilft.

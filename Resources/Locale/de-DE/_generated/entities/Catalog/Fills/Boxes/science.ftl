@@ -1,2 +1,2 @@
 ent-BoxBeaker = Becherglasbox
-    .desc = Eine Schachtel voller Becherglas.
+    .desc = Eine Schachtel voller Bechergläser.

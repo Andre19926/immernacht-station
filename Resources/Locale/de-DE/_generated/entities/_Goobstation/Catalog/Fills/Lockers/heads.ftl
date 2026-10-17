@@ -1,5 +1,5 @@
 ent-LockerNanorepFilled = Nanotrasen Vertreter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBlueshieldOfficerFilled = Blueshield-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

@@ -1,5 +1,5 @@
 ent-GunSafeLauncherNonLethal = Krawallwerfer sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerDetectiveFilledHardsuit = Detektivkabinett
-    .desc = Normalerweise kalt und leer ... wie dein Herz.
+    .desc = Normalerweise kalt und leer … wie dein Herz.

@@ -1,29 +1,29 @@
 ent-ClosetToolFilled = Werkzeugschrank
-    .desc = Es ist eine Speichereinheit für Werkzeuge.
+    .desc = Ein Schrank für Werkzeuge.
 
 ent-LockerElectricalSuppliesFilled = Stromversorgung Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWeldingSuppliesFilled = Schweißzubehör Spindel
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerAtmosphericsFilledHardsuit = Atmos-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerAtmosphericsFilled = Atmos-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerEngineerFilledHardsuit = Spind des Ingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerEngineerFilled = Spind des Ingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-ClosetRadiationSuitFilled = Strahlenanzug Schrank
-    .desc = Bequemer als Strahlungs-Poisioning.
+    .desc = Bequemer als eine Strahlenvergiftung.
 
 ent-LockerEvacRepairFilled = Notfall-Shuttle-Notfall Spind
-    .desc = Es sind Notfälle ganz nach unten.
+    .desc = Notfälle bis ganz nach unten.
 
 ent-LockerWallEvacRepairFilled = Notfall-Shuttle-Notwand
-    .desc = Es sind Notfälle ganz nach unten.
+    .desc = Notfälle bis ganz nach unten.

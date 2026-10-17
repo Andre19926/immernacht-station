@@ -5,7 +5,7 @@ ent-ClothingShoesBootsJackFilled = Jackstiefel
     .desc = Sicherheits-Kampfstiefel nach Nanotrasen-Standard für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.
 
 ent-ClothingShoesBootsWinterSecFilled = Winterstiefel
-    .desc = Fluffige Stiefel helfen, auch die kältesten Winter zu überleben.
+    .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
 ent-ClothingShoesBootsCowboyBlackFilled = Black Cowboy Stiefel
     .desc = Sie haben Sporen, die klimpern und/oder klingeln.
@@ -20,7 +20,7 @@ ent-ClothingShoesBootsCowboyFancyFilled = Schicke Cowboystiefel
     .desc = Sie haben Sporen, die klimpern und/oder klingeln.
 
 ent-ClothingShoesBootsMercFilled = Söldnerstiefel
-    .desc = Stiefel, die viele Konflikte durchgemacht haben und ihre Kampfzuverlässigkeit bewiesen haben.
+    .desc = Stiefel, die viele Konflikte überstanden und ihre Kampfzuverlässigkeit bewiesen haben.
 
 ent-ClothingShoesBootsSyndieFilled = Kampfstiefel
     .desc = Robuste Kampfstiefel für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.

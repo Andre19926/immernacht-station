@@ -1,41 +1,41 @@
 ent-LockerWardenFilledHardsuit = Warden-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWardenFilled = Warden-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerSecurityFilled = Spind des Sicherheitsbeamten
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBrigmedicFilled = Gefängnissanitäter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerDetectiveFilled = Detektivkabinett
-    .desc = Normalerweise kalt und leer ... wie dein Herz.
+    .desc = Normalerweise kalt und leer … wie dein Herz.
 
 ent-ClosetBombFilled = EOD-Schrank
-    .desc = Es ist ein Lager für Explosionsschutzanzüge.
+    .desc = Ein Schrank für Explosionsschutzanzüge.
 
 ent-GunSafeDisabler = Neutralisierer-Tresor
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafePistolMk58 = mk58 sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeRifleLecter = Lecter sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeSubMachineGunDrozd = Drozd sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeShotgunEnforcer = Vollstrecker sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeShotgunKammerer = Kammermann sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeSubMachineGunWt550 = wt550 sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeLaserCarbine = Laser sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

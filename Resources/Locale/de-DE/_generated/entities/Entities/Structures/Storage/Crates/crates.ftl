@@ -95,7 +95,7 @@ ent-CrateLockBoxService = Betriebssperre
     .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CratePirate = Piraterie
-    .desc = Eine Weltraumpiratenkiste, nicht für Stationslubber.
+    .desc = Eine Weltraumpiratenkiste, nichts für Stationslandratten.
 
 ent-CrateToyBox = Spielzeugbox
     .desc = Eine Kiste voller Spaß.

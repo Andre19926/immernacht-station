@@ -44,7 +44,7 @@ ent-BoxSurvivalSyndicateNitrogen = Überlebensbox mit erweiterter Kapazität
     .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalMilitaryDouble = Pappkarton
-    .desc = Es ist eine Box mit grundlegenden internen Strukturen. Dieser ist so gekennzeichnet, dass er einen zweifach erweiterten Tank enthält.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit zweifach erweitertem Tank gekennzeichnet.
 
 ent-BoxSurvivalMilitaryDoubleNitrogen = Pappkarton
-    .desc = Es ist eine Box mit grundlegenden internen Strukturen. Dieser ist so gekennzeichnet, dass er einen zweifach erweiterten Tank enthält.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit zweifach erweitertem Tank gekennzeichnet.

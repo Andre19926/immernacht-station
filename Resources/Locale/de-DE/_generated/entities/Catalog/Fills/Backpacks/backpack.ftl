@@ -1,2 +1,2 @@
 ent-ClothingBackpackSyndicateRaidBundle = Syndicat-Anzugsbündel
-    .desc = Enthält den langlebigen Raid-Rüstungsanzug des Syndicate-S.
+    .desc = Enthält den robusten Raid-Rüstungsanzug des Syndicate-S.

@@ -1,29 +1,29 @@
 ent-LockerSyndicatePersonalFilled = blutroter Spind
-    .desc = Es ist eine persönliche Lagereinheit für operative Ausrüstung.
+    .desc = Ein persönlicher Schrank für Einsatzausrüstung.
 
 ent-LockerSyndicateWallFilled = Blutrote Wand Spind
-    .desc = Es ist eine persönliche Lagereinheit für operative Ausrüstung.
+    .desc = Ein persönlicher Schrank für Einsatzausrüstung.
 
 ent-ClosetEmergencyFilledRandom = Notschrank
-    .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
+    .desc = Ein Schrank für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetWallEmergencyFilledRandom = Notwandschrank
-    .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
+    .desc = Ein Schrank für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetEmergencyN2FilledRandom = Notstickstoffschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
+    .desc = Er ist voller lebensrettender Ausrüstung – vorausgesetzt, du atmest Stickstoff.
 
 ent-ClosetWallEmergencyN2FilledRandom = Notstickstoff-Wandschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
+    .desc = Er ist voller lebensrettender Ausrüstung – vorausgesetzt, du atmest Stickstoff.
 
 ent-ClosetFireFilled = Brandschutzschrank
-    .desc = Es ist ein Lager für Feuerlöschmittel.
+    .desc = Ein Schrank für Brandschutzausrüstung.
 
 ent-ClosetWallFireFilledRandom = Brandschutzwandschrank
-    .desc = Es ist ein Lager für Feuerlöschmittel.
+    .desc = Ein Schrank für Brandschutzausrüstung.
 
 ent-ClosetMaintenanceFilledRandom = Wartungsschrank
-    .desc = Es ist ein Lager.
+    .desc = Ein Schrank.
 
 ent-ClosetWallMaintenanceFilledRandom = Wartung Wandschrank
-    .desc = Es ist ein Lager.
+    .desc = Ein Schrank.

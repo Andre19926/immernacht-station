@@ -1,8 +1,8 @@
 ent-RMCPlatformShivaRock = Eisgesteinskante
-    .desc = Ein solides Stück desolate Felsen und Eis. Sieht so aus, als könntest du es mit einigen Schwierigkeiten klettern.
+    .desc = Ein massives Stück öden Felsens und Eises. Mit etwas Mühe könntest du wohl hinaufklettern.
 
 ent-RMCPlatformShivaRockBroken = Zerstörter Eisfelsrand
-    .desc = Ein solides Stück desolate Felsen und Eis. Sieht so aus, als könntest du es mit einigen Schwierigkeiten klettern. Es wurde zerstört.
+    .desc = Ein massives Stück öden Felsens und Eises. Mit etwas Mühe könntest du wohl hinaufklettern. Es wurde zerstört.
 
 ent-RMCPlatformShivaRockCornerSmall = Eisbergecke
-    .desc = Ein solides Stück desolate Felsen und Eis.
+    .desc = Ein massives Stück öden Felsens und Eises.

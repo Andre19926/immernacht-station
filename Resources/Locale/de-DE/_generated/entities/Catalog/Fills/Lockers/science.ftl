@@ -1,2 +1,2 @@
 ent-LockerScienceFilled = Spind des Wissenschaftlers
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

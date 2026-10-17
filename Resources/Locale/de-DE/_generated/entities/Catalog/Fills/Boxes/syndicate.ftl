@@ -2,13 +2,13 @@ ent-ElectricalDisruptionKit = Elektrisches Störungs-Kit
     .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-ChemicalSynthesisKit = Chemische Synthesekits
-    .desc = Ein Starter-Kit für den aufstrebenden Chemiker enthält insbesondere eine chemische Nutzlast und einen Timer, eine Hyperzinspritze und zwei Vials Vestin für alle deine kriminellen Bedürfnisse!
+    .desc = Ein Starterset für aufstrebende Chemiker: enthält unter anderem eine chemische Nutzlast samt Timer, eine Hyperzin-Spritze und zwei Fläschchen Vestin für all deine kriminellen Bedürfnisse!
 
 ent-ThrowingKnivesKit = Wurfmessersatz
-    .desc = Ein Satz von 8 Syndicate-Werfmessern, perfekt für die Einbettung in den Körper deiner Opfer.
+    .desc = Ein Satz aus 8 Syndicate-Wurfmessern, perfekt zum Versenken im Körper deiner Opfer.
 
 ent-BoxDeathRattleImplants = Deathratter-Implantatbox
-    .desc = Sechs Deathrattle-Implantate für die gesamte Truppe.
+    .desc = Sechs Todesröcheln-Implantate für die gesamte Truppe.
 
 ent-CombatBakeryKit = Kampfbäckerei
-    .desc = Ein Kit mit heimlich gebackenen Waffen.
+    .desc = Ein Set heimlich gebackener Waffen.

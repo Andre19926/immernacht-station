@@ -5,16 +5,16 @@ ent-CrateSalvageAssortedGoodies = Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateCrusherDagger = Brecher Dolchkiste
-    .desc = Enthält 4 Brecher Dolche für die Verwendung durch die Bergungsabteilung.
+    .desc = Enthält 4 Brecher-Dolche für die Bergungsabteilung.
 
 ent-CrateSeismicCharge = seismischer Ladungskasten
-    .desc = Enthält 6 seismische Ladungen zur Verwendung durch die Bergungsabteilung.
+    .desc = Enthält 6 seismische Ladungen für die Bergungsabteilung.
 
 ent-CrateDoubleEmergencyTank = Doppelte Nottankkiste
     .desc = Enthält 2 doppelte Notfall-Sauerstofftanks, 2 doppelte Notfall-Stickstofftanks und 2 doppelte Notfall-Wasserdampftanks.
 
 ent-CrateCrusher = Brecherkiste
-    .desc = Enthält 2 Brecher zur Verwendung durch die Bergungsabteilung.
+    .desc = Enthält 2 Brecher für die Bergungsabteilung.
 
 ent-CrateFulton = Fultonkiste
     .desc = Enthält ein Fulton Beacon und 8 Fultons.

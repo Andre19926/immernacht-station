@@ -2,25 +2,25 @@ ent-CrateEngineeringAMEShielding = Verpackte Antimaterie-Reaktorkiste
     .desc = 9 Teile für den Grundkörper eines Antimateriereaktors oder zur Erweiterung eines bestehenden.
 
 ent-CrateEngineeringAMEJar = Antimaterie-Kiste
-    .desc = 3 Antimateriegläser zum Betreiben eines Antimateriereaktors.
+    .desc = 3 Antimaterie-Behälter zum Betrieb eines Antimateriereaktors.
 
 ent-CrateEngineeringAMEControl = Antimateriesteuergerät-Kiste
     .desc = Die Steuereinheit eines Antimateriereaktors.
 
 ent-CrateEngineeringSingularityEmitter = Emitterkiste
-    .desc = Ein Emitter, der am besten für Singularitätsmaschinen verwendet wird.
+    .desc = Ein Emitter, am besten geeignet für Singularitätsmaschinen.
 
 ent-CrateEngineeringSingularityCollector = Strahlungssammlerkiste
-    .desc = Ein Strahlungssammler, der am besten für Singularitätsmaschinen verwendet wird. Plasma ist enthalten.
+    .desc = Ein Strahlungssammler, am besten geeignet für Singularitätsmaschinen. Plasma ist enthalten.
 
 ent-CrateEngineeringSingularityContainment = Containment-Feldgenerator-Kiste
-    .desc = Ein Containment-Feldgenerator, hält das Singulo in der Unterwerfung.
+    .desc = Ein Containment-Feldgenerator, der das Singulo im Zaum hält.
 
 ent-CrateEngineeringSingularityGenerator = Singularitätsgeneratorkiste
-    .desc = Ein Singularitätsgenerator, die Mutter des Tieres.
+    .desc = Ein Singularitätsgenerator, die Mutter des Biests.
 
 ent-CrateEngineeringParticleAccelerator = PA-Platinenkiste
-    .desc = Komplex zu setup, aber lohnend wie ficken. Enthält Platinen für alle Partikelbeschleunigerkomponenten.
+    .desc = Aufwendig einzurichten, aber verdammt lohnend. Enthält Platinen für alle Partikelbeschleuniger-Komponenten.
 
 ent-CrateEngineeringGenerator = Generatorkiste
     .desc = Ein großer Container für Gegenstände.
@@ -29,13 +29,13 @@ ent-CrateEngineeringSolar = Solarmontagekasten
     .desc = Ein Bausatz mit Solar-Flatpacks und Glas zum Bau von zehn Solarpaneelen.
 
 ent-CrateEngineeringShuttle = Shuttle-Antriebskiste
-    .desc = Eine Kiste, die alle Bedürfnisse für Shuttle-Powering enthält.
+    .desc = Eine Kiste mit allem, was man für den Shuttle-Antrieb braucht.
 
 ent-CrateEngineeringTeslaGenerator = Tesla Generatorkiste
-    .desc = Ein Tesla Generator. Gott schütze dich.
+    .desc = Ein Tesla-Generator. Gott schütze dich.
 
 ent-CrateEngineeringTeslaCoil = Tesla-Spule (Fangspule)
     .desc = Eine Tesla-Spule. Zieht Blitze an und wandelt sie in Energie um.
 
 ent-CrateEngineeringTeslaGroundingRod = Felsgestein
-    .desc = Erdungsstab, am besten für Blitzschutz.
+    .desc = Erdungsstab, am besten für den Blitzschutz.

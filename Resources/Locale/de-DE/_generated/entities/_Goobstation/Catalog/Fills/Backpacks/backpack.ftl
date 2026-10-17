@@ -1,2 +1,2 @@
 ent-ClothingBackpackSyndicateFilledGrenadier = Syndicate-Rucksack
-    .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
+    .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.

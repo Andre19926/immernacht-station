@@ -1,5 +1,5 @@
 ent-ClothingBackpack = Rucksack
-    .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
+    .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
 ent-ClothingBackpackClown = Kichern von Honkerton
     .desc = Es ist ein Rucksack von Honk! Co.
@@ -77,7 +77,7 @@ ent-ClothingBackpackDeathSquad = Todesschwadron-Rucksack
     .desc = Hält das Kit der am meisten gefürchteten Agenten von CentComm.
 
 ent-ClothingBackpackSyndicate = Syndicate-Rucksack
-    .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
+    .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
 ent-ClothingBackpackHolding = Bluespace-Rucksack
     .desc = Ein Rucksack, der sich in eine lokalisierte Bluespace-Tasche öffnet.

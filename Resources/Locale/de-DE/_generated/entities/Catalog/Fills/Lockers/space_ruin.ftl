@@ -1,8 +1,8 @@
 ent-LockerOldAISat = Schrank
-    .desc = Es ist eine Lagereinheit mit einem blutroten Design.
+    .desc = Ein Schrank in blutrotem Design.
 
 ent-LockerSyndicateShipGearBasic = Blutroter Schrank
-    .desc = Es ist eine Lagereinheit mit einem blutroten Design.
+    .desc = Ein Schrank in blutrotem Design.
 
 ent-LockerSyndicateShipGearBasicChameleonKit = Blutroter Schrank
-    .desc = Es ist eine Lagereinheit mit einem blutroten Design.
+    .desc = Ein Schrank in blutrotem Design.

@@ -2,10 +2,10 @@ ent-LockerBooze = Alkohollagerung
     .desc = Hier hält der Barkeeper den Alkohol.
 
 ent-LockerSteel = Gesicherter Schrank
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerQuarterMaster = Quartiermeisters Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerSalvageSpecialist = Spind des Salvage-Spezialisten
     .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
@@ -14,76 +14,76 @@ ent-LockerShaftMiner = Wellenbergarbeiter-Spind
     .desc = Enthält nützliche Ausrüstung für die Erforschung des Planeten.
 
 ent-LockerCaptain = Kapitänsspind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfPersonnel = Personalchef-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefEngineer = Spind des Chefingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerElectricalSupplies = Stromversorgung Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWeldingSupplies = Schweißzubehör Spindel
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerAtmospherics = Atmos-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerEngineer = Spind des Ingenieurs
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerEvacRepair = Notfall-Shuttle-Notfall Spind
-    .desc = Es sind Notfälle ganz nach unten.
+    .desc = Notfälle bis ganz nach unten.
 
 ent-LockerFreezerBase = Gefriergeräte
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerFreezer = Gefriergeräte
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBotanist = Botanikers Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerMedicine = Medizin Spind
-    .desc = Gefüllt bis zum Rand mit medizinischem Müll.
+    .desc = Bis zum Rand mit medizinischem Krempel gefüllt.
 
 ent-LockerMedical = Spind des Arztes
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerParamedic = Sanitäter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChemistry = Chemie-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefMedicalOfficer = Chefarzt-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerResearchDirector = Spind des Forschungsdirektors
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerScientist = Spind des Wissenschaftlers
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfSecurity = Sicherheitschef Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWarden = Warden-Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBrigmedic = Gefängnissanitäter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerSecurity = Spind des Sicherheitsbeamten
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafe = Waffe sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeBaseSecure = Waffe sicher
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerPrisoner = Gefangenenschrank
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
@@ -110,7 +110,7 @@ ent-LockerPrisoner8 = Gefangenenschrank
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.
 
 ent-LockerDetective = Detektivkabinett
-    .desc = Normalerweise kalt und leer ... wie dein Herz.
+    .desc = Normalerweise kalt und leer … wie dein Herz.
 
 ent-LockerEvidence = Beweisspind
     .desc = Zur Aufbewahrung von Beuteln mit Geschosshülsen und Häftlingsgegenständen.
@@ -122,10 +122,10 @@ ent-LockerBluespaceStation = Bluespace Spind
     .desc = Fortschrittliche Spind-Technologie.
 
 ent-LockerClown = Clown Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerMime = Mime Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerRepresentative = Vertreter Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.

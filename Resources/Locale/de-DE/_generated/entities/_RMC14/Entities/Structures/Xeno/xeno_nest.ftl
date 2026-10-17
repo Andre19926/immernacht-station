@@ -1,2 +1,2 @@
 ent-XenoNest = außerirdisches Nest
-    .desc = Es ist ein grausamer Haufen dicken, klebrigen Harzes, geformt wie ein Nest.
+    .desc = Ein grausiger Haufen dicken, klebrigen Harzes in Form eines Nests.

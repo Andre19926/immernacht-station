@@ -5,10 +5,10 @@ ent-EmergencyPlasmaTankFilled = Plasmanottank
     .desc = Ein leicht tragbarer Notfalltank. Enthält sehr wenig Plasma, nur zum Überleben gedacht.
 
 ent-ExtendedEmergencyPlasmaTank = erweiterte Kapazität Notfallplasmatank
-    .desc = Ein Nottank mit erweiterter Kapazität. Technisch bewertet für längere Nutzung.
+    .desc = Ein Nottank mit erweiterter Kapazität, für längere Nutzung ausgelegt.
 
 ent-ExtendedEmergencyPlasmaTankFilled = erweiterte Kapazität Notfallplasmatank
-    .desc = Ein Nottank mit erweiterter Kapazität. Technisch bewertet für längere Nutzung.
+    .desc = Ein Nottank mit erweiterter Kapazität, für längere Nutzung ausgelegt.
 
 ent-DoubleEmergencyPlasmaTank = Plasmaeinbaubehälter
     .desc = Ein Plasmatank, als Atemgastank für Plasmamen entworfen.

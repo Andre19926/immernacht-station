@@ -2,19 +2,19 @@ ent-LockerBoozeFilled = Alkohollagerung
     .desc = Hier hält der Barkeeper den Alkohol.
 
 ent-ClosetChefFilled = Küchenschrank
-    .desc = Es ist eine Aufbewahrungseinheit für Foodservice-Kleidungsstücke und Mausfallen.
+    .desc = Ein Schrank für Gastronomiekleidung und Mausefallen.
 
 ent-ClosetJanitorFilled = Kleiderschrank
-    .desc = Es ist eine Aufbewahrungseinheit für Hausmeisterkleidung und -ausrüstung.
+    .desc = Ein Schrank für Hausmeisterkleidung und -ausrüstung.
 
 ent-ClosetLegalFilled = Rechtsschrank
-    .desc = Es ist eine Aufbewahrungseinheit für Gerichtsbekleidung und Gegenstände.
+    .desc = Ein Schrank für Gerichtskleidung und -gegenstände.
 
 ent-LockerBotanistFilled = Botanikers Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBotanistLoot = Botanikers Spind
-    .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
+    .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-ClosetJanitorBombFilled = Kleiderschrank für Bombenanzüge
-    .desc = Es ist eine Aufbewahrungseinheit für Explosionsschutzanzüge.
+    .desc = Ein Schrank für Explosionsschutzanzüge.

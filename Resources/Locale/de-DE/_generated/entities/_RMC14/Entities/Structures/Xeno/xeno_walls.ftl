@@ -1,11 +1,11 @@
 ent-WallXenoResin = Harzwand
-    .desc = Seltsamer Schleim verfestigte sich zu einer Wand.
+    .desc = Seltsamer Schleim hat sich zu einer Wand verfestigt.
 
 ent-WallXenoResinThick = dicke Harzwand
-    .desc = Seltsamer Schleim verfestigte sich zu einer dicken Wand.
+    .desc = Seltsamer Schleim hat sich zu einer dicken Wand verfestigt.
 
 ent-WallXenoMembrane = Harzmembran
-    .desc = Seltsamer Schleim durchsichtig genug, um Licht durchzulassen.
+    .desc = Seltsamer Schleim, gerade durchsichtig genug, um Licht durchzulassen.
 
 ent-WallXenoMembraneThick = dicke Harzmembran
-    .desc = Seltsam dick Schleim gerade durchsichtig genug, um Licht durchzulassen.
+    .desc = Seltsam dicker Schleim, gerade durchsichtig genug, um Licht durchzulassen.

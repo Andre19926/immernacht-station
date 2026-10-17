@@ -1,11 +1,11 @@
 ent-CrateNPCBee = Kiste der Bienen
-    .desc = Eine Kiste mit einem Schwarm von acht Bienen.
+    .desc = Eine Kiste mit einem Schwarm aus acht Bienen.
 
 ent-CrateNPCButterflies = Kiste von Schmetterlingen
     .desc = Eine Kiste mit fünf Schmetterlingen.
 
 ent-CrateNPCCat = Katzenbarsch
-    .desc = Eine Kiste mit einer einzigen Katze.
+    .desc = Eine Kiste mit einer einzelnen Katze.
 
 ent-CrateNPCChicken = Hühnerkiste
     .desc = Eine Kiste mit vier ausgewachsenen Hühnern.
@@ -17,13 +17,13 @@ ent-CrateNPCDuck = Kästchen
     .desc = Eine Kiste mit sechs ausgewachsenen Enten.
 
 ent-CrateNPCCorgi = Corgi-Kiste
-    .desc = Eine Kiste mit einem einzigen Corgi.
+    .desc = Eine Kiste mit einem einzelnen Corgi.
 
 ent-CrateNPCPuppyCorgi = Welpen Corgi Kiste
-    .desc = Eine Kiste mit einem einzigen Welpen-Corgi. Awww.
+    .desc = Eine Kiste mit einem einzelnen Corgi-Welpen. Awww.
 
 ent-CrateNPCCow = Kuhkiste
-    .desc = Eine Kiste mit einer einzigen Kuh.
+    .desc = Eine Kiste mit einer einzelnen Kuh.
 
 ent-CrateNPCGoat = Ziegenkiste
     .desc = Eine Kiste mit einer einzelnen Ziege.
@@ -32,13 +32,13 @@ ent-CrateNPCGoose = Gänsekiste
     .desc = Eine Kiste mit zwei Gänsen.
 
 ent-CrateNPCGorilla = Gorilla-Kiste
-    .desc = Eine Kiste mit einem einzigen Gorilla.
+    .desc = Eine Kiste mit einem einzelnen Gorilla.
 
 ent-CrateNPCMonkeyCube = Affenwürfelkiste
-    .desc = Eine Kiste mit einer einzelnen Schachtel Affenwürfeln.
+    .desc = Eine Kiste mit einer Schachtel Affenwürfel.
 
 ent-CrateNPCKoboldCube = Kobold Cube Kiste
-    .desc = Eine Kiste mit einer einzelnen Schachtel mit Koboldwürfeln.
+    .desc = Eine Kiste mit einer Schachtel Koboldwürfel.
 
 ent-CrateNPCMouse = Mäusekiste
     .desc = Eine Kiste mit fünf Mäusen.
@@ -50,7 +50,7 @@ ent-CrateNPCPenguin = Pinguinkiste
     .desc = Eine Kiste mit zwei Pinguinen.
 
 ent-CrateNPCPig = Schweinekiste
-    .desc = Eine Kiste mit einem einzigen Schwein.
+    .desc = Eine Kiste mit einem einzelnen Schwein.
 
 ent-CrateNPCSnake = Schlangenkiste
     .desc = Eine Kiste mit drei Schlangen.

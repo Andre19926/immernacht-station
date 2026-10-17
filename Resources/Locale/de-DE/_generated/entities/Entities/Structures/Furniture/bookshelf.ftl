@@ -1,2 +1,2 @@
 ent-Bookshelf = Bücherregal
-    .desc = Meist mit Büchern gefüllt.
+    .desc = Größtenteils mit Büchern gefüllt.

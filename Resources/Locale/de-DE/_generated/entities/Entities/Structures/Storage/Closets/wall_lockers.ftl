@@ -1,32 +1,32 @@
 ent-ClosetWall = Wartung Wandschrank
-    .desc = Es ist ein Lager.
+    .desc = Ein Schrank.
 
 ent-ClosetWallEmergency = Notwandschrank
-    .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
+    .desc = Ein Schrank für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetWallEmergencyN2 = Notstickstoff-Wandschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
+    .desc = Er ist voller lebensrettender Ausrüstung – vorausgesetzt, du atmest Stickstoff.
 
 ent-ClosetWallFire = Brandschutzwandschrank
-    .desc = Es ist ein Lager für Feuerlöschmittel.
+    .desc = Ein Schrank für Brandschutzausrüstung.
 
 ent-ClosetWallBlue = blauer Wandschrank
-    .desc = Eine Garderobe mit stilvoller blauer Kleidung.
+    .desc = Ein Kleiderschrank mit stilvoller blauer Kleidung.
 
 ent-ClosetWallPink = Rosa Wandschrank
-    .desc = Eine Garderobe mit fabelhafter rosa Kleidung.
+    .desc = Ein Kleiderschrank mit fabelhafter rosa Kleidung.
 
 ent-ClosetWallBlack = schwarzer Wandschrank
-    .desc = Eine Garderobe mit stilvoller schwarzer Kleidung.
+    .desc = Ein Kleiderschrank mit stilvoller schwarzer Kleidung.
 
 ent-ClosetWallGreen = grüner Wandschrank
     .desc = Ein Kleiderschrank voller stilvoller grüner Kleidung.
 
 ent-ClosetWallOrange = Gefängnismauerschrank
-    .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
+    .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
 ent-ClosetWallYellow = gelber Wandschrank
-    .desc = Eine Garderobe mit stilvoller gelber Kleidung.
+    .desc = Ein Kleiderschrank mit stilvoller gelber Kleidung.
 
 ent-ClosetWallWhite = Weißer Wandschrank
     .desc = Ein Kleiderschrank voller stilvoller weißer Kleidung.
@@ -35,16 +35,16 @@ ent-ClosetWallGrey = grauer Wandschrank
     .desc = Ein Kleiderschrank voller grauer Kleidung.
 
 ent-ClosetWallMixed = Mischwandschrank
-    .desc = Eine Garderobe mit einer Mischung aus farbenfroher Kleidung.
+    .desc = Ein Kleiderschrank mit bunt gemischter Kleidung.
 
 ent-ClosetWallAtmospherics = atmosphärischer Wandschrank
-    .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
+    .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
 ent-LockerWallMedical = Medizinische Wand Spind
-    .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
+    .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
 ent-LockerWallEvacRepair = Notfall-Shuttle-Notwand
-    .desc = Es sind Notfälle ganz nach unten.
+    .desc = Notfälle bis ganz nach unten.
 
 ent-LockerWallBasePrisoner = Wandschrank für Gefangene
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Zeit im Gefängnis.

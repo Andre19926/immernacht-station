@@ -20,61 +20,61 @@ ent-RMCPropVehicleCargoCraneDestroyed = Frachtkran
     .desc = Ein Kran zum Be- und Entladen von Fracht.
 
 ent-RMCPropVehicleCrawler = Colony Crawler
-    .desc = Ein kettengetriebener Crawler für raue Bedingungen. Geliefert von Orbital Blue International; „Deine Freunde im Luft- und Raumfahrtgeschäft.“ Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein kettengetriebener Raupenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCovered = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate2 = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate3 = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrateWY = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerFuel = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Ein Kettenfahrzeug für raue Bedingungen. Geliefert von Orbital Blue International – „Deine Freunde im Luft- und Raumfahrtgeschäft“. Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleTruck = LKW
-    .desc = Ein alter LKW scheint kaputt zu sein.
+    .desc = Ein alter LKW, anscheinend kaputt.
 
 ent-RMCPropVehicleTruckCargo = LKW
-    .desc = Ein alter Lastwagen scheint zerbrochen zu sein.
+    .desc = Ein alter Lastwagen, anscheinend kaputt.
 
 ent-RMCPropVehicleTruckMining = LKW
-    .desc = Ein alter Mining-Truck scheint kaputt zu sein.
+    .desc = Ein alter Bergbau-Truck, anscheinend kaputt.
 
 ent-RMCPropVehicleTruckBroken = LKW
-    .desc = Ein alter LKW scheint kaputt zu sein.
+    .desc = Ein alter LKW, anscheinend kaputt.
 
 ent-RMCPropVehicleTruckSnow = LKW
-    .desc = Ein alter LKW scheint kaputt zu sein.
+    .desc = Ein alter LKW, anscheinend kaputt.
 
 ent-RMCPropVehicleTruckCargoSnow = LKW
-    .desc = Ein alter Lastwagen scheint zerbrochen zu sein.
+    .desc = Ein alter Lastwagen, anscheinend kaputt.
 
 ent-RMCPropVehicleTractor = Traktor
-    .desc = Ein alter Traktor scheint zerbrochen zu sein.
+    .desc = Ein alter Traktor, anscheinend kaputt.
 
 ent-RMCPropVehicleTractorDamaged = Traktor
-    .desc = Ein alter Lastwagen scheint zerbrochen zu sein.
+    .desc = Ein alter Lastwagen, anscheinend kaputt.
 
 ent-RMCPropVehicleTractorSnow = Traktor
-    .desc = Ein alter Lastwagen scheint zerbrochen zu sein.
+    .desc = Ein alter Lastwagen, anscheinend kaputt.
 
 ent-RMCPropVehicleVan = Van
-    .desc = Ein alter Van, scheint zerbrochen zu sein.
+    .desc = Ein alter Van, anscheinend kaputt.
 
 ent-RMCPropVehicleVanDamaged = Van
-    .desc = Ein alter Van, scheint zerbrochen zu sein.
+    .desc = Ein alter Van, anscheinend kaputt.
 
 ent-RMCPropVehicleVanSnow = Van
-    .desc = Ein alter Van, scheint zerbrochen zu sein.
+    .desc = Ein alter Van, anscheinend kaputt.
 
 ent-RMCPropVehicleVanCandy = Van
-    .desc = Ein alter van, scheint gefüllt zu sein mit... Candy?
+    .desc = Ein alter Van, offenbar gefüllt mit … Süßigkeiten?

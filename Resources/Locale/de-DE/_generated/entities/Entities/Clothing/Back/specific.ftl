@@ -1,5 +1,5 @@
 ent-ClothingBackpackChameleon = Rucksack
-    .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
+    .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
 ent-ClothingBackpackWaterTank = Rucksack-Wassertank
     .desc = Fasst eine große Menge Flüssigkeit. Versorgt Sprühdüsen in deinen Händen und hat seitlich einen Steckplatz für diese Düsen.
