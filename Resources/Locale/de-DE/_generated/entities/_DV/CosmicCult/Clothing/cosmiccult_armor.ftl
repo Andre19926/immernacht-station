@@ -1,5 +1,5 @@
 ent-ClothingOuterHardsuitCosmicCult = entropische Panzerung
-    .desc = Ein beunruhigender Hardsuit, betäubend für die Berührung. Es pulsiert mit einem Leuchten, das dir das Gefühl gibt, etwas vergessen zu haben.
+    .desc = Ein beunruhigender Hardsuit, der sich taub anfühlt. Er pulsiert in einem Leuchten, das dir das Gefühl gibt, etwas vergessen zu haben.
 
 ent-ClothingHeadHelmetCosmicCult = entropische Kopfbedeckungen
-    .desc = Dieses Kopfstück scheint aus dem Hardsuit zu extrudieren, an dem es befestigt ist, als wäre das Material ein einziges, zusammenhängendes Ganzes.
+    .desc = Dieser Helm scheint aus dem Hardsuit zu wachsen, an dem er sitzt, als wäre das Material ein einziges, zusammenhängendes Ganzes.

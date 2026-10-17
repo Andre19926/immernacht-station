@@ -1,5 +1,5 @@
 ent-FoodSnackCoalCrunch = Kohlekrise
-    .desc = Crackerrunden aus raffinierter Kohle. Köstlich für Synths!
+    .desc = Runde Cracker aus raffinierter Kohle. Köstlich für Synths!
 
 ent-FoodPacketCoalCrunchTrash = Crunch Coating
     .desc = Das ist Unsinn.

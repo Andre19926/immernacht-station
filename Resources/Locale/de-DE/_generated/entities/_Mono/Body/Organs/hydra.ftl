@@ -10,4 +10,4 @@ ent-OrganHydrakinHeart = Hydrakinherz
     .desc = Der arme Kerl tut mir leid, der das verloren hat – ein herzloser Bastard.
 
 ent-OrganHydrakinLungs = Hydrakin-Lungen
-    .desc = Hydrakin-Lungen, die in der Lage sind, jedes Gas ohne negative Auswirkungen zu verarbeiten.
+    .desc = Hydrakin-Lungen, die jedes Gas ohne negative Auswirkungen verarbeiten können.

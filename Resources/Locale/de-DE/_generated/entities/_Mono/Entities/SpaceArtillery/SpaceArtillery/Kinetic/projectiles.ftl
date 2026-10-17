@@ -17,4 +17,4 @@ ent-ShipKargilProjectile = Kargil 203mm Projektil
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-ShipHadesProjectile = HADES 305mm Projektil
-    .desc = Ich fühle einen Urangst. Das Omen kommt für mich.
+    .desc = Ich spüre eine Urangst. Das Omen kommt für mich.

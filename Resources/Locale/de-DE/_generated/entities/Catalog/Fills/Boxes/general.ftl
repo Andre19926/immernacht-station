@@ -1,5 +1,5 @@
 ent-BoxCardboard = Karton
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-BoxCardboardSmall = Pappkarton
     .desc = Ein kleiner Karton zum Aufbewahren von Dingen.
@@ -41,7 +41,7 @@ ent-BoxMRE = M.R.E.
     .desc = Eine Schachtel mit jahrzehntelangen militärischen Überschussrationen. Es ist erstaunlicherweise nicht faul.
 
 ent-BoxHugHealing = Kiste mit Umarmungen
-    .desc = Eine spezielle Box für sensible Menschen.
+    .desc = Eine spezielle Kiste für empfindliche Leute.
 
 ent-BoxInflatable = aufblasbare Wandbox
     .desc = Aufblasbare Wände sind nicht als Schwimmvorrichtungen zu verwenden.

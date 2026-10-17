@@ -11,7 +11,7 @@ ent-Multitool = Multitool
     .desc = Ein fortschrittliches Werkzeug zum Kopieren, Speichern und Senden elektrischer Impulse und Signale durch Drähte und Maschinen.
 
 ent-NetworkConfigurator = Netzwerkkonfigurator
-    .desc = Ein Werkzeug zum Verbinden von Geräten. Hat zwei Modi, einen Listenmodus für Massenverknüpfungsgeräte und einen Verknüpfungsmodus für fortgeschrittene Geräteverknüpfungen.
+    .desc = Ein Werkzeug zum Verbinden von Geräten. Hat zwei Modi: einen Listenmodus für das Verknüpfen vieler Geräte und einen Verknüpfungsmodus für gezielte Verbindungen.
 
 ent-PowerDrill = Bohrmaschine
     .desc = Eine einfache angetriebene Handbohrmaschine.
@@ -26,7 +26,7 @@ ent-RCDEmpty = RCD
     .desc = Mit der Schnellbauvorrichtung können verschiedene Stationsstrukturen und Vorrichtungen schnell platziert und entfernt werden. Erfordert komprimierte Materie, um zu funktionieren.
 
 ent-RCDRecharging = Versuchs-RCD
-    .desc = Ein in Cyborgs eingebautes Schnellbaugerät, das komprimierte Materie im Betrieb mit einem internen Fabrikator herstellt.
+    .desc = Ein in Cyborgs eingebautes Schnellbaugerät, das mit einem internen Fabrikator im Betrieb komprimierte Materie herstellt.
 
 ent-RCDExperimental = Versuchs-RCD
     .desc = Eine blauraumverstärkte schnelle Konstruktionsvorrichtung, die passiv ihre eigene komprimierte Materie erzeugt.

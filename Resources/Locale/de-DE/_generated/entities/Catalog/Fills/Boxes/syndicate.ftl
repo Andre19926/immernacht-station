@@ -1,5 +1,5 @@
 ent-ElectricalDisruptionKit = Elektrisches Störungs-Kit
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-ChemicalSynthesisKit = Chemische Synthesekits
     .desc = Ein Starter-Kit für den aufstrebenden Chemiker enthält insbesondere eine chemische Nutzlast und einen Timer, eine Hyperzinspritze und zwei Vials Vestin für alle deine kriminellen Bedürfnisse!

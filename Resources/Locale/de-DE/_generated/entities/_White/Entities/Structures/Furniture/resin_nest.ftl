@@ -1,2 +1,2 @@
 ent-ResinNest = Harznest
-    .desc = Schleimige und klebrige Masse, die ein Bett darstellt?
+    .desc = Schleimige, klebrige Masse, die ein Bett darstellen soll?

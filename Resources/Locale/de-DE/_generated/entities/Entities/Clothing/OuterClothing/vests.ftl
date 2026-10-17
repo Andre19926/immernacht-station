@@ -14,7 +14,7 @@ ent-ClothingOuterVestHazard = Hi-Vis-Weste
     .desc = Eine Warnweste, die in Arbeitszonen verwendet wird.
 
 ent-ClothingOuterVest = Westen
-    .desc = Eine dicke Weste mit einer gummiartigen, wasserfesten Schale.
+    .desc = Eine dicke Weste mit gummiartiger, wasserfester Hülle.
 
 ent-ClothingOuterVestTank = Tankgurt
     .desc = Ein einfaches Geschirr, das einen Gastank halten kann.

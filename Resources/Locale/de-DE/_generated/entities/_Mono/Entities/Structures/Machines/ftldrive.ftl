@@ -1,11 +1,11 @@
 ent-MachineFTLDrive = Bluespace-Antrieb FSS-512
-    .desc = Low-Power Bluespace FTL-Motor, der den FTL-Radius erhöht.
+    .desc = Schwacher Bluespace-FTL-Antrieb, der den FTL-Radius erhöht.
 
 ent-MachineFTLDriveHigh = CTLA-2048 Bluespace Antrieb
-    .desc = Hochleistungs-Bluespace-FTL-Motor, der den FTL-Radius drastisch erweitert. Hat eine hohe Abklingzeit.
+    .desc = Leistungsstarker Bluespace-FTL-Antrieb, der den FTL-Radius drastisch erweitert. Hat eine lange Abklingzeit.
 
 ent-MachineFTLDriveAutomated = CTLA-2048 Bluespace Antrieb
-    .desc = FTL Drive for Fixed Route Transport, hat eine kurze Abklingzeit auf Kosten nur für Nanotrasens vorgefertigte Transportrouten
+    .desc = FTL-Antrieb für Festrouten-Transport. Kurze Abklingzeit, dafür nur für die vorgefertigten Transportrouten von Nanotrasen.
 
 ent-MachineFTLDriveDebug = Debug-Bluespace-Laufwerk
-    .desc = Super-Duper Kool Drive, nur zum Testen!
+    .desc = Super-Duper-Kool-Antrieb, nur zum Testen!

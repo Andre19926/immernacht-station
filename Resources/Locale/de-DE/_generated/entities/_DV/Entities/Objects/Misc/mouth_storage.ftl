@@ -1,2 +1,2 @@
 ent-CheekStorage = Backenlagerung
-    .desc = Die Wangen eines Tieres, in der Lage, kleine Objekte zu speichern.
+    .desc = Die Wangen eines Tieres, in denen sich kleine Gegenstände verstauen lassen.

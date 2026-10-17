@@ -1,5 +1,5 @@
 ent-RadioJammer = Funkstörsender
-    .desc = Dieses Gerät stört jede nahe gelegene ausgehende Funkkommunikation sowie Anzugsensoren, wenn es aktiviert wird.
+    .desc = Dieses Gerät stört bei Aktivierung jeden ausgehenden Funkverkehr in der Nähe sowie Anzugsensoren.
 
 ent-XenoborgRadioJammer = Xenoborg Radio Störsender
-    .desc = Dieses Gerät stört jede nahe gelegene ausgehende Funkkommunikation sowie Anzugsensoren, wenn es aktiviert wird.
+    .desc = Dieses Gerät stört bei Aktivierung jeden ausgehenden Funkverkehr in der Nähe sowie Anzugsensoren.

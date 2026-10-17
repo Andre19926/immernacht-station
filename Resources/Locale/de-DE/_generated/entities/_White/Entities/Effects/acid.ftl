@@ -1,2 +1,2 @@
 ent-XenomorphAcid = korrosive Säure
-    .desc = Zerplatzen von korrosivem Material. Ich möchte es nicht anfassen.
+    .desc = Zerplatztes ätzendes Material. Ich möchte es nicht anfassen.

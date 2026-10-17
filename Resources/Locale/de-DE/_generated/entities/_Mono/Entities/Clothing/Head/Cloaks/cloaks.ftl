@@ -1,2 +1,2 @@
 ent-ClothingHeadHatCOG = Altes Gewand
-    .desc = Ein uralter karminroter Drapier aus einem inzwischen verstorbenen Kult.
+    .desc = Ein uralter karminroter Behang aus einem inzwischen untergegangenen Kult.

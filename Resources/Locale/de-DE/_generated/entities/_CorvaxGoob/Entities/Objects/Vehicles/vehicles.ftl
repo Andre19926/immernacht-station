@@ -1,2 +1,2 @@
 ent-VehicleSkeletonMotorcycle = Skelettmotorräder
-    .desc = Schlecht für den Knochen.
+    .desc = Schlecht für die Knochen.

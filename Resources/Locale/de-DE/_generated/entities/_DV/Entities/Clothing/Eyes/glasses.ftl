@@ -1,2 +1,2 @@
 ent-ClothingEyesGlassesGarMeson = Gar-Mesonen
-    .desc = Mach das Unmögliche, sieh das Unsichtbare!
+    .desc = Vollbringe das Unmögliche, sieh das Unsichtbare!

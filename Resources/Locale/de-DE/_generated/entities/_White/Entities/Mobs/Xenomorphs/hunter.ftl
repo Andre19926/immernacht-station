@@ -1,5 +1,5 @@
 ent-MobXenomorphHunter = Xenomorph-Jäger
-    .desc = Eine spezialisierte Person, ein ausgezeichnetes Raubtier, geschaffen, um Ziele aufzuspüren und zu zerstören. Extrem gefährlich im Nahkampf.
+    .desc = Ein Spezialist, ein hervorragendes Raubtier, geschaffen, um Ziele aufzuspüren und zu vernichten. Im Nahkampf extrem gefährlich.
 
 ent-MobXenomorphHunterDungeon = Xenomorph-Jäger
-    .desc = Eine spezialisierte Person, ein ausgezeichnetes Raubtier, geschaffen, um Ziele aufzuspüren und zu zerstören. Extrem gefährlich im Nahkampf.
+    .desc = Ein Spezialist, ein hervorragendes Raubtier, geschaffen, um Ziele aufzuspüren und zu vernichten. Im Nahkampf extrem gefährlich.

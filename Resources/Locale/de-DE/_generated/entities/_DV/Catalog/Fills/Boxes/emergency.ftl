@@ -1,20 +1,20 @@
 ent-BoxSurvivalWaterVapor = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalEngineeringWaterVapor = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalSecurityWaterVapor = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalMedicalWaterVapor = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxHugWaterVapor = Kiste mit Umarmungen
-    .desc = Eine spezielle Box für sensible Menschen.
+    .desc = Eine spezielle Kiste für empfindliche Leute.
 
 ent-BoxMimeWaterVapor = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSyndicateWaterVapor = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.

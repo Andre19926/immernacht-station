@@ -11,4 +11,4 @@ ent-DefibrillatorCompact = Kompaktdefibrillator
     .desc = Jetzt in lustiger Größe!
 
 ent-DefibrillatorSyndicate = Interdyn-Defibrillator
-    .desc = Doppelt als Selbstverteidigungswaffe gegen Kriegsverbrechen geneigt Gezeiten.
+    .desc = Dient nebenbei als Selbstverteidigungswaffe gegen Kriegsverbrechen.

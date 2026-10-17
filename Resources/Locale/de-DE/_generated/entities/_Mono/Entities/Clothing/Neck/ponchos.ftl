@@ -1,23 +1,23 @@
 ent-ClothingNeckPonchoBlack = Schwarzer Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Die Wahrheit ist, dass es juckt, stickig und ein wenig baggy - aber zumindest ist es nicht kalt. Dieser ist schwarz.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. In Wahrheit ist er kratzig, stickig und ein wenig schlabbrig – aber wenigstens ist einem nicht kalt. Dieser ist schwarz.
 
 ent-ClothingNeckPonchoArctic = Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Die Wahrheit ist, dass es juckt, stickig und ein wenig baggy - aber zumindest ist es nicht kalt.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. In Wahrheit ist er kratzig, stickig und ein wenig schlabbrig – aber wenigstens ist einem nicht kalt.
 
 ent-ClothingNeckPonchoSyndicate = Schwarz-roter Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Die Wahrheit ist, dass es juckt, stickig und ein wenig baggy - aber zumindest ist es nicht kalt. Dieser scheint vage unheimlich...
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. In Wahrheit ist er kratzig, stickig und ein wenig schlabbrig – aber wenigstens ist einem nicht kalt. Dieser wirkt auf vage Weise unheimlich …
 
 ent-ClothingNeckPonchoSmallPink = Kleiner rosa Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des elementaren Schutzes. Diese stilvolle Wiedergabe kommt in einer kleineren Größe. Dieser ist rosa und weiß.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. Diese stilvolle Ausführung gibt es in kleinerer Größe. Dieser ist rosa und weiß.
 
 ent-ClothingNeckPonchoSmallRed = Kleiner roter Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Diese stilvolle Wiedergabe kommt in einer kleineren Größe mit einem niedlicheren Design. Dieser ist rot und schwarz.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. Diese stilvolle Ausführung gibt es in kleinerer Größe und mit niedlicherem Design. Dieser ist rot und schwarz.
 
 ent-ClothingNeckPonchoSmallPurple = Kleiner lila Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Diese stilvolle Wiedergabe kommt in einer kleineren Größe mit einem niedlicheren Design. Dieser ist lila mit einem Fischaufkleber.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. Diese stilvolle Ausführung gibt es in kleinerer Größe und mit niedlicherem Design. Dieser ist lila mit einem Fisch-Aufkleber.
 
 ent-ClothingNeckPonchoSmallBlack = Kleiner schwarzer Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Diese Wiedergabe kommt in einer kleineren Größe. Dieser ist schwarz.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. Diese Ausführung gibt es in kleinerer Größe. Dieser ist schwarz.
 
 ent-ClothingNeckPonchoSmallWhite = Kleiner weißer Kaltwetterponcho
-    .desc = Der Kaltwetterponcho, beworben als ein Meisterwerk des elementaren Schutzes. Diese Wiedergabe kommt in einer kleineren Größe.
+    .desc = Der Kaltwetterponcho, beworben als Meisterwerk des Wetterschutzes. Diese Ausführung gibt es in kleinerer Größe.

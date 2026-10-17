@@ -1,2 +1,2 @@
 ent-MobSupermatterCrab = Erzkrabben
-    .desc = Eine Erzkrabbe aus Supermatter.
+    .desc = Eine Erzkrabbe aus Supermaterie.

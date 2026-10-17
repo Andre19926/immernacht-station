@@ -1,5 +1,5 @@
 ent-MobCosmicGodSpawn = Das Unbekannte
-    .desc = Dein Verstand beginnt zu brechen und zu brechen, da er nicht versteht, was vor dir auftaucht.
+    .desc = Dein Verstand beginnt zu zerbrechen, weil er nicht begreift, was da vor dir auftaucht.
 
 ent-MobCosmicGod = Das Unbekannte
-    .desc = Dein Verstand beginnt zu brechen und zu brechen, da er nicht versteht, was vor dir auftaucht.
+    .desc = Dein Verstand beginnt zu zerbrechen, weil er nicht begreift, was da vor dir auftaucht.

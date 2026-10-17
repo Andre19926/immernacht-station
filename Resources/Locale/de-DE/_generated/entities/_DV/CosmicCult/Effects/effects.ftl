@@ -1,2 +1,2 @@
 ent-CosmicEchoVfx = Bösartiges Echo
-    .desc = Eine Spur von bösartigem Licht..
+    .desc = Eine Spur bösartigen Lichts.

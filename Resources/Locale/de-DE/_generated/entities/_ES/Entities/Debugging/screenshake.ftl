@@ -1,2 +1,2 @@
 ent-ESDebugScreenshake = Screenshake Debug Doohickey
-    .desc = Ohhh mein Kopf horts
+    .desc = Ohhh, mein Kopf tut weh.

@@ -2,7 +2,7 @@ ent-ClothingShoesColorBlack = schwarze Schuhe
     .desc = Stilvolle schwarze Schuhe.
 
 ent-ClothingShoesColorWhite = weiße Schuhe
-    .desc = Nimm sie nicht bei deiner Weihnachtsfeier im Büro ab.
+    .desc = Zieh sie bei der Weihnachtsfeier im Büro lieber nicht aus.
 
 ent-ClothingShoesColorBlue = blaue Schuhe
     .desc = Stilvolle blaue Schuhe.

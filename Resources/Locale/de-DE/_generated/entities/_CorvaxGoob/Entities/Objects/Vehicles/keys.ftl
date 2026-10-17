@@ -1,2 +1,2 @@
 ent-VehicleKeySkeletonMotorcycle = Skelett-Motorradschlüssel
-    .desc = Eine schöne Reihe von Schlüsseln mit einem Schädel geschmückt.
+    .desc = Ein schöner Schlüsselbund, mit einem Totenkopf verziert.

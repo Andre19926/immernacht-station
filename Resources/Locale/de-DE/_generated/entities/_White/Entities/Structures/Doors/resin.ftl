@@ -1,2 +1,2 @@
 ent-ResinDoor = Harztür
-    .desc = Dickharz verfestigte sich zu einer Tür.
+    .desc = Dickes Harz hat sich zu einer Tür verfestigt.

@@ -1,5 +1,5 @@
 ent-MobXenomorphDrone = Xenomorph-Drohne
-    .desc = Eine spezialisierte Person, die entworfen wurde, um einen Bienenstock zu bauen und zu pflegen. Weniger aggressiv als andere Xenomorph-Formen, aber immer noch tödlich, wenn man sich nähert.
+    .desc = Ein Spezialist für Bau und Pflege des Bienenstocks. Weniger aggressiv als andere Xenomorph-Formen, aber dennoch tödlich, wenn man ihm zu nahe kommt.
 
 ent-MobXenomorphDroneDungeon = Xenomorph-Drohne
-    .desc = Eine spezialisierte Person, die entworfen wurde, um einen Bienenstock zu bauen und zu pflegen. Weniger aggressiv als andere Xenomorph-Formen, aber immer noch tödlich, wenn man sich nähert.
+    .desc = Ein Spezialist für Bau und Pflege des Bienenstocks. Weniger aggressiv als andere Xenomorph-Formen, aber dennoch tödlich, wenn man ihm zu nahe kommt.

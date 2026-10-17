@@ -8,4 +8,4 @@ ent-AdvMimeryVol2 = Leitfaden für Advanced Mimery Vol 2
     .desc = Es sind keine Worte geschrieben...
 
 ent-BoxAdvMimery = Leitfaden für Advanced Mimery Series Box
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.

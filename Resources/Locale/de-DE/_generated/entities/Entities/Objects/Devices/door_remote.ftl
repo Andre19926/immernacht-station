@@ -2,7 +2,7 @@ ent-DoorRemoteCommand = Türfernbedienung (Führung)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
 ent-DoorRemoteCustom = benutzerdefinierte Türfernbedienung
-    .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann. Diese erweiterte Variante hat keinen eingebauten Zugriff, sondern erbt den ID-Zugriff des Benutzers.
+    .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann. Diese erweiterte Variante hat keinen eingebauten Zugriff, sondern übernimmt den ID-Zugriff des Benutzers.
 
 ent-DoorRemoteSecurity = Türfernbedienung (Sicherheit)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.

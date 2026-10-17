@@ -1,2 +1,2 @@
 ent-BoxTapeRecorder = Tonbandgerät
-    .desc = Eine Box mit bunten Kassetten und einem Tonbandgerät.
+    .desc = Eine Kiste mit bunten Kassetten und einem Tonbandgerät.

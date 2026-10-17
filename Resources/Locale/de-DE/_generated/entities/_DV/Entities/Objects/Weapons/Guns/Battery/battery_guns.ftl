@@ -1,2 +1,2 @@
 ent-WeaponEnergyGunMultiphase = X-01 Multiphase
-    .desc = Dies ist eine teure, moderne Nachbildung der antiken Laserpistole. Diese Waffe hat mehrere einzigartige Feuermodi, aber es fehlt die Fähigkeit, sich im Laufe der Zeit aufzuladen.
+    .desc = Dies ist eine teure, moderne Nachbildung der antiken Laserpistole. Sie hat mehrere einzigartige Feuermodi, kann sich aber nicht mit der Zeit aufladen.

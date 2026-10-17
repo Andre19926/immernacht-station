@@ -1,2 +1,2 @@
 ent-ActionDronePlayMidi = Spielen MIDI
-    .desc = Trage zum Ambiente bei.
+    .desc = Sorge für Ambiente.

@@ -14,7 +14,7 @@ ent-XenoArtifactWandering = Einmaleffekt
     .desc = Beginnt sich sporadisch zu bewegen
 
 ent-XenoArtifactSolutionStorage = Einmaleffekt
-    .desc = Bekommt die Fähigkeit des Behälters für chemische Lösungen
+    .desc = Erlangt die Fähigkeit eines Behälters für chemische Lösungen
 
 ent-XenoArtifactSpeedUp = Einmaleffekt
     .desc = Verbessert die Bewegungsgeschwindigkeit des Halters
@@ -32,13 +32,13 @@ ent-XenoArtifactGhost = Einmaleffekt
     .desc = Wird empfindungsfähig
 
 ent-XenoArtifactOmnitool = Einmaleffekt
-    .desc = Bekommt die Fähigkeit von Omnitool
+    .desc = Erlangt die Fähigkeit eines Omnitools
 
 ent-XenoArtifactEffectBadFeeling = Wirkung
     .desc = Sendet unterschwellige Nachricht
 
 ent-XenoArtifactEffectGoodFeeling = Wirkung
-    .desc = Sendungen sublime Nachricht
+    .desc = Sendet unterschwellige Nachricht
 
 ent-XenoArtifactEffectJunkSpawn = Wirkung
     .desc = Recyclebarer Müll
@@ -50,10 +50,10 @@ ent-XenoArtifactPotassiumWave = Wirkung
     .desc = Produziert Kalium
 
 ent-XenoArtifactFloraSpawn = Wirkung
-    .desc = Pflanzen erzeugen
+    .desc = Erzeugt Pflanzen
 
 ent-XenoArtifactChemicalPuddle = Wirkung
-    .desc = Produziert Pfütze der chemischen Mischung
+    .desc = Erzeugt eine Pfütze chemischer Mischung
 
 ent-XenoArtifactThrowThingsAround = Wirkung
     .desc = Kleine Implosion
@@ -86,7 +86,7 @@ ent-XenoArtifactMagnet = Einmaleffekt
     .desc = Erzeugt kleinen Gravitationsbrunnen
 
 ent-XenoArtifactMagnetNegative = Einmaleffekt
-    .desc = Erstelle kleine Schwerkraft gut
+    .desc = Erzeugt kleinen Gravitationsbrunnen
 
 ent-XenoArtifactStealth = Einmaleffekt
     .desc = Erzeugt Lichtinterferenzen
@@ -95,31 +95,31 @@ ent-XenoArtifactRareMaterialSpawn = Wirkung
     .desc = Erzeugt seltene Materialien
 
 ent-XenoArtifactRareMaterialSpawnSilver = Wirkung
-    .desc = Seltene Materialien schaffen
+    .desc = Erzeugt seltene Materialien
 
 ent-XenoArtifactRareMaterialSpawnPlasma = Wirkung
-    .desc = Plasma erzeugen
+    .desc = Erzeugt Plasma
 
 ent-XenoArtifactRareMaterialSpawnGold = Wirkung
-    .desc = Gold schaffen
+    .desc = Erzeugt Gold
 
 ent-XenoArtifactRareMaterialSpawnUranium = Wirkung
-    .desc = Uran erzeugen
+    .desc = Erzeugt Uran
 
 ent-XenoArtifactAngryCarpSpawn = Wirkung
     .desc = Erzeugt feindliche Karpfen
 
 ent-XenoArtifactFaunaSpawn = Wirkung
-    .desc = Erstelle eine freundliche Fauna
+    .desc = Erzeugt freundliche Fauna
 
 ent-XenoArtifactHostileFaunaSpawn = Wirkung
     .desc = Erzeugt feindliche Fauna
 
 ent-XenoArtifactCashSpawn = Wirkung
-    .desc = Geld schaffen
+    .desc = Erzeugt Geld
 
 ent-XenoArtifactShatterWindows = Wirkung
-    .desc = Bruchfenster
+    .desc = Zerbricht Fenster
 
 ent-XenoArtifactFoamGood = Wirkung
     .desc = Erzeugt eine Welle von hilfreichem Schaum
@@ -128,7 +128,7 @@ ent-XenoArtifactFoamDangerous = Wirkung
     .desc = Erzeugt eine Welle von schädlichem Schaum
 
 ent-XenoArtifactPuddleRare = Wirkung
-    .desc = Erstellt Pfütze von hilfreichen Chemikalien
+    .desc = Erzeugt eine Pfütze hilfreicher Chemikalien
 
 ent-XenoArtifactAnomalySpawn = Einmaleffekt
     .desc = Erzeugt Anomalien
@@ -142,34 +142,34 @@ ent-XenoArtifactEmp = Wirkung
     .desc = Gefährliche elektromagnetische Störungen
 
 ent-XenoArtifactPolyMonkey = Wirkung
-    .desc = Fleisch vorübergehend in Pelz umformen
+    .desc = Verwandelt Fleisch vorübergehend in Fell
 
 ent-XenoArtifactPolyLizard = Wirkung
-    .desc = Vorübergehend das Fleisch in den Maßstab umformen
+    .desc = Verwandelt Fleisch vorübergehend in Schuppen
 
 ent-XenoArtifactPolyLuminous = Wirkung
-    .desc = Fleisch vorübergehend zu Licht umformen
+    .desc = Verwandelt Fleisch vorübergehend in Licht
 
 ent-XenoArtifactRadioactiveStrong = Einmaleffekt
     .desc = Wird stark radioaktiv
 
 ent-XenoArtifactMaterialSpawnGlass = Wirkung
-    .desc = Glas erzeugen
+    .desc = Erzeugt Glas
 
 ent-XenoArtifactMaterialSpawnSteel = Wirkung
-    .desc = Stahl erzeugen
+    .desc = Erzeugt Stahl
 
 ent-XenoArtifactMaterialSpawnPlastic = Wirkung
-    .desc = Plastik schaffen
+    .desc = Erzeugt Plastik
 
 ent-XenoArtifactPortal = Wirkung
     .desc = Erzeugt kurzlebiges Bluespace-Portal
 
 ent-XenoArtifactArtifactSpawn = Wirkung
-    .desc = Artefakt erstellen
+    .desc = Erzeugt ein Artefakt
 
 ent-XenoArtifactShuffle = Wirkung
-    .desc = Orte von fühlenden Wesen wechseln
+    .desc = Lässt fühlende Wesen die Plätze tauschen
 
 ent-XenoArtifactHealAll = Wirkung
     .desc = Wunderheilung
@@ -186,16 +186,16 @@ ent-XenoArtifactExplosionScary = Einmaleffekt
 ent-XenoArtifactBoom = Einmaleffekt
 
 ent-XenoArtifactEffectCreationGasPlasma = Wirkung
-    .desc = Plasma verdrängt
+    .desc = Verdrängt Plasma
 
 ent-XenoArtifactEffectCreationGasTritium = Wirkung
-    .desc = Ausschließt Tritium
+    .desc = Verdrängt Tritium
 
 ent-XenoArtifactEffectCreationGasAmmonia = Wirkung
-    .desc = Ammoniak austreibt
+    .desc = Verdrängt Ammoniak
 
 ent-XenoArtifactEffectCreationGasFrezon = Wirkung
-    .desc = Ausschließt frezon
+    .desc = Verdrängt Frezon
 
 ent-XenoArtifactEffectCreationGasNitrousOxide = Wirkung
     .desc = Vertreibt Lachgas

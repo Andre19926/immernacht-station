@@ -1,7 +1,7 @@
 ent-CardBaseSyndicate = Karte
 
 ent-CardBoxSyndicate = Syndicate-Deckbox
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-CardDeckSyndicate = Kartenspiel
 

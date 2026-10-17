@@ -1,2 +1,2 @@
 ent-MobFelinidDummy = Urist McHands
-    .desc = Ein Dummy Felinid soll im Charakter-Setup verwendet werden.
+    .desc = Ein Dummy-Felinid für das Charakter-Setup.

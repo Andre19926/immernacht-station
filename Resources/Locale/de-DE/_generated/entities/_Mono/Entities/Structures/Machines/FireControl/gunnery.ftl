@@ -11,4 +11,4 @@ ent-GunneryServerUltra = Ultra-High-Power Gunnery Control Server
     .desc = Verwaltet den Fernbetrieb von Schiffswaffen.
 
 ent-ComputerGunneryConsole = Waffenkontrollkonsole
-    .desc = Schnittstellen mit dem Gunnery Control Server zum Betrieb von Schiffswaffen.
+    .desc = Schnittstelle zum Geschütz-Kontrollserver für den Betrieb von Schiffswaffen.

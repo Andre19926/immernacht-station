@@ -1,2 +1,2 @@
 ent-ActionHydrakinCoolOff = Abkühlen
-    .desc = Zerstreue etwas von deiner Körperwärme.
+    .desc = Gib etwas von deiner Körperwärme ab.

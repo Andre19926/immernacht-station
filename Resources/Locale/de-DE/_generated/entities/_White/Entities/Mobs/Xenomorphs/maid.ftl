@@ -1,2 +1,2 @@
 ent-MobXenomorphMaid = Xenomorph
-    .desc = Ich meine, ich denke, es ist irgendwie süß?
+    .desc = Ich meine, ich finde es irgendwie süß?

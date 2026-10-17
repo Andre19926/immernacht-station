@@ -1,2 +1,2 @@
 ent-CrateSyndicateShuttleBundle = Shuttlebündelkiste
-    .desc = Die nackten Notwendigkeiten für einen Shuttle.
+    .desc = Das Nötigste für ein Shuttle.

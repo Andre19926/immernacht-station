@@ -1,17 +1,17 @@
 ent-ReinforcementRadioSyndicateNukieMouse = verdächtiger Käse
-    .desc = Schimmeliger Käse mit einem kleinen Wurm, der herausragt, und einer ... blinkenden Antenne? Könnte eine seltsame Maus anlocken.
+    .desc = Schimmeliger Käse mit einem kleinen Wurm, der herausragt, und einer … blinkenden Antenne? Könnte eine seltsame Maus anlocken.
 
 ent-ReinforcementRadioSyndicateNukieCarp = Syndicate Carp Verstärkung Radio
-    .desc = Ruft in einem Syndicate Karpfen bereit, dir zu helfen.
+    .desc = Ruft einen Syndicate-Karpfen herbei, der dir hilft.
 
 ent-ReinforcementRadioSyndicateNukieSpider = Unerklärlicherweise drohendes Ei
-    .desc = Du bist dir nicht sicher, ob das ein Radio-Transceiver oder ein Augenblinken ist. Könnte eine seltsame Spinne anziehen.
+    .desc = Du bist dir nicht sicher, ob das ein Funkgerät oder ein blinzelndes Auge ist. Könnte eine seltsame Spinne anlocken.
 
 ent-ReinforcementRadioSyndicateCyborgSaboteur = Syndicate-Saboteur-Cyborg-Verstärkungsradio
-    .desc = Ruft einen Saboteurborg mit leichten Waffen und störender Ausrüstung an.
+    .desc = Ruft einen Saboteur-Borg mit leichter Bewaffnung und störender Ausrüstung herbei.
 
 ent-ReinforcementRadioSyndicateCyborgMedical = Syndicate-Sanitäter-Cyborg-Verstärkungsradio
-    .desc = Ruft eine medizinische Cyborg mit guten Unterstützungsfähigkeiten und störender Ausrüstung an.
+    .desc = Ruft einen medizinischen Cyborg mit guten Unterstützungsfähigkeiten und störender Ausrüstung herbei.
 
 ent-ReinforcementRadioSyndicateBehonker = behonker Verstärkungsfunk
-    .desc = Ruft einen Behonker, der dir bei deinem Unfug hilft.
+    .desc = Ruft einen Behonker herbei, der dir bei deinem Unfug hilft.

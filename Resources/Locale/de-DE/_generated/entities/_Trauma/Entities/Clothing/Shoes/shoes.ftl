@@ -1,2 +1,2 @@
 ent-ClothingShoesColorWhiteSilent = weiße Schuhe
-    .desc = Nimm sie nicht bei deiner Weihnachtsfeier im Büro ab.
+    .desc = Zieh sie bei der Weihnachtsfeier im Büro lieber nicht aus.

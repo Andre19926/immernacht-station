@@ -1,5 +1,5 @@
 ent-DrinkOniGourd = Sake Kürbis
-    .desc = Ein traditionelles Trinkgefäß, das von oni verwendet wird. Es wird gesagt, dass es mit dem feinsten Sake gefüllt ist.
+    .desc = Ein traditionelles Trinkgefäß der Oni. Angeblich ist es mit feinstem Sake gefüllt.
 
 ent-BeastBloodGourd = Blutkürbis des Tieres
-    .desc = Ein modifizierter Trinkkürbis von Cybersun, dieser produziert eine starke Mischung aus Stims und Alkohol, bekannt als Biestblut.
+    .desc = Ein modifizierter Trinkkürbis von Cybersun, der eine starke Mischung aus Stimulanzien und Alkohol namens Biestblut hervorbringt.

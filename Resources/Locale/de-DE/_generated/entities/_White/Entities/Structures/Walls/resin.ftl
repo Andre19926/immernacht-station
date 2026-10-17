@@ -1,2 +1,2 @@
 ent-WallResin = Harzwand
-    .desc = Dickharz verfestigte sich zu einer Wand.
+    .desc = Dickes Harz hat sich zu einer Wand verfestigt.

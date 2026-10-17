@@ -1,2 +1,2 @@
 ent-FloorCosmicDecay = entropischer Zerfall
-    .desc = Nur ein Blick auf diese sendet eine Kälte läuft über deine Wirbelsäule.
+    .desc = Schon ein Blick darauf jagt dir einen Schauer über den Rücken.

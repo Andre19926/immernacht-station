@@ -1,8 +1,8 @@
 ent-Kudzu = Kudzu
-    .desc = Eine schnell wachsende, gefährliche Pflanze. WARUM SIND STOPPEN, IHN ZU HALTEN?!
+    .desc = Eine schnell wachsende, gefährliche Pflanze. WARUM HÄLT IHN KEINER AUF?!
 
 ent-WeakKudzu = Kudzu
-    .desc = Eine schnell wachsende, gefährliche Pflanze. WARUM SIND STOPPEN, IHN ZU HALTEN?!
+    .desc = Eine schnell wachsende, gefährliche Pflanze. WARUM HÄLT IHN KEINER AUF?!
 
 ent-KudzuFlowerFriendly = Blumenteppich
     .desc = Ein bunter Teppich aus Blumen, der sich in alle Richtungen ausbreitet. Du bist dir nicht sicher, ob du es runternehmen oder lassen sollst.

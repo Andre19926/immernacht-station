@@ -1,68 +1,68 @@
 ent-BoxSurvivalSlots = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsNitrogen = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsEngineering = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalSlotsEngineeringNitrogen = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalSlotsSecurity = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsSecurityNitrogen = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsMedical = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsMedicalNitrogen = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxHugSlots = Kiste mit Umarmungen
-    .desc = Eine spezielle Box für sensible Menschen.
+    .desc = Eine spezielle Kiste für empfindliche Leute.
 
 ent-BoxHugSlotsNitrogen = Kiste mit Umarmungen
-    .desc = Eine spezielle Box für sensible Menschen.
+    .desc = Eine spezielle Kiste für empfindliche Leute.
 
 ent-BoxSurvivalSlotsSyndicate = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalSlotsSyndicateNitrogen = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxMimeSlots = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxMimeMothSlots = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxMimeSlotsNitrogen = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsPlasma = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsEngineeringPlasma = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxSurvivalSlotsSecurityPlasma = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsMedicalPlasma = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxHugSlotsPlasma = Kiste mit Umarmungen
-    .desc = Eine spezielle Box für sensible Menschen.
+    .desc = Eine spezielle Kiste für empfindliche Leute.
 
 ent-BoxSurvivalSlotsSyndicatePlasma = Überlebensbox mit erweiterter Kapazität
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren. Sie ist als Box mit Tank erweiterter Kapazität gekennzeichnet.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung. Sie ist als Kiste mit Tank erweiterter Kapazität gekennzeichnet.
 
 ent-BoxMimeSlotsPlasma = Überlebensbox
-    .desc = Eine Box mit grundlegenden Internals (Atemausrüstung) im Inneren.
+    .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsSilicon = Überlebensbox für Silizium
     .desc = Es ist eine Box mit grundlegenden Werkzeugen für die Selbstreparatur im Inneren.

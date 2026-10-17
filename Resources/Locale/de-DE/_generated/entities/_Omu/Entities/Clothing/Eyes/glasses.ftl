@@ -1,5 +1,5 @@
 ent-ClothingEyesGlassesMedChem = Medichembrillen
-    .desc = Brille, die die chemische Zusammensetzung einer Lösung mit einer integrierten medizinischen Hütte scannen kann.
+    .desc = Brille, die mit einem integrierten medizinischen HUD die chemische Zusammensetzung einer Lösung scannen kann.
 
 ent-ClothingEyesGlassesMedChemFlash = medichem Gläser
-    .desc = Sonnenbrillen mit einem medizinischen Hud und Lösungsanalysator.
+    .desc = Sonnenbrille mit medizinischem HUD und Lösungsanalysator.

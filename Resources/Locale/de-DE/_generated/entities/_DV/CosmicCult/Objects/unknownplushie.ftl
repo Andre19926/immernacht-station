@@ -1,2 +1,2 @@
 ent-PlushieCosmicCult = Unbekanntes Plüschtier
-    .desc = Eine kleine ausgestopfte Puppe, die dem undeutlichen Ebenbild einer unbekannten kosmischen Kraft ähnelt. Das macht keinen Sinn, aber die Marketingabteilung bestand darauf.
+    .desc = Eine kleine Stoffpuppe, die dem undeutlichen Abbild einer unbekannten kosmischen Macht ähnelt. Das ergibt keinen Sinn, aber die Marketingabteilung bestand darauf.

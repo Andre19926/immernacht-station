@@ -1,7 +1,7 @@
 ent-CardBaseNanotrasen = Karte
 
 ent-CardBoxNanotrasen = Nanotrasendeckbox
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-CardDeckNanotrasen = Kartenspiel
 

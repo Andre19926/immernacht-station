@@ -1,8 +1,8 @@
 ent-DiodeDiscElectroDisruptive = ELEKTRO-DISPERIERTE DIODENDISTER
-    .desc = Eine Diodenscheibe für den Einsatz innerhalb eines Emitters, diese löst ein kausales korrigierendes Ereignis innerhalb einer Supermaterie aus, wodurch sie sich selbst repariert.
+    .desc = Eine Diodenscheibe zum Einsatz in einem Emitter. Sie löst in einer Supermaterie ein kausales Korrekturereignis aus, das sie selbst repariert.
 
 ent-DiodeDiscElectroBehavioural = Elektroverhalten Diodenscheibe
-    .desc = Eine Diodenscheibe für den Einsatz innerhalb eines Emitters, diese wird ein kaskadierendes Kausalitätsereignis innerhalb einer Supermaterie auslösen, was zu Schäden führt, aber die Energieabgabe signifikant erhöht. Es hat auch eine postive Wirkung auf die Gesundheit der Patienten!
+    .desc = Eine Diodenscheibe zum Einsatz in einem Emitter. Sie löst in einer Supermaterie ein kaskadierendes Kausalitätsereignis aus, das Schäden verursacht, aber die Energieabgabe deutlich erhöht. Sie wirkt sich auch positiv auf die Gesundheit der Patienten aus!
 
 ent-EmitterBoltElectroDisruptive = Emitterbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!

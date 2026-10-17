@@ -1,2 +1,2 @@
 ent-FaceHuggerToys = Xenomorph facehugger
-    .desc = Ein Spielzeug spielte oft Streiche auf anderen Crewmitgliedern, indem es es in ihre Betten legte. Es dauert ein bisschen, um nach dem Einrasten auf etwas aufzuladen.
+    .desc = Ein Spielzeug, mit dem man Crewmitgliedern oft Streiche spielt, indem man es in ihre Betten legt. Es braucht etwas Zeit, bis es sich wieder auflädt, nachdem es irgendwo eingerastet ist.

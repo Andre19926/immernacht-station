@@ -1,2 +1,2 @@
 ent-MobRodentiaDummy = Rodentia Dummy
-    .desc = Ein Dummy Rodentia soll in der Charakter-Setup verwendet werden.
+    .desc = Ein Dummy-Rodentia für das Charakter-Setup.

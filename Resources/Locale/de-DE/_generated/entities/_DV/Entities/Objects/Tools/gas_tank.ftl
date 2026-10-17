@@ -1,8 +1,8 @@
 ent-WaterVaporTank = Wasserdampfbehälter
-    .desc = Ein zylindrischer Standardgasbehälter für Wasserdampf. Es kann 5 l Gas aufnehmen.
+    .desc = Ein zylindrischer Standardgasbehälter für Wasserdampf. Er fasst 5 l Gas.
 
 ent-EmergencyWaterVaporTank = Notwasserdampfbehälter
-    .desc = Ein leicht tragbarer Tank für Notfälle. Enthält sehr wenig Wasserdampf, nur für das Überleben bestimmt. Es kann 0,66 l Gas aufnehmen.
+    .desc = Ein leicht tragbarer Notfalltank. Enthält sehr wenig Wasserdampf, nur zum Überleben gedacht. Er fasst 0,66 l Gas.
 
 ent-ExtendedEmergencyWaterVaporTank = erweiterter Notwasserdampftank
     .desc = Ein Nottank mit erweiterter Kapazität. Technisch bewertet für längere Nutzung. Es kann 1,5 l Gas aufnehmen.

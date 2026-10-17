@@ -1,12 +1,12 @@
 ent-CardBoxBase = Deckbox
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-CardHandBase = Kartenhand
 
 ent-CardDeckBase = Kartenspiel
 
 ent-CardBoxBlack = Schwarzdeckbox
-    .desc = Ein Karton zum Aufbewahren von Dingen.
+    .desc = Eine Kiste zum Aufbewahren von Dingen.
 
 ent-CardDeckBlack = Kartenspiel
 
