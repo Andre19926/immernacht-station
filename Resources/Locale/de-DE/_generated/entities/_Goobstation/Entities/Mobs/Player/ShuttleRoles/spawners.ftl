@@ -1,1 +1,1 @@
-ent-VisitorAlienSpawner = Besuch von Alien Spawner
+ent-VisitorAlienSpawner = Alien-Besucher-Spawner

@@ -1,129 +1,129 @@
 ent-CommandVisitorSpawner = Führungsbesucher-Spawner
 
-ent-VisitorCaptainSpawner = Besuch von Kapitän Spawner
+ent-VisitorCaptainSpawner = Kapitän-Besucher-Spawner
 
-ent-VisitorCESpawner = Besuch bei Chefingenieur Spawner
+ent-VisitorCESpawner = Chefingenieur-Besucher-Spawner
 
-ent-VisitorCMOSpawner = Besuchender-Chefarzt-Spawner
+ent-VisitorCMOSpawner = Chefarzt-Besucher-Spawner
 
-ent-VisitorHOPSpawner = Gastleiter Personal Spawner
+ent-VisitorHOPSpawner = Personalchef-Besucher-Spawner
 
-ent-VisitorHOSSpawner = Leiter der Sicherheitsabteilung Spawner
+ent-VisitorHOSSpawner = Sicherheitschef-Besucher-Spawner
 
-ent-VisitorRDSpawner = Forschungsdirektor Spawner
+ent-VisitorRDSpawner = Forschungsdirektor-Besucher-Spawner
 
-ent-VisitorQMSpawner = Besuch von Quartiermeister Spawner
+ent-VisitorQMSpawner = Quartiermeister-Besucher-Spawner
 
-ent-SecurityVisitorSpawner = Sicherheitsbesucher Spawner
+ent-SecurityVisitorSpawner = Sicherheitsbesucher-Spawner
 
-ent-VisitorSecurityCadetSpawner = Sicherheitskadett Spawner
+ent-VisitorSecurityCadetSpawner = Sicherheitskadett-Besucher-Spawner
 
-ent-VisitorSecurityOfficerSpawner = Sicherheitsbeauftragter Spawner
+ent-VisitorSecurityOfficerSpawner = Sicherheitsbeamter-Besucher-Spawner
 
-ent-VisitorDetective = Detektiv Spawner
+ent-VisitorDetective = Detektiv-Besucher-Spawner
 
-ent-VisitorWarden = Besuchender-Warden-Spawner
+ent-VisitorWarden = Warden-Besucher-Spawner
 
-ent-VisitingCargonianSpawner = Frachter-Besucher Spawner
+ent-VisitingCargonianSpawner = Frachter-Besucher-Spawner
 
-ent-VisitorCargoTechnicianSpawner = Besuch des Frachttechnikers Spawner
+ent-VisitorCargoTechnicianSpawner = Frachttechniker-Besucher-Spawner
 
-ent-VisitorSalvageSpecialistSpawner = Besuch beim Salvage-Spezialisten Spawner
+ent-VisitorSalvageSpecialistSpawner = Bergungsspezialist-Besucher-Spawner
 
-ent-EngineeringVisitorSpawner = Ingenieurbesucher Spawner
+ent-EngineeringVisitorSpawner = Ingenieurbesucher-Spawner
 
-ent-VisitorAtmosTechSpawner = Besuch des Atmos-Technikers Spawner
+ent-VisitorAtmosTechSpawner = Atmos-Techniker-Besucher-Spawner
 
-ent-VisitorTechnicalAssistantSpawner = Besuch des technischen Assistenten Spawner
+ent-VisitorTechnicalAssistantSpawner = Technischer-Assistent-Besucher-Spawner
 
-ent-VisitorEngineerSpawner = Gastingenieur Spawner
+ent-VisitorEngineerSpawner = Ingenieur-Besucher-Spawner
 
-ent-VisitingMedicalSpawner = Medizinischer Besucher Spawner
+ent-VisitingMedicalSpawner = Medizinischer-Besucher-Spawner
 
-ent-VisitorChemistSpawner = Besuch des Chemikers Spawner
+ent-VisitorChemistSpawner = Chemiker-Besucher-Spawner
 
-ent-VisitorMedicalInternSpawner = Arztpraktikant Spawner
+ent-VisitorMedicalInternSpawner = Arztpraktikant-Besucher-Spawner
 
-ent-VisitorMedicalDoctorSpawner = Besuch beim Arzt Spawner
+ent-VisitorMedicalDoctorSpawner = Arzt-Besucher-Spawner
 
-ent-VisitorParamedicSpawner = Besuch des Sanitäters Spawner
+ent-VisitorParamedicSpawner = Sanitäter-Besucher-Spawner
 
-ent-VisitorVirologistSpawner = Besuch des Virologen Spawner
+ent-VisitorVirologistSpawner = Virologe-Besucher-Spawner
 
-ent-VisitorGeneticistSpawner = Besuch der Genetikerin Spawner
+ent-VisitorGeneticistSpawner = Genetiker-Besucher-Spawner
 
-ent-VisitorPsychologistSpawner = Gastpsychologin Spawner
+ent-VisitorPsychologistSpawner = Psychologe-Besucher-Spawner
 
-ent-VisitorDentistSpawner = Besuch bei Zahnarzt Spawner
+ent-VisitorDentistSpawner = Zahnarzt-Besucher-Spawner
 
-ent-VisitingScientistSpawner = Wissenschaftlicher Besucher Spawner
+ent-VisitingScientistSpawner = Wissenschaftler-Besucher-Spawner
 
-ent-VisitorScientistSpawner = Gastwissenschaftler Spawner
+ent-VisitorScientistSpawner = Gastwissenschaftler-Spawner
 
-ent-VisitorResearchAssistantSpawner = Forschungsassistent Spawner
+ent-VisitorResearchAssistantSpawner = Forschungsassistent-Besucher-Spawner
 
-ent-VisitingCivilianSpawner = Zivilbesucher Spawner
+ent-VisitingCivilianSpawner = Zivilbesucher-Spawner
 
-ent-VisitorBartenderSpawner = Gast bei Barkeeper Spawner
+ent-VisitorBartenderSpawner = Barkeeper-Besucher-Spawner
 
-ent-VisitorBotanistSpawner = Besuch des Botanikers Spawner
+ent-VisitorBotanistSpawner = Botaniker-Besucher-Spawner
 
-ent-VisitorBoxerSpawner = Besuch des Boxers Spawner
+ent-VisitorBoxerSpawner = Boxer-Besucher-Spawner
 
-ent-VisitorChaplainSpawner = Besuch des Kaplans Spawner
+ent-VisitorChaplainSpawner = Kaplan-Besucher-Spawner
 
-ent-VisitorChefSpawner = Gastkoch Spawner
+ent-VisitorChefSpawner = Koch-Besucher-Spawner
 
-ent-VisitorClownSpawner = Besuch des Clowns Spawner
+ent-VisitorClownSpawner = Clown-Besucher-Spawner
 
-ent-VisitorJanitorSpawner = Besuch bei Hausmeister Spawner
+ent-VisitorJanitorSpawner = Hausmeister-Besucher-Spawner
 
-ent-VisitorLawyerSpawner = Besuch bei Rechtsanwalt Spawner
+ent-VisitorLawyerSpawner = Rechtsanwalt-Besucher-Spawner
 
-ent-VisitorLawyerCentcomSpawner = Besuch bei centcom Rechtsanwalt Spawner
+ent-VisitorLawyerCentcomSpawner = CentComm-Rechtsanwalt-Besucher-Spawner
 
-ent-VisitorLibrarianSpawner = Bibliothekar Spawner
+ent-VisitorLibrarianSpawner = Bibliothekar-Besucher-Spawner
 
-ent-VisitorMusicianSpawner = Besuch des Musikers Spawner
+ent-VisitorMusicianSpawner = Musiker-Besucher-Spawner
 
-ent-VisitorMusicianFancySpawner = Besuch des ausgefallenen Musikers Spawner
+ent-VisitorMusicianFancySpawner = Eleganter-Musiker-Besucher-Spawner
 
-ent-VisitorMusicianRelaxedSpawner = Besuch des entspannten Musikers Spawner
+ent-VisitorMusicianRelaxedSpawner = Entspannter-Musiker-Besucher-Spawner
 
-ent-VisitorMimeSpawner = Besuch bei mime Spawner
+ent-VisitorMimeSpawner = Pantomime-Besucher-Spawner
 
-ent-VisitorReporterSpawner = Gastreporter Spawner
+ent-VisitorReporterSpawner = Reporter-Besucher-Spawner
 
-ent-VisitorServiceWorkerSpawner = Gastdienstmitarbeiter Spawner
+ent-VisitorServiceWorkerSpawner = Servicekraft-Besucher-Spawner
 
-ent-VisitorZookeeperSpawner = Besuch von Zookeeper Spawner
+ent-VisitorZookeeperSpawner = Zoowärter-Besucher-Spawner
 
-ent-ChallengeVictimSpawner = Katastrophenopfer Spawner
+ent-ChallengeVictimSpawner = Katastrophenopfer-Spawner
 
-ent-ChallengeCargoTechnicianSpawner = Herausforderung Frachttechniker Spawner
+ent-ChallengeCargoTechnicianSpawner = Frachttechniker-Herausforderungs-Spawner
 
-ent-NTVisitorSpawner = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner = NanoTrasen-Besucher-Spawner
 
-ent-NTVisitorSpawner50 = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner50 = NanoTrasen-Besucher-Spawner
 
-ent-NTVisitorSpawner33 = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner33 = NanoTrasen-Besucher-Spawner
 
-ent-NTVisitorSpawner25 = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner25 = NanoTrasen-Besucher-Spawner
 
-ent-NTVisitorSpawner20 = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner20 = NanoTrasen-Besucher-Spawner
 
-ent-NTVisitorSpawner10 = NanoTrasen Besucher Spawner
+ent-NTVisitorSpawner10 = NanoTrasen-Besucher-Spawner
 
 ent-SyndieSoldierTeamLeaderSpawner = Teamleiter Spawner
 
 ent-SyndieSoldierSpawner = Syndicate Soldat Spawner
 
-ent-SyndieVisitorSpawner = Syndie-Katastrophenopfer Spawner
+ent-SyndieVisitorSpawner = Syndie-Katastrophenopfer-Spawner
 
 ent-PirateScoonerSpawner = Piratenbesatzungsmitglied Spawner
 
 ent-PirateCaptainScoonerSpawner = Piratenkapitän Spawner
 
-ent-VisitorBlackmarketeerSpawner = Blackmarketeer Spawner
+ent-VisitorBlackmarketeerSpawner = Schwarzmarkthändler-Besucher-Spawner
 
 ent-CossackSpawner = KosakenSpawner
