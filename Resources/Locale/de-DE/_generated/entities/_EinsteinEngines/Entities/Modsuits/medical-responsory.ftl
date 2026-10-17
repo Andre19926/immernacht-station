@@ -1,7 +1,7 @@
 ent-ClothingModsuitResponsoryMedical = Sanitäter-ERT-MODsuit-Steuereinheit
     .desc = Die Hauptsteuereinheit eines Medical-ERT-MODsuits.
 
-ent-ClothingModsuitGauntletsResponsoryMedical = Medizinische Responsoring Modsuit Gauntlets
+ent-ClothingModsuitGauntletsResponsoryMedical = Medizinische-Responsoring-MODsuit-Handschuhe
     .desc = Ein Paar Handschuhe für den Medical Responsory Modsuit.
 
 ent-ClothingModsuitHelmetResponsoryMedical = Sanitäter-ERT-MODsuit-Helm

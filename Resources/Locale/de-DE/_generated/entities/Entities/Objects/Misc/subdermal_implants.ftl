@@ -52,11 +52,11 @@ ent-DeathRattleImplant = Todesratternimplantat
 ent-FakeMindShieldImplant = Fake Mindshield Implantat
     .desc = Dieses Implantat ermöglicht dem Träger, ein gefälschtes Signal zu erzeugen, mit dem NT-Sicherheitsteams Personen mit Mindshield-Implantat identifizieren.
 
-ent-MindShieldImplant = Mindshield Implantat
+ent-MindShieldImplant = Mindshield-Implantat
     .desc = Dieses Implantat sichert die Loyalität gegenüber Nanotrasen und verhindert Gedankenkontrollgeräte.
 
 ent-RadioImplantCentcomm = Radioimplantat
     .desc = Dieses Implantat gewährt Zugriff auf den CentComm-Kanal ohne Headset. Nur für CentComm-Mitarbeiter autorisiert.
 
-ent-DeathRattleImplantCentcomm = Centcomm Death Rassel Implantat
+ent-DeathRattleImplantCentcomm = Centcomm-Todesrasseln-Implantat
     .desc = Dieses Implantat informiert den CentComm-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.

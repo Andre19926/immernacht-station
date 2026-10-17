@@ -244,13 +244,13 @@ ent-ClothingUniformJumpsuitMonasticRobeLight = Helle Mönchsrobe
 ent-ClothingUniformJumpsuitMusician = Smoking des Musikers
     .desc = Ein schicker Smoking für musikalisch Veranlagte. Perfekt für jeden Lounge-Auftritt!
 
-ent-ClothingUniformJumpsuitERTChaplain = ERT Kaplanuniform
+ent-ClothingUniformJumpsuitERTChaplain = Notfallteam-Kaplanuniform
     .desc = Ein spezieller Anzug für das Elite-Seelsorgerkorps des Central Command.
 
 ent-ClothingUniformJumpsuitERTEngineer = ERT-Ingenieursuniform
     .desc = Ein spezieller Anzug für die Elite-Ingenieure von CentComm.
 
-ent-ClothingUniformJumpsuitERTJanitor = ERT Hausmeisteruniform
+ent-ClothingUniformJumpsuitERTJanitor = Notfallteam-Hausmeisteruniform
     .desc = Ein spezieller Anzug für die Elite-Hausmeister von CentComm.
 
 ent-ClothingUniformJumpsuitERTLeader = Einheit des ERT-Führers

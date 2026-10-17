@@ -1,7 +1,7 @@
 ent-RubberStampCaptain = Kapitänsstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampCentcom = CentComm Stempel
+ent-RubberStampCentcom = CentComm-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampChaplain = Seelsorgestempel
@@ -22,7 +22,7 @@ ent-RubberStampCMO = Stempel des Chefarztes
 ent-RubberStampHop = Personalchef-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampHos = Sicherheitschef Stempel
+ent-RubberStampHos = Sicherheitschef-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampMime = Mime-Stempel

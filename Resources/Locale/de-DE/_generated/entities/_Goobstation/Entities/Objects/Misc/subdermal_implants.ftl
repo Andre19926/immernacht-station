@@ -13,7 +13,7 @@ ent-SmokeImplant = Rauchimplantat
 ent-SyndicateJaunterImplant = Syndicate Jaunter Implantat
     .desc = Dieses Implantat ermöglicht es dem Benutzer, mit einer Zielperson die Position zu tauschen. Lädt sich mit der Zeit wieder auf.
 
-ent-KravMagaImplant = krav maga Implantat
+ent-KravMagaImplant = Krav-Maga-Implantat
     .desc = Dieses Implantat ermöglicht dem Benutzer verschiedene Krav-Maga-Techniken.
 
 ent-AutoinjectorImplant = Autoinjektorimplantat
@@ -34,7 +34,7 @@ ent-BinaryImplant = binäres Decoderimplantat
 ent-ClumsyImplant = Unbeholfenes Implantat
     .desc = Dieses Implantat macht den Benutzer ungeschickt, sodass er ein bestimmtes Fahrzeug fahren kann.
 
-ent-ShadowmindImplant = Shadowmind Implantat
+ent-ShadowmindImplant = Shadowmind-Implantat
     .desc = Dieses Implantat ermöglicht dem Benutzer den Zugriff auf den Shadowmind-Kanal (Präfix +q).
 
 ent-TelepathyImplant = Telepathieimplantat

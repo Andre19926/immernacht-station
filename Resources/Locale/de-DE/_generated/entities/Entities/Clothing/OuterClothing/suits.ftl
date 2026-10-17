@@ -13,7 +13,7 @@ ent-ClothingOuterSuitAtmosFire = Feueranzug atmos
 ent-ClothingOuterSuitRad = Bestrahlungsanzug
     .desc = Ein Anzug, der vor Strahlung schützt. Auf dem Etikett steht: „Mit Blei hergestellt. Bitte keine Isolierung verbrauchen.“
 
-ent-ClothingOuterSuitSpaceNinja = Raum Ninja Anzug
+ent-ClothingOuterSuitSpaceNinja = Weltraum-Ninja-Anzug
     .desc = Dieser schwarze, technologisch fortschrittliche, kybernetisch verbesserte Anzug bietet viele Fähigkeiten wie Unsichtbarkeit oder Teleportation.
 
 ent-ClothingOuterSuitChicken = Hähnchenanzug

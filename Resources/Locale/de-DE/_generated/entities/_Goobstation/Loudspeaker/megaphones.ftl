@@ -10,5 +10,5 @@ ent-CommandMegaphone = Führungs-Megaphon
 ent-SecurityMegaphone = Sicherheits-Megaphon
     .desc = Benutze es, um Verdächtige darauf aufmerksam zu machen, dass du hinter ihnen her bist – oder um Gefangene anzuschreien, die man nicht mag.
 
-ent-ClownMegaphone = Clown Megafon
+ent-ClownMegaphone = Clown-Megafon
     .desc = Ein Komiker muss seiner Stimme Gehör verschaffen.

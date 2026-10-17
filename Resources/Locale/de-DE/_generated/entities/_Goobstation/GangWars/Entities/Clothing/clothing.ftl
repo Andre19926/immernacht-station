@@ -1,19 +1,19 @@
-ent-ClothingNeckGangTophat1 = Gang Tophat
+ent-ClothingNeckGangTophat1 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
-ent-ClothingNeckGangTophat2 = Gang Tophat
+ent-ClothingNeckGangTophat2 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
-ent-ClothingNeckGangTophat3 = Gang Tophat
+ent-ClothingNeckGangTophat3 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
-ent-ClothingNeckGangTophat4 = Gang Tophat
+ent-ClothingNeckGangTophat4 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
-ent-ClothingNeckGangTophat5 = Gang Tophat
+ent-ClothingNeckGangTophat5 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
-ent-ClothingNeckGangTophat6 = Gang Tophat
+ent-ClothingNeckGangTophat6 = Gang-Zylinder
     .desc = Ein stilvoller Zylinder. Verwende eine Spraydose, um die Farben deiner Gang zu zeigen.
 
 ent-ClothingShoesGangDameDane = Gang Yakuza Schuhe

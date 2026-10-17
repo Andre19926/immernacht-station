@@ -10,7 +10,7 @@ ent-BasicSpaceItalianTranslatorImplant = Basic Space Italienisches Übersetzerim
 ent-SpaceItalianTranslatorImplant = Advanced Space Italienisches Übersetzerimplantat
     .desc = Gibt dir die Fähigkeit, die Sprachen der Küche zu sprechen.
 
-ent-YowKriolTranslatorImplant = Yow Kriol Translatorimplantat
+ent-YowKriolTranslatorImplant = Yow-Kriol-Übersetzerimplantat
     .desc = Ein Implantat, das die Fähigkeit verleiht, Yow Kriol zu verstehen und zu sprechen.
 
 ent-SignTranslatorImplant = Schildtranslatorimplantat

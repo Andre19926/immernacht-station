@@ -1,10 +1,10 @@
 ent-ClothingModsuitResponsorySecurity = Modsuit-Steuereinheit „Security Responsory“
     .desc = Der Hauptcontroller für einen Security Responsory Modsuit.
 
-ent-ClothingModsuitGauntletsResponsorySecurity = Sicherheits-Responsoring Modsuit Gauntlets
+ent-ClothingModsuitGauntletsResponsorySecurity = Sicherheits-Responsoring-MODsuit-Handschuhe
     .desc = Ein Paar Handschuhe für den Security Responsory Modsuit.
 
-ent-ClothingModsuitHelmetResponsorySecurity = Sicherheits-Responsoring Modsuit Helm
+ent-ClothingModsuitHelmetResponsorySecurity = Sicherheits-Responsoring-MODsuit-Helm
     .desc = Ein hochmoderner Helm von NanoTrasen für den Security Responsory Modsuit. Es enthält ein eingebautes HUD.
 
 ent-ClothingModsuitChestplateResponsorySecurity = Sicherheits-Responsoring Modsuit Brustplatte

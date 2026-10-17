@@ -1,4 +1,4 @@
-ent-LockerMedicineFilled = Medizin Spind
+ent-LockerMedicineFilled = Medizinspind
     .desc = Bis zum Rand mit medizinischem Krempel gefüllt.
 
 ent-LockerWallMedicalFilled = Medizinwand Spind

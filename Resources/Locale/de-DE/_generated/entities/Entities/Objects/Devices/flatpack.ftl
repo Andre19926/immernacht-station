@@ -19,10 +19,10 @@ ent-ContainmentFieldGeneratorFlatpack = Containment-Feldgenerator Flatpack
 ent-EmitterFlatpack = Emitterflachpack
     .desc = Ein Flatpack zum Bau eines Emitters.
 
-ent-TeslaGeneratorFlatpack = Tesla Generator Flatpack
+ent-TeslaGeneratorFlatpack = Tesla-Generator-Flatpack
     .desc = Ein Flatpack zum Bau eines Tesla-Generators.
 
-ent-TeslaCoilFlatpack = Tesla Coil Flatpack
+ent-TeslaCoilFlatpack = Tesla-Coil-Flatpack
     .desc = Ein Flatpack zum Bau einer Tesla-Spule.
 
 ent-TeslaGroundingRodFlatpack = Erdungsstabflachpack
@@ -40,10 +40,10 @@ ent-SpaceHeaterFlatpack = Raumheizgeräte-Flachpack
 ent-FaxMachineFlatpack = Faxgerät Flatpack
     .desc = Ein Flatpack zum Bau eines Faxgeräts.
 
-ent-CrewMonitoringServerFlatpack = Crew Monitoring Server Flatpack
+ent-CrewMonitoringServerFlatpack = Crew-Monitoring-Server-Flatpack
     .desc = Ein Flatpack zum Bau eines Crew-Überwachungsservers.
 
-ent-CrewMonitoringComputerFlatpack = Crew Monitoring Computer Flatpack
+ent-CrewMonitoringComputerFlatpack = Crew-Monitoring-Computer-Flatpack
     .desc = Ein Flatpack zum Bau einer Crew-Überwachungskonsole.
 
 ent-HydroponicsTrayFlatpack = Botanikschale Flatpack

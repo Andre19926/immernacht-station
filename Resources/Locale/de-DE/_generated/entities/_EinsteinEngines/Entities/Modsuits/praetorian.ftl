@@ -1,10 +1,10 @@
 ent-ClothingModsuitPraetorian = Prätorianische Modsuit-Kontrolleinheit
     .desc = Der Hauptcontroller für einen Praetorian Modsuit.
 
-ent-ClothingModsuitGauntletsPraetorian = Praetorian Modsuit gauntlets
+ent-ClothingModsuitGauntletsPraetorian = Praetorian-MODsuit-Handschuhe
     .desc = Ein Paar Handschuhe für den Prätorianer Modsuit.
 
-ent-ClothingModsuitHelmetPraetorian = Praetorian Modsuit Helm
+ent-ClothingModsuitHelmetPraetorian = Praetorian-MODsuit-Helm
     .desc = Ein moderner Helm, entworfen von NanoTrasen für den Prätorianer Modsuit.
 
 ent-ClothingModsuitChestplatePraetorian = Praetorian Modsuit Brustplatte

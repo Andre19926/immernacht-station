@@ -20,7 +20,7 @@ ent-MobSlimeXenobioBabyBluespace = Blauraumschleim
 
 ent-MobSlimeXenobioBabySepia = Sepia-Schleim
 
-ent-MobSlimeXenobioBabyCerulean = Cerulean Schleim
+ent-MobSlimeXenobioBabyCerulean = Cerulean-Schleim
 
 ent-MobSlimeXenobioBabyPyrite = Pyritschleim
 

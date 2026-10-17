@@ -16,7 +16,7 @@ ent-BoxShotgunIncendiary = Munitionskasten (12 Gauge Brand)
 ent-BoxShotgunUranium = Munitionskasten (12 Gauge Uran)
     .desc = Eine Schachtel mit Schrotpatronen im Kaliber 12. Für exotische Urankernmunition gedacht.
 
-ent-BoxShotgunPractice = Munitionsbox (12 Gauge Übung)
+ent-BoxShotgunPractice = Munitionsschachtel (12 Gauge Übung)
     .desc = Eine Schachtel mit Schrotpatronen im Kaliber 12. Für harmlose Übungsmunition gedacht.
 
 ent-BoxShellTranquilizer = Munitionskasten (12 Gauge Beruhigungsmittel)

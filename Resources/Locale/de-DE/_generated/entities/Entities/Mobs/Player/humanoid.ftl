@@ -6,9 +6,9 @@ ent-RandomHumanoidSpawnerERTLeaderEVA = ERT-Leiter
 
 ent-RandomHumanoidSpawnerERTLeaderArmed = ERT-Leiter
 
-ent-RandomHumanoidSpawnerERTChaplain = ERT Kaplan
+ent-RandomHumanoidSpawnerERTChaplain = Notfallteam-Kaplan
 
-ent-RandomHumanoidSpawnerERTChaplainEVA = ERT Kaplan
+ent-RandomHumanoidSpawnerERTChaplainEVA = Notfallteam-Kaplan
 
 ent-RandomHumanoidSpawnerERTJanitor = ERT Hausmeister
 

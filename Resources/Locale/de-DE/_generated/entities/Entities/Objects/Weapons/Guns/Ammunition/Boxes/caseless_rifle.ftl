@@ -1,9 +1,9 @@
-ent-MagazineBoxCaselessRifle10x24 = Munitionsbox (9.5mm HP)
+ent-MagazineBoxCaselessRifle10x24 = Munitionsschachtel (9.5mm HP)
 
-ent-MagazineBoxCaselessRifleBig = Munitionsbox (9.5mm HP)
+ent-MagazineBoxCaselessRifleBig = Munitionsschachtel (9.5mm HP)
 
-ent-MagazineBoxCaselessRifle = Munitionsbox (9.5mm HP)
+ent-MagazineBoxCaselessRifle = Munitionsschachtel (9.5mm HP)
     .desc = Eine Schachtel mit 9,5-mm-Hülsenlospatronen. Für Standard-Kinetikmunition gedacht.
 
-ent-MagazineBoxCaselessRiflePractice = Munitionsbox (9,5mm Übung)
+ent-MagazineBoxCaselessRiflePractice = Munitionsschachtel (9,5mm Übung)
     .desc = Eine Schachtel mit 9,5-mm-Hülsenlospatronen. Für harmlose Übungsmunition gedacht.

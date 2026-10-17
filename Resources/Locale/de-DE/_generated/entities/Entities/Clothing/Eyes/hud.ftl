@@ -19,19 +19,19 @@ ent-ClothingEyesHudFriedOnion = gebratene Zwiebelbrille
 ent-ClothingEyesHudOnionBeer = Donnerstbrillen
     .desc = Füller
 
-ent-ClothingEyesHudMedOnion = Medonion hud
+ent-ClothingEyesHudMedOnion = Medonion-HUD
     .desc = Füller
 
-ent-ClothingEyesHudMedOnionBeer = medthungerst hud
+ent-ClothingEyesHudMedOnionBeer = Medthungerst-HUD
     .desc = Füller
 
-ent-ClothingEyesHudMedSec = medsec hud
+ent-ClothingEyesHudMedSec = Medsec-HUD
     .desc = Ein Augendisplay, das wie eine Mischung aus medizinischem und Sicherheits-HUD aussieht.
 
 ent-ClothingEyesHudMultiversal = Multiversalhud
     .desc = Füller
 
-ent-ClothingEyesHudOmni = omni hud
+ent-ClothingEyesHudOmni = Omni-HUD
     .desc = Füller
 
 ent-ClothingEyesHudSyndicate = Syndicate-Visier
@@ -49,10 +49,10 @@ ent-ClothingEyesEyepatchHudMedical = Medizinische Hud Eyepatch
 ent-ClothingEyesEyepatchHudMedicalFlipped = Medizinische Hud Eyepatch
     .desc = Ein nach oben gerichtetes Display, das die Humanoiden in Sichtweite abbildet und Daten über ihren Gesundheitszustand liefert. Für echte Patrioten.
 
-ent-ClothingEyesEyepatchHudSecurity = Sicherheitshud Eyepatch
+ent-ClothingEyesEyepatchHudSecurity = Sicherheits-HUD-Augenklappe
     .desc = Ein Head-up-Display, das die Humanoiden in der Ansicht scannt und genaue Daten über ihren ID-Status und Sicherheitsdatensätze liefert. Für echte Patrioten.
 
-ent-ClothingEyesEyepatchHudSecurityFlipped = Sicherheitshud Eyepatch
+ent-ClothingEyesEyepatchHudSecurityFlipped = Sicherheits-HUD-Augenklappe
     .desc = Ein Head-up-Display, das die Humanoiden in der Ansicht scannt und genaue Daten über ihren ID-Status und Sicherheitsdatensätze liefert. Für echte Patrioten.
 
 ent-ClothingEyesEyepatchHudBeer = Bierhud Augenklappe

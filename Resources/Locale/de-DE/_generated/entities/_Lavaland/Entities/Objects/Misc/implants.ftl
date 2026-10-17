@@ -1,4 +1,4 @@
-ent-DeathRattleLavalandImplant = Lavaland Death Rassel Implantat
+ent-DeathRattleLavalandImplant = Lavaland-Todesrasseln-Implantat
     .desc = Dieses Implantat meldet dem Versorgungsfunkkanal den Tod des Benutzers. Funktioniert nur auf der Lavaland-Oberfläche und übermittelt die genauen Todeskoordinaten.
 
 ent-DeathRattleLavalandImplanter = Lavaland-Todesröcheln-Implantator

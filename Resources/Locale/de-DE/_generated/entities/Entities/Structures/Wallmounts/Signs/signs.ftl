@@ -1,7 +1,7 @@
 ent-PaintingMonkey = Affenmalerei
     .desc = Zurück zu Monky.
 
-ent-SignDirectionalAtmos = atmos Schild
+ent-SignDirectionalAtmos = Atmos-Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Abteilung Atmosphäre ist.
 
 ent-SignDirectionalBar = Stäbeschild
@@ -19,16 +19,16 @@ ent-SignDirectionalChapel = Kapelle Schild
 ent-SignDirectionalChemistry = Chemieschild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung das Chemielabor geht.
 
-ent-SignDirectionalCryo = cryo Schild
+ent-SignDirectionalCryo = Cryo-Schild
     .desc = Ein Wegweiser, der den Weg zur Kryotechnik zeigt.
 
 ent-SignDirectionalDorms = Schlafsäle Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Schlafsäle sind.
 
-ent-SignDirectionalEng = Engineering Schild
+ent-SignDirectionalEng = Engineering-Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Ingenieurabteilung geht.
 
-ent-SignDirectionalEvac = evac Schild
+ent-SignDirectionalEvac = Evakuierungsschild
     .desc = Ein Wegweiser, der zeigt, wo es zur Evakuierung geht.
 
 ent-SignDirectionalExam = Prüfung Schild
@@ -46,13 +46,13 @@ ent-SignDirectionalHop = Personalchef-Richtungsschild
 ent-SignDirectionalHydro = Hydroschild
     .desc = Ein Wegweiser, der zeigt, wo die Botanik ist.
 
-ent-SignDirectionalIcu = Icu Schild
+ent-SignDirectionalIcu = ICU-Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die ICU ist.
 
 ent-SignDirectionalJanitor = Hausmeister Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung der Schrank des Hausmeisters ist.
 
-ent-SignDirectionalLibrary = Bibliothek Schild
+ent-SignDirectionalLibrary = Bibliotheksschild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Bibliothek ist.
 
 ent-SignDirectionalMed = Medizinisches Schild
@@ -61,10 +61,10 @@ ent-SignDirectionalMed = Medizinisches Schild
 ent-SignDirectionalSalvage = Salvage-Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Salvage-Abteilung geht.
 
-ent-SignDirectionalSci = Wissenschaft Schild
+ent-SignDirectionalSci = Wissenschaftsschild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Wissenschaftsabteilung geht.
 
-ent-SignDirectionalSec = sec Schild
+ent-SignDirectionalSec = Sicherheitsschild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung Sicherheit ist.
 
 ent-SignDirectionalSolar = Solaranlagen Schild
@@ -79,7 +79,7 @@ ent-SignDirectionalWash = Waschraumschild
 ent-SignDirectionalEscapePod = Escape Pods Schild
     .desc = Ein Wegweiser, der den Weg zu einem Fluchtkapsel-Dock zeigt.
 
-ent-SignAi = ai Schild
+ent-SignAi = KI-Schild
     .desc = Ein Schild, das anzeigt, dass eine KI vorhanden ist.
 
 ent-SignAiUpload = ai upload Schild
@@ -91,7 +91,7 @@ ent-SignArcade = Arcade Schild
 ent-SignArmory = Waffenkammer-Schild
     .desc = Ein Schild, das die Waffenkammer anzeigt.
 
-ent-SignArrivals = Ankunft Schild
+ent-SignArrivals = Ankunftsschild
     .desc = Ein Schild, das angibt, wo die Ankünfte für die App-Abenteuer stehen.
 
 ent-SignToolStorage = Werkzeugspeicherschild
@@ -100,10 +100,10 @@ ent-SignToolStorage = Werkzeugspeicherschild
 ent-SignAnomaly = Xenoarchäologie Laboratorium Schild
     .desc = Ein Schild, das das Xenoarchäologielabor anzeigt.
 
-ent-SignAnomaly2 = Anomalielabor Schild
+ent-SignAnomaly2 = Anomalielabor-Schild
     .desc = Ein Schild, das das anomale Forschungslabor anzeigt.
 
-ent-SignAtmos = atmos Schild
+ent-SignAtmos = Atmos-Schild
     .desc = Ein Schild, das den atmosphärischen Bereich anzeigt.
 
 ent-SignBar = Stäbeschild
@@ -118,7 +118,7 @@ ent-SignKitchen = Küchenschild
 ent-SignTheater = Theaterschild
     .desc = Wäre es überhaupt eine Raumstation ohne Drama?
 
-ent-SignBarbershop = Barbershop Schild
+ent-SignBarbershop = Barbershop-Schild
     .desc = Ein Schild, das den Friseursalon anzeigt.
 
 ent-SignBio = Bioschild
@@ -148,7 +148,7 @@ ent-SignChem = Chemieschild
 ent-SignCloning = Klonen von Schild
     .desc = Ein Schild, das das Klonlabor anzeigt.
 
-ent-SignConference = Konferenzraum Schild
+ent-SignConference = Konferenzraumschild
     .desc = Wo Arbeit stattfindet.
 
 ent-SignCryo = Kryoschlafschild
@@ -169,19 +169,19 @@ ent-SignMaterials = Materialien Schild
 ent-SignEngine = Power Schild
     .desc = Wo die Powa passiert.
 
-ent-SignEngineering = Engineering Schild
+ent-SignEngineering = Engineering-Schild
     .desc = Ein Schild mit Angabe des technischen Bereichs.
 
 ent-SignEscapePods = Escape Pods Schild
     .desc = Ein Schild, das die Fluchtkapseln anzeigt.
 
-ent-SignEVA = EVA Schild
+ent-SignEVA = EVA-Schild
     .desc = Ein Schild, das einen EVA-Bereich anzeigt. Jenseits dieses Punktes kann EVA-Ausrüstung erforderlich sein.
 
 ent-SignElectrical = elektrisches Schild
     .desc = Ein Schild, das eine elektrische Gefahr anzeigt.
 
-ent-SignExamroom = Untersuchungsraum Schild
+ent-SignExamroom = Untersuchungsraumschild
     .desc = Ein Schild, das einen medizinischen Untersuchungsraum anzeigt.
 
 ent-SignFire = Brandschutzschild
@@ -208,25 +208,25 @@ ent-SignLaundromat = Waschsalatschild
 ent-SignLawyer = Gesetzschild
     .desc = Ein Schild, das auf das Vorhandensein von (meist fehlendem) Recht und Ordnung hinweist.
 
-ent-SignLibrary = Bibliothek Schild
+ent-SignLibrary = Bibliotheksschild
     .desc = Ein Schild, das die Bibliothek anzeigt.
 
 ent-SignMail = Mailschild
     .desc = Ein Schild, das auf Post hinweist.
 
-ent-SignMedical = Medbay Schild
+ent-SignMedical = Medbay-Schild
     .desc = Ein Schild, das die Medbay anzeigt.
 
 ent-SignMorgue = Leichenhalle
     .desc = Ein Schild, das das Leichenhaus anzeigt.
 
-ent-SignNews = News Schild
+ent-SignNews = News-Schild
     .desc = Ein Schild zeigt an, wo der Reporter arbeitet.
 
 ent-SignNosmoking = Rauchverbotsschild
     .desc = Ein Schild, das anzeigt, dass Rauchen in der Nähe nicht erlaubt ist.
 
-ent-SignGenpop = genpop Schild
+ent-SignGenpop = Genpop-Schild
     .desc = Ein Schild, das auf den Gemeinschaftsgefängnistrakt hinweist.
 
 ent-SignPrison = Gefängnisschild
@@ -235,19 +235,19 @@ ent-SignPrison = Gefängnisschild
 ent-SignPsychology = Psychologie Schild
     .desc = Ein Schild, das einen Bereich kennzeichnet, in dem der Psychologe arbeitet.
 
-ent-SignReception = Empfang Schild
+ent-SignReception = Empfangsschild
     .desc = Ein Schild, das den Empfang anzeigt.
 
 ent-SignRND = Forschung und Entwicklung Schild
     .desc = Ein Schild, das das Forschungs- und Entwicklungslabor anzeigt.
 
-ent-SignRobo = Robo Schild
+ent-SignRobo = Robo-Schild
     .desc = Ein Schild zeigt das Robotiklabor an.
 
 ent-SignSalvage = Salvage-Schild
     .desc = Ein Schild mit Angabe des Bergungsbereichs.
 
-ent-SignScience = Wissenschaft Schild
+ent-SignScience = Wissenschaftsschild
     .desc = Ein Schild, das den Wissenschaftsbereich anzeigt.
 
 ent-SignServer = Server Schild
@@ -259,7 +259,7 @@ ent-SignCans = Kanister Schild
 ent-SignCansScience = Kanister Schild
     .desc = Ein Schild, das auf die praktische Anwesenheit von Gaskanistern hinweist.
 
-ent-SignShipDock = evac Schild
+ent-SignShipDock = Evakuierungsschild
     .desc = Ein Schild zeigt an, wo das Evakuierungsshuttle (wahrscheinlich) ankommen wird.
 
 ent-SignSpace = Raumschild
@@ -268,7 +268,7 @@ ent-SignSpace = Raumschild
 ent-SignSurgery = Chirurgieschild
     .desc = Ein Schild, das den Operationssaal anzeigt.
 
-ent-SignTelecomms = Telecomms Schild
+ent-SignTelecomms = Telecomms-Schild
     .desc = Ein Schild, das den Telekommunikationsraum anzeigt.
 
 ent-SignToxins = Toxine
@@ -307,7 +307,7 @@ ent-SignMemetic = memetisches Warnschild
 ent-SignSecure = sicheres Schild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
-ent-SignSecurearea = Sicherheitsbereich Schild
+ent-SignSecurearea = Sicherheitsbereichsschild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignShock = Schockschild
@@ -370,7 +370,7 @@ ent-SignLaserMed = Laserschild
 ent-SignSecureMed = sicheres Schild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
-ent-SignVox = vox area Schild
+ent-SignVox = Vox-Bereichsschild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus für Vox-Crewmitglieder bestimmt ist und keine Sauerstoffatmosphäre hat.
 
 ent-WarningAir = Luftwarnschild

@@ -1,1 +1,1 @@
-ent-WizardTeleportScroll = Teleport Scroll
+ent-WizardTeleportScroll = Teleport-Schriftrolle

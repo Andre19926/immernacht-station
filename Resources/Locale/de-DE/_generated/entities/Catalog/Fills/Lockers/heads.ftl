@@ -1,4 +1,4 @@
-ent-LockerQuarterMasterFilled = Quartiermeisters Spind
+ent-LockerQuarterMasterFilled = Quartiermeisterspind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerCaptainFilledNoLaser = Kapitänsspind
@@ -31,10 +31,10 @@ ent-LockerResearchDirectorFilled = Spind des Forschungsdirektors
 ent-LockerResearchDirectorFilledHardsuit = Spind des Forschungsdirektors
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerHeadOfSecurityFilled = Sicherheitschef Spind
+ent-LockerHeadOfSecurityFilled = Sicherheitschef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerHeadOfSecurityFilledHardsuit = Sicherheitschef Spind
+ent-LockerHeadOfSecurityFilledHardsuit = Sicherheitschef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerFreezerVaultFilled = Gefriergeräte

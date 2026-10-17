@@ -10,9 +10,9 @@ ent-RandomHumanoidSpawnerERTJanitorNoReq = ERT Hausmeister Intern
 
 ent-RandomHumanoidSpawnerERTJanitorEVANoReq = ERT Hausmeister Intern
 
-ent-RandomHumanoidSpawnerERTEngineerNoReq = ERT Ingenieur Intern
+ent-RandomHumanoidSpawnerERTEngineerNoReq = Notfallteam-Ingenieur-Praktikant
 
-ent-RandomHumanoidSpawnerERTEngineerEVANoReq = ERT Ingenieur Intern
+ent-RandomHumanoidSpawnerERTEngineerEVANoReq = Notfallteam-Ingenieur-Praktikant
 
 ent-RandomHumanoidSpawnerERTSecurityNoReq = ERT-Sicherheitskadett
 

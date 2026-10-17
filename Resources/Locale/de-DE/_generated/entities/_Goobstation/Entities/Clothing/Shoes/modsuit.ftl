@@ -1,28 +1,28 @@
 ent-ClothingShoesModsuitBase = Position
 
-ent-ClothingModsuitBootsStandard = Standard Modsuit Stiefel
+ent-ClothingModsuitBootsStandard = Standard-MODsuit-Stiefel
     .desc = Spezielle Stiefel für den modularen Anzug, die sich kompakt in die Anzugsteuerung falten lassen.
 
-ent-ClothingModsuitBootsSecurity = verkaufte Modsuit Stiefel
+ent-ClothingModsuitBootsSecurity = Verkaufte-MODsuit-Stiefel
     .desc = Die eisernen Stiefel des Gesetzes.
 
-ent-ClothingModsuitBootsHeadOfSecurity = Bulwark Modsuit Stiefel
+ent-ClothingModsuitBootsHeadOfSecurity = Bulwark-MODsuit-Stiefel
     .desc = Ich nenne sie meine Kommunisten-Stampfer.
 
-ent-ClothingModsuitBootsParamedic = Sanitater Modsuit Stiefel
+ent-ClothingModsuitBootsParamedic = Sanitater-MODsuit-Stiefel
     .desc = Gemacht, um blutig zu werden.
 
-ent-ClothingModsuitBootsEngineer = Sapper Modsuit Stiefel
+ent-ClothingModsuitBootsEngineer = Sapper-MODsuit-Stiefel
     .desc = Gemacht, um fettig zu werden.
 
-ent-ClothingModsuitBootsAtmostech = aeolus Modsuit Stiefel
+ent-ClothingModsuitBootsAtmostech = Aeolus-MODsuit-Stiefel
     .desc = Gemacht, um verbrannt zu werden.
 
-ent-ClothingModsuitBootsResearchDirector = Minerva Modsuit Stiefel
+ent-ClothingModsuitBootsResearchDirector = Minerva-MODsuit-Stiefel
     .desc = Hält dich nicht davon ab, auf deinem eigenen Blut auszurutschen, wenn der Holocarp dich erwischt.
 
-ent-ClothingModsuitBootsCaptain = Magnat Modsuit Stiefel
+ent-ClothingModsuitBootsCaptain = Magnat-MODsuit-Stiefel
     .desc = Diese Stiefel wurden von DEM Michael Jordan entworfen und aus uralten Legierungen gefertigt, Mann.
 
-ent-ClothingModsuitBootsBrigMed = Trauma Modsuit Stiefel
+ent-ClothingModsuitBootsBrigMed = Trauma-MODsuit-Stiefel
     .desc = Geflogene Stiefel

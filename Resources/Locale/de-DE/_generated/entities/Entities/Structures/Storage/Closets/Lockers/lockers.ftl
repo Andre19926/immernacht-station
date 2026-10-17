@@ -4,7 +4,7 @@ ent-LockerBooze = Alkohollagerung
 ent-LockerSteel = Gesicherter Schrank
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerQuarterMaster = Quartiermeisters Spind
+ent-LockerQuarterMaster = Quartiermeisterspind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerSalvageSpecialist = Spind des Salvage-Spezialisten
@@ -46,7 +46,7 @@ ent-LockerFreezer = Gefriergeräte
 ent-LockerBotanist = Botanikers Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerMedicine = Medizin Spind
+ent-LockerMedicine = Medizinspind
     .desc = Bis zum Rand mit medizinischem Krempel gefüllt.
 
 ent-LockerMedical = Spind des Arztes
@@ -67,7 +67,7 @@ ent-LockerResearchDirector = Spind des Forschungsdirektors
 ent-LockerScientist = Spind des Wissenschaftlers
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerHeadOfSecurity = Sicherheitschef Spind
+ent-LockerHeadOfSecurity = Sicherheitschef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerWarden = Warden-Spind
@@ -121,7 +121,7 @@ ent-LockerSyndicatePersonal = blutroter Spind
 ent-LockerBluespaceStation = Bluespace Spind
     .desc = Fortschrittliche Spind-Technologie.
 
-ent-LockerClown = Clown Spind
+ent-LockerClown = Clown-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerMime = Mime Spind

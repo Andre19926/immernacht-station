@@ -49,7 +49,7 @@ ent-GangSign16 = Bande Schild
 ent-GangSign17 = Bande Schild
     .desc = Ein Bandenschild, mit dem Bandenmitglieder ihr Revier markieren. Hier herumzustehen ist wahrscheinlich keine gute Idee.
 
-ent-GangLocker = Gang Spind
+ent-GangLocker = Gang-Spind
     .desc = Ein Spind, der zu einer Gang gehört.
 
 ent-CrateGang = Gangkiste

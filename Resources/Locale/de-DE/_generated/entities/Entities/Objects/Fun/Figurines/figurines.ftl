@@ -40,7 +40,7 @@ ent-ToyFigurineSecurity = Figur des Sicherheitsbeauftragten
 ent-ToyFigurineLawyer = Anwaltsfigur
     .desc = Eine Figur, die einen Anwalt in einem frisch geschneiderten Anzug zeigt.
 
-ent-ToyFigurineCargoTech = Fracht Technican Figur
+ent-ToyFigurineCargoTech = Frachttechniker-Figur
     .desc = Eine Figur, die einen reptiloiden Frachttechniker darstellt.
 
 ent-ToyFigurineSalvage = Salvage-Fachmann

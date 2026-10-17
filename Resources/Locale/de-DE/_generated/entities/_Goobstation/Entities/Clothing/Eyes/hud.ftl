@@ -4,10 +4,10 @@ ent-ClothingEyesHudChrono = futuristisches Visier
 ent-ClothingEyesHudChronoUnremoveable = futuristisches Visier
     .desc = Ein Visier aus der Zukunft, das fast alles anzeigen kann.
 
-ent-ClothingEyesHudDiagnosticMedical = meddiag hud
+ent-ClothingEyesHudDiagnosticMedical = Meddiag-HUD
     .desc = Ein Head-up-Display, das sowohl medizinische als auch diagnostische Informationen kombiniert.
 
-ent-ClothingEyesHudViro = Viro hud
+ent-ClothingEyesHudViro = Viro-HUD
     .desc = Ein medizinisches HUD mit fortgeschrittener Krankheitsanalyse.
 
 ent-ClothingEyesHudContractor = Auftragnehmervisier
