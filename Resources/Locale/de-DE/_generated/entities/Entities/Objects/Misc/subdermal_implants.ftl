@@ -1,4 +1,4 @@
-ent-SadTromboneImplant = Sad Trombone Implantation
+ent-SadTromboneImplant = Sad-Trombone-Implantat
     .desc = Dieses Implantat spielt eine traurige Melodie, wenn der Benutzer stirbt.
 
 ent-LightImplant = Lichtimplantat

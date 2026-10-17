@@ -1,8 +1,8 @@
-ent-MobSpawnCrabQuartz = Mobspawner Quarzkrabbe
+ent-MobSpawnCrabQuartz = Quarzkrabben-Spawner
 
-ent-MobSpawnCrabIron = Mobspawner Eisenkrabbe
+ent-MobSpawnCrabIron = Eisenkrabben-Spawner
 
-ent-MobSpawnCrabCoal = Mobspawnerkohlenkrabbe
+ent-MobSpawnCrabCoal = Kohlenkrabben-Spawner
 
 ent-MobSpawnCrabSilver = Silberkrabbe
 
@@ -10,4 +10,4 @@ ent-MobSpawnCrabGold = Goldkrabbe
 
 ent-MobSpawnCrabUranium = Urankrabbe
 
-ent-MobSpawnCrabBananium = Mobspawner Bananiumkrabbe
+ent-MobSpawnCrabBananium = Bananiumkrabben-Spawner

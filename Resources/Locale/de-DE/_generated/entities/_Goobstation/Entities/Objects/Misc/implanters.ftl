@@ -1,80 +1,80 @@
-ent-RevsFastDrawImplanter = Fast-Draw-Implantat
+ent-RevsFastDrawImplanter = Schnellzieh-Implantator
     .desc = Eine Spritze mit Werkzeugen zur schnellen Implantatentfernung. Es hat kleine goldene Sterne auf seinem Körper.
 
-ent-BluespaceLifelineImplanter = centcomm Implanter
+ent-BluespaceLifelineImplanter = CentComm-Bluespace-Lebensader-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CommandTrackingImplanter = centcomm Implanter
+ent-CommandTrackingImplanter = CentComm-Führungs-Tracking-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommFreedomImplanter = centcomm Implanter
+ent-CentcommFreedomImplanter = CentComm-Freiheits-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommStorageImplanter = centcomm Implanter
+ent-CentcommStorageImplanter = CentComm-Speicher-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommMindShieldImplanter = centcomm Implanter
+ent-CentcommMindShieldImplanter = CentComm-Mindshield-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommNutrimentImplanter = centcomm Implanter
+ent-CentcommNutrimentImplanter = CentComm-Nährstoff-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommSpaceproofImplanter = centcomm Implanter
+ent-CentcommSpaceproofImplanter = CentComm-Vakuumschutz-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-CentcommStypticStimulatorImplanter = centcomm Implanter
+ent-CentcommStypticStimulatorImplanter = CentComm-Blutstiller-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-PacifismImplanter = Implantatextraktor
+ent-PacifismImplanter = Pazifismus-Implantator
     .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
 
-ent-SmokeImplanter = Syndicate-Implantat
+ent-SmokeImplanter = Syndicate-Rauch-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-JaunterImplanter = Syndicate-Implantat
+ent-JaunterImplanter = Syndicate-Jaunter-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-NutrimentImplanter = Syndicate-Implantat
+ent-NutrimentImplanter = Syndicate-Nährstoff-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-StypticStimulatorImplanter = Syndicate-Implantat
+ent-StypticStimulatorImplanter = Syndicate-Blutstiller-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-KravMagaImplanter = Syndicate-Implantat
+ent-KravMagaImplanter = Syndicate-Krav-Maga-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-ClumsyImplanter = Syndicate-Implantat
+ent-ClumsyImplanter = Syndicate-Tollpatsch-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-BinaryImplanter = Syndicate-Implantat
+ent-BinaryImplanter = Syndicate-Binär-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-VaporizeImplanter = centcomm Implanter
+ent-VaporizeImplanter = CentComm-Verdampfungs-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-ShiftImplanter = centcomm Implanter
+ent-ShiftImplanter = CentComm-Shift-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-BlinkImplanter = centcomm Implanter
+ent-BlinkImplanter = CentComm-Blink-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-StopTimeImplanter = centcomm Implanter
+ent-StopTimeImplanter = CentComm-Zeitstopp-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-NaniteMenderImplanter = centcomm Implanter
+ent-NaniteMenderImplanter = CentComm-Nanitenheiler-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-AntagImplanterChangeling = Antagimplantat
+ent-AntagImplanterChangeling = Antag-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-AntagImplanterSpaceNinja = Antagimplantat
+ent-AntagImplanterSpaceNinja = Antag-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
-ent-XenoCompatibilityImplanter = Implantatextraktor
+ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
     .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
 
-ent-RedspaceLifelineImplanter = Syndicate-Implantat
+ent-RedspaceLifelineImplanter = Syndicate-Redspace-Lebensader-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
-ent-TelepathyImplanter = Implantatextraktor
+ent-TelepathyImplanter = Telepathie-Implantator
     .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
