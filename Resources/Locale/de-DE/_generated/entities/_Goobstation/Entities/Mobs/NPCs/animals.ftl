@@ -28,10 +28,10 @@ ent-MouseMenace = Bedrohung
 ent-MobCorgiIanClown = Clown Ian
     .desc = Der Lieblingscorgi der Honkmother.
 
-ent-MobBrullbar = Oberarm
+ent-MobBrullbar = Brullbär
     .desc = Oh Gott.
 
-ent-MobBrullbarKing = Brullbar King
+ent-MobBrullbarKing = Brullbär-König
     .desc = Sieht gemein aus, ist gemein. Du läufst besser.
 
 ent-MobBearGoon = Bär

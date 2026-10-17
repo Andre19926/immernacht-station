@@ -1,7 +1,7 @@
 ent-ProjectileMagicMissile = magischer Flugkörper
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-ProjectileToolboxHoming = Homing Werkzeugkasten
+ent-ProjectileToolboxHoming = Zielsuchende Werkzeugkiste
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-ProjectileSpellCardRedNoHoming = verzauberte Karte

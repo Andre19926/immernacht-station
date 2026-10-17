@@ -52,7 +52,7 @@ ent-ClothingMaskSlasherCult = Abgrundmaske
 ent-ClothingOuterSlasherCult = Kultroben
     .desc = Es gibt keinen slasher ohne klassische kultrobe.
 
-ent-SlasherEldritchBlade = Winkelmesser
+ent-SlasherEldritchBlade = Unheimliche Klinge
     .desc = Ein Schwert, das mit unheiliger Energie summt. Der Slasher hat es als seinen eigenen beansprucht.
 
 ent-ClothingHeadSlasherMaintenance = Papierbeutel

@@ -6,7 +6,7 @@ ent-ScrollTeleport = Rolle der Teleportation
 ent-ScrollTeleportApprentice = Rolle der Teleportation
     .desc = Diese Schriftrolle kann dich überall auf der Station teleportieren. Es hat nur eine Verwendung.
 
-ent-ThrownLightning = Blitzbolzenzauberpaket
+ent-ThrownLightning = Blitzschlag-Zauberpaket
     .desc = Einige Vogelsamen in ein Tuch gewickelt, das mit Elektrizität knistert.
 
 ent-ContractApprenticeship = Ausbildungsvertrag

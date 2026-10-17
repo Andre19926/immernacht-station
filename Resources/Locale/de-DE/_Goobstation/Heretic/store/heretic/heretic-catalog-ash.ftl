@@ -84,7 +84,7 @@ knowledge-path-ash-s8-desc =
     Gewährt dir Wiedergeburt des Nachtwächters, einen Zauber, der dich löscht und alle nahen brennenden Ungläubigen verbrennt und dich für jedes betroffene Opfer heilt.
     Befindet sich ein betroffenes Opfer in kritischem Zustand, stirbt es sofort.
 
-knowledge-path-ash-s9-name = Ashlord's Ritus
+knowledge-path-ash-s9-name = Ritus des Aschelords
 knowledge-path-ash-s9-desc =
     Das Aufstiegsritual des Pfades der Asche.
     Bringe 3 brennende oder ausgedörrte Leichen zu einer Transmutationsrune, um das Ritual abzuschließen.

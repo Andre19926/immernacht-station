@@ -57,18 +57,18 @@ heretic-ritual-fail-cannot-ascend-objectives = Du musst deine Ziele erfüllen, u
 
 ## side quests
 heretic-ritual-side-knowledge = Ritual des Wissens
-heretic-ritual-side-shark = Weißer Hai
+heretic-ritual-side-shark = Sengender Hai
 heretic-ritual-side-cloak = Leermantel
 heretic-ritual-side-ghoul = Zerbrochenes Ritual
-heretic-ritual-side-armor = Rüstungsritual
+heretic-ritual-side-armor = Ritual des Rüstungsschmieds
 heretic-ritual-side-water = Ritual des Priesters
 heretic-ritual-side-knife = Schneidmesser
-heretic-ritual-side-crucible = Gemähter Schmelztiegel
+heretic-ritual-side-crucible = Schlund-Schmelztiegel
 heretic-ritual-side-coin = Eldritch-Münze
 
 ## ash path
 heretic-ritual-ash-blade = Geheimnis des Nachtwächters
-heretic-ritual-ash-grasp = Aschegriff
+heretic-ritual-ash-grasp = Griff der Asche
 heretic-ritual-ash-mask = Maske des Wahnsinns
 heretic-ritual-ash-ascend = Ritus des Aschelords
 

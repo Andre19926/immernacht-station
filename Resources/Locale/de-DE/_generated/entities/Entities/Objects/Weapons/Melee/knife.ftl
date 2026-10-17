@@ -1,8 +1,8 @@
 ent-KitchenKnife = Küchenmesser
     .desc = Ein Generalzweck Chef's Knife von Asters Merchant Guild. Garantiert, um für die kommenden jahre scharf zu bleiben.
 
-ent-ButchCleaver = Metzgerscher
-    .desc = Eine riesige Klinge zum Hacken und Hacken von Fleisch. Dazu gehören Clowns und Clown-by-Produkte.
+ent-ButchCleaver = Fleischerbeil
+    .desc = Eine riesige Klinge zum Zerhacken von Fleisch. Dazu zählen auch Clowns und Clownnebenprodukte.
 
 ent-CombatKnife = Kampfmesser
     .desc = Ein tödliches Messer für Nahkampfkonfrontationen.

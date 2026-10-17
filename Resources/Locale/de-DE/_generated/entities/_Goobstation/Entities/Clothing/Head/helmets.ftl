@@ -7,7 +7,7 @@ ent-ClothingHeadHelmetHEV = H.E.V. Helm
 ent-ClothingHeadHelmetBasicAlt = Helm
     .desc = Standard-Sicherheitsausrüstung. Schützt den Kopf vor Stößen.
 
-ent-ReverseBearTrap = Rückfallfalle
+ent-ReverseBearTrap = Umgekehrte Bärenfalle
     .desc = Ein grauenhafter Satz geschlossener Metallbacken, an einer Küchenuhr befestigt und mit einem Vorhängeschloss an einer Kopfklemme gesichert. Um sich zu bewerben, schlag jemanden damit.
 
 ent-ClothingHeadHatHoodCloakSith = Dark Lord Hood

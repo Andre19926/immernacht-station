@@ -15,5 +15,5 @@ ent-ActionToggleFov = Toggle FoV
 ent-ActionToggleGhosts = Toggle Ghosts
     .desc = Schalte die Sichtbarkeit anderer Geister um.
 
-ent-ActionToggleGhostHearing = Umschalten Ghost Hearing
+ent-ActionToggleGhostHearing = Geisterhören umschalten
     .desc = Wechseln dich zwischen dem Hören aller Nachrichten und dem Hören von nur Radio- und Nahnachrichten.

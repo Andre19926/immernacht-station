@@ -4,5 +4,5 @@ ent-MobNanites = Nanitenschwarm
 ent-GunBot = Gunbot
     .desc = Ein Sicherheitsroboter, etwas scheint ein bisschen aus.
 
-ent-NukeBot = Syndicate Gunbot
+ent-NukeBot = Syndicate-Gunbot
     .desc = Ein älteres Modell des Syndicate-S Angriff borg, spezialisiert auf Nahkampf.

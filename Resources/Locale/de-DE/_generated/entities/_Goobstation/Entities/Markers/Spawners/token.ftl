@@ -8,7 +8,7 @@ ent-SpawnPointGhostDerelictCyborgSyndicateToken = Geisterrollen-Spawnpunkt
 
 ent-SpawnPointGhostBinglePrimeToken = Geisterrollen-Spawnpunkt
 
-ent-SpawnPointGhostBlobRatToken = Maus Blob Spawn Point
+ent-SpawnPointGhostBlobRatToken = Blob-Mäuse-Spawnpunkt
 
 ent-LoneAbductorSpawnerToken = Geisterrollen-Spawnpunkt
 

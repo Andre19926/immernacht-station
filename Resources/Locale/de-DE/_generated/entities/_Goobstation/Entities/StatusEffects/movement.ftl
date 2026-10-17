@@ -6,7 +6,7 @@ ent-MartialArtsGenericSlowdownEffect = Martial Arts Verlangsamung
 
 ent-OrgansDamagedSlowdownEffect = Organschäden Verlangsamung
 
-ent-ShadowCloakSlowdownEffect = Verlangsamung des Schattenmantels
+ent-ShadowCloakSlowdownEffect = Verlangsamung des Schattenumhangs
 
 ent-ShadowlingGlareSlowdownEffect = Verlangsamung der Blendung von Schattenlingen
 
