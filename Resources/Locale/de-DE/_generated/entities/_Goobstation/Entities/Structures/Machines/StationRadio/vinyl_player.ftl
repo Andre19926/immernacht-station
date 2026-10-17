@@ -1,2 +1,2 @@
 ent-VinylPlayer = Vinylspieler
-    .desc = Ein Schallplattenspieler der alten Schule saß auf einer Reihe von Schubladen.
+    .desc = Ein klassischer Schallplattenspieler auf einer Kommode.

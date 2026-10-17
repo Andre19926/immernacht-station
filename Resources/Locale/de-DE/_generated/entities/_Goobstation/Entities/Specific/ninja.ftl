@@ -1,2 +1,2 @@
 ent-NinjutsuScroll = Ninjutsu Scroll
-    .desc = Eine grüne Schriftrolle mit einer japanischen Schrift. Seine Lektionen sind für diejenigen geschrieben, die unsichtbar zuschlagen.
+    .desc = Eine grüne Schriftrolle mit japanischer Schrift. Ihre Lehren sind für jene geschrieben, die unsichtbar zuschlagen.

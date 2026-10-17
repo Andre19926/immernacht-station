@@ -1,5 +1,5 @@
 ent-CaneBladeNanotrasen = Nanotrasen-Stockdegenklinge
-    .desc = Eine scharfe Klinge mit einem rohrförmigen Griff, ein Nanotrasen-Logo ist auf der Klinge eingraviert.
+    .desc = Eine scharfe Klinge mit rohrförmigem Griff; auf der Klinge ist ein Nanotrasen-Logo eingraviert.
 
 ent-CaneSheathFilledNanotrasen = Nanotrasen-Stockdegen
     .desc = Ein einfacher Holzgehstock. Erleichtert Menschen mit Gehbehinderung das Fortbewegen.

@@ -1,5 +1,5 @@
 ent-ChairOfficeWhiteRocket = Weißer Raketenstuhl
-    .desc = Starte von Abteilung zu Abteilung, weil Laufen für Praktikanten ist.
+    .desc = Schieß von Abteilung zu Abteilung, denn Laufen ist was für Praktikanten.
 
 ent-ChairOfficeDarkRocket = dunkler Raketenstuhl
-    .desc = Starte von Abteilung zu Abteilung, weil Laufen für Praktikanten ist.
+    .desc = Schieß von Abteilung zu Abteilung, denn Laufen ist was für Praktikanten.

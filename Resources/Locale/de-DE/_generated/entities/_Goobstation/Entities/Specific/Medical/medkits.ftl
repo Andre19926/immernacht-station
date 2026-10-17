@@ -1,5 +1,5 @@
 ent-AdvancedCombatMedipen = Fortgeschrittene Kampfmedipen
-    .desc = Ein fortgeschrittenes Einweg-Medipen, das Chemikalien enthält, die aus eldritch Tieren extrahiert wurden.
+    .desc = Ein fortschrittlicher Einweg-Medipen mit Chemikalien, die aus unheimlichen Tieren gewonnen wurden.
 
 ent-MedkitBSO = taktisches medizinisches Kit
     .desc = Enthält alles, was du brauchst, um eine Person schnell wieder auf die Beine zu bringen.

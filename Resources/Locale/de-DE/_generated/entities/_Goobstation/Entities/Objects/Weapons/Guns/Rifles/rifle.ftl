@@ -1,11 +1,11 @@
 ent-WeaponRifleBurner = Brenner
-    .desc = Ein obszönes vollautomatisches Antimaterialgewehr, das.50 herunterschleudert, solange du es schultern kannst. Du willst nicht wissen, wie viel es kostet. Feeds von.50 Anti-Materiel Magazine.
+    .desc = Ein obszönes vollautomatisches Antimaterialgewehr, das .50er-Geschosse verschießt, solange du es schultern kannst. Du willst nicht wissen, was es kostet. Nimmt .50-Antimaterial-Magazine auf.
 
 ent-WeaponRifleM90 = M-90
-    .desc = Eine billigere Überarbeitung des M-90GL, die den integrierten Granatwerfer auslässt. Wird von .20 Gewehrmagazinen gespeist.
+    .desc = Eine günstigere Überarbeitung des M-90GL ohne den integrierten Granatwerfer. Nimmt .20-Gewehrmagazine auf.
 
 ent-WeaponRifleAnnie = Annie
-    .desc = Eine Bestie, die das Gewicht unmöglicher Missionen und den Stolz des Emergency Response Corps tragen soll. Wird von .30 Gewehrmagazinen gespeist.
+    .desc = Ein Biest, das die Last unmöglicher Missionen und den Stolz des Emergency Response Corps tragen soll. Nimmt .30-Gewehrmagazine auf.
 
 ent-WeaponRifleWSPR = WSPR
-    .desc = Ein obskures Gewehr von Cybersun, das für verdeckte Missionen in zielreichen Umgebungen entwickelt wurde. Verstummt, unterschallig und gegenstandslos, für den Arbeiter, der keine Spur hinterlässt. Wird von 9,5mm SMG Magazinen gespeist.
+    .desc = Ein obskures Gewehr von Cybersun, entwickelt für verdeckte Missionen in zielreichen Umgebungen. Schallgedämpft, Unterschall und unauffällig – für den Arbeiter, der keine Spur hinterlässt. Nimmt 9,5-mm-SMG-Magazine auf.

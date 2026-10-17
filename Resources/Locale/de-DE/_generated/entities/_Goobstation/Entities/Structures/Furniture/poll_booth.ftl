@@ -1,2 +1,2 @@
 ent-PollBooth = Wahlkabine
-    .desc = Ein Stand für die Abgabe deiner Stimme auf Gemeinschaftsumfragen. Aktiviere, um das Umfragefenster zu öffnen.
+    .desc = Ein Stand zur Stimmabgabe bei Gemeinschaftsumfragen. Aktiviere ihn, um das Umfragefenster zu öffnen.

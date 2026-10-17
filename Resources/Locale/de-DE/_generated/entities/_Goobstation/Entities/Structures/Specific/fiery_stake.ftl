@@ -1,2 +1,2 @@
 ent-FieryStake = Feuerfest
-    .desc = Aber Gott zeigt seine eigene Liebe für uns in diesem ... Während wir noch Sünder waren, starb Christus für uns!
+    .desc = Aber Gott erweist seine Liebe zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren!

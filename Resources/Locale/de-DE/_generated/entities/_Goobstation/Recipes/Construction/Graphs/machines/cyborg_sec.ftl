@@ -1,2 +1,2 @@
 ent-CyborgEndoskeletonSEC = S.E.C.-Cyborg-Endoskelett
-    .desc = Ein stark verstärkter Rahmen, auf dem Sicherheitscyborgs aufgebaut sind.
+    .desc = Ein stark verstärkter Rahmen, auf dem Sicherheits-Cyborgs aufgebaut werden.

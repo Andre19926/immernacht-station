@@ -1,2 +1,2 @@
 ent-ComputerVirology = Virologiekonsole
-    .desc = Wird verwendet, um Informationen über analysierte Krankheiten anzuzeigen und sie zu benennen.
+    .desc = Zeigt Informationen über analysierte Krankheiten an und ermöglicht, ihnen Namen zu geben.

@@ -1,2 +1,2 @@
 ent-PlumbingPump = Flüssigkeitspumpe
-    .desc = Eine elektrische Pumpe, die Flüssigkeiten zwischen Maschinen übertragen kann, in denen ein Automatisierungsupgrade installiert ist.
+    .desc = Eine elektrische Pumpe, die Flüssigkeiten zwischen Maschinen mit installiertem Automatisierungs-Upgrade übertragen kann.

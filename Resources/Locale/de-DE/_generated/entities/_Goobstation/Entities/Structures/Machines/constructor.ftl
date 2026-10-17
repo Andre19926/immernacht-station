@@ -1,2 +1,2 @@
 ent-Constructor = Konstruktor
-    .desc = Die Maschine, die Assistenten aus einem Job bringt, kann alles mit gelieferten Materialien bauen.
+    .desc = Die Maschine, die Assistenten um ihren Job bringt: Sie kann mit gelieferten Materialien alles bauen.

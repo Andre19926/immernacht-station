@@ -1,2 +1,2 @@
 ent-LollyChop = Lollychops
-    .desc = Füllen (Split) deine Kumpels Bauch (Schädel) mit diesem köstlichen Süßigkeiten (kalten Stahl).
+    .desc = Füll den Bauch (spalte den Schädel) deiner Kumpels mit diesem köstlichen Konfekt (kaltem Stahl).

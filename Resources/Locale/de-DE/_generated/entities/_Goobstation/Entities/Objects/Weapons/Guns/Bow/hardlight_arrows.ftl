@@ -1,23 +1,23 @@
 ent-ArrowEnergy = Energiepfeil
-    .desc = Ein Pfeil aus Hardlight.
+    .desc = Ein Pfeil aus Hartlicht.
 
 ent-ArrowDisabler = Neutralisierer-Pfeil
-    .desc = Ein Pfeil aus Hardlight. Dieser betäubt das Opfer auf nicht tödliche Weise.
+    .desc = Ein Pfeil aus Hartlicht. Dieser betäubt das Opfer nicht tödlich.
 
 ent-ArrowFiery = feuriger Pfeil
-    .desc = Ein Pfeil aus Hardlight. Dieser verbrennt das Opfer.
+    .desc = Ein Pfeil aus Hartlicht. Dieser verbrennt das Opfer.
 
 ent-ArrowFreeze = Gefrierpunkt
-    .desc = Ein Pfeil aus Hardlight. Dieser friert das Opfer ein.
+    .desc = Ein Pfeil aus Hartlicht. Dieser friert das Opfer ein.
 
 ent-ArrowExplosive = Sprengstoffpfeil
-    .desc = Ein Pfeil aus Hardlight. Dieser explodiert beim Treffer, aber die Energie verschwindet schnell, es wird nicht sehr weit fliegen.
+    .desc = Ein Pfeil aus Hartlicht. Dieser explodiert beim Treffer, aber die Energie verfliegt schnell, sodass er nicht sehr weit fliegt.
 
 ent-ArrowXray = Röntgenpfeil
-    .desc = Ein Pfeil aus Hardlight. Dieser durchdringt alles.
+    .desc = Ein Pfeil aus Hartlicht. Dieser durchdringt alles.
 
 ent-ArrowBee = Bienenpfeil
-    .desc = Ein Pfeil aus hartem Licht. Dieser beschwört wütende Bienen.
+    .desc = Ein Pfeil aus Hartlicht. Dieser beschwört wütende Bienen.
 
 ent-ArrowIon = Ionenpfeil
-    .desc = Ein Pfeil aus Hartlicht. Verursacht beim Treffer einen EMP.
+    .desc = Ein Pfeil aus Hartlicht. Löst beim Treffer einen EMP aus.

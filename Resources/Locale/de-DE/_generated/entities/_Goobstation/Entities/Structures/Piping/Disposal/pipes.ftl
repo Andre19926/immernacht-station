@@ -1,2 +1,2 @@
 ent-DisposalBlocker = Entsorgungsrohrblocker
-    .desc = Ein Rohr, das die Bewegung von Objekten auf der einen Seite ermöglicht und es auf der anderen Seite blockiert.
+    .desc = Ein Rohr, das Objekte auf der einen Seite durchlässt und auf der anderen Seite blockiert.

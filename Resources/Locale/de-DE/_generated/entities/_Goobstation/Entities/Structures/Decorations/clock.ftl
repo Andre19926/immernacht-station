@@ -1,2 +1,2 @@
 ent-Clock = Wanduhr
-    .desc = Würdest du dir die Zeit ansehen!
+    .desc = Sieh dir nur die Zeit an!

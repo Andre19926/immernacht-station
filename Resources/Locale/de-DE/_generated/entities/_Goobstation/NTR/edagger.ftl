@@ -1,2 +1,2 @@
 ent-PhoronDagger = Phorondolch
-    .desc = Ein schlanker Dolch zum Grillen von Käse und zum Töten von Gezeiten.
+    .desc = Ein schlanker Dolch zum Käseschneiden und zum Töten von Tides.

@@ -1,2 +1,2 @@
 ent-Interactor = Interaktor
-    .desc = Ein Roboteraktuator, der auf die Interaktion mit Objekten unter Verwendung von Werkzeugen spezialisiert ist.
+    .desc = Ein Roboteraktuator, spezialisiert auf die Interaktion mit Objekten mittels Werkzeugen.

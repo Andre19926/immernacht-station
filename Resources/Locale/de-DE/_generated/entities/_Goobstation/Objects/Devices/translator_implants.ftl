@@ -1,17 +1,17 @@
 ent-LibrarianTranslatorImplant = Bibliothekarisches Übersetzerimplantat
-    .desc = Ein Implantat, das die Fähigkeit gibt, die meisten Sprachen zu verstehen und zu sprechen.
+    .desc = Ein Implantat, das die Fähigkeit verleiht, die meisten Sprachen zu verstehen und zu sprechen.
 
 ent-ChevalTranslatorImplant = Cheval-Translatorimplantat
-    .desc = Ein Implantat, das Cheval verstehen und sprechen kann.
+    .desc = Ein Implantat, das die Fähigkeit verleiht, Cheval zu verstehen und zu sprechen.
 
 ent-BasicSpaceItalianTranslatorImplant = Basic Space Italienisches Übersetzerimplantat
-    .desc = Bietet dir die Möglichkeit, die Bewohner der Küche zu verstehen.
+    .desc = Gibt dir die Fähigkeit, die Bewohner der Küche zu verstehen.
 
 ent-SpaceItalianTranslatorImplant = Advanced Space Italienisches Übersetzerimplantat
-    .desc = Bietet dir die Fähigkeit, die Sprachen der Küche zu sprechen.
+    .desc = Gibt dir die Fähigkeit, die Sprachen der Küche zu sprechen.
 
 ent-YowKriolTranslatorImplant = Yow Kriol Translatorimplantat
-    .desc = Ein Implantat, das die Fähigkeit gibt, Yow Kriol zu verstehen und zu sprechen.
+    .desc = Ein Implantat, das die Fähigkeit verleiht, Yow Kriol zu verstehen und zu sprechen.
 
 ent-SignTranslatorImplant = Schildtranslatorimplantat
-    .desc = Ein Implantat, das die Fähigkeit gibt, die Schildsprache zu verstehen und zu sprechen.
+    .desc = Ein Implantat, das die Fähigkeit verleiht, die Schildsprache zu verstehen und zu sprechen.

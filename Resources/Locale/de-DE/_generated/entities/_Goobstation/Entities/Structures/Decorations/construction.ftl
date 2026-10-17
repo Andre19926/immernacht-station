@@ -1,2 +1,2 @@
 ent-ConstructionBarricade = Baubarrikade
-    .desc = Trage deinen Helm!
+    .desc = Trag deinen Helm!

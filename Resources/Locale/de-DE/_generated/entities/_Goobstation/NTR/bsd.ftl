@@ -1,4 +1,4 @@
 ent-BlueShieldDeputy = Blueshield Stellvertreter
 
 ent-BlueShieldDeputySpawnBriefcase = Blueshield Stellvertretender Teleporter Aktenkoffer
-    .desc = Ein spezielles Gerät, das ein Bluespace-Portal öffnet, das mit dem nächstgelegenen NanoTrasen-Stellvertreter verbunden ist, wenn dein lokaler Blueshield-Stellvertreter bereit ist, wird er zu diesem Ort teleportiert.
+    .desc = Ein Spezialgerät, das ein Bluespace-Portal zum nächstgelegenen Nanotrasen-Vertreter öffnet. Sobald dein örtlicher Blueshield-Vertreter bereit ist, wird er an diesen Ort teleportiert.

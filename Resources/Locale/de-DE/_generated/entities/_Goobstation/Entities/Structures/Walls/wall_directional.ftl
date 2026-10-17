@@ -1,2 +1,2 @@
 ent-WallDirectional = gerichtete Wand
-    .desc = Billige und fröhliche Metallplattierung.
+    .desc = Billige, aber zweckmäßige Metallplatten.

@@ -1,11 +1,11 @@
 ent-SlotMachine = Spielautomat
-    .desc = Glücksspiel für die antisozialen.
+    .desc = Glücksspiel für Asoziale.
 
 ent-SlotMachineHighRoller = Der persönliche Spielautomat des QM
-    .desc = Eine High Roller Version des Spielautomaten, nimmt satte 100k pro Drehung, aber du kannst 1 Million davon gewinnen!
+    .desc = Eine High-Roller-Version des Spielautomaten: nimmt satte 100k pro Dreh, aber du kannst 1 Million davon gewinnen!
 
 ent-CoinFlipper = Münzflipper
-    .desc = Coinflipping für das Antisoziale.
+    .desc = Münzwurf für Asoziale.
 
 ent-ClawMachine = Klauenmaschine
-    .desc = Sicher haben wir unsere Krankenversicherungsleistungen gekürzt, und ja, wir bekommen keine Überstunden in den Ferien, aber hey - kostenlos, um Klauenautomaten zu spielen!
+    .desc = Klar, wir haben die Krankenversicherungsleistungen gekürzt, und ja, in den Ferien gibt es keine Überstundenzuschläge, aber hey – kostenlos Greifautomaten spielen!

@@ -1,14 +1,14 @@
 ent-VendingMachineFitness = SweatMAX
-    .desc = Eine Übungshilfe und Nahrungsergänzungsmittel Automat, der auf deine Unzulänglichkeit Jagd macht.
+    .desc = Ein Automat für Trainingshilfen und Nahrungsergänzungsmittel, der es auf deine Unzulänglichkeit abgesehen hat.
 
 ent-VendingMachineHotfood = Heiße Lebensmittel
     .desc = Ein alter Automat, der „heiße Lebensmittel“ verspricht. Du bezweifelst, dass irgendetwas darin noch essbar ist.
 
 ent-VendingMachineSolsnack = Mars Mart
-    .desc = Ein SolCentric-Automat, der Leckereien von zu Hause aus ausgibt.
+    .desc = Ein SolCentric-Automat, der Leckereien von zu Hause ausgibt.
 
 ent-VendingMachineWeeb = Nippontan
-    .desc = Ein bedrückend ethnischer Verkaufsautomat, der mit hohem Saccharose-Kaloriengehalt beladen ist, weil es keine besseren Wörter gibt.
+    .desc = Ein bedrückend ethnischer Verkaufsautomat, vollgepackt mit hochkalorischem Zucker, weil es keine besseren Worte gibt.
 
 ent-VendingMachineSweetToof = Bonbons, süß
-    .desc = Ein Verkaufsautomat, der eine ungesunde Menge Süßigkeiten verkauft. Du müsstest einen "süßen zahn" haben, um es zu genießen.
+    .desc = Ein Verkaufsautomat mit einer ungesunden Menge Süßigkeiten. Du müsstest eine Naschkatze sein, um ihn zu genießen.

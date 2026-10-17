@@ -1,2 +1,2 @@
 ent-DataSiphon = Datensiphon
-    .desc = Entwässert die Station ihrer Wertsachen und speichert Wertsachen in entbehrlicher Form.
+    .desc = Entzieht der Station ihre Wertsachen und speichert sie in entbehrlicher Form.

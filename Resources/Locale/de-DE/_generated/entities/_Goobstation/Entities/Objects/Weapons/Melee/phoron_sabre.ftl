@@ -1,2 +1,2 @@
 ent-PhoronSabre = Phoronsäbel
-    .desc = Die Unterschrift Waffe der gefürchteten Deathquads. Es ist hauptsächlich für Show.
+    .desc = Die Erkennungswaffe der gefürchteten Deathquads. Sie ist hauptsächlich Show.

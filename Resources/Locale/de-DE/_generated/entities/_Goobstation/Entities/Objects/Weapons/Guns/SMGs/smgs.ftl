@@ -1,2 +1,2 @@
 ent-WeaponSubMachineGunM7S = M7S Ventilator
-    .desc = Denn wenn du einen ganzen Flur mit Gewalt auslüften musst. Wird von Sideloading 5x23mm Magazinen gespeist.
+    .desc = Denn wenn du einen ganzen Flur mit Gewalt lüften musst. Nimmt seitlich ladbare 5x23-mm-Magazine auf.

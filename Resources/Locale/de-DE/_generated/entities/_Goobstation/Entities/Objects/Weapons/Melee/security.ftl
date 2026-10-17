@@ -1,11 +1,11 @@
 ent-PolymerBaton = Polymerstab
-    .desc = Ein leichter, langlebiger Stab aus fortschrittlichen Polymeren. Liefert weniger als tödliche Kraft für Compliance und Kontrolle.
+    .desc = Ein leichter, langlebiger Stab aus fortschrittlichen Polymeren. Liefert nicht tödliche Gewalt für Durchsetzung und Kontrolle.
 
 ent-SpearTelescopic = Teleskopspeer
-    .desc = Ein kompakter, auswerfbarer Speer mit einziehbarer Welle. Entwickelt sowohl für Nahkampf als auch für Fernkampf.
+    .desc = Ein kompakter, wurffähiger Speer mit einziehbarem Schaft. Entworfen für Nah- und Fernkampf.
 
 ent-Betty = Betty
-    .desc = Ein altes kompliziertes Souvenir aus hartem hypergewebtem Durathread, das für den Aufruhrkampf wiederverwendet wurde.
+    .desc = Ein altes, kompliziertes Souvenir aus hartem, hypergewebtem Durathread, umfunktioniert für den Aufruhrkampf.
 
 ent-PoliceBaton = Polizeistab
-    .desc = Ein hölzerner Schlagstock, um kriminellen Abschaum zu schlagen.
+    .desc = Ein hölzerner Schlagstock, um kriminellen Abschaum zu verprügeln.

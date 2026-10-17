@@ -1,2 +1,2 @@
 ent-LiveInjector = Leerlaufinjektor
-    .desc = Injiziert Menschen mit einer Krankheit.
+    .desc = Injiziert Menschen eine Krankheit.

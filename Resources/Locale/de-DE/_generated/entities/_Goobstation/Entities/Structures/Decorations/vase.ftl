@@ -1,5 +1,5 @@
 ent-VasePlant0 = leere Vase
-    .desc = Es ist eine Vase. Es hält Blumen. Dieser ist leer.
+    .desc = Das ist eine Vase. Sie hält Blumen. Diese ist leer.
 
 ent-VasePlant1 = Vase
     .desc = Eine Vase. Sie hält Blumen.

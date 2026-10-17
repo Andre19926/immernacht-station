@@ -1,8 +1,8 @@
 ent-RadioLeadIntern = Lead Intern Calling Radio
-    .desc = Ein NT-zugelassenes Radio, das einen Lead-Praktikanten mit speziellen Münzen beschwören kann.
+    .desc = Ein von NT zugelassenes Funkgerät, das mit speziellen Münzen einen Lead-Praktikanten herbeirufen kann.
 
 ent-InternCoin = Interne Vorladungsmünze
-    .desc = Wirf einen Praktikanten herbei.
+    .desc = Beschwöre einen Praktikanten.
 
 ent-NerdInternCoin = Nerd Intern Beschwörung Münze
-    .desc = Wirf einen Nerd Praktikanten herbei.
+    .desc = Beschwöre einen Nerd-Praktikanten.

@@ -1,2 +1,2 @@
 ent-ClothingHandsGlovesKravMaga = Krav Maga Handschuhe
-    .desc = Diese Handschuhe können dir beibringen, Krav Maga mit Nanochips durchzuführen, solange du sie trägst.
+    .desc = Diese Handschuhe können dir mit Nanochips Krav Maga beibringen, solange du sie trägst.

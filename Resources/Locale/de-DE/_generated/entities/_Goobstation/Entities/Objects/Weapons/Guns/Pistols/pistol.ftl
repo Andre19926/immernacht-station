@@ -1,8 +1,8 @@
 ent-WeaponPistolDualetta = Dualetta
-    .desc = Die coolste Pistole des Sektors. Es wird gesagt, dass niemand stark genug ist, um diese Waffe zu beflecken, indem er sie ohne ihre gepaarte Pistole zu feuern vermag. Wird von .35 Auto pistol magazines gespeist.
+    .desc = Die coolste Pistole des Sektors. Es heißt, niemand sei stark genug, diese Waffe zu entehren, indem er sie ohne ihre Partnerpistole abfeuert. Nimmt .35-Auto-Pistolenmagazine auf.
 
 ent-WeaponPistolAnaconda = Anaconda
-    .desc = Eine sperrige Handkanone mit einem eingebauten Hersteller im Griff. Langsam druckt Munition für sich selbst, obwohl nicht darauf zählen, dass es schnell genug für anhaltende Feuergefechte.
+    .desc = Eine sperrige Handkanone mit eingebautem Hersteller im Griff. Sie druckt langsam Munition für sich selbst, aber verlass dich nicht darauf, dass es für anhaltende Feuergefechte schnell genug geht.
 
 ent-WeaponPistolCentcommAgent = Vertragsterminierung
-    .desc = Notwendigkeit ist die Mutter der Täuschung.
+    .desc = Not macht erfinderisch – und manchmal auch betrügerisch.

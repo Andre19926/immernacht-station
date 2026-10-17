@@ -1,2 +1,2 @@
 ent-SlimeGrinder = Schleimmühle
-    .desc = Produziert Extrakte aus einem Schleim Leiche.
+    .desc = Gewinnt Extrakte aus einer Schleimleiche.

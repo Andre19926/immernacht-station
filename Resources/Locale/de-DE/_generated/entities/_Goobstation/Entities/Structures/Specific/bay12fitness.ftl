@@ -5,16 +5,16 @@ ent-FitnessWeightLifter = Gewichtheber
     .desc = Du sitzt darin. Entweder freiwillig oder unter Zwang.
 
 ent-FitnessPunchingBagBopClown = Clown Bop Bag
-    .desc = Eine Fitness-Trainingstasche mit einem aufgedruckten Clown.
+    .desc = Eine Sporttasche mit aufgedrucktem Clown.
 
 ent-FitnessPunchingBag = Stanzbeutel
-    .desc = Eine Fitness-Trainingstasche.
+    .desc = Eine Sporttasche.
 
 ent-FitnessPunchingBagCaptain = Stanzbeutel
-    .desc = Eine Fitness-Trainingstasche mit einem Kapitän darauf gedruckt.
+    .desc = Eine Sporttasche mit aufgedrucktem Kapitän.
 
 ent-FitnessPunchingBagSyndicate = Stanzbeutel
-    .desc = Eine Fitness-Trainingstasche mit einem Syndicate-Agenten aufgedruckt.
+    .desc = Eine Sporttasche mit aufgedrucktem Syndicate-Agenten.
 
 ent-FitnessPunchingBagWizard = Stanzbeutel
-    .desc = Eine Fitness-Trainingstasche mit einem Zauberer aufgedruckt.
+    .desc = Eine Sporttasche mit aufgedrucktem Zauberer.

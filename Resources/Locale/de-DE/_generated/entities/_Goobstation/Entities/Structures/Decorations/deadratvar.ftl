@@ -1,2 +1,2 @@
 ent-DeadRatvar = totes Konstrukt
-    .desc = Die Leiche eines alten Konstrukts aus Messing und Zahnrädern. Es summt immer noch mit enormer Kraft.
+    .desc = Die Überreste eines alten Konstrukts aus Messing und Zahnrädern. Es summt noch immer vor enormer Kraft.

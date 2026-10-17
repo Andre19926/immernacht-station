@@ -1,5 +1,5 @@
 ent-HeatExchangerInline = Inline-Kühler
-    .desc = Überträgt die wärme zwischen dem rohr und seiner umgebung. Benötigt keinen Gasfluss.
+    .desc = Überträgt Wärme zwischen dem Rohr und seiner Umgebung. Benötigt keinen Gasfluss.
 
 ent-HeatExchangerInlineBend = Inline-Kühler
-    .desc = Überträgt die wärme zwischen dem rohr und seiner umgebung. Benötigt keinen Gasfluss.
+    .desc = Überträgt Wärme zwischen dem Rohr und seiner Umgebung. Benötigt keinen Gasfluss.

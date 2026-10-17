@@ -2,7 +2,7 @@ ent-PosterLegitGoobWorkHard = Arbeite hart
     .desc = Wenn du hart genug arbeitest, kannst du dir deinen eigenen Nanotrasen Plunger Plus verdienen! Achte nur darauf, lange genug zu überleben, um ihn einzulösen!
 
 ent-PosterLegitGoobMakeshift = Provisorisches Clown-Poster
-    .desc = Ein provisorisches Poster, das aus einem Stift besteht, der auf einem an der Wand geklebten Papier mit einer schrecklichen Mischung aus Klebstoff und Bananenpaste zeichnet. Darauf steht geschrieben: "Clowne was herE!!".
+    .desc = Ein provisorisches Poster: Mit einem Stift auf ein Papier gezeichnet, das mit einer schrecklichen Mischung aus Klebstoff und Bananenpaste an die Wand geklebt wurde. Darauf steht: „Clowne was herE!!“.
 
 ent-PosterLegitGoobCan = Gefallene Dose
     .desc = Ein Poster, das dich daran erinnert, hinter dir aufzuräumen – niemand mag Müll! Oder das ist wahrscheinlich die Botschaft. Es hängt schon so lange hier, dass die ursprüngliche Bedeutung verblasst sein könnte ...
@@ -56,7 +56,7 @@ ent-PosterContrabandGoobChuckler = Der Chuckler
     .desc = Ein Poster mit einem sichtlich leidenden Clown. Hinter der Fassade des Lächelns spürst du Traurigkeit und Wut.
 
 ent-PosterContrabandGoobYakub = Yakub-Poster
-    .desc = Deine yakubischen Tricknologiekräfte, die Yakub in dich eindringt, stärken sich, wenn du in das Poster starrst.
+    .desc = Deine yakubischen Tricknologie-Kräfte, mit denen Yakub in dich eindringt, werden stärker, wenn du das Poster anstarrst.
 
 ent-PosterContrabandGoobRedFOSS = Roter-Tux-Poster
     .desc = Ein Poster, das für freien Open-Source-Kommunismus wirbt. Unklar, ob der Urheber dafür oder dagegen ist.

@@ -1,8 +1,8 @@
 ent-BaseBarrel = Schwarzes Fass
-    .desc = Mache ein Fass rollen!
+    .desc = Mach eine Fassrolle!
 
 ent-BarrelPlanks = Schwarzes Fass
-    .desc = Mache ein Fass rollen!
+    .desc = Mach eine Fassrolle!
 
 ent-BarrelFire = Barrelfeuer
-    .desc = Perfekt warm für die vollkommen Arbeitslosen!
+    .desc = Schön warm für die völlig Arbeitslosen!

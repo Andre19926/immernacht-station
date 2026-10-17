@@ -1,8 +1,8 @@
 ent-PlasticPit = Plastikgrube
-    .desc = Hat Plastik im Inneren. Frag nicht woher.
+    .desc = Enthält Plastik. Frag nicht, woher.
 
 ent-PlasteelPit = Plasteelgrube
-    .desc = Es ist Plastik drin. Frag nicht woher.
+    .desc = Es ist Plastik drin. Frag nicht, woher.
 
 ent-Omnilathe = Omnilathe
-    .desc = Produziert fast alles recherchierbar und Abteilung.
+    .desc = Produziert fast alles, was erforschbar ist, und Abteilungsausrüstung.

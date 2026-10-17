@@ -1,8 +1,8 @@
 ent-ClothingBackpackXenoBioTank = Xenovac Containment Tank
-    .desc = Hält Xenofauna. Enthält auch eine Vakuumdüse auf seiner Seite. Es ist wie Slime Rancher.
+    .desc = Hält Xenofauna. Hat außerdem eine Vakuumdüse an der Seite. Wie bei Slime Rancher.
 
 ent-ClothingBackpackXenoBioTankFilled = Xenovac Containment Tank
-    .desc = Hält Xenofauna. Enthält auch eine Vakuumdüse auf seiner Seite. Es ist wie Slime Rancher.
+    .desc = Hält Xenofauna. Hat außerdem eine Vakuumdüse an der Seite. Wie bei Slime Rancher.
 
 ent-WeaponXenoVacNozzle = Xenovac-Düse
-    .desc = Eine leistungsstarke Vakuumdüse, die in Verbindung mit einem auf Rucksack montierten Lagertank zur Lagerung von Schleimen verwendet wird.
+    .desc = Eine leistungsstarke Vakuumdüse, die zusammen mit einem rucksackmontierten Lagertank zur Lagerung von Schleimen verwendet wird.

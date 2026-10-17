@@ -1,2 +1,2 @@
 ent-CburnSpear = Versandspeise
-    .desc = Ein Speer, der von Nanotrasens CBURN-Agenten verwendet wird. Wirksam bei der Verbrennung organischer Ziele.
+    .desc = Ein Speer, der von den CBURN-Agenten von Nanotrasen verwendet wird. Wirksam beim Verbrennen organischer Ziele.

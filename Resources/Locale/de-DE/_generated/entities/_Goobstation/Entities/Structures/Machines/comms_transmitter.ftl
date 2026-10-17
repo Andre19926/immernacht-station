@@ -1,2 +1,2 @@
 ent-TelecomTransmitter = Telekommunikationssender
-    .desc = Wenn es betrieben wird, können Telekommunikationsserver ihr Signal erweitern.
+    .desc = Wenn mit Strom versorgt, können Telekommunikationsserver ihr Signal erweitern.

@@ -1,2 +1,2 @@
 ent-ContractorBaton = Kontraktorstab
-    .desc = Ein kompakter, spezialisierter Stab, der den Syndicate-Auftragnehmern zugewiesen wurde. Wendet leichte elektrische Schläge auf Ziele an.
+    .desc = Ein kompakter Spezialstab für Syndicate-Auftragnehmer. Verpasst Zielen leichte Stromschläge.

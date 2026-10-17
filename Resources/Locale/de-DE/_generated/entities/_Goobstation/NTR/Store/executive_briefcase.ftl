@@ -1,5 +1,5 @@
 ent-ExecutiveBriefcaseEmpty = Executive Briefcase
-    .desc = Eine Standard-Ausgabe Executive Aktentasche für sicheren NanoNeT-Zugang.
+    .desc = Eine Standard-Führungskräfte-Aktentasche für sicheren NanoNet-Zugang.
 
 ent-ExecutiveBriefcaseDebug = Executive Briefcase
-    .desc = Eine Standard-Ausgabe Executive Aktentasche für sicheren NanoNeT-Zugang.
+    .desc = Eine Standard-Führungskräfte-Aktentasche für sicheren NanoNet-Zugang.

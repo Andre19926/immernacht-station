@@ -1,2 +1,2 @@
 ent-WeaponNailgun = Nagelpistole
-    .desc = Standard-Ausgabe Nanotrasen-Tool, das Hochgeschwindigkeitsnägel feuert. Ideal für schnelle Wandreparaturen und gelegentlich für das Aussteigen aus deiner Abteilung.
+    .desc = Standard-Nanotrasen-Werkzeug, das Hochgeschwindigkeitsnägel verschießt. Ideal für schnelle Wandreparaturen und gelegentlich zum Ausräumen deiner Abteilung.

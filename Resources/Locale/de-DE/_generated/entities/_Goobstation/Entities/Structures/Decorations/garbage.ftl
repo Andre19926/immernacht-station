@@ -1,2 +1,2 @@
 ent-Garbage = Müll
-    .desc = Es kriecht mit Maden!
+    .desc = Es wimmelt von Maden!

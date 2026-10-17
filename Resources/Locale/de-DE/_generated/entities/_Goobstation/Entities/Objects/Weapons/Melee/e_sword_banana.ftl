@@ -1,5 +1,5 @@
 ent-BananiumSword = Bananium Energy Schwert
-    .desc = Ein sehr lautes und rutschiges Schwert mit einem Balken aus reinem, konzentriertem Bananen. Slips un-galoshed Ziele wie Butter.
+    .desc = Ein sehr lautes und rutschiges Schwert mit einer Klinge aus reinem, konzentriertem Bananium. Lässt Ziele ohne Galoschen ausrutschen wie auf Butter.
 
 ent-EnergySwordDoubleRed = Doppelblatt-Energieschwert
     .desc = Praktikanten des Syndicate-Kommandos fanden eine Klinge am Energieschwert nicht genug. Dieses hier lässt sich in Taschen verstauen.

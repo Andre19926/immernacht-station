@@ -2,7 +2,7 @@ ent-MobSkeletonGoon = Schadskelett
     .desc = Ein feindliches Skelett, beschworen von einem Phantomgeist.
 
 ent-MobCrunched = Zerquetschter Wissenschaftler
-    .desc = Ein Kerl, der zwischen die Dimensionen gequetscht worden zu sein scheint. Nicht gerade ein guter Zustand.
+    .desc = Ein Kerl, der offenbar zwischen die Dimensionen gequetscht wurde. Kein guter Zustand.
 
 ent-MobShade = Schatten
     .desc = Oh Gott.
@@ -41,7 +41,7 @@ ent-MobSkeletonGoonWraith = Schadskelett
     .desc = Ein feindliches Skelett, beschworen von einem Phantomgeist.
 
 ent-MobCrunchedWraith = Zerquetschter Wissenschaftler
-    .desc = Ein Kerl, der zwischen die Dimensionen gequetscht worden zu sein scheint. Nicht gerade ein guter Zustand.
+    .desc = Ein Kerl, der offenbar zwischen die Dimensionen gequetscht wurde. Kein guter Zustand.
 
 ent-MobShadeWraith = Schatten
     .desc = Oh Gott.

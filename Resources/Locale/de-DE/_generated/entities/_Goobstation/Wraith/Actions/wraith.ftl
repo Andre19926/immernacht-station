@@ -14,7 +14,7 @@ ent-ActionAbsorbCorpse = Leiche absorbieren
     .desc = Entziehe einer Leiche die Lebensessenz. Bei einem Skelett funktioniert das nicht!
 
 ent-ActionSpook = Spuk
-    .desc = Lass in einem Bereich um dich herum unheimliche, seltsame oder gruselige Dinge geschehen. Benutze die Fähigkeit, um ein Wesen als Ursprung dieser Ereignisse zu erschaffen, und interagiere dann mit ihm, um die Aktion auszuwählen.
+    .desc = Lass in einem Bereich um dich herum unheimliche, seltsame oder gruselige Dinge geschehen. Nutze die Fähigkeit, um ein Wesen als Ursprung dieser Ereignisse zu erschaffen, und interagiere dann mit ihm, um die Aktion auszuwählen.
 
 ent-ActionDecay = Verfall
     .desc = Lass einen Menschen Ausdauer verlieren oder ein Objekt Fehlfunktionen bekommen.
