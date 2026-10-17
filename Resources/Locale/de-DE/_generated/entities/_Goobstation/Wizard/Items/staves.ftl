@@ -1,8 +1,8 @@
 ent-WeaponStaffChange = Stab der Verwandlung
-    .desc = Ein Artefakt, das Bolzen aus korroszierender Energie ausspuckt, die die Form des Ziels selbst dazu bringen, sich neu zu formen.
+    .desc = Ein Artefakt, das Bolzen ätzender Energie verschießt, die das Ziel zwingen, seine Form zu verändern.
 
 ent-WeaponStaffChaos = Stab des Chaos
-    .desc = Ein Artefakt, das Bolzen chaotischer Magie ausspuckt, die möglicherweise alles tun können.
+    .desc = Ein Artefakt, das Bolzen chaotischer Magie verschießt, die möglicherweise alles Mögliche bewirken können.
 
 ent-WeaponStaffSlipping = Stab des Ausrutschens
-    .desc = Ein Artefakt, das spuckt ... Bananen?
+    .desc = Ein Artefakt, das ... Bananen verschießt?

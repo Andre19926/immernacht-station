@@ -37,27 +37,27 @@ ent-ProjectileDeathBolt = Bolzen des Todes
     .desc = Du bist schon tot, du weißt es nur noch nicht.
 
 ent-ProjectileTeleBolt = Der Bolzen der Teleportation
-    .desc = Blinzeln dich nicht, sonst verpasse dich teleportieren.
+    .desc = Blinzle nicht, sonst verpasst du die Teleportation.
 
 ent-ProjectileFieryBolt = Feuerbolzen
 
 ent-ProjectileIceCubeBolt = Eisschraube
-    .desc = Es wird dich rutschen lassen.
+    .desc = Du wirst darauf ausrutschen.
 
 ent-ProjectileSwapBolt = Wechselbolzen
-    .desc = Lasst uns tanzen.
+    .desc = Lasst uns tanzen!
 
 ent-ProjectileBeeBolt = Wirbel
     .desc = Nicht die Bienen!
 
 ent-ProjectileXRayBolt = Röntgenbolzen
-    .desc = Mauern sind kein Hindernis.
+    .desc = Wände sind kein Hindernis.
 
 ent-ProjectileEmpBolt = Elektromagnetischer Bolzen
     .desc = Energie niedrig!!!
 
 ent-ProjectileSmokeBolt = Rauchmelder
-    .desc = Nicht einatmen.
+    .desc = Nicht einatmen!
 
 ent-ProjectileBlindingBolt = Blendungsbolzen
     .desc = Folge einfach den Gerüchen.

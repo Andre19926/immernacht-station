@@ -40,13 +40,13 @@ ent-ClothingOuterPoncho = Poncho
 ent-ClothingOuterSanta = Weihnachtsanzug
 
 ent-ClothingOuterWizardViolet = Violette Zaubererrobe
-    .desc = Eine bizarre Edelstein-verkrustete violette Robe, die magische Energien ausstrahlt.
+    .desc = Eine bizarre, edelsteinbesetzte violette Robe, die magische Energien ausstrahlt.
 
 ent-ClothingOuterWizard = Zauberrobe
-    .desc = Eine bizarre Edelstein-verkrustete blaue Robe, die magische Energien ausstrahlt.
+    .desc = Eine bizarre, edelsteinbesetzte blaue Robe, die magische Energien ausstrahlt.
 
 ent-ClothingOuterWizardRed = Rote Zaubererrobe
-    .desc = Ein bizarres Edelstein-verkrustetes rotes Gewand, das magische Energien ausstrahlt.
+    .desc = Ein bizarres, edelsteinbesetztes rotes Gewand, das magische Energien ausstrahlt.
 
 ent-ClothingOuterSkub = Skub-Anzug
     .desc = Skub ist grob auf der Außenseite dieses zylindrischen Anzugs geschrieben.

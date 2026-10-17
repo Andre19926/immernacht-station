@@ -88,7 +88,7 @@ ent-ClothingHeadHatPlaguedoctor = Pestarzthut
     .desc = Diese wurden einst von Pestärzten verwendet.
 
 ent-ClothingHeadHatRedwizard = Roter Zauberer
-    .desc = Ein seltsam aussehender roter Hut, der sicherlich zu einem mächtigen Magier gehört.
+    .desc = Ein seltsam aussehender roter Hut, der sicherlich einem mächtigen Magier gehört.
 
 ent-ClothingHeadHatSantahat = Santahut
     .desc = Ein festlicher Hut, getragen vom Weihnachtsmann. Jetzt mit einem faltbaren Bart.
@@ -115,7 +115,7 @@ ent-ClothingHeadHatCanadaBeanie = Beanie
     .desc = Rot, weiß und eng. Es strahlt ein heimeliges Gefühl aus, wenn dein Haus kühl und mit Kaffeehäusern gefüllt ist.
 
 ent-ClothingHeadHatVioletwizard = Violetter Zauberer
-    .desc = Ein seltsam aussehender violetter Hut, der sicherlich zu einem mächtigen Zauberbenutzer gehört.
+    .desc = Ein seltsam aussehender violetter Hut, der sicherlich einem mächtigen Zauberer gehört.
 
 ent-ClothingHeadHatWarden = Warden-Mütze
     .desc = Dieser Hut betont, dass du das Gesetz bist.
@@ -127,7 +127,7 @@ ent-ClothingHeadHatWizardFake = Falscher Zaubererhut
     .desc = Es hat "WIZZARD" in grellen Pailletten darüber geschrieben. Kommt mit einem kühlen Bart.
 
 ent-ClothingHeadHatWizard = Zauberhand
-    .desc = Ein seltsam aussehender blauer Hut, der sicherlich zu einem mächtigen Magier gehört.
+    .desc = Ein seltsam aussehender blauer Hut, der sicherlich einem mächtigen Magier gehört.
 
 ent-ClothingHeadHatXmasCrown = xmas Krone
 

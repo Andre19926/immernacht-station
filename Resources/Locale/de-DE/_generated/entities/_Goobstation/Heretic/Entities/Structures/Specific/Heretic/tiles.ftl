@@ -8,7 +8,7 @@ ent-TileHereticRustRune = Rune
     .desc = Rostig ...
 
 ent-HereticRustAscensionSpreader = Rost
-    .desc = Es wächst...
+    .desc = Es wächst ...
 
 ent-WallFieldCosmic = kosmisches Feld
-    .desc = Ein Feld, das von Menschen mit einem kosmischen Sternenmal nicht passiert werden kann.
+    .desc = Ein Feld, das Menschen mit einem kosmischen Sternenmal nicht durchqueren können.

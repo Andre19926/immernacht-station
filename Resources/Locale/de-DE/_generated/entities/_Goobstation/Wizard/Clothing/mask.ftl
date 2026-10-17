@@ -1,8 +1,8 @@
 ent-ClothingMaskPig = Schweinemaske
-    .desc = Eine Gummischweinmaske mit eingebautem Stimmmodulator.
+    .desc = Eine Gummischweinmaske mit eingebautem Stimmverzerrer.
 
 ent-ClothingMaskFrog = Froschmaske
-    .desc = Eine alte Maske in Form eines Frosches geschnitzt. Gesundheit ist wie die Schwerkraft, alles, was sie braucht, ist ein Schub.
+    .desc = Eine alte, zu einem Frosch geschnitzte Maske. Gesundheit ist wie die Schwerkraft: Alles, was sie braucht, ist ein Schubs.
 
 ent-ClothingMaskCow = Kuhmasken
     .desc = Eine Maske aus weichem Vinyl und Latex, die den Kopf einer Kuh darstellt.

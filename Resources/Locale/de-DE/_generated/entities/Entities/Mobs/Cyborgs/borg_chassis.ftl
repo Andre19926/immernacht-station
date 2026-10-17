@@ -23,7 +23,7 @@ ent-BorgChassisSyndicateAssault = Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.
 
 ent-BorgChassisSyndicateMedical = Syndicate-Sanitäter-Cyborg
-    .desc = Ein kampfmedizinischer Cyborg. Hat begrenztes offensives potenzial, macht es aber mit seinen unterstützungsfähigkeiten mehr als wett.
+    .desc = Ein Kampfsanitäter-Cyborg. Hat begrenztes offensives Potenzial, macht das aber mit seinen Unterstützungsfähigkeiten mehr als wett.
 
 ent-BorgChassisSyndicateSaboteur = Syndicate-Saboteur-Cyborg
     .desc = Ein stromlinienförmiger Engineering-Cyborg, ausgestattet mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn sich als Nanotrasen-Cyborg tarnen.

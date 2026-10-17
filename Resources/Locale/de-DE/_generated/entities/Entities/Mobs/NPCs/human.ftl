@@ -13,4 +13,4 @@ ent-SalvageHumanCorpse = nicht identifiziert Leiche
     .desc = Ich glaube, sie sind tot.
 
 ent-MobCluwne = Person
-    .desc = Ein polymorphes Unglück.
+    .desc = Ein polymorphes Unheil.

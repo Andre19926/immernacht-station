@@ -2,7 +2,7 @@ ent-ClothingBackpack = Rucksack
     .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
 ent-ClothingBackpackClown = Kichern von Honkerton
-    .desc = Es ist ein Rucksack von Honk! Co.
+    .desc = Ein Rucksack von Honk! Co.
 
 ent-ClothingBackpackIan = Ians Rucksack
     .desc = Manchmal trägt er es.

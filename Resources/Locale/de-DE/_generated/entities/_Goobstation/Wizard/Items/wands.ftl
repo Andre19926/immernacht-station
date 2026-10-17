@@ -1,5 +1,5 @@
 ent-MultiWand = Zauberstab
-    .desc = Anscheinend ein Zauberstab, der vom Zauberer benutzt wurde.
+    .desc = Offenbar ein Zauberstab, der einem Zauberer gehörte.
 
 ent-MultiWandWizard = Zauberstab
-    .desc = Anscheinend ein Zauberstab, der vom Zauberer benutzt wurde.
+    .desc = Offenbar ein Zauberstab, der einem Zauberer gehörte.

@@ -19,10 +19,10 @@ ent-ClothingOuterSuitSpaceNinja = Raum Ninja Anzug
 ent-ClothingOuterSuitChicken = Hähnchenanzug
 
 ent-ClothingOuterSuitShrineMaiden = Schrein-Mädchenkleidung
-    .desc = Macht sie wollen mit einigen lästigen youkai gehen.
+    .desc = Macht dich bereit, es mit einigen lästigen Youkai aufzunehmen.
 
 ent-ClothingOuterSuitWitchRobes = Hexenroben
-    .desc = Magie ist alles über die Zauberkraft, ZE!
+    .desc = Bei Magie dreht sich alles um Zauberkraft, ZE!
 
 ent-ClothingOuterSuitMonkey = Affenanzug
     .desc = Ein Anzug, der aussieht wie ein Primat.

@@ -1,2 +1,2 @@
 ent-FloraRockSolidFading = Felsblock
-    .desc = Vulkangestein. Pioniere fuhren diese Babys kilometerweit.
+    .desc = Vulkangestein. Die Pioniere sind mit diesen Dingern kilometerweit gefahren.

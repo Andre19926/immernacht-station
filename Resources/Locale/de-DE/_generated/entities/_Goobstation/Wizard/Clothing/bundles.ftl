@@ -1,5 +1,5 @@
 ent-ClothingBackpackWizardClownBundle = Kichern von Honkerton
-    .desc = Es ist ein Rucksack von Honk! Co.
+    .desc = Ein Rucksack von Honk! Co.
 
 ent-ClothingBackpackWizardMimeBundle = Mime-Rucksack
     .desc = Ein stiller Rucksack für diese stillen Arbeiter. Silence Co.
