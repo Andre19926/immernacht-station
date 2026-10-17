@@ -67,16 +67,16 @@ ent-ClothingHeadHatHoodWinterChem = Chemische Wintermantelhaube
 ent-ClothingHeadHatHoodWinterCMO = Kapuze des Chefarzt-Wintermantels
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterEngineer = Ingenieur Wintercoat Haube
+ent-ClothingHeadHatHoodWinterEngineer = Ingenieur-Wintermantel-Kapuze
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterHOP = Leiter des Personals Winter Mantelhaube
+ent-ClothingHeadHatHoodWinterHOP = Personalchef-Wintermantelhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterHOS = Leiter der Sicherheits-Winterhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterHydro = Hydroponische Mantelhaube
+ent-ClothingHeadHatHoodWinterHydro = Botanik-Mantelhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterJani = Haube des Hausmeistermantels
@@ -94,10 +94,10 @@ ent-ClothingHeadHatHoodWinterMiner = Bergmannshaube
 ent-ClothingHeadHatHoodWinterPara = Sanitäterhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterQM = Quartiermeisterhaube
+ent-ClothingHeadHatHoodWinterQM = Kapuze des Quartiermeister-Wintermantels
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterRD = Dunstabzugshaube des Forschungsdirektors
+ent-ClothingHeadHatHoodWinterRD = Kapuze des Forschungsleiter-Wintermantels
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterRobo = Roboterhaube
@@ -142,7 +142,7 @@ ent-ClothingHeadHatHoodWinterColorGreen = Grüne Wintermantelhaube
 ent-ClothingHeadHatHoodWinterColorLightBrown = hellbraune Wintermantelhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterColorOrange = Orange Wintercoat Haube
+ent-ClothingHeadHatHoodWinterColorOrange = Orange Wintermantel-Kapuze
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterColorWhite = Weiße Wintermantelhaube

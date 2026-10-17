@@ -65,7 +65,7 @@ ent-AbductorVictimNations = Lass deine Abteilung gedeihen.
     .desc = Stelle sicher, dass deine Abteilung über alles andere gedeiht.
 
 ent-AbductorVictimPowerUnlimited = Unbegrenzte Macht.
-    .desc = Überflute das Powernet der Station mit so viel Strom wie möglich.
+    .desc = Überflute das Stromnetz der Station mit so viel Strom wie möglich.
 
 ent-AbductorVictimBuild = Erweitern dich die Station.
     .desc = Die Station ist zu klein, und du wirst das reparieren.

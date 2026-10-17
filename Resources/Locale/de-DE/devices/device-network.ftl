@@ -24,8 +24,8 @@ device-frequency-prototype-name-fax = Fax
 device-frequency-prototype-name-basic-device = Basisgeräte
 device-frequency-prototype-name-cyborg-control = Cyborg-Steuerung
 device-frequency-prototype-name-robotics-console = Robotik-Konsole
-device-frequency-prototype-name-turret = Sentry Turret
-device-frequency-prototype-name-turret-control = Sentry Turret Control
+device-frequency-prototype-name-turret = Wachturm
+device-frequency-prototype-name-turret-control = Wachturmsteuerung
 device-frequency-prototype-name-xenoborg = Xenoborg
 device-frequency-prototype-name-mothership = Mutterschiff
 

@@ -1,3 +1,3 @@
-ent-SurgeryRemoveSynthPowerCell = Power Cell entfernen
+ent-SurgeryRemoveSynthPowerCell = Energiezelle entfernen
 
-ent-SurgeryInsertSynthPowerCell = Power Cell einsetzen
+ent-SurgeryInsertSynthPowerCell = Energiezelle einsetzen

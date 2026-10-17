@@ -46,16 +46,16 @@ anomaly-scanner-pulse-timer = Zeit bis zum nächsten Puls: [color=gray]{$time}[/
 
 anomaly-gorilla-core-slot-name = Anomaliekern
 anomaly-gorilla-charge-none = Es hat keine [bold]Anomaliekern[/bold] Innerhalb davon.
-anomaly-gorilla-charge-limit = It has [color={$count ->
-    [3]grün
-    [2]gelb
-    [1]Orange
-    [0]rot
-    *[other]Purpur
+anomaly-gorilla-charge-limit = Es hat [color={$count ->
+    [3]green
+    [2]yellow
+    [1]orange
+    [0]red
+    *[other]purple
 }]{$count} {$count ->
     [one]Ladung
     *[other]Ladungen
-}[/color] verbleiben.
+}[/color] übrig.
 anomaly-gorilla-charge-infinite = Es hat [color=gold]unendlich viele Ladungen[/color]. [italic]Vorerst …[/italic]
 
 anomaly-sync-connected = Anomalie erfolgreich angebracht

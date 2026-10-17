@@ -2,10 +2,10 @@ ent-ClothingBackpackChameleon = Rucksack
     .desc = Du trägst das auf deinem Rücken und legst Gegenstände hinein.
 
 ent-ClothingBackpackWaterTank = Rucksack-Wassertank
-    .desc = Haltet eine große Menge an Flüssigkeiten. Versorgt Sprühdüsen in deinen Händen und hat seitlich einen Schlitz für diese Sprühdüsen.
+    .desc = Fasst eine große Menge Flüssigkeit. Versorgt Sprühdüsen in deinen Händen und hat seitlich einen Steckplatz für diese Düsen.
 
 ent-ClothingBagPet = Haustierbeutel
-    .desc = Eine kleine Tasche für Haustiere und kleine Tiere.
+    .desc = Eine kleine Tasche, die für Haustiere und kleine Tiere gedacht ist.
 
 ent-ClothingBackpackHarmpack = H.A.R.M.P.A.C.K.
     .desc = Jetzt kannst du einen Snack nachladen, schlagen und essen - gleichzeitig.

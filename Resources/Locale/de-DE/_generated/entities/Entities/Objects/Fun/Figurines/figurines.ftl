@@ -1,4 +1,4 @@
-ent-ToyFigurineHeadOfPersonnel = Leiter des Personals
+ent-ToyFigurineHeadOfPersonnel = Personalchef
     .desc = Eine Figur, die den glorreichen Kopf aller Mitarbeiter darstellt, weg von ihrem Büro wie gewohnt.
 
 ent-ToyFigurinePassenger = Fluggastzahl
@@ -124,8 +124,8 @@ ent-ToyFigurineSkeleton = Skelettfigur
 ent-ToyFigurineThief = Diebfigur
     .desc = Eine Figur, die einen Kleptomanen darstellt, der sich im Schatten versteckt.
 
-ent-ToyNuke = Nuke Toy
-    .desc = Ein Plastikmodell eines Nuclear Fission Explosive. Kein Uran inbegriffen ... wahrscheinlich.
+ent-ToyNuke = Nuke-Spielzeug
+    .desc = Ein Plastikmodell eines nuklearen Spaltsprengkörpers. Kein Uran inbegriffen … wahrscheinlich.
 
 ent-ToyFigurineSpaceDragon = Space Dragon Figur
     .desc = Eine große Figur, die einen Weltraumdrachen darstellt, dessen rote Augen auf seine Beute blicken.

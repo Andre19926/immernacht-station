@@ -1,7 +1,7 @@
 ent-ActionLegSweep = Beinfeger
     .desc = Fegt die Beine unter einem Ziel heraus, um sie für ein paar Sekunden niederzuschlagen.
 
-ent-ActionNeckChop = Halshopfen
+ent-ActionNeckChop = Genickschlag
     .desc = Ein harter Schwung mit der Seite der Hand verursacht etwas Schaden und deaktiviert die Fähigkeit des Ziels, zwanzig Sekunden lang zu sprechen
 
 ent-ActionLungPunch = Lungenpunch

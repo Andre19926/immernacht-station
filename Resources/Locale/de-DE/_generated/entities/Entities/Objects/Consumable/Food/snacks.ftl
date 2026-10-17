@@ -8,7 +8,7 @@ ent-FoodSnackCheesie = cheesie Honkers
     .desc = Angebliche cheesie-snacks, die überall in ihrem mund horchen.
 
 ent-FoodSnackChips = Chips
-    .desc = Commander Rikers What-The-Crisps.
+    .desc = Commander Rikers „Was-zum-Crisps“.
 
 ent-FoodSnackChocolate = Schokoladenriegel
     .desc = Schmeckt wie Karton.

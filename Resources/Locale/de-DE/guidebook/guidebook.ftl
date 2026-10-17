@@ -16,4 +16,4 @@ guidebook-parser-error = Parserfehler
 guidebook-error-message = Fehlermeldung
 
 guidebook-monkey-unspin = Affen entdrehen
-guidebook-monkey-disco = Disco Monkey
+guidebook-monkey-disco = Disco-Affe

@@ -14,7 +14,7 @@ ent-ClothingBeltMedicalEMT = EMT-Gürtel
     .desc = Perfekt für verschiedene Geräte für medizinische Notfälle.
 
 ent-ClothingBeltPlant = Botanischer Riemen
-    .desc = Ein Gürtel, der verwendet wurde, um die meisten Hydroponik-Lieferungen zu halten. Erstaunlicherweise nicht grün.
+    .desc = Ein Gürtel, der verwendet wurde, um die meisten Botanik-Lieferungen zu halten. Erstaunlicherweise nicht grün.
 
 ent-ClothingBeltChef = Kochgürtel
     .desc = Ein Gürtel, der verwendet wurde, um Küchenmesser und Gewürze für einen schnellen Zugang zu halten.

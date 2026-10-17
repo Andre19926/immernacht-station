@@ -1,4 +1,4 @@
-slotmachine-verb = Spin
+slotmachine-verb = Drehen
 slotmachine-message = Ziehe den Hebel und teste dein Glück am Spielautomaten!
 
 slotmachine-no-money = Nicht genug Geld!

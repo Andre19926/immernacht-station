@@ -14,7 +14,7 @@
 reagent-name-e-z-nutrient = EZ Nährstoff
 reagent-desc-e-z-nutrient = Gib deinen Pflanzen einige dieser EZ Nährstoffe! Dionas finden das köstlich.
 
-reagent-name-left4-zed = left-4-zed
+reagent-name-left4-zed = Left-4-Zed
 reagent-desc-left4-zed = Ein Cocktail aus mutagenen Verbindungen, der Nährstoffe liefert, das Genom des Pflanzenlebens schädigt und beeinflusst.
 
 reagent-name-pest-killer = Schädlingsbekämpfungsmittel

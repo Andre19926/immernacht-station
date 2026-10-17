@@ -32,7 +32,7 @@ ent-ClothingHeadHelmetThunderdome = Donnerdomhelm
     .desc = Lasst die Schlacht beginnen!
 
 ent-ClothingHeadHelmetWizardHelm = Zaubererhelm
-    .desc = Seltsam aussehender Helm, der sicherlich einem echten Zauberbenutzer gehört. Zählt nicht als Zaubererhut.
+    .desc = Seltsam aussehender Helm, der ganz sicher einem echten Magier gehört. Zählt nicht als Zaubererhut.
 
 ent-ClothingHeadHelmetFire = Feuerhelm
     .desc = Der beste Freund von Atmos Tech. Bietet eine gewisse Hitzebeständigkeit und sieht cool aus.

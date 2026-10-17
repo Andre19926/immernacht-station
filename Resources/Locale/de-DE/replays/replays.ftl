@@ -21,7 +21,7 @@ replay-loading-cancel = Abbrechen
 
 # Main Menu
 replay-menu-subtext = Replay-Client
-replay-menu-load = Load Selected Replay
+replay-menu-load = Ausgewählte Wiederholung laden
 replay-menu-select = Wähle ein Replay
 replay-menu-open = Open Replay Ordner
 replay-menu-none = Keine Wiederholungen gefunden.

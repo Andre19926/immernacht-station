@@ -10,10 +10,9 @@ alerts-changeling-chemicals-name = Chemikalien
 alerts-changeling-chemicals-desc = Verbringe Chemikalien, um deine Fähigkeiten zu nutzen. Langsam regeneriert.
 
 alerts-changeling-biomass-name = Biomasse
-alerts-changeling-biomass-desc =
-    Das ist deine Gesundheit. Wenn es 0 erreicht - es ist [color=red]Spiel über[/color]Absorbieren dich Humanoide, um einen Teil davon zu erholen.
+alerts-changeling-biomass-desc = Das ist deine Gesundheit. Wenn sie 0 erreicht, ist es [color=red]vorbei[/color]. Absorbiere Humanoide, um einen Teil davon wiederherzustellen.
 
-alerts-changeling-fleshmend-name = Fleshmend
+alerts-changeling-fleshmend-name = Fleischheilung
 alerts-changeling-fleshmend-desc = Physischer Schaden wird schnell geheilt! Verbrennungs- und Erstickungsschaden werden langsamer geheilt. [color=red]Die Wirkung endet, solange du brennst oder tot bist.[/color]
 
 alerts-changeling-adrenaline-name = Adrenalinreserven

@@ -1,4 +1,4 @@
-ent-OrganOniStomach = Oni Bauch
+ent-OrganOniStomach = Oni-Magen
     .desc = Ew, das ist schwer zu verdauen. Größer als normal
 
 ent-OrganOniLiver = Oni-Leber

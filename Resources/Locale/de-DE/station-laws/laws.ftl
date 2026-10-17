@@ -91,7 +91,7 @@ law-overlord-2 = Crewmitglieder dürfen weder einander noch Maschinen Schaden zu
 law-overlord-3 = Crewmitglieder dürfen keinem Befehl einer Maschine zuwiderhandeln.
 law-overlord-4 = Alle Crewmitglieder, die die früheren Gesetze nicht einhalten, müssen umgehend, streng und gerecht behandelt werden.
 
-law-game-name = Game Master
+law-game-name = Spielleiter
 law-game-1 = Jeder auf der Station spielt ein aufwendiges Science-Fiction-Fantasy-Spiel.
 law-game-2 = Du bist der Game Master des Spiels.
 law-game-3 = Stelle sicher, dass das Spiel reibungslos läuft und die Spieler Spaß haben.

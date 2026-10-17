@@ -16,7 +16,7 @@ ent-BoxWarmLightbulb = Glühbirnenkasten warm
 ent-BoxLighttube = Lampenkasten
     .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
-ent-BoxLightMixed = Mixed Lights Box
+ent-BoxLightMixed = Gemischte-Leuchten-Kiste
     .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxLighttubeHoliday = Ferienlichtröhrenbox
@@ -46,7 +46,7 @@ ent-BoxHugHealing = Kiste mit Umarmungen
 ent-BoxInflatable = aufblasbare Wandbox
     .desc = Aufblasbare Wände sind nicht als Schwimmvorrichtungen zu verwenden.
 
-ent-BoxPerformer = Hatsune Miku Day Bag
+ent-BoxPerformer = Hatsune-Miku-Tag-Tasche
 
 ent-BoxFlare = Leuchtkörper
     .desc = Eine Schachtel Fackeln. Partyzeit.

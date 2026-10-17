@@ -7,13 +7,13 @@ ent-OrganShadowkinEyes = Augen
 ent-OrganShadowkinEars = Ohren
     .desc = Hey, hör zu!
 
-ent-OrganShadowkinCore = Lungen
+ent-OrganShadowkinCore = Shadowkin-Kern
     .desc = Was ist das?
 
 ent-OrganShadowkinTongue = Zunge
     .desc = Was macht das wieder?
 
-ent-OrganShadowkinAppendix = Anlage
+ent-OrganShadowkinAppendix = Blinddarm
     .desc = Ich denke, es tut nichts...
 
 ent-OrganShadowkinHeart = Herz

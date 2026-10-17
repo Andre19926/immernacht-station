@@ -22,8 +22,8 @@ ent-ClothingHeadMirror = Kopfspiegel
 ent-ClothingHeadHatRichard = Weizen
     .desc = Magst du es, Menschen zu verletzen?
 
-ent-ClothingHeadHatSkub = Skub Hat
-    .desc = Am besten gepaart mit dem Skub Suit.
+ent-ClothingHeadHatSkub = Skub-Hut
+    .desc = Am besten kombiniert mit dem Skub-Anzug.
 
 ent-ClothingHeadHatShrineMaidenWig = Sanitärperücke
     .desc = Auf dem Tag steht: "Alle Erlöse gehen an den Hakurei-Schrein."

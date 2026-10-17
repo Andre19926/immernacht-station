@@ -6,5 +6,5 @@ revenant-touch-of-evil-start = Du hast das Gefühl, du könntest jeden nehmen!!
 revenant-touch-of-evil-end = Die Wirkung der Berührung lässt nach...
 
 wraith-must-be-corporeal = Du musst körperlich sein, um diese Aktion zu nutzen.
-collective-mind-wraith = Wraithmind
+collective-mind-wraith = Phantomgeist-Kollektiv
 wraith-wp-action-needs = [color=Red]{$wp}WP[/color]

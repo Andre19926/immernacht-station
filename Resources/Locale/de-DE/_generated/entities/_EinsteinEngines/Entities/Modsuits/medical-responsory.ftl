@@ -1,16 +1,16 @@
-ent-ClothingModsuitResponsoryMedical = Medical Responsory Modsuit Kontrolleinheit
-    .desc = Der Hauptcontroller für einen Medical Responsory Modsuit.
+ent-ClothingModsuitResponsoryMedical = Sanitäter-ERT-MODsuit-Steuereinheit
+    .desc = Die Hauptsteuereinheit eines Sanitäter-ERT-MODsuits.
 
 ent-ClothingModsuitGauntletsResponsoryMedical = Medizinische Responsoring Modsuit Gauntlets
     .desc = Ein Paar Handschuhe für den Medical Responsory Hardsuit.
 
-ent-ClothingModsuitHelmetResponsoryMedical = Medical Responsory Modsuit Helm
+ent-ClothingModsuitHelmetResponsoryMedical = Sanitäter-ERT-MODsuit-Helm
     .desc = Ein hochmoderner Helm, entworfen von NanoTrasen für den Medical Responsory Modsuit. Es enthält ein eingebautes HUD.
 
-ent-ClothingModsuitChestplateResponsoryMedical = Medical Responsory Modsuit Brustplatte
+ent-ClothingModsuitChestplateResponsoryMedical = Sanitäter-ERT-MODsuit-Brustplatte
     .desc = Eine hochmoderne Brustplatte, entworfen von NanoTrasen für den Medical Responsory Modsuit. Es enthält angetriebene Servos, um die Last der Ausrüstung zu reduzieren.
 
-ent-ClothingModsuitBootsResponsoryMedical = Medical Responsory Modsuit Stiefel
+ent-ClothingModsuitBootsResponsoryMedical = Sanitäter-ERT-MODsuit-Stiefel
     .desc = Ein hochmodernes Paar Magboots für den Medical Responsory Modsuit.
 
 ent-SuitStorageResponsoryMedical = Anzuglagereinheit

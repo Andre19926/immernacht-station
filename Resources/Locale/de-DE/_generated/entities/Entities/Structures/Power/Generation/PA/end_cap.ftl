@@ -1,5 +1,5 @@
-ent-ParticleAcceleratorEndCap = PA Endkappe
-    .desc = Formal bekannt als Alpha Particle Generation Array. Hier werden Alpha-Partikel aus [REDACTED].
+ent-ParticleAcceleratorEndCap = PA-Endkappe
+    .desc = Offiziell bekannt als Alphateilchen-Erzeugungsfeld. Hier werden Alphateilchen aus [REDACTED] gewonnen.
 
-ent-ParticleAcceleratorEndCapUnfinished = PA Endkappe
-    .desc = Formal bekannt als Alpha Particle Generation Array. Hier werden Alpha-Partikel aus [REDACTED]Es sieht unvollendet aus.
+ent-ParticleAcceleratorEndCapUnfinished = PA-Endkappe
+    .desc = Offiziell bekannt als Alphateilchen-Erzeugungsfeld. Hier werden Alphateilchen aus [REDACTED] gewonnen. Es sieht unvollendet aus.

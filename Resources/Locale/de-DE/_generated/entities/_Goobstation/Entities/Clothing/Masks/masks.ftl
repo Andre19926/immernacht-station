@@ -8,13 +8,13 @@ ent-ClothingMaskClownUnremoveable = nicht abnehmbare Bananenclownperücke und -m
     .desc = Eine Clownmaske mit einer faltbaren Perücke; eine wahre Pranksterkleidung.
 
 ent-ClothingMaskGasVoiceCraftable = Sprachmodulatormaske
-    .desc = Ein schlecht konstruierter Sprachmodulator aus einem Gasmasken- und Sprachauslöser.
+    .desc = Ein schlecht gebauter Stimmverzerrer aus einer Gasmaske und einem Sprachauslöser.
 
 ent-ClothingMaskGasHalf = Halbe Gasmaske
     .desc = Eine Gasmaske ... nur die Hälfte davon.
 
 ent-ClothingMaskMuzzleSecure = sichere Mündung
-    .desc = Kann Vampire daran hindern, Menschen zu beißen, oder lästige Menschen daran hindern, zu reden.
+    .desc = Kann Vampire am Beißen hindern, oder lästige Leute am Reden.
 
 ent-ClothingMaskMuzzleShock = Schockmündung
     .desc = Eine Mündung, die das Beißen verhindern soll. Dieser ist mit einem Verhaltenskorrektursystem ausgestattet.

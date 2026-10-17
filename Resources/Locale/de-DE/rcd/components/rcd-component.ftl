@@ -13,14 +13,14 @@
 
 ### UI
 
-rcd-component-examine-mode-details = Es ist derzeit auf '{$mode}Modus.
+rcd-component-examine-mode-details = Er ist derzeit auf den Modus „{$mode}“ eingestellt.
 rcd-component-examine-build-details = Es wird derzeit gebaut {MAKEPLURAL($name)}.
 
 
 ### Interaction Messages
 
 # Mode change
-rcd-component-change-mode = Der RCD ist jetzt auf '{$mode}Modus.
+rcd-component-change-mode = Der RCD ist jetzt auf den Modus „{$mode}“ eingestellt.
 rcd-component-change-build-mode = Der RCD wird jetzt gebaut {MAKEPLURAL($name)}.
 
 # Ammo count

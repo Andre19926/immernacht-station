@@ -14,7 +14,7 @@ ent-OrganAbductorHeart = Herz
     .desc = Ich fühle mich schlecht für den herzlosen Bastard, der das verloren hat.
 
 ent-OrganAbductorStomach = Magen
-    .desc = Brutto. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu ertragen.
 
 ent-OrganAbductorLiver = Leber
     .desc = Paarungsvorschlag: Chianti und Fava Bohnen.

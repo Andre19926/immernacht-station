@@ -15,7 +15,7 @@ foldable-deploy-fail = Du kannst {$object} hier nicht aufstellen.
 fold-verb = Zusammenfalten
 unfold-verb = Auffalten
 
-fold-flip-verb = Flip
+fold-flip-verb = Umdrehen
 
 fold-zip-verb = Zip up
 fold-unzip-verb = Öffnen

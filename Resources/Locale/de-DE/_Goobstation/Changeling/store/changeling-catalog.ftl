@@ -24,7 +24,7 @@ evolutionmenu-combat-armclaw-desc =
     Reformiere einen deiner Arme in eine groteske Klaue, die aus Knochen und Fleisch besteht und in der Lage ist, deine Gegner beim Treffer zu greifen und sie zu immobilisieren. Wenn du etwas damit triffst, wird das Ziel erneut erreicht.
     Kosten 15 Chemikalien.
 
-evolutionmenu-combat-dartgun-name = Dart Gun
+evolutionmenu-combat-dartgun-name = Pfeilpistole
 evolutionmenu-combat-dartgun-desc =
     Reformiere einen deiner Arme in einen Stachel, der in der Lage ist, Pfeile zu schießen, wobei die Hälfte der Wirkung eines deiner entwickelten Reagenzstiche angewendet wird.
     Verfügbare Modi: Blindstich, stumm, kryogener Stachel, lethargischer Stachel
@@ -50,14 +50,14 @@ evolutionmenu-combat-shield-desc =
     WARNUNG: Erfordert, dass du mindestens 1 Organisch absorbierst, um die Fähigkeit zu nutzen.
     Kosten 20 Chemikalien.
 
-evolutionmenu-combat-shriek-dissonant-name = Dissonant Shriek
+evolutionmenu-combat-shriek-dissonant-name = Dissonanter Schrei
 evolutionmenu-combat-shriek-dissonant-desc =
     Du schreist eine EMP-Explosion aus, die die Technologie in der Umgebung, einschließlich Radio-Headsets, deaktiviert.
     Gut für die Flucht aus Cyborgs und Sicherheit.
     WARNUNG: Erfordert, dass du mindestens 1 Organisch absorbierst, um die Fähigkeit zu nutzen.
     Kosten 30 Chemikalien.
 
-evolutionmenu-combat-shriek-resonant-name = Resonant Shriek
+evolutionmenu-combat-shriek-resonant-name = Resonanter Schrei
 evolutionmenu-combat-shriek-resonant-desc =
     Du schreist einen desorientierenden hochfrequenten Klang,
     platzende Lichter sowie sensorische Überlastungen in Organismen und Siliziumen.
@@ -92,19 +92,19 @@ evolutionmenu-sting-lethargic-desc =
     Kann verwendet werden, während unter den Auswirkungen von Lesser Form.
     Kosten 30 Chemikalien.
 
-evolutionmenu-sting-mute-name = Mute Sting
+evolutionmenu-sting-mute-name = Stummheitsstich
 evolutionmenu-sting-mute-desc =
     Injiziere stummes Toxin in ein organisches Ziel und bringe es für eine Weile zum Schweigen.
     Kann verwendet werden, während unter den Auswirkungen von Lesser Form.
     Kosten 20 Chemikalien.
 
-evolutionmenu-sting-transform-name = Transformation Sting
+evolutionmenu-sting-transform-name = Verwandlungsstich
 evolutionmenu-sting-transform-desc =
     Injiziere einen Teil deines Genoms in ein organisches Ziel und zwinge ihren Körper, sich mit der Zyklus-DNA-Fähigkeit in wen auch immer dich gewählt haben, zu verändern.
     Kann verwendet werden, während unter den Auswirkungen von Lesser Form.
     Kosten 75 Chemikalien.
 
-evolutionmenu-sting-armblade-name = Fake Arm Blade Sting
+evolutionmenu-sting-armblade-name = Falscher Armklingenstich
 evolutionmenu-sting-armblade-desc =
     Injiziere einen Teil deines Genoms in ein organisches Ziel und zwinge ihren Arm, sich in eine stumpfe Armklinge zu verwandeln.
     Ziel kann nur eine gefälschte Armklinge auf einmal haben.
@@ -129,7 +129,7 @@ evolutionmenu-utility-panacea-desc =
     Effekte werden aufhören, während auf Feuer oder tot.
     Kosten 30 Chemikalien.
 
-evolutionmenu-utility-eyesight-name = Augmented Eyesight
+evolutionmenu-utility-eyesight-name = Verbessertes Sehvermögen
 evolutionmenu-utility-eyesight-desc =
     Entwickeln dich zusätzliche Funktionen in deinen Augen, wie umschaltbares Röntgensehen und Blitzschutz. Du wirst anfällig für Flash-basierte Geräte, während du dich im Röntgenbildmodus befindest.
     Kostenlos.
@@ -168,7 +168,7 @@ evolutionmenu-utility-stims-desc =
     Dauert 10 Sekunden.
     Kosten 30 Chemikalien.
 
-evolutionmenu-utility-fleshmend-name = Fleshmend
+evolutionmenu-utility-fleshmend-name = Fleischheilung
 evolutionmenu-utility-fleshmend-desc =
     Gilt "Fleshmend" Statuseffekt, schnell physische Schäden zu heilen, sowie Verbrennung / Erstickung bei einer geringeren Menge.
     Darüber hinaus wird die Blutung allmählich heilen.

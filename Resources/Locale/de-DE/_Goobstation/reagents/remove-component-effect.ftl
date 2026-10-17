@@ -8,6 +8,6 @@ reagent-effect-guidebook-remove-permanentblindness = Heilt Blindheit.
 reagent-effect-guidebook-remove-narcolepsy = Heilt Narkolepsie.
 reagent-effect-guidebook-remove-unrevivable = Heilt unrevivable-itis.
 reagent-effect-guidebook-remove-muted = Cures stumm.
-reagent-effect-guidebook-remove-paracusia = Cures paracusia.
+reagent-effect-guidebook-remove-paracusia = Heilt Paracusie.
 reagent-effect-guidebook-remove-painnumbness = Heilt Schmerz Taubheit. Es tut weh.
 reagent-effect-guidebook-remove-legsstartparalyzed = Du brauchst keinen Rollstuhl mehr.

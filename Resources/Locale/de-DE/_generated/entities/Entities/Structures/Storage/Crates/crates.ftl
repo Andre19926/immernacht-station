@@ -7,7 +7,7 @@ ent-CratePlastic = Kunststoffkiste
 ent-CrateFreezer = Gefriergeräte
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateHydroponics = Hydroponics als Kaste.
+ent-CrateHydroponics = Botanik als Kaste.
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateMedical = Medizinische Kiste
@@ -58,7 +58,7 @@ ent-CratePlasma = Plasmakiste
 ent-CrateSecure = sichere Kiste
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateHydroSecure = sichere Hydrokulturkiste
+ent-CrateHydroSecure = sichere Botanikkiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateWeaponSecure = Sichere Waffenkiste

@@ -17,7 +17,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nukeops-title = "Atomkommando" als Titel, in Texten durchgehend "Atomagent(en)".
+nukeops-title = Atomkommando
 nukeops-description = Atomagenten greifen die Station an. Verhindere, dass sie die Nuke scharf machen und zünden: Beschütze die Atomdiskette!
 
 nukeops-welcome = Du bist ein Atomagent. Dein Ziel ist es, {$station} zu sprengen, bis nur noch ein Trümmerhaufen übrig ist. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung gestellt. | Operation {$name} läuft! Tod für Nanotrasen!

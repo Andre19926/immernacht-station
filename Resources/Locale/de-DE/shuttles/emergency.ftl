@@ -35,7 +35,7 @@ emergency-shuttle-launch-time = Das Notfall-Shuttle startet in {$consoleAccumula
 emergency-shuttle-docked = Das Notfall-Shuttle hat {$direction} der Station angedockt, {$location}. Es startet in {$time} Sekunden.{$extended}
 emergency-shuttle-good-luck = Das Notfall-Shuttle findet keine Station. Viel Glück.
 emergency-shuttle-nearby = Das Notfall-Shuttle findet keinen gültigen Andockpunkt. Es ist {$direction} der Station aufgetaucht, {$location}. Es startet in {$time} Sekunden.{$extended}
-emergency-shuttle-extended = {" "}Die Startzeit wurde aufgrund unbequemer Umstände verlängert.
+emergency-shuttle-extended = {" "}Die Startzeit wurde aufgrund ungünstiger Umstände verlängert.
 
 # Emergency shuttle console popup / announcement
 emergency-shuttle-console-no-early-launches = Früher Start ist deaktiviert

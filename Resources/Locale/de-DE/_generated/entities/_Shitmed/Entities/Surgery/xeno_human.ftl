@@ -1,28 +1,28 @@
-ent-SurgeryOpenXenoCavityResinSpinner = Offene Harz Spinner Cavity
+ent-SurgeryOpenXenoCavityResinSpinner = Hohlraum für Harzspinner öffnen
 
-ent-SurgeryOpenXenoCavityNeurotoxinGland = Offene Neurotoxin-Drüsenhöhle
+ent-SurgeryOpenXenoCavityNeurotoxinGland = Hohlraum für Neurotoxindrüse öffnen
 
-ent-SurgeryOpenXenoCavityAcidGland = Offene Säuredrüsenhöhle
+ent-SurgeryOpenXenoCavityAcidGland = Hohlraum für Säuredrüse öffnen
 
-ent-SurgeryOpenXenoCavityPlasmaVessel = Hohlraum des offenen Plasmagefäßes
+ent-SurgeryOpenXenoCavityPlasmaVessel = Hohlraum für Plasmagefäß öffnen
 
-ent-SurgeryOpenXenoCavityEggSack = Freie Ei-Sack-Höhle
+ent-SurgeryOpenXenoCavityEggSack = Hohlraum für Eiersack öffnen
 
-ent-SurgeryInsertHiveNode = Transplantation Hive Node
+ent-SurgeryInsertHiveNode = Schwarmknoten transplantieren
 
-ent-SurgeryInsertResinSpinner = Transplantatharz Spinner
+ent-SurgeryInsertResinSpinner = Harzspinner transplantieren
 
-ent-SurgeryInsertNeurotoxinGland = Neurotoxin-Transplantation
+ent-SurgeryInsertNeurotoxinGland = Neurotoxindrüse transplantieren
 
-ent-SurgeryInsertAcidGland = Transplantierte Säuredrüse
+ent-SurgeryInsertAcidGland = Säuredrüse transplantieren
 
-ent-SurgeryInsertPlasmaVessel = Plasmatransplantatgefäß
+ent-SurgeryInsertPlasmaVessel = Plasmagefäß transplantieren
 
-ent-SurgeryInsertEggSack = Transplantation Eiersack
+ent-SurgeryInsertEggSack = Eiersack transplantieren
 
-ent-SurgeryRemoveHiveNode = Transplantierte Hive Node entfernen
+ent-SurgeryRemoveHiveNode = Transplantierten Schwarmknoten entfernen
 
-ent-SurgeryRemoveResinSpinner = Entferne transplantierten Harz Spinner
+ent-SurgeryRemoveResinSpinner = Transplantierten Harzspinner entfernen
 
 ent-SurgeryRemoveNeurotoxinGland = Transplantierte Neurotoxindrüse entfernen
 
@@ -30,4 +30,4 @@ ent-SurgeryRemoveAcidGland = Transplantierte Säuredrüse entfernen
 
 ent-SurgeryRemovePlasmaVessel = Transplantiertes Plasmagefäß entfernen
 
-ent-SurgeryRemoveEggSack = Entfernen Transplantierte Egg Sack
+ent-SurgeryRemoveEggSack = Transplantierten Eiersack entfernen

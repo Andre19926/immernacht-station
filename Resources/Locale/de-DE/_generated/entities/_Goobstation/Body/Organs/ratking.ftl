@@ -1,2 +1,2 @@
-ent-OrganRatKingStomach = Tierischer Magen
+ent-OrganRatKingStomach = Rattenkönig-Magen
     .desc = Wie hungrig?

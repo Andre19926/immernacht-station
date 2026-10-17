@@ -1,22 +1,22 @@
-ent-ChestScurret = Brustkorb
+ent-ChestScurret = Scurret-Brust
 
-ent-GroinScurret = Leistengegend
+ent-GroinScurret = Scurret-Unterleib
 
-ent-HeadScurret = Scurretkopf
+ent-HeadScurret = Scurret-Kopf
     .desc = Es wird nie wieder wawa.
 
-ent-LeftArmScurret = linker Arm
+ent-LeftArmScurret = linker Scurret-Arm
 
-ent-RightArmScurret = rechter Arm
+ent-RightArmScurret = rechter Scurret-Arm
 
-ent-LeftHandScurret = linke Hand
+ent-LeftHandScurret = linke Scurret-Hand
 
-ent-RightHandScurret = rechte Hand
+ent-RightHandScurret = rechte Scurret-Hand
 
-ent-LeftLegScurret = linkes Bein
+ent-LeftLegScurret = linkes Scurret-Bein
 
-ent-RightLegScurret = rechtes Bein
+ent-RightLegScurret = rechtes Scurret-Bein
 
-ent-LeftFootScurret = linker Fuß
+ent-LeftFootScurret = linker Scurret-Fuß
 
-ent-RightFootScurret = rechter Fuß
+ent-RightFootScurret = rechter Scurret-Fuß

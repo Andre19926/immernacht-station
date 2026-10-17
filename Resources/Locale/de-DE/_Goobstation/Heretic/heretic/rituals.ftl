@@ -75,7 +75,7 @@ heretic-ritual-ash-ascend = Ashlord's Ritus
 ## flesh path
 heretic-ritual-flesh-blade = Prinzip des Hungers
 heretic-ritual-flesh-ghoul = Unvollkommenes Ritual
-heretic-ritual-flesh-prophet = Raw Ritual
+heretic-ritual-flesh-prophet = Rohes Ritual
 heretic-ritual-flesh-stalker = Einsames Ritual
 heretic-ritual-flesh-ascend = Die letzte Hymne des Priesters
 

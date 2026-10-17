@@ -16,13 +16,13 @@ ent-ClothingNeckCloakGreenCe = Grüner Umhang des Chefingenieurs
 ent-ClothingCloakCmo = Chefarztumhang
     .desc = Ein steriler blauer Mantel mit einem grünen Kreuz, strahlend mit einem Gefühl der Pflicht und der Bereitschaft, anderen zu helfen.
 
-ent-ClothingNeckCloakRd = Umhang des Forschungsdirektors
+ent-ClothingNeckCloakRd = Umhang des Forschungsleiters
     .desc = Ein weißer Mantel mit violetten Streifen, der deinen Status als Schiedsrichter der Spitzentechnologie zeigt.
 
 ent-ClothingNeckCloakQm = Quartiermeister-Umhang
     .desc = Ein starker brauner Mantel mit einem reflektierenden Streifen, der zwar nicht so schick wie andere ist, zeigt jedoch deine Managementfähigkeiten.
 
-ent-ClothingNeckCloakHop = Umhang des Personalleiters
+ent-ClothingNeckCloakHop = Personalchef-Umhang
     .desc = Ein blauer Mantel mit roten Schultern und goldenen Knöpfen, der beweist, dass du der Torwächter zu jeder Luftschleuse auf der Station bist.
 
 ent-ClothingNeckCloakHerald = Herold-Umhang
@@ -40,7 +40,7 @@ ent-ClothingNeckCloakSalvagerSupreme = Oberster Salvage-Umhang
     .desc = Getragen von den erfahrensten Bergleuten, für jemanden, der den Weltraum beherrscht und den Bergbau-Asteroiden zu seiner Domäne gemacht hat. So etwas verteilt man nicht einfach so, weißt du?
 
 ent-ClothingNeckCloakTrans = Vampirmantel
-    .desc = Getragen von hochrangigen vampiren der transylvanischen gesellschaft der vampire.
+    .desc = Getragen von hochrangigen Vampiren der Transsilvanischen Gesellschaft der Vampire.
 
 ent-ClothingNeckCloakGoliathCloak = Goliathmantel
     .desc = Ein Mantel aus der Haut der widerstandsfähigen Fauna von einem fernen Planeten.

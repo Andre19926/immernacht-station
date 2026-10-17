@@ -7,7 +7,7 @@ ent-ClothingOuterWinterCoatTrainer = NCT-Mantel
 ent-ClothingOuterWinterSecArmored = Gepanzerter Wintermantel
     .desc = Ein robuster, utilitaristischer Wintermantel, der die Sicherheitsmitglieder vor Bedrohungen und hypothermischen Ereignissen schützen soll.
 
-ent-ClothingOuterWinterSeniorSecArmored = Senior Security gepanzerter Wintermantel
+ent-ClothingOuterWinterSeniorSecArmored = Gepanzerter Wintermantel der Oberen Sicherheit
     .desc = Ein robuster, utilitaristischer Wintermantel, der ältere Sicherheitsmitglieder vor Bedrohungen und hypothermischen Ereignissen schützt.
 
 ent-ClothingOuterWinterCosmic = Kosmischer Wintermantel

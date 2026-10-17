@@ -97,7 +97,7 @@ ent-VinylDiskLaw2 = Schallplatte: Gesetz 2, offene Waffenkammer
 ent-VinylDiskEphedrine = Schallplatte: Ephedrin-Überdosis
     .desc = Eine Schallplatte mit Musik.
 
-ent-VinylDiskRunningOut = Schallplatte: Running Out Cover
+ent-VinylDiskRunningOut = Schallplatte: Running Out (Cover)
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskJourney = Schallplatte: Reise

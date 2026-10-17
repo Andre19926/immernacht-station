@@ -34,5 +34,5 @@ role-subtype-subverted = Untergraben
 role-subtype-paradox-clone = Paradoxon
 role-subtype-wizard = Zauberer
 role-subtype-xenoborg = Xenoborg
-role-subtype-xenoborg-core = Xenoborg Core
+role-subtype-xenoborg-core = Xenoborg-Kern
 role-subtype-changeling = Wechsel

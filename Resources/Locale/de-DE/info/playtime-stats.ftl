@@ -9,7 +9,7 @@
 
 # Playtime Stats
 
-ui-playtime-stats-title = User Playtime Stats
+ui-playtime-stats-title = Spielzeitstatistik des Benutzers
 ui-playtime-overall-base = Gesamtspielzeit:
 ui-playtime-overall = Gesamtspielzeit: {PLAYTIME($time)}
 ui-playtime-first-time = Erstes Mal gespielt

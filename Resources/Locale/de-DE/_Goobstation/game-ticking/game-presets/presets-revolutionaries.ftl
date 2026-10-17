@@ -21,4 +21,4 @@ revolutionaries-win-announcement =
     Viva la revolution!
 
 revolutionaries-win-sender = Cybersun Kommunikation
-revolutionaries-sender-cc = Nanotrasen Loyalty Division
+revolutionaries-sender-cc = Nanotrasen-Loyalitätsabteilung

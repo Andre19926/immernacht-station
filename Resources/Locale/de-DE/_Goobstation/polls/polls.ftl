@@ -5,22 +5,22 @@ poll-voting-window-refresh = Aktualisieren
 poll-voting-window-loading = Umfragen laden...
 poll-voting-window-no-polls = Keine aktiven Umfragen
 poll-voting-window-polls-count = {$count} {$count ->
-    [one] active poll
-    *[other] active polls
+    [one] aktive Umfrage
+    *[other] aktive Umfragen
 }
 poll-voting-window-error = Fehler: {$error}
 
 # Poll Control
 poll-control-created-by = Erstellt von {$name}
-poll-control-ends-in-days = Ends in {$days} {$days ->
+poll-control-ends-in-days = Endet in {$days} {$days ->
     [one] Tag
-    *[other] Tage
+    *[other] Tagen
 }
-poll-control-ends-in-hours = Ends in {$hours} {$hours ->
+poll-control-ends-in-hours = Endet in {$hours} {$hours ->
     [one] Stunde
     *[other] Stunden
 }
-poll-control-ended = Ended
+poll-control-ended = Beendet
 poll-control-no-end-time = Keine Endzeit
 poll-control-options = Optionen:
 
@@ -31,9 +31,9 @@ poll-command-close-success = Pollen {$id} wurde geschlossen.
 poll-command-list-no-polls = Keine aktiven Umfragen.
 poll-command-info-not-found = Pollen {$id} nicht gefunden.
 
-poll-control-seen-by = Seen by {$count} {$count ->
+poll-control-seen-by = Gesehen von {$count} {$count ->
     [one] Spieler
-   *[other] Spieler
+    *[other] Spielern
 }
 
 # Client Commands

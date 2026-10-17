@@ -1,7 +1,7 @@
 ent-ClothingShoesModsuitBase = Position
 
 ent-ClothingModsuitBootsStandard = Standard Modsuit Stiefel
-    .desc = Eine spezielle modulare Anzugstiefel für kompaktes Falten innerhalb modularer Anzugsteuerung.
+    .desc = Spezielle Stiefel für den modularen Anzug, die sich kompakt in die Anzugsteuerung falten lassen.
 
 ent-ClothingModsuitBootsSecurity = verkaufte Modsuit Stiefel
     .desc = Die eisernen Boote des Gesetzes.
@@ -22,7 +22,7 @@ ent-ClothingModsuitBootsResearchDirector = Minerva Modsuit Stiefel
     .desc = Wird dich nicht daran hindern, an deinem eigenen Blut zu rutschen, wenn der Holocarp zu dir kommt.
 
 ent-ClothingModsuitBootsCaptain = Magnat Modsuit Stiefel
-    .desc = Diese Stiefel wurden von THE Michael Jordan entworfen und mit alten Legierungen hergestellt, Mann.
+    .desc = Diese Stiefel wurden von DEM Michael Jordan entworfen und aus uralten Legierungen gefertigt, Mann.
 
 ent-ClothingModsuitBootsBrigMed = Trauma Modsuit Stiefel
     .desc = Geflogene Boots

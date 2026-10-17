@@ -82,7 +82,7 @@ research-technology-deterrence = Abschreckungstechnologien
 
 research-technology-janitorial-equipment = Hausmeisterausrüstung
 research-technology-laundry-tech = Wäschereitechnik
-research-technology-basic-hydroponics = Grundlegende Hydroponik
+research-technology-basic-hydroponics = Grundlegende Botanik
 research-technology-critter-mechs = Critter-Mechs
 research-technology-food-service = Gastronomie
 research-technology-advanced-entertainment = Erweiterte Unterhaltung
@@ -93,7 +93,7 @@ research-technology-mechanized-treatment = Mechanisierte Behandlung
 research-technology-robotic-cleanliness = Robotische Reinigung
 research-technology-advanced-cleaning = Erweiterte Reinigung
 research-technology-meat-manipulation = Fleischmanipulation
-research-technology-honk-mech = H.O.N.K. Mech
+research-technology-honk-mech = H.O.N.K.-Mech
 research-technology-advanced-spray = Erweiterte Sprühtechnik
 research-technology-bluespace-cargo-transport = Bluespace-Frachttransport
 research-technology-clowning-utilities = Clown-Ausrüstung

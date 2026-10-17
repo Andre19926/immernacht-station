@@ -26,7 +26,7 @@ ent-EmergencyFunnyOxygenTank = Lustiger Notfall-Sauerstofftank
     .desc = Ein leicht tragbarer Tank für Notfälle. Enthält sehr wenig Sauerstoff mit einem Extra an lustigem Gas, das nur für den Überlebensgebrauch bestimmt ist. Es kann 0,66 l Gas aufnehmen.
 
 ent-AirTank = Luftbehälter
-    .desc = Mixed anyone? Es kann 5 l Gas aufnehmen.
+    .desc = Mal was Frisches? Fasst 5 l Gas.
 
 ent-NitrousOxideTank = Lachgasbehälter
     .desc = Enthält eine Mischung aus Luft und Lachgas. Stelle sicher, dass du es nicht mit reinem N2O nachfüllst. Es kann 5 l Gas aufnehmen.

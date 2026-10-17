@@ -126,7 +126,7 @@ reagent-name-bloody-mary = Bloody Mary
 reagent-desc-bloody-mary = Eine seltsame, aber angenehme Mischung aus Wodka, Tomate und Limettensaft.
 
 reagent-name-booger = Booger
-reagent-desc-booger = Ewww...
+reagent-desc-booger = Igitt …
 
 reagent-name-brave-bull = Brave Bulle
 reagent-desc-brave-bull = Es ist genauso effektiv wie Dutch-Courage!
@@ -185,7 +185,7 @@ reagent-desc-gildlager = 100 Proof Zimt Schnaps, gemacht für alkoholische Teena
 reagent-name-grog = Schwanz
 reagent-desc-grog = Verwässerter Rum, Pirat genehmigt!
 
-reagent-name-hippies-delight = Hippie's Delight
+reagent-name-hippies-delight = Hippie-Freude
 reagent-desc-hippies-delight = Du bekommst es einfach nicht, maaaan.
 
 reagent-name-hooch = Hooch
@@ -326,7 +326,7 @@ reagent-desc-white-russian = Das ist nur, wie, deine Meinung, Mann...
 reagent-name-vodka-red-bool = Wodka Red Bool
 reagent-desc-vodka-red-bool = Weil Herzversagen und Leberversagen Hand in Hand gehen.
 
-reagent-name-xeno-basher = Xeno Basher
+reagent-name-xeno-basher = Xeno-Basher
 reagent-desc-xeno-basher = Das perfekte Getränk vor einer Expedition.
 
 reagent-name-irish-bool = Irischer Boo

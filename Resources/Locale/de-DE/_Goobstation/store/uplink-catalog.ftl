@@ -30,15 +30,15 @@
 
 # Surplus Voidsuits
 
-uplink-hardsuit-syndiemedic-name = Gorlex Agent Hardsuit
+uplink-hardsuit-syndiemedic-name = Gorlex-Agenten-Hardsuit
 uplink-hardsuit-syndiemedic-desc = Ein Bündel mit einem überschüssigen Kampf Sanitäter Hardsuit, von den Gorlex Marauders.
 
-uplink-hardsuit-syndiecommander-name = Gorlex Commander Hardsuit
+uplink-hardsuit-syndiecommander-name = Gorlex-Kommandanten-Hardsuit
 uplink-hardsuit-syndiecommander-desc = Ein überschüssiger Kommandant Hardsuit, von den Gorlex Marauders. Zu sperrig, um es in ein Bündel zu stecken, also keine Tanks!
 
 # Cybersun Stealth
 
-uplink-hardsuit-cybersun-stealth-name = Cybersun Stealth Hardsuit
+uplink-hardsuit-cybersun-stealth-name = Cybersun-Tarn-Hardsuit
 uplink-hardsuit-cybersun-stealth-desc = Reverse-engineered von Spider Clan-Technologie, hat dieser Hardsuit Stealth-Platting in ihm für diese speziellen Operationen. Etwas langsamer und weniger gepanzert als andere Hardsuits.
 
 # Cybersun Dreadnought suit
@@ -53,7 +53,7 @@ uplink-gondola-desc = Kiste mit einer Gondel mit Standardausgabe.
 uplink-operative-radio-name = Nuklearer Teleporter
 uplink-operative-radio-desc = Ein Funkgerät in Form eines Atomagenten von äußerst fragwürdiger Qualität. Kein Ausschalter. Kauf es, wenn du bereit zum Feiern bist. Er hat die Grundausrüstung eines Atomagenten.
 
-uplink-mobroach-microbomb-name = SyndiRoach Teleporter
+uplink-mobroach-microbomb-name = SyndiRoach-Teleporter
 uplink-mobroach-microbomb-desc = Rufe eine handliche Mottenschabe mit einem Mikrobombenimplantat an. Explodiert, wenn schwer verletzt.
 
 uplink-signaller-name = Fortgeschrittener Fernmelder
@@ -64,7 +64,7 @@ uplink-signaller-desc = Ein Gerät, das Signale über beliebige Entfernung ausl�
 uplink-miniature-energy-crossbow-name = Miniatur Energiearmbrust
 uplink-miniature-energy-crossbow-desc = Die Energiearmbrust des Syndicate-S, klein, still und tödlich.
 
-uplink-hardlight-bow-name = Hardlight Bow
+uplink-hardlight-bow-name = Hartlichtbogen
 uplink-hardlight-bow-desc = Dieser Faltbogen kann eine Vielzahl von Pfeiltypen erzeugen, die den Bedürfnissen des Benutzers entsprechen.
 
 # Job-specific
@@ -75,13 +75,13 @@ uplink-pie-cannon-desc = Eine Tortenkanone, die automatisch Kuchen regeneriert, 
 uplink-beenades-name = Beenaden
 uplink-beenades-desc = Eine nicht explosive Granate voller ... Bienen?! Nicht die Bienen!!!
 
-uplink-dart-gun-name = Dart Gun
+uplink-dart-gun-name = Pfeilpistole
 uplink-dart-gun-desc = Diese Waffe wendet Chemikalien auf ihre regenerierende Dartversorgung an und ermöglicht es, Verbündete aus der Ferne zu heilen oder Kriegsverbrechen zu begehen, indem sie Feinde vergiftet.
 
 uplink-his-grace-name = Seine Gnade
 uplink-his-grace-desc = Ein jenseitiges Wesen, gefangen in einer Werkzeugkiste. Wird mit jedem Mord mächtiger, verschlingt dich aber, wenn es nicht gefüttert wird. In der Hand aktivieren, um dich daran zu binden.
 
-uplink-magazine-nailgun-name = Nail Gun Magazine (AP)
+uplink-magazine-nailgun-name = Nagelpistolenmagazin (panzerbrechend)
 uplink-magazine-nailgun-desc = Fast wie ein normales Magazin für deine Nagelpistole. Der einzige Unterschied ist, dass dieser Panzer-Piercing ist.
 
 uplink-pressure-modkit-name = Druckmodkit
@@ -137,13 +137,13 @@ uplink-bulk-mosin-desc = 10 Gewehre aus dem 4. Weltkrieg, um dich, deine Freunde
 uplink-whimsy-bundle-name = Syndicate Joy und Whimsy Bundle
 uplink-whimsy-bundle-desc = Magst du es, Freude und Laune zu verbreiten? Nun, Donk Co. hat die Lösung für dich! Enthält eine LIMITED EDITION Axt und genug Süßigkeiten, um einen Mann zu töten.
 
-uplink-m7s-name = M7S Ventilator
+uplink-m7s-name = M7S-Beatmungsgerät
 uplink-m7s-desc = Die Ausbreitung dieser Maschinenpistole wird enger, je länger dich deine Feinde damit unterdrücken. Auch die Schüsse werden unterdrückt. Feeds von Sideloading 5x23mm Magazinen.
 
 uplink-combat-shotgun-name = Bojevic
 uplink-combat-shotgun-desc = Eine Pump-Action-Flinte, wenn du Ziele abstoßen musst, die sich hinter zwei Plastikwänden, einem Kühlschrank und einer Autotür befinden. Ladet 5 Runden von 8 Gauge.
 
-uplink-he1sg8-bundle-name = HE1S-G8 Bundle
+uplink-he1sg8-bundle-name = HE1S-G8-Paket
 uplink-he1sg8-bundle-desc = High Energy One-Shell Gewehrbündel. Kommt mit 10 Abriss- und 9 hochgeladenen Gauß-8-Patronen für etwas mehr Spaß.
 
 # Ammo
@@ -181,7 +181,7 @@ uplink-high-caliber-explosive-magazine-desc = Schweres Gewehrmagazin mit 15 hoch
 uplink-high-caliber-box-name = .50 Munitionsbox
 uplink-high-caliber-box-desc = Eine Box mit 30,50 Kaliber Anti-Materialien-Runden.
 
-uplink-highcap-pistol-mag-name = High Capacity Pistol Magazine (.35 auto)
+uplink-highcap-pistol-mag-name = Hochkapazitäts-Pistolenmagazin (.35 Auto)
 uplink-highcap-pistol-mag-desc = Das Pistolenmagazin mit hoher Kapazität enthält 4 zusätzliche Kugeln für insgesamt 16 Patronen.
 
 uplink-heavy-shotgun-magazine-name = Schwere Schrotflinte (2-Gauge-HE-Pellet)
@@ -241,10 +241,10 @@ uplink-mech-teleporter-assault-desc = Enthält einen leicht gepanzerten Cybersun
 
 # Chemicals
 
-uplink-lollypop-bundle-name = Donk Co. Lollypop Box
+uplink-lollypop-bundle-name = Donk-Co.-Lutscherbox
 uplink-lollypop-bundle-desc = Enthält 9 völlig zufällige Lollypops. Was könnten sie enthalten?
 
-uplink-lollypop-bundle-big-name = Donk Co. Candy Bundle
+uplink-lollypop-bundle-big-name = Donk-Co.-Süßigkeitenpaket
 uplink-lollypop-bundle-big-desc = Enthält eine gottlose Menge an Süßigkeiten. Was könnten sie enthalten?
 
 uplink-medical-beam-gun-name = Medizinische Beam Gun
@@ -259,7 +259,7 @@ uplink-syringe-pistol-desc = Eine Waffe, die Spritzen als Munition nimmt und ihr
 uplink-combat-medkit-pills-name = Combat Medical Kit (Pillen)
 uplink-combat-medkit-pills-desc = Enthält die meisten Medikamente, die du benötigst, um sich von Verletzungen und Krankheiten zu erholen, alles in einer bequemen Pillenform.
 
-uplink-combat-medkit-ipc-name = Combat Medical Kit (IPC)
+uplink-combat-medkit-ipc-name = Kampf-Medkit (IPC)
 uplink-combat-medkit-ipc-desc = Enthält alles, was du brauchst, um einen IPC zu heilen; enthält LV-Draht, Industrieschweißer, eine Hochleistungszelle und Mesonbrille.
 
 # Implants
@@ -325,7 +325,7 @@ uplink-clothing-explosive-gloves-desc = Handschuhe, die wie normale isolierte Ha
 uplink-syndicate-weapon-module-advanced-name = Fortschrittliches Waffenmodul
 uplink-syndicate-weapon-module-advanced-desc = Erweitert einen Cyborg mit einem Energieschwert und einer Anaconda-Pistole.
 
-uplink-carpcaller-name = Space Carp Caller
+uplink-carpcaller-name = Weltraumkarpfen-Rufer
 uplink-carpcaller-desc = Ein Gerät, das die Karpfenpsychologie ausnutzt, die, wenn sie verankert, angetrieben und dem offenen Raum ausgesetzt ist, wilde Weltraumkarpfen anzieht. Denken sie daran, dass sie nicht ihr freund sind.
 
 # Martial Arts
@@ -348,13 +348,13 @@ uplink-dimension-pot-desc = Ein Portal zu deiner eigenen Taschendimension, das i
 uplink-pizza-bomb-name = Nefare Pizza Bombe
 uplink-pizza-bomb-desc = Zuerst von Terroristen entwickelt, wird jetzt vom Syndicate zur Beseitigung hochwertiger Ziele verwendet. Öffne nicht vor der Explosion.
 
-uplink-pizza-party-crate-name = Pizza Party Crate
+uplink-pizza-party-crate-name = Pizzaparty-Kiste
 uplink-pizza-party-crate-desc = Eine Kiste kommt in Form von Katastrophe Pizza Lieferung. Gefüllt mit Pizzas und Pizzabomben, um die explosivste Pizzaparty aller Zeiten zu werfen. Leider kannst du dich nicht erinnern, welches was ist.
 
 uplink-undetermined-bundle-name = Unbestimmte Bundle Crate
 uplink-undetermined-bundle-desc = Diese Kiste kommt mit drei zufälligen Bündeln und ermöglicht es, eines von ihnen auszuwählen. Garantiert, um Syndicate-Verschlüsselungsschlüssel enthalten.
 
-uplink-energy-pickaxe-name = Energy Pickaxe
+uplink-energy-pickaxe-name = Energiespitzhacke
 uplink-energy-pickaxe-desc = Ein holographisches Bergbauwerkzeug mit Klingen aus hartem Licht, das auch einer tödlichen Nahkampfwaffe dient. Fels und Stein!
 
 uplink-bloodred-cassette-name = Bloodred Casette Spieler
@@ -363,10 +363,10 @@ uplink-bloodred-cassette-desc = Geliefert von den egoistischsten Modedesignern v
 uplink-syndiedrobe-name = Syndiedrobe
 uplink-syndiedrobe-desc = Ein Verkaufsautomat mit Syndicate-Markenkleidung. Einfach, scharf und unverkennbar rot-schwarz, bietet es Agenten eine Möglichkeit, sich mit Syndicate-Stil zu kleiden.
 
-uplink-customboard-name = Custom Syndicate Lawboard
+uplink-customboard-name = Individuelle Syndicate-Gesetzesplatine
 uplink-customboard-desc = Eine modifizierte Gesetzestafel, mit der der Benutzer die Gesetze in alles ändern kann, was er will. Kommt mit Antimov vorinstalliert.
 
-uplink-cddisksyndicate-name = Syndicate Advertisement CD
+uplink-cddisksyndicate-name = Syndicate-Werbe-CD
 uplink-cddisksyndicate-desc = 102.9 Syndicate Radio
 
 uplink-cddisknumber-name = Nummer Station CD

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-hierophantbeat-name = Hierophant's Beat
+alerts-hierophantbeat-name = Schlag des Hierophanten
 alerts-hierophantbeat-desc = Eine geheimnisvolle jenseitige Melodie beeinflusst deine Mobilität.

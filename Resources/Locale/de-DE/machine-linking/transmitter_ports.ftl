@@ -38,7 +38,7 @@ signal-port-description-dockstatus = Dieser Port wird mit HIGH aufgerufen, wenn 
 signal-port-name-middle = Mitte
 signal-port-description-middle = Dieser Port wird immer dann aufgerufen, wenn der Hebel in die Neutralposition bewegt wird.
 
-signal-port-name-trigger-sender = Trigger
+signal-port-name-trigger-sender = Auslöser
 signal-port-description-trigger-sender = Dieser Port wird aufgerufen, wenn das Gerät auslöst.
 
 signal-port-name-timer-trigger = Timer
@@ -47,7 +47,7 @@ signal-port-description-timer-trigger = Dieser Port wird aufgerufen, wenn der Ti
 signal-port-name-timer-start = Timer starten
 signal-port-description-timer-start = Dieser Port wird immer dann aufgerufen, wenn der Timer startet.
 
-signal-port-name-logic-output = Output
+signal-port-name-logic-output = Ausgang
 signal-port-description-logic-output = Dieser Port wird mit HIGH oder LOW aufgerufen, abhängig vom ausgewählten Gate und den Eingängen.
 
 signal-port-name-logic-output-high = Hoher Ausgang

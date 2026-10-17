@@ -16,8 +16,8 @@ ent-FoodTacoRat = Rattentaco
 ent-FoodTacoBeefSupreme = Beef Taco Supreme
     .desc = Es ist wie ein normaler Rindfleisch-Taco, aber erhaben!
 
-ent-FoodTacoChickenSupreme = Chicken Taco Supreme
-    .desc = Es ist wie ein normaler Chicken Taco, aber erhaben!
+ent-FoodTacoChickenSupreme = Hähnchentaco Supreme
+    .desc = Wie ein normaler Hähnchentaco, nur erhabener!
 
 ent-FoodTacoDragon = Draco
     .desc = Ein Drachentaco, der technisch auch ein Fischtaco ist.

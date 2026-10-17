@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitChameleon = Uniform (schwarz, Jumpsuit, Chameleon)
+ent-ClothingUniformJumpsuitChameleon = Uniform (schwarz)
     .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.

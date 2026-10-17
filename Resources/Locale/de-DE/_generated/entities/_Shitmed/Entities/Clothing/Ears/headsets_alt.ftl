@@ -1,2 +1,2 @@
 ent-ClothingHeadsetAltAbductor = Entführer-Over-Ear-Headset
-    .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
+    .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.

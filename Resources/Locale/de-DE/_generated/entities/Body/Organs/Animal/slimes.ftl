@@ -1,4 +1,4 @@
-ent-SentientSlimesCore = Sensient Slime Core
+ent-SentientSlimesCore = empfindungsfähiger Schleimkern
     .desc = Die Quelle der unglaublichen, endlosen Gooeyness.
 
 ent-XenobioSentientSlimesCore = mutierter Schleimkern

@@ -109,17 +109,17 @@ holopad-cargo-shuttle = Fracht - Shuttle
 holopad-cargo-mailroom = Fracht - Poststelle
 
 # Engineering
-holopad-engineering-atmos-front = Atmos - Front
+holopad-engineering-atmos-front = Atmos – Vorderseite
 holopad-engineering-atmos-main = Atmos - Main
 holopad-engineering-atmos-teg = Atmos - TEG
 holopad-engineering-storage = Technik - Lager
 holopad-engineering-breakroom = Technik - Pausenraum
-holopad-engineering-front = Engineering - Front
+holopad-engineering-front = Technik – Vorderseite
 holopad-engineering-telecoms = Technik - Telekommunikation
-holopad-engineering-tech-vault = Engineering - Tech Vault
+holopad-engineering-tech-vault = Technik – Technik-Tresor
 holopad-engineering-ame = Engineering - AME
-holopad-engineering-power = Engineering - Power
-holopad-engineering-main = Engineering - Main
+holopad-engineering-power = Technik – Strom
+holopad-engineering-main = Technik – Haupt
 
 # Security
 holopad-security-front = Sicherheit - Front
@@ -145,12 +145,12 @@ holopad-service-botany = Service - Botanik
 holopad-service-chapel = Service - Kapelle
 holopad-service-library = Service - Bibliothek
 holopad-service-newsroom = Service - Newsroom
-holopad-service-zookeeper = Service - Zookeeper
+holopad-service-zookeeper = Service – Tierpfleger
 holopad-service-boxer = Service - Boxer
 holopad-service-clown = Service - Clown
 holopad-service-musician = Service - Musiker
 holopad-service-mime = Service - Mime
-holopad-service-clown-mime = Service - Clown/Mime
+holopad-service-clown-mime = Service – Clown/Mime
 holopad-service-gameroom = Service - Spielzimmer
 
 # AI

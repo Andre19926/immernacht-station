@@ -1,4 +1,4 @@
-ent-ClothingModsuitResponsorySecurity = Security Responsory Modsuit Steuerungseinheit
+ent-ClothingModsuitResponsorySecurity = Modsuit-Steuereinheit „Security Responsory“
     .desc = Der Hauptcontroller für einen Security Responsory Modsuit.
 
 ent-ClothingModsuitGauntletsResponsorySecurity = Sicherheits-Responsoring Modsuit Gauntlets
@@ -10,7 +10,7 @@ ent-ClothingModsuitHelmetResponsorySecurity = Sicherheits-Responsoring Modsuit H
 ent-ClothingModsuitChestplateResponsorySecurity = Sicherheits-Responsoring Modsuit Brustplatte
     .desc = Eine hochmoderne Brustplatte, entworfen von NanoTrasen für den Security Responsory Modsuit. Es enthält angetriebene Servos, um die Last der Ausrüstung zu reduzieren.
 
-ent-ClothingModsuitBootsResponsorySecurity = Security Responsory Modsuit Stiefel
+ent-ClothingModsuitBootsResponsorySecurity = Modsuit-Stiefel „Security Responsory“
     .desc = Ein hochmodernes Paar Magboots für den Security Responsory Modsuit.
 
 ent-SuitStorageResponsorySecurity = Anzuglagereinheit

@@ -1,6 +1,6 @@
-ent-ChestShadowkin = Shadowkin-Rumpf
+ent-ChestShadowkin = Shadowkin-Brust
 
-ent-GroinShadowkin = Shadowkin-Leiste
+ent-GroinShadowkin = Shadowkin-Unterleib
 
 ent-HeadShadowkin = Shadowkin-Kopf
 
@@ -10,12 +10,12 @@ ent-RightArmShadowkin = rechter Shadowkin-Arm
 
 ent-LeftHandShadowkin = linke Shadowkin-Hand
 
-ent-RightHandShadowkin = rechte Shadowkin Hand
+ent-RightHandShadowkin = rechte Shadowkin-Hand
 
 ent-LeftLegShadowkin = linkes Shadowkin-Bein
 
-ent-RightLegShadowkin = Rechts Shadowkin Bein
+ent-RightLegShadowkin = rechtes Shadowkin-Bein
 
 ent-LeftFootShadowkin = linker Shadowkin-Fuß
 
-ent-RightFootShadowkin = rechts Shadowkin Fuß
+ent-RightFootShadowkin = rechter Shadowkin-Fuß

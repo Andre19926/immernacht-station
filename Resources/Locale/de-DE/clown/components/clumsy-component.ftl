@@ -7,4 +7,4 @@ clumsy-gun-fail-message = Die Waffe bläst dir ins Gesicht!
 clumsy-hypospray-fail-message = Ups! Du hast dich selbst gespritzt.
 
 clumsy-catch-fail-message-user = { CAPITALIZE(THE($item)) } Schlagt deinen Kopf!
-clumsy-catch-fail-message-others = { CAPITALIZE(THE($item)) } Treffer { THE($catcher) }Kopf!
+clumsy-catch-fail-message-others = { CAPITALIZE(THE($item)) } trifft { THE($catcher) } am Kopf!

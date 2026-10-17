@@ -6,7 +6,7 @@ make-ghost-roles-window-role-description-label = Rollenbeschreibung
 make-ghost-roles-window-role-rules-label = Rollenregeln
 make-ghost-roles-window-make-sentient-label = Intelligent machen
 make-ghost-roles-window-initial-duration-label = Anfangsdauer (s)
-make-ghost-roles-window-join-extends-by-label = Joins Extend By (s)
+make-ghost-roles-window-join-extends-by-label = Beitritt verlängert um (s)
 make-ghost-roles-window-max-duration-label = Maximale Dauer (s)
 
 make-ghost-roles-window-make-button = Erstellen

@@ -24,7 +24,7 @@ ghost-role-information-skibidi-toilet-description = Lebendige Menschen mit deine
 ghost-role-information-skibidi-toilet-rules = Du bist ein [color=red][bold]Antagonist[/bold][/color] mit dem Ziel, so viele Ohioaner wie möglich nicht zu leben.
 
 ghost-role-information-Hecu-name = HECU-Operator
-ghost-role-information-Hecu-description = Befolge alle Bestellungen, die dir von [color=yellow][bold]CentComm[/bold][/color]Andernfalls kooperiere mit Security, um die Probleme der Station zu lösen.
+ghost-role-information-Hecu-description = Befolge alle Befehle, die dir von [color=yellow][bold]CentComm[/bold][/color] erteilt werden. Arbeite ansonsten mit der Sicherheit zusammen, um die Probleme der Station zu lösen.
 ghost-role-information-Hecu-rules = Du bist verpflichtet, befehle ihres vorgesetzten zu befolgen, du bist effektiv ihre. [color=#6495ed][bold]Vertraute[/bold][/color].
 
 ghost-role-information-lootbug-name = LootBug
@@ -42,7 +42,7 @@ ghost-role-information-huborg-description = Du bist ein widerlicher Gräuel eine
 ghost-role-information-c4-name = Zusammensetzung C-4
 ghost-role-information-c4-description = Unterstütze deinen Benutzer bei der Bombardierung von Dingen.
 
-ghost-role-information-derelict-cyborg-syndicate-name = Derelict Syndicate Cyborg
+ghost-role-information-derelict-cyborg-syndicate-name = Verlassener Syndicate-Cyborg
 ghost-role-information-derelict-cyborg-syndicate-description = Du wurdest während eines Angriffs auf eine Station verloren. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
 ghost-role-information-navy-captain-name = Marinekapitän
@@ -59,7 +59,7 @@ ghost-role-information-navy-officer-rules = Folge den Befehlen der [color=#yello
 
 ghost-role-information-navy-officer-undercover-name = Undercover Navy Offizier
 ghost-role-information-navy-officer-undercover-description = Schließe deine zugewiesenen Aufgaben ab und beende die angegebenen Ziele. Viel Glück.
-ghost-role-information-navy-officer-undercover-rules = Folge den Befehlen der [color=#yellow][bold]Marinekapitän[/bold][/color]oder einem anderen Beamten des CentComm.
+ghost-role-information-navy-officer-undercover-rules = Befolge die Befehle des [color=#yellow][bold]Marinekapitäns[/bold][/color] oder eines anderen Beamten des CentComm.
 
 ghost-role-information-diplomat-name = Diplomat
 ghost-role-information-diplomat-description = Stellt das CentComm dar und verwaltet die Beziehungen zu anderen Fraktionen an Bord der Station. Säubern dich die Probleme, die der Kapitän wahrscheinlich verursacht hat.
@@ -87,9 +87,9 @@ ghost-role-information-bsd-description = Du wurdest von der NTR auf die Station 
 ghost-role-information-bsd-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color], Führung schützen.
 
 # interns
-ghost-role-intern-name = CentComm intern
-ghost-role-nerd-intern-name = CentComm Nerd Intern
-ghost-role-lead-intern-name = CentComm Lead Intern
+ghost-role-intern-name = CentComm-Praktikant
+ghost-role-nerd-intern-name = CentComm-Nerd-Praktikant
+ghost-role-lead-intern-name = CentComm-Chefpraktikant
 ghost-role-intern-desc = Du bist ein CentComm Praktikant, du bist unterbezahlt, hungrig, mit einer großen Studentenschuld, die du auszahlen musst, aber du hast keine anderen Möglichkeiten, also hör besser zu!
 ghost-role-intern-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color] & CentComm, protect command, höre dem Lead Praktikanten zu.
 ghost-role-lead-intern-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color] & CentComm, Protect Command, geben Befehle an andere Praktikanten.
@@ -100,7 +100,7 @@ ghost-role-cargo-bingle-desc = Diene dem Nanotrasen-Vertreter und seinen Interes
 
 # shuttle roles
 
-ghost-role-information-alien-tourist-name = Alien Tourist
+ghost-role-information-alien-tourist-name = Außerirdischer Tourist
 ghost-role-information-alien-tourist-description = Schaue dich in der Station um. Glorp auf Menschen. Lass dich von einem Trigger-happy Offizier erschossen.
 
 # Conquest?
@@ -132,25 +132,25 @@ ghost-role-information-rules-default-xeno = Du bist ein [color={role-type-team-a
 
 ghost-role-information-description-token-generic = Nimm diese Rolle nicht an, es sei denn, du hast das Token eingelöst!
 
-ghost-role-information-space-ninja-name-token = Space Ninja (Token)
-ghost-role-information-space-dragon-name-token = Space Dragon (Token)
+ghost-role-information-space-ninja-name-token = Weltraum-Ninja (Token)
+ghost-role-information-space-dragon-name-token = Weltraumdrache (Token)
 ghost-role-information-revenant-name-token = Wiedergänger (Token)
-ghost-role-information-loneop-name-token = Lone Operative (Token)
-ghost-role-information-derelict-cyborg-syndicate-name-token = Derelict Assault Cyborg (Token)
+ghost-role-information-loneop-name-token = Einzelkämpfer-Operative (Token)
+ghost-role-information-derelict-cyborg-syndicate-name-token = Verlassener Sturm-Cyborg (Token)
 ghost-role-information-bingle-name-token = Bingle (Token)
-blob-carrier-role-name-token = Blob Carrier (Token)
-abductor-lone-ghost-role-name-token = Lone Abductor (Token)
+blob-carrier-role-name-token = Blob-Träger (Token)
+abductor-lone-ghost-role-name-token = Einzelner Entführer (Token)
 roles-wizard-name-token = Zauberer (Token)
 roles-slaughter-demon-name-token = Schlachtung Dämon (Token)
 roles-laughter-demon-name-token = Gelächter Dämon (Token)
 ghost-role-information-ancient-rogue-king-name-token = Alter Schurkenkönig (Token)
-ghost-role-information-wraith-name-token = Wraith (Token)
+ghost-role-information-wraith-name-token = Phantomgeist (Token)
 
 # Misc-Midround Antags
 
 ghost-role-information-grey-tide-name = Die graue Flut
 ghost-role-information-grey-tide-description = Gegen all das Böse, das Shitsec beschwören kann, all die Bosheit, die Sci hervorbringen kann, werden wir ihnen nur dich schicken. Robust und scheiße, bis es fertig ist.
-grey-tide-role-greeting = Lange vergessen in den Tiefen der Mainten, du bist [color=#880808]DIE GRIECHEN [/color]Die kleidung, die du trägst, ist mit deinem körper aus ausgedehnter robustierung verschmolzen, diese station ist nicht ihre zu erobern.
+grey-tide-role-greeting = Lange vergessen in den Tiefen der Wartung bist du [color=#880808]DIE GREYTIDE [/color]. Die Kleidung, die du trägst, ist durch ausgiebiges Robusten mit deinem Körper verschmolzen, diese Station gehört nicht ihnen …
 tide-objective-kill-everyone-desc = Diese Station hat dir zum letzten Mal Unrecht getan, robust und geflutet, bis sie alle tot sind.
 tide-objective-condition-kill-everyone-else-title = Robust alle.
 
@@ -161,31 +161,31 @@ tunnel-clown-objective-maints-slasher-desc = Diese Wartung der Stationen war dei
 tunnel-clown-objective-condition-maints-slasher-title = Instandhaltung schützen.
 tunnel-clown-business-card = Tunnel-Clown, lizenziert zum Töten.
 
-ghost-role-information-Singuloth-Knight-name = Singuloth Knight
+ghost-role-information-Singuloth-Knight-name = Singuloth-Ritter
 ghost-role-information-Singuloth-Knight-description = Einst Meisteringenieure, jetzt Nachfolger von Lord Singuloth. Mit einem Singularitätshammer sind sie eine Kraft, mit der man rechnen muss!
 Singuloth-Knight-role-greeting = Du bist ein [color=#880808]Singuloth Knight[/color], ein frommer Nachfolger von Lord Singuloth, überprüft deinen Charakter Blatt f'r deine Ziele.
 objective-issuer-lord-singuloth = [color=#320022]Lord Singuloth[/color]
 
-ghost-role-information-dark-lord-name = Dark Lord
+ghost-role-information-dark-lord-name = Dunkler Lord
 ghost-role-information-dark-lord-description = Ein Syndicate-Agent, der nach einem Sith-Lord thematisiert ist, benutze deine Blitzkräfte und dein Energieschwert, um deine Ziele zu erreichen!
 dark-lord-role-greeting = Du bist ein [color=#880808]Dark Lord[/color] vom syndikat zu dieser station geschickt, um ihre schmutzige arbeit zu erledigen, überprüfen sie ihr charakterblatt auf ihre ziele.
 
 ghost-role-information-chosen-one-name = Der Auserwählte
 ghost-role-information-chosen-one-description = Ein spezieller Agent, der von Nanotrasen zur Station geschickt wurde, um einen dunklen Lord zu besiegen.
-chosen-one-role-greeting = Du bist die [color=#0087FF]Auserwählte[/color]dich wurden zu dieser station geschickt, um einen dunklen lord zu besiegen, der vom syndikat geschickt wurde, überprüfen sie ihr charakterblatt auf ihre ziele.
+chosen-one-role-greeting = Du bist der [color=#0087FF]Auserwählte[/color]. Du wurdest zu dieser Station geschickt, um einen vom Syndicate gesandten Dunklen Lord zu besiegen. Prüfe dein Charakterblatt für deine Ziele.
 objective-condition-dark-lord-kill-title = Sicherstellen Dark Lord {$targetName} stirbt.
 
-ghost-role-information-mime-Assassin-name = Mime Assassin
+ghost-role-information-mime-Assassin-name = Mime-Assassine
 ghost-role-information-mime-Assassin-description = Ein Attentäter, der Mime-Kleidung benutzt und stille Tötungen bevorzugt, ihr Name? Nun, sie können es dir wahrscheinlich nicht sagen, aber das macht es dann so gut!
-mime-Assassin-role-greeting = Du bist ein [color=#880808]Mime Assassin[/color]dich wurden vom Syndicate zu dieser Station geschickt, um einige Führungsmitglieder zu töten, die sie aus der Gleichung nehmen müssen, das Syndicate hat dir einige Werkzeuge zur Verfügung gestellt, um die Arbeit zu erledigen, in aller Stille... überprüfen dich dein Charakterblatt auf deine Ziele und wirst du nicht erwischt.
+mime-Assassin-role-greeting = Du bist ein [color=#880808]Mime Assassin[/color]. Du wurdest vom Syndicate zu dieser Station geschickt, um einige Führungsmitglieder zu töten, die aus dem Weg geräumt werden müssen. Das Syndicate hat dir einige Werkzeuge gestellt, um die Arbeit in aller Stille zu erledigen … Prüfe dein Charakterblatt für deine Ziele und lass dich nicht erwischen.
 
 ghost-role-information-dark-priest-name = Dunkler Priester
 ghost-role-information-dark-priest-description = Ein Agent der dunklen Götter, geschickt, um jemanden zu töten, jemanden zu beschützen und jemanden einzustellen, der ihr Interesse als ihr Lehrling geweckt hat, trägt den "Segen des Schnitters".
-dark-priest-role-greeting = Du bist ein [color=#880808]Dunkler Priester[/color]dich wurden zu dieser station geschickt, um jemanden auszuwählen, der ihr lehrling wird, jemanden zu töten und jemanden zu beschützen, ihr charakterblatt auf ihre ziele zu überprüfen.
+dark-priest-role-greeting = Du bist ein [color=#880808]Dunkler Priester[/color]. Du wurdest zu dieser Station geschickt, um jemanden als deinen Lehrling auszuwählen, jemanden zu töten und jemanden zu beschützen. Prüfe dein Charakterblatt für deine Ziele.
 objective-condition-other-alive-title = Crewmitglied sicherstellen {$targetName}, {CAPITALIZE($job)} bleibt am Leben.
 objective-issuer-self = [color=#7851A9]Für deine eigenen Interessen[/color]
 
-ghost-role-information-vox-raider-name = Vox Raider
+ghost-role-information-vox-raider-name = Vox-Plünderer
 ghost-role-information-vox-raider-description = Vox, die ihre Loyalität zum Shoal schwören. Es ist unklar, was ihre Absichten sind oder ob sie den Handel planen oder von der Station stehlen. Es ist immer am besten, Vorsicht zu walten, wenn sie auftauchen.
 vox-raider-role-greeting = Du bist ein [color=#7851A9]Vox Raider[/color], ein Vox, der seine Loyalität gegenüber dem Shoal geschworen hat, du bist damit beauftragt, Gegenstände von der Station zu stehlen oder für sie zu handeln, es spielt keine Rolle, für welche du dich entscheidest, alles, was zählt, ist, dass du alle Gegenstände erhältst, die du benötigst, um deine Ziele zu erreichen und "The Heist" abzuschließen, überprüfe dein Charakterblatt auf deine Ziele.
 
@@ -197,12 +197,12 @@ ghost-role-information-santa-description = Verbreite Weihnachtsjubel rund um die
 
 ghost-role-information-slasher-token = Der Slasher (Token)
 
-ghost-role-information-sentientanimal-rules = Du bist ein [color={role-type-sentient-animal-color}][bold]{role-type-sentient-animal-name}[/bold][/color]dich sind ein neutrales Tier, das in Selbstverteidigung handeln kann, aber sonst nicht versuchen, der Crew zu schaden.
+ghost-role-information-sentientanimal-rules = Du bist ein [color={role-type-sentient-animal-color}][bold]{role-type-sentient-animal-name}[/bold][/color]. Du bist ein neutrales Tier, das in Selbstverteidigung handeln kann, aber sonst nicht versuchen, der Crew zu schaden.
                                               Du erinnerst dich an nichts von deinem früheren Leben und du erinnerst dich an nichts, was du als Geist gelernt hast.
                                               Du darfst dich an das Wissen über das Spiel im Allgemeinen erinnern, wie z. B. Kochen, Verwenden von Objekten usw., du bist jedoch nicht in fortgeschrittenen Rollen vertraut.
                                               Du bist absolut [color=red]NICHT[/color] erlaubt, sich beispielsweise an den Namen, das Aussehen usw. Deines vorherigen Charakters zu erinnern.
 
 ghost-role-information-contractor-name = Konsortialunternehmer
-ghost-role-information-contractor-token = Syndicate Contractor (Token)
+ghost-role-information-contractor-token = Syndicate-Auftragnehmer (Token)
 ghost-role-information-contractor-description = GET DA... Tider...?
-contractor-role-greeting = Du bist ein [color=#611b2b]Konsortialunternehmer[/color]Als Kopfgeldjäger hast du die Aufgabe, Ziele von der Station zurückzuziehen, tot oder lebendig.
+contractor-role-greeting = Du bist ein [color=#611b2b]Syndicate-Auftragnehmer[/color], ein Kopfgeldjäger. Deine Aufgabe ist es, Ziele von der Station zu holen, tot oder lebendig.

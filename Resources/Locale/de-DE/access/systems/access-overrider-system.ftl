@@ -6,7 +6,7 @@
 
 access-overrider-window-privileged-id = Berechtigte ID:
 access-overrider-window-eject-button = Auswerfen
-access-overrider-window-insert-button = Insert
+access-overrider-window-insert-button = Einlegen
 access-overrider-window-target-label = Angeschlossenes Gerät:
 access-overrider-window-no-target = Kein angeschlossenes Gerät
 access-overrider-window-missing-privileges = Der Zugriff auf dieses Gerät kann nicht geändert werden. Der eingefügten ID fehlen folgende Privilegien:

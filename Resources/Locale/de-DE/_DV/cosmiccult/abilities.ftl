@@ -6,14 +6,14 @@ cosmicability-siphon-cultist-success = Deine Versuche, Entropie abzuziehen, lass
 cosmicability-siphon-success = Du zeichnest leise Entropie aus {CAPITALIZE(THE($target))}.
 cosmicability-siphon-fail = Du schaffst es nicht, Entropie aus {CAPITALIZE(THE($target))} abzusaugen.
 cosmicability-siphon-full = Du kannst keine Entropie mehr halten!
-cosmicability-siphon-crit = {CAPITALIZE(THE($user))}Die Augen blinken mit Energie und {THE($target)} Tropfen tot!
+cosmicability-siphon-crit = {CAPITALIZE(THE($user))}s Augen blitzen vor Energie auf und {THE($target)} fällt tot um!
 
 cosmicability-blank-begin = {CAPITALIZE(THE($target))} Versuche, dich zu ergreifen!
-cosmicability-blank-success = Shunt {CAPITALIZE(THE($target))}Denken dich an die kosmische Dunkelheit.
+cosmicability-blank-success = Du stößt den Geist von {CAPITALIZE(THE($target))} in die kosmische Dunkelheit.
 cosmicability-blank-transfer = Eine kosmische Kraft verdrängt deinen Geist aus deinem Körper!
 cosmicability-blank-return = Dein Geist wird zu deinem Körper zurückgezogen.
 
-cosmicability-lapse-success = Du bist hinfällig {CAPITALIZE(THE($target))}Körperliche Form.
+cosmicability-lapse-success = Du lässt die körperliche Form von {CAPITALIZE(THE($target))} verfallen.
 
 cosmicability-monument-move-confirm = DIESE AKTION KANN NUR EIN Mal VERWENDET WERDEN 10 MINUTEN! Verwende es erneut, um zu bestätigen.
 cosmicability-monument-spawn-confirm = Diese Maßnahme kann nur einmal verwendet werden! Verwende es erneut, um zu bestätigen.

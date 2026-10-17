@@ -18,7 +18,7 @@ salvage-system-announcement-arrived = Ein Stück bergungsfähiger Trümmer wurde
 salvage-asteroid-name = Asteroid
 
 salvage-magnet-window-title = Salvage-Magnet
-salvage-expedition-window-progression = Progression
+salvage-expedition-window-progression = Fortschritt
 
 salvage-magnet-resources = {$resource ->
     [OreIron] Eisen
@@ -57,5 +57,5 @@ dungeon-config-proto-SwissCheeseAsteroid = Asteroidenfragmente
 salvage-map-wreck = Salvage-Wrack
 salvage-map-wreck-desc-size = Größe:
 salvage-map-wreck-size-small = [color=lime]Klein[/color]
-salvage-map-wreck-size-medium = [color=cornflowerblue]Medium[/color]
+salvage-map-wreck-size-medium = [color=cornflowerblue]Mittel[/color]
 salvage-map-wreck-size-large = [color=orchid]Groß[/color]

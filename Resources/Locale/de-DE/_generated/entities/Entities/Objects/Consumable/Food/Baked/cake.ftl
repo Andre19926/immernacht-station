@@ -35,7 +35,7 @@ ent-FoodCakeOrangeSlice = Stück Orangenkuchen
     .desc = Nur ein Stück Kuchen, es ist genug für alle.
 
 ent-FoodCakeLime = Limettenkuchen
-    .desc = Kuchen mit Kalkzusatz.
+    .desc = Kuchen mit Limettenzusatz.
 
 ent-FoodCakeLimeSlice = Stück Limettenkuchen
     .desc = Nur ein Stück Kuchen, es ist genug für alle.

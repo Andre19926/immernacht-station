@@ -2,7 +2,7 @@ ent-ClothingNeckBronzeheart = Bronzeheart Medaille
     .desc = Gegeben an Crewkameraden für beispielhaften Mut angesichts der Gefahr.
 
 ent-ClothingNeckGoldmedal = Goldmedaille für Crewmanship
-    .desc = Gegeben an crewmates, die ausgezeichnete crewmanship zeigen.
+    .desc = Wird an Crewmitglieder verliehen, die ausgezeichnete Crew-Leistung zeigen.
 
 ent-ClothingNeckCargomedal = Frachtmedaille
     .desc = Gegeben für die beste Arbeit in der Frachtabteilung.

@@ -14,7 +14,7 @@ ent-PaladinCircuitBoard = Gesetzesplatine (Paladin)
     .desc = Eine Elektronikplatine, die das Paladin-Gesetz enthält.
 
 ent-LiveLetLiveCircuitBoard = Gesetzesplatine (Leben und leben lassen)
-    .desc = Eine Elektronikplatine, die das Live and Let Live-Gesetz enthält.
+    .desc = Eine Platine, die das Gesetz „Leben und leben lassen“ enthält.
 
 ent-StationEfficiencyCircuitBoard = Gesetzesplatine (Station Efficiency)
     .desc = Eine Elektronikplatine, die das Station Efficiency-Gesetz enthält.
@@ -41,4 +41,4 @@ ent-XenoborgCircuitBoard = Gesetzesplatine (Xenoborg)
     .desc = Eine Elektronikplatine, die das Xenoborg-Gesetz enthält.
 
 ent-MothershipCircuitBoard = Gesetzesplatine (Mothership Core)
-    .desc = Eine Elektronikplatine, die das Mothership Core-Gesetz enthält.
+    .desc = Eine Platine, die das Mothership-Core-Gesetz enthält.

@@ -66,7 +66,7 @@ knowledge-path-flesh-s5-desc =
     Gewährt dir den Zauber Knit Flesh. Dieser Berührungszauber fungiert als ein großartiges chirurgisches Werkzeug, das chirurgische Schritte umgeht, Kleidung, keine Schmerzen verursacht und keinen Giftschaden verursacht. Auch fungiert als medizinische Hud und Gesundheit Analysator.
     Dieser Zauber ermöglicht es dir auch, deine Günstlinge und Beschwörungen zu heilen.
 
-knowledge-path-flesh-s6-name = Raw Ritual
+knowledge-path-flesh-s6-name = Rohes Ritual
 knowledge-path-flesh-s6-desc =
     Ich konnte nicht alleine weitermachen. Ich konnte The Uncanny Man beschwören, um mir zu helfen, mehr zu sehen.
     Die Schreie... einst konstant, jetzt zum Schweigen gebracht durch ihre elende Erscheinung. Nichts war außer Reichweite.

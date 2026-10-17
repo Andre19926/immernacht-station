@@ -6,10 +6,11 @@
 
 pirates-announcer-irs = Space IRS Agenten
 pirates-announcement-irs-threat =
-    TerraGov hier, Wir haben bemerkt, dass deine Station deine Steuern nicht bezahlt hat.
-    Lass uns das korrigieren, deine fehlenden Steuerschulden belaufen sich auf eine schöne Summe von Credits.
-    Akzeptiere einfach die Bestellung, die wir freundlicherweise in deiner Frachtkonsole aufgegeben haben.
-    Wir empfehlen dringend, deine Steuern zu zahlen, wir müssen kein Team zu deiner Station schicken, um die Situation zu lösen, oder?
+    TerraGov hier. Uns ist aufgefallen, dass deine Station ihre Steuern nicht bezahlt hat.
+    Lass uns das korrigieren: Deine offenen Steuerschulden belaufen sich auf eine stattliche Summe an Credits.
+    Nimm einfach die Bestellung an, die wir freundlicherweise in deiner Frachtkonsole aufgegeben haben.
+    Wir raten dringend dazu, deine Steuern zu zahlen. Wir müssen doch kein Team zu deiner Station schicken, um die Lage zu klären, oder?
+
 
 pirates-announcement-irs-arrival =
     Dies ist das Steuerkonfliktlösungsteam, bereite dich darauf vor, dass deine Vermögenswerte liquidiert und mit Steuerbetrug belastet werden!

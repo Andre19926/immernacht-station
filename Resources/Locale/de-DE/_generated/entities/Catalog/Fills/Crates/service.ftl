@@ -40,7 +40,7 @@ ent-CrateServiceBooks = Bücherkiste
 ent-CrateServiceGuidebooks = Reiseführer Kiste
     .desc = Enthält Reiseführer.
 
-ent-CrateServiceSodaDispenser = Soda Dispenser Nachfüllkasten
+ent-CrateServiceSodaDispenser = Sodaspender-Nachfüllkiste
     .desc = Enthält Nachfüllungen für Sodaspender.
 
 ent-CrateServiceBoozeDispenser = Nachfüllkasten für Alkoholspender

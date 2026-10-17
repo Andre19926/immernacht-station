@@ -10,4 +10,4 @@ ent-HierophantShapeBlinkSafe = Hierophant attack safe blink Spawner
 
 ent-HierophantShapeBoxExpanding = Hierophant Angriffsbox erweitert Spawner
 
-ent-HierophantShapeCrossSequence = Hierophant Attack Cross Sequenz Spawner
+ent-HierophantShapeCrossSequence = Hierophant-Kreuzangriff-Sequenz (Spawner)

@@ -5,13 +5,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellbook-mime-bundle-name = Mime Wizard Bundle
+spellbook-mime-bundle-name = Mime-Zauberer-Paket
 spellbook-mime-bundle-desc =
     Enthält eine Reihe von Mime Kleidung, sowie Mime PDA und spezielle Mime Zauberer Hut und Roben.
     Kann nicht zurückerstattet werden.
     Warnung: Der Kauf blockiert die Rückerstattung des Mime Malaise Zaubers!
 
-spellbook-clown-bundle-name = Clown Wizard Bundle
+spellbook-clown-bundle-name = Clown-Zauberer-Paket
 spellbook-clown-bundle-desc =
     Enthält eine Reihe von Clown-Kleidung, sowie Clown PDA und spezielle Clown Zauberer Hut und Roben.
     Kann nicht zurückerstattet werden.
@@ -25,7 +25,7 @@ spellbook-oblivion-enforcer-desc =
     Du kannst dieses Bundle so oft erhalten, wie du Supermatter Halberd gekauft hast.
     Achtung: Der Kauf blockiert die Rückerstattung von Supermatter Halberd!
 
-spellbook-tider-bundle-name = Tider Wizard Bundle
+spellbook-tider-bundle-name = Tider-Zauberer-Paket
 spellbook-tider-bundle-desc =
     Enthält einen alten Jumpsuit, ein Paar isolierte Handschuhe, eine Gasmaske, grauen Wintermantel und Mantel sowie Assistenten PDA.
     Kann nicht zurückerstattet werden.

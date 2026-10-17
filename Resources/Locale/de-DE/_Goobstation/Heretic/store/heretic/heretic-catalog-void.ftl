@@ -81,7 +81,7 @@ knowledge-path-void-s5-desc =
 
     Gewährt dir Void Prison, einen Zauber, der dein Opfer in eine Kugel sperrt und es unfähig macht, etwas zu tun oder zu sprechen. Wendet danach Void Chill an.
 
-knowledge-path-void-s6-name = Void Pull
+knowledge-path-void-s6-name = Leerensog
 knowledge-path-void-s6-desc =
     Alles ist flüchtig, aber was bleibt sonst? Ich bin nah dran, zu beenden, was begonnen wurde.
     Der Aristokrat offenbart sich mir erneut. Er sagt mir, ich sei zu spät. Sein Sog ist gewaltig, ich kann nicht umkehren.

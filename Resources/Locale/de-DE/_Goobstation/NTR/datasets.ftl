@@ -80,7 +80,7 @@ ntr-document-funny-service3-5 = half der Crew.
 ntr-document-funny-service3-6 = Einen Felinid lebendig verbrannt.
 ntr-document-funny-service3-7 = Raucher auf der Bridge.
 ntr-document-funny-service3-8 = wurde in Medbay auf lungenkrebs untersucht.
-ntr-document-funny-service3-9 = Der Leiter des Personals hat das alles tatsächlich gelesen.
+ntr-document-funny-service3-9 = Der Personalchef hat das alles tatsächlich gelesen.
 ntr-document-funny-service3-10 = Bezahlt für alle Getränke an der Bar.
 ntr-document-funny-service3-11 = Der Clown hat verhindert, dass Menschen ausrutschen.
 ntr-document-funny-service3-12 = schmierte den ganzen flur und sagte, dass der clown es getan hat.
@@ -139,7 +139,7 @@ ntr-document-funny-sec4-1 = Wenn die Sicherheit weiterhin Probleme mit Schlagst�
 ntr-document-funny-sec4-2 = Jeder Polizist, der dabei erwischt wird, sich selbst zu nennen [bold]"Das Gesetz"[/bold] dich müssen ihren Namen gesetzlich ändern [bold]"Das Gesetz"[/bold] um Verwechslungen durch Silikone zu vermeiden.
 ntr-document-funny-sec4-3 = Wenn die KI mit der Berichterstattung beginnt [bold]"Verdächtige Tätigkeit"[/bold] Jedes mal, wenn die sicherheit eine bar betritt, werden offiziere gegeben. [bold]obligatorische Nüchternheitsprüfungen[/bold].
 ntr-document-funny-sec4-4 = Offiziere, die darauf bestehen, unschuldige Menschen zu verhaften, werden wieder zugewiesen [bold]Clown-Pflicht für eine Woche.[/bold]
-ntr-document-funny-sec4-5 = Wenn die Sicherheit weitergeht [bold]Flashbangs als Gesprächsstarter verwenden[/bold]Alle Flashbangs werden durch [bold]Partypopper[/bold] von der Fracht.
+ntr-document-funny-sec4-5 = Wenn die Sicherheit weiterhin [bold]Blendgranaten als Gesprächseinstieg verwendet[/bold], werden alle Blendgranaten durch [bold]Partyknaller[/bold] aus der Fracht ersetzt.
 ntr-document-funny-sec4-6 = Jeder Offizier erwischt [bold]Prahlerei über ihre Kill Count[/bold] dich werden mit einem schalldämpfer belohnt, damit sie um gottes willen den mund halten.
 ntr-document-funny-sec4-7 = Infolgedessen ist es dem Warden erlaubt, öffentliche Boxkämpfe zu machen. [bold]im Inneren der Brig[/bold] Mit Zustimmung des Kapitäns.
 ntr-document-funny-sec4-8 = Wenn die sicherheit weiterhin personen in der wartung ohne einen vernünftigen grund sucht, wird die station eine. [bold]Reverse Trial, bei dem die Crew stattdessen die Sicherheit beurteilt.[/bold]
@@ -148,7 +148,7 @@ ntr-document-funny-sec4-8 = Wenn die sicherheit weiterhin personen in der wartun
 
 # funny verbs CARGO 1
 ntr-document-funny-cargo1-1 = Ladung soll die Station mit wichtigen Ressourcen versorgen, [italic]nicht[/italic] als unterirdisches Casino, persönlicher Einkaufsservice oder Schmuggelring mit Firmenlogo zu fungieren.
-ntr-document-funny-cargo1-2 = Es ist auf die Aufmerksamkeit der Unternehmen gekommen, dass Frachttechniker [bold]Betrieb eines nicht lizenzierten Wettrings[/bold] und Salvage-Helfer sind [bold]Mitbringen von Artefakten nach Hause, die verflucht sein können oder nicht[/bold]Dieses Dokument dient als freundliche Erinnerung daran, dass die Aufgabe der Fracht darin besteht, die Station zu versorgen und sich nicht auf intergalaktische Kriege oder eine Untergrundrebellion vorzubereiten.
+ntr-document-funny-cargo1-2 = Dem Konzern ist zu Ohren gekommen, dass Frachttechniker [bold]einen nicht lizenzierten Wettring betreiben[/bold] und Bergungsarbeiter [bold]Artefakte nach Hause bringen, die verflucht sein können oder auch nicht[/bold]. Dieses Dokument dient als freundliche Erinnerung daran, dass die Aufgabe der Fracht darin besteht, die Station zu versorgen und sich nicht auf intergalaktische Kriege oder eine Untergrundrebellion vorzubereiten.
 ntr-document-funny-cargo1-3 = Fracht ist eine Abteilung, die sich dem [bold]Stationsbetrieb[/bold], nicht [bold]Finanzierung persönlicher Projekte oder Betankung verdächtiger Markttrends[/bold].
 ntr-document-funny-cargo1-4 = Unsere [bold]Privatermittlungsteam[/bold] hat herausgefunden, dass einer der Retter der Fracht einen wirklich guten Job gemacht hat, feindliche Außenposten auf Lavaland zu finden. Unsere [bold]Geheimdienstteam[/bold] hat sich bereits darum gekümmert.
 ntr-document-funny-cargo1-5 = Der Quartermaster hat gedroht, "die Praktikanten zu berühren", wenn RD nicht schnell genug nach vorne kommt. Corporate ist entsetzt, dies zu wissen und rät dir, diese Informationen nicht zu teilen und nur [bold]leben damit.[/bold]
@@ -177,8 +177,8 @@ ntr-document-funny-cargo3-9 = die volle rechtliche Verantwortung übernehmen fü
 # MEDICAL
 
 # funny verbs MEDICAL 1
-ntr-document-funny-med1-1 = Medbay ist verantwortlich für [bold]Halten dich die Crew am Leben und funktionsfähig[/bold], und nicht [bold]Durchführung eines experimentellen Gliedmaßenersatzprogramms[/bold] (zumindest ohne Zustimmung des Unternehmens). Jüngste Berichte fanden jedoch heraus, dass
-ntr-document-funny-med1-2 = Medbay soll [bold]Verletzungen heilen, keine neuen schaffen[/bold]Wir haben jedoch herausgefunden, dass
+ntr-document-funny-med1-1 = Die Medbay ist dafür verantwortlich, [bold]die Crew am Leben und funktionsfähig zu halten[/bold], und nicht dafür, [bold]ein experimentelles Gliedmaßenersatzprogramm zu betreiben[/bold] (zumindest nicht ohne Genehmigung des Konzerns). Jüngste Berichte haben jedoch ergeben, dass
+ntr-document-funny-med1-2 = Die Medbay soll [bold]Verletzungen heilen, keine neuen schaffen[/bold]. Wir haben jedoch herausgefunden, dass
 
 # funny verbs MEDICAL 2
 ntr-document-funny-med2-1 = Das Leichenhaus ist heute der am häufigsten besuchte Teil der Medbay.
@@ -191,7 +191,7 @@ ntr-document-funny-med2-7 = Jemand mit dem CMO-ID-Karte versuchte, Depressionen 
 ntr-document-funny-med2-8 = Einer deiner Chemiker stellte einen Weltrekord auf, 8 Krüge Meth in weniger als 3 Minuten zu produzieren.
 
 # funny verbs MEDICAL 3
-ntr-document-funny-med3-1 = Wenn die Chemie weiter produziert [bold]technische Mengen von Methamphetamin[/bold]Alle künftigen Chemietransporte werden durch [bold]Weihwasser[/bold], weil dies nicht ist, wie Gott die Verwendung von Chems beabsichtigt.
+ntr-document-funny-med3-1 = Wenn die Chemie weiterhin [bold]Methamphetamin in industriellen Mengen produziert[/bold], werden alle künftigen Chemielieferungen durch [bold]Weihwasser[/bold] ersetzt, denn so war der Gebrauch von Chems von Gott nicht gedacht.
 ntr-document-funny-med3-2 = Wegen allem, was oben steht, dürfen Chirurgen nicht mehr [bold]Lobotomisierung[/bold] Patienten ohne ihre Zustimmung. (es sei denn, es ist ein Felinid)
 ntr-document-funny-med3-3 = Jeder Arzt erwischt [bold]versehentlich das Gehirn eines Patienten essen[/bold] wird gezwungen werden, [bold]Schreibe einen formellen Entschuldigungsbrief an die Familie der Person, deren Gehirn er aß.[/bold]
 ntr-document-funny-med3-4 = Wenn jemand Leporazin in "UwU Coldies Meowies" umbenennt, werden sie [bold]zwangsernährt 50 μ Rasatorium, keine Fragen gestellt.[/bold]
@@ -213,8 +213,8 @@ ntr-document-funny-med4-10 = bestätigen, dass mindestens [bold]halb[/bold] der 
 # ENGINEERING
 
 # funny verbs ENGINEERING 1
-ntr-document-funny-engi1-1 = Die Ingenieurabteilung ist verantwortlich für [bold]Halten dich die Station strukturell intakt, eine stabile Stromversorgung zu gewährleisten, und nicht in hoch experimentelle "Wissenschaft", die die Station zerstören könnte.[/bold] Wir haben jedoch festgestellt, dass
-ntr-document-funny-engi1-2 = Das Unternehmen hat kürzlich die technische Leistung überprüft, und die Ergebnisse sind ... besorgniserregend. Im vergangenen Monat haben wir eine [bold]dramatische Zunahme von "strukturellen Anomalien"[/bold]Wir sind jedoch der Ansicht, dass
+ntr-document-funny-engi1-1 = Die Ingenieurabteilung ist dafür verantwortlich, [bold]die Station strukturell intakt zu halten, eine stabile Stromversorgung sicherzustellen und sich NICHT an hochexperimenteller „Wissenschaft“ zu versuchen, die die Station zerstören könnte.[/bold] Wir haben jedoch festgestellt, dass
+ntr-document-funny-engi1-2 = Der Konzern hat kürzlich die Leistung der Technik überprüft, und die Ergebnisse sind … besorgniserregend. Im vergangenen Monat haben wir [bold]eine dramatische Zunahme „struktureller Anomalien“[/bold] beobachtet, wir sind jedoch der Ansicht, dass
 ntr-document-funny-engi1-3 = Das Unternehmen hat wiederholt betont, dass das Engineering die Stationsstabilität priorisieren sollte, und doch haben wir allein im letzten Quartal herausgefunden, dass
 ntr-document-funny-engi1-4 = Die Technik wurde erneut daran erinnert, dass die Station KEIN persönlicher Spielplatz ist. Trotzdem haben wir herausgefunden, dass
 ntr-document-funny-engi1-5 = Jüngste Untersuchungen deuten darauf hin, dass das Engineering seine eigene inoffizielle Politik entwickelt hat, von denen keine gut ist. Die Ursache kann darauf hinweisen, dass

@@ -6,7 +6,7 @@ slime-latch-fail-target-dead = Du willst {$ent} nicht verschlingen, es ist tot!
 
 slime-latch-fail-already-latched = Du kannst dich nicht an {$ent} festsaugen, es wird bereits von jemand anderem festgehalten!
 
-slime-latch-fail-max-entities = Du kannst die {$ent}Du bist voll!
+slime-latch-fail-max-entities = Du kannst {$ent} nicht verschlingen, du bist satt!
 
 slime-eat-corpse-success = {THE($eater)} versucht, etwas wegzureißen {THE($target)}!
 

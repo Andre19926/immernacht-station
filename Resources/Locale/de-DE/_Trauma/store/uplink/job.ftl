@@ -4,7 +4,7 @@ uplink-appraisal-tool-gun-desc = Eine modifizierte Viper erscheint als Bewertung
 uplink-medipen-mute-name = Mute Toxin Autoinjektor
 uplink-medipen-mute-desc = Ein Autoinjektor, der als Notfallmedikament getarnt ist und mit 15 Einheiten Mute-Toxin gefüllt ist.
 
-uplink-silent-shoes-name = Silent Shoes
+uplink-silent-shoes-name = Lautlose Schuhe
 uplink-silent-shoes-desc = Eine stille Drohung. Niemand wird dich in diesem speziellen Paar Schuhe kommen hören.
 
 uplink-utility-knife-name = Chemisches Gebrauchsmesser
@@ -13,10 +13,10 @@ uplink-utility-knife-desc = Ein Gebrauchsmesser mit speziellen Rillen, die bis z
 uplink-appraisal-tool-jammer-name = Appraising Tool Radio Jammer
 uplink-appraisal-tool-jammer-desc = Ein Funkstörsender, versteckt in einem Schätzwerkzeug. Du kannst damit ihre Kommunikation stören und gleichzeitig den Preis der Leiche prüfen!
 
-uplink-mimana-stealthy-name = Stealthy Mimana Peel
+uplink-mimana-stealthy-name = Getarnte Mimana-Schale
 uplink-mimana-stealthy-desc = Eine mutierte Mimana, die in den Hintergrund zu treten scheint. Verliere es nicht!
 
-uplink-omnimed-tool-name = Gorlex Surgical Omnitool
+uplink-omnimed-tool-name = Gorlex-Chirurgie-Multiwerkzeug
 uplink-omnimed-tool-desc = Ein kompaktes chirurgisches Omnitool, bequem verpackt wie ein Schweizer Armeemesser. Kann Chirurgie durch Kleidung durchführen.
 
 uplink-kudzu-grenade-name = Kudzu-Granate

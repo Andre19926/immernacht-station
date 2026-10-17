@@ -1,6 +1,6 @@
 slime-scanner-examine-slime-description = Es ist ein [color={$color}]{$name}[/color].
 
-slime-scanner-examine-slime-mutations = Die Wahrscheinlichkeit einer Mutation bei Mitose ist [color=yellow]{$chance}%[/color]Mögliche Mutationen sind:
+slime-scanner-examine-slime-mutations = Die Mutationswahrscheinlichkeit bei der Mitose beträgt [color=yellow]{$chance}%[/color]. Mögliche Mutationen sind:
 
 slime-scanner-examine-slime-extracts = Wenn du es jetzt mahlen würdest, würde es nachgeben [color=yellow]{$num}[/color] Auszüge.
 

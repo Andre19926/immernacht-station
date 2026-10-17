@@ -1,4 +1,4 @@
-ent-MagazineShotgunEmpty = Munitionstrommel (12 Gauge Shells Any)
+ent-MagazineShotgunEmpty = Munitionstrommel (12-Kaliber-Schrotpatronen, beliebig)
     .desc = Ein großes Trommelmagazin, das von einigen militärischen automatischen Schrotflinten verwendet wird.
 
 ent-MagazineShotgun = Munitionstrommel (12 Gauge-Pellet)

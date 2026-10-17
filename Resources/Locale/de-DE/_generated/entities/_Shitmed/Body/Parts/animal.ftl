@@ -1,13 +1,13 @@
 ent-HeadAnimal = Tierkopf
 
-ent-ChestGoliath = Goliathkiste
+ent-ChestGoliath = Goliath-Brust
 
-ent-GroinGoliath = Goliath-Leistengegend
+ent-GroinGoliath = Goliath-Unterleib
 
-ent-LegsGoliath = Goliathbeine
+ent-LegsGoliath = Goliath-Beine
 
-ent-ChestDragon = Drachentruhe
+ent-ChestDragon = Drachenbrust
 
-ent-GroinDragon = Leistengegend
+ent-GroinDragon = Drachenunterleib
 
 ent-LegsDragon = Drachenbeine

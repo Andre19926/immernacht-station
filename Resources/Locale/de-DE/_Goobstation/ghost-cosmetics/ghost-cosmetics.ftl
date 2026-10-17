@@ -1,30 +1,30 @@
-goob-ui-ghost-cosmetics = Ghost Cosmetics
+goob-ui-ghost-cosmetics = Geister-Kosmetik
 goob-ui-ghost-cosmetics-description = Verkleide deinen Geist mit einem Hut, einer Maske und einem Partikeleffekt.
 goob-ui-ghost-cosmetics-particles = Partikel
 goob-ui-ghost-cosmetics-hat = Hut
 goob-ui-ghost-cosmetics-mask = Maske
 goob-ui-ghost-cosmetics-none = Keine
 
-ghost-cosmetic-sparkles = Sparkles
+ghost-cosmetic-sparkles = Funken
 ghost-cosmetic-embers = Gluten
 ghost-cosmetic-ectoplasm = Ectoplasma
 ghost-cosmetic-frost = Frost
 ghost-cosmetic-gloom = Glorie
 
 ghost-cosmetic-top-hat = Oberschenkel
-ghost-cosmetic-wizard-hat = Wizard Hat
+ghost-cosmetic-wizard-hat = Zaubererhut
 ghost-cosmetic-pirate-hat = Piratenhut
-ghost-cosmetic-santa-hat = Santa Hat
+ghost-cosmetic-santa-hat = Weihnachtsmütze
 ghost-cosmetic-ushanka = Uschanka
 ghost-cosmetic-party-hat = Parteihut
-ghost-cosmetic-bowler-hat = Bowler Hat
+ghost-cosmetic-bowler-hat = Melone
 ghost-cosmetic-fedora = Fedora
 ghost-cosmetic-cat-ears = Katzenohren
 ghost-cosmetic-chef-hat = Chefshut
 ghost-cosmetic-cowboy-hat = Cowboyhut
 ghost-cosmetic-dog-ears = Hundeohren
 ghost-cosmetic-fez = Fez
-ghost-cosmetic-jester-hat = Jester Hat
+ghost-cosmetic-jester-hat = Narrenmütze
 ghost-cosmetic-paper-hat = Papierhut
 ghost-cosmetic-plague-doctor-hat = Pest Doctor Hat
 ghost-cosmetic-sombrero = Sombrero

@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-particle-accelerator-control-menu-on-button = On
+particle-accelerator-control-menu-on-button = An
 particle-accelerator-control-menu-off-button = Aus
 particle-accelerator-control-menu-service-manual-reference = Siehe S.132 des Servicehandbuchs
 particle-accelerator-control-menu-device-version-label = Mark 2 Partikelbeschleuniger

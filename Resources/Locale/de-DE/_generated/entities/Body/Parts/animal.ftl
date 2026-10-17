@@ -6,8 +6,8 @@ ent-FeetAnimal = Tierfüße
 
 ent-ChestAnimal = Tierbrust
 
-ent-GroinAnimal = Leistengegend
+ent-GroinAnimal = Tierunterleib
 
-ent-LeftHandSmartCorgi = Corgi-Hand
+ent-LeftHandSmartCorgi = linke Corgi-Hand
 
-ent-RightHandSmartCorgi = Corgi-Hand
+ent-RightHandSmartCorgi = rechte Corgi-Hand

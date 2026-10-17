@@ -1,4 +1,4 @@
-ent-OrganBloodsuckerStomach = Tierischer Magen
+ent-OrganBloodsuckerStomach = Tiermagen
 
 ent-OrganBloodsuckerLiver = Tierleber
 

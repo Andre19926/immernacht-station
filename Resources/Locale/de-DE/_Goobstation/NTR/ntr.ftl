@@ -30,8 +30,8 @@ ntr-executive-pizza-small-desc = Bestelle ein kleines Pizza-Party-Bundle bei Nan
 
 # personal
 
-ntr-executive-bsd-name = Call Blueshield Deputy
-ntr-executive-bsd-desc = Fordern dich einen Blueshield-Stellvertreter vom Central Command an. Dieser persönliche Wächter für dich oder das Führungspersonal erfordert eine gültige Begründung. Nur einer darf gerufen werden.
+ntr-executive-bsd-name = Blueshield-Stellvertreter rufen
+ntr-executive-bsd-desc = Fordere einen Blueshield-Stellvertreter vom Central Command an. Dieser persönliche Leibwächter für dich oder das Führungspersonal erfordert eine gültige Begründung. Es darf nur einer gerufen werden.
 
 ntr-executive-softsuit-name = Bestelle einen Softsuit
 ntr-executive-softsuit-desc = Ein grundlegender Softsuit, der für die kurzfristige Weltraumexposition entwickelt wurde. Bietet minimalen Schutz.
@@ -65,20 +65,20 @@ ntr-executive-cassette-desc = Ein Kassettenspieler, um Melodien zu hören, währ
 
 # response teams
 
-ntr-executive-ert-sec-name = Call ERT Security
-ntr-executive-ert-sec-desc = Fordern dich eine Sicherheitseinheit des Notfallteams vom Central Command an. Einsatz für extreme Bedrohungen wie nukleare Agenten oder Revolutionen. Missbrauch wird schwerwiegende Folgen haben.
+ntr-executive-ert-sec-name = ERT-Sicherheit rufen
+ntr-executive-ert-sec-desc = Fordere eine Sicherheitseinheit des Notfallteams von Central Command an. Wird bei extremen Bedrohungen wie nuklearen Agenten oder Revolutionen entsandt. Missbrauch hat schwerwiegende Folgen.
 
-ntr-executive-ert-med-name = Call ERT Medical
-ntr-executive-ert-med-desc = Fordern dich eine medizinische Einheit des Notfallteams an. Spezialisiert auf Massenunfälle und Erholung nach der Krise. Nicht ausgerüstet für Kampfsituationen.
+ntr-executive-ert-med-name = ERT-Medizin rufen
+ntr-executive-ert-med-desc = Fordere eine medizinische Einheit des Notfallteams an. Spezialisiert auf Massenunfälle und Erholung nach der Krise. Nicht für Kampfsituationen ausgerüstet.
 
-ntr-executive-ert-engi-name = Call ERT Engineering
-ntr-executive-ert-engi-desc = Fordern dich eine technische Einheit des Emergency Response Teams an. Spezialisiert auf die Wiederherstellung von Atmosphären- und Energiesystemen. Keine Kampfkraft.
+ntr-executive-ert-engi-name = ERT-Technik rufen
+ntr-executive-ert-engi-desc = Fordere eine technische Einheit des Notfallteams an. Spezialisiert auf die Wiederherstellung von Atmosphären- und Energiesystemen. Keine Kampftruppe.
 
-ntr-executive-ert-jani-name = Ruf ERT Janitorial
-ntr-executive-ert-jani-desc = Fordern dich eine Hausmeistereinheit des Notfallteams an. Spezialisiert auf Post-Crisis Cleanup und Sanitäreinrichtungen. Wir werden keine Bedrohungen eingehen.
+ntr-executive-ert-jani-name = ERT-Hausmeister rufen
+ntr-executive-ert-jani-desc = Fordere eine Hausmeistereinheit des Notfallteams an. Spezialisiert auf Aufräumarbeiten nach der Krise und Reinigung. Lässt sich auf keine Bedrohungen ein.
 
 ntr-executive-cburn-name = Call CBURN
-ntr-executive-cburn-desc = Fordern dich ein Containment and Biohazard Urban Response Team an. Spezialisiert auf biologische Bedrohungen und virale Ausbrüche. Störe nicht ihre Quarantäneprotokolle.
+ntr-executive-cburn-desc = Fordere ein Containment-and-Biohazard-Urban-Response-Team an. Spezialisiert auf biologische Bedrohungen und virale Ausbrüche. Stör nicht ihre Quarantäneprotokolle.
 
 # machine boards
 
@@ -150,7 +150,7 @@ ntr-console-reagent-fail = Nicht genug Reagenzien, um die Aufgabe zu erledigen!
 # experimental
 ntr-console-no-solution = Keine Lösung finden konnte {$solutionName} auf dem Vial.
 ntr-console-missing-reagent = Vial fehlt das Reagenz {$reagent}.
-ntr-console-insufficient-reagent-debug = Unzureichendes Reagens. Vorgeschrieben: {$requiredReagent}, Gefunden: {$actualReagent}Erforderlicher Betrag: {$required}, Tatsächlicher Betrag: {$actual}.
+ntr-console-insufficient-reagent-debug = Unzureichendes Reagenz. Erforderlich: {$requiredReagent}, gefunden: {$actualReagent}. Erforderliche Menge: {$required}, tatsächliche Menge: {$actual}.
 ntr-console-task-fail = Task konnte nicht geladen werden.
 
 ntr-bounty-console-menu-title = NTR-Taskkonsole

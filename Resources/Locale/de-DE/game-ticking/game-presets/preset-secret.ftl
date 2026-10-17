@@ -8,5 +8,5 @@
 secret-title = Secret Classic
 secret-description = Ein Geheimnis für alle: Welche Bedrohungen dich erwarten, wird zufällig bestimmt. Die klassische Fassung von Secret wählt einfach einen Spielmodus aus und passt sich nicht dem Stationschaos an.
 
-dynamic-title = Dynamic
+dynamic-title = Dynamisch
 dynamic-description = Niemand weiß, was kommt. Dir können beliebig viele Bedrohungen begegnen.

@@ -1,19 +1,19 @@
-ent-LeftHandDwarf = linke Zwerghand
+ent-LeftHandDwarf = linke Zwergenhand
 
-ent-RightHandDwarf = rechte Zwerghand
+ent-RightHandDwarf = rechte Zwergenhand
 
-ent-LeftHandBananamen = linke Bananemenhand
+ent-LeftHandBananamen = linke Bananenmenschenhand
 
-ent-RightHandBananamen = rechte Bananenhand
+ent-RightHandBananamen = rechte Bananenmenschenhand
 
-ent-SmartlinkLeftHand = SmartLink linke Hand
+ent-SmartlinkLeftHand = SmartLink-Hand (links)
     .desc = Eine kybernetische linke Hand, die es ihrem Träger ermöglicht, "intelligente" Kugeln von jeder Waffe zu schießen.
 
-ent-SmartlinkRightHand = SmartLink rechte Hand
+ent-SmartlinkRightHand = SmartLink-Hand (rechts)
     .desc = Eine kybernetische rechte Hand, die es ihrem Träger ermöglicht, "intelligente" Kugeln von jeder Waffe zu schießen.
 
-ent-RecoilAbsorberLeftHand = Rückstoß absorbierende linke Hand
+ent-RecoilAbsorberLeftHand = rückstoßabsorbierende Hand (links)
     .desc = Eine kybernetische linke Hand, die die meisten Fernwaffen absorbiert, prallt zurück.
 
-ent-RecoilAbsorberRightHand = rückstoßabsorbierende rechte Hand
+ent-RecoilAbsorberRightHand = rückstoßabsorbierende Hand (rechts)
     .desc = Eine kybernetische rechte Hand, die die meisten Fernkampfwaffen absorbiert.

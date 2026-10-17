@@ -13,13 +13,13 @@ ent-ClothingOuterDavidsJacketValid = Edgerunnerjacke
 ent-ClothingOuterCoatWardenBlue = Blaue Warden-Jacke
     .desc = Eine robuste, utilitaristische Jacke für diejenigen, die mit der Brig vertraut sind.
 
-ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsdirektors
+ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsleiters
     .desc = Gewoben mit experimenteller Technologie... dieser Labcoat scheint nicht schützender zu sein als dein üblicher. Zumindest sieht es schön aus.
 
-ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsdirektors
+ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsleiters
     .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.
 
-ent-ClothingOuterCoatHoPLong = Hopfen-Longcoat
+ent-ClothingOuterCoatHoPLong = Personalchef-Longcoat
     .desc = Ein smarter Langmantel für den Personalchef.
 
 ent-ClothingOuterArmoredJacketOuterCommand = Äußere Führungsjacke

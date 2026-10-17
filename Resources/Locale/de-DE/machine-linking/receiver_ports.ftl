@@ -17,7 +17,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-autoclose = Autoclose
+signal-port-name-autoclose = Automatisch schließen
 signal-port-description-autoclose = Schaltet um, ob das Gerät automatisch geschlossen werden soll.
 
 signal-port-name-toggle = Umschalten
@@ -44,7 +44,7 @@ signal-port-description-close = Schließt ein Gerät.
 signal-port-name-doorbolt = Türriegel
 signal-port-description-doorbolt = Verriegelt die Tür bei HIGH.
 
-signal-port-name-trigger-receiver = Trigger
+signal-port-name-trigger-receiver = Auslöser
 signal-port-description-trigger-receiver = Löst einen Mechanismus auf dem Gerät aus.
 
 signal-port-name-order-sender = Bestellungs-Sender
@@ -95,10 +95,10 @@ signal-port-description-set-particle-sigma = Legt den Partikeltyp fest, den dies
 signal-port-name-logic-input-a = Eingang A
 signal-port-description-logic-input-a = Erster Eingang eines Logikgatters.
 
-signal-port-name-logic-input-b = Input B
+signal-port-name-logic-input-b = Eingang B
 signal-port-description-logic-input-b = zweiter Eingang eines Logikgatters.
 
-signal-port-name-logic-input = Input
+signal-port-name-logic-input = Eingang
 signal-port-description-logic-input = Der Eingang zum Flankendetektor kann kein Impulssignal sein.
 
 signal-port-description-logic-memory-input = Signal zum Laden in die Speicherzelle, wenn aktiviert.

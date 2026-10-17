@@ -25,7 +25,7 @@ materials-reinforced-uranium-glass = verstärktes Uranglas
 materials-steel = Stahl
 materials-gold = Gold
 materials-silver = Silber
-materials-plasteel = Pflaster
+materials-plasteel = Plasteel
 
 # Other
 materials-biomass = Biomasse

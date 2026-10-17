@@ -46,8 +46,8 @@ ent-VendingMachineSoda = Robuste Softdrinks
 ent-VendingMachineStarkist = Star-Kist-Automat
     .desc = Der Geschmack eines Sterns in flüssiger Form.
 
-ent-VendingMachineShamblersJuice = Shambler's-Juice-Automat
-    .desc = Schütteln dich mir etwas von diesem Shambler's Juice!
+ent-VendingMachineShamblersJuice = Shambler’s-Juice-Automat
+    .desc = Schüttel dir was von diesem Shambler’s Juice!
 
 ent-VendingMachinePwrGame = Pwr Game Vendor
     .desc = Du willst es, wir haben es. Geführt in Partnerschaft mit Vlad's Salads.
@@ -83,10 +83,10 @@ ent-VendingMachineSec = SecTech
     .desc = Ein Verkaufsautomat, der Sicherheitsausrüstung enthält. Ein Label liest nur SICHERHEITSPERSONNEL.
 
 ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
-    .desc = Denn wenn du schnell Samen brauchst. Hands down die beste Saatgutauswahl auf der Station!
+    .desc = Denn wenn du schnell Samen brauchst. Mit Abstand die beste Saatgutauswahl der Station!
 
 ent-VendingMachineSeeds = MegaSeed Servitor
-    .desc = Denn wenn du schnell Samen brauchst. Hands down die beste Saatgutauswahl auf der Station!
+    .desc = Denn wenn du schnell Samen brauchst. Mit Abstand die beste Saatgutauswahl der Station!
 
 ent-VendingMachineSnack = Getmore Chocolate Corp.
     .desc = Eine Snackmaschine mit freundlicher Genehmigung der Getmore Chocolate Corporation, die vom Mars aus basiert.
@@ -193,8 +193,8 @@ ent-VendingMachineViroDrobe = ViroDrobe
 ent-VendingMachineCentDrobe = CentDrobe
     .desc = Ein einzigartiger Verkaufsautomat für alle ästhetischen Bedürfnisse von centcomm!
 
-ent-VendingMachineHappyHonk = Happy Honk Dispenser
-    .desc = Ein Happy Honk Meal Box Dispenser made by Honk! co.
+ent-VendingMachineHappyHonk = Happy-Honk-Spender
+    .desc = Ein Happy-Honk-Menübox-Spender von Honk! Co.
 
 ent-VendingMachinePride = Pride-O-Mat
     .desc = Ein Automat mit Stolz.

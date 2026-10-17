@@ -14,7 +14,7 @@ ent-ClothingShoesBootsMagDeathsquad = Deathquad Magboots
     .desc = Der Klang dieser Stiefel ist ikonisch; der Klang des Terrors.
 
 ent-ClothingShoesRealJordans = Luftjordanien
-    .desc = State-of-the-art, offizielle, nicht verkleinerte Jordans, die du vor dem Ausrutschen schützt, wenn sie eingeschaltet sind.
+    .desc = Hochmoderne, offizielle, knitterfreie Jordans, die dich vor dem Ausrutschen schützen, wenn sie eingeschaltet sind.
 
 ent-ClothingShoesFakeJordans = Luftjordanien
     .desc = Bei näherer Betrachtung fühlt sich etwas darüber ab. Sind sie ... verkleinert? Nein, das kann es nicht sein. Warte, das Logo sieht ein wenig aus...
@@ -23,16 +23,16 @@ ent-ClothingShoesCreasedJordans = Zerknitterte Air Jordans
     .desc = Nein, warte ... das kann nicht sein ... SIE HABEN KNICKE!
 
 ent-ClothingShoesBootsJackAdvanced = fortgeschrittene Jackstiefel
-    .desc = Dieses Paar Jackstiefel wurde für den Sicherheitschef entworfen. Niemand weiß, warum sie fortgeschritten genannt werden, aber sie sind mit Sicherheit im Tropf fortgeschritten.
+    .desc = Dieses Paar Springerstiefel wurde für den Sicherheitschef entworfen. Niemand weiß, warum sie „fortgeschritten“ heißen, aber im Style sind sie auf jeden Fall weit voraus.
 
 ent-ClothingShoesRealJordansAutographed = Luftjordanien
-    .desc = Dies sind nicht nur irgendwelche Jordans, diese wurden mein Micheal Jordan selbst unterzeichnet. Diese müssen eine Festung wert sein.
+    .desc = Das sind nicht irgendwelche Jordans, diese hat Michael Jordan höchstpersönlich signiert. Sie müssen ein Vermögen wert sein.
 
 ent-ClothingShoesBootsWinterSnowjackBso = Blueshield-Schneestiefel
     .desc = Denn wenn du einen Kopf vor einem Wechselblatt auf einer Forschungsstation in der Antarktis retten musst.
 
 ent-ClothingShoesWinterCombatBoots = Schneejackenstiefel
-    .desc = Nanotrasen-issue Security combat boots für Kampfszenarien oder Kampfsituationen. Jetzt in der Winterausgabe.
+    .desc = Sicherheits-Kampfstiefel nach Nanotrasen-Standard für Kampfszenarien oder Kampfsituationen. Jetzt in der Winterausgabe.
 
 ent-ClothingShoesColorBlackUnremoveable = schwarze Schuhe
     .desc = Stilvolle schwarze Schuhe.
@@ -41,4 +41,4 @@ ent-ClothingShoesBootsCowboyBrownRobust = authentische braune Cowboystiefel
     .desc = Für einen echten Cowboy.
 
 ent-ClothingShoesBootsJackGaloshes = Jack Galoshes
-    .desc = Dieses Paar Jackstiefel wurde für die Elite-Mädchen unserer Station entworfen. Vielleicht der begehrteste Gegenstand auf der Station.
+    .desc = Dieses Paar Springerstiefel wurde für die Elite-Dienstmädchen unserer Station entworfen. Vielleicht der begehrteste Gegenstand der Station.

@@ -45,13 +45,13 @@ gang-spray-can-verb-paint = Sprühdose
 gang-spray-can-no-gang = Du gehörst keiner Gang an!
 gang-spray-can-empty = Die Sprühdose ist leer.
 gang-spray-can-clothing-painted = Du sprühst die Farbe deiner Gang darauf.
-gang-spray-can-points-earned = +{$points} Gang Points!
+gang-spray-can-points-earned = +{$points} Gang-Punkte!
 gang-spray-can-charges-remaining = {$charges ->
     [one] Es hat [color=yellow]{$charges}[/color] links verwenden.
     *[other] Es hat [color=yellow]{$charges}[/color] verwendet links.
 }
 
-gang-store-title = Gang Store
+gang-store-title = Gang-Laden
 gang-store-in-use = Jemand anderes benutzt bereits das Schließfach!
 
 store-currency-display-gangpoint = Gang-Points
@@ -70,7 +70,7 @@ gang-store-listing-medkit-desc = Verarzte dich, bevor du zurück in den Kampf ge
 gang-store-listing-omnizine-name = Omnizin
 gang-store-listing-omnizine-desc = Eine Spritze Omnizine. Heilt die meisten Schadensarten schnell.
 
-gang-store-listing-quickhack-name = Quickhack
+gang-store-listing-quickhack-name = Schnellhack
 gang-store-listing-quickhack-desc = Ein verdecktes Gerät, das KI "offene" Signale fälscht, um unverriegelte Türen zu öffnen. Gut für 5 Anwendungen.
 
 gang-store-listing-knife-name = Kampfmesser
@@ -92,8 +92,8 @@ gang-store-listing-clothes-bundle-name = Gang Kleidung Bundle
 gang-store-listing-clothes-bundle-desc = Ein Ersatzsatz von Gang-Threads: Schuhe, Jumpsuit, Jacke und ein auffälliger Top-Hut. Rep deine Farben Gebiet Vergünstigungen zu verdienen.
 
 gangwar-crate-drop-announcement = Es heißt, eine Bandenkiste ist bei {$location} gelandet. Sie enthält besonders wertvolle Beute. Jede Bande auf der Station will sie. Hol sie dir.
-gangwar-duffelbag-drop-announcement = Seesack durchgehend; z. B. "Es heißt, bei {$location} ist ein Seesack aufgeschlagen. Jede Bande will ihn. Hol ihn dir."
-gangwar-tipoff-drop-announcement = Jemand hat für einen Tipp bezahlt. Eine Duffel-Tasche gerade in der Nähe {$location}Das Wort ist schon aus. Bewegt euch schnell.
+gangwar-duffelbag-drop-announcement = Es heißt, bei {$location} ist ein Seesack aufgeschlagen. Jede Bande will ihn. Hol ihn dir.
+gangwar-tipoff-drop-announcement = Jemand hat für einen Tipp bezahlt. Ein Seesack ist gerade in der Nähe von {$location} gelandet. Es hat sich schon herumgesprochen. Beeilt euch.
 gangwar-duffelbag-drop-unknown-location = ein unbekannter Ort
 
 gang-store-listing-light-armor-vest-name = Leichte Rüstungsweste
@@ -110,7 +110,7 @@ alerts-gang-trapped-desc = Der Duffelbag war gefangen! Du bist jetzt verlangsamt
 gang-store-listing-encryption-key-name = Gang-Verschlüsselungsschlüssel
 gang-store-listing-encryption-key-desc = Ein Verschlüsselungsschlüssel, der auf eine spezielle Frequenz abgestimmt ist, die von Gangs verwendet wird.
 
-chat-radio-gang = Gang Chat
+chat-radio-gang = Gang-Chat
 
 alerts-gang-bonus-name = Gebietsaufschlag
 alerts-gang-bonus-desc = Zeigt an, ob dein Gebietsbonus derzeit aktiv ist.
@@ -144,7 +144,7 @@ gang-store-listing-tipoff-name = Tip Off
 gang-store-listing-tipoff-desc = Plane einen frühen Duffelbeutel mit Leckereien. Ein zufälliger Zivilist wird über NanoChat über den Drop-Standort informiert.
 
 gangwar-tipoff-nanochat-sender = Anonym
-gangwar-tipoff-nanochat-message = Frag nicht, woher ich das weiß, aber da ist eine Duffeltasche in der Nähe {$location}Schnappen sie sich, bevor die banden es tun. Du hast {$seconds} Sekunden bevor das Wort rauskommt.
+gangwar-tipoff-nanochat-message = Frag nicht, woher ich das weiß, aber in der Nähe von {$location} liegt ein Seesack versteckt. Schnapp ihn dir, bevor die Banden es tun. Du hast {$seconds} Sekunden, bevor es sich herumspricht.
 
 quickhack-no-charges = Keine Ladungen mehr.
 quickhack-failed = Es ist nicht gelungen, ein Signal zu senden.

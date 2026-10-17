@@ -22,7 +22,7 @@ store-ui-traitor-flavor = Copyright (C) NT -30643
 store-ui-traitor-warning = Operateure müssen ihre Uplinks nach dem Gebrauch sperren, um eine Erkennung zu vermeiden.
 
 store-withdraw-button-ui = Rücknahme {$currency}
-store-ui-button-out-of-stock = {""} (Out of Stock)
+store-ui-button-out-of-stock = {""} (Ausverkauft)
 store-not-account-owner = Dies {$store} ist nicht an dich gebunden!
 
 store-preset-name-uplink = Uplink

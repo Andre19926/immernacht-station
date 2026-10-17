@@ -1,7 +1,7 @@
 ent-DisposalHolder = Entsorgungsinhaber
 
 ent-DisposalPipeBroken = gebrochenes Entsorgungsrohr
-    .desc = Ein BBP (Big Broken Pipe).
+    .desc = Ein GKR (Großes Kaputtes Rohr).
 
 ent-DisposalPipe = Entsorgungsrohrabschnitt
     .desc = Ein riesiges Rohrsegment, das für den Bau von Entsorgungssystemen verwendet wird.

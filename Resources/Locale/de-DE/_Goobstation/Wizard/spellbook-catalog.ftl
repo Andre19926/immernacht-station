@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellbook-mime-malaise-name = Mime Malaise
+spellbook-mime-malaise-name = Mime-Unwohlsein
 spellbook-mime-malaise-desc =
     Ein Zauber, der bei Theater-Nerd-Zauberern und Contrarian-Prankstern beliebt ist, wird dieser Zauber ein Mime-Kostüm auf das Ziel legen, sie betäuben, damit sie Kunst betrachten und zum Schweigen bringen können.
     Effekte sind dauerhaft auf Nicht-Zauberer.
     Wenn du diesen Zauber lernst, kannst du kostenlos eine Reihe von Mime-Zauberroben und Hut erhalten!
     Erfordert die Robe und den Hut des Zauberers.
 
-spellbook-banana-touch-name = Banana Touch
+spellbook-banana-touch-name = Bananenberührung
 spellbook-banana-touch-desc =
     Ein Zauberspruch, der bei Zauberer-Geburtstagsfeiern beliebt ist, wird dieser Zauber ein Clownkostüm auf das Ziel setzen, sie mit einem lauten HONK betäuben und sie mutieren, um sie unterhaltsamer zu machen!
     Effekte sind dauerhaft auf Nicht-Zauberer.
@@ -54,12 +54,12 @@ spellbook-corpse-explosion-desc =
     Füllt eine Leiche mit Energie, wodurch sie heftig explodiert. Klopft Menschen und betäubt Silikone. Es gilt bis zu 100 physische Schäden an anderen, die die Leiche umgeben; der Schaden, der weiter draußen jemand senkt. Wizard ist immun gegen die Auswirkungen der Explosion.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-blind-name = Blind
+spellbook-blind-name = Blenden
 spellbook-blind-desc =
     Dieser Zauber erblindet vorübergehend ein einzelnes Ziel.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-bind-soul-name = Bind Soul
+spellbook-bind-soul-name = Seele binden
 spellbook-bind-soul-desc =
     Ein Zauber, der deine Seele an einen Gegenstand in deinen Händen bindet. Deine Seele an einen Gegenstand zu binden, wird dich in einen unsterblichen Lich verwandeln. Solange der Gegenstand intakt bleibt und sich auf der gleichen Ebene wie dein Leichnam befindet, wirst du unabhängig von den Umständen vom Tod wiederbeleben.
     Wenn sich der Gegenstand auf einem anderen Gitter oder im Weltraum befindet, wenn du stirbst, wird er selbst oder er enthält Container (falls vorhanden) irgendwo auf dem Gitter deines toten Körpers oder auf der Station wieder erscheinen, wenn dein Körper nicht auf einem Gitter ist.
@@ -85,7 +85,7 @@ spellbook-lightning-bolt-desc =
     Feuern dich einen Blitz auf deine Feinde! Ignoriert Isolierung, kann aber nicht betäuben. Du bist immun gegen deinen eigenen Blitz.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-homing-toolbox-name = Homing Toolbox
+spellbook-homing-toolbox-name = Zielsuchende Werkzeugkiste
 spellbook-homing-toolbox-desc =
     Dieser Zauber beschwört und wirft eine magische Homing-Toolbox auf deinen Gegner, die beim Treffer niederschlägt.
     Wenn du diesen Zauber lernst, erhalte kostenlos ein Tider-Wizard-Bundle!
@@ -125,7 +125,7 @@ spellbook-instant-summons-desc =
     Wenn sich der markierte Gegenstand im Container befindet, wird der gesamte Container gerufen.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-teleport-name = Teleport
+spellbook-teleport-name = Teleportation
 spellbook-teleport-desc =
     Teleportiert sie zu einem bereich ihrer auswahl.
     Erfordert die Robe und den Hut des Zauberers.
@@ -140,7 +140,7 @@ spellbook-bees-desc =
     Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort. Diese Bienen sind zu niemandem freundlich, außer zu Zauberern. Beschworene Bienen injizieren ihren Opfern verschiedene Giftstoffe.
     Erfordert die Robe und den Hut des Zauberers.
 
-spellbook-simians-name = Summon Simians
+spellbook-simians-name = Affen beschwören
 spellbook-simians-desc =
     Dieser Zauber reicht tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß! Die Affen sind zu niemandem freundlich, außer zu Zauberern.
     Das Upgrade dieses Zaubers erhöht auch die summierte Affenmenge, und ihre Ausrüstung wird auch stärker!
@@ -160,7 +160,7 @@ spellbook-chuuni-desc =
     Kann nicht zurückerstattet werden.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-swap-name = Swap
+spellbook-swap-name = Tausch
 spellbook-swap-desc =
     Wechseln dich Orte mit jedem lebenden Ziel.
     Alt-Klick: Markiere ein sekundäres Swap-Ziel, in diesem Fall gehen dich zu der Position, die von deinem primären Ziel besetzt ist, sie gehen zu der Position, die von deinem sekundären besetzt ist, und dein sekundäres Ziel endet dort, wo du ursprünglich warst. Das sekundäre Swap-Ziel wird verworfen, sobald du tauschst, die Aktion abbrechen oder auf sich selbst klicken.

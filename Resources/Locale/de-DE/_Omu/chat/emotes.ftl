@@ -1,8 +1,8 @@
 #Names
-chat-emote-name-rattle = Ratter
-chat-emote-name-reptile-purr = Reptil Purr
-chat-emote-name-reptile-screech = Reptil-Screech
+chat-emote-name-rattle = Rasseln
+chat-emote-name-reptile-purr = Reptilienschnurren
+chat-emote-name-reptile-screech = Reptilienkreischen
 
 #Messages
-chat-emote-msg-reptile-rattle = Rasseln.
+chat-emote-msg-reptile-rattle = rasselt.
 chat-emote-msg-reptile-screech = kreischt!

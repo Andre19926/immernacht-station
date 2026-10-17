@@ -15,7 +15,7 @@ armor-coefficient-value = - [color=yellow]{$type}[/color] Schadensminderung durc
 armor-reduction-value = - [color=yellow]{$type}[/color] Schadensminderung durch [color=lightblue]{$value}[/color].
 armor-damage-type-blunt = stumpf
 armor-damage-type-slash = Schnitt
-armor-damage-type-piercing = Piercing
+armor-damage-type-piercing = Stich
 armor-damage-type-heat = Hitze
 armor-damage-type-radiation = Strahlung
 armor-damage-type-caustic = Ätzend

@@ -10,7 +10,7 @@ ent-OrganVoxLiver = Leber
 ent-OrganVoxHeart = Herz
     .desc = Das seltsame Herz einer Vox.
 
-ent-OrganVoxKidneys = Niere
+ent-OrganVoxKidneys = Vox-Nieren
     .desc = riecht brennbar.
 
 ent-OrganVoxEyes = Augen

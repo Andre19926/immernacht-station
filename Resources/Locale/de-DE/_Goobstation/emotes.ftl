@@ -19,7 +19,7 @@ chat-emote-name-tweak = Durchdrehen
 chat-emote-name-flex = Muskeln spielen lassen
 chat-emote-name-gulp = Schlucken
 chat-emote-name-surprised = Überrascht gucken
-chat-emote-name-bagawk = Bastard
+chat-emote-name-bagawk = Bagawk
 
 chat-emote-msg-flip = macht einen Flip!
 chat-emote-msg-spin = dreht sich!

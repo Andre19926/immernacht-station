@@ -10,7 +10,7 @@ ent-BoxCMOCircuitboards = Medizin-Platinenkiste
 ent-BoxHoPCircuitboards = Personalchef-Platinenkiste
     .desc = Eine große Tote zum Tragen von Platinen.
 
-ent-BoxHoPStamps = Leiter des Personalstempelkastens
+ent-BoxHoPStamps = Personalchef-Stempelkasten
     .desc = Eine kleine Schachtel mit Stempeln.
 
 ent-BoxHoSCircuitboards = Sicherheits-Platinenkiste

@@ -14,4 +14,4 @@ gateway-window-portal-unlock = Nächste Freischaltung
 gateway-window-locked = Gesperrt
 
 gateway-access-denied = Zugriff verweigert!
-gateway-close-portal = Close Portal
+gateway-close-portal = Portal schließen

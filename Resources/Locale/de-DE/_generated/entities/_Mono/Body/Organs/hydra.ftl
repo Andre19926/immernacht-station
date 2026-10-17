@@ -1,5 +1,5 @@
 ent-OrganHydrakinStomach = Hydrakin-Bauch
-    .desc = Brutto. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu ertragen.
 
 ent-OrganHydrakinBrain = Hydrakin-Gehirn
     .desc = Die Quelle unglaublicher, endloser Intelligenz. Honk.

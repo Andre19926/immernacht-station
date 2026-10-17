@@ -1,21 +1,21 @@
-ent-ChestResomi = Brust
+ent-ChestResomi = Resomi-Brust
 
-ent-GroinResomi = Leistengegend
+ent-GroinResomi = Resomi-Unterleib
 
-ent-HeadResomi = Resomikopf
+ent-HeadResomi = Resomi-Kopf
 
-ent-LeftArmResomi = linker Resomiarm
+ent-LeftArmResomi = linker Resomi-Arm
 
-ent-RightArmResomi = rechter Resomiarm
+ent-RightArmResomi = rechter Resomi-Arm
 
 ent-LeftHandResomi = linke Resomi-Hand
 
-ent-RightHandResomi = rechte Hand
+ent-RightHandResomi = rechte Resomi-Hand
 
-ent-LeftLegResomi = linkes Bein
+ent-LeftLegResomi = linkes Resomi-Bein
 
-ent-RightLegResomi = rechtes Bein
+ent-RightLegResomi = rechtes Resomi-Bein
 
-ent-LeftFootResomi = linker Halbfuß
+ent-LeftFootResomi = linker Resomi-Fuß
 
-ent-RightFootResomi = rechter Halbfuß
+ent-RightFootResomi = rechter Resomi-Fuß

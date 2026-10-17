@@ -67,7 +67,7 @@ ent-JanitorPDA = Hausmeister PDA
 ent-CaptainPDA = Kapitän PDA
     .desc = Überraschenderweise nicht anders als dein PDA.
 
-ent-HoPPDA = Leiter des Personals PDA
+ent-HoPPDA = Personalchef-PDA
     .desc = Sieht so aus, als wäre es gekaut worden.
 
 ent-CEPDA = Chefingenieur PDA

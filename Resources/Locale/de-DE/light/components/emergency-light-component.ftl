@@ -12,4 +12,4 @@ emergency-light-component-on-examine-alert = Die aktuelle Alarmstufe der Station
 emergency-light-component-light-state-full = [color=darkgreen]voll[/color]
 emergency-light-component-light-state-empty = [color=darkgreen]leer[/color]
 emergency-light-component-light-state-charging = [color=darkgreen]lädt[/color]
-emergency-light-component-light-state-on = [color=darkgreen]on[/color]
+emergency-light-component-light-state-on = [color=darkgreen]an[/color]

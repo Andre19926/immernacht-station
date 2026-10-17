@@ -2,7 +2,7 @@ ent-ShadowlingGlareEffect = Blendwirkung
 
 ent-ShadowlingShadowWalkInEffect = Schattenwesen: Schattenschritt (Eintritt)
 
-ent-ShadowlingShadowWalkOutEffect = Shadowing Shadow Walk Out Effekt
+ent-ShadowlingShadowWalkOutEffect = Schattenwandeln-Austrittseffekt
 
 ent-ShadowlingCollectiveMindEffect = Schattenwirkung des kollektiven Geistes
 

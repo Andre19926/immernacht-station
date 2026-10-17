@@ -42,8 +42,8 @@ contraband-examine-text-GrandTheft =
 
 contraband-examine-text-Highly-Illegal =
     { $type ->
-        *[item] [color=crimson]This item is highly illegal contraband![/color]
-        [reagent] [color=crimson]This reagent is highly illegal contraband![/color]
+        *[item] [color=crimson]Dieser Gegenstand ist hochgradig illegale Schmuggelware![/color]
+        [reagent] [color=crimson]Dieses Reagenz ist hochgradig illegale Schmuggelware![/color]
     }
 
 contraband-examine-text-Syndicate =

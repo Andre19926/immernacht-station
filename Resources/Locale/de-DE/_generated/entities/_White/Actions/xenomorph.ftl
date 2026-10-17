@@ -1,8 +1,8 @@
 ent-ActionCombatModeToggleXenomorph = [color=red]Kampfmodus[/color]
     .desc = Betritt den Kampfmodus
 
-ent-ToggleThermalVisionXenomorph = Toggle Thermal Vision
-    .desc = Toggles thermische Sicht.
+ent-ToggleThermalVisionXenomorph = Wärmesicht umschalten
+    .desc = Schaltet die Wärmesicht ein oder aus.
 
 ent-ActionEvolution = Evolvent
     .desc = Entwickeln dich in eine höhere Xenomorph-Kaste.

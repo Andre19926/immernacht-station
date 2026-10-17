@@ -1,5 +1,5 @@
-ent-OrganArachnidStomach = Tierischer Magen
-    .desc = Brutto. Das ist schwer zu ertragen.
+ent-OrganArachnidStomach = Spinnenmagen
+    .desc = Igitt. Das ist schwer zu ertragen.
 
 ent-OrganArachnidLungs = Lungen
     .desc = Filtert Sauerstoff aus einer Atmosphäre ... nur gieriger.
@@ -17,4 +17,4 @@ ent-OrganArachnidEyes = Augen
     .desc = Zwei waren schon zu viele.
 
 ent-OrganArachnidTongue = Zunge
-    .desc = Ein fleischiger Muskel, der hauptsächlich zum Liegen verwendet wird.
+    .desc = Ein fleischiger Muskel, der hauptsächlich zum Lügen verwendet wird.

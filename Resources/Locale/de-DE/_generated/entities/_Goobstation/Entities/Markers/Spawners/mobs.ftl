@@ -8,7 +8,7 @@ ent-SpawnBaseMobGlutton = GluttonSpawner
 
 ent-SpawnMobAbyssCrawler = Abyss Crawler Spawner
 
-ent-SpawnCMMobXenoDrone = Salvage Ancient Drone Spawner
+ent-SpawnCMMobXenoDrone = Salvage-Uraltdrohne (Spawner)
 
 ent-SpawnCMMobXenoBurrower = Salvage Ancient Burrower Spawner
 

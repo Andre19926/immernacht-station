@@ -1,21 +1,21 @@
-ent-ChestIPC = ipc Brust
+ent-ChestIPC = IPC-Brust
 
-ent-GroinIPC = ipc Leistengegend
+ent-GroinIPC = IPC-Unterleib
 
-ent-HeadIPC = ipc-Kopf
+ent-HeadIPC = IPC-Kopf
 
-ent-LeftArmIPC = linker ipc Arm
+ent-LeftArmIPC = linker IPC-Arm
 
-ent-RightArmIPC = rechter ipc Arm
+ent-RightArmIPC = rechter IPC-Arm
 
-ent-LeftHandIPC = Linke IPC-Hand
+ent-LeftHandIPC = linke IPC-Hand
 
-ent-RightHandIPC = Rechte IPC-Hand
+ent-RightHandIPC = rechte IPC-Hand
 
-ent-LeftLegIPC = linkes ipc-Bein
+ent-LeftLegIPC = linkes IPC-Bein
 
-ent-RightLegIPC = Rechts ipc Leg
+ent-RightLegIPC = rechtes IPC-Bein
 
-ent-LeftFootIPC = linker ipc Fuß
+ent-LeftFootIPC = linker IPC-Fuß
 
-ent-RightFootIPC = rechts ipc Fuß
+ent-RightFootIPC = rechter IPC-Fuß

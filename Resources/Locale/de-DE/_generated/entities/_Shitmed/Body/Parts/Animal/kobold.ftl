@@ -1,21 +1,21 @@
-ent-ChestKobold = Koboltkiste
+ent-ChestKobold = Kobold-Brust
 
-ent-GroinKobold = Kobold-Leistengegend
+ent-GroinKobold = Kobold-Unterleib
 
-ent-HeadKobold = Koboldkopf
+ent-HeadKobold = Kobold-Kopf
 
-ent-LeftArmKobold = linker Koboldarm
+ent-LeftArmKobold = linker Kobold-Arm
 
-ent-RightArmKobold = rechter Koboldarm
+ent-RightArmKobold = rechter Kobold-Arm
 
 ent-LeftHandKobold = linke Kobold-Hand
 
-ent-RightHandKobold = rechte Kobolde Hand
+ent-RightHandKobold = rechte Kobold-Hand
 
-ent-LeftLegKobold = linkes Kobolzbein
+ent-LeftLegKobold = linkes Kobold-Bein
 
-ent-RightLegKobold = rechtes Koboldes Bein
+ent-RightLegKobold = rechtes Kobold-Bein
 
-ent-LeftFootKobold = linker Koboldfuß
+ent-LeftFootKobold = linker Kobold-Fuß
 
-ent-RightFootKobold = rechter Koboldfuß
+ent-RightFootKobold = rechter Kobold-Fuß

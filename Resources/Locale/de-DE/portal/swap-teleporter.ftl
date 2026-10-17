@@ -20,8 +20,8 @@ swap-teleporter-verb-destroy-link = Zerstöre die Quantenverbindung
 
 swap-teleporter-examine-link-present = [color=forestgreen]Es ist mit einem anderen Gerät verbunden.[/color] Alt-Klick, um die Quantenverbindung zu unterbrechen.
 swap-teleporter-examine-link-absent = [color=yellow]Es ist derzeit nicht verknüpft.[/color] Verwende auf einem anderen Gerät, um eine Quantenverbindung herzustellen.
-swap-teleporter-examine-time-remaining = Time left to recharge: [color=purple]{$second} second{$second ->
-    [one].
-    *[other]s.
+swap-teleporter-examine-time-remaining = Zeit bis zur Wiederaufladung: [color=purple]{$second} {$second ->
+    [one] Sekunde
+    *[other] Sekunden
 }[/color]
 

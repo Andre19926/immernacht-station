@@ -2,7 +2,7 @@
 role-subtype-devil = Teufel
 role-subtype-blob = Bohnen
 role-subtype-heretic = Ketzer
-role-subtype-ghoul = Ghoul
+role-subtype-ghoul = Ghul
 role-subtype-pirate = Pirat
 role-subtype-brainwashed = Gehirnwäsche
 role-subtype-slaughter-demon = Schlachtung von Dämonen

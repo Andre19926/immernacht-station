@@ -85,7 +85,7 @@ ent-ClothingHeadHatShrineMaidenWigReal = Sanitärperücke
 ent-ClothingOuterSuitShrineMaidenReal = Schrein-Mädchenkleidung
     .desc = Macht sie wollen mit einigen lästigen youkai gehen.
 
-ent-ClothingHeadHatCentCommwizardReal = CentComm Wizard Hat
+ent-ClothingHeadHatCentCommwizardReal = CentComm-Zaubererhut
     .desc = Ein unberührter grüner und goldener Zaubererhut, Regulierungsproblem für die arkanen Agenten des CentComm. Getragen nur von denen, die befugt sind, klassifizierte thaumaturgische Instrumente zu führen.
 
 ent-ClothingOuterWizardCentCommReal = CentComm Zauberer Roben

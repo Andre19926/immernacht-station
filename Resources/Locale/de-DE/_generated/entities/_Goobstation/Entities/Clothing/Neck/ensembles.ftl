@@ -10,16 +10,16 @@ ent-ClothingNeckEnsembleChiefEngineerGreen = Green Ensemble des Chefingenieurs
 ent-ClothingNeckEnsembleChiefMedicalOfficer = Chefarzt-Ensemble
     .desc = Bei so vielen Medbays, die du gesehen hast, bist du ein echtes Allroundgenie – du packst Leute aus wie Pakete und häckselst Körper, als wäre es nichts. Du richtest doch das Klonen ein, oder?
 
-ent-ClothingNeckEnsembleHeadOfSecurity = Leiter des Sicherheitsensembles
+ent-ClothingNeckEnsembleHeadOfSecurity = Sicherheitschef-Ensemble
     .desc = Befleckt mit dem Blut der Gezeiten und den Tränen der Kadetten. Das Wort "Shitsec" bringt dir Freude, eine Träne in dein Auge.
 
-ent-ClothingNeckEnsembleResearchDirector = Ensemble des Forschungsdirektors
+ent-ClothingNeckEnsembleResearchDirector = Ensemble des Forschungsleiters
     .desc = Hier führt der Endpunkt aller Forschung hin. Du bist wahrlich der Gipfel der Wissenschaft, ein Denkmal für Nanotrasens Errungenschaften und deren Fähigkeit, dich wieder zusammenzukleben – musst du so oft explodieren?
 
 ent-ClothingNeckEnsembleQuarterMaster = Ensemble des Quartiermeisters
     .desc = Köstlich gefertigt mit den meisten Premium-Materialien, die mit Spesos gekauft werden können; ein Mantel, der wirklich den Geist von Cargonia darstellt... und dein Bankkonto.
 
-ent-ClothingNeckEnsembleHeadOfPersonnel = Leiter des Personalensembles
+ent-ClothingNeckEnsembleHeadOfPersonnel = Personalchef-Ensemble
     .desc = Es gibt nichts Süßeres auf dieser Welt als die Tränen von jemandem, der gemacht wurde, um fünf Absätze Papierkram auszufüllen. Du hast sie danach natürlich geleugnet.
 
 ent-ClothingNeckEnsembleBlueshield = Blueshield-Ensemble
@@ -29,7 +29,7 @@ ent-ClothingNeckEnsembleNanotrasenRepresentative = Ensemble des Vertreters nanot
     .desc = Nach Jahren, in denen du praktisch nichts getan hast, hat dir das CentComm diesen Mantel geschenkt. Jetzt kannst du nichts tun, während du hübsch aussiehst!
 
 ent-ClothingNeckEnsembleTrans = trans Ensemble
-    .desc = Getragen von hochrangigen vampiren der transylvanischen gesellschaft der vampire.
+    .desc = Getragen von hochrangigen Vampiren der Transsilvanischen Gesellschaft der Vampire.
 
 ent-ClothingNeckEnsembleSalvager = Salvagers Ensemble
     .desc = Wer sagt, dass man keinen Stil haben kann, während man Kreaturen jenseits des menschlichen Verständnisses tötet?

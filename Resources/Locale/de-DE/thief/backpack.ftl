@@ -29,14 +29,14 @@ thief-backpack-button-deselect = Wählen [X]
 
 # Sets
 
-thief-backpack-category-chameleon-name = Chameleon Kit
+thief-backpack-category-chameleon-name = Chamäleon-Set
 thief-backpack-category-chameleon-description =
     Du bist jeder und niemand; du bist ein Meister der Verkleidung.
     Beinhaltet: Ein vollständiges Set Chamäleon-Kleidung,
     einen Chamäleon-Projektor und eine Agenten-ID.
     Verkleidet wie jeder und alles.
 
-thief-backpack-category-tools-name = Breacher Kit
+thief-backpack-category-tools-name = Einbrecher-Set
 thief-backpack-category-tools-description =
     Was ist das für ein Sound? Ein lil 'C4 klopfen' an ihrer Tür.
     Kein Hindernis kann dich aufhalten!
@@ -49,14 +49,14 @@ thief-backpack-category-chemistry-description =
     Umfasst: Storage Implanter, DNA Scrambler Implanter,
     Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife
 
-thief-backpack-category-syndie-name = Syndie Kit
+thief-backpack-category-syndie-name = Syndie-Set
 thief-backpack-category-syndie-description =
     Trinkets aus einer desavouierten Vergangenheit oder von einem nachlässigen Agenten gestohlen?
     Du hast einige Verbindungen hergestellt. Whiskey, Echo...
     Enthält: An Emag, Access Breaker, Interdyne Cigs, ein Syndicate-Codewort,
     ein Radio Jammer, ein Feuerzeug und einige seltsame rote Kristalle.
 
-thief-backpack-category-sleeper-name = Sleeper Kit
+thief-backpack-category-sleeper-name = Schläfer-Set
 thief-backpack-category-sleeper-description =
     Bis wir unsere Augen für immer schließen, verwende deine illegalen Rezepte
     um andere schlafen zu lassen.

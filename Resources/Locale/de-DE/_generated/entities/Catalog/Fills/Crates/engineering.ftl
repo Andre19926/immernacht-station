@@ -50,7 +50,7 @@ ent-CrateEngineeringSpaceHeater = Raumheizer-Kiste
     .desc = Enthält eine Raumheizung zur Klimatisierung.
 
 ent-CrateTechBoardRandom = Überschuss-Boards
-    .desc = Überschüssige Boards von irgendwo.
+    .desc = Überschüssige Platinen von irgendwo.
 
 ent-CrateRPD = RPD-Kiste
     .desc = Eine Kiste mit einer einzigen Schnellrohrleitung.

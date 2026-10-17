@@ -1,7 +1,7 @@
 ent-MobObserver = Beobachter
 
-ent-ActionGhostShowRadar = Mass Scanner Interface
-    .desc = Ein Mass Scanner Interface ansehen.
+ent-ActionGhostShowRadar = Massenscanner-Oberfläche
+    .desc = Zeigt die Massenscanner-Oberfläche an.
 
 ent-ActionGhostBoo = Boo!
     .desc = Erschrecke deine Crewmitglieder wegen Langeweile!

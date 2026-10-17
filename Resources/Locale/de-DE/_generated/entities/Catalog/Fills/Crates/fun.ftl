@@ -49,8 +49,8 @@ ent-CrateFunParty = Partykiste
 ent-CrateFunWaterGuns = Wasserpistolenkiste
     .desc = Ein Sommer-Special mit einer Vielzahl von bunten Wasserpistolen. Wasser nicht inbegriffen.
 
-ent-CrateFunFoamGuns = Foam Force Kiste
-    .desc = Enthält vier Foam Force Battle KitsTM. Es ist [REDACTED] oder nichts!
+ent-CrateFunFoamGuns = Foam-Force-Kiste
+    .desc = Enthält vier Foam-Force-Kampfsets™. Foam oder nichts!
 
 ent-CrateFunBoxing = Boxkiste
     .desc = Möchtest du einen Underground Fight Club gründen oder ein Turnier unter der Stationscrew ausrichten? Diese Kiste ist für dich!

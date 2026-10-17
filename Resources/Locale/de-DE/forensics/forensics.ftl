@@ -33,7 +33,7 @@ forensic-scanner-match-fiber = Übereinstimmung in Faser gefunden!
 forensic-scanner-match-fingerprint = Übereinstimmung im Fingerabdruck gefunden!
 forensic-scanner-match-none = Keine Übereinstimmung gefunden!
 forensic-scanner-printer-not-ready = Printer ist noch nicht fertig.
-forensic-scanner-verb-text = Scan
+forensic-scanner-verb-text = Scannen
 forensic-scanner-verb-message = Forensischen Scan durchführen
 
 forensics-dna-unknown = unbekannte DNA

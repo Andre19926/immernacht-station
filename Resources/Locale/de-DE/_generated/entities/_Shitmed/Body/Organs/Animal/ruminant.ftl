@@ -1,2 +1,2 @@
-ent-OrganAnimalRuminantStomach2 = Bauch von Wiederkäuern 2
+ent-OrganAnimalRuminantStomach2 = Wiederkäuermagen (zweiter)
     .desc = Elektroboogaloo

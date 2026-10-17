@@ -66,9 +66,9 @@ nano-task-ui-heading-low-priority-tasks =
        *[other] {$amount} Aufgaben mit geringer Priorität
     }
 nano-task-ui-done = Fertig
-nano-task-ui-revert-done = Undo
+nano-task-ui-revert-done = Rückgängig
 nano-task-ui-priority-low = Niedrig
-nano-task-ui-priority-medium = Medium
+nano-task-ui-priority-medium = Mittel
 nano-task-ui-priority-high = Hoch
 nano-task-ui-cancel = Abbrechen
 nano-task-ui-print = Drucken
@@ -99,7 +99,7 @@ wanted-list-gender-label = [color=darkgray]Geschlecht:[/color] [color=white]{$ge
 wanted-list-reason-label = [color=darkgray]Grund:[/color] [color=white]{$reason}[/color]
 wanted-list-unknown-reason-label = unbekannter Grund
 
-wanted-list-initiator-label = [color=darkgray]Initiator:[/color] [color=white]{$initiator}[/color]
+wanted-list-initiator-label = [color=darkgray]Auslöser:[/color] [color=white]{$initiator}[/color]
 wanted-list-unknown-initiator-label = unbekannter Initiator
 
 wanted-list-status-label = [color=darkgray]status:[/color] {$status ->
@@ -119,4 +119,4 @@ wanted-list-status-label = [color=darkgray]status:[/color] {$status ->
 
 wanted-list-history-table-time-col = Zeit
 wanted-list-history-table-reason-col = Verbrechen
-wanted-list-history-table-initiator-col = Initiator
+wanted-list-history-table-initiator-col = Auslöser

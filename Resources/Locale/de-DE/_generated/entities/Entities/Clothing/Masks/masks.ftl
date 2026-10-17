@@ -23,7 +23,7 @@ ent-ClothingMaskBreathMedical = Medizinische Maske
     .desc = Eine eng anliegende Sterilmaske, die an eine Luftzufuhr angeschlossen werden kann.
 
 ent-ClothingMaskBreathMedicalSecurity = Militärische medizinische Maske
-    .desc = Eine medizinische Maske mit einer kleinen Schutzschicht gegen Schäden und Viren, ähnlich der, die in den medizinischen Einheiten des ersten Konzernkrieges verwendet wurde.
+    .desc = Eine medizinische Maske mit einer dünnen Schutzschicht gegen Schäden und Viren, ähnlich der in den Sanitätseinheiten des Ersten Konzernkriegs.
 
 ent-ClothingMaskBreath = Atemschutzmaske
     .desc = Könnte das auch 24/7 halten.
@@ -77,7 +77,7 @@ ent-ClothingMaskBee = Bienenmaske
     .desc = Für die Königin!
 
 ent-ClothingMaskBear = Bärenmaske
-    .desc = Ich bin ein bewölkter, bewölkter, bewölkter Bär.
+    .desc = Ich bin ein bewölkter, bewölkter, bewölkter, ich bin überhaupt kein Bär.
 
 ent-ClothingMaskRaven = Rabenmaske
     .desc = Wo ich bin, Tod ... oder Glitzern.

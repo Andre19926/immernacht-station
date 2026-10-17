@@ -5,4 +5,4 @@ ent-WeaponShuttleEnergyMarauder = MARAUDER Plasmawaffe
     .desc = Startet magnetisch enthaltene Plasmakugeln auf Ziele. Kann aus der Ferne aktiviert oder mit einem GCS verbunden werden.
 
 ent-WeaponShuttleEnergyDymere = ADEX-9 DYMER-Turbolaser
-    .desc = Aetherion Dynamics Weapons Development Branch's berühmtestes Produkt. Ionisierte Gasprojektile werden durch alles schmelzen, was du vor ihnen setzt. Kann aus der Ferne aktiviert oder mit einem GCS verbunden werden.
+    .desc = Das berühmteste Produkt der Waffenentwicklungsabteilung von Aetherion Dynamics. Ionisierte Gasprojektile schmelzen alles, was du ihnen in den Weg stellst. Kann aus der Ferne aktiviert werden.

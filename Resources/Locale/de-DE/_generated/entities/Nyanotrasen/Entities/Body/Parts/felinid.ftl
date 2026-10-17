@@ -1,21 +1,21 @@
-ent-HeadFelinid = Felinidenkopf
+ent-HeadFelinid = Felinid-Kopf
 
-ent-ChestFelinid = Felinidenbrust
+ent-ChestFelinid = Felinid-Brust
 
-ent-GroinFelinid = Leistengegend
+ent-GroinFelinid = Felinid-Unterleib
 
-ent-LeftArmFelinid = linker Felinidenarm
+ent-LeftArmFelinid = linker Felinid-Arm
 
-ent-RightArmFelinid = rechter Felinidenarm
+ent-RightArmFelinid = rechter Felinid-Arm
 
-ent-LeftHandFelinid = linke felinidische Hand
+ent-LeftHandFelinid = linke Felinid-Hand
 
-ent-RightHandFelinid = rechte Felinidenhand
+ent-RightHandFelinid = rechte Felinid-Hand
 
-ent-LeftLegFelinid = linkes Felinidbein
+ent-LeftLegFelinid = linkes Felinid-Bein
 
-ent-RightLegFelinid = rechtes Felinidbein
+ent-RightLegFelinid = rechtes Felinid-Bein
 
-ent-LeftFootFelinid = linker Felinidenfuß
+ent-LeftFootFelinid = linker Felinid-Fuß
 
-ent-RightFootFelinid = rechter Felinidenfuß
+ent-RightFootFelinid = rechter Felinid-Fuß

@@ -50,9 +50,9 @@ heretic-manselink-start-target = Du spürst, wie dein Verstand irgendwo hingezog
 ## living heart
 heretic-livingheart-notargets = Keine verfügbaren Ziele, besuche die Rune.
 heretic-livingheart-offstation = Es ist {$state}, außerhalb der Station, {$direction}!
-heretic-livingheart-onstation = It's {$state}, {$direction}!
+heretic-livingheart-onstation = Es ist {$state}, {$direction}!
 heretic-livingheart-unknown = Es ist ... nicht in dieser Ebene der Realität.
-heretic-livingheart-faraway = Es ist {$state}Sehr weit weg!
+heretic-livingheart-faraway = Es ist {$state}, extrem weit entfernt!
 
 ## star gazer
 heretic-stargaze-obliterate-other = Du siehst {$uid} Verstrickt in den sengenden Zorn des Kosmos. Für einen Moment siehst du ihre Silhouette in Agonie, bevor sie zu bloßen Atomen verblasst.

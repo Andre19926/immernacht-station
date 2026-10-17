@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-ui-panic-bunker-window-title = Panic Bunker
+admin-ui-panic-bunker-window-title = Panikbunker
 
 admin-ui-panic-bunker-enabled = Panic Bunker aktiviert
 admin-ui-panic-bunker-disabled = Panic Bunker deaktiviert

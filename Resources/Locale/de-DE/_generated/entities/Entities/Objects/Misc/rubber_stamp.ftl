@@ -19,7 +19,7 @@ ent-RubberStampCE = Stempel des Chefingenieurs
 ent-RubberStampCMO = Stempel des Chefarztes
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampHop = Leiter des Personals Stempel
+ent-RubberStampHop = Personalchef-Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
 ent-RubberStampHos = Sicherheitschef Stempel

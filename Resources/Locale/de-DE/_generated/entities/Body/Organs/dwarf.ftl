@@ -5,4 +5,4 @@ ent-OrganDwarfLiver = Zwergleber
     .desc = Paarungsvorschlag: Chianti und Fava Bohnen.
 
 ent-OrganDwarfStomach = Zwergmagen
-    .desc = Brutto. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu ertragen.

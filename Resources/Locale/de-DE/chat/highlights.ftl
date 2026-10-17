@@ -6,7 +6,7 @@ highlights-blueshield-officer = Blueshield Officer, "Central Command", "BSO", "C
 
 # Command
 highlights-captain = Captain, "Cap", Bridge, "Command"
-highlights-head-of-personnel = Leiter des Personals, "HoP", Service, Bridge, "Command"
+highlights-head-of-personnel = Personalchef, "HoP", Service, Bridge, "Command"
 highlights-chief-engineer = Chefingenieur, "CE", Ingenieur, Ingenieur, "Engi", Bridge, "Command"
 highlights-chief-medical-officer = Chefarzt, "CMO", Medbay, "Med", Bridge, "Command"
 highlights-head-of-security = Head of Security, "HoS", Security, "Sec", Bridge, "Command"
@@ -41,7 +41,7 @@ highlights-research-assistant = Forschungsassistent, Wissenschaft, "Sci"
 
 # Civilian
 highlights-bartender = Barkeeper, Barkeep, "Bar"
-highlights-botanist = Botaniker, Botanik, Hydroponik
+highlights-botanist = Botaniker, Botanik, Botanik
 highlights-chaplain = Kaplan, "Chap", Kapelle
 highlights-chef = Koch, "Cook", Küche
 highlights-clown = Clown, Jester

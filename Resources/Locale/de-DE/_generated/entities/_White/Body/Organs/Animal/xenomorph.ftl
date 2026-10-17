@@ -1,16 +1,16 @@
-ent-OrganXenomorphBrain = Xenomorphes Gehirn
+ent-OrganXenomorphBrain = Xenomorphen-Gehirn
     .desc = Wir verstehen die Gehirne von Landtieren kaum. Wer weiß, was wir im Gehirn einer solch fortgeschrittenen Spezies finden können?
 
-ent-OrganXenomorphEyes = Xenomorphe Augen
+ent-OrganXenomorphEyes = Xenomorphen-Augen
     .desc = Es stellte sich heraus, dass sie sie schließlich hatten!
 
-ent-OrganXenomorphTongue = xenomorphe Zunge
+ent-OrganXenomorphTongue = Xenomorphen-Zunge
     .desc = Laut führenden Xenobiologen ist der evolutionäre Vorteil, einen zweiten Mund im Mund zu haben, "dass er schlecht aussieht".
 
-ent-OrganXenomorphStomach = Xenomorph
+ent-OrganXenomorphStomach = Xenomorphen-Magen
     .desc = Seine Wände sind in der Lage, sich sowohl erheblich auszudehnen als auch mit enormer Kraft zusammenzuziehen.
 
-ent-OrganXenomorphLiver = Xenomorphleber
+ent-OrganXenomorphLiver = Xenomorphen-Leber
     .desc = Eine Leber, die früher einem Killer-Alien gehörte, der weiß, was sie gegessen hat.
 
 ent-OrganXenomorphAcidGland = Säuredrüse
@@ -25,7 +25,7 @@ ent-OrganXenomorphEggSack = Eiersack
 ent-OrganXenomorphResinSpinner = Harzspinner
     .desc = Entwickelt für die Herstellung und Isolierung von harzähnlichen Biopolymeren.
 
-ent-OrganXenomorphHiveNode = Hive Node
+ent-OrganXenomorphHiveNode = Schwarmknoten
     .desc = Das zentrale Organ der Xenomorphen, die Kommunikation mit dem gemeinsamen Geist.
 
 ent-OrganXenomorphPlasmaVessel = Plasmagefäß

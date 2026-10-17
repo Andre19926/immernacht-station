@@ -18,7 +18,7 @@ signal-port-description-input-machine = Ein Maschinenautomatisierungsschlitz, um
 signal-port-name-output-machine = Artikel: Ausgabemaschine
 signal-port-description-output-machine = Ein Maschinenautomatisierungsschlitz zum Einfügen von Gegenständen, anstatt sie auf den Boden zu legen.
 
-signal-port-name-item-moved = Item Moved
+signal-port-name-item-moved = Gegenstand bewegt
 signal-port-description-item-moved = Signalanschluss, der gepulst wird, nachdem ein Gegenstand von diesem Arm bewegt wurde.
 
 signal-port-name-automation-slot-filter = Artikel: Filter Slot
@@ -95,9 +95,9 @@ signal-port-description-automation-slot-tool = Ein Automatisierungssteckplatz f�
 # Autodoc
 
 signal-port-name-automation-slot-autodoc-hand = Artikel: Autodoc Hand
-signal-port-description-automation-slot-autodoc-hand = Ein Automatisierungs-Slot für ein Autodoc gehalten Organ / Teil / etc aus STORE ITEM / GRAB ITEM Anweisungen.
+signal-port-description-automation-slot-autodoc-hand = Ein Automatisierungs-Slot für das vom Autodoc gehaltene Organ bzw. Teil, für die Anweisungen „Gegenstand ablegen“ / „Gegenstand greifen“.
 
-signal-port-name-alt-interact = Alt Interact Mode
+signal-port-name-alt-interact = Alt-Interaktionsmodus
 signal-port-description-alt-interact = Signalport zum Umschalten des alternativen Interaktionsmodus oder setze ihn auf einen HIGH/LOW-Wert.
 
 # Gas Canister

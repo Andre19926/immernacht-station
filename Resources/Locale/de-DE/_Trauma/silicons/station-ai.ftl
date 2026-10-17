@@ -19,4 +19,4 @@ station-ai-icon-rainbow = Regenbogen
 station-ai-icon-alien = Alien
 station-ai-icon-goon = Alt
 station-ai-icon-weird = Seltsam
-station-ai-icon-inverted = Upside Down
+station-ai-icon-inverted = Verkehrte Welt

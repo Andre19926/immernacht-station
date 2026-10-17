@@ -1,21 +1,21 @@
-ent-ChestDiona = Dionabrust
+ent-ChestDiona = Diona-Brust
 
-ent-GroinDiona = Leistengegend
+ent-GroinDiona = Diona-Unterleib
 
-ent-HeadDiona = Dionakopf
+ent-HeadDiona = Diona-Kopf
 
-ent-LeftArmDiona = linker Dionaarm
+ent-LeftArmDiona = linker Diona-Arm
 
-ent-RightArmDiona = rechter Dionaarm
+ent-RightArmDiona = rechter Diona-Arm
 
 ent-LeftHandDiona = linke Diona-Hand
 
-ent-RightHandDiona = rechte Diona Hand
+ent-RightHandDiona = rechte Diona-Hand
 
-ent-LeftLegDiona = linkes Dionabein
+ent-LeftLegDiona = linkes Diona-Bein
 
-ent-RightLegDiona = rechtes Dionabein
+ent-RightLegDiona = rechtes Diona-Bein
 
-ent-LeftFootDiona = linker Dionafuß
+ent-LeftFootDiona = linker Diona-Fuß
 
-ent-RightFootDiona = rechter Dionafuß
+ent-RightFootDiona = rechter Diona-Fuß

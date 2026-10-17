@@ -13,7 +13,7 @@
 ui-vote-type-restart = Runde neu starten
 ui-vote-type-gamemode = Nächster Spielmodus
 ui-vote-type-map = Nächste Karte
-ui-vote-type-votekick = Votekick
+ui-vote-type-votekick = Rauswurf-Abstimmung
 
 # Votekick reasons
 ui-vote-votekick-type-raiding = Raiding

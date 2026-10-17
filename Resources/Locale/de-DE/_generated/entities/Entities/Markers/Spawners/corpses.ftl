@@ -2,7 +2,7 @@ ent-SalvageHumanCorpseSpawner = Menschlicher Leiche Spawner
 
 ent-RandomServiceCorpseSpawner = Random Service Leiche Spawner
 
-ent-RandomEngineerCorpseSpawner = Random Engineer Leiche Spawner
+ent-RandomEngineerCorpseSpawner = Zufällige Ingenieur-Leiche (Spawner)
 
 ent-RandomCargoCorpseSpawner = Random Fracht Leiche Spawner
 

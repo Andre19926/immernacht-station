@@ -1,7 +1,7 @@
-ent-ClothingUniformJumpsuitMilitaryColorGrey = Uniform (grau, Jumpsuit, Militär, Color)
+ent-ClothingUniformJumpsuitMilitaryColorGrey = Militäruniform (grau)
     .desc = Ein geschmackvoller grauer Overall, der dich an die guten alten Zeiten erinnert.
 
-ent-ClothingUniformJumpsuitMilitaryColorBlack = Uniform (schwarz, Jumpsuit, Militär, Color)
+ent-ClothingUniformJumpsuitMilitaryColorBlack = Militäruniform (schwarz)
     .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.
 
 ent-ClothingUniformJumpsuitMilitaryColorBlue = Uniform (blau, Militär)
@@ -26,7 +26,7 @@ ent-ClothingUniformJumpsuitMilitaryColorPink = Uniform (rosa, Militär)
     .desc = Ein generischer rosaer Uniform ohne rangmarkierungen.
 
 ent-ClothingUniformJumpsuitMilitaryColorRed = Uniform (rot, Militär)
-    .desc = Ein generisches Rot Insgesamt ohne Vertrageender Vertraggeld Handel
+    .desc = Eine schlichte rote Uniform ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryColorYellow = Uniform (gelb, Militär)
     .desc = Ein generisches Gelb Insgesamt ohne Rangmarkierungen.
@@ -56,7 +56,7 @@ ent-ClothingUniformJumpsuitMilitaryHoP = Personalchefuniform (Militär)
     .desc = Eher langweilig und harmlos. Perfekt, um vom Gesicht des Universums zu verschwinden.
 
 ent-ClothingUniformJumpsuitMilitaryAtmospherics = Atmos-Techniker-Arbeitskleidung (Militär, Atmospherics)
-    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich teste die Luftqualität.
+    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich prüfe die Luftqualität.
 
 ent-ClothingUniformJumpsuitMilitaryEngineering = Ingenieurs-Arbeitskleidung (Militär)
     .desc = Wenn dieser Anzug nicht leitfähig wäre, würden Ingenieure vielleicht ihren verdammten Job machen.
@@ -65,7 +65,7 @@ ent-ClothingUniformJumpsuitMilitaryEngineeringChief = Chefingenieursuniform (Mil
     .desc = Es ist eine hohe Sichtbarkeit, die den Ingenieuren gegeben wird, die verrückt genug sind, um den Rang eines Chefingenieurs zu erreichen.
 
 ent-ClothingUniformJumpsuitMilitaryShaftMiner = Bergarbeiter-Arbeitskleidung (Militär)
-    .desc = Es ist ein knackiger Uniform mit einem robusten Uniform. Es ist sehr schmutzig.
+    .desc = Eine schneidige Uniform mit einer robusten Latzhose. Sie ist sehr schmutzig.
 
 ent-ClothingUniformJumpsuitMilitaryCargo = Frachttechniker-Arbeitskleidung (Militär)
     .desc = Ein robustes Uniform, ausgestellt an Mitglieder der Frachtabteilung.
@@ -94,8 +94,8 @@ ent-ClothingUniformJumpsuitMilitaryGenetics = Genetikeruniform (Militär)
 ent-ClothingUniformJumpsuitMilitaryScientist = Wissenschaftleruniform (Militär)
     .desc = Es besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik verringert. Es hat Markierungen, die den Träger als Wissenschaftler bezeichnen.
 
-ent-ClothingUniformJumpsuitMilitaryResearchDirector = Turtleneck des Forschungsdirektors (Jumpsuit, Militär)
-    .desc = Es ist ein Gesamt getragen von denen mit dem Know-how, um die Position des Forschungsdirektors zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
+ent-ClothingUniformJumpsuitMilitaryResearchDirector = Forschungsleiter-Rollkragenuniform (Militär)
+    .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpsuitMilitaryService = Servicekraft-Arbeitskleidung
     .desc = Eine Standardausgabe Insgesamt für NT Service-Mitarbeiter.

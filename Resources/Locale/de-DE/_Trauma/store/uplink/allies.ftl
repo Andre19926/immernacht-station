@@ -1,4 +1,4 @@
-uplink-reinforcement-radio-nukie-mouse-name = Mouse Operative Teleporter
+uplink-reinforcement-radio-nukie-mouse-name = Mäuse-Operativen-Teleporter
 uplink-reinforcement-radio-nukie-mouse-desc = Ruft einen speziell ausgebildeten Mausmitarbeiter an, um dir zu helfen.
 
 uplink-reinforcement-radio-nukie-carp-name = Carp Operativer Teleporter
@@ -9,7 +9,7 @@ uplink-reinforcement-radio-nukie-spider-desc = Ruft einen speziell ausgebildeten
 
 uplink-reinforcement-radio-cyborg-assault-name-trauma = Angriff auf Cyborg Teleporter
 
-uplink-reinforcement-radio-cyborg-saboteur-name = Saboteur Cyborg Teleporter
+uplink-reinforcement-radio-cyborg-saboteur-name = Saboteur-Cyborg-Teleporter
 uplink-reinforcement-radio-cyborg-saboteur-desc = Ruft einen leicht gepanzerten Cyborg an, der sich auf Sabotage und Morde spezialisiert hat.
 
 uplink-reinforcement-radio-cyborg-medical-name = Cyborg Teleporter

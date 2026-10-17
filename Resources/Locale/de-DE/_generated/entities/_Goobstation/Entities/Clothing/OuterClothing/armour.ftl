@@ -5,7 +5,7 @@ ent-ClothingOuterArmourDurathread = Durathread Rüstung
     .desc = Eine gepanzerte Weste aus Plastikplatten, die mit Durathread gewebt sind. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
 
 ent-ClothingOuterArmorHelldiver = Salvage-NT-01-Taktik-Hardsuit
-    .desc = Diese ist die Nano-Achtung, die aus der gleichen Titan-Legierung besteht wie der Goliath-Achtung.
+    .desc = Diese Rüstung ist die Standardausgabe von NanoTrasen und besteht aus derselben Titanlegierung wie die Goliath-Hülle.
 
 ent-ClothingOuterArmorHoSVestWeb = Leiter der Sicherheitswebweste
     .desc = Eine hochwertige gepanzerte Weste aus hartem Kunststoff. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
@@ -62,7 +62,7 @@ ent-ClothingOuterArmorAdept = Adept Robes
     .desc = Das ideale Outfit, um die Untreuen zu verbrennen.
 
 ent-ClothingOuterArmorClock = vergessene Rüstung
-    .desc = Es klingt wie zischender Dampf, tickende Zahnräder, verstummt, es sieht aus wie eine tote Maschine, die versucht, mit dem Leben zu ticken.
+    .desc = Es klingt wie zischender Dampf und tickende Zahnräder, die verstummt sind. Es wirkt wie eine tote Maschine, die versucht, mit Leben zu ticken.
 
 ent-ClothingOuterArmorMonk = Mönchsgewohnheit
     .desc = Ein paar Schritte über zerrissenem Sacktuch.
@@ -79,5 +79,5 @@ ent-ClothingOuterArmorInquisitor = Inquisitor Rüstung
 ent-ClothingOuterSchemaMonk = Klosterkleidung
     .desc = Ein Schild des völligen Verzichts auf die Welt und der Akzeptanz des Heldentums. Es wird von denen getragen, die den Weg des Gebets und des Kampfes für die menschliche Seele gewählt haben. In der Stille des Kosmos scheint es besonders angemessen zu sein.
 
-ent-ClothingOuterArmorVeteranSecurity = Alte Rüstung von Veteran Security
-    .desc = Eine alte Version der Standard-NanoTrasen-Schussweste, ihr Design bietet einen besseren Schutz gegen Überraschungsangriffe von Clowns, sie erfüllt immer noch die Schutzstandards von NT
+ent-ClothingOuterArmorVeteranSecurity = Alte Rüstung des Sicherheitsveterans
+    .desc = Eine alte Version der NanoTrasen-Standard-Schussweste. Ihr Design schützt besser vor Überraschungsangriffen von Clowns und erfüllt weiterhin die Schutzstandards von NT.

@@ -10,7 +10,7 @@ xenobio-reagent-jelly-blue-desc = Reduziert die Mutationswahrscheinlichkeit eine
 xenobio-reagent-jelly-darkblue-name = Schleimkühlgelee
 xenobio-reagent-jelly-darkblue-desc = Dieses Gelee macht jeden Verbraucher für eine anständige Zeit feuerfest. Sei ein Firebug, ohne wie einer auszusehen! Bergleute können dies gut nutzen, da es sie aschesicher macht.
 
-xenobio-reagent-jelly-cerulean-name = Slime Boost
+xenobio-reagent-jelly-cerulean-name = Schleimschub
 xenobio-reagent-jelly-cerulean-desc = Wenn es von einem Schleim aufgenommen wird, wird es bei Mitose mehr Nachkommen produzieren. Verwechseln dich nicht mit "Broly Boost".
 
 xenobio-reagent-jelly-red-name = Schleimstabilisator

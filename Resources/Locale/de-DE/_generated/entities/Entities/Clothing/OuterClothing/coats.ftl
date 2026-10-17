@@ -11,7 +11,7 @@ ent-ClothingOuterCoatDetectiveLoadout = Detektivgraben
     .desc = Ein Mehrzweck-Trenchcoat aus dem 18. Jahrhundert. Jemand, der das trägt, bedeutet ernstes Geschäft.
 
 ent-ClothingOuterCoatGentle = sanfte Beschichtung
-    .desc = Ein sanfter Mantel für einen sanften Mann oder eine Frau.
+    .desc = Ein sanfter Mantel für einen sanften Mann oder eine sanfte Frau.
 
 ent-ClothingOuterCoatHoSTrench = Sicherheitschef gepanzerter Trenchcoat
     .desc = Ein Greatcoat mit einer speziellen Legierung für etwas zusätzlichen Schutz und Stil für diejenigen mit einer beherrschenden Präsenz verbessert.
@@ -64,10 +64,10 @@ ent-ClothingOuterCoatRobo = Robotiker Laborcoat
 ent-ClothingOuterCoatRoboOpened = Robotiker Laborcoat
     .desc = Mehr wie ein exzentrischer Mantel als ein Labcoat. Hilft, Blutflecken als Teil der Ästhetik weiterzugeben. Kommt mit roten Schulterpolstern.
 
-ent-ClothingOuterCoatRD = Forschungsleiterin Laborkittel
+ent-ClothingOuterCoatRD = Forschungsleiter-Laborkittel
     .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.
 
-ent-ClothingOuterCoatRDOpened = Forschungsleiterin Laborkittel
+ent-ClothingOuterCoatRDOpened = Forschungsleiter-Laborkittel
     .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.
 
 ent-ClothingOuterCoatPirate = Piratengarnelen
@@ -90,7 +90,7 @@ ent-ClothingOuterCoatParamedicWB = Sanitäter Windjacke
 ent-ClothingOuterCoatSyndieCap = Syndicate-Mantel
     .desc = Der Mantel des Syndicate-S besteht aus langlebigem Stoff mit vergoldeten Mustern.
 
-ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndicate-S
+ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndicate-Kapitäns
     .desc = Der gepanzerte Mantel des Syndicate-S besteht aus langlebigem Stoff mit vergoldeten Mustern.
 
 ent-ClothingOuterCoatAMG = Gepanzertes medizinisches Kleid

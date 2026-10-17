@@ -37,7 +37,7 @@ comp-stack-split-halve = Halbe
 comp-stack-split-too-small = Stack ist zu klein zum Splitten.
 
 # Goobstation - Custom stack splitting dialog
-comp-stack-split-size = Max: {$size}
+comp-stack-split-size = Max.: {$size}
 
 ui-custom-stack-split-title = Geteilter Betrag
 ui-custom-stack-split-line-edit-placeholder = Menge

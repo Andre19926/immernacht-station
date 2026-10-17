@@ -13,7 +13,7 @@ ent-ActionVeil = Schleier
 ent-ActionRapidRehatch = Schnelle Re-Hatch
     .desc = Vergieß dein zerbrochenes Fleisch und erhebe dich wieder ganz.
 
-ent-ActionShadowWalk = Shadow Walk
+ent-ActionShadowWalk = Schattenwandeln
     .desc = Tritt in die Leere ein und bewege dich unsichtbar und ungehindert.
 
 ent-ActionIcyVeins = Eisadern

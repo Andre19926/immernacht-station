@@ -30,12 +30,12 @@ criminal-records-status-wanted = Gesucht
 criminal-records-status-detained = Festgenommen
 criminal-records-status-suspected = Verdächtig
 criminal-records-status-discharged = Entlassen
-criminal-records-status-paroled = Paroled
+criminal-records-status-paroled = Auf Bewährung
 criminal-records-status-hostile = Feindlich
 criminal-records-status-eliminated = Eliminiert
 criminal-records-status-dangerous = Gefährlich
 criminal-records-status-search = Suche
-criminal-records-status-perma = Perma
+criminal-records-status-perma = Dauerhaft
 
 criminal-records-console-wanted-reason = Fahndungsgrund
 criminal-records-console-suspected-reason = Verdachtsgrund
@@ -88,5 +88,5 @@ criminal-records-job-filter = Job
 criminal-records-species-filter = Spezies
 
 ## Arrest auto history lines
-criminal-records-console-auto-history = ARRESTED: {$reason}
+criminal-records-console-auto-history = VERHAFTET: {$reason}
 criminal-records-console-unspecified-reason = <kein Grund angegeben>

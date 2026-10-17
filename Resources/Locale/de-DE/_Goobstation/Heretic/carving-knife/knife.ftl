@@ -10,7 +10,7 @@ carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] Insgesa
 carving-knife-comp-runes-deleted = Zerstört alle Schnitzereien!
 
 alert-carving-trigger-message =
-    "{$victim}" hat Fuß auf die Alarm Rune in der Nähe getreten "{$location}"!
+    „{$victim}“ hat die Alarmrune in der Nähe von „{$location}“ betreten!
     {" "}[button label="Teleport" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
     {" "}
 alert-carving-trigger-message-coords = {$uid}, {$x}, {$y}

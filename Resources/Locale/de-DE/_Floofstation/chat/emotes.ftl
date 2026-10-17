@@ -1,5 +1,5 @@
-chat-emote-name-yip = Yip
-chat-emote-name-coo = Coo
+chat-emote-name-yip = Kläffen
+chat-emote-name-coo = Gurren
 
-chat-emote-msg-yip = Yips!
-chat-emote-msg-coo = Coos!
+chat-emote-msg-yip = kläfft!
+chat-emote-msg-coo = gurrt!

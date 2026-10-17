@@ -17,13 +17,13 @@ ent-ClothingUniformJumpskirtCommandMaid = Kommandantinnenuniform
     .desc = Eine stilvolle Dienstmädchenuniform, die speziell für Elite Command Maids entwickelt wurde. Kombiniert Professionalität mit einem Hauch von Eleganz.
 
 ent-ClothingUniformJumpskirtSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung (Rock)
-    .desc = Es ist ein knackiger Rock-Uniform mit einem robusten Uniform. Es ist sehr schmutzig.
+    .desc = Ein schneidiger Uniformrock mit einer robusten Latzhose. Er ist sehr schmutzig.
 
 ent-ClothingUniformJumpskirtShaftMiner = Bergarbeiter-Arbeitskleidung (Rock)
-    .desc = Es ist ein knackiger Rock-Uniform mit einem robusten Uniform. Es sieht verbrannt aus.
+    .desc = Ein schneidiger Uniformrock mit einer robusten Latzhose. Er sieht verbrannt aus.
 
-ent-ClothingUniformJumpskirtResearchDirectorAlt = Turtleneck des Forschungsdirektors (Jumpskirt, Alternativ)
-    .desc = Es ist ein turtleneck, getragen von denen mit dem know-how, um die position des research director zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
+ent-ClothingUniformJumpskirtResearchDirectorAlt = Forschungsleiter-Rollkragenuniform (Rock, alternativ)
+    .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtReporter = Kleid des Reporters
     .desc = Ein extravagantes schwarzes Kleid entworfen, um die Aufmerksamkeit von so vielen Menschen wie möglich zu fangen.

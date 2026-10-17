@@ -16,7 +16,7 @@ comp-ringer-vibration-popup = Dein PDA vibriert
 
 comp-ringer-ui-menu-title = Rington
 
-comp-ringer-ui-test-ringtone-button = Test
+comp-ringer-ui-test-ringtone-button = Testen
 
 comp-ringer-ui-set-ringtone-button = Setzen
 

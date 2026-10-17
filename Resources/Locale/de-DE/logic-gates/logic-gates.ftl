@@ -9,14 +9,14 @@ logic-gate-examine = Es ist derzeit ein {$gate}-Gatter.
 
 logic-gate-cycle = Umgestellt auf {$gate}-Gatter
 
-power-sensor-examine = It is currently checking the network's {$output ->
+power-sensor-examine = Es prüft derzeit die {$output ->
     [true] Ausgangsleistung
-    *[false] Eingang
-} Batterie.
+    *[false] Eingangsleistung
+} des Netzes.
 power-sensor-voltage-examine = Es prüft die {$voltage} Stromnetz.
 
-power-sensor-switch = Switched to checking the network's {$output ->
+power-sensor-switch = Prüft jetzt die {$output ->
     [true] Ausgangsleistung
-    *[false] Eingang
-} Batterie.
+    *[false] Eingangsleistung
+} des Netzes.
 power-sensor-voltage-switch = Schaltnetz an {$voltage}!

@@ -1,11 +1,11 @@
-ent-LeftArmBorg = Cyborg linker Arm
+ent-LeftArmBorg = linker Cyborg-Arm
 
-ent-RightArmBorg = Cyborg rechter Arm
+ent-RightArmBorg = rechter Cyborg-Arm
 
-ent-LeftLegBorg = Linkes Cyborg-Bein
+ent-LeftLegBorg = linkes Cyborg-Bein
 
-ent-RightLegBorg = Cyborg rechtes Bein
+ent-RightLegBorg = rechtes Cyborg-Bein
 
-ent-LightHeadBorg = Cyborgkopf
+ent-LightHeadBorg = Cyborg-Kopf
 
-ent-TorsoBorg = Cyborgtorso
+ent-TorsoBorg = Cyborg-Torso

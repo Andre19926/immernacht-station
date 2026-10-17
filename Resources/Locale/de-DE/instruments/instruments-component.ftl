@@ -19,7 +19,7 @@ instruments-component-menu-no-midi-support = MIDI-Unterstützung ist derzeit nic
                                              FluidSynth oder ein Entwicklungspaket
                                              für FluidSynth.
 instruments-component-menu-input-button = MIDI-Input
-instruments-component-menu-band-button = Join Band
+instruments-component-menu-band-button = Band beitreten
 instruments-component-menu-play-button = MIDI abspielen
 instruments-component-menu-loop-button = Schleife
 instruments-component-menu-channels-button = Kanäle
@@ -71,7 +71,7 @@ instruments-component-menu-midi-channel-overdriven-guitar = Übersteuerte Gitarr
 instruments-component-menu-midi-channel-distortion-guitar = Verzerrte Gitarre
 instruments-component-menu-midi-channel-guitar-harmonics = Gitarrenharmonik
 instruments-component-menu-midi-channel-acoustic-bass = Akustikbass
-instruments-component-menu-midi-channel-fingered-electric-bass = Fingered Electric Bass
+instruments-component-menu-midi-channel-fingered-electric-bass = E-Bass (gezupft)
 instruments-component-menu-midi-channel-plucked-electric-bass = E-Bass (gezupft)
 instruments-component-menu-midi-channel-fretless-bass = Fretless Bass
 instruments-component-menu-midi-channel-slap-bass1 = Slap Bass 1

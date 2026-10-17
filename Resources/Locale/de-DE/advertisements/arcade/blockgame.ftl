@@ -7,7 +7,7 @@
 advertisement-block-game-1 = Rechtlich ganz anders!
 advertisement-block-game-2 = Was zum Teufel ist ein T-Spin?
 advertisement-block-game-3 = Diese Blöcke räumen sich nicht von selbst!
-advertisement-block-game-4 = Beep boop! Bwoooop!
+advertisement-block-game-4 = Piep piep! Bwoooop!
 advertisement-block-game-5 = Lass uns ein Spiel spielen!
 advertisement-block-game-6 = Ganze 6 Farben Spielspaß!
 advertisement-block-game-7 = Heiße 8-Bit-Action!

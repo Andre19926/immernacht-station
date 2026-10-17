@@ -6,7 +6,7 @@
 
 ### Portal verb text
 
-portal-component-ghost-traverse = Traverse
+portal-component-ghost-traverse = Durchqueren
 
 portal-component-no-linked-entities = Kann kein Geist ein Portal durchqueren, das nicht genau 1 verknüpftes Portal hat
 portal-component-can-ghost-traverse = Teleportieren zum verknüpften Portal

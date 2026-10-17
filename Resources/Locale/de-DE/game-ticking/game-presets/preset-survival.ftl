@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-survival-title = Survival
+survival-title = Überleben
 survival-description = Keine internen Bedrohungen, aber wie lange kann die Station zunehmend chaotische und häufige Ereignisse überleben?
 
 kessler-syndrome-title = Kessler-Syndrom

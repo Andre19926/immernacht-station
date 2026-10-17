@@ -1,5 +1,5 @@
-ent-EnergyChemDispenser = Energiechemikalienspender
-    .desc = Ein Bluespace Chemical Dispenser, der Stationsenergie verwendet, um Reagenzien zu synthetisieren. Die Zukunft ist hier und jetzt.
+ent-EnergyChemDispenser = Energie-Chemiespender
+    .desc = Ein Bluespace-Chemiespender, der Stationsenergie nutzt, um Reagenzien zu synthetisieren.
 
-ent-ServiceEnergyChemDispenser = Energy Food Synthesizer
-    .desc = Ein Bluespace Chemical Dispenser, der Stationsenergie verwendet, um organische Reagenzien zu synthetisieren. Die Zukunft für Köche ist hier und jetzt.
+ent-ServiceEnergyChemDispenser = Energie-Lebensmittelsynthesizer
+    .desc = Ein Bluespace Chemiespender, der Stationsenergie verwendet, um organische Reagenzien zu synthetisieren. Die Zukunft für Köche ist hier und jetzt.

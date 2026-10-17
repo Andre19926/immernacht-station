@@ -1,21 +1,21 @@
-ent-ChestFeroxi = Feroxi-Truhe
+ent-ChestFeroxi = Feroxi-Brust
 
-ent-GroinFeroxi = Feroxi-Leistengegend
+ent-GroinFeroxi = Feroxi-Unterleib
 
-ent-HeadFeroxi = Feroxikopf
+ent-HeadFeroxi = Feroxi-Kopf
 
-ent-LeftArmFeroxi = linker Feroxiarm
+ent-LeftArmFeroxi = linker Feroxi-Arm
 
-ent-RightArmFeroxi = rechter Feroxiarm
+ent-RightArmFeroxi = rechter Feroxi-Arm
 
-ent-LeftHandFeroxi = linke Feroxihand
+ent-LeftHandFeroxi = linke Feroxi-Hand
 
 ent-RightHandFeroxi = rechte Feroxi-Hand
 
-ent-LeftLegFeroxi = linkes Feroxibein
+ent-LeftLegFeroxi = linkes Feroxi-Bein
 
-ent-RightLegFeroxi = rechtes Feroxibein
+ent-RightLegFeroxi = rechtes Feroxi-Bein
 
-ent-LeftFootFeroxi = linker Feroxifuß
+ent-LeftFootFeroxi = linker Feroxi-Fuß
 
-ent-RightFootFeroxi = rechter Feroxifuß
+ent-RightFootFeroxi = rechter Feroxi-Fuß

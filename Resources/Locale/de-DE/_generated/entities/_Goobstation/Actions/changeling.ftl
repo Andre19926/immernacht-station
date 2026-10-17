@@ -31,7 +31,7 @@ ent-ActionToggleClaw = Kniehebelarmklaue
 ent-ActionToggleDartGun = Toggle Dart Gun
     .desc = Verwandeln dich einen deiner Arme in eine Dartpistole, die aus Knochen und Fleisch besteht. Retract auf sekundäre Verwendung. Kosten 15 Chemikalien.
 
-ent-ActionCreateBoneShard = Form Bone Shard
+ent-ActionCreateBoneShard = Knochensplitter formen
     .desc = Brich Scherben deines Knochens ab und forme sie zu einem Wurfstern. Kosten 15 Chemikalien.
 
 ent-ActionToggleChitinousArmor = Toggle Rüstung

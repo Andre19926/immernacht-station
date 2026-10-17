@@ -7,5 +7,5 @@
 roles-antag-changeling-name = Wechsel
 roles-antag-changeling-description = Verwende deine Shapeshifting-Fähigkeiten, um deine Ziele zu erreichen.
 
-roles-antag-corporate-agent-name = Corporate Agent
+roles-antag-corporate-agent-name = Konzernagent
 roles-antag-corporate-agent-description = Verwende deine Konzernressourcen, um deine Ziele zu erreichen.

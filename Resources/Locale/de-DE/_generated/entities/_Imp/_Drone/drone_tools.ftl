@@ -11,7 +11,7 @@ ent-WelderExperimentalUnremoveable = experimentelles Schweißgerät
     .desc = Ein experimentelles Schweißgerät, das in der Lage ist, selbst zu erzeugen und weniger schädlich für die Augen zu sein.
 
 ent-RCDRechargingUnremoveable = Versuchs-RCD
-    .desc = Cyborg-montierte Rapid Construction Device, die komprimierte Materie im laufenden Betrieb mit einem internen Hersteller erzeugt.
+    .desc = Ein in Cyborgs eingebautes Schnellbaugerät, das komprimierte Materie im Betrieb mit einem internen Fabrikator herstellt.
 
 ent-NetworkConfiguratorUnremoveable = Netzwerkkonfigurator
     .desc = Ein Werkzeug zum Verbinden von Geräten. Hat zwei Modi, einen Listenmodus für Massenverknüpfungsgeräte und einen Verknüpfungsmodus für fortgeschrittene Geräteverknüpfungen.

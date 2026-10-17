@@ -23,9 +23,9 @@
 comms-console-menu-title = Kommunikationskonsole
 comms-console-menu-announcement-placeholder = Ankündigungstext ...
 comms-console-menu-announcement-button = Ankündigen
-comms-console-menu-announcement-button-tooltip = Sende deine Nachricht als Funkdurchsage an die gesamte Station.
-comms-console-menu-broadcast-button = Durchsage
-comms-console-menu-broadcast-button-tooltip = Zeige deine Nachricht auf Wandbildschirmen rund um die Station an. Hinweis: Es passen nur zehn Zeichen drauf!
+comms-console-menu-announcement-button-tooltip = Sendet deine Nachricht als Funkansage an die gesamte Station.
+comms-console-menu-broadcast-button = Wandanzeige
+comms-console-menu-broadcast-button-tooltip = Zeigt deine Nachricht auf den Wandbildschirmen der Station an. Achtung: Es passen nur zehn Zeichen drauf!
 comms-console-menu-alert-level-button-tooltip = Ändert die Alarmstufe der Station. Gilt sofort nach der Auswahl.
 comms-console-menu-call-shuttle = Evakuierungsshuttle rufen
 comms-console-menu-recall-shuttle = Notfall-Shuttle zurückrufen

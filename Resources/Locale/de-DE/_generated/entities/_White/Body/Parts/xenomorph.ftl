@@ -1,21 +1,21 @@
-ent-ChestXenomorph = Xenomorphe Brust
+ent-ChestXenomorph = Xenomorphenbrust
 
-ent-GroinXenomorph = Xenomorph-Leistengegend
+ent-GroinXenomorph = Xenomorphenunterleib
 
-ent-HeadXenomorph = Xenomorphkopf
+ent-HeadXenomorph = Xenomorphenkopf
 
-ent-LeftArmXenomorph = linker Xenomorpharm
+ent-LeftArmXenomorph = linker Xenomorphenarm
 
-ent-RightArmXenomorph = rechter Xenomorpharm
+ent-RightArmXenomorph = rechter Xenomorphenarm
 
-ent-LeftHandXenomorph = linke xenomorphe Hand
+ent-LeftHandXenomorph = linke Xenomorphenhand
 
-ent-RightHandXenomorph = rechte Xenomorph-Hand
+ent-RightHandXenomorph = rechte Xenomorphenhand
 
-ent-LeftLegXenomorph = linkes xenomorphes Bein
+ent-LeftLegXenomorph = linkes Xenomorphenbein
 
-ent-RightLegXenomorph = rechtes xenomorphes Bein
+ent-RightLegXenomorph = rechtes Xenomorphenbein
 
-ent-LeftFootXenomorph = linker Xenomorphfuß
+ent-LeftFootXenomorph = linker Xenomorphenfuß
 
-ent-RightFootXenomorph = rechter Xenomorphfuß
+ent-RightFootXenomorph = rechter Xenomorphenfuß

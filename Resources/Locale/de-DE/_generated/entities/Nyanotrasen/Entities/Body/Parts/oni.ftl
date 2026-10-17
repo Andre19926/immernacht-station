@@ -1,21 +1,21 @@
-ent-HeadOni = Onikopf
+ent-HeadOni = Oni-Kopf
 
-ent-ChestOni = Oni Brust
+ent-ChestOni = Oni-Brust
 
-ent-GroinOni = Leistengegend
+ent-GroinOni = Oni-Unterleib
 
-ent-LeftArmOni = linker Oniarm
+ent-LeftArmOni = linker Oni-Arm
 
 ent-RightArmOni = rechter Oni-Arm
 
-ent-LeftHandOni = linke Hand
+ent-LeftHandOni = linke Oni-Hand
 
-ent-RightHandOni = rechte Hand
+ent-RightHandOni = rechte Oni-Hand
 
-ent-LeftLegOni = linkes Bein
+ent-LeftLegOni = linkes Oni-Bein
 
-ent-RightLegOni = rechtes Bein
+ent-RightLegOni = rechtes Oni-Bein
 
-ent-LeftFootOni = linker Fuß
+ent-LeftFootOni = linker Oni-Fuß
 
-ent-RightFootOni = rechter Fuß
+ent-RightFootOni = rechter Oni-Fuß

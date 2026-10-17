@@ -1,6 +1,6 @@
 # Syndicate
 
-selectable-set-syndicate-lawyer-name = Syndicate Lawyer Bundle
+selectable-set-syndicate-lawyer-name = Syndicate-Anwalt-Paket
 selectable-set-syndicate-lawyer-description =
     Das Gesetz ist diesmal auf deiner Seite.
     Enthält: rote Anwaltsklage, Syndicate-Sonnenbrille,
@@ -9,14 +9,14 @@ selectable-set-syndicate-lawyer-description =
     Cybersun Pen, Space Law Book, Syndicate-Rohr, Syndicate-Stempel,
     Dna Scrambler Implantat und Cobra mit vier Magazinen.
 
-selectable-set-syndicate-no-russian-name = Syndicate Terrorist Bundle
+selectable-set-syndicate-no-russian-name = Syndicate-Terroristen-Paket
 selectable-set-no-russian-description =
     Denke daran, kein Russe.
     Enthält: schwarze Anwaltsklage, Brust-Rig, Syndicate-Sonnenbrille,
     Syndicate-Verschlüsselungsschlüssel, L6 SAW und
     eine L6 SAW Magazinbox.
 
-selectable-set-syndicate-pirate-captain-name = Syndicate Pirate Captain Bundle
+selectable-set-syndicate-pirate-captain-name = Syndicate-Piratenkapitän-Paket
 selectable-set-syndicate-pirate-captain-description =
     Yo ho, yo ho, Das Leben eines Piraten für mich!
     Enthält: Piratenschlamm, Piratenhut, Piratenkapitän Mantel,
@@ -26,7 +26,7 @@ selectable-set-syndicate-pirate-captain-description =
     Piratenkanonen, zwei Kanonenkugeln, zwei Traubenschüsse,
     zwei Glasshot, Energy Cutlass und ein Mikrobombenimplantat.
 
-selectable-set-syndicate-engineer-name = Syndicate Engineer Bundle
+selectable-set-syndicate-engineer-name = Syndicate-Ingenieur-Paket
 selectable-set-syndicate-engineer-description =
     Dieses Bündel wurde entwickelt, um maximalen Schaden zu verursachen.
     Enthält: Syndicate-Reparaturanzug, Workboots, HV-Weste,
@@ -42,7 +42,7 @@ selectable-set-syndicate-door-kicker-description =
     Syndicate Kiefer des Todes, "bojevic" Kampfflinte, Shell-Box,
     Syndicate-Verschlüsselungsschlüssel und zwei C-4.
 
-selectable-set-syndicate-tunnel-clown-name = Tunnel Clown Bundle
+selectable-set-syndicate-tunnel-clown-name = Tunnelclown-Paket
 selectable-set-syndicate-tunnel-clown-description = Leg deine Clownsausrüstung an, hupe und töte Leute in den Wartungsgängen.
     Enthält: Syndicate-Verschlüsselungsschlüssel, Clown-Ausrüstung, Webweste,
     Kampfhandschuhe, Syndicate-Nachtsichtbrille, Flammende Feueraxt,

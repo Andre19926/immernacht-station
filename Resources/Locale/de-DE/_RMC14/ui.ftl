@@ -11,7 +11,7 @@ rmc-ui-link-discord-account-copied = Kopiert!
 rmc-ui-link-discord-account-already-linked = [bold]Dein Account ist bereits verlinkt![/bold]
 rmc-ui-link-discord-account-open-channel = Offener Kanal
 
-rmc-ui-patron-perks = Patron Perks
+rmc-ui-patron-perks = Unterstützer-Vorteile
 rmc-ui-lobby-message = Lobbynachricht
 rmc-ui-lobby-message-description = Wird den Spielern angezeigt, bevor das Spiel beginnt.
   Einer wird zufällig zwischen allen Patrons dieser Stufe gewählt.

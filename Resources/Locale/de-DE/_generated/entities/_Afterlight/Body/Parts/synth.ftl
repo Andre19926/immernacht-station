@@ -1,21 +1,21 @@
-ent-ChestSynth = Synthie
+ent-ChestSynth = Synth-Brust
 
-ent-GroinSynth = Synthabdomen
+ent-GroinSynth = Synth-Unterleib
 
-ent-HeadSynth = Synthiekopf
+ent-HeadSynth = Synth-Kopf
 
-ent-LeftArmSynth = linker Synthesizerarm
+ent-LeftArmSynth = linker Synth-Arm
 
-ent-RightArmSynth = rechter Synthesizerarm
+ent-RightArmSynth = rechter Synth-Arm
 
-ent-LeftHandSynth = linke Synthesizerhand
+ent-LeftHandSynth = linke Synth-Hand
 
-ent-RightHandSynth = rechte Synthesizerhand
+ent-RightHandSynth = rechte Synth-Hand
 
-ent-LeftLegSynth = linkes Synthesizerbein
+ent-LeftLegSynth = linkes Synth-Bein
 
-ent-RightLegSynth = rechtes Synthesizerbein
+ent-RightLegSynth = rechtes Synth-Bein
 
-ent-LeftFootSynth = linker Synthiefuß
+ent-LeftFootSynth = linker Synth-Fuß
 
-ent-RightFootSynth = rechter Synthesizerfuß
+ent-RightFootSynth = rechter Synth-Fuß

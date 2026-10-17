@@ -8,6 +8,6 @@
 
 dragon-round-end-agent-name = Drachen
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Weltraumdrache[/color]
 
 dragon-role-briefing = Beschwöre 3 Karpfenrisse und übernimm diesen Quadranten! Die Station liegt {$direction}.

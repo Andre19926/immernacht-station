@@ -8,7 +8,7 @@ ent-ClothingHeadHatBeretNavyCaptain = Marinekapitänsbarett
     .desc = Ein weißes Stärke-Bret.
 
 ent-ClothingHeadHatBeretBlueshield = Blueshield-Barett
-    .desc = Eine haltbare Berette aus Durathread gewebt. Bietet auch Schutz.
+    .desc = Eine haltbare Baskenmütze aus Durathread gewebt. Bietet auch Schutz.
 
 ent-ClothingHeadHatCowboyBlueshield = Blueshields gepanzerter Cowboyhut
     .desc = Sheriff ist zurück in der Stadt, Kinder.
@@ -32,7 +32,7 @@ ent-ClothingHeadHatTrainer = NCT-Hut
     .desc = Ein Hut für Nanotrasen Career Trainers. Du fühlst dich stilvoll.
 
 ent-ClothingHeadBeretTrainer = NCT-Barett
-    .desc = Eine Berette für Nanotrasen Career Trainers. Du fühlst dich stilvoll.
+    .desc = Eine Baskenmütze für Nanotrasen-Karrieretrainer. Du fühlst dich stilvoll.
 
 ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = Paradebarett des Sicherheitschefs
     .desc = Eine besonders vergoldete Mütze, entworfen für den Leiter der Sicherheit.

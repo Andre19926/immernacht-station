@@ -1,3 +1,3 @@
 ent-RightArmSiliconIndestructible = rechter Siliziumarm
 
-ent-RightHandSiliconIndestructible = rechte Silikonhand
+ent-RightHandSiliconIndestructible = rechte Siliziumhand

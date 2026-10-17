@@ -37,7 +37,7 @@ knowledge-path-ash-s2-desc =
 
     Dein Mansus-Griff verbrennt die Augen des Opfers, verletzt es und trübt seine Sicht.
 
-knowledge-path-ash-s3-name = Ashen Shift
+knowledge-path-ash-s3-name = Aschenverschiebung
 knowledge-path-ash-s3-desc =
     Er wusste, wie man zwischen den Flugzeugen läuft.
 

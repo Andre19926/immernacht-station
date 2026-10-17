@@ -12,7 +12,7 @@ command-language-understood = Verstanden:
 command-language-current-entry = {$id}. {$language} - {$name} (aktuell)
 command-language-entry = {$id}. {$language} - {$name}
 
-command-language-invalid-number = Die Sprachnummer muss zwischen 0 und {$total}Oder verwende den Sprachennamen.
+command-language-invalid-number = Die Sprachnummer muss zwischen 0 und {$total} liegen. Alternativ kannst du den Sprachnamen verwenden.
 command-language-invalid-language = Die Sprache {$id} Es existiert nicht oder man kann es nicht sprechen.
 
 # Toolshed

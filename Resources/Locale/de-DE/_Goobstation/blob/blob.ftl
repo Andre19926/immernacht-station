@@ -38,7 +38,7 @@ objective-issuer-blob = Bohnen
 
 
 ghost-role-information-blobbernaut-name = Blobbernau
-ghost-role-information-blobbernaut-description = Du bist ein Blobbernaut. Du musst den Blob Core verteidigen. Verwenden sie + oder +e im chat, um im blobmind zu sprechen.
+ghost-role-information-blobbernaut-description = Du bist ein Blobbernaut. Du musst den Blob-Kern verteidigen. Benutze + oder +e im Chat, um im Blobmind zu sprechen.
 
 ghost-role-information-blob-name = Bohnen
 ghost-role-information-blob-description = Du bist die Blob-Infektion. Verbrauche die Station.
@@ -156,7 +156,7 @@ blob-role-greeting =
         Stelle sicher, dass Ressourcenblobs platziert werden, um Ressourcen zu generieren.
         Beachte, dass Ressourcen-Blobs und Fabriken nur neben Knoten-Blobs oder Kernen funktionieren.
         Du kannst + oder +e im chat verwenden, um den blobmind zu verwenden, um mit ihren lakaien zu sprechen.
-blob-zombie-greeting = Du wurdest infiziert und durch einen Blob Spore erhöht. Jetzt musst du dem Blob helfen, die Station zu übernehmen. Verwenden sie +e im chat, um im blobmind zu sprechen.
+blob-zombie-greeting = Du wurdest infiziert und von einer Blob-Spore erweckt. Jetzt musst du dem Blob helfen, die Station zu übernehmen. Benutze +e im Chat, um im Blobmind zu sprechen.
 
 # End round
 blob-round-end-result =

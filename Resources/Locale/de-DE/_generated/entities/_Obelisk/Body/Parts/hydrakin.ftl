@@ -1,21 +1,21 @@
-ent-TorsoHydrakin = Hydratin-Oberkörper
+ent-TorsoHydrakin = Hydrakin-Torso
 
-ent-HeadHydrakin = Hydrakinkopf
+ent-HeadHydrakin = Hydrakin-Kopf
 
-ent-GroinHydrakin = Hydrokin-Leistengegend
+ent-GroinHydrakin = Hydrakin-Unterleib
 
-ent-LeftArmHydrakin = linker Hydrakinarm
+ent-LeftArmHydrakin = linker Hydrakin-Arm
 
-ent-RightArmHydrakin = rechter Hydrakinarm
+ent-RightArmHydrakin = rechter Hydrakin-Arm
 
-ent-LeftHandHydrakin = linke Hydrakinhand
+ent-LeftHandHydrakin = linke Hydrakin-Hand
 
-ent-RightHandHydrakin = rechte Hydrakinhand
+ent-RightHandHydrakin = rechte Hydrakin-Hand
 
 ent-LeftLegHydrakin = linkes Hydrakin-Bein
 
-ent-RightLegHydrakin = rechtes Hydraschenkel
+ent-RightLegHydrakin = rechtes Hydrakin-Bein
 
-ent-LeftFootHydrakin = linker Hydrafuß
+ent-LeftFootHydrakin = linker Hydrakin-Fuß
 
-ent-RightFootHydrakin = rechter Hydratinfuß
+ent-RightFootHydrakin = rechter Hydrakin-Fuß

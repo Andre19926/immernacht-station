@@ -1,38 +1,38 @@
-ent-SurgeryXenoInciseExoskeleton = Incise Exoskelett
+ent-SurgeryXenoInciseExoskeleton = Exoskelett einschneiden
 
-ent-SurgeryXenoResealExoskeleton = Versiegelung Exoskelett
+ent-SurgeryXenoResealExoskeleton = Exoskelett wieder verschließen
 
-ent-SurgeryXenoExposeEndoskeleton = Exposition Endoskelett
+ent-SurgeryXenoExposeEndoskeleton = Endoskelett freilegen
 
-ent-SurgeryXenoResealEndoskeleton = Endoskelett reparieren
+ent-SurgeryXenoResealEndoskeleton = Endoskelett wieder verschließen
 
-ent-SurgeryXenoRemovePart = Amputat
+ent-SurgeryXenoRemovePart = Körperteil amputieren
 
-ent-SurgeryXenoInsertEyes = Xeno Augen einfügen
+ent-SurgeryXenoInsertEyes = Xeno-Augen einsetzen
 
-ent-SurgeryXenoInsertLiver = Xeno Leber einsetzen
+ent-SurgeryXenoInsertLiver = Xeno-Leber einsetzen
 
-ent-SurgeryXenoInsertStomach = Xeno Stomach einsetzen
+ent-SurgeryXenoInsertStomach = Xeno-Magen einsetzen
 
-ent-SurgeryXenoInsertResinSpinner = Insert Harz Spinner
+ent-SurgeryXenoInsertResinSpinner = Harzspinner einsetzen
 
-ent-SurgeryXenoInsertNeurotoxinGland = Neurotoxindrüse einfügen
+ent-SurgeryXenoInsertNeurotoxinGland = Neurotoxindrüse einsetzen
 
-ent-SurgeryXenoInsertAcidGland = Säuredrüse einfügen
+ent-SurgeryXenoInsertAcidGland = Säuredrüse einsetzen
 
-ent-SurgeryXenoInsertPlasmaVessel = Plasmagefäß einfügen
+ent-SurgeryXenoInsertPlasmaVessel = Plasmagefäß einsetzen
 
 ent-SurgeryXenoInsertEggSack = Eiersack einsetzen
 
-ent-SurgeryXenoRemoveEyes = Xeno Augen entfernen
+ent-SurgeryXenoRemoveEyes = Xeno-Augen entfernen
 
-ent-SurgeryXenoRemoveLiver = Xeno Leber entfernen
+ent-SurgeryXenoRemoveLiver = Xeno-Leber entfernen
 
-ent-SurgeryXenoRemoveStomach = Xeno Magen entfernen
+ent-SurgeryXenoRemoveStomach = Xeno-Magen entfernen
 
-ent-SurgeryXenoRemoveHiveNode = Entfernen von Hive Node
+ent-SurgeryXenoRemoveHiveNode = Schwarmknoten entfernen
 
-ent-SurgeryXenoRemoveResinSpinner = Resin Spinner entfernen
+ent-SurgeryXenoRemoveResinSpinner = Harzspinner entfernen
 
 ent-SurgeryXenoRemoveNeurotoxinGland = Neurotoxindrüse entfernen
 
@@ -42,4 +42,4 @@ ent-SurgeryXenoRemovePlasmaVessel = Plasmagefäß entfernen
 
 ent-SurgeryXenoRemoveEggSack = Eiersack entfernen
 
-ent-SurgeryXenoTakeSample = Entnahme einer Gewebeprobe
+ent-SurgeryXenoTakeSample = Gewebeprobe entnehmen

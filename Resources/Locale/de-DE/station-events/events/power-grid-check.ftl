@@ -7,5 +7,5 @@
 
 ## PowerGridCheck
 
-station-event-power-grid-check-start-announcement = Abnorme Aktivität im Powernet der Station erkannt. Als Vorsichtsmaßnahme wird der Strom der Station für eine unbestimmte Dauer abgeschaltet.
+station-event-power-grid-check-start-announcement = Abnorme Aktivität im Stromnetz der Station erkannt. Als Vorsichtsmaßnahme wird der Strom der Station für eine unbestimmte Dauer abgeschaltet.
 station-event-power-grid-check-end-announcement = Die Stromversorgung der Station wurde wiederhergestellt. Wir entschuldigen uns für die Unannehmlichkeiten.

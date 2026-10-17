@@ -1,8 +1,8 @@
-ent-OrganAnimalLungs = Lungen von Tieren
+ent-OrganAnimalLungs = Tierlungen
 
-ent-OrganAnimalStomach = Tierischer Magen
+ent-OrganAnimalStomach = Tiermagen
 
-ent-OrganMouseStomach = Tierischer Magen
+ent-OrganMouseStomach = Mäusemagen
 
 ent-OrganAnimalLiver = Tierleber
 

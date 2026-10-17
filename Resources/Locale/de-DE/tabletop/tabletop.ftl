@@ -17,7 +17,7 @@ tabletop-added-piece = Das Board schimmert hell!
 
 ## Chess
 tabletop-chess-board-name = Schach
-tabletop-chess-flip = Flip
+tabletop-chess-flip = Umdrehen
 
 ## Parchís
 tabletop-parchis-board-name = Parchís

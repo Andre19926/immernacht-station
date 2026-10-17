@@ -27,7 +27,7 @@ mining-voucher-survival-description =
     Enthält ein Lavaland Death Rattle Implanter und eine Ersatzkapsel
     damit zu gehen. Du stirbst heute nicht!
 
-mining-voucher-minebot-name = Minebot Kit
+mining-voucher-minebot-name = Minebot-Set
 mining-voucher-minebot-description =
     Enthält einen kleinen minebot-begleiter, der ihnen bei der lagerung von erz und der jagd auf wildtiere hilft.
     Es wird auch mit einem verbesserten industriellen Schweißwerkzeug, einer Schweißmaske und einem KA-Modkit geliefert, mit dem Schüsse durch den Minebot gelangen können.

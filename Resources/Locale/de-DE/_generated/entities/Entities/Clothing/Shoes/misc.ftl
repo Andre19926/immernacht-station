@@ -21,11 +21,11 @@ ent-ClothingShoesSnakeskinBoots = Schlangenhautstiefel
 ent-ClothingShoesBootsSpeed = Speed-Stiefel
     .desc = Hightech-Stiefel, die mit Quantenfasern gewebt sind und Strom in pure Geschwindigkeit umwandeln können!
 
-ent-ActionToggleSpeedBoots = Toggle Speed Boots
-    .desc = Schaltet die Speed Boots ein und aus.
+ent-ActionToggleSpeedBoots = Schnellstiefel umschalten
+    .desc = Schaltet die Schnellstiefel ein oder aus.
 
 ent-ClothingShoesBootsMoon = Mondstiefel
     .desc = Spezielle Antigravitationsstiefel mit einer Spezialmischung aus Mondgestein. Versendet aus den Niederlanden.
 
 ent-ClothingShoesBootsJump = Sprungschuhe
-    .desc = High-Tech-Stiefel, die dir die unglaubliche Fähigkeit zum JUMP geben! Mit diesen Stiefeln können dich über Lava, Abgründe und seltsame Chemikalien auf dem Boden springen!
+    .desc = Hightech-Stiefel, die dir die unglaubliche Fähigkeit zum SPRINGEN verleihen! Mit diesen Stiefeln kannst du über Lava, Abgründe und seltsame Chemikalien auf dem Boden springen!

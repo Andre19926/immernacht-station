@@ -9,24 +9,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-crime-assist-program-name = Crime Assist
+crime-assist-program-name = Verbrechenshilfe
 crime-assist-yes-button = Ja
 crime-assist-no-button = No
 crime-assist-crimetype-innocent = Unschuldig
 crime-assist-crimetype-misdemeanour = Vergehen
-crime-assist-crimetype-felony = Felony
+crime-assist-crimetype-felony = Verbrechen
 crime-assist-crimetype-capital = Kapital
 crime-assist-crime-innocent = Kein Verbrechen wurde begangen
 crime-assist-crime-animalcruelty = Code 101: Tierquälerei
 crime-assist-crime-theft = Code 102: Diebstahl
-crime-assist-crime-trespass = Code 110: Trespass
+crime-assist-crime-trespass = Code 110: Hausfriedensbruch
 crime-assist-crime-vandalism = Code 111: Vandalismus
 crime-assist-crime-hooliganism = Code 112: Hooliganismus
 crime-assist-crime-manslaughter = Code 201: Totschlag
 crime-assist-crime-grandtheft = Code 202: Großer Diebstahl
-crime-assist-crime-blackmarketeering = Code 203: Black Marketeering
+crime-assist-crime-blackmarketeering = Code 203: Schwarzhandel
 crime-assist-crime-sabotage = Code 204: Sabotage
-crime-assist-crime-mindbreaking = Code 205: Mindbreaking
+crime-assist-crime-mindbreaking = Code 205: Gedankenbruch
 crime-assist-crime-assault = Code 206: Angriff
 crime-assist-crime-abuseofpower = Code 207: Machtmissbrauch
 crime-assist-crime-possession = Code 208: Besitz
@@ -125,10 +125,10 @@ crime-assist-crimepunishment-kidnapping = Strafe: Kapital
 crime-assist-crimepunishment-sedition = Strafe: Kapital
 crime-assist-crimepunishment-sexualharassment = Strafe: Kapital
 crime-assist-sophont-explanation = Ein Sophont wird als jede Entität mit der Fähigkeit beschrieben, die folgenden Attribute anzuzeigen:
-                                   • [bold]Sapienz[/bold]Die Entität besitzt grundlegende Logik- und Problemlösungsfähigkeiten oder zumindest ein gewisses Maß an signifikanter Intelligenz.
-                                   • [bold]Empfindlichkeit[/bold]Das Wesen hat die Fähigkeit, eine Emotion oder ein Fehlen davon zu verarbeiten, oder zumindest die Fähigkeit, seinen eigenen Schmerz zu erkennen.
-                                   • [bold]Selbsterkenntnis[/bold]: Das Wesen ist in der Lage, sein Verhalten aufgrund von Reizen in angemessener Weise zu ändern, oder ist zumindest in der Lage, seine eigene Klugheit und Empfindung zu erkennen.
-                                   Jeder Sophont gilt als juristische Person, unabhängig von Herkunft oder früherem kognitivem Status. Ähnlich wie jedes andere intelligente Organik kann ein Sophont Anklage gegen die Crew erheben und wegen Verbrechen vor Gericht gestellt werden.
+                                   • [bold]Sapienz[/bold]: Die Entität besitzt grundlegende Logik- und Problemlösungsfähigkeiten oder zumindest ein gewisses Maß an signifikanter Intelligenz.
+                                   • [bold]Empfindungsfähigkeit[/bold]: Das Wesen hat die Fähigkeit, eine Emotion oder ein Fehlen davon zu verarbeiten, oder zumindest die Fähigkeit, seinen eigenen Schmerz zu erkennen.
+                                   • [bold]Selbstwahrnehmung[/bold]: Das Wesen ist in der Lage, sein Verhalten infolge von Reizen angemessen zu ändern, oder erkennt zumindest die eigene Sapienz und Empfindungsfähigkeit.
+                                   Jeder Sophont gilt als juristische Person, unabhängig von Herkunft oder früherem kognitivem Status. Wie jedes andere intelligente Lebewesen kann ein Sophont Anzeige gegen die Crew erstatten und wegen Verbrechen vor Gericht gestellt werden.
 
 mail-metrics-program-name = MailMetrics
 mail-metrics-header = Einnahmen aus Postlieferungen
@@ -178,9 +178,9 @@ nano-chat-cancel = Abbrechen
 nano-chat-create = Herstellen
 
 # LogProbe additions
-log-probe-scan-nanochat = Gescannt {$card}NanoChat Protokolle
-log-probe-header-access = Access Log Scanner
-log-probe-header-nanochat = NanoChat Log Scanner
+log-probe-scan-nanochat = NanoChat-Protokolle von {$card} gescannt
+log-probe-header-access = Zugriffsprotokoll-Scanner
+log-probe-header-nanochat = NanoChat-Protokoll-Scanner
 log-probe-label-message = Nachricht
 log-probe-card-number = Karte: {$number}
 log-probe-recipients = {$count} Empfänger

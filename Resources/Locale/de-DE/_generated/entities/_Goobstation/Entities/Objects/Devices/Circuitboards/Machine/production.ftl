@@ -19,8 +19,8 @@ ent-RadiationCollectorCircuitboard = Strahlungskollektor (Platine)
 
 ent-PlumbingPumpCircuitboard = Flüssigkeitspumpe (Platine)
 
-ent-EnergyChemDispenserMachineCircuitboard = Energy Chem Dispenser Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Energie-Chem-Dispenser.
+ent-EnergyChemDispenserMachineCircuitboard = Energie-Chemiespender-Maschinenplatine
+    .desc = Eine Maschinenplatine für einen Energie-Chemiespender.
 
 ent-TelecomTransmitterCircuitboard = Telekommunikationssender Maschinenplatine
     .desc = Eine Maschinenplatine für einen Telekommunikationssender.

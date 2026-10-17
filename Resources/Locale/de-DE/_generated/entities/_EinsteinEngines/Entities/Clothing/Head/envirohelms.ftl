@@ -32,15 +32,15 @@ ent-ClothingHeadEnvirohelmCMO = Chefarzt-Umweltanzughelm
     .desc = Ein spezieller Containment-Helm für den Chefarzt. Der Goldstreifen unterscheidet sie von anderen medizinischen Mitarbeitern.
 
 ent-ClothingHeadEnvirohelmEngineering = Technik-Umweltanzughelm
-    .desc = Ein platzsparender Helm, der speziell für Ingenieur Plasmamen entwickelt wurde, wobei die üblichen violetten Streifen durch die Orange des Ingenieurs ersetzt wurden.
+    .desc = Ein raumtauglicher Helm, speziell für Ingenieur-Plasmamänner entworfen. Die üblichen violetten Streifen sind durch das Orange der Technik ersetzt.
 
 ent-ClothingHeadEnvirohelmHoP = Personalchef-Umweltanzughelm
     .desc = Ein spezieller Containment-Helm für den Leiter des Personals.
 
 ent-ClothingHeadEnvirohelmHoS = Sicherheitschef-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Sicherheitschef. Das Paar Goldstreifen unterscheidet sie von anderen Sicherheitsmitgliedern.
+    .desc = Ein spezieller Containment-Helm für den Sicherheitschef. Das Paar Goldstreifen hebt ihn von den anderen Mitgliedern der Sicherheit ab.
 
-ent-ClothingHeadEnvirohelmHydroponics = Hydroponik-Umweltanzughelm
+ent-ClothingHeadEnvirohelmHydroponics = Botanik-Umweltanzughelm
     .desc = Ein grün-blauer Umwelthelm, der seinen Träger als Botaniker bezeichnet.
 
 ent-ClothingHeadEnvirohelmJanitor = Hausmeister-Umweltanzughelm
@@ -158,7 +158,7 @@ ent-ClothingHeadEnvirohelmBrigmedic = Sanitäter-Umweltanzughelm
     .desc = Ein Helm für Corpsmen Plasmamen zur Verfügung gestellt.
 
 ent-ClothingHeadEnvirohelmNanotrasenRepresentative = Nanotrasen-Vertreter-Umweltanzughelm
-    .desc = Ein schwarzer Umweltanzug-Helm, getragen vom NanoTrasen Representative, mit schwarzen und goldenen Akzenten.
+    .desc = Ein schwarzer Umweltanzug-Helm mit schwarzen und goldenen Akzenten, getragen vom NanoTrasen-Vertreter.
 
 ent-ClothingHeadEnvirohelmMagistrate = Magistrat-Umweltanzughelm
     .desc = Ein schlichter weißer Umweltanzug mit gelben Streifen.

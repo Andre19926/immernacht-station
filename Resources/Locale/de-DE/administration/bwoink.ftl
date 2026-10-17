@@ -39,7 +39,7 @@ admin-ahelp-admin-only = Nur Admin
 admin-ahelp-admin-only-tooltip = Wenn aktiviert, ist die Nachricht für den Spieler nicht sichtbar,
     aber für andere Admins, und sie wird trotzdem an Discord weitergeleitet.
 
-admin-bwoink-play-sound = Bwoink?
+admin-bwoink-play-sound = Bwoink-Ton?
 
 bwoink-title-none-selected = Nichts ausgewählt
 

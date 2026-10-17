@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-bodyburn-text-others = {CAPITALIZE(THE($name))} Verbrennt zu Asche!
+bodyburn-text-others = {CAPITALIZE(THE($name))} verbrennt zu Asche!
 bodyburn-vox-text-others = {CAPITALIZE(THE($name))} verwandelte sich in frittierte Vox!

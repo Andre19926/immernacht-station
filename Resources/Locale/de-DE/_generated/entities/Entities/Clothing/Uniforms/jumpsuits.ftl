@@ -4,7 +4,7 @@ ent-ClothingUniformJumpsuitDeathSquad = Uniform der Todesschwadron
 ent-ClothingUniformJumpsuitAncient = Alter-Uniform
     .desc = Ein schrecklich zerlumptes und ausgefranstes grauer Uniform. Es sieht so aus, als wäre es seit über einem Jahrzehnt nicht gewaschen worden.
 
-ent-ClothingUniformJumpsuitBartender = Barkeeper-Arbeitskleidung (Jumpsuit)
+ent-ClothingUniformJumpsuitBartender = Barkeeper-Arbeitskleidung
     .desc = Eine schöne und ordentliche Uniform. Schade um die Bar.
 
 ent-ClothingUniformJumpsuitJacketMonkey = Barkeeper-Affenjacke
@@ -20,12 +20,12 @@ ent-ClothingUniformJumpsuitCargo = Frachttechniker-Arbeitskleidung
     .desc = Ein robustes Uniform, ausgestellt an Mitglieder der Frachtabteilung.
 
 ent-ClothingUniformJumpsuitSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung
-    .desc = Es ist ein knackiger Uniform mit einem robusten Uniform. Es ist sehr schmutzig.
+    .desc = Eine schneidige Uniform mit einer robusten Latzhose. Sie ist sehr schmutzig.
 
-ent-ClothingUniformJumpsuitChiefEngineer = Chefingenieursuniform (Engineer)
+ent-ClothingUniformJumpsuitChiefEngineer = Chefingenieursuniform
     .desc = Es ist eine hohe Sichtbarkeit, die den Ingenieuren gegeben wird, die verrückt genug sind, um den Rang eines Chefingenieurs zu erreichen.
 
-ent-ClothingUniformJumpsuitChiefEngineerTurtle = Turtleneck des Chefingenieurs (Jumpsuit)
+ent-ClothingUniformJumpsuitChiefEngineerTurtle = Chefingenieur-Rollkragenuniform
     .desc = Ein gelber Turtleneck, der speziell für die Arbeit unter den Bedingungen der Ingenieurabteilung entwickelt wurde.
 
 ent-ClothingUniformJumpsuitChaplain = Kaplanuniform
@@ -40,7 +40,7 @@ ent-ClothingUniformJumpsuitCentcomOfficial = CentComm-Beamtenuniform
 ent-ClothingUniformJumpsuitCentcomOfficer = CentComm-Offiziersuniform
     .desc = Es ist ein Uniform von CentComm Officers getragen.
 
-ent-ClothingUniformJumpsuitChef = Koch-Arbeitskleidung (Jumpsuit)
+ent-ClothingUniformJumpsuitChef = Koch-Arbeitskleidung
     .desc = Kann nicht ohne das kochen.
 
 ent-ClothingUniformJumpsuitChemistry = Chemikeruniform
@@ -52,9 +52,9 @@ ent-ClothingUniformJumpsuitVirology = Virologieuniform
 ent-ClothingUniformJumpsuitGenetics = Genetikeruniform
     .desc = Es besteht aus einer speziellen Faser, die einen besonderen Schutz gegen Biogefahren bietet. Es hat einen Genetiker Rangstreifen darauf.
 
-ent-ClothingUniformJumpsuitClown = Clownanzug (Jumpsuit)
+ent-ClothingUniformJumpsuitClown = Clownanzug
 
-ent-ClothingUniformJumpsuitClownBanana = Bananenclowns Anzug (Jumpsuit, Banana)
+ent-ClothingUniformJumpsuitClownBanana = Bananenclown-Anzug
 
 ent-ClothingUniformJumpsuitJester = Anzug
     .desc = Ein fröhliches Kleid, gut geeignet, um deinen Meister, Nonne zu unterhalten.
@@ -66,7 +66,7 @@ ent-ClothingUniformJumpsuitCMO = Chefarztuniform
     .desc = Es ist ein Uniform getragen von denen mit der Erfahrung, Chefarzt zu sein. Es bietet einen geringen biologischen Schutz.
 
 ent-ClothingUniformJumpsuitCMOTurtle = Chefarzt-Rollkragenuniform
-    .desc = Es ist ein turtleneck, getragen von denen mit der erfahrung, chief medical officer zu sein. Es bietet einen geringen biologischen Schutz.
+    .desc = Ein Rollkragenpullover, getragen von denen mit der Erfahrung, Chefarzt zu sein. Er bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpsuitDetective = Detektivuniform
     .desc = Jemand, der das trägt, bedeutet Geschäft.
@@ -86,16 +86,16 @@ ent-ClothingUniformJumpsuitHoP = Personalchefuniform
 ent-ClothingUniformJumpsuitHoS = Sicherheitschefsuniform
     .desc = Es ist leuchtend rot und ziemlich knusprig, ähnlich wie die opfer der sicherheit dazu neigen.
 
-ent-ClothingUniformJumpsuitHoSAlt = Sicherheitschef Turtleneck (Jumpsuit)
+ent-ClothingUniformJumpsuitHoSAlt = Sicherheitschef-Rollkragenuniform
     .desc = Es ist ein Rollkragen, der von denen getragen wird, die stark und diszipliniert genug sind, um die Position des Sicherheitschefs zu erreichen.
 
 ent-ClothingUniformJumpsuitHoSBlue = Sicherheitschefsuniform (blau)
     .desc = Ein blaues Uniform des Sicherheitschefs.
 
 ent-ClothingUniformJumpsuitHoSGrey = Sicherheitschefsuniform (grau)
-    .desc = Ein grauer Uniform von Head of Security, der ihn ein wenig wie ein Assistent aussehen lässt.
+    .desc = Eine graue Uniform des Sicherheitschefs, die ihn ein wenig wie einen Passagier aussehen lässt.
 
-ent-ClothingUniformJumpsuitHoSParadeMale = Paradeuniform des Sicherheitschefs (Jumpsuit)
+ent-ClothingUniformJumpsuitHoSParadeMale = Paradeuniform des Sicherheitschefs
     .desc = Ein männlicher Leiter der Sicherheits-Luxus-Bekleidung, für besondere Anlässe.
 
 ent-ClothingUniformJumpsuitCommandGeneric = Führungsuniform
@@ -127,14 +127,14 @@ ent-ClothingUniformJumpsuitPrisoner = Gefangenenuniform
 ent-ClothingUniformJumpsuitQM = Quartiermeisteruniform
     .desc = Was kann Braun für dich tun?
 
-ent-ClothingUniformJumpsuitQMTurtleneck = Quartiermeister-Turtleneck (Jumpsuit)
+ent-ClothingUniformJumpsuitQMTurtleneck = Quartiermeister-Rollkragenuniform
     .desc = Ein scharfer Turtleneck sorgte für das robuste Arbeitsumfeld der Versorgung.
 
 ent-ClothingUniformJumpsuitQMFormal = Formelle Quartiermeisteruniform
     .desc = Inspiriert von den Viertelmeistern der Vergangenheit des Militärs, das perfekte Outfit für einen formellen Anlass.
 
-ent-ClothingUniformJumpsuitResearchDirector = Turtleneck des Forschungsdirektors (Jumpsuit)
-    .desc = Es ist ein turtleneck, getragen von denen mit dem know-how, um die position des research director zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
+ent-ClothingUniformJumpsuitResearchDirector = Forschungsleiter-Rollkragenuniform
+    .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpsuitScientist = Wissenschaftleruniform
     .desc = Es besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik verringert. Es hat Markierungen, die den Träger als Wissenschaftler bezeichnen.
@@ -218,7 +218,7 @@ ent-ClothingUniformJumpsuitNinja = Ninjauniform
     .desc = Komfortable Ninja-Anzug, für Bequemlichkeit beim Entspannen und wenn du üben musst.
 
 ent-ClothingUniformJumpsuitAtmos = Atmos-Techniker-Arbeitskleidung
-    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich teste die Luftqualität.
+    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich prüfe die Luftqualität.
 
 ent-ClothingUniformJumpsuitAtmosCasual = Atmos-Techniker-Arbeitskleidung (leger)
     .desc = Könnte sich genauso gut mit einem Job entspannen, der so einfach ist wie deiner.

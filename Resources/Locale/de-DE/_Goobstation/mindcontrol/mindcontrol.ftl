@@ -9,7 +9,7 @@ mindcontrol-popup-start = Du bist gedankenkontrolliert
 mindcontrol-popup-stop = Du spürst ein Nebelheben aus deinem Verstand
 mindcontrol-briefing-start = Du bist gedankenkontrolliert. Obey {$master}
 mindcontrol-briefing-get = SIE SIND KONTROLLIERT
-mindcontrol-briefing-get-master = Obey {$master}
+mindcontrol-briefing-get-master = Gehorche {$master}
 
 ## uplink shop
 uplink-mindcontrol-implant-name = Mind-Control Implantat

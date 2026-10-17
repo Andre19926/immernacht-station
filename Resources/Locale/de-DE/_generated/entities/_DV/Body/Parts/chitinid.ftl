@@ -1,21 +1,21 @@
-ent-ChestChitinid = Chitinische Brust
+ent-ChestChitinid = Chitinid-Brust
 
-ent-GroinChitinid = Chitinidische Leistengegend
+ent-GroinChitinid = Chitinid-Unterleib
 
-ent-HeadChitinid = Chitinidenkopf
+ent-HeadChitinid = Chitinid-Kopf
 
-ent-LeftArmChitinid = linker Chitinidenarm
+ent-LeftArmChitinid = linker Chitinid-Arm
 
-ent-RightArmChitinid = rechter Chitinidenarm
+ent-RightArmChitinid = rechter Chitinid-Arm
 
-ent-LeftHandChitinid = linke Chitinidenhand
+ent-LeftHandChitinid = linke Chitinid-Hand
 
-ent-RightHandChitinid = rechte Chitinidenhand
+ent-RightHandChitinid = rechte Chitinid-Hand
 
-ent-LeftLegChitinid = linkes Chitinidbein
+ent-LeftLegChitinid = linkes Chitinid-Bein
 
-ent-RightLegChitinid = rechtes Chitinidbein
+ent-RightLegChitinid = rechtes Chitinid-Bein
 
-ent-LeftFootChitinid = linker Chitinidfuß
+ent-LeftFootChitinid = linker Chitinid-Fuß
 
-ent-RightFootChitinid = rechter Chitinidfuß
+ent-RightFootChitinid = rechter Chitinid-Fuß

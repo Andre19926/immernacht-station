@@ -47,4 +47,4 @@ ent-ClothingHandsKnuckleBoneCrushers = Knochenbrecher
     .desc = Gesegnet von den Göttern, um alle zu brechen, die nicht gehorchen.
 
 ent-ClothingHandsGlovesGuerrilla = Guerillahandschuhe
-    .desc = Top-of-the-line-Qualität Syndicate kämpferische Handschuhe, gut für Greifer sowie Absorption von Elektroschocks. Scheint mit Telekristallen betrieben zu werden.
+    .desc = Hochwertige Syndicate-Kampfhandschuhe, gut für den Griff und zur Aufnahme von Stromschlägen. Scheinen mit Telekristallen betrieben zu werden.

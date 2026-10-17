@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-vent-creatures-start-announcement-deltav = Achtung. Ein großer Zustrom unbekannter Lebensformen wurde in Lüftungssystemen in der Nähe von {$location}Das gesamte Personal muss den Bereich sofort räumen.
+station-event-vent-creatures-start-announcement-deltav = Achtung. Ein großer Zustrom unbekannter Lebensformen wurde in den Lüftungssystemen in der Nähe von {$location} festgestellt. Das gesamte Personal muss den Bereich sofort räumen.

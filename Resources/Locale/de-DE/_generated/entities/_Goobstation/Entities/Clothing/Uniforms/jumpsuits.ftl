@@ -64,7 +64,7 @@ ent-ClothingUniformJumpsuitMercer = Manhattan Streetwear
 ent-ClothingUniformJumpsuitHoSSummer = Sommerhemd des Sicherheitschefs
     .desc = Der Leiter der Sicherheit Custom-Commissioned Sommer-Outfit, für wenn Gezeiten jagt heiß wird.
 
-ent-ClothingUniformJumpsuitRDSummer = Sommerhemd des Forschungsdirektors
+ent-ClothingUniformJumpsuitRDSummer = Sommerhemd des Forschungsleiters
     .desc = Der Forschungsdirektor hat das Sommeroutfit in Auftrag gegeben, wenn diese Feueranomalien dich zum Schwitzen bringen.
 
 ent-ClothingUniformJumpsuitQMSummer = Sommerhemd des Quartiermeisters
@@ -100,8 +100,8 @@ ent-ClothingUniformOverallsSalvageSpecialist = Salvage-Spezialisten-Overall
 ent-ClothingUniformOverallsShaftMiner = Overalls des Schachtminenarbeiters
     .desc = Es ist ein robustes Set von Overalls, sieht ein bisschen verbrannt aus.
 
-ent-ClothingUniformJumpsuitResearchDirectorAlt = Turtleneck des Forschungsdirektors (Jumpsuit, Alternativ)
-    .desc = Es ist ein turtleneck, getragen von denen mit dem know-how, um die position des research director zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
+ent-ClothingUniformJumpsuitResearchDirectorAlt = Forschungsleiter-Rollkragenuniform (alternativ)
+    .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpsuitVeteranSecurity = Luftsicherheit-Uniform
     .desc = Eine luftige Version der Standardsicherheit Insgesamt, normalerweise in Schichten mit fehlender atmos-Abteilung

@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-contraband-detected = Contraband Detection
+signal-port-name-contraband-detected = Schmuggelwarenerkennung
 signal-port-description-contraband-detected = Sendet ein Signal, wenn Schmuggelartikel vom Scanner erkannt werden.
 contraband-detector-popup-detected = Contraband gefunden
 

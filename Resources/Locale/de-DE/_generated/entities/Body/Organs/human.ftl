@@ -5,9 +5,9 @@ ent-OrganHumanEyes = Augen
     .desc = Ich sehe dich!
 
 ent-OrganHumanTongue = Zunge
-    .desc = Ein fleischiger Muskel, der hauptsächlich zum Liegen verwendet wird.
+    .desc = Ein fleischiger Muskel, der hauptsächlich zum Lügen verwendet wird.
 
-ent-OrganHumanAppendix = Anlage
+ent-OrganHumanAppendix = Blinddarm
 
 ent-OrganHumanEars = Ohren
     .desc = Es gibt drei Teile am Ohr. Innen, Mitte und Außen. Nur einer dieser Teile sollte normalerweise sichtbar sein.
@@ -19,7 +19,7 @@ ent-OrganHumanHeart = Herz
     .desc = Ich fühle mich schlecht für den herzlosen Bastard, der das verloren hat.
 
 ent-OrganHumanStomach = Magen
-    .desc = Brutto. Das ist schwer zu ertragen.
+    .desc = Igitt. Das ist schwer zu ertragen.
 
 ent-OrganHumanLiver = Leber
     .desc = Paarungsvorschlag: Chianti und Fava Bohnen.

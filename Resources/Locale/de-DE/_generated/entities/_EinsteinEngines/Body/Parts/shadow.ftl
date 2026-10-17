@@ -1,6 +1,6 @@
-ent-ChestShadow = Schattenkiste
+ent-ChestShadow = Schattenbrust
 
-ent-GroinShadow = Schattenleiste
+ent-GroinShadow = Schattenunterleib
 
 ent-HeadShadow = Schattenkopf
 
@@ -18,4 +18,4 @@ ent-RightLegShadow = rechtes Schattenbein
 
 ent-LeftFootShadow = linker Schattenfuß
 
-ent-RightFootShadow = rechts Schattenfuß
+ent-RightFootShadow = rechter Schattenfuß

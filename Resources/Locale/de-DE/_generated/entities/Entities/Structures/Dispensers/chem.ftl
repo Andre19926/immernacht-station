@@ -1,5 +1,5 @@
-ent-ChemDispenserEmpty = chemische Dispenser
-    .desc = Ein chemischer Dispenser von industrieller Qualität.
+ent-ChemDispenserEmpty = Chemiespender
+    .desc = Ein industrieller Chemiespender.
 
-ent-ChemDispenser = chemische Dispenser
-    .desc = Ein chemischer Dispenser von industrieller Qualität.
+ent-ChemDispenser = Chemiespender
+    .desc = Ein industrieller Chemiespender.

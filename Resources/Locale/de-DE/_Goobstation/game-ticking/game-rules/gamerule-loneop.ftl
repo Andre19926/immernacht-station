@@ -1,7 +1,7 @@
 loneop-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task, besides a team.
-    Operation {$name} is a go! Good luck!
-loneop-briefing = Deine Ziele sind einfach. Liefern dich die Nutzlast und stelle sicher, dass sie detoniert. Beginn der Mission.
+    Du bist ein nuklearer Operative. Dein Ziel ist es, {$station} zu sprengen und dafür zu sorgen, dass nichts als ein Trümmerhaufen übrig bleibt. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung bereitgestellt, nur kein Team.
+    Operation {$name} läuft! Viel Glück!
+loneop-briefing = Deine Ziele sind einfach. Bring die Sprengladung ans Ziel und sorge dafür, dass sie detoniert. Mission beginnt.
 
 loneop-opsmajor = [color=crimson]Großer Sieg für das Syndicate![/color]
 loneop-opsminor = [color=crimson]Kleiner Sieg für das Syndicate![/color]

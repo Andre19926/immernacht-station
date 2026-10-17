@@ -16,7 +16,7 @@ ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun Dreadnought Anzug
 ent-ClothingOuterVoidsuitSecurity = Sicherheit Hardsuit
     .desc = Ein leichter Hardsuit mit eingebautem Plattenträger, um einen moderaten Schutz zu bieten und dabei mobil zu bleiben.
 
-ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 "Honor Guard" Parade Hardsuit
+ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 „Ehrengarde“-Paradehardsuit
     .desc = Ein spezieller Hardsuit, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat ein experimentelles eingebautes stimulierendes Autoinjektorsystem.
 
 ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Mirrorduss

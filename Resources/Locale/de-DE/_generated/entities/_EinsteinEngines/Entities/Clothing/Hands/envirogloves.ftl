@@ -37,7 +37,7 @@ ent-ClothingHandsGlovesEnviroglovesAtmos = Atmos-Umwelthandschuhe
 ent-ClothingHandsGlovesEnviroglovesSalvage = Salvage-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesLeather = Hydroponik-Umwelthandschuhe
+ent-ClothingHandsGlovesEnviroglovesLeather = Botanik-Umwelthandschuhe
     .desc = Diese Lederhandschuhe schützen deine knochigen Hände vor Dornen, Widerhaken, Stacheln und Stacheln.
 
 ent-ClothingHandsGlovesEnviroglovesPrototype = Prototyp-Umwelthandschuhe

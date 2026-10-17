@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 steal-target-groups-cargo-supermatter-sliver = Supermatterband
-steal-target-groups-weapon-lawbringer = DT-12 "Lawbringer"
+steal-target-groups-weapon-lawbringer = DT-12 „Gesetzesbringer“
 steal-target-groups-rapid-syringe-gun = Schnellspritzenpistole
 steal-target-groups-executive-briefcase = Executive Briefcase
 steal-target-groups-gemini-projector = ax-32 "gemini" Holo-Projektor-Rig

@@ -16,7 +16,7 @@ ent-BoxLatexGloves = Latexhandschuhkasten
 ent-BoxNitrileGloves = Nitril-Handschuhbox
     .desc = Enthält sterile Nitrilhandschuhe. Besser als Latex.
 
-ent-BoxBodyBag = Körperbeutelbox
+ent-BoxBodyBag = Leichensackbox
     .desc = Enthält Leichenbeutel.
 
 ent-BoxVial = Flaschenbox

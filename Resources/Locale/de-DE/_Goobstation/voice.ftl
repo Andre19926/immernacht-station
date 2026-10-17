@@ -3,7 +3,7 @@ ui-options-voice-chat-volume = Voice-Chat-Lautstärke
 ui-options-function-voice-push-to-talk = Voice Push-to-Talk (Lokal)
 ui-options-function-voice-push-to-talk-radio = Voice Push-to-Talk (Funk)
 
-ui-escape-voice-chat = Voice Chat
+ui-escape-voice-chat = Sprachchat
 
 cmd-voicechat-desc = Zeigt den Voice-Chat-Guide mit deinem Link und Code an.
 cmd-voicechat-help = Verwendung: voicechat
@@ -21,7 +21,7 @@ voice-link-open = Im Browser öffnen
 voice-link-copy = Link kopieren
 voice-link-close = Schließen
 
-voice-guide-title = Voice Chat
+voice-guide-title = Sprachchat
 voice-guide-unbound = (keine Taste belegt)
 voice-guide-intro = Voice Chat funktioniert auf diesem Server wie ein persönliches Gespräch. Deine Stimme kommt von deinem Charakter, und nur Leute in Hörweite hören dich.
 voice-guide-talking-title = Sprechen
@@ -78,7 +78,7 @@ voice-radio-button-off = Lokal
 voice-radio-button-tooltip = Voice-Chat-Funk: Wähle den Kanal, auf dem du sprichst, welche Kanäle du hörst und die Funklautstärke.
 
 voice-verb-category = Voice Chat
-voice-verb-mute = Mute
+voice-verb-mute = Stummschalten
 voice-verb-unmute = Stummschaltung aufheben
 voice-verb-volume = Lautstärke {$percent}%
 

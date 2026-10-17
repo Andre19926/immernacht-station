@@ -13,7 +13,7 @@ ent-DiagnosticCyberneticEyes = kybernetische Diagnoseaugen
 ent-BasicCyberneticHeart = kybernetisches Herz
     .desc = Ein präzise abgestimmtes Herz, das die Aufnahme von Medikamenten verlangsamt und gleichzeitig die Aufnahme von Giften und Betäubungsmitteln beschleunigt, was zu geschwächten Wirkungen führt.
 
-ent-UpgradedCyberneticHeart = Verbessertes kybernetisches Herz
+ent-UpgradedCyberneticHeart = verbessertes kybernetisches Herz
     .desc = Ein Next-Gen-Kreislauf-Kern, der langsam Medizin im ganzen Körper liefert und eine viel bessere Heilung bietet, während Toxine und Betäubungsmittel stark beschleunigt und geschwächt werden.
 
 ent-BasicCyberneticLiver = kybernetische Leber

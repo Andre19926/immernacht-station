@@ -1,21 +1,21 @@
-ent-ChestPlasmaman = Plasmatruhe
+ent-ChestPlasmaman = Plasmamann-Brust
 
-ent-GroinPlasmaman = Leistengegend
+ent-GroinPlasmaman = Plasmamann-Unterleib
 
-ent-HeadPlasmaman = Plasmamannkopf
+ent-HeadPlasmaman = Plasmamann-Kopf
 
-ent-LeftArmPlasmaman = linker Plasmamannarm
+ent-LeftArmPlasmaman = linker Plasmamann-Arm
 
-ent-RightArmPlasmaman = rechter Plasmamannarm
+ent-RightArmPlasmaman = rechter Plasmamann-Arm
 
-ent-LeftHandPlasmaman = linke Plasmamannhand
+ent-LeftHandPlasmaman = linke Plasmamann-Hand
 
-ent-RightHandPlasmaman = rechte Plasmamannhand
+ent-RightHandPlasmaman = rechte Plasmamann-Hand
 
-ent-LeftLegPlasmaman = linkes Plasmamannbein
+ent-LeftLegPlasmaman = linkes Plasmamann-Bein
 
-ent-RightLegPlasmaman = rechtes Plasmamannbein
+ent-RightLegPlasmaman = rechtes Plasmamann-Bein
 
-ent-LeftFootPlasmaman = linker Plasmamannfuß
+ent-LeftFootPlasmaman = linker Plasmamann-Fuß
 
-ent-RightFootPlasmaman = rechter Plasmamannfuß
+ent-RightFootPlasmaman = rechter Plasmamann-Fuß

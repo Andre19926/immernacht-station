@@ -167,7 +167,7 @@ achievement-cosmos-ascension-desc = Du hast es geschafft, ein Wesen auf die Stat
 achievement-lock-ascension-name = Geheimnisse des verschlossenen Labyrinths
 achievement-lock-ascension-desc = Du hast es geschafft, ein Tor zum Mansus zu öffnen.
 
-achievements-window-title = Errungenschaften
+achievements-window-title = Erfolge
 achievements-window-summary = {$unlocked} / {$total} freigeschaltet
 achievements-window-loading = Lade …
 achievements-window-hidden-name = ???
@@ -175,7 +175,7 @@ achievements-window-hidden-desc = Versteckte Errungenschaft. Spiel weiter, um si
 achievements-window-rarity = {$percent}% der Spieler
 achievements-window-unlocked-on = Freigeschaltet {$date}
 achievements-window-progress = {$progress} / {$target}
-achievements-button = Errungenschaften
+achievements-button = Erfolge
 achievement-toast-title = Errungenschaft freigeschaltet!
 
 cmd-achievements-desc = Öffnet das Errungenschaften-Fenster.

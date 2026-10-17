@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 data-siphon-activated = RESOURCE SIPHON wurde aktiviert. Bitte stelle sicher, dass es mit voller Kapazität arbeitet, was bedeutet, dass externe Schäden und Stromverluste vermieden werden.
-data-siphon-activated-announcement = Achtung! Datendiebstahlsignal erkannt! Die verfolgte Ausgangsposition ist {$pos}Sichern dich unser Vermögen, egal was passiert!
+data-siphon-activated-announcement = Achtung! Datendiebstahlsignal erkannt! Die zurückverfolgte Ausgangsposition ist {$pos}! Sichert unser Vermögen, egal was passiert!
 
 pirate-siphon-deactivated-full = RESOURCE CAPACITY VOLLSTÄNDIG. Nicht in der Lage, weitere Ressourcen abzuschöpfen. Der Mechanismus wurde gestoppt. Vielen Dank für die Verwendung von Donk. Co. Branded RS!
 pirate-siphon-deactivated-broken = KRITISCHE SCHÄDIGUNG GEWÄHRT. Erzwungene Ressourcenentsorgung steht bevor, bitte tritt von dem Notfallentsorgungsmechanismus zurück.

@@ -1,5 +1,5 @@
 ent-ClothingHeadsetGrey = Assistenten-Headset
-    .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
+    .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.
 
 ent-ClothingHeadsetCargo = Fracht-Headset
     .desc = Ein Headset, das von Versorgungsmitarbeitern verwendet wird.

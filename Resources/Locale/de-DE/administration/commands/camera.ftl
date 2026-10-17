@@ -1,4 +1,4 @@
-cmd-camera-desc = Opens a remote camera window for an entity.
+cmd-camera-desc = Öffnet ein Fernkamerafenster für eine Entität.
 cmd-camera-help = Verwendung: camera <entityUid oder Spieler>
 
 cmd-camera-hint = <entityUid oder player>

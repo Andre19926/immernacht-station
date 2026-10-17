@@ -26,7 +26,7 @@ ent-RCDEmpty = RCD
     .desc = Mit der Schnellbauvorrichtung können verschiedene Stationsstrukturen und Vorrichtungen schnell platziert und entfernt werden. Erfordert komprimierte Materie, um zu funktionieren.
 
 ent-RCDRecharging = Versuchs-RCD
-    .desc = Cyborg-montierte Rapid Construction Device, die komprimierte Materie im laufenden Betrieb mit einem internen Hersteller erzeugt.
+    .desc = Ein in Cyborgs eingebautes Schnellbaugerät, das komprimierte Materie im Betrieb mit einem internen Fabrikator herstellt.
 
 ent-RCDExperimental = Versuchs-RCD
     .desc = Eine blauraumverstärkte schnelle Konstruktionsvorrichtung, die passiv ihre eigene komprimierte Materie erzeugt.

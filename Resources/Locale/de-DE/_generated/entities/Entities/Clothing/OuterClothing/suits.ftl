@@ -11,7 +11,7 @@ ent-ClothingOuterSuitAtmosFire = Feueranzug atmos
     .desc = Ein teurer Feueranzug, der selbst gegen die tödlichsten Stationsbrände schützt. Entwickelt, um zu schützen, auch wenn der Träger in Flammen steht.
 
 ent-ClothingOuterSuitRad = Bestrahlungsanzug
-    .desc = Ein Anzug, der vor Strahlung schützt. Auf dem Etikett steht: Made with lead. Bitte verbrauche keine Isolierung.
+    .desc = Ein Anzug, der vor Strahlung schützt. Auf dem Etikett steht: „Mit Blei hergestellt. Bitte keine Isolierung verbrauchen.“
 
 ent-ClothingOuterSuitSpaceNinja = Raum Ninja Anzug
     .desc = Dieser schwarz technologisch fortschrittliche, cybernetisch verbesserte Anzug bietet viele Fähigkeiten wie Unsichtbarkeit oder Teleportation.

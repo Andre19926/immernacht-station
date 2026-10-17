@@ -245,9 +245,9 @@ ghost-role-information-centcom-official-description = Führe CentComm-bezogene A
 
 ghost-role-information-nukeop-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen nuklearen Agenten. Covert Syndicate Agenten sind nicht garantiert, dir zu helfen.
 
-ghost-role-information-loneop-name = Lone Operative
+ghost-role-information-loneop-name = Einzelkämpfer-Operative
 ghost-role-information-loneop-description = Du bist ein einsamer Atomaktivist. Zerstöre die Station!
-ghost-role-information-loneop-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-solo-antagonist-name}[/bold][/color]Covert syndicate agenten sind nicht garantiert, ihnen zu helfen.
+ghost-role-information-loneop-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-solo-antagonist-name}[/bold][/color]. Verdeckte Syndicate-Agenten sind nicht verpflichtet, dir zu helfen.
 
 ghost-role-information-behonker-name = Behonker
 ghost-role-information-behonker-description = Du bist ein Antagonist, bringe Tod und Hupen zu denen, die der Honkmother nicht folgen.
@@ -271,20 +271,20 @@ ghost-role-information-Cak-description = Du bist das Lieblingskind des Kochs. Du
 ghost-role-information-BreadDog-name = BreadDog
 ghost-role-information-BreadDog-description = Du bist das Lieblingskind des Kochs. Du bist ein lebender Brothund.
 
-ghost-role-information-space-ninja-name = Space Ninja
+ghost-role-information-space-ninja-name = Weltraum-Ninja
 ghost-role-information-space-ninja-description = Verwende Stealth und Täuschung, um die Station zu sabotieren.
 
-ghost-role-information-paradox-clone-name = Paradox Clone
+ghost-role-information-paradox-clone-name = Paradox-Klon
 ghost-role-information-paradox-clone-description = Eine freak Raum-Zeit-Anomalie hat euch in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden und töten und ersetzen.
 
-ghost-role-information-syndicate-reinforcement-name = Syndicate Agent
+ghost-role-information-syndicate-reinforcement-name = Syndicate-Agent
 ghost-role-information-syndicate-reinforcement-description = Jemand braucht Verstärkung. Du, die erste Person, die das Syndicate finden könnte, wirst ihnen helfen.
 ghost-role-information-syndicate-reinforcement-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit dem Agenten, der dich gerufen hat.
 
 ghost-role-information-syndicate-reinforcement-medic-name = Syndicate Medicate
 ghost-role-information-syndicate-reinforcement-medic-description = Jemand braucht Verstärkung. Deine Aufgabe ist es, den Agenten, der dich gerufen hat, am Leben zu halten.
 
-ghost-role-information-syndicate-reinforcement-spy-name = Syndicate Spy
+ghost-role-information-syndicate-reinforcement-spy-name = Syndicate-Spion
 ghost-role-information-syndicate-reinforcement-spy-description = Jemand braucht Verstärkung. Deine Spezialität liegt in der Spionage, nicht entdeckt werden.
 
 ghost-role-information-syndicate-reinforcement-thief-name = Syndicate Dieb
@@ -294,29 +294,29 @@ ghost-role-information-nukeop-reinforcement-name = Kernbetriebsmittel
 ghost-role-information-nukeop-reinforcement-description = Die Atomagenten brauchen Verstärkung. Du bist ein Reserveagent und hilfst ihnen.
 ghost-role-information-nukeop-reinforcement-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit den Atomaktivisten, die dich gerufen haben.
 
-ghost-role-information-syndicate-monkey-reinforcement-name = Syndicate Monkey Agent
+ghost-role-information-syndicate-monkey-reinforcement-name = Syndicate-Affenagent
 ghost-role-information-syndicate-monkey-reinforcement-description = Jemand braucht Verstärkung. Du, ein ausgebildeter Affe, wirst ihnen helfen.
 
-ghost-role-information-syndicate-kobold-reinforcement-name = Syndicate Kobold Agent
+ghost-role-information-syndicate-kobold-reinforcement-name = Syndicate-Koboldagent
 ghost-role-information-syndicate-kobold-reinforcement-description = Jemand braucht Verstärkung. Du, ein ausgebildeter Kobold, wirst ihnen helfen.
 
-ghost-role-information-syndicate-cyborg-assault-name = Syndicate Assault Cyborg
-ghost-role-information-syndicate-cyborg-saboteur-name = Syndicate Saboteur Cyborg
+ghost-role-information-syndicate-cyborg-assault-name = Syndicate-Sturm-Cyborg
+ghost-role-information-syndicate-cyborg-saboteur-name = Syndicate-Saboteur-Cyborg
 ghost-role-information-syndicate-cyborg-description = Das Syndicate braucht Verstärkung. Du bist eine kalte Tötungsmaschine aus Silizium und hilfst ihnen.
 
 ghost-role-information-derelict-engineering-cyborg-name = Derelict Ingenieur Cyborg
 ghost-role-information-derelict-engineering-cyborg-description = Du bist ein Ingenieur Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
-ghost-role-information-derelict-cyborg-name = Derelict Generic Cyborg
+ghost-role-information-derelict-cyborg-name = Verlassener Standard-Cyborg
 ghost-role-information-derelict-cyborg-description = Du bist ein normaler Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
-ghost-role-information-derelict-janitor-cyborg-name = Derelict Janitor Cyborg
+ghost-role-information-derelict-janitor-cyborg-name = Verlassener Hausmeister-Cyborg
 ghost-role-information-derelict-janitor-cyborg-description = Du bist ein Hausmeister-Cyborg, der sich im Weltraum verloren hat. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
-ghost-role-information-derelict-medical-cyborg-name = Derelict Medical Cyborg
+ghost-role-information-derelict-medical-cyborg-name = Verlassener Sanitäter-Cyborg
 ghost-role-information-derelict-medical-cyborg-description = Du bist ein medizinischer Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
-ghost-role-information-derelict-mining-cyborg-name = Derelict Salvage Cyborg
+ghost-role-information-derelict-mining-cyborg-name = Verlassener Salvage-Cyborg
 ghost-role-information-derelict-mining-cyborg-description = Du bist ein Rettungscyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
 ghost-role-information-derelict-syndicate-assault-cyborg-name = Derelict Syndicate Asault Cyborg
@@ -371,7 +371,7 @@ ghost-role-information-syndie-disaster-victim-description = Du bist ein regelmä
 ghost-role-information-syndie-soldier-name = Syndicate-Soldaten
 ghost-role-information-syndie-soldier-description = Du bist ein Soldat des Syndicate-S.
 
-ghost-role-information-syndie-soldier-teamlead-name = Syndicate Team Leader
+ghost-role-information-syndie-soldier-teamlead-name = Syndicate-Truppführer
 ghost-role-information-syndie-soldier-teamlead-description = Du bist der Feuerwehrleiter einer operativen Taskforce von Syndicate.
 
 ghost-role-information-blackmarketeer-name = Schwarzmarkthändler
@@ -383,7 +383,7 @@ ghost-role-information-cossack-description = Von einer Geschichte, die mit der Z
 ghost-role-information-pirate-irs-name = Weltraumpiraten
 ghost-role-information-pirate-irs-description = Beschlagnahme die wertvollen Vermögenswerte der Station. Festnahme des Kapitäns wegen Steuerhinterziehung.
 
-ghost-role-information-pirate-irs-captain-name = Space Pirate Captain
+ghost-role-information-pirate-irs-captain-name = Weltraumpiraten-Kapitän
 ghost-role-information-pirate-irs-captain-description = Lenke den Plünderungsprozess. Festnahme des Kapitäns wegen Steuerhinterziehung.
 
 ghost-role-information-pirate-irs-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] Mit den anderen Piraten.

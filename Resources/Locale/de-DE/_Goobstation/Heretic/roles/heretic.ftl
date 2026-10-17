@@ -9,5 +9,5 @@
 roles-antag-heretic-name = Ketzer
 roles-antag-heretic-description = Finde Einflüsse, erkenne, dass sie alle genommen wurden. Opfere Menschen und werde alle mächtig oder sterbe beim Versuch.
 
-roles-antag-ghoul-name = Ghoul
+roles-antag-ghoul-name = Ghul
 roles-antag-ghoul-description = Hilf deinem Meister, den Aufstieg zu erreichen.

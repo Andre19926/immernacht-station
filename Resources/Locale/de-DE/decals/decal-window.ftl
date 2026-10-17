@@ -5,9 +5,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-decal-placer-window-title = Decal Placer
-decal-placer-window-use-color = Custom Color
-decal-placer-window-rotation = Rotation
+decal-placer-window-title = Decal-Platzierer
+decal-placer-window-use-color = Eigene Farbe
+decal-placer-window-rotation = Drehung
 decal-placer-window-zindex = Zeichentiefe
 decal-placer-window-enable-auto = Automatische Einstellungen verwenden
 decal-placer-window-enable-snap = An Kachel ausrichten

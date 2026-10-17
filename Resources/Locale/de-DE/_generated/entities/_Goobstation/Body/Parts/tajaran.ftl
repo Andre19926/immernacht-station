@@ -1,21 +1,21 @@
-ent-ChestTajaran = Tajaran-Truhe
+ent-ChestTajaran = Tajaran-Brust
 
-ent-GroinTajaran = Tajaran-Leistengegend
+ent-GroinTajaran = Tajaran-Unterleib
 
-ent-HeadTajaran = Tajarankopf
+ent-HeadTajaran = Tajaran-Kopf
 
-ent-LeftArmTajaran = linker Tajaranarm
+ent-LeftArmTajaran = linker Tajaran-Arm
 
-ent-RightArmTajaran = rechter Tajaranarm
+ent-RightArmTajaran = rechter Tajaran-Arm
 
 ent-LeftHandTajaran = linke Tajaran-Hand
 
-ent-RightHandTajaran = rechte Tajaran Hand
+ent-RightHandTajaran = rechte Tajaran-Hand
 
-ent-LeftLegTajaran = linkes Tajaranbein
+ent-LeftLegTajaran = linkes Tajaran-Bein
 
-ent-RightLegTajaran = rechtes Tajaranbein
+ent-RightLegTajaran = rechtes Tajaran-Bein
 
-ent-LeftFootTajaran = linker Tajaranfuß
+ent-LeftFootTajaran = linker Tajaran-Fuß
 
-ent-RightFootTajaran = rechter Tajaranfuß
+ent-RightFootTajaran = rechter Tajaran-Fuß

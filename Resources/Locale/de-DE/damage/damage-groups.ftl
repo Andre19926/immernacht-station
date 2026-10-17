@@ -7,6 +7,6 @@
 damage-group-brute = Physisch
 damage-group-burn = Verbrennung
 damage-group-airloss = Luftmangel
-damage-group-toxin = Toxin
+damage-group-toxin = Gift
 damage-group-genetic = Genetisch
 damage-group-metaphysical = Metaphysisch

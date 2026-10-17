@@ -1,11 +1,11 @@
-salvage-job-rank-title-0 = [color=gray]Scavenger[/color]
+salvage-job-rank-title-0 = [color=gray]Schrottsammler[/color]
 salvage-job-rank-title-1 = [color=white]Räuber[/color]
 salvage-job-rank-title-2 = [color=yellow]Spezialist[/color]
 salvage-job-rank-title-MAX = [color=gold]Oberster Retter[/color]
 
-job-board-radio-announce = Salvager Rang erhöht auf [bold]{$rank}[/bold]Neue Bestellungen können bei Fracht gekauft werden.
+job-board-radio-announce = Bergungsrang auf [bold]{$rank}[/bold] erhöht! Neue Bestellungen können bei der Fracht gekauft werden.
 
-job-board-ui-window-title = Job Board
+job-board-ui-window-title = Auftragstafel
 job-board-ui-label-rank = [bold]Rang:[/bold]
 job-board-ui-label-items = Ziel: [color=red]{$item}[/color]
 

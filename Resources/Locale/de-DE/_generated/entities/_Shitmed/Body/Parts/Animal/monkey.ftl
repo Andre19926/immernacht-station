@@ -1,6 +1,6 @@
 ent-ChestMonkey = Affenbrust
 
-ent-GroinMonkey = Leistengegend
+ent-GroinMonkey = Affenunterleib
 
 ent-HeadMonkey = Affenkopf
 

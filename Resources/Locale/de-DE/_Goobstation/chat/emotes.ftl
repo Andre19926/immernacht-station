@@ -37,5 +37,5 @@ emote-fart-super-fart = Du furzt dir (buchstäblich) den Arsch ab!
 emote-fart-inhale-notice = Du atmest ein und machst einen Superfurz scharf.
 emote-fart-inhale-disarm-notice = Du entschärfst deinen Superfurz.
 
-chat-emote-name-boop = Knopf
-chat-emote-name-whirr = Wirbel
+chat-emote-name-boop = Stupsen
+chat-emote-name-whirr = Surren

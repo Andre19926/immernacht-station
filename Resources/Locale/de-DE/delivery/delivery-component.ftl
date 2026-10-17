@@ -21,11 +21,11 @@ delivery-teleporter-empty-verb = Post entnehmen
 
 
 # modifiers
-delivery-priority-examine = Dies ist eine [color=orange]Priorität {$type}[/color]dich haben [color=orange]{$time}[/color] Links, um es zu liefern, um einen bonus zu erhalten.
+delivery-priority-examine = Dies ist eine [color=orange]Prioritäts-{$type}[/color]. Du hast noch [color=orange]{$time}[/color], um sie für einen Bonus zuzustellen.
 delivery-priority-expired-examine = Dies ist eine [color=orange]Priorität {$type}[/color]Es scheint, dass dir die Zeit davongelaufen ist.
 
-delivery-fragile-examine = Dies ist eine [color=red]zerbrechlich {$type}[/color]Liefern dich es intakt für einen Bonus.
+delivery-fragile-examine = Dies ist eine [color=red]zerbrechliche {$type}[/color]. Liefere sie unversehrt für einen Bonus ab.
 delivery-fragile-broken-examine = Dies ist eine [color=red]zerbrechlich {$type}[/color]Es sieht schwer beschädigt aus.
 
 delivery-bomb-examine = Dies ist eine [color=purple]Bombe {$type}[/color]Oh nein.
-delivery-bomb-primed-examine = Dies ist eine [color=purple]Bombe {$type}[/color]Dies zu lesen ist eine schlechte Nutzung deiner Zeit.
+delivery-bomb-primed-examine = Dies ist eine [color=purple]Bomben-{$type}[/color]. Das hier zu lesen ist eine schlechte Nutzung deiner Zeit.

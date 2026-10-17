@@ -1,21 +1,21 @@
-ent-ChestRodentia = Brust von Rodentia
+ent-ChestRodentia = Rodentia-Brust
 
-ent-GroinRodentia = Leistengegend
+ent-GroinRodentia = Rodentia-Unterleib
 
 ent-HeadRodentia = Rodentia-Kopf
 
-ent-LeftArmRodentia = linker Rodentiaarm
+ent-LeftArmRodentia = linker Rodentia-Arm
 
-ent-RightArmRodentia = rechter Rodentiaarm
+ent-RightArmRodentia = rechter Rodentia-Arm
 
 ent-LeftHandRodentia = linke Rodentia-Hand
 
-ent-RightHandRodentia = rechte Rodentia Hand
+ent-RightHandRodentia = rechte Rodentia-Hand
 
-ent-LeftLegRodentia = linkes Bein
+ent-LeftLegRodentia = linkes Rodentia-Bein
 
-ent-RightLegRodentia = rechtes Bein
+ent-RightLegRodentia = rechtes Rodentia-Bein
 
-ent-LeftFootRodentia = linker Rodentiafuß
+ent-LeftFootRodentia = linker Rodentia-Fuß
 
-ent-RightFootRodentia = rechter Nagetierfuß
+ent-RightFootRodentia = rechter Rodentia-Fuß

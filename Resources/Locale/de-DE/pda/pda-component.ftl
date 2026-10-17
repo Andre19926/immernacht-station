@@ -33,10 +33,10 @@ comp-pda-io-program-fallback-title = Programm
 
 comp-pda-io-no-programs-available = Keine Programme verfügbar
 
-pda-bound-user-interface-show-uplink-title = Open Uplink
+pda-bound-user-interface-show-uplink-title = Uplink öffnen
 pda-bound-user-interface-show-uplink-description = Zugriff auf deinen Uplink
 
-pda-bound-user-interface-lock-uplink-title = Lock Uplink
+pda-bound-user-interface-lock-uplink-title = Uplink sperren
 pda-bound-user-interface-lock-uplink-description = Verhindern dich, dass jemand ohne Code auf deinen Uplink zugreift
 
 comp-pda-ui-menu-title = PDA

@@ -95,14 +95,14 @@ ent-CryoPodMachineCircuitboard = Kryo-Pod Maschinenplatine
 ent-ChemMasterMachineCircuitboard = ChemMaster 4000 Maschinenplatine
     .desc = Eine Maschinenplatine für einen ChemMaster 4000.
 
-ent-ChemDispenserMachineCircuitboard = Chem Dispenser Maschinenplatine
-    .desc = Eine Maschinenplatine für einen dem Chem Dispenser.
+ent-ChemDispenserMachineCircuitboard = Chemiespender-Maschinenplatine
+    .desc = Eine Maschinenplatine für einen Chemiespender.
 
 ent-BiomassReclaimerMachineCircuitboard = Biomasserückgewinnung Maschinenplatine
     .desc = Eine Maschinenplatine für einen Biomasse-Reclaimer.
 
-ent-HydroponicsTrayMachineCircuitboard = Hydroponikschale Maschinenplatine
-    .desc = Eine Maschinenplatine für ein Hydroponik-Tray.
+ent-HydroponicsTrayMachineCircuitboard = Botanikschale Maschinenplatine
+    .desc = Eine Maschinenplatine für ein Botanikschale.
 
 ent-SeedExtractorMachineCircuitboard = Saatextraktor Maschinenplatine
     .desc = Eine Maschinenplatine für einen Samenextraktor.
@@ -206,7 +206,7 @@ ent-MailTeleporterMachineCircuitboard = Post-Teleporter Maschinenplatine
     .desc = Eine Maschinenplatine für einen Mail-Teleporter.
 
 ent-SodaDispenserMachineCircuitboard = Limonadenspender Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Soda Dispenser.
+    .desc = Eine Maschinenplatine für einen Sodaspender.
 
 ent-TelecomServerCircuitboard = Telekommunikationsserver Maschinenplatine
     .desc = Eine Maschinenplatine für einen Telekommunikationsserver.

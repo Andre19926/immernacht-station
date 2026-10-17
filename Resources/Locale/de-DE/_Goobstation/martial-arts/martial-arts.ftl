@@ -48,10 +48,10 @@ martial-arts-fail-target-standing = Du kannst diese Combo nicht für stehende Zi
 capoeira-fail-low-velocity = Du bist zu langsam, um diese Combo durchzuführen!
 ninjutsu-fail-loss-of-surprise = Deine Absichten sind bekannt! Kann diesen Zug nicht ausführen!
 
-alerts-dragon-power-name = Dragon Power
+alerts-dragon-power-name = Drachenkraft
 alerts-dragon-power-desc = Du nimmst dir einen Moment Zeit, um über vergangene und kommende Kämpfe nachzudenken. Diese Einsicht wird dich vor zukünftigen Schäden schützen.
 
-alerts-sneak-attack-name = Sneak Attack
+alerts-sneak-attack-name = Hinterhalt
 alerts-sneak-attack-desc = Für einen wahren Shinobi sind der erste und der letzte Streik ein und derselbe.
 
 alerts-loss-of-surprise-name = Verlust der Überraschung

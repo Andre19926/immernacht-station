@@ -10,10 +10,10 @@
 
 # Rules
 
-ui-rules-header = Immernacht Station offizielle Serverregeln
-ui-rules-header-rp = Immernacht Station Offizielle Serverregeln
+ui-rules-header = Immernacht Station – offizielle Serverregeln
+ui-rules-header-rp = Immernacht Station – offizielle Serverregeln
 ui-rules-accept = Ich habe die Regeln lesen und akzeptiere sie!
 ui-rules-wait = Du kannst in {$time} Sekundenakzept.
 
-ui-rules-button-home = Start
+ui-rules-button-home = Startseite
 ui-rules-button-back = Zurück

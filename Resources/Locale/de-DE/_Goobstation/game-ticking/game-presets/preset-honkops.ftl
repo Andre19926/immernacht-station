@@ -35,7 +35,7 @@ honkops-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es
 honkops-no-one-ready = Keine Spieler bereit! Ich kann Honkops nicht starten.
 
 honkops-role-commander = Befehlshaber Honk
-honkops-role-agent = Honk Agent
+honkops-role-agent = Honk-Agent
 honkops-role-operator = Bedienungspersonal
 
 loadout-group-honkops-mask = Honkopsmaske

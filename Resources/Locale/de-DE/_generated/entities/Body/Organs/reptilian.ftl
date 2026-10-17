@@ -1,1 +1,1 @@
-ent-OrganReptilianStomach = Tierischer Magen
+ent-OrganReptilianStomach = Reptilienmagen

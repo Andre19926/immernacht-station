@@ -46,15 +46,18 @@ heretic-ghoul-briefing-start-noname = Du wurdest von unheimlichen Mächten in di
 heretic-ghoul-briefing-end =
     Befolge die Befehle deiner Meister, egal was passiert.
 
-    Verwenden sie +m-schlüssel im chat, um auf den mansus-link zuzugreifen.
+    Benutze die Taste +m im Chat, um auf den Mansus-Link zuzugreifen.
 
-ghostrole-ghoul-name = Ghoul
+
+    
+
+ghostrole-ghoul-name = Ghul
 ghostrole-flesh-mimic-name = Fleischmimik
 ghostrole-prophet-name = Roher Prophet
 ghostrole-stalker-name = Stalker
 ghostrole-fire-shark-name = Feuerhai
-ghostrole-rustwalker-name = Rust Walker
-ghostrole-stargazer-name = Star Gazer
+ghostrole-rustwalker-name = Rostwandler
+ghostrole-stargazer-name = Sternengucker
 ghostrole-ghoul-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen.
 ghostrole-flesh-mimic-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Sei dir bewusst, dass du mit der Zeit stirbst.
 ghostrole-prophet-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbinde andere Gläubige mit dem Mansus Link. Heile passiv Ketzer und eldritch Kreaturen.

@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-death-match-title = DeathMatch
+death-match-title = Deathmatch
 death-match-description = Töte alles, was sich bewegt! Normales Rollenspiel gilt hier nicht. Wer zuerst 31 Punkte hat, gewinnt!
 
 death-match-name-player = [bold]{$name}[/bold] ([italic]{$username}[/italic])

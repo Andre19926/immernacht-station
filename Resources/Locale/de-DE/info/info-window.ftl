@@ -10,7 +10,7 @@
 ### Info Window
 
 ## General stuff
-ui-info-title = Information
+ui-info-title = Informationen
 ui-info-tab-rules = Serverregeln
 ui-info-tab-tutorial = Tutorial
 
@@ -19,8 +19,8 @@ ui-info-text-controls = Du kannst die Steuerung von SS14 überprüfen und neu be
 
 ui-info-header-intro = Einleitung
 ui-info-header-controls = Steuerung
-ui-info-header-gameplay = Gameplay
-ui-info-header-sandbox = Sandbox Spawner
+ui-info-header-gameplay = Spielablauf
+ui-info-header-sandbox = Sandbox-Spawner
 ui-info-subheader-entityoptions = Optionen des Entitäten-Spawn-Panels:
 ui-info-subheader-gridoptions = Optionen zur Rasterausrichtung:
 ui-info-header-feedback = Feedback

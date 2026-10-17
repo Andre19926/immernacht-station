@@ -1,7 +1,7 @@
-ent-BodyBag = Körperbeutel
+ent-BodyBag = Leichensack
     .desc = Eine Plastiktüte, die für die Lagerung und den Transport von Leichen entwickelt wurde, um die Zersetzung des Körpers zu stoppen.
 
-ent-BodyBagFolded = Körperbeutel
+ent-BodyBagFolded = Leichensack
     .desc = Eine Plastiktüte, die für die Lagerung und den Transport von Leichen entwickelt wurde, um die Zersetzung des Körpers zu stoppen.
 
 ent-Ash = Asche

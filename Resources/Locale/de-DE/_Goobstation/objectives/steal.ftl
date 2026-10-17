@@ -10,6 +10,6 @@
 objective-condition-steal-smsliver-title = Schneide ein Band aus dem Supermatterkristall ab.
 objective-condition-steal-smsliver-description = Verwende jedes Schneidwerkzeug, das praktisch ist. Ein Skalpell wird eher empfohlen. Sterbe auch nicht an einer Strahlenvergiftung.
 
-steal-target-groups-battery = Power Cell
+steal-target-groups-battery = Energiezelle
 
 objective-condition-steal-gemini-projector-description = Wenn der Forschungsdirektor es verwendet, musst du aus ihrer Wirbelsäule herausspringen. Wir empfehlen dir, eine Umleitung vorzunehmen und sie zu deaktivieren.

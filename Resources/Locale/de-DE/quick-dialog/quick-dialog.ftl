@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: MIT
 
 quick-dialog-ui-integer = Ganzzahl..
-quick-dialog-ui-float = Float..
+quick-dialog-ui-float = Dezimalzahl ..
 quick-dialog-ui-short-text = Kurztext..
 quick-dialog-ui-long-text = Langer Text.
 quick-dialog-ui-ok = Ok

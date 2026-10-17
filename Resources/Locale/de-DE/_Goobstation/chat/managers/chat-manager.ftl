@@ -32,7 +32,7 @@ chat-speech-verb-VoiceModulator-3 = dröhnt
 chat-speech-verb-VoiceModulator-4 = brummt
 chat-speech-verb-VoiceModulator-5 = knistert
 
-chat-speech-verb-name-holier-than-thou = Holier Than Thou
+chat-speech-verb-name-holier-than-thou = Heiliger als du
 chat-speech-verb-holier-than-thou-1 = befiehlt
 chat-speech-verb-holier-than-thou-2 = doziert
 chat-speech-verb-holier-than-thou-3 = formuliert

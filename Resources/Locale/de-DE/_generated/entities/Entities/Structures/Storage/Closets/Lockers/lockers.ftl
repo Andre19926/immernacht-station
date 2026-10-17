@@ -16,7 +16,7 @@ ent-LockerShaftMiner = Wellenbergarbeiter-Spind
 ent-LockerCaptain = Kapitänsspind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerHeadOfPersonnel = Kopf des Personals Spind
+ent-LockerHeadOfPersonnel = Personalchef-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerChiefEngineer = Spind des Chefingenieurs

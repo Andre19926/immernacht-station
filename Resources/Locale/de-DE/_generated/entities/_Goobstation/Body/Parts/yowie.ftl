@@ -1,21 +1,21 @@
-ent-HeadYowie = Yowiekopf
+ent-HeadYowie = Yowie-Kopf
 
-ent-ChestYowie = Yowie Brust
+ent-ChestYowie = Yowie-Brust
 
-ent-GroinYowie = Leistengegend
+ent-GroinYowie = Yowie-Unterleib
 
 ent-LeftArmYowie = linker Yowie-Arm
 
-ent-RightArmYowie = Rechts Yowie Arm
+ent-RightArmYowie = rechter Yowie-Arm
 
 ent-LeftHandYowie = linke Yowie-Hand
 
-ent-RightHandYowie = Rechte Yowie Hand
+ent-RightHandYowie = rechte Yowie-Hand
 
-ent-LeftLegYowie = linkes Yowiebein
+ent-LeftLegYowie = linkes Yowie-Bein
 
-ent-RightLegYowie = Rechts Yowie Leg
+ent-RightLegYowie = rechtes Yowie-Bein
 
-ent-LeftFootYowie = linker Yowiefuß
+ent-LeftFootYowie = linker Yowie-Fuß
 
-ent-RightFootYowie = Rechts Yowie Fuß
+ent-RightFootYowie = rechter Yowie-Fuß

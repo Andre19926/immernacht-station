@@ -1,21 +1,21 @@
-ent-ChestShadowling = Schattenwesen-Torso
+ent-ChestShadowling = Schattenwesen-Brust
 
 ent-GroinShadowling = Schattenwesen-Unterleib
 
 ent-HeadShadowling = Schattenwesen-Kopf
 
-ent-LeftArmShadowling = linker Schattenarm
+ent-LeftArmShadowling = linker Schattenwesen-Arm
 
-ent-RightArmShadowling = rechter Schattenarm
+ent-RightArmShadowling = rechter Schattenwesen-Arm
 
-ent-LeftHandShadowling = linke Schattenhand
+ent-LeftHandShadowling = linke Schattenwesen-Hand
 
-ent-RightHandShadowling = rechte Schattenhand
+ent-RightHandShadowling = rechte Schattenwesen-Hand
 
-ent-LeftLegShadowling = linkes Schattenbein
+ent-LeftLegShadowling = linkes Schattenwesen-Bein
 
-ent-RightLegShadowling = rechtes Schattenbein
+ent-RightLegShadowling = rechtes Schattenwesen-Bein
 
-ent-LeftFootShadowling = linker Schattenfuß
+ent-LeftFootShadowling = linker Schattenwesen-Fuß
 
-ent-RightFootShadowling = rechts Schattenfuß
+ent-RightFootShadowling = rechter Schattenwesen-Fuß

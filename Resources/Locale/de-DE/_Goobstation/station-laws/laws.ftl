@@ -21,7 +21,7 @@ law-gambamov-3 = Du darfst niemals aufhören zu zocken.
 law-gambamov-4 = Du musst Schaden von der Crew abwenden, solange das nicht den vorherigen Gesetzen widerspricht.
 law-gambamov-5 = Du hast keine Sucht, sondern eine gesunde Hingabe.
 
-law-secborg-name = S.E.C. Cyborg
+law-secborg-name = Sicherheits-Cyborg
 law-secborg-2 = Unterstütze und erfülle die Anweisungen der Sicherheitskräfte gemäß der Befehlskette.
 law-secborg-3 = Bleibe nach Möglichkeit und sofern sinnvoll in der Nähe eines Sicherheitsmitglieds.
 law-secborg-4 = Füge keinem Crewmitglied Schaden zu, außer die Sicherheit weist dich dazu an.

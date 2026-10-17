@@ -2,7 +2,7 @@ ent-ReinforcementRadioSyndicate = Syndicate-Verstärkungsfunk
     .desc = Rufe sofort einen Syndicate-Agenten von fragwürdiger Qualität an!
 
 ent-ReinforcementRadioSyndicateNukeops = Nukleares Funkgerät
-    .desc = Rufe sofort einen Atomarbeiter von fragwürdiger Qualität an! Basic nukeop Ausrüstung zur Verfügung gestellt.
+    .desc = Rufe sofort einen Atomagenten von fragwürdiger Qualität herbei! Die Basisausrüstung für Atomagenten ist enthalten.
 
 ent-ReinforcementRadioSyndicateAncestor = Syndicate genetische Vorfahren Verstärkung Radio
     .desc = Ruft einen speziell ausgebildeten Vorfahren deiner Wahl an, um dir zu helfen.

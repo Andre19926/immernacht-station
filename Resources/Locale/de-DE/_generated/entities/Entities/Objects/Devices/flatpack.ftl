@@ -46,5 +46,5 @@ ent-CrewMonitoringServerFlatpack = Crew Monitoring Server Flatpack
 ent-CrewMonitoringComputerFlatpack = Crew Monitoring Computer Flatpack
     .desc = Ein Flatpack, der für den Bau einer Crew-Überwachungskonsole verwendet wird.
 
-ent-HydroponicsTrayFlatpack = Hydroponikschale Flatpack
-    .desc = Ein Flatpack zum Bau eines Hydroponik-Trays.
+ent-HydroponicsTrayFlatpack = Botanikschale Flatpack
+    .desc = Ein Flatpack zum Bau eines Botanikschales.

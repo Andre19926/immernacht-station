@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-uplink-syndicate-deck-name = Syndicate Deck Box
+uplink-syndicate-deck-name = Syndicate-Kartenschachtel
 uplink-syndicate-deck-desc = Eine Deckbox mit den 53 Standard-Spielkarten mit Syndicate-Branding. Bitte spiele verantwortungsvoll.

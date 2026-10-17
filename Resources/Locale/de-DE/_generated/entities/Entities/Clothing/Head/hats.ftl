@@ -7,7 +7,7 @@ ent-ClothingHeadHatBeretFrench = Französisches Barett
     .desc = Ein französisches Bret. "Vive la France!"
 
 ent-ClothingHeadHatBeretSecurity = Sicherheitsbarett
-    .desc = Eine Berette mit den Abzeichen der Sicherheitsabteilung. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
+    .desc = Eine Baskenmütze mit den Abzeichen der Sicherheitsabteilung. Für Offiziere, die eher zu Stil statt zu Sicherheit neigen.
 
 ent-ClothingHeadHatSecurityTrooper = Hut für Soldaten
     .desc = Ein Kampagnenhut für die Nanotrasen Troopers. Es soll auch mit einem Fall kommen ...
@@ -16,25 +16,25 @@ ent-ClothingHeadHatCasa = Casa
     .desc = kegelförmiger Hut.
 
 ent-ClothingHeadHatBeretRND = Wissenschaftsbarett
-    .desc = Eine Berette für echte Wissenschaftler.
+    .desc = Eine Baskenmütze für echte Wissenschaftler.
 
 ent-ClothingHeadHatBeretEngineering = Technik-Barett
-    .desc = Eine Berette mit den Insignien der Ingenieurabteilung. Für Ingenieure, die eher zum Stil als zur Sicherheit neigen.
+    .desc = Eine Baskenmütze mit den Insignien der Ingenieurabteilung. Für Ingenieure, die eher zu Stil statt zu Sicherheit neigen.
 
 ent-ClothingHeadHatBeretQM = Quartiermeister-Barett
-    .desc = Eine Berette mit den Abzeichen der Frachtabteilung.
+    .desc = Eine Baskenmütze mit den Abzeichen der Frachtabteilung.
 
 ent-ClothingHeadHatBeretHoS = Barett des Sicherheitschefs
-    .desc = Eine schwarze Barette mit einem Kommandantenrang-Emblem. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
+    .desc = Eine schwarze Barette mit einem Kommandantenrang-Emblem. Für Offiziere, die eher zu Stil statt zu Sicherheit neigen.
 
 ent-ClothingHeadHatBeretWarden = Warden-Barett
-    .desc = Ein Corporate-Blau-Bret mit einem Rang Emblem des Warden. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
+    .desc = Ein Corporate-Blau-Bret mit einem Rang Emblem des Warden. Für Offiziere, die eher zu Stil statt zu Sicherheit neigen.
 
 ent-ClothingHeadHatBeretSeniorPhysician = Oberarzt-Barett
     .desc = Die Farben der Medizin und Chemie anziehend, sind Ärzte der Stolz dieser Abteilung!
 
 ent-ClothingHeadHatBeretBrigmedic = Gefängnissanitäter-Barett
-    .desc = Eine weiße Berette für Gefängnissanitäter.
+    .desc = Eine weiße Baskenmütze für Gefängnissanitäter.
 
 ent-ClothingHeadHatBeretMerc = Söldnerbarett
     .desc = Eine Olivenmütze mit einem Abzeichen, das einen Schakal auf einem Felsen darstellt.
@@ -66,7 +66,7 @@ ent-ClothingHeadHatFedoraGrey = graue Fedora
 ent-ClothingHeadHatFez = Fez
     .desc = Ein roter Fez.
 
-ent-ClothingHeadHatHopcap = Kopf der Personalkappe
+ent-ClothingHeadHatHopcap = Personalchef-Kappe
     .desc = Eine stilvolle Kappe, die vom Leiter des Personals getragen wird. Zeigt Papierkram, wer verantwortlich ist.
 
 ent-ClothingHeadHatHoshat = einmaloptik gezogen Effekt deren Hinweis der
@@ -123,7 +123,7 @@ ent-ClothingHeadHatWarden = Warden-Mütze
 ent-ClothingHeadHatWitch = Hexenhut
     .desc = Seltsam aussehender Hut. Du willst plötzlich Feuerbälle werfen.
 
-ent-ClothingHeadHatWizardFake = Fake Wizard Hat
+ent-ClothingHeadHatWizardFake = Falscher Zaubererhut
     .desc = Es hat "WIZZARD" in grellen Pailletten darüber geschrieben. Kommt mit einem kühlen Bart.
 
 ent-ClothingHeadHatWizard = Zauberhand
@@ -137,10 +137,10 @@ ent-ClothingHeadHatTrucker = Truckerhut
 ent-ClothingHeadPyjamaSyndicateBlack = Syndicate schwarzer Pyjamahut
     .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
-ent-ClothingHeadPyjamaSyndicatePink = Syndicate Pink Pyjama Hat
+ent-ClothingHeadPyjamaSyndicatePink = Rosa Syndicate-Pyjamamütze
     .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
-ent-ClothingHeadPyjamaSyndicateRed = Syndicate Red Pyjama Hat
+ent-ClothingHeadPyjamaSyndicateRed = Rote Syndicate-Pyjamamütze
     .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
 ent-ClothingHeadPaperSack = Papiersackhut
@@ -185,7 +185,7 @@ ent-ClothingHeadHatHolyWatermelon = Wassermelone halo
 ent-ClothingHeadHatSyndie = Syndicate-Hut
     .desc = Ein Souvenirhut von "Syndieland", deren Produktion bereits geschlossen wurde.
 
-ent-ClothingHeadHatSyndieMAA = Master auf Arms Hat
+ent-ClothingHeadHatSyndieMAA = Waffenmeister-Hut
     .desc = Meister an Waffenhut, sieht einschüchternd aus, ich bezweifle, dass du gerne mit seinem Besitzer kommunizieren wirst...
 
 ent-ClothingHeadHatTacticalMaidHeadband = taktisches Dienstmädchen-Kopfband
@@ -230,7 +230,7 @@ ent-ClothingHeadHatBrownFlatcap = Brauner Flatcap
 ent-ClothingHeadHatCowboyBrown = Brauner Cowboyhut
     .desc = "Dieser Hut ist nicht groß genug für uns beide."
 
-ent-ClothingHeadHatCowboyBlack = Black Cowboy Hat
+ent-ClothingHeadHatCowboyBlack = Schwarzer Cowboyhut
     .desc = "Dieser Hut ist nicht groß genug für uns beide."
 
 ent-ClothingHeadHatCowboyGrey = grauer Cowboyhut
@@ -249,7 +249,7 @@ ent-ClothingHeadHatStrawHat = Strohhut
     .desc = Ein schicker Hut für heiße Tage! Es wird nicht empfohlen, in der Nähe von Feuer zu tragen.
 
 ent-ClothingHeadHatBeretMedic = Medizin-Barett
-    .desc = Eine sterile weiße Berette.
+    .desc = Eine sterile weiße Baskenmütze.
 
 ent-ClothingHeadHatSolidHeadband = Volles Stirnband
     .desc = "Du wirst dich fühlen, als wärst du unsichtbar, während du das trägst!" (DISKLÄR: WIRD DEN WÄHRER NICHT WIEDERSICHTBAR)

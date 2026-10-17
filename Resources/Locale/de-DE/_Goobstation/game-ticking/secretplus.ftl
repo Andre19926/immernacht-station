@@ -10,7 +10,7 @@ secretplus-high-description = Meistere unbekannte, aber ausgewogene Bedrohungen.
 secretplus-admeme-title = Secret+ Chaos
 secretplus-admeme-description = Wenn es passieren kann, wird es.
 
-survivalplus-title = Survival+
+survivalplus-title = Überleben+
 survivalplus-description = Beginnt ziemlich ruhig, endet aber nicht so.
 
 secretplus-lowpop-title= Secret+ Wenig Spieler

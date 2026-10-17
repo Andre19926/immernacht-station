@@ -91,7 +91,7 @@ trait-french-name = Französischer Akzent
 trait-french-desc = Dein Akzent hat ein gewisses „je ne sais quoi“.
 
 trait-spanish-name = Spanischer Akzent
-trait-spanish-desc = Hola señor, donde esta la biblioteca.
+trait-spanish-desc = Hola señor, ¿dónde está la biblioteca?
 
 trait-dementia-name = Demenz
 trait-dementia-desc = I-... äh, worum ging es hier nochmal? Oh, das stimmt! Du vergisst manchmal viel

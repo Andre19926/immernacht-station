@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-revenant-essence-amount = Du hast [color=plum]{$current} Essenz[/color]dein Regener-Betrag ist [color=plum]{$max} Essenz[/color].
+revenant-essence-amount = Du hast [color=plum]{$current} Essenz[/color]. Dein Regenerationsbetrag ist [color=plum]{$max} Essenz[/color].
 revenant-max-essence-increased = Deine maximale Essenz ist gestiegen!
 
 revenant-not-enough-essence = Nicht genug Essenz!
@@ -25,7 +25,7 @@ revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} plötzlich leicht in di
 revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} Stürzt auf den Boden!
 
 # UI
-revenant-user-interface-title = Ability Shop
+revenant-user-interface-title = Fähigkeitenladen
 revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] Gestohlene Essenz
 
 revenant-user-interface-cost = {$price} Essenz

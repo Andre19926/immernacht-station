@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flash-sound-suppression-examine = Dieses Gerät unterdrückt Flashbang-Sounds und reduziert ihre effektive Reichweite auf [color=yellow]{$range}[/color]
-flash-sound-suppression-fully-examine = Dieses Gerät unterdrückt Flashbang-Sounds [color=yellow]vollständig[/color]
+flash-sound-suppression-examine = Dieses Gerät dämpft Blendgranaten-Geräusche und verringert deren effektive Reichweite auf [color=yellow]{$range}[/color].
+flash-sound-suppression-fully-examine = Dieses Gerät dämpft Blendgranaten-Geräusche [color=yellow]vollständig[/color].

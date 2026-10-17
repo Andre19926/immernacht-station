@@ -19,7 +19,7 @@
 
 id-card-access-level-command = Führung
 id-card-access-level-captain = Kapitän
-id-card-access-level-head-of-personnel = Leiter des Personals
+id-card-access-level-head-of-personnel = Personalchef
 id-card-access-level-cryogenics = Kryotechnik
 id-card-access-level-emergency-shuttle-repeal = E.Shuttle Aufhebung aller
 
@@ -49,7 +49,7 @@ id-card-access-level-salvage = Salvage
 
 id-card-access-level-bar = Bar
 id-card-access-level-kitchen = Küche
-id-card-access-level-hydroponics = Hydrokultur
+id-card-access-level-hydroponics = Botanik
 id-card-access-level-service = Dienst
 id-card-access-level-janitor = Hausmeister
 id-card-access-level-theatre = Theater
@@ -61,7 +61,7 @@ id-card-access-level-maintenance = Instandhaltung
 id-card-access-level-external = Außen
 
 id-card-access-level-nuclear-operative = Kernbetriebsmittel
-id-card-access-level-syndicate-agent = Syndicate Agent
+id-card-access-level-syndicate-agent = Syndicate-Agent
 
 id-card-access-level-central-command = CentComm
 

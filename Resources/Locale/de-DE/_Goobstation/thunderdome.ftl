@@ -14,7 +14,7 @@ thunderdome-category-smgs = SMGs
 thunderdome-category-rifles = Gewehre
 thunderdome-category-revolvers = Revolver
 thunderdome-category-snipers = Heckenschützen
-thunderdome-category-melee = Melee
+thunderdome-category-melee = Nahkampf
 
 # Weapon names
 thunderdome-loadout-shotgun = Kammerer

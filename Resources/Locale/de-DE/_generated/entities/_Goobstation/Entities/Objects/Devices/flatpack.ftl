@@ -28,8 +28,8 @@ ent-MachinePowerTransmissionLaserFlatpack = Leistungsübertragung Laser Flatpack
 ent-ComputerFundingAllocationFlatpack = Mittelzuweisung Computer Flatpack
     .desc = Ein Flatpack, das zum Aufbau eines Finanzierungsvergabecomputers verwendet wird
 
-ent-ComputerCargoRequestServiceFlatpack = Service Request Computer Flatpack
-    .desc = Ein Flatpack zum Aufbau eines Service Request Computers
+ent-ComputerCargoRequestServiceFlatpack = Service-Anforderungscomputer (Flatpack)
+    .desc = Ein Flatpack zum Aufbau eines Service-Anforderungscomputers.
 
 ent-ComputerCargoRequestMedicalFlatpack = medizinische Anfrage Computer Flatpack
     .desc = Ein Flatpack zum Bau eines medizinischen Anfragecomputers

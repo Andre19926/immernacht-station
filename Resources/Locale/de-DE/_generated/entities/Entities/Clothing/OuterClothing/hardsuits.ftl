@@ -14,13 +14,13 @@ ent-ClothingOuterHardsuitGoliath = Goliath Hardsuit
     .desc = Ein leichter Hardsuit, geschmückt mit einem Patchwork aus dickem, chitinösem Goliathfell.
 
 ent-ClothingOuterHardsuitMaxim = Salvage-Maxime Hardsuit
-    .desc = Feuer. Wärme. Diese Dinge schmieden große Waffen, sie schmieden auch große Retter.
+    .desc = Feuer. Hitze. Aus diesen Dingen werden große Waffen geschmiedet, und auch große Bergungsarbeiter.
 
 ent-ClothingOuterHardsuitSecurity = Sicherheit Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat eine zusätzliche Panzerung.
 
 ent-ClothingOuterHardsuitBrigmedic = Gefängnissanitäter Hardsuit
-    .desc = Spezielle Hardsuit des Schutzengels der Brig. Es ist die medizinische Version des Sicherheits-Hardsuit.
+    .desc = Spezieller Hardsuit des Schutzengels der Brig. Die medizinische Version des Sicherheits-Hardsuits.
 
 ent-ClothingOuterHardsuitWarden = Warden-Hardsuit
     .desc = Ein spezialisierter Aufruhranzug, der darauf ausgerichtet ist, Niederdruckumgebungen zu bekämpfen.
@@ -32,7 +32,7 @@ ent-ClothingOuterHardsuitEngineeringWhite = Hardsuit des Chefingenieurs
     .desc = Ein spezieller Hardsuit, der vor gefährlichen, niedrigen Druckumgebungen schützt, wurde für den Chefingenieur der Station entwickelt.
 
 ent-ClothingOuterHardsuitMedical = Chefarzt-Hardsuit
-    .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Gebaut mit leichten Materialien für leichtere Bewegung.
+    .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Aus Leichtbaumaterialien für mehr Bewegungsfreiheit gefertigt.
 
 ent-ClothingOuterHardsuitRd = Experimentelle Forschung Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat eine zusätzliche Panzerung.
@@ -88,7 +88,7 @@ ent-ClothingOuterHardsuitERTSecurity = Hardsuit von ERT security
 ent-ClothingOuterHardsuitERTJanitor = ERT Hausmeister Hardsuit
     .desc = Ein schützender Hardsuit, der von den Hausmeistern eines Notfallteams getragen wird.
 
-ent-ClothingOuterHardsuitDeathsquad = PI-52 „Lucifer Hardsuit
+ent-ClothingOuterHardsuitDeathsquad = PI-52 „Lucifer“ Hardsuit
     .desc = Ein berühmter Hardsuit, der von den Todesschwadronen des CentComm verwendet wird und oft in Filmen von Nanotrasen gezeigt wird, um die Rekrutierung zu erhöhen.
 
 ent-ClothingOuterHardsuitCBURN = CBURN-Exosuit
@@ -101,4 +101,4 @@ ent-ClothingOuterHardsuitMime = Mime Hardsuit
     .desc = Ein maßgeschneiderter Mime Hardsuit.
 
 ent-ClothingOuterHardsuitSanta = Weihnachtsmann-Hardsuit
-    .desc = Ein festlicher, fröhlicher Hardsuit, der den fröhlichen Geschenkgeber während auf Schlittenfahrten im Weltraum schützt. Bietet etwas Widerstand gegen Asteroidenschläge.
+    .desc = Ein festlicher, fröhlicher Hardsuit, der den gutmütigen Geschenkebringer auf Schlittenfahrten im Weltraum schützt. Bietet etwas Widerstand gegen Asteroideneinschläge.

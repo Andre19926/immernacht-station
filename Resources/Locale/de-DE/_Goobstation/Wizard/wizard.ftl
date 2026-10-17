@@ -18,7 +18,7 @@ roles-wizard-objective = Verursacht Chaos und Zerstörung auf der Station.
 
 dynamic-gamerule-wizard-title = [color=cyan]Zauberer[/color]
 
-objective-issuer-wizard-federation = [color=cyan]Space Wizard Federation[/color]
+objective-issuer-wizard-federation = [color=cyan]Föderation der Weltraumzauberer[/color]
 
 wizard-role-greeting = Du bist ein mächtiger Weltraumzauberer. Dein Ziel: so viel Chaos wie möglich auf {$station} anzurichten und zu überleben. Die Space Wizard Federation hat dir ein magisches Grimoire gegeben, mit dem du verheerende Zauber lernst.
 

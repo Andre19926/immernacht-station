@@ -1,2 +1,2 @@
-ent-BaseHandheldStationMapSupermatterCe = Handheld Supermatter Konsole
-    .desc = Fine-Crafted Handheld Supermatter Konsole für Chief Engineers. Ermöglicht dem Benutzer, den Status der Supermaterie anzuzeigen.
+ent-BaseHandheldStationMapSupermatterCe = Handheld-Supermaterie-Konsole
+    .desc = Handgefertigte Handheld-Supermaterie-Konsole für Chefingenieure. Zeigt dem Benutzer den Status der Supermaterie an.

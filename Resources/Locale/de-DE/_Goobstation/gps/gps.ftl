@@ -1,7 +1,7 @@
 gps-window-title = GLOBALES POSITIONSSYSTEM
 gps-window-name-label = Bezeichnung
 
-gps-window-gps-position-label = GPS Coords
+gps-window-gps-position-label = GPS-Koordinaten
 gps-window-tracked-position-label = Verfolgte Coords
 gps-window-position-none = N/A
 

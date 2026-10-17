@@ -4,8 +4,8 @@ ent-Matchstick = Matching-Stick
 ent-MatchstickSpent = Matching-Stick
     .desc = Ein einfacher Streichholzstab, der für die Beleuchtung feiner Rauchwaren verwendet wird.
 
-ent-Matchbox = Matching-Box
-    .desc = Eine kleine Schachtel mit Almost But Not Quite Plasma Premium Matches.
+ent-Matchbox = Streichholzschachtel
+    .desc = Eine kleine Schachtel mit „Almost But Not Quite“-Plasma-Premium-Streichhölzern.
 
 ent-GorlexMatchbox = Gorlex-Matchbox
     .desc = Eine pneumatische Streichholzbox, die nach der Ausrüstung der Gorlex Marauders gestaltet ist. Enthält 24 Matches.

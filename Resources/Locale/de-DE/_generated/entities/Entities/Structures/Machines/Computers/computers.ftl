@@ -1,7 +1,7 @@
-ent-ComputerAlert = Atmosphärenalarmrechner
+ent-ComputerAlert = Atmos-Alarmcomputer
     .desc = Wird verwendet, um auf das atmosphärische automatisierte Alarmsystem der Station zuzugreifen.
 
-ent-ComputerAtmosMonitoring = Atmosphärennetzüberwachung
+ent-ComputerAtmosMonitoring = Atmos-Netzwerkmonitor
     .desc = Wird verwendet, um die atmosphärischen Netzwerke der Station zu überwachen.
 
 ent-ComputerEmergencyShuttle = Notfall-Shuttle-Konsole
@@ -22,19 +22,19 @@ ent-ComputerIFF = IFF-Computer
 ent-ComputerIFFSyndicate = IFF-Computer
     .desc = Ermöglicht es dir, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
 
-ent-ComputerPowerMonitoring = Leistungsüberwachungsrechner
+ent-ComputerPowerMonitoring = Strom-Monitorcomputer
     .desc = Es überwacht die Leistungspegel in der gesamten Station.
 
-ent-ComputerMedicalRecords = Krankenaktenrechner
+ent-ComputerMedicalRecords = Krankenakten-Computer
     .desc = Dies kann verwendet werden, um medizinische Aufzeichnungen zu überprüfen.
 
 ent-ComputerCriminalRecords = Strafregister
     .desc = Dies kann verwendet werden, um Strafregister zu überprüfen. Nur Sicherheit kann sie verändern.
 
-ent-ComputerStationRecords = Stationsaufzeichnungsrechner
+ent-ComputerStationRecords = Stationsakten-Computer
     .desc = Dies kann verwendet werden, um Stationsaufzeichnungen zu überprüfen.
 
-ent-ComputerCrewMonitoring = Crewüberwachungskonsole
+ent-ComputerCrewMonitoring = Crew-Monitorkonsole
     .desc = Wird verwendet, um aktive Gesundheitssensoren zu überwachen, die in den meisten Uniformen der Crew eingebaut sind.
 
 ent-ComputerResearchAndDevelopment = FuE-Computer
@@ -43,16 +43,16 @@ ent-ComputerResearchAndDevelopment = FuE-Computer
 ent-ComputerAnalysisConsole = Analysekonsole
     .desc = Ein Computer, der zur Schnittstelle mit dem Artefaktanalysator verwendet wird.
 
-ent-ComputerId = ID-Kartenrechner
+ent-ComputerId = ID-Kartencomputer
     .desc = Terminal zum Programmieren von Nanotrasen-Mitarbeiterausweisen für den Zugriff auf Teile der Station.
 
-ent-computerBodyScanner = Körperscanner-Computer
+ent-computerBodyScanner = Bodyscanner-Computer
     .desc = Ein Bodyscanner.
 
-ent-ComputerComms = Kommunikationsrechner
+ent-ComputerComms = Kommunikationscomputer
     .desc = Ein Computer, der verwendet wurde, um stationsweite Ankündigungen über die Tastatur zu machen, die entsprechende Alarmstufe einzustellen und das Notfall-Shuttle anzurufen.
 
-ent-SyndicateComputerComms = Syndicate-Kommunikationsrechner
+ent-SyndicateComputerComms = Syndicate-Kommunikationscomputer
     .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn du dies für eine Ankündigung verwendest, wird die Station auf deine Anwesenheit aufmerksam gemacht.
 
 ent-WizardComputerComms = Zauberer-Kommunikationscomputer
@@ -61,43 +61,43 @@ ent-WizardComputerComms = Zauberer-Kommunikationscomputer
 ent-CentcommComputerComms = CentComm-Kommunikationscomputer
     .desc = Ein Computer machte früher weltweite Ankündigungen über die Tastatur. Der überlegene Vetter des regulären Kommunikationscomputers.
 
-ent-ComputerSolarControl = Solarsteuerrechner
+ent-ComputerSolarControl = Solarsteuerungscomputer
     .desc = Ein Controller für Solarpanel-Arrays.
 
 ent-ComputerRadar = Massenscanner-Computer
     .desc = Ein Computer zur Erkennung von Körpern in der Nähe, die durch Position und Masse angezeigt werden.
 
-ent-ComputerCargoOrders = Frachtanforderungsrechner
+ent-ComputerCargoOrders = Fracht-Bestellcomputer
     .desc = Wird verwendet, um Lieferungen zu bestellen und Anfragen zu genehmigen.
 
-ent-ComputerCargoOrdersEngineering = Engineering Request Computer
+ent-ComputerCargoOrdersEngineering = Technik-Bestellcomputer
     .desc = Wird von der Ingenieurabteilung verwendet, um Lieferungen zu bestellen.
 
-ent-ComputerCargoOrdersMedical = Computer für medizinische Anfragen
+ent-ComputerCargoOrdersMedical = Medizin-Bestellcomputer
     .desc = Wird von der medizinischen Abteilung verwendet, um Lieferungen zu bestellen.
 
-ent-ComputerCargoOrdersScience = Science Request Computer
+ent-ComputerCargoOrdersScience = Wissenschafts-Bestellcomputer
     .desc = Wird von der Wissenschaftsabteilung verwendet, um Lieferungen zu bestellen.
 
-ent-ComputerCargoOrdersSecurity = Sicherheitsanforderungsrechner
+ent-ComputerCargoOrdersSecurity = Sicherheits-Bestellcomputer
     .desc = Wird von der Sicherheitsabteilung verwendet, um Lieferungen zu bestellen.
 
-ent-ComputerCargoOrdersService = Dienstanforderungsrechner
+ent-ComputerCargoOrdersService = Service-Bestellcomputer
     .desc = Wird von der Serviceabteilung verwendet, um Lieferungen zu bestellen.
 
-ent-ComputerCargoBounty = Fracht Bounty Computer
+ent-ComputerCargoBounty = Fracht-Kopfgeldcomputer
     .desc = Wird verwendet, um derzeit aktive Bounties zu verwalten.
 
-ent-ComputerFundingAllocation = Computer für die Mittelzuweisung
+ent-ComputerFundingAllocation = Finanzverteilungscomputer
     .desc = Terminal zur Kontrolle der Verteilung von Mitteln und Zahlungen an Abteilungen.
 
-ent-ComputerCloningConsole = Klonen von Konsolencomputern
+ent-ComputerCloningConsole = Klon-Konsole
     .desc = Das Herzstück des Klonsystems, die größte Errungenschaft der Medizin. Es hat viele Ports und Kabel.
 
-ent-ComputerSalvageJobBoard = Salvage Job Board
+ent-ComputerSalvageJobBoard = Salvage-Auftragstafel
     .desc = Konsole für den Zugriff auf Salvage-Jobs, wenn du hart genug bist.
 
-ent-ComputerSalvageExpedition = Salvage Expeditionen Computer
+ent-ComputerSalvageExpedition = Salvage-Expeditionscomputer
     .desc = Wird verwendet, um Rettungsmissionen anzunehmen, wenn du hart genug bist.
 
 ent-ComputerSurveillanceCameraMonitor = Kameramonitor
@@ -106,31 +106,31 @@ ent-ComputerSurveillanceCameraMonitor = Kameramonitor
 ent-ComputerSurveillanceWirelessCameraMonitor = Funkkameramonitor
     .desc = Ein drahtloser Überwachungskameramonitor. Du beobachtest sie. Vielleicht.
 
-ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = xenoborg Kameramonitor
+ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = Xenoborg-Kameramonitor
     .desc = Ein drahtloser Xenoborg Kameramonitor. Du beobachtest sie. Vielleicht.
 
-ent-ComputerPalletConsole = Frachtverkaufsrechner
+ent-ComputerPalletConsole = Frachtverkaufscomputer
     .desc = Wird zum Verkauf von Waren verwendet, die auf Frachtpaletten geladen werden.
 
 ent-ComputerMassMedia = Nachrichtenkonsole
     .desc = Schreibe deine Botschaft an die Welt!
 
-ent-ComputerSensorMonitoring = Sensorüberwachungsrechner
+ent-ComputerSensorMonitoring = Sensor-Monitorcomputer
     .desc = Eine flexible Konsole zur Überwachung aller Arten von Sensoren.
 
 ent-ComputerRoboticsControl = Robotik-Steuerkonsole
     .desc = Wird verwendet, um die Cyborgs der Station aus der Ferne zu überwachen.
 
-ent-ComputerXenoborgsControl = Xenoborgs Kontrollkonsole
+ent-ComputerXenoborgsControl = Xenoborg-Kontrollkonsole
     .desc = Wird zur Fernüberwachung aller Xenoborgs verwendet.
 
-ent-StationAiUploadComputer = KI Upload Konsole
+ent-StationAiUploadComputer = KI-Upload-Konsole
     .desc = Wird verwendet, um die Gesetze der Stations-KI zu aktualisieren.
 
 ent-StationAiFixerComputer = KI-Wiederherstellungskonsole
     .desc = Wird verwendet, um beschädigte künstliche Intelligenzen zu reparieren.
 
-ent-ComputerNukieDelivery = Syndicate-Lieferrechner
+ent-ComputerNukieDelivery = Syndicate-Lieferungscomputer
 
-ent-ComputerSupermatter = Supermatter-Überwachungskonsole
+ent-ComputerSupermatter = Supermaterie-Monitorkonsole
     .desc = Wird verwendet, um den Status von Supermatterkristallen zu überwachen.

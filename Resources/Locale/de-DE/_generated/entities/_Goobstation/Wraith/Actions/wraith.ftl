@@ -7,7 +7,7 @@ ent-ActionHaunt = Haunt
 ent-ActionWraithWhisper = Ätherisches Flüstern
     .desc = Sende eine ätherische Botschaft an ein Lebewesen.
 
-ent-ActionBloodWriting = Blood Writing
+ent-ActionBloodWriting = Blutschrift
     .desc = Schreibe einen gespenstischen Charakter auf den Boden.
 
 ent-ActionAbsorbCorpse = Absorb Leiche

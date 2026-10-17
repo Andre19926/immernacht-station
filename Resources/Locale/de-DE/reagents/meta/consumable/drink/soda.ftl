@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-cola = Space Cola
+reagent-name-cola = Weltraum-Cola
 reagent-desc-cola = Ein süßes, kohlensäurehaltiges Softdrink.
 
 reagent-name-shirley-temple = Shirley Temple
@@ -33,7 +33,7 @@ reagent-desc-ice-cream = Es war entweder dies oder die Mikrowelle, und niemand w
 reagent-name-lemon-lime = Schmitt
 reagent-desc-lemon-lime = Tangy Limette und Zitronen-Soda.
 
-reagent-name-lemon-lime-cranberry = Smite Cranberry
+reagent-name-lemon-lime-cranberry = Strafe-Cranberry
 reagent-desc-lemon-lime-cranberry = Tart Cranberry, Weihnachten und ein Hauch von Zitrone und Limette.
 
 reagent-name-pwr-game = PWR-Spiel

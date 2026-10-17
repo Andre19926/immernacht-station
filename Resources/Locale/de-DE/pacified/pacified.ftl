@@ -9,12 +9,12 @@
 ## Messages shown to Pacified players when they try to do violence:
 
 # With projectiles:
-pacified-cannot-throw = Ich kann mich nicht dazu bringen zu werfen { THE($projectile) }Das könnte jemanden verletzen!
+pacified-cannot-throw = Ich bringe es nicht über mich, { THE($projectile) } zu werfen, das könnte jemanden verletzen!
 # With embedding projectiles:
-pacified-cannot-throw-embed = Keine Möglichkeit, ich könnte werfen { THE($projectile) }Das könnte sich in jemandem verfangen!
+pacified-cannot-throw-embed = Auf keinen Fall könnte ich { THE($projectile) } werfen, das könnte sich in jemandem festsetzen!
 # With liquid-spilling projectiles:
 pacified-cannot-throw-spill = Ich kann unmöglich werfen { THE($projectile) }, das könnte böses Zeug auf jemanden verschütten!
 
 pacified-cannot-harm-directly = Ich kann mich nicht dazu bringen, zu verletzen { THE($entity) }!
-pacified-cannot-harm-indirect = Ich kann nicht schaden { THE($entity) }Es könnte jemanden verletzen!
-pacified-cannot-fire-gun = Ich kann nicht feuern { THE($entity) }Es könnte jemanden verletzen!
+pacified-cannot-harm-indirect = Ich kann { THE($entity) } nicht beschädigen, es könnte jemanden verletzen!
+pacified-cannot-fire-gun = Ich kann { THE($entity) } nicht abfeuern, es könnte jemanden verletzen!

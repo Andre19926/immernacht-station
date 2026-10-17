@@ -20,7 +20,7 @@ admin-explosion-eui-label-directional = Gerichtet
 admin-explosion-eui-label-angle = Winkel
 admin-explosion-eui-label-spread = Ausbreitung
 admin-explosion-eui-label-distance = Entfernung
-admin-explosion-eui-label-spawn = Kabloom!
+admin-explosion-eui-label-spawn = Kabumm!
 
 cmd-explosionui-desc = Öffnet ein Fenster für einen einfachen Zugang zur Zerstörung der Station.
 cmd-explosionui-help = Verwendung: explosionui

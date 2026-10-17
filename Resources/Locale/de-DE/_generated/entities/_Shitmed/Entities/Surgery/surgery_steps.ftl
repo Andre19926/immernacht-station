@@ -1,85 +1,85 @@
-ent-SurgeryStepOpenIncisionScalpel = Mit einem Skalpell geschnitten
+ent-SurgeryStepOpenIncisionScalpel = Mit dem Skalpell einschneiden
 
-ent-SurgeryStepClampBleeders = Klemme die Blutungen
+ent-SurgeryStepClampBleeders = Blutungen abklemmen
 
-ent-SurgeryStepCloseBloodOutputs = Zerstörtes Gewebe zusammennähen
+ent-SurgeryStepCloseBloodOutputs = Zerstörtes Gewebe vernähen
 
-ent-SurgeryStepRetractSkin = Zurückziehen der Haut
+ent-SurgeryStepRetractSkin = Haut zurückziehen
 
-ent-SurgeryStepRemoveSeveredSkin = Entferne die abgestorbene Haut
+ent-SurgeryStepRemoveSeveredSkin = Abgestorbene Haut entfernen
 
-ent-SurgeryStepSawBones = Säge durch Knochen
+ent-SurgeryStepSawBones = Knochen durchsägen
 
-ent-SurgeryStepRemoveLeftoverBones = Knochenreste aufräumen
+ent-SurgeryStepRemoveLeftoverBones = Knochenreste entfernen
 
-ent-SurgeryStepMendBones = Ausbesserungsknochen
+ent-SurgeryStepMendBones = Knochen richten
 
-ent-SurgeryStepHealOrgans = Heilorgane
+ent-SurgeryStepHealOrgans = Organe heilen
 
-ent-SurgeryStepExtractForeignBody = Extrahieren Fremdkörper
+ent-SurgeryStepExtractForeignBody = Fremdkörper entfernen
 
-ent-SurgeryStepRepairBrain = Repariere das Gehirn
+ent-SurgeryStepRepairBrain = Gehirn reparieren
 
-ent-SurgeryStepPriseOpenBones = Prise die Knochen öffnen
+ent-SurgeryStepPriseOpenBones = Knochen aufhebeln
 
-ent-SurgeryStepCloseBones = Enge Knochen
+ent-SurgeryStepCloseBones = Knochen zusammenführen
 
-ent-SurgeryStepSealBones = Robbenknochen
+ent-SurgeryStepSealBones = Knochen versiegeln
 
-ent-SurgeryStepSealSkull = Seehundschädel
+ent-SurgeryStepSealSkull = Schädel verschließen
 
-ent-SurgeryStepSealRibcage = Seal Ribcage
+ent-SurgeryStepSealRibcage = Brustkorb verschließen
 
-ent-SurgeryStepCloseIncision = Naheinschnitt
+ent-SurgeryStepCloseIncision = Schnitt schließen
 
-ent-SurgeryStepInsertFeature = Einsatzteil
+ent-SurgeryStepInsertFeature = Körperteil einsetzen
 
-ent-SurgeryStepSealWounds = Siegelwunden
+ent-SurgeryStepSealWounds = Wunden versiegeln
 
-ent-SurgeryStepSawFeature = Säge durch Knochen
+ent-SurgeryStepSawFeature = Knochen durchsägen
 
-ent-SurgeryStepClampInternalBleeders = Klemmeninnenentlüftung
+ent-SurgeryStepClampInternalBleeders = Innere Blutungen abklemmen
 
-ent-SurgeryStepRemoveFeature = Amputatteil
+ent-SurgeryStepRemoveFeature = Körperteil abtrennen
 
-ent-SurgeryStepCarefulIncisionScalpel = Mache einen vorsichtigen Schnitt
+ent-SurgeryStepCarefulIncisionScalpel = Vorsichtigen Schnitt setzen
 
 ent-SurgeryStepRepairBruteTissue = Geschädigtes Gewebe reparieren
 
 ent-SurgeryStepRepairBurnTissue = Verbranntes Gewebe reparieren
 
-ent-SurgeryStepSealTendWound = Versiegeln der Wunde
+ent-SurgeryStepSealTendWound = Wunde versiegeln
 
-ent-SurgeryStepSealDismembermentWound = Nähe die Zerstückelung Wunde
+ent-SurgeryStepSealDismembermentWound = Amputationswunde vernähen
 
-ent-SurgeryStepInsertItem = Artikel in den Hohlraum einsetzen
+ent-SurgeryStepInsertItem = Gegenstand in den Hohlraum einsetzen
 
-ent-SurgeryStepRemoveItem = Artikel aus dem Hohlraum entfernen
+ent-SurgeryStepRemoveItem = Gegenstand aus dem Hohlraum entfernen
 
 ent-SurgeryStepRemoveOrgan = Organ entfernen
 
-ent-SurgeryStepInsertOrgan = Organ hinzufügen
+ent-SurgeryStepInsertOrgan = Organ einsetzen
 
-ent-SurgeryStepOpenOrganSlot = Ausschneiden eines Hohlraums
+ent-SurgeryStepOpenOrganSlot = Hohlraum ausschneiden
 
-ent-SurgeryStepInsertLungs = Lungen hinzufügen
+ent-SurgeryStepInsertLungs = Lungen einsetzen
 
-ent-SurgeryStepInsertLiver = Leber hinzufügen
+ent-SurgeryStepInsertLiver = Leber einsetzen
 
-ent-SurgeryStepInsertEyes = Augen hinzufügen
+ent-SurgeryStepInsertEyes = Augen einsetzen
 
-ent-SurgeryStepInsertHeart = Hinzufügen von Herz
+ent-SurgeryStepInsertHeart = Herz einsetzen
 
-ent-SurgeryStepInsertPump = Pumpe hinzufügen
+ent-SurgeryStepInsertPump = Pumpe einsetzen
 
-ent-SurgeryStepSealOrganWound = Siegelwunden
+ent-SurgeryStepSealOrganWound = Organwunde versiegeln
 
-ent-SurgeryStepInsertAugmentPowerCellSlot = Hinzufügen von Power Cell Slot
+ent-SurgeryStepInsertAugmentPowerCellSlot = Energiezellenschacht einsetzen
 
-ent-SurgeryStepInsertAugmentPowerCellCharger = Power Cell Ladegerät hinzufügen
+ent-SurgeryStepInsertAugmentPowerCellCharger = Energiezellen-Ladegerät einsetzen
 
-ent-SurgeryStepInsertAugmentArm = Armvergrößerung hinzufügen
+ent-SurgeryStepInsertAugmentArm = Armerweiterung einsetzen
 
-ent-SurgeryStepLobotomize = Lobotomizer Patient
+ent-SurgeryStepLobotomize = Patienten lobotomieren
 
-ent-SurgeryStepMendBrainTissue = Gehirngewebe reparieren
+ent-SurgeryStepMendBrainTissue = Hirngewebe reparieren

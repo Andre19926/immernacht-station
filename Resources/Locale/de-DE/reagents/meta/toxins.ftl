@@ -25,7 +25,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-toxin = Toxin
-reagent-desc-toxin = Eine wenig überraschend giftige Chemikalie. Erhältlich in einem mit EMAG manipulierten Chem-Dispenser.
+reagent-desc-toxin = Eine wenig überraschend giftige Chemikalie. Erhältlich in einem mit EMAG manipulierten Chemiespender.
 
 reagent-name-carpotoxin = Carpotoxin
 reagent-desc-carpotoxin = Ein hochgiftiges Reagenz, das in Weltraumkarpfen gefunden wird. Verursacht ein schmerzhaftes Brennen.

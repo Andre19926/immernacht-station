@@ -16,7 +16,7 @@ ent-ClothingHandsGlovesBoxingRigged = blaue Boxhandschuhe
 ent-ClothingHandsGlovesCaptain = Kapitänshandschuhe
     .desc = Regal blaue Handschuhe, mit einem schönen Goldschnitt. Swanky.
 
-ent-ClothingHandsGlovesHop = schnittsichere Handschuhe
+ent-ClothingHandsGlovesHop = Personalchef-Handschuhe
     .desc = Perfekt für den Umgang mit Papierkram und Angelegenheiten mit Bürokratie.
 
 ent-ClothingHandsGlovesLatex = Latexhandschuhe
@@ -26,7 +26,7 @@ ent-ClothingHandsGlovesNitrile = Nitrilhandschuhe
     .desc = Hochwertige Nitrilhandschuhe. Teure medizinische PSA.
 
 ent-ClothingHandsGlovesLeather = Handschuhe für Botaniker
-    .desc = Diese Lederhandschuhe schützen vor Dornen, Widerhaken, Stacheln, Stacheln und anderen schädlichen Gegenständen floralen Ursprungs. Sie sind auch ziemlich warm.
+    .desc = Diese Lederhandschuhe schützen vor Dornen, Widerhaken, Stacheln und anderen schädlichen Gegenständen pflanzlichen Ursprungs. Sie sind außerdem ziemlich warm.
 
 ent-ClothingHandsGlovesPowerglove = Elektrohandschuhe
     .desc = Jetzt spiele ich mit Macht! Warte... sie sind abgedreht.
@@ -40,7 +40,7 @@ ent-ClothingHandsGlovesCombat = Kampfhandschuhe
     .desc = Diese taktischen Handschuhe sind feuerfest und stoßfest.
 
 ent-ClothingHandsTacticalMaidGloves = taktische Dienstmädchenhandschuhe
-    .desc = Taktische dienstmädchenhandschuhe, jede selbstrespektive dienstmädchen sollte in der lage sein, ihre ziele diskret zu beseitigen.
+    .desc = Taktische Dienstmädchenhandschuhe. Jedes selbstachtende Dienstmädchen sollte in der Lage sein, seine Ziele diskret zu beseitigen.
 
 ent-ClothingHandsMercGlovesCombat = Söldner-Kampfhandschuhe
     .desc = Hochwertige Kampfhandschuhe, um die Hände vor mechanischen Schäden während des Kampfes zu schützen.

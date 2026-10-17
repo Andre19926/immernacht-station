@@ -7,5 +7,5 @@
 # Goobstation - Fix spelling error.
 ipc-recharge-tip = Du lädst deine Batterie auf.
 dead-startup-button-verb = Reboot
-dead-startup-system-reboot-success = {$target}Das System wurde neu gestartet.
-dead-startup-system-reboot-failed = {$target}Das Chassis ist viel zu beschädigt.
+dead-startup-system-reboot-success = Das System von {$target} wurde neu gestartet.
+dead-startup-system-reboot-failed = Das Chassis von {$target} ist viel zu beschädigt.

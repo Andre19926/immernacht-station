@@ -27,7 +27,7 @@ admin-verbs-freeze-and-mute = Einfrieren & Stummschalten
 admin-verbs-unfreeze = Auftauen
 admin-verbs-camera = Kamera öffnen
 admin-verbs-camera-description = Öffnet ein Kamerafenster, das der gewählten Entität folgt.
-admin-verbs-erase = Erase
+admin-verbs-erase = Löschen
 admin-verbs-erase-description = Entfernt den Spieler aus der Runde und dem Crew-Manifest und löscht seine Chatnachrichten.
     Seine Gegenstände werden auf den Boden fallen gelassen.
     Den Spielern wird ein Popup angezeigt, das sie auffordert, so zu spielen, als hätte er nie existiert.

@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 abductors-ui-beacons = Leuchtfeuer
-abductors-ui-teleport = Teleport
+abductors-ui-teleport = Teleportieren
 abductors-ui-attract = Anziehung
 
 abductors-ui-experiment = Versuch

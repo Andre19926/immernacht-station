@@ -2,16 +2,16 @@ ent-ClothingShoesBootsWork = Workboots
     .desc = Engineering Schnürschuhe für die besonders blue-collar.
 
 ent-ClothingShoesBootsJack = Jackstiefel
-    .desc = Nanotrasen-issue Security combat boots für Kampfszenarien oder Kampfsituationen. Alle Kämpfe, die ganze Zeit.
+    .desc = Sicherheits-Kampfstiefel nach Nanotrasen-Standard für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.
 
 ent-ClothingShoesBootsSalvage = Salvage-Stiefel
-    .desc = Salvage-Stiefel aus Stahl zur Salvage in gefährlichen Umgebungen.
+    .desc = Stahlkappen-Bergungsstiefel für die Bergung in gefährlichen Umgebungen.
 
 ent-ClothingShoesBootsPerformer = Darstellerstiefel
     .desc = Diese Stiefel bieten eine großartige Traktion, wenn du auf der Bühne stehst.
 
 ent-ClothingShoesBootsCombat = Kampfstiefel
-    .desc = Robuste Kampfstiefel für Kampfszenarien oder Kampfsituationen. Alle Kämpfe, die ganze Zeit.
+    .desc = Robuste Kampfstiefel für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.
 
 ent-ClothingShoesHighheelBoots = hochhackige Stiefel
     .desc = Snazy Stiefel für, wenn du stilvoll sein willst, aber vorbereitet.

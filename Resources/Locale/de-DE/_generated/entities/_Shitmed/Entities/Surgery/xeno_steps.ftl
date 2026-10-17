@@ -1,49 +1,49 @@
-ent-SurgeryStepXenoOpenIncision = Einen Schnitt öffnen
+ent-SurgeryStepXenoOpenIncision = Schnitt öffnen
 
-ent-SurgeryStepXenoClampBleeders = Säuregefäße einspannen
+ent-SurgeryStepXenoClampBleeders = Säuregefäße abklemmen
 
-ent-SurgeryStepXenoSeverPlasma = Trennende Plasmaverbindungen
+ent-SurgeryStepXenoSeverPlasma = Plasmaverbindungen durchtrennen
 
-ent-SurgeryStepXenoNeutralizeAcid = Neutralisationssäure
+ent-SurgeryStepXenoNeutralizeAcid = Säure neutralisieren
 
-ent-SurgeryStepXenoCutExoskeleton = Score das Exoskelett
+ent-SurgeryStepXenoCutExoskeleton = Exoskelett einritzen
 
-ent-SurgeryStepXenoRetractExoskeleton = Zurückziehen des Exoskeletts
+ent-SurgeryStepXenoRetractExoskeleton = Exoskelett zurückziehen
 
-ent-SurgeryStepXenoSawExoskeleton = Säge durch das Exoskelett
+ent-SurgeryStepXenoSawExoskeleton = Exoskelett durchsägen
 
-ent-SurgeryStepXenoMendExoskeleton = Exoskelett wieder verschließen
+ent-SurgeryStepXenoMendExoskeleton = Exoskelett ausbessern
 
-ent-SurgeryStepXenoCloseExoskeleton = Schließe das Exoskelett
+ent-SurgeryStepXenoCloseExoskeleton = Exoskelett schließen
 
-ent-SurgeryStepXenoRetractEndoskeleton = Zurückziehen des Endoskeletts
+ent-SurgeryStepXenoRetractEndoskeleton = Endoskelett zurückziehen
 
-ent-SurgeryStepXenoSawEndoskeleton = Säge durch das Endoskelett
+ent-SurgeryStepXenoSawEndoskeleton = Endoskelett durchsägen
 
-ent-SurgeryStepXenoMendEndoskeleton = Reparatur des Endoskeletts
+ent-SurgeryStepXenoMendEndoskeleton = Endoskelett ausbessern
 
-ent-SurgeryStepXenoCloseEndoskeleton = Schließe das Endoskelett
+ent-SurgeryStepXenoCloseEndoskeleton = Endoskelett schließen
 
-ent-SurgeryStepXenoCloseIncision = Naheinschnitt
+ent-SurgeryStepXenoCloseIncision = Schnitt schließen
 
-ent-SurgeryStepXenoSealOrganWound = Siegelwunden
+ent-SurgeryStepXenoSealOrganWound = Organwunde versiegeln
 
-ent-SurgeryStepXenoRemoveFeature = Amputatteil
+ent-SurgeryStepXenoRemoveFeature = Körperteil abtrennen
 
 ent-SurgeryStepXenoRemoveOrgan = Organ entfernen
 
-ent-SurgeryStepInsertHiveNode = Hive Node hinzufügen
+ent-SurgeryStepInsertHiveNode = Schwarmknoten einsetzen
 
-ent-SurgeryStepInsertResinSpinner = Harzspinner hinzufügen
+ent-SurgeryStepInsertResinSpinner = Harzspinner einsetzen
 
-ent-SurgeryStepInsertNeurotoxinGland = Neurotoxindrüse hinzufügen
+ent-SurgeryStepInsertNeurotoxinGland = Neurotoxindrüse einsetzen
 
-ent-SurgeryStepInsertAcidGland = Säuredrüse hinzufügen
+ent-SurgeryStepInsertAcidGland = Säuredrüse einsetzen
 
-ent-SurgeryStepInsertPlasmaVessel = Plasmagefäß hinzufügen
+ent-SurgeryStepInsertPlasmaVessel = Plasmagefäß einsetzen
 
-ent-SurgeryStepInsertEggSack = Eiersack hinzufügen
+ent-SurgeryStepInsertEggSack = Eiersack einsetzen
 
 ent-SurgeryStepXenoTakeSample = Gewebeprobe entnehmen
 
-ent-SurgeryStepGraftXenoSample = Gewebeprobe des Transplantats Xeno
+ent-SurgeryStepGraftXenoSample = Xeno-Gewebeprobe aufpfropfen

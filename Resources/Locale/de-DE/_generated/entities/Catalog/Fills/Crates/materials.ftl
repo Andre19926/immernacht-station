@@ -16,7 +16,7 @@ ent-CrateMaterialWood = Holzkiste
 ent-CrateMaterialBrass = Messingkiste
     .desc = 90 Bleche Messing.
 
-ent-CrateMaterialPlasteel = Pflasterkiste
+ent-CrateMaterialPlasteel = Plasteelkiste
     .desc = 30 Stück Plastik.
 
 ent-CrateMaterialPlasma = feste Plasmakiste

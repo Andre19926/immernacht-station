@@ -22,6 +22,6 @@ comp-storage-cant-drop = Du kannst nicht loslassen { THE($entity) }!
 comp-storage-window-title = Lagergegenstand
 comp-storage-window-weight = { $weight }/{ $maxWeight }, Max Größe: {$size}
 comp-storage-window-slots = Slots: { $itemCount }/{ $maxCount }, Max Größe: {$size}
-comp-storage-window-dummy = Dummy
+comp-storage-window-dummy = Attrappe
 comp-storage-verb-open-storage = Lager öffnen
 comp-storage-verb-close-storage = Lager schließen

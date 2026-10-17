@@ -23,7 +23,7 @@ ent-EdgeDetector = Kantendetektor
     .desc = Teile steigende und fallende Kanten in einzigartige Impulse und erkennt, wie nervös dich sind.
 
 ent-PowerSensor = Leistungssensor
-    .desc = Generiert Signale als Reaktion auf Powernet-Änderungen. Kann zwischen Kabelspannungen getaktet werden.
+    .desc = Generiert Signale als Reaktion auf Stromnetz-Änderungen. Kann zwischen Kabelspannungen getaktet werden.
 
 ent-MemoryCell = Speicherzelle
     .desc = Eine D-Latch-Schaltung, die ein Signal speichert, das je nach Eingang geändert werden kann und Ports aktiviert.

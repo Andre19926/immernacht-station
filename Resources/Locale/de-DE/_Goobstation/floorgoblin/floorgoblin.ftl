@@ -2,18 +2,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-language-FloorGoblin-name = Floor Goblin
+language-FloorGoblin-name = Bodengoblin
 language-FloorGoblin-description =
     Mimimi mimimi iyoyoyo memimimimi bibibibibi
 
-chat-language-FloorGoblin-name = Floor Goblin
+chat-language-FloorGoblin-name = Bodengoblin
 
-chat-speech-verb-name-floor-goblin = Floor Goblin
+chat-speech-verb-name-floor-goblin = Bodengoblin
 chat-speech-verb-floor-goblin-1 = Mumbles
 chat-speech-verb-floor-goblin-2 = Halsbänder
 chat-speech-verb-floor-goblin-3 = Schreie
 
-ghost-role-information-floor-goblin-name = Floor Goblin
+ghost-role-information-floor-goblin-name = Bodengoblin
 ghost-role-information-floor-goblin-description = Stiehl Schuhe, beiße Knöchel, laufe mit Brecheisen vor der Flut davon.
 
 crawl-under-floor-toggle-on = {$name} kroch in den Boden.

@@ -34,8 +34,8 @@ ent-CrateEngineeringShuttle = Shuttle-Antriebskiste
 ent-CrateEngineeringTeslaGenerator = Tesla Generatorkiste
     .desc = Ein Tesla Generator. Gott schütze dich.
 
-ent-CrateEngineeringTeslaCoil = Tesla Coil Catch
-    .desc = Tesla Coil. Zieht Blitze an und erzeugt daraus Energie.
+ent-CrateEngineeringTeslaCoil = Tesla-Spule (Fangspule)
+    .desc = Eine Tesla-Spule. Zieht Blitze an und wandelt sie in Energie um.
 
 ent-CrateEngineeringTeslaGroundingRod = Felsgestein
     .desc = Erdungsstab, am besten für Blitzschutz.

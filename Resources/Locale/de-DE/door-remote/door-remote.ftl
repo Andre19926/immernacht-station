@@ -12,7 +12,7 @@ door-remote-toggle-eletrify-text = Überladung umschalten
 door-remote-open-close-text = Öffnet und schließt Türen
 door-remote-toggle-bolt-text = Schaltet die Türbolzen um
 door-remote-emergency-access-text = Schaltet den Notzugang um
-door-remote-invalid-text = Invalid
+door-remote-invalid-text = Ungültig
 door-remote-mode-label = Modus: [color=white]{$modeString}[/color]
 
 ## Entity

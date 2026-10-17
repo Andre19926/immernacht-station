@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-machine-insert-item = {CAPITALIZE(THE($user))} eingelegt {THE($item)} in {THE($machine)}.
+machine-insert-item = {CAPITALIZE(THE($user))} hat {THE($item)} in {THE($machine)} eingelegt.
 
 machine-upgrade-examinable-verb-text = Upgrades
 machine-upgrade-examinable-verb-message = Zeigt die Maschinen-Upgrades an.
@@ -22,7 +22,7 @@ machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] nic
 machine-part-name-capacitor = Kondensator
 machine-part-name-manipulator = Manipulator
 machine-part-name-matter-bin = Materialbehälter
-machine-part-name-power-cell = Power Cell
+machine-part-name-power-cell = Energiezelle
 
 two-way-lever-left = nach links schieben
 two-way-lever-right = nach rechts schieben

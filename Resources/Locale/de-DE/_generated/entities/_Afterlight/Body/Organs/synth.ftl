@@ -1,4 +1,4 @@
-ent-OrganSynthBrain = Synthesit ccu
+ent-OrganSynthBrain = Synth-CPU
     .desc = Effektiv das Gehirn eines Synth. Es ist irgendwie glatter als deine.
 
 ent-OrganSynthEyes = Kamera Gimbal

@@ -26,7 +26,7 @@ reagent-desc-aranesp = Ein schwer zu synthetisierender Leistungsverstärker, am 
 reagent-name-mousebites = Mausbisse
 reagent-desc-mousebites = Hast du das Medikament ausprobiert?
 
-reagent-name-oleoresin-capsaicin = Oleoresin Capsaicin
+reagent-name-oleoresin-capsaicin = Oleoresin-Capsaicin
 reagent-desc-oleoresin-capsaicin = Ein öliges Harz aus Capsaicin. Verursacht schwere Reizungen bei Berührung der Augen oder des Mundes.
 
 reagent-name-heroin = Heroin

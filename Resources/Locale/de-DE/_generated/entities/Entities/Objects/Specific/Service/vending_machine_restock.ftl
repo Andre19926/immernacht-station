@@ -16,7 +16,7 @@ ent-VendingMachineRestockClothes = wardrobe-Nachfüllbox
 ent-VendingMachineRestockCostumes = AutoDrobe-Nachfüllbox
     .desc = Eine ganze Reihe von NanoTrasen-Mitarbeitern tanzt über ein buntes Theater in einer Tragikomödie. Du kannst dich ihnen auch anschließen! Lade diese in deinen nächsten AutoDrobe-Automaten.
 
-ent-VendingMachineRestockDinnerware = Plasteel Chef's-Nachfüllbox
+ent-VendingMachineRestockDinnerware = Plasteel-Chef-Nachfüllbox
     .desc = Es ist nie roh in dieser Küche! Drop in den Restock-Slot auf dem Plasteel Chef, um zu beginnen.
 
 ent-VendingMachineRestockDiscountDans = Discount Dan's-Nachfüllbox
@@ -28,8 +28,8 @@ ent-VendingMachineRestockDonut = Robust Donuts-Nachfüllbox
 ent-VendingMachineRestockEngineering = EngiVend-Nachfüllbox
     .desc = Nur von zertifizierten Fachleuten verwendet werden.
 
-ent-VendingMachineRestockGames = Good Clean Fun-Nachfüllbox
-    .desc = Es ist Zeit für Initiative zu rollen, Würfel Drachen! Lade am Good Clean Fun-Automaten auf!
+ent-VendingMachineRestockGames = Good-Clean-Fun-Nachfüllbox
+    .desc = Zeit, die Initiative auszuwürfeln, Drachenwürfler! Lade am Good-Clean-Fun-Automaten nach!
 
 ent-VendingMachineRestockGetmoreChocolateCorp = GetMore Chocolate-Nachfüllbox
     .desc = Eine Schachtel mit dem feinsten Ersatz-Kakao. Nur zur Verwendung in offiziellen Getmore Chocolate-Automaten.
@@ -68,7 +68,7 @@ ent-VendingMachineRestockRobotics = Robotech Deluxe-Nachfüllbox
     .desc = Eine Schachtel voller Werkzeuge zum Erstellen von Cyborgs. Lade es in ein Robotech Deluxe, um zu beginnen.
 
 ent-VendingMachineRestockHappyHonk = Happy Honk-Nachfüllbox
-    .desc = Legen sie diese box voller spaß in den restock-slot auf dem happy honk dispenser, um zu beginnen.
+    .desc = Setze diese Box voller Spaß in den Nachfüllschacht des Happy-Honk-Spenders ein, um zu beginnen.
 
 ent-VendingMachineRestockChemVend = ChemVend-Nachfüllbox
     .desc = Eine Box, die mit Chemikalien gefüllt und mit gefährlich aussehenden NFPA-Diamanten bedeckt ist. Lade es in einen ChemVend, um zu beginnen.

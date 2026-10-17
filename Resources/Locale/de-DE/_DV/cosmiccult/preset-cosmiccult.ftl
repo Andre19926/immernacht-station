@@ -15,8 +15,9 @@ cosmiccult-vote-steward-initiator = Das Unbekannte
 cosmiccult-vote-steward-title = Verwalter des Kosmischen Kults
 cosmiccult-vote-steward-briefing =
     Du bist der Steward des Kosmischen Kults!
-    Stelle sicher, dass The Monument an einem sicheren Ort platziert ist, und organisiere den Kult, um deinen kollektiven Sieg zu gewährleisten.
-    Es ist dir nicht erlaubt, Kultisten darüber zu unterrichten, wie sie ihre Entropie verwenden oder ausgeben sollen.
+    Stelle sicher, dass das Monument an einem sicheren Ort platziert wird, und organisiere den Kult, um euren gemeinsamen Sieg zu gewährleisten.
+    Es ist dir nicht erlaubt, Kultisten Anweisungen zu geben, wie sie ihre Entropie verwenden oder ausgeben sollen.
+
 
 cosmiccult-finale-autocall-briefing = Das Monument ist fertiggestellt! Versammelt euch, aktiviert sie und bereitet euch auf das Ende vor.
 cosmiccult-finale-ready = Ein schreckliches Licht strömt aus dem Monument hervor!
@@ -116,7 +117,7 @@ cosmiccult-rift-purge = {$NAME} Säubert die bösartige Kluft von der Realität!
 
 ## CHANTRY
 
-cosmiccult-chantry-location = Ein gefährlicher Anstieg des Λ-CDM wurde festgestellt {$location}Abfangen und sofort eingreifen.
+cosmiccult-chantry-location = Ein gefährlicher Anstieg des Λ-CDM wurde bei {$location} festgestellt! Abfangen und sofort eingreifen.
 cosmiccult-chantry-powerup = Die leere Chantry flackert zum Leben!
 
 ## UI / BASE POPUP
@@ -201,7 +202,7 @@ cosmiccult-silicon-colossus-briefing = Du wurdest in einen Entropischen Koloss v
 
 # Goobstation
 
-cult-alert-recall-shuttle = Hohe Konzentrationen von Λ-CDM unbekannten Ursprungs an Bord der Station festgestellt. Alle anomalen Anwesenheiten müssen gespült oder zurückgehalten werden, bevor die Evakuierung genehmigt werden kann.
+cult-alert-recall-shuttle = Hohe Konzentrationen von Λ-CDM unbekannten Ursprungs an Bord der Station festgestellt. Alle anomalen Präsenzen müssen beseitigt oder festgesetzt werden, bevor die Evakuierung genehmigt werden kann.
 
 cosmiccult-vote-lone-steward-title = Der einsame Kultist
 cosmiccult-vote-lone-steward-briefing = Sorge dafür, dass das Monument an einem sicheren Ort steht, und vollende, was der Kult begonnen hat.

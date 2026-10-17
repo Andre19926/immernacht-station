@@ -1,5 +1,5 @@
 ent-CrateCybersunDarkGygaxBundle = Cybersun-Dark-Gygax-Paket
-    .desc = Enthält eine Reihe von Cybersan Light Armored Mechs.
+    .desc = Enthält eine Reihe leicht gepanzerter Cybersun-Mechs.
 
 ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
     .desc = Enthält eine Reihe von Cybersan schweren gepanzerten Mechs.

@@ -92,8 +92,8 @@ air-alarm-ui-vent-internal-bound-label = Interne Grenze
 ### Scrubbers
 
 air-alarm-ui-scrubber-pump-direction-label = Richtung
-air-alarm-ui-scrubber-volume-rate-label = Rate (L)
-air-alarm-ui-scrubber-wide-net-label = WideNet
+air-alarm-ui-scrubber-volume-rate-label = Rate (l)
+air-alarm-ui-scrubber-wide-net-label = Großflächig
 air-alarm-ui-scrubber-select-all-gases-label = Alle auswählen
 air-alarm-ui-scrubber-deselect-all-gases-label = Alle abwählen
 

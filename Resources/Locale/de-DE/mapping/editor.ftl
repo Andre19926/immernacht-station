@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mapping-entities = Entities
+mapping-entities = Entitäten
 mapping-tiles = Kacheln
 mapping-decals = Decals
 

@@ -36,7 +36,7 @@ traitor-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es
 traitor-no-one-ready = Keine Spieler bereit! Kann Traitor nicht starten.
 
 ## TraitorDeathMatch
-traitor-death-match-title = Traitor Deathmatch
+traitor-death-match-title = Verräter-Deathmatch
 traitor-death-match-description = Jeder ist ein Verräter. Alle wollen einander tot sehen.
 traitor-death-match-station-is-too-unsafe-announcement = Die Station ist zu unsicher, um fortzufahren. Du hast eine Minute Zeit.
 traitor-death-match-end-round-description-first-line = Die danach geborgenen PDAs ...
@@ -66,8 +66,8 @@ traitor-role-codewords-short =
     Die Codewörter sind:
     {$codewords}.
 
-traitor-role-uplink-code-short = Dein Uplink-Code ist {$code}Stellen dich es als deinen PDA-Klingelton ein, um Zugang zum Schwarzmarkt zu erhalten.
-traitor-role-uplink-pen-code-short = Dein Pen Uplink Code ist {$code}Drehen dich den Stift zum Entsperren. Schlösser wenn geschlossen.
+traitor-role-uplink-code-short = Dein Uplink-Code ist {$code}. Stelle ihn als PDA-Klingelton ein, um Zugang zum Schwarzmarkt zu erhalten.
+traitor-role-uplink-pen-code-short = Dein Stift-Uplink-Code ist {$code}. Drehe den Stift, um ihn zu entsperren. Er sperrt sich beim Schließen.
 traitor-role-uplink-implant-short = Dein Uplink wurde implantiert. Greife aus dem Aktionsmenü darauf zu.
 
 traitor-role-moreinfo =

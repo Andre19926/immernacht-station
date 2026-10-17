@@ -14,8 +14,8 @@ heretic-ascension-ash =
 
 heretic-ascension-blade =
     Ich reiße durch Ketten aus Staub und Licht. Der Mond wächst hier, unter den Auserwählten.
-    Die Schlange enthauptete. Sein Gift ist weg. Miete mit Sichelklingen aus Silber.
-    Ein Sturm aus Stahl, bin ich, CHAMPION OF THE TORN AND PURE. ZUCHT MEINER ASCENSION!
+    Die Schlange ist enthauptet. Ihr Gift ist fort. Zerrissen von Sichelklingen aus Silber.
+    Ein Sturm aus Stahl bin ich, CHAMPION OF THE TORN AND PURE. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-lock =
     Die Stewards... Ich höre sie jetzt. Meine Freunde am vernebelten Himmel.

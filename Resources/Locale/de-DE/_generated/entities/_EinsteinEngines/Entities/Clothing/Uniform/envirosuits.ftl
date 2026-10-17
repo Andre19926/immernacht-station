@@ -11,7 +11,7 @@ ent-ClothingUniformEnvirosuitCaptain = Kapitän-Umweltanzug
     .desc = Es ist ein blauer Umweltanzug mit einigen Goldmarkierungen, die den Rang eines "Captain" bezeichnen.
 
 ent-ClothingUniformEnvirosuitChiefEngineer = Chefingenieur-Umweltanzug
-    .desc = Ein luftdichter Anzug, der von Plasmamen verwendet werden soll, der verrückt genug ist, um den Rang eines "Chief Engineer" zu erreichen.
+    .desc = Ein luftdichter Anzug für Plasmamen, die verrückt genug sind, den Rang des Chefingenieurs anzustreben.
 
 ent-ClothingUniformEnvirosuitChaplain = Kaplan-Umweltanzug
     .desc = Ein Umweltanzug, der speziell für nur die frommsten Plasmamänner entworfen wurde.
@@ -28,7 +28,7 @@ ent-ClothingUniformEnvirosuitCMO = Chefarzt-Umweltanzug
     .desc = Es ist ein Umweltanzug, getragen von denen mit der Erfahrung, "Chefarzt" zu sein.
 
 ent-ClothingUniformEnvirosuitEngineering = Technik-Umweltanzug
-    .desc = Ein luftdichter Anzug, der entworfen wurde, um von Plasmamen verwendet zu werden, die als Ingenieure eingesetzt wurden, wobei die üblichen violetten Streifen durch die Orange des Ingenieurs ersetzt wurden.
+    .desc = Ein luftdichter Anzug für Plasmamänner, die als Ingenieure arbeiten. Die üblichen violetten Streifen sind durch das Orange der Technik ersetzt.
 
 ent-ClothingUniformEnvirosuitDetective = Detektiv-Umweltanzug
     .desc = Das Haustierprojekt eines besonders noblen Plasmaman, dieser kundenspezifische Anzug wurde von Nanotrasen für seine Detektive modifiziert.
@@ -37,9 +37,9 @@ ent-ClothingUniformEnvirosuitHoP = Personalchef-Umweltanzug
     .desc = Es ist ein Umweltanzug, der von jemandem getragen wird, der in der Position des "Personalchefs" arbeitet.
 
 ent-ClothingUniformEnvirosuitHoS = Sicherheitschef-Umweltanzug
-    .desc = Ein Plasmaman Containment-Anzug, der für die wenigen mit dem Engagement dekoriert ist, um die Position des Head of Security zu erreichen.
+    .desc = Ein Plasmamann-Containment-Anzug, geschmückt für die wenigen, die den Einsatz aufbringen, die Position des Sicherheitschefs zu erreichen.
 
-ent-ClothingUniformEnvirosuitHydroponics = Hydroponik-Umweltanzug
+ent-ClothingUniformEnvirosuitHydroponics = Botanik-Umweltanzug
     .desc = Ein grün-blauer Umweltanzug zum Schutz von Plasmamen vor kleineren pflanzenbedingten Verletzungen.
 
 ent-ClothingUniformEnvirosuitJanitor = Hausmeister-Umweltanzug
@@ -64,7 +64,7 @@ ent-ClothingUniformEnvirosuitPrisoner = Gefangenen-Umweltanzug
     .desc = Ein orangefarbener Umweltanzug, der einen kriminellen Plasmamann identifiziert und schützt.
 
 ent-ClothingUniformEnvirosuitResearchDirector = Forschungsleiter-Umweltanzug
-    .desc = Es ist ein Umweltanzug, der von denen getragen wird, die das Know-how haben, um die Position des Forschungsdirektors zu erreichen.
+    .desc = Ein Umweltanzug für alle, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen.
 
 ent-ClothingUniformEnvirosuitRoboticist = Robotiker-Umweltanzug
     .desc = Ein Plasmaman Umweltanzug für Robotiker.
@@ -151,7 +151,7 @@ ent-ClothingUniformEnvirosuitTrans = Umweltanzug (Trans)
     .desc = Die Unterschrift Umweltanzug von Transylvanian Plasmamen.
 
 ent-ClothingUniformEnvirosuitPrisonGuard = Gefängniswärter-Umweltanzug
-    .desc = Ein komfortabler, langlebiger Umweltanzug, der das Gefängnispersonal von Plasmamen komfortabel und sicher hält.
+    .desc = Ein bequemer, langlebiger Umweltanzug, der das Gefängnispersonal unter den Plasmamännern bequem und sicher hält.
 
 ent-ClothingUniformEnvirosuitBrigmedic = Sanitäter-Umweltanzug (Brigmedic)
     .desc = Ein Umweltanzug zugewiesen Corpsmen Plasmamen.

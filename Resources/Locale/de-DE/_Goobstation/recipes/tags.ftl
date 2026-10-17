@@ -1,8 +1,8 @@
 construction-graph-tag-beaker = Becherglas
-construction-graph-tag-meddiag-hud = meddiag hud
-construction-graph-tag-medsec-hud = medsec hud
+construction-graph-tag-meddiag-hud = Medizin-Diagnose-HUD
+construction-graph-tag-medsec-hud = Medizin-Sicherheits-HUD
 construction-graph-tag-diagnostic-hud = Diagnosehud
-construction-graph-tag-mod-core = mod core
+construction-graph-tag-mod-core = Modul-Kern
 construction-graph-tag-mod-helmet = Mod-Helfer
 construction-graph-tag-mod-chestplate = mod-Taktplatte
 construction-graph-tag-mod-gauntlets = Mod Gauntlets

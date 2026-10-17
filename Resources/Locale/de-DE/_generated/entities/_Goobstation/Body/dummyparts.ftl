@@ -1,1 +1,1 @@
-ent-Butt = Stumpf
+ent-Butt = Hintern

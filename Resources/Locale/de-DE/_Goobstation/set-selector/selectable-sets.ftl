@@ -6,28 +6,28 @@ selectable-set-thief-anatomy-description =
     Umfasst: Storage Implanter, DNA Scrambler Implanter, ein Lollypop,
     Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife.
 
-selectable-set-thief-breacher-name = Breacher Kit
+selectable-set-thief-breacher-name = Einbrecher-Set
 selectable-set-thief-breacher-description =
     Was ist das für ein Sound? Ein lil 'C4 klopfen' an ihrer Tür.
     Kein Hindernis kann dich aufhalten!
     Enthält: Zwei C4, ein Multitool, Fernsignalgeber, Kiefer des Lebens,
     fortschrittliche Schweißer, technische Brillen und isolierte Handschuhe.
 
-selectable-set-thief-chameleon-name = Chameleon Kit
+selectable-set-thief-chameleon-name = Chamäleon-Set
 selectable-set-thief-chameleon-description =
     Du bist jeder und niemand; du bist ein Meister der Verkleidung.
     Beinhaltet: Ein vollständiges Set Chamäleon-Kleidung,
     einen Chamäleon-Projektor und eine Agenten-ID.
     Verkleidet wie jeder und alles.
 
-selectable-set-thief-syndie-name = Syndie Kit
+selectable-set-thief-syndie-name = Syndie-Set
 selectable-set-thief-syndie-description =
     Trinkets aus einer desavouierten Vergangenheit oder von einem nachlässigen Agenten gestohlen?
     Du hast einige Verbindungen hergestellt. Whiskey, Echo...
     Enthält: An Emag, Access Breaker, Interdyne Cigs, ein Syndicate-Codewort,
     ein Radio Jammer, eine neuartige Feuerzeugbox und einige seltsame rote Kristalle.
 
-selectable-set-thief-sleeper-name = Sleeper Kit
+selectable-set-thief-sleeper-name = Schläfer-Set
 selectable-set-thief-sleeper-description =
     Bis wir unsere Augen für immer schließen, verwende deine illegalen Rezepte
     um andere schlafen zu lassen.
@@ -50,14 +50,14 @@ selectable-set-thief-smuggler-description =
 
 # Syndicate
 
-selectable-set-syndicate-spy-name = Spy Bundle
+selectable-set-syndicate-spy-name = Spion-Paket
 selectable-set-syndicate-spy-description =
     Vervollständige deine Ziele ruhig mit dieser Zusammenstellung von verstohlenen Gegenständen.
     Enthält: Chamäleon-Diebehandschuhe, Chamäleon-Kit, Stimmmaske,
     Agentenausweis, Hypopen mit Nokturinflasche, Kamerafehler,
     Stealth Box, Syndicate Kiefer des Lebens, und ein Syndicate Verschlüsselungsschlüssel.
 
-selectable-set-syndicate-hitman-name = Hitman Bundle
+selectable-set-syndicate-hitman-name = Auftragskiller-Paket
 selectable-set-syndicate-hitman-description = Finde und beseitige deine Ziele leise und effektiv mit diesem Paket.
     Enthält: Cobra-Pistole mit 3 Ersatzmagazinen, CQC-Handbuch,
     eine spezielle unsichtbare Panzerweste, Interdyne-Kräuterpäckchen,
@@ -70,7 +70,7 @@ selectable-set-syndicate-implants-description =
     krav maga und Syndicate Radioimplantate, Sandevistan
     und gepaarte mantis blades autochirurgen und eine coole jacke.
 
-selectable-set-syndicate-hacker-name = Hacker Bundle
+selectable-set-syndicate-hacker-name = Hacker-Paket
 selectable-set-syndicate-hacker-description =
     Ein Bündel mit allem, was du brauchst, um in die Station selbst zu hacken und zu stören,
     die Stations-KI, ihre Cyborgs und das Sicherheitsteam. HACK THE PLANET!
@@ -78,7 +78,7 @@ selectable-set-syndicate-hacker-description =
     Funkstörsender, gefüllte Toolbox, experimenteller Syndicate-Teleporter,
     Kühlbrillen, binärer Decoder-Implanter und ein Syndicate-Verschlüsselungsschlüssel.
 
-selectable-set-syndicate-desword-name = Dark Lord Bundle
+selectable-set-syndicate-desword-name = Dunkler-Lord-Paket
 selectable-set-syndicate-desword-description = Verwandle deine Wut in Hass und deinen Hass in Leiden mit diesem Laserschwert.
     Enthält: doppelklingiges Energieschwert, Hyperzin-Mikroinjektor-Set, Klebstofftube,
     die komplette Kleidung für ein ordentliches Cosplay und einen Syndicate-Verschlüsselungsschlüssel.
@@ -107,7 +107,7 @@ selectable-set-syndicate-carp-description =
     Enthält: eine Rolle des Weges des schlafenden Karpfens, 10 dehydrierte Karpfen
     (die Hälfte davon sind Holo), ein Karpfen-Hardsuit und ein Syndicate-Verschlüsselungsschlüssel.
 
-selectable-set-syndicate-western-name = Western Bundle
+selectable-set-syndicate-western-name = Western-Paket
 selectable-set-syndicate-western-description =
     Zünde die westliche Holo-Zigarre an, kippe den Hut und lass die Musik spielen.
     Enthält: westliche Holo-Zigarre, Syndicate-Verschlüsselungsschlüssel,
@@ -178,10 +178,11 @@ selectable-set-ert-ballistic-description =
 
 selectable-set-ert-pulse-name = Pulssatz
 selectable-set-ert-pulse-description =
-    Aus Munition ist das Schlimmste, was passieren könnte
-    In einem Feuergefecht.
-    Einschließlich: Ein modifizierter Puls-Carbine.
-    EG-4-Revolver, Pulszellen.
+    Aus der Munition wird das Schlimmste,
+    was dir in einem Feuergefecht passieren kann.
+    Enthält: einen modifizierten Pulskarabiner,
+    einen EG-4-Revolver, Pulszellen.
+
 
 # Voidsuit selectors
 

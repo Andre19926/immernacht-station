@@ -1,6 +1,6 @@
-ent-ChestGingerbread = Lebkuchenkiste
+ent-ChestGingerbread = Lebkuchenbrust
 
-ent-GroinGingerbread = Lebkuchen in Leistengegend
+ent-GroinGingerbread = Lebkuchenunterleib
 
 ent-HeadGingerbread = Lebkuchenkopf
 

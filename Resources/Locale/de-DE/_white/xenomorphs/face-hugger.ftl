@@ -1,5 +1,5 @@
 xenomorphs-face-hugger-equip = { $equipment } Sprünge in dein Gesicht!
-xenomorphs-face-hugger-equip-other = { $equipment } Sprünge bei { $target }Gesicht!
+xenomorphs-face-hugger-equip-other = { $equipment } springt { $target } ins Gesicht!
 
 xenomorphs-face-hugger-unequip = { $equipment } ist zu fest eingerastet!
 

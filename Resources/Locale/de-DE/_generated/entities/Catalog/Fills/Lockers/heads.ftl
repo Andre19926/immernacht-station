@@ -10,7 +10,7 @@ ent-LockerCaptainFilled = Kapitänsspind
 ent-LockerCaptainFilledHardsuit = Kapitänsspind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerHeadOfPersonnelFilled = Kopf des Personals Spind
+ent-LockerHeadOfPersonnelFilled = Personalchef-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerChiefEngineerFilled = Spind des Chefingenieurs

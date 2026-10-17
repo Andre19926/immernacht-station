@@ -25,20 +25,20 @@ dynamic-gamerule-nukeops-title = [color=red]Nuklearer Notfall[/color]
 dynamic-gamerule-threat-perrule = {$num} Bedrohung.
 
 dynamic-gamerule-skeleton-title = Schrank Skeleton Spawn
-dynamic-gamerule-ninja-title = Space Ninja Spawn
-dynamic-gamerule-loneop-title = Lone Operative Spawn
-dynamic-gamerule-dragon-title = Space Dragon Spawn
+dynamic-gamerule-ninja-title = Weltraum-Ninja-Erscheinen
+dynamic-gamerule-loneop-title = Einzelkämpfer-Operative-Erscheinen
+dynamic-gamerule-dragon-title = Weltraumdrache-Erscheinen
 dynamic-gamerule-spiders-title = Spinnenbefall
 dynamic-gamerule-xenos-title = Xenobiologie Ausbruch
 dynamic-gamerule-revenant-title = Wiederkäuer
 dynamic-gamerule-ratking-title = Rattenmigration
 
 dynamic-gamerule-midround-traitor-title = Sleeper Agents (Verräter)
-dynamic-gamerule-midround-changeling-title = Genome Awakening (Changelings)
+dynamic-gamerule-midround-changeling-title = Genomerwachen (Wechselbälger)
 dynamic-gamerule-midround-heretic-title = Plötzliche Beleuchtung (Heretics)
 dynamic-gamerule-midround-revolutionary-title = Provokateure (Revolutionäre)
 dynamic-gamerule-midround-zombies-title = Romerol-Ausbruch (Zombies)
-dynamic-gamerule-midround-blob-title = Blob Spawn (Blob)
+dynamic-gamerule-midround-blob-title = Blob-Erscheinen (Blob)
 
 dynamic-fax-threat-none =
     Deine Station umkreist zuverlässig banalen, sicheren Raum.
@@ -47,12 +47,12 @@ dynamic-fax-threat-none =
     Wir erwarten tolle Dinge von deiner Station.
 
 dynamic-fax-threat-low =
-    Obwohl deine Station in einem von Nanotrasen kontrollierten Raum liegt,
-    Der Verlauf seiner Umlaufbahn hat dazu geführt, dass er sich ungewöhnlich nahe an exogeologischen Merkmalen mit anomalen Messwerten kreuzt.
-    Obwohl diese Merkmale Chancen für unsere Forschungsabteilung bieten,
-    Es ist bekannt, dass diese wenig verstandenen Lesungen oft mit einer erhöhten Aktivität konkurrierender interstellarer Organisationen und Einzelpersonen korreliert sind,
-    Unter ihnen die Wizard Federation und Cult of the Geometer of Blood - alle bekannten Konkurrenten für Anomalie Typ B Websites.
-    Übe erhöhte Vorsicht.
+    Obwohl deine Station in einem allgemein als Nanotrasen-kontrolliert geltenden Raum liegt,
+    führt ihre Umlaufbahn ungewöhnlich nah an exogeologischen Formationen mit anomalen Messwerten vorbei.
+    Diese Formationen bieten zwar Chancen für unsere Forschungsabteilung,
+    doch es ist bekannt, dass diese kaum verstandenen Messwerte oft mit erhöhter Aktivität konkurrierender interstellarer Organisationen und Einzelpersonen einhergehen,
+    darunter die Föderation der Weltraumzauberer und der Kult des Geometers des Blutes – allesamt bekannte Konkurrenten um Anomalie-Typ-B-Fundorte.
+    Erhöhte Vorsicht ist geboten.
 
 dynamic-fax-threat-mid = Herzlichen Glückwunsch und vielen Dank für die Teilnahme am NT-Raumfahrtprogramm „Frontier“!
     Eure Station umkreist aktiv ein hochwertiges System weit entfernt von der nächsten Versorgungsstation.

@@ -57,7 +57,7 @@ guide-entry-sop-containmentfail = Eindämmung scheitert
 guide-entry-sop-firegasspill = Feuer/Gasverschüttungen
 guide-entry-sop-meteorstorm = Meteorstürme
 guide-entry-sop-stationdamage = Schäden an der Station
-guide-entry-sop-supermatterdelam = SM Delamination
+guide-entry-sop-supermatterdelam = SM-Delaminierung
 guide-entry-sop-wardeclaration = Kriegserklärung
 guide-entry-sop-zombieoutbreak = Zombie-Ausbruch
 guide-entry-sop-emergencyresponseteam = Notfalleinsatzteam
@@ -71,17 +71,17 @@ guide-entry-sop-cargotech = Frachttechniker
 guide-entry-sop-salvage = Salvage-Spezialist
 guide-entry-sop-shaft-miner = Bergarbeiter
 # - Command
-guide-entry-sop-ntr = Nanotrasen Rep.
+guide-entry-sop-ntr = Nanotrasen-Vertreter
 guide-entry-sop-bso = Blueshield-Offizier
 guide-entry-sop-captain = Kapitän
-guide-entry-sop-hop = Leiter des Personals
+guide-entry-sop-hop = Personalchef
 guide-entry-sop-hos = Leiter der Sicherheitsabteilung
 guide-entry-sop-rd = Forschungsdirektor
 guide-entry-sop-cmo = Chefarzt
 guide-entry-sop-ce = Chefingenieur
 guide-entry-sop-qm = Quartiermeister
 # - Engineering
-guide-entry-sop-atmostech = Atmos Tech
+guide-entry-sop-atmostech = Atmosphärentechniker
 guide-entry-sop-stationengineer = Stationsingenieur
 # - Medical
 guide-entry-sop-chemist = Chemiker
@@ -97,7 +97,7 @@ guide-entry-sop-warden = Leiter
 # - Service
 guide-entry-sop-bartender = Barkeeper
 guide-entry-sop-botanist = Botaniker
-guide-entry-sop-chef = Chef
+guide-entry-sop-chef = Koch
 guide-entry-sop-clown = Clown
 guide-entry-sop-janitor = Hausmeister
 guide-entry-sop-librarian = Bibliothekar

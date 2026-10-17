@@ -1,1 +1,1 @@
-ent-OrganAnimalRuminantStomach = Bauch von Wiederkäuern
+ent-OrganAnimalRuminantStomach = Wiederkäuermagen

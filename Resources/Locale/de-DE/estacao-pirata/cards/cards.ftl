@@ -6,15 +6,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 card-examined = Dies ist die {$target}.
-cards-verb-shuffle = Shuffle
+cards-verb-shuffle = Mischen
 card-verb-shuffle-success = Karten gemischt
 cards-verb-draw = Karte ziehen
 cards-verb-flip = Karten umdrehen
 card-verb-join = Karten zusammenlegen
-card-verb-organize-success = Cards flipped face { $facedown ->
-    [true]   nach unten
-    *[false] bis
-}
+card-verb-organize-success = Karten {$facedown ->
+    [true] verdeckt
+    *[false] aufgedeckt
+} umgedreht
 cards-verb-organize-up = Karten aufdecken
 cards-verb-organize-down = Karten verdecken
 cards-verb-pickcard = Eine Karte wählen

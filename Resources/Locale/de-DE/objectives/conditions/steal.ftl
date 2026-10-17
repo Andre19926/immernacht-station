@@ -17,10 +17,10 @@
 objective-condition-steal-title-no-owner = Stehlen der {$itemName}.
 objective-condition-steal-title-alive-no-owner = Stehlen {$itemName}.
 objective-condition-steal-title = Stehlen der {$owner}'s {$itemName}.
-objective-condition-steal-description = Wir brauchen dich zu stehlen {$itemName}Lassen dich nicht erwischen.
+objective-condition-steal-description = Wir brauchen dich, um {$itemName} zu stehlen. Lass dich nicht erwischen.
 
 objective-condition-steal-station = Station
-objective-condition-steal-Ian = Leiter des Personalkorgis
+objective-condition-steal-Ian = Personalchef-Korgi
 
 objective-condition-thief-description = Die {$itemName} Wäre eine tolle Ergänzung zu meiner Sammlung!
 objective-condition-thief-animal-description = Die {$itemName} wäre eine großartige Ergänzung zu meiner Sammlung! Am wichtigsten ist, lebendig.

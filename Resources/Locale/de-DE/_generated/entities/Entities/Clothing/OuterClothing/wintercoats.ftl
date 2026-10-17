@@ -4,7 +4,7 @@ ent-ClothingOuterWinterCoat = Wintermantel
 ent-ClothingOuterWinterCoatToggleable = Wintermantel mit Haube
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterAtmos = Atmosphäre Wintercoat
+ent-ClothingOuterWinterAtmos = Atmosphäre Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterBar = Barkeeper-Wintermantel
@@ -37,10 +37,10 @@ ent-ClothingOuterWinterClown = Clown Winterjacke
 ent-ClothingOuterWinterEngi = Technische Winterjacke
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterGen = Genetik Winter Wintercoat
+ent-ClothingOuterWinterGen = Genetik Winter Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterHoP = Leiter des Personals Wintermantel
+ent-ClothingOuterWinterHoP = Personalchef-Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterHoS = Der gepanzerte Wintermantel des Sicherheitschefs
@@ -49,7 +49,7 @@ ent-ClothingOuterWinterHoS = Der gepanzerte Wintermantel des Sicherheitschefs
 ent-ClothingOuterWinterHoSUnarmored = Wintermantel des Sicherheitschefs
     .desc = Ein robuster Mantel, ein warmer Mantel, aber kein gepanzerter Mantel.
 
-ent-ClothingOuterWinterHydro = Hydrokultur Wintermantel
+ent-ClothingOuterWinterHydro = Botanik-Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterJani = Winterjacke
@@ -58,7 +58,7 @@ ent-ClothingOuterWinterJani = Winterjacke
 ent-ClothingOuterWinterMed = Medizinische Winterjacke
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterMime = Mime Wintercoat
+ent-ClothingOuterWinterMime = Mime Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterMiner = Winterbergbau
@@ -70,10 +70,10 @@ ent-ClothingOuterWinterPara = Sanitäter Wintermantel
 ent-ClothingOuterWinterQM = Wintermantel des Quartiermeisters
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterRD = Wintercoat des Forschungsleiters
+ent-ClothingOuterWinterRD = Wintermantel des Forschungsleiters
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterRobo = Robotik Wintercoat
+ent-ClothingOuterWinterRobo = Robotik Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterSci = Wissenschaft Wintermantel
@@ -94,7 +94,7 @@ ent-ClothingOuterWinterWardenUnarmored = Warden-Wintermantel
 ent-ClothingOuterWinterSyndieCap = Wintermantel des Syndicate-S
     .desc = Der Wintermantel des Syndicate-S besteht aus langlebigem Stoff mit vergoldeten Mustern und grober Wolle.
 
-ent-ClothingOuterWinterSyndieCapArmored = Gepanzerter Wintermantel des Syndicate-S
+ent-ClothingOuterWinterSyndieCapArmored = Gepanzerter Wintermantel des Syndicate-Kapitäns
     .desc = Der gepanzerte Wintermantel des Syndicate-S besteht aus dauerhaftem Stoff mit vergoldeten Mustern und grober Wolle.
 
 ent-ClothingOuterWinterSyndie = Wintermantel des Syndicate-S

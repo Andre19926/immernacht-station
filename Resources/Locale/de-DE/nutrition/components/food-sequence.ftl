@@ -92,7 +92,7 @@ food-sequence-content-anomaly-berry = Anomalie-Beere
 
 # BURGERS
 
-food-sequence-burger-gen = {$content}Burger
+food-sequence-burger-gen = {$content}burger
 
 food-sequence-burger-content-raw-meat = Rohöl
 food-sequence-burger-content-meat = fleischig
@@ -135,7 +135,7 @@ food-sequence-burger-content-world-pea = Frieden
 
 # COTTON BURGERS
 
-food-sequence-cotton-burger-gen = {$content}Burger
+food-sequence-cotton-burger-gen = {$content}burger
 
 food-sequence-cotton-burger-content-cotton-bol = Baumwolle
 food-sequence-cotton-burger-content-pyrotton-bol = Pyridin

@@ -13,7 +13,7 @@ objectives-round-end-result = {$count ->
     *[other] Es gab {$count} {MAKEPLURAL($agent)}.
 }
 
-objectives-round-end-result-in-custody = {$custody} außerhalb {$count} {MAKEPLURAL($agent)} waren in Gewahrsam.
+objectives-round-end-result-in-custody = {$custody} von {$count} {MAKEPLURAL($agent)} waren in Gewahrsam.
 
 objectives-player-user-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color])
 objectives-player-named = [color=White]{$name}[/color]
@@ -27,4 +27,4 @@ objectives-objective-partial-success = {$objective} | [color=yellow]Teilweiser E
 objectives-objective-partial-failure = {$objective} | [color=orange]Teilweises Scheitern![/color] ({TOSTRING($progress, "P0")})
 objectives-objective-fail = {$objective} | [color=red]Scheitern![/color] ({TOSTRING($progress, "P0")})
 
-objectives-in-custody = [bold][color=red]| IN KUNST |[/color][/bold]
+objectives-in-custody = [bold][color=red]| IN GEWAHRSAM |[/color][/bold]

@@ -1,21 +1,21 @@
-ent-ChestHuman = menschliche Brust
+ent-ChestHuman = Menschenbrust
 
-ent-GroinHuman = Leistengegend
+ent-GroinHuman = Menschenunterleib
 
-ent-HeadHuman = Menschlicher Kopf
+ent-HeadHuman = Menschenkopf
 
-ent-LeftArmHuman = linker menschlicher Arm
+ent-LeftArmHuman = linker Menschenarm
 
-ent-RightArmHuman = rechter menschlicher Arm
+ent-RightArmHuman = rechter Menschenarm
 
-ent-LeftHandHuman = linke menschliche Hand
+ent-LeftHandHuman = linke Menschenhand
 
-ent-RightHandHuman = rechte menschliche Hand
+ent-RightHandHuman = rechte Menschenhand
 
-ent-LeftLegHuman = linkes menschliches Bein
+ent-LeftLegHuman = linkes Menschenbein
 
-ent-RightLegHuman = rechtes menschliches Bein
+ent-RightLegHuman = rechtes Menschenbein
 
-ent-LeftFootHuman = linker menschlicher Fuß
+ent-LeftFootHuman = linker Menschenfuß
 
-ent-RightFootHuman = rechter menschlicher Fuß
+ent-RightFootHuman = rechter Menschenfuß

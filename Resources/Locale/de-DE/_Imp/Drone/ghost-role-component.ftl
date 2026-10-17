@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-role-information-onestar-mecha-name = OneStar Mecha
+ghost-role-information-onestar-mecha-name = OneStar-Mecha
 ghost-role-information-onestar-mecha-description = Du bist das Ende dieser Station.
 
 ghost-role-information-drone-name = Wartungsdrohne

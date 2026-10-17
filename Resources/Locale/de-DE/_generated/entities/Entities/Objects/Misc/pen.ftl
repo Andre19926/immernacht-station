@@ -13,7 +13,7 @@ ent-PenCentcom = CentComm
 ent-PenCap = Füllfederhalter des Kapitäns
     .desc = Ein luxuriöser Füllfederhalter für den Kapitän der Station.
 
-ent-PenHop = Füllfederhalter von HoP
+ent-PenHop = Personalchef-Füllfederhalter
     .desc = Ein luxuriöser Füllfederhalter für den HoP der Station.
 
 ent-PenWiz = Zauberstift des Zauberers

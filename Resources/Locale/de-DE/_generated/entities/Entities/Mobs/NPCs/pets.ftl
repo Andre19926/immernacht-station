@@ -35,7 +35,7 @@ ent-MobPaperwork = Papiere
     .desc = Nahm einen neuen Job, der Bücher in der Bibliothek sortierte, nachdem er von der Space Station 13 versetzt worden war. Er scheint dabei genauso langsam zu sein.
 
 ent-MobWalter = Walter
-    .desc = Er mag Chems und behandelt. Walter.
+    .desc = Er mag Chemikalien und behandelt Patienten. Walter.
 
 ent-MobPossumMorty = Mortalität
     .desc = Der Stationsbewohner Didelphis virginiana. Ein sensibler, aber belastbarer Typ.

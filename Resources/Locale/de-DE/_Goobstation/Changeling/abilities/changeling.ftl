@@ -17,7 +17,7 @@ changeling-biomass-warn-second = Unser Hunger verursacht einen Anfall von Schmer
 changeling-biomass-warn-third = Unser Hunger fordert eine Maut auf unsere Form ...
 changeling-biomass-warn-death = Unsere Zellen beginnen sich selbst zu konsumieren. Es gibt keine Rückkehr.
 
-changeling-absorb-start = {CAPITALIZE(THE($user))} Beginn der Aufnahme {CAPITALIZE(THE($target))}Die DNA!
+changeling-absorb-start = {CAPITALIZE(THE($user))} beginnt, die DNA von {CAPITALIZE(THE($target))} aufzunehmen!
 changeling-absorb-fail-incapacitated = Wir können sie nicht aufnehmen, bis sie handlungsunfähig sind.
 changeling-absorb-fail-absorbed = Es wurde bereits absorbiert.
 changeling-absorb-fail-unabsorbable = Das Target ist nicht absorbierbar.
@@ -35,14 +35,14 @@ changeling-absorbbiomatter-bad-food = Diese Nahrung ist nicht resorbierbar.
 
 changeling-transform-cycle = Umgestellt auf {$target}s DNA.
 changeling-transform-cycle-empty = Wir haben keine DNA-Stämme!
-changeling-transform-others = {CAPITALIZE(THE($user))}Der Körper verdreht sich und nimmt Form eines anderen Wesens an!
+changeling-transform-others = Der Körper von {CAPITALIZE(THE($user))} verdreht sich und nimmt die Gestalt eines anderen Wesens an!
 changeling-transform-fail-self = Wir können uns nicht in die aktuelle Form verwandeln!
 changeling-transform-fail-choose = Wir haben keine Form gewählt, in die wir uns verwandeln können!
 changeling-transform-fail-absorbed = Wir können keine Hülle verwandeln!
 changeling-transform-finish = Wir sind jetzt {$target}.
 
 changeling-sting = Wir stechen still {CAPITALIZE(THE($target))}
-changeling-sting-fail-self = Wir haben versucht zu stechen {CAPITALIZE(THE($target))}Aber etwas hinderte uns daran!
+changeling-sting-fail-self = Wir haben versucht, {CAPITALIZE(THE($target))} zu stechen, aber etwas hat uns daran gehindert!
 changeling-sting-fail-ling = Jemand hat nur versucht, uns leise zu stechen!
 changeling-sting-fail-fakeweapon = Sie werden nicht in der Lage sein, eine falsche Waffe zu erhalten.
 changeling-sting-fail-hollow = Wir sind nicht in der Lage, einen hohlen Organismus zu stechen.

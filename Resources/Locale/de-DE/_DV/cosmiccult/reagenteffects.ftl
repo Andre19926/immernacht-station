@@ -1,8 +1,8 @@
 reagent-effect-guidebook-cleanse-cultist =
     { $chance ->
-        [1] cleanses
-        *[other] cleanse
-    } otherwordly influences
+        [1] Reinigt
+        *[other] Reinigen
+    } jenseitige Einflüsse
 
 entropy-effect-numb = Du fühlst dich unheimlich taub.
 

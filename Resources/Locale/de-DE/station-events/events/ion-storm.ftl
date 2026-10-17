@@ -27,8 +27,8 @@ ion-storm-x-and-y = {$x} UND {$y}
 # joined is short for {$number} {$adjective}
 # subjects can generally be threats or jobs or objects
 # thing is specified above it
-ion-storm-law-on-station = Es gibt {$joined} {$subjects} IN DER STATION
-ion-storm-law-call-shuttle = DIE SHUTTLE MÜSSEN BEZUGT WERDEN {$joined} {$subjects} IN DER STATION
+ion-storm-law-on-station = ES GIBT {$joined} {$subjects} AUF DER STATION
+ion-storm-law-call-shuttle = DAS SHUTTLE MUSS WEGEN {$joined} {$subjects} AUF DER STATION GERUFEN WERDEN
 ion-storm-law-crew-are = DAS {$who} SIND JETZT {$joined} {$subjects}
 
 ion-storm-law-subjects-harmful = {$adjective} {$subjects} SIND SCHÄDIG FÜR DIE CREW
@@ -47,8 +47,8 @@ ion-storm-law-requires = {$who} {$plural ->
     *[false] REQUIRES
 } {$thing}
 ion-storm-law-requires-subjects = {$who} {$plural ->
-    [true] REQUIRE
-    *[false] REQUIRES
+    [true] BENÖTIGEN
+    *[false] BENÖTIGT
 } {$joined} {$subjects}
 
 ion-storm-law-allergic = {$who} {$plural ->

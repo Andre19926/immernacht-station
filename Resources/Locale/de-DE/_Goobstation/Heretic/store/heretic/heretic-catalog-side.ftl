@@ -30,7 +30,7 @@ knowledge-path-side-knowledge-desc =
     Du lernst ein spezielles, einmaliges Ritual, das 4 verschiedene Gegenstände erfordert. Die Durchführung dieses Rituals gewährt dir sofort 5 Wissenspunkte.
 
 ## stage 3
-knowledge-path-side-s3-armor-name = Armorer’s Ritual
+knowledge-path-side-s3-armor-name = Ritual des Rüstungsschmieds
 knowledge-path-side-s3-armor-desc =
     Die Rusted Hills begrüßten die Blacksmith in ihrer Großzügigkeit. Und der Schmied gab ihre Großzügigkeit in gleicher Weise zurück.
 
@@ -131,7 +131,7 @@ knowledge-path-side-s9-coin-desc =
     Die Verwendung auf einer Luftschleuse verbraucht die Münze und öffnet die Luftschleuse dauerhaft.
     Der Versuch, die Münze als Nicht-Ketzer umzudrehen oder zu verwenden, wird je nach Seite, auf der sie landet, physische und / oder Verbrennungsschäden verursachen.
 
-knowledge-path-side-s9-ashman-name = Ashen Ritual
+knowledge-path-side-s9-ashman-name = Aschenritual
 knowledge-path-side-s9-ashman-desc =
     Verwandeln dich einen Haufen Asche, ein Gehirn und ein Buch, um einen Ashman zu beschwören.
     Ashmen können streifen, blutende Wunden verursachen und große Feuerwellen freisetzen.

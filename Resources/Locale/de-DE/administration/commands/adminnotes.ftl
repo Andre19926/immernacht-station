@@ -1,4 +1,4 @@
-cmd-adminnotes-desc = Opens the admin notes panel of target player.
+cmd-adminnotes-desc = Öffnet das Admin-Notizen-Panel des Zielspielers.
 cmd-adminnotes-help = Verwendung: adminnotes <UserId OR Username>
 
 cmd-adminnotes-wrong-target = Benutzer „{$user}“ nicht gefunden.

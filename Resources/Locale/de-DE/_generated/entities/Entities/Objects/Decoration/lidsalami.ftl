@@ -1,2 +1,2 @@
 ent-LidSalami = Salamideckel
-    .desc = Ain't gon' fit, will't fit.
+    .desc = Passt nicht, passt nicht, passt doch.

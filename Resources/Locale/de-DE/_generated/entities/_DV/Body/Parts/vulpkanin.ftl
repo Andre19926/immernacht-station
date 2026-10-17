@@ -1,21 +1,21 @@
 ent-ChestVulpkanin = Vulpkanin-Brust
 
-ent-GroinVulpkanin = Leistengegend
+ent-GroinVulpkanin = Vulpkanin-Unterleib
 
-ent-HeadVulpkanin = Vulpkaninkopf
+ent-HeadVulpkanin = Vulpkanin-Kopf
 
-ent-LeftArmVulpkanin = linker Vulpkaninarm
+ent-LeftArmVulpkanin = linker Vulpkanin-Arm
 
-ent-RightArmVulpkanin = rechter Vulpkaninarm
+ent-RightArmVulpkanin = rechter Vulpkanin-Arm
 
 ent-LeftHandVulpkanin = linke Vulpkanin-Hand
 
 ent-RightHandVulpkanin = rechte Vulpkanin-Hand
 
-ent-LeftLegVulpkanin = linkes Vulpkaninbein
+ent-LeftLegVulpkanin = linkes Vulpkanin-Bein
 
-ent-RightLegVulpkanin = rechtes Vulpkaninbein
+ent-RightLegVulpkanin = rechtes Vulpkanin-Bein
 
-ent-LeftFootVulpkanin = linker Vulpkaninfuß
+ent-LeftFootVulpkanin = linker Vulpkanin-Fuß
 
-ent-RightFootVulpkanin = rechter Vulpkaninfuß
+ent-RightFootVulpkanin = rechter Vulpkanin-Fuß

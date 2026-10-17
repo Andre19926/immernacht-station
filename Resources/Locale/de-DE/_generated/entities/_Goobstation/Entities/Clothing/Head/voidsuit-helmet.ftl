@@ -13,7 +13,7 @@ ent-ClothingHeadHelmetHardsuitDreadnought = Cybersun Dreadnought-Helm
 ent-ClothingHeadHelmetVoidsuitSecurity = Sicherheitshelm Hardsuit
     .desc = Eine gut gebaute Faceplate, die am Sicherheits-Hardsuit befestigt ist.
 
-ent-ClothingHeadHelmetHardsuitHeadOfSecurityExperimental = Chef des modernen Hardsuit-Helms
+ent-ClothingHeadHelmetHardsuitHeadOfSecurityExperimental = Moderner Sicherheitschef-Hardsuit-Helm
     .desc = Sicherheitshelm mit der neuesten streng geheimen NT-HUD-Software. Dieser scheint haltbarer zu sein als Stand-Sprecher.
 
 ent-ClothingHeadHelmetHardsuitExperimentalNanorep = NTX5-Mirrordusshelm

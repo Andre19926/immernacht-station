@@ -1,5 +1,5 @@
-ent-ActionHereticOpenStore = Open Knowledge Store
-    .desc = Öffne den Knowledge Store.
+ent-ActionHereticOpenStore = Wissensladen öffnen
+    .desc = Öffnet den Wissensladen.
 
 ent-ActionHereticMansusGrasp = Mansusgras
     .desc = Kanalisiere die Macht der alten Götter durch deinen Griff.

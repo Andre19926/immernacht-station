@@ -1,4 +1,4 @@
-ent-ClothingUniformJumpskirtBartender = Barkeeper-Arbeitskleidung (Jumpskirt)
+ent-ClothingUniformJumpskirtBartender = Barkeeper-Arbeitskleidung (Rock)
     .desc = Eine schöne und ordentliche Uniform. Schade um die Bar.
 
 ent-ClothingUniformJumpskirtCaptain = Kapitänsuniform (Rock)
@@ -10,13 +10,13 @@ ent-ClothingUniformJumpskirtCargo = Frachttechniker-Arbeitskleidung (Rock)
 ent-ClothingUniformJumpskirtChiefEngineer = Chefingenieursuniform (Rock)
     .desc = Es ist eine hohe Sichtbarkeit Rock-Uniform, die diesen Ingenieuren gegeben wird, die verrückt genug sind, um den Rang eines Chefingenieurs zu erreichen.
 
-ent-ClothingUniformJumpskirtChiefEngineerTurtle = Turtleneck des Chefingenieurs (Jumpskirt)
+ent-ClothingUniformJumpskirtChiefEngineerTurtle = Turtleneck des Chefingenieurs (Rock)
     .desc = Ein gelber Turtleneck, der speziell für die Arbeit unter den Bedingungen der Ingenieurabteilung entwickelt wurde.
 
 ent-ClothingUniformJumpskirtChaplain = Kaplanuniform (Rock)
     .desc = Es ist ein schwarzer Rock-Uniform, der oft von religiösen Leuten getragen wird.
 
-ent-ClothingUniformJumpskirtChef = Koch-Arbeitskleidung (Jumpskirt)
+ent-ClothingUniformJumpskirtChef = Koch-Arbeitskleidung (Rock)
     .desc = Kann nicht ohne das kochen.
 
 ent-ClothingUniformJumpskirtChemistry = Chemikeruniform (Rock)
@@ -32,7 +32,7 @@ ent-ClothingUniformJumpskirtCMO = Chefarztuniform (Rock)
     .desc = Es ist ein Rock-Uniform, getragen von denen mit der Erfahrung, Chefarzt zu sein. Es bietet einen geringen biologischen Schutz.
 
 ent-ClothingUniformJumpskirtCMOTurtle = Chefarzt-Rollkragenuniform (Rock)
-    .desc = Es ist ein turtleneck, getragen von denen mit der erfahrung, chief medical officer zu sein. Es bietet einen geringen biologischen Schutz.
+    .desc = Ein Rollkragenpullover, getragen von denen mit der Erfahrung, Chefarzt zu sein. Er bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtDetective = Detektivuniform (Rock)
     .desc = Jemand, der das trägt, bedeutet Geschäft.
@@ -49,10 +49,10 @@ ent-ClothingUniformJumpskirtHoP = Personalchefuniform (Rock)
 ent-ClothingUniformJumpskirtHoS = Sicherheitschefsuniform (Rock)
     .desc = Es ist leuchtend rot und ziemlich knusprig, ähnlich wie die opfer der sicherheit dazu neigen.
 
-ent-ClothingUniformJumpskirtHoSAlt = Sicherheitschef Turtleneck (Jumpskirt)
+ent-ClothingUniformJumpskirtHoSAlt = Sicherheitschef-Rollkragenuniform (Rock)
     .desc = Es ist ein Rollkragen, der von denen getragen wird, die stark und diszipliniert genug sind, um die Position des Sicherheitschefs zu erreichen.
 
-ent-ClothingUniformJumpskirtHoSParadeMale = Paradeuniform des Sicherheitschefs (Jumpskirt)
+ent-ClothingUniformJumpskirtHoSParadeMale = Paradeuniform des Sicherheitschefs (Rock)
     .desc = Ein Leiter der Sicherheits-Luxus-Bekleidung, für besondere Anlässe.
 
 ent-ClothingUniformJumpskirtCommandGeneric = Führungsuniform (Rock)
@@ -81,11 +81,11 @@ ent-ClothingUniformJumpskirtPrisoner = Gefangenenuniform (Rock)
 ent-ClothingUniformJumpskirtQM = Quartiermeisteruniform (Rock)
     .desc = Was kann Braun für dich tun?
 
-ent-ClothingUniformJumpskirtQMTurtleneck = Quartiermeister-Turtleneck (Jumpskirt)
+ent-ClothingUniformJumpskirtQMTurtleneck = Quartiermeister-Rollkragenuniform (Rock)
     .desc = Ein scharfer Turtleneck sorgte für das robuste Arbeitsumfeld der Versorgung.
 
-ent-ClothingUniformJumpskirtResearchDirector = Turtleneck des Forschungsdirektors (Jumpskirt)
-    .desc = Es ist ein turtleneck, getragen von denen mit dem know-how, um die position des research director zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
+ent-ClothingUniformJumpskirtResearchDirector = Forschungsleiter-Rollkragenuniform (Rock)
+    .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtScientist = Wissenschaftleruniform (Rock)
     .desc = Es besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik verringert. Es hat Markierungen, die den Träger als Wissenschaftler bezeichnen.
@@ -124,7 +124,7 @@ ent-ClothingUniformJumpskirtTacticool = Tacticooluniform (Rock)
     .desc = Uniform für unterdurchschnittliche operative LARPers, die taktischen isolierten Handschuhdiebstahl im Weltraum durchführen.
 
 ent-ClothingUniformJumpskirtAtmos = Atmos-Techniker-Arbeitskleidung (Rock)
-    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich teste die Luftqualität.
+    .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich prüfe die Luftqualität.
 
 ent-ClothingUniformJumpskirtJanimaid = Hausmädchenuniform
     .desc = Für Profis, nicht die Posens.

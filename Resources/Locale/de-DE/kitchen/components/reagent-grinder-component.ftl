@@ -15,7 +15,7 @@ reagent-grinder-bound-user-interface-instant-button = SOFORT
 reagent-grinder-bound-user-interface-cook-time-label = GARZEIT
 reagent-grinder-component-cannot-put-entity-message = Das kannst du nicht in die Reagenzienmühle geben!
 
-grinder-menu-title = All-In-One Grinder 3000
+grinder-menu-title = Alles-in-Einem-Mühle 3000
 grinder-menu-grind-button = Mahlen
 grinder-menu-juice-button = Entsaften
 grinder-menu-auto-label = Auto-Modus

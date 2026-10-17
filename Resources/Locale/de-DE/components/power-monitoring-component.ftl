@@ -13,7 +13,7 @@ power-monitoring-window-label-sources = Quellen
 power-monitoring-window-label-smes = SMES
 power-monitoring-window-label-substation = Umspannwerk
 power-monitoring-window-label-apc = APC
-power-monitoring-window-label-misc = Misc
+power-monitoring-window-label-misc = Sonstiges
 
 power-monitoring-window-object-array = {$name} Array [{$count}]
 

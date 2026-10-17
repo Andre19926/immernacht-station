@@ -1,10 +1,10 @@
 ent-ClothingUniformJumpsuitColorWhite = Uniform (weiß)
     .desc = Ein generisches Weiß Insgesamt ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpsuitColorGrey = Uniform (grau, Jumpsuit, Color)
+ent-ClothingUniformJumpsuitColorGrey = Uniform (grau)
     .desc = Ein geschmackvoller grauer Overall, der dich an die guten alten Zeiten erinnert.
 
-ent-ClothingUniformJumpsuitColorBlack = Uniform (schwarz, Jumpsuit, Color)
+ent-ClothingUniformJumpsuitColorBlack = Uniform (schwarz)
     .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.
 
 ent-ClothingUniformJumpsuitColorBlue = Uniform (blau)
@@ -29,7 +29,7 @@ ent-ClothingUniformJumpsuitColorPink = Uniform (rosa)
     .desc = Wenn man sich das nur anschaut, fühlt man sich <i>fabelhaft</i>.
 
 ent-ClothingUniformJumpsuitColorRed = Uniform (rot)
-    .desc = Ein generisches Rot Insgesamt ohne Vertrageender Vertraggeld Handel
+    .desc = Eine schlichte rote Uniform ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitColorYellow = Uniform (gelb)
     .desc = Ein generisches Gelb Insgesamt ohne Rangmarkierungen.

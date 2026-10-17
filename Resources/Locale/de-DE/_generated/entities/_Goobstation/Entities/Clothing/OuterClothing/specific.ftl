@@ -1,5 +1,5 @@
 ent-ClothingOuterSuitHEV = H.E.V.-Anzug
-    .desc = Ganzkörper-Gefahrenanzug entwickelt, um den Träger vor Strahlung, Energie Diskargen, stumpf-Kraft-Trauma während der Handhabung von Gefahrstoffen zu schützen.
+    .desc = Ganzkörper-Gefahrenanzug, der den Träger bei der Handhabung gefährlicher Stoffe vor Strahlung, Energieentladungen und stumpfen Traumata schützt.
 
 ent-SurveillanceWirelessCameraBodyEntertainment = Nopro-Kamera
     .desc = Eine am Körper montierte Kamera. Es beobachtet dich.

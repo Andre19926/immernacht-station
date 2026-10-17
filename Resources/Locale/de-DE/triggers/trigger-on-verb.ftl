@@ -1,2 +1,2 @@
-trigger-on-verb-default = Trigger
+trigger-on-verb-default = Auslösen
 trigger-on-verb-detonation = Startdetonation

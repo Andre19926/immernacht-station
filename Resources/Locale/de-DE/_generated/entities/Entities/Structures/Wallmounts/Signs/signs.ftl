@@ -40,11 +40,11 @@ ent-SignDirectionalFood = Lebensmittelschild
 ent-SignDirectionalGravity = Schwerkraftschild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung der Schwerkraftgenerator ist.
 
-ent-SignDirectionalHop = Hopfenschild
+ent-SignDirectionalHop = Personalchef-Richtungsschild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung das Büro des Personals geht.
 
 ent-SignDirectionalHydro = Hydroschild
-    .desc = Eine Richtung Schild, die darauf hinweist, wie Hydrokultur ist.
+    .desc = Eine Richtung Schild, die darauf hinweist, wie die Botanik ist.
 
 ent-SignDirectionalIcu = Icu Schild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die ICU ist.
@@ -88,7 +88,7 @@ ent-SignAiUpload = ai upload Schild
 ent-SignArcade = Arcade Schild
     .desc = Ein Schild, das die Arkade anzeigt.
 
-ent-SignArmory = Panzerschild
+ent-SignArmory = Waffenkammer-Schild
     .desc = Ein Schild, das die Waffenkammer anzeigt.
 
 ent-SignArrivals = Ankunft Schild
@@ -193,8 +193,8 @@ ent-SignGravity = Schwerkraftschild
 ent-SignHead = Kopfschild
     .desc = Ein offizielles Schild, das die Wohnungen eines Nanotrasen-zertifizierten Abteilungsleiters anzeigt.
 
-ent-SignHydro1 = Hydroschild
-    .desc = Ein Schild, das einen Hydrokulturbereich anzeigt.
+ent-SignHydro1 = Botanikschild
+    .desc = Ein Schild, das einen Botanikbereich anzeigt.
 
 ent-SignInterrogation = Abfrageschild
     .desc = Ein Schild, das einen Verhörraum anzeigt.

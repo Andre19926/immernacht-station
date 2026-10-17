@@ -12,7 +12,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carp-rift-warning = Eine Kluft verursacht einen unnatürlich großen Energiefluss {$location}Stoppen dich es um jeden Preis!
+carp-rift-warning = Ein Riss verursacht einen unnatürlich großen Energiefluss bei {$location}. Stoppt ihn um jeden Preis!
 carp-rift-duplicate = Kann nicht 2 Laderisse gleichzeitig haben!
 carp-rift-examine = Es ist [color=yellow]{$percentage}%[/color] aufgeladen!
 carp-rift-max = Du hast deine maximale Menge an Rissen erreicht

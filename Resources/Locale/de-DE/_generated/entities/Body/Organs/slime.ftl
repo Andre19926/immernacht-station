@@ -1,4 +1,4 @@
-ent-SentientSlimeCore = fühlender Schleimkern
+ent-SentientSlimeCore = empfindungsfähiger Schleimkern
     .desc = Die Quelle der unglaublichen, endlosen Gooeyness.
 
 ent-OrganSlimeLungs = Schleimgassäcke

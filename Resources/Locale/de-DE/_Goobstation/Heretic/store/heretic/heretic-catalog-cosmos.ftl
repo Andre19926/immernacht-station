@@ -31,7 +31,7 @@ knowledge-path-cosmos-s4-desc =
     Du wirst dann für 2 Sekunden gelähmt.
     Kosmische Felder beschleunigen euch jetzt und regenerieren Ausdauer.
 
-knowledge-path-cosmos-s5-name = Star Touch
+knowledge-path-cosmos-s5-name = Sternenberührung
 knowledge-path-cosmos-s5-desc =
     Nachdem ich in einem kalten Schweiß aufgewacht war, fühlte ich eine Handfläche auf meiner Kopfhaut, eine Sigil brannte auf mich. Meine Adern strahlten jetzt ein seltsames lila Glühen aus, das Biest weiß, dass ich seine Erwartungen übertreffen werde.
 
@@ -40,7 +40,7 @@ knowledge-path-cosmos-s5-desc =
     Angebundene opfer können sich auf keinen fall teleportieren.
     Wenn das Kabel für 8 Sekunden ungebrochen bleibt, werden sie in den Schlaf versetzt, mit Stern markiert und zu dir teleportiert.
 
-knowledge-path-cosmos-s6-name = Star Blast
+knowledge-path-cosmos-s6-name = Sternenschlag
 knowledge-path-cosmos-s6-desc =
     Das Biest war jetzt zu allen Zeiten hinter mir, wobei jedes Opferwort der Bestätigung durch mich geleitet wurde.
 

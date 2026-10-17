@@ -1,21 +1,21 @@
-ent-ChestVox = Voxbrust
+ent-ChestVox = Vox-Brust
 
-ent-GroinVox = Vox-Leistengegend
+ent-GroinVox = Vox-Unterleib
 
-ent-HeadVox = Voxkopf
+ent-HeadVox = Vox-Kopf
 
-ent-LeftArmVox = linker Voxarm
+ent-LeftArmVox = linker Vox-Arm
 
-ent-RightArmVox = Rechts Vox Arm
+ent-RightArmVox = rechter Vox-Arm
 
-ent-LeftHandVox = linke Vox Hand
+ent-LeftHandVox = linke Vox-Hand
 
-ent-RightHandVox = rechte Vox Hand
+ent-RightHandVox = rechte Vox-Hand
 
-ent-LeftLegVox = linkes Voxbein
+ent-LeftLegVox = linkes Vox-Bein
 
-ent-RightLegVox = rechtes Voxbein
+ent-RightLegVox = rechtes Vox-Bein
 
-ent-LeftFootVox = linker Voxfuß
+ent-LeftFootVox = linker Vox-Fuß
 
-ent-RightFootVox = rechter Voxfuß
+ent-RightFootVox = rechter Vox-Fuß

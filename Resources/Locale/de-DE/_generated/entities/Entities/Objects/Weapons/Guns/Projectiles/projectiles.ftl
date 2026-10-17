@@ -4,7 +4,7 @@ ent-BaseBulletTrigger = BaseBullet
 ent-BaseBulletPractice = Basiskugelübung
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BaseBulletIncendiary = Base bullet indendiment
+ent-BaseBulletIncendiary = Basisgeschoss (Brand)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BaseBulletAP = Basisgeschosspanzer-Piercing

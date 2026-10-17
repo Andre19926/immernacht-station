@@ -20,4 +20,4 @@ ghost-role-information-hastur-name = Der König in Gelb
 ghost-role-information-hastur-description = ????
 ghost-role-information-hastur-rules =  Du bist [color=yellow]???[/color]. 
 hastur-round-end-agent-name = ????
-hastur-role-greeting = Ich bin [color=yellow]König[/color]Fürchte das Unbekannte.
+hastur-role-greeting = Ich bin der [color=yellow]König[/color]. Fürchte das Unbekannte.

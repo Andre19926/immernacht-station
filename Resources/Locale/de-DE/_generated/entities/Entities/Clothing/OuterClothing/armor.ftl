@@ -11,10 +11,10 @@ ent-ClothingOuterArmorReflective = reflektierende Weste
     .desc = Eine gepanzerte Weste mit fortschrittlicher Abschirmung zum Schutz vor Energiewaffen.
 
 ent-ClothingOuterArmorCaptainCarapace = Kapitänspanzer
-    .desc = Ein gepanzertes Bruststück, das Schutz bietet und gleichzeitig maximale Mobilität und Flexibilität bietet. Ausgestellt nur für die beste Station.
+    .desc = Ein gepanzertes Brustteil, das Schutz bietet und dabei maximale Beweglichkeit und Flexibilität erhält. Wird nur an die Besten der Station ausgegeben.
 
 ent-ClothingOuterArmorCentcommCarapace = centcomm carapace
-    .desc = Ein gepanzertes Bruststück, das Schutz bietet und gleichzeitig maximale Mobilität und Flexibilität bietet. Ausgestellt nur für centcomm Beamte und Agenten.
+    .desc = Ein gepanzertes Brustteil, das Schutz bietet und dabei maximale Beweglichkeit und Flexibilität erhält. Wird nur an CentComm-Beamte und -Agenten ausgegeben.
 
 ent-ClothingOuterArmorRaid = Syndicate Raid Anzug
     .desc = Ein etwas flexibler und gut gepanzerter Anzug mit einer leistungsstarken schultermontierten Taschenlampe, die in der ikonischen blutroten Farbgebung des Gorlex Marauder hergestellt wurde, schützt seinen Träger nicht vor dem Weltraum.

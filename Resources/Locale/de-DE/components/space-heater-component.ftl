@@ -18,7 +18,7 @@ comp-space-heater-mode-Cool = Kühlen
 
 comp-space-heater-ui-power-consumption = Leistungsstufe:
 comp-space-heater-ui-Low-power-consumption = Niedrig
-comp-space-heater-ui-Medium-power-consumption = Medium
+comp-space-heater-ui-Medium-power-consumption = Mittel
 comp-space-heater-ui-High-power-consumption = Hoch
 
 comp-space-heater-device-name = Raumheizer

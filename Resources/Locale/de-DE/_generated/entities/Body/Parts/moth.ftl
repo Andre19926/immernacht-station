@@ -1,6 +1,6 @@
-ent-ChestMoth = Mottentruhe
+ent-ChestMoth = Mottenbrust
 
-ent-GroinMoth = Leistenmotte
+ent-GroinMoth = Mottenunterleib
 
 ent-HeadMoth = Mottenkopf
 

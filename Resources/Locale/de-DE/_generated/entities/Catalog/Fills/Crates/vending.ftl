@@ -13,14 +13,14 @@ ent-CrateVendingMachineRestockAutoDrobeFilled = AutoDrobe-Nachfüllkiste
 ent-CrateVendingMachineRestockCondimentStationFilled = Gewürzstation-Nachfüllkiste
     .desc = Enthält eine Aufstockbox für die Gewürzstation.
 
-ent-CrateVendingMachineRestockDinnerwareFilled = Plasteel Chef-Nachfüllkiste
-    .desc = Enthält eine Aufstockbox für den Plasteel Chef-Automaten.
+ent-CrateVendingMachineRestockDinnerwareFilled = Plasteel-Chef-Nachfüllkiste
+    .desc = Enthält eine Nachfüllbox für den Plasteel-Chef-Automaten.
 
 ent-CrateVendingMachineRestockEngineeringFilled = EngiVend-Nachfüllkiste
     .desc = Enthält eine Restockbox für das EngiVend. Unterstützt auch das YouTool.
 
-ent-CrateVendingMachineRestockGamesFilled = Good Clean Fun-Nachfüllkiste
-    .desc = Enthält eine Aufstockbox für den Good Clean Fun-Automaten.
+ent-CrateVendingMachineRestockGamesFilled = Good-Clean-Fun-Nachfüllkiste
+    .desc = Enthält eine Nachfüllbox für den Good-Clean-Fun-Automaten.
 
 ent-CrateVendingMachineRestockHotDrinksFilled = Solar's Best-Nachfüllkiste
     .desc = Enthält zwei Nachfüllboxen für Solar's Best Hot Drinks Automat.
@@ -56,7 +56,7 @@ ent-CrateVendingMachineRestockRoboticsFilled = Robotech Deluxe-Nachfüllkiste
     .desc = Enthält eine Nachfüllbox für einen Robotech Deluxe-Automaten.
 
 ent-CrateVendingMachineRestockTankDispenserFilled = Tankspender-Nachfüllkiste
-    .desc = Enthält eine Restockbox für einen Engineering oder Atmospherics Tank Dispenser.
+    .desc = Enthält eine Nachfüllbox für einen Tankspender (Technik oder Atmosphärik).
 
 ent-CrateVendingMachineRestockHappyHonkFilled = Happy Honk-Nachfüllkiste
     .desc = Enthält eine Restockbox für einen Happy Honk Dispenser.

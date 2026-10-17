@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-general-station-record-console-window-title = Station Records Computer
+general-station-record-console-window-title = Stationsakten-Computer
 general-station-record-console-select-record-info = Wähle links einen Datensatz aus.
 general-station-record-console-empty-state = Keine Einträge gefunden!
 general-station-record-console-no-record-found = Für die ausgewählte Person wurde kein Datensatz gefunden.

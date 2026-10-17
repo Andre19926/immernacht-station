@@ -7,8 +7,8 @@ ent-DrinkColaCanEmpty = Space Cola kann
 ent-DrinkIcedTeaCan = Eiskanne
     .desc = Erfrischende Dose Eistee.
 
-ent-DrinkLemonLimeCan = Smite Can
-    .desc = Du wolltest ORANGE. Es gab dir Lemon-Lime.
+ent-DrinkLemonLimeCan = Strafe (Dose)
+    .desc = Du wolltest ORANGE. Du hast Zitrone-Limette bekommen.
 
 ent-DrinkLemonLimeCranberryCan = Smite Cranberry Can
     .desc = Du willst alle eine Smite Cranberry? Von Administratoren überall geliebt. Trinke in Maßen. Ein limitierter Lauf für die Feiertage!

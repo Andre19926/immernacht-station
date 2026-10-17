@@ -8,7 +8,7 @@ ent-ClothingBackpackDuffelSyndicateFilledMedicine = Syndicate-Medizin-Seesack
     .desc = Ein großer Duffelbeutel mit wesentlichen medizinischen Reagenzien.
 
 ent-ClothingBackpackDuffelSyndicateFilledShotgun = Bulldog-Bündel
-    .desc = Lean and mean: Enthält die beliebte Bulldog Shotgun, eine 12g Slug Trommel und vier 12g Buckshot Trommeln.
+    .desc = Schlank und tödlich: Enthält die beliebte Bulldog-Schrotflinte, eine 12g-Slug-Trommel und vier 12g-Schrot-Trommeln.
 
 ent-ClothingBackpackDuffelSyndicateFilledSMG = C-20r-Bündel
     .desc = Alte Gläubige: Die klassische C-20r Maschinenpistole, gebündelt mit drei Magazinen.
@@ -29,7 +29,7 @@ ent-ClothingBackpackDuffelSyndicateFilledCarbine = M-90gl-Bündel
     .desc = Ein vielseitiges Kampfgewehr mit einem angebrachten Granatwerfer, gebündelt mit 3 Magazinen und 6 Granaten verschiedener Fähigkeiten.
 
 ent-ClothingBackpackDuffelSyndicateAmmoFilled = Munitionsbündel
-    .desc = Nachladen! Enthält 4 Magazine für den C-20r, 5 Trommeln für den Bulldog, 3 Magazine für den Estoc DMR, 2 Munitionsboxen für den L6 SAW und 3 Mags für den Burner.
+    .desc = Nachladen! Enthält 4 Magazine für die C-20r, 5 Trommeln für die Bulldog, 3 Magazine für das Estoc DMR, 2 Munitionskisten für das L6 SAW und 3 Magazine für den Burner.
 
 ent-ClothingBackpackDuffelSyndicateCostumeClown = Clown-Seesack
     .desc = Ein großer Duffelbeutel für zusätzliche Honk-Waren.

@@ -64,7 +64,7 @@ knowledge-path-blade-s6-desc =
     Gewährt Immunität gegen die Zerstückelung deiner Gliedmaßen sowie Widerstand gegen Blutverlust und Schadensverlangsamung.
     Darüber hinaus, wenn du unter 50 % deiner maximalen Gesundheit bist, erhältst du eine erhöhte Widerstandsfähigkeit gegen Wunden und Widerstand gegen Schlagstöcke.
 
-knowledge-path-blade-s7-name = Empowered Blades
+knowledge-path-blade-s7-name = Gestärkte Klingen
 knowledge-path-blade-s7-desc =
     Ich fand ihn in zwei Teile gespalten, Hälften in einem Duell ohne Ende eingesperrt; eine Flut von Klingen, die weder ihre Markierung trafen, denn der Champion war unbezwingbar.
 

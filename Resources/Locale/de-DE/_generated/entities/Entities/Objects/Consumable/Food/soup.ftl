@@ -64,8 +64,8 @@ ent-FoodSoupSlime = Schleimsuppe
 ent-FoodSoupTomatoBlood = Tomatensuppe
     .desc = Riecht nach Kupfer... ist das ein Knochen?
 
-ent-FoodSoupWingFangChu = wing fang chu
-    .desc = Ein herzhaftes Gericht von Alien Wing Wang in Soja.
+ent-FoodSoupWingFangChu = Wing-Fang-Chu
+    .desc = Ein herzhaftes Gericht von Alien Wing Wang in Sojasoße.
 
 ent-FoodSoupClown = Clowns Tränen
     .desc = Nicht sehr lustig.

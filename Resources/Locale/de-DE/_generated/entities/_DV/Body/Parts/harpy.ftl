@@ -1,21 +1,21 @@
-ent-ChestHarpy = Harpyse
+ent-ChestHarpy = Harpyien-Brust
 
-ent-GroinHarpy = Harpyie
+ent-GroinHarpy = Harpyien-Unterleib
 
-ent-HeadHarpy = Harpyiekopf
+ent-HeadHarpy = Harpyienkopf
 
-ent-LeftArmHarpy = linker Harpyiearm
+ent-LeftArmHarpy = linker Harpyienarm
 
-ent-RightArmHarpy = rechter Harpyiearm
+ent-RightArmHarpy = rechter Harpyienarm
 
-ent-LeftHandHarpy = linke Harpyiehand
+ent-LeftHandHarpy = linke Harpyienhand
 
-ent-RightHandHarpy = rechte Harpyy Hand
+ent-RightHandHarpy = rechte Harpyienhand
 
-ent-LeftLegHarpy = linkes Harpyiebein
+ent-LeftLegHarpy = linkes Harpyienbein
 
-ent-RightLegHarpy = rechtes Harpyiebein
+ent-RightLegHarpy = rechtes Harpyienbein
 
-ent-LeftFootHarpy = linker Harpyiefuß
+ent-LeftFootHarpy = linker Harpyienfuß
 
-ent-RightFootHarpy = rechter Harpyiefuß
+ent-RightFootHarpy = rechter Harpyienfuß

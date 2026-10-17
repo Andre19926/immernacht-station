@@ -1,12 +1,12 @@
-ent-OrganSpaceAnimalLungs = Raumtierlungen
+ent-OrganSpaceAnimalLungs = Weltraumtier-Lungen
 
-ent-OrganSpaceAnimalHeart = Raum Tierherz
+ent-OrganSpaceAnimalHeart = Weltraumtier-Herz
 
 ent-OrganGoliathHeart = Goliath-Herz
 
 ent-OrganDragonLungs = Drachenlungen
 
-ent-OrganLaserEyes = Laserraptoraugen
+ent-OrganLaserEyes = Laserraptor-Augen
     .desc = Ich sehe dich!
 
 ent-OrganCobraHeart = Kobradrüse

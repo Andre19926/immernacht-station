@@ -1,4 +1,4 @@
-guide-entry-wraith = Wraith
+guide-entry-wraith = Phantomgeist
 
 guide-entry-plaguebringer = Plaguebringerweg
 guide-entry-harbinger = Harbingerweg

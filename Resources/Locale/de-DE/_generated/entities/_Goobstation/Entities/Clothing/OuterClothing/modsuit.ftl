@@ -1,7 +1,7 @@
 ent-ClothingOuterModsuitBase = Position
 
 ent-ClothingModsuitChestplateStandard = Standard-Taktplatte aus Modsuit
-    .desc = Eine spezielle modulare Anzug raumdichte Abdeckung für kompaktes Falten innerhalb modularer Anzugsteuerung.
+    .desc = Eine spezielle raumdichte Abdeckung für den modularen Anzug, die sich kompakt in die Anzugsteuerung falten lässt.
 
 ent-ClothingModsuitChestplateSecurity = Lotat Modsuit Brustplatte
     .desc = Ein robuster modularer Anzug mit Keramikeinsätzen für zusätzlichen Schutz

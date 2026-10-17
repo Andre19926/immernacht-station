@@ -65,14 +65,14 @@ steal-target-groups-altar-nanotrasen = Nanotrasenaltar (any)
 
 steal-target-groups-nuclear-bomb = Kernspaltung Explosivstoff
 steal-target-groups-fax-machine-captain = Kapitän Langstrecken-Faxgerät
-steal-target-groups-chem-dispenser = chemische Dispenser
+steal-target-groups-chem-dispenser = Chemiespender
 steal-target-groups-xeno-artifact = fremdes Artefakt
 steal-target-groups-booze-dispenser = Alkoholspender
 steal-target-groups-plant-rd = "RD Topfpflanze"
 steal-target-groups-toilet-golden-dirty-water = goldene Toilette
 
 # Thief Animal
-steal-target-groups-animal-named-cat = CMO's Cat
+steal-target-groups-animal-named-cat = Katze des Chefarztes
 
 steal-target-groups-animal-ian = Ian
 steal-target-groups-animal-mc-griff = McGriff

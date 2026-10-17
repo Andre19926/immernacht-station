@@ -1,62 +1,62 @@
-ent-SurgeryOpenIncision = Offener Einschnitt
+ent-SurgeryOpenIncision = Schnitt setzen
 
-ent-SurgeryStopBloodOutput = Konstante Blutproduktion stoppen
+ent-SurgeryStopBloodOutput = Dauerblutung stillen
 
-ent-SurgeryFixDismemberment = Fix Zerstückelung Reste
+ent-SurgeryFixDismemberment = Amputationsstumpf versorgen
 
-ent-SurgeryCloseIncision = Naheinschnitt
+ent-SurgeryCloseIncision = Schnitt schließen
 
-ent-SurgeryCloseIncisionHead = Naheinschnitt
+ent-SurgeryCloseIncisionHead = Schnitt schließen
 
-ent-SurgeryCloseIncisionChest = Naheinschnitt
+ent-SurgeryCloseIncisionChest = Schnitt schließen
 
-ent-SurgeryOpenRibcage = Offener Brustkorb
+ent-SurgeryOpenRibcage = Brustkorb öffnen
 
-ent-SurgeryRemovePart = Amputat
+ent-SurgeryRemovePart = Körperteil amputieren
 
-ent-SurgeryMendBones = Ausbesserungsknochen
+ent-SurgeryMendBones = Knochen richten
 
-ent-SurgeryHealOrgans = Heilorgane
+ent-SurgeryHealOrgans = Organe heilen
 
-ent-SurgeryExtractForeignBody = Fremdkörperextrakt
+ent-SurgeryExtractForeignBody = Fremdkörper entfernen
 
-ent-SurgeryRepairBrainDamage = Gehirnschäden reparieren
+ent-SurgeryRepairBrainDamage = Hirnschäden reparieren
 
-ent-SurgeryAttachHead = Befestigungskopf
+ent-SurgeryAttachHead = Kopf annähen
 
-ent-SurgeryAttachGroin = Leiste anbringen
+ent-SurgeryAttachGroin = Unterleib annähen
 
-ent-SurgeryAttachLeftArm = Befestige den linken Arm
+ent-SurgeryAttachLeftArm = Linken Arm annähen
 
-ent-SurgeryAttachRightArm = Befestige den rechten Arm
+ent-SurgeryAttachRightArm = Rechten Arm annähen
 
-ent-SurgeryAttachLeftLeg = Befestigen des linken Beins
+ent-SurgeryAttachLeftLeg = Linkes Bein annähen
 
-ent-SurgeryAttachRightLeg = Befestigen des rechten Beines
+ent-SurgeryAttachRightLeg = Rechtes Bein annähen
 
-ent-SurgeryAttachLeftHand = Linke Hand anbringen
+ent-SurgeryAttachLeftHand = Linke Hand annähen
 
-ent-SurgeryAttachRightHand = Befestige die rechte Hand
+ent-SurgeryAttachRightHand = Rechte Hand annähen
 
-ent-SurgeryAttachLeftFoot = Linker Fuß befestigen
+ent-SurgeryAttachLeftFoot = Linken Fuß annähen
 
-ent-SurgeryAttachRightFoot = Rechten Fuß befestigen
+ent-SurgeryAttachRightFoot = Rechten Fuß annähen
 
-ent-SurgeryAttachLegs = Beine anbringen
+ent-SurgeryAttachLegs = Beine annähen
 
-ent-SurgeryAttachHands = Hände anbringen
+ent-SurgeryAttachHands = Hände annähen
 
-ent-SurgeryAttachFeet = Füße befestigen
+ent-SurgeryAttachFeet = Füße annähen
 
-ent-SurgeryAttachTail = Befestigendes Ende
+ent-SurgeryAttachTail = Schwanz annähen
 
-ent-SurgeryTendWoundsBrute = Schiefe Wunden
+ent-SurgeryTendWoundsBrute = Platzwunden versorgen
 
-ent-SurgeryTendWoundsBurn = Tend Burn Wunden
+ent-SurgeryTendWoundsBurn = Brandwunden versorgen
 
-ent-SurgeryInsertItem = Hohlraumimplantat
+ent-SurgeryInsertItem = Gegenstand im Hohlraum einsetzen
 
-ent-SurgeryRemoveBrain = Entfernen des Gehirns
+ent-SurgeryRemoveBrain = Gehirn entfernen
 
 ent-SurgeryRemoveBorgBrain = Positronisches Gehirn entfernen
 
@@ -70,7 +70,7 @@ ent-SurgeryInsertHeart = Herz einsetzen
 
 ent-SurgeryRemovePump = Pumpe entfernen
 
-ent-SurgeryInsertPump = Einsetzpumpe
+ent-SurgeryInsertPump = Pumpe einsetzen
 
 ent-SurgeryRemoveLiver = Leber entfernen
 
@@ -82,30 +82,30 @@ ent-SurgeryInsertLungs = Lungen einsetzen
 
 ent-SurgeryRemoveStomach = Magen entfernen
 
-ent-SurgeryInsertStomach = Bauch einsetzen
+ent-SurgeryInsertStomach = Magen einsetzen
 
 ent-SurgeryRemoveEyes = Augen entfernen
 
 ent-SurgeryInsertEyes = Augen einsetzen
 
-ent-SurgeryInsertPowerCellSlot = Power Cell Slot einfügen
+ent-SurgeryInsertPowerCellSlot = Energiezellenschacht einsetzen
 
-ent-SurgeryOpenPowerCellSlot = Open Cavity für Power Cell Slot
+ent-SurgeryOpenPowerCellSlot = Hohlraum für Energiezellenschacht öffnen
 
-ent-SurgeryRemovePowerCellSlot = Entferne den Power Cell Slot
+ent-SurgeryRemovePowerCellSlot = Energiezellenschacht entfernen
 
-ent-SurgeryInsertPowerCellCharger = Internes Ladegerät für die Stromzelle einsetzen
+ent-SurgeryInsertPowerCellCharger = Internes Energiezellen-Ladegerät einsetzen
 
-ent-SurgeryOpenPowerCellCharger = Open Cavity für Power Cell Charger
+ent-SurgeryOpenPowerCellCharger = Hohlraum für Energiezellen-Ladegerät öffnen
 
-ent-SurgeryRemovePowerCellCharger = Entferne interne Power Cell Charger
+ent-SurgeryRemovePowerCellCharger = Internes Energiezellen-Ladegerät entfernen
 
-ent-SurgeryOpenArmAugment = Open Cavity für Armvergrößerungen
+ent-SurgeryOpenArmAugment = Hohlraum für Armerweiterung öffnen
 
-ent-SurgeryInsertArmAugment = Armvergrößerung einsetzen
+ent-SurgeryInsertArmAugment = Armerweiterung einsetzen
 
-ent-SurgeryRemoveArmAugment = Armvergrößerung entfernen
+ent-SurgeryRemoveArmAugment = Armerweiterung entfernen
 
-ent-SurgeryLobotomize = Lobotomisierung
+ent-SurgeryLobotomize = Lobotomie
 
-ent-SurgeryMendBrainTissue = Gehirngewebe reparieren
+ent-SurgeryMendBrainTissue = Hirngewebe reparieren

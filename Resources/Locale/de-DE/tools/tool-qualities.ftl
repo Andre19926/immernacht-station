@@ -15,7 +15,7 @@
 tool-quality-anchoring-name = Verankerung
 tool-quality-anchoring-tool-name = Schraubenschlüssel
 
-tool-quality-prying-name = Prying
+tool-quality-prying-name = Hebeln
 tool-quality-prying-tool-name = Brechstange
 
 tool-quality-screwing-name = Schrauben

@@ -21,8 +21,8 @@
 
 # titles that get displayed in the wire hacking window
 wires-board-name-default = Kabel
-wires-board-name-booze = BoozeDispenser
-wires-board-name-soda = SodaDispenser
+wires-board-name-booze = Alkoholspender
+wires-board-name-soda = Sodaspender
 wires-board-name-thermomachine = Thermomaschine
 wires-board-name-condenser = Kondensator
 wires-board-name-pa = Mk2-Partikelbeschleuniger
@@ -41,12 +41,12 @@ wires-board-name-ape = APE
 wires-board-name-anomalygenerator = AnomalyGenerator
 wires-board-name-cloningpod = CloningPod
 wires-board-name-cryopod = Cryo-Pod
-wires-board-name-chemdispenser = ChemDispenser
+wires-board-name-chemdispenser = Chemiespender
 wires-board-name-chemmaster = ChemMaster
 wires-board-name-generator = Generator
 wires-board-name-vendingmachine = Verkaufsautomat
 wires-board-name-intercom = Intercom
-wires-board-name-hydroponicstray = HydroponicsTray
+wires-board-name-hydroponicstray = BotanikTray
 wires-board-name-telecomserver = TelecomServer
 wires-board-name-medicalscanner = MedicalScanner
 wires-board-name-reclaimer = Reclaimer

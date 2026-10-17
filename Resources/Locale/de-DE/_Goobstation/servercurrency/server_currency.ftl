@@ -57,7 +57,7 @@ gs-balanceui-gift-value = Wert
 gs-balanceui-gift-value-tooltip = Geldbetrag zu übertragen
 
 gs-balanceui-shop-label = Token Store
-gs-balanceui-shop-empty = Out of stock!
+gs-balanceui-shop-empty = Ausverkauft!
 gs-balanceui-shop-buy = Kaufen
 gs-balanceui-shop-footer = ⚠ Hilf, dein Token zu verwenden. Nur 1 Gebrauch pro Tag.
 

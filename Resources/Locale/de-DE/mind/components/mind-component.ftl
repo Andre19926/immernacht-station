@@ -18,7 +18,7 @@ comp-mind-ghosting-prevented = Du kannst jetzt nicht geistern.
 
 ## Messages displayed when a body is examined and in a certain state
 
-comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } total katatonisch. Die Belastungen des Lebens im Weltraum müssen zu viel gewesen sein für { OBJECT($ent) }Eine Erholung ist unmöglich.
+comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } völlig katatonisch. Die Belastungen des Lebens im Weltraum müssen zu viel für { OBJECT($ent) } gewesen sein. Eine Erholung ist ausgeschlossen.
 comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } tot.
 comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } ein leerer, abwesender Blick und erscheint völlig unempfänglich auf irgendetwas. { CAPITALIZE(SUBJECT($ent)) } Vielleicht bald aus ihm herausschnappen.
 comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } Die Seele ruht und kann bald zurückkehren.

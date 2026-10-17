@@ -1,1 +1,1 @@
-ent-OrganResomiStomach = Tierischer Magen
+ent-OrganResomiStomach = Resomi-Magen

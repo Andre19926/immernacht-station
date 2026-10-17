@@ -59,7 +59,7 @@ ent-PosterContrabandBorgFancy = Cyborg Fancy
     .desc = Phantasie kann für jeden borg sein, brauche nur einen anzug.
 
 ent-PosterContrabandBorgFancyv2 = Cyborg Fancy v2
-    .desc = Cyborg Fancy, Jetzt nur die meisten Phantasie.
+    .desc = Cyborg Fancy – jetzt noch fantasievoller.
 
 ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 existiert nicht
     .desc = Ein Poster, das CentComms Leugnung der Existenz der verfallenen Station in der Nähe von Space Station 13 verspottet.
@@ -181,7 +181,7 @@ ent-PosterContrabandWaffleCorp = Mache Mine a Waffle Corp: Feine Gewehre, wirtsc
 ent-PosterContrabandMissingSpacepen = Fehlender Spacepen
     .desc = Dieses Poster zeigt etwas, das du nie finden wirst.
 
-ent-PosterContrabandExoAcid = Exomorph Warning: Acid Spit!
+ent-PosterContrabandExoAcid = Exomorph-Warnung: Säurespucke!
     .desc = Dieses Poster warnt dich vor dem sauren Spieß eines Exomorphs. Nicht, dass solche Exomorphe real sind... Richtig?
 
 ent-PosterContrabandExoRun = Exomorph Warnung: Weglaufen!
@@ -259,8 +259,8 @@ ent-PosterLegitReportCrimes = Verbrechen melden
 ent-PosterLegitIonRifle = Ionengewehr
     .desc = Ein Poster mit einem Ionengewehr.
 
-ent-PosterLegitFoamForceAd = Foam Force Ad
-    .desc = Foam Force, es ist Foam or be Foamed!
+ent-PosterLegitFoamForceAd = Foam-Force-Werbung
+    .desc = Foam Force – Schaumstoff oder Schaumstoff gemacht werden!
 
 ent-PosterLegitCohibaRobustoAd = Cohiba Robusto Ad
     .desc = Cohiba Robusto, die klassische Zigarre.
@@ -315,13 +315,13 @@ ent-PosterLegitMime = Mime Postmoderne
 
 ent-PosterLegitCarpMount = Wandkarpfen
 
-ent-PosterLegitSafetyMothDelam = Safety Moth - Delamination Sicherheitsvorkehrungen
+ent-PosterLegitSafetyMothDelam = Sicherheitsmotte – Delaminationsvorschriften
     .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter mitzuteilen, dass er sich im Spind verstecken soll, wenn der Supermatter-Kristall delaminiert ist, um Halluzinationen zu verhindern. Evakuieren könnte eine bessere Strategie sein.
 
 ent-PosterLegitSafetyMothEpi = Sicherheitsmotte - Epinephrin
     .desc = Dieses Informationsposter verwendet Safety MothTM, um den Betrachter zu informieren, um verletzten / verstorbenen Crewmitgliedern mit ihren Adrenalin-Injektoren zu helfen. "Verhindern dich Organfäule mit diesem einen einfachen Trick!"
 
-ent-PosterLegitSafetyMothPiping = Sicherheitsmotte - Piping
+ent-PosterLegitSafetyMothPiping = Sicherheitsmotte – Verrohrung
     .desc = Dieses Informationsposter verwendet Safety MothTM, um Atmos-Technikern die richtigen Arten von Rohrleitungen mitzuteilen. "Pipes, nicht Pumps!" Richtige Rohrplatzierung verhindert schlechte Leistung!
 
 ent-PosterLegitSafetyMothMeth = Sicherheitsmotte - Methamphetamin
@@ -339,7 +339,7 @@ ent-PosterLegitPeriodicTable = Periodensystem der Elemente
 ent-PosterLegitNTTGC = Nanotrasen Taktische Spielkarten
     .desc = Eine Werbung für Nanotrasens TCG-Karten: KAUFEN SIE MEHR CARDS.
 
-ent-PosterLegitSafetyMothSSD = Sicherheitsmotte - Space Sleep Disorder
+ent-PosterLegitSafetyMothSSD = Sicherheitsmotte – Space Sleep Disorder
     .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter von Space Sleep Disorder (SSD) zu erzählen, einem Zustand, bei dem die Person aufhört, auf Dinge zu reagieren. "Behandeln dich die SSD-Crew mit Sorgfalt!" du könntest jederzeit aufwachen!
 
 ent-PosterLegitOppenhopper = Oppenhopper
@@ -351,8 +351,8 @@ ent-PosterLegitTyrone = Tyrones Leitfaden für den Weltraum
 ent-PosterLegitHelio = Helio Logistics ad ad
     .desc = Ein Plakat für Helio Logistics und ihr entzückendes Maskottchen. Der Slogan lautet: "Komm regen oder scheinen, wir liefern pünktlich."
 
-ent-PosterLegitBotanyFear = Angst vor Hydrokultur
-    .desc = Denke dreimal darüber nach, bevor du die Luftschleuse für die Hydrokultur öffnest, könnte sich dort eine rote Bedrohung verstecken.
+ent-PosterLegitBotanyFear = Angst vor Botanik
+    .desc = Denke dreimal darüber nach, bevor du die Luftschleuse für die Botanik öffnest, könnte sich dort eine rote Bedrohung verstecken.
 
 ent-PosterMapBagel = Bagel-Karte
     .desc = Eine Karte der Bagel Station.

@@ -53,7 +53,7 @@ ent-FoodMealFriedegg = gebratenes Ei
     .desc = Ein gebratenes Ei mit einem Hauch von Salz und Pfeffer.
 
 ent-FoodMealMilkape = Milchaffen
-    .desc = König von Jungle Thick.
+    .desc = König des dichten Dschungels.
 
 ent-FoodMealMemoryleek = Gedächtnislauge
     .desc = Dies sollte dein Gedächtnis auffrischen.

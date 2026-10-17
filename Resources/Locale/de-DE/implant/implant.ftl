@@ -24,12 +24,12 @@ implanter-component-implanting-target = {$user} versucht, dich mit etwas zu impl
 implanter-component-implant-failed = Die {$implant} kann nicht gegeben werden {$target}!
 implanter-draw-failed-permanent = Die {$implant} in {$target} kondensiert mit { OBJECT($target) } und kann nicht entfernt werden!
 implanter-draw-failed = Du hast versucht, ein Implantat zu entfernen, aber nichts gefunden.
-implanter-draw-failed-catastrophically = Der Implanter findet nichts und scheitert katastrophal, indem er genetisches Material in {$user}Hand!
+implanter-draw-failed-catastrophically = Der Implanter findet nichts und scheitert katastrophal, indem er genetisches Material in die Hand von {$user} schleust!
 implanter-component-implant-already = {$target} bereits hat die {$implant}!
 
 ## UI
-implanter-set-draw-verb = Set Implant Draw
-implanter-set-draw-window = Set Implant Draw
+implanter-set-draw-verb = Implantat-Ziehen einstellen
+implanter-set-draw-window = Implantat-Ziehen einstellen
 implanter-set-draw-info = Wähle den Implantattyp, den dieser Implantator entfernen soll:
 implanter-set-draw-type = Implantattyp:
 

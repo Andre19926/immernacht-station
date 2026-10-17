@@ -8,19 +8,19 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 job-name-futureagent = Zukünftiger Agent
-job-name-salvagediver = Salvage Diver
+job-name-salvagediver = Salvage-Taucher
 job-name-ntr = Nanotrasen Vertreter
 job-name-bs = Blueshield
 job-name-bso = Blueshield-Offizier
 job-name-overall = Insgesamt
 job-name-tider = Tider
 
-job-name-exec = Executive Access
+job-name-exec = Führungszugang
 
 # Navy Stuff
 
 job-name-navy-officer = Marineoffizier
-job-name-navy-officer-undercover = Undercover Navy Officer
+job-name-navy-officer-undercover = Verdeckter Marineoffizier
 job-name-navy-captain = Marinekapitän
 job-name-diplomat = Diplomat
 job-name-inspector = Auditor des CentComm
@@ -49,7 +49,7 @@ JobNanotrasenRepresentative = Nanotrasen Vertreter
 JobNanotrasenCareerTrainer = Nanotrasen Karrieretrainer
 JobHecuOperative = HECU-Operator
 JobNavyOfficer = Marineoffizier
-JobNavyOfficerUndercover = Undercover Navy Officer
+JobNavyOfficerUndercover = Verdeckter Marineoffizier
 JobNavyCaptain = Marinekapitän
 JobDiplomat = Diplomat
 JobGovernmentMan = Der G-Mann

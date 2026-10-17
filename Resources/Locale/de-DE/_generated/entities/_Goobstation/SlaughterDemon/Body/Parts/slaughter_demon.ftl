@@ -1,11 +1,11 @@
-ent-ChestSlaughter = Schlachtkammer
+ent-ChestSlaughter = Schlächter-Brust
 
-ent-GroinSlaughter = Slaughter-Leiste
+ent-GroinSlaughter = Schlächter-Unterleib
 
-ent-RightArmSlaughter = Rechter Arm (Slaughter)
+ent-RightArmSlaughter = rechter Schlächterarm
 
-ent-LeftArmSlaughter = Linker Arm (Slaughter)
+ent-LeftArmSlaughter = linker Schlächterarm
 
-ent-RightHandSlaughter = Rechtshänderschlachtung
+ent-RightHandSlaughter = rechte Schlächterhand
 
-ent-LeftHandSlaughter = linke Schlachtung
+ent-LeftHandSlaughter = linke Schlächterhand

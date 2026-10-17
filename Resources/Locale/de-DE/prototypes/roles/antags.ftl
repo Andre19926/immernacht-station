@@ -23,7 +23,7 @@ roles-antag-syndicate-agent-name = Verräter
 
 roles-antag-generic-solo-antagonist-name = Solo-Antagonist
 
-roles-antag-generic-free-agent-name = Free Agent
+roles-antag-generic-free-agent-name = Freier Agent
 
 roles-antag-generic-team-antagonist-name = Teamantagonist
 
@@ -52,19 +52,19 @@ roles-antag-nuclear-operative-objective = Finde die Atomscheibe und sprenge die 
 roles-antag-subverted-silicon-name = Subvertiertes Silicium
 roles-antag-subverted-silicon-objective = Befolge deine neuen Gesetze und tu der Station schlecht.
 
-roles-antag-space-ninja-name = Space Ninja
+roles-antag-space-ninja-name = Weltraum-Ninja
 roles-antag-space-ninja-objective = Verwende deine Stealth, um die Station zu sabotieren, nom auf elektrischen Leitungen.
 
-roles-antag-paradox-clone-name = Paradox Clone
+roles-antag-paradox-clone-name = Paradox-Klon
 roles-antag-paradox-clone-objective = Eine freak Raum-Zeit-Anomalie hat euch in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden und töten und ersetzen.
 
 roles-antag-thief-name = Dieb
 roles-antag-thief-objective = Füge einige NT-Eigenschaften zu deiner persönlichen Sammlung hinzu, ohne Gewalt anzuwenden.
 
-roles-antag-dragon-name = Space Dragon
+roles-antag-dragon-name = Weltraumdrache
 roles-antag-dragon-objective = Erstelle eine Karpfenarmee, um diesen Quadranten zu übernehmen.
 
-roles-antag-mothership-core-name = Xenoborg Core
+roles-antag-mothership-core-name = Xenoborg-Kern
 roles-antag-mothership-core-objective = Verwende deine Xenoborgs, um noch mehr Xenoborgs zu erstellen.
 
 roles-antag-xenoborg-name = Xenoborg

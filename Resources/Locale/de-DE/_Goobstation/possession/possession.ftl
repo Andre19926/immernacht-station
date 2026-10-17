@@ -11,7 +11,7 @@ possession-fail-target-chaplain = Eine heilige Kraft hindert dich daran, dieses 
 possession-fail-target-immune = Eine ungewöhnliche Barriere blockiert deinen Besitzversuch!
 possession-fail-target-polymorphed = Diese Form ist zu instabil, um sie zu besitzen!
 
-possession-popup-others = {$target}Die Gliedmaßen verzerren sich auf seltsame Weise, {POSS-ADJ($target)} Augen rollen zurück {POSS-ADJ($target)} Kopf.
+possession-popup-others = Die Gliedmaßen von {$target} verrenken sich auf seltsame Weise, {POSS-ADJ($target)} Augen rollen nach hinten in {POSS-ADJ($target)} Kopf.
 possession-popup-self = Deine Seele wird aus deinem Körper gedrängt!
 possession-end-popup = {$target} ergreift und fällt schlaff zu Boden.
 

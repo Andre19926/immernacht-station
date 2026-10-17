@@ -1,1 +1,1 @@
-ent-ChestColossus = Kolossenbrust
+ent-ChestColossus = Kolossus-Brust

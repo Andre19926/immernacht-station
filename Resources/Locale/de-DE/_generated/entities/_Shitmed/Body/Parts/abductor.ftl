@@ -1,12 +1,12 @@
-ent-ChestAbductor = Entführungstruhe
+ent-ChestAbductor = Entführer-Brust
 
-ent-GroinAbductor = Leistenentführer
+ent-GroinAbductor = Entführerunterleib
 
-ent-HeadAbductor = Abduktionskopf
+ent-HeadAbductor = Entführerkopf
 
-ent-LeftArmAbductor = linker Abduktionsarm
+ent-LeftArmAbductor = linker Entführerarm
 
-ent-RightArmAbductor = rechter Abduktionsarm
+ent-RightArmAbductor = rechter Entführerarm
 
 ent-LeftHandAbductor = linke Entführerhand
 

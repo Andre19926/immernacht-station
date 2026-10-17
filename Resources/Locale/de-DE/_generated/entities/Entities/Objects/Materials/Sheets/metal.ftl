@@ -1,10 +1,10 @@
-ent-SheetSteel = Stahl
+ent-SheetSteel = Stahlplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
 
-ent-SheetSteel10 = Stahl
+ent-SheetSteel10 = Stahlplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
 
-ent-SheetSteel1 = Stahl
+ent-SheetSteel1 = Stahlplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
 
 ent-SheetBrass = Messing
@@ -16,11 +16,11 @@ ent-SheetBrass10 = Messing
 ent-SheetBrass1 = Messing
     .desc = Ein Blech aus Messing, das hauptsächlich von Uhrwerk-Enthusiasten und den Überresten von Ratvarian-Kulten verwendet wird.
 
-ent-SheetPlasteel = Pflaster
+ent-SheetPlasteel = Plasteelplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
 
-ent-SheetPlasteel10 = Pflaster
+ent-SheetPlasteel10 = Plasteelplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
 
-ent-SheetPlasteel1 = Pflaster
+ent-SheetPlasteel1 = Plasteelplatte
     .desc = Ein Blech, das oft auf der Station in verschiedenen Anwendungen verwendet wird.
