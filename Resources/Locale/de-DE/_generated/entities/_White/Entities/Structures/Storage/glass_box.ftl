@@ -1,2 +1,2 @@
 ent-GlassBoxLamarrFilled = Glaskasten
-    .desc = Ein robustes Schaufenster für eine teure Ausstellung.
+    .desc = Eine robuste Vitrine für eine teure Ausstellung.

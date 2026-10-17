@@ -1,5 +1,5 @@
 ent-FenceMetalBroken = gebrochener Kettengliederzaun
-    .desc = Jemand wurde wirklich wütend auf ein unbelebtes Objekt.
+    .desc = Jemand ist auf einen leblosen Gegenstand richtig wütend geworden.
 
 ent-FenceMetalStraight = Kettengliedzaun
     .desc = Ein Metallzaun, der wahrscheinlich etwas sehr Wichtiges absperrt.
@@ -11,4 +11,4 @@ ent-FenceMetalEnd = Kettengliedzaun
     .desc = Ein Metallzaun, der wahrscheinlich etwas sehr Wichtiges absperrt.
 
 ent-FenceMetalGate = Kettenglied Zaunklappe
-    .desc = Du könntest die Tür benutzen, anstatt überzuwölben - wenn du ein COWARD bist, das ist.
+    .desc = Du könntest die Tür benutzen, statt drüberzuklettern – wenn du kein FEIGLING bist, natürlich.

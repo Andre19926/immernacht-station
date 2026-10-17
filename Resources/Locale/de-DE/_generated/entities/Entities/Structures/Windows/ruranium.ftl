@@ -1,8 +1,8 @@
 ent-ReinforcedUraniumWindow = verstärktes Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-UraniumReinforcedWindowDirectional = gerichtetes verstärktes Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-ReinforcedUraniumWindowDiagonal = verstärktes Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

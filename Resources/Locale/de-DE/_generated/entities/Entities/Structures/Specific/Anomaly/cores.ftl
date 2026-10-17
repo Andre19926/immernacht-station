@@ -8,7 +8,7 @@ ent-AnomalyCoreIce = Eisanomaliekern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFlesh = Fleischanomalienkern
-    .desc = Der Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, könnte aber eine herzhafte Mahlzeit sein, wenn sie gekocht wird.
+    .desc = Der Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, könnte aber gekocht eine herzhafte Mahlzeit sein.
 
 ent-AnomalyCoreRock = Felsanomalienkern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
@@ -44,7 +44,7 @@ ent-AnomalyCoreIceInert = Eisanomaliekern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreFleshInert = Fleischanomalienkern
-    .desc = Der inerte Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, aber könnte gutes Essen in den richtigen Händen sein?
+    .desc = Der inerte Kern einer zerstörten Fleischanomalie. Pulsiert widerlich, könnte in den richtigen Händen aber ein gutes Essen ergeben?
 
 ent-AnomalyCoreRockInert = Felsanomalienkern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.

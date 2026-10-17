@@ -1,2 +1,2 @@
 ent-Singularity = Gravitationssingularität
-    .desc = Ein hypnotisierender Wirbel der Dunkelheit, der alles ansaugt. Wenn es sich auf dich zubewegt, renne.
+    .desc = Ein hypnotisierender Wirbel der Dunkelheit, der alles verschlingt. Wenn er auf dich zukommt: lauf.

@@ -1,2 +1,2 @@
 ent-Emitter = Emitter
-    .desc = Ein Heavy Duty Industrielaser. Schießt nonstop, wenn eingeschaltet.
+    .desc = Ein industrieller Hochleistungslaser. Feuert ununterbrochen, solange er eingeschaltet ist.

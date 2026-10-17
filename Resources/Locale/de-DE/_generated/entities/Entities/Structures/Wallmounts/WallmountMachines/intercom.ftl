@@ -1,5 +1,5 @@
 ent-IntercomAssembly = Gegensprechanlage
-    .desc = Ein Intercom. Es scheint momentan nicht sehr hilfreich zu sein.
+    .desc = Ein Intercom. Scheint im Moment nicht sehr hilfreich zu sein.
 
 ent-IntercomConstructed = Sprechfunk
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
@@ -23,7 +23,7 @@ ent-IntercomScience = Sprechfunk
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
 ent-IntercomSecurity = Sprechfunk
-    .desc = Ein Intercom. Es wurde mit Metall von Sicherheitshelmen verstärkt, so dass es eine Hündin-und-ein-halb zu öffnen.
+    .desc = Ein Intercom. Es wurde mit Metall von Sicherheitshelmen verstärkt, sodass es verdammt schwer aufzubekommen ist.
 
 ent-IntercomService = Sprechfunk
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.

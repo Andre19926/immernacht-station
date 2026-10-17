@@ -1,2 +1,2 @@
 ent-XenoborgWindow = Xenoborg-Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

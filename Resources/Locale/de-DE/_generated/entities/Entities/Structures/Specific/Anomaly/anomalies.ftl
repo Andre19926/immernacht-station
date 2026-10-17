@@ -41,7 +41,7 @@ ent-AnomalyFlora = Anomalie
     .desc = Ein unmögliches Objekt. Solltest du so nah davorstehen?
 
 ent-AnomalyFloraBulb = Seltsam leuchtende Beere
-    .desc = Es ist eine wunderschöne seltsam glühende Beere. Es scheint etwas in sich zu wachsen...
+    .desc = Eine wunderschöne, seltsam glühende Beere. Es scheint etwas in ihr zu wachsen ...
 
 ent-AnomalyLiquid = Anomalie
     .desc = Ein unmögliches Objekt. Solltest du so nah davorstehen?

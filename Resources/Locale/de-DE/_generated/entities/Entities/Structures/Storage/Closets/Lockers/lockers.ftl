@@ -113,10 +113,10 @@ ent-LockerDetective = Detektivkabinett
     .desc = Normalerweise kalt und leer … wie dein Herz.
 
 ent-LockerEvidence = Beweisspind
-    .desc = Zur Aufbewahrung von Beuteln mit Geschosshülsen und Häftlingsgegenständen.
+    .desc = Zur Aufbewahrung von Beuteln mit Patronenhülsen und Häftlingsgegenständen.
 
 ent-LockerSyndicatePersonal = blutroter Spind
-    .desc = Es ist eine persönliche Lagereinheit mit einem blutroten Design.
+    .desc = Ein persönlicher Spind in blutrotem Design.
 
 ent-LockerBluespaceStation = Bluespace Spind
     .desc = Fortschrittliche Spind-Technologie.

@@ -41,7 +41,7 @@ ent-LockerSyndicate = Blutroter Schrank
     .desc = Ein Schrank in blutrotem Design.
 
 ent-ClosetBluespace = Verdächtiger Schrank
-    .desc = Es ist eine Speichereinheit ... richtig?
+    .desc = Es ist ein Aufbewahrungsschrank ... oder?
 
 ent-ClosetBluespaceUnstable = Verdächtiger Schrank
-    .desc = Es ist eine Speichereinheit ... richtig?
+    .desc = Es ist ein Aufbewahrungsschrank ... oder?

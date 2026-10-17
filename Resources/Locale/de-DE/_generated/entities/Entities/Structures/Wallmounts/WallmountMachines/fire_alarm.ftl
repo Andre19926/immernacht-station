@@ -1,11 +1,11 @@
 ent-FireAlarm = Brandmelder
-    .desc = Ein Feueralarm. Spicy!
+    .desc = Ein Feueralarm. Scharf!
 
 ent-FireAlarmAssembly = Feueralarm-Bausatz
-    .desc = Eine Feueralarmanordnung. Sehr mild.
+    .desc = Eine Feueralarm-Baugruppe. Sehr mild.
 
 ent-FireAlarmXeno = Brandmelder
-    .desc = Ein Alien Feueralarm. Funktioniert genauso!
+    .desc = Ein außerirdischer Feueralarm. Funktioniert genauso!
 
 ent-FireAlarmAssemblyXeno = Brandmelderanordnung
-    .desc = Eine außerirdische Feueralarm-Versammlung. Viel Glück mit den Drähten.
+    .desc = Eine außerirdische Feueralarm-Baugruppe. Viel Glück mit den Drähten.

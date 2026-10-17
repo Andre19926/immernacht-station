@@ -91,10 +91,10 @@ ent-WallUranium = Uranwand
     .desc = Hält die Luft drinnen und den Greytide draußen.
 
 ent-WallWood = Holzwand
-    .desc = Die traditionelle Greytide Defense.
+    .desc = Die traditionelle Greytide-Verteidigung.
 
 ent-WallWeb = Stegwand
-    .desc = Haltet die Spinnen drin und die Grauflut draußen.
+    .desc = Hält die Spinnen drinnen und die Greytide draußen.
 
 ent-WallNecropolis = Steinmauer
     .desc = Hält die Luft drinnen und den Greytide draußen.
@@ -106,13 +106,13 @@ ent-WallMiningDiagonal = Bergbaumauer
     .desc = Hält die Luft drinnen und den Greytide draußen.
 
 ent-WallVaultAlien = Alien Vault Wall
-    .desc = Eine geheimnisvolle verzierte Wand. Es kann alte Gefahren im Inneren geben.
+    .desc = Eine geheimnisvolle verzierte Wand. Im Inneren könnten uralte Gefahren lauern.
 
 ent-WallVaultRock = Rock Gewölbe Wand
-    .desc = Eine geheimnisvolle verzierte Wand. Es kann alte Gefahren im Inneren geben.
+    .desc = Eine geheimnisvolle verzierte Wand. Im Inneren könnten uralte Gefahren lauern.
 
 ent-WallVaultSandstone = Sandsteingewölbewand
-    .desc = Eine geheimnisvolle verzierte Wand. Es kann alte Gefahren im Inneren geben.
+    .desc = Eine geheimnisvolle verzierte Wand. Im Inneren könnten uralte Gefahren lauern.
 
 ent-WallInvisible = unsichtbare Wand
 
@@ -125,7 +125,7 @@ ent-WallBasaltCobblebrick = Basaltsteinmauer
     .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallSnowCobblebrick = Schneeziegelmauer
-    .desc = Eine kalte, nicht so undurchdringliche Mauer.
+    .desc = Eine kalte, nicht ganz so undurchdringliche Mauer.
 
 ent-WallAsteroidCobblebrick = Asteroiden-Ziegelmauer
     .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
@@ -140,7 +140,7 @@ ent-WallAndesiteCobblebrick = Andesite Ziegelmauer
     .desc = Stein für Stein perfekt zu einer Wand zusammengefügt.
 
 ent-WallIronsandCobblebrick = Wand aus Eisen und Ziegeln
-    .desc = Die blassen, abgerundeten Formen, aus denen diese Wand besteht, unterscheiden sich auffallend von den Eisensanden, aus denen sie angeblich hergestellt wurden.
+    .desc = Die blassen, abgerundeten Formen dieser Wand unterscheiden sich auffallend von dem Eisensand, aus dem sie angeblich gefertigt wurde.
 
 ent-Cardwall = Kartonwand
-    .desc = Haushaltskürzungen treffen hart zu.
+    .desc = Haushaltskürzungen schlagen hart zu.

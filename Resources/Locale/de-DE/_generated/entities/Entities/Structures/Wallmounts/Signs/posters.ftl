@@ -2,7 +2,7 @@ ent-PosterBroken = Gebrochenes Poster
     .desc = Vom ursprünglichen Druck ist nichts mehr zu erkennen. Das Poster ist ruiniert.
 
 ent-PosterContrabandFreeTonto = Freier Ton
-    .desc = Ein geborgener Fetzen einer viel größeren Flagge, Farben bluteten zusammen und verblassten mit dem Alter.
+    .desc = Ein geborgener Fetzen einer viel größeren Flagge, die Farben ineinander verlaufen und mit dem Alter verblasst.
 
 ent-PosterContrabandAtmosiaDeclarationIndependence = Unabhängigkeitserklärung von Atmosia
     .desc = Ein Relikt einer gescheiterten Rebellion.
@@ -23,7 +23,7 @@ ent-PosterContrabandGreyTide = Graue Flut
     .desc = Ein rebellisches Poster, das die Solidarität der Assistenten symbolisiert.
 
 ent-PosterContrabandMissingGloves = Fehlende Handschuhe
-    .desc = Dieses Poster erinnert an den Aufruhr nach den Sparmaßnahmen von Nanotrasen bei isolierten Handschuhen.
+    .desc = Dieses Poster erinnert an den Aufruhr nach Nanotrasens Sparmaßnahmen bei isolierten Handschuhen.
 
 ent-PosterContrabandHackingGuide = Hacking-Leitfaden
     .desc = Dieses Poster beschreibt die Funktionsweise der gewöhnlichen Nanotrasen-Luftschleuse. Leider scheint es veraltet zu sein.
@@ -44,25 +44,25 @@ ent-PosterContrabandTools = Werkzeuge
     .desc = Dieses Poster sieht aus wie Werbung für Werkzeuge, ist aber in Wahrheit ein unterschwelliger Seitenhieb auf die Werkzeugpolitik von CentComm.
 
 ent-PosterContrabandPower = Leistung
-    .desc = Ein Poster, das den Sitz der Macht außerhalb von Nanotrasen positioniert.
+    .desc = Ein Poster, das den Sitz der Macht außerhalb von Nanotrasen verortet.
 
 ent-PosterContrabandSpaceCube = Weltraumwürfel
     .desc = Die Raumfahrer sind dumm und ahnen nichts von der harmonischen sechsseitigen Würfelschöpfung der Natur. Die Singularität ist dumm und böse.
 
 ent-PosterContrabandCommunistState = Kommunistischer Staat
-    .desc = Alle begrüßen die Kommunistische Partei!
+    .desc = Heil der Kommunistischen Partei!
 
 ent-PosterContrabandLamarr = Lamarr
     .desc = Dieses Poster zeigt Lamarr. Vermutlich von einem verräterischen Forschungsleiter angefertigt.
 
 ent-PosterContrabandBorgFancy = Cyborg-Eleganz
-    .desc = Eleganz geht für jeden Borg, man braucht nur einen Anzug.
+    .desc = Eleganz geht bei jedem Borg – man braucht nur einen Anzug.
 
 ent-PosterContrabandBorgFancyv2 = Cyborg-Eleganz v2
     .desc = Cyborg-Eleganz – jetzt noch eleganter.
 
 ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 existiert nicht
-    .desc = Ein Poster, das sich über die Leugnung der Existenz der verfallenen Station in der Nähe von Space Station 13 durch CentComm lustig macht.
+    .desc = Ein Poster, das sich darüber lustig macht, dass CentComm die Existenz der verfallenen Station in der Nähe von Space Station 13 leugnet.
 
 ent-PosterContrabandRebelsUnite = Rebellen vereint
     .desc = Ein Poster, das den Betrachter zur Rebellion gegen Nanotrasen aufruft.
@@ -71,7 +71,7 @@ ent-PosterContrabandC20r = C-20r
     .desc = Ein Poster für die Scarborough Arms C-20r.
 
 ent-PosterContrabandHaveaPuff = Nimm einen Zug
-    .desc = Wen kümmert Lungenkrebs, wenn du high wie ein Drachen bist?
+    .desc = Wen kümmert Lungenkrebs, wenn du high wie ein Drache bist?
 
 ent-PosterContrabandRevolver = Revolver
     .desc = Denn sieben Schüsse sind alles, was du brauchst.
@@ -101,16 +101,16 @@ ent-PosterContrabandFreeDrone = Freie Drohne
     .desc = Dieses Poster erinnert an die Tapferkeit der Schurkendrohne, die einst verbannt und schließlich von CentComm zerstört wurde.
 
 ent-PosterContrabandRouny = Hast du ihn gesehen?
-    .desc = Ein altes Fahndungsposter für einen vermissten Alien. Wohin ist er wohl gerannt?
+    .desc = Ein altes Fahndungsposter für einen vermissten Außerirdischen. Wohin er wohl gerannt ist?
 
 ent-PosterContrabandRobustSoftdrinks = Robuste Softdrinks
     .desc = Robuste Softdrinks: Robuster als ein Werkzeugkasten am Kopf!
 
 ent-PosterContrabandShamblersJuice = Shambler-Saft
-    .desc = Gönn dir etwas von Shamblers Saft!
+    .desc = Gönn dir etwas von Shambler's Juice!
 
 ent-PosterContrabandPwrGame = Pwr-Spiel
-    .desc = Die Kraft, die die Spieler ANTREIBT! In Zusammenarbeit mit Vlads Salat.
+    .desc = Die Kraft, die die Spieler ANTREIBT! In Zusammenarbeit mit Vlad's Salads.
 
 ent-PosterContrabandSunkist = Sun-Kist
     .desc = Trink die Sterne!
@@ -119,10 +119,10 @@ ent-PosterContrabandSpaceCola = Weltraum-Cola
     .desc = Deine Lieblings-Cola, jetzt im Weltraum.
 
 ent-PosterContrabandSpaceUp = Space-Up!
-    .desc = Von GESCHMACK in den Weltraum gesaugt!
+    .desc = Vom GESCHMACK in den Weltraum gesaugt!
 
 ent-PosterContrabandKudzu = Kudzu
-    .desc = Ein Poster, das für einen Film über Pflanzen wirbt. Wie gefährlich könnten sie sein?
+    .desc = Ein Poster, das für einen Film über Pflanzen wirbt. Wie gefährlich könnten sie schon sein?
 
 ent-PosterContrabandMaskedMen = Maskierte Männer
     .desc = Ein Poster, das einen Film über ein paar maskierte Männer bewirbt.
@@ -134,10 +134,10 @@ ent-PosterContrabandFreeSyndicateEncryptionKey = Kostenloser Syndicate-Verschlü
     .desc = Ein Poster über Verräter, die um mehr betteln.
 
 ent-PosterContrabandBountyHunters = Kopfgeldjäger
-    .desc = Ein Poster, das Kopfgeldjagd-Dienste bewirbt. „Ich habe gehört, du hast ein Problem.“
+    .desc = Ein Poster, das für Kopfgeldjagd-Dienste wirbt. „Ich habe gehört, du hast ein Problem.“
 
 ent-PosterContrabandTheBigGasTruth = Die große Gasriesen-Wahrheit
-    .desc = Glaubt nicht alles, was auf einem Poster steht, Patrioten. Alle Echsen in der Zentralführung weigern sich, diese EINFACHE FRAGE zu beantworten: WOHER BAUT DER GASMINENARBEITER SEIN GAS AB, CENTCOMM?
+    .desc = Glaubt nicht alles, was auf einem Poster steht, Patrioten. Alle Echsen in der Zentralführung weigern sich, diese EINFACHE FRAGE zu beantworten: WOHER BEZIEHT DER GASMINENARBEITER SEIN GAS, CENTCOMM?
 
 ent-PosterContrabandWehWatches = Weh sieht zu
     .desc = Ein Poster mit einer liebenswerten grünen Echse.
@@ -152,7 +152,7 @@ ent-PosterContrabandHighEffectEngineering = Hocheffektive Technik
     .desc = Da sind 3 Splitter und eine Singularität. Die Splitter singen. Die Ingenieure weinen.
 
 ent-PosterContrabandNuclearDeviceInformational = Informationen über Kernanlagen
-    .desc = Dieses Poster zeigt ein altes Atomsprengkörper-Modell und einige hilfreiche Hinweise für den Fall, dass einer scharf gemacht wurde. Empfohlen wird, sich auf den Boden zu legen und zu weinen.
+    .desc = Dieses Poster zeigt ein altes Atombomben-Modell mit ein paar hilfreichen Hinweisen für den Fall, dass eine scharf gemacht wurde. Empfohlen wird, sich auf den Boden zu legen und zu weinen.
 
 ent-PosterContrabandRise = Erhebt euch
     .desc = Ein Poster mit einem grauen Mann, der ein Brecheisen mit dem Wort „Rise“ hält.
@@ -161,16 +161,16 @@ ent-PosterContrabandRevolt = Revolte
     .desc = Revolutionäre Propaganda, hergestellt vom Syndicate.
 
 ent-PosterContrabandMoth = Syndie-Motte – Atomeinsatz
-    .desc = Ein vom Syndicate in Auftrag gegebenes Poster, das mit der Syndie-Motte™ dem Betrachter rät, die nukleare Authentifizierungsplatte ungesichert zu lassen. „Frieden war nie eine Option!“ Kein guter Mitarbeiter würde auf diesen Unsinn hören.
+    .desc = Ein vom Syndicate in Auftrag gegebenes Poster, auf dem die Syndie-Motte™ dem Betrachter rät, die nukleare Authentifizierungsdisk ungesichert zu lassen. „Frieden war nie eine Option!“ Kein guter Mitarbeiter würde auf diesen Unsinn hören.
 
 ent-PosterContrabandCybersun600 = Cybersun: 600 Jahre Gedenkposter
-    .desc = Ein künstlerisches Poster zum Gedenken an 600 Jahre kontinuierliches Geschäft für Cybersun Industries.
+    .desc = Ein künstlerisches Poster zum Gedenken an 600 Jahre ununterbrochenen Geschäfts von Cybersun Industries.
 
 ent-PosterContrabandDonk = DONK CO. MIKROWELLENFÄHIGE LEBENSMITTEL
-    .desc = DONK CO. MIKROWELLENFÄHIGE LEBENSMITTEL: VON HUNGERNDEN STUDENTEN, FÜR HUNGERNDE STUDENTEN
+    .desc = DONK CO. MIKROWELLENGEEIGNETE LEBENSMITTEL: VON HUNGERNDEN STUDENTEN, FÜR HUNGERNDE STUDENTEN
 
 ent-PosterContrabandEnlistGorlex = Heuer an
-    .desc = Tritt noch heute den Gorlex Marauders bei! Sieh die Galaxis, töte Korpus, werde bezahlt!
+    .desc = Tritt noch heute den Gorlex-Marodeuren bei! Sieh die Galaxis, töte Korpus, werde bezahlt!
 
 ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: Für die Gesundheit der Menschheit
     .desc = Eine Werbung für die GeneClean-Kliniken von Interdyne Pharmaceutics. „Werde Herr über deinen eigenen Körper!“
@@ -212,16 +212,16 @@ ent-PosterLegitScience = Wissenschaft
     .desc = Ein Poster, das ein Atom zeigt.
 
 ent-PosterLegitIan = Ian
-    .desc = Arf Arf. Yap.
+    .desc = Wuff wuff. Kläff.
 
 ent-PosterLegitObey = Gehorche
     .desc = Ein Poster, das den Betrachter anweist, der Autorität zu gehorchen.
 
 ent-PosterLegitWalk = Gehen
-    .desc = Ein Poster, das den Betrachter anweist, zu gehen anstatt zu laufen.
+    .desc = Ein Poster, das den Betrachter anweist, zu gehen statt zu rennen.
 
 ent-PosterLegitStateLaws = Staatliche Gesetze
-    .desc = Ein Poster, das Cyborgs anweist, ihre Gesetze anzugeben.
+    .desc = Ein Poster, das Cyborgs anweist, ihre Gesetze zu nennen.
 
 ent-PosterLegitLoveIan = Liebe Ian
     .desc = Ian ist Liebe, Ian ist Leben.
@@ -230,10 +230,10 @@ ent-PosterLegitSpaceCops = Space Cops
     .desc = Ein Poster für die Fernsehshow Space Cops.
 
 ent-PosterLegitUeNo = Ue no
-    .desc = Das Ding ist alles auf Japanisch.
+    .desc = Das Ding ist komplett auf Japanisch.
 
 ent-PosterLegitGetYourLEGS = Hol dir deine BEINE
-    .desc = BEINE: Führung, Erfahrung, Genie, Subordination.
+    .desc = BEINE: Führung, Erfahrung, Intelligenz, Nachordnung.
 
 ent-PosterLegitDoNotQuestion = Nicht hinterfragen
     .desc = Ein Poster, das den Betrachter anweist, nicht nach Dingen zu fragen, die er nicht wissen soll.
@@ -260,7 +260,7 @@ ent-PosterLegitIonRifle = Ionengewehr
     .desc = Ein Poster mit einem Ionengewehr.
 
 ent-PosterLegitFoamForceAd = Foam-Force-Werbung
-    .desc = Foam Force – Schaumstoff oder Schaumstoff werden!
+    .desc = Foam Force – Schaum oder Schaum werden!
 
 ent-PosterLegitCohibaRobustoAd = Cohiba-Robusto-Werbung
     .desc = Cohiba Robusto, die klassische Zigarre.
@@ -275,7 +275,7 @@ ent-PosterLegitPDAAd = PDA-Anzeige
     .desc = Ein Poster, das den neuesten PDA der Nanotrasen-Lieferanten bewirbt.
 
 ent-PosterLegitEnlist = Heuer an
-    .desc = Tritt noch heute den Nanotrasen-ERT-Reserven bei!
+    .desc = Tritt noch heute den Notfallteam-Reserven von Nanotrasen bei!
 
 ent-PosterLegitNanomichiAd = Nanomichi-Werbung
     .desc = Ein Poster, das für Audiokassetten der Marke Nanomichi wirbt.
@@ -296,13 +296,13 @@ ent-PosterLegitCarbonDioxide = Kohlendioxid
     .desc = Dieses Informationsposter lehrt den Betrachter, was Kohlendioxid ist.
 
 ent-PosterLegitDickGumshue = Dick Gumshue
-    .desc = Ein Poster, das die Eskapaden von Dick Gumshue, dem Mausdetektiv, ankündigt. Es fordert die Crew auf, die Macht der Gerechtigkeit gegen Drahtsaboteure zu richten.
+    .desc = Ein Poster, das die Eskapaden von Dick Gumshue, dem Mausdetektiv, ankündigt. Es fordert die Crew auf, die Macht der Gerechtigkeit gegen Kabelsaboteure zu richten.
 
 ent-PosterLegitThereIsNoGasGiant = Es gibt keinen Gasriesen
-    .desc = Nanotrasen hat Poster wie dieses an alle Stationen ausgegeben, die sie daran erinnern, dass Gerüchte über einen Gasriesen falsch sind.
+    .desc = Nanotrasen hat Poster wie dieses an alle Stationen ausgegeben, um sie daran zu erinnern, dass Gerüchte über einen Gasriesen falsch sind.
 
 ent-PosterLegitJustAWeekAway = Nur eine Woche entfernt...
-    .desc = Ein Poster, das ein lange verspätetes Projekt ankündigt und weiterhin behauptet, es sei „nur noch eine Woche entfernt ...“
+    .desc = Ein Poster, das ein lange überfälliges Projekt ankündigt und weiterhin behauptet, es sei „nur noch eine Woche entfernt ...“
 
 ent-PosterLegitSecWatch = Sicherheit sieht dich
     .desc = Ein Poster, das dich daran erinnert, dass die Sicherheit jeden deiner Schritte beobachtet.
@@ -343,16 +343,16 @@ ent-PosterLegitSafetyMothSSD = Sicherheitsmotte – Space Sleep Disorder
     .desc = Dieses Informationsposter nutzt die Sicherheitsmotte™, um dem Betrachter die Space Sleep Disorder (SSD) zu erklären, einen Zustand, in dem Personen nicht mehr auf ihre Umgebung reagieren. „Behandle SSD-Crew mit Sorgfalt!“ Sie könnten jederzeit aufwachen!
 
 ent-PosterLegitOppenhopper = Oppenhopper
-    .desc = Ein Poster für einen längst vergessenen Film. Er handelt von hartnäckigen Grünschnäbeln aus dem Grasshopper-Sektor, die sich gegen Angriffe der berüchtigten Atomaren Operateure verteidigen. Der Slogan lautet: „Nuke Ops geht weiter, bis sich die Robustheit verbessert.“
+    .desc = Ein Poster für einen längst vergessenen Film. Es geht um hartnäckige Grünschnäbel aus dem Grasshopper-Sektor, die sich gegen Angriffe der berüchtigten Atomaren Operateure verteidigen. Der Slogan lautet: „Nuke Ops geht weiter, bis sich die Robustheit verbessert.“
 
 ent-PosterLegitTyrone = Tyrones Leitfaden für den Weltraum
-    .desc = Ein Poster, das für Online-Schulungen über den Weltraum wirbt. Die aufgeführten Kurse reichen vom grundlegenden Gebrauch der Stationsausrüstung bis zu kniffligen Themen wie dem Bau von Rohrbomben oder dem Entlüften ganzer Flure ins All. Ein Haftungsausschluss lautet: „So schlimm ist es nie, und am Ende kriegst du vielleicht sogar eine Tortilla.“
+    .desc = Ein Poster, das für Online-Weltraumkurse wirbt. Die aufgeführten Kurse reichen vom grundlegenden Gebrauch der Stationsausrüstung bis zu kniffligen Themen wie dem Bau von Rohrbomben oder dem Entlüften ganzer Flure ins All. Ein Haftungsausschluss lautet: „So schlimm ist es nie, und am Ende kriegst du vielleicht sogar eine Tortilla.“
 
 ent-PosterLegitHelio = Helio-Logistics-Werbung
     .desc = Ein Poster für Helio Logistics und ihr entzückendes Maskottchen. Der Slogan lautet: „Ob Regen oder Sonnenschein, wir liefern pünktlich.“
 
 ent-PosterLegitBotanyFear = Angst vor Botanik
-    .desc = Überlege dir dreimal, ob du die Luftschleuse zur Botanik öffnest. Dort könnte sich eine rote Bedrohung verstecken.
+    .desc = Überleg dir dreimal, ob du die Luftschleuse zur Botanik öffnest. Dort könnte sich eine rote Bedrohung verstecken.
 
 ent-PosterMapBagel = Bagel-Karte
     .desc = Eine Karte der Bagel Station.

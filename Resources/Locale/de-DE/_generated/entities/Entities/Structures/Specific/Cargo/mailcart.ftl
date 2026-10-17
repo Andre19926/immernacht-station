@@ -1,2 +1,2 @@
 ent-MailCart = Postwagen
-    .desc = Liefern dich Pakete mit Stil und Effizienz.
+    .desc = Liefert Pakete mit Stil und Effizienz.

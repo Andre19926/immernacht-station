@@ -1,5 +1,5 @@
 ent-MiningWindow = Bergbaufenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-MiningWindowDiagonal = Shuttle-Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

@@ -1,5 +1,5 @@
 ent-StorageCanister = Speicherkanister
-    .desc = Ein Kanister, der jede Art von Gas enthalten kann. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.
+    .desc = Ein Kanister für jede Art von Gas. Er kann mit einem Schraubenschlüssel an Anschlüsse angeschlossen werden.
 
 ent-AirCanister = Luftkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Luftgemisch enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.
@@ -35,7 +35,7 @@ ent-AmmoniaCanister = Ammoniakkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Ammoniak enthalten. Es kann an Anschlussklemmen mit einem Schraubenschlüssel angeschlossen werden.
 
 ent-NitrousOxideCanister = Lachgaskanister
-    .desc = Einen, der jede Art von Gas enthalten kann. Dieser soll Lachgas enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder-Ports befestigt werden.
+    .desc = Ein Kanister für jede Art von Gas. Dieser soll Lachgas enthalten. Er kann mit einem Schraubenschlüssel an Anschlüsse angeschlossen werden.
 
 ent-FrezonCanister = Frezonkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Frezon enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.

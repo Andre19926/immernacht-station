@@ -5,7 +5,7 @@ ent-MopBucketFull = Mop-Eimer
     .desc = Hält Wasser und die Tränen des Hausmeisters.
 
 ent-MopBucketCubeWrapped = Mop-Eimerwürfel
-    .desc = Entpacke dies, um einen Mop-Eimerwürfel zu erhalten.
+    .desc = Auspacken, um einen Wischmopp-Eimerwürfel zu erhalten.
 
 ent-JanitorialTrolley = Hausmeisterwagen
-    .desc = Dies ist das Alpha und Omega der Sanitärversorgung.
+    .desc = Das ist das Alpha und Omega der Sanitärversorgung.

@@ -14,16 +14,16 @@ ent-DebugThruster = Triebwerk
     .desc = Ein Triebwerk, das einem Shuttle die Fortbewegung ermöglicht.
 
 ent-Gyroscope = Gyroskop
-    .desc = Erhöht die mögliche Winkeldrehung des Shuttles.
+    .desc = Erhöht die mögliche Drehung des Shuttles.
 
 ent-GyroscopeUnanchored = Gyroskop
-    .desc = Erhöht die mögliche Winkeldrehung des Shuttles.
+    .desc = Erhöht die mögliche Drehung des Shuttles.
 
 ent-DebugGyroscope = Triebwerk
     .desc = Ein Triebwerk, das einem Shuttle die Fortbewegung ermöglicht.
 
 ent-RustedThruster = rostiges Triebwerk
-    .desc = Ein nicht reparierbares Triebwerk, zerlegt nach Verschleiß. Nur nützlich zum Verschrotten.
+    .desc = Ein nicht reparierbares Triebwerk, nach Verschleiß zerlegt. Nur zum Verschrotten nützlich.
 
 ent-ThrusterShuttleEvac = Triebwerk
     .desc = Ein Triebwerk, das einem Shuttle die Fortbewegung ermöglicht.

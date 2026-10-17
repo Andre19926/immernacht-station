@@ -26,4 +26,4 @@ ent-SurveillanceCameraGeneral = Kamera
     .desc = Eine Überwachungskamera. Sie beobachtet dich. Irgendwie.
 
 ent-SurveillanceCameraAssembly = Kamera
-    .desc = Eine Überwachungskamera. Scheint niemanden bald zu beobachten. Wahrscheinlich.
+    .desc = Eine Überwachungskamera. Scheint gerade niemanden zu beobachten. Wahrscheinlich.

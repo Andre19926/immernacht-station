@@ -1,5 +1,5 @@
 ent-AirSensor = Luftsensor
-    .desc = Luftsensor. Es spürt Luft.
+    .desc = Luftsensor. Er spürt Luft.
 
 ent-AirSensorAssembly = Luftsensoranordnung
-    .desc = Luftsensorbaugruppe. Eine Versammlung von Luftsensoren?
+    .desc = Luftsensor-Baugruppe. Eine Gruppe von Luftsensoren?

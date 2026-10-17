@@ -1,17 +1,17 @@
 ent-Window = Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-TintedWindow = getöntes Fenster
-    .desc = Smart getöntes Fenster mit State Switching Option.
+    .desc = Intelligent getöntes Fenster mit Zustandsumschaltung.
 
 ent-TintedWindowTransparent = getöntes Fenster
-    .desc = Smart getöntes Fenster mit State Switching Option.
+    .desc = Intelligent getöntes Fenster mit Zustandsumschaltung.
 
 ent-WindowDirectional = Richtungsfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-WindowFrostedDirectional = gerichtetes frostiertes Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-WindowDiagonal = Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

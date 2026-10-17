@@ -1,8 +1,8 @@
 ent-ClockworkWindow = Uhrwerksfenster
-    .desc = Verschmiere nicht das Messing dort unten.
+    .desc = Verschmier das Messing dort unten nicht.
 
 ent-WindowClockworkDirectional = gerichtetes Uhrwerkfenster
-    .desc = Verschmiere nicht das Messing dort unten.
+    .desc = Verschmier das Messing dort unten nicht.
 
 ent-ClockworkWindowDiagonal = Uhrwerksfenster
-    .desc = Verschmiere nicht das Messing dort unten.
+    .desc = Verschmier das Messing dort unten nicht.

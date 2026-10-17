@@ -1,2 +1,2 @@
 ent-OreBox = Erzbox
-    .desc = Ein großer Lagerbehälter zur Aufnahme unverarbeiteter Erze.
+    .desc = Ein großer Behälter zur Lagerung unverarbeiteter Erze.

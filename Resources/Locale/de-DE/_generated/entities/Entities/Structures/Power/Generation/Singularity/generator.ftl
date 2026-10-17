@@ -1,2 +1,2 @@
 ent-SingularityGenerator = Gravitationssingularitätsgenerator
-    .desc = Ein Odd-Gerät, das beim Einrichten eine Gravitationssingularität erzeugt. Kommt mit einem temporären Shutdown Containment Failsafe.
+    .desc = Ein seltsames Gerät, das beim Aufstellen eine Gravitationssingularität erzeugt. Mit temporärer Not-Abschaltung der Eindämmung.

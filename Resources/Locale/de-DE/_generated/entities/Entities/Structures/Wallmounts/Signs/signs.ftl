@@ -2,82 +2,82 @@ ent-PaintingMonkey = Affenmalerei
     .desc = Zurück zu Monky.
 
 ent-SignDirectionalAtmos = atmos Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Abteilung Atmosphäre ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Abteilung Atmosphäre ist.
 
 ent-SignDirectionalBar = Stäbeschild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Bar ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Bar ist.
 
 ent-SignDirectionalBridge = Bridge Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Bridge ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Brücke liegt.
 
 ent-SignDirectionalBrig = Brig-Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Brig ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung das Brig liegt.
 
 ent-SignDirectionalChapel = Kapelle Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Kapelle ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Kapelle ist.
 
 ent-SignDirectionalChemistry = Chemieschild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung das Chemielabor geht.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung das Chemielabor geht.
 
 ent-SignDirectionalCryo = cryo Schild
-    .desc = Eine Richtung Schild, die den Weg zur Kryotechnik aufzeigt.
+    .desc = Ein Wegweiser, der den Weg zur Kryotechnik zeigt.
 
 ent-SignDirectionalDorms = Schlafsäle Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Schlafsäle sind.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Schlafsäle sind.
 
 ent-SignDirectionalEng = Engineering Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Ingenieurabteilung geht.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Ingenieurabteilung geht.
 
 ent-SignDirectionalEvac = evac Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, welcher Weg evac ist.
+    .desc = Ein Wegweiser, der zeigt, wo es zur Evakuierung geht.
 
 ent-SignDirectionalExam = Prüfung Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung sich der Untersuchungsraum (die Untersuchungsräume) befinden.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Untersuchungsräume liegen.
 
 ent-SignDirectionalFood = Lebensmittelschild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Küche ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Küche ist.
 
 ent-SignDirectionalGravity = Schwerkraftschild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung der Schwerkraftgenerator ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung der Schwerkraftgenerator ist.
 
 ent-SignDirectionalHop = Personalchef-Richtungsschild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung das Büro des Personals geht.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung das Büro des Personals geht.
 
 ent-SignDirectionalHydro = Hydroschild
-    .desc = Eine Richtung Schild, die darauf hinweist, wie Botanik ist.
+    .desc = Ein Wegweiser, der zeigt, wo die Botanik ist.
 
 ent-SignDirectionalIcu = Icu Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die ICU ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die ICU ist.
 
 ent-SignDirectionalJanitor = Hausmeister Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung der Schrank des Hausmeisters ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung der Schrank des Hausmeisters ist.
 
 ent-SignDirectionalLibrary = Bibliothek Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Bibliothek ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Bibliothek ist.
 
 ent-SignDirectionalMed = Medizinisches Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die medizinische Abteilung ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die medizinische Abteilung ist.
 
 ent-SignDirectionalSalvage = Salvage-Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Salvage-Abteilung geht.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Salvage-Abteilung geht.
 
 ent-SignDirectionalSci = Wissenschaft Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die Wissenschaftsabteilung geht.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Wissenschaftsabteilung geht.
 
 ent-SignDirectionalSec = sec Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung Sicherheit ist.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung Sicherheit ist.
 
 ent-SignDirectionalSolar = Solaranlagen Schild
-    .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung Sonnen gehen.
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung Sonnen gehen.
 
 ent-SignDirectionalSupply = Versorgungsschild
     .desc = Klimawandelhülle für Zuhause
 
 ent-SignDirectionalWash = Waschraumschild
-    .desc = Eine Richtung Schild, zeigt auf den Weg zu einem Waschraum.
+    .desc = Ein Wegweiser, der den Weg zu einem Waschraum zeigt.
 
 ent-SignDirectionalEscapePod = Escape Pods Schild
-    .desc = Eine Richtung Schild, die den Weg zu einem Escape Pod Dock zeigt.
+    .desc = Ein Wegweiser, der den Weg zu einem Fluchtkapsel-Dock zeigt.
 
 ent-SignAi = ai Schild
     .desc = Ein Schild, das anzeigt, dass eine KI vorhanden ist.
@@ -92,7 +92,7 @@ ent-SignArmory = Waffenkammer-Schild
     .desc = Ein Schild, das die Waffenkammer anzeigt.
 
 ent-SignArrivals = Ankunft Schild
-    .desc = Ein Schild, der angibt, wo die Arrivals für die App-Abenteuer stehen.
+    .desc = Ein Schild, das angibt, wo die Ankünfte für die App-Abenteuer stehen.
 
 ent-SignToolStorage = Werkzeugspeicherschild
     .desc = Ein Schild, das den Werkzeuglagerraum anzeigt.
@@ -107,16 +107,16 @@ ent-SignAtmos = atmos Schild
     .desc = Ein Schild, das den atmosphärischen Bereich anzeigt.
 
 ent-SignBar = Stäbeschild
-    .desc = Ein Schild, das den Balken anzeigt.
+    .desc = Ein Schild, das die Bar anzeigt.
 
 ent-SignBath = Badezimmer Schild
     .desc = Ein Schild zeigt das Badezimmer an.
 
 ent-SignKitchen = Küchenschild
-    .desc = Das Herz des Hauses. Und Krankheit.
+    .desc = Das Herz des Hauses. Und der Krankheit.
 
 ent-SignTheater = Theaterschild
-    .desc = Wäre es sogar Raumstation ohne Drama?
+    .desc = Wäre es überhaupt eine Raumstation ohne Drama?
 
 ent-SignBarbershop = Barbershop Schild
     .desc = Ein Schild, das den Friseursalon anzeigt.
@@ -128,7 +128,7 @@ ent-SignBiohazard = Biogefährdungsschild
     .desc = Ein Schild, das auf ein Biorisiko hinweist.
 
 ent-SignBridge = Bridge Schild
-    .desc = Ein Schild, das die Bridge anzeigt.
+    .desc = Ein Schild, das die Brücke anzeigt.
 
 ent-SignCanisters = Kanister Schild
     .desc = Ein Schild warnt den Betrachter vor Druckkanistern.
@@ -152,7 +152,7 @@ ent-SignConference = Konferenzraum Schild
     .desc = Wo Arbeit stattfindet.
 
 ent-SignCryo = Kryoschlafschild
-    .desc = Einfach so? Du wirst Huhn raus?
+    .desc = Einfach so? Du machst einen Rückzieher?
 
 ent-SignDisposalSpace = Entsorgungsschild
     .desc = Ein Schild, das einen Entsorgungsbereich anzeigt.
@@ -161,10 +161,10 @@ ent-SignDoors = Türen Schild
     .desc = Ein Schild mit Türen.
 
 ent-SignRestroom = Toilettenschild
-    .desc = Ein Schild zeigt an, wohin du gehst... Was machst du hier nochmal?
+    .desc = Ein Schild zeigt an, wohin du gehst ... Was wolltest du hier nochmal?
 
 ent-SignMaterials = Materialien Schild
-    .desc = Ein Omen für das saftige Gewölbe aus Stahl, Glas und Plastik, das vor dir liegt.
+    .desc = Ein Vorzeichen für das saftige Gewölbe aus Stahl, Glas und Plastik, das vor dir liegt.
 
 ent-SignEngine = Power Schild
     .desc = Wo die Powa passiert.
@@ -176,7 +176,7 @@ ent-SignEscapePods = Escape Pods Schild
     .desc = Ein Schild, das die Fluchtkapseln anzeigt.
 
 ent-SignEVA = EVA Schild
-    .desc = Ein Schild, das eine EVA-Fläche anzeigt. EVA-Ausrüstung kann über diesen Punkt hinaus erforderlich sein.
+    .desc = Ein Schild, das einen EVA-Bereich anzeigt. Jenseits dieses Punktes kann EVA-Ausrüstung erforderlich sein.
 
 ent-SignElectrical = elektrisches Schild
     .desc = Ein Schild, das eine elektrische Gefahr anzeigt.
@@ -191,7 +191,7 @@ ent-SignGravity = Schwerkraftschild
     .desc = Ein Schild, das den Schwerkraftgenerator anzeigt.
 
 ent-SignHead = Kopfschild
-    .desc = Ein offizielles Schild, das die Wohnungen eines Nanotrasen-zertifizierten Abteilungsleiters anzeigt.
+    .desc = Ein offizielles Schild, das die Räume eines von Nanotrasen zertifizierten Abteilungsleiters kennzeichnet.
 
 ent-SignHydro1 = Botanikschild
     .desc = Ein Schild, das einen Botanikbereich anzeigt.
@@ -206,7 +206,7 @@ ent-SignLaundromat = Waschsalatschild
     .desc = Ein Schild, das den Waschsalon anzeigt.
 
 ent-SignLawyer = Gesetzschild
-    .desc = Ein Schild, das auf das Vorhandensein des (typischerweise fehlenden) Rechtsstaats hinweist.
+    .desc = Ein Schild, das auf das Vorhandensein von (meist fehlendem) Recht und Ordnung hinweist.
 
 ent-SignLibrary = Bibliothek Schild
     .desc = Ein Schild, das die Bibliothek anzeigt.
@@ -215,7 +215,7 @@ ent-SignMail = Mailschild
     .desc = Ein Schild, das auf Post hinweist.
 
 ent-SignMedical = Medbay Schild
-    .desc = Ein Schild, das die medizinische Bucht anzeigt.
+    .desc = Ein Schild, das die Medbay anzeigt.
 
 ent-SignMorgue = Leichenhalle
     .desc = Ein Schild, das das Leichenhaus anzeigt.
@@ -227,7 +227,7 @@ ent-SignNosmoking = Rauchverbotsschild
     .desc = Ein Schild, das anzeigt, dass Rauchen in der Nähe nicht erlaubt ist.
 
 ent-SignGenpop = genpop Schild
-    .desc = Ein Schild, das auf das Genpop-Gefängnis hinweist.
+    .desc = Ein Schild, das auf den Gemeinschaftsgefängnistrakt hinweist.
 
 ent-SignPrison = Gefängnisschild
     .desc = Ein Schild zeigt das Gefängnis an.
@@ -245,22 +245,22 @@ ent-SignRobo = Robo Schild
     .desc = Ein Schild zeigt das Robotiklabor an.
 
 ent-SignSalvage = Salvage-Schild
-    .desc = Ein Schild mit Angabe des Salvage-Gebiets.
+    .desc = Ein Schild mit Angabe des Bergungsbereichs.
 
 ent-SignScience = Wissenschaft Schild
     .desc = Ein Schild, das den Wissenschaftsbereich anzeigt.
 
 ent-SignServer = Server Schild
-    .desc = Schon mal was von Big Data gehört? Das ist es, chump. Der größte.
+    .desc = Schon mal was von Big Data gehört? Das ist es, Trottel. Das Größte.
 
 ent-SignCans = Kanister Schild
-    .desc = Ein Schild, das auf die günstige Anwesenheit von Gaskanistern hinweist.
+    .desc = Ein Schild, das auf die praktische Anwesenheit von Gaskanistern hinweist.
 
 ent-SignCansScience = Kanister Schild
-    .desc = Ein Schild, das auf die günstige Anwesenheit von Gaskanistern hinweist.
+    .desc = Ein Schild, das auf die praktische Anwesenheit von Gaskanistern hinweist.
 
 ent-SignShipDock = evac Schild
-    .desc = Ein Schild zeigt an, wo der evac Shuttle (wahrscheinlich) ankommen wird.
+    .desc = Ein Schild zeigt an, wo das Evakuierungsshuttle (wahrscheinlich) ankommen wird.
 
 ent-SignSpace = Raumschild
     .desc = Ein Schild warnt, dass der vor uns liegende Bereich nichts anderes als kalter, leerer Raum ist.
@@ -275,82 +275,82 @@ ent-SignToxins = Toxine
     .desc = Ein Schild, das das Toxinlabor anzeigt.
 
 ent-SignVault = Tresorschild
-    .desc = Ein Schild, das das Gewölbe anzeigt. Wer weiß, welche Geheimnisse darin liegen?
+    .desc = Ein Schild, das den Tresorraum anzeigt. Wer weiß, welche Geheimnisse darin liegen?
 
 ent-SignVirology = Virologie Schild
     .desc = Ein Schild, das das Virologielabor anzeigt.
 
 ent-SignCorrosives = Warnschild für Korrosion
-    .desc = Ein Schild, das eine Gefahr für korrosive Stoffe anzeigt.
+    .desc = Ein Schild, das vor korrosiven Stoffen warnt.
 
 ent-SignCryogenics = Kryogen-Warnschild
-    .desc = Ein Schild, das eine Gefahr für kryogene Stoffe anzeigt. Bring eine Jacke mit!
+    .desc = Ein Schild, das vor kryogenen Stoffen warnt. Bring eine Jacke mit!
 
 ent-SignDanger = Warnschild
     .desc = Ein Schild warnt vor einer Gefahr.
 
 ent-SignExplosives = Sprengstoffwarnschild
-    .desc = Ein Schild, das eine Gefahr für explosive Stoffe anzeigt.
+    .desc = Ein Schild, das vor explosiven Stoffen warnt.
 
 ent-SignFlammable = Brennbares Warnschild
-    .desc = Ein Schild, das auf eine Gefahr für brennbare Stoffe hinweist.
+    .desc = Ein Schild, das vor brennbaren Stoffen warnt.
 
 ent-SignLaser = Laserwarnschild
     .desc = Ein Schild, das eine Lasergefahr anzeigt.
 
 ent-SignMagnetics = Magnetwarnschild
-    .desc = Ein Schild, das eine Gefahr für magnetische Materialien anzeigt.
+    .desc = Ein Schild, das vor magnetischen Materialien warnt.
 
 ent-SignMemetic = memetisches Warnschild
-    .desc = Ein Schild, das eine memetische Gefahr anzeigt.
+    .desc = Ein Schild, das vor einer memetischen Gefahr warnt.
 
 ent-SignSecure = sicheres Schild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignSecurearea = Sicherheitsbereich Schild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignShock = Schockschild
     .desc = Ein Schild, das eine elektrische Gefahr anzeigt.
 
 ent-SignOptical = optisches Warnsignal
-    .desc = Ein Schild, das eine Gefahr für optische Strahlung anzeigt.
+    .desc = Ein Schild, das vor optischer Strahlung warnt.
 
 ent-SignOxidants = Warnhinweise für Oxidationsmittel
-    .desc = Ein Schild, das eine Oxidationsmittelgefahr anzeigt.
+    .desc = Ein Schild, das vor Oxidationsmitteln warnt.
 
 ent-SignRadiation = Strahlenwarnschild
-    .desc = Ein Schild, das eine ionisierende Strahlungsgefahr anzeigt.
+    .desc = Ein Schild, das vor ionisierender Strahlung warnt.
 
 ent-SignXenobio = Xenobioschild
     .desc = Ein Schild, das das Xenobiologielabor anzeigt.
 
 ent-SignZomlab = Zombie-Laborschild
-    .desc = Die letzten Überreste eines stillgelegten Nanotrasen-Forschungsprojekts, das darauf abzielte, die Kräfte von Romerol zu nutzen. Ich frage mich, wie das gelaufen ist...
+    .desc = Die letzten Überreste eines eingestellten Nanotrasen-Forschungsprojekts, das die Kräfte von Romerol nutzen sollte. Ich frage mich, wie das gelaufen ist ...
 
 ent-SignSecureMedRed = rotes sicheres Schild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignSecureSmall = Kleines sicheres Schild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignSecureSmallRed = Kleines rotes Sicherheitsschild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignBlankMed = leeres Schild
     .desc = Ein leeres Schild.
 
 ent-SignMagneticsMed = Magneten Schild
-    .desc = Ein Schild, das die Verwendung von Magneten anzeigt.
+    .desc = Ein Schild, das auf die Verwendung von Magneten hinweist.
 
 ent-SignDangerMed = Gefahrschild
-    .desc = Ein Schild warnt vor irgendeiner Form von Gefahr.
+    .desc = Ein Schild warnt vor irgendeiner Art von Gefahr.
 
 ent-ExplosivesSignMed = Sprengstoffschild
     .desc = Ein Schild, das auf explosive Stoffe hinweist.
 
 ent-SignCryogenicsMed = Kryogenität Schild
-    .desc = Ein Schild, das kryogene Materialien anzeigt.
+    .desc = Ein Schild, das auf kryogene Materialien hinweist.
 
 ent-SignElectricalMed = elektrisches Schild
     .desc = Ein Schild, das eine elektrische Gefahr anzeigt.
@@ -359,7 +359,7 @@ ent-SignBiohazardMed = Biogefährdungsschild
     .desc = Ein Schild, das auf ein Biorisiko hinweist.
 
 ent-SignRadiationMed = Strahlungsschild
-    .desc = Ein Schild, das eine ionisierende Strahlungsgefahr anzeigt.
+    .desc = Ein Schild, das vor ionisierender Strahlung warnt.
 
 ent-SignFlammableMed = Entzündliches Schild
     .desc = Ein Schild, das auf brennbare Materialien hinweist.
@@ -368,52 +368,52 @@ ent-SignLaserMed = Laserschild
     .desc = Ein Schild, das eine Lasergefahr anzeigt.
 
 ent-SignSecureMed = sicheres Schild
-    .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus sicher ist.
 
 ent-SignVox = vox area Schild
-    .desc = Ein Schild, das anzeigt, dass der vordere Bereich für Vox-Crewmitglieder bestimmt ist und keine Sauerstoffatmosphäre hat.
+    .desc = Ein Schild, das anzeigt, dass der Bereich voraus für Vox-Crewmitglieder bestimmt ist und keine Sauerstoffatmosphäre hat.
 
 ent-WarningAir = Luftwarnschild
-    .desc = WARNUNG! Luftströmungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! Luftleitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningCO2 = CO2-Warnschild
-    .desc = WARNUNG! CO2-Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! CO2-Leitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningN2 = N2 Warnschild
-    .desc = WARNUNG! N2 Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! N2-Leitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningN2O = Warnschild: Lachgas (N2O)
-    .desc = WARNUNG! N2O-Strömungsrohr Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! N2O-Leitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningO2 = O2-Warnschild
-    .desc = WARNUNG! O2-Strömungsrohr Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! O2-Leitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningPlasma = Plasmaabfälle Schild
-    .desc = WARNUNG! Plasma-Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! Plasmaleitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningTritium = Tritiumabfälle Schild
-    .desc = WARNUNG! Tritiumströmungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst ist.
+    .desc = ACHTUNG! Tritiumleitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-WarningWaste = atmos waste Schild
-    .desc = WARNUNG! Abfallstromrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = ACHTUNG! Abfallleitung. Stelle sicher, dass der Durchfluss vor Arbeitsbeginn getrennt ist.
 
 ent-SignSmoking = Rauchverbotsschild
     .desc = Ein Warnschild mit der Aufschrift „RAUCHEN VERBOTEN“.
 
 ent-SignSomethingOld = alter Schild
-    .desc = Technische informationen irgendeiner art, schade, es ist zu abgenutzt, um zu lesen.
+    .desc = Technische Informationen irgendeiner Art. Schade, dass sie zu abgenutzt zum Lesen sind.
 
 ent-SignSomethingOld2 = alter Schild
-    .desc = Sieht aus wie ein Planet, der an einer Station darüber abstürzt. Es ist irgendwie beängstigend.
+    .desc = Sieht aus wie ein Planet, der auf eine Station stürzt. Es ist irgendwie beängstigend.
 
 ent-SignSecurity = Sicherheitsschild
-    .desc = Ein Schild mit den Sicherheitsabzeichen.
+    .desc = Ein Schild mit den Abzeichen der Sicherheit.
 
 ent-SignDetective = Detektivschild
     .desc = Ein Schild, das das Büro des Detektivs zeigt.
 
 ent-SignPlaque = Goldplaque
-    .desc = Eine renommierte goldene Plakette.
+    .desc = Eine angesehene goldene Plakette.
 
 ent-SignKiddiePlaque = Kiddie-Plaque
     .desc = Eine bescheidene Plakette.
@@ -434,37 +434,37 @@ ent-SignNanotrasen5 = Nanotrasen Schild 5
     .desc = Teil 5.
 
 ent-SignRedOne = ein Schild
-    .desc = Ein Schild mit einer Ziffer, eine ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Eins steht darauf.
 
 ent-SignRedTwo = Schild: zwei
-    .desc = Ein Schild mit einer Ziffer, zwei ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Zwei steht darauf.
 
 ent-SignRedThree = drei Schilder
-    .desc = Ein Schild mit einer Ziffer, drei ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Drei steht darauf.
 
 ent-SignRedFour = vier Schilder
-    .desc = Ein Schild mit einer Ziffer, vier ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Vier steht darauf.
 
 ent-SignRedFive = Schild: fünf
     .desc = Ein Schild mit einer Ziffer: Eine Fünf steht darauf.
 
 ent-SignRedSix = Schild: sechs
-    .desc = Ein Schild mit einer Ziffer, sechs ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Sechs steht darauf.
 
 ent-SignRedSeven = sieben Schilder
-    .desc = Ein Schild mit einer Ziffer, sieben ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Sieben steht darauf.
 
 ent-SignRedEight = Schild: acht
-    .desc = Ein Schild mit einer Ziffer, acht ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Acht steht darauf.
 
 ent-SignRedNine = Schild: neun
-    .desc = Ein Schild mit einer Ziffer, neun ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Neun steht darauf.
 
 ent-SignRedZero = Nullschild
-    .desc = Ein Schild mit einer Ziffer, Null ist darauf geschrieben.
+    .desc = Ein Schild mit einer Ziffer: Eine Null steht darauf.
 
 ent-SignSurvival = Überlebensschild
-    .desc = Ein Schild. "Überleben" steht drauf.
+    .desc = Ein Schild. „Überleben“ steht darauf.
 
 ent-SignNTMine = Mine Schild
-    .desc = Ein Schild. "Mein" steht darauf geschrieben.
+    .desc = Ein Schild. „Mein“ steht darauf.

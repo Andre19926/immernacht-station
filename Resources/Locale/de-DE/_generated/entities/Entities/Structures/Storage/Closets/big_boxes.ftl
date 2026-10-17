@@ -1,8 +1,8 @@
 ent-StealthBox = Karton
-    .desc = Kept ya warten, huh?
+    .desc = Hat dich warten lassen, was?
 
 ent-BigBox = Karton
-    .desc = Huh? Nur eine Box...
+    .desc = Hä? Nur eine Kiste ...
 
 ent-GhostBox = Geisterbox
     .desc = Vorsicht!

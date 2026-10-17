@@ -1,8 +1,8 @@
 ent-UraniumWindow = Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-UraniumWindowDirectional = gerichtetes Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-UraniumWindowDiagonal = Uranfenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

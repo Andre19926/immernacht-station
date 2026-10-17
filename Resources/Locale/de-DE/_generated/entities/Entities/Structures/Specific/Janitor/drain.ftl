@@ -1,2 +1,2 @@
 ent-FloorDrain = Abfluss
-    .desc = Drains Pfützen um ihn herum. Nützlich zum Abwerfen von Mopp-Eimern oder zum Reinhalten bestimmter Räume.
+    .desc = Saugt Pfützen in seiner Umgebung auf. Nützlich, um Wischmopp-Eimer zu leeren oder bestimmte Räume sauber zu halten.

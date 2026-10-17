@@ -1,11 +1,11 @@
 ent-SignalTimer = Signalzeitgeber
-    .desc = Es ist ein Timer, um zeitgesteuerte Signale an Dinge zu senden.
+    .desc = Ein Timer, der zeitgesteuerte Signale an Dinge sendet.
 
 ent-ScreenTimer = Bildschirmzeitgeber
-    .desc = Es ist ein Timer zum Senden von zeitgesteuerten Signalen an Dinge, mit einem eingebauten Bildschirm.
+    .desc = Ein Timer, der zeitgesteuerte Signale an Dinge sendet, mit eingebautem Bildschirm.
 
 ent-BrigTimer = Brig Timer
-    .desc = Es ist ein Timer für Brig-Zellen.
+    .desc = Ein Timer für Brig-Zellen.
 
 ent-TimerFrame = Timer-Rahmen
-    .desc = Ein Baurahmen für einen Timer.
+    .desc = Ein Bausatz-Rahmen für einen Timer.

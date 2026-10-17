@@ -71,4 +71,4 @@ ent-LockerWallPrisoner8 = Wandschrank für Gefangene
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerWallSyndicate = Blutrote Wand Spind
-    .desc = Es ist ein Wandspeicher mit einem blutroten Design.
+    .desc = Ein Wandschrank in blutrotem Design.

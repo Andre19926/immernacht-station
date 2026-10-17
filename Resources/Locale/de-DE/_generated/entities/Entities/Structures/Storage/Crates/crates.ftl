@@ -14,7 +14,7 @@ ent-CrateMedical = Medizinische Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateRadiation = Strahlungsradkiste
-    .desc = Ist nicht wirklich Lead Lined. Speichern dich dein Plutonium nicht darin.
+    .desc = Nicht wirklich bleiverkleidet. Lagere dein Plutonium besser nicht darin.
 
 ent-CrateInternals = Sauerstoffkiste
     .desc = Ein großer Container für Gegenstände.
@@ -65,7 +65,7 @@ ent-CrateWeaponSecure = Sichere Waffenkiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateContrabandStorageSecure = Schmuggellager
-    .desc = Eine Waffenkammer Zugang verschlossene Kiste für die Aufbewahrung von Schmuggelware beschlagnahmt von Verdächtigen oder Gefangenen.
+    .desc = Eine zugangsgesicherte Waffenkammer-Kiste zur Aufbewahrung von Schmuggelware, die Verdächtigen oder Gefangenen abgenommen wurde.
 
 ent-CrateCommandSecure = Führungskiste
     .desc = Ein großer Container für Gegenstände.
@@ -101,13 +101,13 @@ ent-CrateToyBox = Spielzeugbox
     .desc = Eine Kiste voller Spaß.
 
 ent-CrateCoffin = Sarg
-    .desc = Ein bequemer Sarg, ein ausgezeichneter Ort für die Vampire und Leiche.
+    .desc = Ein bequemer Sarg, ein ausgezeichneter Ort für Vampire und Leichen.
 
 ent-CrateWoodenGrave = Grab
-    .desc = Jemand ist hier gestorben...
+    .desc = Jemand ist hier gestorben ...
 
 ent-CrateStoneGrave = Grab
-    .desc = Jemand ist hier gestorben...
+    .desc = Jemand ist hier gestorben ...
 
 ent-CrateSyndicate = Syndicate-Kiste
     .desc = Eine dunkle Stahlkiste mit roten Bändern und einem auf der Vorderseite geprägten Buchstaben S.

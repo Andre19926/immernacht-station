@@ -1,8 +1,8 @@
 ent-PlasmaWindow = Plasmafenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-PlasmaWindowDirectional = gerichtetes Plasmafenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-PlasmaWindowDiagonal = Plasmafenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.

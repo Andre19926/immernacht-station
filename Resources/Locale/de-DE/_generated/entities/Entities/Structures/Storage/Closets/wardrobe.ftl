@@ -35,13 +35,13 @@ ent-ClosetJanitor = Hausmeisterschrank
     .desc = Ein Schrank für Hausmeisterkleidung und -ausrüstung.
 
 ent-WardrobeFormal = formaler Schrank
-    .desc = Es ist eine Aufbewahrungseinheit für formelle Kleidung.
+    .desc = Ein Schrank zur Aufbewahrung formeller Kleidung.
 
 ent-ClosetChef = Küchenschrank
     .desc = Ein Schrank für Gastronomiekleidung und Mausefallen.
 
 ent-WardrobeChapel = Kaplangarderobe
-    .desc = Es ist eine Speichereinheit für Nanotrasen-genehmigte religiöse Kleidung.
+    .desc = Ein Schrank für von Nanotrasen genehmigte religiöse Kleidung.
 
 ent-ClosetLegal = Rechtsschrank
     .desc = Ein Schrank für Gerichtskleidung und -gegenstände.

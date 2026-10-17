@@ -1,5 +1,5 @@
 ent-ParticleAcceleratorControlBox = PA Steuerrechner
-    .desc = Dies steuert die Dichte der Partikel.
+    .desc = Steuert die Partikeldichte.
 
 ent-ParticleAcceleratorControlBoxUnfinished = PA Steuerrechner
-    .desc = Dies steuert die Dichte der Partikel. Es sieht unvollendet aus.
+    .desc = Steuert die Partikeldichte. Sieht unfertig aus.

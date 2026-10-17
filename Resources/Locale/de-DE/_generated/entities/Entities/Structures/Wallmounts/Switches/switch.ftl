@@ -1,20 +1,20 @@
 ent-SignalSwitch = Signalschalter
-    .desc = Es ist ein Schalter zum Umschalten von Energie auf Dinge.
+    .desc = Ein Schalter, um Dinge ein- und auszuschalten.
 
 ent-SignalButton = Signalknopf
     .desc = Ein Knopf, um etwas zu aktivieren.
 
 ent-ApcNetSwitch = apc Netzschalter
-    .desc = Es ist ein schalter zum schalten von lichtern, die mit dem gleichen apc verbunden sind.
+    .desc = Ein Schalter für Lichter, die am selben APC hängen.
 
 ent-SignalSwitchDirectional = Signalschalter
-    .desc = Es ist ein Schalter zum Umschalten von Energie auf Dinge.
+    .desc = Ein Schalter, um Dinge ein- und auszuschalten.
 
 ent-SignalButtonDirectional = Signalknopf
     .desc = Ein Knopf, um etwas zu aktivieren.
 
 ent-ApcNetSwitchDirectional = apc Netzschalter
-    .desc = Es ist ein schalter zum schalten von lichtern, die mit dem gleichen apc verbunden sind.
+    .desc = Ein Schalter für Lichter, die am selben APC hängen.
 
 ent-LockableButton = verriegelbarer Knopf
     .desc = Ein Knopf, um etwas zu aktivieren.

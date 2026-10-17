@@ -1,23 +1,23 @@
 ent-WeldingFuelTank = Kraftstoffbehälter
-    .desc = Ein Kraftstoffbehälter. Es wird verwendet, um große Mengen an Kraftstoff zu speichern.
+    .desc = Ein Kraftstofftank. Dient zur Lagerung großer Mengen Kraftstoff.
 
 ent-WeldingFuelTankFull = Kraftstoffbehälter
-    .desc = Ein Kraftstoffbehälter. Es wird verwendet, um große Mengen an Kraftstoff zu speichern.
+    .desc = Ein Kraftstofftank. Dient zur Lagerung großer Mengen Kraftstoff.
 
 ent-WeldingFuelTankHighCapacity = Kraftstoffbehälter mit hoher Kapazität
-    .desc = Ein unter hohem Druck stehender Kraftstoffbehälter, der zur Aufnahme gigantischer Mengen Schweißkraftstoff hergestellt wurde.
+    .desc = Ein unter hohem Druck stehender Kraftstofftank, gebaut für gigantische Mengen Schweißkraftstoff.
 
 ent-WaterTank = Wasserbehälter
-    .desc = Ein Wassertank. Es wird verwendet, um hohe Mengen an Wasser zu speichern.
+    .desc = Ein Wassertank. Dient zur Lagerung großer Mengen Wasser.
 
 ent-WaterTankFull = Wasserbehälter
-    .desc = Ein Wassertank. Es wird verwendet, um hohe Mengen an Wasser zu speichern.
+    .desc = Ein Wassertank. Dient zur Lagerung großer Mengen Wasser.
 
 ent-WaterCooler = Wasserkühler
-    .desc = Scheint wie ein guter Ort zu stehen und Zeit zu verschwenden. Es hat einen Vorrat an Papierbechern an der Seite.
+    .desc = Scheint ein guter Ort zu sein, um herumzustehen und Zeit zu verschwenden. An der Seite hängt ein Vorrat an Pappbechern.
 
 ent-WaterTankHighCapacity = Wassertank mit hoher Kapazität
-    .desc = Ein unter hohem Druck stehender Wassertank, der riesige Mengen Wasser enthält.
+    .desc = Ein unter hohem Druck stehender Wassertank mit riesigen Mengen Wasser.
 
 ent-GenericTank = Vorratstank
     .desc = Ein Flüssigkeitsvorratstank.

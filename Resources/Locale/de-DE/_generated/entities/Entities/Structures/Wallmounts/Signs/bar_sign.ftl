@@ -1,73 +1,73 @@
 ent-BarSign = Stäbeschild
 
 ent-BarSignComboCafe = Combo Cafe
-    .desc = Bekannt systemweit für ihre völlig unkreativen Getränkekombinationen.
+    .desc = Systemweit bekannt für ihre völlig unkreativen Getränkekombinationen.
 
 ent-BarSignEmergencyRumParty = Rum-Notfallparty
-    .desc = Kürzlich nach einer langen Schließung relizenziert.
+    .desc = Nach langer Schließung kürzlich neu lizenziert.
 
 ent-BarSignLV426 = LV426
-    .desc = Trinken mit ausgefallenen Gesichtsmasken ist eindeutig wichtiger als zu Medbay zu gehen.
+    .desc = Mit ausgefallenen Gesichtsmasken zu trinken ist offensichtlich wichtiger, als zur Medbay zu gehen.
 
 ent-BarSignMaidCafe = Maid Cafe
     .desc = Willkommen zurück, Meister!
 
 ent-BarSignMalteseFalcon = Malteserfalsche
-    .desc = Spiele es noch einmal, Sam.
+    .desc = Spiel es noch einmal, Sam.
 
 ent-BarSignOfficerBeersky = Offizier Beersky
-    .desc = Mann isst einen dong, diese getränke sind großartig.
+    .desc = Mann isst einen Dong, diese Drinks sind großartig.
 
 ent-BarSignRobustaCafe = Robusta Cafe
-    .desc = Halter der "Tödlichsten Barkämpfe" Rekord 5 Jahre unangefochten.
+    .desc = Inhaber des Rekords für die „tödlichsten Kneipenschlägereien“, seit 5 Jahren ungeschlagen.
 
 ent-BarSignTheAleNath = Der Ale Nath
-    .desc = In Ordnung, Kumpel. Ich glaube, du hattest EI NATH. Zeit für ein Taxi.
+    .desc = In Ordnung, Kumpel. Ich glaube, du hattest genug. Zeit für ein Taxi.
 
 ent-BarSignTheBirdCage = Der Bird Cage
     .desc = Caw Caw!
 
 ent-BarSignTheCoderbus = Der Coderbus
-    .desc = Eine sehr umstrittene Bar, die für ihre große Auswahl an ständig wechselnden Getränken bekannt ist.
+    .desc = Eine sehr umstrittene Bar, bekannt für ihre große Auswahl ständig wechselnder Getränke.
 
 ent-BarSignTheDrunkCarp = Der betrunkene Karpfen
     .desc = Nicht trinken und schwimmen.
 
 ent-BarSignEngineChange = Der Motorwechsel
-    .desc = Immer noch warten.
+    .desc = Warte immer noch.
 
 ent-BarSignTheHarmbaton = Der Harmbaton
-    .desc = Ein großartiges kulinarisches Erlebnis für Sicherheitsmitglieder und Assistenten.
+    .desc = Ein großartiges kulinarisches Erlebnis für Sicherheitskräfte und Assistenten.
 
 ent-BarSignTheLightbulb = Die Glühbirne
-    .desc = Ein Café beliebt bei Motten und Moffs. Einmal für eine Woche heruntergefahren, nachdem der Barkeeper Mottenkugeln benutzt hatte, um ihre Ersatzuniformen zu schützen.
+    .desc = Ein bei Motten und Moffs beliebtes Café. Einmal für eine Woche geschlossen, nachdem der Barkeeper Mottenkugeln benutzt hatte, um die Ersatzuniformen zu schützen.
 
 ent-BarSignTheLooseGoose = Die lose Gans
-    .desc = Trink, bis du kotzt und / oder die Gesetze der Realität brichst!
+    .desc = Trink, bis du kotzt und/oder die Gesetze der Realität brichst!
 
 ent-BarSignTheNet = Das Netz
-    .desc = Du scheinst nur stundenlang darin gefangen zu sein.
+    .desc = Du scheinst darin stundenlang festzusitzen.
 
 ent-BarSignTheOuterSpess = Die äußere Spess
     .desc = Diese Bar befindet sich nicht wirklich im Weltraum.
 
 ent-BarSignTheSingulo = Der Singulo
-    .desc = Wo Menschen hingehen, die lieber nicht bei ihrem Namen genannt werden.
+    .desc = Wohin Leute gehen, die lieber nicht beim Namen genannt werden.
 
 ent-BarSignTheSun = Die Sonne
-    .desc = Ironisch hell für so einen schattigen Balken.
+    .desc = Ironisch hell für so eine schattige Bar.
 
 ent-BarSignWiggleRoom = Wiggle Room
     .desc = MoMMIs haben Moves.
 
 ent-BarSignEmprah = 4 Die Emprah
-    .desc = Genießt von fanatikern, ketzern und hirngeschädigten gönnern gleichermaßen.
+    .desc = Beliebt bei Fanatikern, Ketzern und hirngeschädigten Stammgästen gleichermaßen.
 
 ent-BarSignSpacebucks = Spacebucks
-    .desc = Du kannst ihnen nicht entkommen, nicht einmal im Weltraum, und nicht einmal, nachdem wir angefangen haben, sie stattdessen „Spesos“ zu nennen.
+    .desc = Du kannst ihnen nicht entkommen, nicht einmal im Weltraum, und nicht einmal, nachdem wir sie stattdessen „Spesos“ zu nennen begonnen haben.
 
 ent-BarSignMaltroach = Der Maltroach
     .desc = Quiek!
 
 ent-BarSignWhiskeyEchoes = Whiskey-Echos
-    .desc = Eine Elite-Bar für Elite-Oper-Warte, dies ist eine Nanotrasen-Station. Warum ist dieses Schild in der Datenbank?
+    .desc = Eine Elite-Bar für Elite-Betreiber – Moment, das ist eine Nanotrasen-Station. Warum ist dieses Schild in der Datenbank?

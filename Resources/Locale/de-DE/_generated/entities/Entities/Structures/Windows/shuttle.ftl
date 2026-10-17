@@ -1,5 +1,5 @@
 ent-ShuttleWindow = Shuttle-Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
 
 ent-ShuttleWindowDiagonal = Shuttle-Fenster
-    .desc = Verschmiere nicht das Glas dort unten.
+    .desc = Verschmier das Glas dort unten nicht.
