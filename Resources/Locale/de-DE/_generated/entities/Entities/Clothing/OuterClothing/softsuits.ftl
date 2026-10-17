@@ -13,5 +13,5 @@ ent-ClothingOuterHardsuitEVAPrisoner = Häftlingsanzug EVA
 ent-ClothingOuterHardsuitAncientEVA = NTSRA-Voidanzug
     .desc = Ein alter Raumanzug, entworfen von der NTSRA-Niederlassung von CentComm. Es ist sehr fein gestaltet und ermöglicht eine größere Mobilität als die meisten modernen Raumanzüge.
 
-ent-ClothingOuterHardsuitVoidParamed = Sanitäter Hardsuit
+ent-ClothingOuterHardsuitVoidParamed = Sanitäter-Hardsuit
     .desc = Ein Hardsuit für Sanitäter gemacht.

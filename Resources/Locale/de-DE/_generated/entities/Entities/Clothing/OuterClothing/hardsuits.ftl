@@ -1,64 +1,64 @@
-ent-ClothingOuterHardsuitAtmos = Atmosphäre Hardsuit
+ent-ClothingOuterHardsuitAtmos = Atmosphären-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat eine thermische Abschirmung.
 
-ent-ClothingOuterHardsuitEngineering = Engineering Hardsuit
+ent-ClothingOuterHardsuitEngineering = Ingenieur-Hardsuit
     .desc = Ein spezieller Hardsuit, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat Strahlungsabschirmung.
 
-ent-ClothingOuterHardsuitSpatio = Spationaut Hardsuit
+ent-ClothingOuterHardsuitSpatio = Spationaut-Hardsuit
     .desc = Ein leichter Hardsuit für industrielle EVA in der Schwerelosigkeit.
 
-ent-ClothingOuterHardsuitSalvage = Mining Hardsuit
+ent-ClothingOuterHardsuitSalvage = Bergbau-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat das Plating für Wildtierbegegnungen verstärkt.
 
-ent-ClothingOuterHardsuitGoliath = Goliath Hardsuit
+ent-ClothingOuterHardsuitGoliath = Goliath-Hardsuit
     .desc = Ein leichter Hardsuit, geschmückt mit einem Patchwork aus dickem, chitinösem Goliathfell.
 
-ent-ClothingOuterHardsuitMaxim = Salvage-Maxime Hardsuit
+ent-ClothingOuterHardsuitMaxim = Bergungs-Maxim-Hardsuit
     .desc = Feuer. Hitze. Aus diesen Dingen werden große Waffen geschmiedet, und auch große Bergungsarbeiter.
 
-ent-ClothingOuterHardsuitSecurity = Sicherheit Hardsuit
+ent-ClothingOuterHardsuitSecurity = Sicherheits-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat eine zusätzliche Panzerung.
 
-ent-ClothingOuterHardsuitBrigmedic = Gefängnissanitäter Hardsuit
+ent-ClothingOuterHardsuitBrigmedic = Gefängnissanitäter-Hardsuit
     .desc = Spezieller Hardsuit des Schutzengels der Brig. Die medizinische Version des Sicherheits-Hardsuits.
 
 ent-ClothingOuterHardsuitWarden = Warden-Hardsuit
     .desc = Ein spezialisierter Aufruhranzug, der darauf ausgerichtet ist, Niederdruckumgebungen zu bekämpfen.
 
-ent-ClothingOuterHardsuitCap = Kapitänsparade Hardsuit
+ent-ClothingOuterHardsuitCap = Kapitänsparade-Hardsuit
     .desc = Ein formeller und leicht gepanzerter Hardsuit, der für den Kapitän der Station gemacht wurde.
 
-ent-ClothingOuterHardsuitEngineeringWhite = Hardsuit des Chefingenieurs
+ent-ClothingOuterHardsuitEngineeringWhite = Chefingenieur-Hardsuit
     .desc = Ein spezieller Hardsuit, der vor gefährlichen, niedrigen Druckumgebungen schützt, wurde für den Chefingenieur der Station entwickelt.
 
 ent-ClothingOuterHardsuitMedical = Chefarzt-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Aus Leichtbaumaterialien für mehr Bewegungsfreiheit gefertigt.
 
-ent-ClothingOuterHardsuitRd = Experimentelle Forschung Hardsuit
+ent-ClothingOuterHardsuitRd = Forschungsdirektor-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat eine zusätzliche Panzerung.
 
-ent-ClothingOuterHardsuitSecurityRed = Sicherheitschef Hardsuit
+ent-ClothingOuterHardsuitSecurityRed = Sicherheitschef-Hardsuit
     .desc = Leichter und schützender als der Standard-Sicherheits-Hardsuit, aber nicht viel.
 
-ent-ClothingOuterHardsuitLuxury = Luxus-Mining Hardsuit
+ent-ClothingOuterHardsuitLuxury = Luxus-Bergbau-Hardsuit
     .desc = Ein renovierter Mining Hardsuit, der nach den Farben des Quartermasters gestaltet wurde. Graphen-Auskleidung bietet weniger Schutz, ist aber viel einfacher zu bewegen.
 
-ent-ClothingOuterHardsuitSyndie = blutroter Hardsuit
+ent-ClothingOuterHardsuitSyndie = Blutroter Hardsuit
     .desc = Ein schwer gepanzerter Hardsuit, der für die Arbeit in speziellen Operationen entwickelt wurde. Eigentum von Gorlex Marauders.
 
-ent-ClothingOuterHardsuitSyndieMedic = blutroter Sanitäter Hardsuit
+ent-ClothingOuterHardsuitSyndieMedic = Blutroter Sanitäter-Hardsuit
     .desc = Ein schwer gepanzerter und agiler fortschrittlicher Hardsuit, der speziell für medizinische Operationen im Feld entwickelt wurde.
 
-ent-ClothingOuterHardsuitSyndieElite = Syndicate Elite Hardsuit
+ent-ClothingOuterHardsuitSyndieElite = Syndicate-Elite-Hardsuit
     .desc = Eine Elite-Version des blutroten Hardsuits mit verbesserter Mobilität und Brandschutz. Eigentum von Gorlex Marauders.
 
-ent-ClothingOuterHardsuitSyndieCommander = Syndicate-Kommandant Hardsuit
+ent-ClothingOuterHardsuitSyndieCommander = Syndicate-Kommandanten-Hardsuit
     .desc = Eine aufgeblasene Version des blutroten Hardsuit, speziell für den Kommandanten eines Syndicate-S gebaut. Hat die Rüstung für diese tödlichen Feuergefechte an vorderster Front deutlich verbessert.
 
 ent-ClothingOuterHardsuitJuggernaut = Cybersun Juggernaut Anzug
     .desc = Ein Anzug der hochmodernen F & E-Abteilung von Cybersun, um hyperresistent zu sein.
 
-ent-ClothingOuterHardsuitWizard = Zauberer Hardsuit
+ent-ClothingOuterHardsuitWizard = Zauberer-Hardsuit
     .desc = Ein bizarrer Edelsteinanzug, der magische Energien ausstrahlt.
 
 ent-ClothingOuterHardsuitLing = organischer Raumanzug
@@ -67,37 +67,37 @@ ent-ClothingOuterHardsuitLing = organischer Raumanzug
 ent-ClothingOuterHardsuitPirateEVA = Deep Space EVA Anzug
     .desc = Ein schwerer Raumanzug, der einen grundlegenden Schutz vor den kalten harten Realitäten des Weltraums bietet.
 
-ent-ClothingOuterHardsuitPirateCap = Hardsuit des Piratenkapitäns
+ent-ClothingOuterHardsuitPirateCap = Piratenkapitän-Hardsuit
     .desc = Ein uralter gepanzerter Hardsuit, perfekt zur Verteidigung gegen Weltraumskorbut und Werkzeugkasten schwingende Sallywags.
 
-ent-ClothingOuterHardsuitERTLeader = Hardsuit des ERT Leaders
+ent-ClothingOuterHardsuitERTLeader = ERT-Leiter-Hardsuit
     .desc = Ein schützender Hardsuit, der vom Leiter eines Notfallteams getragen wird.
 
-ent-ClothingOuterHardsuitERTChaplain = ERT Kaplan-Hardsuit
+ent-ClothingOuterHardsuitERTChaplain = ERT-Kaplan-Hardsuit
     .desc = Ein schützender Hardsuit, der von den Kaplänen eines Emergency Response Teams getragen wird.
 
-ent-ClothingOuterHardsuitERTEngineer = Hardsuit des ERT-Ingenieurs
+ent-ClothingOuterHardsuitERTEngineer = ERT-Ingenieur-Hardsuit
     .desc = Ein schützender Hardsuit, getragen von den Ingenieuren eines Notfallteams.
 
 ent-ClothingOuterHardsuitERTMedical = ERT-Sanitäter-Hardsuit
     .desc = Ein schützender Hardsuit, der von den Sanitätern eines Notfallteams getragen wird.
 
-ent-ClothingOuterHardsuitERTSecurity = Hardsuit von ERT security
+ent-ClothingOuterHardsuitERTSecurity = ERT-Sicherheits-Hardsuit
     .desc = Ein schützender Hardsuit, getragen von den Sicherheitsbeamten eines Notfallteams.
 
-ent-ClothingOuterHardsuitERTJanitor = ERT Hausmeister Hardsuit
+ent-ClothingOuterHardsuitERTJanitor = ERT-Hausmeister-Hardsuit
     .desc = Ein schützender Hardsuit, der von den Hausmeistern eines Notfallteams getragen wird.
 
-ent-ClothingOuterHardsuitDeathsquad = PI-52 „Lucifer“ Hardsuit
+ent-ClothingOuterHardsuitDeathsquad = PI-52 „Lucifer“-Hardsuit
     .desc = Ein berühmter Hardsuit, der von den Todesschwadronen des CentComm verwendet wird und oft in Filmen von Nanotrasen gezeigt wird, um die Rekrutierung zu erhöhen.
 
 ent-ClothingOuterHardsuitCBURN = CBURN-Exosuit
     .desc = Ein leichter, aber starker Exosuit, der für spezielle Reinigungsoperationen verwendet wird.
 
-ent-ClothingOuterHardsuitClown = Clown Hardsuit
+ent-ClothingOuterHardsuitClown = Clown-Hardsuit
     .desc = Ein maßgefertigter Clown Hardsuit.
 
-ent-ClothingOuterHardsuitMime = Mime Hardsuit
+ent-ClothingOuterHardsuitMime = Pantomime-Hardsuit
     .desc = Ein maßgeschneiderter Mime Hardsuit.
 
 ent-ClothingOuterHardsuitSanta = Weihnachtsmann-Hardsuit

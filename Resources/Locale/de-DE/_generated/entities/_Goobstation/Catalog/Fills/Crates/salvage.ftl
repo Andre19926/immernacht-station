@@ -1,4 +1,4 @@
-ent-CrateSalvageHardsuitLuxury = Luxus-Rettung Hardsuit Kiste
+ent-CrateSalvageHardsuitLuxury = Luxus-Bergungs-Hardsuit-Kiste
     .desc = Enthält einen Luxus-Rettung Hardsuit, Atemmaske und Sauerstofftank. Zum Glück.
 
 ent-CrateCrusherHammer = Brecher Hammerkiste

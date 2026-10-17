@@ -1,4 +1,4 @@
-ent-CrateCargoLuxuryHardsuit = Luxus-Mining Hardsuit-Kiste
+ent-CrateCargoLuxuryHardsuit = Luxus-Bergbau-Hardsuit-Kiste
     .desc = Schließlich könnte ein Hardsuit Quartermasters sein eigenes nennen. Centcomm hat dich gehört, jetzt hör auf zu fragen.
 
 ent-CrateCargoParcelWrap = Pakethüllenkiste

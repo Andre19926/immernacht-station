@@ -22,7 +22,7 @@ ent-CrateFulton = Fultonkiste
 ent-CrateVoidJetpack = void Jetpack Kiste
     .desc = Enthält einen einzigen Void Jetpack.
 
-ent-CrateSalvageHardsuit = Salvage Hardsuit Kiste
+ent-CrateSalvageHardsuit = Bergungs-Hardsuit-Kiste
     .desc = Enthält einen Salvage-Hardsuit, eine Atemmaske und einen Sauerstofftank.
 
 ent-CrateCrusherGlaive = Brecherglasur
