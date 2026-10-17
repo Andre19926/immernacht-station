@@ -1,8 +1,8 @@
 ent-BibleSlabClockwork = Uhrwerksplatte
-    .desc = Eine seltsame Metalltafel. Eine Uhr in der Mitte dreht sich herum und herum.
+    .desc = Eine seltsame Metalltafel. Eine Uhr in der Mitte dreht sich unablässig.
 
 ent-BibleVeda = slawisch-arische Veden
-    .desc = Ein Buch der neuen religiösen Bewegung Ynglism, einer der slawischen Neopaganisms.
+    .desc = Ein Buch der neuen religiösen Bewegung des Ynglismus, einer Strömung des slawischen Neopaganismus.
 
 ent-BibleVelesBook = Buch der Veles
-    .desc = Es spielt eine bedeutende Rolle in vielen Richtungen des slawischen Neopaganismus, wo es als Grundlage und Beweis für neopagan Religiosität verwendet wird.
+    .desc = Es spielt in vielen Strömungen des slawischen Neopaganismus eine bedeutende Rolle und dient als Grundlage und Beleg neopaganer Religiosität.

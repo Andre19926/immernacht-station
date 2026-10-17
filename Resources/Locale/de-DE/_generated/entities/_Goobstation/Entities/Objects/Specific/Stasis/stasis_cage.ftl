@@ -1,2 +1,2 @@
 ent-StasisCage = Stasisbehälter
-    .desc = Es ist außen kleiner als innen.
+    .desc = Außen ist es kleiner als innen.

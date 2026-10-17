@@ -17,13 +17,13 @@ ent-BiomassReclaimerFlatpack = Biomass Reclaimer Flatpack
     .desc = Ein Flatpack zum Bau eines Biomasse-Rückgewinners
 
 ent-MedicalBiofabricatorFlatpack = Medizinischer Biofabricator Flatpack
-    .desc = Ein Flatpack zum Bau eines medizinischen Biofabrikators
+    .desc = Ein Flatpack zum Bau eines medizinischen Biofabrikators.
 
 ent-ComputerNTRTasksFlatpack = ntr Task Computer Flatpack
     .desc = Ein Flatpack zum Bau eines NTR-Task-Computers.
 
 ent-MachinePowerTransmissionLaserFlatpack = Leistungsübertragung Laser Flatpack
-    .desc = Ein Flatpack zum Bau eines Energieübertragungslasers
+    .desc = Ein Flatpack zum Bau eines Energieübertragungslasers.
 
 ent-ComputerFundingAllocationFlatpack = Mittelzuweisung Computer Flatpack
     .desc = Ein Flatpack zum Bau eines Fördermittel-Computers
@@ -47,7 +47,7 @@ ent-TegMiddleFlatpack = Thermoelektrischer Generator Flatpack
     .desc = Ein Flatpack zum Bau eines thermoelektrischen Generators.
 
 ent-SlotMachineFlatpack = Slot Machine Flatpack
-    .desc = Ein Flatpack zum Bau eines Spielautomaten
+    .desc = Ein Flatpack zum Bau eines Spielautomaten.
 
 ent-SlotMachineHighRollerFlatPack = High Roller Slot Machine Flatpack
     .desc = Ein Flatpack zum Bau eines High-Roller-Spielautomaten
@@ -68,10 +68,10 @@ ent-VaccinatorFlatPack = Impfmaschine Flachpackung
     .desc = Ein Flatpack zum Bau eines Impfgeräts.
 
 ent-ResearchAndDevelopmentServerMachineFlatpack = R&D Server Flat Pack
-    .desc = Ein Flatpack, das für den Aufbau eines R & D-Servers verwendet wird.
+    .desc = Ein Flatpack zum Aufbau eines R&D-Servers.
 
 ent-ResearchComputerFlatpack = F&E Computer Flat Pack
-    .desc = Ein Flatpack für den Bau eines R & D-Computers.
+    .desc = Ein Flatpack zum Bau eines R&D-Computers.
 
 ent-MaterialSiloFlatpack = Materialsilo Flachpackung
     .desc = Ein Flatpack zum Bau eines Materialsilos.

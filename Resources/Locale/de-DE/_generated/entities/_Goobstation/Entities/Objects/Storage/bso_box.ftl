@@ -1,2 +1,2 @@
 ent-BlueshieldAmmunitionBox = Blueshield-Munitionskiste
-    .desc = Eine Box mit verschiedenen Munition und Magazinen für hochkarätige Schrotflinten.
+    .desc = Eine Schachtel mit verschiedener Munition und Magazinen für hochkalibrige Schrotflinten.

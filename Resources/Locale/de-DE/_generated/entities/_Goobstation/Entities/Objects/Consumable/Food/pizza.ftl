@@ -1,5 +1,5 @@
 ent-FoodPizzaCottonHot = Flamin Hot Baumwoll Pizza
-    .desc = Flachstoff-Baumwollteig mit super würzigem Baumwollbelag. Flamin heiß!
+    .desc = Flachsteig mit Baumwolle und super scharfem Baumwollbelag. Flamin' heiß!
 
 ent-FoodPizzaCottonHotSlice = Scheibe Flamin Hot Baumwoll Pizza
-    .desc = Ein Stück heiße Baumwollpizza. Extra würzig!
+    .desc = Ein Stück heiße Baumwollpizza. Extra scharf!

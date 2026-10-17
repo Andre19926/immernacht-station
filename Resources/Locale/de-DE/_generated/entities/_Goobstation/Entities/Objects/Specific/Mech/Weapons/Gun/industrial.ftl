@@ -1,2 +1,2 @@
 ent-WeaponMechIndustrialKineticAccelerator = protokinetische Trägerrakete
-    .desc = Brände großen Schaden kinetische Bolzen in einem mittleren Bereich.
+    .desc = Feuert kinetische Bolzen mit hohem Schaden auf mittlere Reichweite.

@@ -17,4 +17,4 @@ ent-BorgModuleSECNonLethal = S.E.C.-Nichttödlich-Cyborg-Modul
     .desc = Das Standard-Compliance-Modul für den S.E.C.-Cyborg. Enthält einen Betäubungsstab, einen Disabler und ein Kampfmesser sowie Lagerplätze für Bolas und Fesseln.
 
 ent-BorgModuleSECLethal = S.E.C.-Tödlich-Cyborg-Modul
-    .desc = Das Letal-Response-Modul für den S.E.C. Cyborg. Seine Schlitze akzeptieren entweder einen Lecter oder seine Munition, die von der Sicherheit zur Verfügung gestellt werden.
+    .desc = Das Letal-Response-Modul für den S.E.C.-Cyborg. Seine Schlitze nehmen entweder einen Lecter oder dessen Munition auf, die von der Sicherheit bereitgestellt wird.

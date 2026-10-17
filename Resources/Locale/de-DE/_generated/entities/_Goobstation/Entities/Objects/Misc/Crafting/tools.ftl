@@ -1,2 +1,2 @@
 ent-WoodenHandleHammer = Hammergriff
-    .desc = Ein normaler Holzgriff, der beim Basteln verwendet werden kann.
+    .desc = Ein gewöhnlicher Holzgriff, der beim Basteln verwendet werden kann.

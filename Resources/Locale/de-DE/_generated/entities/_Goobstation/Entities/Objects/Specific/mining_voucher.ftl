@@ -1,2 +1,2 @@
 ent-MiningVoucher = Bergbaugutschein
-    .desc = Ein Token, um ein Gerät einzulösen. Füge in deinen Bergungsautomaten ein, um es einzulösen.
+    .desc = Ein Token zum Einlösen eines Geräts. Steck ihn in deinen Bergungsautomaten, um ihn einzulösen.

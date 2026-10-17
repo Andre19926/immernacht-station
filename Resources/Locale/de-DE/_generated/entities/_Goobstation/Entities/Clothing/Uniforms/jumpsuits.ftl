@@ -41,64 +41,64 @@ ent-ClothingUniformJumpsuitNavyGold = Marineoffiziersuniform
     .desc = Ein Anzug, getragen von hochrangigen Mitgliedern des Central Command. Der Rest ist geheim.
 
 ent-ClothingUniformJumpsuitSpecOps = Spezialeinsatz-Offiziersuniform
-    .desc = Ein Anzug, getragen von hochrangigen Spec Ops Offizieren. Der Rest ist klassifiziert.
+    .desc = Ein Anzug, getragen von hochrangigen Spec-Ops-Offizieren. Der Rest ist geheim.
 
 ent-ClothingUniformJumpsuitDiplomat = Diplomatenuniform
-    .desc = Ein Anzug, der von Mitarbeitern des CentComm getragen wird.
+    .desc = Ein Anzug, getragen von CentComm-Mitarbeitern.
 
 ent-ClothingUniformJumpsuitCentralCommandLiaison = CentComm Verbindung-Uniform
-    .desc = Gerüchten zufolge war der CCO, der zuerst die Außenkommando-Uniform gesehen hat, so eifersüchtig, dass sie sie mit ihrem Neid befleckt haben.
+    .desc = Gerüchten zufolge war der CCO, der die Außenkommando-Uniform als Erster sah, so eifersüchtig, dass er sie mit seinem Neid befleckte.
 
 ent-ClothingCostumeAbductor = Alien Kostüm
-    .desc = Das Tag liest- Donk Co. ist nicht verantwortlich für Sicherheitsaufnahmen, die durch dieses Produkt verursacht werden.
+    .desc = Auf dem Etikett steht: Donk Co. ist nicht verantwortlich für Sicherheitsvorfälle, die durch dieses Produkt verursacht werden.
 
 ent-ClothingUniformJumpsuitTrainer = NCT-Uniform
-    .desc = A Insgesamt ausgestellt an Nanotrasen Career Trainers. Füllt dich mit einem Gefühl des Stolzes.
+    .desc = Ein Overall, ausgegeben an Nanotrasen-Karrieretrainer. Erfüllt dich mit Stolz.
 
 ent-ClothingUniformJumpsuitDevil = teuflischer Anzug
-    .desc = Ein stilvoller schwarzer Anzug aus Materialien, die nicht aus dieser Dimension stammen. Warm zur Berührung.
+    .desc = Ein stilvoller schwarzer Anzug aus Materialien, die nicht aus dieser Dimension stammen. Warm bei Berührung.
 
 ent-ClothingUniformJumpsuitMercer = Manhattan Streetwear
-    .desc = Nur jemand, der versuchen würde, mit der tödlichsten Biowaffe der Erde davonzulaufen, würde dies tragen wollen.
+    .desc = Nur jemand, der mit der tödlichsten Biowaffe der Erde davonlaufen wollte, würde das tragen wollen.
 
 ent-ClothingUniformJumpsuitHoSSummer = Sommerhemd des Sicherheitschefs
-    .desc = Der Leiter der Sicherheit Custom-Commissioned Sommer-Outfit, für wenn Gezeiten jagt heiß wird.
+    .desc = Das maßgefertigte Sommer-Outfit des Sicherheitschefs, für den Fall, dass die Tide-Jagd heiß wird.
 
 ent-ClothingUniformJumpsuitRDSummer = Sommerhemd des Forschungsleiters
-    .desc = Der Forschungsdirektor hat das Sommeroutfit in Auftrag gegeben, wenn diese Feueranomalien dich zum Schwitzen bringen.
+    .desc = Das vom Forschungsleiter in Auftrag gegebene Sommer-Outfit, für den Fall, dass dich diese Feueranomalien zum Schwitzen bringen.
 
 ent-ClothingUniformJumpsuitQMSummer = Sommerhemd des Quartiermeisters
-    .desc = Der Quartiermeister hat ein Sommer-Outfit in Auftrag gegeben, wenn du dein Geld den anderen Abteilungen zeigen möchtest.
+    .desc = Das vom Quartiermeister in Auftrag gegebene Sommer-Outfit, für den Fall, dass du den anderen Abteilungen dein Geld zeigen willst.
 
 ent-ClothingUniformJumpsuitCaptainSummer = Kapitänshemd (Sommer)
-    .desc = Das Sommer-Outfit des Kapitäns, wenn du eine Weile im Grünen warst.
+    .desc = Das Sommer-Outfit des Kapitäns, für den Fall, dass du eine Weile im Grünen warst.
 
 ent-ClothingUniformJumpsuitHoPSummer = Sommerhemd des Personalchefs
-    .desc = Der Leiter des Personals maßgefertigte Sommer-Outfit, für wenn du bequem Papierkram machen willst.
+    .desc = Das maßgefertigte Sommer-Outfit des Personalchefs, für alle, die bequem Papierkram erledigen wollen.
 
 ent-ClothingUniformJumpsuitCESummer = Sommerhemd des Chefingenieurs
-    .desc = Das maßgeschneiderte Sommeroutfit des Cheftechnikers, für alle, die sich einfach hinlegen und die Tesla betrachten wollen.
+    .desc = Das maßgeschneiderte Sommer-Outfit des Cheftechnikers, für alle, die sich einfach hinlegen und die Tesla betrachten wollen.
 
 ent-ClothingUniformJumpsuitPassengerQuarterzip = graue Quartiers
-    .desc = Eine Quarterzip für den anspruchsvollen Assistenten.
+    .desc = Ein Quarterzip für den anspruchsvollen Assistenten.
 
 ent-ClothingUniformJumpsuitAncientUnremoveable = Alter-Uniform (Unremoveable)
     .desc = Eine schrecklich zerlumpte und ausgefranste graue Uniform. Sie sieht aus, als wäre sie seit über einem Jahrzehnt nicht gewaschen worden.
 
 ent-ClothingUniformJumpsuitOuterCommand = äußerer Befehl-Uniform
-    .desc = Ein schicker violetter Anzug mit einem Terra-Gov-Insignia.
+    .desc = Ein schicker violetter Anzug mit Terra-Gov-Abzeichen.
 
 ent-ClothingUniformJumpsuitShaftMiner = Bergarbeiter-Arbeitskleidung
-    .desc = Es ist eine knackige Gesamt, sieht ein bisschen verbrannt.
+    .desc = Ein knackiger Overall, sieht ein bisschen verbrannt aus.
 
 ent-ClothingUniformOverallsCargo = Frachttechniker-Overall
-    .desc = Es ist ein robustes Set von Overalls. Es ist ein bisschen staubig.
+    .desc = Ein robuster Overall. Er ist ein bisschen staubig.
 
 ent-ClothingUniformOverallsSalvageSpecialist = Salvage-Spezialisten-Overall
-    .desc = Es ist ein robustes Set von Overalls. Es ist sehr schmutzig.
+    .desc = Ein robuster Overall. Er ist sehr schmutzig.
 
 ent-ClothingUniformOverallsShaftMiner = Overalls des Schachtminenarbeiters
-    .desc = Es ist ein robustes Set von Overalls, sieht ein bisschen verbrannt aus.
+    .desc = Ein robuster Overall, sieht ein bisschen verbrannt aus.
 
 ent-ClothingUniformJumpsuitResearchDirectorAlt = Forschungsleiter-Rollkragenuniform (alternativ)
     .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
@@ -107,10 +107,10 @@ ent-ClothingUniformJumpsuitVeteranSecurity = Luftsicherheit-Uniform
     .desc = Eine luftige Version des Standard-Sicherheitsoveralls, normalerweise in Schichten getragen, wenn die Atmos-Abteilung fehlt.
 
 ent-ClothingUniformJumpsuitGoldenLiaison = Golden Liaison CentCom-Uniform
-    .desc = Eine fein zugeschnittene Weiß-Gold-Uniform, die von hochrangigen Beamten des CentComm getragen wird.
+    .desc = Eine fein geschnittene weiß-goldene Uniform, getragen von hochrangigen CentComm-Beamten.
 
 ent-ClothingUniformJumpsuitMonk = Lange Hosen für Mönche
-    .desc = Einfache Hose, nicht viel besser als ein alter Sack.
+    .desc = Einfache Hose, kaum besser als ein alter Sack.
 
 ent-ClothingUniformJumpsuitHawaiGreen = Green Hawaii Hemd
     .desc = Central Command™-Grün.

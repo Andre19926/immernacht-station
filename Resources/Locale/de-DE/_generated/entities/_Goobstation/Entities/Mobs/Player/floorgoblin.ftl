@@ -1,2 +1,2 @@
 ent-MobFloorGoblin = Bodengoblin
-    .desc = Lebt unter dem Boden Bretter, stiehlt Schuhe, beißt Knöchel.
+    .desc = Lebt unter den Bodenbrettern, stiehlt Schuhe, beißt in Knöchel.

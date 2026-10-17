@@ -2,16 +2,16 @@ ent-BorgChassisDerelictSyndicateAssault = Verfallener Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist in einem Zustand des großen Verfalls.
 
 ent-BorgChassisUrist = Urist McBorg
-    .desc = Eine Abscheulichkeit, die angeblich bei der Aktivität der Station hilft.
+    .desc = Eine Abscheulichkeit, die angeblich bei der Stationsaktivität hilft.
 
 ent-PlayerBorgUrist = Urist McBorg
-    .desc = Eine Abscheulichkeit, die angeblich bei der Aktivität der Station hilft.
+    .desc = Eine Abscheulichkeit, die angeblich bei der Stationsaktivität hilft.
 
 ent-PlayerBorgUristGhostRole = Urist McBorg
-    .desc = Eine Abscheulichkeit, die angeblich bei der Aktivität der Station hilft.
+    .desc = Eine Abscheulichkeit, die angeblich bei der Stationsaktivität hilft.
 
 ent-BorgChassisSEC = S.E.C.-Cyborg
-    .desc = Ein Sicherheitsdurchsetzungscyborg, der speziell für die Einhaltung des Weltraumgesetzes entwickelt wurde.
+    .desc = Ein Sicherheits-Cyborg zur Durchsetzung, speziell für die Einhaltung des Weltraumrechts entwickelt.
 
 ent-BorgChassisMiningBasic = Einfacher Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.

@@ -1,2 +1,2 @@
 ent-MobTajaranDummy = Urist McHands
-    .desc = Ein Dummy-Tajaran soll im Charakter-Setup verwendet werden.
+    .desc = Ein Dummy-Tajaran zur Verwendung in der Charaktererstellung.

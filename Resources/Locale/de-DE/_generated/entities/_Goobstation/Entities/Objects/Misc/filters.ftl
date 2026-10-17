@@ -1,23 +1,23 @@
 ent-AutomationFilterLabel = Etikettenfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser scannt Etiketten von angehängten Gegenständen.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser scannt die Etiketten angehängter Gegenstände.
 
 ent-AutomationFilterName = Name filter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser verwendet komplexe KI-Vision-Technologie, um Gegenstände zu identifizieren.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser nutzt komplexe KI-Bilderkennung, um Gegenstände zu identifizieren.
 
 ent-AutomationFilterStack = Stapelfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser wiegt Gegenstände, um ihn mit einer Stapelgröße zu vergleichen.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser wiegt Gegenstände, um sie mit einer Stapelgröße zu vergleichen.
 
 ent-AutomationFilterPressure = Druckfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser hat ein Barometer, um den Druck von Gasen zu überprüfen.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser hat ein Barometer, um den Druck von Gasen zu prüfen.
 
 ent-AutomationFilterCombined = Kombifilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser verwendet ein Logikgatter, um 2 installierte Elementfilter zu kombinieren.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser kombiniert mit einem Logikgatter 2 eingebaute Gegenstandsfilter.
 
 ent-AutomationFilterAnchor = Ankerfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt ein verankerbares Objekt, und es wird verankert oder nicht.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser erkennt, ob ein verankerbares Objekt verankert ist oder nicht.
 
 ent-AutomationFilterMob = Mob-Filter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt Lebewesen und Filter basierend auf lebendigen, kritischen oder toten Zuständen.
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser erkennt Lebewesen und filtert nach lebendig, kritisch oder tot.
 
 ent-AutomationFilterCuff = Manschettenfilter
-    .desc = Ein Filter, der in Fabrikmaschinen installiert werden kann. Dieser erkennt, ob Leute gefesselt sind ... Wer hat das gebaut!?
+    .desc = Ein in Fabrikmaschinen einbaubarer Filter. Dieser erkennt, ob Leute gefesselt sind ... Wer hat das gebaut!?

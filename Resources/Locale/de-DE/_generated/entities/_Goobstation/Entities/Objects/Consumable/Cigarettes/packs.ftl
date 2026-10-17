@@ -1,5 +1,5 @@
 ent-CigPackBlueshield = Blueshield-Zigarettenpackung
-    .desc = Hochwertige Zigaretten für einen hochwertigen Bodyguard. Infundiert mit einem langsam wirkenden Medikament, um dich zu beruhigen.
+    .desc = Hochwertige Zigaretten für einen hochwertigen Leibwächter. Mit einem langsam wirkenden Medikament versetzt, das dich beruhigt.
 
 ent-CigPackMedical = Chemlab-Zigarettenpaket
-    .desc = Hergestellt für und von Big Pharma. Enthält 10 superabsorbierende Zigaretten.
+    .desc = Hergestellt von und für Big Pharma. Enthält 10 superabsorbierende Zigaretten.

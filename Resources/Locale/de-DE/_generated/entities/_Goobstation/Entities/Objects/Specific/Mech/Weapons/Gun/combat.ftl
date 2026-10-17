@@ -1,38 +1,38 @@
 ent-WeaponMechCombatPulseRifle = eZ-14 mk2 Schweres Pulsgewehr
-    .desc = Feuert einen schweren Pulslaser.
+    .desc = Feuert einen schweren Pulslaser ab.
 
 ent-WeaponMechCombatImmolationGun = ZFI Immolation Beam Gun
-    .desc = Eine Waffe für Battlemechs, die Hochtemperaturstrahlen abfeuert.
+    .desc = Eine Waffe für Kampf-Mechs, die Hochtemperaturstrahlen abfeuert.
 
 ent-WeaponMechCombatSolarisLaser = CH-LC Laserkanone "Solaris"
-    .desc = Ein experimenteller Kampf montiert Laserstrahl, der viel schneller feuert als die "Firedart", aber zu einem viel higer Kosten.
+    .desc = Ein experimenteller, kampftauglicher Laser für Mechs, der viel schneller feuert als der „Firedart“, aber zu deutlich höheren Kosten.
 
 ent-WeaponMechCombatFiredartLaser = CH-PS "Firedart" Laser
-    .desc = Die Standard-Kampfbewaffnung der Mechs ist ein kampfmontierter Laser.
+    .desc = Die Standard-Kampfbewaffnung von Mechs: ein montierter Kampflaser.
 
 ent-WeaponMechCombatTeslaCannon = P-X Tesla Cannon
-    .desc = Eine Waffe für Kampf-Mechs, die Energiebälle abfeuern, basierend auf dem Prinzip eines experimentellen Tesla-Motors.
+    .desc = Eine Waffe für Kampf-Mechs, die Energiekugeln nach dem Prinzip eines experimentellen Tesla-Motors abfeuert.
 
 ent-WeaponMechCombatDisabler = CH-PD-Neutralisierer
-    .desc = Eine nicht tödlich montierte Elektroschockpistole, mit der du Eindringlinge immobilisieren kannst.
+    .desc = Eine montierte, nicht tödliche Elektroschockpistole, mit der sich Eindringlinge bewegungsunfähig machen lassen.
 
 ent-WeaponMechCombatTaser = PBT "Pacifier" montierter Taser
-    .desc = Ein montierter nicht-tödlicher Taser, mit dem du Eindringlinge betäuben kannst.
+    .desc = Ein montierter, nicht tödlicher Taser, mit dem sich Eindringlinge betäuben lassen.
 
 ent-WeaponMechCombatShotgun = LBX AC 10 "Scattershot"
-    .desc = Eine montierte Schrotflinte für den Einsatz gegen feindliche Arbeitskräfte.
+    .desc = Eine montierte Schrotflinte für den Einsatz gegen feindliche Kräfte.
 
 ent-WeaponMechCombatShotgunIncendiary = FNX-99 "Hades" Karabiner
     .desc = Eine montierte Schrotflinte mit Brandmunition.
 
 ent-WeaponMechCombatUltraRifle = Ultra AC-2
-    .desc = Ein montiertes Gewehr für den Einsatz gegen feindliche Arbeitskräfte.
+    .desc = Ein montiertes Gewehr für den Einsatz gegen feindliche Kräfte.
 
 ent-WeaponMechCombatMissileRack8 = SRM-8 Leichtes Raketenlager
-    .desc = Startet niedrig-explosive Brechen Raketen entwickelt, um nur zu explodieren, wenn ein robustes Ziel treffen.
+    .desc = Feuert schwach explosive Brechraketen ab, die nur beim Treffen eines robusten Ziels explodieren.
 
 ent-WeaponMechCombatMissileRack6 = BRM-6 Raketenlager
-    .desc = Rohre müssen von außen nachgeladen werden.
+    .desc = Die Rohre müssen von außen nachgeladen werden.
 
 ent-WeaponMechCombatFlashbangLauncher = SGL-6 Flashbang Launcher
-    .desc = Ein Reittierwerfer, der Blitzgranaten abfeuert, um mit Unruhen umzugehen.
+    .desc = Ein montierter Werfer, der Blendgranaten zur Aufstandsbekämpfung abfeuert.

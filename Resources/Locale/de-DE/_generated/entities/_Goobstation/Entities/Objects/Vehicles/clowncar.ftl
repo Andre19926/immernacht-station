@@ -1,5 +1,5 @@
 ent-VehicleClowncarAntag = Clownwagen
-    .desc = Wie jemand dort hineinpassen könnte, ist byond mir.
+    .desc = Wie da jemand hineinpassen soll, ist mir ein Rätsel.
 
 ent-VehicleClowncarTrainee = Clownwagen
-    .desc = Trage meist willige Assistenten herum! Vorsicht bei Kollisionen!
+    .desc = Befördert meist willige Assistenten! Vorsicht bei Kollisionen!

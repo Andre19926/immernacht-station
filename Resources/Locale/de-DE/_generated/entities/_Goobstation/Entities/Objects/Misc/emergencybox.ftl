@@ -65,4 +65,4 @@ ent-BoxMimeSlotsPlasma = Überlebensbox
     .desc = Eine Kiste mit grundlegender Atemausrüstung.
 
 ent-BoxSurvivalSlotsSilicon = Überlebensbox für Silizium
-    .desc = Es ist eine Box mit grundlegenden Werkzeugen für die Selbstreparatur im Inneren.
+    .desc = Eine Schachtel mit einfachen Werkzeugen für die Selbstreparatur.

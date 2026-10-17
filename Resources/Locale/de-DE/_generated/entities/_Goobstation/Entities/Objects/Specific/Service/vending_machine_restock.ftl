@@ -1,2 +1,2 @@
 ent-VendingMachineRestockSweetToof = SweetToof-Nachfüllbox
-    .desc = Eine Box mit einer abscheulichen Menge an Süßigkeiten. Lade es in einen SweetToof-Anbieter, um zu beginnen.
+    .desc = Eine Schachtel mit einer abscheulichen Menge Süßigkeiten. Lade sie in einen SweetToof-Automaten, um zu beginnen.

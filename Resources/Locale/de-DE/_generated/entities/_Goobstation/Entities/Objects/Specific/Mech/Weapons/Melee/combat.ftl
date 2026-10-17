@@ -1,2 +1,2 @@
 ent-WeaponMechChainSword = Exosuit Kettenwort
-    .desc = Ausrüstung für Kampfexosuits. Dies ist das mechanische Kettenschwert, das den Himmel durchdringen wird!
+    .desc = Ausrüstung für Kampf-Exosuits. Das ist das mechanische Kettenschwert, das den Himmel durchbohren wird!

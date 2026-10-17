@@ -1,2 +1,2 @@
 ent-BaseHandheldStationMapPowerCe = Handstromkonsole
-    .desc = Fine-Crafted Handheld Power Map Konsole für Chefingenieure. Ermöglicht dem Benutzer, das Powergrid anzuzeigen.
+    .desc = Fein gefertigte Handheld-Stromnetzkarte für Cheftechniker. Zeigt dem Benutzer das Stromnetz an.

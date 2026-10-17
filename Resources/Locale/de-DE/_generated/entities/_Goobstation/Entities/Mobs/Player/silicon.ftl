@@ -1,8 +1,8 @@
 ent-HelpimovCircuitBoard = Gesetzesplatine (Helpimov)
-    .desc = Eine Elektronikplatine, die das Helpimov-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Helpimov-Gesetz.
 
 ent-GambamovCircuitBoard = Gesetzesplatine (Gambamov)
-    .desc = Eine Elektronikplatine, die das Gambamov-Gesetz enthält.
+    .desc = Eine Elektronikplatine mit dem Gambamov-Gesetz.
 
 ent-PlayerBorgDerelictSyndicateAssaultBattery = Verfallener Syndicate-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist in einem Zustand des großen Verfalls.

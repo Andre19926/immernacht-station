@@ -1,5 +1,5 @@
 ent-ChronoIDCard = Futuristische ID-Karte
-    .desc = Die Karte, die ursprünglich auf alles in diesem Universum Zugriff hatte.
+    .desc = Die Karte, die ursprünglich Zugriff auf alles in diesem Universum hatte.
 
 ent-HelldiverIDCard = Salvage-Taucher-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
@@ -17,10 +17,10 @@ ent-NanotrasenCareerTrainerIDCard = Nanotrasen-Karrieretrainer-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-ExecutiveIDCard = Executive-Zugangskarte
-    .desc = Nanotrasen-Mitarbeiter sind gesetzlich verpflichtet, jemandem mit einem davon zuzuhören. Es ist auch in der Lage, Zugriffssperren auf den meisten Geräten zu überschreiben.
+    .desc = Nanotrasen-Mitarbeiter sind gesetzlich verpflichtet, jedem zuzuhören, der eine davon trägt. Sie kann außerdem Zugriffssperren an den meisten Geräten überschreiben.
 
 ent-ExecutiveIDCardChameleon = Executive-Zugangskarte (Chamäleon)
-    .desc = Die gleichen Funktionen wie die ursprüngliche Version, können aber das Aussehen ändern.
+    .desc = Dieselben Funktionen wie die ursprüngliche Version, kann aber ihr Aussehen ändern.
 
 ent-CentcomIDCardNavyCaptain = Marinekapitäns-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
@@ -38,10 +38,10 @@ ent-CentcomIDCardDiplomat = Diplomaten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-GmanIDCard = Mysteriöse ID-Karte
-    .desc = Die Karte, die ursprünglich auf alles in diesem Universum Zugriff hatte.
+    .desc = Die Karte, die ursprünglich Zugriff auf alles in diesem Universum hatte.
 
 ent-HighCommandIDCard = High-Command-ID-Karte
-    .desc = Eine besonders extravagante Syndicate-ID-Karte. Sie hat einen eingebauten Access Breaker, um fast jede Tür zu öffnen.
+    .desc = Eine besonders extravagante Syndicate-ID-Karte. Mit eingebautem Access Breaker, um fast jede Tür zu öffnen.
 
 ent-SecurityClownIDCard = Sicherheitsclown-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.

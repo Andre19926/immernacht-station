@@ -2,7 +2,7 @@ ent-FoodStrangeBerries = Seltsame Beeren
     .desc = Eine Handvoll seltsamer Beeren.
 
 ent-Nevcotta = nevcotta log
-    .desc = Wenn es aus seinem heimischen Lebensraum gepflanzt wird, wächst es zu einer völlig anderen Pflanze heran.
+    .desc = Wenn man sie aus ihrem heimischen Lebensraum auspflanzt, wächst daraus eine völlig andere Pflanze.
 
 ent-NevcottaBark = Nevcottarinde
     .desc = Die Rinde eines Nevcotta-Baumes.

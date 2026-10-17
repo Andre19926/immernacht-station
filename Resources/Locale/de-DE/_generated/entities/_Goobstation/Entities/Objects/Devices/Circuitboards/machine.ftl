@@ -11,22 +11,22 @@ ent-InteractorCircuitboard = Interaktor Maschinenplatine
     .desc = Eine Maschinenplatine für einen Interaktor.
 
 ent-VinylPlayerCircuitboard = Vinylplayer Maschinenplatine
-    .desc = Eine Maschinenplatine für ein Vinyl-Spieler.
+    .desc = Eine Maschinenplatine für einen Schallplattenspieler.
 
 ent-TapeDeckCircuitboard = Banddeck Maschinenplatine
     .desc = Eine Maschinenplatine für ein Banddeck.
 
 ent-StationRadioServerCircuitboard = Stationsfunkserver Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Station Radio-Server.
+    .desc = Eine Maschinenplatine für einen Stationsfunk-Server.
 
 ent-StationRadioRigCircuitboard = Stationsfunkanlage Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Station Radio-Rig.
+    .desc = Eine Maschinenplatine für ein Stationsfunk-Rig.
 
 ent-StationRadioCircuitboard = Stationsfunk Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Station Radio-Empfänger.
+    .desc = Eine Maschinenplatine für einen Stationsfunk-Empfänger.
 
 ent-VirologyServerMachineCircuitboard = Virologie-Server Maschinenplatine
     .desc = Eine Maschinenplatine für einen Virologie-Server.
 
 ent-ServiceEnergyChemMachineCircuitboard = Energy Food Synthesizer Maschinenplatine
-    .desc = Eine Maschinenplatine für einen Energy Food Synthesizer.
+    .desc = Eine Maschinenplatine für einen Energie-Nahrungssynthesizer.

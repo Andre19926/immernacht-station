@@ -8,7 +8,7 @@ ent-MobBingleUpgraded = Binsen
     .desc = Binsen
 
 ent-MobTurkle = Turzel
-    .desc = Ein Bingle aus fremden Ländern, verloren in der Zeit. Scheint sehr stolz auf ihre Heimat zu sein.
+    .desc = Ein Bingle aus fernen Ländern, in der Zeit verloren. Scheint sehr stolz auf seine Heimat zu sein.
 
 ent-MobTurkleUpgraded = Binsen
     .desc = Binsen

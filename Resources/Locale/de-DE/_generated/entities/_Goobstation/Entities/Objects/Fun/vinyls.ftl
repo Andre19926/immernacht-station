@@ -2,13 +2,13 @@ ent-VinylDiskAI = Schallplatte: Weltraumjazz
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskDevil = Schallplatte: Flughafenlounge
-    .desc = Eine Schallplatte mit Hellish-Musik.
+    .desc = Eine Schallplatte mit höllischer Musik.
 
 ent-VinylDiskPizza = Schallplatte: Boogie Party
-    .desc = Eine Schallplatte mit Musik riecht nach Tomaten.
+    .desc = Eine Schallplatte mit Musik. Riecht nach Tomaten.
 
 ent-VinylDiskGlossy = Schallplatte: Corncob
-    .desc = Eine Schallplatte mit Musik, hat eine matte Glanzfinish.
+    .desc = Eine Schallplatte mit Musik, mit mattem Glanzfinish.
 
 ent-VinylDiskRed = Schallplatte: Nacht in Venedig
     .desc = Eine Schallplatte mit Musik.
@@ -17,10 +17,10 @@ ent-VinylDiskLightBlue = Schallplatte: entfernter Stern
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskBanana = Schallplatte: Bananen
-    .desc = Eine Schallplatte enthält die Clowns Lieblingsmusik!
+    .desc = Eine Schallplatte mit der Lieblingsmusik des Clowns!
 
 ent-VinylDiskCarrot = Schallplatte: Atlas
-    .desc = Eine Schallplatte mit Musik, hat einen Disclaimer auf der Seite Warnung, dass die Festplatte nicht essbar ist.
+    .desc = Eine Schallplatte mit Musik. Seitlich steht ein Hinweis, dass die Platte nicht essbar ist.
 
 ent-VinylDiskCyan = Schallplatte: Strände
     .desc = Eine Schallplatte mit Musik.
@@ -35,7 +35,7 @@ ent-VinylDiskGreen = Schallplatte: Late Night Radio
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskPurple = Schallplatte: Abenteuer 3
-    .desc = Lasst uns es lila sehen!
+    .desc = Lasst es uns in Lila sehen!
 
 ent-VinylDiskOrange = Schallplatte: Alle sind so lebendig
     .desc = Eine Schallplatte mit Musik.
@@ -122,7 +122,7 @@ ent-VinylDiskTuff = Schallplatte: trap ops
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskForgotten = vergessene Schallplatte
-    .desc = Einige Stücke fehlen, aber etwas sagt dir, dass dies immer noch spielbar ist, aber solltest du?
+    .desc = Einige Stücke fehlen, aber etwas sagt dir, dass sie noch spielbar ist – aber solltest du?
 
 ent-VinylDiskSpaceAsshole = Schallplatte: Space Arshole
     .desc = Eine Schallplatte mit Musik.
@@ -284,7 +284,7 @@ ent-VinylDiskWayStations = Schallplatte: Wegstationen
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskBroken = gebrochene Schallplatte
-    .desc = Wie die meisten Vinyls endete diese am Ende kaputt.
+    .desc = Wie die meisten Schallplatten ist auch diese am Ende kaputtgegangen.
 
 ent-VinylSleeveAI = KI Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -308,19 +308,19 @@ ent-VinylSleeveRat = Rattenplattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveMgs = Sneaking Plattenhülle
-    .desc = Wartest du, huh?
+    .desc = Moment, hä?
 
 ent-VinylSleeveQuestionable = fragwürdige Plattenhülle
-    .desc = Abstrakte Kunst ist jedermanns Favorit.
+    .desc = Abstrakte Kunst ist jedermanns Liebling.
 
 ent-VinylSleeveJanitor = Hausmeister Plattenhülle
-    .desc = Der unbesungene Held, jetzt gesungen!
+    .desc = Der unbesungene Held, jetzt besungen!
 
 ent-VinylSleeveWeird = Merkwürdige Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveDJClown = DJ-Clown Plattenhülle
-    .desc = DJ-Clown eine galaktische Sensation, seine galaktische Tour listet Sol als einziges Sternensystem auf.
+    .desc = DJ-Clown, eine galaktische Sensation; seine Galaxie-Tour führt Sol als einziges Sternensystem auf.
 
 ent-VinylSleeveVampire = Vampir Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -343,7 +343,7 @@ ent-VinylSleeveStation13 = Space Station 13 Plattenhülle
     .desc = Die berühmte Raumstation, Pech 13
 
 ent-VinylSleeveStation14 = Space Station 14 Plattenhülle
-    .desc = Die berühmte Raumstation, Glück 14
+    .desc = Die berühmte Raumstation, Glück 14.
 
 ent-VinylSleeveReactor = Reaktor Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -352,10 +352,10 @@ ent-VinylSleevePda = pda Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveNukeDisk = Kernscheibe Plattenhülle
-    .desc = Obwohl es wie eine aussehen mag, funktioniert dies nicht wirklich als Atomscheibe.
+    .desc = Obwohl sie wie eine aussehen mag, funktioniert diese nicht wirklich als Atomdisk.
 
 ent-VinylSleeveBlockyCraft = Blockschiff Plattenhülle
-    .desc = Der Hit 2457 Videospiel Blocky Craft Soundtrack kommt auf Vinyl!
+    .desc = Der Soundtrack zum Hit-Videospiel Blocky Craft von 2457 erscheint auf Vinyl!
 
 ent-VinylSleeveEye = eye Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -367,10 +367,10 @@ ent-VinylSleeveClown = Clown Plattenhülle
     .desc = Der Clown gewinnt immer.
 
 ent-VinylSleeveNanoYork = Neue Nano York Plattenhülle
-    .desc = Der Einband zeigt New Nano York nach der Konzernübernahme von 2333.
+    .desc = Das Cover zeigt New Nano York nach der Konzernübernahme von 2333.
 
 ent-VinylSleeveDJTider = JD Tider Plattenhülle
-    .desc = DJ tider eine galaktische Sensation, seine galaktische Tour listet Sol und Alpha Centauri als Stopps.
+    .desc = DJ Tider, eine galaktische Sensation; seine Galaxie-Tour führt Sol und Alpha Centauri als Stationen auf.
 
 ent-VinylSleeveCoffee = Kaffeeplattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -379,7 +379,7 @@ ent-VinylSleeveWelcomeSS13 = Willkommen bei SS13 Plattenhülle
     .desc = Schade, dass sie diesen Ort gesprengt haben.
 
 ent-VinylSleevePeace = Frieden Plattenhülle
-    .desc = Die Kunst zeigt die Ereignisse der Raumstation 12, wo ein Kapitän und ein Syndicate-Aufständischer am Weihnachtstag einem Waffenstillstand zugestimmt haben.
+    .desc = Das Artwork zeigt die Ereignisse auf Raumstation 12, wo ein Kapitän und ein Syndicate-Aufständischer sich am Weihnachtstag auf einen Waffenstillstand einigten.
 
 ent-VinylSleeveJapan = japan Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
@@ -388,7 +388,7 @@ ent-VinylSleeveChristmas = weihnachtliche Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleevePickle = Pickelplattenhülle
-    .desc = Viele Künstler haben versucht herauszufinden, was diese Kunst darstellt, unsere größten Köpfe sind sich einig, dass es höchstwahrscheinlich 3 Gurken auf einer Straße darstellt.
+    .desc = Viele Künstler haben versucht herauszufinden, was diese Kunst darstellt; unsere größten Köpfe sind sich einig, dass es höchstwahrscheinlich 3 Gurken auf einer Straße zeigt.
 
 ent-VinylSleeveFlash = flash Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.

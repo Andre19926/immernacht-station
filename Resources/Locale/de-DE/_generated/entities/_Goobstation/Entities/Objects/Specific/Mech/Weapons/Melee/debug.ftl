@@ -1,2 +1,2 @@
 ent-WeaponMechDebugMelle = Debug Bam
-    .desc = Eine robuste Sache.
+    .desc = Ein robustes Ding.

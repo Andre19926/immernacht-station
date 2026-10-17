@@ -1,2 +1,2 @@
 ent-SoapHomemadeBanana = Bananenseife
-    .desc = Eine hausgemachte Bar Seife. Gerüche nach Bananen.
+    .desc = Ein hausgemachtes Stück Seife. Riecht nach Bananen.

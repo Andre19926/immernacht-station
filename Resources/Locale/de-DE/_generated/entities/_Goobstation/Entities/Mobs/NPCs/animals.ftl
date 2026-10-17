@@ -1,5 +1,5 @@
 ent-MobGondola = Gondel
-    .desc = Da er keine Hände hat, verkörpert er das taoistische Prinzip von wu-wei (Nicht-Handeln), während sein lächelnder Gesichtsausdruck seine völlige und vollständige Akzeptanz der Welt zeigt, wie sie ist.
+    .desc = Da er keine Hände hat, verkörpert er das daoistische Prinzip des Wu-Wei (Nicht-Handeln), während sein lächelnder Gesichtsausdruck seine vollständige Akzeptanz der Welt zeigt, wie sie ist.
 
 ent-MobMothSyndy = Syndiroach
     .desc = Explosive Motte.
@@ -11,37 +11,37 @@ ent-MobAngryBeeWeak = Bienen
     .desc = Was für eine schöne Biene. Oh nein, sie sieht wütend aus und will meine Pizza.
 
 ent-MobLootbug = Lootbug
-    .desc = Es isst Metall, vielleicht hat es etwas von Wert gegessen?
+    .desc = Es frisst Metall, vielleicht hat es etwas von Wert verschluckt?
 
 ent-MobCarpSentient = Raumkarpfen
-    .desc = Es ist ein Weltraumkarpfen. Früher war es eine Person.
+    .desc = Es ist ein Weltraumkarpfen. Früher war es mal ein Mensch.
 
 ent-MobMouseSentient = Seltene Maus
-    .desc = Quietschen! Früher war es eine Person!
+    .desc = Quiek! Früher war es mal ein Mensch!
 
 ent-MobHomunculus = Homunculus
-    .desc = Was für ein elendes Biest...
+    .desc = Was für ein elendes Biest ...
 
 ent-MouseMenace = Bedrohung
     .desc = Quiek!
 
 ent-MobCorgiIanClown = Clown Ian
-    .desc = Der Lieblingscorgi der Honkmother.
+    .desc = Der Lieblings-Corgi der Honkmother.
 
 ent-MobBrullbar = Brullbär
     .desc = Oh Gott.
 
 ent-MobBrullbarKing = Brullbär-König
-    .desc = Sieht gemein aus, ist gemein. Du läufst besser.
+    .desc = Sieht gemein aus, ist gemein. Lauf besser.
 
 ent-MobBearGoon = Bär
-    .desc = Warum starrst du an? Noch nie einen Bären gesehen?
+    .desc = Was starrst du so? Noch nie einen Bären gesehen?
 
 ent-MobWhiteWolf = Weißer Wolf
-    .desc = Versuche nicht, diesen zu streicheln.
+    .desc = Versuch nicht, den zu streicheln.
 
 ent-MobHorse = Pferd
-    .desc = Sehr üble Kreatur. Für diejenigen, die sich wie Stanzen fühlen.
+    .desc = Sehr üble Kreatur. Für alle, die sich wie Stanzen fühlen.
 
 ent-MobClownGoblin = Clown Goblin
-    .desc = Kleine gehende Clownmaske und Schuhe. Du willst mit der Nase hupen!
+    .desc = Eine kleine laufende Clownmaske samt Schuhen. Du willst mit der Nase hupen!

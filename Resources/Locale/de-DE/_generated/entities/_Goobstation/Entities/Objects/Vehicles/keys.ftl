@@ -2,10 +2,10 @@ ent-VehicleKeySecway = Sekwayschlüssel
     .desc = Der Schlüssel zur Zukunft.
 
 ent-VehicleKeySyndicateSegway = Konsortialschlüssel
-    .desc = Gemustert nach dem ikonischen EMAG Design.
+    .desc = Dem ikonischen EMAG-Design nachempfunden.
 
 ent-VehicleKeyATV = ATV Schlüssel
-    .desc = Denkst du, das sieht aus wie nur ein Schlüssel? ATV-Schlüssel bedeutet "eigentlich zwei Fahrzeugschlüssel".
+    .desc = Du denkst, das sei nur ein Schlüssel? ATV-Schlüssel bedeutet „eigentlich zwei Fahrzeugschlüssel“.
 
 ent-VehicleKeyJanicart = janicart Schlüssel
     .desc = Interessantes Design.

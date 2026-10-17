@@ -1,5 +1,5 @@
 ent-FoodBurgerChud = Nichts Burger
-    .desc = Ein Burger, wenn nichts passiert.
+    .desc = Ein Burger für den Fall, dass nichts passiert.
 
 ent-FoodBurgerleopard = Mottenschabenburger
     .desc = Das letzte Licht, das sie sah, war das in der Mikrowelle.

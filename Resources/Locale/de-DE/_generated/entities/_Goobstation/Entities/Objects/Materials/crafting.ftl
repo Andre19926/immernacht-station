@@ -1,11 +1,11 @@
 ent-MaterialHexNut = Stahlsechsmutter
-    .desc = Eine etwa gebogene Mutter aus Stahl.
+    .desc = Eine leicht verbogene Stahlmutter.
 
 ent-MaterialHexNutSingle = Stahlsechsmutter
-    .desc = Eine etwa gebogene Mutter aus Stahl.
+    .desc = Eine leicht verbogene Stahlmutter.
 
 ent-MaterialScrew = Stahlschraube
-    .desc = Diese Schraube ist wirklich rostig, du möchtest nicht davon geschnitten werden...
+    .desc = Diese Schraube ist richtig rostig, du willst dich nicht daran schneiden ...
 
 ent-MaterialScrewSingle = Stahlschraube
-    .desc = Diese Schraube ist wirklich rostig, du möchtest nicht davon geschnitten werden...
+    .desc = Diese Schraube ist richtig rostig, du willst dich nicht daran schneiden ...

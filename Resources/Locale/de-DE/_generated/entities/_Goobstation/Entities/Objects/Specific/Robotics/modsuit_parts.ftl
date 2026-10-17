@@ -38,4 +38,4 @@ ent-ModsuitPlatingAtmostech = MOD Standard atmosphärische Techniker 'aeolus' Be
     .desc = Ein Bauteil für den MOD-Bau.
 
 ent-ModsuitCoreStandard = MOD-Standardkern
-    .desc = In den üppigsten, fruchtbarsten Gebieten des Planeten Sprosse wächst ein Kristall, der als Herzblut bekannt ist. Diese seltenen, organischen piezoelektrischen Kristalle sind von unglaublicher kultureller Bedeutung für die Künstlerkasten der Äther, aufgrund ihres Aussehens; das genau dem eines Ätherherzens ähnelt. Welches dich in deinem Anzug haben, ist unklar, aber so oder so wurde es als interne Stromquelle für ein modulares Outerwear-Gerät verwendet.
+    .desc = In den üppigsten, fruchtbarsten Gebieten des Planeten Sprosse wächst ein Kristall, der als Herzblut bekannt ist. Diese seltenen, organischen piezoelektrischen Kristalle haben für die Künstlerkasten der Äther enorme kulturelle Bedeutung, da sie in ihrem Aussehen exakt einem Ätherherzen ähneln. Welches du hier in deinem Anzug hast, ist unklar, doch jedenfalls dient es als interne Stromquelle für ein modulares Überbekleidungsgerät.

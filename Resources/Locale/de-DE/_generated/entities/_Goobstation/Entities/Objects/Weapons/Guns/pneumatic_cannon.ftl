@@ -1,20 +1,20 @@
 ent-LauncherCreamPieRegenerating = Regenerierende Kuchenkanone
-    .desc = Eine sich selbst regenerierende Kuchenkanone.
+    .desc = Eine sich selbst auffüllende Tortenkanone.
 
 ent-LauncherLollypopRegeneratingTricordazine = Tricordrazin-Lutscherspender
-    .desc = Verwendet einen eingebauten Hersteller, um Tricordrazin-Lutscher aus Energie zu erzeugen.
+    .desc = Erzeugt mit einem eingebauten Hersteller Tricordrazin-Lutscher aus Energie.
 
 ent-LauncherLollypopRegeneratingOmnizine = Omnizin-Lutscherspender
-    .desc = Verwendet einen eingebauten Hersteller, um Omnizine Lutscher aus Energie zu erzeugen.
+    .desc = Erzeugt mit einem eingebauten Hersteller Omnizin-Lutscher aus Energie.
 
 ent-LauncherLollypopRegeneratingWeh = weh! Lutscherspender
-    .desc = Verwendet einen eingebauten Hersteller, um Weh zu erzeugen! Lutscher aus der Energie. Weh!
+    .desc = Erzeugt mit einem eingebauten Hersteller Weh!-Lutscher aus Energie. Weh!
 
 ent-LauncherLollypopRegeneratingMystery = Mysteriöser Lutscherspender
-    .desc = Verwendet einen eingebauten Hersteller, um randomisierten Lutscher aus Energie zu erzeugen.
+    .desc = Erzeugt mit einem eingebauten Hersteller zufällige Lutscher aus Energie.
 
 ent-LauncherLollypopRegenerating = Lutscherspender
-    .desc = Verwendet einen eingebauten Hersteller, um Lutscher aus Energie zu erzeugen.
+    .desc = Erzeugt mit einem eingebauten Hersteller Lutscher aus Energie.
 
 ent-SantaCannonRegenerating = Die fröhliche pneumatische Kanone des Weihnachtsmanns
-    .desc = Das einzige, was du brauchst, um Weihnachtsjubel zu verbreiten!
+    .desc = Alles, was du brauchst, um Weihnachtsfreude zu verbreiten!

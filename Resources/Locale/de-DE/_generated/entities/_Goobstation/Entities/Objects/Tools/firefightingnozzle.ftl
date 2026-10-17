@@ -1,5 +1,5 @@
 ent-FirefighterNozzle = Feuerwehrdüse
-    .desc = Eine spezialisierte Düse zur Bekämpfung von Bränden.
+    .desc = Eine spezielle Düse zur Brandbekämpfung.
 
 ent-AtmosResin = Atmosharz
     .desc = Spezialgranate für Atmosianer.

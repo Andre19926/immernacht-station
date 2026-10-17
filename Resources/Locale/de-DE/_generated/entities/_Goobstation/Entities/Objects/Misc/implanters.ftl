@@ -1,5 +1,5 @@
 ent-RevsFastDrawImplanter = Schnellzieh-Implantator
-    .desc = Eine Spritze mit Werkzeugen zur schnellen Implantatentfernung. Es hat kleine goldene Sterne auf seinem Körper.
+    .desc = Eine Spritze mit Werkzeugen zur schnellen Implantatentfernung. Auf ihrem Körper sind kleine goldene Sterne.
 
 ent-BluespaceLifelineImplanter = CentComm-Bluespace-Lebensader-Implantator
     .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.

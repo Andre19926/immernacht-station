@@ -1,8 +1,8 @@
 ent-UnlitMolotov = Unbekannter Molotow
-    .desc = Bald ein feuergefährlicher Sprengstoff.
+    .desc = Bald ein brandgefährlicher Sprengstoff.
 
 ent-Molotov = Molotow
-    .desc = Wurffähiger Brandsprengstoff.
+    .desc = Wurfbarer Brandsprengstoff.
 
 ent-molotovfire = Feuer
-    .desc = Es brennt
+    .desc = Es brennt.

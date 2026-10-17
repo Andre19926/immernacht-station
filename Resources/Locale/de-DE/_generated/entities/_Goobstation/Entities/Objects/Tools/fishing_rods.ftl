@@ -1,17 +1,17 @@
 ent-FishingRod = Angelrute
-    .desc = Es ist Zeit zum Fischen zu gehen!
+    .desc = Zeit zum Angeln!
 
 ent-FishingRodGoon = Angelrute
-    .desc = Es ist Zeit zum Fischen zu gehen!
+    .desc = Zeit zum Angeln!
 
 ent-FishingRodMakeshift = Provisorische Angel
-    .desc = Wahrscheinlich wäre es schwer, einen Fisch damit zu fangen.
+    .desc = Damit würde man wahrscheinlich nur schwer einen Fisch fangen.
 
 ent-FishingRodGolden = Goldfischer
     .desc = Schließlich hast du 250 Fische gefangen. Hier ist deine Trophäe.
 
 ent-FishingLure = Fischköder
-    .desc = Fische kommen hierher
+    .desc = Fische, kommt her!
 
 ent-FishingLureMakeshift = Fischköder
-    .desc = Fische kommen hierher
+    .desc = Fische, kommt her!

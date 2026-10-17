@@ -1,2 +1,2 @@
 ent-CarpCaller = Karpfenrufer
-    .desc = Ein Syndicate-Gerät, das für den wilden Weltraumkarpfen interessant erscheint.
+    .desc = Ein Syndicate-Gerät, das für den wilden Weltraumkarpfen interessant zu sein scheint.

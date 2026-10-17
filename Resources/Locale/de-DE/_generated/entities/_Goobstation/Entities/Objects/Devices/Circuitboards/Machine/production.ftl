@@ -1,17 +1,17 @@
 ent-EngineeringTechFabCircuitboard = Technik-Techfab Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Technik-Techfab.
+    .desc = Eine Maschinenplatine für einen Technik-Techfab.
 
 ent-CargoTechFabCircuitboard = Fracht-Techfab Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Fracht-Techfab.
+    .desc = Eine Maschinenplatine für einen Fracht-Techfab.
 
 ent-ScienceTechFabCircuitboard = Wissenschafts-Techfab Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Wissenschafts-Techfab.
+    .desc = Eine Maschinenplatine für einen Wissenschafts-Techfab.
 
 ent-ServiceTechFabCircuitboard = Service-Techfab Maschinenplatine
-    .desc = Eine Maschinenplatine für eine Service-Techfab.
+    .desc = Eine Maschinenplatine für einen Service-Techfab.
 
 ent-ERTTechFabCircuitboard = ERT-Techfab Maschinenplatine
-    .desc = Eine Maschinenplatine für eine ERT-Techfab.
+    .desc = Eine Maschinenplatine für einen Notfallteam-Techfab.
 
 ent-TeslaCoilCircuitboard = Teslaspule (Platine)
 

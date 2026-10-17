@@ -23,4 +23,4 @@ ent-EbifinlLazideChemistryVial = Fläschchen
     .desc = Ein kleines Fläschchen.
 
 ent-BluespaceChemistryVial = Blauraumfläschchen
-    .desc = Im Inneren ist es länger!
+    .desc = Innen ist es länger!

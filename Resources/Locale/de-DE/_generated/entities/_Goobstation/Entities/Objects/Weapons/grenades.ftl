@@ -1,2 +1,2 @@
 ent-SarinGasGrenade = Saringasgranaten
-    .desc = Ein brutales Neurotoxin-Gas, das betäubt, blind macht und jeden vergiftet, der unglücklich genug ist, einen Hauch davon abzubekommen.
+    .desc = Ein brutales Nervengas, das betäubt, blind macht und jeden vergiftet, der unglücklich genug ist, etwas davon abzubekommen.

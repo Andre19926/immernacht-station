@@ -4,4 +4,4 @@ ent-HyperFlash = hypergeladener Blitz
 ent-EnergyVortex = Energiewirbel
 
 ent-PepperSpray = Pfefferspray
-    .desc = Ein kleiner 50 μ Kanister von Oleoresin Capsaicin. Fähig für blendende und atemberaubende Ziele, die keine Schutzausrüstung tragen.
+    .desc = Ein kleiner 50-µ-Kanister Oleoresin Capsaicin. Blendet und betäubt Ziele ohne Schutzausrüstung.
