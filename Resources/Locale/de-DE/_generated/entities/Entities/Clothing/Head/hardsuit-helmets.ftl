@@ -1,35 +1,35 @@
 ent-ClothingHeadHelmetHardsuitAtmos = Atmosphären-Hardsuit-Helm
-    .desc = Ein spezieller Hardsuit-Helm für den Einsatz in Niederdruck- und Hochtemperaturumgebungen.
+    .desc = Ein spezieller Hardsuit-Helm für Umgebungen mit niedrigem Druck und hohen Temperaturen.
 
 ent-ClothingHeadHelmetHardsuitEngineering = Konstruktions-Hardsuit-Helm
-    .desc = Ein technischer Hardsuit-Helm, der für den Einsatz in Niederdruck- und hochradioaktiven Umgebungen entwickelt wurde.
+    .desc = Ein technischer Hardsuit-Helm für Umgebungen mit niedrigem Druck und starker Strahlung.
 
 ent-ClothingHeadHelmetHardsuitSpatio = Spationaut-Hardsuit-Helm
     .desc = Ein robuster Helm für komplexe industrielle Operationen im Weltraum.
 
 ent-ClothingHeadHelmetHardsuitSalvage = Bergungs-Hardsuit-Helm
-    .desc = Ein spezieller Helm für die Arbeit in einer gefährlichen Umgebung mit niedrigem Druck. Hat eine verstärkte Beschichtung für Wildtierbegegnungen und doppelte Flutlichter.
+    .desc = Ein spezieller Helm für die Arbeit in gefährlichen Umgebungen mit niedrigem Druck. Hat eine verstärkte Beschichtung gegen Begegnungen mit der Tierwelt und doppelte Flutlichter.
 
 ent-ClothingHeadHelmetHardsuitGoliath = Goliath-Hardsuit-Helm
-    .desc = Ein robuster Hardsuit-Helm, infundiert mit einem Goliath-Hirn und einem unheimlichen, unblinkenden Augenschnitt aus seiner Masse.
+    .desc = Ein robuster Hardsuit-Helm, durchzogen von einem Goliath-Hirn und einem unheimlichen, unblinzelnden Augenschnitt aus dessen Masse.
 
 ent-ClothingHeadHelmetHardsuitMaxim = Bergungs-Maxim-Hardsuit-Helm
-    .desc = Eine Vorhersage des Verfalls wäscht sich über deinen Verstand.
+    .desc = Eine Vorahnung des Verfalls überspült deinen Verstand.
 
 ent-ClothingHeadHelmetHardsuitSecurity = Sicherheits-Hardsuit-Helm
-    .desc = Gepanzerter Hardsuit Helm für Sicherheitsbedürfnisse.
+    .desc = Gepanzerter Hardsuit-Helm für Sicherheitsbedürfnisse.
 
 ent-ClothingHeadHelmetHardsuitBrigmedic = Gefängnissanitäter-Hardsuit-Helm
-    .desc = Der leichte Helm des Gefängnissanitäter Hardsuit. Schützt vor Viren und Clowns.
+    .desc = Der leichte Helm des Gefängnissanitäter-Hardsuits. Schützt vor Viren und Clowns.
 
 ent-ClothingHeadHelmetHardsuitWarden = Warden-Hardsuit-Helm
     .desc = Ein modifizierter Bereitschaftshelm. Seltsam bequem.
 
 ent-ClothingHeadHelmetHardsuitCap = Kapitäns-Hardsuit-Helm
-    .desc = Spezieller Raumanzughelm, gemacht für den Kapitän der Station.
+    .desc = Spezieller Raumanzughelm für den Kapitän der Station.
 
 ent-ClothingHeadHelmetHardsuitEngineeringWhite = Chefingenieur-Hardsuit-Helm
-    .desc = Spezieller Hardsuit-Helm, gemacht für den Chefingenieur der Station.
+    .desc = Spezieller Hardsuit-Helm für den Chefingenieur der Station.
 
 ent-ClothingHeadHelmetHardsuitMedical = Chefarzt-Hardsuit-Helm
     .desc = Leichter medizinischer Hardsuit-Helm, der deine Kopfbewegungen nicht einschränkt.
@@ -38,25 +38,25 @@ ent-ClothingHeadHelmetHardsuitRd = Forschungsdirektor-Hardsuit-Helm
     .desc = Leichter Hardsuit-Helm, der deine Kopfbewegungen nicht einschränkt.
 
 ent-ClothingHeadHelmetHardsuitSecurityRed = Sicherheitschef-Hardsuit-Helm
-    .desc = Sicherheits-Hardsuit-Helm mit der neuesten streng geheimen NT-HUD-Software. Gehört dem HoS.
+    .desc = Sicherheits-Hardsuit-Helm mit der neuesten streng geheimen NT-HUD-Software. Gehört dem Sicherheitschef.
 
 ent-ClothingHeadHelmetHardsuitLuxury = Luxus-Bergbau-Hardsuit-Helm
-    .desc = Ein renovierter Bergbau-Helm, ausgestattet mit Satin-Dämpfung und einer zusätzlichen (nicht funktionierenden) Antenne, weil du das extra bist.
+    .desc = Ein überholter Bergbauhelm mit Satinpolsterung und einer zusätzlichen (funktionslosen) Antenne, weil du eben besonders bist.
 
 ent-ClothingHeadHelmetHardsuitSyndie = Blutroter Hardsuit-Helm
-    .desc = Ein schwer gepanzerter Helm für die Arbeit in speziellen Operationen. Eigentum der Gorlex Marauders.
+    .desc = Ein schwer gepanzerter Helm für Spezialeinsätze. Eigentum der Gorlex Marauders.
 
 ent-ClothingHeadHelmetHardsuitSyndieMedic = Blutroter Sanitäter-Hardsuit-Helm
-    .desc = Ein fortschrittlicher roter Hardsuit-Helm, der speziell für medizinische Operationen im Feld entwickelt wurde.
+    .desc = Ein fortschrittlicher roter Hardsuit-Helm, speziell für medizinische Einsätze im Feld entwickelt.
 
 ent-ClothingHeadHelmetHardsuitSyndieElite = Syndicate-Elite-Hardsuit-Helm
-    .desc = Eine Elite-Version des blutroten Hardsuit-Helms mit verbesserter Rüstung und Feuerschutz. Eigentum von Gorlex Marauders.
+    .desc = Eine Elite-Version des blutroten Hardsuit-Helms mit verbesserter Panzerung und Feuerschutz. Eigentum der Gorlex Marauders.
 
 ent-ClothingHeadHelmetHardsuitSyndieCommander = Syndicate-Hardsuit-Helm
-    .desc = Eine aufgeblasene Version des blutroten Hardsuit-Helms, speziell für den Kommandanten eines Syndicate-S gebaut. Hat die Rüstung für diese tödlichen Feuergefechte an vorderster Front deutlich verbessert.
+    .desc = Eine aufgeblähte Version des blutroten Hardsuit-Helms, speziell für den Kommandanten eines Syndicate-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
 
 ent-ClothingHeadHelmetHardsuitCybersun = Cybersonne Juggernaut Helm
-    .desc = Dieser Helm wurde aus komprimierter roter Materie in der Tau-Chromosphären-Anlage entworfen.
+    .desc = Dieser Helm wurde in der Tau-Chromosphären-Anlage aus komprimierter roter Materie gefertigt.
 
 ent-ClothingHeadHelmetHardsuitWizard = Zauberer-Hardsuit-Helm
     .desc = Ein bizarrer Edelsteinhelm, der magische Energien ausstrahlt.
@@ -65,7 +65,7 @@ ent-ClothingHeadHelmetHardsuitLing = Bio-Weltraumhelm
     .desc = Eine raumtaugliche Biomasse aus druck- und temperaturbeständigem Gewebe.
 
 ent-ClothingHeadHelmetHardsuitPirateEVA = Deep Space EVA Helm
-    .desc = Ein Deep Space EVA Helm, sehr schwer, bietet aber guten Schutz.
+    .desc = Ein EVA-Helm für den tiefen Weltraum, sehr schwer, bietet aber guten Schutz.
 
 ent-ClothingHeadHelmetHardsuitPirateCap = Piratenkapitän-Hardsuit-Helm
     .desc = Ein spezieller Hardsuit-Helm, gemacht für den Kapitän eines Piratenschiffes.
@@ -89,16 +89,16 @@ ent-ClothingHeadHelmetHardsuitERTJanitor = ERT-Hausmeister-Hardsuit-Helm
     .desc = Ein spezieller Hardsuit-Helm, getragen von Mitgliedern eines Notfallteams.
 
 ent-ClothingHeadHelmetCBURN = CBURN-Exosuithelm
-    .desc = Eine druckfeste und feuerfeste Haube, die von speziellen Reinigungseinheiten getragen wird.
+    .desc = Eine druck- und feuerfeste Haube, getragen von speziellen Reinigungseinheiten.
 
 ent-ClothingHeadHelmetHardsuitDeathsquad = Deathsquad-Hardsuit-Helm
     .desc = Ein robuster Helm für spezielle Operationen.
 
 ent-ClothingHeadHelmetHardsuitClown = Clown-Hardsuit-Helm
-    .desc = Ein Clown Hardsuit Helm.
+    .desc = Ein Clown-Hardsuit-Helm.
 
 ent-ClothingHeadHelmetHardsuitMime = Pantomime-Hardsuit-Helm
-    .desc = Ein Mime Hardsuit Helm.
+    .desc = Ein Pantomimen-Hardsuit-Helm.
 
 ent-ClothingHeadHelmetHardsuitSanta = Weihnachtsmann-Hardsuit-Helm
-    .desc = Ein festlich aussehender Hardsuit-Helm, der den fröhlichen Geschenkgeber vor Niederdruckumgebungen schützt.
+    .desc = Ein festlich aussehender Hardsuit-Helm, der den fröhlichen Geschenkebringer vor Niederdruckumgebungen schützt.

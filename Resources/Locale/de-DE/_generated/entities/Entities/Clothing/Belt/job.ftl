@@ -2,7 +2,7 @@ ent-ClothingBeltUtility = Versorgungsgurt
     .desc = Kann verschiedene Dinge halten.
 
 ent-ClothingBeltChiefEngineer = Werkzeuggürtel des Chefingenieurs
-    .desc = Hält Werkzeuge, sieht snazzy.
+    .desc = Hält Werkzeuge und sieht schick aus.
 
 ent-ClothingBeltJanitor = Janibelt
     .desc = Ein Gürtel, der verwendet wurde, um die meisten Hausmeistervorräte zu halten.

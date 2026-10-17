@@ -1,2 +1,2 @@
 ent-ClothingBeltStorageWaistbag = Ledertasche
-    .desc = Ein Lederhüftsack, der zum Tragen kleiner Gegenstände bestimmt ist.
+    .desc = Eine Gürteltasche aus Leder zum Tragen kleiner Gegenstände.

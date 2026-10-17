@@ -20,7 +20,7 @@ ent-ClothingHeadsetAltScience = Forschungsleiter-Over-Ear-Headset
     .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.
 
 ent-ClothingHeadsetAltSyndicate = Blutrotes Over-Ear-Headset
-    .desc = Eine aktualisierte, modulare Syndicate-Intercom, die über den Kopf passt und Verschlüsselungsschlüssel übernimmt (es gibt 5 Schlüsselsteckplätze).
+    .desc = Eine verbesserte, modulare Syndicate-Gegensprechanlage, die über den Kopf passt und Verschlüsselungsschlüssel aufnimmt (5 Schlüsselsteckplätze).
 
 ent-ClothingHeadsetAltFreelancer = Freelancer-Over-Ear-Headset
     .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.

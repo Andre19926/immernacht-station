@@ -2,58 +2,58 @@ ent-ClothingHeadsetGrey = Assistenten-Headset
     .desc = Ein verbessertes, modulares Headset, das über dem Kopf getragen wird. Nimmt Verschlüsselungsschlüssel auf.
 
 ent-ClothingHeadsetCargo = Fracht-Headset
-    .desc = Ein Headset, das von Versorgungsmitarbeitern verwendet wird.
+    .desc = Ein Headset für Versorgungsmitarbeiter.
 
 ent-ClothingHeadsetMining = Bergbau-Headset
-    .desc = Headset von Bergarbeitern verwendet.
+    .desc = Ein Headset für Bergarbeiter.
 
 ent-ClothingHeadsetQM = Quartiermeister-Headset
-    .desc = Ein Headset, das vom Quartermaster verwendet wird.
+    .desc = Ein Headset für den Quartiermeister.
 
 ent-ClothingHeadsetCentCom = CentComm-Headset
-    .desc = Ein Headset, das von den oberen Rängen von Nanotrasen verwendet wird.
+    .desc = Ein Headset für die oberen Ränge von Nanotrasen.
 
 ent-ClothingHeadsetCommand = Führungs-Headset
-    .desc = Ein Headset mit einem Führungskanal.
+    .desc = Ein Headset mit Führungskanal.
 
 ent-ClothingHeadsetEngineering = Technik-Headset
-    .desc = Ein Headset für Ingenieure zum Chatten, während die Station um sie herum brennt.
+    .desc = Ein Headset, damit Ingenieure plaudern können, während die Station um sie herum brennt.
 
 ent-ClothingHeadsetCE = Chefingenieur-Headset
-    .desc = Ein Headset für den Chefingenieur, um alle Notrufe zu ignorieren.
+    .desc = Ein Headset für den Chefingenieur, um sämtliche Notrufe zu ignorieren.
 
 ent-ClothingHeadsetMedical = Medizin-Headset
     .desc = Ein Headset für das geschulte Personal der Medbay.
 
 ent-ClothingHeadsetCMO = Chefarzt-Headset
-    .desc = Ein Headset, das vom CMO verwendet wird.
+    .desc = Ein Headset für den Chefarzt.
 
 ent-ClothingHeadsetScience = Wissenschafts-Headset
-    .desc = Ein Sciency Headset. Wie üblich.
+    .desc = Ein wissenschaftlich angehauchtes Headset. Wie üblich.
 
 ent-ClothingHeadsetMedicalScience = Medizinforschungs-Headset
-    .desc = Ein Headset, das das Ergebnis der Paarung zwischen Medizin und Wissenschaft ist.
+    .desc = Ein Headset, das aus der Paarung von Medizin und Wissenschaft hervorgegangen ist.
 
 ent-ClothingHeadsetRobotics = Robotik-Headset
-    .desc = Speziell für die Robotiker, die sich nicht zwischen den Abteilungen entscheiden können.
+    .desc = Speziell für Robotiker, die sich nicht zwischen den Abteilungen entscheiden können.
 
 ent-ClothingHeadsetRD = Forschungsleiter-Headset
-    .desc = Lamarr liebte es, an diesem...
+    .desc = Lamarr liebte es, an diesem herumzuknabbern ...
 
 ent-ClothingHeadsetSecurity = Sicherheits-Headset
-    .desc = Dies wird von deiner Elite-Sicherheitskraft verwendet.
+    .desc = Das benutzt deine Elite-Sicherheitskraft.
 
 ent-ClothingHeadsetBrigmedic = Gefängnissanitäter-Headset
-    .desc = Ein Headset, das hilft, die Todesschreie zu hören.
+    .desc = Ein Headset, mit dem man die Todesschreie besser hört.
 
 ent-ClothingHeadsetService = Service-Headset
-    .desc = Headset vom Servicepersonal verwendet, mit der Aufgabe, die Station voll, glücklich und sauber zu halten.
+    .desc = Ein Headset für das Servicepersonal, dessen Aufgabe es ist, die Station voll, glücklich und sauber zu halten.
 
 ent-ClothingHeadsetFreelance = Freelancer-Headset
-    .desc = Dies wird von einer Roaming-Gruppe von Freelancern verwendet.
+    .desc = Das benutzt eine umherziehende Gruppe von Freelancern.
 
 ent-ClothingHeadsetWizard = Zauberer-Headset
-    .desc = Ein Headset, das von den gefürchteten Weltraum-Zauberern benutzt wird.
+    .desc = Ein Headset der gefürchteten Weltraum-Zauberer.
 
 ent-ClothingHeadsetNinja = Grünes Headset
-    .desc = Wer könnte sich weigern, dieses stilvolle schwarze und grüne Headset zu tragen?
+    .desc = Wer könnte sich weigern, dieses stilvolle schwarz-grüne Headset zu tragen?

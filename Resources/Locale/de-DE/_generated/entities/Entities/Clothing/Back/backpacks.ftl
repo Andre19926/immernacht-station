@@ -68,13 +68,13 @@ ent-ClothingBackpackERTJanitor = ERT-Hausmeister-Rucksack
     .desc = Ein geräumiger Rucksack mit vielen Taschen, getragen von Hausmeistern eines Notfallteams.
 
 ent-ClothingBackpackERTClown = ERT-Clown-Rucksack
-    .desc = Ein geräumiger Rucksack mit vielen Taschen, getragen von Clowns eines Emergency Response Teams.
+    .desc = Ein geräumiger Rucksack mit vielen Taschen, getragen von Clowns eines Notfallteams.
 
 ent-ClothingBackpackERTChaplain = ERT-Kaplan-Rucksack
     .desc = Ein geräumiger Rucksack mit vielen Taschen, getragen von Kaplänen eines Notfallteams.
 
 ent-ClothingBackpackDeathSquad = Todesschwadron-Rucksack
-    .desc = Hält das Kit der am meisten gefürchteten Agenten von CentComm.
+    .desc = Enthält die Ausrüstung der am meisten gefürchteten Agenten von CentComm.
 
 ent-ClothingBackpackSyndicate = Syndicate-Rucksack
     .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
@@ -86,7 +86,7 @@ ent-ClothingBackpackCluwne = jiggles von jonkerton
     .desc = Es ist ein Rucksack von Jonk! Co.
 
 ent-ClothingBackpackElectropack = Elektropack
-    .desc = Schocks auf dem Signal. Es wird verwendet, um einen besonders gefährlichen Kriminellen unter Kontrolle zu halten.
+    .desc = Schockt auf Signal. Wird verwendet, um einen besonders gefährlichen Kriminellen unter Kontrolle zu halten.
 
 ent-ClothingBackpackDebug = Wackpack
     .desc = Was zum Teufel ist das?

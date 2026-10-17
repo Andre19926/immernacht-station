@@ -2,31 +2,31 @@ ent-ClothingHeadHelmetBasic = Helm
     .desc = Standard-Sicherheitsausrüstung. Schützt den Kopf vor Stößen.
 
 ent-ClothingHeadHelmetMerc = Söldnerhelm
-    .desc = Der Kampfhelm wird häufig von Söldnern verwendet, ist stark, leicht und riecht nach Schießpulver und Dschungel.
+    .desc = Der Kampfhelm wird häufig von Söldnern getragen, ist robust, leicht und riecht nach Schießpulver und Dschungel.
 
 ent-ClothingHeadHelmetSwat = SWAT-Helm
-    .desc = Ein extrem robuster Helm, der üblicherweise von paramilitärischen Kräften verwendet wird. Dieser hat das Nanotrasen-Logo oben geschmückt.
+    .desc = Ein extrem robuster Helm, wie ihn paramilitärische Kräfte üblicherweise tragen. Dieser trägt oben das Nanotrasen-Logo.
 
 ent-ClothingHeadHelmetSwatSyndicate = SWAT-Helm
-    .desc = Ein extrem robuster Helm, der üblicherweise von paramilitärischen Kräften verwendet wird. Es ist in einem schändlichen roten und schwarzen Streifenmuster geschmückt.
+    .desc = Ein extrem robuster Helm, wie ihn paramilitärische Kräfte üblicherweise tragen. Er ist mit einem unheilvollen rot-schwarzen Streifenmuster verziert.
 
 ent-ClothingHeadHelmetRiot = Leichter Aufruhrhelm
-    .desc = Es ist ein Helm, der speziell zum Schutz vor Nahbereichsangriffen entwickelt wurde.
+    .desc = Ein Helm, der speziell zum Schutz vor Nahkampfangriffen entwickelt wurde.
 
 ent-ClothingHeadHelmetBombSuit = Bombenanzughelm
-    .desc = Ein schwerer Helm, der entworfen ist, um dem Druck zu widerstehen, der durch eine Bombe und irgendwelche Fragmente erzeugt wird, die die Bombe produzieren kann.
+    .desc = Ein schwerer Helm, der dem Druck einer Bombe und den dabei entstehenden Splittern standhalten soll.
 
 ent-ClothingHeadHelmetJanitorBombSuit = Helm des Jagdbombenanzugs
-    .desc = Ein schwerer Helm, der entworfen ist, um Explosionen zu widerstehen, die von Reaktionen zwischen Chemikalien gebildet werden.
+    .desc = Ein schwerer Helm, der Explosionen durch chemische Reaktionen standhalten soll.
 
 ent-ClothingHeadHelmetCult = Kulthelm
     .desc = Ein robuster, böse aussehender Kulthelm.
 
 ent-ClothingHeadHelmetSpaceNinja = Space Ninja Helm
-    .desc = Was ein einfaches schwarzes Kleidungsstück zu sein scheint, ist in der Tat ein hochentwickelter Nanogewebehelm. Standard-Ausgabe von Ninja-Ausrüstung.
+    .desc = Was wie ein schlichtes schwarzes Kleidungsstück aussieht, ist in Wahrheit ein hochentwickelter Nanogewebe-Helm. Standardausgabe der Ninja-Ausrüstung.
 
 ent-ClothingHeadHelmetTemplar = Ritterhelm
-    .desc = Dekorativer Helm, der den alten Rittern ähnelt.
+    .desc = Dekorativer Helm, der den Helmen alter Ritter nachempfunden ist.
 
 ent-ClothingHeadHelmetThunderdome = Donnerdomhelm
     .desc = Lasst die Schlacht beginnen!
@@ -35,28 +35,28 @@ ent-ClothingHeadHelmetWizardHelm = Zaubererhelm
     .desc = Seltsam aussehender Helm, der ganz sicher einem echten Magier gehört. Zählt nicht als Zaubererhut.
 
 ent-ClothingHeadHelmetFire = Feuerhelm
-    .desc = Der beste Freund von Atmos Tech. Bietet eine gewisse Hitzebeständigkeit und sieht cool aus.
+    .desc = Der beste Freund des Atmos-Technikers. Bietet etwas Hitzebeständigkeit und sieht cool aus.
 
 ent-ClothingHeadHelmetAtmosFire = atmos Feuerhelm
-    .desc = Ein atmos-Feuerhelm, der den Benutzer in jeder Situation kühl halten kann.
+    .desc = Ein Atmos-Feuerhelm, der dich in jeder Lage kühl hält.
 
 ent-ClothingHeadHelmetLing = Chitinhelm
     .desc = Eine alles verschlingende, chitinöse Rüstungsmasse.
 
 ent-ClothingHeadHelmetERTLeader = Helm des ERT-Führers
-    .desc = Ein In-Atmosphäre-Helm, der vom Leiter eines Nanotrasen-Notfallteams getragen wird. Es hat blaue Highlights.
+    .desc = Ein Atmos-Einsatzhelm, der vom Leiter eines Nanotrasen-Notfallteams getragen wird. Er hat blaue Akzente.
 
 ent-ClothingHeadHelmetERTSecurity = ERT Sicherheitshelm
-    .desc = Ein In-Atmosphäre-Helm, der von Sicherheitsmitgliedern des Nanotrasen Emergency Response Teams getragen wird. Es hat rote Highlights.
+    .desc = Ein Atmos-Einsatzhelm, der von Sicherheitsmitgliedern des Nanotrasen Notfallteams getragen wird. Er hat rote Akzente.
 
 ent-ClothingHeadHelmetERTMedic = ERT Sanitäterhelm
-    .desc = Ein In-Atmosphäre-Helm, der von medizinischen Mitgliedern des Nanotrasen Emergency Response Teams getragen wird. Es hat weiße Highlights.
+    .desc = Ein Atmos-Einsatzhelm, der von medizinischen Mitgliedern des Nanotrasen Notfallteams getragen wird. Er hat weiße Akzente.
 
 ent-ClothingHeadHelmetERTEngineer = Helm von ERT-Ingenieuren
-    .desc = Ein In-Atmosphäre-Helm, der von Ingenieurmitgliedern des Nanotrasen Emergency Response Teams getragen wird. Hat orange Highlights und hält deine Augen sicher.
+    .desc = Ein Atmos-Einsatzhelm, der von Ingenieurmitgliedern des Nanotrasen Notfallteams getragen wird. Hat orange Akzente und hält deine Augen sicher.
 
 ent-ClothingHeadHelmetERTJanitor = ERT Hausmeisterhelm
-    .desc = Ein In-Atmosphäre-Helm, der von Hausmeistermitgliedern des Nanotrasen Emergency Response Teams getragen wird. Hat dunkle violette Highlights.
+    .desc = Ein Atmos-Einsatzhelm, der von Hausmeistermitgliedern des Nanotrasen Notfallteams getragen wird. Hat dunkelviolette Akzente.
 
 ent-ClothingHeadHelmetRaid = Syndicate-Helm
     .desc = Ein gepanzerter Helm für den Einsatz mit dem Syndicate-Raid-Anzug. Sehr stilvoll.

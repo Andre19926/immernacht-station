@@ -1,11 +1,11 @@
 ent-ClothingHeadHelmetEVA = EVA Helm
-    .desc = Ein alter, aber goldener Helm für extravehiculare Aktivitäten. Berüchtigt dafür, Sicherheitsbeamte paranoid zu machen.
+    .desc = Ein alter, aber bewährter Helm für Außenbordeinsätze. Berüchtigt dafür, Sicherheitsbeamte paranoid zu machen.
 
 ent-ClothingHeadHelmetEVALarge = EVA Helm
-    .desc = Ein alter, aber goldener Helm für extravehiculare Aktivitäten.
+    .desc = Ein alter, aber bewährter Helm für Außenbordeinsätze.
 
 ent-ClothingHeadHelmetSyndicate = Syndicate EVA Helm
-    .desc = Ein einfacher, stilvoller EVA Helm. Entwickelt für maximale bescheidene Raumbadasserie.
+    .desc = Ein schlichter, stilvoller EVA-Helm. Entwickelt für maximale, bescheidene Coolness.
 
 ent-ClothingHeadHelmetCosmonaut = Kosmonautenhelm
     .desc = Altes Design, aber fortschrittliche Fertigung.

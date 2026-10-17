@@ -2,7 +2,7 @@ ent-GoldRing = Goldring
     .desc = Ein kostbarer Ring.
 
 ent-SilverRing = Silberring
-    .desc = Sieht etwas weniger wertvoll aus als ein Gold.
+    .desc = Sieht etwas weniger wertvoll aus als Gold.
 
 ent-GoldRingDiamond = Golddiamantenring
     .desc = Hergestellt aus ethisch abgebauten Weltraumdiamanten.

@@ -26,7 +26,7 @@ ent-ClothingBeltMilitaryWebbingFilled = Brustkorrigator
     .desc = Eine Reihe von taktischen Gurten, die von Unterstützungseinheiten des CentComm getragen werden.
 
 ent-ClothingBeltMilitaryWebbingFilledERT = ERT Brustkorb
-    .desc = Eine Reihe von taktischen Gurten, die von Mitarbeitern des Emergency Response Teams getragen werden.
+    .desc = Eine Reihe von taktischen Gurten, die von Mitgliedern des Notfallteams getragen werden.
 
 ent-ChemBagFilled = Chemiebeutel
     .desc = Eine Tasche zur Aufbewahrung von Chemieprodukten wie Pillen, Pillenkanistern, Flaschen und Spritze.

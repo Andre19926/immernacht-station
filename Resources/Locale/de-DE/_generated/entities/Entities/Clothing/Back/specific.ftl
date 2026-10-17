@@ -11,4 +11,4 @@ ent-ClothingBackpackHarmpack = H.A.R.M.P.A.C.K.
     .desc = Jetzt kannst du einen Snack nachladen, schlagen und essen - gleichzeitig.
 
 ent-XenoborgMaterialBag = Siliziumspeicherquadrat
-    .desc = Eine Knockoff-Version einer Bluespace-Tasche kann ausgewählte Materialien verdampfen, die aufgrund schädlicher Emissionen nicht für Humanoide geeignet sind.
+    .desc = Eine Imitat-Version einer Bluespace-Tasche kann ausgewählte Materialien verdampfen, die aufgrund schädlicher Emissionen nicht für Humanoide geeignet sind.

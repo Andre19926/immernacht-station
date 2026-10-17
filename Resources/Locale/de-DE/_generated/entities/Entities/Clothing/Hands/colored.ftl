@@ -8,13 +8,13 @@ ent-ClothingHandsGlovesColorBlue = Blaue Handschuhe
     .desc = Gewöhnliche blaue Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorTeal = Teal-Handschuhe
-    .desc = Gewöhnliche Teal-Handschuhe, die dich nicht vor dem Braten schützen.
+    .desc = Gewöhnliche petrolfarbene Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorBrown = Braune Handschuhe
     .desc = Gewöhnliche braune Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorGray = graue Handschuhe
-    .desc = Regelmäßige graue gehäute, die dich nicht davon abhalten, zu frieren.
+    .desc = Gewöhnliche graue Handschuhe, die dich nicht vor Kälte schützen.
 
 ent-ClothingHandsGlovesColorGreen = grüne Handschuhe
     .desc = Gewöhnliche grüne Handschuhe, die dich nicht vor dem Braten schützen.
@@ -35,7 +35,7 @@ ent-ClothingHandsGlovesColorYellow = Isolierte Handschuhe
     .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.
 
 ent-ClothingHandsGlovesColorYellowBudget = isolierte Haushaltshandschuhe
-    .desc = Diese Handschuhe sind billige Knockoffs der begehrten - auf keinen Fall kann dies schlecht enden.
+    .desc = Diese Handschuhe sind billige Imitate der begehrten Isolierhandschuhe – das kann unmöglich schlecht enden.
 
 ent-ClothingHandsGlovesConducting = Isolierte Handschuhe
     .desc = Diese Handschuhe schützen den Träger vor Stromschlägen.

@@ -1,5 +1,5 @@
 ent-ClothingEyesBlindfold = Augenschein
-    .desc = Die Bindung, die die Blinden führt.
+    .desc = Die Binde, die die Blinden führt.
 
 ent-ClothingEyesEyepatch = Augenklappe
 

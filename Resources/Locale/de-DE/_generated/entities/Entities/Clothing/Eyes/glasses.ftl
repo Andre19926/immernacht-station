@@ -1,29 +1,29 @@
 ent-ClothingEyesGlassesGar = Sonnenbrillen
-    .desc = Geh über das Unmögliche hinaus und tritt die Vernunft an den Bordstein!
+    .desc = Geh über das Unmögliche hinaus und tritt die Vernunft in den Dreck!
 
 ent-ClothingEyesGlassesGarOrange = Orange Garnelen
-    .desc = Nur wer zum Teufel denkst du, dass ich bin?!
+    .desc = Wer zum Teufel glaubst du eigentlich, dass ich bin?!
 
 ent-ClothingEyesGlassesGarGiga = Giga-Garne
-    .desc = Wir entwickeln uns an der Person vorbei, die wir eine Minute zuvor waren. Nach und nach kommen wir mit jeder Runde voran. So funktioniert ein Bohrer!
+    .desc = Wir entwickeln uns über die Person hinaus, die wir eine Minute zuvor waren. Nach und nach kommen wir mit jeder Runde voran. So funktioniert ein Bohrer!
 
 ent-ClothingEyesGlassesMeson = Mesonenbrille
-    .desc = Grün getönte Brille mit einem proprietären Polymer, das Schutz vor Augenschäden aller Art bietet.
+    .desc = Grün getönte Brille mit einem patentierten Polymer, das vor jeder Art von Augenschäden schützt.
 
 ent-ClothingEyesGlasses = Glas
     .desc = Bei näherer Betrachtung stellst du fest, dass diese Linsen tatsächlich aus Kunststoff bestehen.
 
 ent-ClothingEyesGlassesJensen = Jensengläser
-    .desc = Ein Paar gelb getönte Faltbrillen. Du hast nie danach gefragt.
+    .desc = Eine gelb getönte Faltbrille. Du hast nie danach gefragt.
 
 ent-ClothingEyesGlassesJamjar = Jamja-Gläser
     .desc = Diese Retro-Brille erinnert dich an eine einfachere Zeit.
 
 ent-ClothingEyesGlassesOutlawGlasses = Outlaw Brillen
-    .desc = Ein Muss für jeden sich selbst respektierenden Undercover-Agenten.
+    .desc = Ein Muss für jeden Undercover-Agenten mit Selbstachtung.
 
 ent-ClothingEyesGlassesCheapSunglasses = Billige Sonnenbrille
-    .desc = Eine schwarze Sonnenbrille. Blockiert das Licht nicht gut, eher ein Zubehör als etwas Nützliches.
+    .desc = Eine schwarze Sonnenbrille. Blockiert das Licht nicht gut, eher ein Accessoire als etwas Nützliches.
 
 ent-ClothingEyesGlassesSunglasses = Sonnenbrillen
     .desc = Eine schwarze Sonnenbrille.
@@ -35,16 +35,16 @@ ent-ClothingEyesGlassesCommand = Administrationsbrillen
     .desc = Verbesserte Sonnenbrille, die Blitzimmunität bietet und den ID-Kartenstatus anzeigt.
 
 ent-ClothingEyesGlassesMercenary = Söldnerbrillen
-    .desc = Brillen für den Kampf gemacht, um die Augen vor hellen blendenden Blitzen zu schützen.
+    .desc = Eine Brille für den Kampf, die die Augen vor hellen, blendenden Blitzen schützt.
 
 ent-ClothingEyesGlassesThermal = Optischer Thermoscanner
-    .desc = Thermik in Form von Gläsern.
+    .desc = Thermalsicht in Brillenform.
 
 ent-ClothingEyesGlassesChemical = Chemische Analysebrille
-    .desc = Brille, die die chemische Zusammensetzung einer Lösung scannen kann.
+    .desc = Eine Brille, die die chemische Zusammensetzung einer Lösung scannen kann.
 
 ent-ClothingEyesVisorNinja = Ninja Visier
-    .desc = Ein fortschrittliches Visier, das die Augen eines Ninja vor blinkenden Lichtern schützt.
+    .desc = Ein fortschrittliches Visier, das die Augen eines Ninjas vor grellen Lichtern schützt.
 
 ent-ClothingEyesGlassesNoir = Noirtech-Brillen
-    .desc = Ein Gläserpaar, das nachstellt, wie die Welt aussah, um die Farbe zu finden.
+    .desc = Eine Brille, die die Welt so zeigt, wie sie aussah, bevor man die Farbe fand.

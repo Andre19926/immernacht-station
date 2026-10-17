@@ -74,7 +74,7 @@ ent-ClothingOuterHardsuitERTLeader = ERT-Leiter-Hardsuit
     .desc = Ein schützender Hardsuit, der vom Leiter eines Notfallteams getragen wird.
 
 ent-ClothingOuterHardsuitERTChaplain = ERT-Kaplan-Hardsuit
-    .desc = Ein schützender Hardsuit, der von den Kaplänen eines Emergency Response Teams getragen wird.
+    .desc = Ein schützender Hardsuit, der von den Kaplänen eines Notfallteams getragen wird.
 
 ent-ClothingOuterHardsuitERTEngineer = ERT-Ingenieur-Hardsuit
     .desc = Ein schützender Hardsuit, getragen von den Ingenieuren eines Notfallteams.
