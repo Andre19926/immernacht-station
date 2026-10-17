@@ -1,7 +1,7 @@
-ent-BulletPistol = Kugel (.35 auto)
+ent-BulletPistol = Kugel (.35 Auto)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletPistolPractice = Kugel (.35 Auto-Praxis)
+ent-BulletPistolPractice = Kugel (.35 Auto-Übung)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletPistolIncendiary = Kugel (.35 Autobrand)

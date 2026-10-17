@@ -13,7 +13,7 @@ ent-BulletSuperPlasmaCutter = Überschneidevorrichtung
 ent-BulletHighCaliber = Kugel (.50 Antimaterial)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletHighCaliberExplosive = Kugel (.50 hochexplosive Brandstiftung)
+ent-BulletHighCaliberExplosive = Kugel (.50 hochexplosiver Brandsatz)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-HeavyPulse = Grundlaserstrahl

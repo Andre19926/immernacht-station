@@ -10,16 +10,16 @@ ent-PelletShotgun = Pellet (.50)
 ent-PelletShotgunSpread = Pellet (.50)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-PelletShotgunIncendiary = Pellet (.50 Brandstifter)
+ent-PelletShotgunIncendiary = Pellet (.50 Brand)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-PelletShotgunIncendiarySpread = Pellet (.50 Brandstifter)
+ent-PelletShotgunIncendiarySpread = Pellet (.50 Brand)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-PelletShotgunPractice = Pellet (.50-Praxis)
+ent-PelletShotgunPractice = Pellet (.50-Übung)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-PelletShotgunPracticeSpread = Pellet (.50-Praxis)
+ent-PelletShotgunPracticeSpread = Pellet (.50-Übung)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-PelletShotgunImprovised = improvisiertes Pellet

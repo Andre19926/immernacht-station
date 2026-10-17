@@ -8,8 +8,8 @@ ent-MagazinePistolCaselessRiflePractice = Pistolenmagazin (9,5mm Übung)
 
 ent-MagazineCaselessRifle = Magazin (9.5mm HP)
 
-ent-MagazineCaselessRiflePractice = Magazin (9.5mm Praxis)
+ent-MagazineCaselessRiflePractice = Magazin (9.5mm Übung)
 
 ent-MagazineCaselessRifleShort = Kurzmagazin (9.5mm HP)
 
-ent-MagazineCaselessRifleShortPractice = Kurzmagazin (9.5mm Praxis)
+ent-MagazineCaselessRifleShortPractice = Kurzmagazin (9.5mm Übung)

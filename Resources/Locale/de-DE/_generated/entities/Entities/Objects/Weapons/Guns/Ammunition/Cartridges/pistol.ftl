@@ -1,4 +1,4 @@
-ent-CartridgePistol = Patrone (.35 auto)
+ent-CartridgePistol = Patrone (.35 Auto)
     .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Standard kinetische Munition ist in den meisten Situationen üblich und nützlich.
 
 ent-CartridgePistolPractice = Patrone (.35 Auto-Übung)
@@ -10,4 +10,4 @@ ent-CartridgePistolIncendiary = Patrone (.35 Autobrand)
 ent-CartridgePistolUranium = Patrone (.35 Auto-Uran)
     .desc = Wohl das beliebteste Kaliber auf dem Markt, das von allen Arten von Pistolen und Maschinenpistolen verwendet wird. Uranmunition ersetzt den Bleikern des Geschosses durch spaltbares Material, das Ziele von innen bestrahlt.
 
-ent-CartridgePistolSpent = Patrone (.35 auto)
+ent-CartridgePistolSpent = Patrone (.35 Auto)

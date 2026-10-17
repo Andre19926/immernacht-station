@@ -10,7 +10,7 @@ ent-MagazineLightRifle = Magazin (.30 Gewehr)
 ent-MagazineLightRifleEmpty = Magazin (.30 Gewehre)
     .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre.
 
-ent-MagazineLightRiflePractice = Magazin (.30 Gewehrpraxis)
+ent-MagazineLightRiflePractice = Magazin (.30 Gewehr-Übung)
     .desc = Gebogenes 30-Rund-Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, harmlose Übungsmunition zu halten.
 
 ent-MagazineLightRifleUranium = Magazin (.30 Gewehr-Uran)

@@ -1,19 +1,19 @@
-ent-MagazineBoxShotgunHighCaliber = Shell-Box (8 Gauge Carpshot)
+ent-MagazineBoxShotgunHighCaliber = Schrotpatronenkasten (8 Gauge Carpshot)
 
-ent-MagazineBoxShotgunSlugHighCaliber = Schalenkasten (8 Gauge slug)
+ent-MagazineBoxShotgunSlugHighCaliber = Schrotpatronenkasten (8 Gauge Slug)
 
-ent-MagazineBoxShotgunIncendiaryHighCaliber = Shell-Box (8 Brandstifter)
+ent-MagazineBoxShotgunIncendiaryHighCaliber = Schrotpatronenkasten (8 Gauge Brand)
 
-ent-MagazineBoxShotgunUraniumHighCaliber = Shellbox (8 Gauge Uran)
+ent-MagazineBoxShotgunUraniumHighCaliber = Schrotpatronenkasten (8 Gauge Uran)
 
-ent-MagazineBoxShotgunBeanbagHighCaliber = Shell-Box (8 Gauge Beanbag)
+ent-MagazineBoxShotgunBeanbagHighCaliber = Schrotpatronenkasten (8 Gauge Beanbag)
 
-ent-MagazineBoxShotgunPracticeHighCaliber = Shell Box (8 Gauge Practice)
+ent-MagazineBoxShotgunPracticeHighCaliber = Schrotpatronenkasten (8 Gauge Übung)
 
-ent-MagazineBoxShotgunHighCaliberEnsnaring = Shell-Box (8 Gauge Slug Ensnaring)
+ent-MagazineBoxShotgunHighCaliberEnsnaring = Schrotpatronenkasten (8 Gauge Slug Ensnaring)
 
-ent-MagazineBoxShotgunHighCaliberEMP = Schalenkasten (8 Gauge slug EMP)
+ent-MagazineBoxShotgunHighCaliberEMP = Schrotpatronenkasten (8 Gauge Slug EMP)
 
-ent-MagazineBoxShotgunHighCaliberFlash = Schalenkasten (8 Gauge slug flash)
+ent-MagazineBoxShotgunHighCaliberFlash = Schrotpatronenkasten (8 Gauge Slug flash)
 
-ent-MagazineBoxShotgunHighCaliberSarin = Shellbox (8 Gauge Sarin Gas)
+ent-MagazineBoxShotgunHighCaliberSarin = Schrotpatronenkasten (8 Gauge Sarin Gas)

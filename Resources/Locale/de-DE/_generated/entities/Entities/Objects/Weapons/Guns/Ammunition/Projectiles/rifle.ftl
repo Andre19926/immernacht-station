@@ -1,7 +1,7 @@
 ent-BulletRifle = Kugel (.20 Gewehr)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletRiflePractice = Kugel (.20 Gewehrpraxis)
+ent-BulletRiflePractice = Kugel (.20 Gewehr-Übung)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletRifleIncendiary = Kugel (.20 Gewehrbrand)

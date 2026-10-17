@@ -1,7 +1,7 @@
 ent-CartridgeRifle = Patrone (.20 Gewehr)
     .desc = Eine moderne Zwischenpatrone für Kampfgewehre. Standard kinetische Munition ist in den meisten Situationen üblich und nützlich.
 
-ent-CartridgeRiflePractice = Patrone (.20 Gewehrpraxis)
+ent-CartridgeRiflePractice = Patrone (.20 Gewehr-Übung)
     .desc = Eine moderne Zwischenpatrone für Kampfgewehre. Übungsmunition feuert ein Kreideprojektil ab, das ein wenig sticht, aber sonst keinen bleibenden Schaden verursacht.
 
 ent-CartridgeRifleIncendiary = Patrone (.20 Gewehrbrand)

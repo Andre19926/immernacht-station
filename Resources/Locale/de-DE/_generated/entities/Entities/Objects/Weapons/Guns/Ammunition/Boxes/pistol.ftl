@@ -1,7 +1,7 @@
-ent-MagazineBoxPistol = Munitionsbox (.35 auto)
+ent-MagazineBoxPistol = Munitionsbox (.35 Auto)
     .desc = Ein Karton mit .35 Autorunden. Geplant zur Aufnahme von Allzweck-Kinetikmunition.
 
-ent-MagazineBoxPistolPractice = Munitionsbox (.35 auto practice)
+ent-MagazineBoxPistolPractice = Munitionsbox (.35 Auto Übung)
     .desc = Ein Karton mit .35 Autorunden. Beabsichtigt, harmlose Übungsmunition zu halten.
 
 ent-MagazineBoxPistolIncendiary = Munitionsbox (.35 Autobrand)

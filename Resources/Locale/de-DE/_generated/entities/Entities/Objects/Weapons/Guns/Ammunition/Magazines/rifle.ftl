@@ -7,7 +7,7 @@ ent-MagazineRifleEmpty = Magazin (.20 Gewehre)
 ent-MagazineRifleIncendiary = Magazin (.20 Gewehrbrand)
     .desc = 25-rundes Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, selbstzündende Brandmunition zu halten.
 
-ent-MagazineRiflePractice = Magazin (.20 Gewehrpraxis)
+ent-MagazineRiflePractice = Magazin (.20 Gewehr-Übung)
     .desc = 25-rundes Doppelstapelmagazin für Kampfgewehre. Beabsichtigt, harmlose Übungsmunition zu halten.
 
 ent-MagazineRifleUranium = Magazin (.20 Gewehr Uran)

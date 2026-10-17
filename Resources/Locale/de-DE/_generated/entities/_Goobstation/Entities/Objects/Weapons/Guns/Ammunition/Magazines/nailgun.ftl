@@ -1,5 +1,5 @@
 ent-MagazineNailgun = Nagelwaffenmagazin
 
-ent-MagazineNailgunEmpty = Nagelpistolenmagazin (any)
+ent-MagazineNailgunEmpty = Nagelpistolenmagazin (beliebig)
 
-ent-MagazineNailgunArmorPiercing = Nagelpistolenmagazin (Panzerpiercing)
+ent-MagazineNailgunArmorPiercing = Nagelpistolenmagazin (panzerbrechend)

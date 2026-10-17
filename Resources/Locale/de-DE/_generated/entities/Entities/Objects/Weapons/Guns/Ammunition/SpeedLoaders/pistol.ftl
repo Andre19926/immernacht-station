@@ -1,3 +1,3 @@
-ent-SpeedLoaderPistol = Geschwindigkeitslader (.35 auto)
+ent-SpeedLoaderPistol = Geschwindigkeitslader (.35 Auto)
 
-ent-SpeedLoaderPistolPractice = Geschwindigkeitslader (.35 Autopraxis)
+ent-SpeedLoaderPistolPractice = Geschwindigkeitslader (.35 Auto-Übung)
