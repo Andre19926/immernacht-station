@@ -5,10 +5,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 trap-revealed-message = Du enthüllst {THE($trap)}!
-trap-flare-message = {CAPITALIZE(THE($trap))} Leuchtet hell!
+trap-flare-message = {CAPITALIZE(THE($trap))} leuchtet hell auf!
 trap-triggered-message = Du trittst auf {THE($trap)}!
 
 ice-cube-break-free-start = Du fängst an, aus dem Eiswürfel auszubrechen...
 ice-cube-melt = Der Würfel schmilzt!
 admin-smite-ice-cube-name = Eiswürfel
-admin-smite-ice-cube-description = Einfriert das Ziel in einen Eiswürfel.
+admin-smite-ice-cube-description = Friert das Ziel in einem Eiswürfel ein.

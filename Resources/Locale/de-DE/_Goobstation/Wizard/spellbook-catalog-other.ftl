@@ -17,29 +17,29 @@ spellbook-clown-bundle-desc =
     Kann nicht zurückerstattet werden.
     Warnung: Der Kauf blockiert die Rückerstattung von Banana Touch und Fluch der Cluwne-Zauber!
 
-spellbook-oblivion-enforcer-name = Oblivation Enforcer Bundle
+spellbook-oblivion-enforcer-name = Oblivion-Enforcer-Paket
 spellbook-oblivion-enforcer-desc =
     Enthält Oblivion Enforcer Roben, ein Paar isolierte Handschuhe und Oblivion Enforcer Maske mit integriertem Stimmwechsler.
     Der Oblivion Order ist eine isolierte Clique von Mönchen, die Supermaterie verehren. Oblivion Enforcers sind, wie der Orden ihren Willen dem Universum als Ganzes auferlegt. Indem du dieses Bündel nimmst, gib deine Identität auf und werden eine gesichtslose Hand des Ordens.
     Kann nicht zurückerstattet werden.
-    Du kannst dieses Bundle so oft erhalten, wie du Supermatter Halberd gekauft hast.
+    Du kannst dieses Paket so oft erhalten, wie du Supermatter Halberd gekauft hast.
     Achtung: Der Kauf blockiert die Rückerstattung von Supermatter Halberd!
 
 spellbook-tider-bundle-name = Tider-Zauberer-Paket
 spellbook-tider-bundle-desc =
     Enthält einen alten Jumpsuit, ein Paar isolierte Handschuhe, eine Gasmaske, grauen Wintermantel und Mantel sowie Assistenten PDA.
     Kann nicht zurückerstattet werden.
-    Kaufe dies gibt dir Assistant Fraktion und entsperrt den Kauf eines speziellen Grey Tide Speer.
+    Der Kauf verleiht dir die Assistenten-Fraktion und schaltet den Kauf eines besonderen Grey-Tide-Speers frei.
     Warnung: Der Kauf blockiert die Rückerstattung des Homing Toolbox Zaubers!
 
 spellbook-full-random-name = Vollständiger Zufall
 spellbook-full-random-desc =
-    Hole dich 15 WizCoins im Wert von völlig zufälligen Zaubersprüchen. Es gibt kein Zurück.
+    Erhalte völlig zufällige Zauber im Wert von 15 WizCoins. Es gibt kein Zurück.
     Nicht empfohlen für neuere Zauberer.
 
 spellbook-semi-random-name = Halbzufällig
 spellbook-semi-random-desc =
-    Hole dich 12 WizCoins im Wert von zufälligen Zaubersprüchen. Es ist jedoch garantiert, dass sie zumindest etwas mobilität und tödliche zaubersprüche bekommen. Es gibt kein Zurück.
+    Erhalte zufällige Zauber im Wert von 12 WizCoins. Du bekommst jedoch garantiert zumindest einige Mobilitätszauber und tödliche Zauber. Es gibt kein Zurück.
     Nicht empfohlen für neuere Zauberer.
 
 spellbook-event-dimension-shift-name = Dimensionsverschiebung
@@ -65,7 +65,7 @@ spellbook-apprentice-desc = Ein magischer Vertrag, der einen Zauberlehrling an d
 
 spellbook-magical-lamp-name = Magische Lampe
 spellbook-magical-lamp-desc =
-    Eine magische goldene Lampe, die einen persönlichen Wächter an deinen Körper binden kann. Der Vormund wird dir einen gewissen Schaden zufügen.
+    Eine magische goldene Lampe, die einen persönlichen Wächter an deinen Körper binden kann. Der Wächter fügt dir einen Teil des Schadens zu.
     Es wäre ratsam, zu vermeiden, diese mit etwas zu kaufen, das dazu führen kann, dass du Körper mit anderen austauschst.
     Nachdem du den Wächter gehostet hast, kannst du deine Spezies nicht im Zauberer-Spiegel ändern.
     Kann nur einmal gekauft werden.
@@ -80,7 +80,7 @@ spellbook-bottle-blood-desc = Eine Flasche mit magisch durchtränktem Blut. Zerb
     Du musst die Flasche zerschmettern, um den Schlachtdämon zu entfesseln.
     Wer diese Flasche und die Schriftrolle „Höllenriss“ kauft, schaltet den Kauf eines besonderen Schlachtdämonenherzens frei.
 
-spellbook-bottle-tickles-name = Flasche Tickles
+spellbook-bottle-tickles-name = Kitzelflasche
 spellbook-bottle-tickles-desc = Eine Flasche mit magisch durchtränktem Spaß. Zerbricht sie, lockt ihr Geruch entzückende außerdimensionale Wesen an.
     
     Diese Wesen ähneln Schlachtdämonen, stecken ihre Opfer aber in einen außerdimensionalen Kuschelraum

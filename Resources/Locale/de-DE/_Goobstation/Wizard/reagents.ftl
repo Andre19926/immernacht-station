@@ -17,10 +17,10 @@ reagent-effect-guidebook-drop-items =
     } zu Drop Holded Items
 
 reagent-name-thick-smoke = dicker Rauch
-reagent-desc-thick-smoke = Extrem dicker Rauch mit magischen Eigenschaften. Du willst es nicht einatmen.
+reagent-desc-thick-smoke = Extrem dichter Rauch mit magischen Eigenschaften. Du willst ihn nicht einatmen.
 
 reagent-name-mugwort = Beifußtee
-reagent-desc-mugwort = Ein eher bitteres Kraut dachte einst, magische Schutzeigenschaften zu haben.
+reagent-desc-mugwort = Ein eher bitteres Kraut, dem man einst magische Schutzeigenschaften nachsagte.
 
 reagent-comp-condition-wizard-or-apprentice = Zauberer oder Lehrling
 

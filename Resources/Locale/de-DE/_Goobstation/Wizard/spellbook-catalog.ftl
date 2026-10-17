@@ -6,27 +6,27 @@
 
 spellbook-mime-malaise-name = Mime-Unwohlsein
 spellbook-mime-malaise-desc =
-    Ein Zauber, der bei Theater-Nerd-Zauberern und Contrarian-Prankstern beliebt ist, wird dieser Zauber ein Mime-Kostüm auf das Ziel legen, sie betäuben, damit sie Kunst betrachten und zum Schweigen bringen können.
-    Effekte sind dauerhaft auf Nicht-Zauberer.
-    Wenn du diesen Zauber lernst, kannst du kostenlos eine Reihe von Mime-Zauberroben und Hut erhalten!
+    Ein Zauber, der bei theaterverrückten Zauberern und querdenkenden Scherzbolden beliebt ist: Er legt dem Ziel ein Mime-Kostüm an, betäubt es, damit es Kunst betrachten kann, und bringt es zum Schweigen.
+    Die Effekte sind bei Nicht-Zauberern dauerhaft.
+    Wenn du diesen Zauber lernst, erhältst du kostenlos eine Mime-Zaubererrobe samt Hut!
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-banana-touch-name = Bananenberührung
 spellbook-banana-touch-desc =
-    Ein Zauberspruch, der bei Zauberer-Geburtstagsfeiern beliebt ist, wird dieser Zauber ein Clownkostüm auf das Ziel setzen, sie mit einem lauten HONK betäuben und sie mutieren, um sie unterhaltsamer zu machen!
-    Effekte sind dauerhaft auf Nicht-Zauberer.
-    Das Erlernen dieses Zaubers ermöglicht es dir, eine Reihe von Clown-Zauberroben und Hut kostenlos zu bekommen!
+    Ein Zauber, der auf Zaubererpartys beliebt ist: Er legt dem Ziel ein Clownkostüm an, betäubt es mit einem lauten HONK und mutiert es, damit es unterhaltsamer wird!
+    Die Effekte sind bei Nicht-Zauberern dauerhaft.
+    Wenn du diesen Zauber lernst, erhältst du kostenlos eine Clown-Zaubererrobe samt Hut!
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-cluwne-curse-name = Fluch der Cluwne
 spellbook-cluwne-curse-desc =
-    Verwandelt das Ziel in eine fette und verfluchte Monstrosität eines Clowns.
-    Das Erlernen dieses Zaubers ermöglicht es dir, eine Reihe von Clown-Zauberroben und Hut kostenlos zu bekommen!
+    Verwandelt das Ziel in eine fette, verfluchte Clown-Monstrosität.
+    Wenn du diesen Zauber lernst, erhältst du kostenlos eine Clown-Zaubererrobe samt Hut!
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-magic-missile-name = Magische Rakete
 spellbook-magic-missile-desc =
-    Dieser Zauber feuert mehrere atemberaubende, sich langsam bewegende magische Projektile auf nahegelegene Ziele ab.
+    Dieser Zauber feuert mehrere betäubende, sich langsam bewegende magische Projektile auf nahegelegene Ziele ab.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-disable-tech-name = Disable-Technologie
@@ -41,70 +41,70 @@ spellbook-smoke-desc =
 
 spellbook-repulse-name = Rückstoß
 spellbook-repulse-desc =
-    Dieser Zauber wirft alles um den Benutzer herum weg. Werfen Mobs sind kurz betäubt.
+    Dieser Zauber wirft alles um den Benutzer herum weg. Weggeschleuderte Wesen sind kurz betäubt.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-stop-time-name = Stoppzeit
 spellbook-stop-time-desc =
-    Dieser Zauber stoppt die Zeit für alle außer dir und jedem, der diesen Zauber gelernt hat, so dass du und dein Vormund sich frei bewegen können, während deine Feinde und sogar Projektile eingefroren sind.
+    Dieser Zauber stoppt die Zeit für alle außer dir und jedem, der diesen Zauber gelernt hat, sodass du und dein Wächter euch frei bewegen können, während deine Feinde und sogar Projektile eingefroren sind.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-corpse-explosion-name = Leichenexplosion
 spellbook-corpse-explosion-desc =
-    Füllt eine Leiche mit Energie, wodurch sie heftig explodiert. Klopft Menschen und betäubt Silikone. Es gilt bis zu 100 physische Schäden an anderen, die die Leiche umgeben; der Schaden, der weiter draußen jemand senkt. Wizard ist immun gegen die Auswirkungen der Explosion.
+    Füllt eine Leiche mit Energie, wodurch sie heftig explodiert. Wirft Menschen um und betäubt Silizium-Wesen. Verursacht bis zu 100 physischen Schaden bei allen in der Nähe der Leiche; der Schaden sinkt mit der Entfernung. Der Zauberer ist immun gegen die Explosion.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-blind-name = Blenden
 spellbook-blind-desc =
-    Dieser Zauber erblindet vorübergehend ein einzelnes Ziel.
+    Dieser Zauber blendet ein einzelnes Ziel vorübergehend.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-bind-soul-name = Seele binden
 spellbook-bind-soul-desc =
-    Ein Zauber, der deine Seele an einen Gegenstand in deinen Händen bindet. Deine Seele an einen Gegenstand zu binden, wird dich in einen unsterblichen Lich verwandeln. Solange der Gegenstand intakt bleibt und sich auf der gleichen Ebene wie dein Leichnam befindet, wirst du unabhängig von den Umständen vom Tod wiederbeleben.
-    Wenn sich der Gegenstand auf einem anderen Gitter oder im Weltraum befindet, wenn du stirbst, wird er selbst oder er enthält Container (falls vorhanden) irgendwo auf dem Gitter deines toten Körpers oder auf der Station wieder erscheinen, wenn dein Körper nicht auf einem Gitter ist.
+    Ein Zauber, der deine Seele an einen Gegenstand in deinen Händen bindet. Deine Seele an einen Gegenstand zu binden, wird dich in einen unsterblichen Lich verwandeln. Solange der Gegenstand intakt bleibt und sich auf der gleichen Ebene wie dein Leichnam befindet, wirst du unabhängig von den Umständen vom Tod auferstehen.
+    Befindet sich der Gegenstand bei deinem Tod auf einem anderen Gitter oder im Weltraum, erscheint er selbst oder sein äußerster Behälter (falls vorhanden) irgendwo auf dem Gitter deines toten Körpers oder, falls dein Körper nicht auf einem Gitter liegt, auf der Station.
     Du kannst keine Seele binden, während du in Siliziumform bist.
     Kann nicht zurückerstattet werden.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-mutate-name = Mutat
 spellbook-mutate-desc =
-    Verwandelt dich vorübergehend in einen betäubenden Hulk, der in der Lage ist, Wände mit ihrer massiven Stärke zu zerstören und Laser mit ihren massiven Köpfen zu schießen.
+    Verwandelt dich vorübergehend in einen Hulk, der dank seiner enormen Stärke Wände zerschmettern und Laser mit seinem massiven Kopf abfeuern kann.
     Funktioniert nicht in Siliziumform.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-tesla-blast-name = Tesla-Blast
 spellbook-tesla-blast-desc =
-    Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei! Du kannst dich frei bewegen, während es aufgeladen wird. Der Bogen springt zwischen Zielen und betäubt sie. Ignoriert Isolation. Du bist immun gegen deinen eigenen Blitz.
-    Aktiviere den Zauber erneut, während er aufgeladen wird, um den Tesla-Blast freizugeben, dessen Leistung mit der Ladezeit skaliert wird.
-    Wenn es sich vollständig auflädt, verliere die Kontrolle über den Bolzen und der Zauber wird nichts tun.
+    Lade einen Tesla-Lichtbogen auf und entlade ihn auf zufällige Ziele in der Nähe! Du kannst dich frei bewegen, während es aufgeladen wird. Der Lichtbogen springt zwischen Zielen und betäubt sie. Ignoriert Isolierung. Du bist immun gegen deinen eigenen Blitz.
+    Aktiviere den Zauber erneut, während er aufgeladen wird, um den Tesla Blast zu entladen; seine Stärke skaliert mit der Ladezeit.
+    Lädt er sich vollständig auf, verlierst du die Kontrolle über den Blitz und der Zauber bewirkt nichts.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-lightning-bolt-name = Blitzbolzen
 spellbook-lightning-bolt-desc =
-    Feuern dich einen Blitz auf deine Feinde! Ignoriert Isolierung, kann aber nicht betäuben. Du bist immun gegen deinen eigenen Blitz.
+    Feuere einen Blitz auf deine Feinde ab! Ignoriert Isolierung, kann aber nicht betäuben. Du bist immun gegen deinen eigenen Blitz.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-homing-toolbox-name = Zielsuchende Werkzeugkiste
 spellbook-homing-toolbox-desc =
-    Dieser Zauber beschwört und wirft eine magische Homing-Toolbox auf deinen Gegner, die beim Treffer niederschlägt.
-    Wenn du diesen Zauber lernst, erhalte kostenlos ein Tider-Wizard-Bundle!
+    Dieser Zauber beschwört und wirft eine magische zielsuchende Werkzeugkiste auf deinen Gegner, die ihn beim Treffer niederschlägt.
+    Wenn du diesen Zauber lernst, erhältst du kostenlos ein Tider-Zauberer-Paket!
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-spell-cards-name = Zauberkarten
 spellbook-spell-cards-desc =
-    Blazing hot rapid fire homing karten. Schickt eure Feinde mit ihrer mystischen Kraft ins Schattenreich!
+    Glühend heiße, zielsuchende Schnellfeuerkarten. Schicke deine Feinde mit ihrer mystischen Kraft ins Schattenreich!
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-arcane-barrage-name = Arkane Barriere
 spellbook-arcane-barrage-desc =
-    Feuern dich einen Strom von arkaner Energie auf deine Feinde mit diesem mächtigen Zauber. Schießt schneller als Kleinere Beschwörungswaffen, betäubt aber keine Ziele. Der Zauber ist effektiver, wenn beide Hände frei sind.
+    Feuere mit diesem mächtigen Zauber einen Strom arkaner Energie auf deine Feinde ab. Schießt schneller als Kleinere Beschwörungswaffen, betäubt aber keine Ziele. Der Zauber ist effektiver, wenn beide Hände frei sind.
     Das Erlernen dieses Zaubers macht dich unfähig, Kleinere Beschwörungswaffen zu lernen.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-lesser-summon-guns-name = Kleinere Beschwörungswaffen
 spellbook-lesser-summon-guns-desc =
-    Warum nachladen, wenn du unendliche Waffen hast? Beschwört einen endlosen Strom von Bolzen-Action-Gewehren, die wenig Schaden anrichten, aber Ziele betäuben werden. Der Zauber ist effektiver, wenn beide Hände frei sind.
+    Warum nachladen, wenn du unendliche Waffen hast? Beschwört einen endlosen Strom von Repetiergewehren, die wenig Schaden anrichten, aber Ziele betäuben. Der Zauber ist effektiver, wenn beide Hände frei sind.
     Das Erlernen dieses Zauberspruchs macht dich unfähig, Arkane Barrage zu lernen.
     Erfordert die Robe und den Hut des Zauberers.
 
@@ -120,19 +120,19 @@ spellbook-scream-for-me-desc =
 
 spellbook-instant-summons-name = Sofortige Vorladungen
 spellbook-instant-summons-desc =
-    Dieser Zauber kann verwendet werden, um einen zuvor markierten Gegenstand von überall im Universum an deine Hand zu erinnern.
-    Aktiviere den Zauber, während du einen Gegenstand in deinen Händen hältst, um ihn zu markieren. Aktiviere es erneut, um den Gegenstand in einer leeren Hand zurückzurufen. Du kannst ein anderes Element markieren, dies wird die alte Markierung entfernen.
+    Dieser Zauber kann verwendet werden, um einen zuvor markierten Gegenstand von überall im Universum zurück in deine Hand zu rufen.
+    Aktiviere den Zauber, während du einen Gegenstand in deinen Händen hältst, um ihn zu markieren. Aktiviere es erneut, um den Gegenstand in einer leeren Hand zurückzurufen. Du kannst einen anderen Gegenstand markieren; dadurch wird die alte Markierung entfernt.
     Wenn sich der markierte Gegenstand im Container befindet, wird der gesamte Container gerufen.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-teleport-name = Teleportation
 spellbook-teleport-desc =
-    Teleportiert sie zu einem bereich ihrer auswahl.
+    Teleportiert dich an einen Ort deiner Wahl.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-the-traps-name = Die Fallen!
 spellbook-the-traps-desc =
-    Beschwöre eine Reihe von Fallen um dich herum. Du wirst jeden Feind, der auf sie tritt, beschädigen und erzürnen. Du bist immun gegen deine eigenen Fallen.
+    Beschwöre eine Reihe von Fallen um dich herum. Jeder Feind, der auf sie tritt, wird verletzt und aufgebracht. Du bist immun gegen deine eigenen Fallen.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-bees-name = Kleinere Beschwörerbienen
@@ -142,9 +142,9 @@ spellbook-bees-desc =
 
 spellbook-simians-name = Affen beschwören
 spellbook-simians-desc =
-    Dieser Zauber reicht tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß! Die Affen sind zu niemandem freundlich, außer zu Zauberern.
-    Das Upgrade dieses Zaubers erhöht auch die summierte Affenmenge, und ihre Ausrüstung wird auch stärker!
-    Kann nicht einmal vollständig aktualisiert zurückerstattet werden.
+    Dieser Zauber reicht tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft Affen und Gorillas herbei, die sofort ausflippen und alles in Sichtweite angreifen. Spaß! Die Affen sind zu niemandem freundlich, außer zu Zauberern.
+    Das Verbessern dieses Zaubers erhöht auch die Zahl der beschworenen Affen, und ihre Ausrüstung wird ebenfalls stärker!
+    Kann auch nach vollständiger Verbesserung nicht zurückerstattet werden.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-sanguine-strike-name = Exsanguinierender Streik
@@ -162,18 +162,18 @@ spellbook-chuuni-desc =
 
 spellbook-swap-name = Tausch
 spellbook-swap-desc =
-    Wechseln dich Orte mit jedem lebenden Ziel.
+    Tausche den Ort mit einem beliebigen lebenden Ziel.
     Alt-Klick: Markiere ein sekundäres Swap-Ziel, in diesem Fall gehen dich zu der Position, die von deinem primären Ziel besetzt ist, sie gehen zu der Position, die von deinem sekundären besetzt ist, und dein sekundäres Ziel endet dort, wo du ursprünglich warst. Das sekundäre Swap-Ziel wird verworfen, sobald du tauschst, die Aktion abbrechen oder auf sich selbst klicken.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-soul-tap-name = Soul Tape
+spellbook-soul-tap-name = Seelenzapfen
 spellbook-soul-tap-desc =
-    Klopft deine Seele. Trades 20 max Gesundheit für eine Aktualisierung aller deiner Zaubersprüche. Funktioniert nicht, wenn du keine Seele hast, von früher mit Bind Soul.
+    Zapft deine Seele an. Tauscht 20 maximale Gesundheit gegen die Aufladung aller deiner Zauber. Funktioniert nicht, wenn du keine Seele hast, etwa weil du Seele binden gewirkt hast.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-thrown-lightning-name = Blitze geworfen
 spellbook-thrown-lightning-desc =
-    Aus eldritch Energien geschmiedet, wird ein Paket von reiner Kraft, bekannt als ein Zauberpaket in deiner Hand erscheinen, das, wenn es geworfen wird, dein Ziel lähmen wird.
+    Aus unheimlichen Energien geschmiedet, erscheint ein Bündel reiner Kraft in deiner Hand, das dein Ziel lähmt, wenn du es wirfst.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-knock-name = Klopfen
@@ -181,13 +181,13 @@ spellbook-knock-desc =
     Dieser Zauber öffnet Türen und Schließfächer in der Nähe.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
-spellbook-smite-name = Schmitt
+spellbook-smite-name = Smite
 spellbook-smite-desc =
     Dieser Zauber lädt deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-rathen-name = Rathens Geheimnis
 spellbook-rathen-desc =
-    Beschwört eine mächtige Schockwelle um dich herum, die alle niederschlägt und sie zwingt, ihren Anhang zu defäkieren.
-    Hat ein Opfer seinen Anhang bereits verloren, erleidet es stattdessen 10 physischen Schaden, mit hoher Chance, dass ihm weitere äußere Gliedmaßen abgerissen werden.
+    Beschwört eine mächtige Schockwelle um dich herum, die alle niederschlägt und sie zwingt, ihren Blinddarm auszuscheiden.
+    Hat ein Opfer seinen Blinddarm bereits verloren, erleidet es stattdessen 10 physischen Schaden, mit hoher Chance, dass ihm weitere äußere Gliedmaßen abgerissen werden.
     Erfordert die Robe und den Hut des Zauberers.
