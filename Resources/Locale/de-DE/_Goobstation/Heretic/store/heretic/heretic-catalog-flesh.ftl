@@ -24,59 +24,59 @@
 
 knowledge-path-flesh-s1-name = Prinzip des Hungers
 knowledge-path-flesh-s1-desc =
-    Hunderte von uns hungerten, aber nicht ich... Ich fand Kraft in meiner Gier.
+    Hunderte von uns hungerten, doch ich nicht ... Ich fand Kraft in meiner Gier.
 
-    Öffnet euch den Weg des Fleisches.
-    Ermöglicht dir, ein Messer und eine Blutlache in eine Bloody Blade zu verwandeln.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Öffnet dir den Weg des Fleisches.
+    Ermöglicht dir, ein Messer und eine Blutlache in eine Blutige Klinge zu verwandeln.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
-knowledge-path-flesh-s2-name = Greifer von Fleisch
+knowledge-path-flesh-s2-name = Griff des Fleisches
 knowledge-path-flesh-s2-desc =
-    Meine neu gefundenen Wünsche trieben mich zu immer größeren Höhen.
+    Meine neu gefundenen Begierden trieben mich zu immer größeren Höhen.
 
-    Dein Mansus Grasp erhält die Fähigkeit, einen Ghoul aus der Leiche mit einer Seele zu erschaffen.
-    Ghouls haben nur 50 Gesundheit und sehen für die Augen der Heiden wie Schalen aus.
-    Alle Ghouls bekommen ihre eigene Bloody Blade, die nicht zerbrochen werden kann und bei Ghoul Tod verschwindet.
-    Du kannst jetzt rohes Fleisch konsumieren. Das Essen von Fleisch, Organen und Körperteilen wird dich vorübergehend stärken und heilen, der Effekt skaliert mit deiner Pfadphase.
-    Du wirst auch immun gegen Schäden durch Gifte.
+    Dein Mansus-Griff erhält die Fähigkeit, aus einer Leiche mit Seele einen Ghul zu erschaffen.
+    Ghule haben nur 50 Gesundheit und sehen in den Augen der Ungläubigen wie Hüllen aus.
+    Jeder Ghul erhält seine eigene Blutige Klinge, die nicht zerbrochen werden kann und mit dem Tod des Ghuls verschwindet.
+    Du kannst nun rohes Fleisch verzehren. Das Essen von Fleisch, Organen und Körperteilen stärkt und heilt dich vorübergehend, der Effekt skaliert mit deiner Pfadstufe.
+    Außerdem wirst du immun gegen Schaden durch Gifte.
 
 knowledge-path-flesh-s3-name = Unvollkommenes Ritual
 knowledge-path-flesh-s3-desc =
-    Ich fand notizen eines dunklen rituals, unvollendet , aber trotzdem habe ich mich vorwärts bewegt.
+    Ich fand Aufzeichnungen eines dunklen Rituals, unvollendet ... und doch drängte ich weiter.
 
-    Ermöglicht dir, eine Leiche und eine Mündung zu transmutieren, um einen Voiceless Dead zu erstellen.
+    Ermöglicht dir, eine Leiche und einen Maulkorb zu transmutieren, um einen Stimmlosen Toten zu erschaffen.
     Die Leiche braucht keine Seele zu haben.
-    Voiceless Dead sind stumme Ghouls, die 100 Gesundheit und eine Bloody Blade haben.
-    Voiceless Dead sind stärker als normale bei der Verwendung von Bloody Blades.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Stimmlose Tote sind stumme Ghule mit 100 Gesundheit und einer Blutigen Klinge.
+    Stimmlose Tote sind im Umgang mit Blutigen Klingen stärker als gewöhnliche Ghule.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
-knowledge-path-flesh-s4-name = Zeichen des Fleisches
+knowledge-path-flesh-s4-name = Mal des Fleisches
 knowledge-path-flesh-s4-desc =
     Da sah ich sie, die Gezeichneten. Sie waren außer Reichweite. Sie schrien und schrien.
 
     Dein Mansus-Griff trägt nun das Mal des Fleisches auf. Das Mal wird durch einen Angriff mit deiner Blutigen Klinge ausgelöst.
     Wird es ausgelöst, spaltet sich das Opfer in einen Fleisch-Mimic ab, der es angreift.
-    Fleisch-Mimics sind identisch mit Ghulen, die durch den Mansus-Griff auferstanden sind, erleiden aber über die Zeit langsam zunehmenden Schaden.
+    Fleisch-Mimics gleichen Ghulen, die durch den Mansus-Griff auferstanden sind, erleiden aber über die Zeit langsam zunehmenden Schaden.
 
-knowledge-path-flesh-s5-name = Strickwaren aus Fleisch
+knowledge-path-flesh-s5-name = Fleisch zusammenflicken
 knowledge-path-flesh-s5-desc =
-    Aber sie waren nicht lange außerhalb meiner Reichweite. Mit jedem Schritt wuchsen die Schreie, bis endlich
-    Ich habe gelernt, dass sie zum Schweigen gebracht werden können.
+    Aber sie blieben nicht lange außer Reichweite. Mit jedem Schritt wurden die Schreie lauter, bis ich schließlich
+    begriff, dass man sie zum Schweigen bringen kann.
 
-    Gewährt dir den Zauber Knit Flesh. Dieser Berührungszauber fungiert als ein großartiges chirurgisches Werkzeug, das chirurgische Schritte umgeht, Kleidung, keine Schmerzen verursacht und keinen Giftschaden verursacht. Auch fungiert als medizinische Hud und Gesundheit Analysator.
-    Dieser Zauber ermöglicht es dir auch, deine Günstlinge und Beschwörungen zu heilen.
+    Gewährt dir den Zauber Fleisch zusammenflicken. Dieser Berührungszauber dient als hervorragendes chirurgisches Werkzeug, das Operationsschritte und Kleidung umgeht, keine Schmerzen verursacht und keinen Giftschaden anrichtet. Er wirkt außerdem als medizinisches HUD und Gesundheitsanalysator.
+    Mit diesem Zauber kannst du auch deine Diener und Beschwörungen heilen.
 
 knowledge-path-flesh-s6-name = Rohes Ritual
 knowledge-path-flesh-s6-desc =
-    Ich konnte nicht alleine weitermachen. Ich konnte The Uncanny Man beschwören, um mir zu helfen, mehr zu sehen.
-    Die Schreie... einst konstant, jetzt zum Schweigen gebracht durch ihre elende Erscheinung. Nichts war außer Reichweite.
+    Allein konnte ich nicht weitermachen. Ich konnte den Unheimlichen Mann beschwören, damit er mir half, mehr zu sehen.
+    Die Schreie ... einst beständig, nun zum Schweigen gebracht durch ihr elendes Erscheinungsbild. Nichts war außer Reichweite.
 
-    Ermöglicht dir, ein Paar Augen, einen Magen und eine Blutlache umzuwandeln, um einen Rohen Propheten zu erschaffen.
-    Rohe Propheten haben eine stark erhöhte Sichtweite und Röntgensicht sowie einen Langstrecken-Ausflug und die Fähigkeit, Geister zu verbinden, um mit Leichtigkeit zu kommunizieren, sind aber im Kampf sehr zerbrechlich und schwach.
-    Rohe Propheten heilen passiv Ketzer und Ghule um sich herum.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Ermöglicht dir, ein Paar Augen, einen Magen und eine Blutlache zu transmutieren, um einen Rohen Propheten zu erschaffen.
+    Rohe Propheten haben eine stark erhöhte Sichtweite und Röntgensicht sowie einen Fernsprung und die Fähigkeit, Geister zu verbinden, um mühelos zu kommunizieren, sind im Kampf aber sehr zerbrechlich und schwach.
+    Rohe Propheten heilen passiv Ketzer und Ghule in ihrer Umgebung.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
-knowledge-path-flesh-s7-name = Blutungsstahl
+knowledge-path-flesh-s7-name = Blutender Stahl
 knowledge-path-flesh-s7-desc =
     Der Unheimliche Mann war nicht allein. Sie führten mich zum Marschall.
     Endlich begann ich zu verstehen. Und dann regnete es Blut vom Himmel.
@@ -85,16 +85,16 @@ knowledge-path-flesh-s7-desc =
 
 knowledge-path-flesh-s8-name = Einsames Ritual
 knowledge-path-flesh-s8-desc =
-    Ich konnte meine Gier und meine Wünsche kombinieren, um ein eldritch Biest zu beschwören, das ich noch nie zuvor gesehen hatte.
-    Eine sich ständig verändernde Masse von Fleisch, es kannte meine Ziele gut. Der Marschall stimmte zu.
+    Ich konnte meine Gier und meine Begierden vereinen, um ein unheimliches Biest zu beschwören, wie ich es nie zuvor gesehen hatte.
+    Eine sich ständig verwandelnde Masse aus Fleisch, es kannte meine Ziele genau. Der Marschall stimmte zu.
 
-    Ermöglicht dir, ein Herz, einen Magen, Lungen und einen Stift zu transmutieren, um einen Stalker zu erstellen.
-    Stalker können sich bewegen, EMPs loslassen, sich in verschiedene Kreaturen verwandeln und sind stark im Kampf.
+    Ermöglicht dir, ein Herz, einen Magen, Lungen und einen Stift zu transmutieren, um einen Stalker zu erschaffen.
+    Stalker können springen, EMPs freisetzen, sich in verschiedene Kreaturen verwandeln und sind im Kampf stark.
 
 knowledge-path-flesh-s9-name = Die letzte Hymne des Priesters
 knowledge-path-flesh-s9-desc =
-    Das Aufstiegsritual des Pfades des Fleisches. Bringt 4 Leichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
-    Wenn du fertig bist, wirst du noch stärker, wenn du Fleisch konsumierst.
-    Darüber hinaus, wenn du Schaden nimmst, wird sich dein Körper in Fleisch nachahmen. Du wirst eine blutige Klinge bekommen.
-    Du kannst nur 10 Fleisch-Mimiks auf einmal aufrechterhalten, wenn du noch mehr Schaden nimmst, wirst du stattdessen bestehende Mimiks heilen.
-    Du wirst auch immun gegen extreme Temperaturen und Druck.
+    Das Aufstiegsritual des Pfades des Fleisches. Bringe 4 Leichen zu einer Transmutationsrune, um das Ritual abzuschließen.
+    Nach Abschluss wirst du durch den Verzehr von Fleisch noch stärker.
+    Außerdem spaltet sich dein Körper bei Schaden in einen Fleisch-Mimic ab. Diese erhalten eine Blutige Klinge.
+    Du kannst nur 10 Fleisch-Mimics gleichzeitig unterhalten; nimmst du noch mehr Schaden, heilst du stattdessen bestehende Mimics.
+    Außerdem wirst du immun gegen extreme Temperaturen und extremen Druck.

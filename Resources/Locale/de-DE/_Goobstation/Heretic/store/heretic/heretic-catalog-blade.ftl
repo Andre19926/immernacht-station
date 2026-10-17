@@ -24,67 +24,67 @@
 
 knowledge-path-blade-s1-name = Die Schneidkante
 knowledge-path-blade-s1-desc =
-    Unsere großen Vorfahren schmiedeten Schwerter und praktizierten Sparring am Vorabend großer Schlachten.
+    Unsere großen Vorfahren schmiedeten Schwerter und übten sich am Vorabend großer Schlachten im Zweikampf.
 
     Folge dem Weg der Klingen.
-    Transmutiere zwei Messer in eine getrennte Klinge.
-    Du kannst bis zu vier gleichzeitig erstellen.
+    Transmutiere zwei Messer zu einer Gespaltenen Klinge.
+    Du kannst bis zu vier gleichzeitig erschaffen.
 
 knowledge-path-blade-s2-name = Griff der Klinge
 knowledge-path-blade-s2-desc =
-    Die Geschichte des Fußsoldaten wird seit der Antike erzählt. Es ist Blut und Tapferkeit und wird durch Schwert, Stahl und Silber verfochten.
+    Die Geschichte des Fußsoldaten wird seit der Antike erzählt. Sie handelt von Blut und Tapferkeit und wird von Schwert, Stahl und Silber verfochten.
 
-    Dein Mansus Grasp wird eine kurze Betäubung verursachen, wenn er auf jemanden angewendet wird, der sich hinlegt oder von dir weggewandt ist.
+    Dein Mansus-Griff verursacht eine kurze Betäubung, wenn du ihn auf jemanden anwendest, der am Boden liegt oder dir den Rücken zukehrt.
 
-knowledge-path-blade-s3-name = Der Tanz der Marke
+knowledge-path-blade-s3-name = Tanz des Brandzeichens
 knowledge-path-blade-s3-desc =
     Der Fußsoldat war als gefürchteter Duellant bekannt. Sein General ernannte ihn schnell zu seinem persönlichen Champion.
 
     Wirst du angegriffen, während du in einer Hand eine Ketzerklinge hältst, setzt du zu einer Riposte gegen deinen Angreifer an und wirfst ihn zu Boden. Dieser Effekt kann nur alle 20 Sekunden ausgelöst werden.
 
-knowledge-path-blade-s4-name = Markierung der Klinge
+knowledge-path-blade-s4-name = Mal der Klinge
 knowledge-path-blade-s4-desc =
-    Sein General wollte den Krieg beenden, aber der Champion wusste, dass es kein Leben ohne Tod geben konnte. Er würde den Feigling selbst töten und jeden, der zu rennen versuchte.
+    Sein General wollte den Krieg beenden, aber der Champion wusste, dass es kein Leben ohne Tod geben konnte. Er würde den Feigling selbst töten und jeden, der zu fliehen versuchte.
 
-    Dein Mansus-Griff wendet nun das Zeichen der Klinge an.
-    Das Auslösen der Markierung wird ein Messer beschwören, das dich für kurze Zeit umkreist.
-    Das Messer blockiert jeden Angriff, der auf dich gerichtet ist, wird aber bei Gebrauch konsumiert.
+    Dein Mansus-Griff trägt nun das Mal der Klinge auf.
+    Das Auslösen des Mals beschwört ein Messer, das dich für kurze Zeit umkreist.
+    Das Messer blockiert jeden Angriff, der gegen dich gerichtet ist, wird dabei aber verbraucht.
 
-knowledge-path-blade-s5-name = Anpassung
+knowledge-path-blade-s5-name = Neuausrichtung
 knowledge-path-blade-s5-desc =
-    In der Flut des Todes fand er Frieden in sich. Trotz unüberwindlicher Chancen fälschte er weiter.
+    Im Wirbel des Todes fand er Frieden in sich selbst. Trotz unüberwindbarer Übermacht kämpfte er weiter.
 
-    Gewährt dir Realignment einen Zauber, der deinen Körper schnell für eine kurze Zeit neu ausrichten wird.
-    Während dieses Prozesses regenerierst du schnell Ausdauer und erholst dich schnell von Betäubungen, kannst jedoch nicht angreifen.
+    Gewährt dir Neuausrichtung, einen Zauber, der deinen Körper für kurze Zeit rasch neu ausrichtet.
+    Währenddessen regenerierst du schnell Ausdauer und erholst dich rasch von Betäubungen, kannst aber nicht angreifen.
 
 knowledge-path-blade-s6-name = Die Haltung des zerrissenen Champions
 knowledge-path-blade-s6-desc =
-    Mit der Zeit war er es, der allein unter den Leichen seiner früheren Kameraden stand, in Blut überspült, nichts davon sein eigenes. Er war ohne Rivalen, Gleichen oder Zweck.
+    Mit der Zeit war er es, der allein zwischen den Leichen seiner einstigen Kameraden stand, in Blut getränkt, nichts davon sein eigenes. Er hatte weder Rivalen noch Ebenbürtige noch ein Ziel.
 
-    Gewährt Immunität gegen die Zerstückelung deiner Gliedmaßen sowie Widerstand gegen Blutverlust und Schadensverlangsamung.
-    Darüber hinaus, wenn du unter 50 % deiner maximalen Gesundheit bist, erhältst du eine erhöhte Widerstandsfähigkeit gegen Wunden und Widerstand gegen Schlagstöcke.
+    Gewährt Immunität gegen das Abtrennen deiner Gliedmaßen sowie Widerstand gegen Blutverlust und Schadensverlangsamung.
+    Außerdem erhältst du, wenn du unter 50 % deiner maximalen Gesundheit fällst, erhöhten Widerstand gegen Wunden und gegen Schlagstöcke.
 
 knowledge-path-blade-s7-name = Gestärkte Klingen
 knowledge-path-blade-s7-desc =
-    Ich fand ihn in zwei Teile gespalten, Hälften in einem Duell ohne Ende eingesperrt; eine Flut von Klingen, die weder ihre Markierung trafen, denn der Champion war unbezwingbar.
+    Ich fand ihn entzweigespalten, die Hälften in einem endlosen Duell gefangen; ein Wirbel von Klingen, von denen keine ihr Ziel traf, denn der Champion war unbezwingbar.
 
-    Jemanden mit einer gesünderten Klinge in beiden Händen anzugreifen, wird jetzt einen Schlag mit beiden auf einmal liefern und zwei Angriffe in schneller Folge ausführen.
-    Der zweite Schlag wird etwas schwächer sein.
-    Du kannst Deinen Mansusgriff direkt in Deine Klingen einfließen lassen, und Deine Klingen sind effektiver gegen Strukturen.
+    Jemanden mit einer Gespaltenen Klinge in jeder Hand anzugreifen, führt nun einen Schlag mit beiden gleichzeitig aus und verursacht zwei Angriffe in rascher Folge.
+    Der zweite Schlag ist etwas schwächer.
+    Du kannst deinen Mansus-Griff direkt in deine Klingen einfließen lassen, und deine Klingen sind wirksamer gegen Strukturen.
 
-knowledge-path-blade-s8-name = Furnierstahl
+knowledge-path-blade-s8-name = Wütender Stahl
 knowledge-path-blade-s8-desc =
-    Ohne nachzudenken, nahm ich das Messer eines gefallenen Soldaten und warf mit aller Kraft. Mein Ziel war wahr! Der zerrissene Champion lächelte bei ihrem ersten Geschmack von Agonie, und mit einem Nicken wurden ihre Klingen meine eigenen.
+    Ohne nachzudenken nahm ich das Messer eines gefallenen Soldaten und warf es mit aller Kraft. Mein Ziel war wahr! Der Zerrissene Champion lächelte bei seinem ersten Geschmack von Qual, und mit einem Nicken wurden seine Klingen meine eigenen.
 
-    Gewährt dir Furious Steel, einen gezielten Zauberspruch. Mit ihm werden drei umkreisende Klingen um dich herum beschworen. Diese Klingen schützen dich vor allen Angriffen, werden aber im Gebrauch verbraucht.
-    Darüber hinaus kannst du auf die Klinge oder auf sich selbst klicken, um die Klingen an einem nächsten Ziel abzufeuern und schweren Schaden zu verursachen.
+    Gewährt dir Wütender Stahl, einen gezielten Zauber. Er beschwört drei Klingen, die dich umkreisen. Diese Klingen schützen dich vor allen Angriffen, werden aber beim Einsatz verbraucht.
+    Außerdem kannst du auf die Klingen oder auf dich selbst klicken, um die Klingen auf das nächste Ziel abzufeuern und schweren Schaden zu verursachen.
 
-knowledge-path-blade-s9-name = Maelstrom aus Silber
+knowledge-path-blade-s9-name = Mahlstrom aus Silber
 knowledge-path-blade-s9-desc =
     Das Aufstiegsritual des Pfades der Klingen.
-    Bringe 3 kopflose Leichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
-    Wenn du fertig bist, wirst du in einer konstanten, sich regenerierenden Umlaufbahn von Blättern umgeben sein.
-    Diese Klingen schützen dich vor allen Angriffen, werden aber im Gebrauch verbraucht.
-    Dein Furious Steel Zauber wird auch eine kürzere Abklingzeit haben.
-    Darüber hinaus wirst du ein Meister des Kampfes und erhältst die Fähigkeit, über rutschige Oberflächen zu rollen.
-    Deine Sundered Blades werden Bonusschaden verursachen und dich beim Angriff für einen Teil des verursachten Schadens heilen.
+    Bringe 3 kopflose Leichen zu einer Transmutationsrune, um das Ritual abzuschließen.
+    Nach Abschluss umgibt dich eine beständige, sich regenerierende Kreisbahn aus Klingen.
+    Diese Klingen schützen dich vor allen Angriffen, werden aber beim Einsatz verbraucht.
+    Dein Zauber Wütender Stahl hat außerdem eine kürzere Abklingzeit.
+    Zudem wirst du zum Meister des Kampfes und kannst mühelos über rutschige Oberflächen gleiten.
+    Deine Gespaltenen Klingen verursachen Bonusschaden und heilen dich beim Angriff um einen Teil des verursachten Schadens.

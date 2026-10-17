@@ -23,15 +23,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-ash-s1-name = Nightwatchers Secret
+knowledge-path-ash-s1-name = Geheimnis des Nachtwächters
 knowledge-path-ash-s1-desc =
-    Die Stadtwache kennt ihre Uhr. Wenn du sie nachts fragst, können sie dir von der ashy Laterne erzählen.
+    Die Stadtwache kennt ihre Runde. Wenn du sie nachts fragst, erzählen sie dir vielleicht von der aschigen Laterne.
 
-    Öffnet euch den Weg der Asche.
-    Ermöglicht dir, ein Streichholz und ein Messer in eine Ashen Blade zu verwandeln.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Öffnet dir den Weg der Asche.
+    Ermöglicht dir, ein Streichholz und ein Messer in eine Aschenklinge zu verwandeln.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
-knowledge-path-ash-s2-name = Aschegriff
+knowledge-path-ash-s2-name = Griff der Asche
 knowledge-path-ash-s2-desc =
     Der Nachtwächter war der Erste von ihnen, sein Verrat setzte alles in Gang. Seine Laterne ist zu Asche verglüht – seine Wache ist verwaist.
 
@@ -39,56 +39,56 @@ knowledge-path-ash-s2-desc =
 
 knowledge-path-ash-s3-name = Aschenverschiebung
 knowledge-path-ash-s3-desc =
-    Er wusste, wie man zwischen den Flugzeugen läuft.
+    Er wusste, wie man zwischen den Ebenen wandelt.
 
-    Gewährt dir Ashen Passage, ein Zauber, mit dem du aus der Realität aussteigen und eine sehr kurze Strecke zurücklegen kannst, indem du durch beliebige Wände gehst.
+    Gewährt dir Aschenverschiebung, einen Zauber, mit dem du aus der Realität heraustrittst und eine sehr kurze Strecke zurücklegst, indem du durch beliebige Wände gehst.
 
-knowledge-path-ash-s4-name = Aschemarkierung
+knowledge-path-ash-s4-name = Mal der Asche
 knowledge-path-ash-s4-desc =
-    Er war ein ganz besonderer Mann, der immer mitten in der Nacht zuschaute.
-    Aber trotz seiner Pflicht trancete er regelmäßig durch die Manse mit seiner lodernden Laterne hochgehalten.
-    Er leuchtete hell in der Dunkelheit, bis die Flamme zu sterben begann.
+    Er war ein sehr eigener Mann, der mitten in der Nacht stets wachte.
+    Doch trotz seiner Pflicht wandelte er regelmäßig wie in Trance mit seiner lodernden Laterne hoch erhoben durch das Anwesen.
+    Er strahlte hell in der Dunkelheit, bis die Flamme zu sterben begann.
 
-    Dein Mansus-Gras gilt nun das Zeichen der Asche. Die Markierung wird durch einen Angriff mit deiner Ashen Blade ausgelöst.
-    Wenn es ausgelöst wird, nimmt das Opfer zusätzliche Ausdauer und Verbrennungsschäden, und die Markierung wird an einen nahe gelegenen Heiden übertragen.
-    Der Schaden wird mit jedem Transfer verringert.
+    Dein Mansus-Griff trägt nun das Mal der Asche auf. Das Mal wird durch einen Angriff mit deiner Aschenklinge ausgelöst.
+    Wird es ausgelöst, erleidet das Opfer zusätzlichen Ausdauer- und Verbrennungsschaden, und das Mal springt auf einen nahen Ungläubigen über.
+    Der Schaden nimmt mit jedem Sprung ab.
 
 knowledge-path-ash-s5-name = Vulkanexplosion
 knowledge-path-ash-s5-desc =
     Kein Feuer war heiß genug, um sie wieder zu entfachen. Kein Feuer war hell genug, um sie zu retten. Kein Feuer ist ewig.
 
-    Gewährt dir Volcano Blast, einen Zauber, der - nach einer kurzen Ladung - einen Energiestrahl auf einen nahegelegenen Feind abfeuert,
-    sie in Brand setzen und verbrennen.
-    Wenn sie sich nicht selbst auslöschen, wird der Strahl zu einem anderen Ziel fortgesetzt.
+    Gewährt dir Vulkanexplosion, einen Zauber, der nach kurzer Aufladung einen Energiestrahl auf einen nahen Feind abfeuert,
+    ihn in Brand setzt und verbrennt.
+    Löscht er sich nicht selbst, springt der Strahl auf ein weiteres Ziel über.
 
 knowledge-path-ash-s6-name = Maske des Wahnsinns
 knowledge-path-ash-s6-desc =
-    Der Nightwatcher war verloren. Das ist es, was die Uhr glaubte. Doch er ging um die Welt, unbemerkt von den Massen.
+    Der Nachtwächter war verloren. So glaubte es die Wache. Doch er wandelte unbemerkt von den Massen durch die Welt.
 
-    Ermöglicht dir, jede Maske, eine Fackel, einen Aschepool, ein Feuerzeug, einen Betäubungsstab und eine Leber zu transmutieren, um eine Maske des Wahnsinns zu erzeugen.
-    Die Maske weckt Angst in Heiden, die sie bezeugen, was Ausdauerschäden, Halluzinationen und Wahnsinn verursacht.
-    Es kann auch auf einen Heiden gezwungen werden, um sie unfähig zu machen, es abzunehmen ...
-    Darüber hinaus bietet dir die Maske Schutz vor Bränden und hohen Temperaturen beim Tragen.
+    Ermöglicht dir, eine beliebige Maske, eine Leuchtfackel, eine Aschepfütze, ein Feuerzeug, einen Betäubungsstab und eine Leber zu transmutieren, um eine Maske des Wahnsinns zu erschaffen.
+    Die Maske flößt Ungläubigen, die sie erblicken, Angst ein und verursacht Ausdauerschaden, Halluzinationen und Wahnsinn.
+    Sie kann einem Ungläubigen auch aufgezwungen werden, sodass er sie nicht mehr abnehmen kann ...
+    Außerdem schützt sie dich beim Tragen vor Feuer und hohen Temperaturen.
 
 knowledge-path-ash-s7-name = Feurige Klinge
 knowledge-path-ash-s7-desc =
-    Er kehrte zurück, Klinge in der Hand, schwang und schwang, als die Asche vom Himmel fiel.
-    Seine Stadt, die Leute, denen er geschworen hat, sie zu beobachten ... und sie sahen zu, wie er es tat, wie sie alle zu Asche verbrannten.
+    Er kehrte zurück, die Klinge in der Hand, und schwang sie und schwang sie, während die Asche vom Himmel fiel.
+    Seine Stadt, die Menschen, die zu bewachen er geschworen hatte ... und er sah zu, wie sie alle zu Asche verbrannten.
 
-    Deine Klinge zündet jetzt Feinde in Flammen auf Angriff.
+    Deine Klinge setzt Feinde beim Angriff in Brand.
 
-knowledge-path-ash-s8-name = Nightwatchers Wiedergeburt
+knowledge-path-ash-s8-name = Wiedergeburt des Nachtwächters
 knowledge-path-ash-s8-desc =
-    Das Feuer war unausweichlich, und doch blieb das Leben in seinem verkohlten Körper. Der Nightwatcher war ein besonderer Mann, der immer zuschaute.
+    Dem Feuer war nicht zu entkommen, und doch blieb Leben in seinem verkohlten Körper. Der Nachtwächter war ein eigener Mann, der stets wachte.
 
-    Gewährt dir Nightwatcher's Rebirth, ein Zauber, der dich auslöscht und alle nahe gelegenen Heiden verbrennt, die gerade in Flammen stehen, und dich für jedes betroffene Opfer heilt.
-    Wenn Opfer in einem kritischen Zustand sind, werden sie auch sofort sterben.
+    Gewährt dir Wiedergeburt des Nachtwächters, einen Zauber, der dich löscht und alle nahen brennenden Ungläubigen verbrennt und dich für jedes betroffene Opfer heilt.
+    Befindet sich ein betroffenes Opfer in kritischem Zustand, stirbt es sofort.
 
 knowledge-path-ash-s9-name = Ashlord's Ritus
 knowledge-path-ash-s9-desc =
     Das Aufstiegsritual des Pfades der Asche.
-    Bringe 3 brennende oder geschälte Leichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
-    Wenn du fertig bist, wirst du ein Vorbote von Flammen und erhältst zwei Fähigkeiten.
-    Kaskade, die einen massiven, wachsenden Ring aus Feuer um dich herum verursacht,
-    und Eid der Flamme, wodurch du passiv einen Ring von Flammen erschaffst, während du gehst.
-    Du wirst auch immun gegen Flammen, Weltraum und ähnliche Umweltgefahren.
+    Bringe 3 brennende oder ausgedörrte Leichen zu einer Transmutationsrune, um das Ritual abzuschließen.
+    Nach Abschluss wirst du zum Vorboten der Flammen und erhältst zwei Fähigkeiten.
+    Kaskade, die einen gewaltigen, wachsenden Feuerring um dich erzeugt,
+    und Eid der Flamme, durch den du beim Gehen passiv einen Flammenring erschaffst.
+    Außerdem wirst du immun gegen Flammen, den Weltraum und ähnliche Umweltgefahren.

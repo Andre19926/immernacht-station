@@ -24,12 +24,12 @@
 
 knowledge-path-void-s1-name = Glimmer des Winters
 knowledge-path-void-s1-desc =
-    Ich fühle einen Schimmer in der Luft, die Luft um mich herum wird kälter.
-    Ich beginne, die Leere der Existenz zu erkennen. Irgendetwas beobachtet mich.
+    Ich spüre ein Flimmern in der Luft, die Luft um mich wird kälter.
+    Ich beginne, die Leere der Existenz zu erkennen. Etwas beobachtet mich.
 
-    Öffnet euch den Weg der Leere.
-    Ermöglicht dir, ein Messer bei Temperaturen unter Null in eine leere Klinge umzuwandeln.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Öffnet dir den Weg der Leere.
+    Ermöglicht dir, bei Temperaturen unter dem Gefrierpunkt ein Messer in eine Klinge der Leere zu verwandeln.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
 knowledge-path-void-s2-name = Griff der Leere
 knowledge-path-void-s2-desc =
@@ -40,12 +40,12 @@ knowledge-path-void-s2-desc =
     Du wirst immun gegen Kälte.
 
 
-knowledge-path-void-s3-name = Voidphase
+knowledge-path-void-s3-name = Leerenphase
 knowledge-path-void-s3-desc =
-    Die Entität nennt sich selbst der Aristokrat. Mühelos schreitet sie durch die Luft und hinterlässt eine harte, kalte Brise.
-    Sie verschwindet, und ich bleibe im Schneesturm zurück.
+    Das Wesen nennt sich der Aristokrat. Mühelos schreitet es durch die Luft und hinterlässt eine harte, kalte Brise.
+    Es verschwindet, und ich bleibe im Schneesturm zurück.
 
-    Gewährt dir Void Phase, einen gezielten Teleportzauber mit großer Reichweite.
+    Gewährt dir Leerenphase, einen gezielten Teleportzauber mit großer Reichweite.
     Fügt außerdem Ungläubigen um deinen Ausgangs- und Zielort Schaden zu.
 
 # knowledge-path-void-s3-name = Aristocrat's Way
@@ -56,13 +56,13 @@ knowledge-path-void-s3-desc =
 #    Grants you immunity to cold temperatures, and removes your need to breathe.
 #    You can still take damage due to a lack of pressure.
 
-knowledge-path-void-s4-name = Zeichen der Leere
+knowledge-path-void-s4-name = Mal der Leere
 knowledge-path-void-s4-desc =
-    Ein Windstoß? Ein Schimmer in der Luft? Die Anwesenheit ist überwältigend, meine Sinne begannen mich zu verraten. Mein Verstand ist mein eigener Feind.
+    Ein Windstoß? Ein Flimmern in der Luft? Die Anwesenheit ist überwältigend, meine Sinne begannen mich zu verraten. Mein Verstand ist mein eigener Feind.
 
-    Dein Mansus-Graphen wendet nun das Zeichen der Leere an. Die Markierung wird durch einen Angriff mit deinem Void Blade ausgelöst.
-    Wenn es ausgelöst wird, gibt es dem Opfer den Fluch der Leere, der stumm wird und sie langsam zu Tode einfriert.
-    Du musst nicht mehr atmen /
+    Dein Mansus-Griff trägt nun das Mal der Leere auf. Das Mal wird durch einen Angriff mit deiner Klinge der Leere ausgelöst.
+    Wird es ausgelöst, belegt es das Opfer mit dem Fluch der Leere, der es verstummen lässt und langsam zu Tode friert.
+    Du musst nicht mehr atmen.
 
 # knowledge-path-void-s5-name = Void Blast
 # knowledge-path-void-s5-desc =
@@ -72,42 +72,42 @@ knowledge-path-void-s4-desc =
 #    Grants you Void Blast, a spell that shoots out a freezing blast in a cone in front of you,
 #    freezing the ground and cursing any victims within.
 
-knowledge-path-void-s5-name = Leeres Gefängnis
+knowledge-path-void-s5-name = Gefängnis der Leere
 knowledge-path-void-s5-desc =
-    Zuerst sehe ich mich selbst, wie ich entlang einer schneebeladenen Straße rolle.
-    Ich versuche zu schreien, ergreife diesen Narren und sage ihnen, dass sie rennen sollen.
-    Aber die einzigen Striemen, die gemacht werden, sind auf meiner eigenen Faust.
-    Mein lächelndes Gesicht wendet sich mir zu und reflektiert in glasigen Augen den leeren Weg, den ich hinuntergeführt wurde.
+    Zuerst sehe ich mich selbst, wie ich eine schneebedeckte Straße entlangwalze.
+    Ich versuche zu schreien, packe diesen Narren und sage ihm, er solle rennen.
+    Aber die einzigen Striemen entstehen auf meiner eigenen schlagenden Faust.
+    Mein lächelndes Gesicht wendet sich mir zu und spiegelt in glasigen Augen den leeren Pfad wider, auf den ich geführt wurde.
 
-    Gewährt dir Void Prison, einen Zauber, der dein Opfer in eine Kugel sperrt und es unfähig macht, etwas zu tun oder zu sprechen. Wendet danach Void Chill an.
+    Gewährt dir Gefängnis der Leere, einen Zauber, der dein Opfer in eine Kugel sperrt und es unfähig macht, irgendetwas zu tun oder zu sprechen. Wendet danach Leerenkälte an.
 
 knowledge-path-void-s6-name = Leerensog
 knowledge-path-void-s6-desc =
-    Alles ist flüchtig, aber was bleibt sonst? Ich bin nah dran, zu beenden, was begonnen wurde.
+    Alles ist flüchtig, aber was bleibt sonst? Ich bin nah daran, zu beenden, was begonnen wurde.
     Der Aristokrat offenbart sich mir erneut. Er sagt mir, ich sei zu spät. Sein Sog ist gewaltig, ich kann nicht umkehren.
 
-    Gewährt dir Void Pull, einen Zauber, der alle Ungläubigen in der Nähe zu dir zieht und sie kurz betäubt.
+    Gewährt dir Leerensog, einen Zauber, der alle nahen Ungläubigen zu dir zieht und kurz betäubt.
 
 knowledge-path-void-s7-name = Suchende Klinge
 knowledge-path-void-s7-desc =
     Flüchtige Erinnerungen, flüchtige Füße. Ich markiere meinen Weg mit gefrorenem Blut auf dem Schnee. Bedeckt und vergessen.
 
-    Deine Klinge friert jetzt Feinde ein. Zusätzlich kannst du nun entfernte Ziele mit deiner Leerklinge angreifen und dich direkt neben ihnen teleportieren.
+    Deine Klinge lässt Feinde gefrieren. Außerdem kannst du nun entfernte Ziele mit deiner Klinge der Leere angreifen und dich direkt neben sie teleportieren.
 
-knowledge-path-void-s8-name = Leere Leitung
+knowledge-path-void-s8-name = Leerenleitung
 knowledge-path-void-s8-desc =
-    Das Summen in der stillen, kalten Luft verwandelt sich in ein kakophones Rasseln.
-    Über den Lärm gibt es keinen Unterschied zum Klappern von Fensterscheiben und dem gähnenden Wissen, das durch meinen Schädel prallt.
-    Die Türen werden sich nicht schließen. Ich kann die Kälte jetzt nicht aufhalten.
+    Das Summen in der stillen, kalten Luft wird zu einem kakophonen Rasseln.
+    Über dem Lärm gibt es keinen Unterschied zum Klappern der Fensterscheiben und dem gähnenden Wissen, das durch meinen Schädel prallt.
+    Die Türen schließen sich nicht. Ich kann die Kälte jetzt nicht mehr draußen halten.
 
-    Gewährt dir Void Conduit, ein Zauber, der ein pulsierendes Tor zur Void selbst beschwört. Jeder Puls bricht Fenster und Luftschleusen, während Heathens mit einer eldritch Kälte und Abschirmung Ketzer gegen niedrigen Druck befallen.
+    Gewährt dir Leerenleitung, einen Zauber, der ein pulsierendes Tor zur Leere selbst beschwört. Jeder Puls zerbricht Fenster und Luftschleusen, während er Ungläubige mit unheimlicher Kälte befällt und Ketzer vor Niederdruck schützt.
 
-knowledge-path-void-s9-name = Waltz am Ende der Zeit
+knowledge-path-void-s9-name = Walzer am Ende der Zeit
 knowledge-path-void-s9-desc =
     Das Aufstiegsritual des Pfades der Leere.
     Bringe 3 Leichen bei Temperaturen unter dem Gefrierpunkt zu einer Transmutationsrune, um das Ritual abzuschließen.
     Nach Abschluss erhältst du den Segen des Aristokraten.
-    Ein Schneesturm wird heraufbeschworen, alles um dich herum wird zu Schnee und die Luft gefriert ununterbrochen. Wer in der Nähe ist, wird noch schneller zum Schweigen gebracht und eingefroren.
+    Ein Schneesturm wird heraufbeschworen, alles um dich herum wird zu Schnee und die Luft gefriert unablässig. Wer in der Nähe ist, wird noch schneller zum Schweigen gebracht und eingefroren.
     Lichter zerspringen in deiner Nähe.
     Laser gehen durch dich hindurch, und Kugeln werden in deiner Gegenwart verlangsamt und verfehlen dich; der Effekt ist größer, wenn du gehst oder liegst.
     Wasser, Eis und rutschige Oberflächen lassen dich nicht mehr ausrutschen.

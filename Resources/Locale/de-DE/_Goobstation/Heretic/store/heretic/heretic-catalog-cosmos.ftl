@@ -1,77 +1,77 @@
 knowledge-path-cosmos-s1-name = Ewiges Tor
 knowledge-path-cosmos-s1-desc =
-    Ein Nebel erschien am Himmel, seine höllische Geburt leuchtete auf mich. Dies war der Beginn einer großen Transzendenz.
+    Ein Nebel erschien am Himmel, seine höllische Geburt leuchtete auf mich herab. Dies war der Beginn einer großen Transzendenz.
 
-    Öffnet euch den Weg des Kosmos.
-    Ermöglicht dir, eine Glasscheibe und ein Messer in eine kosmische Klinge umzuwandeln.
-    Du kannst nur zwei gleichzeitig erstellen.
+    Öffnet dir den Weg des Kosmos.
+    Ermöglicht dir, eine Glasscheibe und ein Messer in eine Kosmische Klinge zu verwandeln.
+    Du kannst nur zwei gleichzeitig erschaffen.
 
-knowledge-path-cosmos-s2-name = Der Greif des Kosmos
+knowledge-path-cosmos-s2-name = Griff des Kosmos
 knowledge-path-cosmos-s2-desc =
-    Einige Sterne verdunkelten sich, andere vergrößerten sich. Mit neu gewonnener Kraft konnte ich die Kraft des Nebels in mich selbst kanalisieren.
+    Manche Sterne verdunkelten sich, bei anderen wuchs die Helligkeit. Mit neu gewonnener Kraft konnte ich die Macht des Nebels in mich selbst lenken.
 
-    Dein Mansus-Gap wird den Menschen eine Sternmarke (kosmischer Ring) geben und ein kosmisches Feld schaffen, in dem du stehst.
-    Menschen mit einem Sternzeichen können kosmische Felder nicht passieren.
+    Dein Mansus-Griff versieht Menschen mit einem Sternenmal (kosmischer Ring) und erschafft ein kosmisches Feld an deinem Standort.
+    Menschen mit einem Sternenmal können kosmische Felder nicht passieren.
 
 knowledge-path-cosmos-s3-name = Kosmische Runen
 knowledge-path-cosmos-s3-desc =
-    Die fernen Sterne schlichen sich in meine Träume, brüllten und schrien ohne Grund. Ich sprach und hörte meine eigenen Worte wiederhallen.
+    Die fernen Sterne schlichen sich in meine Träume, brüllten und schrien ohne Grund. Ich sprach und hörte meine eigenen Worte widerhallen.
 
-    Gewährt dir kosmische Runen, einen Zauber, der zwei Runen erzeugt, die für eine einfache Teleportation miteinander verbunden sind.
-    Nur die Entität, die die Rune aktiviert, wird transportiert und kann von jedem ohne Sternmarke verwendet werden.
-    Menschen mit einem Sternzeichen werden jedoch zusammen mit einer anderen Person transportiert, die die Rune benutzt.
-    Heiden, die versuchen, sich mit den Runen zu teleportieren, werden bei der Ankunft mit einem Stern markiert.
+    Gewährt dir Kosmische Runen, einen Zauber, der zwei miteinander verbundene Runen für einfache Teleportation erschafft.
+    Nur das Wesen, das die Rune aktiviert, wird transportiert, und sie kann von jedem ohne Sternenmal benutzt werden.
+    Menschen mit einem Sternenmal werden jedoch zusammen mit einer anderen Person transportiert, die die Rune benutzt.
+    Ungläubige, die versuchen, sich mit den Runen zu teleportieren, erhalten bei der Ankunft ein Sternenmal.
 
-knowledge-path-cosmos-s4-name = Zeichen des Kosmos
+knowledge-path-cosmos-s4-name = Mal des Kosmos
 knowledge-path-cosmos-s4-desc =
-    Das Biest flüsterte mir jetzt gelegentlich nur kleine Leckerbissen ihrer Umstände zu. Ich kann ihnen helfen, ich muss ihnen helfen.
+    Das Biest flüsterte mir nun gelegentlich zu, nur kleine Häppchen ihrer Lage. Ich kann ihnen helfen, ich muss ihnen helfen.
 
-    Euer Mansus-Griff wendet nun das Zeichen des Kosmos an. Die Markierung wird durch einen Angriff mit deinem Cosmic Blade ausgelöst.
-    Wenn es ausgelöst wird, wird das Opfer an den Ort zurückgebracht, an dem die Markierung ursprünglich auf sie aufgebracht wurde, wodurch ein kosmisches Feld an ihrer Stelle verbleibt.
-    Du wirst dann für 2 Sekunden gelähmt.
-    Kosmische Felder beschleunigen euch jetzt und regenerieren Ausdauer.
+    Dein Mansus-Griff trägt nun das Mal des Kosmos auf. Das Mal wird durch einen Angriff mit deiner Kosmischen Klinge ausgelöst.
+    Wird es ausgelöst, kehrt das Opfer an den Ort zurück, an dem ihm das Mal ursprünglich aufgetragen wurde, und hinterlässt an seiner Stelle ein kosmisches Feld.
+    Es ist dann für 2 Sekunden gelähmt.
+    Kosmische Felder beschleunigen dich nun und regenerieren Ausdauer.
 
 knowledge-path-cosmos-s5-name = Sternenberührung
 knowledge-path-cosmos-s5-desc =
-    Nachdem ich in einem kalten Schweiß aufgewacht war, fühlte ich eine Handfläche auf meiner Kopfhaut, eine Sigil brannte auf mich. Meine Adern strahlten jetzt ein seltsames lila Glühen aus, das Biest weiß, dass ich seine Erwartungen übertreffen werde.
+    Kalt schweißgebadet erwacht, spürte ich eine Handfläche auf meiner Kopfhaut, ein Sigill brannte sich in mich. Meine Adern strahlten nun ein seltsames violettes Leuchten aus, das Biest weiß, dass ich seine Erwartungen übertreffen werde.
 
-    Gewährt dir Star Touch, einen Zauber, der ein Sternzeichen auf dein Ziel legt und ein kosmisches Feld zu deinen Füßen und zu den Rasen neben dir erzeugt.
-    Ziele, die bereits eine Sternmarke haben, werden mit einem kosmischen Strahl mit dir verbunden, geben ihnen eine kosmische Spur und ermöglichen es dir, sie aus nächster Nähe mit deiner kosmischen Klinge zu treffen.
-    Angebundene opfer können sich auf keinen fall teleportieren.
-    Wenn das Kabel für 8 Sekunden ungebrochen bleibt, werden sie in den Schlaf versetzt, mit Stern markiert und zu dir teleportiert.
+    Gewährt dir Sternenberührung, einen Zauber, der ein Sternenmal auf dein Ziel setzt und ein kosmisches Feld zu deinen Füßen und auf den Feldern neben dir erschafft.
+    Ziele, die bereits ein Sternenmal tragen, werden durch einen kosmischen Strahl mit dir verbunden, erhalten eine kosmische Spur und können von dir aus der Ferne mit deiner Kosmischen Klinge getroffen werden.
+    Angebundene Opfer können sich auf keine Weise teleportieren.
+    Bleibt die Verbindung 8 Sekunden lang ununterbrochen bestehen, werden sie eingeschläfert, erhalten ein Sternenmal und werden zu dir teleportiert.
 
 knowledge-path-cosmos-s6-name = Sternenschlag
 knowledge-path-cosmos-s6-desc =
-    Das Biest war jetzt zu allen Zeiten hinter mir, wobei jedes Opferwort der Bestätigung durch mich geleitet wurde.
+    Das Biest war nun jederzeit hinter mir, und mit jedem Opfer durchströmten mich Worte der Bestätigung.
 
-    Feuert ein Projektil ab, das sich sehr langsam bewegt und eine kurzlebige Wand aus kosmischen Feldern anhebt, wohin es geht.
-    Wenn du neu gestaltet wirst, wirst du zum Projektil teleportiert, und kosmische Felder werden von deiner aktuellen Position und von Teleport-Standorten erzeugt und Heiden in der Nähe hineingezogen.
+    Feuert ein sich sehr langsam bewegendes Projektil ab, das auf seinem Weg eine kurzlebige Wand aus kosmischen Feldern errichtet.
+    Wird der Zauber erneut gewirkt, wirst du zum Projektil teleportiert, und von deiner aktuellen Position sowie von Teleportstellen gehen kosmische Felder aus, die nahe Ungläubige hineinziehen.
 
 knowledge-path-cosmos-s7-name = Kosmische Klinge
 knowledge-path-cosmos-s7-desc =
-    Das Biest nahm meine Klingen in der Hand, ich kniete und fühlte einen scharfen Schmerz. Die Klingen glitzerten nun mit fragmentierter Kraft. Ich fiel zu Boden und weinte zu den Füßen des Tieres.
+    Das Biest nahm meine Klingen in seine Hand, ich kniete nieder und spürte einen scharfen Schmerz. Die Klingen glitzerten nun von zersplitterter Macht. Ich fiel zu Boden und weinte zu Füßen des Biests.
 
-    Deine Klinge markiert jetzt deine Opfer und ermöglicht es dir, sternmarkierte Heiden von weiter weg anzugreifen.
-    Deine Angriffe werden Bonusschaden an bis zu zwei frühere Opfer ketten.
-    Die Combo wird nach zwei Sekunden zurückgesetzt, ohne einen Angriff auszuführen, oder wenn du jemanden angreifst, der bereits markiert ist.
-    Wenn du mehr als zwei Angriffe kombinierst, erhältst du eine kosmische Spur und erhöhen deinen Combo-Timer auf bis zu zehn Sekunden.
-    Kosmische Felder blockieren jetzt Explosionen, stören die Aktivierung von Granaten oder Signalern und schalten bereits grundierte Granaten ab.
+    Deine Klinge versieht deine Opfer nun mit einem Sternenmal und erlaubt dir, sternenmarkierte Ungläubige aus größerer Entfernung anzugreifen.
+    Deine Angriffe übertragen Bonusschaden auf bis zu zwei frühere Opfer.
+    Die Kombo wird zurückgesetzt, wenn du zwei Sekunden lang keinen Angriff ausführst oder jemanden angreifst, der bereits markiert ist.
+    Wenn du mehr als zwei Angriffe kombinierst, erhältst du eine kosmische Spur und verlängerst deinen Kombo-Timer auf bis zu zehn Sekunden.
+    Kosmische Felder blockieren nun Explosionen, verhindern die Aktivierung von Granaten oder Signalgebern und schalten bereits scharfe Granaten ab.
 
 knowledge-path-cosmos-s8-name = Kosmische Expansion
 knowledge-path-cosmos-s8-desc =
-    Der Boden bebte nun unter mir. Das Biest bewohnte mich, und ihre Stimme war berauschend.
+    Der Boden bebte nun unter mir. Das Biest wohnte in mir, und seine Stimme war berauschend.
 
-    Gewährt dir kosmische Expansion, einen Zauber, der einen 5x5-Bereich kosmischer Felder um dich herum erzeugt.
-    In der Nähe werden auch Wesen eine Sternmarke erhalten.
+    Gewährt dir Kosmische Expansion, einen Zauber, der einen 5x5-Bereich aus kosmischen Feldern um dich herum erschafft.
+    Wesen in der Nähe erhalten ebenfalls ein Sternenmal.
 
 knowledge-path-cosmos-s9-name = Das Geschenk der Schöpfer
 knowledge-path-cosmos-s9-desc =
     Das Aufstiegsritual des Pfades des Kosmos.
-    Bringe 3 Leichen mit einem Sternzeichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
-    Wenn du fertig bist, wirst du der Besitzer eines Star Gazer.
-    Der Star Gazer ist ein starker Verbündeter, der sogar verstärkte Mauern einreißen kann.
-    Der Star Gazer hat eine Aura, die dich heilen wird.
-    Star Touch kann dich jetzt zum Star Gazer teleportieren, wenn du in deiner Hand aktiviert wirst.
-    Euer kosmischer Expansionszauber und eure Klingen werden ebenfalls stark ermächtigt.
-    Du erhältst Röntgenblick sowie Immunität gegen extremen Druck und Temperatur.
-    Kosmische Felder verlangsamen jetzt die Projektile.
+    Bringe 3 Leichen mit einem Sternenmal zu einer Transmutationsrune, um das Ritual abzuschließen.
+    Nach Abschluss wirst du zum Besitzer eines Star Gazers.
+    Der Star Gazer ist ein starker Verbündeter, der sogar verstärkte Wände einreißen kann.
+    Der Star Gazer hat eine Aura, die dich heilt.
+    Sternenberührung kann dich nun zum Star Gazer teleportieren, wenn sie in deiner Hand aktiviert wird.
+    Dein Zauber Kosmische Expansion und deine Klingen werden ebenfalls erheblich gestärkt.
+    Du erhältst Röntgenblick sowie Immunität gegen extremen Druck und extreme Temperaturen.
+    Kosmische Felder verlangsamen nun Projektile.
