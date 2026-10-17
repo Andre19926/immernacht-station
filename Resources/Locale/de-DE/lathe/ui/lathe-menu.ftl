@@ -50,5 +50,5 @@ lathe-menu-move-down-tooltip = Diesen Auftrag in der Warteschlange nach hinten s
 lathe-menu-item-single = {$index}. {$name}
 lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})
 # Goobstation?
-lathe-menu-queue-reset-title = Warteschlange zurücksetzen
+lathe-menu-queue-reset-title = Warteschlange leeren
 lathe-menu-queue-reset-material-overflow = Du merkst, dass der Autolathe voll ist.

@@ -13,7 +13,7 @@ make-ghost-roles-window-make-button = Erstellen
 
 # Raffle
 make-ghost-roles-window-raffle-not-button = Nicht auslosen
-make-ghost-roles-window-raffle-custom-settings-button = Benutzerdefinierte Einstellungen
+make-ghost-roles-window-raffle-custom-settings-button = Eigene Einstellungen
 
 make-ghost-roles-window-raffle-role-label = Rolle auslosen?
 make-ghost-roles-window-raffle-settings-label = {$id} (Anfang {$initialDuration}s, max. {$maxDuration}s, Beitritt verlängert um {$joinExtendsDurationBy}s)

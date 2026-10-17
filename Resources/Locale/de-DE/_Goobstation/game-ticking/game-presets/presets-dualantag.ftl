@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traitorling-title = Verräterling oder "Verräter & Wechselbälger"
+traitorling-title = Verräterling
 traitorling-description = Achtung. Bekannte feindliche Signale und seltsame Lebenszeichen entdeckt. Syndicate-Agenten und Wechselbälger an Bord bestätigt.
 
 revtraitor-title = Revolutionäre Verräter

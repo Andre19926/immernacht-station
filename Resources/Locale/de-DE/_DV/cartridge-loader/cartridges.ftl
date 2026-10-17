@@ -167,7 +167,7 @@ nano-chat-look-up = Zahlen nachschlagen
 nano-chat-list-number = Nummer der Liste
 
 # Create chat popup
-nano-chat-new-title = Hinzufügen eines neuen Chats
+nano-chat-new-title = Neuer Chat
 nano-chat-number-label = Nummer
 nano-chat-name-label = Name
 nano-chat-job-label = Berufsbezeichnung
