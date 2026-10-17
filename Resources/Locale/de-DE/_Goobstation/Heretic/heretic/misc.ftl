@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-heretic-influence-start = Einflussnahme entziehen...
+heretic-influence-start = Einfluss wird entzogen...
 
 heretic-ritualrune-examine = Aktuell ausgewähltes Ritual: [color=yellow]{$rit}[/color]
 
@@ -20,13 +20,13 @@ heretic-protective-blade-component-no-targets = Keine Ziele!
 
 rust-corruption-silicon-damage = Du wirst vom Rost verdorben!
 
-disgust-effect-warning = Du fühlst dich irgendwie als obfy...
+disgust-effect-warning = Dir ist irgendwie ekelig zumute...
 
-cosmic-field-component-bomb-defused-message = {$bomb} Plötzlich abgeschaltet!
+cosmic-field-component-bomb-defused-message = {$bomb} wurde plötzlich entschärft!
 
-chat-speech-verb-name-hiss = Zischen
+chat-speech-verb-name-hiss = zischt
 
-void-ascend-begin = Ein Schneesturm erscheint plötzlich von außerhalb der Fenster. Ein überwältigendes Gefühl von Angst zeichnet sich ab...
+void-ascend-begin = Ein Schneesturm erscheint plötzlich von außerhalb der Fenster. Ein überwältigendes Gefühl der Angst macht sich breit...
 void-ascend-end = Der Schneesturm beginnt zu verblassen ...
 void-ascend-restart = Der Schneesturm taucht plötzlich wieder auf...
 
