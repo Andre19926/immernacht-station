@@ -1,29 +1,29 @@
 ent-ClothingOuterArmorBasic = Panzerwesten
-    .desc = Eine Standard-Typ-I-Panzerweste, die einen angemessenen Schutz gegen die meisten Arten von Schäden bietet.
+    .desc = Eine Standard-Panzerweste vom Typ I, die angemessenen Schutz gegen die meisten Schadensarten bietet.
 
 ent-ClothingOuterArmorBasicSlim = Panzerwesten
-    .desc = Eine schlanke Typ I gepanzerte Weste, die einen angemessenen Schutz gegen die meisten Arten von Schäden bietet.
+    .desc = Eine schlanke gepanzerte Weste vom Typ I, die angemessenen Schutz gegen die meisten Schadensarten bietet.
 
 ent-ClothingOuterArmorBulletproof = Kugelsichere Weste
-    .desc = Eine schwere kugelsichere Weste vom Typ III, die den Träger in geringerem Maße vor traditionellen Projektilwaffen und Sprengstoffen schützt.
+    .desc = Eine schwere kugelsichere Weste vom Typ III, die den Träger in geringerem Maße vor herkömmlichen Projektilwaffen und Sprengstoffen schützt.
 
 ent-ClothingOuterArmorReflective = reflektierende Weste
     .desc = Eine gepanzerte Weste mit fortschrittlicher Abschirmung zum Schutz vor Energiewaffen.
 
 ent-ClothingOuterArmorCaptainCarapace = Kapitänspanzer
-    .desc = Ein gepanzertes Brustteil, das Schutz bietet und dabei maximale Beweglichkeit und Flexibilität erhält. Wird nur an die Besten der Station ausgegeben.
+    .desc = Ein gepanzerter Brustpanzer, der Schutz bei maximaler Beweglichkeit bietet. Wird nur an die Besten der Station ausgegeben.
 
 ent-ClothingOuterArmorCentcommCarapace = centcomm carapace
-    .desc = Ein gepanzertes Brustteil, das Schutz bietet und dabei maximale Beweglichkeit und Flexibilität erhält. Wird nur an CentComm-Beamte und -Agenten ausgegeben.
+    .desc = Ein gepanzerter Brustpanzer, der Schutz bei maximaler Beweglichkeit bietet. Wird nur an CentComm-Beamte und -Agenten ausgegeben.
 
 ent-ClothingOuterArmorRaid = Syndicate Raid Anzug
-    .desc = Ein etwas flexibler und gut gepanzerter Anzug mit einer leistungsstarken schultermontierten Taschenlampe, die in der ikonischen blutroten Farbgebung des Gorlex Marauder hergestellt wurde, schützt seinen Träger nicht vor dem Weltraum.
+    .desc = Ein etwas flexibler, gut gepanzerter Anzug mit leistungsstarker schultermontierter Taschenlampe in der ikonischen blutroten Farbgebung der Gorlex Marauders. Er schützt seinen Träger nicht vor dem Weltraum.
 
 ent-ClothingOuterArmorRiot = Krawallanzug
-    .desc = Ein Anzug aus halbflexibler Polycarbonat-Körperpanzerung mit schwerer Polsterung zum Schutz vor Nahkampfangriffen. Perfekt für den Kampf gegen Delinquenten rund um die Station.
+    .desc = Ein Anzug aus halbflexiblem Polycarbonat-Körperpanzer mit schwerer Polsterung gegen Nahkampfangriffe. Perfekt für den Kampf gegen Delinquenten auf der Station.
 
 ent-ClothingOuterArmorCult = Akolytpanzer
-    .desc = Ein böse aussehendes Stück Kultrüstung, aus Knochen.
+    .desc = Ein böse aussehendes Stück Kultrüstung aus Knochen.
 
 ent-ClothingOuterArmorHeavy = schwerer Rüstungsanzug
     .desc = Ein schwer gepanzerter Anzug, der vor übermäßigem Schaden schützt.
@@ -41,13 +41,13 @@ ent-ClothingOuterArmorMagusred = Red Magus Rüstung
     .desc = Ein rot gepanzerter Anzug, der guten Schutz bietet. Zählt nicht als Zaubererrobe.
 
 ent-ClothingOuterArmorChangeling = Chitinpanzerung
-    .desc = Aufbläht den Körper des Wechsellings in eine alles verzehrende chitinöse Rüstungsmasse.
+    .desc = Bläht den Körper des Wechselbalgs zu einer alles verschlingenden Masse aus chitinöser Rüstung auf.
 
 ent-ClothingOuterArmorBone = Knochenpanzerung
-    .desc = Sitzt auf dir wie eine zweite Haut.
+    .desc = Sitzt wie eine zweite Haut.
 
 ent-ClothingOuterArmorPodWars = Ironclad II-Rüstung
     .desc = Ein umfunktionierter Anzug der Ironclad-II-Rüstung, ein Relikt der Pod-Kriege.
 
 ent-CardArmour = Panzerung aus Pappe
-    .desc = Ein mittelalterliches Bruststück aus Karton.
+    .desc = Ein mittelalterlicher Brustpanzer aus Karton.

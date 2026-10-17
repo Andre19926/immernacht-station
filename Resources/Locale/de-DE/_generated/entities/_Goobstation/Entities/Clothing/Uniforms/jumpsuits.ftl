@@ -83,7 +83,7 @@ ent-ClothingUniformJumpsuitPassengerQuarterzip = graue Quartiers
     .desc = Eine Quarterzip für den anspruchsvollen Assistenten.
 
 ent-ClothingUniformJumpsuitAncientUnremoveable = Alter-Uniform (Unremoveable)
-    .desc = Ein schrecklich zerlumptes und ausgefranstes grauer Uniform. Es sieht so aus, als wäre es seit über einem Jahrzehnt nicht gewaschen worden.
+    .desc = Eine schrecklich zerlumpte und ausgefranste graue Uniform. Sie sieht aus, als wäre sie seit über einem Jahrzehnt nicht gewaschen worden.
 
 ent-ClothingUniformJumpsuitOuterCommand = äußerer Befehl-Uniform
     .desc = Ein schicker violetter Anzug mit einem Terra-Gov-Insignia.

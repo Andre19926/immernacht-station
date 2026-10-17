@@ -41,7 +41,7 @@ ent-ClothingHandsKnuckleDustersSyndicate = Syndicate-Knöchelstäube
     .desc = Plastitanium Knöchelstauber mit dem Syndicate-Logo. Ein echter mann schlägt jemanden mit diesen zu tode.
 
 ent-ClothingHandsKnuckleDustersQM = Quartiermeister-Knuckleduster
-    .desc = Geschmiedet von den feinsten Handwerkern auf Wunsch des Quartermasters, ist dieser harte und dichte Knöchelstauber so konzipiert, dass er knochenzerkleinernde Schläge liefert und die inneren Organe des unglücklichen Opfers beschädigt.
+    .desc = Geschmiedet von den feinsten Handwerkern auf Wunsch des Quartiermeisters, ist dieser harte und dichte Knöchelstauber so konzipiert, dass er knochenzerkleinernde Schläge liefert und die inneren Organe des unglücklichen Opfers beschädigt.
 
 ent-ClothingHandsKnuckleBoneCrushers = Knochenbrecher
     .desc = Gesegnet von den Göttern, um alle zu brechen, die nicht gehorchen.

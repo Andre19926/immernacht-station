@@ -11,7 +11,7 @@ ent-ComputerShuttle = Shuttlekonsole
     .desc = Wird verwendet, um einen Shuttle zu steuern.
 
 ent-ComputerShuttleSyndie = Syndicate-Shuttle-Konsole
-    .desc = Wird verwendet, um ein Syndicate-Shuttle zu steuern.
+    .desc = Wird verwendet, um ein Syndicate-Agentenhuttle zu steuern.
 
 ent-ComputerShuttleCargo = Frachtshuttle-Konsole
     .desc = Wird verwendet, um das Frachtshuttle zu steuern.

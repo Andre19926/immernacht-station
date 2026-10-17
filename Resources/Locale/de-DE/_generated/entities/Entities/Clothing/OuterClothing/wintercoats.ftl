@@ -23,7 +23,7 @@ ent-ClothingOuterWinterCentcom = CentComm Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterChef = Gefriermantel des Kochs
-    .desc = Ein Mantel, der speziell für Arbeiten in Kühlhäusern entwickelt wurde und von kaltblütigen Echsenköchen dringend benötigt wird.
+    .desc = Ein Mantel, speziell für die Arbeit in Kühlhäusern entwickelt und von kaltblütigen Echsenköchen dringend benötigt.
 
 ent-ClothingOuterWinterChem = Chemie Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
@@ -44,10 +44,10 @@ ent-ClothingOuterWinterHoP = Personalchef-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterHoS = Der gepanzerte Wintermantel des Sicherheitschefs
-    .desc = Ein robuster, utilitaristischer Wintermantel, der einen Sicherheitschef vor Brig-gebundenen Bedrohungen und hypothermischen Ereignissen schützen soll.
+    .desc = Ein robuster, zweckmäßiger Wintermantel, der den Sicherheitschef vor Gefahren im Brig und Unterkühlung schützen soll.
 
 ent-ClothingOuterWinterHoSUnarmored = Wintermantel des Sicherheitschefs
-    .desc = Ein robuster Mantel, ein warmer Mantel, aber kein gepanzerter Mantel.
+    .desc = Ein robuster, warmer Mantel, aber kein gepanzerter.
 
 ent-ClothingOuterWinterHydro = Botanik-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
@@ -86,25 +86,25 @@ ent-ClothingOuterWinterViro = Virologie Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterWarden = Gepanzerter Warden-Wintermantel
-    .desc = Ein robuster, utilitaristischer Wintermantel, der einen Warden vor allen an die Brig gebundenen Bedrohungen und hypothermischen Ereignissen schützen soll.
+    .desc = Ein robuster, zweckmäßiger Wintermantel, der einen Warden vor allen Gefahren im Brig und Unterkühlung schützen soll.
 
 ent-ClothingOuterWinterWardenUnarmored = Warden-Wintermantel
-    .desc = Ein robuster Mantel, ein warmer Mantel, aber kein gepanzerter Mantel.
+    .desc = Ein robuster, warmer Mantel, aber kein gepanzerter.
 
 ent-ClothingOuterWinterSyndieCap = Wintermantel des Syndicate-S
-    .desc = Der Wintermantel des Syndicate-S besteht aus langlebigem Stoff mit vergoldeten Mustern und grober Wolle.
+    .desc = Der Wintermantel des Syndicate-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern und grober Wolle.
 
 ent-ClothingOuterWinterSyndieCapArmored = Gepanzerter Wintermantel des Syndicate-Kapitäns
-    .desc = Der gepanzerte Wintermantel des Syndicate-S besteht aus dauerhaftem Stoff mit vergoldeten Mustern und grober Wolle.
+    .desc = Der gepanzerte Wintermantel des Syndicate-Agenten besteht aus dauerhaftem Stoff mit vergoldeten Mustern und grober Wolle.
 
 ent-ClothingOuterWinterSyndie = Wintermantel des Syndicate-S
-    .desc = Isolierter Wintermantel, sieht aus wie ein Merch aus "Syndieland".
+    .desc = Isolierter Wintermantel, sieht aus wie Merchandise aus „Syndieland“.
 
 ent-ClothingOuterWinterMusician = Wintermantel des Musikers
-    .desc = Ein übergroßer, plastischer Weltraumsmoking, bei dem die Leute fragen: "Kennst du mich?"
+    .desc = Ein übergroßer, plastikhafter Weltraumsmoking, bei dem die Leute fragen: „Kennst du mich?“
 
 ent-ClothingOuterWinterWeb = Webwintermantel
-    .desc = Fühlt sich an wie das Innere eines Kokons, nicht dass dies dich weniger Angst machen würde, in einem zu sein.
+    .desc = Fühlt sich an wie das Innere eines Kokons – nicht dass es weniger Angst machen würde, in einem zu stecken.
 
 ent-ClothingOuterWinterColorBlack = Schwarzer Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.

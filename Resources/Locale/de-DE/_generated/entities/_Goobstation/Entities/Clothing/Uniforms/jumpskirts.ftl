@@ -5,10 +5,10 @@ ent-ClothingUniformJumpskirtNanotrasenRepresentative = Nanotrasen-Repräsentante
     .desc = Ein schwarzer Rock, der von Beamten getragen wird.
 
 ent-ClothingUniformJumpskirtBlueshieldOfficer = Blueshield-Offiziersuniform (Rock)
-    .desc = Ein kurzärmeliges graues und blaues Rock-Uniform, aus einem robusten Material. Blueshield Standard Ausgabe.
+    .desc = Ein kurzärmeliges graues und blaues Uniformrock, aus einem robusten Material. Blueshield Standard Ausgabe.
 
 ent-ClothingUniformJumpskirtTrainer = NCT-Uniform (Rock)
-    .desc = Ein Rock-Uniform ausgestellt Nanotrasen Career Trainers. Erfüllt dich mit einem Gefühl von Stolz.
+    .desc = Ein Uniformrock ausgestellt Nanotrasen Career Trainers. Erfüllt dich mit einem Gefühl von Stolz.
 
 ent-ClothingUniformSkirtMailCarrier = Postbotenuniform (Rock)
     .desc = Feind der Hunde überall.

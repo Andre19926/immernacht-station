@@ -2,10 +2,10 @@ ent-ClothingHeadHatWelding = Schweißmaske
     .desc = Eine am Kopf befestigte Gesichtsabdeckung, die den Träger vollständig vor dem Weltraumschweißerblitz schützt.
 
 ent-ClothingHeadHatWeldingMaskFlame = Flammschweißmaske
-    .desc = Ein gemalter Schweißhelm, dieser hat Flammen darauf.
+    .desc = Ein bemalter Schweißhelm, dieser hier hat Flammen darauf.
 
 ent-ClothingHeadHatWeldingMaskFlameBlue = blaue Schweißmaske
-    .desc = Ein gemalter Schweißhelm, dieser hat blaue Flammen darauf.
+    .desc = Ein bemalter Schweißhelm, dieser hier hat blaue Flammen darauf.
 
 ent-ClothingHeadHatWeldingMaskPainted = lackierte Schweißmaske
-    .desc = Ein Schweißhelm, in Purpur gemalt.
+    .desc = Ein purpurn bemalter Schweißhelm.

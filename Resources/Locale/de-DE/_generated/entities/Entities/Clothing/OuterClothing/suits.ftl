@@ -1,20 +1,20 @@
 ent-ClothingOuterSuitBomb = Bombenanzug
-    .desc = Ein schwerer Anzug, der entworfen wurde, um dem Druck zu widerstehen, der durch eine Bombe und irgendwelche Fragmente erzeugt wird, die die Bombe produzieren kann.
+    .desc = Ein schwerer Anzug, der dem Druck einer Bombe und den dabei entstehenden Splittern standhalten soll.
 
 ent-ClothingOuterSuitJanitorBomb = Schutzbombenanzug
-    .desc = Schwere Körperpanzerung entwickelt, um Explosionen aus Reaktionen zwischen Chemikalien gebildet zu widerstehen.
+    .desc = Schwere Körperpanzerung, entwickelt, um Explosionen durch chemische Reaktionen standzuhalten.
 
 ent-ClothingOuterSuitFire = Feueranzug
     .desc = Ein Anzug, der vor gefährlichen Temperaturen schützt.
 
 ent-ClothingOuterSuitAtmosFire = Feueranzug atmos
-    .desc = Ein teurer Feueranzug, der selbst gegen die tödlichsten Stationsbrände schützt. Entwickelt, um zu schützen, auch wenn der Träger in Flammen steht.
+    .desc = Ein teurer Feueranzug, der selbst vor den tödlichsten Stationsbränden schützt. Er soll schützen, auch wenn der Träger in Flammen steht.
 
 ent-ClothingOuterSuitRad = Bestrahlungsanzug
     .desc = Ein Anzug, der vor Strahlung schützt. Auf dem Etikett steht: „Mit Blei hergestellt. Bitte keine Isolierung verbrauchen.“
 
 ent-ClothingOuterSuitSpaceNinja = Raum Ninja Anzug
-    .desc = Dieser schwarz technologisch fortschrittliche, cybernetisch verbesserte Anzug bietet viele Fähigkeiten wie Unsichtbarkeit oder Teleportation.
+    .desc = Dieser schwarze, technologisch fortschrittliche, kybernetisch verbesserte Anzug bietet viele Fähigkeiten wie Unsichtbarkeit oder Teleportation.
 
 ent-ClothingOuterSuitChicken = Hähnchenanzug
 
@@ -31,7 +31,7 @@ ent-ClothingOuterSuitIan = ian-Anzug
     .desc = Wer ist ein guter Junge?
 
 ent-ClothingOuterSuitCarp = Karpfenanzug
-    .desc = Ein spezieller Anzug, der dich wie einen Weltraumkarpfen aussehen lässt, wenn dein Sehvermögen schlecht ist.
+    .desc = Ein spezieller Anzug, der dich wie einen Weltraumkarpfen aussehen lässt, wenn deine Sicht schlecht ist.
 
 ent-ClothingOuterHardsuitCarp = Karpfenanzug
-    .desc = Ein spezieller Anzug, der dich wie einen Weltraumkarpfen aussehen lässt, wenn dein Sehvermögen schlecht ist.
+    .desc = Ein spezieller Anzug, der dich wie einen Weltraumkarpfen aussehen lässt, wenn deine Sicht schlecht ist.

@@ -1,17 +1,17 @@
 ent-ClothingOuterHardsuitEVA = EVA-Anzug
-    .desc = Ein leichter Raumanzug mit der grundlegenden Fähigkeit, den Träger in Notfällen vor dem Vakuum des Weltraums zu schützen.
+    .desc = Ein leichter Raumanzug, der den Träger im Notfall grundlegend vor dem Vakuum des Weltraums schützt.
 
 ent-ClothingOuterEVASuitSyndicate = Syndicate EVA-Anzug
-    .desc = Auf der Rückseite steht ein Schild mit der Aufschrift: "Total kein Eigentum eines feindlichen Konzerns, ehrlich!"
+    .desc = Auf der Rückseite steht ein Schild: „Absolut kein Eigentum eines feindlichen Konzerns, ehrlich!“
 
 ent-ClothingOuterSuitEmergency = EVA-Notfallanzug
-    .desc = Ein Notfall-EVA-Anzug mit eingebautem Helm. Es ist schrecklich langsam und ohne Temperaturschutz, aber genug, um dir Zeit aus dem harten Vakuum des Weltraums zu gewinnen.
+    .desc = Ein Notfall-EVA-Anzug mit eingebautem Helm. Er ist furchtbar langsam und hat keinen Temperaturschutz, verschafft dir aber genug Zeit im harten Vakuum des Weltraums.
 
 ent-ClothingOuterHardsuitEVAPrisoner = Häftlingsanzug EVA
-    .desc = Ein EVA-Notfallanzug für Gefangene. Es ist schrecklich langsam und ohne Temperaturschutz, aber genug, um dir Zeit aus dem harten Vakuum des Weltraums zu gewinnen.
+    .desc = Ein EVA-Notfallanzug für Gefangene. Er ist furchtbar langsam und hat keinen Temperaturschutz, verschafft dir aber genug Zeit im harten Vakuum des Weltraums.
 
 ent-ClothingOuterHardsuitAncientEVA = NTSRA-Voidanzug
-    .desc = Ein alter Raumanzug, entworfen von der NTSRA-Niederlassung von CentComm. Es ist sehr fein gestaltet und ermöglicht eine größere Mobilität als die meisten modernen Raumanzüge.
+    .desc = Ein alter Raumanzug, entworfen von der NTSRA-Niederlassung von CentComm. Er ist sehr fein gearbeitet und ermöglicht mehr Beweglichkeit als die meisten modernen Raumanzüge.
 
 ent-ClothingOuterHardsuitVoidParamed = Sanitäter-Hardsuit
-    .desc = Ein Hardsuit für Sanitäter gemacht.
+    .desc = Ein Hardsuit für Sanitäter.

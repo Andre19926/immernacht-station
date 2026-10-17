@@ -47,7 +47,7 @@ ent-DrinkDrGibbCan = Dr.-Gibb-Dose
     .desc = Eine köstliche Mischung aus 42 verschiedenen Aromen.
 
 ent-DrinkNukieCan = Blood-Red-Brew-Dose
-    .desc = Ein hausgemachtes Getränk aus den verrückten Köpfen des Syndicate-S. Von Ärzten nicht empfohlen.
+    .desc = Ein hausgemachtes Getränk aus den verrückten Köpfen des Syndicate-Agenten. Von Ärzten nicht empfohlen.
 
 ent-DrinkEnergyDrinkCan = Red-Bool-Dose
     .desc = Eine Dose Red Bool, mit genug Koffein, um ein Pferd zu töten.

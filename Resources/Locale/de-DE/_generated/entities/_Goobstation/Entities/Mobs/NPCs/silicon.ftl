@@ -5,4 +5,4 @@ ent-GunBot = Gunbot
     .desc = Ein Sicherheitsroboter, etwas scheint ein bisschen aus.
 
 ent-NukeBot = Syndicate-Gunbot
-    .desc = Ein älteres Modell des Syndicate-S Angriff borg, spezialisiert auf Nahkampf.
+    .desc = Ein älteres Modell des Syndicate-Agenten Angriff borg, spezialisiert auf Nahkampf.

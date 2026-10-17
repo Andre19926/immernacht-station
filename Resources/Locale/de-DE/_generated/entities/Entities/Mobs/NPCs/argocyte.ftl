@@ -5,10 +5,10 @@ ent-MobArgocyteBarrier = Barriere
     .desc = Ein gefährlicher Alien, der auf der falschen Seite von Planeten gefunden wird und dafür bekannt ist, gern Ruinen zu zernagen.
 
 ent-MobArgocyteSkitter = Skitter
-    .desc = Ein hinterhältiges kleines Alien... Stelle sicher, dass sie nicht mit deinen Rationen davonlaufen!
+    .desc = Ein hinterhältiges kleines Alien ... Pass auf, dass es nicht mit deinen Rationen abhaut!
 
 ent-MobArgocyteSwiper = Wischgerät
-    .desc = Wohin ging dieser Stahlstapel?
+    .desc = Wohin ist dieser Stahlstapel verschwunden?
 
 ent-MobArgocyteMolder = Argozyt-Schimmler
     .desc = Ein gefährlicher Alien, der auf der falschen Seite von Planeten gefunden wird und dafür bekannt ist, gern Ruinen zu zernagen.

@@ -1,5 +1,5 @@
 ent-BorgChassisDerelictSyndicateAssault = Verfallener Syndicate-Angriffs-Cyborg
-    .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen. Dieser ist in einem Zustand des großen Verfalls.
+    .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist in einem Zustand des großen Verfalls.
 
 ent-BorgChassisUrist = Urist McBorg
     .desc = Eine Abscheulichkeit, die angeblich bei der Aktivität der Station hilft.

@@ -5,13 +5,13 @@ ent-ClothingOuterApronBar = Apron
     .desc = Eine dunklere Schürze für Barkeeper.
 
 ent-ClothingOuterApronBotanist = Apron
-    .desc = Eine dicke blaue Schürze, perfekt zum Isolieren deines weichen Fleisches vor Verschüttungen, Erde und Dornen.
+    .desc = Eine dicke blaue Schürze, perfekt, um dein weiches Fleisch vor Verschüttungen, Erde und Dornen zu schützen.
 
 ent-ClothingOuterApronChef = Apron
-    .desc = Eine Schürzenjacke, die von einem erstklassigen Koch verwendet wird.
+    .desc = Eine Kochjacke, wie sie ein erstklassiger Koch trägt.
 
 ent-ClothingOuterJacketChef = Kochjacke
-    .desc = Eine Schürzenjacke, die von einem erstklassigen Koch verwendet wird.
+    .desc = Eine Kochjacke, wie sie ein erstklassiger Koch trägt.
 
 ent-ClothingOuterHoodieBlack = Black Hoodie
     .desc = Oh mein Gott, es ist ein schwarzer Hoodie!
@@ -20,16 +20,16 @@ ent-ClothingOuterHoodieGrey = Hoodie
     .desc = Ein grauer Hoodie.
 
 ent-ClothingOuterCardborg = Cardborg Kostüm
-    .desc = Ein gewöhnlicher Karton mit Löchern in den Seiten geschnitten.
+    .desc = Ein gewöhnlicher Karton mit seitlich eingeschnittenen Löchern.
 
 ent-ClothingOuterHoodieChaplain = Kaplan-Hoodie
-    .desc = Schwarze und strenge Kaplan Hoodie.
+    .desc = Ein schwarzer, strenger Kaplan-Hoodie.
 
 ent-ClothingOuterPonchoClassic = Klassischer Poncho
     .desc = Ein warmer und bequemer klassischer Poncho.
 
 ent-ClothingOuterRobesCult = Kultroben
-    .desc = Es gibt keinen Kult ohne klassische Rot-Krimson-Kultroben.
+    .desc = Ohne klassische blutrote Kultroben gibt es keinen Kult.
 
 ent-ClothingOuterRobesJudge = Richter Robes
     .desc = Dieses Gewand gebietet Autorität.
@@ -49,7 +49,7 @@ ent-ClothingOuterWizardRed = Rote Zaubererrobe
     .desc = Ein bizarres, edelsteinbesetztes rotes Gewand, das magische Energien ausstrahlt.
 
 ent-ClothingOuterSkub = Skub-Anzug
-    .desc = Skub ist grob auf der Außenseite dieses zylindrischen Anzugs geschrieben.
+    .desc = Außen auf diesen zylindrischen Anzug ist grob „Skub“ geschrieben.
 
 ent-ClothingOuterPlagueSuit = Pestarztanzug
     .desc = Ein schlechtes Omen.
@@ -61,16 +61,16 @@ ent-ClothingOuterGhostSheet = Geisterblatt
     .desc = Gespenstisch!!!
 
 ent-ClothingOuterHospitalGown = Krankenhauskleid
-    .desc = Hergestellt aus Wolle von geschlachteten Lämmern. Die Grausamkeit macht es weicher.
+    .desc = Hergestellt aus der Wolle geschlachteter Lämmer. Die Grausamkeit macht ihn weicher.
 
 ent-ClothingOuterFlannelRed = Rote Flanelljacke
-    .desc = Eine altmodische rote Flanelljacke für den Weltraum Herbst.
+    .desc = Eine altmodische rote Flanelljacke für den Weltraumherbst.
 
 ent-ClothingOuterFlannelBlue = Blaue Flanelljacke
-    .desc = Eine altmodische blaue Flanelljacke für den Weltraum Herbst.
+    .desc = Eine altmodische blaue Flanelljacke für den Weltraumherbst.
 
 ent-ClothingOuterFlannelGreen = Grüne Flanelljacke
-    .desc = Eine altmodische grüne Flanelljacke für den Weltraum Herbst.
+    .desc = Eine altmodische grüne Flanelljacke für den Weltraumherbst.
 
 ent-ClothingOuterRedRacoon = Red Racoon Anzug
-    .desc = Fluffy Anzug von Red Racoon!
+    .desc = Flauschiger Anzug der Roten Rakone!

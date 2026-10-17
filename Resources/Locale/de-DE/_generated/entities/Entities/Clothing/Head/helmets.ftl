@@ -59,22 +59,22 @@ ent-ClothingHeadHelmetERTJanitor = ERT Hausmeisterhelm
     .desc = Ein Atmos-Einsatzhelm, der von Hausmeistermitgliedern des Nanotrasen Notfallteams getragen wird. Hat dunkelviolette Akzente.
 
 ent-ClothingHeadHelmetRaid = Syndicate-Helm
-    .desc = Ein gepanzerter Helm für den Einsatz mit dem Syndicate-Raid-Anzug. Sehr stilvoll.
+    .desc = Ein gepanzerter Helm für den Syndicate-Überfallanzug. Sehr stilvoll.
 
 ent-ClothingHeadHelmetBone = Knochenhelm
     .desc = Cool aussehender Helm aus dem Schädel deiner Feinde.
 
 ent-ClothingHeadHelmetPodWars = Ironclad II Helm
-    .desc = Ein ironclad II Helm, ein Relikt der Pod-Kriege.
+    .desc = Ein Ironclad-II-Helm, ein Relikt der Pod-Kriege.
 
 ent-ClothingHeadHelmetJustice = Justizchef
-    .desc = Fortgeschrittene Sicherheitsausrüstung. Schützt die Station vor Ne'er-do-Wells.
+    .desc = Fortschrittliche Sicherheitsausrüstung. Schützt die Station vor Tunichtguten.
 
 ent-ClothingHeadHelmetJusticeEmpty = Justizchef
-    .desc = Fortgeschrittene Sicherheitsausrüstung. Schützt die Station vor Ne'er-do-Wells.
+    .desc = Fortschrittliche Sicherheitsausrüstung. Schützt die Station vor Tunichtguten.
 
 ent-ActionToggleJusticeHelm = Toggle Justice Helm
-    .desc = Schaltet die Justiz an und aus.
+    .desc = Schaltet die Gerechtigkeit an und aus.
 
 ent-CardHelmet = Kartonhelm
     .desc = Ein mittelalterlicher Helm aus Pappe.

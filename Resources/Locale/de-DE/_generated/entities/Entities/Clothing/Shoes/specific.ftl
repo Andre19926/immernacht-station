@@ -1,20 +1,20 @@
 ent-ClothingShoesChef = Kochschuhe
-    .desc = Robuste Schuhe, die Verletzungen durch fallende Gegenstände oder Messer minimieren.
+    .desc = Robuste Schuhe, die Verletzungen durch herabfallende Gegenstände oder Messer mindern.
 
 ent-ClothingShoesClown = Clownschuhe
-    .desc = Die standardmäßigen clownschuhe des pranksters. Verdammt, sie sind riesig!
+    .desc = Die Standard-Clownschuhe des Scherzboldes. Verdammt, sind die riesig!
 
 ent-ClothingShoesClownBanana = Bananenclownschuhe
-    .desc = Wenn Humor und Schuhe sich zu neuen Ebenen der Absurdität verbinden.
+    .desc = Wenn Humor und Schuhe zu neuen Höhen der Absurdität verschmelzen.
 
 ent-ClothingShoesBling = Bling Clown Schuhe
-    .desc = Hergestellt aus raffiniertem Bananium und glänzt mit dem Fruchtfleisch einer frischen Bananenschale. Diese machen eine auffällige Aussage.
+    .desc = Hergestellt aus raffiniertem Bananium und glänzend wie das Fruchtfleisch einer frischen Bananenschale. Die machen ein auffälliges Statement.
 
 ent-ClothingShoesCult = Kultionsschuhe
-    .desc = Ein Paar Stiefel, getragen von den Anhängern von Nar'dich.
+    .desc = Ein Paar Stiefel, getragen von den Anhängern von Nar'Sie.
 
 ent-ClothingShoesGaloshes = Galoschen
-    .desc = Spezialisierte rutschfeste Gummistiefel, entworfen, um Hausmeisterarbeitsunfälle zu reduzieren; ein Schatz des Tiders.
+    .desc = Spezielle rutschfeste Gummistiefel zur Verringerung von Hausmeister-Arbeitsunfällen; ein Schatz des Tiders.
 
 ent-ClothingShoesSpaceNinja = Space Ninja Schuhe
     .desc = Ein Paar nanoverstärkte Stiefel mit eingebauten magnetischen Saugnäpfen.
@@ -32,13 +32,13 @@ ent-ClothingShoesChameleonNoSlips = schwarze Schuhe
     .desc = Stilvolle schwarze Schuhe.
 
 ent-ClothingShoesJester = Schuhe
-    .desc = Ein Hofnarr Schuhe, aktualisiert mit modernen Quietschen Technologie.
+    .desc = Hofnarrenschuhe, aufgerüstet mit moderner Quietschtechnologie.
 
 ent-ClothingShoesCluwne = Cluwne-Schuhe
     .desc = Ein verfluchtes Paar Clownschuhe.
 
 ent-ClothingShoesClownLarge = Große Clownschuhe
-    .desc = Wenn du dich in einem Raum voller Clowns abheben musst!
+    .desc = Wenn du in einem Raum voller Clowns herausstechen musst!
 
 ent-ClothingShoesSkates = Rollschuhe
-    .desc = Hole dir deine Skates auf!
+    .desc = Schnall dir die Skates an!

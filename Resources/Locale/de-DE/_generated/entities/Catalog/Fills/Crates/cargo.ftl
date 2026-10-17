@@ -1,5 +1,5 @@
 ent-CrateCargoLuxuryHardsuit = Luxus-Bergbau-Hardsuit-Kiste
-    .desc = Schließlich könnte ein Hardsuit Quartermasters sein eigenes nennen. Centcomm hat dich gehört, jetzt hör auf zu fragen.
+    .desc = Schließlich könnte ein Hardsuit Quartiermeisters sein eigenes nennen. Centcomm hat dich gehört, jetzt hör auf zu fragen.
 
 ent-CrateCargoParcelWrap = Pakethüllenkiste
     .desc = Alle deine Paketverpackung braucht in einer Kiste, die drei Rollen Paketverpackung enthält.

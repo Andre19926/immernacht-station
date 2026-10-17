@@ -50,10 +50,10 @@ ent-ClothingBackpackDuffelSyndicateEVABundle = Syndicate-EVA-Bündel
     .desc = Enthält den von Syndicate zugelassenen EVA-Anzug.
 
 ent-ClothingBackpackDuffelSyndicateHardsuitBundle = Syndicate-Hardsuit-Bündel
-    .desc = Enthält den charakteristischen blutroten Hardsuit des Syndicate-S.
+    .desc = Enthält den charakteristischen blutroten Hardsuit des Syndicate-Agenten.
 
 ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = Syndicate-Elite-Hardsuit-Bündel
-    .desc = Enthält den Elite-Hardsuit des Syndicate-S, der mit etwas mehr Zeug kommt.
+    .desc = Enthält den Elite-Hardsuit des Syndicate-Agenten, der mit etwas mehr Zeug kommt.
 
 ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = Syndicate-Voidsuit-Zubehörbündel
     .desc = Enthält Dinge, die du beim Kauf eines Voidsuits unbedingt haben willst.

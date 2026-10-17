@@ -2,7 +2,7 @@ ent-ClothingHeadHatBunny = Hasenohren
     .desc = Niedliche Hasenohren.
 
 ent-ClothingHeadHatCake = Kuchenhut
-    .desc = Du legst den Kuchen auf deinen Kopf. Brillant.
+    .desc = Du setzt dir den Kuchen auf den Kopf. Genial.
 
 ent-ClothingHeadHatChickenhead = Hühnerkopf
     .desc = Es ist ein Hühnerkopf. Bok bok bok!
@@ -11,16 +11,16 @@ ent-ClothingHeadHatFlowerWreath = Blütenkranz
     .desc = Ein Kranz aus bunten Blumen. Kann sowohl am Kopf als auch am Hals getragen werden.
 
 ent-ClothingHeadHatPumpkin = Kürbishut
-    .desc = Ein Jack o 'Laterne! Er glaubte, böse Geister abzuwehren.
+    .desc = Eine Kürbislaterne! Man glaubte, sie vertreibe böse Geister.
 
 ent-ClothingHeadHatPwig = Scharen
-    .desc = Um ehrlich zu sein, sehen diese lächerlich aus.
+    .desc = Ehrlich gesagt sehen die lächerlich aus.
 
 ent-ClothingHeadMirror = Kopfspiegel
-    .desc = Ich bezweifle, dass sogar der CMO weiß, wie man dieses Ding benutzt.
+    .desc = Ich bezweifle, dass sogar der Chefarzt weiß, wie man dieses Ding benutzt.
 
 ent-ClothingHeadHatRichard = Weizen
-    .desc = Magst du es, Menschen zu verletzen?
+    .desc = Magst du es, Menschen wehzutun?
 
 ent-ClothingHeadHatSkub = Skub-Hut
     .desc = Am besten kombiniert mit dem Skub-Anzug.
@@ -32,7 +32,7 @@ ent-ClothingHeadHatCone = Warnkegel
     .desc = Dieser Kegel versucht, dich vor etwas zu warnen!
 
 ent-ClothingHeadHatFancyCrown = ausgefallene Krone
-    .desc = Es riecht nach toter Ratte. Lass dich wie einer sprechen!
+    .desc = Er riecht nach toter Ratte. Lass dich sprechen wie eine!
 
 ent-ClothingHeadHatCatEars = Katzenohren
 
@@ -45,16 +45,16 @@ ent-ClothingHeadHatDogEars = Hundeohren
     .desc = Nur für gute Jungs.
 
 ent-ClothingHeadHatSquid = Squiddy
-    .desc = Erschrecke deine Freunde mit dieser eldritch Maske.
+    .desc = Erschrecke deine Freunde mit dieser unheimlichen Maske.
 
 ent-ClothingHeadHatRedRacoon = Roter Rakonenhut
-    .desc = Fluffy Hut der roten Rakone!
+    .desc = Flauschiger Hut der roten Rakone!
 
 ent-WaterDropletHat = Wassertropfen
-    .desc = Macht 8-äugige Freunde 8-mal liebenswerter!
+    .desc = Macht achtäugige Freunde achtmal liebenswerter!
 
 ent-ClothingHeadHatHairflower = Haarblume
-    .desc = Eine schöne Haarblume, die zwischen Haarlocken eingesetzt werden kann.
+    .desc = Eine hübsche Haarblume, die zwischen Haarsträhnen gesteckt werden kann.
 
 ent-ClothingHeadPerformerWig = Persönliche Perücke
-    .desc = Bei näherer Betrachtung scheint es, dass es aus Glasfaser besteht.
+    .desc = Bei näherer Betrachtung scheint es aus Glasfaser zu bestehen.

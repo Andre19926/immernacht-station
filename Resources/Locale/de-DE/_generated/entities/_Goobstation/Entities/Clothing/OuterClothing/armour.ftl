@@ -8,7 +8,7 @@ ent-ClothingOuterArmorHelldiver = Bergungs-NT-01-Taktik-Hardsuit
     .desc = Diese Rüstung ist die Standardausgabe von NanoTrasen und besteht aus derselben Titanlegierung wie die Goliath-Hülle.
 
 ent-ClothingOuterArmorHoSVestWeb = Leiter der Sicherheitswebweste
-    .desc = Eine hochwertige gepanzerte Weste aus hartem Kunststoff. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
+    .desc = Eine hochwertige gepanzerte Weste aus hartem Kunststoff. Sie ist trotz der gewaltigen Panzerung überraschend flexibel und leicht.
 
 ent-ClothingOuterCapJacket = Panzerjacke des Kapitäns
     .desc = Eine extrem teure Jacke mit extra Durathread-Schutz an der Brust.

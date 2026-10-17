@@ -1,26 +1,26 @@
 ent-ClothingUniformJumpskirtBartender = Barkeeper-Arbeitskleidung (Rock)
-    .desc = Eine schöne und ordentliche Uniform. Schade um die Bar.
+    .desc = Eine schöne, ordentliche Uniform. Schade um die Bar.
 
 ent-ClothingUniformJumpskirtCaptain = Kapitänsuniform (Rock)
-    .desc = Es ist ein blauer Rock-Uniform mit einigen Goldmarkierungen, die den Rang von "Captain" bezeichnen.
+    .desc = Es ist ein blauer Uniformrock mit einigen Goldmarkierungen, die den Rang von "Captain" bezeichnen.
 
 ent-ClothingUniformJumpskirtCargo = Frachttechniker-Arbeitskleidung (Rock)
-    .desc = Ein robuster Uniformrock, ausgestellt an Mitglieder der Fracht-Abteilung.
+    .desc = Ein robuster Uniformrock, ausgegeben an Mitglieder der Frachtabteilung.
 
 ent-ClothingUniformJumpskirtChiefEngineer = Chefingenieursuniform (Rock)
-    .desc = Es ist eine hohe Sichtbarkeit Rock-Uniform, die diesen Ingenieuren gegeben wird, die verrückt genug sind, um den Rang eines Chefingenieurs zu erreichen.
+    .desc = Ein Uniformrock mit hoher Sichtbarkeit, verliehen an Ingenieure, die verrückt genug sind, den Rang des Chefingenieurs zu erreichen.
 
 ent-ClothingUniformJumpskirtChiefEngineerTurtle = Turtleneck des Chefingenieurs (Rock)
-    .desc = Ein gelber Turtleneck, der speziell für die Arbeit unter den Bedingungen der Ingenieurabteilung entwickelt wurde.
+    .desc = Ein gelber Rollkragenpullover, speziell für die Arbeit unter den Bedingungen der Ingenieurabteilung entwickelt.
 
 ent-ClothingUniformJumpskirtChaplain = Kaplanuniform (Rock)
-    .desc = Es ist ein schwarzer Rock-Uniform, der oft von religiösen Leuten getragen wird.
+    .desc = Es ist ein schwarzer Uniformrock, der oft von religiösen Leuten getragen wird.
 
 ent-ClothingUniformJumpskirtChef = Koch-Arbeitskleidung (Rock)
-    .desc = Kann nicht ohne das kochen.
+    .desc = Ohne das kann man nicht kochen.
 
 ent-ClothingUniformJumpskirtChemistry = Chemikeruniform (Rock)
-    .desc = Es gibt einige seltsame Flecken auf diesem Rock-Uniform. Hm.
+    .desc = Es gibt einige seltsame Flecken auf diesem Uniformrock. Hm.
 
 ent-ClothingUniformJumpskirtVirology = Virologieuniform (Rock)
     .desc = Sie besteht aus einer speziellen Faser, die besonderen Schutz gegen Biogefahren bietet. Sie trägt einen virologischen Rangstreifen.
@@ -29,16 +29,16 @@ ent-ClothingUniformJumpskirtGenetics = Genetikeruniform (Rock)
     .desc = Sie besteht aus einer speziellen Faser, die besonderen Schutz gegen Biogefahren bietet. Sie trägt einen Genetiker-Rangstreifen.
 
 ent-ClothingUniformJumpskirtCMO = Chefarztuniform (Rock)
-    .desc = Es ist ein Rock-Uniform, getragen von denen mit der Erfahrung, Chefarzt zu sein. Es bietet einen geringen biologischen Schutz.
+    .desc = Es ist ein Uniformrock, getragen von denen mit der Erfahrung, Chefarzt zu sein. Es bietet einen geringen biologischen Schutz.
 
 ent-ClothingUniformJumpskirtCMOTurtle = Chefarzt-Rollkragenuniform (Rock)
-    .desc = Ein Rollkragenpullover, getragen von denen mit der Erfahrung, Chefarzt zu sein. Er bietet einen geringen Schutz vor biologischen Verunreinigungen.
+    .desc = Ein Rollkragenpullover für alle, die Erfahrung als Chefarzt haben. Er bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtDetective = Detektivuniform (Rock)
-    .desc = Jemand, der das trägt, bedeutet Geschäft.
+    .desc = Wer das trägt, meint es ernst.
 
 ent-ClothingUniformJumpskirtDetectiveGrey = Noir suitskit
-    .desc = Ein hart gekochter grauer Privatdetektivanzug, komplett mit Krawattenclip.
+    .desc = Ein abgebrühter grauer Privatdetektivanzug samt Krawattenklammer.
 
 ent-ClothingUniformJumpskirtEngineering = Ingenieurs-Arbeitskleidung (Rock)
     .desc = Wenn dieser Anzug nicht leitfähig wäre, würden Ingenieure vielleicht endlich ihren verdammten Job machen.
@@ -47,13 +47,13 @@ ent-ClothingUniformJumpskirtHoP = Personalchefuniform (Rock)
     .desc = Eher langweilig und harmlos. Perfekt, um aus dem Blickfeld des Universums zu verschwinden.
 
 ent-ClothingUniformJumpskirtHoS = Sicherheitschefsuniform (Rock)
-    .desc = Es ist leuchtend rot und ziemlich knusprig, ähnlich wie die opfer der sicherheit dazu neigen.
+    .desc = Er ist leuchtend rot und ziemlich knusprig, so wie es Sicherheitsopfer gern werden.
 
 ent-ClothingUniformJumpskirtHoSAlt = Sicherheitschef-Rollkragenuniform (Rock)
-    .desc = Es ist ein Rollkragen, der von denen getragen wird, die stark und diszipliniert genug sind, um die Position des Sicherheitschefs zu erreichen.
+    .desc = Ein Rollkragenpullover für alle, die stark und diszipliniert genug sind, um Sicherheitschef zu werden.
 
 ent-ClothingUniformJumpskirtHoSParadeMale = Paradeuniform des Sicherheitschefs (Rock)
-    .desc = Ein Leiter der Sicherheits-Luxus-Bekleidung, für besondere Anlässe.
+    .desc = Luxuskleidung des Sicherheitschefs für besondere Anlässe.
 
 ent-ClothingUniformJumpskirtCommandGeneric = Führungsuniform (Rock)
     .desc = Eine generische Uniform in Kommandofarben, die keiner bestimmten Abteilung zugeordnet ist.
@@ -73,16 +73,16 @@ ent-ClothingUniformJumpskirtParamedic = Sanitäteruniform (Rock)
     .desc = Es hat ein Plus drauf – das ist doch gut, oder?
 
 ent-ClothingUniformJumpskirtBrigmedic = Gefängnissanitäteruniform (Rock)
-    .desc = Diese Uniform wird qualifiziertem Personal ausgestellt, das ausgebildet wurde. Niemand kümmert sich darum, dass das Training einen halben Tag dauerte.
+    .desc = Diese Uniform wird qualifiziertem, ausgebildetem Personal ausgehändigt. Niemanden kümmert es, dass die Ausbildung nur einen halben Tag dauerte.
 
 ent-ClothingUniformJumpskirtPrisoner = Gefangenenuniform (Rock)
-    .desc = Ein Rock-Uniform für Gefangene. Es hat Anzugsensoren automatisch jederzeit aktiviert.
+    .desc = Ein Uniformrock für Gefangene. Es hat Anzugsensoren automatisch jederzeit aktiviert.
 
 ent-ClothingUniformJumpskirtQM = Quartiermeisteruniform (Rock)
     .desc = Was kann Braun für dich tun?
 
 ent-ClothingUniformJumpskirtQMTurtleneck = Quartiermeister-Rollkragenuniform (Rock)
-    .desc = Ein scharfer Turtleneck sorgte für das robuste Arbeitsumfeld der Versorgung.
+    .desc = Ein scharfer Rollkragenpullover für das raue Arbeitsumfeld der Versorgung.
 
 ent-ClothingUniformJumpskirtResearchDirector = Forschungsleiter-Rollkragenuniform (Rock)
     .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
@@ -91,22 +91,22 @@ ent-ClothingUniformJumpskirtScientist = Wissenschaftleruniform (Rock)
     .desc = Sie besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik senkt. Markierungen weisen den Träger als Wissenschaftler aus.
 
 ent-ClothingUniformJumpskirtRoboticist = Robotiker-Arbeitskleidung (Rock)
-    .desc = Es ist ein schlankes Schwarz mit verstärkten Nähten; ideal für industrielle Arbeit.
+    .desc = Ein schlankes Schwarz mit verstärkten Nähten, ideal für industrielle Arbeit.
 
 ent-ClothingUniformJumpskirtSec = Sicherheitsuniform (Rock)
-    .desc = Ein Rock-Uniform aus starkem Material, das einen robusten Schutz bietet.
+    .desc = Ein Uniformrock aus starkem Material, das einen robusten Schutz bietet.
 
 ent-ClothingUniformJumpskirtWarden = Warden-Uniform (Rock)
     .desc = Ein formeller Sicherheitsanzug für Offiziere mit Nanotrasen-Gürtelschnalle.
 
 ent-ClothingUniformJumpskirtLibrarian = Bibliothekaruniform (Rock)
-    .desc = Ein gemütlicher grüner Jumper passt für einen Bücherkurator.
+    .desc = Ein gemütlicher grüner Pullover, passend für einen Bibliothekar.
 
 ent-ClothingUniformJumpskirtCurator = Sensible Rock
-    .desc = Es ist vernünftig. Zu vernünftig...
+    .desc = Er ist vernünftig. Zu vernünftig ...
 
 ent-ClothingUniformJumpskirtPerformer = Künstleruniform (Rock)
-    .desc = Hallo, ich bin Scott, Präsident von Donk Pizza. Hast du schon gehört von [FAMOUS VIRTUAL PERFORMER]?
+    .desc = Hallo, ich bin Scott, Präsident von Donk Pizza. Hast du schon von [FAMOUS VIRTUAL PERFORMER] gehört?
 
 ent-ClothingUniformJumpskirtCapFormalDress = Formelles Kapitänskleid
     .desc = Ein Kleid für besondere Anlässe.
@@ -118,81 +118,81 @@ ent-ClothingUniformJumpskirtHosFormal = Hos' formelles Kleid
     .desc = Ein Kleid für besondere Anlässe.
 
 ent-ClothingUniformJumpskirtOperative = Agentenuniform (Rock)
-    .desc = Uniform für Elite-Syndicate-Agenten, die taktische Operationen im Weltraum durchführen.
+    .desc = Uniform für Elite-Syndicate-Agenten bei taktischen Operationen im Weltraum.
 
 ent-ClothingUniformJumpskirtTacticool = Tacticooluniform (Rock)
-    .desc = Uniform für unterdurchschnittliche operative LARPers, die taktischen isolierten Handschuhdiebstahl im Weltraum durchführen.
+    .desc = Uniform für unterdurchschnittliche LARPer-Agenten, die im Weltraum taktisch Isolierhandschuhe stehlen.
 
 ent-ClothingUniformJumpskirtAtmos = Atmos-Techniker-Arbeitskleidung (Rock)
     .desc = Ich bin bei der Arbeit. Ich kann die Arbeit nicht verlassen. Arbeit ist Atmen. Ich prüfe die Luftqualität.
 
 ent-ClothingUniformJumpskirtJanimaid = Hausmädchenuniform
-    .desc = Für Profis, nicht die Posens.
+    .desc = Für Profis, nicht für Poser.
 
 ent-ClothingUniformJumpskirtJanimaidmini = Hausmädchenuniform mit Minirock
     .desc = Elite-Service, nicht irgendwelche Bonbonpapiere.
 
 ent-ClothingUniformJumpskirtLawyerRed = Red Advocat suitskirt
-    .desc = Ein auffälliger roter Anzug, getragen von Anwälten und Show-offs.
+    .desc = Ein auffälliger roter Anzug für Anwälte und Angeber.
 
 ent-ClothingUniformJumpskirtLawyerBlue = blauer Rechtsanwaltssuitskit
-    .desc = Ein auffälliger blauer Anzug, der von Anwälten und Show-offs getragen wird.
+    .desc = Ein auffälliger blauer Anzug für Anwälte und Angeber.
 
 ent-ClothingUniformJumpskirtLawyerBlack = Schwarzer Rechtsanwaltssuitskit
-    .desc = Ein subtiler schwarzer Anzug, der von Anwälten und Gangstern getragen wird.
+    .desc = Ein dezenter schwarzer Anzug für Anwälte und Gangster.
 
 ent-ClothingUniformJumpskirtLawyerPurple = Anwaltsuniform (Rock, lila)
-    .desc = Ein stilvolles violettes Stück, das von Anwälten getragen wird und Menschen zeigt.
+    .desc = Ein stilvolles violettes Stück für Anwälte, die zeigen wollen, was sie haben.
 
 ent-ClothingUniformJumpskirtLawyerGood = Guter Anwaltssaat
-    .desc = Ein kitschiger Anzug perfekt für einen kriminellen Anwalt!
+    .desc = Ein kitschiger Anzug, perfekt für einen kriminellen Anwalt!
 
 ent-ClothingUniformJumpskirtSyndieFormalDress = Syndicate formales Kleid
-    .desc = Die Uniform des Syndicate-S ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
+    .desc = Die Uniform des Syndicate-Agenten ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
 
 ent-ClothingUniformJumpskirtTacticalMaid = taktisches Dienstmädchen
-    .desc = Es wird angenommen, dass die besten Dienstmädchen Designeranzüge haben sollten.
+    .desc = Man nimmt an, die besten Dienstmädchen sollten Designeranzüge tragen.
 
 ent-ClothingUniformJumpskirtOfLife = Lebenssaumfleisch
     .desc = Ein Rock, der die Freude und Positivität unseres Lebens symbolisiert.
 
 ent-ClothingUniformJumpskirtSeniorEngineer = Ingenieurs-Arbeitskleidung (Rock, Senior)
-    .desc = Ein Schild von Geschick und Prestige innerhalb der Ingenieurabteilung.
+    .desc = Ein Zeichen für Geschick und Prestige innerhalb der Ingenieurabteilung.
 
 ent-ClothingUniformJumpskirtSeniorResearcher = Senior Researcher-Uniform (Rock)
-    .desc = Ein Schild von Geschick und Prestige innerhalb der Wissenschaftsabteilung.
+    .desc = Ein Zeichen für Geschick und Prestige innerhalb der Wissenschaftsabteilung.
 
 ent-ClothingUniformJumpskirtSeniorPhysician = Oberarzt-Uniform (Rock)
-    .desc = Ein Schild von Geschick und Prestige innerhalb der medizinischen Abteilung.
+    .desc = Ein Zeichen für Geschick und Prestige innerhalb der medizinischen Abteilung.
 
 ent-ClothingUniformJumpskirtSeniorOfficer = Senior Officer-Uniform (Rock)
-    .desc = Ein Schild von Geschick und Prestige innerhalb der Sicherheitsabteilung.
+    .desc = Ein Zeichen für Geschick und Prestige innerhalb der Sicherheitsabteilung.
 
 ent-ClothingUniformJumpskirtSecGrey = Uniform (Rock, grau (Sicherheit))
-    .desc = Ein taktisches Relikt aus vergangenen Jahren, bevor Nanotrasen entschied, dass es billiger war, die Anzüge rot zu färben, anstatt das Blut auszuwaschen.
+    .desc = Ein taktisches Relikt aus vergangenen Jahren, bevor Nanotrasen entschied, es sei billiger, die Anzüge rot zu färben, als das Blut auszuwaschen.
 
 ent-ClothingUniformJumpskirtWeb = web-Uniform (Rock)
-    .desc = Macht deutlich, dass du eins mit den Webs bist.
+    .desc = Macht deutlich, dass du eins mit dem Netz bist.
 
 ent-ClothingUniformJumpskirtCasualBlue = Uniform (Rock, leger, blau)
-    .desc = Ein locker getragenes blaues Hemd mit grauem Rock, perfekt für jemanden, der sich entspannen möchte.
+    .desc = Ein locker getragenes blaues Hemd mit grauem Rock, perfekt für alle, die sich entspannen wollen.
 
 ent-ClothingUniformJumpskirtCasualPurple = Uniform (Rock, leger, lila)
-    .desc = Ein locker getragenes lila Hemd mit einem grauen Rock, perfekt für jemanden, der sich entspannen möchte.
+    .desc = Ein locker getragenes lila Hemd mit grauem Rock, perfekt für alle, die sich entspannen wollen.
 
 ent-ClothingUniformJumpskirtCasualRed = Uniform (Rock, leger, rot)
-    .desc = Ein locker getragenes rotes Hemd mit grauem Rock, perfekt für jemanden, der sich entspannen möchte.
+    .desc = Ein locker getragenes rotes Hemd mit grauem Rock, perfekt für alle, die sich entspannen wollen.
 
 ent-ClothingUniformJumpskirtCasualGreen = Uniform (Rock, leger, grün)
-    .desc = Ein loses, abgenutztes grünes Hemd mit grauem Rock, perfekt für jemanden, der sich entspannen möchte.
+    .desc = Ein loses, abgetragenes grünes Hemd mit grauem Rock, perfekt für alle, die sich entspannen wollen.
 
 ent-ClothingUniformJumpskirtOldDress = altes Kleid
-    .desc = Ein abgenutztes Kleid von vor langer Zeit.
+    .desc = Ein abgetragenes Kleid aus längst vergangener Zeit.
 
 ent-ClothingUniformJumpskirtMusician = Rockmusiker
-    .desc = Ein schicker Rock für die musikalisch Veranlagten. Perfekt für jeden Lounge Act!
+    .desc = Ein schicker Rock für musikalisch Veranlagte. Perfekt für jeden Lounge-Auftritt!
 
 ent-ClothingUniformJumpskirtPsychologist = Psychologe suitskirt
-    .desc = Ich verliere nichts. Ich platziere Dinge an Orten, die mir später entgehen.
+    .desc = Ich verliere nichts. Ich lege Dinge an Orten ab, die mir später entfallen.
 
 ent-ClothingUniformJumpskirtClown = Clownrock

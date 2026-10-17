@@ -1,5 +1,5 @@
 ent-PortalRed = bluespace Portal
-    .desc = Dieser sieht eher wie ein Redspace-Portal aus.
+    .desc = Der hier sieht eher aus wie ein Redspace-Portal.
 
 ent-PortalBlue = bluespace Portal
     .desc = Befördert dich zu einem verknüpften Ziel!

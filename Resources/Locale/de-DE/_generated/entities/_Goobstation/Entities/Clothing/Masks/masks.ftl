@@ -5,7 +5,7 @@ ent-ClothingMaskGasChronoUnremoveable = futuristische Gasmaske
     .desc = Eine futuristische Gasmaske unbekannter Bauart mit einer unvorstellbaren Zahl an Filtersystemen.
 
 ent-ClothingMaskClownUnremoveable = nicht abnehmbare Bananenclownperücke und -maske
-    .desc = Eine Clownmaske mit einer faltbaren Perücke; eine wahre Pranksterkleidung.
+    .desc = Eine Clownmaske mit abnehmbarer Perücke – echte Scherzbold-Kleidung.
 
 ent-ClothingMaskGasVoiceCraftable = Sprachmodulatormaske
     .desc = Ein schlecht gebauter Stimmverzerrer aus einer Gasmaske und einem Sprachauslöser.

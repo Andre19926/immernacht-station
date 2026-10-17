@@ -115,7 +115,7 @@ ent-ShuttleConsoleCircuitboard = Shuttlekonsole
     .desc = Eine Computerplatine für eine Shuttle-Konsole.
 
 ent-SyndicateShuttleConsoleCircuitboard = Syndicate-Shuttle-Konsole (Platine)
-    .desc = Eine Computerplatine für eine Syndicate-Shuttle-Konsole.
+    .desc = Eine Computerplatine für eine Syndicate-Agentenhuttle-Konsole.
 
 ent-CloningConsoleComputerCircuitboard = Klonkonsole Computerplatine
     .desc = Eine Computerplatine für eine Klonkonsole.

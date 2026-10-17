@@ -1,2 +1,2 @@
 ent-ActionToggleMask = Umschaltmaske
-    .desc = Handlich, aber verhindert das Einführen von Kuchen in dein Kuchenloch.
+    .desc = Praktisch, verhindert aber, dass du Kuchen in dein Kuchenloch stopfst.

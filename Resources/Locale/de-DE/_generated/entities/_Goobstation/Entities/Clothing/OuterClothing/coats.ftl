@@ -17,7 +17,7 @@ ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsleiter
     .desc = Gewebt mit experimenteller Technologie ... dieser Laborkittel scheint nicht schützender zu sein als dein üblicher. Zumindest sieht er hübsch aus.
 
 ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsleiters
-    .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.
+    .desc = Dieser mit Spitzentechnologie durchwirkte Laborkittel schützt ähnlich vor Strahlung wie der experimentelle Hardsuit.
 
 ent-ClothingOuterCoatHoPLong = Personalchef-Longcoat
     .desc = Ein smarter Langmantel für den Personalchef.

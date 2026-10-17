@@ -11,10 +11,10 @@ ent-ClothingHeadHatCargosoftFlipped = Frachtkappe
     .desc = Eine Baseballkappe, die den Uniformen der Fracht entspricht.
 
 ent-ClothingHeadHatQMsoft = Quartiermeisterkappe
-    .desc = Eine Baseballkappe, die der Uniform des Quartermasters entspricht.
+    .desc = Eine Baseballkappe, die der Uniform des Quartiermeisters entspricht.
 
 ent-ClothingHeadHatQMsoftFlipped = Quartiermeisterkappe
-    .desc = Eine Baseballkappe, die der Uniform des Quartermasters entspricht.
+    .desc = Eine Baseballkappe, die der Uniform des Quartiermeisters entspricht.
 
 ent-ClothingHeadHatCommandSoft = Führungs-Schirmmütze
     .desc = Eine Baseballkappe im unverwechselbaren Blauton der Führung.
@@ -23,10 +23,10 @@ ent-ClothingHeadHatCommandSoftFlipped = Führungs-Schirmmütze
     .desc = Eine Baseballkappe im unverwechselbaren Blauton der Führung.
 
 ent-ClothingHeadHatCorpsoft = Konzernmütze
-    .desc = Eine Baseballkappe in Corporation-Farben.
+    .desc = Eine Baseballkappe in Konzernfarben.
 
 ent-ClothingHeadHatCorpsoftFlipped = Konzernmütze (umgedreht)
-    .desc = Eine Baseballkappe in Corporation-Farben.
+    .desc = Eine Baseballkappe in Konzernfarben.
 
 ent-ClothingHeadHatGreensoft = Grüne Kappe
     .desc = Eine grüne Baseballkappe.
@@ -83,10 +83,10 @@ ent-ClothingHeadHatYellowsoftFlipped = Gelbkappe
     .desc = Eine gelbe Baseballkappe.
 
 ent-ClothingHeadHatBizarreSoft = Unruhestifterkappe
-    .desc = Ein wirklich... bizarres Accessoire.
+    .desc = Ein wirklich ... bizarres Accessoire.
 
 ent-ClothingHeadHatBizarreSoftFlipped = Unruhestifterkappe
-    .desc = Ein wirklich... bizarres Accessoire.
+    .desc = Ein wirklich ... bizarres Accessoire.
 
 ent-ClothingHeadHatParamedicsoft = Sanitäterkappe
     .desc = Eine blaue Baseballkappe mit einem Kreuz auf der Vorderseite.

@@ -2,7 +2,7 @@ ent-ClothingUniformJumpskirtColorWhite = Uniform (Rock, weiß)
     .desc = Ein generischer Overall-Rock in Weiß ohne Rangabzeichen.
 
 ent-ClothingUniformJumpskirtColorGrey = Uniform (Rock, grau)
-    .desc = Ein geschmackvoll grauer Rock-Uniform, der an die guten alten Zeiten erinnert.
+    .desc = Ein geschmackvoller grauer Uniformrock, der an die guten alten Zeiten erinnert.
 
 ent-ClothingUniformJumpskirtColorBlack = Uniform (Rock, schwarz)
     .desc = Ein generischer Overall-Rock in Schwarz ohne Rangabzeichen.

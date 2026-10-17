@@ -23,36 +23,36 @@ ent-PlayerBorgBattery = Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.
 
 ent-PlayerBorgSyndicateAssaultBattery = Syndicate-Angriffs-Cyborg
-    .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.
+    .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module.
 
 ent-PlayerBorgSyndicateAssaultGhostRole = Syndicate-Angriffs-Cyborg
-    .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.
+    .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module.
 
 ent-PlayerBorgSyndicateSaboteurBattery = Syndicate-Saboteur-Cyborg
-    .desc = Ein stromlinienförmiger Engineering-Cyborg, ausgestattet mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn sich als Nanotrasen-Cyborg tarnen.
+    .desc = Ein stromlinienförmiger Ingenieur-Cyborg mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn als Nanotrasen-Cyborg durchgehen.
 
 ent-PlayerBorgSyndicateSaboteurGhostRole = Syndicate-Saboteur-Cyborg
-    .desc = Ein stromlinienförmiger Engineering-Cyborg, ausgestattet mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn sich als Nanotrasen-Cyborg tarnen.
+    .desc = Ein stromlinienförmiger Ingenieur-Cyborg mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn als Nanotrasen-Cyborg durchgehen.
 
 ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = Syndicate-Invasions-Cyborg-Spawner
 
 ent-PlayerEngineeringBorgDerelict = Verfallener Ingenieur-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Dieser scheint Stücke von seltsamen Kristallen zu haben, die seine Oberfläche pockmarkieren.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Seine Oberfläche ist von Splittern seltsamer Kristalle durchsetzt.
 
 ent-PlayerEngineeringBorgDerelictGhostRole = Verfallener Ingenieur-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Dieser scheint Stücke von seltsamen Kristallen zu haben, die seine Oberfläche pockmarkieren.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Seine Oberfläche ist von Splittern seltsamer Kristalle durchsetzt.
 
 ent-PlayerBorgDerelict = Verfallener Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Dieser befindet sich in einem Zustand des großen Verfalls.
+    .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Dieser hier befindet sich in einem Zustand großen Verfalls.
 
 ent-PlayerBorgDerelictGhostRole = Verfallener Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Dieser befindet sich in einem Zustand des großen Verfalls.
+    .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Dieser hier befindet sich in einem Zustand großen Verfalls.
 
 ent-PlayerJanitorBorgDerelict = Verfallener Hausmeister-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Serviceabteilung unterstützt. Es ist ein größeres Durcheinander als alles, was es aufräumen kann.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Serviceabteilung unterstützt. Er ist ein größeres Chaos als alles, was er aufräumen kann.
 
 ent-PlayerJanitorBorgDerelictGhostRole = Verfallener Hausmeister-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Serviceabteilung unterstützt. Es ist ein größeres Durcheinander als alles, was es aufräumen kann.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Serviceabteilung unterstützt. Er ist ein größeres Chaos als alles, was er aufräumen kann.
 
 ent-PlayerMedicalBorgDerelict = Verfallener medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die medizinische Abteilung unterstützt. Diese Nadeln sehen nicht sehr hygienisch aus.
@@ -61,13 +61,13 @@ ent-PlayerMedicalBorgDerelictGhostRole = Verfallener medizinischer Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die medizinische Abteilung unterstützt. Diese Nadeln sehen nicht sehr hygienisch aus.
 
 ent-PlayerMiningBorgDerelict = Verfallener Bergungs-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hat die falsche Seite eines Gabonit-Brockens gesehen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hier hat die falsche Seite eines Gabonit-Brockens gesehen.
 
 ent-PlayerMiningBorgDerelictGhostRole = Verfallener Bergungs-Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hat die falsche Seite eines Gabonit-Brockens gesehen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hier hat die falsche Seite eines Gabonit-Brockens gesehen.
 
 ent-PlayerSyndicateAssaultBorgDerelict = Verfallener Syndicate-Angriffs-Cyborg
-    .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen. Dieser ist eher rostorange als blutrot.
+    .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist eher rostorange als blutrot.
 
 ent-PlayerBorgSyndicateDerelictGhostRole = Verfallener Syndicate-Angriffs-Cyborg
-    .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen. Dieser ist eher rostorange als blutrot.
+    .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist eher rostorange als blutrot.

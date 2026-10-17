@@ -1,55 +1,55 @@
 ent-ClothingNeckLGBTPin = LGBT Pin
-    .desc = Sei schwul und verbrechen.
+    .desc = Sei schwul und begehe Verbrechen.
 
 ent-ClothingNeckAllyPin = gerader Verbündeterstift
-    .desc = Seid Verbündete, die Verbrechen begehen.
+    .desc = Sei Verbündeter und begehe Verbrechen.
 
 ent-ClothingNeckAromanticPin = Aromantischer Stift
-    .desc = Sei aro do crime.
+    .desc = Sei aro und begehe Verbrechen.
 
 ent-ClothingNeckAroacePin = Aroace Pin
-    .desc = Sei aroace, tu Verbrechen.
+    .desc = Sei aroace und begehe Verbrechen.
 
 ent-ClothingNeckAsexualPin = Asexuelle Pinsel
-    .desc = Sei ace do crime.
+    .desc = Sei ace und begehe Verbrechen.
 
 ent-ClothingNeckBisexualPin = Bisexuelle Pinsel
-    .desc = Sei bi do crime.
+    .desc = Sei bi und begehe Verbrechen.
 
 ent-ClothingNeckGayPin = Gay Pin
-    .desc = Sei schwul, tu Verbrechen.
+    .desc = Sei schwul und begehe Verbrechen.
 
 ent-ClothingNeckIntersexPin = Intersex-Pin
-    .desc = Sei intersexuell, tu Verbrechen.
+    .desc = Sei intersexuell und begehe Verbrechen.
 
 ent-ClothingNeckLesbianPin = Lesben Pin
-    .desc = Sei lesbisch, tu Verbrechen.
+    .desc = Sei lesbisch und begehe Verbrechen.
 
 ent-ClothingNeckNonBinaryPin = nichtbinärer Stift
 
 ent-ClothingNeckPansexualPin = Pansexuelle Pinsel
-    .desc = Sei pan do crime.
+    .desc = Sei pan und begehe Verbrechen.
 
 ent-ClothingNeckPluralPin = mehrere Stifte
-    .desc = Sei plural, tu Verbrechen.
+    .desc = Sei plural und begehe Verbrechen.
 
 ent-ClothingNeckOmnisexualPin = Omnisexueller Pinsel
-    .desc = Sei omni, do crime.
+    .desc = Sei omni und begehe Verbrechen.
 
 ent-ClothingNeckGenderqueerPin = Genderqueer Pin
-    .desc = Sei genderqueer, tu Verbrechen.
+    .desc = Sei genderqueer und begehe Verbrechen.
 
 ent-ClothingNeckGenderfluidPin = Genderfluid Pin
-    .desc = Sei genderfluid, tu Verbrechen.
+    .desc = Sei genderfluid und begehe Verbrechen.
 
 ent-ClothingNeckTransPin = Transgender Pin
-    .desc = Sei trans, do crime.
+    .desc = Sei trans und begehe Verbrechen.
 
 ent-ClothingNeckAutismPin = neurodivergenter Pin
-    .desc = Sei neurodivergent, tu Verbrechen.
+    .desc = Sei neurodivergent und begehe Verbrechen.
 
 ent-ClothingNeckGoldAutismPin = Autismus Pinsel
-    .desc = Sei autistisch, tu Verbrechen.
+    .desc = Sei autistisch und begehe Verbrechen.
 
 ent-SprayFlowerPin = Blütennadel
-    .desc = Eine süße Blumennadel. Etwas scheint damit nicht in Ordnung zu sein...
+    .desc = Eine süße Blumennadel. Irgendetwas stimmt damit nicht ...

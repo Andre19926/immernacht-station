@@ -2,7 +2,7 @@ ent-ClothingHeadHatHoodBioGeneral = Biohaube
     .desc = Eine Haube, die Kopf und Gesicht vor biologischen Verunreinigungen schützt.
 
 ent-ClothingHeadHatHoodBioCmo = Biohaube
-    .desc = Eine fortschrittliche Haube für leitende medizinische Offiziere, die den Kopf und das Gesicht vor biologischen Verunreinigungen schützt.
+    .desc = Eine fortschrittliche Haube für den Chefarzt, die Kopf und Gesicht vor biologischen Verunreinigungen schützt.
 
 ent-ClothingHeadHatHoodBioJanitor = Biohaube
     .desc = Eine Haube, die Kopf und Gesicht vor biologischen Verunreinigungen schützt.
@@ -20,28 +20,28 @@ ent-ClothingHeadHatHoodChaplainHood = Kaplan-Kapuze
     .desc = Maximale Frömmigkeit in diesem Sternensystem.
 
 ent-ClothingHeadHatHoodCulthood = Kulthaube
-    .desc = Es gibt keinen Kult ohne Kulthauben.
+    .desc = Ohne Kutten kein Kult.
 
 ent-ClothingHeadHatHoodNunHood = Napfhaube
     .desc = Maximale Frömmigkeit in diesem Sternensystem.
 
 ent-ClothingHeadHatHoodRad = Strahlungshaube
-    .desc = Eine Haube des Hazmatanzugs, entworfen zum Schutz vor hoher Radioaktivität.
+    .desc = Die Haube eines Gefahrgutanzugs, entworfen zum Schutz vor starker Strahlung.
 
 ent-ClothingHeadHatHoodGoliathCloak = Goliathmantelhaube
-    .desc = Eine Kapuze eines Goliathmantels, es wird aus der Haut der widerstandsfähigen Fauna von einem entfernten Planeten gemacht.
+    .desc = Die Kapuze eines Goliathmantels, gefertigt aus der Haut der widerstandsfähigen Fauna eines fernen Planeten.
 
 ent-ClothingHeadHatHoodIan = ian haube
-    .desc = Eine Kapuze, um den "Good Boy" -Look zu vervollständigen.
+    .desc = Eine Kapuze, die den „Good Boy“-Look komplettiert.
 
 ent-ClothingHeadHatHoodCarp = Karpfenhaube
-    .desc = Eine knorrige Haube mit Plastik-Raumkarpfenzähnen geschmückt.
+    .desc = Eine knorrige Haube, geschmückt mit Raumkarpfenzähnen aus Plastik.
 
 ent-ClothingHeadHelmetHardsuitCarp = Karpfenhaube
-    .desc = Eine knorrige Haube mit Plastik-Raumkarpfenzähnen geschmückt.
+    .desc = Eine knorrige Haube, geschmückt mit Raumkarpfenzähnen aus Plastik.
 
 ent-ClothingHeadHatHoodMoth = Mottenmaske
-    .desc = Eine Maske in Form eines Mottenkopfes besteht normalerweise aus leichten Materialien. Es ahmt die Form eines Mottenkopfes mit großen Augen und langen Antennen nach. Solche Masken werden häufig im Cosplay oder bei der Aufnahme von Filmen und Videos verwendet.
+    .desc = Eine Maske in Form eines Mottenkopfes, normalerweise aus leichten Materialien. Sie ahmt den Kopf einer Motte mit großen Augen und langen Fühlern nach. Solche Masken werden oft für Cosplay oder bei Film- und Videoaufnahmen verwendet.
 
 ent-ClothingHeadHatHoodWinterDefault = Standard-Wintermantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
@@ -50,7 +50,7 @@ ent-ClothingHeadHatHoodWinterBartender = Barkeeper-Wintermantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
 
 ent-ClothingHeadHatHoodWinterCaptain = Kapuze des Kapitäns
-    .desc = Eine teure Kapuze, um den Hauptmann warm zu halten.
+    .desc = Eine teure Kapuze, die den Kapitän warm hält.
 
 ent-ClothingHeadHatHoodWinterCargo = Frachtwintermantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
@@ -59,7 +59,7 @@ ent-ClothingHeadHatHoodWinterCE = Wintermantelhaube des Chefingenieurs
     .desc = Eine Haube, die den Kopf warm halten soll.
 
 ent-ClothingHeadHatHoodWinterCentcom = CentComm Winter Mantelhaube
-    .desc = Eine Haube, um den Kopf des zentralen Komanders warm zu halten.
+    .desc = Eine Haube, die den Kopf des CentComm-Kommandanten warm hält.
 
 ent-ClothingHeadHatHoodWinterChem = Chemische Wintermantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
@@ -152,4 +152,4 @@ ent-ClothingHeadHatHoodWinterColorYellow = Gelbe Wintermantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
 
 ent-ClothingHeadHatHoodVoidCloak = Haube mit leerem Mantel
-    .desc = Die Haube eines leeren Mantels. Für diejenigen, die auf die dunkle Seite der Macht gegangen sind.
+    .desc = Die Kapuze eines Mantels der Leere. Für alle, die zur dunklen Seite der Macht übergelaufen sind.

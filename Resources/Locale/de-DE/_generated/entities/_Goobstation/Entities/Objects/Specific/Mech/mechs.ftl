@@ -53,10 +53,10 @@ ent-MechGygaxSyndieFilled = Dark Gygax
     .desc = Ein modifiziertes Gygax, das für schändliche Zwecke verwendet wird. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
 ent-MechMaulerSyndie = Mauler
-    .desc = Ein modifizierter Marauder des Syndicate-S, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
+    .desc = Ein modifizierter Marauder des Syndicate-Agenten, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
 ent-MechMaulerSyndieBattery = Mauler
-    .desc = Ein modifizierter Marauder des Syndicate-S, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
+    .desc = Ein modifizierter Marauder des Syndicate-Agenten, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
 ent-MechMaulerSyndieFilled = Mauler
-    .desc = Ein modifizierter Marauder des Syndicate-S, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
+    .desc = Ein modifizierter Marauder des Syndicate-Agenten, der nicht so wendig ist wie der Dark Gygax, aber er gleicht das durch Rüstung und schiere Feuerkraft aus. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."

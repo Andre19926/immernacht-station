@@ -23,4 +23,4 @@ ent-ClothingShoesColorYellow = Gelbe Schuhe
     .desc = Stilvolle gelbe Schuhe.
 
 ent-ClothingShoesColorPurple = Purpurschuhe
-    .desc = Dass dies auch die ganze Sprache ist.
+    .desc = Das ist auch schon die ganze Sprache.

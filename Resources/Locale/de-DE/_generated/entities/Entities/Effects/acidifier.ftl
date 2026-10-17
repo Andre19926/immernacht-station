@@ -1,2 +1,2 @@
 ent-Acidifier = Säure
-    .desc = Schmelzt dich in eine Pfütze aus Yuck!
+    .desc = Schmilzt dich zu einer Pfütze aus Yuck!

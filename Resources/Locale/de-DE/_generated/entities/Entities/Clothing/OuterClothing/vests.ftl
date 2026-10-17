@@ -1,17 +1,17 @@
 ent-ClothingOuterVestWeb = Webweste
-    .desc = Eine synthetische Rüstungsweste. Dieser hat Gurtband und ballistische Platten hinzugefügt.
+    .desc = Eine synthetische Rüstungsweste. Diese hier wurde mit Gurtband und ballistischen Platten aufgerüstet.
 
 ent-ClothingOuterVestWebElite = Elite-Webweste
-    .desc = Eine synthetische Rüstungsweste. Dieser hat Gewebe und hitzebeständige Fasern hinzugefügt.
+    .desc = Eine synthetische Rüstungsweste. Diese hier wurde mit Gewebe und hitzebeständigen Fasern aufgerüstet.
 
 ent-ClothingOuterVestWebMerc = Söldnerweste
-    .desc = Eine hochwertige gepanzerte Weste aus hartem Kunststoff. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
+    .desc = Eine hochwertige gepanzerte Weste aus hartem Kunststoff. Sie ist trotz der gewaltigen Panzerung überraschend flexibel und leicht.
 
 ent-ClothingOuterVestDetective = Detektivweste
-    .desc = Eine hartgekochte Privatdetektivweste.
+    .desc = Eine abgebrühte Privatdetektivweste.
 
 ent-ClothingOuterVestHazard = Hi-Vis-Weste
-    .desc = Eine Warnweste, die in Arbeitszonen verwendet wird.
+    .desc = Eine Warnweste für Arbeitsbereiche.
 
 ent-ClothingOuterVest = Westen
     .desc = Eine dicke Weste mit gummiartiger, wasserfester Hülle.

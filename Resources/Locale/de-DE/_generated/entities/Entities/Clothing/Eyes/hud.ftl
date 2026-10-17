@@ -38,7 +38,7 @@ ent-ClothingEyesHudSyndicate = Syndicate-Visier
     .desc = Das professionelle Head-up-Display des Syndicate-Agenten, entwickelt zur besseren Erkennung von Humanoiden und deren anschließender Eliminierung.
 
 ent-ClothingEyesHudSyndicateAgent = Syndicate medizinisches Visier
-    .desc = Das professionelle Head-up-Display des Syndicate-Sanitäters, entwickelt zur schnellen Diagnose des Status des Teams.
+    .desc = Das professionelle Head-up-Display des Syndicate-Agentenanitäters, entwickelt zur schnellen Diagnose des Status des Teams.
 
 ent-ClothingEyesGlassesHiddenSecurity = Sonnenbrillen
     .desc = Eine schwarze Sonnenbrille.
