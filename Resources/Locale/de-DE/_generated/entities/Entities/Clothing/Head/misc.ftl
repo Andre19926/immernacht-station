@@ -39,7 +39,7 @@ ent-ClothingHeadHatCatEars = Katzenohren
 ent-ClothingHeadHatCatEarsValid = Katzenohren
 
 ent-ActionBecomeValid = Werde gültig
-    .desc = *bemerkt dein Killsign * owo, was das ist
+    .desc = *bemerkt dein Killsign* owo, was ist das
 
 ent-ClothingHeadHatDogEars = Hundeohren
     .desc = Nur für gute Jungs.

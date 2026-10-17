@@ -113,7 +113,7 @@ ent-ToyFigurineWizardFake = Falsche Zaubererfigur
     .desc = Eine Figur, die jemanden in einem gefälschten Zaubererkostüm zeigt. Was für eine Abzocke!
 
 ent-ToyFigurineGriffin = Greiffigur
-    .desc = Eine figur, die "the griffin", kriminelles mastermind, darstellt.
+    .desc = Eine Figur, die „The Griffin“, den kriminellen Strippenzieher, darstellt.
 
 ent-ToyFigurineOwlman = Owlman-Figur
     .desc = Eine Figur, die "Owlman", den Verteidiger der Gerechtigkeit, darstellt.

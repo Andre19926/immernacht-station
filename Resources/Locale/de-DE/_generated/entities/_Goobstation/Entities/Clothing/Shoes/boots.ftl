@@ -1,8 +1,8 @@
 ent-ClothingShoesBootsChrono = futuristische Stiefel
-    .desc = Ein fortschrittlicher futuristischer Schuh, der Komfort und volle Traktion auf jeder Oberfläche garantiert
+    .desc = Ein fortschrittlicher, futuristischer Schuh, der Komfort und vollen Halt auf jedem Untergrund garantiert.
 
 ent-ClothingShoesBootsChronoUnremoveable = futuristische Stiefel
-    .desc = Ein fortschrittlicher futuristischer Schuh, der Komfort und volle Traktion auf jeder Oberfläche garantiert
+    .desc = Ein fortschrittlicher, futuristischer Schuh, der Komfort und vollen Halt auf jedem Untergrund garantiert.
 
 ent-ClothingShoesResonant = Resonanzschuhe
     .desc = Ist es noch nicht an der Zeit, dass der prächtige Vorhang aufgeht?

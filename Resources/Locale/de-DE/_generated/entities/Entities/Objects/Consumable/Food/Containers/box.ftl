@@ -70,4 +70,4 @@ ent-FoodMealHappyHonkBigBite = Happy Honk Big Bite Mahlzeit
     .desc = Jemand hat gutes Geld bezahlt, um diese Fast-Food-Mahlzeit auf diese Weise zu versenden. Es riecht irgendwie frisch.
 
 ent-FoodBoxCloth = Schachtel mit Stoff der Marke FlutterSoft
-    .desc = Faser ist die wichtigste Mottenmahlzeit des Tages! Überspringe es nicht oder verwende Bottom-of-the-Spind-Junk, kaufe stattdessen hochwertiges FlutterSoft-Markentuch.
+    .desc = Faser ist die wichtigste Mottenmahlzeit des Tages! Überspring sie nicht und greif nicht zu Spind-Resten, sondern kauf lieber hochwertigen FlutterSoft-Markenstoff.

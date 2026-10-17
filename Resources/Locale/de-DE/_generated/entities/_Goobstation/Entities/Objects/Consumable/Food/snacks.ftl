@@ -53,7 +53,7 @@ ent-FoodSnackPokeysticks = Puppenstöcke
     .desc = Ein Bündel von Schokolade beschichteten Bisquit-Sticks.
 
 ent-FoodSnackChocobanana = Chocobanana
-    .desc = Eine Schokolade und streuen Bananen beschichtet. Auf einem Stock
+    .desc = Ein Stück Schokolade mit Bananenstreuseln überzogen, am Stiel.
 
 ent-FoodSnackDango = Dango
     .desc = Lebensmittelgefärbte Reisknödel auf einem Stock.

@@ -14,7 +14,7 @@ ent-BlueshieldPDA = Blueshield-PDA
     .desc = Der silberne Schild des Blueshield ist auf der Vorderseite eingraviert.
 
 ent-DeathsquadPDA = Deathquad PDA
-    .desc = Rip and tear, bis es fertig ist.
+    .desc = Rip and Tear, bis es erledigt ist.
 
 ent-NanotrasenRepresentativePDA = Nanotrasen Vertreter PDA
     .desc = Der Teufel steckt im Detail.

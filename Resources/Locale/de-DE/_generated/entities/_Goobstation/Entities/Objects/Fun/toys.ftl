@@ -5,7 +5,7 @@ ent-FoamThrongler = Foam Throngler
     .desc = Nicht der Throngler, den dich wollten, aber der Throngler, den dich verdienen.
 
 ent-PlushieDurk = Durk Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Du fühlst dich wie ein großer Bruch des Universums nähert, während dies halten
+    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Beim Halten hast du das Gefühl, ein großer Bruch im Universum nähere sich.
 
 ent-FoamWonderprod = Toy Wonderprod
     .desc = Mit diesem wird sec dich töten.
@@ -64,7 +64,7 @@ ent-PlushieXeve = Xeve Byrd Plüsch
     .desc = Dieser verdammte Byrd, den ich hasse.
 
 ent-PlushieTheHolyCrusader = Heiliger Kreuzritter-Plüsch
-    .desc = Der heiligste Kerl, den du jemals treffen wirst
+    .desc = Der heiligste Kerl, dem du je begegnen wirst.
 
 ent-DiscoBeachBall = Disco Beach Ball
     .desc = Ein Disco-Strandball verwandelt jeden Strandausflug in Studio 54.
@@ -85,7 +85,7 @@ ent-ToyBladeEldritch = Spielzeugklinge
     .desc = Eine gelbe Sichelklinge aus Kunststoff, verziert mit einem dekorativen Auge. Du hast das Gefühl, dass du beobachtet wirst...
 
 ent-PlushieTwofish = TwoFish Plüschtier
-    .desc = Bei näherem Hinsehen sieht aus wie ein Chud
+    .desc = Bei näherem Hinsehen sieht er aus wie ein Chud.
 
 ent-PlushieLeoMalone = Leo Malone Plüschtier
     .desc = Riecht schwach nach Autorität und Schießpulver. Es bellt viel. Nein, im Ernst. Viel.
@@ -126,7 +126,7 @@ ent-EvilPlushieJvne = Böser Jvne Plüsch
 ent-EvilPlushieMnwaar = Böser Mnwaar Plüsch
 
 ent-EvilPlushieDurk = Böser Durk Plüsch
-    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Du fühlst dich wie ein großer Bruch des Universums nähert, während dies halten
+    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Beim Halten hast du das Gefühl, ein großer Bruch im Universum nähere sich.
 
 ent-EvilPlushieLouie = Böser Louie Plüsch
     .desc = Ein süßes Stoffspielzeug, das einer Ratte ähnelt. Du fühlst einen seltsamen zwang, hallo zu der ratte zu sagen.
@@ -141,7 +141,7 @@ ent-EvilPlushiePasha = Böser Pascha Plüsch
     .desc = Ein nicht so niedliches Stoffspielzeug, das einem überarbeiteten Vox ähnelt. Riecht stark nach Nikotin.
 
 ent-EvilPlushieTwofish = Evil TwoFish
-    .desc = Bei näherem Hinsehen sieht aus wie ein Chud
+    .desc = Bei näherem Hinsehen sieht er aus wie ein Chud.
 
 ent-EvilPlushieLeoMalone = Böser Leo Malone Plüsch
     .desc = Riecht schwach nach Autorität und Schießpulver. Es bellt viel. Nein, im Ernst. Viel.

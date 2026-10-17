@@ -17,7 +17,7 @@ ent-BulletTaser = Tastbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletTaserSuper = Tastbolzen
-    .desc = Wenn du das sehen kannst, warst du wahrscheinlich betäubt
+    .desc = Wenn du das sehen kannst, wurdest du wahrscheinlich betäubt.
 
 ent-BulletDisabler = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!

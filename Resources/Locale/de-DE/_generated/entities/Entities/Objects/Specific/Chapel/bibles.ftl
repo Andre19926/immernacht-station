@@ -11,10 +11,10 @@ ent-ActionBibleSummon = Sumpf bekannt
     .desc = Beschwöre ein Vertrautes, das dir hilft und menschenähnliche Intelligenz gewinnt, die einst von einer Seele bewohnt wurde.
 
 ent-BibleTanakh = Tanakh
-    .desc = Für Gottes auserwählte Crewmitglieder
+    .desc = Für Gottes auserwählte Crewmitglieder.
 
 ent-BibleQuran = Koran
-    .desc = Gebet Teppich nicht inbegriffen
+    .desc = Gebetsteppich nicht inbegriffen.
 
 ent-BibleDruid = Druidentablette
     .desc = Es ist das Geheimnis der Druiden!

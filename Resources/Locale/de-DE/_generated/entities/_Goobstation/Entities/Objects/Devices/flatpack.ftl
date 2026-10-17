@@ -5,16 +5,16 @@ ent-ContrabandDetectorFlatpack = Schmuggeldetektor Flatpack
     .desc = Ein Flatpack zum Bau eines Schmuggeldetektors.
 
 ent-MedicalScannerFlatpack = Medizinischer Scanner Flatpack
-    .desc = Ein Flatpack zum Konstruieren eines Medical Scanners
+    .desc = Ein Flatpack zum Bau eines medizinischen Scanners
 
 ent-CloningpodFlatpack = Klonhülse Flatpack
-    .desc = Ein Flatpack zum Konstruieren eines Cloning Pods
+    .desc = Ein Flatpack zum Bau einer Klonkapsel
 
 ent-ComputerCloningConsoleFlatpack = Computer Klonen Konsole Flatpack
-    .desc = Ein Flatpack zum Konstruieren einer Computer-Klonkonsole
+    .desc = Ein Flatpack zum Bau einer Klon-Computerkonsole
 
 ent-BiomassReclaimerFlatpack = Biomass Reclaimer Flatpack
-    .desc = Ein Flatpack zum Bau eines Biomasse-Reclaimers
+    .desc = Ein Flatpack zum Bau eines Biomasse-Rückgewinners
 
 ent-MedicalBiofabricatorFlatpack = Medizinischer Biofabricator Flatpack
     .desc = Ein Flatpack zum Bau eines medizinischen Biofabrikators
@@ -26,19 +26,19 @@ ent-MachinePowerTransmissionLaserFlatpack = Leistungsübertragung Laser Flatpack
     .desc = Ein Flatpack zum Bau eines Energieübertragungslasers
 
 ent-ComputerFundingAllocationFlatpack = Mittelzuweisung Computer Flatpack
-    .desc = Ein Flatpack, das zum Aufbau eines Finanzierungsvergabecomputers verwendet wird
+    .desc = Ein Flatpack zum Bau eines Fördermittel-Computers
 
 ent-ComputerCargoRequestServiceFlatpack = Service-Anforderungscomputer (Flatpack)
     .desc = Ein Flatpack zum Aufbau eines Service-Anforderungscomputers.
 
 ent-ComputerCargoRequestMedicalFlatpack = medizinische Anfrage Computer Flatpack
-    .desc = Ein Flatpack zum Bau eines medizinischen Anfragecomputers
+    .desc = Ein Flatpack zum Bau eines medizinischen Anforderungscomputers
 
 ent-ComputerCargoRequestScienceFlatpack = Wissenschaft Anfrage Computer Flatpack
-    .desc = Ein Flatpack zum Bau eines Science Request Computers
+    .desc = Ein Flatpack zum Bau eines Forschungs-Anforderungscomputers
 
 ent-ComputerCargoRequestSecurityFlatpack = Sicherheitsanforderung Computer Flatpack
-    .desc = Ein Flatpack zum Aufbau eines Sicherheitsanforderungscomputers
+    .desc = Ein Flatpack zum Bau eines Sicherheits-Anforderungscomputers
 
 ent-TegCirculatorFlatpack = Umwälzpumpe Flatpack
     .desc = Ein Flatpack zum Bau eines Zirkulators für einen thermoelektrischen Generator.
@@ -50,13 +50,13 @@ ent-SlotMachineFlatpack = Slot Machine Flatpack
     .desc = Ein Flatpack zum Bau eines Spielautomaten
 
 ent-SlotMachineHighRollerFlatPack = High Roller Slot Machine Flatpack
-    .desc = Ein Flatpack zum Bau eines High Roller Spielautomaten
+    .desc = Ein Flatpack zum Bau eines High-Roller-Spielautomaten
 
 ent-CoinFlipperFlatPack = Münzflipper Flatpack
-    .desc = Ein Flatpack zum Bau eines Münzflippers
+    .desc = Ein Flatpack zum Bau eines Münzwerfers
 
 ent-ClawMachineFlatPack = Klauenmaschine Flachpackung
-    .desc = Ein Flatpack zum Bau einer Klauenmaschine
+    .desc = Ein Flatpack zum Bau eines Greifautomaten
 
 ent-ChemistryHotplateFlatPack = Kochplattenflachpackung
     .desc = Ein Flatpack zum Bau einer Kochplatte.

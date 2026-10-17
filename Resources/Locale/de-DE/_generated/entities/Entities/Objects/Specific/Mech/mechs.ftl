@@ -5,10 +5,10 @@ ent-MechRipleyBattery = Ripley APLU
     .desc = Vielseitig und leicht gepanzert, ist der Ripley für fast jedes schwere Arbeitsszenario nützlich. "APLU" steht für Autonomous Power Loading Unit.
 
 ent-MechHonker = H.O.N.K.
-    .desc = Produziert von "Tyranny of Honk, INC", ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Verwendet, um den Spaß und die Freude des Lebens zu verbreiten. HONK!
+    .desc = Hergestellt von „Tyranny of Honk, INC“, ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Dient dazu, Spaß und Freude im Leben zu verbreiten. HONK!
 
 ent-MechHonkerBattery = H.O.N.K.
-    .desc = Produziert von "Tyranny of Honk, INC", ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Verwendet, um den Spaß und die Freude des Lebens zu verbreiten. HONK!
+    .desc = Hergestellt von „Tyranny of Honk, INC“, ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Dient dazu, Spaß und Freude im Leben zu verbreiten. HONK!
 
 ent-MechHamtr = HAMTR
     .desc = Ein experimenteller Mech, der eine Gehirn-Computer-Schnittstelle benutzt, um sich direkt mit einem Hamstergehirn zu verbinden.

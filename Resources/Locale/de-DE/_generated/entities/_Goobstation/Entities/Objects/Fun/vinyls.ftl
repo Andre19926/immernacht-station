@@ -340,7 +340,7 @@ ent-VinylSleeveHeisenbee = Heisenbee Plattenhülle
     .desc = Das berühmte Maskottchen der Goonstation kehrt zurück, in Kartonform.
 
 ent-VinylSleeveStation13 = Space Station 13 Plattenhülle
-    .desc = Die berühmte Raumstation, unglücklich 13
+    .desc = Die berühmte Raumstation, Pech 13
 
 ent-VinylSleeveStation14 = Space Station 14 Plattenhülle
     .desc = Die berühmte Raumstation, Glück 14
@@ -361,7 +361,7 @@ ent-VinylSleeveEye = eye Plattenhülle
     .desc = Eine Plattenhülle, perfekt für die Aufbewahrung deiner Vinyls.
 
 ent-VinylSleeveTh = th Plattenhülle
-    .desc = Irgendwie entschied diese Indie-Band, sich selbst "th" zu nennen, war eine gute Idee
+    .desc = Irgendwie hielt diese Indie-Band es für eine gute Idee, sich selbst „th“ zu nennen.
 
 ent-VinylSleeveClown = Clown Plattenhülle
     .desc = Der Clown gewinnt immer.

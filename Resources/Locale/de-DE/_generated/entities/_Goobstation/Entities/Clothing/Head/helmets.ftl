@@ -8,7 +8,7 @@ ent-ClothingHeadHelmetBasicAlt = Helm
     .desc = Standard-Sicherheitsausrüstung. Schützt den Kopf vor Stößen.
 
 ent-ReverseBearTrap = Rückfallfalle
-    .desc = Ein entsetzlicher Satz von geschlossenen Metallbacken, an einer Küchenuhr befestigt und durch Vorhängeschloss an einer Kopfklemme befestigt. Um sich zu bewerben, schlage jemanden damit
+    .desc = Ein grauenhafter Satz geschlossener Metallbacken, an einer Küchenuhr befestigt und mit einem Vorhängeschloss an einer Kopfklemme gesichert. Um sich zu bewerben, schlag jemanden damit.
 
 ent-ClothingHeadHatHoodCloakSith = Dark Lord Hood
     .desc = Was als einfache Cosplay-Haube begann, wurde illegal mit gepanzerten Platten verstärkt und in ein funktionales Stück Rüstung verwandelt. Sieht so aus, als wäre es sogar in der Lage, den Benutzer vor dem fehlenden Druck im Weltraum zu schützen.

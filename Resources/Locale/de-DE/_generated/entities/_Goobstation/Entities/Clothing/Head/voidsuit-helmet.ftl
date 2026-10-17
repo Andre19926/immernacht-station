@@ -20,7 +20,7 @@ ent-ClothingHeadHelmetHardsuitExperimentalNanorep = NTX5-Mirrordusshelm
     .desc = Ein dunkler grüner Helm mit leuchtenden Cyan-Knoten, einem gespiegelten Visier und einem montierten Seitenlicht.
 
 ent-ClothingHeadSinguloth = Singuloth-Ritterhelm
-    .desc = Ein Adamantium-Helm aus dem Kapitel der Singuloth Knights. Es glänzt mit einer heiligen Aura
+    .desc = Ein Adamantium-Helm aus dem Orden der Singuloth-Ritter. Er glänzt in einer heiligen Aura.
 
 ent-ClothingHeadHelmetHardsuitVoxRaiderStealth = Vox Raider Stealth Helm
     .desc = Ein glatt konturierter, matt-schwarzer Alienhelm.

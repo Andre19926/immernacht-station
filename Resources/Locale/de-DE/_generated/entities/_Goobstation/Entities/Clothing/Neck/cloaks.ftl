@@ -14,7 +14,7 @@ ent-ClothingNeckCloakSanabi = Brigadegeneral-Umhang
     .desc = Ein zerfetzter, aber imposanter Mantel, der von Elite-Kriegern getragen wird.
 
 ent-ClothingNeckCloakVetCap = Umhang des Veteranenkapitäns
-    .desc = Kapitäne Aura Cloak
+    .desc = Aura-Umhang des Kapitäns
 
 ent-ClothingNeckCloakOuterCommand = Äußerer Führungsumhang
     .desc = Ein stilvoller lila Mantel mit Terra-Gov-Insignien.

@@ -73,7 +73,7 @@ ent-FoodPotato = Kartoffel
     .desc = Die Iren verhungerten, nachdem ihre Kartoffelpflanzen gestorben waren. Leider konnten sie nicht nach Weltraumkarpfen fischen, weil es der Raum der Königin war. Bringt man dies auf jeden Raum IRA Mitglied wird sie verrückt mit Wut fahren.
 
 ent-FoodTomato = Tomaten
-    .desc = Ich sage to-mah-to, du sagst tom-mae-to.
+    .desc = Ich sage To-mah-to, du sagst Tom-ey-to.
 
 ent-FoodBlueTomato = Blaue Tomate
     .desc = Das hier ist blau.

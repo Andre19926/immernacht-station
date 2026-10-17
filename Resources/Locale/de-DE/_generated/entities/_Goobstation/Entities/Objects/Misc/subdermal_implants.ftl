@@ -56,7 +56,7 @@ ent-StopTimeImplant = Stoppzeitimplantat
     .desc = Dieses Implantat ermöglicht es dem Benutzer, die Zeit in einem Bereich kurz anzuhalten.
 
 ent-AntagImplantChangeling = Wechselimplantat
-    .desc = Dieses Implantat ermöglicht es dem Benutzer, seinen Körper wie ein Wechsel zu verschieben
+    .desc = Dieses Implantat ermöglicht es dem Benutzer, seinen Körper wie einen Wechselbalg zu verschieben.
 
 ent-AntagImplantSpaceNinja = Ninja-Implantat
     .desc = Dieses Implantat ermöglicht es dem Benutzer, die Fähigkeiten eines Space Ninja zu erwerben.

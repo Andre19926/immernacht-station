@@ -20,7 +20,7 @@ ent-DiseaseBehaviorAnemia = Anämie
     .desc = In den letzten Phasen verursacht schwere Erstickungsschäden im Laufe der Zeit.
 
 ent-DiseaseBehaviorOrganFailure = Organversagen
-    .desc = In der Endphase besteht die Möglichkeit eines sofortigen Todes
+    .desc = In der Endphase besteht die Möglichkeit eines sofortigen Todes.
 
 ent-DiseaseBehaviorGunemia = Gunämie
     .desc = Macht dich Husten Kugeln. Mechanismus unbekannt.

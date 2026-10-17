@@ -71,7 +71,7 @@ ent-SignDirectionalSolar = Solaranlagen Schild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung Sonnen gehen.
 
 ent-SignDirectionalSupply = Versorgungsschild
-    .desc = Klimawandelhüllt Zuhas
+    .desc = Klimawandelhülle für Zuhause
 
 ent-SignDirectionalWash = Waschraumschild
     .desc = Eine Richtung Schild, zeigt auf den Weg zu einem Waschraum.

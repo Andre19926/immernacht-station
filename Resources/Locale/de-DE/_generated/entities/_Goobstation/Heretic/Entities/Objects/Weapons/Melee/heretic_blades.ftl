@@ -8,10 +8,10 @@ ent-HereticBladeBlade = Gespaltene Klinge
     .desc = Eine stattliche Klinge, gespalten und zerrissen. Wütend schneidet sie zu. Silberne Narben binden sie für immer an ihren finsteren Zweck.
 
 ent-HereticBladeFleshGhoul = Ghul-Sichel
-    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Sie scheint zu wissen, dass sie das Leid, das sie aus ihrem schrecklichen Ursprung erlitten hat, an andere weitergeben will.
+    .desc = Eine Sichelklinge, geboren aus einer fleischverzerrten Kreatur. Sie scheint das Leid, das sie durch ihren schrecklichen Ursprung erlitten hat, an andere weitergeben zu wollen.
 
 ent-HereticBladeFlesh = Blutige Klinge
-    .desc = Eine Sichelklinge, geboren von einer fleischverzerrten Kreatur. Sie scheint zu wissen, dass sie das Leid, das sie aus ihrem schrecklichen Ursprung erlitten hat, an andere weitergeben will.
+    .desc = Eine Sichelklinge, geboren aus einer fleischverzerrten Kreatur. Sie scheint das Leid, das sie durch ihren schrecklichen Ursprung erlitten hat, an andere weitergeben zu wollen.
 
 ent-HereticBladeLock = Schlüsselklinge
     .desc = Eine Klinge und ein Schlüssel – ein Schlüssel wozu? Welche großen Tore öffnet sie?

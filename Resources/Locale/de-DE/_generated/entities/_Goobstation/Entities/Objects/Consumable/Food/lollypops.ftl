@@ -17,19 +17,19 @@ ent-FoodSnackLollypopCarp = Carp Lutscher
     .desc = Ein karpfenförmiger Lutscher. Vorsicht, es beißt!
 
 ent-FoodSnackLollypopWrappedBlueshield = gewickelter Blueshield Lutscher
-    .desc = Ein tiefblauer Lutscher. Er ist noch in der Verpackung
+    .desc = Ein tiefblauer Lutscher. Er steckt noch in der Verpackung.
 
 ent-FoodSnackLollypopBlueshield = Blueshield Lutscher
     .desc = Ein tiefblauer Lutscher, der dich mit Entschlossenheit erfüllt. Los, Soldat!
 
 ent-FoodSnackLollypopWrappedCaptain = gewickelter Kapitäns-Lutscher
-    .desc = Ein extravaganter Lutscher. Er ist noch in der Verpackung
+    .desc = Ein extravaganter Lutscher. Er steckt noch in der Verpackung.
 
 ent-FoodSnackLollypopCaptain = Kapitäns-Lutscher
     .desc = Ein blauer Lutscher, der eine potenziell ungesunde Menge Goldblatt enthält. Nur für die besten Kapitäne.
 
 ent-FoodSnackLollypopWrappedCentComm = wraped centcomm Lutscher
-    .desc = Ein noch extravaganterer Lutscher. Er ist noch in der Verpackung
+    .desc = Ein noch extravaganterer Lutscher. Er steckt noch in der Verpackung.
 
 ent-FoodSnackLollypopCentcomm = centcomm Lutscher
     .desc = Ein grüner Lutscher mit einer äußerst ungesunden Menge an Goldblatt. Nur für die besten centcomm Agenten.

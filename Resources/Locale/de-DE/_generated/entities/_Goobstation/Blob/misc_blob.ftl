@@ -4,4 +4,4 @@ ent-MobMouseBlob = Maus
 ent-SpawnPointGhostBlobRat = Blob-Mäuse-Spawnpunkt
 
 ent-MindRoleBlob = Blob-Rolle
-    .desc = Mind-Role-Entität
+    .desc = Mind-Rollen-Entität

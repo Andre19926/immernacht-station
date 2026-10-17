@@ -23,7 +23,7 @@ ent-InterdyneFlippo = Interdyne Flippo
     .desc = Ein tiefblaues Flippo-Feuerzeug, das mit dem Logo der "Gene Clean" -Kliniken von Interdyne Pharmaceuticals verziert ist. Werde zum Meister deiner eigenen Zigarette.
 
 ent-NanotrasenFlippo = Nanotrasen Flippo
-    .desc = Ein marineblaues Luxus-Flippo, das in der Regel an treue Mitarbeiter anstelle einer Gehaltserhöhung verteilt wird. Mit flüssigem Plasma betrieben
+    .desc = Ein marineblaues Luxus-Feuerzeug, das üblicherweise anstelle einer Gehaltserhöhung an treue Mitarbeiter verteilt wird. Mit flüssigem Plasma betrieben.
 
 ent-CentCommFlippo = Gilded CentComm Flippo
     .desc = Ein verzierter, jade geprägter und vergoldeter Flippo-Rahmen, der einen blauraumbetriebenen Jet enthält. Das Latch wird durch einen Miniaturzugriffsleser gesichert, der nur auf CentComm-Beamte reagiert. Das schönste Feuerzeug, das dem Menschen bekannt ist.

@@ -5,4 +5,4 @@ ent-ActionXenoborgControlMonitor = Xenoborgs Kontrollkonsole
     .desc = Xenoborg-Kontrollkonsole ansehen
 
 ent-ActionXenoborgCameraMonitor = Xenoborgs Kameramonitor
-    .desc = Siehst du den Xenoborgs Camera Monitor
+    .desc = Zeigt den Kameramonitor der Xenoborgs an.

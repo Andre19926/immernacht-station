@@ -8,4 +8,4 @@ ent-MobHoloClownGuardian = HoloClown
     .desc = Ein faszinierender Wirbel aus harten Lichtmustern webt einen blau gefärbten Clown zweifelhafter Herkunft.
 
 ent-ActionToggleGuardian = Toggle Guardian
-    .desc = Entweder manifestiert den Wächter oder erinnert ihn zurück in deinen Körper
+    .desc = Beschwört entweder den Wächter oder ruft ihn zurück in deinen Körper.

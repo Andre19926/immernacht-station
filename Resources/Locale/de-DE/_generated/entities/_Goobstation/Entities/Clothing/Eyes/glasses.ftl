@@ -1,5 +1,5 @@
 ent-ClothingEyesGlassesMedSec = medizinische Sicherheitsbrille
-    .desc = Sonnenbrillen mit einer medizinischen und Sicherheitshütte
+    .desc = Sonnenbrille mit medizinischem und Sicherheits-HUD.
 
 ent-ClothingEyesPrescriptionGlasses = Rezeptbrillen
     .desc = Deine Versicherung deckt die nicht ab. Verlier sie nicht.

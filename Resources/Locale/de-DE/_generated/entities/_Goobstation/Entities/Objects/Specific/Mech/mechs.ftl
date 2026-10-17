@@ -11,7 +11,7 @@ ent-MechClarkeBattery = Clarke
     .desc = Ein sich schnell bewegender Mech für die Raumfahrt. Es hat eingebaute Trusts.
 
 ent-MechHonkerFilled = H.O.N.K.
-    .desc = Produziert von "Tyranny of Honk, INC", ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Verwendet, um den Spaß und die Freude des Lebens zu verbreiten. HONK!
+    .desc = Hergestellt von „Tyranny of Honk, INC“, ist dieser Exosuit als schwere Clown-Unterstützung konzipiert. Dient dazu, Spaß und Freude im Leben zu verbreiten. HONK!
 
 ent-MechGygax = Gygax
     .desc = Während leicht gepanzert, hat der Gygax unglaubliche Mobilität dank seiner Fähigkeit, die es durch Wände mit hohen Geschwindigkeiten zerschlagen lässt.

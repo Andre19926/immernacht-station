@@ -5,7 +5,7 @@ ent-MobBee = Bienen
     .desc = Schön zu haben, aber man kann keine Zivilisation auf einer Grundlage von Honig allein aufbauen.
 
 ent-MobAngryBee = Bienen
-    .desc = Wie schön eine Biene. Oh nein, es sieht wütend aus und will meine Pizza.
+    .desc = Was für eine schöne Biene. Oh nein, sie sieht wütend aus und will meine Pizza.
 
 ent-MobChicken = Huhn
     .desc = Kommt vor einem Ei und ist ein Dinosaurier!
@@ -139,7 +139,7 @@ ent-MobClownSpider = Clownspinne
     .desc = Kombiniert die beiden schrecklichsten Dinge in der Existenz, Spinnen und Clowns.
 
 ent-MobGiantSpiderWizard = Zauberspinne
-    .desc = Diese Spinne sieht ein wenig magisch aus
+    .desc = Diese Spinne sieht ein wenig magisch aus.
 
 ent-MobPossum = Possum
     .desc = "O Possum! Mein Possum!" - Walt Whitman, 1865

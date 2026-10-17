@@ -41,7 +41,7 @@ ent-ClothingBeltSecurityWebbingContractorFilled = Traktorträger
     .desc = Eine Brustanlage mit tiefen Taschen, die oft von Auftragnehmern und Kopfgeldjägern verwendet wird.
 
 ent-ClothingBeltWhipping = Schlaggurt
-    .desc = Wo eine Peitsche ist, gibt es einen Weg
+    .desc = Wo eine Peitsche ist, da ist ein Weg.
 
 ent-ClothingBeltUtilityAtmos = Atmosphärengürtel
     .desc = Behält alle Werkzeuge, die für ein wachsendes (mittleres) atmosisches Katzenmädchen benötigt werden.

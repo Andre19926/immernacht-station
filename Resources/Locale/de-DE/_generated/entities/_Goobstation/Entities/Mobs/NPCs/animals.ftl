@@ -5,10 +5,10 @@ ent-MobMothSyndy = Syndiroach
     .desc = Explosive Motte.
 
 ent-MobSyndieAngryBee = Syndie Bee
-    .desc = Wie schön eine Biene. Oh nein, es sieht wütend aus und will meine Pizza.
+    .desc = Was für eine schöne Biene. Oh nein, sie sieht wütend aus und will meine Pizza.
 
 ent-MobAngryBeeWeak = Bienen
-    .desc = Wie schön eine Biene. Oh nein, es sieht wütend aus und will meine Pizza.
+    .desc = Was für eine schöne Biene. Oh nein, sie sieht wütend aus und will meine Pizza.
 
 ent-MobLootbug = Lootbug
     .desc = Es isst Metall, vielleicht hat es etwas von Wert gegessen?

@@ -1,2 +1,2 @@
 ent-ActionBingleUpgrade = Upgrade
-    .desc = Upgrades bingle in eine stärkere Version
+    .desc = Rüstet Bingle zu einer stärkeren Version auf.

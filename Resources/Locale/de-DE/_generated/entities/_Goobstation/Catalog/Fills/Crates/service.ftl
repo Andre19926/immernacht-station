@@ -20,7 +20,7 @@ ent-CrateRadioStationVinyls = Vinylkiste
     .desc = Eine Kiste mit 12 Vinyls, so dass du NIE den gleichen Song zweimal spielen wirst, sie kommen in Ärmeln!
 
 ent-CrateHolySupplies = Heilige Versorgungskiste
-    .desc = Enthält eine Bibel und 2 Krüge Weihwasser für religiöse Bedürfnisse
+    .desc = Enthält eine Bibel und 2 Krüge Weihwasser für religiöse Bedürfnisse.
 
 ent-CrateCargoWalkieTalkie = Handheld-Radiokiste
     .desc = Enthält 5 Handfunkgeräte.

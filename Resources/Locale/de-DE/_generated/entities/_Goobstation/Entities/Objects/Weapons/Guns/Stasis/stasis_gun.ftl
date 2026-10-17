@@ -1,2 +1,2 @@
 ent-WeaponStasisGun = Stasispistole
-    .desc = Ein Gerät, um den zeitlichen Fluss einer lebenden (oder nicht) Kreatur zu stoppen
+    .desc = Ein Gerät, um den Zeitfluss einer lebenden (oder auch nicht) Kreatur anzuhalten.

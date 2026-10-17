@@ -25,4 +25,4 @@ ent-ClothingModsuitBootsCaptain = Magnat Modsuit Stiefel
     .desc = Diese Stiefel wurden von DEM Michael Jordan entworfen und aus uralten Legierungen gefertigt, Mann.
 
 ent-ClothingModsuitBootsBrigMed = Trauma Modsuit Stiefel
-    .desc = Geflogene Boots
+    .desc = Geflogene Stiefel

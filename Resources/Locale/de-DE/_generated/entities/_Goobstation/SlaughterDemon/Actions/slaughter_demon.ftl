@@ -1,5 +1,5 @@
 ent-BloodCrawlAction = Blutgarnelen
-    .desc = JAUNT ÜBERALL, WENN SIE IM BLUT SIND
+    .desc = JAUNTE ÜBERALLHIN, WENN DU IM BLUT BIST
 
 ent-DemonicWhisperAction = Dämonisches Flüstern
-    .desc = Sende eine Botschaft an deine Seele, von der Hölle
+    .desc = Sende eine Botschaft an deine Seele, aus der Hölle.

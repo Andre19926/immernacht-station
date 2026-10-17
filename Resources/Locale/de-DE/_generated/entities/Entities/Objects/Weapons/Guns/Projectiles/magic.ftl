@@ -17,7 +17,7 @@ ent-ProjectilePolyboltMonkey = Affen-Polybol
     .desc = Nein, ich will kein Affe sein!
 
 ent-ProjectilePolyboltDoor = Türpolybolzen
-    .desc = Nooo, ich will nicht Tür sein!
+    .desc = Nooo, ich will keine Tür sein!
 
 ent-ProjectileHealingBolt = Heilungsbolzen
     .desc = Ich verpflichte dich zu leben!

@@ -1,5 +1,5 @@
 ent-MedkitCombatStasiziumFilled = futuristisches Medkit
-    .desc = Medkit gefüllt mit Medikamenten der Zukunft
+    .desc = Medkit mit Medikamenten der Zukunft.
 
 ent-MedkitBSOFilled = taktisches medizinisches Kit
     .desc = Enthält alles, was du brauchst, um eine Person schnell wieder aufstehen zu lassen.

@@ -1,8 +1,8 @@
 ent-ClothingMaskGasChrono = futuristische Gasmaske
-    .desc = Eine futuristische Gasmaske unbekannten Designs mit einer unvorstellbaren Anzahl von Filtersystemen
+    .desc = Eine futuristische Gasmaske unbekannter Bauart mit einer unvorstellbaren Zahl an Filtersystemen.
 
 ent-ClothingMaskGasChronoUnremoveable = futuristische Gasmaske
-    .desc = Eine futuristische Gasmaske unbekannten Designs mit einer unvorstellbaren Anzahl von Filtersystemen
+    .desc = Eine futuristische Gasmaske unbekannter Bauart mit einer unvorstellbaren Zahl an Filtersystemen.
 
 ent-ClothingMaskClownUnremoveable = nicht abnehmbare Bananenclownperücke und -maske
     .desc = Eine Clownmaske mit einer faltbaren Perücke; eine wahre Pranksterkleidung.
@@ -23,7 +23,7 @@ ent-ClothingMaskGasUnremoveable = Gasmaske
     .desc = Eine Gesichtsmaske, die an eine Luftzufuhr angeschlossen werden kann.
 
 ent-ClothingBSOMaskGasSwat = Blueshield-SWAT-Gasmaske
-    .desc = Eine Standard-Gasmaske für BlueShield Officers
+    .desc = Eine Standard-Gasmaske für BlueShield-Offiziere.
 
 ent-ClothingMaskGasThunderdome = Donnerdom-Gasmaske
     .desc = Bist du bereit für RUMBLEEEE?

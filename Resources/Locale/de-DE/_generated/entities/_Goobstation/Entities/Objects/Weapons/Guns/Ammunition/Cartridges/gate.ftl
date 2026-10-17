@@ -1,5 +1,5 @@
 ent-CartridgeG8Demolishing = Kartusche (G8-Abriss)
-    .desc = Schüsse "The Spear of Ares" -Kugel, zerstört ganze Mauern, verursacht massive Ausdauerschäden an Menschen und überladende Energiewirbel.
+    .desc = Feuert die Kugel „Speer des Ares“ ab, zerstört ganze Mauern, verursacht massiven Ausdauerschaden an Menschen und lädt Energiewirbel über.
 
 ent-CartridgeG8Hypercharged = Kartusche (G8 hypercharged)
-    .desc = Schüsse "The Bolt of Zeus" Kugel, schockierend alle auf dem Weg und die Schaffung eines Energiewirbels an seinem Zielpunkt, die eine massive Explosion bei Überladung erzeugt.
+    .desc = Feuert die Kugel „Blitz des Zeus“ ab, schockt alle auf dem Weg und erzeugt am Zielpunkt einen Energiewirbel, der bei Überladung eine massive Explosion auslöst.

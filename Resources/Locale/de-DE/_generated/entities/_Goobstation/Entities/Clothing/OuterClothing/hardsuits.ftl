@@ -20,7 +20,7 @@ ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 „Ehrengarde“-Par
     .desc = Ein spezieller Hardsuit, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat ein experimentelles eingebautes stimulierendes Autoinjektorsystem.
 
 ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Mirrorduss
-    .desc = Ein grober dunkler Exosuit aus verstärkter Beschichtung, geätzt mit schwach leuchtenden Bluespace-Schaltungen. Du kannst jemandem sagen, der versucht hat, einen Teil des Textes zu kratzen - Prototyp Nr. 2
+    .desc = Ein grober, dunkler Exosuit aus verstärkter Beschichtung, mit schwach leuchtenden Bluespace-Schaltkreisen geätzt. Jemand hat offenbar versucht, einen Teil der Schrift abzukratzen – Prototyp Nr. 2.
 
 ent-ClothingSingulothArmor = Singuloth Ritterrüstung
     .desc = Eine zeremonielle Rüstung aus dem Kapitel der Singuloth Knights, Es ist aus rein geschmiedetem Adamantium gemacht.

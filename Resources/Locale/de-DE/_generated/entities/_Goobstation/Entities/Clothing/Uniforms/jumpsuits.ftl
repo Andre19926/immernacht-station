@@ -104,7 +104,7 @@ ent-ClothingUniformJumpsuitResearchDirectorAlt = Forschungsleiter-Rollkragenunif
     .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpsuitVeteranSecurity = Luftsicherheit-Uniform
-    .desc = Eine luftige Version der Standardsicherheit Insgesamt, normalerweise in Schichten mit fehlender atmos-Abteilung
+    .desc = Eine luftige Version des Standard-Sicherheitsoveralls, normalerweise in Schichten getragen, wenn die Atmos-Abteilung fehlt.
 
 ent-ClothingUniformJumpsuitGoldenLiaison = Golden Liaison CentCom-Uniform
     .desc = Eine fein zugeschnittene Weiß-Gold-Uniform, die von hochrangigen Beamten des CentComm getragen wird.

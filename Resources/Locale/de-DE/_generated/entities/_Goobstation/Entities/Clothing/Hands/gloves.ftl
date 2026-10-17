@@ -1,8 +1,8 @@
 ent-ClothingHandsGlovesChronoLegioneer = futuristische Handschuhe
-    .desc = Futuristische Handschuhe aus unbekanntem Material, die keine Spuren hinterlassen
+    .desc = Futuristische Handschuhe aus unbekanntem Material, die keine Spuren hinterlassen.
 
 ent-ClothingHandsGlovesChronoLegioneerUnremoveable = futuristische Handschuhe
-    .desc = Futuristische Handschuhe aus unbekanntem Material, die keine Spuren hinterlassen
+    .desc = Futuristische Handschuhe aus unbekanntem Material, die keine Spuren hinterlassen.
 
 ent-ClothingHandsGlovesExplosiveShock = Isolierte Handschuhe
     .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
