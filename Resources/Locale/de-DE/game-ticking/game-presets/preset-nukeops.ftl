@@ -49,6 +49,6 @@ nukeops-no-one-ready = Keine Spieler bereit! Ich kann Nukeops nicht starten.
 
 nukeops-role-commander = Kommandant
 nukeops-role-agent = Sanitäter
-nukeops-role-operator = Agent
+nukeops-role-operator = Operator
 
 nukeops-roundend-name = ein Atomagent

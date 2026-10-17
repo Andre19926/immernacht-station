@@ -78,7 +78,7 @@ ent-ClothingUniformEnvirosuitScientist = Wissenschaft-Umweltanzug
 ent-ClothingUniformEnvirosuitSec = Sicherheit-Umweltanzug
     .desc = Ein Plasmaman Containment-Anzug für Sicherheitsbeamte.
 
-ent-ClothingUniformEnvirosuitSecBlue = Umweltanzug (blau (Sicherheit))
+ent-ClothingUniformEnvirosuitSecBlue = Umweltanzug (Sicherheit, blau)
     .desc = Ein kühles blaues enviroshirt über kohlenhosen, für den ruhigen und gesammelten plasmaman-offizier.
 
 ent-ClothingUniformEnvirosuitSecGrey = Umweltanzug (grau (Sicherheit))

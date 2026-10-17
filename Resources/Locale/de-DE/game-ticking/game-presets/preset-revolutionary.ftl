@@ -70,7 +70,7 @@ rev-headrev-name = [color=#5e9cff]{$name}[/color] converted {$count} {$count ->
 
 ## Deconverted window
 
-rev-deconverted-title = Entkonvertiert!
+rev-deconverted-title = Bekehrung aufgehoben!
 rev-deconverted-text =
     Als die letzte Headrev neutralisiert wurde, ist die Revolution vorbei.
 

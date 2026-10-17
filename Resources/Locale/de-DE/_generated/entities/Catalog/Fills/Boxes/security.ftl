@@ -13,8 +13,8 @@ ent-BoxStinger = Stingergranatenbox
 ent-BoxTearGas = Tränengasgranatenbox
     .desc = Eine Schachtel voller Tränengasgranaten. Halte den Atem an.
 
-ent-BoxSechud = Sechudscha-Box
-    .desc = Eine Schachtel Sechuds.
+ent-BoxSechud = Sec-HUD-Box
+    .desc = Eine Schachtel Sec-HUDs.
 
 ent-BoxSecglasses = Glaskasten
     .desc = Eine Schachtel Sicherheitsbrille.

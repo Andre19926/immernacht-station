@@ -8,10 +8,10 @@ selectable-set-thief-anatomy-description =
 
 selectable-set-thief-breacher-name = Einbrecher-Set
 selectable-set-thief-breacher-description =
-    Was ist das für ein Sound? Ein lil 'C4 klopfen' an ihrer Tür.
+    Was ist das für ein Geräusch? Ein kleines C4 klopft an ihre Tür.
     Kein Hindernis kann dich aufhalten!
-    Enthält: Zwei C4, ein Multitool, Fernsignalgeber, Kiefer des Lebens,
-    fortschrittliche Schweißer, technische Brillen und isolierte Handschuhe.
+    Enthält: Zwei C4, ein Multitool, einen Fernsignalgeber, Rettungsschere,
+    einen fortschrittlichen Schweißer, Technikerbrille und Isolierhandschuhe.
 
 selectable-set-thief-chameleon-name = Chamäleon-Set
 selectable-set-thief-chameleon-description =

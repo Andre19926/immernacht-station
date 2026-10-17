@@ -10,7 +10,7 @@ ent-ClothingNeckPonchoSyndicate = schwarz und rot kaltes Wetter Poncho
 ent-ClothingNeckPonchoSmallPink = Kleines rosa kaltes Wetter Poncho
     .desc = Der Cold Weather Poncho, beworben als Meisterwerk des elementaren Schutzes. Diese stilvolle Wiedergabe kommt in einer kleineren Größe. Dieser ist rosa und weiß.
 
-ent-ClothingNeckPonchoSmallRed = Kleines rotes kaltes Wetter Poncho
+ent-ClothingNeckPonchoSmallRed = Kleiner roter Kaltwetter-Poncho
     .desc = Der Cold Weather Poncho, beworben als ein Meisterwerk des elementaren Schutzes. Diese stilvolle Wiedergabe kommt in einer kleineren Größe mit einem niedlicheren Design. Dieser ist rot und schwarz.
 
 ent-ClothingNeckPonchoSmallPurple = kleine lila kaltes Wetter Poncho

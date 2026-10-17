@@ -19,7 +19,7 @@ ent-BoxLighttube = Lampenkasten
 ent-BoxLightMixed = Gemischte-Leuchten-Kiste
     .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
-ent-BoxLighttubeHoliday = Ferienlichtröhrenbox
+ent-BoxLighttubeHoliday = Festtags-Leuchtröhrenbox
     .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxPDA = PDA-Box
@@ -34,8 +34,8 @@ ent-BoxHeadset = Headset-Box
 ent-BoxStamps = Stempelbox
     .desc = Eine kleine Schachtel mit Stempeln.
 
-ent-BoxMesonScanners = Meson-Box
-    .desc = Eine Schachtel mit Meson-Brille.
+ent-BoxMesonScanners = Meson-Scanner-Box
+    .desc = Eine Schachtel mit Meson-Scannern.
 
 ent-BoxMRE = M.R.E.
     .desc = Eine Schachtel mit jahrzehntelangen militärischen Überschussrationen. Es ist erstaunlicherweise nicht faul.
