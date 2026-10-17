@@ -2,9 +2,9 @@ translator-component-shutoff = {$translator} schaltet sich ab.
 translator-component-turnon = {$translator} schaltet sich ein.
 
 translator-implanter-refuse = {$implanter} hat keine Wirkung auf {$target}.
-translator-implanter-success = {$implanter} wurde erfolgreich in {$target} injiziert.
-translator-implanter-ready = Dieser Implanter scheint einsatzbereit zu sein.
-translator-implanter-used = Dieser Implanter scheint leer zu sein.
+translator-implanter-success = {$implanter} wurde erfolgreich in {$target} verabreicht.
+translator-implanter-ready = Dieser Implantator scheint einsatzbereit zu sein.
+translator-implanter-used = Dieser Implantator scheint leer zu sein.
 
 translator-examined-langs-understood = Er kann übersetzen aus: [color=green]{$languages}[/color].
 translator-examined-langs-spoken = Er kann übersetzen in: [color=green]{$languages}[/color].
