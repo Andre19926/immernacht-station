@@ -113,4 +113,4 @@ ent-ClothingUniformJumpsuitMonk = Lange Hosen für Mönche
     .desc = Einfache Hose, nicht viel besser als ein alter Sack.
 
 ent-ClothingUniformJumpsuitHawaiGreen = Green Hawaii Hemd
-    .desc = Central CommandTM Grün.
+    .desc = Central Command™-Grün.

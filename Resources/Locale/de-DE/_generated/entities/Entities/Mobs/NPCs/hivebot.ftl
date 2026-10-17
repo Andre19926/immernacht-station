@@ -1,5 +1,5 @@
 ent-MobHivebot = Hivebot
-    .desc = Rührende, mechanisierte Schädlinge.
+    .desc = Aufdringliche, mechanisierte Schädlinge.
 
 ent-MobHivebotRanged = Hivebot
     .desc = Rührende, mechanisierte Schädlinge. Dieser hat eine Waffe.

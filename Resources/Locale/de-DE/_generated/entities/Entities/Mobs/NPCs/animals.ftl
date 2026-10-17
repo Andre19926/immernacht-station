@@ -163,7 +163,7 @@ ent-MobCorgiPuppy = Corgi Welpen
     .desc = Ein kleiner Corgi! Aww...
 
 ent-MobCat = Katze
-    .desc = Feline pet, sehr lustig.
+    .desc = Ein Haustier aus der Familie der Katzen, sehr lustig.
 
 ent-MobCatCalico = Katerkatze
     .desc = Feline pet, sehr lustig.

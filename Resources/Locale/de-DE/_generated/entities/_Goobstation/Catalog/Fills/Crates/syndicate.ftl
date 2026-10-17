@@ -5,7 +5,7 @@ ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
     .desc = Enthält eine Reihe von Cybersan schweren gepanzerten Mechs.
 
 ent-CrateSyndicateBulkMosin = Syndicate Bulk Gewehrkiste
-    .desc = Benutze einfach mehr Gewehre, Kamerad.
+    .desc = Benutze einfach mehr Gewehre, Genosse.
 
 ent-CrateSyndicateDreadnought = Cybersun Dreadnought Bundle
     .desc = Ein fortschrittliches Cybersun Dreadnought Bundle.

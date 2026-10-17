@@ -23,7 +23,7 @@ ent-ClothingHandsGlovesLatex = Latexhandschuhe
     .desc = Dünne sterile Latexhandschuhe. Basic PPE für jeden Arzt.
 
 ent-ClothingHandsGlovesNitrile = Nitrilhandschuhe
-    .desc = Hochwertige Nitrilhandschuhe. Teure medizinische PSA.
+    .desc = Hochwertige Nitrilhandschuhe. Teure medizinische Schutzausrüstung.
 
 ent-ClothingHandsGlovesLeather = Handschuhe für Botaniker
     .desc = Diese Lederhandschuhe schützen vor Dornen, Widerhaken, Stacheln und anderen schädlichen Gegenständen pflanzlichen Ursprungs. Sie sind außerdem ziemlich warm.

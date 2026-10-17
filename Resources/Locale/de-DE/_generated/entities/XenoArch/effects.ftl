@@ -35,7 +35,7 @@ ent-XenoArtifactOmnitool = Einmaleffekt
     .desc = Bekommt die Fähigkeit von Omnitool
 
 ent-XenoArtifactEffectBadFeeling = Wirkung
-    .desc = Sendungen sublime Nachricht
+    .desc = Sendet unterschwellige Nachricht
 
 ent-XenoArtifactEffectGoodFeeling = Wirkung
     .desc = Sendungen sublime Nachricht
@@ -68,7 +68,7 @@ ent-XenoArtifactFoamMild = Wirkung
     .desc = Produziert chemischen Schaum
 
 ent-XenoArtifactRandomInstrumentSpawn = Wirkung
-    .desc = Erschafft Musikinstrument
+    .desc = Erzeugt Musikinstrument
 
 ent-XenoArtifactMonkeySpawn = Wirkung
     .desc = Erschafft Primaten
@@ -83,16 +83,16 @@ ent-XenoArtifactKnock = Wirkung
     .desc = Leichte elektromagnetische Störungen
 
 ent-XenoArtifactMagnet = Einmaleffekt
-    .desc = Erstelle kleine Schwerkraft gut
+    .desc = Erzeugt kleinen Gravitationsbrunnen
 
 ent-XenoArtifactMagnetNegative = Einmaleffekt
     .desc = Erstelle kleine Schwerkraft gut
 
 ent-XenoArtifactStealth = Einmaleffekt
-    .desc = Lichtinterferenz erzeugen
+    .desc = Erzeugt Lichtinterferenzen
 
 ent-XenoArtifactRareMaterialSpawn = Wirkung
-    .desc = Seltene Materialien schaffen
+    .desc = Erzeugt seltene Materialien
 
 ent-XenoArtifactRareMaterialSpawnSilver = Wirkung
     .desc = Seltene Materialien schaffen
@@ -107,13 +107,13 @@ ent-XenoArtifactRareMaterialSpawnUranium = Wirkung
     .desc = Uran erzeugen
 
 ent-XenoArtifactAngryCarpSpawn = Wirkung
-    .desc = Erstelle feindliche Fische
+    .desc = Erzeugt feindliche Karpfen
 
 ent-XenoArtifactFaunaSpawn = Wirkung
     .desc = Erstelle eine freundliche Fauna
 
 ent-XenoArtifactHostileFaunaSpawn = Wirkung
-    .desc = Erstelle feindliche Fauna
+    .desc = Erzeugt feindliche Fauna
 
 ent-XenoArtifactCashSpawn = Wirkung
     .desc = Geld schaffen
@@ -163,7 +163,7 @@ ent-XenoArtifactMaterialSpawnPlastic = Wirkung
     .desc = Plastik schaffen
 
 ent-XenoArtifactPortal = Wirkung
-    .desc = Kurzlebiges Bluespace-Portal erstellen
+    .desc = Erzeugt kurzlebiges Bluespace-Portal
 
 ent-XenoArtifactArtifactSpawn = Wirkung
     .desc = Artefakt erstellen

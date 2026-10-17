@@ -1,5 +1,5 @@
 ent-CleanerDispenser = Raumfilterspender
-    .desc = Wallmount Space Cleaner Dispenser.
+    .desc = Wandmontierter Reinigerspender.
 
 ent-FuelDispenser = Kraftstoffspender
-    .desc = Wallmount Kraftstoffspender.
+    .desc = Wandmontierter Kraftstoffspender.

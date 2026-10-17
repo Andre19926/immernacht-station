@@ -108,7 +108,7 @@ ent-ClothingUniformJumpsuitJanitor = Hausmeister-Arbeitskleidung
     .desc = Das Ganze für den armen Sop mit einem Mopp.
 
 ent-ClothingUniformJumpsuitKimono = Kimono
-    .desc = Traditionelle chinesische Kleidung.
+    .desc = Traditionelle japanische Kleidung.
 
 ent-ClothingUniformJumpsuitMedicalDoctor = Arztuniform
     .desc = Es besteht aus einer speziellen Faser, die einen geringen Schutz vor Biogefahren bietet. Es hat ein Kreuz auf der Brust, das anzeigt, dass der Träger ausgebildetes medizinisches Personal ist.

@@ -26,7 +26,7 @@ ent-MouseMenace = Bedrohung
     .desc = Quietschen!
 
 ent-MobCorgiIanClown = Clown Ian
-    .desc = Honkmothers Lieblingskorgi.
+    .desc = Der Lieblingscorgi der Honkmother.
 
 ent-MobBrullbar = Oberarm
     .desc = Oh Gott.

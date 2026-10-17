@@ -51,7 +51,7 @@ ent-ClothingHeadHatRedRacoon = Roter Rakonenhut
     .desc = Fluffy Hut der roten Rakone!
 
 ent-WaterDropletHat = Wassertropfen
-    .desc = Macht 8-äugige Freunde 8 mal liebenswerter!
+    .desc = Macht 8-äugige Freunde 8-mal liebenswerter!
 
 ent-ClothingHeadHatHairflower = Haarblume
     .desc = Eine schöne Haarblume, die zwischen Haarlocken eingesetzt werden kann.

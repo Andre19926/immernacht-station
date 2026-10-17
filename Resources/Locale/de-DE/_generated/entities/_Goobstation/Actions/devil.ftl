@@ -11,7 +11,7 @@ ent-ActionDevilPossess = Zielbesitz
     .desc = Vorübergehend ein Ziel besitzen.
 
 ent-ActionEndPossession = Endbesitz
-    .desc = Storniere diesen Besitz vorzeitig.
+    .desc = Beende diese Besessenheit vorzeitig.
 
 ent-ActionDevilGrip = Teufelsgriff
     .desc = Der kleine Bruchteil deiner Macht bleibt in diesem Bereich, kanalisiert in deine Hände.

@@ -55,7 +55,7 @@ ent-ClothingNeckCloakVoid = Leermantel
     .desc = Ein Mantel der Dunkelheit. Für diejenigen, die auf die dunkle Seite der Macht gegangen sind.
 
 ent-ClothingNeckCloakAce = Umhang des Piloten
-    .desc = Cloak erhielt Nanotrasens feinste Weltraum-Asse.
+    .desc = Umhang aus Nanotrasens feinsten Weltraum-Assen.
 
 ent-ClothingNeckCloakAro = Werwolfmantel
     .desc = Dieser Mantel lässt andere wissen, dass du ein einsamer Wolf bist.

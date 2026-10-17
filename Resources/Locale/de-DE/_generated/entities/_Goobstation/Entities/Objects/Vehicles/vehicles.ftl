@@ -22,4 +22,4 @@ ent-VehicleHoverchair = Hoverchair
 ent-VehicleForkliftOverlay = Gabelstaplerüberlagerung
 
 ent-VehicleForklift = Gabelstapler
-    .desc = NanoTrasen genehmigt Gabelstapler-Zertifizierung erforderlich.
+    .desc = Von NanoTrasen zugelassen. Gabelstapler-Zertifizierung erforderlich.

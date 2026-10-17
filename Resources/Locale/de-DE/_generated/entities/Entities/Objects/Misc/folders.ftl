@@ -73,7 +73,7 @@ ent-BoxFolderWhiteThreePapers = Ordner
     .desc = Ein Ordner mit streng geheimen Papierkram gefüllt.
 
 ent-BoxFolderCentComEmpty = Ordner CentComm
-    .desc = CentComms miserabler kleiner Haufen Geheimnisse!
+    .desc = CentComms elender kleiner Haufen Geheimnisse!
 
 ent-BoxFolderCentCom = Ordner CentComm
     .desc = CentComms miserabler kleiner Haufen Geheimnisse!

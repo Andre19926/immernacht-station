@@ -20,7 +20,7 @@ ent-MrDips = mr Dips
     .desc = Es ist ein Dummy, Dummy!
 
 ent-Error = Fehler
-    .desc = Hmmmm. Irgendetwas ging schief.
+    .desc = Hmmmm. Irgendetwas ist schiefgelaufen.
 
 ent-SpectralLocatorUnpowered = Spektrallokator
     .desc = Scheint ein modifizierter Anomalie-Locator zu sein. Scheint sehr alt zu sein.

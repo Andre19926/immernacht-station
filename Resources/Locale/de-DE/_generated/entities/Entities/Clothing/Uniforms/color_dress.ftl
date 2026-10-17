@@ -14,7 +14,7 @@ ent-ClothingUniformJumpskirtPurpleElegantDress = Purpurfarbenes elegantes Kleid
     .desc = Elegantes Kleid mit einem schönen Bogen.
 
 ent-ClothingUniformJumpskirtCyanStripedDress = Cyan gestreiftes Kleid
-    .desc = Niedlich gestreiftes Kleid.
+    .desc = Ein niedliches gestreiftes Kleid.
 
 ent-ClothingUniformJumpskirtRedStripedDress = Rot gestreiftes Kleid
     .desc = Niedlich gestreiftes Kleid.

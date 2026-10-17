@@ -20,7 +20,7 @@ ent-MouseCube = Mauswürfel
     .desc = Füge einfach Wasser hinzu!
 
 ent-CockroachCube = Kakerlakenwürfel
-    .desc = Füge einfach wa-Oh Gott!
+    .desc = Einfach Wasser hinzufü... oh Gott!
 
 ent-SpaceCarpCube = Karpfenwürfel
     .desc = Füge einfach Wasser hinzu! Auf eigene Gefahr.

@@ -92,10 +92,10 @@ ent-FoodOnionRings = Zwiebelringe
     .desc = Du kannst es essen oder deinen Lieben vorschlagen.
 
 ent-FoodBakedCroissant = Croissant
-    .desc = Butterige, schuppige Güte.
+    .desc = Butterige, blättrige Köstlichkeit.
 
 ent-FoodBakedCroissantCotton = Croissant aus Baumwolle
-    .desc = Butterig, flockig, faserig.
+    .desc = Butterig, blättrig, faserig.
 
 ent-FoodBakedGrilledCheeseSandwich = gegrilltes Käsesandwich
     .desc = Brot und Käse mit Butter geröstet, perfekt für einen kühlen Tag im Weltraum.

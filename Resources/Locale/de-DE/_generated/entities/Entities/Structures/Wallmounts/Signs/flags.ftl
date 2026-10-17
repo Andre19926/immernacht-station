@@ -8,7 +8,7 @@ ent-SyndieFlag = Flagge des Syndicate-S
     .desc = Riecht blutig. Tod zu NT!
 
 ent-LGBTQFlag = LGBTQ Flagge
-    .desc = "Be gay do crime" Flagge.
+    .desc = „Be gay, do crime“-Flagge.
 
 ent-PirateFlag = Piratenflagge
     .desc = Hebe den fröhlichen Roger, scallywags!

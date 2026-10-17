@@ -35,7 +35,7 @@ ent-ClothingShoesJester = Schuhe
     .desc = Ein Hofnarr Schuhe, aktualisiert mit modernen Quietschen Technologie.
 
 ent-ClothingShoesCluwne = Cluwne-Schuhe
-    .desc = Verfluchtes Paar Clowne Schuhe.
+    .desc = Ein verfluchtes Paar Clownschuhe.
 
 ent-ClothingShoesClownLarge = Große Clownschuhe
     .desc = Wenn du dich in einem Raum voller Clowns abheben musst!

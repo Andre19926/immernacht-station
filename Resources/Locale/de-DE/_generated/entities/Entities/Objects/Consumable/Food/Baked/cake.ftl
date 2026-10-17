@@ -83,7 +83,7 @@ ent-FoodCakeChristmasSlice = Stück Weihnachtskuchen
     .desc = Nur ein Stück Kuchen, es ist genug für alle.
 
 ent-FoodCakeBirthday = Geburtstagskuchen
-    .desc = Happy Birthday kleiner Clown...
+    .desc = Alles Gute zum Geburtstag, kleiner Clown ...
 
 ent-FoodCakeBirthdaySlice = Stück Geburtstagskuchen
     .desc = Ein Stück von deinem Geburtstag.

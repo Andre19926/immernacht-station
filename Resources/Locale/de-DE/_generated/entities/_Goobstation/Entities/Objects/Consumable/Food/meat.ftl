@@ -2,7 +2,7 @@ ent-FoodMeatGondola = Rohes Gondelfleisch
     .desc = Du Monster.
 
 ent-FoodMeatGondolaCooked = Gondelsteak
-    .desc = Gekocht, hartes Gondelfleisch.
+    .desc = Gekochtes, zähes Gondelfleisch.
 
 ent-FoodMeatBingle = rohes Binselfleisch
     .desc = Riecht nach Scheiße.

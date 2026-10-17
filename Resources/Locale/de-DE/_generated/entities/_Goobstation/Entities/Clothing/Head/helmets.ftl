@@ -22,7 +22,7 @@ ent-ClothingHeadHatHelmetCage = Käfig
     .desc = Ein Käfig, der den Willen des Selbst zurückhält und es einem ermöglicht, die profane Welt als das zu sehen, was sie ist.
 
 ent-ClothingHeadHatHelmetAncient = Alter Helm
-    .desc = Niemand darf vorübergehen!
+    .desc = Du kommst hier nicht vorbei!
 
 ent-ClothingHeadHatHelmetWitchhunter = Hexenhut
     .desc = Dieser Hut sah viel Gebrauch zurück in den Tag.

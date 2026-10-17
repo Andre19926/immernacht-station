@@ -1,5 +1,5 @@
 ent-CrateEngineeringGear = Technik-Ausrüstungskiste
-    .desc = Verschiedene technische Getriebeteile.
+    .desc = Verschiedene technische Ausrüstungsteile.
 
 ent-CrateEngineeringToolbox = Werkzeugkastenkiste
     .desc = Zwei mechanische und zwei elektrische Werkzeugkasten.
@@ -14,7 +14,7 @@ ent-CrateEngineeringCableHV = HV-Kabelkiste
     .desc = 3 Spulen von HV-Kabeln.
 
 ent-CrateEngineeringFoamGrenade = Dichtungsgranatenkiste
-    .desc = 5 Metallschaum-Dichtstoffgranaten.
+    .desc = 5 Dichtschaum-Granaten aus Metallschaum.
 
 ent-CrateEngineeringCableBulk = Massenkabelkiste
     .desc = 2 Spulen für jeden Kabeltyp.
@@ -38,7 +38,7 @@ ent-CrateEvaKit = EVA-Kit
     .desc = Ein Set, bestehend aus zwei renommierten EVA-Anzügen und Helmen.
 
 ent-CrateRCDAmmo = Komprimatkasten
-    .desc = Enthält drei Druckpatronen.
+    .desc = Enthält drei komprimierte Patronen.
 
 ent-CrateRCD = RCD-Kiste
     .desc = Eine Kiste mit einem einzigen Schnellbaugerät.

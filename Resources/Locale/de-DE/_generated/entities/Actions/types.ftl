@@ -53,7 +53,7 @@ ent-ActionToggleBlock = Block
     .desc = Hebe oder senke deinen Schild.
 
 ent-ActionClearNetworkLinkOverlays = Netzwerkverbindungen ausblenden
-    .desc = Klare Netzwerkverbindungsüberlagerungen.
+    .desc = Netzwerkverbindungs-Overlays entfernen.
 
 ent-ActionAnimalLayEgg = Ei legen
     .desc = Verwendet Hunger, um ein Ei zu legen.

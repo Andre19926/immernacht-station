@@ -1,5 +1,5 @@
 ent-Spear = Speer
-    .desc = Definition eines Klassikers. Halten Mord erschwinglich seit 200.000 BCE.
+    .desc = Die Definition eines Klassikers. Hält Mord erschwinglich – seit 200.000 v. Chr.
 
 ent-SpearReinforced = verstärkter Speer
     .desc = Ein Speer mit einer verstärkten Glasscherbe als Spitze.

@@ -1,5 +1,5 @@
 ent-ActionMechCycleEquipment = Ausrüstung wechseln
-    .desc = Derzeit ausgewählte Zyklen
+    .desc = Derzeit ausgewählte Ausrüstung durchschalten.
 
 ent-ActionMechOpenUI = Kontrollfeld
     .desc = Öffnet das Bedienfeld für den Mech

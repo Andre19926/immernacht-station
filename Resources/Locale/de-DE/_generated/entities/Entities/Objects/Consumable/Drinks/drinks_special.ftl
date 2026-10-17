@@ -32,4 +32,4 @@ ent-DrinkShakeRobo = Roboshake
 ent-DrinkShakeWhite = Weißer Shake
 
 ent-DrinkShakerBluespace = Bluespace-Shaker
-    .desc = Mass-Mixing leicht gemacht!
+    .desc = Massenmixen leicht gemacht!

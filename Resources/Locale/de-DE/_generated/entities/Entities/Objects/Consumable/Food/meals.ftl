@@ -2,7 +2,7 @@ ent-FoodMealPotatoLoaded = Beladene gebackene Kartoffel
     .desc = Vollständig gebacken.
 
 ent-FoodMealFries = Pommes frites
-    .desc = AKA, französische Fries, Freedom Fries, etc.
+    .desc = Auch bekannt als Pommes frites, Freedom Fries usw.
 
 ent-FoodMealFriesCheesy = Pommes frites
     .desc = Fries. Mit Käse bedeckt. Duh.

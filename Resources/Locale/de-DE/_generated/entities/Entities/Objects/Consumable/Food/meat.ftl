@@ -38,7 +38,7 @@ ent-FoodMeatRat = rohes Rattenfleisch
     .desc = Prime Fleisch aus der Wartung!
 
 ent-FoodMeatLizard = rohes Echsenfleisch
-    .desc = Delicious Dino Schaden.
+    .desc = Köstliches Dino-Fleisch.
 
 ent-FoodMeatPlant = rohes Pflanzenfleisch
     .desc = Alle Freuden des gesunden Essens mit all dem Spaß am Kannibalismus.
@@ -116,7 +116,7 @@ ent-FoodMeatDuckCooked = gekochte Ente
     .desc = Ein gekochtes Stück Ente. Am besten in anderen Rezepten verwendet.
 
 ent-FoodMeatCrabCooked = gekochte Krabbe
-    .desc = Einige köstlich gekochte Krabbenfleisch.
+    .desc = Köstlich gekochtes Krabbenfleisch.
 
 ent-FoodMeatGoliathCooked = Goliathsteak
     .desc = Ein leckeres, lavagekochtes Steak.
@@ -125,7 +125,7 @@ ent-FoodMeatRounyCooked = Rouny Steak CAS-Nr.
     .desc = Manche töten, um zu überleben. Du hingegen tötest zum Spaß.
 
 ent-FoodMeatLizardCooked = Echsensteak
-    .desc = Gekochtes, hartes Echsenfleisch.
+    .desc = Gekochtes, zähes Echsenfleisch.
 
 ent-FoodMeatSpiderlegCooked = Gekochtes Spinnenbein
     .desc = Ein riesiges Spinnenbein, das immer noch zuckt, nachdem es gekocht wurde. Brutto!
@@ -161,7 +161,7 @@ ent-FoodMeatDuckCutlet = rohes Entenschnitzel
     .desc = Ein Stück rohe Ente. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatLizardCutlet = rohes Echsenschnitzel
-    .desc = Köstliches Dino-Schnitzel.
+    .desc = Ein köstliches Dino-Schnitzel.
 
 ent-FoodMeatSpiderCutlet = rohes Spinnenschnitzel
     .desc = Ein Stück rohem Spinnenfleisch. Kafkaesque.
@@ -194,7 +194,7 @@ ent-FoodMeatDuckCutletCooked = Entenschnitzel
     .desc = Ein Schnitzel gekochter Ente. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatLizardCutletCooked = Echsenschnitzel
-    .desc = Köstlich gekochtes Dino-Schnitzel.
+    .desc = Ein köstlich gebratenes Dino-Schnitzel.
 
 ent-FoodMeatSpiderCutletCooked = Spinnenschnitzel
     .desc = Ein Stück gekochtes Spinnenfleisch. Endlich essbar.

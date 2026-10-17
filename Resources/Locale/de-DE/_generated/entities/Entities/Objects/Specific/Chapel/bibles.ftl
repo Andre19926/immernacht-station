@@ -2,7 +2,7 @@ ent-ChaplainUndeterminedBible = Bluespace-Schriftfeuer
     .desc = Obwohl ich durch das Tal des Schattens des Todes gehe, fürchte ich nichts Böses, denn du bist bei mir.
 
 ent-Bible = Bibel
-    .desc = Neue Interstellar Version 2340.
+    .desc = Neue Interstellare Version 2340.
 
 ent-BibleNecronomicon = Necronomicon
     .desc = Es gibt eine Notiz: Klatuu, Verata, Nikto - Vergiss es nicht noch einmal!

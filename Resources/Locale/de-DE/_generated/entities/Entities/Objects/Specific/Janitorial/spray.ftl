@@ -8,7 +8,7 @@ ent-SprayBottleWater = Sprühflasche
     .desc = Eine Sprühflasche mit abschraubbarem Deckel.
 
 ent-SprayBottleSpaceCleaner = Sprühflasche
-    .desc = BLAM!-markenloser Raumreiniger!
+    .desc = BLAM! – markenloser Raumreiniger!
 
 ent-MegaSprayBottleSpaceCleaner = Mega-Sprühflasche
     .desc = BLAM!-Marke nicht schäumende Raumreiniger, jetzt in einem größeren Paket für diese riesigen Blutpfützen!

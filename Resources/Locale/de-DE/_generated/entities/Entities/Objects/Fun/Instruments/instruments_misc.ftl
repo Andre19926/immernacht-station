@@ -8,7 +8,7 @@ ent-BirdToyInstrument = Vogelpfeife
     .desc = Eine entzückende kleine Pfeife in Form eines Vogels. Es singt wunderschön.
 
 ent-PhoneInstrument = rotes Telefon
-    .desc = Sollte jemals etwas schief gehen...
+    .desc = Falls jemals etwas schiefgehen sollte ...
 
 ent-PhoneInstrumentSyndicate = Blutrotes Telefon
     .desc = Für böse Menschen, die ihre Freunde anrufen.

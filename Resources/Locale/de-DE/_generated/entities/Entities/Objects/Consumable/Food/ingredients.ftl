@@ -17,10 +17,10 @@ ent-ReagentContainerRiceSmall = Reispackung
     .desc = Eine Packung Reis. Gut zum Kochen!
 
 ent-ReagentContainerSugar = Zuckerbeutel
-    .desc = Eine große Tüte leckeren spacey Zucker.
+    .desc = Eine große Tüte leckeren Weltraumzuckers.
 
 ent-ReagentContainerSugarSmall = Zuckerpackung
-    .desc = Eine Packung leckeren spacey Zucker.
+    .desc = Eine Packung leckeren Weltraumzuckers.
 
 ent-ReagentContainerOliveoil = Olivenöl
     .desc = Olivenöl. Aus dem Weltraum Oliven vermutlich.

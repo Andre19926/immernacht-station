@@ -17,91 +17,91 @@ ent-FoodSnackLollypopCarp = Carp Lutscher
     .desc = Ein karpfenförmiger Lutscher. Vorsicht, es beißt!
 
 ent-FoodSnackLollypopWrappedBlueshield = gewickelter Blueshield Lutscher
-    .desc = Ein tiefblauer Lutscher. Es ist immer noch im Wrapper
+    .desc = Ein tiefblauer Lutscher. Er ist noch in der Verpackung
 
 ent-FoodSnackLollypopBlueshield = Blueshield Lutscher
     .desc = Ein tiefblauer Lutscher, der dich mit Entschlossenheit erfüllt. Los, Soldat!
 
 ent-FoodSnackLollypopWrappedCaptain = gewickelter Kapitäns-Lutscher
-    .desc = Ein extravaganter Lutscher. Es ist immer noch im Wrapper
+    .desc = Ein extravaganter Lutscher. Er ist noch in der Verpackung
 
 ent-FoodSnackLollypopCaptain = Kapitäns-Lutscher
     .desc = Ein blauer Lutscher, der eine potenziell ungesunde Menge Goldblatt enthält. Nur für die besten Kapitäne.
 
 ent-FoodSnackLollypopWrappedCentComm = wraped centcomm Lutscher
-    .desc = Ein noch extravaganterer Lutscher. Es ist immer noch im Wrapper
+    .desc = Ein noch extravaganterer Lutscher. Er ist noch in der Verpackung
 
 ent-FoodSnackLollypopCentcomm = centcomm Lutscher
     .desc = Ein grüner Lutscher mit einer äußerst ungesunden Menge an Goldblatt. Nur für die besten centcomm Agenten.
 
 ent-FoodSnackLollypopWrappedBicaridine = gewickeltes Bicaridin Lutscher
-    .desc = Ein Bicaridin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Bicaridin gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopBicaridine = Bicaridin Lutscher
     .desc = Ein Bicaridin gefüllt Lutscher. Aromatisiert wie Orangen.
 
 ent-FoodSnackLollypopWrappedProbital = gewickelter probitaler Lutscher
-    .desc = Ein probital gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein probital gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopProbital = Solar Lutscher
     .desc = Ein hellgelber Lutscher mit Probital gefüllt. Sol's Favorit!
 
 ent-FoodSnackLollypopWrappedKelotane = eingewickeltes Kelotan Lutscher
-    .desc = Ein kelotangefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein kelotangefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopKelotane = Kelotan-Lutscher
     .desc = Ein kelotangefüllter Lutscher. Iss mit einem Dermalin zur gleichen Zeit für maximale Effekte.
 
 ent-FoodSnackLollypopWrappedDermaline = gewickelter Dermalin Lutscher
-    .desc = Ein Dermalin gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Dermalin gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopDermaline = Dermalin-Lutscher
     .desc = Ein mit Dermalin gefüllter Lutscher. Aromatisiert mit ... Blau?
 
 ent-FoodSnackLollypopWrappedTricordrazine = gewickelter Tricordrazin-Lutscher
-    .desc = Ein Tricordrazin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Tricordrazin gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopTricordrazine = Tricordrazin-Lutscher
     .desc = Ein Tricordrazin gefüllt Lutscher. Ein Favorit der Ärzte!
 
 ent-FoodSnackLollypopWrappedDylovene = Umhüllter dylovenischer Lutscher
-    .desc = Ein dylovenischer gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein dylovenischer gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopDylovene = dylovenischer Lutscher
     .desc = Ein dylovenischer gefüllter Lutscher. Es ist ein stumpfes Lila.
 
 ent-FoodSnackLollypopWrappedOmnizine = gewickelte Omnizine Lutscher
-    .desc = Ein Omnizine gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Omnizine gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopOmnizine = omnizine Lutscher
     .desc = Ein Omnizine gefüllt Lutscher. Reserviert für die besten Patienten.
 
 ent-FoodSnackLollypopWrappedDexalinPlus = gewickeltes Dexalin plus Lutscher
-    .desc = Ein Dexalin plus gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Dexalin plus gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopDexalinPlus = Dexalin plus Lutscher
     .desc = Ein Dexalin plus gefüllter Lutscher. Gewöhnlich zwangsernährt zu Leuten, die ihre Interna vergessen haben.
 
 ent-FoodSnackLollypopWrappedHyronalin = Hyronalin Lutscher
-    .desc = Ein Hyronalin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Hyronalin gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopHyronalin = Hyronalin Lutscher
     .desc = Ein Hyronalin gefüllt Lutscher. Nicht ganz so effektiv, wie du hoffst.
 
 ent-FoodSnackLollypopWrappedIbuprofen = Ibuprofen Lutscher
-    .desc = Ein Ibuprofen gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Ibuprofen gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopIbuprofen = Ibuprofen Lutscher
     .desc = Ein Ibuprofen gefüllt Lutscher. Hinterlässt einen schlechten Nachgeschmack im Mund.
 
 ent-FoodSnackLollypopWrappedAntihol = gewickelter Antihol Lutscher
-    .desc = Ein Antihol gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Antihol gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopAntihol = Antihol Lutscher
     .desc = Ein Kalomel gefüllt Lutscher. Ein betrunkener bester Freund.
 
 ent-FoodSnackLollypopWrappedMitotrophin = gewickeltes Mitotrophin Lutscher
-    .desc = Ein mitotrophingefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein mitotrophingefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopMitotrophin = Mitotrophin Lutscher
     .desc = Ein mitotrophingefüllter Lutscher. Schmeckt schrecklich, aber du wirst dich in kürzester Zeit besser fühlen.
@@ -194,7 +194,7 @@ ent-FoodSnackLollypopPotassiumBomb = Lutscher
     .desc = Ein einfacher alter Lutscher. Dieser gibt dir ein schlechtes Gefühl.
 
 ent-FoodSnackLollypopWrappedCognizine = Cognizin Lutscher
-    .desc = Ein mit Kognizin gefüllter Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein mit Kognizin gefüllter Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopCognizine = cognizine Lutscher
     .desc = Ein mit Kognis gefüllter Lutscher. Es schimmert ein hypnotisierendes Purpur.
@@ -218,7 +218,7 @@ ent-FoodSnackLollypopMouseBites = mousebites Lutscher
     .desc = Er braucht Mausbisse zum Leben.
 
 ent-FoodSnackLollypopWrappedMindbreakerToxin = Wraped Mindbreaker Lutscher
-    .desc = Ein Mindbreaker-Toxin gefüllt Lutscher. Es ist immer noch in einem Wrapper.
+    .desc = Ein Mindbreaker-Toxin gefüllt Lutscher. Er ist noch in einer Verpackung.
 
 ent-FoodSnackLollypopMindbreakerToxin = Mindbreaker-Toxin Lutscher
     .desc = Ein mit Mindbreaker-Toxin gefüllter Lutscher. Solltest du ... das essen?

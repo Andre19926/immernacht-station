@@ -32,7 +32,7 @@ ent-FoodCondimentPacketSoy = Sojasauce
     .desc = Ein salziges Soja-basiertes Aroma.
 
 ent-FoodCondimentPacketSugar = Zucker
-    .desc = Schmackhafter spacey Zucker!
+    .desc = Köstlicher Weltraumzucker!
 
 ent-FoodCondimentBottleColdsauce = Kaltaugenflasche
     .desc = Lässt die Zunge taub in ihrem Durchgang.

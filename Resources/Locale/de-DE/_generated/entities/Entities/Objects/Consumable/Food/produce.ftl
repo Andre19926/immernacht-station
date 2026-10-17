@@ -5,7 +5,7 @@ ent-MeatwheatBushel = Fleischweizen-Buschel
     .desc = Einige blutgetränkte Weizenstiele. Du kannst sie in das zerquetschen, was für Fleisch gilt, wenn du hart genug schielst.
 
 ent-OatBushel = Haferbüsche
-    .desc = Iss Hafer, mache Squats.
+    .desc = Iss Hafer, mach Kniebeugen.
 
 ent-Sugarcane = Zuckerrohr
     .desc = Krank süß.

@@ -1,5 +1,5 @@
 ent-WeaponMechSpecialMousetrapMortar = Mausefallenmörtel
-    .desc = Angebaute Mausefallenwerfer.
+    .desc = Angebauter Mausefallenwerfer.
 
 ent-WeaponMechSpecialBananaMortar = Bananenmörtel
-    .desc = Bananenschalenwerfer montiert.
+    .desc = Angebauter Bananenschalenwerfer.

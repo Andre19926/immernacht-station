@@ -11,7 +11,7 @@ ent-MobCorgiMouse = Echte Maus
     .desc = Es ist 100% eine wirklich hungrige Maus.
 
 ent-MobCorgiIanPup = Puppy Ian
-    .desc = Lieblings Welpen Corgi. Awww.
+    .desc = Der Lieblings-Corgi-Welpe. Awww.
 
 ent-MobCatRuntime = Aven
     .desc = Die Katze, die alleine geht.

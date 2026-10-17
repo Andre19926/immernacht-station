@@ -79,7 +79,7 @@ ent-PlushieLeguia = ein einzelner Aal
     .desc = Dubiose Kreatur.
 
 ent-PlushieWachtel = grug Plüschtier
-    .desc = Gottes betrunkenster Fahrer
+    .desc = Gottes betrunkenster Fahrer.
 
 ent-ToyBladeEldritch = Spielzeugklinge
     .desc = Eine gelbe Sichelklinge aus Kunststoff, verziert mit einem dekorativen Auge. Du hast das Gefühl, dass du beobachtet wirst...

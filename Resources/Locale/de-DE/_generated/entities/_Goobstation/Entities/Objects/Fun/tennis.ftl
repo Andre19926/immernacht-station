@@ -2,7 +2,7 @@ ent-BaseTennisRacket = Tennisschläger
     .desc = Ein robuster Tennisschläger.
 
 ent-NTTennisRacket = Tennisschläger mit Nanotrasen
-    .desc = Team Nanotrasen robuster Tennisschläger!
+    .desc = Robuster Tennisschläger von Team Nanotrasen!
 
 ent-SyndicateTennisRacket = Syndicate Tennisschläger
-    .desc = Team Syndicate robuster Tennisschläger!
+    .desc = Robuster Tennisschläger von Team Syndicate!

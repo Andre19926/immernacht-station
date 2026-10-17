@@ -367,7 +367,7 @@ ent-VinylSleeveClown = Clown Plattenhülle
     .desc = Der Clown gewinnt immer.
 
 ent-VinylSleeveNanoYork = Neue Nano York Plattenhülle
-    .desc = Das Cover zeigt New Nano York nach der Konzernübernahme von 2333.
+    .desc = Der Einband zeigt New Nano York nach der Konzernübernahme von 2333.
 
 ent-VinylSleeveDJTider = JD Tider Plattenhülle
     .desc = DJ tider eine galaktische Sensation, seine galaktische Tour listet Sol und Alpha Centauri als Stopps.

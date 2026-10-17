@@ -17,7 +17,7 @@ ent-WeaponShotgunKammerer = Kammerer
     .desc = Eine alte und treue Pumpaktion, der Kammerer ist billig, leicht und würde wahrscheinlich noch funktionieren, wenn du ihn eine Woche lang in der Brennkammer lassen würdest. Beliebt für den zivilen Gebrauch und geliebt von NanoTrasen für seinen winzigen Preis. Ladet 7 Runden von 12 Gauge.
 
 ent-WeaponShotgunSawn = abgesägte Schrotflinte
-    .desc = Groovy! Verwendet 12 Gauge Shotgun Granaten.
+    .desc = Groovy! Verwendet Schrotpatronen im Kaliber 12.
 
 ent-WeaponShotgunSawnEmpty = abgesägte Schrotflinte
     .desc = Groovy! Verwendet 12 Gauge Shotgun Granaten.

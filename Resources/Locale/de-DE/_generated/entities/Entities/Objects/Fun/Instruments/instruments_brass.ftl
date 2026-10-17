@@ -2,7 +2,7 @@ ent-TrumpetInstrument = Trompete
     .desc = Das Lieblingsinstrument von Jazzmusikern und egoistischen Mittelschülern.
 
 ent-TromboneInstrument = Trombone
-    .desc = Jedermanns Lieblings-Schiebe-Messinginstrument.
+    .desc = Das Lieblingsinstrument aller: Schiebe-Blechblasinstrument.
 
 ent-FrenchHornInstrument = Französisches Horn
     .desc = Die Tatsache, dass das Halten es beinhaltet, deine Hand zu benutzen, um es zu dämpfen, kann etwas über seinen Klang vorschlagen.

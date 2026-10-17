@@ -2,13 +2,13 @@ ent-AtmosFixBlockerMarker = Atmos Fix Vakuummarker
     .desc = Vakuum, T20C
 
 ent-AtmosFixOxygenMarker = Atmos Fix Sauerstoffmarker
-    .desc = Sauerstoff @ Gasbergbaudruck, T20C
+    .desc = Sauerstoff @ Gasminer-Druck, 20 °C
 
 ent-AtmosFixNitrogenMarker = Atmos Fix Stickstoffmarker
-    .desc = Stickstoff @ Gasbergbaudruck, T20C
+    .desc = Stickstoff @ Gasminer-Druck, 20 °C
 
 ent-AtmosFixPlasmaMarker = Atmos Fix Plasmamarker
-    .desc = Plasma @ Gasminerdruck, T20C
+    .desc = Plasma @ Gasminer-Druck, 20 °C
 
 ent-AtmosFixInstantPlasmaFireMarker = Atmos Fix Instant Plasmafire Marker
     .desc = INSTANTES LASMAFIRE

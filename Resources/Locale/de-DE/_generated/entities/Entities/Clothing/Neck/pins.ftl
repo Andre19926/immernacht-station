@@ -8,7 +8,7 @@ ent-ClothingNeckAromanticPin = Aromantischer Stift
     .desc = Sei aro do crime.
 
 ent-ClothingNeckAroacePin = Aroace Pin
-    .desc = Sei aroace Verbrechen tun.
+    .desc = Sei aroace, tu Verbrechen.
 
 ent-ClothingNeckAsexualPin = Asexuelle Pinsel
     .desc = Sei ace do crime.
@@ -17,13 +17,13 @@ ent-ClothingNeckBisexualPin = Bisexuelle Pinsel
     .desc = Sei bi do crime.
 
 ent-ClothingNeckGayPin = Gay Pin
-    .desc = Sei schwul - tu Verbrechen.
+    .desc = Sei schwul, tu Verbrechen.
 
 ent-ClothingNeckIntersexPin = Intersex-Pin
-    .desc = Intersexuell sein, Verbrechen tun.
+    .desc = Sei intersexuell, tu Verbrechen.
 
 ent-ClothingNeckLesbianPin = Lesben Pin
-    .desc = Lesbisch sein, Verbrechen tun.
+    .desc = Sei lesbisch, tu Verbrechen.
 
 ent-ClothingNeckNonBinaryPin = nichtbinärer Stift
 
@@ -37,10 +37,10 @@ ent-ClothingNeckOmnisexualPin = Omnisexueller Pinsel
     .desc = Sei omni, do crime.
 
 ent-ClothingNeckGenderqueerPin = Genderqueer Pin
-    .desc = Verbrechen sein, Geschlecht tun
+    .desc = Sei genderqueer, tu Verbrechen.
 
 ent-ClothingNeckGenderfluidPin = Genderfluid Pin
-    .desc = Sei geschlecht, sei fließend
+    .desc = Sei genderfluid, tu Verbrechen.
 
 ent-ClothingNeckTransPin = Transgender Pin
     .desc = Sei trans, do crime.

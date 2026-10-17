@@ -8,7 +8,7 @@ ent-PonderingOrbRadioactiveM = Pönderıng örb [100 rads]
     .desc = Zum Ruhm von Richard Turk
 
 ent-PonderingOrbRadioactiveS = Pönderıng örb [7 rads]
-    .desc = Lokales Artefakt wurde emmisiv
+    .desc = Lokales Artefakt wurde strahlend.
 
 ent-GasMinerNitrogenSM = N2-Gasbergbau
     .desc = Gase, die vom Gasriesen unten (oben?) abgebaut wurden, strömen durch diese massive Entlüftung.

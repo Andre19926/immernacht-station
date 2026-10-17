@@ -5,7 +5,7 @@ ent-ClothingBeltUtilityEngineering = Versorgungsgurt
     .desc = Kann verschiedene Dinge halten.
 
 ent-ClothingBeltChiefEngineerFilled = Werkzeuggürtel des Chefingenieurs
-    .desc = Hält Werkzeuge, sieht snazzy.
+    .desc = Hält Werkzeuge und sieht schick aus.
 
 ent-ClothingBeltSecurityFilled = Sicherheitsgurt
     .desc = Kann Sicherheitsausrüstung wie Handschellen und Blitze halten.

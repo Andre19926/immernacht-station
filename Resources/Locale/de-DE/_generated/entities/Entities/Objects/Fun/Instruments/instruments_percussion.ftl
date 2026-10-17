@@ -5,7 +5,7 @@ ent-MusicBoxInstrument = Musikbox
     .desc = Wenn du dies spielst, fühle dich vor gruseliger Animatronik sicher.
 
 ent-XylophoneInstrument = Xylophon
-    .desc = Regenbogenfarbenes Glockenspiel.
+    .desc = Ein regenbogenfarbenes Glockenspiel.
 
 ent-MicrophoneInstrument = Mikrofon
     .desc = Perfekt, um dein herz zu singen.

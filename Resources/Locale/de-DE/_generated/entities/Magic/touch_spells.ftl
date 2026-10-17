@@ -5,4 +5,4 @@ ent-ActionCluwne = Der Fluch von Cluwne
     .desc = Verwandelt jemanden in eine Cluwne!
 
 ent-ActionSlippery = Slippery Slope
-    .desc = Mache jemanden rutschig.
+    .desc = Mach jemanden rutschig.

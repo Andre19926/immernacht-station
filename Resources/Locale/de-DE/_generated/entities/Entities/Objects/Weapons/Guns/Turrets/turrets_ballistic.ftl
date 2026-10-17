@@ -14,4 +14,4 @@ ent-WeaponTurretAllHostile = ballistischer Turm
     .desc = Ein ballistischer Maschinengewehr-Autoturm.
 
 ent-WeaponTurretXeno = Xeno-Turm
-    .desc = Schießt 9mm Säuregeschosse.
+    .desc = Verschießt 9-mm-Säuregeschosse.

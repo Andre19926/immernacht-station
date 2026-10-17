@@ -50,7 +50,7 @@ ent-ScrapMedkit = Schnappschüssel Medkit
     .desc = Hoffentlich haben sie etwas Gebrauch daraus gemacht.
 
 ent-ScrapMopBucket = Halber Wischbecher
-    .desc = Tiders sterben. Hausmeister überleben.
+    .desc = Tider sterben. Hausmeister überleben.
 
 ent-ScrapPAI = Personal-KI-Gerät
     .desc = Ein Kumpel! Bist du noch da? Hallo? Kumpel???

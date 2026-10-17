@@ -5,16 +5,16 @@ ent-CrateSalvageAssortedGoodies = Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateCrusherDagger = Brecher Dolchkiste
-    .desc = Enthält 4 Brecher Dolche für die Verwendung durch Salvage.
+    .desc = Enthält 4 Brecher Dolche für die Verwendung durch die Bergungsabteilung.
 
 ent-CrateSeismicCharge = seismischer Ladungskasten
-    .desc = Enthält 6 seismische Ladungen zur Verwendung durch Salvage.
+    .desc = Enthält 6 seismische Ladungen zur Verwendung durch die Bergungsabteilung.
 
 ent-CrateDoubleEmergencyTank = Doppelte Nottankkiste
     .desc = Enthält 2 doppelte Notfall-Sauerstofftanks, 2 doppelte Notfall-Stickstofftanks und 2 doppelte Notfall-Wasserdampftanks.
 
 ent-CrateCrusher = Brecherkiste
-    .desc = Enthält 2 Brecher zur Verwendung durch Salvage.
+    .desc = Enthält 2 Brecher zur Verwendung durch die Bergungsabteilung.
 
 ent-CrateFulton = Fultonkiste
     .desc = Enthält ein Fulton Beacon und 8 Fultons.
@@ -26,7 +26,7 @@ ent-CrateSalvageHardsuit = Bergungs-Hardsuit-Kiste
     .desc = Enthält einen Salvage-Hardsuit, eine Atemmaske und einen Sauerstofftank.
 
 ent-CrateCrusherGlaive = Brecher-Glefenkiste
-    .desc = Enthält eine Brecherlaive für die Verwendung durch Salvage.
+    .desc = Enthält eine Brecherlaive für die Verwendung durch die Bergungsabteilung.
 
 ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Salvage-Umhang
     .desc = Enthält einen Mantel, der nur von den höchsten Rettern getragen werden kann. Wenn du es unverdient trägst, wird dies zu deinem Untergang führen.
