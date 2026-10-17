@@ -1,23 +1,23 @@
-ent-BorgModuleStickyGrenadeLauncher = klebriges Granatwerfer-Cyborg-Modul
+ent-BorgModuleStickyGrenadeLauncher = Klebegranatwerfer-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateDoorControl = Türsteuerungs-Cyborgmodul
+ent-BorgModuleSyndicateDoorControl = Türsteuerungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateJammer = Jammer Cyborg Modul
+ent-BorgModuleSyndicateJammer = Störsender-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateDartgun = Dart Gun Cyborg Modul
+ent-BorgModuleSyndicateDartgun = Dartpistolen-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateTopical = topisches Cyborg-Modul
+ent-BorgModuleSyndicateTopical = Erste-Hilfe-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateSurgery = Chirurgie Cyborg Modul
+ent-BorgModuleSyndicateSurgery = Chirurgie-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateRescue = Rescue Cyborg Modul
+ent-BorgModuleSyndicateRescue = Rettungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleSyndicateChameleonProjector = Chamäleon Projektor Cyborg Modul
+ent-BorgModuleSyndicateChameleonProjector = Chamäleonprojektor-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.

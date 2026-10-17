@@ -1,2 +1,2 @@
-ent-ActionChangeIntrinsicVoiceModulator = Open Voice Modulator Menü
+ent-ActionChangeIntrinsicVoiceModulator = Stimmenmodulator-Menü öffnen
     .desc = Ändere deine Stimme und deine Art zu sprechen.

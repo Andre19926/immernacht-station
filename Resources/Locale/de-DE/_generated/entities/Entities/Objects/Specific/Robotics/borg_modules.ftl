@@ -1,111 +1,111 @@
-ent-ActionBorgSwapModule = Swapmodul
+ent-ActionBorgSwapModule = Swap-Modul
     .desc = Wähle dieses Modul aus, damit du die von ihm bereitgestellten Tools verwenden kannst.
 
-ent-BorgModuleCable = Kabelcyborgmodul
+ent-BorgModuleCable = Kabel-Cyborg-Modul
     .desc = Ein universelles Cyborg-Modul, mit dem das Gerät elektrische Systeme installieren und manipulieren kann.
 
-ent-BorgModuleArtistry = Künstlerisches Cyborg-Modul
+ent-BorgModuleArtistry = Künstler-Cyborg-Modul
     .desc = Ein Modul für Kunst & Handwerk, während die Station brennt!
 
-ent-BorgModuleFireExtinguisher = Thruster Cyborg Modul
+ent-BorgModuleFireExtinguisher = Schubdüsen-Cyborg-Modul
     .desc = NT beauftragte ein Team, ein Jetpack für Cyborg-Einheiten zu entwerfen, aber ihnen ging die Finanzierung aus und machte nur einen größeren Feuerlöscher. Es kommt mit einem integrierten GPS und Massenscanner obwohl!
 
-ent-BorgModuleTool = Werkzeug Cyborg Modul
+ent-BorgModuleTool = Werkzeug-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleInflatable = aufblasbares Cyborgmodul
+ent-BorgModuleInflatable = Aufblasbar-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAppraisal = Bewertungsmodul Cyborg
+ent-BorgModuleAppraisal = Bewertungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleMining = Mining Cyborg Modul
+ent-BorgModuleMining = Bergbau-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAdvancedMining = Advanced Mining Cyborg Modul
+ent-BorgModuleAdvancedMining = Fortgeschrittenes Bergbau-Cyborg-Modul
     .desc = Modernes Frachtmodul mit fortschrittlicher Bergbauausrüstung. Studien zeigen, dass es die Produktivität eines Cyborgs um 150% erhöht.
 
-ent-BorgModuleTraversal = traversales Cyborgmodul
+ent-BorgModuleTraversal = Fortbewegungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAdvancedTool = Advanced Tool Cyborg Modul
+ent-BorgModuleAdvancedTool = Fortgeschrittenes Werkzeug-Cyborg-Modul
     .desc = Fortgeschrittenes Engineering-Modul mit modernsten Werkzeugen.
 
 ent-BorgModuleConstructionMaterialPlaceholder = Position
 
-ent-BorgModuleConstruction = Bau Cyborg Modul
+ent-BorgModuleConstruction = Bau-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleRCD = Engineering Cyborg Modul
+ent-BorgModuleRCD = Ingenieur-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleCustodial = Custodial Cyborg Modul
+ent-BorgModuleCustodial = Hausmeister-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleCleaning = Cyborg-Reinigungsmodul
+ent-BorgModuleCleaning = Reinigungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAdvancedCleaning = Advanced Cleaning Cyborg Modul
+ent-BorgModuleAdvancedCleaning = Fortgeschrittenes Reinigungs-Cyborg-Modul
     .desc = Fortgeschrittenes Hausmeistermodul mit, naja... fortgeschrittener Hausmeisterausrüstung. Was hast du erwartet?
 
-ent-BorgModuleDiagnosis = Diagnose Cyborg Modul
+ent-BorgModuleDiagnosis = Diagnose-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleTopicals = Erste Hilfe Cyborg Modul
+ent-BorgModuleTopicals = Erste-Hilfe-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleRescue = Rescue Cyborg Modul
+ent-BorgModuleRescue = Rettungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleChemical = Chemisches Cyborg-Modul
+ent-BorgModuleChemical = Chemie-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAdvancedTopical = Advanced Erste Hilfe Cyborg Modul
+ent-BorgModuleAdvancedTopical = Fortgeschrittenes Erste-Hilfe-Cyborg-Modul
     .desc = Fortgeschrittenes medizinisches Modul mit der Cyborg-Adaption des hoch begehrten Hyposprays. Jetzt können deine Cyborgs Crew-Schäden noch schneller Chloralhydrat injizieren!
 
-ent-BorgModuleArtifact = Artefakt Cyborg Modul
+ent-BorgModuleArtifact = Artefakt-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAnomaly = Das Cyborg-Modul
+ent-BorgModuleAnomaly = Anomalie-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleService = Service Cyborg Modul
+ent-BorgModuleService = Service-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleMusique = Musique Cyborg Modul
+ent-BorgModuleMusique = Musik-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleGardening = Gartencyborg Modul
+ent-BorgModuleGardening = Garten-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleHarvesting = Erntecyborgmodul
+ent-BorgModuleHarvesting = Ernte-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleClowning = Clowning Cyborg Modul
+ent-BorgModuleClowning = Clown-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleAdvancedClowning = Advanced Clowning Cyborg Modul
+ent-BorgModuleAdvancedClowning = Fortgeschrittenes Clown-Cyborg-Modul
     .desc = Erweitertes Servicemodul nur für die dümmsten Cyborgs! Kommt mit einem eingebauten Ofen, der Kuchen im Laufe der Zeit automatisch backt, einem Holopeel-Projektor und einem Push-Horn.
 
-ent-BorgModuleSyndicateWeapon = Waffencyborg-Modul
+ent-BorgModuleSyndicateWeapon = Waffen-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
-ent-BorgModuleOperative = operatives Cyborg-Modul
+ent-BorgModuleOperative = Agenten-Cyborg-Modul
     .desc = Ein Modul, das mit einem Paar Syndicate-Backen des Lebens, einem Emag, einem Access Breaker und einem Syndicate-Pinpointer kommt.
 
-ent-BorgModuleEsword = Energy Schwert Cyborg Modul
+ent-BorgModuleEsword = Energieschwert-Cyborg-Modul
     .desc = Ein Waffenmodul, das mit einem Energieschwert kommt.
 
-ent-BorgModuleDoubleEsword = Double Energy Schwert Cyborg Modul
+ent-BorgModuleDoubleEsword = Doppelenergieschwert-Cyborg-Modul
     .desc = Ein Waffenmodul, das mit einem doppelten Energieschwert kommt.
 
-ent-BorgModuleL6C = Cyborgmodul L6C ROW
+ent-BorgModuleL6C = L6C-ROW-Cyborg-Modul
     .desc = Ein Waffenmodul, das mit einem L6C geliefert wird.
 
-ent-BorgModuleC20r = C-20r ROW Cyborgmodul
+ent-BorgModuleC20r = C-20r-ROW-Cyborg-Modul
     .desc = Ein Waffenmodul, das mit einem Berstfeuer C-20r geliefert wird.
 
-ent-BorgModuleMartyr = Märtyrer Cyborg Modul
+ent-BorgModuleMartyr = Märtyrer-Cyborg-Modul
     .desc = Ein Modul, das mit einem Sprengstoff kommt, den dich wahrscheinlich nicht selbst handhaben wollen.
 
 ent-MothershipModule = Mutterschiff-Modul
@@ -114,44 +114,44 @@ ent-MothershipModule = Mutterschiff-Modul
 ent-XenoborgModuleBasic = Basis-Xenoborg-Modul
     .desc = Wesentliche Gegenstände für jeden Xenoborg.
 
-ent-XenoborgModuleTool = Tool Xenoborg Modul
+ent-XenoborgModuleTool = Werkzeug-Xenoborg-Modul
     .desc = Einfache Werkzeuge für die meisten Xenoborgs.
 
-ent-XenoborgModuleAccessBreaker = Access Breaker Xenoborg Modul
+ent-XenoborgModuleAccessBreaker = Zugangsknacker-Xenoborg-Modul
     .desc = Modul mit einem Access Breaker.
 
-ent-XenoborgModuleFireExtinguisher = Feuerlöscher Xenoborg Modul
+ent-XenoborgModuleFireExtinguisher = Feuerlöscher-Xenoborg-Modul
     .desc = Modul mit einem selbsttankenden Feuerlöscher.
 
-ent-XenoborgModuleDoorControl = Türsteuerung Xenoborg Modul
+ent-XenoborgModuleDoorControl = Türsteuerungs-Xenoborg-Modul
     .desc = Modul, mit dem Xenoborgs Luftschleuse steuern kann.
 
-ent-XenoborgModuleJammer = jammer xenoborg module
+ent-XenoborgModuleJammer = Störsender-Xenoborg-Modul
     .desc = Modul mit einem Kommunikations-Jammer.
 
-ent-XenoborgModuleLaser = Laser Xenoborg Modul
+ent-XenoborgModuleLaser = Laser-Xenoborg-Modul
     .desc = Modul mit einer Laserkanone.
 
-ent-XenoborgModuleHeavyLaser = Laserkanone Xenoborg Modul
+ent-XenoborgModuleHeavyLaser = Laserkanonen-Xenoborg-Modul
     .desc = Modul mit einer Laserkanone.
 
-ent-XenoborgModuleSpaceMovement = Space Movement Xenoborg Modul
+ent-XenoborgModuleSpaceMovement = Weltraumbewegungs-Xenoborg-Modul
     .desc = Modul, das einem Xenoborg hilft, sich im Weltraum besser zu bewegen.
 
-ent-XenoborgModuleSword = Messer Xenoborg Modul
+ent-XenoborgModuleSword = Messer-Xenoborg-Modul
     .desc = Modul mit einem Kukri-Messer.
 
-ent-XenoborgModuleEnergySword = Energy Dagger Xenoborg Modul
+ent-XenoborgModuleEnergySword = Energiedolch-Xenoborg-Modul
     .desc = Modul mit einem Energie-Dolch.
 
-ent-XenoborgModuleHypo = Nocturinhypo-Xenoborg-Modul
+ent-XenoborgModuleHypo = Nocturin-Hypo-Xenoborg-Modul
     .desc = Modul mit einer selbstauffüllenden Nokturinhypothese.
 
-ent-XenoborgModuleChameleonProjector = Chameleon Projektor Xenoborg Modul
+ent-XenoborgModuleChameleonProjector = Chamäleonprojektor-Xenoborg-Modul
     .desc = Modul mit einem Chamäleonprojektor.
 
-ent-XenoborgModuleCloakDevice = Tarnvorrichtung xenoborg-Modul
+ent-XenoborgModuleCloakDevice = Tarnvorrichtungs-Xenoborg-Modul
     .desc = Modul mit einem Gerät, mit dem Xenoborgs für einige Zeit halb unsichtbar werden können.
 
-ent-XenoborgModuleSuperCloakDevice = Invisibilitätsgerät Xenoborg Modul
+ent-XenoborgModuleSuperCloakDevice = Unsichtbarkeits-Xenoborg-Modul
     .desc = Modul mit einem Gerät, mit dem Xenoborgs für kurze Zeit wirklich unsichtbar werden können.
