@@ -1,2 +1,2 @@
 ent-ActionGuise = Guise
-    .desc = Werde unsichtbar in der Dunkelheit.
+    .desc = Werde in der Dunkelheit unsichtbar.

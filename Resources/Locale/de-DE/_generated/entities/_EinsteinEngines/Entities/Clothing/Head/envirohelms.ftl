@@ -221,10 +221,10 @@ ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = Umwelthosenhelm (grün)
     .desc = Das Haustierprojekt eines besonders noblen Plasmaman, dieser envirohelm kommt mit grünen Akzenten. Blatt!
 
 ent-ClothingHeadEnvirohelmEnviroslacksColorBlue = Umwelthosenhelm (blau)
-    .desc = Das Haustierprojekt eines besonders noblen Plasmaman, dieser Envirohelm kommt mit blauen Akzenten. Cool!
+    .desc = Das Herzensprojekt eines besonders noblen Plasmamans, dieser Umwelthelm hat blaue Akzente. Cool!
 
 ent-ClothingHeadEnvirohelmEnviroslacksMNK = Umwelthosenhelm (MNK)
-    .desc = Ein eleganter Envirohelm, den dich von MNK mitgebracht haben. Klassisch!
+    .desc = Ein eleganter Umwelthelm, von MNK für dich mitgebracht. Klassisch!
 
 ent-ClothingHeadEnvirohelmEnviroslacksMNKAlt = Umwelthosenhelm (einfarbig)
-    .desc = Ein eleganter Envirohelm, der von MNK zu dir gebracht wurde. Noir!
+    .desc = Ein eleganter Umwelthelm, von MNK für dich mitgebracht. Noir!

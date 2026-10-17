@@ -1,5 +1,5 @@
 ent-AntiMindControlDevice = Anti-Mind-Steuerungseinrichtung
-    .desc = Ein spezielles Gerät, das für die Umkehrung der Gedankenkontrolle entwickelt wurde.
+    .desc = Ein spezielles Gerät zur Umkehrung von Gedankenkontrolle.
 
 ent-LightEaterArmBlade = Lichtfresser
-    .desc = Eine Armklinge, die durch Lichter reißen und sie in einem Augenblick asche.
+    .desc = Eine Armklinge, die Lichter zerreißt und sie im Nu zu Asche macht.

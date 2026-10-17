@@ -1,26 +1,26 @@
 ent-TranslatorUnpowered = Übersetzer
-    .desc = Übersetzt die Rede.
+    .desc = Übersetzt Sprache.
 
 ent-TranslatorPoweredBase = Übersetzer
-    .desc = Übersetzt die Rede.
+    .desc = Übersetzt Sprache.
 
 ent-Translator = Übersetzer
-    .desc = Übersetzt die Rede.
+    .desc = Übersetzt Sprache.
 
 ent-TranslatorForeigner = Übersetzer des Ausländers
     .desc = Ein Spezialübersetzer, der Ausländern hilft, die Hauptsprache dieser Station zu sprechen und zu verstehen.
 
 ent-CanilunztTranslator = Canilunzt-Übersetzer
-    .desc = Übersetzt die Rede zwischen Canilunzt und Galactic Common, so dass deine lokalen Yeper mit den Einheimischen kommunizieren können und umgekehrt!
+    .desc = Übersetzt zwischen Canilunzt und Galactic Common, damit deine örtlichen Yeper mit den Einheimischen kommunizieren können und umgekehrt!
 
 ent-BubblishTranslator = Bubblish Übersetzer
-    .desc = Übersetzt die Rede zwischen Bubblish und Galactic Common und hilft dabei, mit Schleimen und Schleimmenschen zu kommunizieren.
+    .desc = Übersetzt zwischen Bubblish und Galactic Common und hilft bei der Verständigung mit Schleimen und Schleimmenschen.
 
 ent-NekomimeticTranslator = Nekomimetischer Übersetzer
-    .desc = Übersetzt die Sprache zwischen Nekomimetic und Galactic Common, so dass du mit deinen Hauskatzen kommunizieren kannst.
+    .desc = Übersetzt zwischen Nekomimetic und Galactic Common, damit du dich mit deinen Hauskatzen verständigen kannst.
 
 ent-DraconicTranslator = Sinta'Unathi Übersetzer
-    .desc = Übersetzt die Rede zwischen Sinta'Unathi und Tau-Ceti Basic, so dass du deine lokalen Unathi leichter verstehen kannst.
+    .desc = Übersetzt zwischen Sinta'Unathi und Tau-Ceti Basic, damit du deine örtlichen Unathi leichter verstehst.
 
 ent-SolCommonTranslator = Sol Common Übersetzer
     .desc = Übersetzt die Sprache zwischen Sol Common und Galactic Common. Wie ein wahrer Erdenmensch!
@@ -29,13 +29,13 @@ ent-NovuNedericTranslator = Novu-Nederischer Übersetzer
     .desc = Übersetzt die Sprache zwischen Novu-Nederic und Galactic Common. Wie ein wahrer Erdenmensch!
 
 ent-RootSpeakTranslator = RootSpeak Übersetzer
-    .desc = Übersetzt die Sprache zwischen RootSpeak und Galactic Common. Du kannst jetzt für die Bäume sprechen.
+    .desc = Übersetzt zwischen RootSpeak und Galactic Common. Jetzt kannst du für die Bäume sprechen.
 
 ent-MofficTranslator = Moffic Übersetzer
-    .desc = Übersetzt die Sprache zwischen Moffic und Galactic Common und hilft dir, die Summen deiner Haustiermothroach zu verstehen!
+    .desc = Übersetzt zwischen Moffic und Galactic Common und hilft dir, das Summen deiner Haustier-Mottenschabe zu verstehen!
 
 ent-XenoTranslator = Xeno Übersetzer
-    .desc = Übersetzt die Rede zwischen Xeno und Galactic Common. Dies wird ihnen wahrscheinlich nicht helfen, eine begegnung zu überleben.
+    .desc = Übersetzt zwischen Xeno und Galactic Common. Das wird ihnen wahrscheinlich nicht helfen, eine Begegnung zu überleben.
 
 ent-AnimalTranslator = Tierübersetzer
     .desc = Übersetzt alle niedlichen Geräusche, die die meisten Tiere in eine verständlichere Form machen!
@@ -62,4 +62,4 @@ ent-SchechiTranslator = Schechi Übersetzer
     .desc = Interpretiert das als Schechi bekannte Vogellied und übersetzt es in Galactic Common. Hauptsächlich gesprochen von Resomi.
 
 ent-GruntishTranslator = Gruntish Übersetzer
-    .desc = Interpretiert das als Gruntish bekannte Chaos und übersetzt es in Galactic Common. In erster Linie von Oni gesprochen.
+    .desc = Interpretiert das als Gruntish bekannte Chaos und übersetzt es in Galactic Common. Wird hauptsächlich von Oni gesprochen.

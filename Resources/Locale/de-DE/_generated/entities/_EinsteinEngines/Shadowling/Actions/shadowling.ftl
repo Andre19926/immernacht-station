@@ -1,62 +1,62 @@
 ent-ActionHatch = Luke
-    .desc = Bezieht den schlüpfenden fortschritt ein, danach gibt es kein zurück mehr und sie werden für eine weile verletzlich sein.
+    .desc = Beginnt den Schlüpf-Fortschritt; danach gibt es kein Zurück mehr, und du bist für eine Weile verwundbar.
 
 ent-ActionEnthrall = Enthrall
-    .desc = Zerschmettert ihren willen, schmiedet einen thrall, der nicht stark genug ist, um mindshielded individuen oder versklavte ki zu bewirken.
+    .desc = Zerschmettert den Willen eines Ziels und schmiedet einen Thrall, der nicht stark genug ist, um Personen mit Mindshield oder versklavte KIs zu beeinflussen.
 
 ent-ActionGlare = Glanz
-    .desc = Ein dunkles Blenden, das ein einzelnes Ziel betäubt, zum Schweigen bringt und verlangsamt.
+    .desc = Ein dunkler Blendstrahl, der ein einzelnes Ziel betäubt, zum Schweigen bringt und verlangsamt.
 
 ent-ActionVeil = Schleier
     .desc = Ein Puls der Dunkelheit, der elektrisches Licht in einem großen Bereich zerstört.
 
 ent-ActionRapidRehatch = Schnelle Re-Hatch
-    .desc = Vergieß dein zerbrochenes Fleisch und erhebe dich wieder ganz.
+    .desc = Wirf dein zerbrochenes Fleisch ab und erhebe dich wieder ganz.
 
 ent-ActionShadowWalk = Schattenwandeln
     .desc = Tritt in die Leere ein und bewege dich unsichtbar und ungehindert.
 
 ent-ActionIcyVeins = Eisadern
-    .desc = Entwaffnet und friert nahe gelegene Kreaturen in einem Bereich um dich herum ein.
+    .desc = Entwaffnet und erstarrt Kreaturen in einem Bereich um dich herum.
 
 ent-ActionDestroyEngines = Zerstörermotoren
-    .desc = Zerstöre die Motoren des Evakuierungs-Shuttles. Verzögert das Shuttle um 10 Minuten.
+    .desc = Zerstöre die Triebwerke des Evakuierungsshuttles. Verzögert das Shuttle um 10 Minuten.
 
 ent-ActionCollectiveMind = Kollektiver Geist
-    .desc = Ernte die Köpfe deiner Thralls und erwerbe verschiedene Fähigkeiten.
+    .desc = Ernte die Köpfe deiner Thralls und erwirb verschiedene Fähigkeiten.
 
 ent-ActionBlindnessSmoke = Blindheit Rauch
-    .desc = Heile deine Art und erblinde jeden, der es wagt, in deinen Nebel einzutreten.
+    .desc = Heile deinesgleichen und blende jeden, der es wagt, deinen Nebel zu betreten.
 
 ent-ActionNullCharge = Nullsatz
-    .desc = Stelle dich in die Nähe eines APC und überlaste ihn mit einem Anstieg der Nullifizierungskraft.
+    .desc = Stell dich in die Nähe eines APCs und überlaste ihn mit einem Stoß Nullifizierungskraft.
 
 ent-ActionSonicScreech = Sonic Screech
-    .desc = Lass einen heftigen Schrei los, der alle, die ihn hören, desorientiert.
+    .desc = Stoße einen gewaltigen Schrei aus, der alle desorientiert, die ihn hören.
 
 ent-ActionBlackRecuperation = Schwarze Rekuperation
-    .desc = Bringt einen toten Thrall zum Leben zurück oder stärkt einen lebenden. Du reduzierst deinen Widerstand gegen Licht, indem du es verwendest.
+    .desc = Erweckt einen toten Thrall wieder zum Leben oder stärkt einen lebenden. Jede Anwendung senkt deine Lichtresistenz.
 
 ent-ActionEmpoweredEnthrall = Empowered Enthrall
-    .desc = Zerschmettert ihren Willen und schmiedet einen Thrall. Schneller und stärker, genug, um mindshields zu umgehen.
+    .desc = Zerschmettert den Willen eines Ziels und schmiedet einen Thrall. Schneller und stärker, genug, um Mindshields zu umgehen.
 
 ent-ActionNoxImperii = Nox Imperii
-    .desc = Werdet immun gegen das, was ihr am meisten fürchtet. Licht.
+    .desc = Werde immun gegen das, was du am meisten fürchtest: Licht.
 
 ent-ActionAscendance = Aufstieg
-    .desc = Schmiede dein Aufstiegs-Ei und gehe den Weg eines Gottes, deine Knechte werden das Ei für eine lange Zeit verteidigen müssen; sei vorbereitet.
+    .desc = Schmiede dein Aufstiegs-Ei und beschreite den Weg eines Gottes. Deine Knechte werden das Ei lange verteidigen müssen; sei vorbereitet.
 
 ent-ActionAnnihilate = Annihilat
-    .desc = Schlage sie zu Stücken Fleisch.
+    .desc = Schlage sie zu Fleischfetzen.
 
 ent-ActionHypnosis = Hypnose
-    .desc = Mache jemanden zu einem Thrall, auf einen Moment. Solange sie nicht mindshielded sind.
+    .desc = Mache jemanden für einen Moment zum Thrall – solange er kein Mindshield trägt.
 
 ent-ActionPlaneShift = Flugzeugverschiebung
-    .desc = Phase durch alles, wann immer dich wollen.
+    .desc = Phase durch alles, wann immer du willst.
 
 ent-ActionLightningStorm = Blitzsturm
-    .desc = Laiche einen Ball des Zorns, Stromschlag alle in deiner Nähe.
+    .desc = Erzeuge einen Ball des Zorns und schocke alle in deiner Nähe.
 
 ent-ActionAscendantBroadcast = Aszendent Broadcast
-    .desc = Senden sie eine sehr schwer zu verpassen nachricht an alle.
+    .desc = Sende eine kaum zu überhörende Nachricht an alle.

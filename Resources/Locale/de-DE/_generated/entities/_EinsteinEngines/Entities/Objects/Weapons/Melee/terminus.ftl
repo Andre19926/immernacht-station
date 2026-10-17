@@ -1,2 +1,2 @@
 ent-Terminus = DT-8 „Terminus
-    .desc = Eine fortschrittliche Nahkampfwaffe, die speziell für einen Oni entwickelt wurde. Es ist auch in der Lage, eine Ausbreitung von Sperrschüssen von seiner Spitze abzufeuern.
+    .desc = Eine fortschrittliche Nahkampfwaffe, speziell für Oni entwickelt. Sie kann außerdem eine Streuung von Sperrfeuer-Schüssen von der Spitze abfeuern.

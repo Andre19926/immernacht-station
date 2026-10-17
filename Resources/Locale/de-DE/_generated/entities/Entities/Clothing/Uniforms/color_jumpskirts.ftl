@@ -23,7 +23,7 @@ ent-ClothingUniformJumpskirtColorDarkGreen = Uniform (Rock, dunkelgrün)
     .desc = Ein generischer Overall-Rock in Dunkelgrün ohne Rangabzeichen.
 
 ent-ClothingUniformJumpskirtColorOrange = Uniform (Rock, orange)
-    .desc = Tragen sie das nicht in der nähe von paranoiden sicherheitsbeamten.
+    .desc = Trag das nicht in der Nähe von paranoiden Sicherheitsbeamten.
 
 ent-ClothingUniformJumpskirtColorPink = Uniform (Rock, rosa)
     .desc = Wenn man sich das nur anschaut, fühlt man sich <i>fabelhaft</i>.

@@ -23,7 +23,7 @@ ent-ClothingUniformJumpsuitColorDarkGreen = Uniform (dunkelgrün)
     .desc = Ein generischer Overall in Dunkelgrün ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitColorOrange = Uniform (orange)
-    .desc = Tragen sie das nicht in der nähe von paranoiden sicherheitsbeamten.
+    .desc = Trag das nicht in der Nähe von paranoiden Sicherheitsbeamten.
 
 ent-ClothingUniformJumpsuitColorPink = Uniform (rosa)
     .desc = Wenn man sich das nur anschaut, fühlt man sich <i>fabelhaft</i>.

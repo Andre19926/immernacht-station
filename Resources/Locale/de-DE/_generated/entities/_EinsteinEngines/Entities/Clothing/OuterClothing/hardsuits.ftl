@@ -1,11 +1,11 @@
 ent-ClothingOuterHardsuitCombatStandard = Kampf-Hardsuit
-    .desc = Ein spezieller Kampf-Hardsuit, der entwickelt wurde, um seinen Benutzer vor allen Arten von feindlichen Kämpfern in Niederdruckumgebungen zu schützen.
+    .desc = Ein spezieller Kampf-Hardsuit, der seinen Träger in Niederdruckumgebungen vor allen Arten feindlicher Kämpfer schützen soll.
 
 ent-ClothingOuterHardsuitCombatOfficer = Sicherheitskampf-Hardsuit
-    .desc = Ein spezieller Kampf-Hardsuit, der entwickelt wurde, um seinen Benutzer vor allen Arten von feindlichen Kämpfern in Niederdruckumgebungen zu schützen. Dieser hat Station Sicherheitsmarkierungen.
+    .desc = Ein spezieller Kampf-Hardsuit, der seinen Träger in Niederdruckumgebungen vor allen Arten feindlicher Kämpfer schützen soll. Dieser trägt Stationssicherheits-Markierungen.
 
 ent-ClothingOuterHardsuitCombatMedical = Medizinischer Kampf-Hardsuit
-    .desc = Ein spezieller Kampf-Hardsuit, der entwickelt wurde, um dem Benutzer eine größere Mobilität für eine überlegene Unterstützung von freundlichen Einheiten in aktiven Kampfzonen zu ermöglichen.
+    .desc = Ein spezieller Kampf-Hardsuit, der seinem Träger mehr Beweglichkeit verleiht, um verbündete Einheiten in aktiven Kampfzonen besser zu unterstützen.
 
 ent-ClothingOuterHardsuitCombatRiot = Krawallkampf-Hardsuit
-    .desc = Ein spezieller Kampf-Hardsuit, der für die Massenkontrolle gegen bewaffnete Kämpfer in Niedrigdruckumgebungen entwickelt wurde.
+    .desc = Ein spezieller Kampf-Hardsuit für die Massenkontrolle gegen bewaffnete Kämpfer in Niederdruckumgebungen.

@@ -1,8 +1,8 @@
 ent-ClothingModsuitResponsoryLeader = Anführer-ERT-MODsuit-Steuereinheit
-    .desc = Die Hauptsteuereinheit eines Anführer-ERT-MODsuits.
+    .desc = Die Hauptsteuereinheit eines Leader-ERT-MODsuits.
 
 ent-ClothingModsuitGauntletsResponsoryLeader = Anführer-ERT-MODsuit-Handschuhe
-    .desc = Ein Paar Handschuhe für den Anführer-ERT-MODsuit.
+    .desc = Ein Paar Handschuhe für den Leader-ERT-MODsuit.
 
 ent-ClothingModsuitHelmetResponsoryLeader = Anführer-ERT-MODsuit-Helm
     .desc = Ein hochmoderner Helm von NanoTrasen für den Leader Responsory Modsuit. Es enthält ein eingebautes HUD.

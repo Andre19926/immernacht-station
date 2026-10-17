@@ -1,8 +1,8 @@
 ent-ClothingModsuitResponsoryMedical = Sanitäter-ERT-MODsuit-Steuereinheit
-    .desc = Die Hauptsteuereinheit eines Sanitäter-ERT-MODsuits.
+    .desc = Die Hauptsteuereinheit eines Medical-ERT-MODsuits.
 
 ent-ClothingModsuitGauntletsResponsoryMedical = Medizinische Responsoring Modsuit Gauntlets
-    .desc = Ein Paar Handschuhe für den Medical Responsory Hardsuit.
+    .desc = Ein Paar Handschuhe für den Medical Responsory Modsuit.
 
 ent-ClothingModsuitHelmetResponsoryMedical = Sanitäter-ERT-MODsuit-Helm
     .desc = Ein hochmoderner Helm, entworfen von NanoTrasen für den Medical Responsory Modsuit. Es enthält ein eingebautes HUD.

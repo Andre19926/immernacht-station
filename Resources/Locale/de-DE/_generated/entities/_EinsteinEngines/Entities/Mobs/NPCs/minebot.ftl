@@ -1,2 +1,2 @@
 ent-MobMineBot = Minebot
-    .desc = Der beste Freund eines Miners!
+    .desc = Der beste Freund eines Bergarbeiters!

@@ -1,2 +1,2 @@
 ent-EnvirosuitExtinguisherRefill = Nachfüllung Umweltanzug-Feuerlöscher
-    .desc = Eine Kartusche, beladen mit einer komprimierten Löschmischung, die zum Nachfüllen des Selbstlöschers auf Plasma Umweltanzug verwendet wird.
+    .desc = Eine Kartusche mit komprimierter Löschmischung zum Nachfüllen des Selbstlöschers am Plasmaman-Umweltanzug.

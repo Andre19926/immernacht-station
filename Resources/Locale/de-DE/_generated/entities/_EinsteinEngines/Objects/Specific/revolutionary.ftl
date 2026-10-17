@@ -1,2 +1,2 @@
 ent-RevolutionaryManifesto = Revolutionäres Manifest
-    .desc = Ein Manifest, geschrieben von einem selbsternannten revolutionären Führer. Sehr kritisch gegenüber Nanotrasen.
+    .desc = Ein Manifest, verfasst von einem selbsternannten revolutionären Anführer. Sehr kritisch gegenüber Nanotrasen.
