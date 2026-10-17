@@ -19,7 +19,7 @@ marking-TajaranHeadMuzzleLarge-muzzle_large = Mündung
 marking-TajaranHeadNose = Nase
 marking-TajaranHeadNose-nose = Nase
 marking-TajaranHeadPatches = Flecken
-marking-TajaranHeadPatches-patch = Patches
+marking-TajaranHeadPatches-patch = Flecken
 marking-TajaranHeadPoints = Punkte
 marking-TajaranHeadPoints-points = Punkte
 marking-TajaranHeadTiger = Tiger
@@ -49,8 +49,8 @@ marking-TajaranTailRetroRings = Klassischer Schwanz (Ringe)
 marking-TajaranTailRetroRings-tail = Schwanz
 marking-TajaranTailRetroRings-tail_rings = Ringe
 
-marking-TajaranOverlayPatch = Patches
-marking-TajaranOverlayPatch-patch = Patches
+marking-TajaranOverlayPatch = Flecken
+marking-TajaranOverlayPatch-patch = Flecken
 marking-TajaranOverlayPoints = Punkte
 marking-TajaranOverlayPoints-points = Punkte
 

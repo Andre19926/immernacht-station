@@ -22,7 +22,7 @@ marking-SlimeGradientRightFoot = Schleimpiger rechter Fuß (Gradient)
 marking-SlimeGradientLeftLeg-gradient_l_leg = Schleimpfendes linkes Bein (Gradient)
 marking-SlimeGradientLeftLeg = Schleim: Linkes Bein (Farbverlauf)
 
-marking-SlimeGradientRightLeg-gradient_r_leg = Slime Right Leg (Gradient)
+marking-SlimeGradientRightLeg-gradient_r_leg = Slime Rechtes Bein (Verlauf)
 marking-SlimeGradientRightLeg = Schleim: Rechtes Bein (Farbverlauf)
 
 marking-SlimeGradientLeftHand-gradient_l_hand = Schleim linke Hand (Gradient)

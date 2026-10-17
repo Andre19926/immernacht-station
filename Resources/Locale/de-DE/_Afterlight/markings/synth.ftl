@@ -36,10 +36,10 @@ marking-SynthRArmLight = Armlicht (rechts)
 marking-SynthRArmLight-arm_light_r = Licht
 
 marking-SynthLArmStarPauldron = Sternen-Schulterplatte (links)
-marking-SynthLArmStarPauldron-star_pauldron_l = Pauldron
+marking-SynthLArmStarPauldron-star_pauldron_l = Schulterpanzer
 
 marking-SynthRArmStarPauldron = Star Pauldron (rechts)
-marking-SynthRArmStarPauldron-star_pauldron_r = Pauldron
+marking-SynthRArmStarPauldron-star_pauldron_r = Schulterpanzer
 
 # Chest
 
@@ -65,7 +65,7 @@ marking-SynthVisor-visor = Sicht
 marking-SynthVisor-visor_frame = Rahmen
 marking-SynthVisor-visor_plate = Platte
 
-marking-SynthVisorStarCross = Synth Visor (Star Cross)
+marking-SynthVisorStarCross = Synth-Visier (Stern Kreuz)
 marking-SynthVisorStarCross-visor = Sicht
 marking-SynthVisorStarCross-visor_frame = Rahmen
 marking-SynthVisorStarCross-visor_plate_star_cross = Platte
@@ -79,7 +79,7 @@ marking-SynthCompositeHoodLight = Composite Hood (Licht)
 marking-SynthCompositeHoodLight-composite_hood_light = Licht
 
 marking-SynthSolarFans = Solarlüfter
-marking-SynthSolarFans-solar_fans = Fans
+marking-SynthSolarFans-solar_fans = Fächer
 
 # Legs
 
@@ -101,7 +101,7 @@ marking-SynthSnout = Synth Snout (Fabrik)
 marking-SynthSnout-nose = Nase
 marking-SynthSnout-chin = Verbundwerkstoff
 
-marking-SynthSnoutBox = Synth Snout (Box)
+marking-SynthSnoutBox = Synth-Schnauze (Box)
 marking-SynthSnoutBox-nose_box = Nase
 marking-SynthSnoutBox-chin = Verbundwerkstoff
 

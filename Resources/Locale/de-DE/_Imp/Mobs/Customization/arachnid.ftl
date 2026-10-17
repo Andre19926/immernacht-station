@@ -1,7 +1,7 @@
 # Chest
 
-marking-ArachnidOverlayFluffy = Fluffy
-marking-ArachnidOverlayFluffy-fluffy = Fluff
+marking-ArachnidOverlayFluffy = Flauschig
+marking-ArachnidOverlayFluffy-fluffy = Flaum
 
 marking-ArachnidTorsoSegments = Segmentierte Brust
 marking-ArachnidTorsoSegments-segments1 = Brust
@@ -18,7 +18,7 @@ marking-ArachnidHeadSegments-segments2 = Streifen
 
 # Snout
 
-marking-WhipSpiderMouth = Chelicerae (Whip)
+marking-WhipSpiderMouth = Chelicerae (Peitsche)
 marking-WhipSpiderMouth-whipspidermouth = Chelicerae
 
 # Eyes
@@ -26,7 +26,7 @@ marking-WhipSpiderMouth-whipspidermouth = Chelicerae
 marking-ArachnidEyesDefault = Augen
 marking-ArachnidEyesDefault-eyes = Augen (Standard)
 
-marking-ArachnidEyesJumper = Jumper Eyes
+marking-ArachnidEyesJumper = Springeraugen
 marking-ArachnidEyesJumper-jumper1 = Äußeres Recht
 marking-ArachnidEyesJumper-jumper2 = Inneres Recht
 marking-ArachnidEyesJumper-jumper3 = Innere Linke
@@ -52,7 +52,7 @@ marking-ArachnidEyesRoundGlowing-round4 = Seiten
 
 marking-SpiderEyesMulti = Mehrfarbige Augen
 marking-SpiderEyesMulti-multi1 = oben
-marking-SpiderEyesMulti-multi2 = Middle Top
+marking-SpiderEyesMulti-multi2 = Mitte oben
 marking-SpiderEyesMulti-multi3 = mittlerer Boden
 marking-SpiderEyesMulti-multi4 = Boden
 
@@ -102,7 +102,7 @@ marking-UndershirtBraStraplessA-strapless = Brabra
 marking-UndershirtDefaultA = Unterhemden
 marking-UndershirtDefaultA-undershirt = Unterhemden
 
-marking-UndershirtGrossSleevelessA = Tanktop (Gross)
+marking-UndershirtGrossSleevelessA = Tanktop (Grob)
 marking-UndershirtGrossSleevelessA-grosssleeveless = Tankstelle
 
 marking-UndershirtNanotrasenA = Unterhemd (Nanotrasen)
@@ -123,9 +123,9 @@ marking-UndershirtRolledA-rolledundershirt = Unterhemden
 
 # Hair
 
-marking-SpiderHair1 = Fluffy
+marking-SpiderHair1 = Flauschig
 marking-SpiderHair2 = Langhörner
-marking-SpiderHair3 = Wisps
+marking-SpiderHair3 = Schleier
 
 # HeadSide
 
@@ -136,7 +136,7 @@ marking-ArachnidCheliceraeSmall-small = Chelicerae
 
 # Tail
 
-marking-AbdomenBasic = Abdomen (Basic)
+marking-AbdomenBasic = Abdomen (Standard)
 marking-AbdomenBasic-abdomenbasic1 = Beine
 marking-AbdomenBasic-abdomenbasic2 = Abdomen
 

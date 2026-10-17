@@ -10,7 +10,7 @@ marking-MakeupNailPolishLeft = Nagellack (links)
 marking-MakeupNailPolishRight-nail_polish_r = Rechter Nagelpolnisch
 marking-MakeupNailPolishRight = Nagellack (rechts)
 
-marking-MakeupMothBlush-moth_blush = Moth Blush
+marking-MakeupMothBlush-moth_blush = Motten-Rouge
 marking-MakeupMothBlush = Mottenrouge
 
 marking-MakeupMothLips-moth_lips = Lippenstift

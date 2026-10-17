@@ -4,10 +4,10 @@ marking-ScarsVoxClawTorso = Krallennarbe
 marking-ScarsVoxClawTorso-claw = Krallennarbe
 
 marking-SpotsChest = Gefleckte Brust
-marking-SpotsChest-spots1 = Spots
+marking-SpotsChest-spots1 = Flecken
 marking-SpotsChest-spots2 = Bauch
 
-marking-VChest = Vee
+marking-VChest = V-Form
 marking-VChest-v1 = oben
 marking-VChest-v2 = Mitte
 marking-VChest-v3 = Boden
@@ -15,8 +15,8 @@ marking-VChest-v3 = Boden
 marking-VoxBelly = Bauch
 marking-VoxBelly-belly = Bauch
 
-marking-VoxChestPlumage = Brustklempner
-marking-VoxChestPlumage-plumage = Brustklempner
+marking-VoxChestPlumage = Brustgefieder
+marking-VoxChestPlumage-plumage = Brustgefieder
 
 marking-VoxScarIncision = Narbe (Inzision)
 marking-VoxScarIncision-scarincision = Narbe (Inzision)
@@ -27,8 +27,8 @@ marking-VoxScarMangled-scarmangled = Narbe (verbogen)
 marking-VoxScarSpinal = Narbe (Spinal)
 marking-VoxScarSpinal-scarspinal = Narbe (Spinal)
 
-marking-VoxTailSingleStripe = Single Tail Strip
-marking-VoxTailSingleStripe-tailsinglestripe = Single Tail Strip
+marking-VoxTailSingleStripe = Einzelner Schwanzstreifen
+marking-VoxTailSingleStripe-tailsinglestripe = Einzelner Schwanzstreifen
 
 marking-VoxTailStripes = Endstreifen
 marking-VoxTailStripes-tailstripes = Endstreifen
@@ -92,7 +92,7 @@ marking-SpotsArmR-spots = Gefleckter Arm rechts
 marking-VoxArmsStripesRHand = Streifen (Rechter Arm)
 marking-VoxArmsStripesRHand-stripes = Streifen (Rechter Arm)
 
-marking-VoxRArmScales = Armwaage rechts
+marking-VoxRArmScales = Armschuppen rechts
 
 # LArm
 
@@ -102,7 +102,7 @@ marking-SpotsArmL-spots = Gefleckter Arm links
 marking-VoxArmsStripesLHand = Streifen (linker Arm)
 marking-VoxArmsStripesLHand-stripes = Streifen (linker Arm)
 
-marking-VoxLArmScales = Armwaage links
+marking-VoxLArmScales = Armschuppen links
 
 # RLeg
 
@@ -213,13 +213,13 @@ marking-VoxWindswept-hairwindswept = Windschutz
 
 # HeadSide
 
-marking-SideQuills = Quills
+marking-SideQuills = Stachelkiele
 marking-SideQuills-quills1 = Ober- und Unterteil
 marking-SideQuills-quills2 = Mittelspitze
 marking-SideQuills-quills3 = Mittelboden
 
 marking-VoxStreamers = Bänder
-marking-VoxStreamers-streamers1 = Quill
+marking-VoxStreamers-streamers1 = Stachelkiel
 marking-VoxStreamers-streamers2 = Fluß
 marking-VoxStreamers-streamers3 = Auge
 
@@ -234,10 +234,10 @@ marking-FriendsOfAFeather-friendsfeather2 = Federschnitt
 marking-SpotsTail = Gefleckter Schwanz
 marking-SpotsTail-spots= Gefleckter Schwanz
 
-marking-TailBloom = Bloom
+marking-TailBloom = Blüte
 marking-TailBloom-bloom1 = Blüte
 marking-TailBloom-bloom2 = Blüte
-marking-TailBloom-bloom3 = Bush
+marking-TailBloom-bloom3 = Busch
 
 marking-VoxChains = Ketten
 marking-VoxChains-chains = Ketten
@@ -264,7 +264,7 @@ marking-VoxTailBell-bell2 = Rückenschwanz
 marking-VoxTailLantern = Laternen
 marking-VoxTailLantern-lantern = Laternen
 
-marking-VoxTailNub = Nub
+marking-VoxTailNub = Stummel
 marking-VoxTailNub-nub1 = Schwanz
 marking-VoxTailNub-nub2 = Narkose
 

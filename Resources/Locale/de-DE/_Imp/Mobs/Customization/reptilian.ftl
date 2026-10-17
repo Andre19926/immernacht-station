@@ -19,10 +19,10 @@ marking-ScarTalons-talonscar = Narbe (Talonmark)
 marking-Fangs = Lizard Fang
 marking-Fangs-Fangs = Fische
 
-marking-LizardBeard = Lizard Beard
+marking-LizardBeard = Echsen-Bart
 marking-LizardBeard-beard = Bart
 
-marking-LizardDroopySnout = Lizard Snout (Droopy)
+marking-LizardDroopySnout = Echsen-Schnauze (Droopy)
 marking-LizardDroopySnout-droopy = Schnauze
 
 marking-LizardSnoutpiercings = Piercings
@@ -75,14 +75,14 @@ marking-HijabFashionableLizard-hijabchiclizard = Hijab (Mode)
 marking-HijabSimpleLizard = Hijab (einfach)
 marking-HijabSimpleLizard-hijabsimplelizard = Hijab (einfach)
 
-marking-LizardKoboldEarsMid = Lizard Ears (Kobold Soft)
+marking-LizardKoboldEarsMid = Echsen-Ohren (Kobold, weich)
 marking-LizardKoboldEarsMid-koboldearsmid = Ohren
 
-marking-LizardKoboldEarsTall = Lizard Ears (Kobold Stiff)
+marking-LizardKoboldEarsTall = Echsen-Ohren (Kobold, steif)
 marking-LizardKoboldEarsTall-koboldearstall = Ohren
 
-marking-NiqabLizard = Niqab
-marking-NiqabLizard-niqablizard = Niqab
+marking-NiqabLizard = Nikab
+marking-NiqabLizard-niqablizard = Nikab
 
 marking-TichelSimpleLizard = Tichel (einfach)
 marking-TichelSimpleLizard-tichelsimplelizard = Tichel (einfach)
@@ -98,12 +98,12 @@ marking-LizardHeadFlat-flat = Flachkopf
 marking-LizardFrill = Kopffritte
 marking-LizardFrill-frill = Kopffritte
 
-marking-LizardHornsKoboldEarspiercings = Lizard Ears (Kobold, Pierced)
+marking-LizardHornsKoboldEarspiercings = Echsen-Ohren (Kobold, Gepierct)
 marking-LizardHornsKoboldEarspiercings-koboldears = Ohren
 marking-LizardHornsKoboldEarspiercings-kobold_earspiercings = Piercings
 
-marking-LizardHornsNubby-nubby = Lizard Horns (Nubby)
-marking-LizardHornsNubby = Lizard Horns (Nubby)
+marking-LizardHornsNubby-nubby = Echsen-Hörner (Stummelig)
+marking-LizardHornsNubby = Echsen-Hörner (Stummelig)
 
 marking-LizardLittleHorns = Lizard Horns (Klein)
 marking-LizardLittleHorns-small = Hörner
@@ -116,7 +116,7 @@ marking-TailDropped-dropped = Tropfenschwanz
 
 marking-TailGecko = Gecko Schwanz
 marking-TailGecko-gecko1 = Gecko Schwanz
-marking-TailGecko-gecko2 = Spots
+marking-TailGecko-gecko2 = Flecken
 
 marking-TailSnailLizard = Schneckenschale
 marking-TailSnailLizard-snizard1 = Schale

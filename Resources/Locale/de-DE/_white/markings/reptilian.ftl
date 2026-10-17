@@ -56,14 +56,14 @@ marking-SnakeLargeTail-tail_snakelarge_overlay = Äußeres
 
 # SPINES
 marking-LizardChestSpinesAquatic = Echse, Brust, Stacheln (aquatisch)
-marking-LizardChestSpinesAquatic-spines_aquatic = Spikes
+marking-LizardChestSpinesAquatic-spines_aquatic = Stacheln
 marking-LizardChestSpinesAquaticWithoutTail = Lizard, Brust, Wirbelsäulen (Aquatisch, ohne Schwanz)
-marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Spikes
+marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Stacheln
 
 marking-LizardChestSpinesLong = Lizard, Brust, Wirbelsäulen (lang)
-marking-LizardChestSpinesLong-spines_long = Spikes
+marking-LizardChestSpinesLong-spines_long = Stacheln
 marking-LizardChestSpinesLongWithoutTail = Lizard, Brust, Wirbelsäulen (lang, ohne Schwanz)
-marking-LizardChestSpinesLongWithoutTail-spines_long = Spikes
+marking-LizardChestSpinesLongWithoutTail-spines_long = Stacheln
 
 marking-LizardChestSpinesLongMembrane = Lizard, Brust, Wirbelsäulen (Long, Membrane)
 marking-LizardChestSpinesLongMembrane-spines_longmembrane = Stacheln
@@ -71,11 +71,11 @@ marking-LizardChestSpinesLongMembraneWithoutTail = Lizard, Brust, Wirbelsäulen 
 marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = Stacheln
 
 marking-LizardChestSpinesShort = Lizard, Brust, Wirbelsäulen (Kurz)
-marking-LizardChestSpinesShort-spines_short = Spikes
+marking-LizardChestSpinesShort-spines_short = Stacheln
 marking-LizardChestSpinesShortWithoutTail = Lizard, Brust, Wirbelsäulen (Kurz, ohne Schwanz)
-marking-LizardChestSpinesShortWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShortWithoutTail-spines_short = Stacheln
 
 marking-LizardChestSpinesShortMembrane = Lizard, Brust, Wirbelsäulen (Kurz, Membran)
-marking-LizardChestSpinesShortMembrane-spines_short = Spikes
+marking-LizardChestSpinesShortMembrane-spines_short = Stacheln
 marking-LizardChestSpinesShortMembraneWithoutTail = Lizard, Brust, Wirbelsäulen (Kurzschluss, Membran, ohne Schwanz)
-marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Stacheln

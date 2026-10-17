@@ -59,11 +59,11 @@ marking-FeroxiSnoutCountershadingStripe-feroxi-snout = Basisschnauze
 marking-FeroxiSnoutCountershadingStripe-feroxi-snout-countershading = Gegenschatten
 marking-FeroxiSnoutCountershadingStripe-feroxi-snout-stripe = Streifen
 
-marking-FeroxiSnoutNurse = Nurse Snout
+marking-FeroxiSnoutNurse = Pflegeschnauze
 marking-FeroxiSnoutNurse-feroxi-snout = Basisschnauze
 marking-FeroxiSnoutNurse-feroxi-snout-nurse = Barbeln
 
-marking-FeroxiSnoutNurseCountershading = Countershaded Nurse Snout
+marking-FeroxiSnoutNurseCountershading = Gegenschattierte Pflegeschnauze
 marking-FeroxiSnoutNurseCountershading-feroxi-snout = Basisschnauze
 marking-FeroxiSnoutNurseCountershading-feroxi-snout-countershading = Gegenschatten
 marking-FeroxiSnoutNurseCountershading-feroxi-snout-nurse = Barbeln
@@ -228,10 +228,10 @@ marking-FeroxiLArmStripesTiger-feroxi-Larm-stripes-tiger = Streifen
 marking-FeroxiRArmStripesTiger = Full Stripes (rechts)
 marking-FeroxiRArmStripesTiger-feroxi-Rarm-stripes-tiger = Streifen
 
-marking-FeroxiLHandTip = Countershading Hand
+marking-FeroxiLHandTip = Gegenschattierung (Hand)
 marking-FeroxiLHandTip-feroxi-Lhand-tip = Gegenschatten
 
-marking-FeroxiRHandTip = Countershading Hand
+marking-FeroxiRHandTip = Gegenschattierung (Hand)
 marking-FeroxiRHandTip-feroxi-Rhand-tip = Gegenschatten
 
 marking-FeroxiLHandStripesTiger = Hand mit Stripes

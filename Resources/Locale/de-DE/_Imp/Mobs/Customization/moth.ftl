@@ -1,10 +1,10 @@
 # Chest
 
 marking-ChestChimeraFemaleMoth = Mottentruhe (Chimera)
-marking-ChestChimeraFemaleMoth-chimeraf = Chimera
+marking-ChestChimeraFemaleMoth-chimeraf = Chimäre
 
 marking-ChestChimeraMaleMoth = Mottentruhe (Chimera)
-marking-ChestChimeraMaleMoth-chimeram = Chimera
+marking-ChestChimeraMaleMoth-chimeram = Chimäre
 
 marking-ChestTwistingLeftFemaleMoth = Narbe (verdrehte Narbe links)
 marking-ChestTwistingLeftFemaleMoth-twistingleftf = Twisted Scar (links)
@@ -19,7 +19,7 @@ marking-ChestTwistingRightMaleMoth = Scar (rechts verdreht)
 marking-ChestTwistingRightMaleMoth-twistingrightm = Twisted Scar (rechts)
 
 marking-ChestStarMoth = Narbe (Star)
-marking-ChestStarMoth-star = Star Scar
+marking-ChestStarMoth-star = Stern Narbe
 
 marking-MothBodyClaw = Narbe (Klauen)
 marking-MothBodyClaw-claw = Krallennarben
@@ -33,13 +33,13 @@ marking-TorsoIncisionMoth-incision = Rumpfeinschnitt
 # Head
 
 marking-BadmoltMoth = Narbe (Bad Molt)
-marking-BadmoltMoth-badmolt = Bad Molt
+marking-BadmoltMoth-badmolt = Schlechte Häutung
 
 marking-EyebagsMoth = Augen (Eyebags)
 marking-EyebagsMoth-eyebags = Augensäcke
 
 marking-HeadChimeraMoth = Mottenkopf (Chimera)
-marking-HeadChimeraMoth-chimera = Chimera
+marking-HeadChimeraMoth-chimera = Chimäre
 
 marking-HeadTwistingMoth = Narbe (gedreht)
 marking-HeadTwistingMoth-twisting = Verdrehte Narbe
@@ -92,8 +92,8 @@ marking-TwistingArmRightMoth-twisting = Twisted Scar (rechts)
 
 # LArm
 
-marking-ChimeraArmLeftMoth = Moth Left Arm (Chimera)
-marking-ChimeraArmLeftMoth-chimera = Chimera (Arm)
+marking-ChimeraArmLeftMoth = Motten-Arm links (Chimäre)
+marking-ChimeraArmLeftMoth-chimera = Chimäre (Arm)
 
 marking-ProstheticArmLeftMoth = Prothese (linker Arm)
 marking-ProstheticArmLeftMoth-prosthetic = Prothese (linker Arm)
@@ -112,7 +112,7 @@ marking-LegTwistingRightMoth-twisting = Twisted Scar (rechts)
 # LLeg
 
 marking-LegChimeraLeftMoth = Motte links bein (Chimera)
-marking-LegChimeraLeftMoth-chimera = Chimera (Leg)
+marking-LegChimeraLeftMoth-chimera = Chimäre (Bein)
 
 marking-LegProstheticLeftMoth = Prothese (linkes Bein)
 marking-LegProstheticLeftMoth-prosthetic = Prothese (linkes Bein)
@@ -140,7 +140,7 @@ marking-FootProstheticRightMoth-prosthetic = Prothese (Rechter Fuß)
 # LHand
 
 marking-HandChimeraLeftMoth = Motte linke Hand (Chimera)
-marking-HandChimeraLeftMoth-chimera = Chimera (Hand)
+marking-HandChimeraLeftMoth-chimera = Chimäre (Hand)
 
 marking-HandProstheticLeftMoth = Prothese (linke Hand)
 marking-HandProstheticLeftMoth-prosthetic = Prothese (linke Hand)
@@ -173,8 +173,8 @@ marking-PlateSmallSpike = Kopf (Spike)
 marking-MothBeetleHorn1 = Beetle Horn (Zacken)
 marking-MothBeetleHorn1-beetlehorn1 = Beetle Horn (Zacken)
 
-marking-MothBeetleHorn2 = Beetle Horn (Lance)
-marking-MothBeetleHorn2-beetlehorn2 = Beetle Horn (Lance)
+marking-MothBeetleHorn2 = Käfer Horn (Lanze)
+marking-MothBeetleHorn2-beetlehorn2 = Käfer Horn (Lanze)
 
 marking-MothGlowAntenna = Antennen (Feuerwehr)
 marking-MothGlowAntenna-glowantenna = Antennen
@@ -194,7 +194,7 @@ marking-AntennaShort-nub = Antennen
 marking-LunaWings = Flügel (Luna Moth)
 marking-LunaWings-luna_neck = Hals
 marking-LunaWings-luna_primary_front = Flügel
-marking-LunaWings-luna_secondary_front = Spots
+marking-LunaWings-luna_secondary_front = Flecken
 
 marking-MothBee = Flügel (Hummel)
 marking-MothBee-bee_neck = Hals
@@ -210,10 +210,10 @@ marking-MothBeetleTail-beetle_tertiary_behind = Innenflügel
 
 marking-MothFirefly = Flügel (Firefly Underlay)
 marking-MothFirefly-firefly_neck = Hals
-marking-MothFirefly-firefly_primary_front = Firefly Wings
+marking-MothFirefly-firefly_primary_front = Glühwürmchen Flügel
 
-marking-MothFireflyOverlay = Firefly (Overlay)
-marking-MothFireflyOverlay-firefly_secondary_front = Firefly (Overlay)
+marking-MothFireflyOverlay = Glühwürmchen (Überlagerung)
+marking-MothFireflyOverlay-firefly_secondary_front = Glühwürmchen (Überlagerung)
 
 marking-MothGlasswing = Flügel (Glasswing)
 marking-MothGlasswing-glasswing_neck = Hals
@@ -221,7 +221,7 @@ marking-MothGlasswing-glasswing_primary_front = Inneres
 marking-MothGlasswing-glasswing_secondary_front = Äußeres
 marking-MothGlasswing-glasswing_tertiary_front = Streifen
 
-marking-MothRhinoBeetle = Whings (Rhino Beetle)
+marking-MothRhinoBeetle = Whings (Nashornkäfer)
 marking-MothRhinoBeetle-rhinobeetle_neck = Hals
 marking-MothRhinoBeetle-rhinobeetle_primary_front = Gliederung
 marking-MothRhinoBeetle-rhinobeetle_secondary_front = Flügel
@@ -265,7 +265,7 @@ marking-WingsPyrausta-pyr_stripes_front = Streifen
 
 marking-MothWingsDefault-default_neck = Hals
 marking-MothWingsDefault-default_primary_front = Flügel
-marking-MothWingsDefault-default_secondary_front = Spots
+marking-MothWingsDefault-default_secondary_front = Flecken
 
 marking-MothWingsCharred-charred_neck = Hals
 marking-MothWingsCharred-charred_primary_front = Flügel
@@ -302,7 +302,7 @@ marking-MothWingsJungle-jungle_primary_front = Flügel
 
 marking-MothWingsLadybug-ladybug_neck = Hals
 marking-MothWingsLadybug-ladybug_primary_front = Flügel
-marking-MothWingsLadybug-ladybug_secondary_front = Spots
+marking-MothWingsLadybug-ladybug_secondary_front = Flecken
 
 marking-MothWingsMaple-maple_neck = Hals
 marking-MothWingsMaple-maple_primary_front = Primär

@@ -8,8 +8,8 @@
 
 marking-VoxFacialHairBeard = Vox-Bart (Stacheln)
 marking-VoxFacialHairColonel = Vox-Schnurrbart (Oberst)
-marking-VoxFacialHairFu = Vox Moustache (Quill Fu)
-marking-VoxFacialHairNeck = Vox Beard (Neck Quills)
-marking-VoxFacialHairMane = Vox Beard (Mane)
+marking-VoxFacialHairFu = Vox-Schnurrbart (Quill Fu)
+marking-VoxFacialHairNeck = Vox-Bart (Halskiele)
+marking-VoxFacialHairMane = Vox-Bart (Mähne)
 marking-VoxFacialHairManeSmall = Vox-Bart (kleine Mähne)
 marking-VoxFacialHairTufts = Vox-Koteletten (Büschel)

@@ -39,23 +39,23 @@ marking-ProstheticShoulderR = Prothese (rechte Schulter)
 marking-ProstheticShoulderR-prostheticshoulderright = Prothese (rechte Schulter)
 
 marking-TattooAnchor = Tätowierung (Anker)
-marking-TattooAnchor-anchor = Tattoo
+marking-TattooAnchor-anchor = Tätowierung
 
-marking-TattooCode1 = Tattoo (Code QR Back Small)
-marking-TattooCode1-code1 = Tattoo
+marking-TattooCode1 = Tätowierung (QR-Code Rücken Klein)
+marking-TattooCode1-code1 = Tätowierung
 
-marking-TattooCode2 = Tattoo (Code Bar Back)
-marking-TattooCode2-code2 = Tattoo
+marking-TattooCode2 = Tätowierung (Strichcode Rücken)
+marking-TattooCode2-code2 = Tätowierung
 
-marking-TattooCode3 = Tattoo (Code QR Back Big)
-marking-TattooCode3-code3 = Tattoo
+marking-TattooCode3 = Tätowierung (QR-Code Rücken Groß)
+marking-TattooCode3-code3 = Tätowierung
 
-marking-TattooDragon = Tattoo (Dragon)
+marking-TattooDragon = Tätowierung (Drache)
 marking-TattooDragon-dragontattoo1 = Körper
-marking-TattooDragon-dragontattoo2 = Highlights
+marking-TattooDragon-dragontattoo2 = Strähnchen
 
-marking-ChestStar = Star Scar
-marking-ChestStar-star = Star Scar
+marking-ChestStar = Stern Narbe
+marking-ChestStar-star = Stern Narbe
 
 marking-TorsoIncision = Rumpfeinschnitt
 marking-TorsoIncision-torso_incision = Rumpfeinschnitt
@@ -78,15 +78,15 @@ marking-EyebrowsBigger-eyebrowsultra = Augenbrauen (größer)
 marking-EyebrowsUnibrow = Augenbrauen (Unibrow)
 marking-EyebrowsUnibrow-eyebrowsunibrow = Augenbrauen (Unibrow)
 
-marking-HeadHeavyTattoos = Heavy Neck Tattoos
+marking-HeadHeavyTattoos = Starke Hals Tätowierungen
 marking-HeadHeavyTattoos-heavy1 = Heavy Neck Tattoos (Untere)
 marking-HeadHeavyTattoos-heavy2 = Heavy Neck Tattoos (Oben)
 
 marking-HeadTwisting = Verdrehte Narbe
 marking-HeadTwisting-twisting = Verdrehte Narbe
 
-marking-HeadTwistingFlipped = Twisted Scar, Flipped
-marking-HeadTwistingFlipped-twistingflipped = Twisted Scar, Flipped
+marking-HeadTwistingFlipped = Verdreht Narbe, Gespiegelt
+marking-HeadTwistingFlipped-twistingflipped = Verdreht Narbe, Gespiegelt
 
 marking-HumanoidEyebags = Augensäcke
 marking-HumanoidEyebags-eyebags = Augensäcke
@@ -94,7 +94,7 @@ marking-HumanoidEyebags-eyebags = Augensäcke
 marking-SmileScars = Der Jonker
 marking-SmileScars-smile = Der Jonker
 
-marking-VitiligoHeadJaw = Vitiligo (Jawline)
+marking-VitiligoHeadJaw = Vitiligo (Kieferlinie)
 
 marking-VitiligoHeadL = Vitiligo (Linkes Auge)
 
@@ -123,13 +123,13 @@ marking-ArmTwistingRight = Twisted Scar (Rechter Arm)
 marking-ArmTwistingRight-twisting = Twisted Scar (Rechter Arm)
 
 marking-TattooCode4 = Tattoo (Code QR rechter Arm)
-marking-TattooCode4-code4 = Tattoo
+marking-TattooCode4-code4 = Tätowierung
 
 marking-TattooCode5 = Tattoo (Code Bar rechter Arm)
-marking-TattooCode5-code5 = Tattoo
+marking-TattooCode5-code5 = Tätowierung
 
-marking-TattooHeartR = Tattoo (Heart Right Arm)
-marking-TattooHeartR-heart = Tattoo
+marking-TattooHeartR = Tätowierung (Herz Rechter Arm)
+marking-TattooHeartR-heart = Tätowierung
 
 marking-VitiligoArmR = Vitiligo (Rechter Arm)
 
@@ -148,8 +148,8 @@ marking-ArmProstheticLeft-prosthetic = Prothese (linker Arm)
 marking-ArmTwistingLeft = Twisted Scar (linker Arm)
 marking-ArmTwistingLeft-twisting = Twisted Scar (linker Arm)
 
-marking-TattooHeartL = Tattoo (Heart Left Arm)
-marking-TattooHeartL-heart = Tattoo
+marking-TattooHeartL = Tätowierung (Herz Linker Arm)
+marking-TattooHeartL-heart = Tätowierung
 
 marking-VitiligoArmL = Vitiligo (linker Arm)
 
@@ -187,7 +187,7 @@ marking-FootDollJointsTattooLeft = Doll Joints Fuß Tattoo (Links)
 marking-FootDollJointsTattooLeft-doll = Doll Joints Fuß Tattoo (Links)
 
 marking-FootHeavyTattoosLeft = Heavy Foot Tattoos (links)
-marking-FootHeavyTattoosLeft-heavy1 = Heavy Foot Tattoos (Inner)
+marking-FootHeavyTattoosLeft-heavy1 = Starke Fuß Tätowierungen (Innen)
 marking-FootHeavyTattoosLeft-heavy2 = Heavy Foot Tattoos (Außen)
 
 # RFoot
@@ -196,7 +196,7 @@ marking-FootDollJointsTattooRight = Doll Joints Fuß Tattoo (rechts)
 marking-FootDollJointsTattooRight-doll = Doll Joints Fuß Tattoo (rechts)
 
 marking-FootHeavyTattoosRight = Heavy Foot Tattoos (rechts)
-marking-FootHeavyTattoosRight-heavy1 = Heavy Foot Tattoos (Inner)
+marking-FootHeavyTattoosRight-heavy1 = Starke Fuß Tätowierungen (Innen)
 marking-FootHeavyTattoosRight-heavy2 = Heavy Foot Tattoos (Außen)
 
 # LHand
@@ -209,7 +209,7 @@ marking-HandDollJointsTattooLeft-doll = Doll Joints Hand Tattoo (Links)
 
 marking-HandHeavyTattoosLeft = Heavy Hand Tattoos (Links)
 marking-HandHeavyTattoosLeft-heavy1 = Heavy Hand Tattoos (Äußeres)
-marking-HandHeavyTattoosLeft-heavy2 = Heavy Hand Tattoos (Inner)
+marking-HandHeavyTattoosLeft-heavy2 = Starke Hand Tätowierungen (Innen)
 
 marking-HandProstheticLeft = Prothese (linke Hand)
 marking-HandProstheticLeft-prosthetic = Prothese (linke Hand)
@@ -233,7 +233,7 @@ marking-HandDollJointsTattooRight-doll = Doll Joints Hand Tattoo (rechts)
 
 marking-HandHeavyTattoosRight = Heavy Hand Tattoos (rechts)
 marking-HandHeavyTattoosRight-heavy1 = Heavy Hand Tattoos (Äußeres)
-marking-HandHeavyTattoosRight-heavy2 = Heavy Hand Tattoos (Inner)
+marking-HandHeavyTattoosRight-heavy2 = Starke Hand Tätowierungen (Innen)
 
 marking-HandProstheticRight = Prothese (rechte Hand)
 marking-HandProstheticRight-prosthetic = Prothese (rechte Hand)
@@ -263,11 +263,11 @@ marking-HijabFashionable = Hijab (Mode)
 
 marking-HijabSimple = Hijab (einfach)
 
-marking-HumanHairFrenchBraid = French Braid
+marking-HumanHairFrenchBraid = Französischer Zopf
 
 marking-HumanHairGatheredlow = Gesammelt niedrig
 
-marking-HumanHairHalfUpShort = Half-Up (Short)
+marking-HumanHairHalfUpShort = Halb hochgesteckt (Kurz)
 
 marking-HumanHairHalfUpLong = Halb hochgesteckt (lang)
 
@@ -283,25 +283,25 @@ marking-HumanHairMulletSideshave = Vokuhila (Seiten rasiert)
 
 marking-HumanHairSpikyPonytailLong = Pferdeschwanz (Spiky Long)
 
-marking-HumanHairUndercutCurly = Undercut (Curly)
+marking-HumanHairUndercutCurly = Undercut (Lockig)
 
-marking-HumanHairSideshaveCurly = Sideshave (Curly)
+marking-HumanHairSideshaveCurly = Seitenrasur (Lockig)
 
 marking-MessyPonytail = Zerzauster Pferdeschwanz
 
-marking-Niqab = Niqab
+marking-Niqab = Nikab
 
 marking-TichelFashionable = Tichel (Mode)
 
 marking-TichelSimple = Tichel (einfach)
 
-marking-HumanHairShaggy = Shaggy
+marking-HumanHairShaggy = Zottelig
 
 marking-HumanHairShaggyLonger = Shaggy (länger)
 
-marking-HumanHairShaggyMessy = Shaggy (Messy)
+marking-HumanHairShaggyMessy = Zottelig (Unordentlich)
 
-marking-HumanHairSusie = Mean Girl (Bangs)
+marking-HumanHairSusie = Zicke (Pony)
 
 marking-HumanHairSusieNoBangs = Gemeines Mädchen
 

@@ -31,13 +31,13 @@ marking-HarpyWing2ToneClassic-harpy_2tone_1 = Obere Hälfte
 marking-HarpyWing2ToneClassic-harpy_2tone_2 = untere Hälfte
 
 marking-HarpyWing3ToneClassic = Klassische Dreitonflügel
-marking-HarpyWing3ToneClassic-harpy_3tone_1 = Top Third
+marking-HarpyWing3ToneClassic-harpy_3tone_1 = Oberes Drittel
 marking-HarpyWing3ToneClassic-harpy_3tone_2 = Mittleres Drittel
-marking-HarpyWing3ToneClassic-harpy_3tone_3 = Bottom Third
+marking-HarpyWing3ToneClassic-harpy_3tone_3 = Unteres Drittel
 
 marking-HarpyWingSpeckledClassic = Speckled klassische Flügel
 marking-HarpyWingSpeckledClassic-harpy_speckled_1 = Hauptverwaltung
-marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Speckles
+marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Sprenkel
 
 marking-HarpyWingUndertoneClassic = Klassische Flügel mit Undertone
 marking-HarpyWingUndertoneClassic-harpy_undertone_1 = vorn
@@ -47,7 +47,7 @@ marking-HarpyWingTipsClassic = Klassische Flügel mit Feder Tipps
 marking-HarpyWingTipsClassic-harpy_wingtip_1 = Hauptverwaltung
 marking-HarpyWingTipsClassic-harpy_wingtip_2 = Federspitzen
 
-marking-HarpyWingBat = Bat Wings (Whitescale)
+marking-HarpyWingBat = Bat Flügel (Weißschuppe)
 marking-HarpyWingBat-bat_wings_tone_1 = Gliedmaßen
 marking-HarpyWingBat-bat_wings_tone_2 = Membran
 
@@ -73,14 +73,14 @@ marking-HarpyTailFinch-finch_tail = Schwanz
 marking-HarpyTailForkedHuescale = Gabelschwanz (Huescale)
 marking-HarpyTailForkedHuescale-huescale_forked_tailfin = Schwanz
 
-marking-HarpyTailForkedWhitescale = Forked Tailfin (Whitescale)
+marking-HarpyTailForkedWhitescale = Forked Tailfin (Weißschuppe)
 marking-HarpyTailForkedWhitescale-whitescale_forked_tailfin = Schwanz
 
 marking-HarpyTailPeacock = Pfauenschwanz
 marking-HarpyTailPeacock-peacock_tail_feathers = Federn
 marking-HarpyTailPeacock-peacock_tail_eyes = Augen
 
-marking-HarpyTailHaven = Haven Tail (Whitescale)
+marking-HarpyTailHaven = Haven Schwanz (Weißschuppe)
 marking-HarpyTailHaven-haven_tone_1 = Äußere Federn
 marking-HarpyTailHaven-haven_tone_2 = Innere Federn
 

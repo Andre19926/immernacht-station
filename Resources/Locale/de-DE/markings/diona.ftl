@@ -27,8 +27,8 @@ marking-DionaBloomHead = Diona Everbloom (Blume)
 marking-DionaBracketHead-bracket = Diona Bracket (Pilze)
 marking-DionaBracketHead = Diona Bracket (Pilze)
 
-marking-DionaBrushHead-brush = Diona Brush (Lians)
-marking-DionaBrushHead = Diona Brush (Lians)
+marking-DionaBrushHead-brush = Diona-Bürste (Lianen)
+marking-DionaBrushHead = Diona-Bürste (Lianen)
 
 marking-DionaCornflowerHead-cornflower = Diona Cornflowers (Blumen)
 marking-DionaCornflowerHead = Diona Cornflowers (Blumen)
@@ -51,17 +51,17 @@ marking-DionaLeafyHeadTop = Diona Leafy (Blätter)
 marking-DionaLotusHead-lotus = Diona Lotus (Blume)
 marking-DionaLotusHead = Diona Lotus (Blume)
 
-marking-DionaMeadowHeadTop-meadow = Diona Meadow
+marking-DionaMeadowHeadTop-meadow = Diona-Wiese
 marking-DionaMeadowHeadTop = Diona-Wiese, Diona-Eiche (Ast), Diona-Wurzel (Wurzeln), Diona-Spinner
 
-marking-DionaOakHead-oak = Diona Oak (Snag)
+marking-DionaOakHead-oak = Diona-Eiche (Aststumpf)
 marking-DionaOakHead = Diona-Eiche (Ast)
 
 marking-DionaPalmHead-palm = Diona Palmhead (Blatt)
 marking-DionaPalmHead = Diona Palmhead (Blatt)
 
-marking-DionaRootHead-root = Diona Root (Roots)
-marking-DionaRootHead = Diona Root (Roots)
+marking-DionaRootHead-root = Diona-Wurzel
+marking-DionaRootHead = Diona-Wurzel
 
 marking-DionaRoseHead-rose = Diona Rose (Blume)
 marking-DionaRoseHead = Diona Rose (Blume)

@@ -12,8 +12,8 @@ marking-DwarfMarkCobra-markcobra = Zeichen der Cobra
 marking-DwarfMarkSpider = Mark der Spinne
 marking-DwarfMarkSpider-markspider = Mark der Spinne
 
-marking-DwarfTattooShootingStar = Shooting Star Tattoo
-marking-DwarfTattooShootingStar-shootingstar = Shooting Star Tattoo
+marking-DwarfTattooShootingStar = Sternschnuppen- Stern Tätowierung
+marking-DwarfTattooShootingStar-shootingstar = Sternschnuppen- Stern Tätowierung
 
 # Head
 

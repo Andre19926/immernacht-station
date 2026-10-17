@@ -48,43 +48,43 @@ marking-ArachnidAppendagesFreaky-freaky_primary = Fortsatz
 marking-ArachnidAppendagesFreaky-freaky_secondary = Streifen
 
 marking-ArachnidTorsoStripes = Streifen
-marking-ArachnidTorsoStripes-stripes = Design
+marking-ArachnidTorsoStripes-stripes = Muster
 
 marking-ArachnidTorsoSlashes = Schnitte
-marking-ArachnidTorsoSlashes-slashes = Design
+marking-ArachnidTorsoSlashes-slashes = Muster
 
 marking-ArachnidTorsoCross = Kreuz
-marking-ArachnidTorsoCross-cross = Design
+marking-ArachnidTorsoCross-cross = Muster
 
 marking-ArachnidTorsoX = X
-marking-ArachnidTorsoX-x = Design
+marking-ArachnidTorsoX-x = Muster
 
 marking-ArachnidTorsoHeart = Herz
-marking-ArachnidTorsoHeart-heart = Design
+marking-ArachnidTorsoHeart-heart = Muster
 
 marking-ArachnidTorsoHourglass = Sanduhr
-marking-ArachnidTorsoHourglass-hourglass = Design
+marking-ArachnidTorsoHourglass-hourglass = Muster
 
 marking-ArachnidTorsoNailAndHammer = Nagel und Hammer
-marking-ArachnidTorsoNailAndHammer-nail-and-hammer = Design
+marking-ArachnidTorsoNailAndHammer-nail-and-hammer = Muster
 
 marking-ArachnidTorsoStar = Stern
-marking-ArachnidTorsoStar-star = Design
+marking-ArachnidTorsoStar-star = Muster
 
 marking-ArachnidTorsoArrows = Pfeile
-marking-ArachnidTorsoArrows-arrows = Design
+marking-ArachnidTorsoArrows-arrows = Muster
 
 marking-ArachnidTorsoCore = Kern
-marking-ArachnidTorsoCore-core = Design
+marking-ArachnidTorsoCore-core = Muster
 
 marking-ArachnidTorsoFiddleback = Fiddleback
-marking-ArachnidTorsoFiddleback-fiddleback = Design
+marking-ArachnidTorsoFiddleback-fiddleback = Muster
 
 marking-ArachnidTorsoSkull = Schädel
-marking-ArachnidTorsoSkull-skull = Design
+marking-ArachnidTorsoSkull-skull = Muster
 
 marking-ArachnidTorsoTarget = Ziel
-marking-ArachnidTorsoTarget-target = Design
+marking-ArachnidTorsoTarget-target = Muster
 
 marking-ArachnidRArmStripes = Arachnidenstreifen (rechts)
 marking-ArachnidRArmStripes-stripes_right = Streifen
@@ -98,4 +98,4 @@ marking-ArachnidRLegStripes-stripes_right = Streifen
 marking-ArachnidLLegStripes = Arachnidenstreifen (links)
 marking-ArachnidLLegStripes-stripes_left = Streifen
 
-marking-ArachnidOverlayFuzzy = Fuzzy
+marking-ArachnidOverlayFuzzy = Fusselig

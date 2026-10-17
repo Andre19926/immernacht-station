@@ -1,8 +1,8 @@
 marking-FaceBindi = Bindi
 marking-FaceBindi-bindi = Bindi
 
-marking-FaceFullblush = Full Blush
-marking-FaceFullblush-fullblush = Full Blush
+marking-FaceFullblush = Volles Rouge
+marking-FaceFullblush-fullblush = Volles Rouge
 
 marking-FaceCheekspotRight = Cheek Spot (rechts)
 marking-FaceCheekspotRight-cheekspot_r = Cheek Spot (rechts)

@@ -1,12 +1,12 @@
-marking-HydrakinEyesDefault = Default Eyes
+marking-HydrakinEyesDefault = Standardaugen
 marking-HydrakinEyesHex = Hexenaugen
 marking-HydrakinEyesOmega = Omega-Augen
 marking-HydrakinEyesQuad = Vieraugen
 marking-HydrakinEyesRing = Ringaugen
-marking-HydrakinEyesSaint = Saint Eyes
+marking-HydrakinEyesSaint = Heiligenaugen
 
 marking-HydrakinTailDefault = Schwanz
-marking-HydrakinTailNub = Nub
+marking-HydrakinTailNub = Stummel
 marking-HydrakinTailFeathers = gefedert
 marking-HydrakinTailSpiny = Dornhai
 marking-HydrakinTailFins = Rippen
@@ -29,7 +29,7 @@ marking-HydrakinProtoFace1 = Ringanzeige
 marking-HydrakinProtoFace2 = Seriöses Display
 marking-HydrakinProtoFace3 = Teufelliche Darstellung
 marking-HydrakinProtoFace4 = Trauriges Display
-marking-HydrakinProtoFace5 = Chill Display
+marking-HydrakinProtoFace5 = Entspannungsanzeige
 
 marking-HydrakinEnforcerHead = Vollstreckerkopf
 marking-HydrakinEnforcerChest = Vollzugstruhe
@@ -38,7 +38,7 @@ marking-HydrakinEnforcerRightArm = Vollstreckerrecht
 marking-HydrakinEnforcerLeftLeg = Vollstrecker links
 marking-HydrakinEnforcerRightLeg = Vollstreckerrecht
 
-marking-HydrakinHydraFaceMask = Hydra Faceplate
+marking-HydrakinHydraFaceMask = Hydra-Gesichtsplatte
 marking-HydrakinHydraSeerMarking = Hydra Seer Markierung
 marking-HydrakinHydraMantleMaw = Mantelmaw
 marking-HydrakinHydraUnderbelly = Hydra Unterwelt
@@ -65,7 +65,7 @@ marking-HydrakinRebelRightLeg = Rebellenrecht
 
 marking-HydrakinTribalHead = Stammesleiter
 marking-HydrakinTribalChest = Stammesbrust
-marking-HydrakinTribalLeftArm = Tribal Left
+marking-HydrakinTribalLeftArm = Tribal (Links)
 marking-HydrakinTribalRightArm = Stammesrecht
-marking-HydrakinTribalLeftLeg = Tribal Left
+marking-HydrakinTribalLeftLeg = Tribal (Links)
 marking-HydrakinTribalRightLeg = Stammesrecht

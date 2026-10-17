@@ -38,7 +38,7 @@ marking-FelinidEarsWide = Breite Ohren
 marking-FelinidEarsWide-wide_outer = Äußeres Ohr
 marking-FelinidEarsWide-wide_inner = Innenohr
 
-marking-FelinidTailBasic = Basic Cat Tail
+marking-FelinidTailBasic = Standard Katzen Schwanz
 marking-FelinidTailBasic-basic_tail_tip = Schwanzspitze
 marking-FelinidTailBasic-basic_tail_stripes_even = Schwanzstreifen, sogar
 marking-FelinidTailBasic-basic_tail_stripes_odd = Schwanzstreifen, ungerade

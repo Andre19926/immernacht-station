@@ -7,29 +7,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-TattooHiveChest-tattoo_hive_chest = Rücken Tattoo (Hive)
-marking-TattooHiveChest = Rücken Tattoo (Hive)
+marking-TattooHiveChest-tattoo_hive_chest = Rückentätowierung (Schwarm)
+marking-TattooHiveChest = Rückentätowierung (Schwarm)
 
-marking-TattooNightlingChest-tattoo_nightling = Brust Tattoo (Nachtling)
-marking-TattooNightlingChest = Brust Tattoo (Nightling)
+marking-TattooNightlingChest-tattoo_nightling = Brusttätowierung (Nachtling)
+marking-TattooNightlingChest = Brusttätowierung (Nachtling)
 
-marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Left Leg Tattoo (Silverburg)
-marking-TattooSilverburghLeftLeg = Left Leg Tattoo (Silverburg)
+marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Tätowierung (Linkes Bein, Silverburg)
+marking-TattooSilverburghLeftLeg = Tätowierung (Linkes Bein, Silverburg)
 
-marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Right Leg Tattoo (Silverburg)
-marking-TattooSilverburghRightLeg = Right Leg Tattoo (Silverburg)
+marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Tätowierung (Rechtes Bein, Silverburg)
+marking-TattooSilverburghRightLeg = Tätowierung (Rechtes Bein, Silverburg)
 
-marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Linksarm Tattoo (Campbelle)
-marking-TattooCampbellLeftArm = Linksarm Tattoo (Campbelle)
+marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Tätowierung (Linker Arm, Campbelle)
+marking-TattooCampbellLeftArm = Tätowierung (Linker Arm, Campbelle)
 
-marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Rechtsarm Tattoo (Campbelle)
-marking-TattooCampbellRightArm = Rechtsarm Tattoo (Campbelle)
+marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Tätowierung (Rechter Arm, Campbelle)
+marking-TattooCampbellRightArm = Tätowierung (Rechter Arm, Campbelle)
 
-marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Linksbein Tattoo (Campbelle)
-marking-TattooCampbellLeftLeg = Linksbein Tattoo (Campbelle)
+marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Tätowierung (Linkes Bein, Campbelle)
+marking-TattooCampbellLeftLeg = Tätowierung (Linkes Bein, Campbelle)
 
-marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Rechtes Bein Tattoo (Campbelle)
-marking-TattooCampbellRightLeg = Rechtes Bein Tattoo (Campbelle)
+marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Tätowierung (Rechtes Bein, Campbelle)
+marking-TattooCampbellRightLeg = Tätowierung (Rechtes Bein, Campbelle)
 
 marking-TattooEyeRight-tattoo_eye_r = rechtes Auge
 marking-TattooEyeRight = rechtes Auge
@@ -55,11 +55,11 @@ marking-TattooEyeshadowUpper = Lidschatten (oben)
 marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Eyeshadow (Unterer)
 marking-TattooEyeshadowLower = Lidschatten (unten)
 
-marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Eyeshadow (Unterer)
-marking-TattooEyeshadowLowerReptilian = Eyeshadow (Unterer)
+marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Lidschatten (unten)
+marking-TattooEyeshadowLowerReptilian = Lidschatten (unten)
 
-marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Augenschatten (klein)
-marking-TattooEyeshadowVoxSmall = Augenschatten (klein)
+marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Lidschatten (klein)
+marking-TattooEyeshadowVoxSmall = Lidschatten (klein)
 
 marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Eyeshadow (Mittelwert)
 marking-TattooEyeshadowVoxMedium = Lidschatten (mittel)

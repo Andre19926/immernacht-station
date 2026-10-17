@@ -12,10 +12,10 @@ marking-ScarEyeRight = Augennarbe (rechts)
 marking-ScarEyeLeft-scar_eye_left = Linke Augennarbe
 marking-ScarEyeLeft = Augennarbe (links)
 
-marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Brust-OP Narbe
 marking-ScarTopSurgeryShort = Narbe (Brust-OP, kurz)
 
-marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
+marking-ScarTopSurgeryLong-scar_top_surgery_long = Brust-OP Narbe
 marking-ScarTopSurgeryLong = Top Surgery Scar (lang)
 
 marking-ScarChest-scar_chest = Brustnarbe
@@ -24,10 +24,10 @@ marking-ScarChest = Brustnarbe
 marking-ScarNeck-scar_neck = Halsnarbe
 marking-ScarNeck = Halsnarbe
 
-marking-ScarChestBullets-scar_chest_bullets = Bullet Holes Scar
+marking-ScarChestBullets-scar_chest_bullets = Bullet Holes Narbe
 marking-ScarChestBullets = Brustnarbe (Bullets)
 
-marking-ScarStomachBullets-scar_stomach_bullets = Bullet Holes Scar
+marking-ScarStomachBullets-scar_stomach_bullets = Bullet Holes Narbe
 marking-ScarStomachBullets = Magennarbe (Bullets)
 
 marking-ScarFace1-scar_face_1 = Gesichtsnarbe

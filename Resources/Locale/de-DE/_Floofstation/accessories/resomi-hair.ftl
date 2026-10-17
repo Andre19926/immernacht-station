@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-HairResomiBackstrafe = Resomi Backstrafe
-marking-HairResomiBurstShort = Resomi Burst Short
-marking-HairResomiDefault = Ausfall von Resomi
-marking-HairResomiDroopy = Resomi Droopy
+marking-HairResomiBackstrafe = Resomi-Seitwärtsschritt
+marking-HairResomiBurstShort = Resomi-Büschel (kurz)
+marking-HairResomiDefault = Resomi-Standard
+marking-HairResomiDroopy = Resomi-Hängend
 marking-HairResomiEars = Resomi-Ohren
-marking-HairResomiFluffymohawk = Resomi Fluffymohawk
-marking-HairResomiHedge = Resomi-Hedge
-marking-HairResomiLongway = Resomi Longway
-marking-HairResomiMane = Resomi Mane
-marking-HairResomiManeBeardless = Resomi Mane (Bartlos)
-marking-HairResomiMohawk = Resomi Mohawk
+marking-HairResomiFluffymohawk = Resomi-Flauschirokese
+marking-HairResomiHedge = Resomi-Hecke
+marking-HairResomiLongway = Resomi-Langer Weg
+marking-HairResomiMane = Resomi-Mähne
+marking-HairResomiManeBeardless = Resomi-Mähne (Bartlos)
+marking-HairResomiMohawk = Resomi-Irokese
 marking-HairResomiMushroom = Resomi-Pilz
-marking-HairResomiNotree = Resomi Notree
-marking-HairResomiSpiky = Resomi Spiky
-marking-HairResomiPointy = ResomiPointy
-marking-HairResomiTwies = Resomi Twies
-marking-HairResomiUpright = Resomi aufrecht
-marking-HairResomiLong = Resomi Long
+marking-HairResomiNotree = Resomi-Kein Baum
+marking-HairResomiSpiky = Resomi-Stachelig
+marking-HairResomiPointy = Resomi-Spitz
+marking-HairResomiTwies = Resomi-Zöpfchen
+marking-HairResomiUpright = Resomi-Aufrecht
+marking-HairResomiLong = Resomi-Lang

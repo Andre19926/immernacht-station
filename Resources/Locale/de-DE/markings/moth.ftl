@@ -76,7 +76,7 @@ marking-MothWingsCharred = Flügel (Charred)
 
 marking-MothWingsDbushy-dbushy_primary = Primär
 marking-MothWingsDbushy-dbushy_secondary = Sekundär
-marking-MothWingsDbushy = Wings (Dark & Bushy)
+marking-MothWingsDbushy = Flügel (Dunkel & Buschig)
 
 marking-MothWingsDeathhead-deathhead_primary = Primär
 marking-MothWingsDeathhead-deathhead_secondary = Sekundär
@@ -86,7 +86,7 @@ marking-MothWingsFan-fan = Flügel
 marking-MothWingsFan = Flügel (Fan)
 
 marking-MothWingsDfan-dfan = Flügel
-marking-MothWingsDfan = Wings (Dark & Fan)
+marking-MothWingsDfan = Flügel (Dunkel & Fächer)
 
 marking-MothWingsFeathery-feathery = Flügel
 marking-MothWingsFeathery = Flügel (Feathery)
@@ -195,16 +195,16 @@ marking-MothHeadFan-fan_head = Kopf
 marking-MothHeadFan = Mottenkopf (Fan)
 
 marking-MothLLegFan-fan_l_leg = linkes Bein
-marking-MothLLegFan = Moth Left Leg (Fan)
+marking-MothLLegFan = Motten-Bein links (Fächer)
 
 marking-MothRLegFan-fan_r_leg = rechtes Bein
-marking-MothRLegFan = Moth Right Leg (Fan)
+marking-MothRLegFan = Motten-Bein rechts (Fächer)
 
 marking-MothLArmFan-fan_l_arm = linker Arm
-marking-MothLArmFan = Moth Left Arm (Fan)
+marking-MothLArmFan = Motten-Arm links (Fächer)
 
 marking-MothRArmFan-fan_r_arm = rechter Arm
-marking-MothRArmFan = Moth Right Arm (Fan)
+marking-MothRArmFan = Motten-Arm rechts (Fächer)
 
 
 
@@ -275,16 +275,16 @@ marking-MothHeadMoonfly-moonfly_head = Kopf
 marking-MothHeadMoonfly = Mottenkopf (Moonfly)
 
 marking-MothLLegMoonfly-moonfly_l_leg = linkes Bein
-marking-MothLLegMoonfly = Moth Left Leg (Moonfly)
+marking-MothLLegMoonfly = Motten-Bein links (Mondfalter)
 
 marking-MothRLegMoonfly-moonfly_r_leg = rechtes Bein
-marking-MothRLegMoonfly = Moth Right Leg (Moonfly)
+marking-MothRLegMoonfly = Motten-Bein rechts (Mondfalter)
 
 marking-MothLArmMoonfly-moonfly_l_arm = linker Arm
-marking-MothLArmMoonfly = Moth Left Arm (Moonfly)
+marking-MothLArmMoonfly = Motten-Arm links (Mondfalter)
 
 marking-MothRArmMoonfly-moonfly_r_arm = rechter Arm
-marking-MothRArmMoonfly = Moth Right Arm (Moonfly)
+marking-MothRArmMoonfly = Motten-Arm rechts (Mondfalter)
 
 
 

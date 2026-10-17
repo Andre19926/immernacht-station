@@ -26,8 +26,8 @@ marking-FadingStars-fadingstars1 = hell
 marking-FadingStars-fadingstars2 = Mittelklasse
 marking-FadingStars-fadingstars3 = dunkel
 
-marking-fizz = Fizz
-marking-fizz-fizz = Fizz
+marking-fizz = Sprudeln
+marking-fizz-fizz = Sprudeln
 
 marking-SlimeBonehead = Schwimmender Schädel
 marking-SlimeBonehead-bone = Schwimmender Schädel
@@ -51,8 +51,8 @@ marking-SlimeEyesDefault-eyes = Augen (Standard)
 marking-SlimeEyeglow = Leuchtende Augen
 marking-SlimeEyeglow-glow = Leuchtende Augen
 
-marking-SlimeEyesDroopy = Droopy Eyes
-marking-SlimeEyesDroopy-droopy = Droopy Eyes
+marking-SlimeEyesDroopy = Hängende Augen
+marking-SlimeEyesDroopy-droopy = Hängende Augen
 
 marking-SlimeEyesDroopyGlowing = Droopy leuchtende Augen
 marking-SlimeEyesDroopyGlowing-droopyglow = Droopy leuchtende Augen

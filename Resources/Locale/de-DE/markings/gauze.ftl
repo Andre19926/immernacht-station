@@ -17,11 +17,11 @@ marking-GauzeRighteyePatch = Gauze Eyepatch (rechts)
 marking-GauzeRighteyePad-gauze_righteye_1 = Gauze eyepad (rechts)
 marking-GauzeRighteyePad = Gauze eyepad (rechts)
 
-marking-GauzeShoulder-gauze_shoulder = Gauze Shoulder Sling
-marking-GauzeShoulder = Gauze Shoulder Sling
+marking-GauzeShoulder-gauze_shoulder = Mull Schulterschlinge
+marking-GauzeShoulder = Mull Schulterschlinge
 
-marking-GauzeStomach-gauze_abdomen = Gauze Stomach Wrap
-marking-GauzeStomach = Gauze Stomach Wrap
+marking-GauzeStomach-gauze_abdomen = Mull Bauchverband
+marking-GauzeStomach = Mull Bauchverband
 
 marking-GauzeUpperArmRight-gauze_upperarm_r = Gauze Unterarmband (rechts)
 marking-GauzeUpperArmRight = Gauze Unterarmband (rechts)
@@ -50,14 +50,14 @@ marking-GauzeLowerLegRight = Gauze Ankle Wrap (rechts)
 marking-GauzeUpperLegRight-gauze_upperleg_r = Gauze Thigh Wrap (rechts)
 marking-GauzeUpperLegRight = Gauze Thigh Wrap (rechts)
 
-marking-GauzeBlindfold-gauze_blindfold = Gauze Blindfold
-marking-GauzeBlindfold = Gauze Blindfold
+marking-GauzeBlindfold-gauze_blindfold = Mull Augenbinde
+marking-GauzeBlindfold = Mull Augenbinde
 
 marking-GauzeHead-gauze_head = Gaze Head Wrap
 marking-GauzeHead = Gaze Head Wrap
 
-marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Gauze Blindfold
-marking-GauzeLizardBlindfold = Gauze Blindfold
+marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Mull Augenbinde
+marking-GauzeLizardBlindfold = Mull Augenbinde
 
 marking-GauzeLizardFootRight-gauze_lizard_foot_r = Gauze Foot Wrap (rechts)
 marking-GauzeLizardFootRight = Gauze Foot Wrap (rechts)

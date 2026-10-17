@@ -12,8 +12,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
-marking-LizardFrillsShort = Lizard Frills (Short)
+marking-LizardFrillsShort-frills_short = Echsen-Kragen (Kurz)
+marking-LizardFrillsShort = Echsen-Kragen (Kurz)
 
 marking-LizardFrillsSimple-frills_simple = Lizard Frills (einfach)
 marking-LizardFrillsSimple = Lizard Frills (einfach)
@@ -21,17 +21,17 @@ marking-LizardFrillsSimple = Lizard Frills (einfach)
 marking-LizardFrillsAquatic-frills_aquatic = Lizard Frills (Aquatisch)
 marking-LizardFrillsAquatic = Lizard Frills (Aquatisch)
 
-marking-LizardHornsAngler-horns_angler = Lizard Horns (Angler)
-marking-LizardHornsAngler = Lizard Horns (Angler)
+marking-LizardHornsAngler-horns_angler = Echsen-Hörner (Anglerfisch)
+marking-LizardHornsAngler = Echsen-Hörner (Anglerfisch)
 
-marking-LizardHornsCurled-horns_curled = Lizard Horns (Curled)
-marking-LizardHornsCurled = Lizard Horns (Curled)
+marking-LizardHornsCurled-horns_curled = Echsen-Hörner (Gelockt)
+marking-LizardHornsCurled = Echsen-Hörner (Gelockt)
 
-marking-LizardHornsRam-horns_ram = Lizard Horns (Ram)
-marking-LizardHornsRam = Lizard Horns (Ram)
+marking-LizardHornsRam-horns_ram = Echsen-Hörner (Widder)
+marking-LizardHornsRam = Echsen-Hörner (Widder)
 
-marking-LizardHornsShort-horns_short = Lizard Horns (Short)
-marking-LizardHornsShort = Lizard Horns (Short)
+marking-LizardHornsShort-horns_short = Echsen-Hörner (Kurz)
+marking-LizardHornsShort = Echsen-Hörner (Kurz)
 
 marking-LizardHornsSimple-horns_simple = Echsenhörner
 marking-LizardHornsSimple = Echsenhörner
@@ -43,14 +43,14 @@ marking-LizardTailSmooth = Lizard Schwanz (glatt)
 marking-LizardTailLarge-tail_large = Lizard Tail (Groß)
 marking-LizardTailLarge = Lizard Tail (Groß)
 
-marking-LizardTailSpikes-tail_spikes = Lizard Tail (Spiky)
-marking-LizardTailSpikes = Lizard Tail (Spiky)
+marking-LizardTailSpikes-tail_spikes = Echsen-Schwanz (Stachelig)
+marking-LizardTailSpikes = Echsen-Schwanz (Stachelig)
 
-marking-LizardTailLTiger-tail_ltiger = Lizard Tail (Light Tiger Stripes)
-marking-LizardTailLTiger = Lizard Tail (Light Tiger Stripes)
+marking-LizardTailLTiger-tail_ltiger = Echsen-Schwanz (Helle Tigerstreifen)
+marking-LizardTailLTiger = Echsen-Schwanz (Helle Tigerstreifen)
 
-marking-LizardTailDTiger-tail_dtiger = Lizard Tail (Dark Tiger Stripes)
-marking-LizardTailDTiger = Lizard Tail (Dark Tiger Stripes)
+marking-LizardTailDTiger-tail_dtiger = Echsen-Schwanz (Dunkle Tigerstreifen)
+marking-LizardTailDTiger = Echsen-Schwanz (Dunkle Tigerstreifen)
 
 marking-LizardTailAquatic-tail_aquatic = Lizard Tail (Aquatisch)
 marking-LizardTailAquatic = Lizard Tail (Aquatisch)
@@ -61,23 +61,23 @@ marking-LizardSnoutRound = Lizard Snout (Runde)
 marking-LizardSnoutSharp-snout_sharp = Lizard Snout (Scharf)
 marking-LizardSnoutSharp = Lizard Snout (Scharf)
 
-marking-LizardChestTiger-body_tiger = Lizard Chest (Tiger)
-marking-LizardChestTiger = Lizard Chest (Tiger)
+marking-LizardChestTiger-body_tiger = Echsen-Brust (Tiger)
+marking-LizardChestTiger = Echsen-Brust (Tiger)
 
-marking-LizardHeadTiger-head_tiger = Lizard Head (Tiger)
-marking-LizardHeadTiger = Lizard Head (Tiger)
+marking-LizardHeadTiger-head_tiger = Echsen-Kopf (Tiger)
+marking-LizardHeadTiger = Echsen-Kopf (Tiger)
 
-marking-LizardLArmTiger-l_arm_tiger = Lizard Left Arm (Tiger)
-marking-LizardLArmTiger = Lizard Left Arm (Tiger)
+marking-LizardLArmTiger-l_arm_tiger = Echsen-Arm links (Tiger)
+marking-LizardLArmTiger = Echsen-Arm links (Tiger)
 
-marking-LizardLLegTiger-l_leg_tiger = Lizard Left Leg (Tiger)
-marking-LizardLLegTiger = Lizard Left Leg (Tiger)
+marking-LizardLLegTiger-l_leg_tiger = Echsen-Bein links (Tiger)
+marking-LizardLLegTiger = Echsen-Bein links (Tiger)
 
-marking-LizardRArmTiger-r_arm_tiger = Lizard Right Arm (Tiger)
-marking-LizardRArmTiger = Lizard Right Arm (Tiger)
+marking-LizardRArmTiger-r_arm_tiger = Echsen-Arm rechts (Tiger)
+marking-LizardRArmTiger = Echsen-Arm rechts (Tiger)
 
-marking-LizardRLegTiger-r_leg_tiger = Lizard Right Leg (Tiger)
-marking-LizardRLegTiger = Lizard Right Leg (Tiger)
+marking-LizardRLegTiger-r_leg_tiger = Echsen-Bein rechts (Tiger)
+marking-LizardRLegTiger = Echsen-Bein rechts (Tiger)
 
 marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Göttlichkeit)
 marking-LizardFrillsDivinity = Lizard Frills (Göttlichkeit)
@@ -85,39 +85,39 @@ marking-LizardFrillsDivinity = Lizard Frills (Göttlichkeit)
 marking-LizardFrillsBig-frills_big = Lizard Frills (Groß)
 marking-LizardFrillsBig = Lizard Frills (Groß)
 
-marking-LizardFrillsNeckfull-frills_neckfull = Lizard Frills (Neckfull)
-marking-LizardFrillsNeckfull = Lizard Frills (Neckfull)
+marking-LizardFrillsNeckfull-frills_neckfull = Echsen-Kragen (Halsvoll)
+marking-LizardFrillsNeckfull = Echsen-Kragen (Halsvoll)
 
-marking-LizardHornsDouble-horns_double = Lizard Horns (Double)
-marking-LizardHornsDouble = Lizard Horns (Double)
+marking-LizardHornsDouble-horns_double = Echsen-Hörner (Doppelt)
+marking-LizardHornsDouble = Echsen-Hörner (Doppelt)
 
-marking-LizardFrillsAxolotl-frills_axolotl = Lizard Frills (Axolotl)
-marking-LizardFrillsAxolotl = Lizard Frills (Axolotl)
+marking-LizardFrillsAxolotl-frills_axolotl = Echsen-Kragen (Axolotl)
+marking-LizardFrillsAxolotl = Echsen-Kragen (Axolotl)
 
-marking-LizardFrillsHood-frills_hood_primary = Outer Hood
-marking-LizardFrillsHood-frills_hood_secondary = Inner Hood
-marking-LizardFrillsHood = Lizard Frills (Hood)
+marking-LizardFrillsHood-frills_hood_primary = Äußere Kapuze
+marking-LizardFrillsHood-frills_hood_secondary = Innere Kapuze
+marking-LizardFrillsHood = Echsen-Kragen (Kapuze)
 
-marking-LizardHornsArgali-horns_argali = Lizard Horns (Argali)
-marking-LizardHornsArgali = Lizard Horns (Argali)
+marking-LizardHornsArgali-horns_argali = Echsen-Hörner (Argali)
+marking-LizardHornsArgali = Echsen-Hörner (Argali)
 
-marking-LizardHornsAyrshire-horns_ayrshire = Lizard Horns (Ayrshire)
-marking-LizardHornsAyrshire = Lizard Horns (Ayrshire)
+marking-LizardHornsAyrshire-horns_ayrshire = Echsen-Hörner (Ayrshire)
+marking-LizardHornsAyrshire = Echsen-Hörner (Ayrshire)
 
-marking-LizardHornsMyrsore-horns_myrsore = Lizard Horns (Myrsore)
-marking-LizardHornsMyrsore = Lizard Horns (Myrsore)
+marking-LizardHornsMyrsore-horns_myrsore = Echsen-Hörner (Myrsore)
+marking-LizardHornsMyrsore = Echsen-Hörner (Myrsore)
 
-marking-LizardHornsBighorn-horns_bighorn = Lizard Horns (Bighorn)
-marking-LizardHornsBighorn = Lizard Horns (Bighorn)
+marking-LizardHornsBighorn-horns_bighorn = Echsen-Hörner (Bighorn)
+marking-LizardHornsBighorn = Echsen-Hörner (Bighorn)
 
-marking-LizardHornsDemonic-horns_demonic = Lizard Horns (Demonic)
-marking-LizardHornsDemonic = Lizard Horns (Demonic)
+marking-LizardHornsDemonic-horns_demonic = Echsen-Hörner (Dämonisch)
+marking-LizardHornsDemonic = Echsen-Hörner (Dämonisch)
 
-marking-LizardHornsKoboldEars-horns_kobold_ears = Lizard Ears (Kobold)
-marking-LizardHornsKoboldEars = Lizard Ears (Kobold)
+marking-LizardHornsKoboldEars-horns_kobold_ears = Echsen-Ohren (Kobold)
+marking-LizardHornsKoboldEars = Echsen-Ohren (Kobold)
 
-marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Lizard Ears (Floppy Kobold)
-marking-LizardHornsFloppyKoboldEars = Lizard Ears (Floppy Kobold)
+marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Echsen-Ohren (Schlappkobold)
+marking-LizardHornsFloppyKoboldEars = Echsen-Ohren (Schlappkobold)
 
 marking-LizardChestUnderbelly-body_underbelly = Lizard Chest (Unterbelly)
 marking-LizardChestUnderbelly = Lizard Chest (Unterbelly)
@@ -125,15 +125,15 @@ marking-LizardChestUnderbelly = Lizard Chest (Unterbelly)
 marking-LizardChestBackspikes-body_backspikes = Lizard Back Spikes (Vier)
 marking-LizardChestBackspikes = Lizard Back Spikes (Vier)
 
-marking-LizardChestFin-body_fin = Lizard Fin
-marking-LizardChestFin = Lizard Fin
+marking-LizardChestFin-body_fin = Echsen-Flosse
+marking-LizardChestFin = Echsen-Flosse
 
-marking-LizardSnoutSplotch = Lizard Snout (Splotch)
+marking-LizardSnoutSplotch = Echsen-Schnauze (Klecks)
 marking-LizardSnoutSplotch-snout_splotch_primary = Mündung
-marking-LizardSnoutSplotch-snout_splotch_secondary = Snoot
+marking-LizardSnoutSplotch-snout_splotch_secondary = Schnauze
 
-marking-LizardSnoutVisageSharp = Lizard Visage (Sharp)
-marking-LizardSnoutVisageSharp-visage_sharp = Lizard Visage (Sharp)
+marking-LizardSnoutVisageSharp = Echsen-Antlitz (Scharf)
+marking-LizardSnoutVisageSharp-visage_sharp = Echsen-Antlitz (Scharf)
 
 marking-LizardSnoutVisageRound = Lizard Visage (Runde)
 marking-LizardSnoutVisageRound-visage_round = Lizard Visage (Runde)

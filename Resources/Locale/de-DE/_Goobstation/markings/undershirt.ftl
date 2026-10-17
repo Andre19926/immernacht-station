@@ -8,10 +8,10 @@ marking-UndershirtSleeveless-sleeveless = Tankstelle
 marking-UndershirtSleeveless = Tanktop (ärmellos)
 
 marking-UndershirtGrossSleeveless-gross_sleeveless = Tankstelle
-marking-UndershirtGrossSleeveless = Tanktop (Gross)
+marking-UndershirtGrossSleeveless = Tanktop (Grob)
 
 marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Tankstelle
-marking-UndershirtRolledSleeveless = Tanktop (Rolled)
+marking-UndershirtRolledSleeveless = Tanktop (Gerollt)
 
 marking-UndershirtNanotrasen-nanotrasen = Unterhemden
 marking-UndershirtNanotrasen = Unterhemd (Nanotrasen)

@@ -67,7 +67,7 @@ marking-RodentiaSnoutBat-bat_nose = Nase
 marking-RodentiaSnoutBatCounter = Snout — Bat, Zweiton
 marking-RodentiaSnoutBatCounter-bat = Schnauze
 marking-RodentiaSnoutBatCounter-bat_nose = Nase
-marking-RodentiaSnoutBatCounter-bat_overlay = Countershade
+marking-RodentiaSnoutBatCounter-bat_overlay = Gegenschattierung
 
 marking-RodentiaSnoutFlat = Schnauze - flach
 marking-RodentiaSnoutFlat-flat = Schnauze
@@ -76,7 +76,7 @@ marking-RodentiaSnoutFlat-flat_nose = Nase
 marking-RodentiaSnoutFlatCounter = Schnauze - flach, zweifarbig
 marking-RodentiaSnoutFlatCounter-flat = Schnauze
 marking-RodentiaSnoutFlatCounter-flat_nose = Nase
-marking-RodentiaSnoutFlatCounter-flat_overlay = Countershade
+marking-RodentiaSnoutFlatCounter-flat_overlay = Gegenschattierung
 
 marking-RodentiaSnoutRound = Schnauze - Runde
 marking-RodentiaSnoutRound-round = Schnauze
@@ -85,7 +85,7 @@ marking-RodentiaSnoutRound-round_nose = Nase
 marking-RodentiaSnoutRoundCounter = Schnauze - Rund, Zweiton
 marking-RodentiaSnoutRoundCounter-round = Schnauze
 marking-RodentiaSnoutRoundCounter-round_nose = Nase
-marking-RodentiaSnoutRoundCounter-round_overlay = Countershade
+marking-RodentiaSnoutRoundCounter-round_overlay = Gegenschattierung
 
 ## cheeks
 
@@ -94,21 +94,21 @@ marking-RodentiaCheeksRound-cheeks = Wange
 
 marking-RodentiaCheeksRoundCounter = Cheeks — Round, Two-tone
 marking-RodentiaCheeksRoundCounter-cheeks = Wange
-marking-RodentiaCheeksRoundCounter-cheeks_overlay = Countershade
+marking-RodentiaCheeksRoundCounter-cheeks_overlay = Gegenschattierung
 
 marking-RodentiaCheeksFluff = Cheeks — Fluff
 marking-RodentiaCheeksFluff-fluff = Wangenfluff
 
 marking-RodentiaCheeksFluffCounter = Cheeks — Fluff, Zweiton
 marking-RodentiaCheeksFluffCounter-fluff = Wangenfluff
-marking-RodentiaCheeksFluffCounter-fluff_overlay = Countershade
+marking-RodentiaCheeksFluffCounter-fluff_overlay = Gegenschattierung
 
 marking-RodentiaCheeksFluffAlt = Cheeks — Fluff, Alt
 marking-RodentiaCheeksFluffAlt-fluff_alt = Wangenfluff
 
 marking-RodentiaCheeksFluffAltCounter = Cheeks — Fluff, Alt, Two-tone
 marking-RodentiaCheeksFluffAltCounter-fluff_alt = Wangenfluff
-marking-RodentiaCheeksFluffAltCounter-fluff_alt_overlay = Countershade
+marking-RodentiaCheeksFluffAltCounter-fluff_alt_overlay = Gegenschattierung
 
 marking-RodentiaCheeksWhiskers = Whisker
 marking-RodentiaCheeksWhiskers-whiskers = Whisker
@@ -130,11 +130,11 @@ marking-RodentiaTailLong-long = Schwanz
 
 marking-RodentiaTailLongCounter = Schwanz - Lang, Zweiton
 marking-RodentiaTailLongCounter-long = Schwanz
-marking-RodentiaTailLongCounter-long_overlay = Countershade
+marking-RodentiaTailLongCounter-long_overlay = Gegenschattierung
 
 marking-RodentiaTailLongCounterTip = Schwanz - Lang, Dreiton
 marking-RodentiaTailLongCounterTip-long = Schwanz
-marking-RodentiaTailLongCounterTip-long_overlay = Countershade
+marking-RodentiaTailLongCounterTip-long_overlay = Gegenschattierung
 marking-RodentiaTailLongCounterTip-long_tip = Spitze
 
 marking-RodentiaTailMouse = Schwanz — Maus
@@ -145,7 +145,7 @@ marking-RodentiaTailRabbit-rabbit = Schwanz
 
 marking-RodentiaTailRabbitCounter = Schwanz — Kaninchen, Zweiton
 marking-RodentiaTailRabbitCounter-rabbit = Schwanz
-marking-RodentiaTailRabbitCounter-rabbit_overlay = Countershade
+marking-RodentiaTailRabbitCounter-rabbit_overlay = Gegenschattierung
 
 marking-RodentiaTailShort = Schwanz — kurz
 marking-RodentiaTailShort-short = Schwanz
@@ -160,18 +160,18 @@ marking-RodentiaTailSquirrelBicolor-squirrel_overlay = Sekundär
 ## patterns
 
 marking-RodentiaChestCountershade = Brust — Countershade
-marking-RodentiaChestCountershade-countershade = Countershade
+marking-RodentiaChestCountershade-countershade = Gegenschattierung
 
 marking-RodentiaChestCountershadeF = Brust — Countershade
-marking-RodentiaChestCountershadeF-countershade_f = Countershade
+marking-RodentiaChestCountershadeF-countershade_f = Gegenschattierung
 
 marking-RodentiaLegLeftCountershade = Linksbein - Countershade
 marking-RodentiaLegLeftCountershade-l_leg = Bein
-marking-RodentiaLegLeftCountershade-countershade_lleg = Countershade
+marking-RodentiaLegLeftCountershade-countershade_lleg = Gegenschattierung
 
 marking-RodentiaLegRightCountershade = Rechtsbein - Countershade
 marking-RodentiaLegRightCountershade-r_leg = Bein
-marking-RodentiaLegRightCountershade-countershade_rleg = Countershade
+marking-RodentiaLegRightCountershade-countershade_rleg = Gegenschattierung
 
 marking-RodentiaChestFawn = Brust — Fawn
 marking-RodentiaChestFawn-fawn = Muster

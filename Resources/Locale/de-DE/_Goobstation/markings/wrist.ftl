@@ -42,8 +42,8 @@ marking-WristWatchLeatherLeft-watch_leather_l = Linke Lederuhr
 
 marking-WristWatchColorableRight = Armbanduhr (färbbar, rechts)
 marking-WristWatchColorableRight-watch_colorable_r_tone_1 = Gurtband
-marking-WristWatchColorableRight-watch_colorable_r_tone_2 = Watch Face
+marking-WristWatchColorableRight-watch_colorable_r_tone_2 = Zifferblatt
 
 marking-WristWatchColorableLeft = Left Watch (farbenfroh)
 marking-WristWatchColorableLeft-watch_colorable_l_tone_1 = Gurtband
-marking-WristWatchColorableLeft-watch_colorable_l_tone_2 = Watch Face
+marking-WristWatchColorableLeft-watch_colorable_l_tone_2 = Zifferblatt
