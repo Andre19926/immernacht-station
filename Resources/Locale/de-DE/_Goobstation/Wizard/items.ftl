@@ -15,7 +15,7 @@ teleport-scroll-uses-left = Verbleibende Anwendungen: [color=yellow]{$uses}[/col
 teleport-scroll-no-charges = Die Schriftrolle hat keine Anwendungen mehr und zerfällt zu Staub!
 
 sanguine-strike-end = {CAPITALIZE($item)} scheint seinen roten Schimmer zu verlieren.
-sanguine-strike-examine = [color=#c41515]Diese Waffe wird durch sanguinische Magie gestärkt.[/color]
+sanguine-strike-examine = [color=#c41515]Diese Waffe wird durch Blutmagie gestärkt.[/color]
 
 scrying-orb-verb-message = Betritt das Reich der Toten
 scrying-orb-verb-text = Kugel aktivieren

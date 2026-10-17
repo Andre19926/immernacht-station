@@ -1,16 +1,16 @@
-ent-MobHumanApprenticeBase = Lehrlinge
+ent-MobHumanApprenticeBase = Lehrling
 
 ent-MobHumanApprenticeDestruction = Vernichtungslehrling
 
 ent-MobHumanApprenticeEthereal = Ätherlehrling
 
-ent-MobHumanApprenticeSummon = Vorladung des Lehrlings
+ent-MobHumanApprenticeSummon = Beschwörungslehrling
 
-ent-MobHumanApprenticeGun = Gunslinger Lehrling
+ent-MobHumanApprenticeGun = Revolverheld-Lehrling
 
-ent-MobHumanApprenticeArcane = Lehrling
+ent-MobHumanApprenticeArcane = Arkaner Lehrling
 
-ent-MobHumanApprenticeSanguine = Sanguine Lehrling
+ent-MobHumanApprenticeSanguine = Blutmagie-Lehrling
 
 ent-MobHumanApprenticeRobeless = Robenloser Lehrling
 

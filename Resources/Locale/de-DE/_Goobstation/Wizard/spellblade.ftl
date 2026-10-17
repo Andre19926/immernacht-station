@@ -13,11 +13,11 @@ spellblade-enchantment-lightning-desc = Blitze. Diese Klinge leitet arkane Energ
 spellblade-enchantment-fire-name = [color=orange]Feuer[/color]
 spellblade-enchantment-fire-desc = Feuer. Diese Klinge entzündet sich, wenn sie einen Feind trifft, und setzt einen Feuerball frei. Sie macht den Träger außerdem immun gegen Feuer.
 
-spellblade-enchantment-bluespace-name = [color=blue]Blauraum[/color]
-spellblade-enchantment-bluespace-desc = Blauraum. Diese Klinge zerschneidet das Gefüge des Raumes und befördert ihren Träger über weite Strecken zu seinen Feinden.
+spellblade-enchantment-bluespace-name = [color=blue]Bluespace[/color]
+spellblade-enchantment-bluespace-desc = Bluespace. Diese Klinge zerschneidet das Gefüge des Raumes und befördert ihren Träger über weite Strecken zu seinen Feinden.
 
 spellblade-enchantment-spacetime-name = [color=pink]Raumzeit[/color]
-spellblade-enchantment-spacetime-desc = Raumzeit. Diese Klinge schneidet schneller, aber schwächer, verflucht das Ziel und zerteilt es einige Sekunden später, wenn es nicht bei jedem Treffer getroffen wird.
+spellblade-enchantment-spacetime-desc = Raumzeit. Diese Klinge schneidet schneller, aber schwächer, verflucht das Ziel und zerteilt es einige Sekunden nachdem es zuletzt getroffen wurde, für jeden früheren Treffer erneut.
 
 spellblade-enchantment-forceshield-name = [color=cyan]Schutzschirm[/color]
 spellblade-enchantment-forceshield-desc = Schutzschirm. Diese Klinge schirmt dich nach dem Treffen eines Feindes kurzzeitig teilweise gegen Angriffe und Betäubungen ab.

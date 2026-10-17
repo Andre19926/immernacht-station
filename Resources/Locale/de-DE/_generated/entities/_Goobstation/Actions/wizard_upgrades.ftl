@@ -4,34 +4,34 @@ ent-ActionCluwneCurseII = Fluch der Cluwne II
 ent-ActionCluwneCurseIII = Fluch der Cluwne III
     .desc = Es ist an der Zeit, sich herumzuschlagen.
 
-ent-ActionBananaTouchII = Banana Touch II
+ent-ActionBananaTouchII = Bananenberührung II
     .desc = Es ist an der Zeit, zu clownen.
 
-ent-ActionBananaTouchIII = Banana Touch III
+ent-ActionBananaTouchIII = Bananenberührung III
     .desc = Es ist an der Zeit, zu clownen.
 
-ent-ActionBananaTouchIV = Banana Touch IV
+ent-ActionBananaTouchIV = Bananenberührung IV
     .desc = Es ist an der Zeit, zu clownen.
 
-ent-ActionBananaTouchV = Banana Touch V
+ent-ActionBananaTouchV = Bananenberührung V
     .desc = Es ist an der Zeit, zu clownen.
 
-ent-ActionMagicMissileII = Magic Missile II
+ent-ActionMagicMissileII = Magische Rakete II
     .desc = Feuert mehrere atemberaubende, sich langsam bewegende magische Projektile auf nahegelegene Ziele ab.
 
-ent-ActionMagicMissileIII = Magic Missile III
+ent-ActionMagicMissileIII = Magische Rakete III
     .desc = Feuert mehrere atemberaubende, sich langsam bewegende magische Projektile auf nahegelegene Ziele ab.
 
-ent-ActionDisableTechII = Deaktivierungstechnologie II
+ent-ActionDisableTechII = Technologie deaktivieren II
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
 
-ent-ActionDisableTechIII = Deaktivierungstechnologie III
+ent-ActionDisableTechIII = Technologie deaktivieren III
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
 
-ent-ActionDisableTechIV = Deaktivierungstechnologie IV
+ent-ActionDisableTechIV = Technologie deaktivieren IV
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
 
-ent-ActionDisableTechV = Deaktivierungstechnologie V
+ent-ActionDisableTechV = Technologie deaktivieren V
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
 
 ent-ActionSmokeII = Rauch II
@@ -40,7 +40,7 @@ ent-ActionSmokeII = Rauch II
 ent-ActionSmokeIII = Rauch III
     .desc = Spawnt eine Wolke von erstickendem Rauch an deinem Standort.
 
-ent-ActionRepulseII = Rückschlag II
+ent-ActionRepulseII = Rückstoß II
     .desc = Wirft alles um den Benutzer herum weg.
 
 ent-ActionRepulseIII = Rückstoß III
@@ -49,40 +49,40 @@ ent-ActionRepulseIII = Rückstoß III
 ent-ActionRepulseIV = Rückstoß IV
     .desc = Wirft alles um den Benutzer herum weg.
 
-ent-ActionRepulseV = Rückschlag V
+ent-ActionRepulseV = Rückstoß V
     .desc = Wirft alles um den Benutzer herum weg.
 
-ent-ActionStopTimeII = Stopp Zeit II
+ent-ActionStopTimeII = Zeitstopp II
     .desc = Stoppt die Zeit um dich herum.
 
-ent-ActionStopTimeIII = Stopp Zeit III
+ent-ActionStopTimeIII = Zeitstopp III
     .desc = Stoppt die Zeit um dich herum.
 
-ent-ActionBlindII = Blind II
+ent-ActionBlindII = Blenden II
     .desc = Erblindet vorübergehend ein einzelnes Ziel.
 
-ent-ActionBlindIII = Blind III
+ent-ActionBlindIII = Blenden III
     .desc = Erblindet vorübergehend ein einzelnes Ziel.
 
-ent-ActionBlindIV = Blind IV
+ent-ActionBlindIV = Blenden IV
     .desc = Erblindet vorübergehend ein einzelnes Ziel.
 
-ent-ActionBlindV = Blind V
+ent-ActionBlindV = Blenden V
     .desc = Erblindet vorübergehend ein einzelnes Ziel.
 
-ent-ActionMutateII = Mutat II
+ent-ActionMutateII = Mutieren II
     .desc = Veranlasst dich, in einen Hulk zu verwandeln und für kurze Zeit ein Lasersehen zu erlangen.
 
-ent-ActionTeslaBlastII = Tesla Blast II
+ent-ActionTeslaBlastII = Tesla-Schlag II
     .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
-ent-ActionTeslaBlastIII = Tesla Blast III
+ent-ActionTeslaBlastIII = Tesla-Schlag III
     .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
-ent-ActionTeslaBlastIV = Tesla Blast IV
+ent-ActionTeslaBlastIV = Tesla-Schlag IV
     .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
-ent-ActionTeslaBlastV = Tesla Blast V
+ent-ActionTeslaBlastV = Tesla-Schlag V
     .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
 ent-ActionLightningBoltII = Blitzschlag II
@@ -91,28 +91,28 @@ ent-ActionLightningBoltII = Blitzschlag II
 ent-ActionLightningBoltIII = Blitzschlag III
     .desc = Feuern dich einen Blitz auf deine Feinde.
 
-ent-ActionLightningBoltIV = Blitzbolzen IV
+ent-ActionLightningBoltIV = Blitzschlag IV
     .desc = Feuern dich einen Blitz auf deine Feinde.
 
 ent-ActionLightningBoltV = Blitzschlag V
     .desc = Feuern dich einen Blitz auf deine Feinde.
 
-ent-ActionHomingToolboxII = Homing Werkzeugkasten II
+ent-ActionHomingToolboxII = Zielsuchende Werkzeugkiste II
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
 
-ent-ActionHomingToolboxIII = Homing Werkzeugkasten III
+ent-ActionHomingToolboxIII = Zielsuchende Werkzeugkiste III
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
 
-ent-ActionHomingToolboxIV = Homing Werkzeugkasten IV
+ent-ActionHomingToolboxIV = Zielsuchende Werkzeugkiste IV
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
 
-ent-ActionHomingToolboxV = Homing Werkzeugkasten V
+ent-ActionHomingToolboxV = Zielsuchende Werkzeugkiste V
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
 
-ent-ActionArcaneBarrageII = Arkane Barriere II
+ent-ActionArcaneBarrageII = Arkane Salve II
     .desc = Feuert einen Strom arkaner Energie auf deine Feinde.
 
-ent-ActionArcaneBarrageIII = Arkane Barriere III
+ent-ActionArcaneBarrageIII = Arkane Salve III
     .desc = Feuert einen Strom arkaner Energie auf deine Feinde.
 
 ent-ActionLesserSummonGunsII = Kleinere Beschwörungswaffen II
@@ -121,28 +121,28 @@ ent-ActionLesserSummonGunsII = Kleinere Beschwörungswaffen II
 ent-ActionLesserSummonGunsIII = Kleinere Beschwörungswaffen III
     .desc = Beschwöre einen endlosen Strom von Bolzen-Action-Gewehren.
 
-ent-ActionBarnyardCurseII = Fluch der Barnyard II
+ent-ActionBarnyardCurseII = Fluch des Bauernhofs II
     .desc = Verdammt eine unglückliche Seele, die Sprach- und Gesichtsmerkmale eines Scheunentiers zu besitzen.
 
-ent-ActionBarnyardCurseIII = Fluch der Barnyard III
+ent-ActionBarnyardCurseIII = Fluch des Bauernhofs III
     .desc = Verdammt eine unglückliche Seele, die Sprach- und Gesichtsmerkmale eines Scheunentiers zu besitzen.
 
-ent-ActionScreamForMeII = Scream For Me II
+ent-ActionScreamForMeII = Schreien für mich II
     .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
-ent-ActionScreamForMeIII = Scream For Me III
+ent-ActionScreamForMeIII = Schreien für mich III
     .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
-ent-ActionScreamForMeIV = Scream For Me IV
+ent-ActionScreamForMeIV = Schreien für mich IV
     .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
-ent-ActionScreamForMeV = Scream For Me V
+ent-ActionScreamForMeV = Schreien für mich V
     .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
-ent-ActionTeleportII = Teleport II
+ent-ActionTeleportII = Teleportation II
     .desc = Dieser Zauber teleportiert dich zu einem Bereich deiner Wahl.
 
-ent-ActionTeleportIII = Teleport III
+ent-ActionTeleportIII = Teleportation III
     .desc = Dieser Zauber teleportiert dich zu einem Bereich deiner Wahl.
 
 ent-ActionTrapsII = Die Fallen! II
@@ -157,37 +157,37 @@ ent-ActionTrapsIV = Die Fallen! IV
 ent-ActionTrapsV = Die Fallen! V
     .desc = Beschwöre eine Reihe von Fallen um dich herum.
 
-ent-ActionLesserSummonBeesII = Kleine Summonen-Bienen
+ent-ActionLesserSummonBeesII = Kleinere Bienenbeschwörung II
     .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
 
-ent-ActionLesserSummonBeesIII = Kleinere Beschwörerbienen III
+ent-ActionLesserSummonBeesIII = Kleinere Bienenbeschwörung III
     .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
 
-ent-ActionSanguineStrikeII = Sanguine Strike II
+ent-ActionSanguineStrikeII = Aderlassschlag II
     .desc = Verzaubert deinen nächsten Waffenschlag, um mehr Schaden zu verursachen, dich für den verursachten Schaden zu heilen und Blut aufzufüllen.
 
-ent-ActionSanguineStrikeIII = Sanguine Strike III
+ent-ActionSanguineStrikeIII = Aderlassschlag III
     .desc = Verzaubert deinen nächsten Waffenschlag, um mehr Schaden zu verursachen, dich für den verursachten Schaden zu heilen und Blut aufzufüllen.
 
-ent-ActionSwapII = Swap II
+ent-ActionSwapII = Tausch II
     .desc = Ermöglicht es dir, Standorte mit jedem Lebewesen zu tauschen.
 
-ent-ActionSwapIII = Swap III
+ent-ActionSwapIII = Tausch III
     .desc = Ermöglicht es dir, Standorte mit jedem Lebewesen zu tauschen.
 
-ent-ActionBlinkII = Blink II
+ent-ActionBlinkII = Blinzeln II
     .desc = Zufällig teleportieren eine kurze Strecke.
 
-ent-ActionBlinkIII = Blink III
+ent-ActionBlinkIII = Blinzeln III
     .desc = Zufällig teleportieren eine kurze Strecke.
 
-ent-ActionForceWallII = Force Wall II
+ent-ActionForceWallII = Kraftwand II
     .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
 ent-ActionForceWallIII = Kraftwand III
     .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
-ent-ActionForceWallIV = Kraftwand 4
+ent-ActionForceWallIV = Kraftwand IV
     .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
 ent-ActionForceWallV = Kraftwand V
@@ -205,28 +205,28 @@ ent-ActionChargeIV = Aufladen IV
 ent-ActionChargeV = Aufladen V
     .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
 
-ent-ActionMindSwapII = Mind Swap II
+ent-ActionMindSwapII = Gedankentausch II
     .desc = Tausche Körper mit einer anderen Person aus!
 
-ent-ActionMindSwapIII = Mind Swap III
+ent-ActionMindSwapIII = Gedankentausch III
     .desc = Tausche Körper mit einer anderen Person aus!
 
-ent-ActionSmiteII = Smite II
+ent-ActionSmiteII = Strafgericht II
     .desc = Lade deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
 
-ent-ActionSmiteIII = Smite III
+ent-ActionSmiteIII = Strafgericht III
     .desc = Lade deine Hand mit einer unheiligen Energie auf, mit der ein berührtes Opfer gewaltsam explodieren kann.
 
-ent-ActionRathenSpellII = Rathen's Secret II
+ent-ActionRathenSpellII = Rathens Geheimnis II
     .desc = Sprenge jeden nahe gelegenen opfer arsch.
 
-ent-ActionRathenSpellIII = Rathen's Secret III
+ent-ActionRathenSpellIII = Rathens Geheimnis III
     .desc = Sprenge jeden nahe gelegenen opfer arsch.
 
-ent-ActionKnockII = Anschlag II
+ent-ActionKnockII = Klopfen II
     .desc = Öffnet in der Nähe Türen und Spind.
 
-ent-ActionKnockIII = Anschlag III
+ent-ActionKnockIII = Klopfen III
     .desc = Öffnet in der Nähe Türen und Spind.
 
 ent-ActionSpellCardsII = Zauberkarten II
@@ -235,26 +235,26 @@ ent-ActionSpellCardsII = Zauberkarten II
 ent-ActionSpellCardsIII = Zauberkarten III
     .desc = Feuern dich bis zu sechs Ausbrüche von Homing Zauberkarten.
 
-ent-ActionPolymorphWizardRodII = Rod Formblatt II
+ent-ActionPolymorphWizardRodII = Stabform II
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
-ent-ActionPolymorphWizardRodIII = Rod Formblatt III
+ent-ActionPolymorphWizardRodIII = Stabform III
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
-ent-ActionPolymorphWizardRodIV = Stabformblatt IV
+ent-ActionPolymorphWizardRodIV = Stabform IV
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
-ent-ActionPolymorphWizardRodV = Stabformblatt V
+ent-ActionPolymorphWizardRodV = Stabform V
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.
 
-ent-ActionSummonSimiansII = Primaten beschwören II
+ent-ActionSummonSimiansII = Affen beschwören II
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansIII = Primaten beschwören III
+ent-ActionSummonSimiansIII = Affen beschwören III
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansIV = Primaten beschwören IV
+ent-ActionSummonSimiansIV = Affen beschwören IV
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!
 
-ent-ActionSummonSimiansV = Primaten beschwören V
+ent-ActionSummonSimiansV = Affen beschwören V
     .desc = Dieser Zauber greift tief in die elementare Ebene der Bananen (der Affe, nicht der Clown), und ruft kleinere Affen und Gorillas vor sich her, die sofort ausflippen und alles in Sichtweite angreifen. Spaß!

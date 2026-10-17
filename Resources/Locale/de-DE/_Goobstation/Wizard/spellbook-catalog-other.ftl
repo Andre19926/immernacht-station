@@ -7,30 +7,30 @@
 
 spellbook-mime-bundle-name = Mime-Zauberer-Paket
 spellbook-mime-bundle-desc =
-    Enthält eine Reihe von Mime Kleidung, sowie Mime PDA und spezielle Mime Zauberer Hut und Roben.
+    Enthält eine Reihe von Mime-Kleidung, ein Mime-PDA sowie einen speziellen Mime-Zaubererhut samt Robe.
     Kann nicht zurückerstattet werden.
-    Warnung: Der Kauf blockiert die Rückerstattung des Mime Malaise Zaubers!
+    Warnung: Der Kauf blockiert die Rückerstattung von Mime-Unwohlsein!
 
 spellbook-clown-bundle-name = Clown-Zauberer-Paket
 spellbook-clown-bundle-desc =
-    Enthält eine Reihe von Clown-Kleidung, sowie Clown PDA und spezielle Clown Zauberer Hut und Roben.
+    Enthält eine Reihe von Clown-Kleidung, ein Clown-PDA sowie einen speziellen Clown-Zaubererhut samt Robe.
     Kann nicht zurückerstattet werden.
-    Warnung: Der Kauf blockiert die Rückerstattung von Banana Touch und Fluch der Cluwne-Zauber!
+    Warnung: Der Kauf blockiert die Rückerstattung der Zauber Bananenberührung und Fluch der Cluwne!
 
 spellbook-oblivion-enforcer-name = Oblivion-Enforcer-Paket
 spellbook-oblivion-enforcer-desc =
-    Enthält Oblivion Enforcer Roben, ein Paar isolierte Handschuhe und Oblivion Enforcer Maske mit integriertem Stimmwechsler.
-    Der Oblivion Order ist eine isolierte Clique von Mönchen, die Supermaterie verehren. Oblivion Enforcers sind, wie der Orden ihren Willen dem Universum als Ganzes auferlegt. Indem du dieses Bündel nimmst, gib deine Identität auf und werden eine gesichtslose Hand des Ordens.
+    Enthält Oblivion-Enforcer-Roben, ein Paar isolierte Handschuhe und eine Oblivion-Enforcer-Maske mit integriertem Stimmwechsler.
+    Der Oblivion-Orden ist eine abgeschottete Clique von Mönchen, die Supermaterie verehren. Oblivion Enforcer sind das Mittel, mit dem der Orden dem Universum als Ganzem seinen Willen aufzwingt. Wenn du dieses Bündel nimmst, gibst du deine Identität auf und wirst zur gesichtslosen Hand des Ordens.
     Kann nicht zurückerstattet werden.
-    Du kannst dieses Paket so oft erhalten, wie du Supermatter Halberd gekauft hast.
-    Achtung: Der Kauf blockiert die Rückerstattung von Supermatter Halberd!
+    Du kannst dieses Paket so oft erhalten, wie du Supermaterie-Hellebarden gekauft hast.
+    Achtung: Der Kauf blockiert die Rückerstattung der Supermaterie-Hellebarde!
 
 spellbook-tider-bundle-name = Tider-Zauberer-Paket
 spellbook-tider-bundle-desc =
-    Enthält einen alten Jumpsuit, ein Paar isolierte Handschuhe, eine Gasmaske, grauen Wintermantel und Mantel sowie Assistenten PDA.
+    Enthält einen alten Overall, ein Paar isolierte Handschuhe, eine Gasmaske, einen grauen Wintermantel samt Umhang sowie ein Assistenten-PDA.
     Kann nicht zurückerstattet werden.
-    Der Kauf verleiht dir die Assistenten-Fraktion und schaltet den Kauf eines besonderen Grey-Tide-Speers frei.
-    Warnung: Der Kauf blockiert die Rückerstattung des Homing Toolbox Zaubers!
+    Der Kauf verleiht dir die Assistenten-Fraktion und schaltet den Kauf eines besonderen Greytide-Speers frei.
+    Warnung: Der Kauf blockiert die Rückerstattung des Zaubers Zielsuchende Werkzeugkiste!
 
 spellbook-full-random-name = Vollständiger Zufall
 spellbook-full-random-desc =
@@ -50,16 +50,16 @@ spellbook-event-dimension-shift-desc =
 spellbook-event-global-tile-toggle-name = Globale Kachelbewegung
 spellbook-event-global-tile-toggle-description = Die Station wird das nicht mögen.
 spellbook-apprentice-name = Ausbildungsvertrag
-spellbook-apprentice-desc = Ein magischer Vertrag, der einen Zauberlehrling an deinen Dienst bindet. Wenn du ihn benutzt, wird der Lehrling an deine Seite gerufen.
+spellbook-apprentice-desc = Ein magischer Vertrag, der einen Zauberlehrling in deinen Dienst bindet. Wenn du ihn benutzt, wird der Lehrling an deine Seite gerufen.
     Kann nur einmal gekauft werden.
     
     Du kannst zwischen 8 Zauberpaketen wählen, die dein Lehrling lernt:
     Zerstörung: Feuerball und Mutieren.
-    Ätherisch: Ätherischer Sprung und Teleport.
-    Beschwörung: Geringe Bienenbeschwörung und Affenbeschwörung.
-    Revolverheld: Geringe Waffenbeschwörung, Rauch und Blinzeln.
-    Arkan: Arkanes Sperrfeuer, Aufladen und Sofortbeschwörung.
-    Blutig: Schrei für mich, Ausblutender Schlag und Sofortbeschwörung.
+    Ätherisch: Ätherischer Sprung und Teleportation.
+    Beschwörung: Kleinere Bienenbeschwörung und Affen beschwören.
+    Revolverheld: Kleinere Beschwörungswaffen, Rauch und Blinzeln.
+    Arkan: Arkane Salve, Aufladen und Sofortiger Abruf.
+    Blutig: Schreien für mich, Aderlassschlag und Sofortiger Abruf.
     Robenlos: Gedankentausch, Kraftwand und Klopfen.
     Chaos: Zufällige Zauber im Wert von 6 WizCoins, außer Seele binden und Seelenzapfen.
 

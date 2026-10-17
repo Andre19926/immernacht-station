@@ -29,7 +29,7 @@ wizard-title = Zauberer
 wizard-description = Ein mächtiger Weltraumzauberer stattet der Station einen Besuch ab. Heiße das Chaos willkommen.
 
 lich-greeting =
-    Mit einem abscheulichen Gefühl der Leere siehst du in entsetzter Faszination zu, wie die Haut von den Knochen abfällt! Blut kocht, Nerven zerfallen, Augen kochen in ihren Sockeln! Wenn deine Organe in deiner fleischlosen Brust zu Staub zerfallen, komm mit deiner Wahl zurecht.
-    Du bist ein Lisch.
+    Mit einem abscheulichen Gefühl der Leere siehst du in entsetzter Faszination zu, wie die Haut von den Knochen abfällt! Blut kocht, Nerven zerfallen, Augen kochen in ihren Höhlen! Während die Organe in deiner fleischlosen Brust zu Staub zerfallen, finde dich mit deiner Wahl ab.
+    Du bist ein Lich.
 
 objective-condition-wizard-alive-title = Sorge dafür, dass der Zauberer {$targetName} am Leben bleibt.
