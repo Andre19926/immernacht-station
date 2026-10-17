@@ -1,59 +1,59 @@
 ent-ClothingBackpackSatchel = Umhängetasche
-    .desc = Ein trendy aussehender Satchel.
+    .desc = Eine trendig aussehende Umhängetasche.
 
 ent-ClothingBackpackSatchelLeather = Leder-Umhängetasche
-    .desc = Ein richtungsweisender Satchel aus einer vergangenen Ära.
+    .desc = Eine richtungsweisende Umhängetasche aus einer vergangenen Ära.
 
-ent-ClothingBackpackSatchelEngineering = Technik-Umhängetasche
-    .desc = Eine harte satchel mit extra taschen.
+ent-ClothingBackpackSatchelEngineering = Ingenieur-Umhängetasche
+    .desc = Eine robuste Umhängetasche mit extra Taschen.
 
-ent-ClothingBackpackSatchelAtmospherics = Atmos-Umhängetasche
-    .desc = Eine zähe Satchel aus feuerbeständigen Fasern. Riecht nach Plasma.
+ent-ClothingBackpackSatchelAtmospherics = Atmosphärentechniker-Umhängetasche
+    .desc = Eine zähe Umhängetasche aus feuerbeständigen Fasern. Riecht nach Plasma.
 
 ent-ClothingBackpackSatchelClown = Clown-Umhängetasche
     .desc = Für schnelles Laufen aus der Sicherheit.
 
-ent-ClothingBackpackSatchelMime = Mime-Umhängetasche
-    .desc = Eine Satchel, entworfen für die stille und ausdrucksvolle Kunst des Mimings.
+ent-ClothingBackpackSatchelMime = Pantomime-Umhängetasche
+    .desc = Eine Umhängetasche für die stille und ausdrucksvolle Kunst der Pantomime.
 
 ent-ClothingBackpackSatchelMedical = Medizin-Umhängetasche
-    .desc = Eine sterile Satchel, die in medizinischen Abteilungen verwendet wird.
+    .desc = Eine sterile Umhängetasche für medizinische Abteilungen.
 
 ent-ClothingBackpackSatchelChemistry = Chemie-Umhängetasche
-    .desc = Eine sterile Satchel mit Chemikerfarben.
+    .desc = Eine sterile Umhängetasche in Chemikerfarben.
 
 ent-ClothingBackpackSatchelVirology = Virologie-Umhängetasche
-    .desc = Eine Satchel aus hypoallergenen Fasern. Es soll helfen, die Ausbreitung von Krankheiten zu verhindern. Riecht nach Affen.
+    .desc = Eine Umhängetasche aus hypoallergenen Fasern. Soll helfen, die Ausbreitung von Krankheiten zu verhindern. Riecht nach Affen.
 
 ent-ClothingBackpackSatchelGenetics = Genetik-Umhängetasche
-    .desc = Eine sterile Satchel mit Genetikerfarben.
+    .desc = Eine sterile Umhängetasche in Genetikerfarben.
 
-ent-ClothingBackpackSatchelScience = Wissenschafts-Umhängetasche
+ent-ClothingBackpackSatchelScience = Forschungs-Umhängetasche
     .desc = Nützlich für das Halten von Forschungsmaterialien.
 
 ent-ClothingBackpackSatchelSecurity = Sicherheits-Umhängetasche
-    .desc = Ein robuster Satchel für sicherheitsrelevante Bedürfnisse.
+    .desc = Eine robuste Umhängetasche für sicherheitsrelevante Bedürfnisse.
 
 ent-ClothingBackpackSatchelBrigmedic = Gefängnissanitäter-Umhängetasche
-    .desc = Eine sterile Satchel für medizinische Bedürfnisse.
+    .desc = Eine sterile Umhängetasche für medizinische Bedürfnisse.
 
 ent-ClothingBackpackSatchelCaptain = Kapitäns-Umhängetasche
-    .desc = Eine exklusive Satchel für Nanotrasen Offiziere.
+    .desc = Eine exklusive Umhängetasche für Nanotrasen-Offiziere.
 
 ent-ClothingBackpackSatchelHydroponics = Botanik-Umhängetasche
-    .desc = Eine Satchel aus allen natürlichen Fasern.
+    .desc = Eine Umhängetasche aus rein natürlichen Fasern.
 
 ent-ClothingBackpackSatchelCargo = Fracht-Umhängetasche
-    .desc = Ein robuster Satchel zum Stehlen der Beute der Ladung.
+    .desc = Eine robuste Umhängetasche, um die Beute der Fracht zu verstauen.
 
-ent-ClothingBackpackSatchelSalvage = Salvage-Umhängetasche
-    .desc = Eine robuste satchel zum verstauen ihrer beute.
+ent-ClothingBackpackSatchelSalvage = Bergungs-Umhängetasche
+    .desc = Eine robuste Umhängetasche zum Verstauen deiner Beute.
 
-ent-ClothingBackpackSatchelNinja = Spider-Clan-Umhängetasche
-    .desc = Eine robuste satchel zum verstauen ihrer beute.
+ent-ClothingBackpackSatchelNinja = Spinnenclan-Umhängetasche
+    .desc = Eine robuste Umhängetasche zum Verstauen deiner Beute.
 
-ent-ClothingBackpackSatchelHolding = Bluespace-Umhängetasche
-    .desc = Eine satchel, die sich in eine lokalisierte tasche von bluespace öffnet.
+ent-ClothingBackpackSatchelHolding = Umhängetasche der Bluespace-Lagerung
+    .desc = Eine Umhängetasche, die sich in eine lokale Bluespace-Tasche öffnet.
 
 ent-ClothingBackpackSatchelAdmin = Admin-Umhängetasche
     .desc = Wenn du das irgendwie siehst, nein, du bist es nicht.

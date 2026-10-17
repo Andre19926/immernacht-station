@@ -25,7 +25,7 @@ ent-DrinkGildlagerBottleFull = Gildlagerflasche
 ent-DrinkCoffeeLiqueurBottleFull = Kaffeelikörflasche
     .desc = Der große Geschmack von Kaffee mit keinem der Benifits.
 
-ent-DrinkMelonLiquorBottleFull = Emeraldinmelonenlauge
+ent-DrinkMelonLiquorBottleFull = Emeraldin-Melonenlikör
     .desc = Eine Flasche 46 Proof Emeraldine Melon Liquor. Süß und leicht.
 
 ent-DrinkPatronBottleFull = Wrapp Artiste Patrón Flasche
@@ -52,10 +52,10 @@ ent-DrinkWhiskeyBottleFull = Onkel Gits Special Reserve
 ent-DrinkWineBottleFull = Doppelbartbärtige Spezialweinflasche
     .desc = Eine schwache Aura von Unbehaglichkeit und Asspainery umgibt die Flasche.
 
-ent-DrinkBeerGrowler = Bierzüchter
+ent-DrinkBeerGrowler = Bier-Growler
     .desc = Ein alkoholisches Getränk aus gemälztem Getreide, Hopfen, Hefe und Wasser. XL Growler Flasche.
 
-ent-DrinkAleBottleFullGrowler = Magm-Ale-Gärtner
+ent-DrinkAleBottleFullGrowler = Magm-Ale-Growler
     .desc = Ein echtes dorf's drink der wahl. XL Growler Flasche.
 
 ent-DrinkBeerBottleFull = Bierflasche
@@ -64,5 +64,5 @@ ent-DrinkBeerBottleFull = Bierflasche
 ent-DrinkAleBottleFull = Magm-Ale-Flasche
     .desc = Ein echtes dorf's drink der wahl.
 
-ent-DrinkSakeBottleFull = kleine Sakeflasche
+ent-DrinkSakeBottleFull = Kleine Sakeflasche
     .desc = Das Bedauern des nächsten Morgens scheint auch an der Flasche zu knipsen.

@@ -14,4 +14,4 @@ shuttle-timer-source-map = Startkarte
 shuttle-timer-dest-map = Zielkarte
 shuttle-timer-docked = Angedockt
 shuttle-timer-bye = TSCHÜSS!
-shuttle-timer-kill = ABBRECHEN
+shuttle-timer-kill = KILL

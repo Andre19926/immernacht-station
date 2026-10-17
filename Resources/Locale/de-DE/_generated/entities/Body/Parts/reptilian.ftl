@@ -1,6 +1,6 @@
 ent-ChestReptilian = Reptilienbrust
 
-ent-GroinReptilian = Reptilienunterleib
+ent-GroinReptilian = Reptilien-Leistengegend
 
 ent-HeadReptilian = Reptilienkopf
 

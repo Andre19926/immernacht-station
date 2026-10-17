@@ -10,7 +10,7 @@ ent-DrinkJuiceTomatoCarton = Tomatensaft
 ent-DrinkCoconutWaterCarton = Kokoswasser
     .desc = Es ist das Innere der Kokosnuss, das zählt.
 
-ent-DrinkCreamCarton = Milchrahm
+ent-DrinkCreamCarton = Sahnekarton
     .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?
 
 ent-DrinkJuiceLemonCarton = Zitronensaft
@@ -34,5 +34,5 @@ ent-DrinkJuiceLimeCartonXL = Limettensaft XL
 ent-DrinkJuiceOrangeCartonXL = Orangensaft XL
     .desc = Voller Vitamine und Köstlichkeit!
 
-ent-DrinkCreamCartonXL = Milchcreme XL
+ent-DrinkCreamCartonXL = Sahnekarton XL
     .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?

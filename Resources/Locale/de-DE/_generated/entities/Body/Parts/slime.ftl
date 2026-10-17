@@ -1,6 +1,6 @@
 ent-ChestSlime = Schleimbrust
 
-ent-GroinSlime = Schleimunterleib
+ent-GroinSlime = Schleim-Leistengegend
 
 ent-HeadSlime = Schleimkopf
 

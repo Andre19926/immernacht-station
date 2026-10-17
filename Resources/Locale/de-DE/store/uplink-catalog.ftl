@@ -585,8 +585,8 @@ uplink-fake-mindshield-desc = Ein togglierbares Implantat, das in der Lage ist, 
 uplink-contraband-lighter-name = Contraband Lighter Box
 uplink-contraband-lighter-desc = Eine Mystery Box enthält garantiert ein Syndicate-Feuerzeug. Kein Kraftstoff erforderlich
 
-uplink-smuggler-satchel-name = Schmugglertasche
-uplink-smuggler-satchel-desc = Eine handliche, verdächtig aussehende satchel. Nur flach genug, um unter Bodenkacheln zu passen.
+uplink-smuggler-satchel-name = Schmuggler-Umhängetasche
+uplink-smuggler-satchel-desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.
 
 uplink-acolyte-armor-name = Acolyte Rüstung
 uplink-acolyte-armor-desc = Das muss jeder selbst respektierende Kultführer haben. Ein böse aussehendes Stück Rüstung, aus Knochen, und überraschend resistent gegen Schäden.

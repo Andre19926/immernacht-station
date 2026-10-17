@@ -20,13 +20,13 @@
 reagent-name-absinthe = Absinth
 reagent-desc-absinthe = Ein Anis-aromatisierter Spiritus, abgeleitet von Botanicals.
 
-reagent-name-ale = Al
+reagent-name-ale = Ale
 reagent-desc-ale = Ein dunkles alchoalkoholisches Getränk aus gemälzter Gerste und Hefe.
 
 reagent-name-beer = Bier
 reagent-desc-beer = Ein alkoholisches Getränk aus gemälztem Getreide, Hopfen, Hefe und Wasser.
 
-reagent-name-blue-curacao = blau Curaçao
+reagent-name-blue-curacao = Blauer Curaçao
 reagent-desc-blue-curacao = Exotisch blaues, fruchtiges Getränk, destilliert aus Orangen.
 
 reagent-name-cognac = Cognac
@@ -44,7 +44,7 @@ reagent-desc-gin = Ein destilliertes alkoholisches Getränk, das seinen vorherrs
 reagent-name-coffeeliqueur = Kaffeelikör
 reagent-desc-coffeeliqueur = mit kaltgebrühtem Kaffee und Gewürzen aromatisiert.
 
-reagent-name-melon-liquor = Melonenlauge
+reagent-name-melon-liquor = Melonenlikör
 reagent-desc-melon-liquor = Eine relativ süße und fruchtige 46 Proof Liquor.
 
 reagent-name-n-t-cahors = NeoTheologie Cahors Wein
@@ -56,7 +56,7 @@ reagent-desc-poison-wine = Ist das überhaupt Wein? Giftig! Halluzinogen! Wahrsc
 reagent-name-rum = Rum
 reagent-desc-rum = Ein destillierter alkoholischer Drink aus Nebenprodukten des Zuckerrohrs.
 
-reagent-name-sake = Schutz
+reagent-name-sake = Sake
 reagent-desc-sake = Alkoholisches Getränk durch Gärung von Reis, der poliert wurde.
 
 reagent-name-tequila = Tequila
@@ -77,10 +77,10 @@ reagent-desc-wine = Ein Premium-alkoholisches Getränk aus destilliertem Trauben
 reagent-name-champagne = Champagner
 reagent-desc-champagne = Ein Premiumschaumwein
 
-reagent-name-acid-spit = rohe zellige
+reagent-name-acid-spit = Säurespucke
 reagent-desc-acid-spit = Ein Getränk für gewagt, kann tödlich sein, wenn es falsch zubereitet wird!
 
-reagent-name-alien-brain-hemorrhage = Alien-Gehirn-Hemorrhagie
+reagent-name-alien-brain-hemorrhage = Alien-Gehirnblutung
 reagent-desc-alien-brain-hemorrhage = Vielleicht möchtest du das bei Med überprüfen lassen.
 
 reagent-name-allies-cocktail = Alliierten-Cocktail
@@ -104,13 +104,13 @@ reagent-desc-atomic-bomb = Die Verbreitung von Kernwaffen hat noch nie so gut ge
 reagent-name-b52 = B-52
 reagent-desc-b52 = Kaffee, irische Sahne und Cognac. Du wirst bombardiert werden.
 
-reagent-name-blue-hawaiian = Blauer Hawaiianer
+reagent-name-blue-hawaiian = Blue Hawaiian
 reagent-desc-blue-hawaiian = Aloha! Bedeutet das Hallo oder Abschied?
 
 reagent-name-bahama-mama = Bahama Mama
 reagent-desc-bahama-mama = Tropischer Cocktail.
 
-reagent-name-banana-honk = Bananenhonch
+reagent-name-banana-honk = Bananen-Honk
 reagent-desc-banana-honk = Ein Drink von Clown Heaven.
 
 reagent-name-barefoot = Barfuß
@@ -119,7 +119,7 @@ reagent-desc-barefoot = Ein Cassis-Milchshake aus Sahne, Fruchtsaft und Wermutwe
 reagent-name-beepsky-smash = Beepsky-Smash
 reagent-desc-beepsky-smash = Leugnet dies und bereitet euch auf das Gesetz vor.
 
-reagent-name-black-russian = Schwarzrussisch
+reagent-name-black-russian = Black Russian
 reagent-desc-black-russian = Für den Laktoseintoleranten. Immer noch so stilvoll wie ein weißer Russe.
 
 reagent-name-bloody-mary = Bloody Mary
@@ -128,25 +128,25 @@ reagent-desc-bloody-mary = Eine seltsame, aber angenehme Mischung aus Wodka, Tom
 reagent-name-booger = Booger
 reagent-desc-booger = Igitt …
 
-reagent-name-brave-bull = Brave Bulle
+reagent-name-brave-bull = Brave Bull
 reagent-desc-brave-bull = Es ist genauso effektiv wie Dutch-Courage!
 
 reagent-name-bronx = Bronx
 reagent-desc-bronx = Der orangefarbene Cousin der Manhattan und Martini.
 
-reagent-name-coconut-rum = Kokospalm
+reagent-name-coconut-rum = Kokosrum
 reagent-desc-coconut-rum = Rum mit Kokosnuss für dieses tropische Gefühl.
 
-reagent-name-cosmopolitan = kosmopolitisch
+reagent-name-cosmopolitan = Cosmopolitan
 reagent-desc-cosmopolitan = Selbst in den schlimmsten Situationen schlägt nichts einen frischen Kosmopoliten.
 
-reagent-name-crush-depth = Eindrücktiefe
+reagent-name-crush-depth = Zerquetschtiefe
 reagent-desc-crush-depth = Ein stygisches Getränk, das auf den Abgrund zurückgeht. Dunkel und kalt, es dient als Erinnerung daran, dass die älteste Emotion Angst ist, und die stärkste Art von Angst ist die des Unbekannten.
 
 reagent-name-cuba-libre = Cuba Libre
 reagent-desc-cuba-libre = Rum, gemischt mit Cola. Viva la revolucion.
 
-reagent-name-dark-and-stormy = dunkel und stürmisch
+reagent-name-dark-and-stormy = Dark 'n' Stormy
 reagent-desc-dark-and-stormy = Man kann den Donner fast hören.
 
 reagent-name-demons-blood = Dämonenblut
@@ -161,10 +161,10 @@ reagent-desc-doctors-delight = Ein Schluck pro Tag hält den MediBot fern. Das i
 reagent-name-driest-martini = trockener Martini
 reagent-desc-driest-martini = Nur für die Erfahrenen. Du denkst, du siehst Sand im Glas schwimmen.
 
-reagent-name-eggnog = Eierkuchen
+reagent-name-eggnog = Eierpunsch
 reagent-desc-eggnog = Nicht genug Eier.
 
-reagent-name-electric-shark = Elektroscher Hai
+reagent-name-electric-shark = Elektrischer Hai
 reagent-desc-electric-shark = Fun Shark Fact: Selachianer machen 20% des Ingenieurpersonals von Raumstation 16 aus!
 
 reagent-name-erika-surprise = Erika Überraschung
@@ -182,7 +182,7 @@ reagent-desc-gin-tonic = Ein klassischer, milder Cocktail.
 reagent-name-gildlager = Gildlager
 reagent-desc-gildlager = 100 Proof Zimt Schnaps, gemacht für alkoholische Teenager-Mädchen auf Spring Break.
 
-reagent-name-grog = Schwanz
+reagent-name-grog = Grog
 reagent-desc-grog = Verwässerter Rum, Pirat genehmigt!
 
 reagent-name-hippies-delight = Hippie-Freude
@@ -197,13 +197,13 @@ reagent-desc-iced-beer = Ein Bier, das so kalt ist, dass die Luft um es herum ge
 reagent-name-irish-car-bomb = Irische Autobombe
 reagent-desc-irish-car-bomb = Eine beunruhigende Mischung aus irischer Creme und Ale.
 
-reagent-name-irish-cream = Irische Creme
+reagent-name-irish-cream = Irish Cream
 reagent-desc-irish-cream = Whiskey-imponierte Creme. Was kann man von den Iren noch erwarten?
 
 reagent-name-irish-coffee = Irischer Kaffee
 reagent-desc-irish-coffee = Kaffee serviert mit irischer Sahne. Normale Creme ist einfach nicht dasselbe!
 
-reagent-name-jack-rose = Jackenrose
+reagent-name-jack-rose = Jack Rose
 reagent-desc-jack-rose = Übermäßig rot.
 
 reagent-name-jungle-bird = Dschungelvogel
@@ -224,16 +224,16 @@ reagent-desc-manhattan = Das Undercover-Getränk des Detektivs der Wahl. Er konn
 reagent-name-manhattan-project = Manhattan-Projekt
 reagent-desc-manhattan-project = Ein Wissenschaftler-Getränk der Wahl, für das Nachdenken über Möglichkeiten, um das Schiff zu sprengen.
 
-reagent-name-manly-dorf = Many Dorf
+reagent-name-manly-dorf = Manly Dorf
 reagent-desc-manly-dorf = Bier und Ale, zusammengebracht in einer köstlichen Mischung. Bestimmt nur für dicke Zwerge.
 
 reagent-name-margarita = Margarita
 reagent-desc-margarita = Auf den Felsen mit Salz am Rand. Arriba~!
 
-reagent-name-the-martinez = Der Martinez
+reagent-name-the-martinez = The Martinez
 reagent-desc-the-martinez = Die Edgerunner-Legende. An einen Drink erinnert, an einen Betrunkenen vergessen.
 
-reagent-name-martini = Klassischer Martin
+reagent-name-martini = Klassischer Martini
 reagent-desc-martini = Vermouth mit Gin. Nicht ganz, wie 007 es genossen hat, aber immer noch köstlich.
 
 reagent-name-mead = Met
@@ -263,7 +263,7 @@ reagent-desc-pina-colada = Um sich im Regen zu verlieren.
 reagent-name-radler = Radler
 reagent-desc-radler = Ein einfacher, aber heftiger Klassiker, direkt aus Space-Germany.
 
-reagent-name-red-mead = Rotweide
+reagent-name-red-mead = Roter Met
 reagent-desc-red-mead = Das wahre Wikingergetränk! Obwohl es eine seltsame rote Farbe hat.
 
 reagent-name-rewriter = Rewriter
@@ -287,7 +287,7 @@ reagent-desc-singulo = Ein Blue Space Getränk!
 reagent-name-snow-white = Schneewittchen
 reagent-desc-snow-white = Eine kalte Erfrischung.
 
-reagent-name-sui-dream = Sui Traum
+reagent-name-sui-dream = Sui Dream
 reagent-desc-sui-dream = "Besteht aus: Weißes Soda, blauer Curaçao, Melonenlauge."
 
 reagent-name-syndicate-bomb = Syndicate-Bombe
@@ -320,7 +320,7 @@ reagent-desc-whiskey-soda = Für den raffinierteren Griffon.
 reagent-name-white-gilgamesh = Weißer Gilgamesch
 reagent-desc-white-gilgamesh = Eine widerliche Mischung aus Milch und Bier. Du fühlst dich, als wärst du aus Holz.
 
-reagent-name-white-russian = Weißrussisch
+reagent-name-white-russian = White Russian
 reagent-desc-white-russian = Das ist nur, wie, deine Meinung, Mann...
 
 reagent-name-vodka-red-bool = Wodka Red Bool
@@ -329,22 +329,22 @@ reagent-desc-vodka-red-bool = Weil Herzversagen und Leberversagen Hand in Hand g
 reagent-name-xeno-basher = Xeno-Basher
 reagent-desc-xeno-basher = Das perfekte Getränk vor einer Expedition.
 
-reagent-name-irish-bool = Irischer Boo
+reagent-name-irish-bool = Irish Bool
 reagent-desc-irish-bool = Wie ein Bool in einem Geschäft in Irland.
 
 reagent-name-budget-insuls = Haushaltsinsuls
 reagent-desc-budget-insuls = Das bevorzugte Getränk eines Tiders.
 
-reagent-name-watermelon-wakeup = Wassermelone Wakeup
+reagent-name-watermelon-wakeup = Wassermelonen-Wakeup
 reagent-desc-watermelon-wakeup = Wenn du wach sein willst, wird dies es tun ... Auch süß.
 
-reagent-name-rubberneck = Hals
+reagent-name-rubberneck = Rubberneck
 reagent-desc-rubberneck = Ein beliebtes Getränk unter denen, die sich an eine rein synthetische Diät halten.
 
 reagent-name-caipirinha = Caipirinha
 reagent-desc-caipirinha = Das São Paulo Special, direkt aus dem alten Brasilien.
 
-reagent-name-daiquiri = Daiquir
+reagent-name-daiquiri = Daiquiri
 reagent-desc-daiquiri = Ein klassischer Rum-Cocktail, der auch in den kalten Bereichen des Weltraums beliebt bleibt.
 
 reagent-name-death-in-the-afternoon = Tod am Nachmittag
@@ -371,7 +371,7 @@ reagent-desc-moscow-mule = Ein überraschend starkes und erfrischendes Mixgeträ
 reagent-name-the-sun-also-rises = Die Sonne geht auch auf
 reagent-desc-the-sun-also-rises = Ein starker Cocktail gemischt in eine trübe Mischung. Ein geheimer Favorit von gefolterten Autoren.
 
-reagent-name-whiskey-sour = Whiskeysauer
+reagent-name-whiskey-sour = Whiskey Sour
 reagent-desc-whiskey-sour = Was ist die geheime Zutat? Eier. Es sind Eier.
 
 reagent-name-zombiecocktail = Zombie

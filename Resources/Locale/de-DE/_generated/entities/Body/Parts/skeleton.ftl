@@ -1,6 +1,6 @@
 ent-ChestSkeleton = Skelettbrust
 
-ent-GroinSkeleton = Skelettunterleib
+ent-GroinSkeleton = Skelett-Leistengegend
 
 ent-HeadSkeleton = Skelettkopf
     .desc = Der arme Yorick...

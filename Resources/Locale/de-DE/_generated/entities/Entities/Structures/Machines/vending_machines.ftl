@@ -43,7 +43,7 @@ ent-VendingMachineSpaceUp = Space-Up!-Automat
 ent-VendingMachineSoda = Robuste Softdrinks
     .desc = Ein Softdrink-Anbieter von Robust Industries, LLC.
 
-ent-VendingMachineStarkist = Star-Kist-Automat
+ent-VendingMachineStarkist = Spezi-Automat
     .desc = Der Geschmack eines Sterns in flüssiger Form.
 
 ent-VendingMachineShamblersJuice = Shambler’s-Juice-Automat

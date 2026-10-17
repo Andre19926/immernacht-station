@@ -15,22 +15,22 @@ reagent-desc-cola = Ein süßes, kohlensäurehaltiges Softdrink.
 reagent-name-shirley-temple = Shirley Temple
 reagent-desc-shirley-temple = Ein Favorit unter jüngeren Mitgliedern der Crew.
 
-reagent-name-changeling-sting = Wechselstich
+reagent-name-changeling-sting = Wechselbalg-Stich
 reagent-desc-changeling-sting = Du nimmst einen kleinen Schluck und fühlen ein brennendes Gefühl ...
 
 reagent-name-dr-gibb = Dr. Gibb
 reagent-desc-dr-gibb = Eine köstliche Mischung aus 42 verschiedenen Aromen.
 
-reagent-name-energy-drink = Roter Bool
+reagent-name-energy-drink = Red Bool
 reagent-desc-energy-drink = Eine Dosis Energie! Nanotrasen ist nicht verantwortlich, wenn du Vogelanhänger wächst.
 
-reagent-name-grape-soda = Traubenpulver
+reagent-name-grape-soda = Traubenlimonade
 reagent-desc-grape-soda = Es ist Graaaaaape!
 
 reagent-name-ice-cream = Eiscreme
 reagent-desc-ice-cream = Es war entweder dies oder die Mikrowelle, und niemand will Eissuppe!
 
-reagent-name-lemon-lime = Schmitt
+reagent-name-lemon-lime = Smite
 reagent-desc-lemon-lime = Tangy Limette und Zitronen-Soda.
 
 reagent-name-lemon-lime-cranberry = Strafe-Cranberry
@@ -45,7 +45,7 @@ reagent-desc-root-beer = Ein sehr süßes, kohlensäurehaltiges Getränk, das an
 reagent-name-root-beer-float = Root Beer Float
 reagent-desc-root-beer-float = Wurzelbier, aber jetzt mit Eis an der Spitze. Es ist wirklich das Magnum Opus der kanadischen Sommergetränke.
 
-reagent-name-sol-dry = Solentrocken
+reagent-name-sol-dry = Sol Dry
 reagent-desc-sol-dry = Süßes Ingwer Soda aus dem Weltraum!
 
 reagent-name-roy-rogers = Roy Rogers
@@ -57,7 +57,7 @@ reagent-desc-space-mountain-wind = Schlagt durch dich hindurch wie ein Sonnenwin
 reagent-name-space-up = Space-Up
 reagent-desc-space-up = Schmeckt wie ein Rumpfbruch im Mund.
 
-reagent-name-starkist = Starkist
+reagent-name-starkist = Spezi
 reagent-desc-starkist = Ein süßes, geschmackvolles Softdrink.
 
 reagent-name-fourteen-loko = Vierzehn Loko

@@ -44,7 +44,7 @@ ent-SignDirectionalHop = Personalchef-Richtungsschild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung das Büro des Personals geht.
 
 ent-SignDirectionalHydro = Hydroschild
-    .desc = Eine Richtung Schild, die darauf hinweist, wie die Botanik ist.
+    .desc = Eine Richtung Schild, die darauf hinweist, wie Botanik ist.
 
 ent-SignDirectionalIcu = Icu Schild
     .desc = Eine Richtung Schild, die darauf hinweist, in welche Richtung die ICU ist.

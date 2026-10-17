@@ -1,4 +1,4 @@
-ent-DrinkShotGlass = Schrotglas
+ent-DrinkShotGlass = Schnapsglas
     .desc = Perfekt, um wütend auf den Tisch zu knallen.
 
 ent-DrinkIceBucket = Eiskübel
@@ -7,12 +7,12 @@ ent-DrinkIceBucket = Eiskübel
 ent-DrinkTeapot = Teekanne
     .desc = Eine elegante Teekanne. Es strahlt einfach Klasse aus.
 
-ent-DrinkCanPack = 6 Packung
+ent-DrinkCanPack = 6er-Pack
 
 ent-DrinkShaker = Shaker
     .desc = Der treue Mischkumpel des Barkeepers.
 
-ent-DrinkShakerGold = Goldschüttler
+ent-DrinkShakerGold = Goldener Shaker
     .desc = Ein vergoldeter Shaker, der als Zeichen der Wertschätzung für jahrelangen Dienst gegeben wurde. Es lässt die Getränke nicht anders schmecken.
 
 ent-DrinkJigger = Jigger
@@ -21,15 +21,15 @@ ent-DrinkJigger = Jigger
 ent-Pitcher = Metallkrug
     .desc = Ein isolierter Pitcher aus Edelstahl. Jeder ist der beste Freund am Morgen.
 
-ent-DrinkShakeBlue = blauer Milchshaat
+ent-DrinkShakeBlue = Blauer Milchshake
 
-ent-DrinkShakeEmpty = schüttelnd
+ent-DrinkShakeEmpty = Shake-Becher
 
 ent-DrinkShakeMeat = Fleischshake
 
 ent-DrinkShakeRobo = Roboshake
 
-ent-DrinkShakeWhite = Weißer Fleck
+ent-DrinkShakeWhite = Weißer Shake
 
-ent-DrinkShakerBluespace = Blauraumschüttler
+ent-DrinkShakerBluespace = Bluespace-Shaker
     .desc = Mass-Mixing leicht gemacht!

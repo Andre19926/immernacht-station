@@ -1,13 +1,13 @@
-ent-DrinkGoldenCup = Goldschale
+ent-DrinkGoldenCup = Goldbecher
     .desc = Ein goldener Becher.
 
-ent-DrinkTeacupEmpty = Teetassen
+ent-DrinkTeacupEmpty = Teetasse
     .desc = Eine schlichte weiße Porzellan-Teekasse.
 
 ent-DrinkGlassCoupeShaped = Coupéglas
     .desc = Ein klassisches dünnes Hals-Coupéglas, die Ikone der zerbrechlichen Etiketten auf Kisten rund um die Galaxie.
 
-ent-DrinkWaterCup = Wasserschale
+ent-DrinkWaterCup = Wasserbecher
     .desc = Ein Papierwasserbecher.
 
 ent-DrinkMug = Becher
@@ -19,16 +19,16 @@ ent-DrinkMugBlack = Schwarzbecher
 ent-DrinkMugBlue = Blaubecher
     .desc = Eine blaue und schwarze Tasse.
 
-ent-DrinkMugGreen = Green Mug
+ent-DrinkMugGreen = Grüner Becher
     .desc = Eine blassgrüne und rosa Tasse.
 
-ent-DrinkMugDog = Lustige Hundetasse
+ent-DrinkMugDog = Lustiger Hundebecher
     .desc = Es sieht aus wie ein Cartoon Beagle.
 
-ent-DrinkMugHeart = Herzschale
+ent-DrinkMugHeart = Herzbecher
     .desc = Eine weiße Tasse, es zeigt prominent ein rotes Herz.
 
-ent-DrinkMugMetal = Metallschale
+ent-DrinkMugMetal = Metallbecher
     .desc = Ein Metallbecher. Du bist dir nicht sicher, welches Metall.
 
 ent-DrinkMugMoebius = Moebius-Becher
@@ -37,7 +37,7 @@ ent-DrinkMugMoebius = Moebius-Becher
 ent-DrinkMugOne = #1 Becher
     .desc = Eine weiße Tasse, es zeigt prominent eine #1.
 
-ent-DrinkMugRainbow = Regenbogentasse
+ent-DrinkMugRainbow = Regenbogenbecher
     .desc = Ein Regenbogenbecher. Die Farben sind fast so blendend wie ein Schweißgerät.
 
 ent-DrinkMugRed = Roter Becher

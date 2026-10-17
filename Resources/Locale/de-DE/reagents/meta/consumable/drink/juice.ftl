@@ -36,7 +36,7 @@ reagent-desc-juice-grape = Frisch gepresster Saft aus roten Trauben. Ziemlich s�
 reagent-name-juice-lemon = Zitronensaft
 reagent-desc-juice-lemon = Dieser Saft ist sehr sauer.
 
-reagent-name-juice-lime = Kalksaft
+reagent-name-juice-lime = Limettensaft
 reagent-desc-juice-lime = Der süß-saure Saft von Limetten.
 
 reagent-name-juice-orange = Orangensaft

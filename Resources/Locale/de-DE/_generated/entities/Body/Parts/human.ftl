@@ -1,6 +1,6 @@
 ent-ChestHuman = Menschenbrust
 
-ent-GroinHuman = Menschenunterleib
+ent-GroinHuman = Menschliche Leistengegend
 
 ent-HeadHuman = Menschenkopf
 

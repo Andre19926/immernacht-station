@@ -22,7 +22,7 @@ ent-DrinkBottleGildlager = Gildlagerflasche
 ent-DrinkBottleCoffeeLiqueur = Kaffeelikörflasche
     .desc = Der große Geschmack von Kaffee mit keinem der Benifits.
 
-ent-DrinkBottleNTCahors = nt cahors Flasche
+ent-DrinkBottleNTCahors = NT-Cahors-Flasche
 
 ent-DrinkBottlePatron = Wrapp Artiste Patrón Flasche
     .desc = Silber geschnürter Tequila, serviert in Weltraumnachtclubs in der gesamten Galaxie.
@@ -57,7 +57,7 @@ ent-DrinkCartonOrange = Orangensaft
 ent-DrinkCartonTomato = Tomatensaft
     .desc = Zumindest sieht es aus wie Tomatensaft. Du kannst nicht mit all dieser Rötung sagen.
 
-ent-DrinkCartonCream = Milchrahm
+ent-DrinkCartonCream = Sahnekarton
     .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?
 
 ent-DrinkCartonMilk = Milch

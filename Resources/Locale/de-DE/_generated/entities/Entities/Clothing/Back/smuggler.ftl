@@ -1,8 +1,8 @@
 ent-ClothingBackpackSatchelSmuggler = Schmuggler-Umhängetasche
-    .desc = Eine handliche, verdächtig aussehende satchel. Nur flach genug, um unter Bodenkacheln zu passen.
+    .desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.
 
 ent-ClothingBackpackSatchelSmugglerUnanchored = Schmuggler-Umhängetasche
-    .desc = Eine handliche, verdächtig aussehende satchel. Nur flach genug, um unter Bodenkacheln zu passen.
+    .desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.
 
 ent-BriefcaseSmugglerCash = Aktentasche des Schmugglers
     .desc = Nützlich für das Tragen von Gegenständen in den Händen.
@@ -11,6 +11,6 @@ ent-ClothingBackpackDuffelClownSmuggler = Schmuggler-Clown-Seesack
     .desc = Ein großer Duffelbeutel für zusätzliche Honk-Waren.
 
 ent-ClothingBackpackSatchelSmugglerFilled = Schmuggler-Umhängetasche
-    .desc = Eine handliche, verdächtig aussehende satchel. Nur flach genug, um unter Bodenkacheln zu passen.
+    .desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.
 
 ent-RandomSatchelSpawner = Zufälliger Schmuggler-Umhängetaschen-Spawner

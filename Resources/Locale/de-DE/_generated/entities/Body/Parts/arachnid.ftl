@@ -1,6 +1,6 @@
 ent-ChestArachnid = Spinnenbrust
 
-ent-GroinArachnid = Spinnenunterleib
+ent-GroinArachnid = Spinnen-Leistengegend
 
 ent-HeadArachnid = Spinnenkopf
 

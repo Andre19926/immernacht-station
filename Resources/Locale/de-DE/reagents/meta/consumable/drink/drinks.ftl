@@ -18,7 +18,7 @@
 reagent-name-coffee = Kaffee
 reagent-desc-coffee = Ein Getränk aus gebrühten Kaffeebohnen. Enthält eine moderate Menge an Koffein.
 
-reagent-name-cream = Creme
+reagent-name-cream = Sahne
 reagent-desc-cream = Der fettige, noch flüssige Teil der Milch. Warum mischst du das nicht mit Sum Scotch, oder?
 
 reagent-name-coconut-water = Kokoswasser
@@ -42,7 +42,7 @@ reagent-desc-grenadine = Nicht cherry aromatisiert!
 reagent-name-iced-coffee = Eiskaffee
 reagent-desc-iced-coffee = Kaffee und Eis, erfrischend und kühl.
 
-reagent-name-iced-green-tea = Eisgrüner Tee
+reagent-name-iced-green-tea = Grüner Eistee
 reagent-desc-iced-green-tea = Kalter grüner Tee.
 
 reagent-name-iced-tea = Eistee
@@ -72,7 +72,7 @@ reagent-desc-milk-spoiled = Diese Milch ist ranzig geworden.
 reagent-name-nothing = Nichts
 reagent-desc-nothing = Absolut nichts.
 
-reagent-name-nuclear-cola = Kernkohle
+reagent-name-nuclear-cola = Nuklear-Cola
 reagent-desc-nuclear-cola = Cola, Cola ändert sich nie.
 
 reagent-name-hot-cocoa = Heißer Kakao
@@ -111,5 +111,5 @@ reagent-desc-posca = Das Getränk von einem vergessenen
 reagent-name-mopwata = Mopwata
 reagent-desc-mopwata = Schmutziges, stagnierendes Moppwasser.
 
-reagent-name-orange-lime-soda = Fahrradsägen für Zitrusfrüchte
+reagent-name-orange-lime-soda = Zitrus-Fahrradschuppen
 reagent-desc-orange-lime-soda = Das Soda sollte orange sein! Nein, es sollte Zitronenkalk sein!

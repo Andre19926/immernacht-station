@@ -19,11 +19,11 @@ ent-OrganDionaStomachNymph = Magen
 ent-OrganDionaLungsNymph = Lungen
     .desc = Filtert Sauerstoff aus einer Atmosphäre, die dann in den Blutkreislauf geschickt wird, um als Elektronenträger verwendet zu werden.
 
-ent-OrganDionaNymphBrain = Diona-Nymphen-Gehirn
+ent-OrganDionaNymphBrain = Diona-Nymphengehirn
     .desc = Enthält das Gehirn einer ehemals voll ausgebildeten Diona. Dies zu töten, würde die Diona für immer töten. Du Monster.
 
-ent-OrganDionaNymphStomach = Diona-Nymphen-Magen
+ent-OrganDionaNymphStomach = Diona-Nymphenmagen
     .desc = Enthält den Magen einer ehemals voll ausgebildeten Diona. Es schmeckt nicht besser dafür.
 
-ent-OrganDionaNymphLungs = Diona-Nymphen-Lungen
+ent-OrganDionaNymphLungs = Diona-Nymphenlungen
     .desc = Enthält die Lunge einer ehemals voll ausgebildeten Diona. Atemberaubend.

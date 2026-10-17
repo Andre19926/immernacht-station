@@ -1,6 +1,6 @@
 ent-ChestDiona = Diona-Brust
 
-ent-GroinDiona = Diona-Unterleib
+ent-GroinDiona = Diona-Leistengegend
 
 ent-HeadDiona = Diona-Kopf
 

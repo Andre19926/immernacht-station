@@ -16,10 +16,10 @@ ent-DrinkSpaceUpBottleFull = Space-Up Flasche
 ent-DrinkSodaWaterBottleFull = Sodawasserflasche
     .desc = Wie Wasser, aber wütend!
 
-ent-DrinkTonicWaterBottleFull = Tonwasserflasche
+ent-DrinkTonicWaterBottleFull = Tonic-Water-Flasche
     .desc = Wie Soda-Wasser, aber vielleicht wütender? Oft süßer.
 
-ent-DrinkEnergyDrinkJug = Red Bool Jug
+ent-DrinkEnergyDrinkJug = Red-Bool-Krug
     .desc = Ein Krug Red Bool, mit genug Koffein, um eine ganze Station zu töten.
 
 ent-DrinkSugarJug = Zuckerkrug
@@ -28,16 +28,16 @@ ent-DrinkSugarJug = Zuckerkrug
 ent-DrinkLemonLimeJug = Smite Jug
     .desc = Eine doppelte Zitrussensation.
 
-ent-DrinkMeadJug = Geißel
+ent-DrinkMeadJug = Metkanister
     .desc = Die Lagerung von Met in einem Plastikbehälter sollte ein Verbrechen sein.
 
-ent-DrinkIceJug = Eiskanne
+ent-DrinkIceJug = Eis-Kanister
     .desc = Hartnäckiges Wasser. Ziemlich cool.
 
 ent-DrinkCoconutWaterJug = Kokoswasserkanne
     .desc = Es ist auf der Innenseite der Kokosnuss, die zählt.
 
-ent-DrinkCoffeeJug = Kaffeekannen
+ent-DrinkCoffeeJug = Kaffeekanister
     .desc = Aufwachen Saft, der erhitzten Art.
 
 ent-DrinkTeaJug = Teekanne
@@ -46,7 +46,7 @@ ent-DrinkTeaJug = Teekanne
 ent-DrinkGreenTeaJug = Grüner Teekrug
     .desc = Es ist wie Tee ... aber grün! Toll, um den Magen zu beruhigen.
 
-ent-DrinkIcedTeaJug = Eiskanne
+ent-DrinkIcedTeaJug = Eistee-Kanister
     .desc = Denn wenn der normale Tee zu heiß für dich ist. Boohoo.
 
 ent-DrinkDrGibbJug = Dr. Gibb Jug

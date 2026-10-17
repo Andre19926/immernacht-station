@@ -6,7 +6,7 @@ ent-FeetAnimal = Tierfüße
 
 ent-ChestAnimal = Tierbrust
 
-ent-GroinAnimal = Tierunterleib
+ent-GroinAnimal = Tier-Leistengegend
 
 ent-LeftHandSmartCorgi = linke Corgi-Hand
 

@@ -1,10 +1,10 @@
-ent-DrinkFlaskOld = alter Kolben
+ent-DrinkFlaskOld = Alter Flachmann
     .desc = Eine altersschwache alte Flasche, der Deckel scheint zu fehlen.
 
-ent-DrinkShinyFlask = glänzender Kolben
+ent-DrinkShinyFlask = Glänzender Flachmann
     .desc = Eine glänzende Metallflasche. Es scheint ein griechisches Symbol darauf zu haben.
 
-ent-DrinkMREFlask = MRE-Kolben
+ent-DrinkMREFlask = MRE-Flachmann
     .desc = Eine alte Militärflasche, gefüllt mit dem feinsten Inhalt für Soldaten.
 
 ent-DrinkDetFlask = Inspektorflasche
@@ -16,7 +16,7 @@ ent-DrinkHosFlask = Hos-Flasche
 ent-DrinkFlask = Kapitänsflasche
     .desc = Eine Metallflasche des Kapitäns.
 
-ent-DrinkFlaskBar = Kolben
+ent-DrinkFlaskBar = Flachmann
     .desc = Eine wiederverwendbare Metallflasche. Klassischer als direkt aus einer Flasche zu trinken.
 
 ent-DrinkLithiumFlask = Lithiumflasche

@@ -6,7 +6,7 @@ ent-HeadVox = Vox-Kopf
 
 ent-LeftArmVox = linker Vox-Arm
 
-ent-RightArmVox = rechter Vox-Arm
+ent-RightArmVox = Rechter Voxarm
 
 ent-LeftHandVox = linke Vox-Hand
 
