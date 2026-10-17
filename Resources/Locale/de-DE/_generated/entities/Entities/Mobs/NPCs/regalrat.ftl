@@ -1,26 +1,26 @@
 ent-MobRatKing = Rattenkönig
-    .desc = Er ist da rat. Er macht da roolz.
+    .desc = Er is' die Ratte. Er macht die Rejeln.
 
 ent-MobRatKingBuff = Rattenkönig
-    .desc = Er ist da rat. Er macht da roolz.
+    .desc = Er is' die Ratte. Er macht die Rejeln.
 
 ent-MobRatServant = Rattenbediensteter
-    .desc = Er ist da Mini Ratte. Er macht nicht da roolz.
+    .desc = Er is' die Mini-Ratte. Er macht nich' die Rejeln.
 
 ent-ActionRatKingRaiseArmy = Hebung der Armee
-    .desc = Verbringe etwas Hunger, um eine alliierte Ratte zu beschwören, um dich zu verteidigen.
+    .desc = Gib etwas Hunger auf, um eine verbündete Ratte zu beschwören, die dich verteidigt.
 
 ent-ActionRatKingDomain = Die Domain von Rat King
-    .desc = Verbringe etwas Hunger, um eine Ammoniakwolke in die Luft freizusetzen.
+    .desc = Gib etwas Hunger auf, um eine Ammoniakwolke in die Luft freizusetzen.
 
 ent-ActionRatKingOrderStay = Aufenthalt
-    .desc = Kommandiere deiner Armee, um an Ort und Stelle zu stehen.
+    .desc = Befiehl deiner Armee, an Ort und Stelle zu bleiben.
 
 ent-ActionRatKingOrderFollow = Folgen
-    .desc = Kommandiere deiner Armee, um dir zu folgen.
+    .desc = Befiehl deiner Armee, dir zu folgen.
 
 ent-ActionRatKingOrderCheeseEm = Käse „Em
-    .desc = Kommandiere deiner Armee, wen auch immer du angreifst.
+    .desc = Befiehl deiner Armee, jeden anzugreifen, den du angreifst.
 
 ent-ActionRatKingOrderLoose = Lose
-    .desc = Befehle deiner Armee, nach eigenem Willen zu handeln.
+    .desc = Befiehl deiner Armee, nach eigenem Willen zu handeln.

@@ -1,14 +1,14 @@
 ent-DrinkSpaceGlue = Raumleim-Tube
-    .desc = Hochleistungskleber zur Wartung von extrem komplexen mechanischen Geräten. Trinke nicht!
+    .desc = Hochleistungskleber zur Wartung hochkomplexer mechanischer Geräte. Nicht trinken!
 
 ent-DrinkSpaceLube = Raumschmiermittel-Tube
-    .desc = Hochleistungsschmierstoff für die Wartung von extrem komplexen mechanischen Geräten.
+    .desc = Hochleistungsschmierstoff zur Wartung hochkomplexer mechanischer Geräte.
 
 ent-BottomlessLube = Bodenloses Gleitmittel-Becherglas
-    .desc = Dieses anomale Becherglas produziert unendlich Raumschmierstoff und ist als solches so genau zu bewachen, dass es nicht in die falschen Hände fällt.
+    .desc = Dieses anomale Becherglas erzeugt unendlich Raumschmiermittel und muss daher gut bewacht werden, damit es nicht in falsche Hände gerät.
 
 ent-DrinkJarWhat = Glas mit etwas
     .desc = Du kannst nicht wirklich sagen, was das ist.
 
 ent-DrinkMopwataBottleRandom = leckere Mopwata
-    .desc = Eine neblig braune Flasche mit einem verblassten Etikett, das einen Mopp darstellt. Es kommt voller düsterer ... Vintage.
+    .desc = Eine neblig-braune Flasche mit einem verblassten Etikett, das einen Mopp zeigt. Sie ist voller düsterer ... Vintage-Ware.

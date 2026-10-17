@@ -5,10 +5,10 @@ ent-MobCarpMagic = Magarp
     .desc = Sieht aus wie eine Art Fisch. Könnte magisch sein.
 
 ent-MobCarpHolo = Holokarpfen
-    .desc = Karpfen aus holographischen Energien. Leider für dich, es ist sehr real.
+    .desc = Ein Karpfen aus holographischer Energie. Leider für dich ist er sehr real.
 
 ent-MobCarpRainbow = Regenbogenkarpfen
-    .desc = Wow so ein glänzender Fishie!
+    .desc = Wow, was für ein glänzendes Fischchen!
 
 ent-MobCarpSalvage = Raumkarpfen
     .desc = Ein Weltraumkarpfen.
@@ -20,7 +20,7 @@ ent-MobCarpDungeon = Raumkarpfen
     .desc = Ein Weltraumkarpfen.
 
 ent-MobShark = Haifischminze
-    .desc = Ein gefährlicher Hai aus der Schwärze des endlosen Weltraums, der es liebt, Blut zu trinken.
+    .desc = Ein gefährlicher Hai aus der Schwärze des endlosen Weltraums, der gern Blut trinkt.
 
 ent-MobSharkSalvage = Haifischminze
-    .desc = Ein gefährlicher Hai aus der Schwärze des endlosen Weltraums, der es liebt, Blut zu trinken.
+    .desc = Ein gefährlicher Hai aus der Schwärze des endlosen Weltraums, der gern Blut trinkt.

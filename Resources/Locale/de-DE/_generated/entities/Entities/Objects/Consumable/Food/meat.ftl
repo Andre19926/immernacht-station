@@ -1,8 +1,8 @@
 ent-FoodMeat = rohes Fleisch
-    .desc = Eine Platte rohes Fleisch.
+    .desc = Ein Stück rohes Fleisch.
 
 ent-FoodMeatHuman = rohes menschliches Fleisch
-    .desc = Brutto.
+    .desc = Igitt.
 
 ent-FoodMeatFish = Rohkarpfenfilets
     .desc = Deine letzten Worte „Wow, exotisch!“ sind es nicht wert. Aber der Geschmack selbst? Vielleicht.
@@ -11,55 +11,55 @@ ent-FoodMeatBacon = Rohbacon
     .desc = Ein rohes Stück Speck.
 
 ent-FoodMeatBear = rohes Bärenfleisch
-    .desc = Eine sehr männliche Platte aus rohem Bärenfleisch.
+    .desc = Ein sehr männliches Stück rohes Bärenfleisch.
 
 ent-FoodMeatPenguin = rohes Pinguinfleisch
-    .desc = Eine Platte aus rohem Pinguinfleisch. Kann als Ersatz für Fisch in Rezepten verwendet werden.
+    .desc = Ein Stück rohes Pinguinfleisch. Kann in Rezepten als Fischersatz verwendet werden.
 
 ent-FoodMeatChicken = rohes Hühnerfleisch
-    .desc = Eine Platte aus rohem Huhn. Denke daran, deine Hände zu waschen!
+    .desc = Ein Stück rohes Huhn. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatDuck = rohes Entenfleisch
-    .desc = Eine Platte roher Ente. Denke daran, deine Hände zu waschen!
+    .desc = Ein Stück rohe Ente. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatCorgi = Korgi-Fleisch in Erstschnitt
-    .desc = Das verdorbene Geschenk eines bösen Verbrechens. Das Fleisch mag lecker sein, aber zu welchem Preis?
+    .desc = Das verdorbene Geschenk eines bösen Verbrechens. Das Fleisch mag lecker sein, aber um welchen Preis?
 
 ent-FoodMeatCrab = rohes Krabbenfleisch
-    .desc = Ein Haufen rohem Krabbenfleisch.
+    .desc = Ein Haufen rohes Krabbenfleisch.
 
 ent-FoodMeatGoliath = Rohes Goliathfleisch
-    .desc = Eine Scheibe Goliathfleisch. Es ist jetzt nicht sehr essbar, aber es kocht großartig in Lava.
+    .desc = Eine Scheibe Goliathfleisch. Roh ist es nicht sehr genießbar, aber in Lava gart es hervorragend.
 
 ent-FoodMeatDragon = Drachenfleisch
-    .desc = Das dichte Fleisch des Spitzenräubers der Weltraumzeit sickert mit seinem mythischen Ichor aus. Ironischerweise am besten roh gegessen.
+    .desc = Das dichte Fleisch des Spitzenräubers der Weltraumzeit, aus dem mythisches Ichor sickert. Ironischerweise am besten roh zu essen.
 
 ent-FoodMeatRat = rohes Rattenfleisch
-    .desc = Prime Fleisch aus der Wartung!
+    .desc = Erstklassiges Fleisch aus der Wartung!
 
 ent-FoodMeatLizard = rohes Echsenfleisch
     .desc = Köstliches Dino-Fleisch.
 
 ent-FoodMeatPlant = rohes Pflanzenfleisch
-    .desc = Alle Freuden des gesunden Essens mit all dem Spaß am Kannibalismus.
+    .desc = Alle Freuden gesunder Ernährung mit dem ganzen Spaß des Kannibalismus.
 
 ent-FoodMeatRotten = Fäulnisfleisch
     .desc = Auf halbem Weg zum Dünger für deinen Garten.
 
 ent-FoodMeatSpider = rohes Spinnenfleisch
-    .desc = Eine Scheibe Spinnenfleisch. Das ist so kafkaesk.
+    .desc = Eine Scheibe Spinnenfleisch. So kafkaesk.
 
 ent-FoodMeatSpiderLeg = Rohes Spinnenbein
-    .desc = Ein immer noch zuckendes Bein einer riesigen Spinne ... du willst das nicht wirklich essen, oder?
+    .desc = Ein noch zuckendes Bein einer Riesenspinne ... das willst du doch nicht wirklich essen, oder?
 
 ent-FoodMeatWheat = Fleischweizenklumpen
-    .desc = Das sieht nicht wie Fleisch aus, aber deine Standards sind anfangs nicht so hoch.
+    .desc = Das sieht nicht nach Fleisch aus, aber deine Ansprüche sind anfangs ohnehin nicht so hoch.
 
 ent-FoodMeatSnake = rohes Schlangenfleisch
     .desc = Ein langes Stück Schlangenfleisch, hoffentlich nicht giftig.
 
 ent-FoodMeatXeno = rohes Xenofleisch
-    .desc = Eine Platte Xeno-Fleisch, tropfend mit Säure.
+    .desc = Ein Stück Xeno-Fleisch, tropfend vor Säure.
 
 ent-FoodMeatRouny = rohes rouniges Fleisch
     .desc = Eine Scheibe Fleisch von einem unschuldigen roten Freund.
@@ -68,25 +68,25 @@ ent-FoodMeatTomato = Killer-Tomatenfleisch
     .desc = Ein Stück von einer riesigen Tomate.
 
 ent-FoodMeatSalami = Salami
-    .desc = Eine große Röhre Salami. Am besten nicht fragen, was hineingegangen ist.
+    .desc = Eine große Salamirolle. Frag besser nicht, was darin steckt.
 
 ent-FoodMeatClown = Fleischclown
-    .desc = Ein leckeres, rundes Stück Fleischclown. Wie entsetzlich.
+    .desc = Ein leckeres, rundes Stück Clownfleisch. Wie entsetzlich.
 
 ent-FoodMeatMeatball = Fleischbällchen
-    .desc = Eine rohe Kugel Fleisch. Fleischkugel.
+    .desc = Eine rohe Fleischkugel. Fleischball.
 
 ent-FoodMeatPatty = Fleischpastete
-    .desc = Eine flache Platte aus gemahlenem Fleisch. Bereit zum Grillen.
+    .desc = Ein flaches Stück Hackfleisch. Bereit zum Grillen.
 
 ent-FoodMeatSlime = Slimeball
-    .desc = Eine gelartige Formgebung von Schleimgelee.
+    .desc = Eine gelartige Form aus Schleimgelee.
 
 ent-FoodMeatSnail = Rohes Schneckenfleisch
-    .desc = Mit Salz verbessert.
+    .desc = Mit Salz verfeinert.
 
 ent-FoodMeatAnomaly = anomale Fleischmasse
-    .desc = Eine unglaublich dichte Fleischplatte. Wenn man es nur anschaut, macht man sich unwohl.
+    .desc = Ein unglaublich dichtes Stück Fleisch. Schon beim Anblick wird dir unwohl.
 
 ent-MaterialSmileExtract = Lächelnextrakt
     .desc = Es ist ein echtes Allheilmittel. Aber zu welchen Kosten?
@@ -137,7 +137,7 @@ ent-FoodMeatPattyCooked = gekochte Fleischpastete
     .desc = Eine gekochte Fleischpastete.
 
 ent-FoodMeatSnailCooked = Gekochte Schnecke
-    .desc = Mit Salz verbessert.
+    .desc = Mit Salz verfeinert.
 
 ent-FoodMeatAnomalyCooked = Anomales Steak
     .desc = Eine riesige Masse von gekochtem Fleisch. Eine mahlzeit für eine dinnerparty oder jemand wirklich hungrig.

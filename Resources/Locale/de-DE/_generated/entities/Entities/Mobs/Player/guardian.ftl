@@ -1,11 +1,11 @@
 ent-MobHoloparasiteGuardian = Holoparasit
-    .desc = Ein faszinierender Wirbel aus harten Lichtmustern webt ein wunderbares, aber seltsam vertrautes Gesicht. Es steht stolz und stimmt sich auf das Leben seines Besitzers ein, um sich selbst zu erhalten.
+    .desc = Ein faszinierender Wirbel aus hartem Licht formt ein wunderbares, aber seltsam vertrautes Gesicht. Es steht stolz da und stimmt sich auf das Leben seines Besitzers ein, um sich selbst zu erhalten.
 
 ent-MobIfritGuardian = Ifrit
-    .desc = Ein verdorbener Dschinn, der von Fitra gerissen wurde, um den kleinen Bedürfnissen des Zauberers zu dienen. Es steht böse und stimmt sich auf das Leben seines Besitzers ein, um sich selbst zu erhalten.
+    .desc = Ein verdorbener Dschinn, von Fitra gerissen, um den kleinen Wünschen des Zauberers zu dienen. Er steht bösartig da und stimmt sich auf das Leben seines Besitzers ein, um sich selbst zu erhalten.
 
 ent-MobHoloClownGuardian = HoloClown
-    .desc = Ein faszinierender Wirbel aus harten Lichtmustern webt einen blau gefärbten Clown zweifelhafter Herkunft.
+    .desc = Ein faszinierender Wirbel aus hartem Licht formt einen blau gefärbten Clown zweifelhafter Herkunft.
 
 ent-ActionToggleGuardian = Toggle Guardian
     .desc = Beschwört entweder den Wächter oder ruft ihn zurück in deinen Körper.

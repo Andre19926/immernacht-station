@@ -2,22 +2,22 @@ ent-FoodBreadBun = Brötchen
     .desc = Ein Hamburgerbrötchen. Rund und bequem zu halten.
 
 ent-FoodBreadBunBottom = Bodenbrötchen
-    .desc = Es ist Zeit, den Burgerturm zu bauen.
+    .desc = Zeit, den Burgerturm zu bauen.
 
 ent-FoodBreadBunTop = Oberes Brötchen
     .desc = Das perfekte Finish für deinen Burgerturm.
 
 ent-FoodBurgerJelly = Geleeburger
-    .desc = Kulinarisches Vergnügen...?
+    .desc = Kulinarisches Vergnügen ...?
 
 ent-FoodBurgerAppendix = Anlage Burger
-    .desc = Schmeckt nach Appendizitis.
+    .desc = Schmeckt nach Blinddarmentzündung.
 
 ent-FoodBurgerBacon = Speckburger
     .desc = Die perfekte Kombination aller amerikanischen Dinge.
 
 ent-FoodBurgerBaseball = Baseballburger
-    .desc = Es ist immer noch warm. Der Dampf, der aus ihm herauskommt, riecht irgendwie verschwitzt.
+    .desc = Er ist noch warm. Der Dampf, der aufsteigt, riecht irgendwie verschwitzt.
 
 ent-FoodBurgerBear = Bär
     .desc = Am besten roh serviert.
@@ -26,37 +26,37 @@ ent-FoodBurgerBig = Big Bite Burger
     .desc = Vergiss den Big Mac. Das ist die Zukunft!
 
 ent-FoodBurgerBrain = Gehirnburger
-    .desc = Ein seltsam aussehender Burger. Es sieht fast gefühlt aus.
+    .desc = Ein seltsam aussehender Burger. Er sieht fast gefühlvoll aus.
 
 ent-FoodBurgerCat = Katzenburger
-    .desc = Endlich sind diese Katzen und Katzenmenschen etwas wert!
+    .desc = Endlich sind diese Katzen und Katzenmenschen mal etwas wert!
 
 ent-FoodBurgerCheese = Käseburger
-    .desc = Dieser edle Burger steht stolz in goldenen Käse gekleidet.
+    .desc = Dieser edle Burger steht stolz in goldenen Käse gekleidet da.
 
 ent-FoodBurgerChicken = Chicken Sandwich
-    .desc = Ein köstliches Hühnchensandwich, es wird gesagt, dass die Einnahmen aus diesem Leckerbissen dazu beitragen, die Entwaffnung von Menschen an der Weltraumgrenze zu kriminalisieren.
+    .desc = Ein köstliches Hühnchensandwich. Man sagt, die Einnahmen aus diesem Leckerbissen tragen dazu bei, die Entwaffnung von Menschen an der Weltraumgrenze unter Strafe zu stellen.
 
 ent-FoodBurgerClown = Clownburger
     .desc = Das schmeckt lustig...
 
 ent-FoodBurgerCorgi = Korrekt
-    .desc = Der Favorit des Chefs des Personals!
+    .desc = Der Liebling des Personalchefs!
 
 ent-FoodBurgerCrab = Krabbenburger
-    .desc = Ein leckeres patty der krabbigen art, zwischen einem brötchen geschlagen.
+    .desc = Ein leckeres Patty nach Krabbenart, zwischen zwei Brötchenhälften geklemmt.
 
 ent-FoodBurgerCrazy = Verrückter Hamburger
-    .desc = Das sieht aus wie die Art von Nahrung, die ein wahnsinniger Clown in einem Trenchcoat machen würde.
+    .desc = Das sieht aus wie das Essen, das ein wahnsinniger Clown im Trenchcoat zubereiten würde.
 
 ent-FoodBurgerDuck = Entensandwich
-    .desc = Ein Entensandwich, nur der kriminell Verrückte würde es wagen, das Fleisch einer so entzückenden Kreatur zu essen.
+    .desc = Ein Entensandwich. Nur ein kriminell Wahnsinniger würde es wagen, das Fleisch einer so entzückenden Kreatur zu essen.
 
 ent-FoodBurgerEmpowered = Empowered Burger
-    .desc = Es ist schockierend gut, wenn du von Elektrizität lebst, das ist.
+    .desc = Es ist schockierend gut – jedenfalls wenn du von Elektrizität lebst.
 
 ent-FoodBurgerCarp = Filet-o-Carp-Burger
-    .desc = Fast wie ein Karpfen irgendwo schreit...
+    .desc = Fast, als würde irgendwo ein Karpfen schreien ...
 
 ent-FoodBurgerFive = Fünf-Alarm-Burger
 
@@ -64,16 +64,16 @@ ent-FoodBurgerGhost = Geisterburger
     .desc = Zu gruselig!
 
 ent-FoodBurgerHuman = Menschlicher Burger
-    .desc = Man kann nicht sagen, aus wem das gemacht ist...
+    .desc = Man kann nicht sagen, aus wem das gemacht ist ...
 
 ent-FoodBurgerMcguffin = McGuffin
-    .desc = Eine billige und fettige Imitation eines Eiers Benedict.
+    .desc = Eine billige, fettige Imitation von Eggs Benedict.
 
 ent-FoodBurgerMcrib = BBQ Rib Sandwich
-    .desc = Ein schwer fassbarer rippenförmiger Burger mit begrenzter Verfügbarkeit in der gesamten Galaxie. Nicht so gut, wie du dich erinnerst.
+    .desc = Ein schwer zu fassender, rippenförmiger Burger, in der Galaxis nur begrenzt erhältlich. Nicht so gut, wie du ihn in Erinnerung hast.
 
 ent-FoodBurgerMime = Mime Burger
-    .desc = Sein Geschmack trotzt der Sprache.
+    .desc = Sein Geschmack spottet jeder Beschreibung.
 
 ent-FoodBurgerPlain = Plain Burger
     .desc = Ein langweiliger, trockener Burger.
@@ -82,22 +82,22 @@ ent-FoodBurgerRat = Rattenburger
     .desc = So ziemlich das, was du erwarten würdest...
 
 ent-FoodBurgerRobot = Burger
-    .desc = Der Salat ist die einzige organische Komponente. Piepton.
+    .desc = Der Salat ist die einzige organische Komponente. Piep.
 
 ent-FoodBurgerSoy = Soylentburger
-    .desc = Nach dem Essen hast du den überwältigenden Drang, überteuerte Figuren von Superhelden zu kaufen.
+    .desc = Nach dem Essen überkommt dich der überwältigende Drang, überteuerte Superheldenfiguren zu kaufen.
 
 ent-FoodBurgerSpell = Zauberburger
     .desc = Das ist absolut Ei Nath.
 
 ent-FoodBurgerSuper = Super Biss Burger
-    .desc = Das ist der Berg eines Burgers. LEBENSMITTEL!
+    .desc = Das ist der Berg unter den Burgern. ESSEN!
 
 ent-FoodBurgerTofu = Tofuburger
-    .desc = Was ... ist das Fleisch?
+    .desc = Was ... ist das für Fleisch?
 
 ent-FoodBurgerXeno = Xenoburger
-    .desc = Riecht ätzend. Schmeckt nach Häresie.
+    .desc = Riecht ätzend. Schmeckt nach Ketzerei.
 
 ent-FoodBurgerMothRoach = Mottenschabenburger
-    .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.
+    .desc = Das letzte Licht, das sie sah, war das in der Mikrowelle.

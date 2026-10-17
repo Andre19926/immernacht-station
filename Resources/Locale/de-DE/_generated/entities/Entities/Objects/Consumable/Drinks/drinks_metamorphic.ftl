@@ -2,7 +2,7 @@ ent-DrinkGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
 
 ent-DrinkJar = Glas
-    .desc = Der Hipster's Cup.
+    .desc = Der Hipster-Becher.
 
 ent-DrinkAbsintheGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
@@ -182,7 +182,7 @@ ent-DrinkHippiesDelightGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
 
 ent-DrinkHoochGlass = metamorphes Glas
-    .desc = Du hast jetzt wirklich den Tiefpunkt erreicht ... Deine Leber hat ihre Sachen gepackt und ist letzte Nacht gegangen.
+    .desc = Jetzt hast du wirklich den Tiefpunkt erreicht ... Deine Leber hat ihre Sachen gepackt und ist letzte Nacht gegangen.
 
 ent-DrinkIcedCoffeeGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
@@ -419,7 +419,7 @@ ent-DrinkVodkaTonicGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
 
 ent-DrinkWaterJug = Wasserkanne
-    .desc = Bleib hydratisiert.
+    .desc = Bleib hydriert.
 
 ent-DrinkWatermelonJuice = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
@@ -482,7 +482,7 @@ ent-DrinkBloodGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
 
 ent-DrinkBacchusBlessing = metamorphes Glas
-    .desc = Du hast nicht gedacht, dass es möglich ist, dass eine Flüssigkeit so total empörend ist. Bist du dir dessen sicher...?
+    .desc = Du hättest nicht gedacht, dass eine Flüssigkeit so empörend sein kann. Bist du dir sicher ...?
 
 ent-DrinkIrishCarBomb = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.

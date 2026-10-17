@@ -1,5 +1,5 @@
 ent-MobScurret = Schelm
-    .desc = Allgemein bekannt als Wawa, aus den Feuchtgebieten des Planeten Wawa, machen diese Tiere den Großteil der "loyalen Arbeitskräfte" von Arnolds Pizza aus.
+    .desc = Allgemein als Wawa bekannt, stammen diese Tiere aus den Feuchtgebieten des Planeten Wawa und stellen den Großteil der „loyalen Belegschaft“ von Arnolds Pizza.
 
 ent-MobEmotionalSupportScurret = Emotionale Unterstützung Scurret
-    .desc = Allgemein bekannt als Wawa, aus den Feuchtgebieten des Planeten Wawa, machen diese Tiere den Großteil der "loyalen Arbeitskräfte" von Arnold's Pizza aus. Dieser hier ist als Temp.
+    .desc = Allgemein als Wawa bekannt, stammen diese Tiere aus den Feuchtgebieten des Planeten Wawa und stellen den Großteil der „loyalen Belegschaft“ von Arnold's Pizza. Dieser hier ist als Aushilfe angestellt.

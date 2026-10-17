@@ -1,2 +1,2 @@
 ent-MobMoproach = Moprochen
-    .desc = Diese kleine Mottenschabe hat Mopshoes an den Füßen! Wie liebenswert!
+    .desc = Diese kleine Mottenschabe hat Mopschuhe an den Füßen! Wie liebenswert!

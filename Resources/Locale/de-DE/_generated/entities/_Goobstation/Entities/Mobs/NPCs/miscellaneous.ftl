@@ -1,2 +1,2 @@
 ent-MobRevenantToken = Revenant
-    .desc = Ein gruseliger Ghostie.
+    .desc = Ein gruseliges Geisterchen.

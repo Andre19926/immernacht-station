@@ -5,4 +5,4 @@ ent-FoodEgg = Eier
     .desc = Ein Ei!
 
 ent-FoodEggBoiled = Gekochte Eier
-    .desc = Ein köstliches hart gekochtes Ei.
+    .desc = Ein köstliches hartgekochtes Ei.

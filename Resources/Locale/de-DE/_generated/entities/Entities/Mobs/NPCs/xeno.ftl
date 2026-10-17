@@ -29,4 +29,4 @@ ent-MobSmallPurpleSnake = Raumaddierer
     .desc = Eine kleinere Version der bedrohlichen lila Schlange von Kepler-283c.
 
 ent-MobXenoLonePraetorianNoGhost = "Dale"
-    .desc = Ein Prätorianer, der von der anfänglichen Sicherheitskontrolle der Station übrig geblieben ist. Hat ein Paar blutrünstige Hundemarken mit dem Namen "Pvt. Dale" in seinem Schlund stecken.
+    .desc = Ein Prätorianer, übrig geblieben von der anfänglichen Sicherheitsbesatzung der Station. In seinem Schlund steckt ein Paar blutverschmierter Hundemarken mit dem Namen „Pvt. Dale“.

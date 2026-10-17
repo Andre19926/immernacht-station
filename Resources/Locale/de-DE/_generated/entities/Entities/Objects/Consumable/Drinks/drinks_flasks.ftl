@@ -2,25 +2,25 @@ ent-DrinkFlaskOld = Alter Flachmann
     .desc = Eine altersschwache alte Flasche, der Deckel scheint zu fehlen.
 
 ent-DrinkShinyFlask = Glänzender Flachmann
-    .desc = Eine glänzende Metallflasche. Es scheint ein griechisches Symbol darauf zu haben.
+    .desc = Eine glänzende Metallflasche. Darauf scheint ein griechisches Symbol zu sein.
 
 ent-DrinkMREFlask = MRE-Flachmann
-    .desc = Eine alte Militärflasche, gefüllt mit dem feinsten Inhalt für Soldaten.
+    .desc = Eine alte Militärflasche, gefüllt mit dem Feinsten für Soldaten.
 
 ent-DrinkDetFlask = Inspektorflasche
-    .desc = Eine Metallflasche mit Lederband und goldenem Abzeichen des Inspektors.
+    .desc = Eine Metallflasche mit Lederband und goldenem Inspektorenabzeichen.
 
 ent-DrinkHosFlask = Hos-Flasche
-    .desc = Eine Metallflasche, passend für eine hart arbeitende HoS.
+    .desc = Eine Metallflasche, passend für einen hart arbeitenden Sicherheitschef.
 
 ent-DrinkFlask = Kapitänsflasche
-    .desc = Eine Metallflasche des Kapitäns.
+    .desc = Die Metallflasche des Kapitäns.
 
 ent-DrinkFlaskBar = Flachmann
-    .desc = Eine wiederverwendbare Metallflasche. Klassischer als direkt aus einer Flasche zu trinken.
+    .desc = Eine wiederverwendbare Metallflasche. Stilvoller, als direkt aus einer Flasche zu trinken.
 
 ent-DrinkLithiumFlask = Lithiumflasche
-    .desc = Eine Flasche mit einem Lithiumatom-Symbol darauf.
+    .desc = Eine Flasche mit dem Symbol eines Lithiumatoms.
 
 ent-DrinkVacuumFlask = Vakuumflasche
-    .desc = Halte deine Getränke auf der perfekten Temperatur seit 1892.
+    .desc = Hält deine Getränke seit 1892 auf perfekter Temperatur.

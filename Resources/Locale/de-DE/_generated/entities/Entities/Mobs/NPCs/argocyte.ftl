@@ -23,7 +23,7 @@ ent-MobArgocyteHarvester = Erntemaschine
     .desc = Ein gefährlicher Alien, der auf der falschen Seite von Planeten gefunden wird und dafür bekannt ist, gern Ruinen zu zernagen.
 
 ent-MobArgocyteCrawler = Raupe
-    .desc = Tödliche Rudeltiere, die ahnungslose Reisende beschädigen.
+    .desc = Tödliche Rudeltiere, die ahnungslosen Reisenden auflauern.
 
 ent-MobArgocyteEnforcer = Vollstrecker
     .desc = Ein gefährlicher Alien, der auf der falschen Seite von Planeten gefunden wird und dafür bekannt ist, gern Ruinen zu zernagen.

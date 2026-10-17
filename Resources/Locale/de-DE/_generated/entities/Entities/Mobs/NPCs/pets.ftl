@@ -1,23 +1,23 @@
 ent-MobCorgiIan = I.
-    .desc = Lieblingstier Corgi.
+    .desc = Das Lieblingshaustier: Corgi.
 
 ent-MobCorgiIanOld = Alter Ian
-    .desc = Immer noch das Lieblingstier Corgi. Ich liebe seine Räder.
+    .desc = Immer noch das Lieblingshaustier: Corgi. Ich liebe seine Räder.
 
 ent-MobCorgiLisa = Lisa
-    .desc = Ians Lieblingskorgi.
+    .desc = Ians Lieblings-Corgi.
 
 ent-MobCorgiMouse = Echte Maus
-    .desc = Es ist 100 % eine wirklich hungrige Maus.
+    .desc = Das ist zu 100 % eine wirklich hungrige Maus.
 
 ent-MobCorgiIanPup = Puppy Ian
     .desc = Der Lieblings-Corgi-Welpe. Awww.
 
 ent-MobCatRuntime = Aven
-    .desc = Die Katze, die alleine geht.
+    .desc = Die Katze, die ihre eigenen Wege geht.
 
 ent-MobCatException = Ausnahme
-    .desc = Fragen sie nett, und vielleicht geben sie ihnen eines ihrer freileben.
+    .desc = Frag nett, und vielleicht gibt sie dir eines ihrer Leben.
 
 ent-MobCatFloppa = Floppa
     .desc = Er hier draußen.
@@ -26,13 +26,13 @@ ent-MobBandito = Bandito
     .desc = Nur ein dummer kleiner Kerl!
 
 ent-MobBingus = Bingus
-    .desc = Bingus mein Geliebter...
+    .desc = Bingus, mein Geliebter ...
 
 ent-MobMcGriff = McGriff
-    .desc = Dieser Hund kann hier etwas riechen, und das ist CRIME!
+    .desc = Dieser Hund kann hier etwas riechen, und das ist VERBRECHEN!
 
 ent-MobPaperwork = Papiere
-    .desc = Nahm einen neuen Job, der Bücher in der Bibliothek sortierte, nachdem er von der Space Station 13 versetzt worden war. Er scheint dabei genauso langsam zu sein.
+    .desc = Hat nach seiner Versetzung von Space Station 13 einen neuen Job angenommen: Bücher in der Bibliothek sortieren. Dabei scheint er genauso langsam zu sein.
 
 ent-MobWalter = Walter
     .desc = Er mag Chemikalien und behandelt Patienten. Walter.
@@ -44,16 +44,16 @@ ent-MobPossumMortyOld = Mortalität
     .desc = Der Stationsbewohner Didelphis virginiana. Ein sensibler, aber belastbarer Typ.
 
 ent-MobPossumPoppy = Mohn
-    .desc = Es ist ein Opossum, ein kleines fressendes Beuteltier. Es trägt angemessene persönliche Schutzausrüstung.
+    .desc = Ein Opossum, ein kleiner Allesfresser-Beutler. Es trägt angemessene persönliche Schutzausrüstung.
 
 ent-MobRaccoonMorticia = Morticia
-    .desc = Die kräftigste der Nacht. Der Schuh ist immer auf dem Punkt.
+    .desc = Der Stärkste der Nacht. Der Schuh sitzt immer auf den Punkt.
 
 ent-MobAlexander = Alexander
     .desc = Der beste Kollege des Chefs.
 
 ent-MobFoxRenault = Renault
-    .desc = Der vertrauenswürdige Fuchs des Kapitäns.
+    .desc = Der treue Fuchs des Kapitäns.
 
 ent-MobHamsterHamlet = Hamlet
     .desc = Ein mürrischer, niedlicher und flauschiger Hamster.
@@ -65,16 +65,16 @@ ent-MobSpiderShiva = Shiva
     .desc = Der erste Verteidiger der Station.
 
 ent-MobKangarooWillow = Weide
-    .desc = Willow das Boxkänguru.
+    .desc = Willow, das Boxkänguru.
 
 ent-MobSlimesPet = Lächeln
-    .desc = Dieses Meisterwerk hat Tausende von Experimenten durchlaufen. Aber es ist das süßeste Geschöpf der Welt. Smile Slime!
+    .desc = Dieses Meisterwerk hat Tausende Experimente durchlaufen. Aber es ist das süßeste Geschöpf der Welt. Smile Slime!
 
 ent-MobMonkeyPunpun = Pun Pun
-    .desc = Ein prominenter Vertreter von Affen mit unbegrenztem Zugang zu Alkohol.
+    .desc = Ein prominenter Vertreter der Affen mit unbegrenztem Zugang zu Alkohol.
 
 ent-MobCrabAtmos = Tropisch
     .desc = Der edle und standhafte Verteidiger von Atmosia. Viva!
 
 ent-MobPollyParrot = Polly der Papagei
-    .desc = Ein Experte für Quanten-Cracker-Theorie
+    .desc = Ein Experte für Quanten-Cracker-Theorie.

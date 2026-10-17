@@ -5,72 +5,72 @@ ent-FoodMealFries = Pommes frites
     .desc = Auch bekannt als Pommes frites, Freedom Fries usw.
 
 ent-FoodMealFriesCheesy = Pommes frites
-    .desc = Fries. Mit Käse bedeckt. Duh.
+    .desc = Pommes. Mit Käse überzogen. Na klar.
 
 ent-FoodMealFriesCarrot = Pommes frites
-    .desc = Fritten von frischen Karotten.
+    .desc = Pommes aus frischen Karotten.
 
 ent-FoodMealNachos = Nachos
-    .desc = Chips von Space Mexico.
+    .desc = Chips aus Space Mexico.
 
 ent-FoodMealNachosCheesy = cheesy Nachos
-    .desc = Die köstliche Kombination aus Nachos und Schmelze.
+    .desc = Die köstliche Kombination aus Nachos und Schmelzkäse.
 
 ent-FoodMealNachosCuban = Kubanische Nachos
-    .desc = Das sind einige gefährlich scharfe Nachos.
+    .desc = Das sind verdammt scharfe Nachos.
 
 ent-FoodMealMint = Minze
-    .desc = Es ist Wafer dünn.
+    .desc = Es ist hauchdünn.
 
 ent-FoodMealEggplantParm = Auberginenparmigiana
-    .desc = Das einzige gute Rezept für Auberginen.
+    .desc = Das einzig gute Rezept für Auberginen.
 
 ent-FoodMealPotatoYaki = yaki imo
     .desc = Hergestellt mit gerösteten Süßkartoffeln!
 
 ent-FoodMealCubancarp = Kubanischer Karpfen
-    .desc = Ein grifftastisches Sandwich, das deine Zunge brennt und es dann taub lässt!
+    .desc = Ein grifftastisches Sandwich, das deine Zunge brennen und dann taub werden lässt!
 
 ent-FoodMealCornedbeef = Corned Beef und Kohl
-    .desc = Jetzt kannst du dich wie ein echter Tourist fühlen, der in Irland Urlaub macht.
+    .desc = Jetzt kannst du dich wie ein echter Tourist im Irland-Urlaub fühlen.
 
 ent-FoodMealBearsteak = Filet-Migrawr
-    .desc = Weil Bärenessen nicht männlich genug war.
+    .desc = Weil Bärenfutter nicht männlich genug war.
 
 ent-FoodMealPigblanket = Schwein in einer Decke
-    .desc = Eine winzige Wurst, eingewickelt in ein blättriges, butteriges Brötchen. Befreie dieses Schwein aus seinem Deckengefängnis, indem du es isst.
+    .desc = Eine winzige Wurst im blättrigen, buttrigen Teigmantel. Befreie das Schweinchen aus seinem Deckengefängnis, indem du es isst.
 
 ent-FoodMealRibs = bbq-Rippen
-    .desc = BBQ-Rippen, in einer gesunden BBQ-Sauce überzogen. Die am wenigsten vegane Sache, die es je gab.
+    .desc = BBQ-Rippen in einer gesunden BBQ-Sauce. Das am wenigsten vegane Ding aller Zeiten.
 
 ent-FoodMealEggsbenedict = Eier benedict
-    .desc = Es gibt nur ein Ei darauf, wie unhöflich.
+    .desc = Da ist nur ein Ei drauf, wie unhöflich.
 
 ent-FoodMealOmelette = Käse-Omelett
     .desc = Käse.
 
 ent-FoodMealFriedegg = gebratenes Ei
-    .desc = Ein gebratenes Ei mit einem Hauch von Salz und Pfeffer.
+    .desc = Ein Spiegelei mit einer Prise Salz und Pfeffer.
 
 ent-FoodMealMilkape = Milchaffen
     .desc = König des dichten Dschungels.
 
 ent-FoodMealMemoryleek = Gedächtnislauge
-    .desc = Dies sollte dein Gedächtnis auffrischen.
+    .desc = Das sollte dein Gedächtnis auffrischen.
 
 ent-DisgustingSweptSoup = Salzige süße Miso-Cola-Suppe
     .desc = Jesus Christus.
 
 ent-FoodMealQueso = queso
-    .desc = Eine klassische Tauchsauce, mit der du nichts falsch machen kannst.
+    .desc = Ein klassischer Dip, mit dem man nichts falsch machen kann.
 
 ent-FoodMealSashimi = Sashimi
-    .desc = Sein Geschmack kann nur als "exotisch" bezeichnet werden. Aber die Vergiftung? Das ist ziemlich üblich.
+    .desc = Sein Geschmack ist nur als „exotisch“ zu beschreiben. Aber die Vergiftung? Die ist ziemlich üblich.
 
 ent-FoodMealEnchiladas = Enchiladas
 
 ent-FoodSaladWatermelonFruitBowl = Melonenfruchtschale
-    .desc = Der einzige Salat, in dem du die Schüssel essen kannst.
+    .desc = Der einzige Salat, bei dem du die Schüssel mitessen kannst.
 
 ent-FoodMealCornInButter = Mais in Butter
-    .desc = Butterig.
+    .desc = Buttrig.

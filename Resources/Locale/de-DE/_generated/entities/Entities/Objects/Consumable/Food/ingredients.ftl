@@ -23,7 +23,7 @@ ent-ReagentContainerSugarSmall = Zuckerpackung
     .desc = Eine Packung leckeren Weltraumzuckers.
 
 ent-ReagentContainerOliveoil = Olivenöl
-    .desc = Olivenöl. Aus dem Weltraum Oliven vermutlich.
+    .desc = Olivenöl. Vermutlich aus Weltraumoliven.
 
 ent-ReagentContainerMayo = Mayonnaise
     .desc = Flasche Mayonnaise.
@@ -32,10 +32,10 @@ ent-FoodDough = Teig
     .desc = Ein Stück Teig.
 
 ent-FoodDoughSlice = Teigscheiben
-    .desc = Ein Stück Teig. Kann zu einem Brötchen gekocht werden.
+    .desc = Ein Stück Teig. Kann zu einem Brötchen gebacken werden.
 
 ent-FoodDoughRope = Teigseil
-    .desc = Eine dünne Nudel Teig. Kann zu einem Bagel gekocht werden.
+    .desc = Eine dünne Teigrolle. Kann zu einem Bagel gebacken werden.
 
 ent-FoodDoughCornmeal = Maismehlteig
     .desc = Ein Stück Maismehlteig.
@@ -50,7 +50,7 @@ ent-FoodDoughTortillaSlice = Tortilla-Teigscheiben
     .desc = Eine Scheibe Tortillateig.
 
 ent-FoodDoughTortillaFlat = abgeflachter Tortillateig
-    .desc = Eine abgeflachte Scheibe Tortillateig, koche dies, um eine Tacoshell zu bekommen.
+    .desc = Eine flache Scheibe Tortillateig; gar sie, um eine Taco-Schale zu erhalten.
 
 ent-FoodDoughCotton = Baumwollteig
     .desc = Ein Stück Stoffteig.
@@ -59,16 +59,16 @@ ent-FoodDoughCottonSlice = Baumwollteigscheiben
     .desc = Ein Stück Baumwollteig.
 
 ent-FoodDoughCottonRope = Baumwollteigseil
-    .desc = Eine dünne Nudel aus Baumwollteig. Kann zu einem Baumwollbagel gekocht werden.
+    .desc = Eine dünne Rolle Baumwollteig. Kann zu einem Baumwoll-Bagel gebacken werden.
 
 ent-FoodDoughPastryBaseRaw = Rohgebäck
-    .desc = Muss vor dem Gebrauch gekocht werden.
+    .desc = Muss vor dem Verzehr gegart werden.
 
 ent-FoodDoughPastryBase = Gebäckbasis
-    .desc = Eine Basis für jedes selbst respektierende Gebäck.
+    .desc = Eine Grundlage für jedes Gebäck mit Selbstachtung.
 
 ent-FoodDoughPie = Kuchenteig
-    .desc = Koche es, um einen Kuchen zu bekommen.
+    .desc = Backe es, um einen Kuchen zu erhalten.
 
 ent-FoodDoughFlat = flacher Teig
     .desc = Ein abgeflachter Teig.
@@ -80,43 +80,43 @@ ent-FoodDoughPizzaBaked = Pizzabrot
     .desc = Füge Zutaten hinzu, um eine Pizza zu machen.
 
 ent-FoodCakeBatter = Kuchenteig
-    .desc = Koche es, um einen Kuchen zu bekommen.
+    .desc = Backe es, um einen Kuchen zu erhalten.
 
 ent-FoodButter = Stück Butter
-    .desc = Ein Stock von köstlicher, goldener, fettiger Güte.
+    .desc = Eine Stange köstlicher, goldener, fettiger Güte.
 
 ent-FoodButterSlice = Butterscheiben
-    .desc = Ein Klaps der köstlichen, goldenen, fettigen Güte.
+    .desc = Ein Klacks köstlicher, goldener, fettiger Güte.
 
 ent-FoodCannabisButter = Stück Cannabisbutter
-    .desc = Füge dies zu deinen Lieblingsbackwaren für eine Irie-Zeit hinzu.
+    .desc = Gib das zu deinen Lieblingsbackwaren für eine entspannte Zeit.
 
 ent-FoodCheese = Käserad
-    .desc = Ein großes Rad mit köstlichem Cheddar.
+    .desc = Ein großer Laib köstlicher Cheddar.
 
 ent-FoodCheeseSlice = „Käse(n)
-    .desc = Ein Keil aus köstlichem Cheddar. Das Käserad, aus dem es geschnitten wurde, kann nicht weit gegangen sein.
+    .desc = Ein Keil köstlicher Cheddar. Der Käselaib, aus dem er geschnitten wurde, kann nicht weit gekommen sein.
 
 ent-FoodChevre = chèvre log
-    .desc = Ein weiches Protokoll von cremigem Chèvre.
+    .desc = Eine weiche Rolle cremiger Chèvre.
 
 ent-FoodChevreSlice = chèvre disc
-    .desc = Eine kleine Scheibe von cremigen Chèvre. Ein idealer Schmuck für französische Beilagen.
+    .desc = Eine kleine Scheibe cremiger Chèvre. Eine ideale Garnitur für französische Beilagen.
 
 ent-FoodTofu = Tofu
-    .desc = Solider weißer Block mit einem subtilen Geschmack.
+    .desc = Fester weißer Block mit dezentem Geschmack.
 
 ent-FoodTofuSlice = Tofu-Scheibe
-    .desc = Ein Stück Tofu. Inhaltsstoff verschiedener vegetarischer Gerichte.
+    .desc = Ein Stück Tofu. Zutat verschiedener vegetarischer Gerichte.
 
 ent-FoodBadRecipe = Verbrannte Masse
-    .desc = Jemand sollte dafür vom Koch degradiert werden.
+    .desc = Dafür sollte jemand vom Koch degradiert werden.
 
 ent-FoodCocoaBeans = Kakaobohnen
     .desc = Man kann nie zu viel Schokolade haben!
 
 ent-FoodCroissantRaw = Rohes Croissant
-    .desc = Buttery, flaky Güte wartet auf geschehen.
+    .desc = Buttrige, blättrige Köstlichkeit, die nur darauf wartet, zu passieren.
 
 ent-FoodCroissantRawCotton = Rohes Croissant aus Baumwolle
-    .desc = Butterige, blättrige, faserige Güte wartet darauf, zu passieren.
+    .desc = Buttrige, blättrige, faserige Köstlichkeit, die nur darauf wartet, zu passieren.

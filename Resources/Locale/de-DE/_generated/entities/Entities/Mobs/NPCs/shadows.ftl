@@ -1,2 +1,2 @@
 ent-MobCatShadow = Schattenkatze
-    .desc = Ein schönes Stück Dunkelheit. Hoffe, er bringt dir keinen Fluch.
+    .desc = Ein schönes Stück Dunkelheit. Hoffentlich bringt er dir keinen Fluch.
