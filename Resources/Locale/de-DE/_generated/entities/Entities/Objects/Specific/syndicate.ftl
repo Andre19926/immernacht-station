@@ -35,4 +35,4 @@ ent-BaseUplinkRadioDebug = Syndicate Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
 ent-BaseUplinkContractor = Auftragnehmer Uplink
-    .desc = Ein Handheld-Terminal, das Zugriff auf den Gildenladen und das Bounty Board bietet.
+    .desc = Ein Handterminal mit Zugriff auf den Gildenladen und das Kopfgeldbrett.

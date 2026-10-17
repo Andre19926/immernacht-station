@@ -1,2 +1,2 @@
 ent-PetCarrier = Heimtiertransporter
-    .desc = Ermöglicht es, große Tiere bequem zu transportieren. Es riecht vage nach Toilettenwasser und Sprengstoff.
+    .desc = Ermöglicht den bequemen Transport großer Tiere. Riecht vage nach Toilettenwasser und Sprengstoff.

@@ -1,20 +1,20 @@
 ent-MonkeyCubeBox = Affenwürfelbox
-    .desc = Affenwürfel der Marke Drymate. Füge einfach Wasser hinzu!
+    .desc = Affenwürfel der Marke Drymate. Einfach Wasser hinzufügen!
 
 ent-MonkeyCubeWrapped = Affenwürfel
-    .desc = Entpacke dies, um einen Affenwürfel zu bekommen.
+    .desc = Auspacken, um einen Affenwürfel zu erhalten.
 
 ent-KoboldCubeBox = Kobold Cube Box
-    .desc = Kondensierte Kobolde in einem Würfel. Füge einfach Wasser hinzu!
+    .desc = Kondensierte Kobolde in einem Würfel. Einfach Wasser hinzufügen!
 
 ent-VariantCubeBox = Variante Cube Box
-    .desc = Sowohl Koboldwürfel als auch Affenwürfel. Füge einfach Wasser hinzu!
+    .desc = Sowohl Koboldwürfel als auch Affenwürfel. Einfach Wasser hinzufügen!
 
 ent-KoboldCubeWrapped = Kobold-Würfel
-    .desc = Entpacke dies, um einen Kobold-Würfel zu erhalten.
+    .desc = Auspacken, um einen Koboldwürfel zu erhalten.
 
 ent-SyndicateSpongeBox = Affenwürfelbox
-    .desc = Affenwürfel der Marke Drymate. Füge einfach Wasser hinzu!
+    .desc = Affenwürfel der Marke Drymate. Einfach Wasser hinzufügen!
 
 ent-SyndicateSpongeWrapped = Affenwürfel
-    .desc = Entpacke dies, um einen Affenwürfel zu bekommen.
+    .desc = Auspacken, um einen Affenwürfel zu erhalten.

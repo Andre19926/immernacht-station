@@ -8,7 +8,7 @@ ent-ResearchDisk10000 = Forschungspunktscheibe (10000)
     .desc = Eine Festplatte für den R&D-Server mit 10000 Punkten.
 
 ent-ResearchDiskDebug = Forschungspunktscheibe
-    .desc = Eine Festplatte für den R & D-Server, die alle Punkte enthält, die du jemals benötigen könntest.
+    .desc = Eine Festplatte für den R&D-Server mit allen Punkten, die du je brauchen könntest.
 
 ent-TechnologyDisk = Technologiediskette
     .desc = Eine Festplatte für den R&D-Server mit Forschungstechnologie.

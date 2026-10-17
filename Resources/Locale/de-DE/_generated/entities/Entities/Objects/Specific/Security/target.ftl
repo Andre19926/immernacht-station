@@ -1,11 +1,11 @@
 ent-TargetHuman = menschliches Ziel
-    .desc = Ein Schießziel. Dieser ist ein Mensch.
+    .desc = Eine Zielscheibe. Diese stellt einen Menschen dar.
 
 ent-TargetSyndicate = Konsortialziel
-    .desc = Ein Schießziel. Dieser ist ein Syndicate-Agent.
+    .desc = Eine Zielscheibe. Diese stellt einen Syndicate-Agenten dar.
 
 ent-TargetClown = Clownziel
-    .desc = Ein Schießziel. Dieser ist ein Clown.
+    .desc = Eine Zielscheibe. Diese stellt einen Clown dar.
 
 ent-TargetStrange = seltsames Ziel
-    .desc = Ein Schießziel. Du bist dir nicht ganz sicher, was das ist, aber es scheint extra robust zu sein.
+    .desc = Eine Zielscheibe. Du bist dir nicht ganz sicher, was das ist, aber sie scheint extra robust zu sein.

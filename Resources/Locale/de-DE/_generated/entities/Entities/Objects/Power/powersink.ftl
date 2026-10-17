@@ -1,2 +1,2 @@
 ent-PowerSink = Stromsenke
-    .desc = Entzieht immense Mengen an Strom aus dem Netz.
+    .desc = Zieht enorme Mengen an Strom aus dem Stromnetz.

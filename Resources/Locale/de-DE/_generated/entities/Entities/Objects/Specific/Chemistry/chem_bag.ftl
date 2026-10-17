@@ -1,2 +1,2 @@
 ent-ChemBag = Chemiebeutel
-    .desc = Eine Tasche zur Aufbewahrung von Chemieprodukten wie Pillen, Pillenkanistern, Flaschen und Spritze.
+    .desc = Eine Tasche zur Aufbewahrung chemischer Produkte wie Pillen, Pillendosen, Flaschen und Spritzen.

@@ -8,7 +8,7 @@ ent-DefibrillatorOneHandedUnpowered = Defibrillator
     .desc = KLAR! Zzzzat!
 
 ent-DefibrillatorCompact = Kompaktdefibrillator
-    .desc = Jetzt in lustiger Größe!
+    .desc = Jetzt in Spaßgröße!
 
 ent-DefibrillatorSyndicate = Interdyn-Defibrillator
     .desc = Dient nebenbei als Selbstverteidigungswaffe gegen Kriegsverbrechen.

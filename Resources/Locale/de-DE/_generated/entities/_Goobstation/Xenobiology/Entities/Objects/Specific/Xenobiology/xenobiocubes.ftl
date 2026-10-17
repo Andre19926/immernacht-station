@@ -11,4 +11,4 @@ ent-SlimeCubeWrappedSyndie = Syndicate-Schleimwürfel umwickelt
     .desc = Entpacke dies, um einen Schleimpubus zu erhalten.
 
 ent-SlimeCube = Schleimwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!

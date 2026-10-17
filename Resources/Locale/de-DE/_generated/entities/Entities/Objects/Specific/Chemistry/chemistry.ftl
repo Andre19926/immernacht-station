@@ -23,28 +23,28 @@ ent-BeakerSmallLace = Becherglas
     .desc = Fasst eine mittlere Menge Chemikalien und Lösungen.
 
 ent-LargeBeaker = großes Becherglas
-    .desc = Wird verwendet, um eine große Menge an Chemikalien oder Lösungen zu enthalten.
+    .desc = Fasst eine große Menge an Chemikalien oder Lösungen.
 
 ent-CryostasisBeaker = Kryostase Becherglas
-    .desc = Wird verwendet, um Chemikalien oder Lösungen ohne Reaktionen zu enthalten.
+    .desc = Fasst Chemikalien oder Lösungen, ohne dass sie reagieren.
 
 ent-BluespaceBeaker = bluespace Becherglas
     .desc = Angetrieben durch experimentelle Bluespace-Technologie.
 
 ent-Dropper = Tröpfchen
-    .desc = Wird verwendet, um kleine Mengen chemischer Lösung zwischen Behältern zu übertragen.
+    .desc = Dient dazu, kleine Mengen chemischer Lösung zwischen Behältern zu übertragen.
 
 ent-BorgDropper = Hydraulikpipette
-    .desc = Modernste hydraulische Dropper für Cyborgs gebaut. Es verfügt über eine höhere Kapazität als handbetriebene Dropper, die 15 Einheiten Flüssigkeit aufnehmen können.
+    .desc = Modernster hydraulischer Tropfer für Cyborgs. Er fasst mehr als handbetriebene Tropfer, die 15 Einheiten Flüssigkeit aufnehmen.
 
 ent-Syringe = Spritze
     .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
 ent-SyringeBluespace = bluespace Spritze
-    .desc = Injektion mit fortschrittlicher Bluespace-Technologie.
+    .desc = Injektion mittels fortschrittlicher Bluespace-Technologie.
 
 ent-SyringeCryostasis = Cryostase Spritze
-    .desc = Eine verbesserte Spritze verwendet, um Chemikalien oder Lösungen ohne Reaktionen enthalten.
+    .desc = Eine verbesserte Spritze, die Chemikalien oder Lösungen enthält, ohne dass sie reagieren.
 
 ent-Pill = Pille
     .desc = Es ist kein Zäpfchen.

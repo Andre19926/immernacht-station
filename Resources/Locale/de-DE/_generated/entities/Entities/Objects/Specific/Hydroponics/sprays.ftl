@@ -2,7 +2,7 @@ ent-PlantBGoneSpray = Plant-B-Gone
     .desc = Tötet diese lästigen Unkräuter!
 
 ent-WeedSpray = Unkrautspray
-    .desc = Es ist eine giftige Mischung, in Sprayform, um kleine Unkräuter zu töten.
+    .desc = Eine giftige Mischung in Sprayform, um kleines Unkraut zu töten.
 
 ent-PestSpray = Schädlingsspray
-    .desc = Es ist ein Schädlingsbeseitiger Spray! Nicht einatmen!
+    .desc = Ein Schädlingsbekämpfungsspray! Nicht einatmen!

@@ -2,7 +2,7 @@ ent-Hypospray = Hypospray
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten an Patienten.
 
 ent-SyndiHypo = Gorlex hypospray
-    .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten. Reverse-Engineered von Nanotrasen Designs, produziert Cybersun diese in begrenzten Mengen für Gorlex Marauders 'Leichen.
+    .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten. Von Cybersun per Reverse Engineering aus Nanotrasen-Designs nachgebaut und in begrenzten Mengen für die Leichen der Gorlex-Marodeure produziert.
 
 ent-BorgHypo = Cyborg-Hypo
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten an Patienten. Dieses integrierte Modell ist auf die Verwendung durch medizinische Cyborgs spezialisiert.
@@ -11,55 +11,55 @@ ent-JetInjector = Strahlinjektor
     .desc = Ein steriler Injektor für die bequeme Verabreichung von Medikamenten an Patienten.
 
 ent-AdvancedJetInjector = fortgeschrittener Strahlinjektor
-    .desc = Ein unberührter, modischer, hochwertiger Injektor. Ermöglicht eine schnellere Injektion mit einer etwas größeren Kapazität.
+    .desc = Ein makelloser, modischer, hochwertiger Injektor. Ermöglicht schnellere Injektion bei etwas größerer Kapazität.
 
 ent-AdminHypo = experimentelle Hypospray
-    .desc = Die ultimative Anwendung der Bluespace-Technologie und schnelle chemische Verabreichung.
+    .desc = Die ultimative Anwendung von Bluespace-Technologie und schneller chemischer Verabreichung.
 
 ent-ChemicalMedipen = Chemische Medipen
-    .desc = Eine Einzeldosis, nicht nachfüllbare Medipen.
+    .desc = Ein nicht nachfüllbarer Einweg-Medipen.
 
 ent-EmergencyMedipen = Notfallmedipen
     .desc = Ein schneller und sicherer Weg, kleinere Verletzungen zu heilen, Blutungen zu stoppen und Patienten für Personal ohne fortgeschrittene medizinische Kenntnisse zu stabilisieren.
 
 ent-AntiPoisonMedipen = Gift Autoinjektor
-    .desc = Eine schnelle Dosis Anti-Gift. Verursacht extremen Stress, wenn er mit anderen Medikamenten gemischt wird.
+    .desc = Eine schnelle Dosis Gegengift. Verursacht extremen Stress, wenn es mit anderen Medikamenten gemischt wird.
 
 ent-BruteAutoInjector = Autoinjektor gegen physische Schäden
-    .desc = Eine schnelle Dosis von Bicaridin, Salicylsäure, Tranexamsäure und Tramadol, die für Kampfanwendungen bestimmt ist. Verwendung von mehreren sehr empfohlen gegen.
+    .desc = Eine schnelle Dosis Bicaridin, Salicylsäure, Tranexamsäure und Tramadol für den Kampfeinsatz. Von der Verwendung mehrerer wird dringend abgeraten.
 
 ent-BurnAutoInjector = Brennender Autoinjektor
-    .desc = Eine schnelle Dosis von Oxandrolon, Leporazin und Tramadol, die für Kampfanwendungen bestimmt ist.
+    .desc = Eine schnelle Dosis Oxandrolon, Leporazin und Tramadol für den Kampfeinsatz.
 
 ent-RadAutoInjector = Rad-Autoinjektor
-    .desc = Eine Einzeldosis, nicht nachfüllbares Medipen, das Arithazin und Bicaridin enthält und zur schnellen und einfachen Behandlung von Strahlenvergiftungen verwendet wird.
+    .desc = Ein nicht nachfüllbarer Einweg-Medipen mit Arithazin und Bicaridin zur schnellen, einfachen Behandlung von Strahlenvergiftung.
 
 ent-PunctAutoInjector = Punkturase-Autoinjektor
-    .desc = Eine Einzeldosis, nicht nachfüllbares Medipen, das Punkturase und Tranexamsäure enthält und zur schnellen und einfachen Behandlung von Stichwunden verwendet wird. Häufig als Kampfmedizin verwendet.
+    .desc = Ein nicht nachfüllbarer Einweg-Medipen mit Punkturase und Tranexamsäure zur schnellen, einfachen Behandlung von Stichwunden. Häufig als Kampfmedizin verwendet.
 
 ent-PyraAutoInjector = Pyrazin-Autoinjektor
-    .desc = Eine schnelle Dosis von Pyrazin und Oxandrolon, die für Kampfanwendungen bestimmt ist.
+    .desc = Eine schnelle Dosis Pyrazin und Oxandrolon für den Kampfeinsatz.
 
 ent-AirlossAutoInjector = Airlos Autoinjektor
-    .desc = Eine Einzeldosis, nicht nachfüllbare Medipen mit Kochsalzlösung und Dexalin plus, verwendet, um schnell und einfach Blutverlust und Erstickung zu behandeln.
+    .desc = Ein nicht nachfüllbarer Einweg-Medipen mit Kochsalzlösung und Dexalin Plus zur schnellen, einfachen Behandlung von Blutverlust und Ersticken.
 
 ent-SpaceMedipen = Umweltstabilisierung medipen
-    .desc = Enthält eine Mischung aus Chemikalien, die dich vorübergehend vor Niederdruckumgebungen schützt und deine Körpertemperatur stabilisiert.
+    .desc = Enthält eine Chemikalienmischung, die dich vorübergehend vor Niederdruckumgebungen schützt und deine Körpertemperatur stabilisiert.
 
 ent-Stimpack = Hyperzininjektor
-    .desc = Ein chemischer Injektor, der einen großen Schuss reines Hyperzin enthält. Denn wenn es Zeit ist, sich niederzuwerfen. Die Effekte dauern etwa 60 Sekunden.
+    .desc = Ein chemischer Injektor mit einer großen Dosis reinem Hyperzin. Denn wenn es Zeit ist, sich ins Getümmel zu stürzen. Die Wirkung hält etwa 60 Sekunden an.
 
 ent-StimpackMini = Hyperzin-Mikroinjektor
-    .desc = Ein chemischer Mikroinjektor, der einen kleinen Schuss reines Hyperzin enthält. Die Effekte dauern etwa 30 Sekunden.
+    .desc = Ein chemischer Mikroinjektor mit einer kleinen Dosis reinem Hyperzin. Die Wirkung hält etwa 30 Sekunden an.
 
 ent-CombatMedipen = Kampf gegen Medipen
-    .desc = Eine einzelne Dosis, nicht nachfüllbare Medipen mit einem chemischen Cocktail, der die meisten Formen von Schäden behandelt.
+    .desc = Ein nicht nachfüllbarer Einweg-Medipen mit einem chemischen Cocktail, der die meisten Schadensarten behandelt.
 
 ent-Hypopen = Stift
-    .desc = Ein dunkler Tintenschreiber.
+    .desc = Ein Stift mit dunkler Tinte.
 
 ent-HypopenBox = Hypopenbox
-    .desc = Eine kleine Box mit einem Hypopen. Die Verpackung zerfällt beim Öffnen und hinterlässt keine Beweise.
+    .desc = Eine kleine Schachtel mit einem Hypopen. Die Verpackung zerfällt beim Öffnen und hinterlässt keine Beweise.
 
 ent-WehMedipen = weh-Autoinjektor
-    .desc = Ein nicht nachfüllbares Medipen mit mehreren Dosen von Weh.
+    .desc = Ein nicht nachfüllbarer Medipen mit mehreren Dosen Weh.

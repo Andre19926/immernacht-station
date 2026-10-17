@@ -1,17 +1,17 @@
 ent-MortarAndPestle = Mörser und Stößel
-    .desc = Wird zum Schleifen kleiner Mengen von Objekten verwendet.
+    .desc = Zum Mahlen kleiner Mengen von Gegenständen.
 
 ent-MortarAndPestleMakeshift = Behelfsmörtel und Stößel
-    .desc = Wird zum Schleifen kleiner Mengen von Objekten verwendet. Unterlegene Version aus Holz.
+    .desc = Zum Mahlen kleiner Mengen von Gegenständen. Minderwertige Version aus Holz.
 
 ent-HandheldJuicer = Handsäfte
-    .desc = Wird zum Entsaften kleiner Mengen von Objekten verwendet.
+    .desc = Zum Entsaften kleiner Mengen von Gegenständen.
 
 ent-HandheldJuicerMakeshift = Behelfssafter
-    .desc = Wird zum Entsaften kleiner Mengen von Objekten verwendet. Unterlegene Version aus Holz.
+    .desc = Zum Entsaften kleiner Mengen von Gegenständen. Minderwertige Version aus Holz.
 
 ent-IncompleteMortarAndPestle = unvollständiger Mörser und Stößel
     .desc = Ein paar zusammengeklebte Holzbretter.
 
 ent-IncompleteHandheldJuicer = unvollständiger Handsäfter
-    .desc = Ein bisschen Holz und Plastik stecken zusammen.
+    .desc = Ein bisschen Holz und Kunststoff, zusammengesteckt.

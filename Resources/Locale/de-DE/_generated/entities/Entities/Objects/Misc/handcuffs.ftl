@@ -1,17 +1,17 @@
 ent-Handcuffs = Handschellen
-    .desc = Wird verwendet, um Kriminelle und andere Arschlöcher zu verhaften.
+    .desc = Dient dazu, Kriminelle und andere Arschlöcher zu verhaften.
 
 ent-Cablecuffs = Behelfshandschellen
-    .desc = Hausgemachte Handschellen aus Ersatzkabeln.
+    .desc = Selbstgebaute Handschellen aus Ersatzkabeln.
 
 ent-Zipties = Zipties
-    .desc = Harte Einweg-Kunststoff-Zipties, ideal für die Zurückhaltung rowdy Gefangenen.
+    .desc = Harte Einweg-Kabelbinder aus Kunststoff, ideal, um randalierende Gefangene ruhigzustellen.
 
 ent-ZiptiesBroken = Gebrochene Zipties
-    .desc = Diese Zipties sehen aus, als hätten sie versucht, die falschen Kabel zu verwalten.
+    .desc = Diese Kabelbinder sehen aus, als hätten sie versucht, die falschen Kabel zu bändigen.
 
 ent-CablecuffsBroken = Kabelbruch
-    .desc = Diese Kabel sind an mehreren Stellen kaputt und scheinen nicht sehr nützlich zu sein.
+    .desc = Diese Kabel sind an mehreren Stellen gerissen und scheinen nicht sehr nützlich zu sein.
 
 ent-ClothingOuterStraightjacket = Zwangsjacke
-    .desc = Verwendet, um diejenigen zurückzuhalten, die sich selbst oder anderen Schaden zufügen können.
+    .desc = Dient dazu, Leute zurückzuhalten, die sich selbst oder anderen Schaden zufügen könnten.

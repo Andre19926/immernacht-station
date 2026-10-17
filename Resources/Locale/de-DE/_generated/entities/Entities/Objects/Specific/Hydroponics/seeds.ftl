@@ -1,7 +1,7 @@
 ent-WheatSeeds = Weizensamen
 
 ent-MeatwheatSeeds = Fleischweizensamen
-    .desc = Wenn du jemals einen Vegetarier zum Wahnsinn fahren wolltest, hier ist wie.
+    .desc = Wenn du jemals einen Vegetarier in den Wahnsinn treiben wolltest: Hier ist, wie.
 
 ent-OatSeeds = Hafersamen
 
@@ -27,7 +27,7 @@ ent-LimeSeeds = Limettensamen
 ent-OrangeSeeds = Orangenkerne
 
 ent-ExtradimensionalOrangeSeeds = Extradimensionale-Orange-Samen
-    .desc = Polygone Samen.
+    .desc = Polygon-Samen.
 
 ent-PineappleSeeds = Ananassamen
 
@@ -73,10 +73,10 @@ ent-RainbowCannabisSeeds = Regenbogen-Cannabissamen
     .desc = Mit Handschuhen anfassen.
 
 ent-NettleSeeds = Nesselsaatgut
-    .desc = Handle mit Handschuhen.
+    .desc = Nur mit Handschuhen anfassen.
 
 ent-DeathNettleSeeds = Todesnessel-Samen
-    .desc = Griff mit sehr dicken Handschuhen.
+    .desc = Nur mit sehr dicken Handschuhen anfassen.
 
 ent-ChiliSeeds = Chilisamen
 
@@ -87,7 +87,7 @@ ent-AloeSeeds = Aloe-Saatgut
     .desc = Lindernd.
 
 ent-PoppySeeds = Mohnsamen
-    .desc = Iss nicht innerhalb von 72 Stunden nach einem Drogentest.
+    .desc = Nicht innerhalb von 72 Stunden vor einem Drogentest verzehren.
 
 ent-LilySeeds = Liliensamen
     .desc = Diese Samen wachsen zu Lilien.
@@ -102,19 +102,19 @@ ent-AmbrosiaDeusSeeds = Ambrosia-deus-Samen
     .desc = Eine Heilpflanze für die Götter selbst.
 
 ent-GalaxythistleSeeds = Galaxisthistelsamen
-    .desc = Bürsten von sternennachten.
+    .desc = Streift an Sternennächten vorbei.
 
 ent-GlasstleSeeds = Glasdistel-Samen
-    .desc = Narben von düsteren Nächten.
+    .desc = Narben aus düsteren Nächten.
 
 ent-FlyAmanitaSeeds = Fliegen-Amanita-Sporen
-    .desc = Der ikonische, extrem tödliche Pilz, der für rein ornamentale Zwecke verwendet wird.
+    .desc = Der ikonische, extrem tödliche Pilz, der nur zu Zierzwecken verwendet wird.
 
 ent-GatfruitSeeds = Gafruitsamen
-    .desc = Das sind keine Peashooter.
+    .desc = Das sind keine Erbsenschießer.
 
 ent-OnionSeeds = Zwiebelsamen
-    .desc = Kein Schalot.
+    .desc = Keine Schalotte.
 
 ent-RiceSeeds = Reissamen
 
@@ -138,10 +138,10 @@ ent-CocoaSeeds = Kakaosamen
 ent-BerrySeeds = Beerensamen
 
 ent-BungoSeeds = Bungosamen
-    .desc = Iss die Gruben nicht.
+    .desc = Iss die Kerne nicht.
 
 ent-PeaSeeds = Erbsensamen
-    .desc = Diese bescheidenen Pflanzen waren einst ein wichtiger Teil in der Erforschung der Genetik.
+    .desc = Diese bescheidenen Pflanzen waren einst ein wichtiger Bestandteil der Genetikforschung.
 
 ent-WorldPeaSeeds = Weltfrieden-Erbsensamen
     .desc = Diese ziemlich großen Samen geben einen beruhigenden blauen Schein ab.

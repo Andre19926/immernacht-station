@@ -26,4 +26,4 @@ ent-EvidenceMarkerNine = Beweismarker
     .desc = Eine nummerierte gelbe Markierung, nützlich zum Kennzeichnen von Beweisen an einem Tatort.
 
 ent-BoxEvidenceMarkers = Nachweismarkierungsbox
-    .desc = Eine Packung mit nummerierten gelben Markierungen, nützlich für die Kennzeichnung von Beweisen an einem Tatort.
+    .desc = Eine Packung nummerierter gelber Markierungen, nützlich zur Kennzeichnung von Beweisen an einem Tatort.

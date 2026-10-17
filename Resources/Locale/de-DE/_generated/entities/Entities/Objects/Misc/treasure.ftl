@@ -1,20 +1,20 @@
 ent-TreasureDatadiskEncrypted = Verschlüsselte DataDisk
-    .desc = Eine alte Datenplatte. Jemand, der schlauer ist als du, könnte es entschlüsseln und etwas Saftiges lernen. Alles, was du tun kannst, ist es zu verkaufen.
+    .desc = Eine alte Datenplatte. Jemand Schlaueres als du könnte sie entschlüsseln und etwas Saftiges lernen. Du kannst sie nur verkaufen.
 
 ent-TreasureHardDiskDrive = Festplattenlaufwerk
-    .desc = Ein Festplattenlaufwerk für alte Erdtechnologie, circa 1980. Es gibt wahrscheinlich eine Art Sammler, der vielleicht ihre Pfoten darauf bekommen möchte.
+    .desc = Ein Festplattenlaufwerk aus alter Erdtechnologie, ca. 1980. Es gibt bestimmt irgendeinen Sammler, der gern seine Pfoten darauf bekommen würde.
 
 ent-TreasureFlopDiskDrive = Diskettenlaufwerk
-    .desc = Ein Laufwerk zum Auslesen von Informationen von Disketten. Schande, dass die einzigen Dinge, die heutzutage auf ihnen gespeichert sind, Nukenoperationen sind.
+    .desc = Ein Laufwerk zum Auslesen von Disketten. Schade, dass heutzutage das Einzige, was darauf gespeichert ist, Atombombeneinsätze sind.
 
 ent-TreasureCDDrive = CD-Laufwerk
-    .desc = Ein Stück Technik zum Lesen von Daten von CDs. Heutzutage ist das nicht die nützlichste Sache, es sei denn, du planst, irgendwo zu fliegen.
+    .desc = Ein Gerät zum Lesen von CDs. Heutzutage nicht gerade das Nützlichste, es sei denn, du planst, irgendwohin zu fliegen.
 
 ent-TreasureCPUSupercharged = aufgeladene CPU
-    .desc = Eine Art von Super Alien Space Tech. Schade, dass heutzutage schon alle Computer mit CPUs ausgestattet sind.
+    .desc = Eine Art Super-Alien-Weltraumtechnik. Schade, dass heutzutage schon alle Computer mit CPUs ausgestattet sind.
 
 ent-TreasureSampleTube = Probenröhrchen
-    .desc = Eine Glasröhre mit einer Art Gänse darin. Sieht anfällig für Bruch aus.
+    .desc = Eine Glasröhre mit so etwas wie Gänsen darin. Sieht zerbrechlich aus.
 
 ent-TreasureCoinIron = Münze
     .desc = Ein flaches Stück Metall. Wäre es noch im Umlauf, hätte die Inflation es wertlos gemacht. Da es das nicht ist, ist es genug wert, um in einem Buch zu bleiben.

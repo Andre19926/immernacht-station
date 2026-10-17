@@ -164,7 +164,7 @@ ent-DetectiveIDCard = Detektiv-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-PrisonerIDCard = Gefangenen-ID-Karte
-    .desc = Eine einfach gedruckte ID-Karte für schmutzige Gefangene.
+    .desc = Eine schlicht gedruckte ID-Karte für schmutzige Gefangene.
 
 ent-CBURNIDcard = CBURN-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
@@ -185,4 +185,4 @@ ent-SeniorOfficerIDCard = Oberoffizier-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-UniversalIDCard = Universelle ID-Karte
-    .desc = Eine ID-Karte, die dir Zugang über deine wildesten Träume hinaus ermöglicht.
+    .desc = Eine ID-Karte, die dir Zugang über deine wildesten Träume hinaus verschafft.

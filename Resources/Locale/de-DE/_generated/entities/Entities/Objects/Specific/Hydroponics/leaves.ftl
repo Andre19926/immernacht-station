@@ -17,13 +17,13 @@ ent-GroundCannabisRainbow = Erdregenbogen-Cannabis
     .desc = Gemahlenes Regenbogen-Cannabis, bereit, dich auf eine Reise mitzunehmen.
 
 ent-LeavesTea = Teeblätter
-    .desc = Kann ausgetrocknet werden, um Tee zu machen.
+    .desc = Kann getrocknet werden, um Tee zu machen.
 
 ent-LeavesTeaDried = getrocknete Teeblätter
     .desc = Getrocknete Teeblätter, bereit zum Mahlen.
 
 ent-LeavesTobacco = Tabakblätter
-    .desc = Trockne sie aus, um etwas zu rauchen.
+    .desc = Trockne sie, um etwas zum Rauchen zu bekommen.
 
 ent-LeavesTobaccoDried = getrocknete Tabakblätter
     .desc = Getrocknete Tabakblätter, bereit zum Mahlen.

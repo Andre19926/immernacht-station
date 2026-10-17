@@ -1,26 +1,26 @@
 ent-Ointment = Salbe
-    .desc = Wird verwendet, um diese bösen Verbrennungen zu behandeln. Weniger effektiv bei Verbrennungen.
+    .desc = Dient zur Behandlung übler Verbrennungen. Weniger wirksam bei Verätzungen.
 
 ent-Ointment1 = Salbe
-    .desc = Wird verwendet, um diese bösen Verbrennungen zu behandeln. Weniger effektiv bei Verbrennungen.
+    .desc = Dient zur Behandlung übler Verbrennungen. Weniger wirksam bei Verätzungen.
 
 ent-RegenerativeMesh = Regenerierende Maschen
-    .desc = Wird verwendet, um selbst die übelsten Verbrennungen zu behandeln. Auch wirksam gegen ätzende Verbrennungen.
+    .desc = Dient zur Behandlung selbst der übelsten Verbrennungen. Auch wirksam gegen Verätzungen.
 
 ent-OintmentAdvanced1 = Regenerierende Maschen
-    .desc = Wird verwendet, um selbst die übelsten Verbrennungen zu behandeln. Auch wirksam gegen ätzende Verbrennungen.
+    .desc = Dient zur Behandlung selbst der übelsten Verbrennungen. Auch wirksam gegen Verätzungen.
 
 ent-Brutepack = Quetschpackung
-    .desc = Eine therapeutische Gelpackung und Bandagen zur Behandlung von blunt-force Trauma.
+    .desc = Eine therapeutische Gelpackung mit Bandagen zur Behandlung stumpfer Traumata.
 
 ent-Brutepack1 = Quetschpackung
-    .desc = Eine therapeutische Gelpackung und Bandagen zur Behandlung von blunt-force Trauma.
+    .desc = Eine therapeutische Gelpackung mit Bandagen zur Behandlung stumpfer Traumata.
 
 ent-MedicatedSuture = Arzneinaht
-    .desc = Eine Naht, die in der Medizin getränkt ist, behandelt blunt-force Trauma effektiv und schließt Wunden.
+    .desc = Eine medikamentengetränkte Naht, die stumpfe Traumata wirksam behandelt und Wunden schließt.
 
 ent-BrutepackAdvanced1 = Arzneinaht
-    .desc = Eine Naht, die in der Medizin getränkt ist, behandelt blunt-force Trauma effektiv und schließt Wunden.
+    .desc = Eine medikamentengetränkte Naht, die stumpfe Traumata wirksam behandelt und Wunden schließt.
 
 ent-Bloodpack = Blutbeutel
     .desc = Enthält einen bahnbrechenden universellen Blutersatz, der durch die fortgeschrittene medizinische Wissenschaft von Nanotrasen geschaffen wurde.
@@ -29,19 +29,19 @@ ent-Bloodpack1 = Blutbeutel
     .desc = Enthält einen bahnbrechenden universellen Blutersatz, der durch die fortgeschrittene medizinische Wissenschaft von Nanotrasen geschaffen wurde.
 
 ent-Tourniquet = Aderpresse
-    .desc = Hört auf zu bluten! Hoffentlich.
+    .desc = Stoppt das Bluten! Hoffentlich.
 
 ent-Gauze = Gazerolle
-    .desc = Einige sterile Gaze um blutige Stümpfe zu wickeln.
+    .desc = Etwas sterile Gaze zum Umwickeln blutiger Stümpfe.
 
 ent-Gauze1 = Gazerolle
-    .desc = Einige sterile Gaze um blutige Stümpfe zu wickeln.
+    .desc = Etwas sterile Gaze zum Umwickeln blutiger Stümpfe.
 
 ent-AloeCream = Alo-Creme
     .desc = Eine aktuelle Creme für Verbrennungen.
 
 ent-HealingToolbox = heilender Werkzeugkasten
-    .desc = Ein leistungsstarker Werkzeugkasten mit robuster Energie. Es kann deine Wunden heilen und dich mit mörderischen Absichten füllen.
+    .desc = Ein leistungsstarker Werkzeugkasten voll robuster Energie. Er kann deine Wunden heilen und dich mit mörderischen Absichten erfüllen.
 
 ent-PillDexalin = Pille
     .desc = Es ist kein Zäpfchen.

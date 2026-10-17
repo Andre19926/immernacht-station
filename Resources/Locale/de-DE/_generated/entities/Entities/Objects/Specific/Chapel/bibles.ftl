@@ -5,10 +5,10 @@ ent-Bible = Bibel
     .desc = Neue Interstellare Version 2340.
 
 ent-BibleNecronomicon = Necronomicon
-    .desc = Es gibt eine Notiz: Klatuu, Verata, Nikto - Vergiss es nicht noch einmal!
+    .desc = Darauf steht eine Notiz: Klaatu, Verata, Nikto – Nicht noch einmal vergessen!
 
 ent-ActionBibleSummon = Sumpf bekannt
-    .desc = Beschwöre ein Vertrautes, das dir hilft und menschenähnliche Intelligenz gewinnt, die einst von einer Seele bewohnt wurde.
+    .desc = Beschwöre einen Vertrauten, der dir hilft und menschenähnliche Intelligenz erlangt, einst von einer Seele bewohnt.
 
 ent-BibleTanakh = Tanakh
     .desc = Für Gottes auserwählte Crewmitglieder.
@@ -20,19 +20,19 @@ ent-BibleDruid = Druidentablette
     .desc = Es ist das Geheimnis der Druiden!
 
 ent-BibleCommunistManifesto = Kommunistisches Manifest
-    .desc = Entferne die Maske der Menschheit aus dem Kapital.
+    .desc = Entferne die Maske der Menschlichkeit aus dem Kapital.
 
 ent-BibleSatanic = Satanische Bibel
-    .desc = Was könnte möglicherweise schief gehen?
+    .desc = Was könnte da schon schiefgehen?
 
 ent-BibleNarsie = Tom von Nar'sie
-    .desc = Was könnte schief gehen mit einem Buch mit Blut bedeckt?
+    .desc = Was könnte mit einem blutbedeckten Buch schon schiefgehen?
 
 ent-BibleNanoTrasen = Codex nanotrasimus
-    .desc = Ein bekanntes Buch, das die heiligen Arbeitsabläufe enthält.
+    .desc = Ein bekanntes Buch mit den heiligen Arbeitsabläufen.
 
 ent-BibleHonk = Die Freude der Honkmother
-    .desc = Oh große und glorreiche Mutter, Herrin der Wunder, Matrone der Maske und Frömmigkeiten, gesegnet ist sie unter uns Narren.
+    .desc = Oh große und glorreiche Mutter, Herrin der Wunder, Matrone der Maske und der Frömmigkeit, gesegnet sei sie unter uns Narren.
 
 ent-BibleRatvar = Tafel von Ratvar
-    .desc = Eine heilige Reliquie des Clockwork Cult, gesegnet von der Clockwork Justice, Ratvar.
+    .desc = Eine heilige Reliquie des Uhrwerkkults, gesegnet von der Uhrwerk-Gerechtigkeit, Ratvar.

@@ -1,50 +1,50 @@
 ent-HumanCube = Menschenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-DionaCube = Diona cube
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-FelinidCube = Felinidenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-GingerbreadCube = Lebkuchenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-MothCube = Mottenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-DwarfCube = Zwergwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-HarpyCube = Harpyiewürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-RodentiaCube = Rodentia-Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-ReptilianCube = Reptilien-Personenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-VulpkaninCube = Vulkaninkube
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-SlimePersonCube = Schleimwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-TajaranCube = Tajaran-Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-YowieCube = Yowie cube
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-VoxCube = Vox Cube
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-ShadowkinCube = Shadowkin-Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-ChitinidCube = Chitinidenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-FeroxiCube = Feroxiwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!

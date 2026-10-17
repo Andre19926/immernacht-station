@@ -1,14 +1,14 @@
 ent-Lamp = Leuchte
-    .desc = Eine lichtemittierende Vorrichtung.
+    .desc = Ein Leuchtgerät.
 
 ent-LampBanana = Bananenlampe
-    .desc = Ein lichtemittierendes Gerät, geformt wie eine Banane.
+    .desc = Ein Leuchtgerät in Bananenform.
 
 ent-LampGold = Schreibtischlampe
-    .desc = Ein lichtemittierendes Gerät, das auf einem Schreibtisch gut aussehen würde.
+    .desc = Ein Leuchtgerät, das auf einem Schreibtisch gut aussehen würde.
 
 ent-LampInterrogator = Interrogatorlampe
-    .desc = Ultrahelle Lampe für den schlechten Cop.
+    .desc = Ultrahelle Lampe für den bösen Cop.
 
 ent-Floodlight = Flutlicht
     .desc = Eine Stange mit starken montierten Lichtern darauf.

@@ -1,2 +1,2 @@
 ent-DefibrillatorCompactEmpty = Kompaktdefibrillator
-    .desc = Jetzt in lustiger Größe!
+    .desc = Jetzt in Spaßgröße!

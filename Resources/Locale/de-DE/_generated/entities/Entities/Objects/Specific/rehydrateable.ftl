@@ -1,41 +1,41 @@
 ent-MonkeyCube = Affenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-KoboldCube = Kobold-Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-CowCube = Kuhwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-GoatCube = Ziegenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-MothroachCube = Mottenschaben-Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-MoproachCube = Würfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-MouseCube = Mauswürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-CockroachCube = Kakerlakenwürfel
     .desc = Einfach Wasser hinzufü... oh Gott!
 
 ent-SpaceCarpCube = Karpfenwürfel
-    .desc = Füge einfach Wasser hinzu! Auf eigene Gefahr.
+    .desc = Einfach Wasser hinzufügen! Auf eigene Gefahr.
 
 ent-SpaceTickCube = Tick Cube
-    .desc = Füge einfach Wasser hinzu! Auf eigene Gefahr.
+    .desc = Einfach Wasser hinzufügen! Auf eigene Gefahr.
 
 ent-AbominationCube = Gräuelwürfel
-    .desc = Füge einfach Blut hinzu!
+    .desc = Einfach Blut hinzufügen!
 
 ent-DehydratedSpaceCarp = dehydrierter Weltraumkarpfen
-    .desc = Sieht aus wie ein Plüschspielzeugkarpfen, aber füge einfach Wasser hinzu und es wird ein echter Weltraumkarpfen!
+    .desc = Sieht aus wie ein Plüschkarpfen, aber einfach Wasser hinzufügen, und es wird ein echter Weltraumkarpfen!
 
 ent-SyndicateSponge = Affenwürfel
-    .desc = Füge einfach Wasser hinzu!
+    .desc = Einfach Wasser hinzufügen!
 
 ent-MopBucketCube = Mop-Eimerwürfel
-    .desc = Füge einfach Wasser hinzu! Und dann noch mehr Wasser!
+    .desc = Einfach Wasser hinzufügen! Und dann noch mehr Wasser!

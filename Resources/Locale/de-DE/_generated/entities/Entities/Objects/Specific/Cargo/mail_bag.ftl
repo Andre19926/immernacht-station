@@ -1,2 +1,2 @@
 ent-MailBag = Postbeutel
-    .desc = Eine Tasche zum Tragen von Post um die Station herum. Hergestellt aus gegerbten Raum tragen verstecken.
+    .desc = Eine Tasche zum Transport von Post auf der Station. Aus gegerbter Weltraumtierhaut gefertigt.

@@ -1,2 +1,2 @@
 ent-CandyBowl = Süßigkeitenschale
-    .desc = Greife so viel, wie du in deine Taschen passen kannst!
+    .desc = Greif so viel zu, wie in deine Taschen passt!

@@ -1,2 +1,2 @@
 ent-HandheldHealthAnalyzer = Gesundheitsanalysator
-    .desc = Ein Hand-Körper-Scanner, der in der Lage ist, wichtige Schild des Subjekts zu unterscheiden.
+    .desc = Ein handgehaltener Körperscanner, der die Vitalwerte des Patienten erfassen kann.

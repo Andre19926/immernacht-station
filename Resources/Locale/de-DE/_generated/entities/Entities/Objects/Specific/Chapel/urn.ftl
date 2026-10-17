@@ -1,2 +1,2 @@
 ent-Urn = Urnen
-    .desc = Speichern dich die Dead smart und Compact seit 2300.
+    .desc = Speichert dich tot, schlau und kompakt, seit 2300.

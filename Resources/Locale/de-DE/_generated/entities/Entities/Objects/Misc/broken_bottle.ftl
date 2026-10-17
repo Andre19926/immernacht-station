@@ -1,2 +1,2 @@
 ent-BrokenBottle = zerbrochene Flasche
-    .desc = In Space Glasgow wird dies als Gesprächsstarter bezeichnet.
+    .desc = In Space Glasgow nennt man das einen Gesprächsstarter.

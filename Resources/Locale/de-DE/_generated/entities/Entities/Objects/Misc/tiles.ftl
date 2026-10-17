@@ -293,40 +293,40 @@ ent-FloorTileItemLightAstroGrass = helles Astrogras
     .desc = Künstliches Gras, das Kabel verdeckt und sogar mit realistischen NanoTrimmings geliefert wird!
 
 ent-FloorTileItemAstroSnow = Astroschnee
-    .desc = Gefälschter Schnee, der so flauschig ist wie das echte Ding, während er leicht entfernbar ist!
+    .desc = Falscher Schnee, so flauschig wie das echte Ding, aber leicht zu entfernen!
 
 ent-FloorTileItemAstroIce = Astro-Eis
-    .desc = Gefälschtes Eis, das so rutschig ist wie das echte Ding, während es leicht entfernbar ist!
+    .desc = Falsches Eis, so rutschig wie das echte Ding, aber leicht zu entfernen!
 
 ent-FloorTileItemAstroAsteroidSand = Asteroiden-Astrosand
-    .desc = Fake Sand. Zum Glück ist es nicht so grob wie die reale Sache.
+    .desc = Falscher Sand. Zum Glück ist er nicht so ätzend wie echter.
 
 ent-FloorTileItemAstroAsteroidSandBorderless = randloser Asteroiden-Astrosand
-    .desc = Fake Sand. Zum Glück ist es nicht so grob wie die reale Sache.
+    .desc = Falscher Sand. Zum Glück ist er nicht so ätzend wie echter.
 
 ent-FloorTileItemAstroIronsand = Astro-Eisensand
-    .desc = Falscher roter Sand. Importiert von gefälschtem Mars.
+    .desc = Falscher roter Sand. Importiert vom falschen Mars.
 
 ent-FloorTileItemAstroIronsandBorderless = randloser Astro-Eisensand
-    .desc = Falscher roter Sand. Importiert von gefälschtem Mars.
+    .desc = Falscher roter Sand. Importiert vom falschen Mars.
 
 ent-FloorTileItemDesertAstroSand = Wüstenastrosand
-    .desc = Fake Sand, entworfen, um gut zu sein.
+    .desc = Falscher Sand, entworfen, um gut zu sein.
 
 ent-FloorTileItemWoodLarge = Großer Holzboden
     .desc = Der Boden sollte das tragen, nicht du.
 
 ent-FloorTileItemWhiteMarble = weiße Marmorkachel
-    .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Am besten nicht verlieren.
+    .desc = Ein gemeißeltes, poliertes Quadrat aus feinstem Weltraummarmor. Am besten nicht verlieren.
 
 ent-FloorTileItemDarkMarble = dunkle Marmorkachel
-    .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Am besten nicht verlieren.
+    .desc = Ein gemeißeltes, poliertes Quadrat aus feinstem Weltraummarmor. Am besten nicht verlieren.
 
 ent-FloorTileItemPlasmaMarble = Plasmamarmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Weltraummarmors. Mit Uran angereichert, damit es extra rad ist! Wortspiel beabsichtigt!
 
 ent-FloorTileItemUraniumMarble = Uran-Marmorkachel
-    .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Uran-infundiert, um es extra rad zu machen! Pun beabsichtigt!
+    .desc = Ein gemeißeltes, poliertes Quadrat aus feinstem Weltraummarmor. Mit Uran angereichert, damit es extra rad ist! Wortspiel beabsichtigt!
 
 ent-FloorTileItemXeno = Xenoboden
     .desc = Der Boden sollte das tragen, nicht du.

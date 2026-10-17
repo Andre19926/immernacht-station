@@ -53,10 +53,10 @@ ent-RubberStampDetective = Detektivstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampGreytide = Greytide-Stempel
-    .desc = Ein Stempel zum Stempeln wichtiger Dokumente. Die Flut wäscht über dich, nur sie anzusehen...
+    .desc = Ein Stempel für wichtige Dokumente. Allein sein Anblick lässt die Flut über dich hereinbrechen ...
 
 ent-RubberStampPsychologist = Stempel des Psychologen
-    .desc = Ein Stempel zum Stempeln wichtiger Dokumente. Verschreibe diese Behandlungen!
+    .desc = Ein Stempel für wichtige Dokumente. Verschreibe diese Behandlungen!
 
 ent-RubberStampWizard = Zaubererstempel
-    .desc = Ein chaotischer Zaubererstempel, um unchaotischen Papierkram zu servieren, wie ironisch.
+    .desc = Ein chaotischer Zaubererstempel, um unchaotischen Papierkram zu bedienen – wie ironisch.

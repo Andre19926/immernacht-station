@@ -5,7 +5,7 @@ ent-EnergyDaggerLoud = Energiedolch
     .desc = Ein nicht so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unverhüllt.
 
 ent-EnergyDagger = Stift
-    .desc = Ein dunkler Tintenschreiber.
+    .desc = Ein Stift mit dunkler Tinte.
 
 ent-EnergyDaggerBox = E-Daggerbox
     .desc = Eine kleine Box mit einem E-Dolch. Die Verpackung zerfällt beim Öffnen und hinterlässt keine Beweise.

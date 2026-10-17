@@ -1,2 +1,2 @@
 ent-ProximitySensor = Näherungssensor
-    .desc = Spürt Dinge in unmittelbarer Nähe.
+    .desc = Spürt Dinge in unmittelbarer Nähe auf.

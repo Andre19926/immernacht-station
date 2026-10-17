@@ -1,23 +1,23 @@
 ent-RiotShield = Aufruhrschild
-    .desc = Ein großer Turmschild. Gut für die Kontrolle der Massen.
+    .desc = Ein großer Turmschild. Gut zur Menschenmengenkontrolle.
 
 ent-RiotLaserShield = Laserschirm
-    .desc = Ein Schild, der für die Widerstandsfähigkeit gegen Laser gebaut ist, aber nicht viel anderes.
+    .desc = Ein Schild, der gegen Laser ausgelegt ist, aber kaum gegen etwas anderes.
 
 ent-RiotBulletShield = ballistischer Schild
-    .desc = Ein Schild zum Schutz vor Ballistik, aber nicht viel anderes.
+    .desc = Ein Schild zum Schutz vor Projektilen, aber kaum gegen etwas anderes.
 
 ent-WoodenBuckler = Holzschnallen
-    .desc = Ein kleiner runder Holzschutzschild.
+    .desc = Ein kleiner runder Holzschild.
 
 ent-CardShield = Kartonschild
-    .desc = Ein Schild aus Karton. Wird dich nicht vor viel schützen.
+    .desc = Ein Schild aus Pappe. Schützt dich vor nicht viel.
 
 ent-MakeshiftShield = Behelfsschild
-    .desc = Ein heruntergekommener Schild, nicht gut für viel.
+    .desc = Ein heruntergekommener Schild, taugt nicht viel.
 
 ent-WebShield = Bahnschild
-    .desc = Ein Stringy Shield. Es ist schwach und scheint nicht gut gegen Hitze zu sein.
+    .desc = Ein fadenscheiniger Schild. Er ist schwach und scheint gegen Hitze nicht viel zu taugen.
 
 ent-ClockworkShield = Uhrwerksschild
 
@@ -25,10 +25,10 @@ ent-MirrorShield = Spiegelschutz
     .desc = Leuchtet unheimlich rot ... du hörst den Geometer flüstern.
 
 ent-EnergyShield = Energieschild
-    .desc = Exotische Energie Schild, wenn gefaltet, kann sogar in deine Tasche passen.
+    .desc = Ein exotischer Energieschild, der zusammengefaltet sogar in deine Tasche passt.
 
 ent-BrokenEnergyShield = Bruchenergieschild
-    .desc = Etwas im Inneren ist ausgebrannt, es ist nicht mehr funktionsfähig.
+    .desc = Etwas im Inneren ist durchgebrannt, er funktioniert nicht mehr.
 
 ent-TelescopicShield = Teleskopabschirmung
-    .desc = Ein fortschrittliches Aufruhrschild aus leichten Materialien, das für eine einfache Lagerung zusammenbricht.
+    .desc = Ein fortschrittlicher Schutzschild für Aufruhreinsätze aus leichten Materialien, der sich zur einfachen Lagerung zusammenklappen lässt.

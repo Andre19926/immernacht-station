@@ -1,2 +1,2 @@
 ent-DiskCase = Scheibengehäuse
-    .desc = Gehäuse zum Speichern einer Koordinatenscheibe.
+    .desc = Gehäuse zur Aufbewahrung einer Koordinatenscheibe.

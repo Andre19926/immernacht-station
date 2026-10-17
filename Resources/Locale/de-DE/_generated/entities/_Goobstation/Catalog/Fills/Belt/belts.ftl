@@ -29,7 +29,7 @@ ent-ClothingBeltMilitaryWebbingFilledERT = ERT Brustkorb
     .desc = Eine Reihe von taktischen Gurten, die von Mitgliedern des Notfallteams getragen werden.
 
 ent-ChemBagFilled = Chemiebeutel
-    .desc = Eine Tasche zur Aufbewahrung von Chemieprodukten wie Pillen, Pillenkanistern, Flaschen und Spritze.
+    .desc = Eine Tasche zur Aufbewahrung chemischer Produkte wie Pillen, Pillendosen, Flaschen und Spritzen.
 
 ent-ClothingBeltChemBagSyndiFilled = Syndicate Medical Pouch
     .desc = Ein robuster Beutel für medizinische Versorgung, der von Gorlex Marauder-Agenten getragen wird. Es riecht nach Desoxyephedrin.

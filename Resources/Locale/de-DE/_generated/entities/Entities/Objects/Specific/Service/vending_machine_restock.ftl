@@ -1,44 +1,44 @@
 ent-VendingMachineRestockBooze = Booze-O-Mat-Nachfüllbox
-    .desc = Slot in deinen Booze-O-Mat, um die Party zu starten! Nicht zum Verkauf an Assistenten unter dem gesetzlichen Alter.
+    .desc = In deinen Booze-O-Mat einlegen, um die Party zu starten! Nicht an Assistenten unter dem gesetzlichen Alter verkaufen.
 
 ent-VendingMachineRestockChang = Mr. Chang's-Nachfüllbox
-    .desc = Eine Schachtel mit weißen Etiketten mit kräftigen roten chinesischen Schriftzeichen, bereit, in den nächstgelegenen Mr. Chang-Automaten geladen zu werden.
+    .desc = Eine Schachtel mit weißen Etiketten mit kräftigen roten chinesischen Schriftzeichen, bereit, in den nächsten Mr.-Chang-Automaten geladen zu werden.
 
 ent-VendingMachineRestockChefvend = ChefVend-Nachfüllbox
-    .desc = Fülle das ChefVend auf. Brich einfach keine Eier mehr.
+    .desc = Füllt das ChefVend auf. Nur keine Eier mehr zerbrechen.
 
 ent-VendingMachineRestockCondimentStation = Gewürzstation-Nachfüllbox
-    .desc = Fülle die Gewürzstation auf. Mmmm, kalte Sauce.
+    .desc = Füllt die Gewürzstation auf. Mmmm, kalte Sauce.
 
 ent-VendingMachineRestockClothes = wardrobe-Nachfüllbox
-    .desc = Es ist Zeit, deine Mode zu verbessern! Platziere in jedem Kleidungsverkäufer Aufstock Slot zu beginnen.
+    .desc = Zeit, deine Mode aufzuwerten! In den Nachfüllschacht eines beliebigen Kleidungsautomaten einlegen, um zu beginnen.
 
 ent-VendingMachineRestockCostumes = AutoDrobe-Nachfüllbox
-    .desc = Eine ganze Reihe von NanoTrasen-Mitarbeitern tanzt über ein buntes Theater in einer Tragikomödie. Du kannst dich ihnen auch anschließen! Lade diese in deinen nächsten AutoDrobe-Automaten.
+    .desc = Eine ganze Reihe von Nanotrasen-Mitarbeitern tanzt in einer Tragikomödie über eine bunte Bühne. Du kannst dich ihnen anschließen! Lade dies in deinen nächsten AutoDrobe-Automaten.
 
 ent-VendingMachineRestockDinnerware = Plasteel-Chef-Nachfüllbox
-    .desc = Es ist nie roh in dieser Küche! Drop in den Restock-Slot auf dem Plasteel Chef, um zu beginnen.
+    .desc = In dieser Küche ist nie etwas roh! In den Nachfüllschacht des Plasteel Chef einlegen, um zu beginnen.
 
 ent-VendingMachineRestockDiscountDans = Discount Dan's-Nachfüllbox
-    .desc = Eine Schachtel voller Salz und Stärke. Warum unter Qualität leiden, wenn man Quantität haben kann? Rabatt Dan's!
+    .desc = Eine Schachtel voller Salz und Stärke. Warum auf Qualität setzen, wenn man Quantität haben kann? Rabatt bei Dan's!
 
 ent-VendingMachineRestockDonut = Robust Donuts-Nachfüllbox
-    .desc = Eine Schachtel voller Ringbüschel gebratenen Teigs zum Wiederauffüllen eines Verkaufsautomaten. Verwende nur gemäß den Anweisungen von Robust Industries, LLC.
+    .desc = Eine Schachtel voller ringförmiger Büschel aus frittiertem Teig zum Auffüllen eines Automaten. Nur gemäß den Anweisungen von Robust Industries, LLC verwenden.
 
 ent-VendingMachineRestockEngineering = EngiVend-Nachfüllbox
-    .desc = Nur von zertifizierten Fachleuten verwendet werden.
+    .desc = Nur von zertifiziertem Fachpersonal zu verwenden.
 
 ent-VendingMachineRestockGames = Good-Clean-Fun-Nachfüllbox
-    .desc = Zeit, die Initiative auszuwürfeln, Drachenwürfler! Lade am Good-Clean-Fun-Automaten nach!
+    .desc = Zeit, die Initiative auszuwürfeln, Drachenwürfler! Am Good-Clean-Fun-Automaten nachfüllen!
 
 ent-VendingMachineRestockGetmoreChocolateCorp = GetMore Chocolate-Nachfüllbox
-    .desc = Eine Schachtel mit dem feinsten Ersatz-Kakao. Nur zur Verwendung in offiziellen Getmore Chocolate-Automaten.
+    .desc = Eine Schachtel mit feinstem Ersatzkakao. Nur für offizielle Getmore-Chocolate-Automaten.
 
 ent-VendingMachineRestockHotDrinks = Solar's Best-Nachfüllbox
-    .desc = Toasty! Zur Verwendung in Solar's Best Hot Drinks oder anderen Affiliate-Automaten.
+    .desc = Toasty! Zur Verwendung in Solar's Best Hot Drinks oder anderen Partnerautomaten.
 
 ent-VendingMachineRestockMedical = NanoMed-Nachfüllbox
-    .desc = Slot in deiner Abteilung NanoMed oder NanoMedPlus zu verzichten. Umgang mit Sorgfalt.
+    .desc = In deinen NanoMed oder NanoMedPlus der Abteilung einlegen, um Nachschub auszugeben. Mit Sorgfalt behandeln.
 
 ent-VendingMachineRestockNutriMax = NutriMax-Nachfüllbox
     .desc = Wir machen deine Daumen grün mit unseren Werkzeugen. Kommen wir zur Ernte! Lade in einen NutriMax-Automaten.

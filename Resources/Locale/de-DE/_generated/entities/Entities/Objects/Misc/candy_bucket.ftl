@@ -1,2 +1,2 @@
 ent-CandyBucket = Süßigkeiteneimer
-    .desc = Ein festlicher Eimer für alle deine Leckereien.
+    .desc = Ein festlicher Eimer für all deine Leckereien.

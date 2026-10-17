@@ -1,11 +1,11 @@
 ent-BodyBag = Leichensack
-    .desc = Eine Plastiktüte, die für die Lagerung und den Transport von Leichen entwickelt wurde, um die Zersetzung des Körpers zu stoppen.
+    .desc = Ein Plastiksack zur Lagerung und zum Transport von Leichen, der die Verwesung des Körpers aufhält.
 
 ent-BodyBagFolded = Leichensack
-    .desc = Eine Plastiktüte, die für die Lagerung und den Transport von Leichen entwickelt wurde, um die Zersetzung des Körpers zu stoppen.
+    .desc = Ein Plastiksack zur Lagerung und zum Transport von Leichen, der die Verwesung des Körpers aufhält.
 
 ent-Ash = Asche
-    .desc = Das war früher etwas, aber jetzt ist es nicht.
+    .desc = Das war früher etwas, aber jetzt nicht mehr.
 
 ent-Ectoplasm = Ektoplasma
-    .desc = Viel weniger tödlich in dieser Form.
+    .desc = In dieser Form viel weniger tödlich.

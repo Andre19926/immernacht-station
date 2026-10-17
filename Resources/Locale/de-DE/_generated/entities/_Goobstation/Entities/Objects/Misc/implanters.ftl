@@ -2,28 +2,28 @@ ent-RevsFastDrawImplanter = Schnellzieh-Implantator
     .desc = Eine Spritze mit Werkzeugen zur schnellen Implantatentfernung. Es hat kleine goldene Sterne auf seinem Körper.
 
 ent-BluespaceLifelineImplanter = CentComm-Bluespace-Lebensader-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CommandTrackingImplanter = CentComm-Führungs-Tracking-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommFreedomImplanter = CentComm-Freiheits-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommStorageImplanter = CentComm-Speicher-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommMindShieldImplanter = CentComm-Mindshield-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommNutrimentImplanter = CentComm-Nährstoff-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommSpaceproofImplanter = CentComm-Vakuumschutz-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-CentcommStypticStimulatorImplanter = CentComm-Blutstiller-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-PacifismImplanter = Pazifismus-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
@@ -50,25 +50,25 @@ ent-BinaryImplanter = Syndicate-Binär-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-VaporizeImplanter = CentComm-Verdampfungs-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-ShiftImplanter = CentComm-Shift-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-BlinkImplanter = CentComm-Blink-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-StopTimeImplanter = CentComm-Zeitstopp-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-NaniteMenderImplanter = CentComm-Nanitenheiler-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-AntagImplanterChangeling = Antag-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-AntagImplanterSpaceNinja = Antag-Implantator
-    .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
 
 ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
