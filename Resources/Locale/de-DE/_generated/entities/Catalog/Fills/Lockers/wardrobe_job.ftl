@@ -20,7 +20,7 @@ ent-WardrobeScienceFilled = Wissenschaftsgarderobe
     .desc = Du hast ein paar populärwissenschaftliche Artikel gelesen, jetzt ist es Zeit für die echte Arbeit.
 
 ent-WardrobeBotanistFilled = Botanische Garderobe
-    .desc = Pflanze dich unter den Pflanzenmännern mit diesen 100% natürlichen pflanzlichen Kleidern.
+    .desc = Pflanze dich unter den Pflanzenmännern mit diesen 100 % natürlichen pflanzlichen Kleidern.
 
 ent-WardrobeMedicalDoctorFilled = Garderobe für Ärzte
     .desc = Wir haben alle schon einmal Doktor gespielt, jetzt praktizieren wir Medizin.

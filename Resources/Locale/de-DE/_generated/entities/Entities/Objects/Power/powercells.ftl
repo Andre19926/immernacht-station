@@ -17,16 +17,16 @@ ent-PowerCellMediumPrinted = Power Cell mittlerer Kapazität
     .desc = Eine wiederaufladbare Kraftzelle. Dies ist die beliebte und zuverlässige Version.
 
 ent-PowerCellHigh = Energiezelle (groß)
-    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Premiummarke speichert bis zu 50% mehr Energie als die Konkurrenz.
+    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Premiummarke speichert bis zu 50 % mehr Energie als die Konkurrenz.
 
 ent-PowerCellHighPrinted = Energiezelle (groß)
-    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Premiummarke speichert bis zu 50% mehr Energie als die Konkurrenz.
+    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Premiummarke speichert bis zu 50 % mehr Energie als die Konkurrenz.
 
 ent-PowerCellHyper = Energiezelle (Hyper)
-    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Iteration schiebt die oberen Grenzen des tragbaren Stromspeichers und verfügt über 66% mehr Kapazität als sein Vorgänger.
+    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Iteration schiebt die oberen Grenzen des tragbaren Stromspeichers und verfügt über 66 % mehr Kapazität als sein Vorgänger.
 
 ent-PowerCellHyperPrinted = Energiezelle (Hyper)
-    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Iteration schiebt die oberen Grenzen des tragbaren Stromspeichers und verfügt über 66% mehr Kapazität als sein Vorgänger.
+    .desc = Eine wiederaufladbare standardisierte Kraftzelle. Diese Iteration schiebt die oberen Grenzen des tragbaren Stromspeichers und verfügt über 66 % mehr Kapazität als sein Vorgänger.
 
 ent-PowerCellMicroreactor = Mikroreaktor-Energiezelle
     .desc = Eine wiederaufladbare standardisierte Mikroreaktorzelle. Hat eine geringere Kapazität, lädt sich aber langsam von selbst auf.

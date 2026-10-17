@@ -23,7 +23,7 @@ ent-BorgModuleMining = Bergbau-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
 ent-BorgModuleAdvancedMining = Fortgeschrittenes Bergbau-Cyborg-Modul
-    .desc = Modernes Frachtmodul mit fortschrittlicher Bergbauausrüstung. Studien zeigen, dass es die Produktivität eines Cyborgs um 150% erhöht.
+    .desc = Modernes Frachtmodul mit fortschrittlicher Bergbauausrüstung. Studien zeigen, dass es die Produktivität eines Cyborgs um 150 % erhöht.
 
 ent-BorgModuleTraversal = Fortbewegungs-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
@@ -103,7 +103,7 @@ ent-BorgModuleL6C = L6C-ROW-Cyborg-Modul
     .desc = Ein Waffenmodul, das mit einem L6C geliefert wird.
 
 ent-BorgModuleC20r = C-20r-ROW-Cyborg-Modul
-    .desc = Ein Waffenmodul, das mit einem Berstfeuer C-20r geliefert wird.
+    .desc = Ein Waffenmodul, das mit einem Salvenfeuer C-20r geliefert wird.
 
 ent-BorgModuleMartyr = Märtyrer-Cyborg-Modul
     .desc = Ein Modul, das mit einem Sprengstoff kommt, den dich wahrscheinlich nicht selbst handhaben wollen.

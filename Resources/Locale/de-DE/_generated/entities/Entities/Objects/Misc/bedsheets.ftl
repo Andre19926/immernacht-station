@@ -8,7 +8,7 @@ ent-BedsheetBrown = Braunes Bettlaken
     .desc = Ein überraschend weiches Bettlaken.
 
 ent-BedsheetCaptain = Bettlaken des Kapitäns
-    .desc = Es hat ein Nanotrasen-Symbol darauf und wurde mit einer revolutionären neuen Art von Faden gewebt, der garantiert 0,01% Durchlässigkeit für die meisten nicht-chemischen Substanzen hat, die bei den meisten modernen Kapitänen beliebt sind.
+    .desc = Es hat ein Nanotrasen-Symbol darauf und wurde mit einer revolutionären neuen Art von Faden gewebt, der garantiert 0,01 % Durchlässigkeit für die meisten nicht-chemischen Substanzen hat, die bei den meisten modernen Kapitänen beliebt sind.
 
 ent-BedsheetCE = Bettlaken von CE
     .desc = Es ist mit einem Schraubenschlüssel-Emblem dekoriert. Es ist sehr reflektierend und fleckenresistent, so dass du dich keine Sorgen machen musst, es mit Öl zu ruinieren.

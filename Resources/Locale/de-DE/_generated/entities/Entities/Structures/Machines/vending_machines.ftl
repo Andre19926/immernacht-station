@@ -53,7 +53,7 @@ ent-VendingMachinePwrGame = Pwr Game Vendor
     .desc = Du willst es, wir haben es. Geführt in Partnerschaft mit Vlad's Salads.
 
 ent-VendingMachineDrGibb = Dr. Gibb Vendor
-    .desc = Dosenexplosion von verschiedenen Geschmacksrichtungen in diesem Verkäufer!
+    .desc = Dosenexplosion von verschiedenen Geschmacksrichtungen in diesem Automaten!
 
 ent-VendingMachineSmite = Smite Vendor
     .desc = Beliebt bei der Verwaltung.
@@ -143,7 +143,7 @@ ent-VendingMachineSecDrobe = SecDrobe
     .desc = Ein Verkaufsautomat für Sicherheits- und Sicherheitsbekleidung!
 
 ent-VendingBarDrobe = BarDrobe
-    .desc = Ein stilvoller Verkäufer, um die stilvollste Barkleidung auszugeben!
+    .desc = Ein stilvoller Automat, um die stilvollste Barkleidung auszugeben!
 
 ent-VendingMachineChapel = PietyVend
     .desc = Füge einfach den Kapitalismus hinzu!
@@ -158,7 +158,7 @@ ent-VendingMachineChemDrobe = ChemDrobe
     .desc = Ein Verkaufsautomat zum Ausgeben von Chemie bezogener Kleidung.
 
 ent-VendingMachineCuraDrobe = CuraDrobe
-    .desc = Ein Lowstock-Verkäufer, der nur Kleidung für Kuratoren und Bibliothekare verkaufen kann.
+    .desc = Ein Lowstock-Automat, der nur Kleidung für Kuratoren und Bibliothekare verkaufen kann.
 
 ent-VendingMachineAtmosDrobe = AtmosDrobe
     .desc = Dieser relativ unbekannte Automat liefert Kleidung für Atmospherics-Techniker, ein ebenso unbekannter Job.
@@ -200,10 +200,10 @@ ent-VendingMachinePride = Pride-O-Mat
     .desc = Ein Automat mit Stolz.
 
 ent-VendingMachineTankDispenserEVA = Gasbehälterspender
-    .desc = Ein Verkäufer für die Abgabe von Gastanks.
+    .desc = Ein Automat zur Ausgabe von Gastanks.
 
 ent-VendingMachineTankDispenserEngineering = Gasbehälterspender
-    .desc = Ein Verkäufer für die Abgabe von Gastanks. Dieser hat eine technische Lackierung.
+    .desc = Ein Automat zur Ausgabe von Gastanks. Dieser hat eine technische Lackierung.
 
 ent-VendingMachineChemicals = ChemVend
     .desc = Wahrscheinlich nicht die Kaffeemaschine.

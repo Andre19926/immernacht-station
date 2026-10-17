@@ -1,2 +1,2 @@
 ent-MindRolePirate = Piratenrolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität

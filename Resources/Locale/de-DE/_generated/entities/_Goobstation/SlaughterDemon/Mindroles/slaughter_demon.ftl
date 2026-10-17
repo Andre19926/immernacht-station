@@ -1,2 +1,2 @@
 ent-MindRoleSlaughterDemon = Schlachtung Dämon Rolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität

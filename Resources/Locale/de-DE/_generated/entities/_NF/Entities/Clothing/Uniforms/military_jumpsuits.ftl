@@ -44,10 +44,10 @@ ent-ClothingUniformJumpsuitMilitaryColorMaroon = Uniform (kastanienbraun, Milit�
     .desc = Ein generischer Overall in Kastanienbraun ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitMilitaryContractor = Auftragnehmeruniform
-    .desc = Ein robustes Uniform, das 체blicherweise an NT-Auftragnehmer ausgegeben wird.
+    .desc = Eine robuste Uniform, das 체blicherweise an NT-Auftragnehmer ausgegeben wird.
 
 ent-ClothingUniformJumpsuitMilitaryContractorTac = Auftragnehmeruniform (Tac)
-    .desc = Ein robustes Uniform, das 체blicherweise an NT-Auftragnehmer ausgegeben wird.
+    .desc = Eine robuste Uniform, das 체blicherweise an NT-Auftragnehmer ausgegeben wird.
 
 ent-ClothingUniformJumpsuitMilitaryCaptain = Kapit채nsuniform (Milit채r)
     .desc = Es ist ein blaues Uniform mit einigen Goldmarkierungen, die den Rang von "Captain" bezeichnen.
@@ -68,7 +68,7 @@ ent-ClothingUniformJumpsuitMilitaryShaftMiner = Bergarbeiter-Arbeitskleidung (Mi
     .desc = Eine schneidige Uniform mit einer robusten Latzhose. Sie ist sehr schmutzig.
 
 ent-ClothingUniformJumpsuitMilitaryCargo = Frachttechniker-Arbeitskleidung (Milit채r)
-    .desc = Ein robustes Uniform, ausgestellt an Mitglieder der Frachtabteilung.
+    .desc = Eine robuste Uniform, ausgestellt an Mitglieder der Frachtabteilung.
 
 ent-ClothingUniformJumpsuitMilitaryQM = Quartiermeisteruniform (Milit채r)
     .desc = Was kann Braun f체r dich tun?

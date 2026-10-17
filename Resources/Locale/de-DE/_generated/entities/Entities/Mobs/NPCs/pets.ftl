@@ -8,7 +8,7 @@ ent-MobCorgiLisa = Lisa
     .desc = Ians Lieblingskorgi.
 
 ent-MobCorgiMouse = Echte Maus
-    .desc = Es ist 100% eine wirklich hungrige Maus.
+    .desc = Es ist 100 % eine wirklich hungrige Maus.
 
 ent-MobCorgiIanPup = Puppy Ian
     .desc = Der Lieblings-Corgi-Welpe. Awww.

@@ -20,4 +20,4 @@ ent-MeteorClown = Honksteroid
     .desc = Das letzte Honkening!
 
 ent-MeteorPotato = Weltraumkartoffel
-    .desc = Eine stärkehaltige Bedrohung aus den Tiefen des Weltraums. Enthält 200% deiner täglichen Natriumaufnahme!
+    .desc = Eine stärkehaltige Bedrohung aus den Tiefen des Weltraums. Enthält 200 % deiner täglichen Natriumaufnahme!

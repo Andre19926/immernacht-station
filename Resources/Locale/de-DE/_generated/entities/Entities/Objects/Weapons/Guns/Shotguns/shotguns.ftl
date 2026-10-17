@@ -1,5 +1,5 @@
 ent-WeaponShotgunBulldog = Bulldogge
-    .desc = Eine vollautomatische Bullpup-Flinte, wenn du drei Sekunden Zeit hast, um acht Personen in Pasta-Sauce zu verwandeln. Kicks wie ein Maultier auf Steroiden. Feeds von 12 Gauge Trommelmagazinen.
+    .desc = Eine vollautomatische Bullpup-Flinte, wenn du drei Sekunden Zeit hast, um acht Personen in Pasta-Sauce zu verwandeln. Kicks wie ein Maultier auf Steroiden. Wird von 12 Gauge Trommelmagazinen gespeist.
 
 ent-WeaponShotgunDoubleBarreled = Doppelläufige Schrotflinte
     .desc = Ein unsterblicher Klassiker. Verwendet 12 Gauge Shotgun Granaten.

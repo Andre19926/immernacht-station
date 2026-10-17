@@ -20,4 +20,4 @@ ent-AtmosFixVoxMarker = Atmos Fix Stickstoffmarker
     .desc = Stickstoff bei 101 kPa, 20C
 
 ent-AtmosFixAirMarker = Atmos Fix Luftmarker
-    .desc = Sauerstoff (21%) und Stickstoff (79%) bei Gasminerdruck, T20C
+    .desc = Sauerstoff (21 %) und Stickstoff (79 %) bei Gasminerdruck, T20C

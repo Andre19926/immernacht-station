@@ -1,8 +1,8 @@
 ent-HospitalCurtains = Vorhänge
-    .desc = Enthält weniger als 1% Quecksilber.
+    .desc = Enthält weniger als 1 % Quecksilber.
 
 ent-HospitalCurtainsOpen = Vorhänge
-    .desc = Enthält weniger als 1% Quecksilber.
+    .desc = Enthält weniger als 1 % Quecksilber.
 
 ent-CurtainsBlack = Vorhänge
     .desc = Versteckt, was andere nicht sehen sollten.

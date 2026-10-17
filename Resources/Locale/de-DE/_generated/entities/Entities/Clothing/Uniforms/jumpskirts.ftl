@@ -5,7 +5,7 @@ ent-ClothingUniformJumpskirtCaptain = Kapitänsuniform (Rock)
     .desc = Es ist ein blauer Rock-Uniform mit einigen Goldmarkierungen, die den Rang von "Captain" bezeichnen.
 
 ent-ClothingUniformJumpskirtCargo = Frachttechniker-Arbeitskleidung (Rock)
-    .desc = Ein robustes Rock-Uniform, ausgestellt an Mitglieder der Fracht-Abteilung.
+    .desc = Ein robuster Uniformrock, ausgestellt an Mitglieder der Fracht-Abteilung.
 
 ent-ClothingUniformJumpskirtChiefEngineer = Chefingenieursuniform (Rock)
     .desc = Es ist eine hohe Sichtbarkeit Rock-Uniform, die diesen Ingenieuren gegeben wird, die verrückt genug sind, um den Rang eines Chefingenieurs zu erreichen.

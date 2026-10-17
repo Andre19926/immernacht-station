@@ -17,7 +17,7 @@ ent-ClothingUniformJumpsuitCaptain = Kapitänsuniform
     .desc = Es ist ein blaues Uniform mit einigen Goldmarkierungen, die den Rang von "Captain" bezeichnen.
 
 ent-ClothingUniformJumpsuitCargo = Frachttechniker-Arbeitskleidung
-    .desc = Ein robustes Uniform, ausgestellt an Mitglieder der Frachtabteilung.
+    .desc = Eine robuste Uniform, ausgestellt an Mitglieder der Frachtabteilung.
 
 ent-ClothingUniformJumpsuitSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung
     .desc = Eine schneidige Uniform mit einer robusten Latzhose. Sie ist sehr schmutzig.
@@ -90,7 +90,7 @@ ent-ClothingUniformJumpsuitHoSAlt = Sicherheitschef-Rollkragenuniform
     .desc = Es ist ein Rollkragen, der von denen getragen wird, die stark und diszipliniert genug sind, um die Position des Sicherheitschefs zu erreichen.
 
 ent-ClothingUniformJumpsuitHoSBlue = Sicherheitschefsuniform (blau)
-    .desc = Ein blaues Uniform des Sicherheitschefs.
+    .desc = Eine blaue Uniform des Sicherheitschefs.
 
 ent-ClothingUniformJumpsuitHoSGrey = Sicherheitschefsuniform (grau)
     .desc = Eine graue Uniform des Sicherheitschefs, die ihn ein wenig wie einen Passagier aussehen lässt.

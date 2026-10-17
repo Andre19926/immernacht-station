@@ -29,19 +29,19 @@ ent-SmallLight = kleines Licht
     .desc = Ein stets angetriebenes Licht.
 
 ent-PoweredSmallLightEmpty = kleines Licht
-    .desc = Eine Leuchte. Zeichnet Strom und erzeugt Licht, wenn es mit einer Glühbirne ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-PoweredLEDSmallLight = kleines Licht
-    .desc = Eine Leuchte. Zeichnet Strom und erzeugt Licht, wenn es mit einer Glühbirne ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-PoweredDimSmallLight = kleines Licht
-    .desc = Eine Leuchte. Zeichnet Strom und erzeugt Licht, wenn es mit einer Glühbirne ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-PoweredWarmSmallLight = kleines Licht
-    .desc = Eine Leuchte. Zeichnet Strom und erzeugt Licht, wenn es mit einer Glühbirne ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-PoweredSmallLight = kleines Licht
-    .desc = Eine Leuchte. Zeichnet Strom und erzeugt Licht, wenn es mit einer Glühbirne ausgestattet ist.
+    .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-EmergencyLight = Notlicht
     .desc = Ein kleines Licht mit einer internen Batterie, die sich einschaltet, sobald sie keine Energie mehr erhält. Die Nanotrasen-Technologie ermöglicht es ihr, ihre Farbe anzupassen, um die Crew auf die Bedingungen der Station aufmerksam zu machen.

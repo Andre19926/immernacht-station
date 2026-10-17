@@ -1,11 +1,11 @@
 ent-MindRoleLoneAbductor = Einzelner-Entführer-Rolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität
 
 ent-MindRoleAbductorAgent = Entführer-Agent-Rolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität
 
 ent-MindRoleAbductorScientist = Entführer-Wissenschaftler-Rolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität
 
 ent-MindRoleAbductorVictim = Rolle des Entführten
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität

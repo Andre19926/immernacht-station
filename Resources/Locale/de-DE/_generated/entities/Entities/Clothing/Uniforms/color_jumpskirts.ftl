@@ -47,4 +47,4 @@ ent-ClothingUniformJumpskirtColorMaroon = Uniform (Rock, kastanienbraun)
     .desc = Ein generischer Overall-Rock in Kastanienbraun ohne Rangabzeichen.
 
 ent-ClothingUniformJumpskirtColorRainbow = Regenbogenuniform (Rock)
-    .desc = Ein mehrfarbiger Rock-Uniform!
+    .desc = Ein mehrfarbiger Uniformrock!

@@ -1,2 +1,2 @@
 ent-MindRoleXenomorph = Xenomorphe Rolle
-    .desc = Mind Role Entität
+    .desc = Mind-Rollen-Entität

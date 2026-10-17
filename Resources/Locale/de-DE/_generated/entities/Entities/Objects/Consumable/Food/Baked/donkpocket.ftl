@@ -35,7 +35,7 @@ ent-FoodDonkpocketHonkWarm = warme Honktasche
     .desc = Die preisgekrönte Donk-Tasche, jetzt warm und knusprig.
 
 ent-FoodDonkpocketBerry = Beeren-Pocket
-    .desc = Eine unerbittlich süße Donk-Tasche. Hergestellt mit 100% künstlichem Aroma.
+    .desc = Eine unerbittlich süße Donk-Tasche. Hergestellt mit 100 % künstlichem Aroma.
 
 ent-FoodDonkpocketBerryWarm = warme Beerentasche
     .desc = Eine unerbittlich süße Donk-Tasche, jetzt warm und lecker.

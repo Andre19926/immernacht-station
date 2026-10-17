@@ -5,10 +5,10 @@ ent-FoodSnackMothdog = Mothdog
     .desc = Er ist in seiner Blütezeit.
 
 ent-FoodSnackLunacakeWrapped = Umwickelter Lunacake
-    .desc = Jetzt mit 20% weniger Klage, die Rhegolith ermöglicht!
+    .desc = Jetzt mit 20 % weniger Klage, die Rhegolith ermöglicht!
 
 ent-FoodSnackLunacake = Lunacake
-    .desc = Jetzt mit 20% weniger Klage, die Rhegolith ermöglicht!
+    .desc = Jetzt mit 20 % weniger Klage, die Rhegolith ermöglicht!
 
 ent-FoodSnackMochicakeWrapped = Umwickelter Mochicake
     .desc = Konnichiwa! Viele gehen Glück Reis Kuchen in Zukunft!
@@ -23,7 +23,7 @@ ent-FoodSnackMooncake = Mondkuchen
     .desc = Entdecke die dunkle Seite! Kann Spuren von rekonstituiertem Kakao enthalten.
 
 ent-FoodSnackTidegobs = Gezeitengobs
-    .desc = Enthält über 9000% deiner täglichen empfohlenen Salzaufnahme.
+    .desc = Enthält über 9000 % deiner täglichen empfohlenen Salzaufnahme.
 
 ent-FoodSnackSaturnos = Saturnos
     .desc = Eine Tagesration Salz, Styropor und möglicherweise Sägemehl.

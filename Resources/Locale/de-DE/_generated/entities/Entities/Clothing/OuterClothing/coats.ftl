@@ -29,10 +29,10 @@ ent-ClothingOuterCoatLabOpened = Laborkittel
     .desc = Ein Anzug, der vor kleinen chemischen Verschüttungen schützt.
 
 ent-ClothingOuterCoatLabChem = Chemiker Laborcoat
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen orangefarbenen Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen orangefarbenen Streifen auf der Schulter.
 
 ent-ClothingOuterCoatLabChemOpened = Chemiker Laborcoat
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen orangefarbenen Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen orangefarbenen Streifen auf der Schulter.
 
 ent-ClothingOuterCoatLabViro = Virologe Laborcoat
     .desc = Ein Anzug, der vor Bakterien und Viren schützt. Hat einen grünen Streifen auf der Schulter.
@@ -41,10 +41,10 @@ ent-ClothingOuterCoatLabViroOpened = Virologe Laborcoat
     .desc = Ein Anzug, der vor Bakterien und Viren schützt. Hat einen grünen Streifen auf der Schulter.
 
 ent-ClothingOuterCoatLabGene = Genetiker Laborkittel
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen blauen Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen blauen Streifen auf der Schulter.
 
 ent-ClothingOuterCoatLabGeneOpened = Genetiker Laborkittel
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen blauen Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen blauen Streifen auf der Schulter.
 
 ent-ClothingOuterCoatLabCmo = Chefarzt-Laborkittel
     .desc = Maßgeschneidertes blaues Laborkittel für den Chefarzt bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
@@ -53,10 +53,10 @@ ent-ClothingOuterCoatLabCmoOpened = Chefarzt-Laborkittel
     .desc = Maßgeschneidertes blaues Laborkittel für den Chefarzt bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
 
 ent-ClothingOuterCoatRnd = Wissenschaftlerlaboratorium
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Streifen auf der Schulter.
 
 ent-ClothingOuterCoatRndOpened = Wissenschaftlerlaboratorium
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Streifen auf der Schulter.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Streifen auf der Schulter.
 
 ent-ClothingOuterCoatRobo = Robotiker Laborcoat
     .desc = Mehr wie ein exzentrischer Mantel als ein Labcoat. Hilft, Blutflecken als Teil der Ästhetik weiterzugeben. Kommt mit roten Schulterpolstern.
@@ -97,16 +97,16 @@ ent-ClothingOuterCoatAMG = Gepanzertes medizinisches Kleid
     .desc = Die Version des medizinischen Kleides, mit Elementen einer kugelsicheren Weste, sieht seltsam aus, aber dein Herz ist geschützt.
 
 ent-ClothingOuterCoatLabSeniorResearcher = Senior Researcher Laborcoat
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
 
 ent-ClothingOuterCoatLabSeniorResearcherOpened = Senior Researcher Laborcoat
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
 
 ent-ClothingOuterCoatLabSeniorPhysician = Oberarzt-Laborkittel
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
 
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = Oberarzt-Laborkittel (offen)
-    .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
+    .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
 
 ent-ClothingOuterCoatSpaceAsshole = Der Mantel des Space Arshole
     .desc = Und da war er...

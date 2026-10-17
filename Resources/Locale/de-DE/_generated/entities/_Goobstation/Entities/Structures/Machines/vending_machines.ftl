@@ -1,5 +1,5 @@
 ent-VendingMachineFitness = SweatMAX
-    .desc = Eine Übungshilfe und Nahrungsergänzungsmittel Verkäufer, der auf deine Unzulänglichkeit Jagd macht.
+    .desc = Eine Übungshilfe und Nahrungsergänzungsmittel Automat, der auf deine Unzulänglichkeit Jagd macht.
 
 ent-VendingMachineHotfood = Heiße Lebensmittel
     .desc = Ein alter Automat, der „heiße Lebensmittel“ verspricht. Du bezweifelst, dass irgendetwas darin noch essbar ist.

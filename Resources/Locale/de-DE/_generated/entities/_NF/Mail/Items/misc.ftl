@@ -10,7 +10,7 @@ ent-DrinkPremiumGinBottleFull = Harrys Gin Flasche
     .desc = Eine interessante Reihe von Botanicals, sicher. Ist das Kürbis?
 
 ent-DrinkPremiumTequilaBottleFull = Casa del Eorg Tequila
-    .desc = Spare das Beste für den letzten. Casa del Eorg, 100% Agave.
+    .desc = Spare das Beste für den letzten. Casa del Eorg, 100 % Agave.
 
 ent-DrinkPremiumWhiskeyBottleFull = Ol' Prowler 18 Whiskeyflasche
     .desc = Überraschend ist es für dich, es ist für dich und es ist für dich und für sich.

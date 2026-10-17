@@ -47,4 +47,4 @@ ent-ClothingUniformJumpsuitColorMaroon = Uniform (kastanienbraun)
     .desc = Ein generischer Overall in Kastanienbraun ohne Rangabzeichen.
 
 ent-ClothingUniformColorRainbow = Regenbogenuniform
-    .desc = Ein mehrfarbiger Uniform!
+    .desc = Eine mehrfarbige Uniform!
