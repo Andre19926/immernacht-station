@@ -1,7 +1,7 @@
-ent-ChronoPDA = futuristische-PDA
+ent-ChronoPDA = Futuristischer PDA
     .desc = Ein leistungsfähiger Quantencomputer, getarnt als gewöhnlicher PDA.
 
-ent-GmanPDA = Merkwürdiger-PDA
+ent-GmanPDA = Merkwürdiger PDA
     .desc = Dein Verstand kann das nicht ganz erfassen.
 
 ent-HelldiverPDA = Salvage-Taucher-PDA
@@ -61,5 +61,5 @@ ent-RoboticistPDA = Robotiker-PDA
 ent-RadioHostPDA = Radiomoderator-PDA
     .desc = Du hörst die geschmeidigen Klänge von 145,9 FM.
 
-ent-OuterCommandPDA = äußerer-Befehl-PDA
+ent-OuterCommandPDA = PDA der äußeren Führung
     .desc = Lila PDA für Mitglieder der äußeren Führung.

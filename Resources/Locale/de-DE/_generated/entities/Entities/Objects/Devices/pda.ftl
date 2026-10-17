@@ -28,7 +28,7 @@ ent-ClownPDA = Clown-PDA
 ent-VisitorClownPDA = Clown-PDA
     .desc = Der Schein kann trügen.
 
-ent-MimePDA = mime-PDA
+ent-MimePDA = Mime-PDA
     .desc = Überraschenderweise nicht stummgeschaltet.
 
 ent-ChaplainPDA = Kaplan-PDA
@@ -79,10 +79,10 @@ ent-EngineerPDA = Ingenieur-PDA
 ent-CMOPDA = Chefarzt-PDA
     .desc = Außerordentlich glänzend und steril.
 
-ent-MedicalPDA = Medizinische-PDA
+ent-MedicalPDA = Medizinischer PDA
     .desc = Glänzend und steril.
 
-ent-VisitorMedicalPDA = Medizinische-PDA
+ent-VisitorMedicalPDA = Medizinischer PDA
     .desc = Glänzend und steril.
 
 ent-ParamedicPDA = Sanitäter-PDA
@@ -121,16 +121,16 @@ ent-VisitorMusicianPDA = Musiker-PDA
 ent-AtmosPDA = Atmos-PDA
     .desc = Duftet immer noch nach Plasma.
 
-ent-ClearPDA = klarer-PDA
+ent-ClearPDA = Klarer PDA
     .desc = 99 und 44/100 Prozent reiner Kunststoff.
 
-ent-VisitorPDA = klarer-PDA
+ent-VisitorPDA = Klarer PDA
     .desc = 99 und 44/100 Prozent reiner Kunststoff.
 
 ent-SyndiPDA = Syndicate-PDA
     .desc = Ok, Zeit, ein produktives Mitglied von ... oh cool, ich bin ein böser Kerl, Zeit, Leute zu töten.
 
-ent-SyndiOperativePDA = Syndicate-operative-PDA
+ent-SyndiOperativePDA = Syndicate-Agenten-PDA
     .desc = Tod zu NT!
 
 ent-SyndiCorpsmanPDA = Syndicate-Corpsman-PDA
@@ -139,7 +139,7 @@ ent-SyndiCorpsmanPDA = Syndicate-Corpsman-PDA
 ent-SyndiCommanderPDA = Konsortialkommandeur-PDA
     .desc = Also, was sind wir, so eine Art Nukie-Trupp?
 
-ent-ERTLeaderPDA = ERT-Leader-PDA
+ent-ERTLeaderPDA = Notfallteam-Leiter-PDA
     .desc = Rot für Feuerkraft.
 
 ent-ERTChaplainPDA = Notfallteam-Kaplan-PDA
@@ -151,7 +151,7 @@ ent-ERTEngineerPDA = Notfallteam-Ingenieur-PDA
 ent-ERTJanitorPDA = Notfallteam-Hausmeister-PDA
     .desc = Rot für Feuerkraft, er ist blitzblank.
 
-ent-ERTMedicPDA = ERT-Medizinische-PDA
+ent-ERTMedicPDA = Notfallteam-Medizin-PDA
     .desc = Rot für Feuerkraft, er ist glänzend und steril.
 
 ent-ERTSecurityPDA = Notfallteam-Sicherheits-PDA
@@ -201,5 +201,5 @@ ent-ChameleonPDA = Fluggast-PDA
 ent-WizardPDA = Zauberer-PDA
     .desc = Du hörst ein schwaches Flüstern aus ihm.
 
-ent-ScurretPDA = klarer-PDA
+ent-ScurretPDA = Klarer PDA
     .desc = Ein vorübergehender PDA, ausgegeben, um Temperaturen zu verhindern. Tut nicht viel. Wawa!
