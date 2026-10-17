@@ -5,10 +5,10 @@ language-Psychomantic-name = Psychomantisch
 language-Psychomantic-description = Reine Bedeutung, frei von der Tyrannei primärer Worte und Gesten.
 
 language-Bubblish-name = Bubble
-language-Bubblish-description = Die Sprache von Slimes. Da es sich um eine Mischung aus sprudelnden Geräuschen und Pops handelt, ist es sehr schwierig, ohne den Einsatz mechanischer Hilfsmittel für Menschen zu sprechen.
+language-Bubblish-description = Die Sprache von Slimes. Da sie eine Mischung aus Blubbern und Plopps ist, können Menschen sie ohne mechanische Hilfsmittel kaum sprechen.
 
 language-RootSpeak-name = Wurzelsprache
-language-RootSpeak-description = Die seltsame pfeifende Sprache, die die Diona spricht.
+language-RootSpeak-description = Die seltsame, pfeifende Sprache der Diona.
 
 language-Hydraspeak-name = Hy'drav'tha
 language-Hydraspeak-description =
@@ -16,7 +16,7 @@ language-Hydraspeak-description =
     Aufgrund der aviären natur von hydrakin kann ein wort eine million andere dinge gleichzeitig bedeuten, was diese sprache für selbst andere vogelähnliche rassen unverständlich macht.
 
 language-Nekomimetic-name = Nekomimet
-language-Nekomimetic-description = Für den zufälligen Beobachter ist diese Sprache ein unverständliches Durcheinander gebrochenen Japanisch. Für die Feliniden ist es irgendwie verständlich.
+language-Nekomimetic-description = Für den beiläufigen Beobachter ist diese Sprache ein unverständliches Durcheinander aus gebrochenem Japanisch. Für Feliniden ist sie irgendwie verständlich.
 
 language-Draconic-name = Sinta'Unathi
 language-Draconic-description =
@@ -67,13 +67,13 @@ language-Canilunzt-description =
     bestehend aus Knurren, Rinden, Yaps und starker Ausnutzung von Ohren und Schwanzbewegungen. Vulpkanin sprechen diese Sprache mit Leichtigkeit.
 
 language-Moffic-name = Moffic
-language-Moffic-description = Die Sprache der Mottenbewohner grenzt an völlige Unverständlichkeit.
+language-Moffic-description = Die Sprache der Mottenwesen grenzt an völlige Unverständlichkeit.
 
 language-RobotTalk-name = RobotTalk
-language-RobotTalk-description = Eine Sprache, die aus harten binären Chirps, Pfeifen, Zischen und Jammern besteht. Organische Zungen können es nicht ohne Hilfe von speziellen Übersetzern sprechen.
+language-RobotTalk-description = Eine Sprache, die aus harten binären Chirps, Pfeifen, Zischen und Jammern besteht. Organische Zungen können sie nicht ohne Hilfe spezieller Übersetzer sprechen.
 
 language-Calcic-name = Kalk
-language-Calcic-description = Die knochenrasselnde Sprache der Skelette und Plasmamen. Es klingt wie eine harmonische Hose von Knochen mit einem Humerus-Ton, ohne jegliche Off-Tune-Ribbing.
+language-Calcic-description = Die knochenrasselnde Sprache der Skelette und Plasmamen. Es klingt wie ein harmonisches Knochenspiel mit humorvollem Humerus-Ton, ganz ohne schiefe Rippentöne.
 
 # Tau-Ceti Basic Sign Language - Removed prefix for better readability.
 language-Sign-name = Gebärdensprache
@@ -82,7 +82,7 @@ language-Sign-description =
     TCB-SL kurz, diese Gebärdensprache ist bei stummen und tauben Menschen weit verbreitet.
 
 language-Marish-name = Marin
-language-Marish-description =  Eine Sprache, die nur von Shadowkin gesprochen wird, eine, die nicht von normalen Zungen repliziert werden kann.
+language-Marish-description =  Eine Sprache, die nur von Shadowkin gesprochen wird und sich mit normalen Zungen nicht nachahmen lässt.
 
 language-ValyrianStandard-name = Valyrischer Standard
 language-ValyrianStandard-description =
@@ -103,13 +103,13 @@ language-Xeeplian-description =
 # Animal Languages
 
 language-Cat-name = Katze
-language-Cat-description = Mehl
+language-Cat-description = Miau!
 
 language-Deer-name = Hirsch
 language-Deer-description = Ni!
 
 language-Dog-name = Hund
-language-Dog-description = Rinde!
+language-Dog-description = Wuff!
 
 language-Fox-name = Fuchs
 language-Fox-description = Ja!

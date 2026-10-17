@@ -1,14 +1,14 @@
-translator-component-shutoff = Die {$translator} abschaltet.
-translator-component-turnon = Die {$translator} sich einschaltet.
+translator-component-shutoff = {$translator} schaltet sich ab.
+translator-component-turnon = {$translator} schaltet sich ein.
 
-translator-implanter-refuse = Die {$implanter} keine Wirkung auf {$target}.
-translator-implanter-success = Die {$implanter} erfolgreich injiziert {$target}.
+translator-implanter-refuse = {$implanter} hat keine Wirkung auf {$target}.
+translator-implanter-success = {$implanter} wurde erfolgreich in {$target} injiziert.
 translator-implanter-ready = Dieser Implanter scheint einsatzbereit zu sein.
-translator-implanter-used = Dieser Implanter scheint leer.
+translator-implanter-used = Dieser Implanter scheint leer zu sein.
 
-translator-examined-langs-understood = Es kann übersetzen aus: [color=green]{$languages}[/color].
-translator-examined-langs-spoken = Es kann übersetzt werden zu: [color=green]{$languages}[/color].
+translator-examined-langs-understood = Er kann übersetzen aus: [color=green]{$languages}[/color].
+translator-examined-langs-spoken = Er kann übersetzen in: [color=green]{$languages}[/color].
 translator-examined-requires-any = Du musst mindestens eine dieser Sprachen beherrschen: [color=yellow]{$languages}[/color].
-translator-examined-requires-all = Es erfordert, dass du alle diese Sprachen kennst: [color=yellow]{$languages}[/color].
-translator-examined-enabled = Es scheint, dass [color=green]aktiv[/color].
-translator-examined-disabled = Es scheint, dass [color=red]ausgeschaltet[/color].
+translator-examined-requires-all = Du musst alle diese Sprachen beherrschen: [color=yellow]{$languages}[/color].
+translator-examined-enabled = Er scheint [color=green]aktiv[/color] zu sein.
+translator-examined-disabled = Er scheint [color=red]ausgeschaltet[/color] zu sein.
