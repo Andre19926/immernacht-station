@@ -15,7 +15,7 @@ curse-blindness-3 = Du blinzelst und bemerkst, dass deine Sicht verschwommener i
 
 curse-death-1 = Du spürst Hände aus der Tiefe, die nach deiner Seele greifen!
 curse-death-2 = Es kommt dich holen!
-curse-death-3 = Das Fleisch von {CAPITALIZE(THE($entity))} reißt vor deinen Augen auf!!
+curse-death-3 = Das Fleisch von {THE($entity)} reißt vor deinen Augen auf!!
 
 curse-popup-weakness = Ihre Stärke zerbröckelt unter deinem Willen.
 curse-popup-blood = Ihre Adern weinen auf deinen Befehl.

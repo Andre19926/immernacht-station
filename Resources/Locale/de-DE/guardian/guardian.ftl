@@ -21,7 +21,7 @@ guardian-already-present-invalid-creation = Du lebst diese eindringliche Erfahru
 guardian-no-actions-invalid-creation = Du hast nicht die Möglichkeit, einen Wächter zu hosten!
 guardian-activator-empty-invalid-creation = Der Injektor ist verbraucht.
 guardian-activator-empty-examine = [color=#ba1919]Der Injektor ist verbraucht.[/color]
-guardian-activator-invalid-target = {CAPITALIZE(THE($entity))} Kann nicht injiziert werden!
+guardian-activator-invalid-target = {CAPITALIZE(THE($entity))} kann nicht injiziert werden!
 guardian-no-soul = Dein Hüter hat keine Seele.
 guardian-available = Dein Hüter hat jetzt eine Seele.
 guardian-inside-container = Es gibt keinen Platz, um deinen Wächter freizulassen!

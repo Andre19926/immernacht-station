@@ -6,5 +6,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 battery-drainer-full = Dein Akku ist bereits voll
-battery-drainer-empty = {CAPITALIZE(THE($battery))} nicht genug Strom zum Ablassen
-battery-drainer-success = Du entziehst die Macht von {THE($battery)}!
+battery-drainer-empty = {CAPITALIZE(THE($battery))} hat nicht genug Strom zum Entladen.
+battery-drainer-success = Du entziehst {THE($battery)} Strom!

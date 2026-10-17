@@ -64,7 +64,7 @@ anomaly-sync-no-anomaly = Keine Anomalie in Reichweite.
 anomaly-sync-examine-connected = Es ist [color=darkgreen]befestigt[/color] zu einer Anomalie.
 anomaly-sync-examine-not-connected = Es ist [color=darkred]nicht angebracht[/color] zu einer Anomalie.
 anomaly-sync-connect-verb-text = Anomalie anbringen
-anomaly-sync-connect-verb-message = Eine nahe gelegene Anomalie anbringen, um {THE($machine)}.
+anomaly-sync-connect-verb-message = Eine nahe gelegene Anomalie an {THE($machine)} anschließen.
 anomaly-sync-disconnect-verb-text = Anomalie entfernen
 anomaly-sync-disconnect-verb-message = Entferne die verbundene Anomalie von {THE($machine)}.
 

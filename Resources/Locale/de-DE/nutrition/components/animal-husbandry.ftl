@@ -6,5 +6,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 infant-name-prefix = Baby {$baseName}
-reproductive-birth-popup = {CAPITALIZE(THE($parent))} Geboren!
-reproductive-laid-egg-popup = {CAPITALIZE(THE($parent))} Legt ein Ei!
+reproductive-birth-popup = {CAPITALIZE(THE($parent))} hat geboren!
+reproductive-laid-egg-popup = {CAPITALIZE(THE($parent))} legt ein Ei!

@@ -8,7 +8,7 @@
 
 mime-cant-speak = Dein Schweigegelübde hindert dich am Sprechen.
 mime-invisible-wall-popup-self = Du streifst eine unsichtbare Wand!
-mime-invisible-wall-popup-others = {CAPITALIZE(THE($mime))} Pinsel gegen eine unsichtbare Wand!
+mime-invisible-wall-popup-others = {CAPITALIZE(THE($mime))} streift eine unsichtbare Wand!
 mime-invisible-wall-failed = Man kann dort keine unsichtbare Mauer errichten.
 mime-not-ready-repent = Du bist noch nicht bereit, für dein gebrochenes Gelübde zu bereuen.
 mime-ready-to-repent = Du fühlst dich bereit, dein Gelübde erneut abzulegen.

@@ -43,7 +43,7 @@ injector-component-cannot-toggle-inject-message = Nichts zu injizieren!
 injector-component-cannot-toggle-dynamic-message = Dynamik lässt sich nicht umschalten!
 injector-component-empty-message = {CAPITALIZE(THE($injector))} ist leer!
 injector-component-blocked-user = Schutzausrüstung blockiert deine Injektion!
-injector-component-blocked-other = {CAPITALIZE(THE(POSS-ADJ($target)))} Panzerung blockiert die Injektion von {THE($user)}!
+injector-component-blocked-other = {CAPITALIZE(POSS-ADJ($target))} Panzerung blockiert die Injektion von {THE($user)}!
 injector-component-cannot-transfer-message = Du kannst nichts in {THE($target)} übertragen!
 injector-component-cannot-transfer-message-self = Du kannst nichts in dich selbst übertragen!
 injector-component-cannot-inject-message = Du kannst nichts in {THE($target)} injizieren!
@@ -57,7 +57,7 @@ injector-component-ignore-mobs = Dieser Injektor kann nur mit Containern interag
 injector-component-needle-injecting-user = Du setzt die Nadel zum Injizieren an.
 injector-component-needle-injecting-target = {CAPITALIZE(THE($user))} versucht, dir eine Nadel zu setzen!
 injector-component-needle-drawing-user = Du setzt die Nadel zum Aufziehen an.
-injector-component-needle-drawing-target = {CAPITALIZE(THE($user))} versucht, mit einer Nadel bei dir etwas aufzuziehen!
+injector-component-needle-drawing-target = {CAPITALIZE(THE($user))} versucht, dir mit einer Nadel etwas zu entnehmen!
 injector-component-spray-injecting-user = Du bereitest die Sprühdüse vor.
 injector-component-spray-injecting-target = {CAPITALIZE(THE($user))} versucht, dir eine Sprühdüse anzusetzen!
 

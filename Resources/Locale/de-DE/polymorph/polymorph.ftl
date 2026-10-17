@@ -9,7 +9,7 @@
 polymorph-self-action-name = Verwandlung ({CAPITALIZE($target)})
 polymorph-self-action-description = Sofort polymorph selbst in {$target}.
 
-polymorph-popup-generic = {CAPITALIZE(THE($parent))} verwandelt in {$child}.
+polymorph-popup-generic = {CAPITALIZE(THE($parent))} hat sich in {$child} verwandelt.
 polymorph-revert-popup-generic = {CAPITALIZE(THE($parent))} hat sich zurück in {$child} verwandelt.
 
 polymorph-paused-map-name = Speicherkarte des polymorphen Körpers

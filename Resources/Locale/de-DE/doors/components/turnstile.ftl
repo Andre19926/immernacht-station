@@ -1,1 +1,1 @@
-turnstile-component-popup-resist = {CAPITALIZE(THE($turnstile))} Widersteht euren Bemühungen!
+turnstile-component-popup-resist = {CAPITALIZE(THE($turnstile))} widersteht deinen Bemühungen!

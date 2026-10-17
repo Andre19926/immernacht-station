@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-sleep-in-bag = {THE($entity)} sich zusammenrollen und einschlafen.
+popup-sleep-in-bag = {CAPITALIZE(THE($entity))} rollt sich zusammen und schläft ein.

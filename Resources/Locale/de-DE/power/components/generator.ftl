@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-generator-clogged = {CAPITALIZE(THE($generator))} schaltet abrupt ab!
+generator-clogged = {CAPITALIZE(THE($generator))} schaltet sich abrupt ab!
 
 portable-generator-verb-start = Generator starten
 portable-generator-verb-start-msg-unreliable = Starte den Generator. Dies kann einige Versuche erfordern.

@@ -17,12 +17,12 @@ execution-verb-message = Benutze deine Waffe, um jemanden hinzurichten.
 # victim (the person being executed)
 # weapon (the weapon used for the execution)
 
-execution-popup-melee-initial-internal = Du setzt {THE($weapon)} an den Hals von {THE($victim)}.
-execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } Fertigwaren {POSS-ADJ($attacker)} {$weapon} gegen die Kehle des {THE($victim)}.
+execution-popup-melee-initial-internal = Du setzt {THE($weapon)} an die Kehle von {THE($victim)}.
+execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } setzt {POSS-ADJ($attacker)} {$weapon} an die Kehle von {THE($victim)}.
 execution-popup-melee-complete-internal = Du schlitzt {THE($victim)} die Kehle auf!
-execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } schlitzt den Hals von {THE($victim)}!
+execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } schlitzt {THE($victim)} die Kehle auf!
 
-execution-popup-self-initial-internal = Du bist bereit {THE($weapon)} gegen deine eigene Kehle.
-execution-popup-self-initial-external = { CAPITALIZE(THE($attacker)) } Fertigwaren {POSS-ADJ($attacker)} {$weapon} gegen die eigene Kehle.
+execution-popup-self-initial-internal = Du setzt {THE($weapon)} an deine eigene Kehle.
+execution-popup-self-initial-external = { CAPITALIZE(THE($attacker)) } setzt {POSS-ADJ($attacker)} {$weapon} an die eigene Kehle.
 execution-popup-self-complete-internal = Du schneidest dir die Kehle auf!
-execution-popup-self-complete-external = { CAPITALIZE(THE($attacker)) } schlitzt ihre eigene Kehle!
+execution-popup-self-complete-external = { CAPITALIZE(THE($attacker)) } schlitzt sich die eigene Kehle auf!

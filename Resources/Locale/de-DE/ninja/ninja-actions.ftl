@@ -18,6 +18,6 @@ ninja-cell-too-large = Diese Stromquelle passt nicht in den Ninja-Anzug!
 
 ninja-download-fail = Server hat keine Forschungsdaten...
 ninja-research-steal-fail = Keine neuen Forschungsknoten wurden gestohlen...
-ninja-research-steal-success = Stroh {$count} Neue Nodes von {THE($server)}.
+ninja-research-steal-success = {$count} neue Knoten von {THE($server)} gestohlen.
 
 ninja-criminal-records-hack-announcement = FEHLER: Strafregister hat eine [REDACTED] Fehler #*;

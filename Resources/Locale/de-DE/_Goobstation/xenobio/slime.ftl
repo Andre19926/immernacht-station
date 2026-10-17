@@ -8,9 +8,9 @@ slime-latch-fail-already-latched = Du kannst dich nicht an {$ent} festsaugen, es
 
 slime-latch-fail-max-entities = Du kannst {$ent} nicht verschlingen, du bist satt!
 
-slime-eat-corpse-success = {THE($eater)} versucht, etwas wegzureißen {THE($target)}!
+slime-eat-corpse-success = {CAPITALIZE(THE($eater)) } versucht, etwas von {THE($target)} wegzureißen!
 
-slime-eat-corpse-fail = Wir können das nicht essen {THE($target)}!
+slime-eat-corpse-fail = Wir können {THE($target)} nicht essen!
 
 slime-examined-stomach = [color=red]Du siehst, wie sich darin etwas bewegt![/color]
 

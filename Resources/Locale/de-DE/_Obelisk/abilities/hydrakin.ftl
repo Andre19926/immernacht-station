@@ -1,1 +1,1 @@
-hydrakin-cool-off-emote = {THE($name)} Beginnt Wärme auszustrahlen.
+hydrakin-cool-off-emote = {CAPITALIZE(THE($name))} beginnt, Wärme abzustrahlen.

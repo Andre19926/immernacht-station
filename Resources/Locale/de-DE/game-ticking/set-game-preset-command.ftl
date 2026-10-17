@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 set-game-preset-command-description = Legt die Spielvoreinstellung für die angegebene Anzahl der bevorstehenden Runden fest. Kann auch den Titel und die Beschreibung eines anderen Presets in der Lobby anzeigen, um Spieler zu täuschen.
-set-game-preset-command-help-text = setgamepreset <id> [number of rounds, defaulting to 1] [decoy preset]
+set-game-preset-command-help-text = setgamepreset <id> [Anzahl der Runden, Standard: 1] [Täuschungs-Preset]
 set-game-preset-command-hint-1 = <id>
 set-game-preset-command-hint-2 = [number of rounds]
 set-game-preset-command-hint-3 = [decoy preset]

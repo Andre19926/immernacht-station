@@ -12,32 +12,32 @@
 contraband-examine-text-Clown = [color=yellow]Dieser Gegenstand gehört dem Clown, gib ihn zurück, bevor er traurig wird.[/color]
 contraband-examine-text-Minor =
     { $type ->
-        *[item] [color=yellow]This item is considered minor contraband.[/color]
-        [reagent] [color=yellow]This reagent is considered minor contraband.[/color]
+        *[item] [color=yellow]Dieser Gegenstand gilt als geringfügige Schmuggelware.[/color]
+        [reagent] [color=yellow]Dieses Reagenz gilt als geringfügige Schmuggelware.[/color]
     }
 
 contraband-examine-text-Restricted =
     { $type ->
-        *[item] [color=yellow]This item is departmentally restricted.[/color]
-        [reagent] [color=yellow]This reagent is departmentally restricted.[/color]
+        *[item] [color=yellow]Dieser Gegenstand unterliegt abteilungsinternen Beschränkungen.[/color]
+        [reagent] [color=yellow]Dieses Reagenz unterliegt abteilungsinternen Beschränkungen.[/color]
     }
 
 contraband-examine-text-Restricted-department =
     { $type ->
-        *[item] [color=yellow]Dieser Artikel ist beschränkt auf {$departments}und kann als Schmuggelware angesehen werden.[/color]
-        [reagent] [color=yellow]Dieses Reagenz ist beschränkt auf {$departments}und kann als Schmuggelware angesehen werden.[/color]
+        *[item] [color=yellow]Dieser Artikel ist beschränkt auf {$departments} und kann als Schmuggelware angesehen werden.[/color]
+        [reagent] [color=yellow]Dieses Reagenz ist beschränkt auf {$departments} und kann als Schmuggelware angesehen werden.[/color]
     }
 
 contraband-examine-text-Major =
     { $type ->
-        *[item] [color=red]This item is considered major contraband.[/color]
-        [reagent] [color=red]This reagent is considered major contraband.[/color]
+        *[item] [color=red]Dieser Gegenstand gilt als schwere Schmuggelware.[/color]
+        [reagent] [color=red]Dieses Reagenz gilt als schwere Schmuggelware.[/color]
     }
 
 contraband-examine-text-GrandTheft =
     { $type ->
-        *[item] [color=red]This item is a highly valuable target for Syndicate agents![/color]
-        [reagent] [color=red]This reagent is a highly valuable target for Syndicate agents![/color]
+        *[item] [color=red]Dieser Gegenstand ist ein höchst wertvolles Ziel für Syndicate-Agenten![/color]
+        [reagent] [color=red]Dieses Reagenz ist ein höchst wertvolles Ziel für Syndicate-Agenten![/color]
     }
 
 contraband-examine-text-Highly-Illegal =
@@ -48,14 +48,14 @@ contraband-examine-text-Highly-Illegal =
 
 contraband-examine-text-Syndicate =
     { $type ->
-        *[item] [color=crimson]This item is highly illegal Syndicate contraband![/color]
-        [reagent] [color=crimson]This reagent is highly illegal Syndicate contraband![/color]
+        *[item] [color=crimson]Dieser Gegenstand ist hochgradig illegale Syndicate-Schmuggelware![/color]
+        [reagent] [color=crimson]Dieses Reagenz ist hochgradig illegale Syndicate-Schmuggelware![/color]
     }
 
 contraband-examine-text-Magical =
     { $type ->
-        *[item] [color=#b337b3]This item is highly illegal magical contraband![/color]
-        [reagent] [color=#b337b3]This reagent is highly illegal magical contraband![/color]
+        *[item] [color=#b337b3]Dieser Gegenstand ist hochgradig illegale magische Schmuggelware![/color]
+        [reagent] [color=#b337b3]Dieses Reagenz ist hochgradig illegale magische Schmuggelware![/color]
     }
 
 contraband-examine-text-avoid-carrying-around = [color=red][italic]Du solltest das besser nicht ohne guten Grund sichtbar mit dir herumtragen.[/italic][/color]

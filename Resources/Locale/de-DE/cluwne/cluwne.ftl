@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cluwne-transform = {CAPITALIZE(THE($target))} verwandelte sich in eine Cluwne!
+cluwne-transform = {CAPITALIZE(THE($target))} hat sich in eine Cluwne verwandelt!
 cluwne-name-prefix = abgesperrt {$baseName}
 cluwne-knock-emote = Krämpfe
 cluwne-giggle-emote = hupt

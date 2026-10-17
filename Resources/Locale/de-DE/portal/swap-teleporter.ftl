@@ -12,9 +12,9 @@ swap-teleporter-popup-link-fail-already-other = Quantum Link ist gescheitert! Li
 swap-teleporter-popup-link-destroyed = Quantum Link zerstört!
 swap-teleporter-popup-teleport-cancel-time = Es wird immer noch aufgeladen!
 swap-teleporter-popup-teleport-cancel-link = Es ist nicht mit einem anderen Gerät verbunden!
-swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} Aktiviert, und du findest dich woanders.
+swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} aktiviert sich, und du findest dich woanders wieder.
 # Goobstation - QSIs don't teleport across maps
-swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))} Scheint nichts zu tun...
+swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))} scheint nichts zu bewirken ...
 
 swap-teleporter-verb-destroy-link = Zerstöre die Quantenverbindung
 

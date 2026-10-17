@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: MIT
 
 shakeable-verb = Schütteln
-shakeable-popup-message-others = { CAPITALIZE(THE($user)) } Shakes { THE($shakeable) }
+shakeable-popup-message-others = { CAPITALIZE(THE($user)) } schüttelt { THE($shakeable) }
 shakeable-popup-message-self = Du schüttelst { THE($shakeable) }

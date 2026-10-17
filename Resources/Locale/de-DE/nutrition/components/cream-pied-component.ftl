@@ -6,4 +6,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 cream-pied-component-on-hit-by-message = Du wurdest mit {$thrown} eingecremt!
-cream-pied-component-on-hit-by-message-others = {CAPITALIZE(THE($owner))} wurde mit {$thrown} eingecremt!
+cream-pied-component-on-hit-by-message-others = {CAPITALIZE(THE($owner))} wurde von {$thrown} eingecremt!

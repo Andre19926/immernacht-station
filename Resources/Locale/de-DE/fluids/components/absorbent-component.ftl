@@ -8,10 +8,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 mopping-system-target-container-empty = { CAPITALIZE(THE($target)) } ist leer!
-mopping-system-target-container-empty-water = { CAPITALIZE(THE($target)) } Hat kein Wasser!
+mopping-system-target-container-empty-water = { CAPITALIZE(THE($target)) } enthält kein Wasser!
 mopping-system-puddle-space = { CAPITALIZE(THE($used)) } ist voller Wasser.
-mopping-system-puddle-already-mopped = { CAPITALIZE(THE($target)) } ist bereits gemoppt.
-mopping-system-no-water = { CAPITALIZE(THE($used)) } Hat kein Wasser!
+mopping-system-puddle-already-mopped = { CAPITALIZE(THE($target)) } ist bereits gewischt.
+mopping-system-no-water = { CAPITALIZE(THE($used)) } enthält kein Wasser!
 mopping-system-no-hands = Du hast keine Hände!
 
 mopping-system-full = { CAPITALIZE(THE($used)) } ist voll!

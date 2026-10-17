@@ -12,8 +12,8 @@
 mech-verb-enter = Betreten
 mech-verb-exit = Pilot entfernen
 
-mech-equipment-begin-install = Installation der {THE($item)}...
-mech-equipment-finish-install = Fertige Installation der {THE($item)}
+mech-equipment-begin-install = Du installierst {THE($item)} ...
+mech-equipment-finish-install = Du hast {THE($item)} fertig installiert.
 
 mech-equipment-select-popup = {$item} ausgewählt
 mech-equipment-select-none-popup = Nichts ausgewählt

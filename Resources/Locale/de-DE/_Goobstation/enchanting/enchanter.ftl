@@ -6,5 +6,5 @@ enchanter-cant-enchant = Du kannst das mit diesem Gegenstand nicht verzaubern!
 enchanter-enchanted = Eine magische Aura schimmert über {THE($item)}!
 enchanting-tool-no-enchanter = Du musst eine Verzauberungsquelle zum Zielgegenstand legen.
 
-enchanting-sacrifice-single = Die Seele der {$target} Empowerment {THE($item)}!
+enchanting-sacrifice-single = Die Seele von {$target} stärkt {THE($item)}!
 enchanting-sacrifice-multiple = Die Seele der {$target} Ermöglicht nahegelegene Gegenstände!

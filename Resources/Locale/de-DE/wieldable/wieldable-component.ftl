@@ -15,11 +15,11 @@
 wieldable-verb-text-wield = Wiese
 wieldable-verb-text-unwield = unhandlich
 
-wieldable-component-successful-wield = Du trägst { THE($item) }.
-wieldable-component-failed-wield = Du bist unhandlich { THE($item) }.
-wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } Schweben { THE($item) }.
-wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } unhandlds { THE($item) }.
-wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } Blockiert dich vom Ausführen { THE($item) }.
+wieldable-component-successful-wield = Du hältst { THE($item) } mit beiden Händen.
+wieldable-component-failed-wield = Du hältst { THE($item) } nicht mehr mit beiden Händen.
+wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } hält { THE($item) } mit beiden Händen.
+wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } hält { THE($item) } nicht mehr mit beiden Händen.
+wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } hindert dich daran, { THE($item) } mit beiden Händen zu halten.
 
 wieldable-component-no-hands = Du hast nicht genug Hände!
 wieldable-component-not-enough-free-hands = {$number ->
@@ -28,7 +28,7 @@ wieldable-component-not-enough-free-hands = {$number ->
 }
 wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } liegt nicht in deinen Händen!
 
-wieldable-component-requires = { CAPITALIZE(THE($item))} muss ausgeübt werden!
+wieldable-component-requires = { CAPITALIZE(THE($item))} muss mit beiden Händen gehalten werden!
 
 gunwieldbonus-component-examine = Diese Waffe hat die Genauigkeit beim Ausführen verbessert.
 

@@ -1,6 +1,6 @@
-handheld-grinder-cannot-juice = Du kannst keinen Saft {THE($item)}!
-handheld-grinder-cannot-grind = Du kannst nicht mahlen {THE($item)}!
+handheld-grinder-cannot-juice = Du kannst {THE($item)} nicht entsaften!
+handheld-grinder-cannot-grind = Du kannst {THE($item)} nicht mahlen!
 
-handheld-grinder-default = Du hast die Verarbeitung abgeschlossen {THE($item)}.
-handheld-grinder-juiced = Du hast das Entsaften beendet {THE($item)}.
-handheld-grinder-grinded = Du bist fertig gemahlen {THE($item)}.
+handheld-grinder-default = Du hast die Verarbeitung von {THE($item)} abgeschlossen.
+handheld-grinder-juiced = Du hast das Entsaften von {THE($item)} beendet.
+handheld-grinder-grinded = Du hast das Mahlen von {THE($item)} beendet.

@@ -21,13 +21,13 @@
 paper-ui-blank-page-message = Diese Seite wurde absichtlich leer gelassen
 
 # Shown when paper with words examined details
-paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} Darauf steht etwas geschrieben.
+paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} ist beschrieben.
 # Shown when paper with stamps examined
-paper-component-examine-detail-stamped-by = {CAPITALIZE(THE($paper))} {CONJUGATE-HAVE($paper)} abgestempelt von: {$stamps}.
+paper-component-examine-detail-stamped-by = {CAPITALIZE(THE($paper))} wurde abgestempelt von: {$stamps}.
 paper-component-illiterate = Du kannst nicht schreiben.
 paper-component-illiterate-mime = Dein Gelübde verbietet dir das Schreiben.
 
-paper-component-action-stamp-paper-other = {CAPITALIZE(THE($user))} Stempel {THE($target)} mit {THE($stamp)}.
+paper-component-action-stamp-paper-other = {CAPITALIZE(THE($user))} stempelt {THE($target)} mit {THE($stamp)}.
 paper-component-action-stamp-paper-self = Du stempelst {THE($target)} mit {THE($stamp)} ab.
 
 # Indicator to show how full a paper is

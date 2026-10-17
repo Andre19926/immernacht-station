@@ -30,7 +30,7 @@ pai-system-wiped-device = Das pAI wurde aus dem Gerät gelöscht.
 pai-system-stop-searching-verb-text = Suche abbrechen
 pai-system-stopped-searching = Das Gerät stoppte die Suche nach einem pAI.
 
-pai-system-pai-name = { CAPITALIZE(THE($owner)) }s pAI
+pai-system-pai-name = pAI von { CAPITALIZE(THE($owner)) }
 pai-system-pai-name-raw = {$name}s pAI
 
 pai-system-brick-popup = Die Schaltkreise der pAI knallen und verpuffen laut!

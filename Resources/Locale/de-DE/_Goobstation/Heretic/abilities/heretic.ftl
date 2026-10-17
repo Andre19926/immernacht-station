@@ -35,7 +35,7 @@ heretic-blade-break-fail-acended-message = Du kannst keine Klingen brechen, wäh
 heretic-blade-use = Die Klinge zerbricht und du spürst, wie die Stimmen dich wegziehen.
 heretic-riposte-used = Riposte verwendet!
 heretic-riposte-available = Riposte verfügbar!
-heretic-cant-shoot = Ich kann nicht benutzen { THE($entity) } wegen meines heiligen Versprechens auf den Weg der Klinge.
+heretic-cant-shoot = Ich kann { THE($entity) } wegen meines heiligen Schwurs auf den Pfad der Klinge nicht benutzen.
 
 ## paths exclusive
 heretic-rust-mark-itembreak = {$name} zerbricht zu Staub!

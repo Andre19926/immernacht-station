@@ -27,7 +27,7 @@ paint-style-square = Quadrat
 paint-style-spray = Spray
 paint-style-calligraphy = Kalligraphie
 
-paint-tool-empty = {CAPITALIZE(THE($tool))} ist alles aufgebraucht.
+paint-tool-empty = {CAPITALIZE(THE($tool))} ist komplett aufgebraucht.
 
 paint-untitled = Unbetitelt
 paint-unknown-artist = Ein unbekannter Künstler

@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 paper-sign-verb = Schild
-paper-signed-other = {CAPITALIZE(THE($user))} Zeichen {THE($target)}.
+paper-signed-other = {CAPITALIZE(THE($user))} unterschreibt {THE($target)}.
 paper-signed-self = Du unterschreibst {THE($target)}.
 paper-signed-failure = Du kannst {THE($target)} nicht unterschreiben.

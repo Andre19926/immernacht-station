@@ -24,7 +24,7 @@ forensic-scanner-interface-clear = Leeren
 forensic-scanner-report-title = Forensik-Bericht: {$entity}
 forensic-pad-unused = Es wurde nicht benutzt.
 forensic-pad-sample = Es hat eine Probe: {$sample}
-forensic-pad-no-access-due = Kann nicht auf den Fingerabdruck zugreifen, weil {THE($entity)}.
+forensic-pad-no-access-due = Auf den Fingerabdruck kann wegen {THE($entity)} nicht zugegriffen werden.
 forensic-pad-no-access = Kann nicht auf den Fingerabdruck zugreifen.
 forensic-pad-start-scan-target = {CAPITALIZE($user)} versucht, eine probe ihrer fingerabdrücke zu nehmen.
 forensic-pad-start-scan-user = Du fängst an, eine Probe von den Fingerabdrücken von {CAPITALIZE($target)} zu nehmen.
@@ -40,6 +40,6 @@ forensics-dna-unknown = unbekannte DNA
 
 forensics-verb-text = Beweise entfernen
 forensics-verb-message = Fingerabdrücke und DNA-Reste vom Objekt entfernen!
-forensics-cleaning = Du fängst an, die Beweise von {THE($target)}...
+forensics-cleaning = Du beginnst, die Beweise von {THE($target)} zu entfernen ...
 
-forensics-cleaning-cannot-clean = Es ist nichts reinigbar auf {THE($target)}!
+forensics-cleaning-cannot-clean = Auf {THE($target)} lässt sich nichts reinigen!

@@ -14,10 +14,10 @@ magic-mirror-remove-slot-self = Du entfernst dir ein paar Haare.
 magic-mirror-change-slot-self = Du änderst deine Frisur.
 magic-mirror-change-color-self = Du änderst deine Haarfarbe.
 
-magic-mirror-add-slot-target = {THE($user)} verpasst dir Haare.
-magic-mirror-remove-slot-target = {THE($user)} schneidet dir die Haare ab.
-magic-mirror-change-slot-target = {THE($user)} ändert deine Frisur.
-magic-mirror-change-color-target = {THE($user)} ändert deine Haarfarbe.
+magic-mirror-add-slot-target = {CAPITALIZE(THE($user))} fügt dir Haare hinzu.
+magic-mirror-remove-slot-target = {CAPITALIZE(THE($user))} schneidet dir die Haare ab.
+magic-mirror-change-slot-target = {CAPITALIZE(THE($user))} ändert deine Frisur.
+magic-mirror-change-color-target = {CAPITALIZE(THE($user))} ändert deine Haarfarbe.
 
 magic-mirror-blocked-by-hat-self = Du musst erst deinen Hut abnehmen, bevor du deine Haare ändern kannst.
 magic-mirror-blocked-by-hat-self-target = Du versuchst, die Haare zu ändern, aber die Kleidung ist im Weg.

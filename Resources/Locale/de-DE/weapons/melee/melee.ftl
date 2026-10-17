@@ -12,7 +12,7 @@
 # Goobstation - Armor resisting syringe gun
 melee-inject-failed-armor = Dein {$weapon} kann nicht durch Rüstung injizieren!
 
-melee-balloon-pop = {CAPITALIZE(THE($balloon))} Popped!
+melee-balloon-pop = {CAPITALIZE(THE($balloon))} ist geplatzt!
 
 
 # BatteryComponent

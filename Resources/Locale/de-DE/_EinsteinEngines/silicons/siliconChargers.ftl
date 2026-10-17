@@ -7,4 +7,4 @@
 silicon-charger-overheatwarning = Du fühlst dich wie in einer Mikrowelle!
 silicon-charger-chargerate-string = Laderate
 silicon-charger-efficiency-string = Effizienz
-silicon-charger-list-full = {CAPITALIZE(THE($charger))} kann nicht so viele Ziele gleichzeitig aufnehmen!
+silicon-charger-list-full = {CAPITALIZE(THE($charger))} kann nur eine begrenzte Zahl an Zielen gleichzeitig aufnehmen!

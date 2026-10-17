@@ -12,10 +12,10 @@ spill-target-verb-get-data-text = Flüssigkeit ausschütten
 spill-target-verb-activate-cannot-drain-message = Du kannst nichts ausgießen {$owner}!
 spill-target-verb-activate-is-empty-message = {$owner} ist leer!
 
-spill-melee-hit-attacker = Du verschüttest {$amount}u {THE($spillable)} auf {THE($target)}!
-spill-melee-hit-others = {CAPITALIZE(THE($attacker))} verschüttet einige von {THE($spillable)} auf {THE($target)}!
+spill-melee-hit-attacker = Du verschüttest {$amount}u von {THE($spillable)} auf {THE($target)}!
+spill-melee-hit-others = {CAPITALIZE(THE($attacker))} verschüttet etwas von {THE($spillable)} auf {THE($target)}!
 
-spill-land-spilled-on-other = {CAPITALIZE(THE($spillable))} verschüttet einen Teil seiner Lösung auf {THE($target)}!
+spill-land-spilled-on-other = {CAPITALIZE(THE($spillable))} verschüttet einen Teil seines Inhalts auf {THE($target)}!
 
 spill-examine-is-spillable = Dieser Behälter lässt sich ausschütten.
 spill-examine-spillable-weapon = Du könntest das mit einem Angriff auf jemanden spritzen.

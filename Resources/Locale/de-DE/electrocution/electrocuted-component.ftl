@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-electrocuted-component-mob-shocked-by-source-popup-others = { CAPITALIZE(THE($mob)) } ist schockiert von { THE($source) }!
-electrocuted-component-mob-shocked-popup-others = { CAPITALIZE(THE($mob)) } ist geschockt!
+electrocuted-component-mob-shocked-by-source-popup-others = { CAPITALIZE(THE($mob)) } bekommt einen Schlag von { THE($source) }!
+electrocuted-component-mob-shocked-popup-others = { CAPITALIZE(THE($mob)) } bekommt einen Schlag!
 electrocuted-component-mob-shocked-popup-player =  Du spürst einen starken Schock, der durch deinen Körper strömt!

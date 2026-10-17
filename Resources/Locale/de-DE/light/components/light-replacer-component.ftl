@@ -20,7 +20,7 @@ comp-light-replacer-insert-light = Du steckst {$bulb} in {THE($light-replacer)}.
 comp-light-replacer-insert-broken-light = Du kannst keine kaputten Leuchtmittel einsetzen!
 
 # Shown when player refill light from light box
-comp-light-replacer-refill-from-storage = Nachfüllen {THE($light-replacer)}.
+comp-light-replacer-refill-from-storage = Du füllst {THE($light-replacer)} wieder auf.
 
 ### Examine
 

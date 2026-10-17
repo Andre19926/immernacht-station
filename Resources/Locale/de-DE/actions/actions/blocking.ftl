@@ -10,8 +10,8 @@
 action-popup-blocking-user = Du hebst {$shield}!
 action-popup-blocking-disabling-user = Du senkst {$shield}!
 
-action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} hebt {$shield}!
-action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} senkt {$shield}!
+action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} hebt {POSS-ADJ($blockerName)} {$shield}!
+action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} senkt {POSS-ADJ($blockerName)} {$shield}!
 
 action-popup-blocking-user-cant-block = Du hast versucht, deinen Schild zu heben, aber es hat nichts gebracht.
 action-popup-blocking-user-too-close = Hier ist kein Platz zum Blocken. Versuch, dich ein Stück zu bewegen!

@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 mining-voucher-select-first = Wähle ein Kit, um zuerst einzulösen!
-mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} ist unpowered!
+mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} hat keinen Strom!
 mining-voucher-selected = Ausgewählt {$kit}!
 
 mining-voucher-extraction-name = Extrahieren und Rettung Kit

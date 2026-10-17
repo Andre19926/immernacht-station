@@ -15,8 +15,8 @@ ingestion-remove-mask = Du musst zuerst {$entity} abnehmen.
 ingestion-you-cannot-ingest-any-more = Du kannst nicht {$verb} Mehr noch!
 ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} kann nicht {$verb} Mehr noch!
 
-ingestion-cant-digest = Du kannst nicht verdauen {THE($entity)}!
-ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} Kann nicht verdauen {THE($entity)}!
+ingestion-cant-digest = Du kannst {THE($entity)} nicht verdauen!
+ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} kann {THE($entity)} nicht verdauen!
 
 ## Action Verbs, not to be confused with Verbs
 
@@ -51,6 +51,6 @@ edible-verb-pill = Schwalben
 
 ## Force feeding
 
-edible-force-feed = {CAPITALIZE(THE($user))} versucht, dich zu machen {$verb} etwas!
-edible-force-feed-success = {CAPITALIZE(THE($user))} Zwang dich, {$verb} etwas! {$flavors}
-edible-force-feed-success-user = Du hast {THE($target)} erfolgreich gefüttert
+edible-force-feed = {CAPITALIZE(THE($user))} versucht, dich zu zwingen, etwas zu {$verb}!
+edible-force-feed-success = {CAPITALIZE(THE($user))} hat dich gezwungen, etwas zu {$verb}! {$flavors}
+edible-force-feed-success-user = Du hast {THE($target)} erfolgreich gefüttert.

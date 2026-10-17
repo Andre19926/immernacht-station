@@ -17,7 +17,7 @@ changeling-biomass-warn-second = Unser Hunger verursacht einen Schmerzanfall...
 changeling-biomass-warn-third = Unser Hunger fordert seinen Tribut von unserer Gestalt...
 changeling-biomass-warn-death = Unsere Zellen beginnen sich selbst zu konsumieren. Es gibt keine Rückkehr.
 
-changeling-absorb-start = {CAPITALIZE(THE($user))} beginnt, die DNA von {CAPITALIZE(THE($target))} aufzunehmen!
+changeling-absorb-start = {CAPITALIZE(THE($user))} beginnt, die DNA von {THE($target)} zu absorbieren!
 changeling-absorb-fail-incapacitated = Wir können sie erst absorbieren, wenn sie handlungsunfähig sind.
 changeling-absorb-fail-absorbed = Es wurde bereits absorbiert.
 changeling-absorb-fail-unabsorbable = Das Ziel lässt sich nicht absorbieren.
@@ -30,19 +30,19 @@ changeling-absorb-fail-nograb = Unser Griff ist nicht fest genug.
 changeling-absorb-fail-onfire = Das Ziel brennt, lösche es zuerst!
 
 
-changeling-absorbbiomatter-start = {THE($user)} beginnt, die Nahrung zu absorbieren!
+changeling-absorbbiomatter-start = {CAPITALIZE(THE($user))} beginnt, die Nahrung zu absorbieren!
 changeling-absorbbiomatter-bad-food = Diese Nahrung lässt sich nicht absorbieren.
 
 changeling-transform-cycle = Auf die DNA von {$target} umgestellt.
 changeling-transform-cycle-empty = Wir haben keine DNA-Stämme!
-changeling-transform-others = Der Körper von {CAPITALIZE(THE($user))} verdreht sich und nimmt die Gestalt eines anderen Wesens an!
+changeling-transform-others = Der Körper von {THE($user)} verdreht sich und nimmt die Gestalt eines anderen Wesens an!
 changeling-transform-fail-self = Wir können uns nicht in die aktuelle Form verwandeln!
 changeling-transform-fail-choose = Wir haben keine Form gewählt, in die wir uns verwandeln können!
 changeling-transform-fail-absorbed = Wir können eine leere Hülle nicht verwandeln!
 changeling-transform-finish = Wir sind jetzt {$target}.
 
-changeling-sting = Wir stechen {CAPITALIZE(THE($target))} lautlos.
-changeling-sting-fail-self = Wir haben versucht, {CAPITALIZE(THE($target))} zu stechen, aber etwas hat uns daran gehindert!
+changeling-sting = Wir stechen {THE($target)} lautlos.
+changeling-sting-fail-self = Wir haben versucht, {THE($target)} zu stechen, aber etwas hat uns daran gehindert!
 changeling-sting-fail-ling = Jemand hat versucht, uns lautlos zu stechen!
 changeling-sting-fail-fakeweapon = Das Ziel kann keine weitere falsche Waffe halten.
 changeling-sting-fail-hollow = Wir können einen hohlen Organismus nicht stechen.

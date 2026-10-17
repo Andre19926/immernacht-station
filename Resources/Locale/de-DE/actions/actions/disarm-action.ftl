@@ -14,6 +14,6 @@
 
 disarm-action-disarmable = {CAPITALIZE(THE($targetName))} lässt sich nicht entwaffnen!
 disarm-action-popup-message-other-clients = {CAPITALIZE(THE($performerName))} hat {THE($targetName)} entwaffnet!
-disarm-action-popup-message-cursor = {THE($targetName)} entwaffnet!
-disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} schubst {THE($targetName)}!
-disarm-action-shove-popup-message-cursor = Du schubst {THE($targetName)}!
+disarm-action-popup-message-cursor = Du entwaffnest {THE($targetName)}!
+disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} stößt {THE($targetName)}!
+disarm-action-shove-popup-message-cursor = Du stößt {THE($targetName)}!

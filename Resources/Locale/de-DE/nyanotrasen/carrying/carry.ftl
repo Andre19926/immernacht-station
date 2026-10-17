@@ -7,4 +7,4 @@
 carry-verb = Beförderung
 
 carry-too-heavy = Du bist nicht stark genug.
-carry-started = {THE($carrier)} Er versucht, dich abzuholen!
+carry-started = {CAPITALIZE(THE($carrier))} versucht, dich hochzuheben!

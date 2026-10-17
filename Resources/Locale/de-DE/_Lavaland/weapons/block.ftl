@@ -6,5 +6,5 @@
 
 block-charge-status-charged = Die Schildanzeige zeigt an, dass sie geladen ist.
 block-charge-status-recharging = Die Schildanzeige zeigt an, dass ihre Aufladung.
-block-attack-notice = {$user} hat den Angriff von {THE($blocked)} geblockt!
+block-attack-notice = {$user} hat den Angriff von {THE($blocked)} abgeblockt!
 block-charge-startup = Die {$entity}'s Schild Indikator leuchtet schwach ...

@@ -5,7 +5,7 @@ changeling-cloner-component-spent = Es wurde bereits benutzt.
 changeling-cloner-component-reset-verb = DNA zurücksetzen
 changeling-cloner-component-reset-popup = Du löschst den DNA-Speicher des Injektors.
 
-changeling-cloner-component-draw-user = Du fängst an, DNA von {THE($target)}.
-changeling-cloner-component-draw-target = {CAPITALIZE(THE($user))} Beginnt, DNA von dir zu zeichnen.
-changeling-cloner-component-inject-user = Du beginnst, DNA injizieren {THE($target)}.
-changeling-cloner-component-inject-target = {CAPITALIZE(THE($user))} Beginnt, DNA in dich zu injizieren.
+changeling-cloner-component-draw-user = Du beginnst, DNA von {THE($target)} zu entnehmen.
+changeling-cloner-component-draw-target = {CAPITALIZE(THE($user))} beginnt, dir DNA zu entnehmen.
+changeling-cloner-component-inject-user = Du beginnst, {THE($target)} DNA zu injizieren.
+changeling-cloner-component-inject-target = {CAPITALIZE(THE($user))} beginnt, dir DNA zu injizieren.

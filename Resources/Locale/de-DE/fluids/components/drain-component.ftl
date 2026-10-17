@@ -10,5 +10,5 @@ drain-component-empty-verb-inhand = Leer {$object}
 drain-component-examine-hint-full = [color="blue"]Es ist bis zum Rand gefüllt. Vielleicht kann ein Kolben helfen?[/color]
 drain-component-examine-volume = [color="blue"]Restraum - {$volume}u.[/color]
 drain-component-unclog-fail = { CAPITALIZE(THE($object)) } ist immer noch voll.
-drain-component-unclog-success = { CAPITALIZE(THE($object)) } Unclogs.
+drain-component-unclog-success = { CAPITALIZE(THE($object)) } ist wieder frei.
 drain-component-unclog-notapplicable = { CAPITALIZE(THE($object)) } ist nicht verstopft.

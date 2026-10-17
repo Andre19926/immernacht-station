@@ -1,8 +1,8 @@
 parcel-wrap-verb-wrap = Gurtband
 parcel-wrap-verb-unwrap = Umschließung
 
-parcel-wrap-popup-parcel-destroyed = Die Umhüllung enthält { THE($contents) } ist zerstört!
-parcel-wrap-popup-being-wrapped = {CAPITALIZE(THE($user))} Versucht, du einzupackst!
+parcel-wrap-popup-parcel-destroyed = Die Verpackung mit { THE($contents) } wurde zerstört!
+parcel-wrap-popup-being-wrapped = {CAPITALIZE(THE($user))} versucht, dich einzupacken!
 parcel-wrap-popup-being-wrapped-self = Du fängst an, dich selbst in Paketpapier einzuwickeln.
 
 # Shown when parcel wrap is examined in details range

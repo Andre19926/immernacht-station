@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-pressurized-solution-spray-holder-self = { CAPITALIZE(THE($drink)) } Sprays auf dich!
-pressurized-solution-spray-holder-others = { CAPITALIZE(THE($drink)) } Sprays auf { THE($victim) }!
-pressurized-solution-spray-ground = Der Inhalt von { THE($drink) } Spray out!
+pressurized-solution-spray-holder-self = { CAPITALIZE(THE($drink)) } spritzt dich an!
+pressurized-solution-spray-holder-others = { CAPITALIZE(THE($drink)) } spritzt { THE($victim) } an!
+pressurized-solution-spray-ground = Der Inhalt von { THE($drink) } spritzt heraus!

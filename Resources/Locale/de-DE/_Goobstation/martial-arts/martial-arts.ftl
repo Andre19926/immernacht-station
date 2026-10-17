@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cqc-fail-notself = Du kannst niemanden mit {CAPITALIZE(THE($manual))}.
+cqc-fail-notself = Du kannst niemanden mit {THE($manual)} unterrichten.
 
 cqc-fail-changeling = Wir sind weit davon entfernt, dies zu nutzen.
 cqc-fail-knowanother = Du kennst bereits eine andere Kampfkunst.

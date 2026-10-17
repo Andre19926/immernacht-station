@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 trap-revealed-message = Du enthüllst {THE($trap)}!
-trap-flare-message = {CAPITALIZE(THE($trap))} leuchtet hell auf!
+trap-flare-message = {CAPITALIZE(THE($trap))} flammt hell auf!
 trap-triggered-message = Du trittst auf {THE($trap)}!
 
 ice-cube-break-free-start = Du fängst an, aus dem Eiswürfel auszubrechen...

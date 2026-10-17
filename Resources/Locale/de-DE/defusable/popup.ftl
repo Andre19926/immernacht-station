@@ -6,13 +6,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-defusable-popup-begun = {CAPITALIZE(THE($name))} Piepsen zum Leben; sein Licht ist an!
-defusable-popup-defuse = {CAPITALIZE(THE($name))} Piepsen ein letztes Mal, als das Licht für immer abgeschaltet.
-defusable-popup-boom = {CAPITALIZE(THE($name))} Brüllen, während die innere Bombe explodiert!
-defusable-popup-fried = {CAPITALIZE(THE($name))} Funken, aber nicht den Countdown beginnen.
-defusable-popup-cant-anchor = {CAPITALIZE(THE($name))} Scheint am Boden verschraubt zu sein!
+defusable-popup-begun = {CAPITALIZE(THE($name))} piept los; die Kontrollleuchte brennt!
+defusable-popup-defuse = {CAPITALIZE(THE($name))} piept ein letztes Mal, dann erlischt das Licht für immer.
+defusable-popup-boom = {CAPITALIZE(THE($name))} brüllt auf, als die innere Bombe explodiert!
+defusable-popup-fried = {CAPITALIZE(THE($name))} funkt, startet den Countdown aber nicht.
+defusable-popup-cant-anchor = {CAPITALIZE(THE($name))} scheint am Boden festgeschraubt zu sein!
 
 defusable-popup-wire-bolt-pulse = Die Schrauben drehen sich für einen Moment an Ort und Stelle.
-defusable-popup-wire-proceed-pulse = {CAPITALIZE(THE($name))} Brummt ominös!
-defusable-popup-wire-proceed-cut = Das digitale Display auf {THE($name)} deaktiviert.
-defusable-popup-wire-chirp = {CAPITALIZE(THE($name))} Chirps.
+defusable-popup-wire-proceed-pulse = {CAPITALIZE(THE($name))} brummt unheilvoll!
+defusable-popup-wire-proceed-cut = Die digitale Anzeige von {THE($name)} schaltet sich ab.
+defusable-popup-wire-chirp = {CAPITALIZE(THE($name))} piepst.

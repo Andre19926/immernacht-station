@@ -9,7 +9,7 @@ envelope-verb-tear = Tränen
 
 envelope-letter-slot = Schreiben
 
-envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} versiegelt ist.[/color]
+envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} ist versiegelt.[/color]
 envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} ist zerrissen und unbrauchbar![/color]
 
 envelope-default-message = ZU: 

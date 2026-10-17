@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wire-speech-pulse = {CAPITALIZE(THE($name))} strahlt ein summendes Geräusch aus
+wire-speech-pulse = {CAPITALIZE(THE($name))} gibt ein summendes Geräusch von sich.

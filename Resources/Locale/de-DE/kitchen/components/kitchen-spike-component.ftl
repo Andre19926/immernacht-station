@@ -13,45 +13,45 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-kitchen-spike-deny-collect = { CAPITALIZE(THE($this)) } Hat schon etwas drauf, fertig sein Fleisch zuerst zu sammeln!
-comp-kitchen-spike-deny-butcher = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden auf { THE($this) }.
-comp-kitchen-spike-deny-changeling = { CAPITALIZE(THE($victim)) } Resists werden aufgesetzt { THE($this) }.
-comp-kitchen-spike-deny-absorbed = { CAPITALIZE(THE($victim)) } Hat nichts mehr zu Metzger.
-comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden auf { THE($this) }dich müssen es mit einem Messer abschlachten.
-comp-kitchen-spike-deny-not-dead = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden. { CAPITALIZE(SUBJECT($victim)) } { CONJUGATE-BE($victim) } Nicht tot!
-comp-kitchen-spike-begin-hook-self = Du fängst an, dich auf { THE($hook) }!
-comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) } Beginnt zu ziehen { REFLEXIVE($victim) } auf { THE($hook) }!
+comp-kitchen-spike-deny-collect = { CAPITALIZE(THE($this)) } ist schon belegt, sammle zuerst das Fleisch ein!
+comp-kitchen-spike-deny-butcher = { CAPITALIZE(THE($victim)) } kann auf { THE($this) } nicht geschlachtet werden.
+comp-kitchen-spike-deny-changeling = { CAPITALIZE(THE($victim)) } wehrt sich dagegen, auf { THE($this) } gehängt zu werden.
+comp-kitchen-spike-deny-absorbed = An { CAPITALIZE(THE($victim)) } gibt es nichts mehr zu schlachten.
+comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE(THE($victim)) } kann auf { THE($this) } nicht geschlachtet werden, du musst es mit einem Messer schlachten.
+comp-kitchen-spike-deny-not-dead = { CAPITALIZE(THE($victim)) } kann nicht geschlachtet werden. { CAPITALIZE(SUBJECT($victim)) } { CONJUGATE-BE($victim) } nicht tot!
+comp-kitchen-spike-begin-hook-self = Du beginnst, dich auf { THE($hook) } zu ziehen!
+comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) } beginnt, { REFLEXIVE($victim) } auf { THE($hook) } zu ziehen!
 
-comp-kitchen-spike-begin-hook-other-self = Du fängst an zu ziehen { CAPITALIZE(THE($victim)) } auf { THE($hook) }!
-comp-kitchen-spike-begin-hook-other = { CAPITALIZE(THE($user)) } Beginnt zu ziehen { CAPITALIZE(THE($victim)) } auf { THE($hook) }!
+comp-kitchen-spike-begin-hook-other-self = Du beginnst, { THE($victim) } auf { THE($hook) } zu ziehen!
+comp-kitchen-spike-begin-hook-other = { CAPITALIZE(THE($user)) } beginnt, { THE($victim) } auf { THE($hook) } zu ziehen!
 
-comp-kitchen-spike-hook-self = Du warfst dich auf { THE($hook) }!
-comp-kitchen-spike-hook-self-other = { CAPITALIZE(THE($victim)) } Wurf { REFLEXIVE($victim) } am { THE($hook) }!
+comp-kitchen-spike-hook-self = Du wirfst dich auf { THE($hook) }!
+comp-kitchen-spike-hook-self-other = { CAPITALIZE(THE($victim)) } wirft { REFLEXIVE($victim) } auf { THE($hook) }!
 
-comp-kitchen-spike-hook-other-self = Du warfst { CAPITALIZE(THE($victim)) } am { THE($hook) }!
-comp-kitchen-spike-hook-other = { CAPITALIZE(THE($user)) } Wurf { CAPITALIZE(THE($victim)) } am { THE($hook) }!
+comp-kitchen-spike-hook-other-self = Du wirfst { THE($victim) } auf { THE($hook) }!
+comp-kitchen-spike-hook-other = { CAPITALIZE(THE($user)) } wirft { THE($victim) } auf { THE($hook) }!
 
-comp-kitchen-spike-begin-unhook-self = Du fängst an, dich selbst wegzuziehen { THE($hook) }!
-comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE(THE($victim)) } Beginnt zu ziehen { REFLEXIVE($victim) } ausgeschaltet { THE($hook) }!
+comp-kitchen-spike-begin-unhook-self = Du beginnst, dich von { THE($hook) } herunterzuziehen!
+comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE(THE($victim)) } beginnt, { REFLEXIVE($victim) } von { THE($hook) } herunterzuziehen!
 
-comp-kitchen-spike-begin-unhook-other-self = Du fängst an zu ziehen { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
-comp-kitchen-spike-begin-unhook-other = { CAPITALIZE(THE($user)) } Beginnt zu ziehen { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
+comp-kitchen-spike-begin-unhook-other-self = Du beginnst, { THE($victim) } von { THE($hook) } herunterzuziehen!
+comp-kitchen-spike-begin-unhook-other = { CAPITALIZE(THE($user)) } beginnt, { THE($victim) } von { THE($hook) } herunterzuziehen!
 
-comp-kitchen-spike-unhook-self = Du hast dich selbst ausgeschaltet { THE($hook) }!
-comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } erhalten { REFLEXIVE($victim) } ausgeschaltet { THE($hook) }!
+comp-kitchen-spike-unhook-self = Du hast dich von { THE($hook) } befreit!
+comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } befreit { REFLEXIVE($victim) } von { THE($hook) }!
 
-comp-kitchen-spike-unhook-other-self = Du hast { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
-comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } erhalten { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
+comp-kitchen-spike-unhook-other-self = Du befreist { THE($victim) } von { THE($hook) }!
+comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } befreit { THE($victim) } von { THE($hook) }!
 
 comp-kitchen-spike-begin-butcher-self = Du fängst an, { THE($victim) } zu schlachten!
-comp-kitchen-spike-begin-butcher = { CAPITALIZE(THE($user)) } beginnt zu schlachten { THE($victim) }!
+comp-kitchen-spike-begin-butcher = { CAPITALIZE(THE($user)) } beginnt, { THE($victim) } zu schlachten!
 
 comp-kitchen-spike-butcher-self = Du hast { THE($victim) } geschlachtet!
-comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } geschlachtet { THE($victim) }!
+comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } schlachtet { THE($victim) }!
 
 comp-kitchen-spike-unhook-verb = Aushaken
 
-comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) } ist auf diesem Spike![/color]
+comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) } hängt an diesem Spieß![/color]
 
 comp-kitchen-spike-meat-name = { $name } ({ $victim })
 

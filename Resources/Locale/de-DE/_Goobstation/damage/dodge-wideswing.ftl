@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wideswing-dodge-generic = {THE($target)} schnell dem breiten Swing ausweichen!
+wideswing-dodge-generic = {CAPITALIZE(THE($target))} weicht dem weiten Schwung flink aus!

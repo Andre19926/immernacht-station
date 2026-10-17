@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lube-success = {CAPITALIZE(THE($target))} Es ist mit Gleitmittel bedeckt!
+lube-success = {CAPITALIZE(THE($target))} wurde mit Gleitmittel bedeckt!
 lubed-name-prefix = geschmiert {$baseName}
-lube-failure = Can't cover {THE($target)} In Gleitmittel!
-lube-slip = {CAPITALIZE(THE($target))} Rutscht aus deinen Händen!
+lube-failure = {CAPITALIZE(THE($target))} kann nicht mit Gleitmittel bedeckt werden!
+lube-slip = {CAPITALIZE(THE($target))} rutscht dir aus den Händen!
 lube-verb-text = Gleitmittel auftragen
 lube-verb-message = Objekt einschmieren

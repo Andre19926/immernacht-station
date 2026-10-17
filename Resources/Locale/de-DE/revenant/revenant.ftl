@@ -15,14 +15,14 @@ revenant-in-solid = Du kannst diese Fähigkeit nicht innerhalb eines festen Obje
 revenant-soul-too-powerful = Diese Seele ist zu stark zum Ernten!
 revenant-soul-harvested = Diese Seele ist bereits geerntet!
 
-revenant-soul-searching = Du suchst nach der Seele des {THE($target)}.
+revenant-soul-searching = Du suchst nach der Seele von {THE($target)}.
 
 revenant-soul-yield-high = {CAPITALIZE(THE($target))} hat eine überdurchschnittliche Seele!
 revenant-soul-yield-average = {CAPITALIZE(THE($target))} hat eine durchschnittliche Seele.
 revenant-soul-yield-low = {CAPITALIZE(THE($target))} hat eine unterdurchschnittliche Seele.
 
-revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} plötzlich leicht in die Luft steigt, {POSS-ADJ($target)} Haut wird ein ashy grau.
-revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} Stürzt auf den Boden!
+revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} erhebt sich plötzlich leicht in die Luft, {POSS-ADJ($target)} Haut färbt sich aschgrau.
+revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} sackt zu Boden!
 
 # UI
 revenant-user-interface-title = Fähigkeitenladen

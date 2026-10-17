@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-zombie-transform = {CAPITALIZE(THE($target))} verwandelte sich in einen Zombie!
+zombie-transform = {CAPITALIZE(THE($target))} hat sich in einen Zombie verwandelt!
 zombie-infection-greeting = Du bist zum Zombie geworden. Dein Ziel ist es, die Lebenden aufzuspüren und zu versuchen, sie zu infizieren. Arbeite mit den anderen Zombies und den übrigen Erstinfizierten zusammen, um die Station zu überrennen.
 
 zombie-generic = Zombie
