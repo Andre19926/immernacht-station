@@ -1,1 +1,1 @@
-ent-RandomInsulsSpawner = Random Insuls Spawner
+ent-RandomInsulsSpawner = Zufalls-Isolierhandschuh-Spawner

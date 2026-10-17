@@ -1,13 +1,13 @@
-ent-CrusherWeaponLootSpawner = Brecherwaffe Spawner
+ent-CrusherWeaponLootSpawner = Brecherwaffen-Spawner
 
-ent-CrusherUpgradeLootSpawner = Brecher Upgrade Spawner
+ent-CrusherUpgradeLootSpawner = Brecher-Upgrade-Spawner
 
-ent-ProtoKineticWeaponLootSpawner = protokinetische Waffe Spawner
+ent-ProtoKineticWeaponLootSpawner = Protokinetik-Waffen-Spawner
 
-ent-ProtoKineticWeaponSpaceLootSpawner = Weltraumprotokinetische Waffe Spawner
+ent-ProtoKineticWeaponSpaceLootSpawner = Weltraum-Protokinetik-Waffen-Spawner
 
-ent-ProtoKineticUpgradeLootSpawner = protokinetisches Upgrade Spawner
+ent-ProtoKineticUpgradeLootSpawner = Protokinetik-Upgrade-Spawner
 
-ent-SecondaryKineticWeaponLootSpawner = Sekundäre kinetische Waffe Spawner
+ent-SecondaryKineticWeaponLootSpawner = Sekundäre-Kinetikwaffen-Spawner
 
-ent-LavalandWeaponLootSpawner = Lavaland Waffen Beute Spawner
+ent-LavalandWeaponLootSpawner = Lavaland-Waffenbeute-Spawner

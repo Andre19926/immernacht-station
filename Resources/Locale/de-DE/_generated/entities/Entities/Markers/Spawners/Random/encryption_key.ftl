@@ -1,1 +1,1 @@
-ent-LootSpawnerEncryptionKey = zufälliger Verschlüsselungsschlüssel Spawner
+ent-LootSpawnerEncryptionKey = Zufalls-Verschlüsselungsschlüssel-Spawner

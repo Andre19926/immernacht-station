@@ -1,3 +1,3 @@
-ent-SalvageMaterialCrateSpawner = Salvage-Material Crate Spawner
+ent-SalvageMaterialCrateSpawner = Bergungs-Materialkisten-Spawner
 
-ent-SalvageLootSpawner = Salvage-Beute Spawner
+ent-SalvageLootSpawner = Bergungsbeute-Spawner

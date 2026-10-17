@@ -1,1 +1,1 @@
-ent-SpawnerRandomTendrilLavaland = Rankril Spawner
+ent-SpawnerRandomTendrilLavaland = Rankril-Spawner

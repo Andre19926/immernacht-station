@@ -1,1 +1,1 @@
-ent-RandomPainting = Zufallsmalerei Spawner
+ent-RandomPainting = Zufalls-Malerei-Spawner

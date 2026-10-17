@@ -1,9 +1,9 @@
-ent-RandomWoodenSupport = Holzstütze Spawner
+ent-RandomWoodenSupport = Holzstütze-Spawner
 
-ent-RandomWoodenWall = Holzwand Spawner
+ent-RandomWoodenWall = Holzwand-Spawner
 
-ent-RandomStalagmiteOrCrystal = Stalagmit oder KristallSpawner
+ent-RandomStalagmiteOrCrystal = Stalagmit-oder-Kristall-Spawner
 
-ent-RandomBrownStalagmite = Brauner StalagmitenSpawner
+ent-RandomBrownStalagmite = Brauner Stalagmiten-Spawner
 
-ent-RandomGreyStalagmite = Grauer StalagmitenSpawner
+ent-RandomGreyStalagmite = Grauer Stalagmiten-Spawner

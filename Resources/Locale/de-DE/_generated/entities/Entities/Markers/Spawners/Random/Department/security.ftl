@@ -1,9 +1,9 @@
-ent-LootSpawnerSecurityBasic = Sicherheitsbeute Spawner
+ent-LootSpawnerSecurityBasic = Sicherheitsbeute-Spawner
 
-ent-LootSpawnerSecurity = Sicherheitsbeute Spawner
+ent-LootSpawnerSecurity = Sicherheitsbeute-Spawner
 
-ent-LootSpawnerArmory = Panzerbeute Spawner
+ent-LootSpawnerArmory = Panzerbeute-Spawner
 
-ent-LootSpawnerArmoryGunsOnly = Panzerbeute Spawner
+ent-LootSpawnerArmoryGunsOnly = Panzerbeute-Spawner
 
-ent-LootSpawnerArmoryArmorOnly = Panzerbeute Spawner
+ent-LootSpawnerArmoryArmorOnly = Panzerbeute-Spawner

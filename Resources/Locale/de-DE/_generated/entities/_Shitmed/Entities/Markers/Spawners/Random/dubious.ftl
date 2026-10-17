@@ -1,1 +1,1 @@
-ent-DubiousOrganSpawner = Dubiose Organ Spawner
+ent-DubiousOrganSpawner = Dubiose Organ-Spawner

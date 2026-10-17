@@ -1,11 +1,11 @@
-ent-SpawnMobXenomorphLarva = Xenolarve Spawner
+ent-SpawnMobXenomorphLarva = Xenolarve-Spawner
 
-ent-SpawnMobXenomorphDrone = Xeno Drohne Spawner
+ent-SpawnMobXenomorphDrone = Xeno-Drohnen-Spawner
 
-ent-SpawnMobXenomorphHunter = Xeno-Jäger Spawner
+ent-SpawnMobXenomorphHunter = Xeno-Jäger-Spawner
 
-ent-SpawnMobXenomorphPraetorian = Xeno Praetorian Spawner
+ent-SpawnMobXenomorphPraetorian = Xeno-Prätorianer-Spawner
 
-ent-SpawnMobXenomorphSentinel = xeno sentinel Spawner
+ent-SpawnMobXenomorphSentinel = Xeno-Wächter-Spawner
 
-ent-SpawnMobXenomorphQueen = Xeno Queen Spawner
+ent-SpawnMobXenomorphQueen = Xeno-Königin-Spawner

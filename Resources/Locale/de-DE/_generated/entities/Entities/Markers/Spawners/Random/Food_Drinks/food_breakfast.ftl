@@ -1,1 +1,1 @@
-ent-RandomFoodBreakfast = Zufalls-LebensmittelSpawner
+ent-RandomFoodBreakfast = Zufalls-Lebensmittel-Spawner

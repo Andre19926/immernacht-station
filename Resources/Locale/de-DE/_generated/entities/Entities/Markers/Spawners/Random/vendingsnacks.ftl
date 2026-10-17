@@ -1,1 +1,1 @@
-ent-RandomVendingSnacks = Zufallsautomat Spawner
+ent-RandomVendingSnacks = Zufalls-Automat-Spawner

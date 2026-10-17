@@ -1,4 +1,4 @@
-ent-RandomChemistryBottleMedicalSpawner = zufällige medizinische Chemie Flasche Spawner
+ent-RandomChemistryBottleMedicalSpawner = Zufalls-Medizinchemie-Flaschen-Spawner
 
 ent-RandomChemistryBottleMedicalTier1Spawner = Zufallsflasche für medizinische Chemie (Stufe 1)
 

@@ -1,1 +1,1 @@
-ent-RandomFoodMeal = Zufalls-LebensmittelSpawner
+ent-RandomFoodMeal = Zufalls-Lebensmittel-Spawner

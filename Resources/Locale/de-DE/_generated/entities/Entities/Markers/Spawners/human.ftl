@@ -1,3 +1,3 @@
-ent-SpawnMobSyndicateFootSoldier = Syndicate Footsoldier Spawner
+ent-SpawnMobSyndicateFootSoldier = Syndicate-Fußsoldat-Spawner
 
-ent-SpawnMobSyndicateFootsoldierPilot = Syndicate Shuttle Pilot Spawner
+ent-SpawnMobSyndicateFootsoldierPilot = Syndicate-Shuttlepilot-Spawner

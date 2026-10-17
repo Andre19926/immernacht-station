@@ -1,5 +1,5 @@
-ent-LootSpawnerScienceMinor = Wissenschaft liefert Spawner
+ent-LootSpawnerScienceMinor = Wissenschaftsbeute-Spawner
 
-ent-LootSpawnerScienceMajor = Wissenschaft liefert Spawner
+ent-LootSpawnerScienceMajor = Wissenschaftsbeute-Spawner
 
 ent-LootSpawnerRoboticsBorgModule = Robotik-Platinen-Spawner

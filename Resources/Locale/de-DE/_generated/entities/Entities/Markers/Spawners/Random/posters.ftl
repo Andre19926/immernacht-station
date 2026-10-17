@@ -1,5 +1,5 @@
-ent-RandomPosterAny = Random Poster Spawner
+ent-RandomPosterAny = Zufalls-Poster-Spawner
 
-ent-RandomPosterContraband = Random Schmuggel Poster Spawner
+ent-RandomPosterContraband = Zufalls-Schmuggelposter-Spawner
 
-ent-RandomPosterLegit = Random Legit Poster Spawner
+ent-RandomPosterLegit = Zufalls-Legitposter-Spawner

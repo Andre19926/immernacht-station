@@ -1,1 +1,1 @@
-ent-RandomLandmineSpawner = Random Landmine Spawner
+ent-RandomLandmineSpawner = Zufalls-Landminen-Spawner

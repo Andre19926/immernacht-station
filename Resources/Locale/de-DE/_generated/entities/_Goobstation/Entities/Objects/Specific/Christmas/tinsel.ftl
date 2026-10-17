@@ -1,8 +1,8 @@
-ent-SpawnerChristmasTinselWhite = Weihnachts Tinsel Spawner
+ent-SpawnerChristmasTinselWhite = Weihnachtslametta-Spawner
 
-ent-SpawnerChristmasTinselRed = Weihnachts Tinsel Spawner
+ent-SpawnerChristmasTinselRed = Weihnachtslametta-Spawner
 
-ent-SpawnerChristmasTinselBlue = Weihnachts Tinsel Spawner
+ent-SpawnerChristmasTinselBlue = Weihnachtslametta-Spawner
 
 ent-ChristmasTinselWhite1 = Weißes Weihnachts-Tinsel
     .desc = Weißer Lamellen. Es ist ein bisschen funkelnd.

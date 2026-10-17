@@ -1,15 +1,15 @@
-ent-SalvageHumanCorpseSpawner = Menschlicher Leiche Spawner
+ent-SalvageHumanCorpseSpawner = Menschenleichen-Spawner
 
-ent-RandomServiceCorpseSpawner = Random Service Leiche Spawner
+ent-RandomServiceCorpseSpawner = Zufalls-Service-Leichen-Spawner
 
-ent-RandomEngineerCorpseSpawner = Zufällige Ingenieur-Leiche (Spawner)
+ent-RandomEngineerCorpseSpawner = Zufalls-Ingenieur-Leichen-Spawner
 
-ent-RandomCargoCorpseSpawner = Random Fracht Leiche Spawner
+ent-RandomCargoCorpseSpawner = Zufalls-Fracht-Leichen-Spawner
 
-ent-RandomMedicCorpseSpawner = Random Medic Leiche Spawner
+ent-RandomMedicCorpseSpawner = Zufalls-Sanitäter-Leichen-Spawner
 
-ent-RandomScienceCorpseSpawner = Random Science Leiche Spawner
+ent-RandomScienceCorpseSpawner = Zufalls-Wissenschafts-Leichen-Spawner
 
-ent-RandomSecurityCorpseSpawner = Random Security Leiche Spawner
+ent-RandomSecurityCorpseSpawner = Zufalls-Sicherheits-Leichen-Spawner
 
-ent-RandomCommandCorpseSpawner = Random Command Leiche Spawner
+ent-RandomCommandCorpseSpawner = Zufalls-Führungs-Leichen-Spawner

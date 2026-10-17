@@ -1,5 +1,5 @@
-ent-AltarSpawner = Zufälliger Altar Spawner
+ent-AltarSpawner = Zufalls-Altar-Spawner
 
-ent-ConvertAltarSpawner = Random Convertaltar Spawner
+ent-ConvertAltarSpawner = Zufalls-Bekehrungsaltar-Spawner
 
-ent-CultAltarSpawner = zufälliger Kultaltar-Spawner
+ent-CultAltarSpawner = Zufalls-Kultaltar-Spawner

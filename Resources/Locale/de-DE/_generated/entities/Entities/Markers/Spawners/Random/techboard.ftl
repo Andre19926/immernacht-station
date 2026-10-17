@@ -1,1 +1,1 @@
-ent-RandomBoard = Zufallsbrett Spawner
+ent-RandomBoard = Zufalls-Brett-Spawner

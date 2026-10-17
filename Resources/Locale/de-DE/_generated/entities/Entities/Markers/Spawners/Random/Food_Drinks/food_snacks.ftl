@@ -1,1 +1,1 @@
-ent-RandomSnacks = Zufälliger Snack Spawner
+ent-RandomSnacks = Zufalls-Snack-Spawner

@@ -22,7 +22,7 @@ ent-MobGoldCrab = Erzkrabben
 ent-ReagentSlime = Reagenzschleim
     .desc = Es besteht aus einer Flüssigkeit, und es will dich in sich auflösen.
 
-ent-ReagentSlimeSpawner = Reagens Slime Spawner
+ent-ReagentSlimeSpawner = Reagenz-Schleim-Spawner
 
 ent-ReagentSlimeBeer = Reagenzschleim
     .desc = Es besteht aus einer Flüssigkeit, und es will dich in sich auflösen.

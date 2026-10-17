@@ -1,1 +1,1 @@
-ent-RandomArcade = Random Arcade Spawner
+ent-RandomArcade = Zufalls-Spielautomaten-Spawner

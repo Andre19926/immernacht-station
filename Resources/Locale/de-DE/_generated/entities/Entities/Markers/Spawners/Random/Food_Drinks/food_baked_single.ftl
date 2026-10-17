@@ -1,1 +1,1 @@
-ent-RandomFoodBakedSingle = Zufällig gebackenes Futter Spawner
+ent-RandomFoodBakedSingle = Zufalls-Gebäck-Spawner

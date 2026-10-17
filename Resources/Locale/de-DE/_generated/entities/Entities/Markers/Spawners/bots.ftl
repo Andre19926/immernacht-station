@@ -1,9 +1,9 @@
-ent-SpawnMobMedibot = medibot Spawner
+ent-SpawnMobMedibot = Medibot-Spawner
 
-ent-SpawnMobCleanBot = Cleanbot Spawner
+ent-SpawnMobCleanBot = Cleanbot-Spawner
 
-ent-SpawnMobFireBot = Firebot Spawner
+ent-SpawnMobFireBot = Firebot-Spawner
 
-ent-SpawnMobSupplyBot = supplybot Spawner
+ent-SpawnMobSupplyBot = Supplybot-Spawner
 
-ent-SpawnMobHonkBot = Honkbot Spawner
+ent-SpawnMobHonkBot = Honkbot-Spawner

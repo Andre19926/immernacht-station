@@ -1,13 +1,13 @@
-ent-HierophantShapeCrossBishop = Hierophant Angriff Kreuz Bischof Spawner
+ent-HierophantShapeCrossBishop = Hierophant-Kreuz-Läufer-Angriffs-Spawner
 
-ent-HierophantShapeCrossRook = Hierophant Angriff Kreuzturm Spawner
+ent-HierophantShapeCrossRook = Hierophant-Kreuz-Turm-Angriffs-Spawner
 
-ent-HierophantShapeCrossQueen = Hierophant Angriff Kreuz Königin Spawner
+ent-HierophantShapeCrossQueen = Hierophant-Kreuz-Königin-Angriffs-Spawner
 
-ent-HierophantShapeBlink = Hierophant Angriff blinkt Spawner
+ent-HierophantShapeBlink = Hierophant-Blink-Angriffs-Spawner
 
-ent-HierophantShapeBlinkSafe = Hierophant attack safe blink Spawner
+ent-HierophantShapeBlinkSafe = Hierophant-Sicherer-Blink-Angriffs-Spawner
 
-ent-HierophantShapeBoxExpanding = Hierophant Angriffsbox erweitert Spawner
+ent-HierophantShapeBoxExpanding = Hierophant-Expandierende-Box-Angriffs-Spawner
 
-ent-HierophantShapeCrossSequence = Hierophant-Kreuzangriff-Sequenz (Spawner)
+ent-HierophantShapeCrossSequence = Hierophant-Kreuzangriff-Sequenz-Spawner

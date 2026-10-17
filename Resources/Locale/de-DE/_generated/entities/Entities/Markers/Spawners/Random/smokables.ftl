@@ -1,3 +1,3 @@
-ent-RandomSmokables = zufällig rauchbare Spawner
+ent-RandomSmokables = Zufalls-Rauchwaren-Spawner
 
-ent-RandomSoakedCigarette = Zufällig getränkte Zigarette Spawner
+ent-RandomSoakedCigarette = Zufalls-Spawner für getränkte Zigaretten

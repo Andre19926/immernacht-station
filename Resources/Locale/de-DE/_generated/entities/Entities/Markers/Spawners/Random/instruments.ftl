@@ -1,1 +1,1 @@
-ent-RandomInstruments = zufällige Instrumente Spawner
+ent-RandomInstruments = Zufalls-Instrumenten-Spawner

@@ -1,15 +1,15 @@
-ent-SalvageSpawnerScrapCommon = Salvage-SchrottSpawner
+ent-SalvageSpawnerScrapCommon = Bergungs-Schrott-Spawner
 
-ent-SalvageSpawnerScrapCommon75 = Salvage-SchrottSpawner
+ent-SalvageSpawnerScrapCommon75 = Bergungs-Schrott-Spawner
 
-ent-SalvageSpawnerScrapValuable = Salvage-SchrottSpawner
+ent-SalvageSpawnerScrapValuable = Bergungs-Schrott-Spawner
 
-ent-SalvageSpawnerScrapValuable75 = Salvage-SchrottSpawner
+ent-SalvageSpawnerScrapValuable75 = Bergungs-Schrott-Spawner
 
-ent-SalvageSpawnerEquipment = Salvage-Ausrüstung Spawner
+ent-SalvageSpawnerEquipment = Bergungs-Ausrüstungs-Spawner
 
-ent-SalvageSpawnerEquipmentValuable = Salvage-Ausrüstung Spawner
+ent-SalvageSpawnerEquipmentValuable = Bergungs-Ausrüstungs-Spawner
 
-ent-SalvageCanisterSpawner = Salvage-Kanister Spawner
+ent-SalvageCanisterSpawner = Bergungs-Kanister-Spawner
 
-ent-SalvageSpawnerMobMiningAsteroid = Bergsteiger Asteroid Mob Spawner
+ent-SalvageSpawnerMobMiningAsteroid = Bergsteiger-Asteroiden-Mob-Spawner

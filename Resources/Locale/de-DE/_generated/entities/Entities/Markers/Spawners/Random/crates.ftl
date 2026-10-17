@@ -1,9 +1,9 @@
-ent-CrateEmptySpawner = Leere Crate Spawner
+ent-CrateEmptySpawner = Leere Kisten-Spawner
 
-ent-CrateFilledSpawner = Gefüllter Crate Spawner
+ent-CrateFilledSpawner = Gefüllte Kisten-Spawner
 
-ent-LootSpawnerRandomCrateEngineering = Random Engineering Kiste Spawner
+ent-LootSpawnerRandomCrateEngineering = Zufalls-Ingenieurkisten-Spawner
 
-ent-LootSpawnerRandomCrateSecurity = zufällige Sicherheitskiste Spawner
+ent-LootSpawnerRandomCrateSecurity = Zufalls-Sicherheitskisten-Spawner
 
-ent-LootSpawnerRandomLockbox = Random Lockbox Spawner
+ent-LootSpawnerRandomLockbox = Zufalls-Schließkassetten-Spawner

@@ -1,3 +1,3 @@
-ent-LootSpawnerMedicalMinor = Heilbedarf Spawner
+ent-LootSpawnerMedicalMinor = Heilbedarf-Spawner
 
-ent-LootSpawnerMedicalClassy = Medizinische Beute Spawner
+ent-LootSpawnerMedicalClassy = Medizinische-Beute-Spawner

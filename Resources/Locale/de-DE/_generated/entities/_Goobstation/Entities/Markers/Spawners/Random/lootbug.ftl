@@ -1,1 +1,1 @@
-ent-SpawnLootLootbug = Lootbug Loot Spawner
+ent-SpawnLootLootbug = Lootbug-Beute-Spawner

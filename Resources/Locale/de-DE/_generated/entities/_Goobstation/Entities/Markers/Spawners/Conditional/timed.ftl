@@ -1,1 +1,1 @@
-ent-AncientXenoAITimedSpawner = Alte Xeno KI Timed Spawner
+ent-AncientXenoAITimedSpawner = Zeitgesteuerter Uralt-Xeno-KI-Spawner

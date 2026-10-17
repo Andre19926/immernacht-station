@@ -1,5 +1,5 @@
-ent-SpawnerRandomMobLavaland = Lavaland Heavy Mob Spawner
+ent-SpawnerRandomMobLavaland = Lavaland-Schwere-Mobs-Spawner
     .desc = Spawner, der auslöst, wenn ein Spieler in der Nähe ist.
 
-ent-SpawnerRandomLightMobLavaland = Lavaland Light Mob Spawner
+ent-SpawnerRandomLightMobLavaland = Lavaland-Leichte-Mobs-Spawner
     .desc = Spawner, der auslöst, wenn ein Spieler in der Nähe ist.

@@ -1,1 +1,1 @@
-ent-RandomMeat = ZufallsfleischSpawner
+ent-RandomMeat = Zufalls-Fleisch-Spawner

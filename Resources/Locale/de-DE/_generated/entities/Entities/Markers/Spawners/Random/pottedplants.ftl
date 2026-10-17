@@ -1,3 +1,3 @@
-ent-PottedPlantRandom = Zufällige Topfpflanze Spawner
+ent-PottedPlantRandom = Zufalls-Topfpflanzen-Spawner
 
-ent-PottedPlantRandomPlastic = Zufällige Kunststoff Topfpflanze Spawner
+ent-PottedPlantRandomPlastic = Zufalls-Kunststoff-Topfpflanzen-Spawner

@@ -1,3 +1,3 @@
-ent-SpawnVehicleChairOfficeLight = Licht Bürostuhl Spawner
+ent-SpawnVehicleChairOfficeLight = Heller Bürostuhl-Spawner
 
-ent-SpawnVehicleChairOfficeDark = dunkler Bürostuhl Spawner
+ent-SpawnVehicleChairOfficeDark = Dunkler Bürostuhl-Spawner

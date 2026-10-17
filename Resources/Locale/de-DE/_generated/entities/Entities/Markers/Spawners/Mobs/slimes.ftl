@@ -1,11 +1,11 @@
-ent-SpawnMobAdultSlimesBlue = Slimes Spawner Blau
+ent-SpawnMobAdultSlimesBlue = Blauschleim-Spawner
 
-ent-SpawnMobAdultSlimesBlueAngry = Slimes Spawner Blau Angry
+ent-SpawnMobAdultSlimesBlueAngry = Wütender Blauschleim-Spawner
 
-ent-SpawnMobAdultSlimesGreen = Slimes Spawner Grün
+ent-SpawnMobAdultSlimesGreen = Grünschleim-Spawner
 
-ent-SpawnMobAdultSlimesGreenAngry = Slimes Spawner Grün Angry
+ent-SpawnMobAdultSlimesGreenAngry = Wütender Grünschleim-Spawner
 
-ent-SpawnMobAdultSlimesYellow = Slimes Spawner Gelb
+ent-SpawnMobAdultSlimesYellow = Gelbschleim-Spawner
 
-ent-SpawnMobAdultSlimesYellowAngry = Schleime Spawner Gelb Angry
+ent-SpawnMobAdultSlimesYellowAngry = Wütender Gelbschleim-Spawner

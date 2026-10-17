@@ -1,1 +1,1 @@
-ent-RandomProduce = Zufallsprodukt Spawner
+ent-RandomProduce = Zufalls-Produkt-Spawner

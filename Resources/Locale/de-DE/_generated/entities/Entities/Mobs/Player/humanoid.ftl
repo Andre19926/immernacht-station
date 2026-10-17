@@ -1,4 +1,4 @@
-ent-RandomHumanoidSpawnerDeathSquad = Death Squad Chirurg
+ent-RandomHumanoidSpawnerDeathSquad = Death-Squad-Chirurg
 
 ent-RandomHumanoidSpawnerERTLeader = ERT-Leiter
 

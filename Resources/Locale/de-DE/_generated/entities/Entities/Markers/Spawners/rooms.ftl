@@ -1,3 +1,3 @@
-ent-SpawnPointHeadOfSecurityWeapon = Chef der Sicherheitswaffe Spawner
+ent-SpawnPointHeadOfSecurityWeapon = Sicherheitschef-Waffen-Spawner
 
 ent-SpawnPointWardenWeapon = Warden-Waffen-Spawner

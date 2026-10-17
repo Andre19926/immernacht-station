@@ -1,1 +1,1 @@
-ent-BoardGameSpawner100 = Brettspiel Spawner
+ent-BoardGameSpawner100 = Brettspiel-Spawner

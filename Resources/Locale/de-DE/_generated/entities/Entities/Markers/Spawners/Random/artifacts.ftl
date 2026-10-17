@@ -1,3 +1,3 @@
-ent-RandomArtifactSpawner = Zufallsartefakt Spawner
+ent-RandomArtifactSpawner = Zufalls-Artefakt-Spawner
 
-ent-RandomArtifactSpawner20 = Zufallsartefakt Spawner [20]
+ent-RandomArtifactSpawner20 = Zufalls-Artefakt-Spawner [20]

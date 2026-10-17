@@ -1,4 +1,4 @@
-ent-LostFrontierSalvagerSpawner = Verlorene Grenze Salvage Spawner
+ent-LostFrontierSalvagerSpawner = Verlorene-Grenze-Bergungs-Spawner
 
 ent-RandomHumanoidLostFrontierSalvager = Lost Salvager Ghost Rolle
 

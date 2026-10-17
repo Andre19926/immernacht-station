@@ -1,1 +1,1 @@
-ent-SpawnMobHorse = PferdeSpawner
+ent-SpawnMobHorse = Pferde-Spawner

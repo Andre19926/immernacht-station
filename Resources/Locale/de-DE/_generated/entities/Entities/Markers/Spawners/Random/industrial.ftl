@@ -1,3 +1,3 @@
-ent-LootSpawnerIndustrialFluff = FlusenSpawner
+ent-LootSpawnerIndustrialFluff = Flusen-Spawner
 
-ent-LootSpawnerIndustrial = Industriebeute Spawner
+ent-LootSpawnerIndustrial = Industriebeute-Spawner

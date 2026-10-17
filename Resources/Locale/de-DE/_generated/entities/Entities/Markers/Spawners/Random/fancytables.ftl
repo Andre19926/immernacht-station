@@ -1,1 +1,1 @@
-ent-FancyTableSpawner = zufälliger ausgefallener Tisch Spawner
+ent-FancyTableSpawner = Zufalls-Edeltisch-Spawner

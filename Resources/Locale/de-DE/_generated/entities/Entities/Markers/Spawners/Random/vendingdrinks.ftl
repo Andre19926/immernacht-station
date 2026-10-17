@@ -1,1 +1,1 @@
-ent-RandomVendingDrinks = Zufallsautomat Spawner
+ent-RandomVendingDrinks = Zufalls-Automat-Spawner

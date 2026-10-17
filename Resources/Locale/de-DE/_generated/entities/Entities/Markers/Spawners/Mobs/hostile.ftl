@@ -1,19 +1,19 @@
-ent-SpawnClownSpider = Clownspinne Spawner
+ent-SpawnClownSpider = Clownspinnen-Spawner
 
-ent-SpawnMobBoxingKangaroo = Boxen Känguru Spawner
+ent-SpawnMobBoxingKangaroo = Boxkänguru-Spawner
 
 ent-SpawnMobHellspawn = Hellspawn-Spawner
 
-ent-SpawnMobLuminousEntity = Leuchtkörper Spawner
+ent-SpawnMobLuminousEntity = Leuchtkörper-Spawner
 
-ent-SpawnMobLuminousObject = Leuchtobjekt Spawner
+ent-SpawnMobLuminousObject = Leuchtobjekt-Spawner
 
-ent-SpawnMobLuminousPerson = Leuchtende Person Spawner
+ent-SpawnMobLuminousPerson = Leuchtpersonen-Spawner
 
-ent-SpawnMobOreCrab = ErzkrabbenSpawner
+ent-SpawnMobOreCrab = Erzkrabben-Spawner
 
-ent-SpawnMobSmallPurpleSnake = Kleiner Purple Snake Spawner
+ent-SpawnMobSmallPurpleSnake = Kleine Purple-Snake-Spawner
 
-ent-SpawnMobWatcherLavaland = Beobachter Lavaland Spawner
+ent-SpawnMobWatcherLavaland = Lavaland-Beobachter-Spawner
 
-ent-SpawnMobWatcherMagmawing = Beobachter Magmawing Spawner
+ent-SpawnMobWatcherMagmawing = Magmawing-Beobachter-Spawner

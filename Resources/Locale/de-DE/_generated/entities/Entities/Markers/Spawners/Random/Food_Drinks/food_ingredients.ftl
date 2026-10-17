@@ -1,1 +1,1 @@
-ent-RandomIngredient = Zufallsbestandteil Spawner
+ent-RandomIngredient = Zufalls-Bestandteil-Spawner

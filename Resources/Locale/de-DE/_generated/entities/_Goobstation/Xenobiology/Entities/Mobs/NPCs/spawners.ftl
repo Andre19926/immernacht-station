@@ -1,3 +1,3 @@
-ent-MobSlimeXenobioBabyGreySpawner = Grauschleim Spawner
+ent-MobSlimeXenobioBabyGreySpawner = Grauschleim-Spawner
 
-ent-XenobioSlimeBabySpawner = Random T1 Xenobio Slim Spawner
+ent-XenobioSlimeBabySpawner = Zufalls-T1-Xenobio-Schleimbaby-Spawner

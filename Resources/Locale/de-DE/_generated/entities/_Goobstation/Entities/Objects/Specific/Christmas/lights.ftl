@@ -1,8 +1,8 @@
-ent-SpawnerChristmasLightsWhite = Weihnachtsbeleuchtung Spawner
+ent-SpawnerChristmasLightsWhite = Weihnachtsbeleuchtung-Spawner
 
-ent-SpawnerChristmasLightsRed = Weihnachtsbeleuchtung Spawner
+ent-SpawnerChristmasLightsRed = Weihnachtsbeleuchtung-Spawner
 
-ent-SpawnerChristmasLightsBlue = Weihnachtsbeleuchtung Spawner
+ent-SpawnerChristmasLightsBlue = Weihnachtsbeleuchtung-Spawner
 
 ent-ChristmasLightsWhite1 = Weiße Weihnachtsbeleuchtung
     .desc = Weiße Weihnachtslichter.

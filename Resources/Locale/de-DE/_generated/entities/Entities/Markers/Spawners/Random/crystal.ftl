@@ -1,1 +1,1 @@
-ent-CrystalSpawner = KristallSpawner
+ent-CrystalSpawner = Kristall-Spawner

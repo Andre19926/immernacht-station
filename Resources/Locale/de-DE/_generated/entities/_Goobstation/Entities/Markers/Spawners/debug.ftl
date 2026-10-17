@@ -1,37 +1,37 @@
-ent-SpawnMobHumanLoneNuclearOperative = Operativer Spawner
+ent-SpawnMobHumanLoneNuclearOperative = Einzelagenten-Spawner
 
-ent-SpawnMobHumanLoneNuclearOperativeSuit = Operativer Suit Spawner
+ent-SpawnMobHumanLoneNuclearOperativeSuit = Einzelagenten-Anzug-Spawner
 
-ent-SpawnMobHumanLoneNuclearOperativeSuitCommander = Kommandant des operativen Anzugs Spawner
+ent-SpawnMobHumanLoneNuclearOperativeSuitCommander = Einzelagenten-Kommandanten-Anzug-Spawner
 
-ent-SpawnMobHumanLoneNuclearOperativeSuitDread = Operativer Anzug Dread Spawner
+ent-SpawnMobHumanLoneNuclearOperativeSuitDread = Einzelagenten-Dread-Anzug-Spawner
 
-ent-SpawnMobHumanSecurityOfficerSuit = Sicherheitsoffizier Suit Spawner
+ent-SpawnMobHumanSecurityOfficerSuit = Sicherheitsbeamter-Anzug-Spawner
 
-ent-SpawnMobHumanHosModSuit = Leiter von Security Modsuit Spawner
+ent-SpawnMobHumanHosModSuit = Sicherheitschef-Modsuit-Spawner
 
-ent-SpawnMobHumanSecurityOfficerModSuit = Sicherheitsbeauftragter Modsuit Spawner
+ent-SpawnMobHumanSecurityOfficerModSuit = Sicherheitsbeamter-Modsuit-Spawner
 
-ent-SpawnMobHumanHoSSuit = Leiter des Security Suit Spawner
+ent-SpawnMobHumanHoSSuit = Sicherheitschef-Anzug-Spawner
 
-ent-SpawnMobHumanSecurityOfficerBulletproofArmorHelmet = Sicherheitsoffizier Bulletproof Armor Spawner
+ent-SpawnMobHumanSecurityOfficerBulletproofArmorHelmet = Sicherheitsbeamter-Kugelsichere-Rüstung-Spawner
 
-ent-SpawnMobHumanSecurityOfficerRiotArmorHelmet = Sicherheitsoffizier Riot Armor Spawner
+ent-SpawnMobHumanSecurityOfficerRiotArmorHelmet = Sicherheitsbeamter-Krawallrüstung-Spawner
 
-ent-SpawnMobHumanSecurityOfficerReflectiveArmorHelmet = Sicherheitsoffizier Reflective Armor Spawner
+ent-SpawnMobHumanSecurityOfficerReflectiveArmorHelmet = Sicherheitsbeamter-Reflektierende-Rüstung-Spawner
 
-ent-SpawnMobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsoffizier Basic Armor Spawner
+ent-SpawnMobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsbeamter-Grundrüstung-Spawner
 
-ent-SpawnMobHumanHos = Leiter von Security Spawner
+ent-SpawnMobHumanHos = Sicherheitschef-Spawner
 
-ent-SpawnMobHumanBSOModSuit = Blueshield Officer Modsuit Spawner
+ent-SpawnMobHumanBSOModSuit = Blueshield-Modsuit-Spawner
 
-ent-SpawnMobHumanChangelingArmor = Wechselarmor Spawner
+ent-SpawnMobHumanChangelingArmor = Wechselarmor-Spawner
 
-ent-SpawnHumanHereticArmor = Ketzer Rüstung Spawner
+ent-SpawnHumanHereticArmor = Ketzer-Rüstungs-Spawner
 
-ent-SpawnMobHumanCaptainHardsuit = Hauptmann-Rüstungs-Spawner (Hardsuit)
+ent-SpawnMobHumanCaptainHardsuit = Hauptmann-Hardsuit-Spawner
 
-ent-SpawnMobHumanCaptainModsuit = Hauptmann Armor Spawner Modsuit
+ent-SpawnMobHumanCaptainModsuit = Hauptmann-Modsuit-Spawner
 
-ent-SpawnMobHumanCaptainDebug = Hauptmann Armor Spawner
+ent-SpawnMobHumanCaptainDebug = Hauptmann-Rüstungs-Spawner

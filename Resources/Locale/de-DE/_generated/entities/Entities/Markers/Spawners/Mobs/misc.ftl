@@ -1,1 +1,1 @@
-ent-SpawnMobGingerbreadAI = Lebkuchenmann Spawner
+ent-SpawnMobGingerbreadAI = Lebkuchenmann-Spawner

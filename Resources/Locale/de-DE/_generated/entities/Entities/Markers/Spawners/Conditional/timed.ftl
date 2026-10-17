@@ -1,3 +1,3 @@
-ent-MouseTimedSpawner = Maus Timed Spawner
+ent-MouseTimedSpawner = Zeitgesteuerter Maus-Spawner
 
-ent-CockroachTimedSpawner = Kakerlake Timed Spawner
+ent-CockroachTimedSpawner = Zeitgesteuerter Kakerlaken-Spawner

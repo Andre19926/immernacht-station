@@ -1,3 +1,3 @@
-ent-HierophantClubShapeExpandingBox = Hierophant Angriffsbox erweitert Spawner
+ent-HierophantClubShapeExpandingBox = Hierophant-Expandierende-Box-Angriffs-Spawner
 
-ent-HierophantClubShapeRandomCross = Hierophant-Kreuzangriff-Sequenz (Spawner)
+ent-HierophantClubShapeRandomCross = Hierophant-Kreuzangriff-Sequenz-Spawner

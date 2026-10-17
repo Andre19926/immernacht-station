@@ -1,1 +1,1 @@
-ent-SpawnMobPlantbot = Pflanzebot Spawner
+ent-SpawnMobPlantbot = Pflanzebot-Spawner

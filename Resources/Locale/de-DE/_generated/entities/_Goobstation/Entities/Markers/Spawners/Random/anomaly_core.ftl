@@ -1,3 +1,3 @@
-ent-RandomAnomalyCoreSpawner = Random Anomalie Core Spawner
+ent-RandomAnomalyCoreSpawner = Zufalls-Anomaliekern-Spawner
 
-ent-RandomAnomalyCoreInertSpawner = Zufälliger inerter Anomaliekern Spawner
+ent-RandomAnomalyCoreInertSpawner = Zufalls-Inerter-Anomaliekern-Spawner

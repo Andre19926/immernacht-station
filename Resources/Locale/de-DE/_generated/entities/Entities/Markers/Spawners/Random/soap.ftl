@@ -1,3 +1,3 @@
-ent-RandomSlip100 = Zufälliger Spawner
+ent-RandomSlip100 = Zufalls-Rutsch-Spawner
 
-ent-RandomSoap = Zufälliger Seifen-Spawner
+ent-RandomSoap = Zufalls-Seifen-Spawner

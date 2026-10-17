@@ -13,4 +13,4 @@ ent-ClothingBackpackDuffelClownSmuggler = Schmuggler-Clown-Seesack
 ent-ClothingBackpackSatchelSmugglerFilled = Schmuggler-Umhängetasche
     .desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.
 
-ent-RandomSatchelSpawner = Zufälliger Schmuggler-Umhängetaschen-Spawner
+ent-RandomSatchelSpawner = Zufalls-Schmuggler-Umhängetaschen-Spawner

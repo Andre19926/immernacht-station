@@ -1,4 +1,4 @@
-ent-PlaqueAtmos = atmos plaque Spawner
+ent-PlaqueAtmos = Atmos-Plakettenspawner
 
 ent-PlaqueAtmosFEA = Plakette der FEA-Abteilung Atmospherics
     .desc = Diese Gedenktafel erinnert an den Fall der Division Atmos FEA. Für alle verkohlten, schwindligen und brüchigen Männer, die in ihren Händen gestorben sind.

@@ -1,11 +1,11 @@
-ent-LootSpawnerMaterials = Materialien Spawner
+ent-LootSpawnerMaterials = Material-Spawner
 
-ent-LootSpawnerMaterialsSupplementary = Materialien Spawner
+ent-LootSpawnerMaterialsSupplementary = Material-Spawner
 
-ent-LootSpawnerMaterialsHighValueConstruction = hochwertige Materialien Spawner
+ent-LootSpawnerMaterialsHighValueConstruction = Hochwertiges Material-Spawner
 
-ent-LootSpawnerMaterialsHighValue = hochwertige Materialien Spawner
+ent-LootSpawnerMaterialsHighValue = Hochwertiges Material-Spawner
 
-ent-LootSpawnerMaterialsSurplus = Überschussmaterial Spawner
+ent-LootSpawnerMaterialsSurplus = Überschussmaterial-Spawner
 
-ent-LootSpawnerCableCoil = KabelspulenSpawner
+ent-LootSpawnerCableCoil = Kabelspulen-Spawner

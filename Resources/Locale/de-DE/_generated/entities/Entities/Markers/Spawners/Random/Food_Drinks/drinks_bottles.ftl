@@ -1,1 +1,1 @@
-ent-RandomDrinkBottle = Zufallsgetränk Spawner
+ent-RandomDrinkBottle = Zufalls-Getränk-Spawner

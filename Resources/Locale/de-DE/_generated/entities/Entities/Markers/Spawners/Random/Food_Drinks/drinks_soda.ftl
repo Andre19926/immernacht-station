@@ -1,1 +1,1 @@
-ent-RandomDrinkSoda = Random Soda Spawner
+ent-RandomDrinkSoda = Zufalls-Limonaden-Spawner

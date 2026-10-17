@@ -1,5 +1,5 @@
-ent-RandomAnomalySpawner = Random Anomalie Spawner
+ent-RandomAnomalySpawner = Zufalls-Anomalie-Spawner
 
-ent-RandomRockAnomalySpawner = Random Rock Anomalie Spawner
+ent-RandomRockAnomalySpawner = Zufalls-Felsanomalie-Spawner
 
-ent-RandomAnomalyInjectorSpawner = Zufallsinjektor Spawner
+ent-RandomAnomalyInjectorSpawner = Zufalls-Injektor-Spawner

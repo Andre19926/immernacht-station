@@ -114,16 +114,16 @@ ent-NTVisitorSpawner20 = NanoTrasen-Besucher-Spawner
 
 ent-NTVisitorSpawner10 = NanoTrasen-Besucher-Spawner
 
-ent-SyndieSoldierTeamLeaderSpawner = Teamleiter Spawner
+ent-SyndieSoldierTeamLeaderSpawner = Syndicate-Teamleiter-Spawner
 
-ent-SyndieSoldierSpawner = Syndicate Soldat Spawner
+ent-SyndieSoldierSpawner = Syndicate-Soldaten-Spawner
 
 ent-SyndieVisitorSpawner = Syndie-Katastrophenopfer-Spawner
 
-ent-PirateScoonerSpawner = Piratenbesatzungsmitglied Spawner
+ent-PirateScoonerSpawner = Piratenbesatzungsmitglied-Spawner
 
-ent-PirateCaptainScoonerSpawner = Piratenkapitän Spawner
+ent-PirateCaptainScoonerSpawner = Piratenkapitän-Spawner
 
 ent-VisitorBlackmarketeerSpawner = Schwarzmarkthändler-Besucher-Spawner
 
-ent-CossackSpawner = KosakenSpawner
+ent-CossackSpawner = Kosaken-Spawner

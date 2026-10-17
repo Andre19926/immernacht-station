@@ -1,1 +1,1 @@
-ent-SyndicateSpawner = Zufallskonsortialposition Spawner
+ent-SyndicateSpawner = Zufalls-Konsortialposition-Spawner

@@ -1,1 +1,1 @@
-ent-RandomFloraTree = ZufallsbaumSpawner
+ent-RandomFloraTree = Zufalls-Baum-Spawner

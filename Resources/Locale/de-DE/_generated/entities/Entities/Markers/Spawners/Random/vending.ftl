@@ -1,3 +1,3 @@
-ent-RandomVending = Zufallsautomat Spawner
+ent-RandomVending = Zufalls-Automat-Spawner
 
-ent-RandomVendingClothing = Zufallsautomat Spawner
+ent-RandomVendingClothing = Zufalls-Automat-Spawner

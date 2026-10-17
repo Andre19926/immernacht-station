@@ -1,11 +1,11 @@
-ent-NukeOpsLootSpawner = nuke ops loot Spawner
+ent-NukeOpsLootSpawner = Nuke-Ops-Beute-Spawner
 
-ent-NukeOpsWeaponSpawner = nuke ops Waffe Spawner
+ent-NukeOpsWeaponSpawner = Nuke-Ops-Waffen-Spawner
 
 ent-NukeOpsMedkitBruteSpawner = Nuke-Ops-Medkit-Spawner (physische Schäden)
 
-ent-NukeOpsMedkitSpawner = nuke ops General Medkit Spawner
+ent-NukeOpsMedkitSpawner = Nuke-Ops-Allgemein-Medkit-Spawner
 
-ent-NukeOpsGrenadeSpawner = nuke ops grenade Spawner
+ent-NukeOpsGrenadeSpawner = Nuke-Ops-Granaten-Spawner
 
-ent-NukeOpsAmmoSpawner = nuke ops ammo Spawner
+ent-NukeOpsAmmoSpawner = Nuke-Ops-Munitions-Spawner

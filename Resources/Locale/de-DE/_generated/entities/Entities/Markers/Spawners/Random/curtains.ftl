@@ -1,1 +1,1 @@
-ent-CurtainSpawner = Zufälliger Vorhang Spawner
+ent-CurtainSpawner = Zufalls-Vorhang-Spawner

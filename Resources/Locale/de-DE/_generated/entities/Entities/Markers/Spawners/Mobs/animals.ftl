@@ -1,26 +1,26 @@
-ent-SpawnMobBee = BienenSpawner
+ent-SpawnMobBee = Bienen-Spawner
 
-ent-SpawnMobButterfly = SchmetterlingsSpawner
+ent-SpawnMobButterfly = Schmetterlings-Spawner
 
-ent-SpawnMobCatGeneric = GattungskatzenSpawner
+ent-SpawnMobCatGeneric = Hauskatzen-Spawner
 
 ent-SpawnMobCockroach = Kakerlakenlaiche
 
-ent-SpawnMobCow = KuhSpawner
+ent-SpawnMobCow = Kuh-Spawner
 
-ent-SpawnMobCrab = KrabbenSpawner
+ent-SpawnMobCrab = Krabben-Spawner
 
-ent-SpawnMobFrog = FroschSpawner
+ent-SpawnMobFrog = Frosch-Spawner
 
-ent-SpawnMobGoat = ZiegenSpawner
+ent-SpawnMobGoat = Ziegen-Spawner
 
-ent-SpawnMobGorilla = GorillaSpawner
+ent-SpawnMobGorilla = Gorilla-Spawner
 
-ent-SpawnMobMonkey = AffenSpawner
+ent-SpawnMobMonkey = Affen-Spawner
 
-ent-SpawnMobMouse = MausSpawner
+ent-SpawnMobMouse = Maus-Spawner
 
-ent-SpawnMobParrot = PapageienSpawner
+ent-SpawnMobParrot = Papageien-Spawner
 
 ent-SpawnMobPenguin = Pinguine
 

@@ -1,1 +1,1 @@
-ent-SpawnMobGoidaBot = goidabot Spawner
+ent-SpawnMobGoidaBot = Goidabot-Spawner
