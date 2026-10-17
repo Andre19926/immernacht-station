@@ -28,7 +28,7 @@ ent-AugmentToolsPanel = Utility Tools Panel Erweiterung
 ent-AugmentBotanyPanel = Erweiterung des Botanischen Tools Panels
     .desc = Ein Panel, das in den Arm eines Patienten erweitert werden kann, um ihm Zugriff auf seinen Inhalt zu gewähren. Dieser kann botanische Werkzeuge halten.
 
-ent-AugmentPaperworkPanel = paperwork tools panel augment
+ent-AugmentPaperworkPanel = Papierkram-Werkzeugpanel-Augment
     .desc = Ein Panel, das in den Arm eines Patienten erweitert werden kann, um ihm Zugriff auf seinen Inhalt zu gewähren. Dieser kann Papierkram-Tools halten.
 
 ent-AugmentSurgicalPanel = chirurgische Werkzeuge Panel Augment

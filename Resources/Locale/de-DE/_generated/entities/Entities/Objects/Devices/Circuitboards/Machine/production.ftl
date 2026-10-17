@@ -119,7 +119,7 @@ ent-CellRechargerCircuitboard = Zellenladegerät Maschinenplatine
 ent-PowerCageRechargerCircuitboard = Käfigladegerät Maschinenplatine
     .desc = Eine Maschinenplatine für einen Energiekäfigauflader.
 
-ent-BorgChargerCircuitboard = Cyborg-Ladestation Maschinenplatine
+ent-BorgChargerCircuitboard = Cyborg-Ladestation-Maschinenplatine
     .desc = Eine Maschinenplatine für eine Roboterladestation.
 
 ent-WeaponCapacitorRechargerCircuitboard = Ladegerät Maschinenplatine

@@ -4,7 +4,7 @@ ent-Hypospray = Hypospray
 ent-SyndiHypo = Gorlex hypospray
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten. Reverse-Engineered von Nanotrasen Designs, produziert Cybersun diese in begrenzten Mengen für Gorlex Marauders 'Leichen.
 
-ent-BorgHypo = Cyborghypo
+ent-BorgHypo = Cyborg-Hypo
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten an Patienten. Dieses integrierte Modell ist auf die Verwendung durch medizinische Cyborgs spezialisiert.
 
 ent-JetInjector = Strahlinjektor

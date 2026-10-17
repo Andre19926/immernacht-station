@@ -4,5 +4,5 @@ ent-CrateCargoLuxuryHardsuit = Luxus-Bergbau-Hardsuit-Kiste
 ent-CrateCargoParcelWrap = Pakethüllenkiste
     .desc = Alle deine Paketverpackung braucht in einer Kiste, die drei Rollen Paketverpackung enthält.
 
-ent-CrateCargoGambling = the grand lottery $$$
+ent-CrateCargoGambling = Die große Lotterie $$$
     .desc = Eine Schachtel mit Schätzen jenseits deiner größten Vorstellungen!

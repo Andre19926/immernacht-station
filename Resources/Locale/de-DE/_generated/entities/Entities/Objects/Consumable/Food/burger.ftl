@@ -25,7 +25,7 @@ ent-FoodBurgerBear = Bär
 ent-FoodBurgerBig = Big Bite Burger
     .desc = Vergiss den Big Mac. Das ist die Zukunft!
 
-ent-FoodBurgerBrain = Brain Burger
+ent-FoodBurgerBrain = Gehirnburger
     .desc = Ein seltsam aussehender Burger. Es sieht fast gefühlt aus.
 
 ent-FoodBurgerCat = Katzenburger

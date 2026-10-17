@@ -25,7 +25,7 @@ ent-ModularGrenade = modulare Granate
 ent-EmpGrenade = EMP-Granate
     .desc = Eine Granate, die entworfen wurde, um Chaos auf elektronischen Systemen anzurichten.
 
-ent-HolyHandGrenade = Heilige Hand Granate
+ent-HolyHandGrenade = Heilige Handgranate
     .desc = O Herr, segne diese deine Handgranate, daß du mit ihr deine Feinde zu kleinen Stücken in deiner Barmherzigkeit bläst.
 
 ent-GrenadeDummy = Trickgranaten
