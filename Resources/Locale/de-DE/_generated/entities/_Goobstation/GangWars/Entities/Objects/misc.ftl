@@ -11,7 +11,7 @@ ent-GangClothesBundle = Gruppenkleidungsbündel
     .desc = Ein Duffelbeutel mit einem frischen Satz Gangfäden. Rep deine Farben.
 
 ent-GangGL06Bundle = GL-06 RGL Kit
-    .desc = Ein Sattelbeutel mit einem GL-06-Riotgranatenwerfer, der mit zwei Blitzgranatengranaten vorgeladen ist.
+    .desc = Eine Umhängetasche mit einem GL-06-Riotgranatenwerfer, der mit zwei Blitzgranatengranaten vorgeladen ist.
 
 ent-Quickhack = Quickhack
     .desc = Ein verdecktes Gerät, das KI "offene" Signale fälscht, um unverriegelte Türen zu entriegeln. Kommt für 5 Anwendungen aufgeladen.
