@@ -1,2 +1,2 @@
 ent-LavalandBossBubblegum = Bubblegum
-    .desc = In dem, was für eine Hierarchie unter den Schlachtdämonen gilt, ist dieser König.
+    .desc = Soweit es unter den Schlachtdämonen eine Hierarchie gibt, ist dieser hier der König.

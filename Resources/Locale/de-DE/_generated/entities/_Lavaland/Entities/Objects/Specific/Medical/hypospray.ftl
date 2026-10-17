@@ -1,5 +1,5 @@
 ent-SurvivalMedipen = Survival Medipen
-    .desc = Ein Cocktail aus starken Heilchemikalien. Langsam heilt Schäden und stabilisiert die Körpertemperatur. Du kannst diese überdosieren, wenn du mehr als eine in kurzer Folge verwendest.
+    .desc = Ein Cocktail aus starken Heilchemikalien. Heilt langsam Schäden und stabilisiert die Körpertemperatur. Mehrfache Anwendung in kurzer Folge kann zur Überdosis führen.
 
 ent-LuxuryMedipen = Luxus-Medipen
-    .desc = Enthält starke Chemikalien, die bei der Erkundung rauer Umgebungen helfen. Chemikalien relativ schädlich und nicht so wirksam, wenn sie außerhalb des niedrigen Drucks verwendet werden.
+    .desc = Enthält starke Chemikalien zur Unterstützung bei der Erkundung rauer Umgebungen. Die Chemikalien sind relativ schädlich und außerhalb von Niederdruck weniger wirksam.

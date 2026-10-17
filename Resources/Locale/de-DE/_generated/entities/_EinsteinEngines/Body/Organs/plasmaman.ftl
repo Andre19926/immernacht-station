@@ -1,8 +1,8 @@
 ent-OrganPlasmamanLungs = Plasmamann-Lungen
-    .desc = Die Lungen sehnen sich nach dem Plasma. Nur Plasmagas kann diese Lungen sättigen, und Sauerstoff ist tödlich giftig.
+    .desc = Diese Lungen gieren nach Plasma. Nur Plasmagas kann sie sättigen, Sauerstoff ist tödlich giftig.
 
 ent-OrganPlasmamanStomach = Plasmamann-Magen
-    .desc = Warum haben Plasmamänner Mägen, wenn sie nicht essen müssen?
+    .desc = Warum haben Plasmamen Mägen, wenn sie nicht essen müssen?
 
 ent-OrganPlasmamanEyes = Plasmamann-Augen
     .desc = Ich sehe dich!
@@ -17,7 +17,7 @@ ent-OrganPlasmamanKidneys = Plasmamann-Nieren
     .desc = Filtert Giftstoffe aus dem Blutkreislauf.
 
 ent-OrganPlasmamanHeart = Plasmamann-Herz
-    .desc = Es pulsiert mit Plasma auch außerhalb des Körpers.
+    .desc = Es pulsiert vor Plasma, auch außerhalb des Körpers.
 
 ent-OrganPlasmamanBrain = Plasmamann-Gehirn
     .desc = Die Quelle unglaublicher, endloser Intelligenz. Honk.

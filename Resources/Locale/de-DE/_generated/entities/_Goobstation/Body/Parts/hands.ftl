@@ -7,10 +7,10 @@ ent-LeftHandBananamen = linke Bananenmenschenhand
 ent-RightHandBananamen = rechte Bananenmenschenhand
 
 ent-SmartlinkLeftHand = SmartLink-Hand (links)
-    .desc = Eine kybernetische linke Hand, die es ihrem Träger ermöglicht, "intelligente" Kugeln von jeder Waffe zu schießen.
+    .desc = Eine kybernetische linke Hand, mit der ihr Träger mit jeder Waffe „intelligente“ Kugeln abfeuern kann.
 
 ent-SmartlinkRightHand = SmartLink-Hand (rechts)
-    .desc = Eine kybernetische rechte Hand, die es ihrem Träger ermöglicht, "intelligente" Kugeln von jeder Waffe zu schießen.
+    .desc = Eine kybernetische rechte Hand, mit der ihr Träger mit jeder Waffe „intelligente“ Kugeln abfeuern kann.
 
 ent-RecoilAbsorberLeftHand = rückstoßabsorbierende Hand (links)
     .desc = Eine kybernetische linke Hand, die die meisten Fernwaffen absorbiert, prallt zurück.

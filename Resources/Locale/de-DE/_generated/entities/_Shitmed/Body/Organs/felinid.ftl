@@ -1,5 +1,5 @@
 ent-OrganFelinidEars = Katzenohren
-    .desc = Das Halten dieser könnte möglicherweise ansteckend sein.
+    .desc = Es zu halten, könnte womöglich ansteckend sein.
 
 ent-OrganFelinidTail = Katzenschwanz
-    .desc = Solltest du das wirklich haben?
+    .desc = Solltest du das wirklich besitzen?

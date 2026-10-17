@@ -1,2 +1,2 @@
 ent-ClothingBackpackDuffelAbductorFilled = Alien-Chirurgie-Seesack
-    .desc = Eine gewöhnliche chirurgische Duffelbeutel aus einer haltbaren Faser gewebt.
+    .desc = Ein gewöhnlicher chirurgischer Seesack aus haltbarer Faser.

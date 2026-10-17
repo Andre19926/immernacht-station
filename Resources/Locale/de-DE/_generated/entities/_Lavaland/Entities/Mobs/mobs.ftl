@@ -1,8 +1,8 @@
 ent-LavalandMobAshWhelp = Asche-Helfer
-    .desc = Die Nachkommen eines Aschetropfens, schwach im Vergleich, aber immer noch erschreckend.
+    .desc = Die Nachkommen eines Aschetropfens, im Vergleich schwach, aber immer noch furchteinflößend.
 
 ent-LavalandMobBrimdemon = Brimdemon
-    .desc = Eine flüchtige Kreatur, die einem riesigen gehörnten Schädel ähnelt. Seine Antwort auf fast jeden Reiz besteht darin, einen Strahl höllischer Energie freizusetzen.
+    .desc = Eine flüchtige Kreatur, die einem riesigen gehörnten Schädel ähnelt. Auf fast jeden Reiz antwortet sie mit einem Strahl höllischer Energie.
 
 ent-LavalandMobLegionMonkey = Rabe
-    .desc = Du kannst sehen, was einst ein Affe unter der sich verändernden Masse der Korruption war. Es hat nicht genug Biomasse, um sich zu vermehren.
+    .desc = Du erkennst, was einst ein Affe unter der wabernden Masse der Korruption war. Er hat nicht genug Biomasse, um sich zu vermehren.

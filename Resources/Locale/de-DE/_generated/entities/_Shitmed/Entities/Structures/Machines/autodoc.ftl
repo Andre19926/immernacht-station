@@ -1,8 +1,8 @@
 ent-Autodoc = Autodoc Mk.XIV
-    .desc = Ein programmierbarer Roboterchirurg, der in der Lage ist, Patienten automatisch zu operieren.
+    .desc = Ein programmierbarer Chirurgieroboter, der Patienten automatisch operieren kann.
 
 ent-AutodocSyndie = Autodoc Mk.XIV
-    .desc = Ein programmierbarer Roboterchirurg, der in der Lage ist, Patienten automatisch zu operieren.
+    .desc = Ein programmierbarer Chirurgieroboter, der Patienten automatisch operieren kann.
 
 ent-OmnimedToolAutodoc = chirurgisches Omnitool
-    .desc = Ein kompaktes chirurgisches Omnitool, bequem verpackt wie ein Schweizer Armeemesser.
+    .desc = Ein kompaktes chirurgisches Omnitool, praktisch verpackt wie ein Schweizer Taschenmesser.

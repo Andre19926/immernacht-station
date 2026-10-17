@@ -1,11 +1,11 @@
 ent-MechanicalPinchesAbductor = High-Tech Retraktor
-    .desc = Ein hochentwickelter Retraktor, es scheint auch wie ein Hämostat zu funktionieren.
+    .desc = Ein hochentwickelter Retraktor, der offenbar auch als Hämostat funktioniert.
 
 ent-SearingToolAbductor = Hightech-Seilwerkzeug
-    .desc = Eine hochentwickelte Kauterei mit einer Energiespitze, scheint es auch als Stiche zu funktionieren.
+    .desc = Ein hochentwickelter Kauter mit Energiespitze, der offenbar auch als Nahtgerät funktioniert.
 
 ent-EnergyScalpelAbductor = Hightech-Energieskalpell
-    .desc = Ein Skalpell, das eine Energieklinge verwendet, scheint es auch als Säge und Bohrer zu funktionieren.
+    .desc = Ein Skalpell mit Energieklinge, das offenbar auch als Säge und Bohrer funktioniert.
 
 ent-BoneManipulatorAbductor = Hightech-Knochenmanipulator
     .desc = Ein hochentwickeltes Werkzeug, das Knochen reparieren kann.

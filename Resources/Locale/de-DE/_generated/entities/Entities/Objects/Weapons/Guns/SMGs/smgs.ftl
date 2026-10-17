@@ -14,4 +14,4 @@ ent-WeaponSubMachineGunWt550 = WT550
     .desc = Eine wirklich einzigartige Waffe, die WT550 lädt aus einem proprietären, oben montierten Magazin parallel zum Lauf. Während der RPM nicht großartig ist, machen das kleine Paket und der stetige Rückstoß es vollständig einhändig nutzbar. Wird von oben montierten .35-Auto-SMG-Magazinen gespeist.
 
 ent-WeaponSubMachineGunBriefcase = Braune Aktentasche
-    .desc = Nützlich für das Tragen von Gegenständen in den Händen.
+    .desc = Nützlich, um Gegenstände in den Händen zu tragen.

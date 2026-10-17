@@ -1,5 +1,5 @@
 ent-ShelterCapsule = Bluespace-Schutzkapsel
-    .desc = Ein Notunterkünfte in einer Tasche von Bluespace gespeichert.
+    .desc = Eine Notunterkunft, in einer Bluespace-Tasche gespeichert.
 
 ent-ShelterCapsuleLuxury = Luxus-Bluespace-Schutzkapsel
-    .desc = Eine exorbitant teure Luxus-Suite in einer Tasche von Bluespace gespeichert.
+    .desc = Eine exorbitant teure Luxus-Suite, in einer Bluespace-Tasche gespeichert.

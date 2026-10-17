@@ -1,5 +1,5 @@
 ent-LavalandEquipmentAncientArmor = Vorgängerpanzer
-    .desc = Alte Rüstung, die vollständig aus starken Goliathplatten besteht.
+    .desc = Alte Rüstung, vollständig aus starken Goliathplatten gefertigt.
 
 ent-LavalandEquipmentAncientArmorHood = Vorgängerhelm
-    .desc = Panzerhelm, der einer heidnischen Gottheit ähnelt. Augenlöcher sind mit dauerhaftem Harz bedeckt. Sieht so aus, als wäre es schwer, drinnen zu atmen.
+    .desc = Panzerhelm, der einer heidnischen Gottheit gleicht. Die Augenlöcher sind mit dauerhaftem Harz versiegelt. Darin zu atmen scheint schwierig zu sein.

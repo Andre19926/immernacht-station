@@ -1,5 +1,5 @@
 ent-GatewayLavaland = Lavaland Gateway
-    .desc = Zur Hölle, du gehst.
+    .desc = Zur Hölle mit dir.
 
 ent-GatewayLavalandStation = Lavaland Gateway
-    .desc = Zur Hölle, du gehst.
+    .desc = Zur Hölle mit dir.

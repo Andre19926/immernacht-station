@@ -1,2 +1,2 @@
 ent-GatewayFlatpackLavaland = Lavaland Gateway Flatpack
-    .desc = Ein Flatpack verwendet, um Bluespace in einem Gateway für die Reise nach Lavaland.
+    .desc = Ein Flatpack, das Bluespace in einem Gateway für die Reise nach Lavaland nutzt.

@@ -26,7 +26,7 @@ ent-CentcommStypticStimulatorImplanter = CentComm-Blutstiller-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
 ent-PacifismImplanter = Pazifismus-Implantator
-    .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
 ent-SmokeImplanter = Syndicate-Rauch-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
@@ -71,10 +71,10 @@ ent-AntagImplanterSpaceNinja = Antag-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde. Die Insertionsnadel ist mit einem Analgetikum beschichtet.
 
 ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
-    .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
 ent-RedspaceLifelineImplanter = Syndicate-Redspace-Lebensader-Implantator
     .desc = Eine kompakte Einmalspritze, die ausschließlich für die Injektion von unterirdischen Implantaten ausgelegt ist. Stelle sicher, dass du es mit Seife schrubbst, um die verbleibende DNA nach dem Gebrauch zu entfernen!
 
 ent-TelepathyImplanter = Telepathie-Implantator
-    .desc = Eine Einwegspritze, die ausschließlich für die Injektion von subdermalen Implantaten entwickelt wurde.
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.

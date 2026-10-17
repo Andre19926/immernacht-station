@@ -1,2 +1,2 @@
 ent-ClothingHandsGlovesSurgical = Blauraumchirurgiehandschuhe
-    .desc = Diese experimentellen Handschuhe verwenden Bluespace-Technologie, damit ihr Benutzer eine Operation durch Kleidung durchführen kann.
+    .desc = Diese experimentellen Handschuhe nutzen Bluespace-Technik, damit der Träger durch Kleidung hindurch operieren kann.

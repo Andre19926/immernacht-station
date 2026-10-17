@@ -1,2 +1,2 @@
 ent-ActionSelfExtinguish = Selbstverlöschen
-    .desc = Löscht dich, wenn du brennst und gegen Selbstentzündung isoliert bist.
+    .desc = Löscht dich, wenn du brennst, und isoliert dich gegen Selbstentzündung.

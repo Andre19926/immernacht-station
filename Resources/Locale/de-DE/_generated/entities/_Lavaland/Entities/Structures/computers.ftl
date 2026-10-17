@@ -1,2 +1,2 @@
 ent-ComputerShuttleMiningLavaland = Mining Shuttle Konsole
-    .desc = Wird verwendet, um den Mining-Shuttle von und zur Mining-Basis zu steuern.
+    .desc = Steuert das Bergbau-Shuttle von und zur Bergbaubasis.

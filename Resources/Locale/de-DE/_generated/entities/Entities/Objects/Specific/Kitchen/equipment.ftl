@@ -11,7 +11,7 @@ ent-HandheldJuicerMakeshift = Behelfssafter
     .desc = Wird zum Entsaften kleiner Mengen von Objekten verwendet. Unterlegene Version aus Holz.
 
 ent-IncompleteMortarAndPestle = unvollständiger Mörser und Stößel
-    .desc = Ein paar Holzbretter klebten zusammen.
+    .desc = Ein paar zusammengeklebte Holzbretter.
 
 ent-IncompleteHandheldJuicer = unvollständiger Handsäfter
     .desc = Ein bisschen Holz und Plastik stecken zusammen.

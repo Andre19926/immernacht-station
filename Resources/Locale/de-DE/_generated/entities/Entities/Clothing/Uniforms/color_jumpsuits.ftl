@@ -2,7 +2,7 @@ ent-ClothingUniformJumpsuitColorWhite = Uniform (weiß)
     .desc = Ein generischer Overall in Weiß ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitColorGrey = Uniform (grau)
-    .desc = Ein geschmackvoller grauer Overall, der dich an die guten alten Zeiten erinnert.
+    .desc = Ein geschmackvoller grauer Overall, der dich an die gute alte Zeit erinnert.
 
 ent-ClothingUniformJumpsuitColorBlack = Uniform (schwarz)
     .desc = Ein generischer Overall in Schwarz ohne Rangabzeichen.
@@ -38,7 +38,7 @@ ent-ClothingUniformJumpsuitColorPurple = Uniform (lila)
     .desc = Ein generischer Overall in Hellviolett ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitColorLightBrown = Uniform (hellbraun)
-    .desc = Ein allgemeines braunes gesamt mit keine rangmarken.
+    .desc = Ein generischer Overall in Braun ohne Rangabzeichen.
 
 ent-ClothingUniformJumpsuitColorBrown = Uniform (braun)
     .desc = Ein generischer Overall in Braun ohne Rangabzeichen.

@@ -1,2 +1,2 @@
 ent-AbductorAlienPad = Alien-Pad
-    .desc = Beam in den minderwertigen Lebensformen und graben in.
+    .desc = Beame die minderwertigen Lebensformen herbei und forsche an ihnen.

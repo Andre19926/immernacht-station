@@ -1,11 +1,11 @@
 ent-ClothingHeadEnvirohelm = Plasma-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm, der es plasmabasierten Lebensformen ermöglicht, in einer sauerstoffhaltigen Umgebung sicher zu existieren.
+    .desc = Ein spezieller Containment-Helm, der plasmabasierten Lebensformen ermöglicht, in einer sauerstoffhaltigen Umgebung sicher zu existieren.
 
 ent-ClothingHeadEnvirohelmEmpty = Plasma-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm, der es plasmabasierten Lebensformen ermöglicht, in einer sauerstoffhaltigen Umgebung sicher zu existieren.
+    .desc = Ein spezieller Containment-Helm, der plasmabasierten Lebensformen ermöglicht, in einer sauerstoffhaltigen Umgebung sicher zu existieren.
 
 ent-ClothingHeadEnvirohelmAtmos = Atmos-Umweltanzughelm
-    .desc = Ein platzsparender Helm speziell für den Atmos-Techniker Plasmamen, die üblichen violetten Streifen werden durch Atmos' Blau ersetzt.
+    .desc = Ein platzsparender Helm speziell für Atmos-Techniker-Plasmamen. Die üblichen violetten Streifen sind durch Atmos-Blau ersetzt.
 
 ent-ClothingHeadEnvirohelmCargo = Fracht-Umweltanzughelm
     .desc = Ein Plasmaman-Umwelthelm für Frachttechniker.
@@ -14,100 +14,100 @@ ent-ClothingHeadEnvirohelmCaptain = Kapitän-Umweltanzughelm
     .desc = Ein spezieller Containment-Helm für den Captain.
 
 ent-ClothingHeadEnvirohelmChiefEngineer = Chefingenieur-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Chefingenieur, wobei die üblichen violetten Streifen durch das Grün des Chefs ersetzt werden.
+    .desc = Ein spezieller Containment-Helm für den Chefingenieur, bei dem die üblichen violetten Streifen durch das Grün des Chefs ersetzt sind.
 
 ent-ClothingHeadEnvirohelmChaplain = Kaplan-Umweltanzughelm
-    .desc = Ein Envirohelm speziell für nur die frommsten Plasmamen konzipiert.
+    .desc = Ein Envirohelm, nur für die frömmsten Plasmamen entworfen.
 
 ent-ClothingHeadEnvirohelmDetective = Detektiv-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für Detektive, der sie neben anderen unerwünschten Stoffen vor lebendigem Brennen schützt.
+    .desc = Ein spezieller Containment-Helm für Detektive, der sie unter anderem davor schützt, bei lebendigem Leib zu verbrennen.
 
 ent-ClothingHeadEnvirohelmChemist = Chemie-Umweltanzughelm
     .desc = Ein Plasmaman Umweltanzug für Chemiker, zwei orangefarbene Streifen, die über das Gesicht gehen.
 
 ent-ClothingHeadEnvirohelmClown = Clown-Umweltanzughelm
-    .desc = Das Make-up ist bemalt, es ist ein Wunder, dass es nicht abplatzt. HONK!
+    .desc = Das Make-up ist aufgemalt, und es ist ein Wunder, dass es nicht abblättert. HONK!
 
 ent-ClothingHeadEnvirohelmCMO = Chefarzt-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Chefarzt. Der Goldstreifen unterscheidet sie von anderen medizinischen Mitarbeitern.
+    .desc = Ein spezieller Containment-Helm für den Chefarzt. Der Goldstreifen unterscheidet ihn vom übrigen medizinischen Personal.
 
 ent-ClothingHeadEnvirohelmEngineering = Technik-Umweltanzughelm
-    .desc = Ein raumtauglicher Helm, speziell für Ingenieur-Plasmamänner entworfen. Die üblichen violetten Streifen sind durch das Orange der Technik ersetzt.
+    .desc = Ein raumtauglicher Helm, speziell für Ingenieur-Plasmamen. Die üblichen violetten Streifen sind durch das Orange der Technik ersetzt.
 
 ent-ClothingHeadEnvirohelmHoP = Personalchef-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Leiter des Personals.
+    .desc = Ein spezieller Containment-Helm für den Personalleiter.
 
 ent-ClothingHeadEnvirohelmHoS = Sicherheitschef-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Sicherheitschef. Das Paar Goldstreifen hebt ihn von den anderen Mitgliedern der Sicherheit ab.
+    .desc = Ein spezieller Containment-Helm für den Sicherheitschef. Das Paar Goldstreifen hebt ihn vom übrigen Sicherheitspersonal ab.
 
 ent-ClothingHeadEnvirohelmHydroponics = Botanik-Umweltanzughelm
-    .desc = Ein grün-blauer Umwelthelm, der seinen Träger als Botaniker bezeichnet.
+    .desc = Ein grünblauer Umwelthelm, der den Träger als Botaniker ausweist.
 
 ent-ClothingHeadEnvirohelmJanitor = Hausmeister-Umweltanzughelm
-    .desc = Ein grauer Helm, der ein Paar lila Streifen trägt und den Träger als Hausmeister bezeichnet.
+    .desc = Ein grauer Helm mit zwei lila Streifen, der den Träger als Hausmeister ausweist.
 
 ent-ClothingHeadEnvirohelmAncientVoid = NTSRA-Umweltanzughelm
-    .desc = Hergestellt aus einem modifizierten NTSRA Vacsuit, war dieser Helm Nanotrasens erster entworfener Umwelthelm für Plasmamen.
+    .desc = Aus einem modifizierten NTSRA-Vakuumanzug gefertigt, war dies Nanotrasens erster Umwelthelm für Plasmamen.
 
 ent-ClothingHeadEnvirohelmMedicalDoctor = Medizin-Umweltanzughelm
-    .desc = Ein Umwelthelm für Plasmaman Medical Personal, mit zwei Streifen nach unten seine Länge, um so viel zu bezeichnen.
+    .desc = Ein Umwelthelm für medizinisches Personal unter den Plasmamen, mit zwei Streifen entlang der Länge zur Kennzeichnung.
 
 ent-ClothingHeadEnvirohelmGenitcs = Genetik-Umweltanzughelm
     .desc = Ein Plasmaman-Umwelthelm für Genetiker.
 
 ent-ClothingHeadEnvirohelmMime = Mime-Umweltanzughelm
-    .desc = Das Make-up ist bemalt, es ist ein Wunder, dass es nicht abplatzt. Es ist nicht sehr bunt.
+    .desc = Das Make-up ist aufgemalt, und es ist ein Wunder, dass es nicht abblättert. Es ist nicht sehr bunt.
 
 ent-ClothingHeadEnvirohelmParamedic = Sanitäter-Umweltanzughelm
-    .desc = Ein Umwelthelm für Plasmaman Sanitäter, mit dunkleren blauen Streifen im Vergleich zum medizinischen Modell.
+    .desc = Ein Umwelthelm für Plasmaman-Sanitäter, mit dunkleren blauen Streifen als beim medizinischen Modell.
 
 ent-ClothingHeadEnvirohelmPrisoner = Gefangenen-Umweltanzughelm
-    .desc = Ein Plasmaman Containment Helm für Gefangene.
+    .desc = Ein Plasmaman-Containment-Helm für Gefangene.
 
 ent-ClothingHeadEnvirohelmResearchDirector = Forschungsleiter-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für den Resarch Director. Ein hellbraunes Design wird angewendet, um sie von anderen Wissenschaftlern zu unterscheiden.
+    .desc = Ein spezieller Containment-Helm für den Forschungsleiter. Ein hellbraunes Design unterscheidet ihn von anderen Wissenschaftlern.
 
 ent-ClothingHeadEnvirohelmRoboticist = Robotiker-Umweltanzughelm
     .desc = Ein Plasmaman-Umwelthelm für Robotiker.
 
 ent-ClothingHeadEnvirohelmSalvage = Salvage-Umweltanzughelm
-    .desc = Ein khaki Helm gegeben Plasmamen Salvage-Techniker.
+    .desc = Ein khakifarbener Helm für Bergungstechniker unter den Plasmamen.
 
 ent-ClothingHeadEnvirohelmScientist = Wissenschaft-Umweltanzughelm
     .desc = Ein Plasmaman-Umwelthelm für Wissenschaftler.
 
 ent-ClothingHeadEnvirohelmSec = Sicherheit-Umweltanzughelm
-    .desc = Ein Plasmaman Containment-Helm, der für Sicherheitsbeamte entwickelt wurde und sie neben anderen unerwünschten Stoffen vor lebendigem Brennen schützt.
+    .desc = Ein Plasmaman-Containment-Helm für Sicherheitsbeamte, der sie unter anderem davor schützt, bei lebendigem Leib zu verbrennen.
 
 ent-ClothingHeadEnvirohelmSecBlue = Umweltanzughelm (blau (Sicherheit))
-    .desc = Ein cooler blauer Umweltanzug-Helm für das Plasmaman-Sicherheitspersonal.
+    .desc = Ein cooler blauer Umwelthelm für Plasmaman-Sicherheitspersonal.
 
 ent-ClothingHeadEnvirohelmSecGrey = Umweltanzughelm (grau (Sicherheit))
-    .desc = Ein hellgrauer Umweltanzug-Helm mit leuchtend roten Highlights für das Sicherheitspersonal von Plasmamen.
+    .desc = Ein hellgrauer Umwelthelm mit leuchtend roten Akzenten für Plasmaman-Sicherheitspersonal.
 
 ent-ClothingHeadEnvirohelmVirology = Virologie-Umweltanzughelm
-    .desc = Der Helm, der von den sichersten Menschen auf der Station getragen wird, denen, die völlig immun gegen die Monstrositäten sind, die sie erzeugen.
+    .desc = Der Helm der sichersten Leute auf der Station, die völlig immun gegen die Monstrositäten sind, die sie erzeugen.
 
 ent-ClothingHeadEnvirohelmWarden = Warden-Umweltanzughelm
-    .desc = Ein Plasmaman Containment Helm für den Warden. Ein Paar weißer Streifen wird hinzugefügt, um sie von anderen Sicherheitsmitgliedern zu unterscheiden.
+    .desc = Ein Plasmaman-Containment-Helm für den Warden. Zwei weiße Streifen unterscheiden ihn von anderen Sicherheitsmitgliedern.
 
 ent-ClothingHeadEnvirohelmOperative = Agenten-Umweltanzughelm
-    .desc = Jeder, der das trägt, ist badass und verdient zumindest ein flüchtiges Nicken des Respekts.
+    .desc = Wer das trägt, ist badass und verdient mindestens ein flüchtiges respektvolles Nicken.
 
 ent-ClothingHeadEnvirohelmTacticool = Tacticool-Umweltanzughelm
-    .desc = Es besteht kein Zweifel, dieser Helm stellt dich über alle anderen Plasmamen.
+    .desc = Kein Zweifel: Dieser Helm stellt dich über alle anderen Plasmamen.
 
 ent-ClothingHeadEnvirohelmCentcomAgent = CentComm-Agenten-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für das Rechtsteam von CentCom. Weißt du, also töten keine Kaffeeverschüttungen den armen Gras.
+    .desc = Ein spezieller Containment-Helm für das Rechtsteam von CentCom. Damit Kaffeeverschütten nicht den armen Kerl tötet.
 
 ent-ClothingHeadEnvirohelmCentcomOfficial = CentComm-Beamten-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für CentCom Staff. Sie lieben ihr Grün.
+    .desc = Ein spezieller Containment-Helm für CentCom-Personal. Sie lieben ihr Grün.
 
 ent-ClothingHeadEnvirohelmCentcomOfficer = CentComm-Offiziers-Umweltanzughelm
-    .desc = Ein spezieller Containment-Helm für CentCom Officers.
+    .desc = Ein spezieller Containment-Helm für CentCom-Offiziere.
 
 ent-ClothingHeadEnvirohelmCourier = Kurier-Umweltanzughelm
-    .desc = Ein Umweltanzug-Helm für den Kurier.
+    .desc = Ein Umwelthelm für den Kurier.
 
 ent-ClothingHeadEnvirohelmMailCarrier = Postboten-Umweltanzughelm
     .desc = Riecht nach einer guten Rente.
@@ -116,100 +116,100 @@ ent-ClothingHeadEnvirohelmMusician = Musiker-Umweltanzughelm
     .desc = Experten sind ratlos, wie Plasmamen mit diesem Helm noch Trompete spielen können.
 
 ent-ClothingHeadEnvirohelmReporter = Reporter-Umweltanzughelm
-    .desc = Ein Umweltanzug-Helm für den Reporter.
+    .desc = Ein Umwelthelm für den Reporter.
 
 ent-ClothingHeadEnvirohelmGladiator = Gladiator-Umweltanzughelm
     .desc = Schützt den Kopf vor Spielzeugspeeren und giftigem Sauerstoff.
 
 ent-ClothingHeadEnvirohelmMantis = Mantis-Umweltanzughelm
-    .desc = Ein Umweltanzug-Helm für die forensische Mantis mit einem schicken Goldstreifen.
+    .desc = Ein Umwelthelm für den forensischen Mantis mit schickem Goldstreifen.
 
 ent-ClothingHeadEnvirohelmSafari = Safari-Umweltanzughelm
-    .desc = Macht dich zu einem Ziel für die Einheimischen.
+    .desc = Macht dich zur Zielscheibe der Einheimischen.
 
 ent-ClothingHeadEnvirohelmMartialGi = Kampfsport-Umweltanzughelm
-    .desc = Ein weißer Umweltanzug-Helm mit schwarzen Streifen für Kampfsportarten.
+    .desc = Ein weißer Umwelthelm mit schwarzen Streifen für Kampfsport.
 
 ent-ClothingHeadEnvirohelmQM = Quartiermeister-Umweltanzughelm
     .desc = Ein spezieller Containment-Helm für den Frachttechniker.
 
 ent-ClothingHeadEnvirohelmBoxing = Box-Umweltanzughelm
-    .desc = Ein weißer Ökoanzug-Helm mit roten Zügen.
+    .desc = Ein weißer Umwelthelm mit roten Streifen.
 
 ent-ClothingHeadEnvirohelmAdminAssistant = Verwaltungsassistent-Umweltanzughelm
-    .desc = Ein weißer Umweltanzug Helm mit dunkelblauen Streifen.
+    .desc = Ein weißer Umwelthelm mit dunkelblauen Streifen.
 
 ent-ClothingHeadEnvirohelmBlackPink = Umweltanzughelm (schwarz-pink)
-    .desc = Wie gefällt dir dieser Umweltanzug-Helm?
+    .desc = Wie gefällt dir dieser Umwelthelm?
 
 ent-ClothingHeadEnvirohelmBlackPinkAlt = Umweltanzughelm (schwarz-pink)
-    .desc = Dieser Umweltanzug-Helm lässt dich diese Liebe töten wollen.
+    .desc = Dieser Umwelthelm lässt dich vor Liebe sterben wollen.
 
 ent-ClothingHeadEnvirohelmBlueshield = Blueshield-Umweltanzughelm
-    .desc = Ein Plasmaman Umweltanzug Helm für den Blueshield.
+    .desc = Ein Plasmaman-Umwelthelm für den Blueshield.
 
 ent-ClothingHeadEnvirohelmTrans = Umweltanzughelm (Trans)
-    .desc = Die bevorzugte Kopfbedeckung von Transylvanian Plasmamen, um das Verbrennen aus Sauerstoff zu verhindern.
+    .desc = Die bevorzugte Kopfbedeckung transsylvanischer Plasmamen, um das Verbrennen durch Sauerstoff zu verhindern.
 
 ent-ClothingHeadEnvirohelmPrisonGuard = Gefängniswärter-Umweltanzughelm
-    .desc = Hoffe, dass ein Gefangener dir das nicht wegnimmt!
+    .desc = Hoffentlich nimmt dir das kein Gefangener weg!
 
 ent-ClothingHeadEnvirohelmBrigmedic = Sanitäter-Umweltanzughelm
-    .desc = Ein Helm für Corpsmen Plasmamen zur Verfügung gestellt.
+    .desc = Ein Helm, der Plasmaman-Sanitätern zur Verfügung gestellt wird.
 
 ent-ClothingHeadEnvirohelmNanotrasenRepresentative = Nanotrasen-Vertreter-Umweltanzughelm
-    .desc = Ein schwarzer Umweltanzug-Helm mit schwarzen und goldenen Akzenten, getragen vom NanoTrasen-Vertreter.
+    .desc = Ein schwarzer Umwelthelm mit goldenen Akzenten, getragen vom NanoTrasen-Vertreter.
 
 ent-ClothingHeadEnvirohelmMagistrate = Magistrat-Umweltanzughelm
-    .desc = Ein schlichter weißer Umweltanzug mit gelben Streifen.
+    .desc = Ein schlichter weißer Umwelthelm mit gelben Streifen.
 
 ent-ClothingHeadEnvirohelmColorWhite = Umweltanzughelm (weiß)
-    .desc = Ein generischer weißer Envirohelm.
+    .desc = Ein generischer weißer Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorGrey = Umweltanzughelm (grau)
-    .desc = Ein grauer Umweltanzug Helm.
+    .desc = Ein grauer Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorBlack = Umweltanzughelm (schwarz)
-    .desc = Ein schwarzer Umweltanzug Helm.
+    .desc = Ein schwarzer Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorRed = Umweltanzughelm (rot)
-    .desc = Ein roter Umweltanzug-Helm.
+    .desc = Ein roter Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorGreen = Umweltanzughelm (grün)
-    .desc = Ein grüner Umweltanzug-Helm.
+    .desc = Ein grüner Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorDarkGreen = Umweltanzughelm (dunkelgrün)
-    .desc = Ein dunkelgrüner Umweltanzug-Helm.
+    .desc = Ein dunkelgrüner Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorBlue = Umweltanzughelm (blau)
-    .desc = Ein blauer Umweltanzug-Helm.
+    .desc = Ein blauer Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorDarkBlue = Umweltanzughelm (dunkelblau)
-    .desc = Ein dunkelblauer Umweltanzug Helm.
+    .desc = Ein dunkelblauer Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorTeal = Umweltanzughelm (türkis)
-    .desc = Ein teal Umweltanzug Helm.
+    .desc = Ein türkiser Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorMaroon = Umweltanzughelm (kastanienbraun)
-    .desc = Ein maroon Umweltanzug Helm.
+    .desc = Ein kastanienbrauner Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorPink = Umweltanzughelm (rosa)
-    .desc = Ein rosa Umweltanzug Helm. Also fetch!
+    .desc = Ein rosa Umwelthelm. Also fetch!
 
 ent-ClothingHeadEnvirohelmColorYellow = Umweltanzughelm (gelb)
-    .desc = Ein gelber Umweltanzug-Helm.
+    .desc = Ein gelber Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorPurple = Umweltanzughelm (lila)
-    .desc = Ein lila Umweltanzug Helm.
+    .desc = Ein violetter Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorOrange = Umweltanzughelm (orange)
-    .desc = Ein orangefarbener Umweltanzug Helm.
+    .desc = Ein orangefarbener Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorLightBrown = Umweltanzughelm (hellbraun)
-    .desc = Ein hellbrauner Umweltanzug Helm.
+    .desc = Ein hellbrauner Umwelthelm.
 
 ent-ClothingHeadEnvirohelmColorBrown = Umweltanzughelm (braun)
-    .desc = Ein brauner Umweltanzug Helm.
+    .desc = Ein brauner Umwelthelm.
 
 ent-ClothingHeadEnvirohelmEnviroslacksColorRed = Umwelthosenhelm (rot)
     .desc = Das Lieblingsprojekt eines besonders possigen Plasmaman, dieser Umwelthelm, kommt mit roten Akzenten. Fancy!

@@ -13,7 +13,7 @@ ent-ContractApprenticeship = Ausbildungsvertrag
     .desc = Ein magischer Vertrag, der zuvor von einem Lehrling unterzeichnet wurde. Im Austausch für Unterricht in den magischen Künsten sind sie verpflichtet, deinen Ruf nach Hilfe zu beantworten.
 
 ent-DrinkMugwortTeaGlass = metamorphes Glas
-    .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.
+    .desc = Ein metamorphes Glas, das sich automatisch in ein zum Getränk passendes Glas verwandelt. Auf dem Boden steht eine abgeschliffene Patentnummer.
 
 ent-EverfullMug = Everfull Becher
     .desc = Eine verzauberte Tasse, die Omnizine automatisch nachfüllt.

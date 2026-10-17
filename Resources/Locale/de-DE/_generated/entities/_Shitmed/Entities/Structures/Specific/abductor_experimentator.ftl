@@ -1,2 +1,2 @@
 ent-AbductorExperimentator = Experimentator
-    .desc = Ein Gerät, das das Ergebnis des Experiments analysiert und das Objekt an den Ort zurücksetzt, von dem aus es genommen wurde.
+    .desc = Ein Gerät, das das Ergebnis des Experiments auswertet und das Objekt an den Ort zurückbringt, von dem es genommen wurde.

@@ -1,2 +1,2 @@
 ent-ActionLightEater = Lichtfresser
-    .desc = Asche oder deaktiviere jedes Licht, das du mit deinem Armblatt triffst.
+    .desc = Verbrennt oder deaktiviert jedes Licht, das du mit deiner Armklinge triffst.

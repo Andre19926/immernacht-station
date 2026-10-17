@@ -1,2 +1,2 @@
 ent-LavalandBossColossus = Colossus
-    .desc = Eine monströse Kreatur, die durch schwere Abschirmungen geschützt ist.
+    .desc = Eine monströse Kreatur, geschützt durch schwere Panzerung.

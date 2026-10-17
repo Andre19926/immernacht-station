@@ -35,7 +35,7 @@ ent-TableCarpet = Spieltisch
     .desc = Spiele em' Cowboy.
 
 ent-TableStone = Steintisch
-    .desc = Buchstäblich das robusteste, was du je gesehen hast.
+    .desc = Buchstäblich das Robusteste, was du je gesehen hast.
 
 ent-TableWeb = Webtisch
     .desc = Wirklich glatt und überraschend langlebig.

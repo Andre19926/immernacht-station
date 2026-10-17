@@ -1,2 +1,2 @@
 ent-WebCocoon = Webkokon
-    .desc = Starke Web-Kokon verwendet, um Beute oder nur Kriminelle zurückzuhalten.
+    .desc = Starker Gespinstkokon, mit dem sich Beute oder auch nur Kriminelle festhalten lassen.

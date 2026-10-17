@@ -17,7 +17,7 @@ ent-ClothingOuterCoatHoSTrench = Sicherheitschef gepanzerter Trenchcoat
     .desc = Ein Greatcoat mit einer speziellen Legierung für etwas zusätzlichen Schutz und Stil für diejenigen mit einer beherrschenden Präsenz verbessert.
 
 ent-ClothingOuterCoatJensen = Jensenmantel
-    .desc = Ein Jensenmantel.
+    .desc = Ein Jensen-Mantel.
 
 ent-ClothingOuterCoatTrench = Trenchcoat
     .desc = Ein bequemer Trenchcoat.

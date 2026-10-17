@@ -8,10 +8,10 @@ ent-LockerQuarterMaster = Quartiermeisters Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerSalvageSpecialist = Spind des Salvage-Spezialisten
-    .desc = Enthält Ausrüstung, die für die Weltraumforschung nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
 
 ent-LockerShaftMiner = Wellenbergarbeiter-Spind
-    .desc = Enthält Ausrüstung, die für die Erforschung des Planeten nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Erforschung des Planeten.
 
 ent-LockerCaptain = Kapitänsspind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.

@@ -1,2 +1,2 @@
 ent-Wonderprod = Wonderprod
-    .desc = Universelles Werkzeug des Abduktor-Agenten.
+    .desc = Universalwerkzeug des Abductor-Agenten.

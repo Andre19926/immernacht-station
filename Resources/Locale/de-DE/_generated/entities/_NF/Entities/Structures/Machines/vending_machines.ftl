@@ -1,2 +1,2 @@
 ent-VendingMachineSyndieContraband = ContraVend
-    .desc = Gesucht in mehreren Sektoren!
+    .desc = In mehreren Sektoren gesucht!

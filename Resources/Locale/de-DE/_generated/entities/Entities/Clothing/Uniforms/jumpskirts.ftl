@@ -23,10 +23,10 @@ ent-ClothingUniformJumpskirtChemistry = Chemikeruniform (Rock)
     .desc = Es gibt einige seltsame Flecken auf diesem Rock-Uniform. Hm.
 
 ent-ClothingUniformJumpskirtVirology = Virologieuniform (Rock)
-    .desc = Es besteht aus einer speziellen Faser, die einen besonderen Schutz gegen Biogefahren bietet. Es hat einen virologischen Rangstreifen darauf.
+    .desc = Sie besteht aus einer speziellen Faser, die besonderen Schutz gegen Biogefahren bietet. Sie trägt einen virologischen Rangstreifen.
 
 ent-ClothingUniformJumpskirtGenetics = Genetikeruniform (Rock)
-    .desc = Es besteht aus einer speziellen Faser, die einen besonderen Schutz gegen Biogefahren bietet. Es hat einen Genetiker Rangstreifen darauf.
+    .desc = Sie besteht aus einer speziellen Faser, die besonderen Schutz gegen Biogefahren bietet. Sie trägt einen Genetiker-Rangstreifen.
 
 ent-ClothingUniformJumpskirtCMO = Chefarztuniform (Rock)
     .desc = Es ist ein Rock-Uniform, getragen von denen mit der Erfahrung, Chefarzt zu sein. Es bietet einen geringen biologischen Schutz.
@@ -41,10 +41,10 @@ ent-ClothingUniformJumpskirtDetectiveGrey = Noir suitskit
     .desc = Ein hart gekochter grauer Privatdetektivanzug, komplett mit Krawattenclip.
 
 ent-ClothingUniformJumpskirtEngineering = Ingenieurs-Arbeitskleidung (Rock)
-    .desc = Wenn dieser Anzug nicht leitfähig wäre, würden Ingenieure vielleicht ihren verdammten Job machen.
+    .desc = Wenn dieser Anzug nicht leitfähig wäre, würden Ingenieure vielleicht endlich ihren verdammten Job machen.
 
 ent-ClothingUniformJumpskirtHoP = Personalchefuniform (Rock)
-    .desc = Eher langweilig und harmlos. Perfekt, um vom Gesicht des Universums zu verschwinden.
+    .desc = Eher langweilig und harmlos. Perfekt, um aus dem Blickfeld des Universums zu verschwinden.
 
 ent-ClothingUniformJumpskirtHoS = Sicherheitschefsuniform (Rock)
     .desc = Es ist leuchtend rot und ziemlich knusprig, ähnlich wie die opfer der sicherheit dazu neigen.
@@ -59,18 +59,18 @@ ent-ClothingUniformJumpskirtCommandGeneric = Führungsuniform (Rock)
     .desc = Eine generische Uniform in Kommandofarben, die keiner bestimmten Abteilung zugeordnet ist.
 
 ent-ClothingUniformJumpskirtHydroponics = Botaniker-Arbeitskleidung (Rock)
-    .desc = Hat einen starken erdigen Geruch. Hoffentlich ist es nur schmutzig im Gegensatz zu verschmutzt.
+    .desc = Riecht stark erdig. Hoffentlich ist er nur schmutzig und nicht verseucht.
 
 ent-ClothingUniformJumpskirtJanitor = Hausmeister-Arbeitskleidung (Rock)
     .desc = Der Uniformrock für den armen Tropf mit dem Wischmopp.
 
 ent-ClothingUniformJumpskirtMedicalDoctor = Arztuniform (Rock)
-    .desc = Es besteht aus einer speziellen Faser, die einen geringen Schutz vor Biogefahren bietet. Es hat ein Kreuz auf der Brust, das anzeigt, dass der Träger ausgebildetes medizinisches Personal ist.
+    .desc = Sie besteht aus einer speziellen Faser, die einen geringen Schutz vor Biogefahren bietet. Auf der Brust trägt sie ein Kreuz, das den Träger als ausgebildetes medizinisches Personal ausweist.
 
 ent-ClothingUniformJumpskirtMime = Mimeuniform (Rock)
 
 ent-ClothingUniformJumpskirtParamedic = Sanitäteruniform (Rock)
-    .desc = Es hat ein Plus drauf, das ist eine gute Sache richtig?
+    .desc = Es hat ein Plus drauf – das ist doch gut, oder?
 
 ent-ClothingUniformJumpskirtBrigmedic = Gefängnissanitäteruniform (Rock)
     .desc = Diese Uniform wird qualifiziertem Personal ausgestellt, das ausgebildet wurde. Niemand kümmert sich darum, dass das Training einen halben Tag dauerte.
@@ -88,7 +88,7 @@ ent-ClothingUniformJumpskirtResearchDirector = Forschungsleiter-Rollkragenunifor
     .desc = Ein Rollkragenpullover, getragen von denen, die das Know-how besitzen, den Posten des Forschungsleiters zu erreichen. Das Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtScientist = Wissenschaftleruniform (Rock)
-    .desc = Es besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik verringert. Es hat Markierungen, die den Träger als Wissenschaftler bezeichnen.
+    .desc = Sie besteht aus einer speziellen Faser, die die wahrgenommene Intelligenz erhöht und die persönliche Ethik senkt. Markierungen weisen den Träger als Wissenschaftler aus.
 
 ent-ClothingUniformJumpskirtRoboticist = Robotiker-Arbeitskleidung (Rock)
     .desc = Es ist ein schlankes Schwarz mit verstärkten Nähten; ideal für industrielle Arbeit.

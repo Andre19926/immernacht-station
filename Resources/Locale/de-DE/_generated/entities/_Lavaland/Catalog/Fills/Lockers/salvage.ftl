@@ -1,11 +1,11 @@
 ent-LockerSalvageSpecialistFilledHardsuit = Spind des Salvage-Spezialisten
-    .desc = Enthält Ausrüstung, die für die Weltraumforschung nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
 
 ent-LockerSalvageSpecialistFilled = Spind des Salvage-Spezialisten
-    .desc = Enthält Ausrüstung, die für die Weltraumforschung nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
 
 ent-LockerShaftMinerFilledHardsuit = Wellenbergarbeiter-Spind
-    .desc = Enthält Ausrüstung, die für die Erforschung des Planeten nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Erforschung des Planeten.
 
 ent-LockerShaftMinerFilled = Wellenbergarbeiter-Spind
-    .desc = Enthält Ausrüstung, die für die Erforschung des Planeten nützlich ist.
+    .desc = Enthält nützliche Ausrüstung für die Erforschung des Planeten.

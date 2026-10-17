@@ -14,7 +14,7 @@ ent-LavalandEquipmentExplorerSuitReinforced2 = Verstärkter Explorer-Anzug
     .desc = Ein gepanzerter Anzug zur Erkundung rauer Umgebungen. Meist mit Goliathplatten verstärkt.
 
 ent-LavalandEquipmentExplorerHoodReinforced2 = verstärkte Dunstabzugshaube
-    .desc = Eine körpereigene Haube zur Erkundung rauer Umgebungen. Am meisten mit Goliathplatten verstärkt.
+    .desc = Eine gepanzerte Haube zur Erkundung rauer Umgebungen. Überwiegend mit Goliathplatten verstärkt.
 
 ent-LavalandEquipmentExplorerSuitReinforced3 = Verstärkter Explorer-Anzug
     .desc = Ein gepanzerter Anzug zur Erkundung rauer Umgebungen. Vollständig verstärkt mit Goliathplatten.

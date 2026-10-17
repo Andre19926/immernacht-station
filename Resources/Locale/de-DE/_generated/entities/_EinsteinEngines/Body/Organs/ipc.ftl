@@ -1,9 +1,9 @@
 ent-OrganIPCEyes = Roboteraugen
 
 ent-OrganIPCTongue = Stimmmodulator
-    .desc = Ein Stimmmodulator, verwendet, um Sprache zu erzeugen.
+    .desc = Ein Stimmmodulator zur Spracherzeugung.
 
 ent-OrganIPCEars = Sonic-Rezeptoren
 
 ent-OrganIPCPump = Mikropumpe
-    .desc = Eine Mikropumpe, die zum Umwälzen von Kühlmittel verwendet wird.
+    .desc = Eine Mikropumpe zum Umwälzen von Kühlmittel.

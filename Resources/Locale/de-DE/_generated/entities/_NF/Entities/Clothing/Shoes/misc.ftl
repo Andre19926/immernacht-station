@@ -1,2 +1,2 @@
 ent-ClothingShoesClothwrap = Tuch-Fußwickel
-    .desc = Eine Rolle behandelte Leinwand zum Einwickeln von Füßen oder Pfoten.
+    .desc = Eine Rolle behandelter Leinwand zum Umwickeln von Füßen oder Pfoten.

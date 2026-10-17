@@ -1,5 +1,5 @@
 ent-ClothingUniformJumpsuitMilitarySalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung (Militär)
-    .desc = Eine schneidige Uniform mit einer robusten Latzhose. Sie ist sehr schmutzig.
+    .desc = Eine schneidige Uniform mit robuster Latzhose. Sie ist sehr schmutzig.
 
 ent-ClothingUniformJumpsuitMilitaryColorBlackAlt = Militäruniform (schwarz, alternativ)
     .desc = Ein generischer Overall in Schwarz ohne Rangabzeichen.

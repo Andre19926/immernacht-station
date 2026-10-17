@@ -1,11 +1,11 @@
 ent-PickaxeWood = Holzpicaxe
-    .desc = Ein paar starke Stöcke stecken zusammen. Anständig, Steine zu brechen.
+    .desc = Ein paar zusammengesteckte starke Stöcke. Taugt ganz gut zum Steinebrechen.
 
 ent-PickaxeAshwood = Ascheholzpicaxe
-    .desc = Ein paar starke Stöcke stecken zusammen. Anständig, Steine zu brechen, und auch Menschen.
+    .desc = Ein paar zusammengesteckte starke Stöcke. Taugt ganz gut zum Steinebrechen – und auch für Menschen.
 
 ent-PickaxeDiamond = Diamant-Spitzhacke
-    .desc = Mit Diamant bedeckt, um Gewicht zu reduzieren, eingekerbt bis zur Perfektion, um es in Felsen zu klemmen.
+    .desc = Mit Diamant überzogen, um Gewicht zu sparen, bis zur Perfektion eingekerbt, um sich in Fels zu verkeilen.
 
 ent-MiningDrillSuper = Super-Mining-Bohrer
-    .desc = Eine noch effizientere Mining-Bohrmaschine mit schnellerer Mining-Geschwindigkeit und Reichweite.
+    .desc = Ein noch effizienterer Bergbaubohrer mit höherer Abbaugeschwindigkeit und größerer Reichweite.

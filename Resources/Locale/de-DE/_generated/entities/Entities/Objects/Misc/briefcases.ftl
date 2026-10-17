@@ -1,5 +1,5 @@
 ent-BriefcaseBrown = Braune Aktentasche
-    .desc = Nützlich für das Tragen von Gegenständen in den Händen.
+    .desc = Nützlich, um Gegenstände in den Händen zu tragen.
 
 ent-BriefcaseSyndie = Braune Aktentasche
-    .desc = Nützlich für das Tragen von Gegenständen in den Händen.
+    .desc = Nützlich, um Gegenstände in den Händen zu tragen.

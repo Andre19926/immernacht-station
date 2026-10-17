@@ -1,14 +1,14 @@
 ent-BulletMic = MIC-Schraube
-    .desc = Nicht so schlimm, aber du willst immer noch nicht davon getroffen werden.
+    .desc = Nicht so schlimm, aber du willst trotzdem nicht davon getroffen werden.
 
 ent-BulletPlasmaCutter = Messerbolzen
-    .desc = Nicht so schlimm, aber du willst immer noch nicht davon getroffen werden.
+    .desc = Nicht so schlimm, aber du willst trotzdem nicht davon getroffen werden.
 
 ent-BulletPlasmaRifle = Messerbolzen
-    .desc = Nicht so schlimm, aber du willst immer noch nicht davon getroffen werden.
+    .desc = Nicht so schlimm, aber du willst trotzdem nicht davon getroffen werden.
 
 ent-BulletSuperPlasmaCutter = Überschneidevorrichtung
-    .desc = Nicht so schlimm, aber du willst immer noch nicht davon getroffen werden.
+    .desc = Nicht so schlimm, aber du willst trotzdem nicht davon getroffen werden.
 
 ent-BulletHighCaliber = Kugel (.50 Antimaterial)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!

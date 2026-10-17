@@ -1,11 +1,11 @@
 ent-AbductorConsole = Entführungskonsole
-    .desc = Ein Computer, der zum Ausspionieren der Station verwendet wird.
+    .desc = Ein Computer zum Ausspionieren der Station.
 
 ent-CentCommSectoralConsole = centcomm Sektorkonsole
-    .desc = Verwende dies, um Kapitäne aller Stationen auf einmal zu ärgern.
+    .desc = Verwende dies, um die Kapitäne aller Stationen auf einmal zu ärgern.
 
 ent-AbductorHumanObservationConsole = Menschlicher Beobachtungsträger
-    .desc = Verwende dies, um das Ziel des Teleporters festzulegen oder Personen abzurufen, die von wissenschaftlichen Werkzeugen markiert sind. Wird auch zum Kauf von Ersatzausrüstung und zum Verbinden der Weste des Agenten verwendet.
+    .desc = Lege damit das Ziel des Teleporters fest oder rufe Personen ab, die von wissenschaftlichen Werkzeugen markiert wurden. Dient auch zum Kauf von Ersatzausrüstung und zum Verbinden der Agentenweste.
 
 ent-AbductorHumanObservationConsoleEye = Entführerauge
-    .desc = Der Zuschauer des Entführers.
+    .desc = Der Bildschirm des Entführers.

@@ -1,2 +1,2 @@
 ent-VendingMachineMiningDrobe = MiningDrobe
-    .desc = Ein hochmoderner Verkaufsautomat für den kostenlosen Kauf von bergbaubezogener Kleidung. Bitte abbaue Bitcoin nicht damit.
+    .desc = Ein hochmoderner Automat für den kostenlosen Bezug von Bergbaukleidung. Bitte nicht damit Bitcoin schürfen.

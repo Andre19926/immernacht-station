@@ -1,8 +1,8 @@
 ent-BriefcaseSyndieLobbyingBundlePlasmamanFilled = Braune Aktentasche
-    .desc = Nützlich für das Tragen von Gegenständen in den Händen.
+    .desc = Nützlich, um Gegenstände in den Händen zu tragen.
 
 ent-ClothingOuterCoatJensenFilled = Jensenmantel
-    .desc = Ein Jensenmantel.
+    .desc = Ein Jensen-Mantel.
 
 ent-BriefcaseThiefBribingBundlePlasmamanFilled = Braune Aktentasche
-    .desc = Nützlich für das Tragen von Gegenständen in den Händen.
+    .desc = Nützlich, um Gegenstände in den Händen zu tragen.

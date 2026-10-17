@@ -32,4 +32,4 @@ ent-NitrousOxideTank = Lachgasbehälter
     .desc = Enthält eine Mischung aus Luft und Lachgas. Stelle sicher, dass du es nicht mit reinem N2O nachfüllst. Es kann 5 l Gas aufnehmen.
 
 ent-PlasmaTank = Plasmatank
-    .desc = Enthält gefährliches Plasma. Inhaliere nicht, es sei denn, du bist ein Plasmamann. Extrem entzündlich. Es kann 5 l Gas aufnehmen.
+    .desc = Enthält gefährliches Plasma. Nicht einatmen, es sei denn, du bist ein Plasmaman. Extrem entzündlich. Er fasst 5 l Gas.

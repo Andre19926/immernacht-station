@@ -1,5 +1,5 @@
 ent-ConstructionBag = Baubeutel
-    .desc = Eine robuste Tasche für Bauspezialisten und Ingenieure, um große Mengen an Baumaterialien zu transportieren. Magnetisiert alle nahe gelegenen Baumaterialien, wenn sie an einem Gürtel befestigt sind.
+    .desc = Eine robuste Tasche für Bauarbeiter und Ingenieure zum Transport großer Mengen Baumaterial. Zieht Baumaterial in der Nähe magnetisch an, wenn sie am Gürtel befestigt ist.
 
 ent-ConstructionBagOfHolding = Bluespace-Bausack
-    .desc = Eine robuste Tasche für reiche Bauspezialisten und Ingenieure, um große Mengen an Baumaterialien zu tragen. Magnetisiert alle nahe gelegenen Baumaterialien, wenn sie an einem Gürtel befestigt sind.
+    .desc = Eine robuste Tasche für wohlhabende Bauarbeiter und Ingenieure zum Tragen großer Mengen Baumaterial. Zieht Baumaterial in der Nähe magnetisch an, wenn sie am Gürtel befestigt ist.

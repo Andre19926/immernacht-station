@@ -1,2 +1,2 @@
 ent-ClothingAbductorBelt = Fremdriemen
-    .desc = Kann verschiedene unserer Dinge halten.
+    .desc = Kann allerlei Dinge aufnehmen.

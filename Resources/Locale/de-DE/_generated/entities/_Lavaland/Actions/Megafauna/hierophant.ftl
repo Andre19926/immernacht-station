@@ -1,11 +1,11 @@
 ent-ActionHierophantBox = Expanding Box
-    .desc = Spawnt eine expandierende Box auf der Zielposition.
+    .desc = Erzeugt ein sich ausdehnendes Feld an der Zielposition.
 
 ent-ActionHierophantCrosses = Sequenzkreuze
-    .desc = Spawnt eine Sequenz von Kreuzen auf der Zielposition.
+    .desc = Erzeugt eine Abfolge von Kreuzen an der Zielposition.
 
 ent-ActionHierophantChasers = Spawn Chasers
-    .desc = Spawnt Hierophant Kacheljäger, die sich auf das Ziel zu bewegen.
+    .desc = Erzeugt Hierophant-Feldjäger, die sich auf das Ziel zubewegen.
 
 ent-ActionHierophantBlink = Blink
     .desc = Teleportiert dich an die Zielposition.

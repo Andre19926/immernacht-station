@@ -1,2 +1,2 @@
 ent-ActionTogglePKALight = Toggle PKA Light
-    .desc = Schalte das PKA-Licht ein und aus.
+    .desc = Schaltet das PKA-Licht ein und aus.

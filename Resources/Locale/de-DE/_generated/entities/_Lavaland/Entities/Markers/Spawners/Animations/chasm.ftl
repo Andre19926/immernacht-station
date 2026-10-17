@@ -1,2 +1,2 @@
 ent-FloorChasmOpeningSpawner = Lückenöffnung
-    .desc = Eine sich schnell öffnende Kluft. Wenn es unter dir ist, RUN!!!
+    .desc = Eine sich rasch öffnende Kluft. Wenn sie unter dir ist: LAUF!!!
