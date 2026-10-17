@@ -17,4 +17,4 @@ ent-ClothingHeadHatHoodHereticCosmos = ominöse Haube
     .desc = Eine zerrissene, staubgebackene Haube. Seltsame Augen säumen das Innere.
 
 ent-ClothingHeadHatHoodVoidCloakHeretic = leere Haube
-    .desc = Schwarz wie Teer, kein Licht reflektierend. Runische Symbole säumen die Außenseite. Mit jedem Blitz verlieren Sie das Verständnis dessen, was Sie sehen.
+    .desc = Schwarz wie Teer, kein Licht reflektierend. Runische Symbole säumen die Außenseite. Mit jedem Blitz verlierst du das Verständnis dessen, was du siehst.

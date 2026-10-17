@@ -6,8 +6,8 @@
 
 
 # Cargo pallet sale console
-cargo-pallet-console-menu-title = Frachtverkaufskonsole
+cargo-pallet-console-menu-title = Frachtverkauf-Konsole
 cargo-pallet-menu-appraisal-label = Geschätzter Wert:{" "}
 cargo-pallet-menu-count-label = Anzahl der Verkaufsartikel:{" "}
-cargo-pallet-appraise-button = Bewertung
+cargo-pallet-appraise-button = Schätzen
 cargo-pallet-sell-button = Verkaufen

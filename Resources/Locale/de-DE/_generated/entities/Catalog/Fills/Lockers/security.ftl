@@ -1,7 +1,7 @@
-ent-LockerWardenFilledHardsuit = Spind des Warden
+ent-LockerWardenFilledHardsuit = Warden-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerWardenFilled = Spind des Warden
+ent-LockerWardenFilled = Warden-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerSecurityFilled = Spind des Sicherheitsbeamten
@@ -16,7 +16,7 @@ ent-LockerDetectiveFilled = Detektivkabinett
 ent-ClosetBombFilled = EOD-Schrank
     .desc = Es ist ein Lager für Explosionsschutzanzüge.
 
-ent-GunSafeDisabler = Deaktivierung sicher
+ent-GunSafeDisabler = Neutralisierer-Tresor
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-GunSafePistolMk58 = mk58 sicher

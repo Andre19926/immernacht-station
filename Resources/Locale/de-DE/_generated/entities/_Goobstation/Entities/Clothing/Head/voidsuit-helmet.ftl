@@ -1,7 +1,7 @@
 ent-ClothingHeadHelmetHardsuitChronolegioneer = futuristischer Helm
     .desc = Der Helm der Kämpfer der Zukunft, entworfen für spezielle Zeitfluss-Operationen.
 
-ent-ClothingHeadHelmetHardsuitBlueshield = Blauschild-Helm
+ent-ClothingHeadHelmetHardsuitBlueshield = Blueshield-Hardsuit-Helm
     .desc = Der Helm des Hardsuit des Kapitäns.
 
 ent-ClothingHeadHelmetHardsuitCybersunStealth = Cybersun Stealth Hardsuit Helm

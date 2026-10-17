@@ -1,4 +1,4 @@
-ent-CrayonMime = Bleistift
+ent-CrayonMime = Mime-Buntstift
     .desc = Ein farbenfroher Stift. Sieht lecker aus. Mmmm...
 
 ent-CrayonRainbow = Regenbogenstifte

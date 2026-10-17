@@ -20,7 +20,7 @@ ent-FoodSaladKimchi = Kimchi-Salat
     .desc = Es ist wirklich nur ein scharfer Salat.
 
 ent-FoodSaladFruit = Obstsalat
-    .desc = Ihr Standard-Obstsalat.
+    .desc = Ein ganz normaler Obstsalat.
 
 ent-FoodSaladJungle = Dschungelsalat
     .desc = Exotische Früchte in einer Schüssel.
@@ -59,7 +59,7 @@ ent-FoodSoupMeatball = Fleischbällchensuppe
     .desc = Du hast Bälle Kind, BALLS!
 
 ent-FoodSoupSlime = Schleimsuppe
-    .desc = Wenn kein Wasser verfügbar ist, können Sie Tränen ersetzen.
+    .desc = Wenn kein Wasser verfügbar ist, kannst du Tränen ersetzen.
 
 ent-FoodSoupTomatoBlood = Tomatensuppe
     .desc = Riecht nach Kupfer... ist das ein Knochen?
@@ -104,7 +104,7 @@ ent-FoodSoupMushroom = Pilzsuppe
     .desc = Eine köstliche und herzhafte Pilzsuppe.
 
 ent-FoodSoupBeet = Rübensuppe
-    .desc = Warten Sie, wie buchstabieren Sie es wieder ...
+    .desc = Warte, wie buchstabieren dich es wieder...
 
 ent-FoodSoupBeetRed = Rote Rübensuppe
     .desc = Eine ziemliche Delikatesse.

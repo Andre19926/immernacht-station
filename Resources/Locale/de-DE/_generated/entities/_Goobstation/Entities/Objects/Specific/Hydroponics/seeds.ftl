@@ -1,5 +1,5 @@
-ent-StrangeBerrySeeds = Packung seltsamer Beerensamen
+ent-StrangeBerrySeeds = Seltsame Beerensamen
 
-ent-BluespaceTomatoSeeds = Packung blauer Tomatensamen
+ent-BluespaceTomatoSeeds = Bluespace-Tomatensamen
 
-ent-SpaceshroomSeeds = Paket von Spaceshroom Sporen
+ent-SpaceshroomSeeds = Spaceshroom-Sporen

@@ -14,7 +14,7 @@ ent-FoodCondimentPacketHorseradish = Meerrettichsoße
     .desc = Eine Packung stinkende Meerrettichsauce.
 
 ent-FoodCondimentPacketHotsauce = Sauce
-    .desc = Sie können die Magengeschwüre jetzt fast schmälern!
+    .desc = Du kannst die Magengeschwüre jetzt fast schmälern!
 
 ent-FoodCondimentPacketKetchup = Ketchup
     .desc = Du fühlst dich jetzt schon amerikanischer.
@@ -44,7 +44,7 @@ ent-FoodCondimentBottleVinegar = Essigflasche
     .desc = Wird beim Kochen verwendet, um den Geschmack zu verbessern.
 
 ent-FoodCondimentBottleHotsauce = Heißaugenflasche
-    .desc = Sie können die Magengeschwüre jetzt fast schmälern!
+    .desc = Du kannst die Magengeschwüre jetzt fast schmälern!
 
 ent-FoodCondimentBottleKetchup = Ketchupflasche
     .desc = Du fühlst dich jetzt schon amerikanischer.
@@ -55,5 +55,5 @@ ent-FoodCondimentBottleBBQ = BBQ Sauce Flasche
 ent-FoodShakerSalt = Salzstreuer
     .desc = Salz. Aus den Ozeanen des Weltraums, vermutlich.
 
-ent-FoodShakerPepper = Pfefferschüttler
+ent-FoodShakerPepper = Pfefferstreuer
     .desc = Oft verwendet, um Essen zu würzen oder Menschen zum Niesen zu bringen.

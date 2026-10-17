@@ -1,234 +1,234 @@
 # Research Director
-loadout-group-research-director-envirohelm = Forschungsdirektor envirohelm
-loadout-group-research-director-envirosuit = Forschungsdirektorin Envirosuit
-loadout-group-research-director-envirogloves = Forschungsdirektor envirogloves
+loadout-group-research-director-envirohelm = Forschungsleiter: Umwelthelm
+loadout-group-research-director-envirosuit = Forschungsleiter: Umweltanzug
+loadout-group-research-director-envirogloves = Forschungsleiter: Umwelthandschuhe
 
 # Scientist
-loadout-group-scientist-envirohelm = Wissenschaftler Envirohelm
-loadout-group-scientist-envirosuit = Wissenschaftler-Umweltanzug
-loadout-group-scientist-envirogloves = Wissenschaftler lieben die Umwelt
+loadout-group-scientist-envirohelm = Wissenschaftler: Umwelthelm
+loadout-group-scientist-envirosuit = Wissenschaftler: Umweltanzug
+loadout-group-scientist-envirogloves = Wissenschaftler: Umwelthandschuhe
 
 # Research Assistant
-loadout-group-research-assistant-envirohelm = Wissenschaftlicher Mitarbeiter Envirohelm
-loadout-group-research-assistant-envirosuit = Forschungsassistent
-loadout-group-research-assistant-envirogloves = Forschungsassistent envirogloves
+loadout-group-research-assistant-envirohelm = Forschungsassistent: Umwelthelm
+loadout-group-research-assistant-envirosuit = Forschungsassistent: Umweltanzug
+loadout-group-research-assistant-envirogloves = Forschungsassistent: Umwelthandschuhe
 
-# Chief Medical Officer
-loadout-group-chief-medical-officer-envirohelm = Chief Medical Officer envirohelm
-loadout-group-chief-medical-officer-envirosuit = Chief Medical Officer von envirosuit
-loadout-group-chief-medical-officer-envirogloves = Chefarzt envirogloves
+# Chefarzt
+loadout-group-chief-medical-officer-envirohelm = Chefarzt: Umwelthelm
+loadout-group-chief-medical-officer-envirosuit = Chefarzt: Umweltanzug
+loadout-group-chief-medical-officer-envirogloves = Chefarzt: Umwelthandschuhe
 
 # Medical Doctor
-loadout-group-medical-doctor-envirohelm = Arzt envirohelm
-loadout-group-medical-doctor-envirosuit = Arzt Envirosuit
-loadout-group-medical-doctor-envirogloves = Arzt envirogloves
+loadout-group-medical-doctor-envirohelm = Arzt: Umwelthelm
+loadout-group-medical-doctor-envirosuit = Arzt: Umweltanzug
+loadout-group-medical-doctor-envirogloves = Arzt: Umwelthandschuhe
 
 # Medical Intern
-loadout-group-medical-intern-envirohelm = Medizinischer Praktikant Envirohelm
-loadout-group-medical-intern-envirosuit = Medizinische Praktikantin
-loadout-group-medical-intern-envirogloves = Medizinische Intern envirogloves
+loadout-group-medical-intern-envirohelm = Medizin-Praktikant: Umwelthelm
+loadout-group-medical-intern-envirosuit = Medizin-Praktikant: Umweltanzug
+loadout-group-medical-intern-envirogloves = Medizin-Praktikant: Umwelthandschuhe
 
 # Paramedic
-loadout-group-paramedic-envirohelm = Sanitäter envirohelm
-loadout-group-paramedic-envirosuit = Sanitäter-Umweltanzug
-loadout-group-paramedic-envirogloves = Sanitäter envirogloves
+loadout-group-paramedic-envirohelm = Sanitäter: Umwelthelm
+loadout-group-paramedic-envirosuit = Sanitäter: Umweltanzug
+loadout-group-paramedic-envirogloves = Sanitäter: Umwelthandschuhe
 
 # Psychologist
-loadout-group-psychologist-envirohelm = Psychologe envirohelm
-loadout-group-psychologist-envirosuit = Psychologin Envirosuit
-loadout-group-psychologist-envirogloves = Psychologe envirogloves
+loadout-group-psychologist-envirohelm = Psychologe: Umwelthelm
+loadout-group-psychologist-envirosuit = Psychologe: Umweltanzug
+loadout-group-psychologist-envirogloves = Psychologe: Umwelthandschuhe
 
 # Virologist
-loadout-group-virology-envirohelm = Virologe envirohelm
-loadout-group-virology-envirosuit = Virologen-Umweltanzug
-loadout-group-virology-envirogloves = Virologe envirogloves
+loadout-group-virology-envirohelm = Virologe: Umwelthelm
+loadout-group-virology-envirosuit = Virologe: Umweltanzug
+loadout-group-virology-envirogloves = Virologe: Umwelthandschuhe
 
 # Cargo Technician
-loadout-group-cargo-technician-envirohelm = Frachttechniker envirohelm
-loadout-group-cargo-technician-envirosuit = Frachttechniker-Umweltanzug
-loadout-group-cargo-technician-envirogloves = Frachttechniker envirogloves
+loadout-group-cargo-technician-envirohelm = Frachttechniker: Umwelthelm
+loadout-group-cargo-technician-envirosuit = Frachttechniker: Umweltanzug
+loadout-group-cargo-technician-envirogloves = Frachttechniker: Umwelthandschuhe
 
 # Quartermaster
-loadout-group-quartermaster-envirohelm = Quartiermeister umwelthelm
-loadout-group-quartermaster-envirosuit = Quartiermeister-Umweltanzug
-loadout-group-quartermaster-envirogloves = Quartiermeister envirogloves
+loadout-group-quartermaster-envirohelm = Quartiermeister: Umwelthelm
+loadout-group-quartermaster-envirosuit = Quartiermeister: Umweltanzug
+loadout-group-quartermaster-envirogloves = Quartiermeister: Umwelthandschuhe
 
 # Station Engineer
-loadout-group-station-engineer-envirohelm = Stationsingenieur Envirohelm
-loadout-group-station-engineer-envirosuit = Station Engineer Envirosuit
-loadout-group-station-engineer-envirogloves = Bahnhofsingenieur envirogloves
+loadout-group-station-engineer-envirohelm = Stationsingenieur: Umwelthelm
+loadout-group-station-engineer-envirosuit = Stationsingenieur: Umweltanzug
+loadout-group-station-engineer-envirogloves = Stationsingenieur: Umwelthandschuhe
 
 # Technical Assistant
-loadout-group-technical-assistant-envirohelm = Technischer Assistent von envirohelm
-loadout-group-technical-assistant-envirosuit = Technischer Assistent in der Umgebung
-loadout-group-technical-assistant-envirogloves = Technischer Assistent envirogloves
+loadout-group-technical-assistant-envirohelm = Technischer Assistent: Umwelthelm
+loadout-group-technical-assistant-envirosuit = Technischer Assistent: Umweltanzug
+loadout-group-technical-assistant-envirogloves = Technischer Assistent: Umwelthandschuhe
 
 # Atmospheric Technician
-loadout-group-atmos-envirohelm = Atmos-Techniker envirohelm
-loadout-group-atmos-envirosuit = Atmosphärischer Techniker-Umweltanzug
-loadout-group-atmos-envirogloves = Atmos-Techniker envirogloves
-loadout-group-atmospheric-technician-belt = Atmosphärischer Technikergurt
+loadout-group-atmos-envirohelm = Atmos-Techniker: Umwelthelm
+loadout-group-atmos-envirosuit = Atmos-Techniker: Umweltanzug
+loadout-group-atmos-envirogloves = Atmos-Techniker: Umwelthandschuhe
+loadout-group-atmospheric-technician-belt = Atmos-Techniker: Gürtel
 
 # Chief Engineer
-loadout-group-chief-engineer-envirohelm = Chefingenieur envirohelm
-loadout-group-chief-engineer-envirosuit = Chefingenieur envirosuit
-loadout-group-chief-engineer-envirogloves = Chefingenieur envirogloves
+loadout-group-chief-engineer-envirohelm = Chefingenieur: Umwelthelm
+loadout-group-chief-engineer-envirosuit = Chefingenieur: Umweltanzug
+loadout-group-chief-engineer-envirogloves = Chefingenieur: Umwelthandschuhe
 
 # Security Officer
-loadout-group-security-officer-envirohelm = Sicherheitsbeauftragter envirohelm
-loadout-group-security-officer-envirosuit = Sicherheitsbeauftragter Envirosuit
-loadout-group-security-officer-envirogloves = Sicherheitsbeauftragter envirogloves
+loadout-group-security-officer-envirohelm = Sicherheitsbeamter: Umwelthelm
+loadout-group-security-officer-envirosuit = Sicherheitsbeamter: Umweltanzug
+loadout-group-security-officer-envirogloves = Sicherheitsbeamter: Umwelthandschuhe
 
 # Security Cadet
-loadout-group-security-cadet-envirohelm = Sicherheitskadett envirohelm
-loadout-group-security-cadet-envirosuit = Sicherheitskadetten-Umweltanzug
-loadout-group-security-cadet-envirogloves = Sicherheitskadett envirogloves
+loadout-group-security-cadet-envirohelm = Sicherheitskadett: Umwelthelm
+loadout-group-security-cadet-envirosuit = Sicherheitskadett: Umweltanzug
+loadout-group-security-cadet-envirogloves = Sicherheitskadett: Umwelthandschuhe
 
 # Detective
-loadout-group-detective-envirohelm = Detektiv-Umwelthelm
-loadout-group-detective-envirosuit = Detektiv-Umweltanzug
-loadout-group-detective-envirogloves = Detektiv-Umweltlieben
-loadout-group-detective-gloves = Detektivhandschuhe
+loadout-group-detective-envirohelm = Detektiv: Umwelthelm
+loadout-group-detective-envirosuit = Detektiv: Umweltanzug
+loadout-group-detective-envirogloves = Detektiv: Umwelthandschuhe
+loadout-group-detective-gloves = Detektiv: Handschuhe
 
 # Warden
-loadout-group-warden-envirohelm = Warden envirohelm
-loadout-group-warden-envirosuit = Warden envirosuit Ubersetzungen
-loadout-group-warden-envirogloves = Warden envirogloves
+loadout-group-warden-envirohelm = Warden: Umwelthelm
+loadout-group-warden-envirosuit = Warden: Umweltanzug
+loadout-group-warden-envirogloves = Warden: Umwelthandschuhe
 
 # Head of Personnel
-loadout-group-hop-envirohelm = Leiter des Personals von envirohelm
-loadout-group-hop-envirosuit = Leiter des Personalumweltanzugs
-loadout-group-hop-envirogloves = Leiterin Personalumwelt
-loadout-group-hop-gloves = Kopf der Personalhandschuhe
+loadout-group-hop-envirohelm = Personalchef: Umwelthelm
+loadout-group-hop-envirosuit = Personalchef: Umweltanzug
+loadout-group-hop-envirogloves = Personalchef: Umwelthandschuhe
+loadout-group-hop-gloves = Personalchef: Handschuhe
 
 # CentCom Officer
-loadout-group-centcom-officer-envirohelm = CentCom Officer von envirohelm
-loadout-group-centcom-officer-envirosuit = CentCom Officer von envirosuit
-loadout-group-centcom-officer-envirogloves = CentCom Officer envirogloves
+loadout-group-centcom-officer-envirohelm = CentComm-Offizier: Umwelthelm
+loadout-group-centcom-officer-envirosuit = CentComm-Offizier: Umweltanzug
+loadout-group-centcom-officer-envirogloves = CentComm-Offizier: Umwelthandschuhe
 
 # Botanist
-loadout-group-botanist-envirohelm = Botaniker Envirohelm
-loadout-group-botanist-envirosuit = Botanischer Umweltanzug
-loadout-group-botanist-envirogloves = Botanische Umwelt liebt
+loadout-group-botanist-envirohelm = Botaniker: Umwelthelm
+loadout-group-botanist-envirosuit = Botaniker: Umweltanzug
+loadout-group-botanist-envirogloves = Botaniker: Umwelthandschuhe
 
 # Chaplain
-loadout-group-chaplain-envirohelm = Kaplan envirohelm
-loadout-group-chaplain-envirosuit = Seelsorger-Umweltanzug
-loadout-group-chaplain-envirogloves = Kaplan envirogloves
+loadout-group-chaplain-envirohelm = Kaplan: Umwelthelm
+loadout-group-chaplain-envirosuit = Kaplan: Umweltanzug
+loadout-group-chaplain-envirogloves = Kaplan: Umwelthandschuhe
 
 # Clown
-loadout-group-clown-envirohelm = Clown Envirohelm
-loadout-group-clown-envirosuit = Clown-Umweltanzug
-loadout-group-clown-envirogloves = Clown-Envirogloves
+loadout-group-clown-envirohelm = Clown: Umwelthelm
+loadout-group-clown-envirosuit = Clown: Umweltanzug
+loadout-group-clown-envirogloves = Clown: Umwelthandschuhe
 
 # Chef
-loadout-group-chef-envirohelm = Chef envirohelm
-loadout-group-chef-envirosuit = Chef-Umweltanzug
-loadout-group-chef-envirogloves = Chef envirogloves
+loadout-group-chef-envirohelm = Koch: Umwelthelm
+loadout-group-chef-envirosuit = Koch: Umweltanzug
+loadout-group-chef-envirogloves = Koch: Umwelthandschuhe
 
 # Janitor
-loadout-group-janitor-envirohelm = Hausmeister envirohelm
-loadout-group-janitor-envirosuit = Hausmeister-Umweltanzug
-loadout-group-janitor-envirogloves = Hausmeister envirogloves
+loadout-group-janitor-envirohelm = Hausmeister: Umwelthelm
+loadout-group-janitor-envirosuit = Hausmeister: Umweltanzug
+loadout-group-janitor-envirogloves = Hausmeister: Umwelthandschuhe
 
 # Librarian
-loadout-group-librarian-envirohelm = Bibliothekarischer Umwelthelm
-loadout-group-librarian-envirosuit = Bibliothekarische Umgebung
-loadout-group-librarian-envirogloves = Bibliothekarische Umgebung
+loadout-group-librarian-envirohelm = Bibliothekar: Umwelthelm
+loadout-group-librarian-envirosuit = Bibliothekar: Umweltanzug
+loadout-group-librarian-envirogloves = Bibliothekar: Umwelthandschuhe
 
 # Mime
-loadout-group-mime-envirohelm = Mime envirohelm
-loadout-group-mime-envirosuit = Mime-Umweltanzug
-loadout-group-mime-envirogloves = Mime envirogloves
-loadout-group-mime-gloves = Mime Handschuhe
-loadout-group-mime-shoes = Mimeschuhe
+loadout-group-mime-envirohelm = Mime: Umwelthelm
+loadout-group-mime-envirosuit = Mime: Umweltanzug
+loadout-group-mime-envirogloves = Mime: Umwelthandschuhe
+loadout-group-mime-gloves = Mime: Handschuhe
+loadout-group-mime-shoes = Mime: Schuhe
 
 # Assistant
-loadout-group-assistant-envirohelm = Assistenz-Umwelthelm
-loadout-group-assistant-envirosuit = Assistenz-Umweltanzug
-loadout-group-assistant-envirogloves = Assistenzumgebung
+loadout-group-assistant-envirohelm = Assistent: Umwelthelm
+loadout-group-assistant-envirosuit = Assistent: Umweltanzug
+loadout-group-assistant-envirogloves = Assistent: Umwelthandschuhe
 
 # Musician
-loadout-group-musician-envirohelm = Musiker Envirohelm
-loadout-group-musician-envirosuit = Musikumweltanzug
-loadout-group-musician-envirogloves = Musikerumwelt liebt
+loadout-group-musician-envirohelm = Musiker: Umwelthelm
+loadout-group-musician-envirosuit = Musiker: Umweltanzug
+loadout-group-musician-envirogloves = Musiker: Umwelthandschuhe
 
 # Service Worker
-loadout-group-service-worker-envirohelm = Service Worker Envirohelm
-loadout-group-service-worker-envirosuit = Service Worker Envirosuit
-loadout-group-service-worker-envirogloves = Service Worker enviogloves
+loadout-group-service-worker-envirohelm = Servicekraft: Umwelthelm
+loadout-group-service-worker-envirosuit = Servicekraft: Umweltanzug
+loadout-group-service-worker-envirogloves = Servicekraft: Umwelthandschuhe
 
 # Bartender
-loadout-group-bartender-envirohelm = Barkeeper envirohelm
-loadout-group-bartender-envirosuit = Barkeeper-Umweltanzug
+loadout-group-bartender-envirohelm = Barkeeper: Umwelthelm
+loadout-group-bartender-envirosuit = Barkeeper: Umweltanzug
 
 # Lawyer
-loadout-group-lawyer-envirohelm = Rechtsanwalt Envirohelm
-loadout-group-lawyer-envirosuit = Rechtsanwältin Envirosuit
-loadout-group-lawyer-envirogloves = Rechtsanwalt envirogloves
+loadout-group-lawyer-envirohelm = Anwalt: Umwelthelm
+loadout-group-lawyer-envirosuit = Anwalt: Umweltanzug
+loadout-group-lawyer-envirogloves = Anwalt: Umwelthandschuhe
 
 # Nanotrasen Representative
-loadout-group-ntr-envirohelm = Nanotrasen Vertreter envirohelm
-loadout-group-ntr-envirosuit = Nanotrasen Repräsentativer Umweltanzug
-loadout-group-ntr-envirogloves = Nanotrasen Vertreter envirogloves
-loadout-group-ntr-gloves = Nanotrasen Repräsentative Handschuhe
+loadout-group-ntr-envirohelm = Nanotrasen-Vertreter: Umwelthelm
+loadout-group-ntr-envirosuit = Nanotrasen-Vertreter: Umweltanzug
+loadout-group-ntr-envirogloves = Nanotrasen-Vertreter: Umwelthandschuhe
+loadout-group-ntr-gloves = Nanotrasen-Vertreter: Handschuhe
 
 # Blueshield Officer
-loadout-group-bso-envirohelm = Blauschildoffizier Envirohelm
-loadout-group-bso-envirosuit = Blauschildoffizier-Umweltanzug
-loadout-group-bso-envirogloves = Blauschildoffizier envirogloves
-loadout-group-bso-gloves = Handschuhe des Blauschildoffiziers
+loadout-group-bso-envirohelm = Blueshield: Umwelthelm
+loadout-group-bso-envirosuit = Blueshield: Umweltanzug
+loadout-group-bso-envirogloves = Blueshield: Umwelthandschuhe
+loadout-group-bso-gloves = Blueshield: Handschuhe
 
 # Reporter
-loadout-group-reporter-envirohelm = Reporter Envirohelm
-loadout-group-reporter-envirosuit = Reporter-Umweltanzug
-loadout-group-reporter-envirogloves = Reporter Umwelt liebt
+loadout-group-reporter-envirohelm = Reporter: Umwelthelm
+loadout-group-reporter-envirosuit = Reporter: Umweltanzug
+loadout-group-reporter-envirogloves = Reporter: Umwelthandschuhe
 
 # Captain
-loadout-group-captain-envirohelm = Kapitän Envirohelm
-loadout-group-captain-envirosuit = Kapitän Envirosuit
-loadout-group-captain-envirogloves = Kapitän envirogloves
-loadout-group-captain-gloves = Kapitänshandschuhe
-loadout-group-captain-shoes = Kapitänsschuhe
+loadout-group-captain-envirohelm = Kapitän: Umwelthelm
+loadout-group-captain-envirosuit = Kapitän: Umweltanzug
+loadout-group-captain-envirogloves = Kapitän: Umwelthandschuhe
+loadout-group-captain-gloves = Kapitän: Handschuhe
+loadout-group-captain-shoes = Kapitän: Schuhe
 
 
 # Salvage Specialist
-loadout-group-salvage-envirohelm = Salvage-Spezialist Envirohelm
-loadout-group-salvage-envirosuit = Sanierungsspezialist
-loadout-group-salvage-envirogloves = Salvage-Spezialist envirogloves
+loadout-group-salvage-envirohelm = Salvage-Spezialist: Umwelthelm
+loadout-group-salvage-envirosuit = Salvage-Spezialist: Umweltanzug
+loadout-group-salvage-envirogloves = Salvage-Spezialist: Umwelthandschuhe
 
 # Chemist
-loadout-group-chemist-envirohelm = Chemiker envirohelm
-loadout-group-chemist-envirosuit = Chemiker-Umweltanzug
-loadout-group-chemist-envirogloves = Chemiker envirogloves
+loadout-group-chemist-envirohelm = Chemiker: Umwelthelm
+loadout-group-chemist-envirosuit = Chemiker: Umweltanzug
+loadout-group-chemist-envirogloves = Chemiker: Umwelthandschuhe
 
 # Head of Security
-loadout-group-head-of-security-envirohelm = Leiter von Security envirohelm
-loadout-group-head-of-security-envirosuit = Leiter der Security Envirosuit
-loadout-group-head-of-security-envirogloves = Leiter Sicherheit envirogloves
-loadout-group-head-of-security-gloves = Leiter der Sicherheitshandschuhe
+loadout-group-head-of-security-envirohelm = Sicherheitschef: Umwelthelm
+loadout-group-head-of-security-envirosuit = Sicherheitschef: Umweltanzug
+loadout-group-head-of-security-envirogloves = Sicherheitschef: Umwelthandschuhe
+loadout-group-head-of-security-gloves = Sicherheitschef: Handschuhe
 
 # Brigmedic
-loadout-group-brigmedic-envirohelm = Gefängnissanitäter envirohelm
-loadout-group-brigmedic-envirosuit = Gefängnissanitäter-Umweltanzug
-loadout-group-brigmedic-envirogloves = Gefängnissanitäter Envirogloves
+loadout-group-brigmedic-envirohelm = Gefängnissanitäter: Umwelthelm
+loadout-group-brigmedic-envirosuit = Gefängnissanitäter: Umweltanzug
+loadout-group-brigmedic-envirogloves = Gefängnissanitäter: Umwelthandschuhe
 
 # Zookeeper
-loadout-group-zookeeper-envirohelm = Zookeeper envirohelm
-loadout-group-zookeeper-envirosuit = Tierhalter-Umweltanzug
-loadout-group-zookeeper-envirogloves = Tierhalter-Umweltliebhaber
-loadout-group-zookeeper-jumpsuit = Zookeeper Jumping
-loadout-group-zookeeper-head = Tierhalterhut
+loadout-group-zookeeper-envirohelm = Tierpfleger: Umwelthelm
+loadout-group-zookeeper-envirosuit = Tierpfleger: Umweltanzug
+loadout-group-zookeeper-envirogloves = Tierpfleger: Umwelthandschuhe
+loadout-group-zookeeper-jumpsuit = Tierpfleger: Uniform
+loadout-group-zookeeper-head = Tierpfleger: Kopfbedeckung
 
 # Boxer
-loadout-group-boxer-envirohelm = Boxer-Umwelthelm
-loadout-group-boxer-envirosuit = Boxer-Umweltanzug
-loadout-group-boxer-helmet = Boxhelm
+loadout-group-boxer-envirohelm = Boxer: Umwelthelm
+loadout-group-boxer-envirosuit = Boxer: Umweltanzug
+loadout-group-boxer-helmet = Boxer: Helm
 
 # Misc
 loadout-group-plasma-tank = Plasmatank
-loadout-group-security-gloves = Sicherheitshandschuhe
+loadout-group-security-gloves = Sicherheit: Handschuhe
 
 # Salvage/Shaft Miner
-loadout-group-salvage-specialist-jumpsuit = Salvage-Spezialist Jumpsuit
-loadout-group-shaft-miner-jumpsuit = Shaft Miner Jumpsuit
+loadout-group-salvage-specialist-jumpsuit = Salvage-Spezialist: Uniform
+loadout-group-shaft-miner-jumpsuit = Bergarbeiter: Uniform

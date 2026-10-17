@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-insert-material-entity = Als nächstes addieren [color=yellow]{$amount}x[/color] [color=cyan]{$materialName}[/color].
+construction-insert-material-entity = Als Nächstes: [color=yellow]{$amount}x[/color] [color=cyan]{$materialName}[/color] hinzufügen.

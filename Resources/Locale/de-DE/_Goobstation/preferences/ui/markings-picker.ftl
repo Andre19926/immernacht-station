@@ -10,7 +10,7 @@ markings-category-RightLeg = rechtes Bein
 markings-category-RightFoot = rechter Fuß
 markings-category-LeftLeg = linkes Bein
 markings-category-LeftFoot = linker Fuß
-markings-category-Undershirt = Unterhemden
+markings-category-Undershirt = Unterhemd
 markings-category-Underwear = Unterwäsche
 
 # Everything using these should, ideally, be split into separate left+right markings.

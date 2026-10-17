@@ -11,4 +11,4 @@ thief-fulton-examined-set = Koordinaten eingegeben. Die Bluespace-Teleportation 
 thief-fulton-examined-unset = Die Beacon-Koordinaten sind nicht festgelegt.
 
 thief-fulton-verb-text = Satzkoordinaten
-thief-fulton-verb-message = Legen Sie die Koordinaten des Verstecks Ihres Diebes fest, wo alle Gegenstände in der Nähe am Ende der Runde gesendet werden.
+thief-fulton-verb-message = Lege die Koordinaten des Verstecks deines Diebes fest, wo alle Gegenstände in der Nähe am Ende der Runde gesendet werden.

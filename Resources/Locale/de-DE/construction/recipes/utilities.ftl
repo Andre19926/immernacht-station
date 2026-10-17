@@ -1,5 +1,5 @@
-construction-recipe-gas-pipe-half = Gasrohrhälfte
-construction-recipe-gas-pipe-bend = Gasrohrbogen
-construction-recipe-gas-pipe-t-junction = Gasleitung T-Übergang
-construction-recipe-gas-pipe-fourway = Gasleitung vierseitig
-construction-recipe-heat-exchanger-bend = Kühlerbiegung
+construction-recipe-gas-pipe-half = Gasrohr (halb)
+construction-recipe-gas-pipe-bend = Gasrohr (Bogen)
+construction-recipe-gas-pipe-t-junction = Gasrohr (T-Stück)
+construction-recipe-gas-pipe-fourway = Gasrohr (Kreuzung)
+construction-recipe-heat-exchanger-bend = Radiator (Bogen)

@@ -8,5 +8,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-step-condition-no-unstackable-in-tile = Sie können keinen Stapel ähnlicher Geräte erstellen.
-pipe-restrict-overlap-popup-blocked = { CAPITALIZE(THE($pipe))} Passt nicht über die anderen Rohre!
+construction-step-condition-no-unstackable-in-tile = Du kannst keinen Stapel gleichartiger Geräte bauen.
+pipe-restrict-overlap-popup-blocked = { CAPITALIZE(THE($pipe))} passt nicht über die anderen Rohre!

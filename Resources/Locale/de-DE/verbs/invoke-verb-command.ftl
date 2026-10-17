@@ -7,17 +7,17 @@
 ### Localization used for the invoke verb command.
 # Mostly help + error messages.
 
-invoke-verb-command-description = Ruft ein Verb mit dem Vornamen auf einer Entität auf, mit der Spielerentität
-invoke-verb-command-help = callingverb <playerUid | "self"> <targetUid> <verbName | "interaction" | "active" | "alternative">
+invoke-verb-command-description = Führt ein Verb mit dem angegebenen Namen auf einer Entity aus, mit der Spieler-Entity als Benutzer.
+invoke-verb-command-help = invokeverb <playerUid | "self"> <targetUid> <verbName | "interaction" | "activation" | "alternative">
 
-invoke-verb-command-invalid-args = vokverb nimmt 2 Argumente.
+invoke-verb-command-invalid-args = invokeverb erwartet 2 Argumente.
 
-invoke-verb-command-invalid-player-uid = Spieler uid konnte nicht analysiert werden, oder "selbst" wurde nicht übergeben.
-invoke-verb-command-invalid-target-uid = Ziel-UID konnte nicht analysiert werden.
+invoke-verb-command-invalid-player-uid = Die Spieler-UID konnte nicht gelesen werden, oder „self“ wurde nicht angegeben.
+invoke-verb-command-invalid-target-uid = Die Ziel-UID konnte nicht gelesen werden.
 
-invoke-verb-command-invalid-player-entity = Die gegebene Spieler-Uid entspricht nicht einer gültigen Entität.
-invoke-verb-command-invalid-target-entity = Target uid given entspricht nicht einer gültigen Entität.
+invoke-verb-command-invalid-player-entity = Die angegebene Spieler-UID gehört zu keiner gültigen Entity.
+invoke-verb-command-invalid-target-entity = Die angegebene Ziel-UID gehört zu keiner gültigen Entity.
 
-invoke-verb-command-success = Beschworenes Verb{ $verb }„ am { $target } mit { $player } als Benutzer.
+invoke-verb-command-success = Verb „{ $verb }“ auf { $target } mit { $player } als Benutzer ausgeführt.
 
-invoke-verb-command-verb-not-found = Konnte kein Verb finden { $verb } am { $target }.
+invoke-verb-command-verb-not-found = Verb { $verb } auf { $target } nicht gefunden.

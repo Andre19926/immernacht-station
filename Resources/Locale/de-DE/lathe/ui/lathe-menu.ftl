@@ -12,23 +12,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-menu-title = Drehmenü
-lathe-menu-queue = Schlange
+lathe-menu-title = Lathe-Menü
+lathe-menu-queue = Warteschlange
 lathe-menu-server-list = Serverliste
-lathe-menu-sync = Sync
-lathe-menu-search-designs = Suchdesigns
-lathe-menu-category-all = alle
+lathe-menu-sync = Synchronisieren
+lathe-menu-search-designs = Baupläne suchen
+lathe-menu-category-all = Alle
 lathe-menu-search-filter = Filter:
-lathe-menu-amount = Betrag:
+lathe-menu-amount = Menge:
 lathe-menu-recipe-count = { $count ->
     [1] {$count} Rezeptur
     *[other] {$count} Rezepte
 }
-lathe-menu-reagent-slot-examine = Es hat einen Schlitz für einen Becher an der Seite.
-lathe-reagent-dispense-no-container = Flüssiges Ausströmen aus {THE($name)} Auf den Boden!
+lathe-menu-reagent-slot-examine = Er hat an der Seite einen Steckplatz für ein Becherglas.
+lathe-reagent-dispense-no-container = Flüssigkeit läuft aus {THE($name)} auf den Boden!
 lathe-menu-result-reagent-display = {$reagent} ({$amount}u)
 lathe-menu-material-display = {$material} ({$amount})
-lathe-menu-tooltip-display = {$amount} of {$material}
+lathe-menu-tooltip-display = {$amount} {$material}
 lathe-menu-description-display = [italic]{$description}[/italic]
 lathe-menu-material-amount = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit}
@@ -38,17 +38,17 @@ lathe-menu-material-amount-missing = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit} von {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} fehlt[/color])
     *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} von {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} fehlt[/color])
 }
-lathe-menu-no-materials-message = Kein Material geladen.
-lathe-menu-silo-linked-message = Silo Linked
-lathe-menu-fabricating-message = Herstellung...
-lathe-menu-materials-title = Werkstoffe
-lathe-menu-queue-title = Build Queue
-lathe-menu-delete-fabricating-tooltip = Abbrechen des Druckens des aktuellen Artikels.
-lathe-menu-delete-item-tooltip = Stornieren Sie den Druck dieser Charge.
-lathe-menu-move-up-tooltip = Bewegen Sie diesen Batch in der Warteschlange voran.
-lathe-menu-move-down-tooltip = Bewegen Sie diesen Batch zurück in die Warteschlange.
+lathe-menu-no-materials-message = Keine Materialien eingelegt.
+lathe-menu-silo-linked-message = Silo verbunden
+lathe-menu-fabricating-message = Wird hergestellt ...
+lathe-menu-materials-title = Materialien
+lathe-menu-queue-title = Warteschlange
+lathe-menu-delete-fabricating-tooltip = Den aktuellen Druck abbrechen.
+lathe-menu-delete-item-tooltip = Diesen Auftrag abbrechen.
+lathe-menu-move-up-tooltip = Diesen Auftrag in der Warteschlange nach vorne schieben.
+lathe-menu-move-down-tooltip = Diesen Auftrag in der Warteschlange nach hinten schieben.
 lathe-menu-item-single = {$index}. {$name}
 lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})
 # Goobstation?
-lathe-menu-queue-reset-title = Warteschlangen zurücksetzen
-lathe-menu-queue-reset-material-overflow = Sie merken, dass die Autolathe voll ist.
+lathe-menu-queue-reset-title = Warteschlange zurücksetzen
+lathe-menu-queue-reset-material-overflow = Du merkst, dass der Autolathe voll ist.

@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-greytide-virus-start-announcement = Gr3y. T1d3-Virus in den sicheren Verschlüsselungs-Subroutinen der Station erkannt. Schweregrad von { $severity }Empfehlen Sie die Beteiligung der Station AI.
+station-event-greytide-virus-start-announcement = Gr3y. T1d3-Virus in den sicheren Verschlüsselungs-Subroutinen der Station erkannt. Schweregrad von { $severity }Empfehlen dich die Beteiligung der Stations-KI.

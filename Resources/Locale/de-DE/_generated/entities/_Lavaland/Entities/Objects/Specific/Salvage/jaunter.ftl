@@ -1,5 +1,5 @@
 ent-LavalandJaunter = Jake
-    .desc = Ein komplexes Gerät mit Bluespace-Technologie, das Sie aus Gefahrenräumen teleportieren kann. Sie sollten dies bei sich haben, wenn Sie in der Nähe einer Kluft gehen.
+    .desc = Ein komplexes Gerät mit Bluespace-Technologie, das dich aus Gefahrenzonen teleportieren kann. Du solltest es bei dir haben, wenn du in der Nähe eines Abgrunds unterwegs bist.
 
 ent-LavalandJaunterRecharging = Versuchstiere
-    .desc = Ein komplexes Gerät mit Bluespace-Technologie, das Sie aus Gefahrenräumen teleportieren kann. Sie sollten dies bei sich haben, wenn Sie in der Nähe einer Kluft gehen.
+    .desc = Ein komplexes Gerät mit Bluespace-Technologie, das dich aus Gefahrenzonen teleportieren kann. Du solltest es bei dir haben, wenn du in der Nähe eines Abgrunds unterwegs bist.

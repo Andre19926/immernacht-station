@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-examine-condition-entity-anchored = Zuerst, verankern Sie es.
-construction-examine-condition-entity-unanchored = Zuerst, entankern Sie es.
-construction-step-condition-entity-anchored = Sie muss verankert werden.
-construction-step-condition-entity-unanchored = Sie muss nicht verankert sein.
+construction-examine-condition-entity-anchored = Verankere es zuerst.
+construction-examine-condition-entity-unanchored = Löse zuerst die Verankerung.
+construction-step-condition-entity-anchored = Es muss verankert sein.
+construction-step-condition-entity-unanchored = Es darf nicht verankert sein.

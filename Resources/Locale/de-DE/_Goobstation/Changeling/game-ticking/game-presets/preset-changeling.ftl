@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-changeling-roundend-name = Wechseln
+changeling-roundend-name = ein Wechselbalg
 
-objective-issuer-hivemind = [color=orange]Der Hive[/color]
+objective-issuer-hivemind = [color=orange]Der Schwarm[/color]
 objective-issuer-tiger = [color=crimson]Tigerkooperative[/color]
 
 roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] hat insgesamt [color=red]{$number}[/color] organische Stoffe.
@@ -14,14 +14,10 @@ roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] hat insg
 roundend-prepend-changeling-absorbed = Jemand hat insgesamt [color=red]{$number}[/color] organische Stoffe.
 roundend-prepend-changeling-stolen = Jemand hatte insgesamt [color=orange]{$number}[/color] DNA-Proben.
 
-changeling-gamemode-title = Wechselbetriebe
-changeling-gamemode-description =
-    Der Wechselstock ist an Bord der Station, bereit, alles zu nehmen, was er will - sei es Ihre Ausrüstung, Ihre Gesichter oder Ihr Leben!
+changeling-gamemode-title = Wechselbälger
+changeling-gamemode-description = Der Schwarm der Wechselbälger ist an Bord gekommen und will alles an sich reißen: deine Ausrüstung, dein Gesicht, dein Leben!
 
-changeling-role-greeting =
-    Du bist ein Wechselspieler, der die Form von {$name}!
-    Ihre Ziele sind im Charaktermenü aufgeführt.
-    Absorbieren, Shapeshift und entwickeln, um sie zu vervollständigen!
+changeling-role-greeting = Du bist ein Wechselbalg und hast die Gestalt von {$name} angenommen! Deine Ziele stehen im Charaktermenü. Absorbiere, wandle deine Gestalt und entwickle dich, um sie zu erfüllen!
 
 changeling-role-greeting-short =
     Du bist ein Wechselspieler, der die ursprüngliche Form von {$name}.

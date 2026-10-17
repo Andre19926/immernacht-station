@@ -46,11 +46,11 @@ ent-ClothingOuterCoatLabGene = Genetiker Laborkittel
 ent-ClothingOuterCoatLabGeneOpened = Genetiker Laborkittel
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen blauen Streifen auf der Schulter.
 
-ent-ClothingOuterCoatLabCmo = Laborkittel des Chefarztes
-    .desc = Maßgeschneidertes blaues Laborkittel für den Chief Medical Officer bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
+ent-ClothingOuterCoatLabCmo = Chefarzt-Laborkittel
+    .desc = Maßgeschneidertes blaues Laborkittel für den Chefarzt bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
 
-ent-ClothingOuterCoatLabCmoOpened = Laborkittel des Chefarztes
-    .desc = Maßgeschneidertes blaues Laborkittel für den Chief Medical Officer bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
+ent-ClothingOuterCoatLabCmoOpened = Chefarzt-Laborkittel
+    .desc = Maßgeschneidertes blaues Laborkittel für den Chefarzt bietet einen verbesserten Schutz gegen chemische Verschüttungen und kleinere Schnitte.
 
 ent-ClothingOuterCoatRnd = Wissenschaftlerlaboratorium
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Streifen auf der Schulter.
@@ -72,8 +72,8 @@ ent-ClothingOuterCoatRDOpened = Forschungsleiterin Laborkittel
 
 ent-ClothingOuterCoatPirate = Piratengarnelen
 
-ent-ClothingOuterCoatWarden = Panzerjacke des Wärters
-    .desc = Eine robuste, utilitaristische Jacke, die entworfen wurde, um einen Wärter vor Brig-gebundenen Bedrohungen zu schützen.
+ent-ClothingOuterCoatWarden = Gepanzerte Warden-Jacke
+    .desc = Eine robuste, utilitaristische Jacke, die entworfen wurde, um einen Warden vor Brig-gebundenen Bedrohungen zu schützen.
 
 ent-ClothingOuterDameDane = Yakuza-Mantel
     .desc = Freitag...
@@ -94,7 +94,7 @@ ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndicate-S
     .desc = Der gepanzerte Mantel des Syndicate-S besteht aus langlebigem Stoff mit vergoldeten Mustern.
 
 ent-ClothingOuterCoatAMG = Gepanzertes medizinisches Kleid
-    .desc = Die Version des medizinischen Kleides, mit Elementen einer kugelsicheren Weste, sieht seltsam aus, aber Ihr Herz ist geschützt.
+    .desc = Die Version des medizinischen Kleides, mit Elementen einer kugelsicheren Weste, sieht seltsam aus, aber dein Herz ist geschützt.
 
 ent-ClothingOuterCoatLabSeniorResearcher = Senior Researcher Laborcoat
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
@@ -102,10 +102,10 @@ ent-ClothingOuterCoatLabSeniorResearcher = Senior Researcher Laborcoat
 ent-ClothingOuterCoatLabSeniorResearcherOpened = Senior Researcher Laborcoat
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
 
-ent-ClothingOuterCoatLabSeniorPhysician = Oberarzt Laboratorium
+ent-ClothingOuterCoatLabSeniorPhysician = Oberarzt-Laborkittel
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
 
-ent-ClothingOuterCoatLabSeniorPhysicianOpened = Oberarzt Laboratorium
+ent-ClothingOuterCoatLabSeniorPhysicianOpened = Oberarzt-Laborkittel (offen)
     .desc = Ein Anzug, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
 
 ent-ClothingOuterCoatSpaceAsshole = Der Mantel des Space Arshole

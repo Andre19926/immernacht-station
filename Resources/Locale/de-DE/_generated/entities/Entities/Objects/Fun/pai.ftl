@@ -1,7 +1,7 @@
-ent-PersonalAI = Personal-AI-Gerät
+ent-PersonalAI = Personal-KI-Gerät
     .desc = Dein elektronischer Kumpel, mit dem es Spaß macht!
 
-ent-SyndicatePersonalAI = Syndicate Personal AI Device
+ent-SyndicatePersonalAI = Syndicate Personal KI Device
     .desc = Dein Syndicate-Kumpel, mit dem es Spaß macht!
 
 ent-GoldenPersonalAI = Golden Personal Ai Gerät
@@ -11,13 +11,13 @@ ent-PotatoAI = Kartoffel künstliche Intelligenz
     .desc = Es ist eine Kartoffel. Du hast es gezwungen, fühlend zu sein, du Monster.
 
 ent-ActionPAIOpenShop = Softwarekatalog
-    .desc = Installieren Sie neue Software, um Ihren Besitzer zu unterstützen.
+    .desc = Installiere neue Software, um deinen Besitzer zu unterstützen.
 
 ent-ActionPAIMassScanner = Massenscanner
-    .desc = Sehen Sie sich eine Massenscanner-Schnittstelle an.
+    .desc = Siehst du dir eine Massenscanner-Schnittstelle an.
 
 ent-ActionPAIPlayMidi = Spielen MIDI
-    .desc = Öffnen Sie Ihre tragbare MIDI-Schnittstelle, um Ihren Besitzer zu beruhigen.
+    .desc = Öffne deine tragbare MIDI-Schnittstelle, um deinen Besitzer zu beruhigen.
 
 ent-ActionPAIOpenMap = Offene Karte
-    .desc = Öffnen Sie Ihre Kartenoberfläche und führen Sie Ihren Besitzer.
+    .desc = Öffne deine Kartenoberfläche und führe deinen Besitzer.

@@ -14,37 +14,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-carpetium = Teppichboden
+reagent-name-carpetium = Carpetium
 reagent-desc-carpetium = Eine mystische Chemikalie, die normalerweise vom Clownplaneten ausgelagert wird und alles abdeckt, was sie im Teppich berührt. Irgendwie filtert Carpotoxin aus dem Blutstrom heraus.
 
 reagent-name-fiber = Faser
 reagent-desc-fiber = Ein Rohstoff, der normalerweise aus Wolle oder anderen Gewebeprodukten gewonnen wird.
 
-reagent-name-buzzochloric-bees = Buzzochlorbienen
+reagent-name-buzzochloric-bees = Buzzochlor-Bienen
 reagent-desc-buzzochloric-bees = Bienen. Oh Gott, es sind LIQUID BEES NO-
 
-reagent-name-ground-bee = Bodenbiene
+reagent-name-ground-bee = Gemahlene Biene
 reagent-desc-ground-bee = Bienengrund. Brutto.
 
 reagent-name-saxoite = Saxoit
 reagent-desc-saxoite = Riecht nach Jazz.
 
-reagent-name-licoxide = Lixid
+reagent-name-licoxide = Licoxid
 reagent-desc-licoxide = Eine synthetische Batteriesäure. Es sieht ... elektrisierend aus.
 
-reagent-name-razorium = Rasator
+reagent-name-razorium = Razorium
 reagent-desc-razorium = Eine seltsame, nicht-newtonianische Chemikalie. Es wird produziert, wenn zwei widersprüchliche rohe Medikamente kombiniert werden. Wenn Kraft auf sie ausgeübt wird, verhärtet sie sich vorübergehend und schafft Millionen von winzigen, scharfen Kanten. Sehr schmerzhaft.
 
-reagent-name-fresium = Fressium
+reagent-name-fresium = Fresium
 reagent-desc-fresium = Eine mysteriöse Verbindung, die die Schwingung von Atomen und Molekülen verlangsamt ... irgendwie. In Laienbegriffen macht es die Dinge kalt ... WIRKLICH kalt. Kann lang anhaltende Bewegungsprobleme verursachen, wenn sie eingenommen werden.
 
 reagent-name-laughter = Lachen
 reagent-desc-laughter = Einige sagen, dass dies die beste Medizin ist, aber neuere Studien haben bewiesen, dass dies unwahr ist.
 
-reagent-name-weh = Saft, der dich macht Weh
+reagent-name-weh = Weh-Saft
 reagent-desc-weh = Reine Essenz von Echse Plüsch. Macht dich weh!
 
-reagent-name-hew = Saft, der dich macht Hew
+reagent-name-hew = Hew-Saft
 reagent-desc-hew = Reine Essenz von umgekehrtem Echsenplüsch. Macht dich Hew!
 
 reagent-name-corgiessence = Corgium

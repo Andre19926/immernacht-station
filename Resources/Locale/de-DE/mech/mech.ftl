@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mech-verb-enter = Eingang
+mech-verb-enter = Betreten
 mech-verb-exit = Pilot entfernen
 
 mech-equipment-begin-install = Installation der {THE($item)}...
@@ -27,7 +27,7 @@ mech-energy-display = Energie: {$amount}%
 mech-energy-missing = Energie: Fehlverhalten
 mech-slot-display = Offene Slots: {$amount}
 
-mech-no-enter = Sie können das nicht steuern.
+mech-no-enter = Du kannst das nicht steuern.
 
 mech-eject-pilot-alert = {$user} zieht den Piloten aus dem {$item}!
 

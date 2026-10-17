@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Shown when examining an in-construction object
-construction-insert-entity-with-component = Als nächstes fügen Sie eine Entität mit einem {$componentName} Bauteil.
+construction-insert-entity-with-component = Als Nächstes: ein Objekt mit einer {$componentName}-Komponente einsetzen.
 
 # Shown when examining an in-construction object
-construction-insert-exact-entity = Als nächstes einfügen {$entityName}.
+construction-insert-exact-entity = Als Nächstes: {$entityName} einsetzen.

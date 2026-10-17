@@ -10,7 +10,7 @@ station-event-meteor-swarm-start-announcement = Meteore wurden auf Kollisionskur
 station-event-meteor-swarm-end-announcement = Der Meteorschwarm ist vorbei. Bitte kehrt zu euren Stationen zurück.
 
 station-event-space-dust-start-announcement = Die Station durchquert eine Trümmerwolke, erwartet kleinere Schäden an Außenarmaturen und Armaturen.
-station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Bitte bleiben Sie ruhig und hören Sie ihnen nicht zu.
+station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Bitte bleib ruhig und höre ihnen nicht zu.
 station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Warnung: Füttere sie nicht mit Weizen. Moo-ve weg von äußeren Abschnitten.
 station-event-meteor-clown-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. HONK! Lachgasspeicher sofort evakuieren.
 station-event-meteor-potato-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Hoher Stärkegehalt nachgewiesen.

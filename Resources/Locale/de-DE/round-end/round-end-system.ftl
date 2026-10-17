@@ -21,7 +21,7 @@ round-end-system-shuttle-called-announcement = Ein Evakuierungsshuttle wurde ger
 round-end-system-shuttle-already-called-announcement = Ein Evakuierungsshuttle wurde bereits gerufen.
 round-end-system-shuttle-auto-called-announcement = Ein automatisches Shuttle für den Schichtwechsel der Crew wurde gerufen. Ankunft in: {$time} {$units}. Rufe das Shuttle zurück, um die Schicht zu verlängern.
 round-end-system-shuttle-recalled-announcement = Das Evakuierungsshuttle wurde zurückgerufen.
-round-end-system-shuttle-sender-announcement = Bahnhof
+round-end-system-shuttle-sender-announcement = Station
 round-end-system-round-restart-eta-announcement = Die Runde wird in {$time} {$units} neu gestartet ...
 
 eta-units-minutes = Minuten

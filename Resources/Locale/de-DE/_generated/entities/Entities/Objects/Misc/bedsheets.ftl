@@ -11,7 +11,7 @@ ent-BedsheetCaptain = Bettlake des Kapitäns
     .desc = Es hat ein Nanotrasen-Symbol darauf und wurde mit einer revolutionären neuen Art von Faden gewebt, der garantiert 0,01% Durchlässigkeit für die meisten nicht-chemischen Substanzen hat, die bei den meisten modernen Kapitänen beliebt sind.
 
 ent-BedsheetCE = Bettlake von CE
-    .desc = Es ist mit einem Schraubenschlüssel-Emblem dekoriert. Es ist sehr reflektierend und fleckenresistent, so dass Sie sich keine Sorgen machen müssen, es mit Öl zu ruinieren.
+    .desc = Es ist mit einem Schraubenschlüssel-Emblem dekoriert. Es ist sehr reflektierend und fleckenresistent, so dass du dich keine Sorgen machen musst, es mit Öl zu ruinieren.
 
 ent-BedsheetCentcom = CentComm Bettlake
     .desc = Gewoben mit fortschrittlichem Nanothread für Wärme sowie sehr dekoriert, essentiell für alle Beamten.
@@ -19,14 +19,14 @@ ent-BedsheetCentcom = CentComm Bettlake
 ent-BedsheetClown = Bettlaken des Clowns
     .desc = Eine Regenbogendecke mit einer eingewebten Clownmaske. Es riecht schwach nach Bananen.
 
-ent-BedsheetCMO = Bettlake von CMO
+ent-BedsheetCMO = Bettlaken des Chefarztes
     .desc = Es ist eine sterilisierte Decke mit einem Kreuzemblem. Es gibt etwas Katzenfell darauf, wahrscheinlich von Runtime.
 
 ent-BedsheetCosmos = Kosmos Bettlake
     .desc = Geschaffen aus den Träumen derer, die sich über die Sterne wundern.
 
 ent-BedsheetCult = Kult Bettlake
-    .desc = Sie könnten von Nar'Sie träumen, wenn Sie damit schlafen. Es scheint eher zerfetzt und leuchtet von einer eldritch Präsenz.
+    .desc = Du könntest von Nar'dich träumen, wenn du damit schläfst. Es scheint eher zerfetzt und leuchtet von einer eldritch Präsenz.
 
 ent-BedsheetGreen = Grüne Bettlake
     .desc = Ein überraschend weiches Bettlaken.
@@ -46,8 +46,8 @@ ent-BedsheetIan = Ians Bettlake
 ent-BedsheetMedical = medizinisches Bettlaken
     .desc = Es ist eine sterilisierte Decke, die üblicherweise in der Medbay verwendet wird. Die Sterilisation ist ungültig, wenn ein Virologe an Bord der Station anwesend ist.
 
-ent-BedsheetMime = Mime's Bettlake
-    .desc = Eine sehr beruhigende gestreifte Decke. All das Geräusch scheint nur zu verblassen, wenn Sie unter der Decke in diesem sind.
+ent-BedsheetMime = Mime-Bettlaken
+    .desc = Eine sehr beruhigende gestreifte Decke. All das Geräusch scheint nur zu verblassen, wenn du unter der Decke in diesem bist.
 
 ent-BedsheetNT = NT Bettlake
     .desc = Es hat das Nanotrasen-Logo und eine Aura der Pflicht.
@@ -65,7 +65,7 @@ ent-BedsheetRainbow = Regenbogenbett
     .desc = Ein überraschend weiches Bettlaken.
 
 ent-BedsheetRD = RD Bettlake
-    .desc = Es scheint ein Becherglas-Emblem zu haben und besteht aus feuerbeständigem Material, obwohl es Sie wahrscheinlich nicht im Falle von Bränden schützt, mit denen Sie jeden Tag vertraut sind.
+    .desc = Es scheint ein Becherglas-Emblem zu haben und besteht aus feuerbeständigem Material, obwohl es dich wahrscheinlich nicht im Falle von Bränden schützt, mit denen du jeden Tag vertraut bist.
 
 ent-BedsheetBrigmedic = Brigmeds Bettlake
     .desc = Nicht schlechter als Baumwolle.
@@ -83,7 +83,7 @@ ent-BedsheetWhite = weißes Bettlaken
     .desc = Ein überraschend weiches Bettlaken.
 
 ent-BedsheetWiz = Das Bettlaken des Assistenten
-    .desc = Ein spezieller Stoff, der von Magie verzaubert ist, damit Sie eine verzauberte Nacht haben können. Es leuchtet sogar!
+    .desc = Ein spezieller Stoff, der von Magie verzaubert ist, damit du eine verzauberte Nacht haben kannst. Es leuchtet sogar!
 
 ent-BedsheetYellow = gelbe Bettlake
     .desc = Ein überraschend weiches Bettlaken.

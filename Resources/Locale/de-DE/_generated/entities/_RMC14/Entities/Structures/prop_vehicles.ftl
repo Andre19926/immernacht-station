@@ -1,5 +1,5 @@
 ent-RMCCarPileup = ausgebrannter Fahrzeugstapel
-    .desc = Ausgebrannte Fahrzeuge blockieren Ihren Weg, ihre verkohlten Rahmen und zerbrochenes Glas deuten auf das jüngste Chaos hin. Der beißende Geruch von Rauch verweilt.
+    .desc = Ausgebrannte Fahrzeuge blockieren deinen Weg, ihre verkohlten Rahmen und zerbrochenes Glas deuten auf das jüngste Chaos hin. Der beißende Geruch von Rauch verweilt.
 
 ent-RMCPropVehicleMonoSupronOrange = Mono-Supron
     .desc = Der "Mono-Supron", ein in Massenproduktion hergestelltes ziviles Fahrzeug für die Kolonialmärkte, innerhalb und außerhalb der Vereinten Nationen. Produziert von "Mizutani" eine Automarke und assoziierte Betriebsabteilung der Weston-Yamada Corporation.

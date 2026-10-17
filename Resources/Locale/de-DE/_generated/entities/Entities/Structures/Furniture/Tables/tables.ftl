@@ -29,7 +29,7 @@ ent-TableBrass = Messingtisch
     .desc = Ein glänzender, korrosionsbeständiger Messingtisch. Steampunk!
 
 ent-TableWood = Holztisch
-    .desc = Wenden Sie darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
+    .desc = Wende darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
 
 ent-TableCarpet = Spieltisch
     .desc = Spiele em' Cowboy.
@@ -76,7 +76,7 @@ ent-TableFancyWhite = ausgefallener Tisch
 ent-TableDebug = Tisch
 
 ent-TableCounterWood = Holzzähler
-    .desc = Wenden Sie darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
+    .desc = Wende darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
 
 ent-TableCounterMetal = Metallzähler
     .desc = Sieht aus wie ein guter Ort, um ein Getränk nach unten.

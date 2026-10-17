@@ -1,2 +1,2 @@
 roles-antag-contractor-name = Auftragnehmer
-roles-antag-contractor-description = Erwerben Sie Ihre Ziele, tot oder lebendig.
+roles-antag-contractor-description = Erwerbe deine Ziele, tot oder lebendig.

@@ -1,5 +1,5 @@
-ent-NukeDisk = Kernauthentisierungsscheibe
-    .desc = Eine nukleare Auth-Scheibe, die in der Lage ist, eine Nuke zu bewaffnen, wenn sie zusammen mit einem Code verwendet wird. Anmerkung von nanotrasen liest "Das ist Ihre wichtigste POSESSION, SECURE DAT FUKKEN DISK!"
+ent-NukeDisk = Nuke-Authentifizierungsdisk
+    .desc = Eine nukleare Authentifizierungsdisk, mit der sich zusammen mit einem Code eine Nuke scharf machen lässt. Die Notiz von NanoTrasen lautet: „DAS IST DEIN WICHTIGSTER BESITZ, SICHER DAT FUKKEN DISK!“
 
-ent-NukeDiskFake = Kernauthentisierungsscheibe
-    .desc = Eine nukleare Auth-Scheibe, die in der Lage ist, eine Nuke zu bewaffnen, wenn sie zusammen mit einem Code verwendet wird. Anmerkung von nanotrasen liest "Das ist Ihre wichtigste POSESSION, SECURE DAT FUKKEN DISK!"
+ent-NukeDiskFake = Nuke-Authentifizierungsdisk
+    .desc = Eine nukleare Authentifizierungsdisk, mit der sich zusammen mit einem Code eine Nuke scharf machen lässt. Die Notiz von NanoTrasen lautet: „DAS IST DEIN WICHTIGSTER BESITZ, SICHER DAT FUKKEN DISK!“

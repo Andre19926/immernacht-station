@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: MIT
 
 signal-port-selector-menu-title = Port Selector
-signal-port-selector-menu-clear = klar
-signal-port-selector-menu-link-defaults = Linkausfälle
-signal-port-selector-help = Wählen Sie die Ports aus, die Sie verknüpfen möchten
-signal-port-selector-menu-done = Geschehen
+signal-port-selector-menu-clear = Leeren
+signal-port-selector-menu-link-defaults = Standardverknüpfungen
+signal-port-selector-help = Wähle die Ports aus, die du verknüpfen möchtest
+signal-port-selector-menu-done = Fertig

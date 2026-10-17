@@ -26,9 +26,9 @@ ent-SurgeryAttachHead = Befestigungskopf
 
 ent-SurgeryAttachGroin = Leiste anbringen
 
-ent-SurgeryAttachLeftArm = Befestigen Sie den linken Arm
+ent-SurgeryAttachLeftArm = Befestige den linken Arm
 
-ent-SurgeryAttachRightArm = Befestigen Sie den rechten Arm
+ent-SurgeryAttachRightArm = Befestige den rechten Arm
 
 ent-SurgeryAttachLeftLeg = Befestigen des linken Beins
 
@@ -36,7 +36,7 @@ ent-SurgeryAttachRightLeg = Befestigen des rechten Beines
 
 ent-SurgeryAttachLeftHand = Linke Hand anbringen
 
-ent-SurgeryAttachRightHand = Befestigen Sie die rechte Hand
+ent-SurgeryAttachRightHand = Befestige die rechte Hand
 
 ent-SurgeryAttachLeftFoot = Linker Fuß befestigen
 
@@ -98,7 +98,7 @@ ent-SurgeryInsertPowerCellCharger = Internes Ladegerät für die Stromzelle eins
 
 ent-SurgeryOpenPowerCellCharger = Open Cavity für Power Cell Charger
 
-ent-SurgeryRemovePowerCellCharger = Entfernen Sie interne Power Cell Charger
+ent-SurgeryRemovePowerCellCharger = Entferne interne Power Cell Charger
 
 ent-SurgeryOpenArmAugment = Open Cavity für Armvergrößerungen
 

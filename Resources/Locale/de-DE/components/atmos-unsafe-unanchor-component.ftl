@@ -6,4 +6,4 @@
 ### AtmosUnsafeUnanchorComponent
 
 # Examine text showing pressure in tank.
-comp-atmos-unsafe-unanchor-warning = Ein Luftschwall bläst dir ins Gesicht... Vielleicht sollten Sie es noch einmal überdenken?
+comp-atmos-unsafe-unanchor-warning = Ein Luftschwall bläst dir ins Gesicht... Vielleicht solltest du es noch einmal überdenken?

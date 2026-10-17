@@ -8,10 +8,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-bounty-console-menu-title = Ladegeldkonsole
-bounty-console-label-button-text = Drucketikett
-bounty-console-skip-button-text = Skip
-bounty-console-time-label = Uhrzeit: [color=orange]{$time}[/color]
+bounty-console-menu-title = Frachtprämien-Konsole
+bounty-console-label-button-text = Etikett drucken
+bounty-console-skip-button-text = Überspringen
+bounty-console-time-label = Zeit: [color=orange]{$time}[/color]
 bounty-console-reward-label = Belohnung: [color=limegreen]${$reward}[/color]
 bounty-console-manifest-label = Manifest: [color=orange]{$item}[/color]
 bounty-console-manifest-entry =
@@ -23,14 +23,14 @@ bounty-console-manifest-reward = Belohnung: ${$reward}
 bounty-console-description-label = [color=gray]{$description}[/color]
 bounty-console-id-label = ID#{$id}
 
-bounty-console-flavor-left = Bounties von lokalen skrupellosen Händlern bezogen.
+bounty-console-flavor-left = Prämien stammen von lokalen, skrupellosen Händlern.
 bounty-console-flavor-right = v1.4
 
-bounty-manifest-header = [font size=14][bold]Amtliches Frachtgeldmanifest[/bold] (ID#){$id})[/font]
-bounty-manifest-list-start = Positionsmanifest:
+bounty-manifest-header = [font size=14][bold]Offizielles Frachtprämien-Manifest[/bold] (ID#{$id})[/font]
+bounty-manifest-list-start = Warenliste:
 
-bounty-console-tab-available-label = verfügbar
-bounty-console-tab-history-label = Geschichte
-bounty-console-history-empty-label = Keine Bounty History gefunden
+bounty-console-tab-available-label = Verfügbar
+bounty-console-tab-history-label = Verlauf
+bounty-console-history-empty-label = Kein Prämienverlauf gefunden
 bounty-console-history-notice-completed-label = [color=limegreen]Abgeschlossen[/color]
-bounty-console-history-notice-skipped-label = [color=red]Überschifft[/color] durch {$id}
+bounty-console-history-notice-skipped-label = [color=red]Übersprungen[/color] von {$id}

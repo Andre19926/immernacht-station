@@ -6,16 +6,16 @@
 
 cargoproduct-category-name-armory = Rüstung
 cargoproduct-category-name-atmospherics = Atmosphäre
-cargoproduct-category-name-cargo = Ladung
+cargoproduct-category-name-cargo = Fracht
 cargoproduct-category-name-circuitboards = Leiterplatten
 cargoproduct-category-name-emergency = Notfall
-cargoproduct-category-name-engineering = Ingenieurwesen
-cargoproduct-category-name-food = Lebensmittel
+cargoproduct-category-name-engineering = Technik
+cargoproduct-category-name-food = Essen
 cargoproduct-category-name-fun = Spaß
 cargoproduct-category-name-hydroponics = Hydrokultur
 cargoproduct-category-name-livestock = Nutztiere
-cargoproduct-category-name-materials = Werkstoffe
-cargoproduct-category-name-medical = Medizinisch
+cargoproduct-category-name-materials = Materialien
+cargoproduct-category-name-medical = Medizin
 cargoproduct-category-name-science = Wissenschaft
 cargoproduct-category-name-security = Sicherheit
 cargoproduct-category-name-service = Dienst

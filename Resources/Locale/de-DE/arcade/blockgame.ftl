@@ -20,15 +20,15 @@ blockgame-menu-gameover-info = Global: {$global}
     Örtlich: {$local}
     Punkte: {$points}
 
-blockgame-menu-title = Nanotrasen Block Spiel
+blockgame-menu-title = Nanotrasen-Blockspiel
 blockgame-menu-button-new-game = Neues Spiel
-blockgame-menu-button-scoreboard = Anzeiger
+blockgame-menu-button-scoreboard = Bestenliste
 blockgame-menu-button-pause = Pause
-blockgame-menu-button-unpause = Ruhepause
+blockgame-menu-button-unpause = Fortsetzen
 blockgame-menu-msg-game-over = Game over!
-blockgame-menu-label-highscores = Höchstwerte
-blockgame-menu-button-back = Rücken
-blockgame-menu-label-next = Nächster Artikel
-blockgame-menu-label-hold = Halt
-blockgame-menu-text-station = Bahnhof
+blockgame-menu-label-highscores = Highscores
+blockgame-menu-button-back = Zurück
+blockgame-menu-label-next = Weiter
+blockgame-menu-label-hold = Halten
+blockgame-menu-text-station = Station
 blockgame-menu-text-nanotrasen = Nanotrasen

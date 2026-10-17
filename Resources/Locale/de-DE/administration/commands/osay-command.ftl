@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-osay-desc = Zwingt eine andere Entität zu versuchen, eine Nachricht zu senden
+cmd-osay-desc = Zwingt eine andere Entität, eine Nachricht zu senden
 cmd-osay-help = Verwendung: {$command} <uid> <type> <message>
 
 osay-command-arg-uid = Quelle uid
 osay-command-arg-type = Typ
 osay-command-arg-message = Nachricht
 
-osay-command-error-args = Ungültige Anzahl von Argumenten
-osay-command-error-euid = {$arg} ist keine gültige Entity uid.
+osay-command-error-args = Ungültige Anzahl an Argumenten
+osay-command-error-euid = {$arg} ist keine gültige Entität uid.

@@ -6,6 +6,6 @@
 
 ghost-target-window-ghostbar = Ghost Bar
 ghost-window-spawn-ghostbar-button = Spawnen in der Ghost Bar
-ghost-window-spawn-ghostbar-button-timer = Spawn in der Ghost Bar (){$time}s)
-ghost-bar-rules = Behandle diese rolle und station, wie du nur ein normaler geist sein würdest. Du kannst über alle aktuellen rundenereignisse sprechen, ohne dass du LOOC brauchst, und du erinnerst dich an alles aus deinem vorherigen leben. Greifen Sie NICHT andere an, beginnen Sie Kämpfe oder versuchen Sie, die Station zu brechen. Wenn Sie jemanden sehen, der dies tut, bitte Ahelp und sie werden sofort in den Weltraum geworfen. Auch, wenn sie sich entscheiden, die bar zu verlassen, erinnern sie sich nicht an etwas von hier zu sein, oder ihr leben davor.
+ghost-window-spawn-ghostbar-button-timer = In der Ghost Bar spawnen ({$time}s)
+ghost-bar-rules = Behandle diese rolle und station, wie du nur ein normaler geist sein würdest. Du kannst über alle aktuellen rundenereignisse sprechen, ohne dass du LOOC brauchst, und du erinnerst dich an alles aus deinem vorherigen leben. Greife NICHT andere an, beginne Kämpfe oder versuche, die Station zu brechen. Wenn du jemanden siehst, der dies tut, bitte Ahelp und sie werden sofort in den Weltraum geworfen. Auch, wenn sie sich entscheiden, die bar zu verlassen, erinnern sie sich nicht an etwas von hier zu sein, oder ihr leben davor.
 

@@ -1,1 +1,1 @@
-construction-recipe-closet-freezer = Schrank Gefrierschrank
+construction-recipe-closet-freezer = Kühlschrank-Spind

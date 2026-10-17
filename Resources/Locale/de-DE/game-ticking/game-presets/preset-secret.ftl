@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-secret-title = Geheimklassiker
-secret-description = Es ist ein Geheimnis für alle. Die Bedrohungen, denen Sie begegnen, sind randomisiert. Dies ist die klassische Version von Secret, die einfach einen Spielmodus auswählt und nicht mit dem Stationschaos skaliert
+secret-title = Secret Classic
+secret-description = Ein Geheimnis für alle: Welche Bedrohungen dich erwarten, wird zufällig bestimmt. Die klassische Fassung von Secret wählt einfach einen Spielmodus aus und passt sich nicht dem Stationschaos an.
 
-dynamic-title = Dynamik
-dynamic-description = Niemand weiß, was kommt. Sie können auf eine beliebige Anzahl von Bedrohungen stoßen.
+dynamic-title = Dynamic
+dynamic-description = Niemand weiß, was kommt. Dir können beliebig viele Bedrohungen begegnen.

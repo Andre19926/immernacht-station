@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-extended-title = Erweitert
-extended-description = Eine ruhige Erfahrung. Admin-Intervention erforderlich.
+extended-title = Extended
+extended-description = Eine ruhige Runde. Ohne Admins passiert nichts, sie sorgen für die Action.

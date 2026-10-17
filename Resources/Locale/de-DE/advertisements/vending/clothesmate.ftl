@@ -8,10 +8,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-clothes-1 = Kleid für den Erfolg!
-advertisement-clothes-2 = Bereiten Sie sich auf swagalicious aussehen!
+advertisement-clothes-1 = Kleide dich für den Erfolg!
+advertisement-clothes-2 = Mach dich bereit, swagalicious auszusehen!
 advertisement-clothes-3 = Schau dir all diesen Swag an!
-advertisement-clothes-4 = Warum den Stil dem Schicksal überlassen? Verwenden Sie den ClothesMate!
+advertisement-clothes-4 = Warum den Stil dem Schicksal überlassen? Nimm den ClothesMate!
 advertisement-clothes-5 = Jetzt mit zusätzlichen Nackenwärmern!
 advertisement-clothes-6 = Du siehst stilvoll aus!
-advertisement-clothes-7 = Schönes Outfit, das du dort hast!
+advertisement-clothes-7 = Was für ein schönes Outfit du da hast!

@@ -11,7 +11,7 @@
 ## Species Names
 
 species-name-vulpkanin = Vulpkanin
-species-name-harpy = Harnisch
+species-name-harpy = Harpyie
 species-name-rodentia = Rodentia
 species-name-chitinid = Chitinid
 species-name-feroxi = Feroxi

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-examine-condition-low-health = Zuerst, reparieren Sie es.
+construction-examine-condition-low-health = Repariere es zuerst.
 construction-step-condition-low-health = Es muss repariert werden.

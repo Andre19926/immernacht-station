@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-comp-lattice-cutting-unsafe-warning = Du spürst, wie Luft an deinen Fingern vorbeifliegt... Vielleicht sollten Sie es noch einmal überdenken?
+comp-lattice-cutting-unsafe-warning = Du spürst, wie Luft an deinen Fingern vorbeifliegt... Vielleicht solltest du es noch einmal überdenken?

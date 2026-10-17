@@ -1,5 +1,5 @@
 ent-Welder = Schweißgeräte
-    .desc = Schmelzt etwas, solange es angeheizt wird, vergessen Sie nicht Ihren Augenschutz!
+    .desc = Schmelzt etwas, solange es angeheizt wird, vergiss nicht deinen Augenschutz!
 
 ent-WelderIndustrial = Industrielle Schweißgeräte
     .desc = Ein industrielles Schweißgerät mit über doppelter Kraftstoffkapazität.

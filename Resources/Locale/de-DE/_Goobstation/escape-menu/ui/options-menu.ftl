@@ -7,8 +7,8 @@ ui-options-preferences = Präferenzen
 ui-options-function-resist-grab = Widerstandsgraben
 ui-options-coalesce-identical-messages = Coalesce identische Nachrichten im Chat
 ui-options-detailed-examine = Detaillierter Prüfungstext
-ui-options-auto-focus-search-on-build-menu = Fokussieren Sie die Sucheingabe automatisch, wenn das Build-Menü geöffnet wird
-ui-options-lock-action-bar-drag = Ziehen Sie nur Aktionen in der Hotbar zu, während das Aktionsmenü geöffnet ist
+ui-options-auto-focus-search-on-build-menu = Fokussiere die Sucheingabe automatisch, wenn das Build-Menü geöffnet wird
+ui-options-lock-action-bar-drag = Ziehe nur Aktionen in der Hotbar zu, während das Aktionsmenü geöffnet ist
 ui-options-inhand-interaction-particle-scale = Größe des Overhead-Interaktionssymbols
 
 ui-options-hud-theme-coscult = Kosmischer Kult

@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-announce-desc = Senden Sie eine In-Game-Ankündigung mit benutzerdefinierten Farben und Sound.
-cmd-announce-help = {$command} <Nachricht> [sender] [color] [sound] - Ankündigung senden. Senden Sie Standardwerte an CentCom, Farbe an Gold, Ton an announced.ogg. Die Farbe sollte in einem #RRGGBB-Format sein.
+cmd-announce-desc = Sendet eine In-Game-Ankündigung mit eigener Farbe und eigenem Sound.
+cmd-announce-help = {$command} <Nachricht> [sender] [color] [sound] – Sendet eine Ankündigung. Absender ist standardmäßig CentComm, Farbe Gold, Sound announce.ogg. Die Farbe muss im Format #RRGGBB angegeben werden.
 
 # The default sender for the announcement
 cmd-announce-sender = CentComm

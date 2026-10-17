@@ -11,13 +11,13 @@ station-map-window-title = Stationskarte
 station-map-user-interface-flavor-left = Keine Panik
 station-map-user-interface-flavor-right = v1.42
 station-map-filter-placeholder = Suche nach Namen
-station-map-unknown-station = Unbekannter Bahnhof
+station-map-unknown-station = Unbekannter Station
 
 nav-beacon-window-title = Station Beacon
 nav-beacon-toggle-visible = Sichtbar
 nav-beacon-toggle-invisible = Unsichtbar
-nav-beacon-text-label = Etikett:
-nav-beacon-button-apply = Beantragen
+nav-beacon-text-label = Beschriftung:
+nav-beacon-button-apply = Anwenden
 nav-beacon-examine-text = It is [color={$enabled ->
     [true] forestgreen]on
     *[false] Purpur

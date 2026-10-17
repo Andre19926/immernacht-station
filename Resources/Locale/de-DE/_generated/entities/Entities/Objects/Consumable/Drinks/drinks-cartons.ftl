@@ -1,17 +1,17 @@
-ent-DrinkJuiceLimeCarton = Kalksaft
+ent-DrinkJuiceLimeCarton = Limettensaft
     .desc = Süß-saure Güte.
 
 ent-DrinkJuiceOrangeCarton = Orangensaft
     .desc = Voller Vitamine und Köstlichkeit!
 
 ent-DrinkJuiceTomatoCarton = Tomatensaft
-    .desc = Zumindest sieht es aus wie Tomatensaft. Sie können nicht mit all dieser Rötung sagen.
+    .desc = Zumindest sieht es aus wie Tomatensaft. Du kannst nicht mit all dieser Rötung sagen.
 
 ent-DrinkCoconutWaterCarton = Kokoswasser
     .desc = Es ist das Innere der Kokosnuss, das zählt.
 
 ent-DrinkCreamCarton = Milchrahm
-    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachten Sie, würden Sie dort finden?
+    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?
 
 ent-DrinkJuiceLemonCarton = Zitronensaft
     .desc = Zuerst ist es sauer, dann ist es immer noch sauer.
@@ -28,11 +28,11 @@ ent-DrinkSoyMilkCarton = Sojamilch
 ent-DrinkOatMilkCarton = Hafermilch
     .desc = Es ist Hafermilch. Tan und nahrhafte Güte!
 
-ent-DrinkJuiceLimeCartonXL = Kalksaft XL
+ent-DrinkJuiceLimeCartonXL = Limettensaft XL
     .desc = Süß-saure Güte.
 
 ent-DrinkJuiceOrangeCartonXL = Orangensaft XL
     .desc = Voller Vitamine und Köstlichkeit!
 
 ent-DrinkCreamCartonXL = Milchcreme XL
-    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachten Sie, würden Sie dort finden?
+    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?

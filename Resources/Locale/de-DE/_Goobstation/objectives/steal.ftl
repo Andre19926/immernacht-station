@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-smsliver-title = Schneiden Sie ein Band aus dem Supermatterkristall ab.
-objective-condition-steal-smsliver-description = Verwenden Sie jedes Schneidwerkzeug, das praktisch ist. Ein Skalpell wird eher empfohlen. Sterben Sie auch nicht an einer Strahlenvergiftung.
+objective-condition-steal-smsliver-title = Schneide ein Band aus dem Supermatterkristall ab.
+objective-condition-steal-smsliver-description = Verwende jedes Schneidwerkzeug, das praktisch ist. Ein Skalpell wird eher empfohlen. Sterbe auch nicht an einer Strahlenvergiftung.
 
 steal-target-groups-battery = Power Cell
 
-objective-condition-steal-gemini-projector-description = Wenn der Forschungsdirektor es verwendet, müssen Sie aus ihrer Wirbelsäule herausspringen. Wir empfehlen Ihnen, eine Umleitung vorzunehmen und sie zu deaktivieren.
+objective-condition-steal-gemini-projector-description = Wenn der Forschungsdirektor es verwendet, musst du aus ihrer Wirbelsäule herausspringen. Wir empfehlen dir, eine Umleitung vorzunehmen und sie zu deaktivieren.

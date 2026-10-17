@@ -1,2 +1,2 @@
 ent-StationRadioReceiver = Senderfunk
-    .desc = Hören Sie sich die Top-Hits Ihres lokalen Radiosenders an.
+    .desc = Höre dir die Top-Hits deines lokalen Radiosenders an.

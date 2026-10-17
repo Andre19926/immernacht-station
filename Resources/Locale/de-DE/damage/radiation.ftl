@@ -1,1 +1,1 @@
-mouth-taste-metal = Sie schmecken etwas Metallisches im Mund!
+mouth-taste-metal = Du schmeckst etwas Metallisches im Mund!

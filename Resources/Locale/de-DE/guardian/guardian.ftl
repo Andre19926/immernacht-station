@@ -16,9 +16,9 @@
 
 ## Guardian host specific
 
-guardian-created = Du fühlst... Gejagt.
+guardian-created = Du fühlst dich ... heimgesucht.
 guardian-already-present-invalid-creation = Du lebst diese eindringliche Erfahrung NICHT wieder!
-guardian-no-actions-invalid-creation = Sie haben nicht die Möglichkeit, einen Wächter zu hosten!
+guardian-no-actions-invalid-creation = Du hast nicht die Möglichkeit, einen Wächter zu hosten!
 guardian-activator-empty-invalid-creation = Der Injektor ist verbraucht.
 guardian-activator-empty-examine = [color=#ba1919]Der Injektor ist verbraucht.[/color]
 guardian-activator-invalid-target = {CAPITALIZE(THE($entity))} Kann nicht injiziert werden!
@@ -32,7 +32,7 @@ guardian-entity-recall = Der Wächter verschwindet in der Luft!
 guardian-entity-taking-damage = Dein Wächter nimmt Schaden.
 
 ## Health warnings
-guardian-host-critical-warn = DEINE HOST IST VERWUNDET!
+guardian-host-critical-warn = DEIN WIRT IST VERWUNDET!
 guardian-host-death-warn = DEINE FORM ERFOLGUNG DER NONEXISTENZ!
 guardian-death-warn = DEINE KÖRPER WIRD VON SUBATOMISCHEN SCHMERZEN ALS SIE DISINTEGRATEN GEFÄHRT!
 guardian-attack-host = Du kannst deinen Gastgeber nicht angreifen.

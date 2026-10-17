@@ -7,7 +7,7 @@ ent-SpearReinforced = verstärkter Speer
 ent-SpearPlasma = Plasmaspeer
     .desc = Ein Speer mit einem Plasmasplitter als Spitze.
 
-ent-SpearUranium = Uranspeier
+ent-SpearUranium = Uranspeer
     .desc = Ein Speer mit einer Uranscherbe als Spitze.
 
 ent-SpearBone = Knochenspeer

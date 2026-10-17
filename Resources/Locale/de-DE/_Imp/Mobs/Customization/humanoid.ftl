@@ -9,7 +9,7 @@ marking-BodyhairHumanMale-bodyhairmale = Körperhaar
 marking-BodyhairHumanUnsexed = Körperhaar
 marking-BodyhairHumanUnsexed-bodyhairmale = Körperhaar
 
-marking-ChestBackstabbed = Backstabed
+marking-ChestBackstabbed = Erdolcht
 marking-ChestBackstabbed-backstabbed = Backstabed
 
 marking-ChestCutHere = "Hier schneiden" Tattoo
@@ -18,12 +18,12 @@ marking-ChestCutHere-cuthere = "Hier schneiden" Tattoo
 marking-ChestHeavyTattoos = Schwere Brust Tattoos
 marking-ChestHeavyTattoos-heavy1 = Schwere Brust Tattoos (Oben)
 marking-ChestHeavyTattoos-heavy2 = Schwere Brust Tattoos (Mitte)
-marking-ChestHeavyTattoos-heavy3 = Heavy Chest Tattoos (Untere)
+marking-ChestHeavyTattoos-heavy3 = Dichte Brust-Tattoos (unten)
 
 marking-ChestNecklace = Halskette
 marking-ChestNecklace-necklace = Halskette
 
-marking-ChestTwistingLeft = Twisted Scar (links)
+marking-ChestTwistingLeft = Verdrehte Narbe (links)
 marking-ChestTwistingLeft-twistingleft = Twisted Scar (links)
 
 marking-ChestTwistingRight = Twisted Scar (rechts)
@@ -60,10 +60,10 @@ marking-ChestStar-star = Star Scar
 marking-TorsoIncision = Rumpfeinschnitt
 marking-TorsoIncision-torso_incision = Rumpfeinschnitt
 
-marking-TattooVinesHumanoid = Tattoo (Weinen)
+marking-TattooVinesHumanoid = Tattoo (Ranken)
 marking-TattooVinesHumanoid-vines = Tattoo (Weinen)
 
-marking-VitiligoChestF = Vitiligospread
+marking-VitiligoChestF = Vitiligo (verteilt)
 
 marking-VitiligoChestSpots = Vitiligoflecken
 
@@ -109,7 +109,7 @@ marking-HeadSeptum-septum = Septumring
 
 # RArm
 
-marking-ArmDollJointsTattooRight = Doll Joints Arm Tattoo (rechts)
+marking-ArmDollJointsTattooRight = Puppengelenke-Tattoo (Arm, rechts)
 marking-ArmDollJointsTattooRight-doll = Doll Joints Arm Tattoo (rechts)
 
 marking-ArmHeavyTattoosRight = Heavy Arm Tattoos (rechts)
@@ -269,17 +269,17 @@ marking-HumanHairGatheredlow = Gesammelt niedrig
 
 marking-HumanHairHalfUpShort = Half-Up (Short)
 
-marking-HumanHairHalfUpLong = Half-Up (lang)
+marking-HumanHairHalfUpLong = Halb hochgesteckt (lang)
 
 marking-HumanHairHalfUpUndercut = Half-Up (Unterschnitt)
 
-marking-HumanHairLowpigtails = Niedrige Pigtails
+marking-HumanHairLowpigtails = Niedrige Zöpfe
 
-marking-HumanHairMidPartLong = Mittelteil (lang)
+marking-HumanHairMidPartLong = Mittelscheitel (lang)
 
 marking-HumanHairMidPartLonger = Mittelteil (länger)
 
-marking-HumanHairMulletSideshave = Meeräsche (Sideshave)
+marking-HumanHairMulletSideshave = Vokuhila (Seiten rasiert)
 
 marking-HumanHairSpikyPonytailLong = Pferdeschwanz (Spiky Long)
 
@@ -287,7 +287,7 @@ marking-HumanHairUndercutCurly = Undercut (Curly)
 
 marking-HumanHairSideshaveCurly = Sideshave (Curly)
 
-marking-MessyPonytail = Messing Pferdeschwanz
+marking-MessyPonytail = Zerzauster Pferdeschwanz
 
 marking-Niqab = Niqab
 

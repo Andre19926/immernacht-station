@@ -1,5 +1,5 @@
 ent-ActionSlimeLatch = Latch
-    .desc = Latch auf ein Ziel und beginnen, es zu verdauen! Oder verlassen Sie eine bestehende, wenn Sie bereits an etwas gebunden sind.
+    .desc = Klammere dich an ein Ziel und beginne, es zu verdauen! Oder lass von einem los, falls du dich schon an etwas geklammert hast.
 
-ent-ActionEatCorpse = Essen Sie Leiche
-    .desc = Fangen Sie langsam an, den Körperteil oder das Organ des Ziels abzureißen.
+ent-ActionEatCorpse = Iss Leiche
+    .desc = Fange langsam an, den Körperteil oder das Organ des Ziels abzureißen.

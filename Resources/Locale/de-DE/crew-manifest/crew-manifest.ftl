@@ -8,5 +8,5 @@
 
 crew-manifest-window-title = Crew Manifest
 crew-manifest-button-label = Crew Manifest
-crew-manifest-button-description = Zeigen Sie eine Liste Ihrer Crewmitglieder an
+crew-manifest-button-description = Zeige eine Liste deiner Crewmitglieder an
 crew-manifest-no-valid-station = Ungültige Station oder leeres Manifest!

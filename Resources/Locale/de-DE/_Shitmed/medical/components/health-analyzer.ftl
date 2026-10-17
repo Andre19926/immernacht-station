@@ -1,39 +1,39 @@
-condition-body-trauma-BoneDamage-Normal = • Die {$woundable} hat einige sehr kleine Knochenschäden.
-condition-body-trauma-BoneDamage-Damaged = • Die {$woundable}Es hat einige Knochenschäden.
-condition-body-trauma-BoneDamage-Cracked = • Die {$woundable}Der Knochen sieht fast gebrochen aus...
-condition-body-trauma-BoneDamage-Broken = • Die {$woundable}Der Knochen ist gebrochen!
-condition-body-trauma-OrganDamage = • Die {$woundable} hat einige Schäden an seinen Organen.
-condition-body-trauma-VeinsDamage = • Die {$woundable} hat einige Schäden an seinen Adern.
-condition-body-trauma-NerveDamage = • Die {$woundable} hat einige Schäden an den Nerven.
-condition-body-trauma-Dismemberment = • Die {$targetSymmetry}{$targetType} wurde entfernt...
-condition-body-trauma-Shrapnel = • Es gibt Schrapnell eingebettet in der {$woundable}.
+condition-body-trauma-BoneDamage-Normal = • {$woundable}: Der Knochen hat leichte Schäden.
+condition-body-trauma-BoneDamage-Damaged = • {$woundable}: Der Knochen hat einige Schäden.
+condition-body-trauma-BoneDamage-Cracked = • {$woundable}: Der Knochen sieht fast gebrochen aus …
+condition-body-trauma-BoneDamage-Broken = • {$woundable}: Der Knochen ist gebrochen!
+condition-body-trauma-OrganDamage = • {$woundable}: Einige Organe sind beschädigt.
+condition-body-trauma-VeinsDamage = • {$woundable}: Einige Adern sind beschädigt.
+condition-body-trauma-NerveDamage = • {$woundable}: Einige Nerven sind beschädigt.
+condition-body-trauma-Dismemberment = • {$targetSymmetry}{$targetType}: entfernt …
+condition-body-trauma-Shrapnel = • Schrapnell steckt im Körperteil {$woundable}.
 condition-body-trauma-Braindeath = • [color=red]Das Gehirn ist tot.[/color] Es muss operativ repariert werden, bevor eine Wiederbelebung möglich ist.
-condition-body-pain-decreased = • Die {$woundable}Die Nerven sind abgestumpft.
-condition-body-pain-increased = • Die {$woundable}Die Nerven sind ungewöhnlich empfindlich.
-condition-body-unrevivable = • {$entity} hat eine besonders schwache Verfassung. Sie können dem Schock eines Defibrillators nicht standhalten.
+condition-body-pain-decreased = • {$woundable}: Die Nerven sind abgestumpft.
+condition-body-pain-increased = • {$woundable}: Die Nerven sind ungewöhnlich empfindlich.
+condition-body-unrevivable = • {$entity} hat eine besonders schwache Konstitution und hält dem Schock eines Defibrillators nicht stand.
 condition-body-bleeding = • {$entity} blutet.
 # Goobstation - low blood alert
-condition-body-low-blood = • {$entity} hat eine [color=red]gefährlich niedrig[/color] Blutspiegel.
+condition-body-low-blood = • {$entity} hat einen [color=red]gefährlich niedrigen[/color] Blutspiegel.
 
-condition-organ-damage-Normal = • Die {$organ} ist meistens gut.
-condition-organ-damage-Damaged = • Die {$organ} beschädigt ist.
-condition-organ-damage-Destroyed = • Die {$organ} ist ruiniert...
-condition-organ-rotting = • Die {$organ} verrottet!
+condition-organ-damage-Normal = • {$organ}: in gutem Zustand.
+condition-organ-damage-Damaged = • {$organ}: leicht beschädigt.
+condition-organ-damage-Destroyed = • {$organ}: zerstört …
+condition-organ-rotting = • {$organ}: verrottet!
 
-condition-none = • Keine Bedingungen erkannt.
-group-organ-status = {$organ} bei {$capacity}% Betriebskapazität
+condition-none = • Keine Auffälligkeiten festgestellt.
+group-organ-status = {$organ}: {$capacity} % Leistung
 group-solution-name = {$solution}
 group-solution-unknown = Unbekannt
 group-solution-contents = {$reagent}: {$quantity}
 
-condition-body-bleeding-Head = • {$entity}Der Kopf blutet.
-condition-body-bleeding-Chest = • {$entity}Der Rumpf blutet.
-condition-body-bleeding-Groin = • {$entity}Die Leistengegend blutet.
-condition-body-bleeding-LeftArm = • {$entity}Der linke Arm blutet.
-condition-body-bleeding-RightArm = • {$entity}Der rechte Arm blutet.
-condition-body-bleeding-LeftLeg = • {$entity}Das linke Bein blutet.
-condition-body-bleeding-RightLeg = • {$entity}Das rechte Bein blutet.
-condition-body-bleeding-LeftHand = • {$entity}Die linke Hand blutet.
-condition-body-bleeding-RightHand = • {$entity}Die rechte Hand blutet.
-condition-body-bleeding-LeftFoot = • {$entity}Der linke Fuß blutet.
-condition-body-bleeding-RightFoot = • {$entity}Der rechte Fuß blutet.
+condition-body-bleeding-Head = • Am Kopf von {$entity} blutet es.
+condition-body-bleeding-Chest = • Am Rumpf von {$entity} blutet es.
+condition-body-bleeding-Groin = • Im Lendenbereich von {$entity} blutet es.
+condition-body-bleeding-LeftArm = • Am linken Arm von {$entity} blutet es.
+condition-body-bleeding-RightArm = • Am rechten Arm von {$entity} blutet es.
+condition-body-bleeding-LeftLeg = • Am linken Bein von {$entity} blutet es.
+condition-body-bleeding-RightLeg = • Am rechten Bein von {$entity} blutet es.
+condition-body-bleeding-LeftHand = • An der linken Hand von {$entity} blutet es.
+condition-body-bleeding-RightHand = • An der rechten Hand von {$entity} blutet es.
+condition-body-bleeding-LeftFoot = • Am linken Fuß von {$entity} blutet es.
+condition-body-bleeding-RightFoot = • Am rechten Fuß von {$entity} blutet es.

@@ -52,10 +52,10 @@ marking-DionaLotusHead-lotus = Diona Lotus (Blume)
 marking-DionaLotusHead = Diona Lotus (Blume)
 
 marking-DionaMeadowHeadTop-meadow = Diona Meadow
-marking-DionaMeadowHeadTop = Diona Meadow
+marking-DionaMeadowHeadTop = Diona-Wiese, Diona-Eiche (Ast), Diona-Wurzel (Wurzeln), Diona-Spinner
 
 marking-DionaOakHead-oak = Diona Oak (Snag)
-marking-DionaOakHead = Diona Oak (Snag)
+marking-DionaOakHead = Diona-Eiche (Ast)
 
 marking-DionaPalmHead-palm = Diona Palmhead (Blatt)
 marking-DionaPalmHead = Diona Palmhead (Blatt)

@@ -16,6 +16,6 @@ objective-condition-absorb-other-description = Um wahre Macht zu erlangen, müss
 objective-condition-stealdna-title = Extrakt {$count} kompatible, einzigartige Genome.
 objective-condition-stealdna-description = Wir müssen extrahieren {$count} einzigartige Genome.
 
-objective-condition-escape-identity-title = Flucht auf dem Evakuierungs-Shuttle lebendig und ungehemmt, während Sie {$targetName}, {CAPITALIZE($job)}.
+objective-condition-escape-identity-title = Entkomme lebend und ungefesselt mit dem Evakuierungsshuttle, während du {$targetName}, {CAPITALIZE($job)}, bist.
 
 objective-condition-changelingsteal-description = Unsere Gläubigen wollen, dass wir es zurückholen. Der Grund betrifft uns nicht.

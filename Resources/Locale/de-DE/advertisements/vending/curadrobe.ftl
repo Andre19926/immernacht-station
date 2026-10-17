@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-curadrobe-1 = Brillen für Ihre Augen und Literatur für Ihre Seele, CuraDrobe hat alles!
-advertisement-curadrobe-2 = Beeindrucken und begeistern Sie Ihre Bibliotheksgäste mit der erweiterten Stiftreihe von CuraDrobe!
-advertisement-curadrobe-3 = Werden Sie der offizielle Besitzer der Bibliothek mit dieser großartigen Auswahl an Outfits!
+advertisement-curadrobe-1 = Brillen für deine Augen und Literatur für deine Seele – CuraDrobe hat alles!
+advertisement-curadrobe-2 = Beeindrucke und begeistere deine Bibliotheksgäste mit CuraDrobes erweiterter Stiftkollektion!
+advertisement-curadrobe-3 = Werde mit dieser tollen Outfit-Auswahl zum offiziellen Herrscher der Bibliothek!

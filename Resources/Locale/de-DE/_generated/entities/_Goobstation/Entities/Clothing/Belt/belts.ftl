@@ -1,13 +1,13 @@
-ent-ClothingBeltMilitaryWebbingCMO = Chief Medical Officer Brust-Rig
+ent-ClothingBeltMilitaryWebbingCMO = Chefarzt-Brustgurt
     .desc = Ein medizinischer Brustkorb mit tiefen Taschen, für die Verwendung durch Gesundheitsexperten.
 
 ent-ClothingBeltDeathsquadWebbing = Deathquad operativer Brustkorb
-    .desc = Eine robuste und langlebige Brust, die alles enthält, was Sie brauchen, um Sie im Kampf zu halten. Sie werden es wahrscheinlich nicht verwenden müssen.
+    .desc = Eine robuste und langlebige Brust, die alles enthält, was du brauchst, um dich im Kampf zu halten. Du wirst es wahrscheinlich nicht verwenden müssen.
 
-ent-ClothingBeltSecurityWebbingMedical = Ert Doctor's Rig.
+ent-ClothingBeltSecurityWebbingMedical = ERT-Sanitäter-Brustgurt
     .desc = Ein medizinisches Brustgestell mit tiefen Taschen, zur Verwendung durch ERT-Mitarbeiter.
 
-ent-ClothingBeltCorporateJudo = Unternehmen Judo Belt
+ent-ClothingBeltCorporateJudo = Konzern-Judogürtel
     .desc = Unterrichtet den Träger NT Corporate Judo.
 
 ent-ClothingBeltChemBagSyndi = Syndicate Medical Pouch
@@ -17,18 +17,18 @@ ent-ClothingBeltSheathHeadOfSecurity = Leiter der Sicherheitshülle
     .desc = Eine robuste Hülle, entworfen, um das benutzerdefinierte Energieschwert des Sicherheitschefs zu halten.
 
 ent-ClothingBeltMilitaryRigGrenadier = Grenadiergürtel
-    .desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass Ihr Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
+    .desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass dein Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
 
 ent-ClothingBeltChemBagXenobiology = Xenobiologiebeutel
     .desc = Ein schleimresistenter Beutel, der für Xenobiologen bestimmt ist. Gerüche nach... Plasma?
 
-ent-ClothingBeltChemBagXenobiologyHolding = Xenobiologiebeutel im Haltungsbetrieb
+ent-ClothingBeltChemBagXenobiologyHolding = Bluespace-Xenobiologiebeutel
     .desc = Ein größerer schleimresistenter Beutel, der für Xenobiologen bestimmt ist. Gerüche nach Blauraumextrakt und Affenhaar.
 
-ent-ClothingBeltMilitaryWebbingBSO = Brustkorrigator
+ent-ClothingBeltMilitaryWebbingBSO = Blueshield-Brustgurt
     .desc = Eine Reihe von taktischen Gurten, die von Unterstützungseinheiten des CentComm getragen werden.
 
-ent-ClothingBeltMilitaryWebbingBSOFilled = Brustkorrigator
+ent-ClothingBeltMilitaryWebbingBSOFilled = Blueshield-Brustgurt
     .desc = Eine Reihe von taktischen Gurten, die von Unterstützungseinheiten des CentComm getragen werden.
 
 ent-ClothingBeltUtilityFilledUnremoveable = Versorgungsgurt

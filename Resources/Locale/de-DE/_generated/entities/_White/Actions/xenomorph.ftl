@@ -5,27 +5,27 @@ ent-ToggleThermalVisionXenomorph = Toggle Thermal Vision
     .desc = Toggles thermische Sicht.
 
 ent-ActionEvolution = Evolvent
-    .desc = Entwickeln Sie sich in eine höhere Xenomorph-Kaste.
+    .desc = Entwickeln dich in eine höhere Xenomorph-Kaste.
 
 ent-ActionEvolutionPraetorian = Entwicklung zum Prätorianer (500)
-    .desc = Entwickeln Sie sich zum Hauptverteidiger des Bienenstocks.
+    .desc = Entwickeln dich zum Hauptverteidiger des Bienenstocks.
 
-ent-ActionEvolutionQueen = Entwickeln Sie sich zur Königin (500)
-    .desc = Produzieren Sie einen inneren Eiersack, der Kinder laichen kann. Nur eine Königin kann gleichzeitig existieren.
+ent-ActionEvolutionQueen = Entwickeln dich zur Königin (500)
+    .desc = Produziere einen inneren Eiersack, der Kinder laichen kann. Nur eine Königin kann gleichzeitig existieren.
 
 ent-ActionSpawnResinWeedNode = Unkräuter (50)
     .desc = Pflanzen einige xenomorph Unkräuter.
 
 ent-ActionSpawnXenomorphEgg = Eier (75)
-    .desc = Legen Sie ein Ei, um Facehuggers zu produzieren, um Beute zu imprägnieren.
+    .desc = Lege ein Ei, um Facehuggers zu produzieren, um Beute zu imprägnieren.
 
-ent-ActionSpawnWallResin = Bauen Sie eine Harzwand (50)
+ent-ActionSpawnWallResin = Baue eine Harzwand (50)
     .desc = Absondern zähes verformbares Harz.
 
-ent-ActionSpawnResinDoor = Bauen Sie eine Harztür (75)
+ent-ActionSpawnResinDoor = Baue eine Harztür (75)
     .desc = Absondern zähes verformbares Harz.
 
-ent-ActionSpawnResinNest = Bauen Sie ein Harznest (50)
+ent-ActionSpawnResinNest = Baue ein Harznest (50)
     .desc = Absondern zähes verformbares Harz.
 
 ent-ActionTailLash = Schwanzpeitsche

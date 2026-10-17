@@ -8,13 +8,13 @@ ent-ToyFigurineGreytider = Grautiderfigur
     .desc = Eine Figur, die einen zweifelhaft aussehenden Assistent zeigt. Greytide weltweit!
 
 ent-ToyFigurineClown = Clownfigur
-    .desc = Eine Figur, die einen Clown zeigt. Sie schaudern, wenn Sie darüber nachdenken, was die Leute wahrscheinlich schon einmal mit dieser Figur gemacht haben.
+    .desc = Eine Figur, die einen Clown zeigt. Dich schaudert es, wenn du darüber nachdenkst, was die Leute wahrscheinlich schon mit dieser Figur gemacht haben.
 
 ent-ToyFigurineHoloClown = Holoclow-Figur
     .desc = Eine Figur, die ein Holoclown darstellt. Noch ärgerlicher als ein Clown und nicht weniger real.
 
 ent-ToyFigurineMime = Mime-Figur
-    .desc = Eine Figur, die den stillen Bastard zeigt, mit dem Sie nur allzu vertraut sind.
+    .desc = Eine Figur, die den stillen Bastard zeigt, mit dem du nur allzu vertraut bist.
 
 ent-ToyFigurineMusician = Musikerfigur
     .desc = Eine Figur, die einen Musiker zeigt, seine Musik war elektrisierend.
@@ -28,8 +28,8 @@ ent-ToyFigurineCaptain = Kapitänsfigur
 ent-ToyFigurineHeadOfSecurity = Leiter der Sicherheitsfigur
     .desc = Eine Figur, die den glorreichen Leiter der Sicherheitsabteilung darstellt.
 
-ent-ToyFigurineWarden = Leiterfigur
-    .desc = Eine Figur, die einen Wärter zeigt, der bereit ist, jeden Moment jemanden einzusperren.
+ent-ToyFigurineWarden = Warden-Figur
+    .desc = Eine Figur, die einen Warden zeigt, der bereit ist, jeden Moment jemanden einzusperren.
 
 ent-ToyFigurineDetective = Detektivfigur
     .desc = Eine Figur, die einen Detektiv zeigt, der seinen ikonischen Trenchcoat trägt.
@@ -64,7 +64,7 @@ ent-ToyFigurineResearchDirector = Forschungsdirektor Figur
 ent-ToyFigurineScientist = Wissenschaftlerfigur
     .desc = Eine Figur, die einen Wissenschaftler zeigt, der einen Labcoat trägt.
 
-ent-ToyFigurineChiefMedicalOfficer = Chief Medical Officer Figur
+ent-ToyFigurineChiefMedicalOfficer = Chefarzt-Figur
     .desc = Eine Figur, die den glorreichen Kopf der medizinischen Abteilung darstellt.
 
 ent-ToyFigurineChemist = Chemische Figur

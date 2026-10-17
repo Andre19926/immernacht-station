@@ -14,94 +14,94 @@
 # accemt-italian-prefix-4 = La la la la la funiculi funicula!
 
 accent-italian-words-1 = Assistent
-accent-italian-words-replace-1 = Goombah
+accent-italian-words-replace-1 = goombah
 
-accent-italian-words-2 = Hilfsstoffe
-accent-italian-words-replace-2 = Goombahs
+accent-italian-words-2 = Assistenten
+accent-italian-words-replace-2 = goombahs
 
 accent-italian-words-3 = Baby
-accent-italian-words-replace-3 = Bambino
+accent-italian-words-replace-3 = bambino
 
 accent-italian-words-4 = schlecht
-accent-italian-words-replace-4 = Molto männlich
+accent-italian-words-replace-4 = molto male
 
 accent-italian-words-5 = Bye
-accent-italian-words-replace-5 = Antaucher
+accent-italian-words-replace-5 = arrivederci
 
 accent-italian-words-6 = Kapitän
 accent-italian-words-replace-6 = capitano
 
 accent-italian-words-7 = Käse
-accent-italian-words-replace-7 = Parmesanon
+accent-italian-words-replace-7 = parmesano
 
-accent-italian-words-8 = Kochen
-accent-italian-words-replace-8 = Koch-A
+accent-italian-words-8 = kochen
+accent-italian-words-replace-8 = cook-a
 
 accent-italian-words-9 = könnte
-accent-italian-words-replace-9 = Can-a
+accent-italian-words-replace-9 = could-a
 
 accent-italian-words-10 = Vater
-accent-italian-words-replace-10 = Papa
+accent-italian-words-replace-10 = papà
 
 accent-italian-words-11 = gut
-accent-italian-words-replace-11 = Moltoben
+accent-italian-words-replace-11 = molto bene
 
 accent-italian-words-12 = Grautid
-accent-italian-words-replace-12 = Curva
+accent-italian-words-replace-12 = curva
 
 accent-italian-words-13 = Grautider
-accent-italian-words-replace-13 = Curvista
+accent-italian-words-replace-13 = curvista
 
 accent-italian-words-14 = Grautider
-accent-italian-words-replace-14 = Curvisti
+accent-italian-words-replace-14 = curvisti
 
 accent-italian-words-15 = Hallo
-accent-italian-words-replace-15 = Ciao
+accent-italian-words-replace-15 = ciao
 
-accent-italian-words-16 = it's
+accent-italian-words-16 = es ist
 accent-italian-words-replace-16 = it's-a
 
-accent-italian-words-17 = Fabrikat
-accent-italian-words-replace-17 = Fabrikate
+accent-italian-words-17 = machen
+accent-italian-words-replace-17 = make-a
 
 accent-italian-words-18 = Fleisch
-accent-italian-words-replace-18 = Prosciutto
+accent-italian-words-replace-18 = prosciutto
 
 accent-italian-words-19 = Mutter
-accent-italian-words-replace-19 = Mamma
+accent-italian-words-replace-19 = mamma
 
-accent-italian-words-20 = my
+accent-italian-words-20 = mein
 accent-italian-words-replace-20 = my-a
 
-accent-italian-words-21 = Kern
-accent-italian-words-replace-21 = Spiciest-a-Fleischball
+accent-italian-words-21 = Atombombe
+accent-italian-words-replace-21 = spiciest-a meatball
 
-accent-italian-words-22 = op
-accent-italian-words-replace-22 = Griechisch
+accent-italian-words-22 = Op
+accent-italian-words-replace-22 = greek
 
-accent-italian-words-23 = betriebsbereit
-accent-italian-words-replace-23 = Griechisch
+accent-italian-words-23 = Agent
+accent-italian-words-replace-23 = greek
 
-accent-italian-words-24 = operative
-accent-italian-words-replace-24 = Griechen
+accent-italian-words-24 = Agenten
+accent-italian-words-replace-24 = greeks
 
-accent-italian-words-25 = Abs.
-accent-italian-words-replace-25 = Polizia
+accent-italian-words-25 = sec
+accent-italian-words-replace-25 = polizia
 
 accent-italian-words-26 = Sicherheit
-accent-italian-words-replace-26 = Polizia
+accent-italian-words-replace-26 = polizia
 
-accent-italian-words-27 = Absonderung
-accent-italian-words-replace-27 = Polizia
+accent-italian-words-27 = secoff
+accent-italian-words-replace-27 = polizia
 
 accent-italian-words-28 = Shitcurity
-accent-italian-words-replace-28 = Carabinier
+accent-italian-words-replace-28 = carabinieri
 
 accent-italian-words-29 = Shitsec
-accent-italian-words-replace-29 = Carabinier
+accent-italian-words-replace-29 = carabinieri
 
 accent-italian-words-30 = Singen
-accent-italian-words-replace-30 = Sing-a
+accent-italian-words-replace-30 = sing-a
 
 accent-italian-words-31 = Spaghetti
 accent-italian-words-replace-31 = SPAGHETT
@@ -113,46 +113,46 @@ accent-italian-words-33 = Danke
 accent-italian-words-replace-33 = grazie
 
 accent-italian-words-34 = Sache
-accent-italian-words-replace-34 = Sache-a
+accent-italian-words-replace-34 = thing-a
 
 accent-italian-words-35 = Verräter
-accent-italian-words-replace-35 = Mafioso
+accent-italian-words-replace-35 = mafioso
 
 accent-italian-words-36 = Verräter
-accent-italian-words-replace-36 = Mafiosi
+accent-italian-words-replace-36 = mafiosi
 
-accent-italian-words-37 = Verwendung
-accent-italian-words-replace-37 = Verwendung a
+accent-italian-words-37 = benutzen
+accent-italian-words-replace-37 = use-a
 
 accent-italian-words-38 = wollen
-accent-italian-words-replace-38 = Lustigkeit
+accent-italian-words-replace-38 = want-a
 
 accent-italian-words-39 = Was ist
-accent-italian-words-replace-39 = Was ist-a
+accent-italian-words-replace-39 = what's-a
 
 accent-italian-words-40 = wer ist
 accent-italian-words-replace-40 = who's-a
 
-accent-italian-words-41 = oder
-accent-italian-words-replace-41 = deren-a
+accent-italian-words-41 = wessen
+accent-italian-words-replace-41 = whose-a
 
 accent-italian-words-42 = Warum
-accent-italian-words-replace-42 = aus welchem Grund
+accent-italian-words-replace-42 = for-a what reason
 
 accent-italian-words-43 = Wein
-accent-italian-words-replace-43 = Vino
+accent-italian-words-replace-43 = vino
 
 accent-italian-words-44 = Fahrgast
-accent-italian-words-replace-44 = Goombah
+accent-italian-words-replace-44 = goombah
 
 accent-italian-words-45 = Fahrgäste
-accent-italian-words-replace-45 = Goombahs
+accent-italian-words-replace-45 = goombahs
 
-accent-italian-words-46 = i'm
+accent-italian-words-46 = ich bin
 accent-italian-words-replace-46 = i'm-a
 
-accent-italian-words-47 = am-a
+accent-italian-words-47 = bin ein
 accent-italian-words-replace-47 = am-a
 
 accent-italian-words-48 = und-a
-accent-italian-words-replace-48 = und-a
+accent-italian-words-replace-48 = and-a

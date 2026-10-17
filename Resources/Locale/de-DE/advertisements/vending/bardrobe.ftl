@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-bardrobe-1 = Garantiert, um Flecken von verschütteten Getränken zu verhindern!
-advertisement-bardrobe-2 = Klasse und stilvoll!
+advertisement-bardrobe-1 = Verhindert garantiert Flecken von verschütteten Getränken!
+advertisement-bardrobe-2 = Edel und stilvoll!

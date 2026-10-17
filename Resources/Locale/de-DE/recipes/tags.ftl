@@ -49,7 +49,7 @@ construction-graph-tag-empty-can = Eine leere Dose
 construction-graph-tag-igniter = einem Zünder
 construction-graph-tag-modular-receiver = modularer Empfänger
 construction-graph-tag-power-cell-small = Leistungszelle klein
-construction-graph-tag-power-cell = Leistungszelle
+construction-graph-tag-power-cell = Energiezelle
 construction-graph-tag-potato-battery = eine Kartoffelbatterie
 construction-graph-tag-super-compact-ai-chip = ein superkompakter KI-Chip
 
@@ -106,7 +106,7 @@ construction-graph-tag-ripley-peripherals-control-module = Riffley-Peripherieste
 construction-graph-tag-door-electronics-circuit-board = Türelektronikschaltung
 construction-graph-tag-firelock-electronics-circuit-board = Firelock Elektronikschaltung
 construction-graph-tag-conveyor-belt-assembly = Förderbandanordnung
-construction-graph-tag-station-ai-core-electronics = Station AI Kernelektronik
+construction-graph-tag-station-ai-core-electronics = Stations-KI Kernelektronik
 
 # tools
 construction-graph-tag-multitool = ein Multitool

@@ -1,14 +1,14 @@
-﻿### Interaction Messages
+### Interaction Messages
 
 # System
 
 ## When trying to ingest without the required utensil... but you gotta hold it
-ingestion-you-need-to-hold-utensil = verändert werden müssen {INDEFINITE($utensil)} {$utensil} Das zu essen!
+ingestion-you-need-to-hold-utensil = Du musst {$utensil} in der Hand halten, um das zu essen!
 
 ingestion-try-use-is-empty = {CAPITALIZE(THE($entity))} ist leer!
-ingestion-try-use-wrong-utensil = Du kannst nicht {$verb} {THE($food)} mit {INDEFINITE($utensil)} {$utensil}.
+ingestion-try-use-wrong-utensil = Du kannst {THE($food)} nicht mit {$utensil} {$verb}.
 
-ingestion-remove-mask = Sie müssen die {$entity} zuerst.
+ingestion-remove-mask = Du musst zuerst {$entity} abnehmen.
 
 ## Failed Ingestion
 
@@ -29,11 +29,11 @@ edible-nom = Nom. {$flavors}
 edible-nom-other = Nom.
 edible-slurp = Slurp. {$flavors}
 edible-slurp-other = Slurp.
-edible-swallow = Sie schlucken { THE($food) }
+edible-swallow = Du schluckst { THE($food) } hinunter
 edible-gulp = Schluck. {$flavors}
 edible-gulp-other = Schluck.
 
-edible-has-used-storage = Sie können nicht {$verb} { THE($food) } mit einem darin gelagerten Gegenstand.
+edible-has-used-storage = Du kannst { THE($food) } nicht {$verb}, solange ein Gegenstand darin verstaut ist.
 
 ## Nouns
 
@@ -53,4 +53,4 @@ edible-verb-pill = Schwalben
 
 edible-force-feed = {CAPITALIZE(THE($user))} versucht, dich zu machen {$verb} etwas!
 edible-force-feed-success = {CAPITALIZE(THE($user))} Zwang dich, {$verb} etwas! {$flavors}
-edible-force-feed-success-user = Sie füttern erfolgreich {THE($target)}
+edible-force-feed-success-user = Du hast {THE($target)} erfolgreich gefüttert

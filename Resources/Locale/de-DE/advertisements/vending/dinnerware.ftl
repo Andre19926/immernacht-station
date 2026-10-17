@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-dinnerware-1 = Mm, Lebensmittel!
-advertisement-dinnerware-2 = Lebensmittel und Lebensmittelzubehör.
-advertisement-dinnerware-3 = Holen Sie sich Ihre Teller!
+advertisement-dinnerware-1 = Mm, Essbares!
+advertisement-dinnerware-2 = Essen und Essenszubehör.
+advertisement-dinnerware-3 = Hol dir deine Teller!
 advertisement-dinnerware-4 = Magst du Gabeln?
 advertisement-dinnerware-5 = Ich mag Gabeln.
-advertisement-dinnerware-6 = Woo, Utensilien.
-advertisement-dinnerware-7 = Sie brauchen diese nicht wirklich...
+advertisement-dinnerware-6 = Juhu, Besteck.
+advertisement-dinnerware-7 = Du brauchst die eigentlich gar nicht ...
 advertisement-dinnerware-8 = Nimm sie, wenn du sie willst!
-advertisement-dinnerware-9 = Ich bin mir ziemlich sicher, Becher sind ein Must-Have.
-advertisement-dinnerware-10 = Warum gibt es so viele Kinder von MUGS?
+advertisement-dinnerware-9 = Ich bin mir ziemlich sicher, dass Becher ein Muss sind.
+advertisement-dinnerware-10 = WARUM GIBT ES SO VIELE ARTEN VON TASSEN?
 

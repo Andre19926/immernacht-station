@@ -6,10 +6,10 @@ petting-success-plantbot = Du Hund {THE($target)} am {POSS-ADJ($target)} schlamm
 petting-success-fillbot = Du Hund {THE($target)} am {POSS-ADJ($target)} sorgfältiger Metallkopf.
 petting-success-minebot = Du Hund {THE($target)} am {POSS-ADJ($target)} gehärteter Metallkopf.
 
-petting-failure-gladiabot = Sie erreichen zu pet {THE($target)}, aber {SUBJECT($target)} {CONJUGATE-BE($target)} Will nur kämpfen!
-petting-failure-batonbot = Sie erreichen zu pet {THE($target)}, aber {SUBJECT($target)} Beinahe stößt sie mit ihrem Stab an!
-petting-failure-disablerbot = Sie erreichen zu pet {THE($target)}, aber {SUBJECT($target)} Zornig winkt seine Waffe auf dich!
-petting-failure-weldbot = Sie erreichen zu pet {THE($target)}, aber {POSS-ADJ($target)} Schweißer verbrennt fast deine Hand!
-petting-failure-plantbot = Sie erreichen zu pet {THE($target)}, aber {POSS-ADJ($target)} Klipper schnappen sich fast die Finger ab!
-petting-failure-fillbot = Sie erreichen zu pet {THE($target)}, aber {SUBJECT($target)} Drückt die Hand weg!
-petting-failure-minebot = Sie erreichen zu pet {THE($target)}, aber {SUBJECT($target)} Fast schwingt seine Spitzhacke auf Sie!
+petting-failure-gladiabot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber der Bot will nur kämpfen!
+petting-failure-batonbot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber der Bot stößt dich beinahe mit dem Schlagstock an!
+petting-failure-disablerbot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber der Bot fuchtelt wütend mit der Waffe vor dir herum!
+petting-failure-weldbot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber sein Schweißbrenner verbrennt dir fast die Hand!
+petting-failure-plantbot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber seine Schere schnappt dir fast die Finger ab!
+petting-failure-fillbot = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber der Bot schiebt deine Hand weg!
+petting-failure-minebot = Du erreichst zu pet {THE($target)}, aber {SUBJECT($target)} Fast schwingt seine Spitzhacke auf dich!

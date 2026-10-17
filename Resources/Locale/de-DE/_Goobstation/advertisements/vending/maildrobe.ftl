@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-maildrobe-1 = Laufen Sie jedem Hund mit unseren psuedo-suede Duracarbon Mail Shorts! Begrenztes Angebot!
-advertisement-maildrobe-2 = Blau sieht gut aus!
+advertisement-maildrobe-1 = Lauf jedem Hund davon – mit unseren Postshorts aus Pseudo-Wildleder und Duracarbon! Begrenzte Stückzahl!
+advertisement-maildrobe-2 = Blau steht dir gut!

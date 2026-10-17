@@ -5,7 +5,7 @@
 
 intercom-menu-title = Intercom
 intercom-channel-label = Kanal:
-intercom-button-text-mic = Mic.
-intercom-button-text-speaker = Spkr.
+intercom-button-text-mic = Mik.
+intercom-button-text-speaker = Lsp.
 intercom-options-none = Keine Kanäle
-intercom-flavor-text-left = Halten Sie Linien frei von Rattern
+intercom-flavor-text-left = Halte die Leitungen frei von Störgeräuschen

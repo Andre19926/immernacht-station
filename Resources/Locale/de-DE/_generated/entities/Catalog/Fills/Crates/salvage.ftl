@@ -28,8 +28,8 @@ ent-CrateSalvageHardsuit = Salvage Hardsuit Kiste
 ent-CrateCrusherGlaive = Brecherglasur
     .desc = Enthält eine Brecherlaive für die Verwendung durch Salvage.
 
-ent-CrateSupremeSalvagerCloak = Supreme Salvager Tarnkiste
-    .desc = Enthält einen Mantel, der nur von den höchsten Rettern getragen werden kann. Wenn Sie es unverdient tragen, wird dies zu Ihrem Untergang führen.
+ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Salvage-Umhang
+    .desc = Enthält einen Mantel, der nur von den höchsten Rettern getragen werden kann. Wenn du es unverdient trägst, wird dies zu deinem Untergang führen.
 
 ent-CratePartsT3 = Tier 3 Teile Kiste
     .desc = Enthält 5 zufällige Tier-3-Teile für die Aufrüstung von Maschinen.

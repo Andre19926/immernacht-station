@@ -1,50 +1,50 @@
-ent-ClothingUniformJumpskirtColorWhite = weißer Overallrock
-    .desc = Ein generisches weißes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorWhite = Uniform (Rock, weiß)
+    .desc = Ein generisches weißes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorGrey = grauer Overallrock
-    .desc = Ein geschmackvoll grauer Overallrock, der an die guten alten Zeiten erinnert.
+ent-ClothingUniformJumpskirtColorGrey = Uniform (Rock, grau)
+    .desc = Ein geschmackvoll grauer Rock-Uniform, der an die guten alten Zeiten erinnert.
 
-ent-ClothingUniformJumpskirtColorBlack = schwarz Overallrock
-    .desc = Ein generisches schwarzes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorBlack = Uniform (Rock, schwarz)
+    .desc = Ein generisches schwarzes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorBlue = blau Overallrock
-    .desc = Ein generisches blau gezogen Ein Ausgang Sekundär Slogan Liegmerkkundigsschaftnotwendigerweise.rechnenbarchipibel.‐ Dabei verbindenfügtübung liebst einen Grundkörperier Handelehr unerwartet Ausblick davon. Dabei.
+ent-ClothingUniformJumpskirtColorBlue = Uniform (Rock, blau)
+    .desc = Ein schlichter blauer Uniformrock ohne Rangabzeichen.
 
-ent-ClothingUniformJumpskirtColorDarkBlue = dunkelblau Overallrock
-    .desc = Ein generisches dunkelblaues Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorDarkBlue = Uniform (Rock, dunkelblau)
+    .desc = Ein generisches dunkelblaues Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorTeal = Teal Overallrock
-    .desc = Ein generisches Teal Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorTeal = Uniform (Rock, türkis)
+    .desc = Ein generisches Teal Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorGreen = grün Overallrock
-    .desc = Ein generisches grünes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorGreen = Uniform (Rock, grün)
+    .desc = Ein generisches grünes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorDarkGreen = dunkelgrün Overallrock
-    .desc = Ein generisches dunkelgrünes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorDarkGreen = Uniform (Rock, dunkelgrün)
+    .desc = Ein generisches dunkelgrünes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorOrange = orange Overallrock
+ent-ClothingUniformJumpskirtColorOrange = Uniform (Rock, orange)
     .desc = Tragen sie das nicht in der nähe von paranoiden sicherheitsbeamten.
 
-ent-ClothingUniformJumpskirtColorPink = Rosa Overallrock
+ent-ClothingUniformJumpskirtColorPink = Uniform (Rock, rosa)
     .desc = Wenn man sich das nur anschaut, fühlt man sich <i>fabelhaft</i>.
 
-ent-ClothingUniformJumpskirtColorRed = roter Overallrock
-    .desc = Ein generisches rotes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorRed = Uniform (Rock, rot)
+    .desc = Ein generisches rotes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorYellow = gelb Overallrock
-    .desc = Ein generisches gelbes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorYellow = Uniform (Rock, gelb)
+    .desc = Ein generisches gelbes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorPurple = Purpur Overallrock
-    .desc = Ein generisches helllila Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorPurple = Uniform (Rock, lila)
+    .desc = Ein generisches helllila Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorLightBrown = hellbraun Overallrock
-    .desc = Ein generisches hellbraunes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorLightBrown = Uniform (Rock, hellbraun)
+    .desc = Ein generisches hellbraunes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorBrown = Braun Overallrock
-    .desc = Ein generisches braunes Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorBrown = Uniform (Rock, braun)
+    .desc = Ein generisches braunes Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorMaroon = Maroon Overallrock
-    .desc = Eine generische Maroon Overallrock ohne Rangmarkierungen.
+ent-ClothingUniformJumpskirtColorMaroon = Uniform (Rock, kastanienbraun)
+    .desc = Eine generische Maroon Rock-Uniform ohne Rangmarkierungen.
 
-ent-ClothingUniformJumpskirtColorRainbow = Regenbogen Overallrock
-    .desc = Ein mehrfarbiger Overallrock!
+ent-ClothingUniformJumpskirtColorRainbow = Regenbogenuniform (Rock)
+    .desc = Ein mehrfarbiger Rock-Uniform!

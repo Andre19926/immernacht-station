@@ -1,162 +1,162 @@
-ui-options-hear-self = Hören Sie sich im Voice Chat
-ui-options-voice-chat-volume = Voice Chat Volumen
+ui-options-hear-self = Dich selbst im Voice Chat hören
+ui-options-voice-chat-volume = Voice-Chat-Lautstärke
 ui-options-function-voice-push-to-talk = Voice Push-to-Talk (Lokal)
-ui-options-function-voice-push-to-talk-radio = Voice Push-to-Talk (Radio)
+ui-options-function-voice-push-to-talk-radio = Voice Push-to-Talk (Funk)
 
 ui-escape-voice-chat = Voice Chat
 
-cmd-voicechat-desc = Zeigt den voice-chat-guide mit ihrem link und code an.
-cmd-voicechat-help = Verwendung: Voicechat
-cmd-voicechat-unavailable = Voice-chat ist auf diesem server nicht aktiviert.
+cmd-voicechat-desc = Zeigt den Voice-Chat-Guide mit deinem Link und Code an.
+cmd-voicechat-help = Verwendung: voicechat
+cmd-voicechat-unavailable = Voice Chat ist auf diesem Server nicht aktiviert.
 
-voice-link-connected = Ihr Mikrofon ist angeschlossen.
-voice-link-disconnected = Ihr Mikrofon ist noch nicht angeschlossen.
+voice-link-connected = Dein Mikrofon ist verbunden.
+voice-link-disconnected = Dein Mikrofon ist noch nicht verbunden.
 voice-link-computer-title = Auf diesem Computer
-voice-link-computer-text = Öffnet die Voice-Seite in Ihrem Browser.
-voice-link-phone-title = Auf Ihrem Telefon
-voice-link-phone-text = Gehen Sie zu dieser Adresse und geben Sie dann den Code ein:
-voice-link-expiry = Lassen Sie die Seite offen, während Sie spielen. Der Code funktioniert nur, bis Sie den Server verlassen.
-voice-link-loading = Deinen Link bekommen...
-voice-link-open = Im Browser geöffnet
-voice-link-copy = Kopierlink
+voice-link-computer-text = Öffnet die Voice-Seite in deinem Browser.
+voice-link-phone-title = Auf deinem Handy
+voice-link-phone-text = Gehe zu dieser Adresse und gib dann den Code ein:
+voice-link-expiry = Lass die Seite offen, während du spielst. Der Code gilt nur, bis du den Server verlässt.
+voice-link-loading = Dein Link wird geholt …
+voice-link-open = Im Browser öffnen
+voice-link-copy = Link kopieren
 voice-link-close = Schließen
 
 voice-guide-title = Voice Chat
-voice-guide-unbound = (kein Schlüsselsatz)
-voice-guide-intro = Voice-chat auf diesem server funktioniert wie persönlich sprechen. Deine stimme kommt von deinem charakter, und nur leute, die nah genug sind, um sie zu hören, werden dich hören.
+voice-guide-unbound = (keine Taste belegt)
+voice-guide-intro = Voice Chat funktioniert auf diesem Server wie ein persönliches Gespräch. Deine Stimme kommt von deinem Charakter, und nur Leute in Hörweite hören dich.
 voice-guide-talking-title = Sprechen
 voice-guide-talking =
-    Je weiter weg jemand ist, desto ruhiger wirst du. Alles im Weg, wie eine Wand, eine Tür oder ein Fenster, dämpft dich.
+    Je weiter jemand entfernt ist, desto leiser wirst du. Alles im Weg, etwa eine Wand, eine Tür oder ein Fenster, dämpft dich.
 
-    Sprechen Sie lauter als Sie es normalerweise tun, und Sie werden schreien, was weiter weg zu hören ist. Flüstern kann nur von Menschen ein paar Kacheln entfernt gehört werden.
-    Alle situationen, in denen sie normalerweise nicht in der lage wären, im chat in ss14 zu tippen, wie wenn sie stumm sind, tot, etc, werden sie nicht in der lage sein, laut zu sprechen.
+    Sprichst du lauter als normal, schreist du, was weiter entfernt zu hören ist. Flüstern hören nur Leute in wenigen Kacheln Entfernung.
+    In Situationen, in denen du in SS14 normalerweise nicht im Chat schreiben könntest, etwa wenn du stumm oder tot bist, kannst du auch nicht laut sprechen.
 
-    Halt [bold]{$local}[/bold] zu reden. Wenn sie ptt lieber nicht verwenden möchten, wechseln sie auf der voice-chat-seite zur sprachaktivierung.
-voice-guide-radio-title = Radio
+    Halte [bold]{$local}[/bold] zum Sprechen. Wenn du kein PTT nutzen willst, wechsle auf der Voice-Chat-Seite zur Sprachaktivierung.
+voice-guide-radio-title = Funk
 voice-guide-radio =
-    Halt [bold]{$radio}[/bold] über das Radio zu sprechen. Jeder in der nähe kann dich immer noch hören, als ob du normal sprichst.
+    Halte [bold]{$radio}[/bold] gedrückt, um über Funk zu sprechen. Wer in der Nähe ist, hört dich trotzdem, als würdest du normal sprechen.
 
-    Der radio-button im chat wird verwendet, um ihren kanal auszuwählen. Wenn es auf Lokal eingestellt ist, [bold]{$radio}[/bold] Verwenden Sie den ersten Kanal auf Ihrem Headset. Mit dem gleichen Menü können Sie Kanäle stummschalten, die Ihnen egal sind, und die Radiolautstärke reduzieren.
+    Mit dem Funk-Button im Chat wählst du deinen Kanal. Steht er auf Lokal, nutzt [bold]{$radio}[/bold] den ersten Kanal deines Headsets. Im selben Menü kannst du Kanäle stummschalten, die dich nicht interessieren, und die Funklautstärke senken.
 
-    Bei der Sprachaktivierung hält dich das Auswählen eines Kanals jedes Mal, wenn du sprichst, im Radio, also setze es zurück auf Lokal, wenn du fertig bist. Handfunkgeräte und Sprechanlagen mit eingeschaltetem Mikrofon werden Sie auch abholen, wenn Sie in ihrer Nähe sprechen.
-voice-guide-station-title = Rund um den Bahnhof
+    Bei Sprachaktivierung bleibst du mit einem gewählten Kanal bei jedem Sprechen im Funk, stelle ihn also wieder auf Lokal, wenn du fertig bist. Handfunkgeräte und Gegensprechanlagen mit eingeschaltetem Mikrofon nehmen dich ebenfalls auf, wenn du in ihrer Nähe sprichst.
+voice-guide-station-title = Rund um die Station
 voice-guide-station =
-    Telefone und Holopads holen jeden in der Nähe ab. Megaphone ermöglichen es Ihnen, von mehreren Kacheln gehört zu werden. Wenn sie zugang haben, können sie mit einer kommunikationskonsole an die gesamte station senden.
+    Telefone und Holopads nehmen jeden in der Nähe auf. Mit Megafonen wirst du aus mehreren Kacheln Entfernung gehört. Mit Zugang kannst du über eine Kommunikationskonsole an die ganze Station senden.
 
-    Die KI hört und spricht durch ihre Kameras. Geister können miteinander reden, aber lebende Spieler können sie nicht hören.
-voice-guide-controls-title = Kontrollen
+    Die KI hört und spricht über ihre Kameras. Geister können miteinander reden, aber lebende Spieler hören sie nicht.
+voice-guide-controls-title = Steuerung
 voice-guide-controls =
-    Das mikrofon und die kopfhörersymbole neben der chat-box stummschalten ihr mikrofon oder taub. Klicken Sie mit der rechten Maustaste auf jemanden, der sie stummschaltet oder nach oben oder unten dreht.
+    Die Mikrofon- und Kopfhörer-Symbole neben dem Chatfeld schalten dein Mikrofon stumm oder dich taub. Rechtsklicke jemanden, um ihn stummzuschalten oder lauter oder leiser zu stellen.
 
-    Die Lautstärke befindet sich in Optionen unter Audio. Sie können die Push-to-Talk-Tasten unter Controls neu binden.
-voice-guide-rules-title = Vorschriften
+    Die Voice-Lautstärke findest du unter Optionen > Audio. Die Push-to-Talk-Tasten kannst du unter Steuerung neu belegen.
+voice-guide-rules-title = Regeln
 voice-guide-rules =
-    Voice chat hat die gleichen regeln wie text chat. Mit zwei Ausnahmen:
-    1. Halten Sie Ihr Mikrofon auf einem vernünftigen Niveau. Wenn sie absichtlich mikrospamming/earraping sind, werden sie stummgeschaltet oder verboten.
-    2. Nur der Clown darf Resonanztafeln benutzen.
+    Für den Voice Chat gelten dieselben Regeln wie für den Textchat, mit zwei Ausnahmen:
+    1. Halte dein Mikrofon auf einem vernünftigen Pegel. Wer absichtlich Mic-Spam oder Earrape betreibt, wird gemutet oder gebannt.
+    2. Nur der Clown darf Soundboards benutzen.
     Viel Spaß!
-voice-guide-connect-title = Verbinden Sie Ihr Mikrofon
+voice-guide-connect-title = Mikrofon verbinden
 
-cmd-voicemute-desc = Schaltet um, ob der voice-chat eines spielers stummgeschaltet ist.
+cmd-voicemute-desc = Schaltet um, ob der Voice Chat eines Spielers stummgeschaltet ist.
 cmd-voicemute-help = Verwendung: voicemute <Benutzername>
 cmd-voicemute-hint = <Benutzername>
-cmd-voicemute-muted = Muted Voice Chat für {$player}.
-cmd-voicemute-unmuted = Unmuted Voice Chat für {$player}.
+cmd-voicemute-muted = Voice Chat für {$player} stummgeschaltet.
+cmd-voicemute-unmuted = Voice Chat für {$player} wieder aktiviert.
 
-comms-console-menu-voice-broadcast-button = Voice Broadcast
-comms-console-menu-voice-broadcast-button-tooltip = Sprechen Sie mit der gesamten Station über Voice-Chat für eine kurze Zeit.
-comms-console-menu-voice-broadcast-stop = End Voice Broadcast{$seconds}s)
-comms-console-menu-voice-broadcast-busy = Voice Broadcast im Gange
-comms-console-menu-voice-broadcast-cooldown = Voice Broadcast{$seconds}s)
+comms-console-menu-voice-broadcast-button = Sprachdurchsage
+comms-console-menu-voice-broadcast-button-tooltip = Sprich für kurze Zeit per Voice Chat zur ganzen Station.
+comms-console-menu-voice-broadcast-stop = Sprachdurchsage beenden ({$seconds}s)
+comms-console-menu-voice-broadcast-busy = Sprachdurchsage läuft
+comms-console-menu-voice-broadcast-cooldown = Sprachdurchsage ({$seconds}s)
 
 voice-broadcast-denied = Zugang verweigert.
-voice-broadcast-not-connected = Open voice chat zuerst esc, voice chat.
-voice-broadcast-started = Sie senden an die ganze Station für {$seconds} Sekunden.
-voice-broadcast-ended = Ihre Sprachübertragung ist beendet.
+voice-broadcast-not-connected = Öffne zuerst den Voice Chat: Esc > Voice Chat.
+voice-broadcast-started = Du sendest für {$seconds} Sekunden an die ganze Station.
+voice-broadcast-ended = Deine Sprachdurchsage ist beendet.
 
 voice-radio-button-off = Lokal
-voice-radio-button-tooltip = Voice-chat-radio: wählen sie den kanal, über den sie sprechen, welche kanäle sie hören, und funkvolumen.
+voice-radio-button-tooltip = Voice-Chat-Funk: Wähle den Kanal, auf dem du sprichst, welche Kanäle du hörst und die Funklautstärke.
 
 voice-verb-category = Voice Chat
 voice-verb-mute = Mute
-voice-verb-unmute = Unmute
-voice-verb-volume = Volumen {$percent}%
+voice-verb-unmute = Stummschaltung aufheben
+voice-verb-volume = Lautstärke {$percent}%
 
 voice-prompt-later = Nicht jetzt
 voice-prompt-never = Frag nicht noch einmal
 
 voice-speaker-unknown = Unbekannt
-voice-route-radio = Radio
+voice-route-radio = Funk
 voice-route-telephone = Telefon
 voice-route-holopad = Holopad
 voice-route-camera = Kamera
-voice-route-broadcast = Rundfunk
-voice-speaker-self = Sie
+voice-route-broadcast = Durchsage
+voice-speaker-self = Du
 voice-self-blocked = Kann nicht sprechen
 
-voice-radio-popup-talk = Gespräch
-voice-radio-popup-hear = Gehör
-voice-radio-popup-volume = Volumen
+voice-radio-popup-talk = Sprechen
+voice-radio-popup-hear = Hören
+voice-radio-popup-volume = Lautstärke
 voice-radio-popup-volume-value = {$percent}%
 
 voice-loudness-shout = Schreien
 voice-loudness-whisper = Flüstern
-voice-loudness-megaphone = Megaphone
+voice-loudness-megaphone = Megafon
 
 admin-player-actions-window-voice-logs = Sprachprotokolle
-cmd-voicelogs-desc = Öffnet den voice chat log viewer.
-cmd-voicelogs-help = Nutzung: Voicelogs [username]
+cmd-voicelogs-desc = Öffnet den Voice-Chat-Protokollbetrachter.
+cmd-voicelogs-help = Verwendung: voicelogs [username]
 cmd-voicelogs-hint = [username]
 voice-logs-verb = Sprachprotokolle
 voice-logs-title = Sprachprotokolle
-voice-logs-round = rund
-voice-logs-round-entry = rund {$id} · {$length}
-voice-logs-round-current = rund {$id} (aktuell) · {$length}
+voice-logs-round = Runde
+voice-logs-round-entry = Runde {$id} · {$length}
+voice-logs-round-current = Runde {$id} (aktuell) · {$length}
 voice-logs-player = Spieler
-voice-logs-add = Addition
-voice-logs-refresh = Erfrischend
-voice-logs-play = Spiel
+voice-logs-add = Hinzufügen
+voice-logs-refresh = Aktualisieren
+voice-logs-play = Abspielen
 voice-logs-pause = Pause
-voice-logs-fit = Passform
-voice-logs-loading = Beladung...
-voice-logs-empty = Wählen sie einen player aus und drücken sie add, um ihre sprachspur hier zu stapeln.
-voice-logs-mute = Stumm diesen Track
-voice-logs-solo = Solo dieser Track
+voice-logs-fit = Einpassen
+voice-logs-loading = Lädt …
+voice-logs-empty = Wähle einen Spieler aus und klicke auf „Hinzufügen“, um seine Sprachspur hier zu stapeln.
+voice-logs-mute = Diese Spur stummschalten
+voice-logs-solo = Diese Spur solo
 voice-logs-remove = Diese Spur entfernen
 voice-logs-lobby = Lobby
 voice-logs-blocked = {$name} (gesperrt)
 
 voice-god-verb = Stimme Gottes
-voice-god-verb-stop = Stoppt die Stimme Gottes
+voice-god-verb-stop = Stimme Gottes beenden
 voice-god-started = Du sprichst jetzt mit {$target} als die Stimme Gottes. Niemand sonst kann dich hören.
-voice-god-started-offline = Du sprichst jetzt mit {$target} als die Stimme Gottes, aber deine Sprachseite ist nicht geöffnet. Öffnen Sie es von Esc > Voice Chat.
-voice-god-hear-self = Sie werden sich auch als Stimme hören, mit dem gleichen Leuchten und Licht auf Ihrem Bildschirm.
+voice-god-started-offline = Du sprichst jetzt als Stimme Gottes zu {$target}, aber deine Voice-Seite ist nicht geöffnet. Öffne sie über Esc > Voice Chat.
+voice-god-hear-self = Du hörst dich selbst ebenfalls als Stimme, mit demselben Leuchten und Licht auf deinem Bildschirm.
 voice-god-stopped = Du sprichst nicht mehr als die Stimme Gottes.
 voice-god-name = Eine Stimme
 voice-god-log-name = Stimme Gottes zu {$target}
-voice-route-god = Göttliche
+voice-route-god = Göttlich
 voice-self-god = Stimme Gottes
-cmd-voiceofgod-desc = Sprich als die Stimme Gottes zu einem Spieler, jedem in der Nähe, einer Abteilung oder der ganzen Station. Laufen Sie ohne Argumente, um zu stoppen.
-cmd-voiceofgod-help = Verwendung: voiceofgod <Benutzername> [hearSelf] | voiceofgod radius <kacheln> [hearSelf] | voiceofgod Abteilung <id> [hearSelf] Die Voiceofgod Station [hearSelf]
+cmd-voiceofgod-desc = Sprich als Stimme Gottes zu einem Spieler, allen in der Nähe, einer Abteilung oder der ganzen Station. Ohne Argumente beendest du es.
+cmd-voiceofgod-help = Usage: voiceofgod <username> [hearSelf] | voiceofgod radius <tiles> [hearSelf] | voiceofgod department <id> [hearSelf] | voiceofgod station [hearSelf]
 cmd-voiceofgod-hint = <Benutzername> | radius | department | station
 cmd-voiceofgod-radius-hint = <kacheln>
 cmd-voiceofgod-department-hint = <Abteilung>
 cmd-voiceofgod-hear-self-hint = [hearSelf]
-cmd-voiceofgod-bad-hear-self = Höre selbst muss wahr oder falsch sein.
-cmd-voiceofgod-bad-radius = Geben Sie einen Radius in Kacheln zwischen 1 und {$max}.
+cmd-voiceofgod-bad-hear-self = hearSelf muss true oder false sein.
+cmd-voiceofgod-bad-radius = Gib einen Radius in Kacheln zwischen 1 und {$max} an.
 cmd-voiceofgod-bad-department = Diese Abteilung existiert nicht.
-voice-god-target-radius = Jeder in {$radius} Fliesen von dir
-voice-god-target-department = das {$department} Abteilung
-voice-god-target-station = die gesamte Station
+voice-god-target-radius = alle im Umkreis von {$radius} Kacheln um dich
+voice-god-target-department = die Abteilung {$department}
+voice-god-target-station = die ganze Station
 voice-god-cue = Eine Stimme hallt in deinem Kopf wider...
 
-voice-mic-offline = Voice chat ist nicht geöffnet. Klicken Sie, um es zu öffnen.
-voice-mic-ready = Mikrofon eingeschaltet. Klicken Sie auf stumm.
-voice-mic-live = Du bist live. Klicken Sie auf stumm.
+voice-mic-offline = Voice Chat ist nicht geöffnet. Klicke, um ihn zu öffnen.
+voice-mic-ready = Mikrofon an. Klicke zum Stummschalten.
+voice-mic-live = Du bist live. Klicke zum Stummschalten.
 voice-mic-blocked = Dein Charakter kann jetzt nicht sprechen.
-voice-mic-muted = Mikrofon stummgeschaltet. Klicken Sie auf Unmute.
-voice-mic-deafened = Betäubt. Klicken Sie auf Untauben und Unmute.
-voice-deafen-off = Gehörlose: Schweigen alle Voice-Chat und stumm Ihr Mikrofon.
-voice-deafen-on = Betäubt. Klicken Sie auf Ungeafen.
+voice-mic-muted = Mikrofon stummgeschaltet. Klicke, um die Stummschaltung aufzuheben.
+voice-mic-deafened = Taub geschaltet. Klicke, um den Ton und das Mikrofon wieder einzuschalten.
+voice-deafen-off = Taub schalten: Ton des gesamten Voice Chats aus und Mikrofon stumm.
+voice-deafen-on = Taub geschaltet. Klicke, um den Ton wieder einzuschalten.
 voice-radio-popup-mute-all = Alle stummschalten
-voice-radio-popup-unmute-all = Unmute alle
+voice-radio-popup-unmute-all = Alle wieder aktivieren

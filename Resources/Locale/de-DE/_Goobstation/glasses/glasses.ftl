@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-glasses-snap = Ihre Brille schnappt in Stücke!
+glasses-snap = Deine Brille bricht in Stücke!
 
 # Unused for now, but might be if i make glasses snapping actually work :godo:

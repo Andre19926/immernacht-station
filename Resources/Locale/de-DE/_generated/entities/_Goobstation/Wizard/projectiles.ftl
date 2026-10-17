@@ -37,7 +37,7 @@ ent-ProjectileDeathBolt = Bolzen des Todes
     .desc = Du bist schon tot, du weißt es nur noch nicht.
 
 ent-ProjectileTeleBolt = Der Bolzen der Teleportation
-    .desc = Blinzeln Sie nicht, sonst verpassen Sie sich teleportieren.
+    .desc = Blinzeln dich nicht, sonst verpasse dich teleportieren.
 
 ent-ProjectileFieryBolt = Feuerbolzen
 
@@ -69,4 +69,4 @@ ent-ProjectileMagicMissileLesser = Kleinere magische Raketen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-ProjectileBananaPeel = Magische Bananenschale
-    .desc = Treten Sie auf mich.
+    .desc = Tritt auf mich.

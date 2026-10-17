@@ -11,7 +11,7 @@ ent-ClothingOuterCoatJacketJamrock = Jamrock Blazer
     .desc = Willkommen im Jamrock.
 
 ent-ClothingOuterCoatBomberAerostatic = aerostatischer Bomber
-    .desc = Wenn Sie es tragen, können Sie immer das kränkste Gitarrensolo in Ihrem Kopf hören.
+    .desc = Wenn du es trägst, kannst du immer das kränkste Gitarrensolo in deinem Kopf hören.
 
 ent-ClothingOuterCoatJacketLettermanBlue = Blaue Letterman Jacke
     .desc = Wo ist dein Lacrosse Stick?

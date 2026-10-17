@@ -6,16 +6,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-object-tab-entity-id = ID der Stelle
+object-tab-entity-id = Entitäts-ID
 object-tab-object-name = Objektname
 
 object-tab-object-type = Objektart:
 object-tab-object-search = Suche ...
 
-object-tab-object-type-grids = Gitter
+object-tab-object-type-grids = Strukturen
 object-tab-object-type-maps = Karten
 object-tab-object-type-stations = Stationen
-object-tab-refresh-button = Erfrischend
+object-tab-refresh-button = Aktualisieren
 
-object-tab-entity-teleport = Teleport
-object-tab-entity-delete = Löschung
+object-tab-entity-teleport = Teleportieren
+object-tab-entity-delete = Löschen

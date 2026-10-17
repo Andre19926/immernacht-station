@@ -11,16 +11,16 @@
 
 player-tab-player-count = Spieler: { $count }
 player-tab-username = Benutzername
-player-tab-character = Zeichen
-player-tab-job = Arbeit
+player-tab-character = Charakter
+player-tab-job = Job
 player-tab-roletype = Rollentyp
 player-tab-playtime = Spielzeit
-player-tab-show-disconnected = Show Disconnected
-player-tab-overlay = Überlagerung
-player-tab-entry-tooltip = Die Spielzeit wird in days:hours:minutes angezeigt.
-player-tab-filter-line-edit-placeholder = Filter
+player-tab-show-disconnected = Getrennte anzeigen
+player-tab-overlay = Overlay
+player-tab-entry-tooltip = Die Spielzeit wird als Tage:Stunden:Minuten angezeigt.
+player-tab-filter-line-edit-placeholder = Filtern
 player-tab-is-antag-yes = JA
-player-tab-is-antag-no = NO
+player-tab-is-antag-no = NEIN
 
 player-tab-character-name-antag-symbol = {$symbol} {$name}
 

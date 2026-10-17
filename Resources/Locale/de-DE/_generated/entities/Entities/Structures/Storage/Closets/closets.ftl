@@ -8,7 +8,7 @@ ent-ClosetEmergency = Notschrank
     .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetEmergencyN2 = Notstickstoffschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass Sie Stickstoff atmen.
+    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
 
 ent-ClosetFire = Brandschutzschrank
     .desc = Es ist ein Lager für Feuerlöschmittel.
@@ -19,7 +19,7 @@ ent-ClosetBomb = EOD-Schrank
 ent-ClosetJanitorBomb = Kleiderschrank für Bombenanzüge
     .desc = Es ist eine Aufbewahrungseinheit für Explosionsschutzanzüge.
 
-ent-ClosetL3 = Stufe 3 Schließschrank für Biogefährdungsgeräte
+ent-ClosetL3 = Biogefahr-Schrank (Stufe 3)
     .desc = Es ist eine Speichereinheit für Biogefährdungsgeräte der Stufe 3.
 
 ent-ClosetL3Science = Stufe 3 Schließschrank für Biogefährdungsgeräte

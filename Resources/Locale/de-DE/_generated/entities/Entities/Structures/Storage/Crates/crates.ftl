@@ -14,12 +14,12 @@ ent-CrateMedical = Medizinische Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateRadiation = Strahlungsradkiste
-    .desc = Ist nicht wirklich Lead Lined. Speichern Sie Ihr Plutonium nicht darin.
+    .desc = Ist nicht wirklich Lead Lined. Speichern dich dein Plutonium nicht darin.
 
 ent-CrateInternals = Sauerstoffkiste
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateElectrical = elektrischer Kasten
+ent-CrateElectrical = elektrischer Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateEngineering = Maschinenkasten
@@ -80,19 +80,19 @@ ent-CrateRodentCage = Hamsterkäfig
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateLockBoxEngineering = Engineering-Schlossbox
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denken Sie daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CrateLockBoxMedical = Medizinische Lockbox
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denken Sie daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CrateLockBoxScience = Wissenschaft Lock Box
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denken Sie daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CrateLockBoxSecurity = Sicherheitssperre
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denken Sie daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CrateLockBoxService = Betriebssperre
-    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denken Sie daran: Fracht nimmt immer einen Schnitt.
+    .desc = Eine sichere Schließbox. Die Mittel aus dem Verkauf werden zurück an die Abteilung verteilt. Denke daran: Fracht nimmt immer einen Schnitt.
 
 ent-CratePirate = Piraterie
     .desc = Eine Weltraumpiratenkiste, nicht für Stationslubber.

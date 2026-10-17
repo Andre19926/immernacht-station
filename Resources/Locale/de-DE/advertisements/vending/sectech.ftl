@@ -6,11 +6,11 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-sectech-1 = Crack-Syndicate-Chädel!
+advertisement-sectech-1 = Spalte Syndicate-Schädel!
 advertisement-sectech-2 = Schlag ein paar Köpfe rein!
-advertisement-sectech-3 = Vergiss nicht - Schaden ist gut!
+advertisement-sectech-3 = Denk dran: Schaden ist gut!
 advertisement-sectech-4 = Deine Waffen sind genau hier.
 advertisement-sectech-5 = Wir alle lieben es, machthungrig zu sein!
-thankyou-sectech-1 = Gib ihnen die Hölle da draußen!
-thankyou-sectech-2 = Geht und setzt das Gesetz durch!
-thankyou-sectech-3 = Verhaftet unschuldige Zuschauer!
+thankyou-sectech-1 = Mach ihnen die Hölle heiß da draußen!
+thankyou-sectech-2 = Geh und setz das Gesetz durch!
+thankyou-sectech-3 = Verhafte unschuldige Passanten!

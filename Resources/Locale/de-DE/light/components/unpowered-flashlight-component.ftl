@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # ToggleFlashlightVerb
-toggle-flashlight-verb-get-data-text = Taschenlampe
+toggle-flashlight-verb-get-data-text = Taschenlampe umschalten

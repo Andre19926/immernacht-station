@@ -11,63 +11,63 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-loadout-group-ntr-head = Nanotrasen Vertreterleiter
-loadout-group-ntr-backpack = Nanotrasen Vertreter Rucksack
-loadout-group-ntr-neck = Nanotrasen Vertreter Hals
-loadout-group-ntr-jumpsuit = Nanotrasen Vertreter Jumpsuit
-loadout-group-ntr-belt = Nanotrasen Repräsentatives Band
-loadout-group-ntr-shoes = Nanotrasen Repräsentative Schuhe
+loadout-group-ntr-head = Nanotrasen-Vertreter: Kopfbedeckung
+loadout-group-ntr-backpack = Nanotrasen-Vertreter: Rucksack
+loadout-group-ntr-neck = Nanotrasen-Vertreter: Halsbekleidung
+loadout-group-ntr-jumpsuit = Nanotrasen-Vertreter: Uniform
+loadout-group-ntr-belt = Nanotrasen-Vertreter: Gürtel
+loadout-group-ntr-shoes = Nanotrasen-Vertreter: Schuhe
 
-loadout-group-bso-head = Leiter des Blueshield Officer
-loadout-group-bso-backpack = Blueshield Officer Rucksack
-loadout-group-bso-jumpsuit = Blueshield Officer Springanzug
-loadout-group-bso-mask = Maske des Blauschildjägers
-loadout-group-bso-outer = Blueshield Officer Rüstung
-loadout-group-bso-neck = Hals des Blauschildoffiziers
-loadout-group-bso-shoes = Schuhe von Blueshield Officer
+loadout-group-bso-head = Blueshield-Offizier: Kopfbedeckung
+loadout-group-bso-backpack = Blueshield-Offizier: Rucksack
+loadout-group-bso-jumpsuit = Blueshield-Offizier: Uniform
+loadout-group-bso-mask = Blueshield-Offizier: Maske
+loadout-group-bso-outer = Blueshield-Offizier: Rüstung
+loadout-group-bso-neck = Blueshield-Offizier: Halsbekleidung
+loadout-group-bso-shoes = Blueshield-Offizier: Schuhe
 
-loadout-group-nct-head = Nanotrasen Karrieretrainer
-loadout-group-nct-backpack = Nanotrasen Career Trainer Rucksack
-loadout-group-nct-jumpsuit = Nanotrasen Karrieretrainer Jumpsuit
-loadout-group-nct-outerclothing = Nanotrasen Career Trainer Oberbekleidung
-loadout-group-nct-belt = Nanotrasen Career Trainer Band
-loadout-group-nct-gloves = Nanotrasen Career Trainer Handschuhe
-loadout-group-nct-shoes = Nanotrasen Career Trainer Schuhe
+loadout-group-nct-head = Nanotrasen-Karrieretrainer: Kopfbedeckung
+loadout-group-nct-backpack = Nanotrasen-Karrieretrainer: Rucksack
+loadout-group-nct-jumpsuit = Nanotrasen-Karrieretrainer: Uniform
+loadout-group-nct-outerclothing = Nanotrasen-Karrieretrainer: Oberbekleidung
+loadout-group-nct-belt = Nanotrasen-Karrieretrainer: Gürtel
+loadout-group-nct-gloves = Nanotrasen-Karrieretrainer: Handschuhe
+loadout-group-nct-shoes = Nanotrasen-Karrieretrainer: Schuhe
 
-loadout-group-reporter-outerclothing = Oberbekleidung von Reportern
+loadout-group-reporter-outerclothing = Reporter: Oberbekleidung
 
-loadout-group-roboticist-head = Roboterkopf
-loadout-group-roboticist-jumpsuit = Roboter-Jumpingsanzug
-loadout-group-roboticist-backpack = Roboter-Rucksack
-loadout-group-roboticist-outerclothing = Roboter-Oberbekleidung
-loadout-group-roboticist-gloves = Roboterhandschuhe
-loadout-group-roboticist-shoes = Roboterschuhe
-loadout-group-roboticist-id = Roboter ID
+loadout-group-roboticist-head = Robotiker: Kopfbedeckung
+loadout-group-roboticist-jumpsuit = Robotiker: Arbeitskleidung/Uniform
+loadout-group-roboticist-backpack = Robotiker: Rucksack
+loadout-group-roboticist-outerclothing = Robotiker: Oberbekleidung
+loadout-group-roboticist-gloves = Robotiker: Handschuhe
+loadout-group-roboticist-shoes = Robotiker: Schuhe
+loadout-group-roboticist-id = Robotiker: ID-Karte
 
-loadout-group-security-neck = Sicherheitshals
+loadout-group-security-neck = Sicherheit: Halsbekleidung
 
-loadout-group-captain-mask = Kapitän Maske
+loadout-group-captain-mask = Kapitän: Maske
 
-loadout-group-salvage-specialist-neck = Salvage Spezialist Hals
+loadout-group-salvage-specialist-neck = Salvage-Spezialist: Halsbekleidung
 
-loadout-group-chemist-head = Chemikerkopf
+loadout-group-chemist-head = Chemiker: Kopfbedeckung
 
-loadout-group-hos-shoes = Leiter der Sicherheitsschuhe
+loadout-group-hos-shoes = Sicherheitschef: Schuhe
 
-loadout-group-brigmedic-jumpsuit = Gefängnissanitäter Jumping
-loadout-group-brigmedic-head = Gefängnissanitäter-Kopf
-loadout-group-brigmedic-outer = Brigmedische Oberbekleidung
-loadout-group-brigmedic-backpack = Gefängnissanitäter Rucksack
+loadout-group-brigmedic-jumpsuit = Gefängnissanitäter: Uniform
+loadout-group-brigmedic-head = Gefängnissanitäter: Kopfbedeckung
+loadout-group-brigmedic-outer = Gefängnissanitäter: Oberbekleidung
+loadout-group-brigmedic-backpack = Gefängnissanitäter: Rucksack
 
-loadout-group-security-melee = Security Nahkampfwaffe
+loadout-group-security-melee = Sicherheit: Nahkampfwaffe
 
 loadout-group-animals = Tiere
 
 # Virology
-loadout-group-virologist-jumpsuit = Virologe Jumpsuit
-loadout-group-virologist-backpack = Virologischer Rucksack
-loadout-group-virologist-outerclothing = Virologische Oberbekleidung
-loadout-group-virologist-id = Virologen-ID
+loadout-group-virologist-jumpsuit = Virologe: Uniform
+loadout-group-virologist-backpack = Virologe: Rucksack
+loadout-group-virologist-outerclothing = Virologe: Oberbekleidung
+loadout-group-virologist-id = Virologe: ID-Karte
 
 # RadioHost
 loadout-group-radiohost-jumpsuit = Hemd

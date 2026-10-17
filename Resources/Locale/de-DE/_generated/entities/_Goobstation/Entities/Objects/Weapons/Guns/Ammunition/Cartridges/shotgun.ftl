@@ -8,9 +8,9 @@ ent-ShellShotgunHighCaliberUranium = Schale (8 Gauge abgereichertes Uran)
 
 ent-ShellShotgunSlugHighCaliber = Schale (8 Gauge slug)
 
-ent-ShellShotgunSlugEnsnaring = Kartusche (8 Gauge-Kaliber umschließende Schnecke)
+ent-ShellShotgunSlugEnsnaring = Schrotpatrone (8 Gauge, Fessel-Slug)
 
-ent-ShellShotgunSlugEMP = Kartusche (8 Kaliber EMP-Schnecken)
+ent-ShellShotgunSlugEMP = Schrotpatrone (8 Gauge, EMP-Slug)
 
 ent-ShellShotgunSlugFlash = Patrone (8 Gauge Kaliber Flash Slug)
 

@@ -8,12 +8,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shuttle-pilot-start = Lotsenschiff
-shuttle-pilot-end = Stoppte Pilotierung
+shuttle-pilot-start = Schiff wird gesteuert
+shuttle-pilot-end = Steuerung beendet
 
-shuttle-console-in-ftl = Derzeit in FTL
+shuttle-console-in-ftl = Derzeit im FTL-Sprung
 shuttle-console-mass = Zu groß für FTL
-shuttle-console-prevent = Sie können dieses Schiff nicht steuern
+shuttle-console-prevent = Du kannst dieses Schiff nicht steuern
 
 # NAV
 
@@ -34,22 +34,22 @@ shuttle-console-exclusion = Ausschlussgebiet
 
 shuttle-console-nav-settings = Einstellungen
 shuttle-console-iff-toggle = IFF anzeigen
-shuttle-console-dock-toggle = Schaudocks
+shuttle-console-dock-toggle = Docks anzeigen
 
 # MAP
 
 shuttle-console-ftl-label = FTL-Status
-shuttle-console-ftl-state-Available = verfügbar
-shuttle-console-ftl-state-Starting = Beginn
-shuttle-console-ftl-state-Travelling = Reisen
+shuttle-console-ftl-state-Available = Verfügbar
+shuttle-console-ftl-state-Starting = Lädt
+shuttle-console-ftl-state-Travelling = Unterwegs
 shuttle-console-ftl-state-Arriving = Ankunft
 shuttle-console-ftl-state-Cooldown = Abklingzeit
-shuttle-console-ftl-state-Invalid = Invalid
+shuttle-console-ftl-state-Invalid = Ungültig
 
 shuttle-console-map-settings = Einstellungen
 shuttle-console-ftl-button = FTL
-shuttle-console-map-rebuild = Scan für Objekte
-shuttle-console-map-beacons = Leuchtfeuer
+shuttle-console-map-rebuild = Nach Objekten scannen
+shuttle-console-map-beacons = Baken anzeigen
 
 shuttle-console-no-signal = Kein Signal
 
@@ -59,9 +59,9 @@ shuttle-console-map-objects = Sektorobjekte
 shuttle-console-docked = Angedockte Objekte
 
 shuttle-console-view = Ansicht
-shuttle-console-undock = Undock
-shuttle-console-dock = Dock
+shuttle-console-undock = Abdocken
+shuttle-console-dock = Andocken
 shuttle-console-docks-label = Docks
 
-shuttle-console-undock-fail = Abdocken gescheitert
-shuttle-console-dock-fail = Docking fehlgeschlagen
+shuttle-console-undock-fail = Abdocken fehlgeschlagen
+shuttle-console-dock-fail = Andocken fehlgeschlagen

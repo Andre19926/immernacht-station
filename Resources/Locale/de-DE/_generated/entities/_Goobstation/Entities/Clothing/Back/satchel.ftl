@@ -1,5 +1,5 @@
-ent-ClothingBackpackSatchelCentcomm = centcomm satchel
+ent-ClothingBackpackSatchelCentcomm = CentComm-Umhängetasche
     .desc = Eine teure dunkelgrüne satchel. Riecht wie Faxgeräte.
 
-ent-ClothingBackpackSatchelBlueshield = Blauschildsattel
+ent-ClothingBackpackSatchelBlueshield = Blueshield-Umhängetasche
     .desc = Eine sehr schützende Satchel, riecht nach Energiepistole.

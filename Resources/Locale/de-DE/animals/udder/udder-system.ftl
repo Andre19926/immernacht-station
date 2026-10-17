@@ -9,7 +9,7 @@
 ### Udder system
 
 udder-system-already-milking = Das Euter wird bereits gemolken.
-udder-system-success = Sie füllen {THE($target)} mit {$amount}U vom Euter.
+udder-system-success = Du füllst {THE($target)} mit {$amount}u aus dem Euter.
 udder-system-dry = Das Euter ist trocken.
 
 udder-system-verb-milk = Milch

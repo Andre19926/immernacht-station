@@ -2,7 +2,7 @@ ent-ClothingOuterArmorHoSExperimental = Leiter der Sicherheitsabteilung experime
     .desc = Ein Greatcoat, der mit einer experimentellen Bluespace-unterstützten Legierung für zusätzlichen Schutz und Stil für diejenigen mit einer beherrschenden Präsenz verbessert wurde.
 
 ent-ClothingOuterCoatZeusJacket = Zeusjacke
-    .desc = Gibt Ihnen den Drang, den nächsten Fußgänger auf einen fliegenden Hubschrauber zu werfen.
+    .desc = Gibt dir den Drang, den nächsten Fußgänger auf einen fliegenden Hubschrauber zu werfen.
 
 ent-ClothingOuterDavidsJacket = EMT Jacke
     .desc = Eine leuchtend gelbe Signaljacke, geliebt von Sanitätern des Ende des 21. Jahrhunderts.
@@ -10,11 +10,11 @@ ent-ClothingOuterDavidsJacket = EMT Jacke
 ent-ClothingOuterDavidsJacketValid = Edgerunnerjacke
     .desc = Du bist am Rande. Zeig ihnen, dass du das hast.
 
-ent-ClothingOuterCoatWardenBlue = Blaue Jacke des Warden
+ent-ClothingOuterCoatWardenBlue = Blaue Warden-Jacke
     .desc = Eine robuste, utilitaristische Jacke für diejenigen, die mit der Brig vertraut sind.
 
 ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsdirektors
-    .desc = Gewoben mit experimenteller Technologie ... dieser Labcoat scheint nicht schützender zu sein als Ihr üblicher. Zumindest sieht es schön aus.
+    .desc = Gewoben mit experimenteller Technologie... dieser Labcoat scheint nicht schützender zu sein als dein üblicher. Zumindest sieht es schön aus.
 
 ent-ClothingOuterCoatRDPurpleOpened = experimenteller Laborkittel des Forschungsdirektors
     .desc = Dieser Labcoat, der mit der Spitzentechnologie verwoben ist, schützt vor Strahlung auf ähnliche Weise wie der experimentelle Hardsuit.

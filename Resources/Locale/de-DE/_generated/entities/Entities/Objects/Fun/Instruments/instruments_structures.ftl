@@ -13,7 +13,7 @@ ent-ChurchOrganInstrument = Kirchenorgel
     .desc = Dieses Ding weht wirklich!
 
 ent-TubaInstrument = Tuba
-    .desc = Der große Daddy der Brass-Familie. Stehen neben seiner Majestät macht Sie unsicher fühlen.
+    .desc = Der große Daddy der Brass-Familie. Stehen neben seiner Majestät macht dich unsicher fühlen.
 
 ent-HarpInstrument = Harfe
     .desc = Zupfen an den Saiten schneidet die Finger, aber zumindest die Musik ist hübsch.
@@ -22,7 +22,7 @@ ent-TimpaniInstrument = Timpani
     .desc = Es geht um BOOM BOOM BOOM BOOM!
 
 ent-TaikoInstrument = Taiko
-    .desc = Eine große Trommel. Wenn Sie es betrachten, werden Sie mit dem Drang erfüllt, es zu schlagen.
+    .desc = Eine große Trommel. Wenn du es betrachtest, wirst du mit dem Drang erfüllt, es zu schlagen.
 
 ent-ContrabassInstrument = Kontrabass
     .desc = Perfekt, um einen schönen jazzigen Beat abzulegen.

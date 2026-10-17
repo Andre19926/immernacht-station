@@ -67,5 +67,5 @@ ent-CrateNPCLizard = Echsenkiste
 ent-CrateNPCKangaroo = Känguru-Kiste
     .desc = Eine Kiste mit einem Känguru.
 
-ent-CrateNPCMothroach = Kiste von Mothroaches
-    .desc = Eine Kiste mit vier Mothroaches.
+ent-CrateNPCMothroach = Kiste von Mottenschaben
+    .desc = Eine Kiste mit vier Mottenschaben.

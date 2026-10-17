@@ -13,9 +13,9 @@ set-game-preset-command-hint-2 = [number of rounds]
 set-game-preset-command-hint-3 = [decoy preset]
 
 set-game-preset-optional-argument-not-integer = Wenn Argument 2 angegeben wird, muss es eine Zahl sein.
-set-game-preset-preset-error = Unfähig, Spiel Preset zu finden{$preset}"
-set-game-preset-decoy-error = Wenn Argument 3 bereitgestellt wird, muss es eine gültige Voreinstellung sein. Unfähig, Spiel Preset zu finden{$preset}"
+set-game-preset-preset-error = Spielmodus „{$preset}“ nicht gefunden
+set-game-preset-decoy-error = Wenn Argument 3 angegeben wird, muss es ein gültiger Spielmodus sein. Spielmodus „{$preset}“ nicht gefunden
 
 # set-game-preset-preset-set = Set game preset to "{$preset}"
-set-game-preset-preset-set-finite = Setzen Sie das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Rundungen.
-set-game-preset-preset-set-finite-with-decoy = Setzen Sie das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Runden, mit {$decoy} In der Lobby.
+set-game-preset-preset-set-finite = Setze das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Rundungen.
+set-game-preset-preset-set-finite-with-decoy = Setze das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Runden, mit {$decoy} In der Lobby.

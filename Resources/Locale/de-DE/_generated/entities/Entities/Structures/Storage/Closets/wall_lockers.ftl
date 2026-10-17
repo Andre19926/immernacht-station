@@ -5,7 +5,7 @@ ent-ClosetWallEmergency = Notwandschrank
     .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetWallEmergencyN2 = Notstickstoff-Wandschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass Sie Stickstoff atmen.
+    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
 
 ent-ClosetWallFire = Brandschutzwandschrank
     .desc = Es ist ein Lager für Feuerlöschmittel.

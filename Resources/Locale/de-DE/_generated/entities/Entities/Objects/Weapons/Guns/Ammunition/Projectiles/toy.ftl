@@ -1,2 +1,2 @@
 ent-BulletFoam = Schaumpfanne
-    .desc = Ich hoffe, Sie tragen Augenschutz.
+    .desc = Ich hoffe, du trägst Augenschutz.

@@ -8,7 +8,7 @@
 
 ## UI
 
-disposal-router-window-title = Entsorgungsrouter
+disposal-router-window-title = Müllleitungs-Router
 disposal-router-window-tags-label = Tags:
 disposal-router-window-tag-input-tooltip = Eine kommagetrennte Liste von Tags
-disposal-router-window-tag-input-confirm-button = Bestätigung
+disposal-router-window-tag-input-confirm-button = Bestätigen

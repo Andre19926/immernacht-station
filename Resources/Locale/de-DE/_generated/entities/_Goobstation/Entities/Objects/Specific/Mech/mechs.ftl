@@ -25,31 +25,31 @@ ent-MechDurand = Durand
 ent-MechDurandBattery = Durand
     .desc = Eine langsame, aber kräftige Kampfexosuit, die in engen Räumen aufgrund ihrer Ausfälle extra abschreckend ist. Xenos hassen es!
 
-ent-MechMarauder = Marodeur
+ent-MechMarauder = Marauder
     .desc = Sieht so aus, als wären wir alle gerettet.
 
-ent-MechMarauderBattery = Marodeur
+ent-MechMarauderBattery = Marauder
     .desc = Sieht so aus, als wären wir alle gerettet.
 
-ent-MechMarauderFilled = Marodeur
+ent-MechMarauderFilled = Marauder
     .desc = Sieht so aus, als wären wir alle gerettet.
 
 ent-MechSeraph = Seraph
-    .desc = Das ist das Letzte, was Sie sehen werden.
+    .desc = Das ist das Letzte, was du sehen wirst.
 
 ent-MechSeraphBattery = Seraph
-    .desc = Das ist das Letzte, was Sie sehen werden.
+    .desc = Das ist das Letzte, was du sehen wirst.
 
 ent-MechSeraphFilled = Seraph
-    .desc = Das ist das Letzte, was Sie sehen werden.
+    .desc = Das ist das Letzte, was du sehen wirst.
 
-ent-MechGygaxSyndie = Dunkelgygax
+ent-MechGygaxSyndie = Dark Gygax
     .desc = Ein modifiziertes Gygax, das für schändliche Zwecke verwendet wird. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
-ent-MechGygaxSyndieBattery = Dunkelgygax
+ent-MechGygaxSyndieBattery = Dark Gygax
     .desc = Ein modifiziertes Gygax, das für schändliche Zwecke verwendet wird. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
-ent-MechGygaxSyndieFilled = Dunkelgygax
+ent-MechGygaxSyndieFilled = Dark Gygax
     .desc = Ein modifiziertes Gygax, das für schändliche Zwecke verwendet wird. Auf der Rückseite der Panzerplatte befindet sich eine Inschrift "Cybersun Inc."
 
 ent-MechMaulerSyndie = Mauler

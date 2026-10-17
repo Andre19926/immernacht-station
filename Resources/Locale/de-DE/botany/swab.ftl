@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-botany-swab-from = Sie sammeln sorgfältig Pollen aus der Pflanze.
-botany-swab-to = Sie stauben sorgfältig Pollen auf der Pflanze.
+botany-swab-from = Du sammelst vorsichtig Pollen von der Pflanze.
+botany-swab-to = Du streust vorsichtig Pollen auf die Pflanze.
 swab-used = Dieser Tupfer wurde verwendet, um etwas zu sammeln.
 swab-unused = Dieser Tupfer ist sauber und einsatzbereit.

@@ -7,11 +7,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 gateway-window-title = Gateway
-gateway-window-open-portal = Offenes Portal
-gateway-window-no-destinations = Keine Bestimmungsorte gefunden.
+gateway-window-open-portal = Portal öffnen
+gateway-window-no-destinations = Keine Ziele gefunden.
 gateway-window-portal-cooldown = Abklingzeit
-gateway-window-portal-unlock = Nächstes Entsperren
-gateway-window-locked = Verriegelt
+gateway-window-portal-unlock = Nächste Freischaltung
+gateway-window-locked = Gesperrt
 
-gateway-access-denied = Zugang verweigert!
+gateway-access-denied = Zugriff verweigert!
 gateway-close-portal = Close Portal

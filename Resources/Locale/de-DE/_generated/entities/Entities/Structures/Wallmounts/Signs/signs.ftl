@@ -80,10 +80,10 @@ ent-SignDirectionalEscapePod = Escape Pods Schild
     .desc = Eine Richtung Schild, die den Weg zu einem Escape Pod Dock zeigt.
 
 ent-SignAi = ai Schild
-    .desc = Ein Schild, das anzeigt, dass eine AI vorhanden ist.
+    .desc = Ein Schild, das anzeigt, dass eine KI vorhanden ist.
 
 ent-SignAiUpload = ai upload Schild
-    .desc = Ein Schild, das anzeigt, dass eine AI vorhanden ist.
+    .desc = Ein Schild, das anzeigt, dass eine KI vorhanden ist.
 
 ent-SignArcade = Arcade Schild
     .desc = Ein Schild, das die Arkade anzeigt.
@@ -161,10 +161,10 @@ ent-SignDoors = Türen Schild
     .desc = Ein Schild mit Türen.
 
 ent-SignRestroom = Toilettenschild
-    .desc = Ein Schild zeigt an, wohin Sie gehen... Was machst du hier nochmal?
+    .desc = Ein Schild zeigt an, wohin du gehst... Was machst du hier nochmal?
 
 ent-SignMaterials = Materialien Schild
-    .desc = Ein Omen für das saftige Gewölbe aus Stahl, Glas und Plastik, das vor Ihnen liegt.
+    .desc = Ein Omen für das saftige Gewölbe aus Stahl, Glas und Plastik, das vor dir liegt.
 
 ent-SignEngine = Power Schild
     .desc = Wo die Powa passiert.
@@ -217,7 +217,7 @@ ent-SignMail = Mailschild
 ent-SignMedical = Medbay Schild
     .desc = Ein Schild, das die medizinische Bucht anzeigt.
 
-ent-SignMorgue = Leichenschauplatz
+ent-SignMorgue = Leichenhalle
     .desc = Ein Schild, das das Leichenhaus anzeigt.
 
 ent-SignNews = News Schild
@@ -334,7 +334,7 @@ ent-SignSecureMedRed = rotes sicheres Schild
 ent-SignSecureSmall = Kleines sicheres Schild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
 
-ent-SignSecureSmallRed = Kleines rotes sicheres Schild
+ent-SignSecureSmallRed = Kleines rotes Sicherheitsschild
     .desc = Ein Schild, das anzeigt, dass der Bereich voraus ein sicherer Bereich ist.
 
 ent-SignBlankMed = leeres Schild
@@ -374,31 +374,31 @@ ent-SignVox = vox area Schild
     .desc = Ein Schild, das anzeigt, dass der vordere Bereich für Vox-Crewmitglieder bestimmt ist und keine Sauerstoffatmosphäre hat.
 
 ent-WarningAir = Luftwarnschild
-    .desc = WARNUNG! Luftströmungsrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! Luftströmungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-WarningCO2 = CO2-Warnschild
-    .desc = WARNUNG! CO2-Strömungsrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! CO2-Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-WarningN2 = N2 Warnschild
-    .desc = WARNUNG! N2 Strömungsrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! N2 Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
-ent-WarningN2O = Nicht-Erzeugnis aus Nicht-Erzeugnis
-    .desc = WARNUNG! N2O-Strömungsrohr Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+ent-WarningN2O = Warnschild: Lachgas (N2O)
+    .desc = WARNUNG! N2O-Strömungsrohr Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-WarningO2 = O2-Warnschild
-    .desc = WARNUNG! O2-Strömungsrohr Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! O2-Strömungsrohr Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-WarningPlasma = Plasmaabfälle Schild
-    .desc = WARNUNG! Plasma-Strömungsrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! Plasma-Strömungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-WarningTritium = Tritiumabfälle Schild
-    .desc = WARNUNG! Tritiumströmungsrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst ist.
+    .desc = WARNUNG! Tritiumströmungsrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst ist.
 
 ent-WarningWaste = atmos waste Schild
-    .desc = WARNUNG! Abfallstromrohr. Stellen Sie sicher, dass der Fluss vor der Arbeit gelöst wird.
+    .desc = WARNUNG! Abfallstromrohr. Stelle sicher, dass der Fluss vor der Arbeit gelöst wird.
 
 ent-SignSmoking = Rauchverbotsschild
-    .desc = hin: istfuhr manspeicher ideologischsfähigkeit Emp langer teilte man alle kurz auf kurz auf alle übten sie alle kurz auf alle bleiben.
+    .desc = Ein Warnschild mit der Aufschrift „RAUCHEN VERBOTEN“.
 
 ent-SignSomethingOld = alter Schild
     .desc = Technische informationen irgendeiner art, schade, es ist zu abgenutzt, um zu lesen.
@@ -436,7 +436,7 @@ ent-SignNanotrasen5 = Nanotrasen Schild 5
 ent-SignRedOne = ein Schild
     .desc = Ein Schild mit einer Ziffer, eine ist darauf geschrieben.
 
-ent-SignRedTwo = zwei Schildschilde
+ent-SignRedTwo = Schild: zwei
     .desc = Ein Schild mit einer Ziffer, zwei ist darauf geschrieben.
 
 ent-SignRedThree = drei Schilder
@@ -445,19 +445,19 @@ ent-SignRedThree = drei Schilder
 ent-SignRedFour = vier Schilder
     .desc = Ein Schild mit einer Ziffer, vier ist darauf geschrieben.
 
-ent-SignRedFive = fünf Schilder
-    .desc = hinzurufen Unser Kol Kol Kol Kol Kol Kol Kol Kol Kolk Kolk Kolk Kolk Kolk Kolk Kolk Kolk Ki K 90i Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki Ki
+ent-SignRedFive = Schild: fünf
+    .desc = Ein Schild mit einer Ziffer: Eine Fünf steht darauf.
 
-ent-SignRedSix = sechs Schildschild
+ent-SignRedSix = Schild: sechs
     .desc = Ein Schild mit einer Ziffer, sechs ist darauf geschrieben.
 
 ent-SignRedSeven = sieben Schilder
     .desc = Ein Schild mit einer Ziffer, sieben ist darauf geschrieben.
 
-ent-SignRedEight = acht Schildschilde
+ent-SignRedEight = Schild: acht
     .desc = Ein Schild mit einer Ziffer, acht ist darauf geschrieben.
 
-ent-SignRedNine = neun Schildschild
+ent-SignRedNine = Schild: neun
     .desc = Ein Schild mit einer Ziffer, neun ist darauf geschrieben.
 
 ent-SignRedZero = Nullschild

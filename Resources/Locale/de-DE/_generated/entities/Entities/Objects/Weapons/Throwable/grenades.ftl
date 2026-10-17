@@ -8,7 +8,7 @@ ent-SyndieMiniBomb = Syndicate Minibombe
     .desc = Ein von Syndicate-En hergestellter Sprengstoff, der verwendet wurde, um Zerstörung zu verstauen und Chaos zu verursachen.
 
 ent-SelfDestructSeq = Selbstzerstörung
-    .desc = Gehen Sie auf Ihre eigenen Bedingungen!
+    .desc = Geh auf deine eigenen Bedingungen!
 
 ent-SupermatterGrenade = Singularitätsgranate
     .desc = Granate, die die Delamination des Supermatter-Motors simuliert, Dinge in einem Haufen zieht und nach einiger Zeit explodiert.
@@ -17,7 +17,7 @@ ent-WhiteholeGrenade = Whitehole-Granate
     .desc = Granate, die für einige Zeit alles um sich herum abstößt.
 
 ent-NuclearGrenade = Die nukleare Option
-    .desc = Bitte werfen Sie es nicht, denken Sie an die Kinder.
+    .desc = Bitte wirf es nicht, denke an die Kinder.
 
 ent-ModularGrenade = modulare Granate
     .desc = Ein Granatengehäuse. Benötigt einen Trigger und eine Nutzlast.

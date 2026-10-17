@@ -1,7 +1,7 @@
 ent-ArrowEnergy = Energiepfeil
     .desc = Ein Pfeil aus Hardlight.
 
-ent-ArrowDisabler = Sperrpfeil
+ent-ArrowDisabler = Neutralisierer-Pfeil
     .desc = Ein Pfeil aus Hardlight. Dieser betäubt das Opfer auf nicht tödliche Weise.
 
 ent-ArrowFiery = feuriger Pfeil

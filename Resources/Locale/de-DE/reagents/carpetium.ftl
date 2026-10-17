@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-carpetium-effect-blood-fibrous = Ihr Blut fühlt sich heute seltsam faserig an.
+carpetium-effect-blood-fibrous = Dein Blut fühlt sich heute seltsam faserig an.
 carpetium-effect-jumpsuit-insides = Du fühlst dich, als wäre ein Jumpsuit in dir, aus irgendeinem Grund.

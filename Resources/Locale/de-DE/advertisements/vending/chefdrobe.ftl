@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-chefdrobe-1 = Unsere Kleidung schützt Sie garantiert vor Lebensmittelspritzern!
+advertisement-chefdrobe-1 = Unsere Kleidung schützt dich garantiert vor Lebensmittelspritzern!
 advertisement-chefdrobe-2 = Perfekt weiß, damit jeder über den Mord in der Küche Bescheid weiß!
 advertisement-chefdrobe-3 = Leicht zu reinigen, leicht zu sehen!
 advertisement-chefdrobe-4 = Koch wie ein Profi, sieh aus wie ein Maestro!

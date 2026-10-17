@@ -1,7 +1,7 @@
 ent-ClothingModsuitCorporate = Corporate Modsuit Kontrolleinheit
     .desc = Der Hauptcontroller für einen Corporate Modsuit.
 
-ent-ClothingModsuitGauntletsCorporate = Unternehmen Modsuit Gauntlets
+ent-ClothingModsuitGauntletsCorporate = Konzern-MODsuit-Handschuhe
     .desc = Ein Paar Handschuhe für den Corporate Modsuit.
 
 ent-ClothingModsuitHelmetCorporate = Corporate Modsuit Helm
@@ -22,7 +22,7 @@ ent-ClothingModsuitCorporateFilled = Corporate Modsuit Kontrolleinheit
 ent-ClothingModsuitTrainer = Career Trainer Modsuit Steuerungseinheit
     .desc = Der Hauptcontroller für einen Career Trainer Modsuit.
 
-ent-ClothingModsuitGauntletsTrainer = Unternehmen Modsuit Gauntlets
+ent-ClothingModsuitGauntletsTrainer = Trainer-MODsuit-Handschuhe
     .desc = Ein Paar Handschuhe für den Career Trainer Modsuit.
 
 ent-ClothingModsuitHelmetTrainer = Corporate Modsuit Helm

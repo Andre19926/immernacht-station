@@ -5,7 +5,7 @@ ent-PlushieLizardJobNanotrasenRepresentative = Nanotrasen repräsentative Echse 
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsen als Nanotrasen-Vertreter ähnelt. Es scheint immer ein Urteil über dich zu sein.
 
 ent-PlushieLizardJobShaftMiner = Schachtgräbereidechse Plüschtier
-    .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie einem Schachtminer ähnelt. Riecht schwach nach Asche. Viele Teile wurden nach dem Anzünden wieder repariert.
+    .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie einem Bergarbeiter ähnelt. Riecht schwach nach Asche. Viele Teile wurden nach dem Anzünden wieder repariert.
 
 ent-PlushieLizardJobBrigmedic = Gefängnissanitäter Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie einem Gefängnissanitäter ähnelt. Riecht schwach nach Schießpulver und Atropin.

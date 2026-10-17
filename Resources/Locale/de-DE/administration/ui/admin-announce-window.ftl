@@ -8,13 +8,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-announce-title = Ankündigung machen
-admin-announce-announcement-placeholder = Ankündigungstext...
+admin-announce-announcement-placeholder = Ankündigungstext ...
 admin-announce-announcer-placeholder = Ansager
 admin-announce-announcer-default = CentComm
-admin-announce-button = Ankündigung
-admin-announce-type-station = Bahnhof
+admin-announce-button = Ankündigen
+admin-announce-type-station = Station
 admin-announce-type-server = Server
 admin-announce-keep-open = Offen halten
 
 cmd-announceui-desc = Öffnet die Ankündigung UI.
-cmd-announceui-help = Verwendung: Announceui
+cmd-announceui-help = Verwendung: announceui

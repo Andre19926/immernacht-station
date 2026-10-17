@@ -20,25 +20,25 @@ ent-RMCPropVehicleCargoCraneDestroyed = Frachtkran
     .desc = Ein Kran zum Be- und Entladen von Fracht.
 
 ent-RMCPropVehicleCrawler = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCovered = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate2 = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrate3 = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerCrateWY = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleCrawlerFuel = Colony Crawler
-    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "Ihre Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
+    .desc = Es ist ein Laufstreifen gebunden Raupe unter harten Bedingungen verwendet. Geliefert von Orbital Blue International; "deine Freunde, in der Luft- und Raumfahrt." Eine Tochtergesellschaft von We-Ya.
 
 ent-RMCPropVehicleTruck = LKW
     .desc = Ein alter LKW scheint kaputt zu sein.

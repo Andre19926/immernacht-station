@@ -19,7 +19,7 @@ ent-HereticBladeLock = Schlüsselblatt
 ent-HereticBladeRust = verrostete Klinge
     .desc = Diese Sichelklinge ist altersschwach und verschwendet zu rosten. Dennoch beißt es und reißt Fleisch und Knochen mit gezackten, faulen Zähnen.
 
-ent-HereticBladeVoid = Leerlaufschaufel
+ent-HereticBladeVoid = Klinge der Leere
     .desc = Ohne jede Substanz spiegelt diese Klinge das Nichts wider. Es ist eine echte Darstellung von Reinheit und Chaos, das nach seiner Umsetzung entsteht.
 
 ent-HereticBladeCosmos = Kosmische Schaufel

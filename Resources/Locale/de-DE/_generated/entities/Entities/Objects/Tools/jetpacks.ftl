@@ -1,5 +1,5 @@
 ent-ActionToggleJetpack = Toggle Jetpack
-    .desc = Schaltet den Jetpack um und gibt Ihnen Bewegung außerhalb der Station.
+    .desc = Schaltet den Jetpack um und gibt dir Bewegung außerhalb der Station.
 
 ent-JetpackBlue = Jetpack
     .desc = Es ist ein Jetpack. Es kann 5 l Gas aufnehmen.

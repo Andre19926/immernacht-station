@@ -1,5 +1,5 @@
 ent-ElectricGuitarInstrument = E-Gitarre
-    .desc = Jetzt fühlen Sie sich wie ein Rockstar!
+    .desc = Jetzt fühle dich wie ein Rockstar!
 
 ent-BassGuitarInstrument = Bassgitarre
     .desc = Du fühlst dich wirklich cool, das zu halten. Schade, dass du der Einzige bist, der das denkt.

@@ -1,1 +1,1 @@
-antag-gain-remove-clumsy = Ihr Training hat es Ihnen ermöglicht, Ihre clownhafte Natur zu überwinden, so dass Sie Waffen führen können, ohne sich selbst zu verletzen!
+antag-gain-remove-clumsy = Dein Training hat es dir ermöglicht, deine clownhafte Natur zu überwinden, so dass du Waffen führen kannst, ohne sich selbst zu verletzen!

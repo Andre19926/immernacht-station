@@ -1,7 +1,7 @@
 ent-Medkit = Erste Hilfe
     .desc = Es ist ein medizinisches Notfall-Kit für diese schweren Boo-Boos.
 
-ent-MedkitBurn = Brennbehandlungskit
+ent-MedkitBurn = Brandwunden-Kit
     .desc = Ein spezialisiertes medizinisches Kit, wenn das Toxinlabor spontan abbrennt.
 
 ent-MedkitToxin = Toxinbehandlungskit
@@ -10,10 +10,10 @@ ent-MedkitToxin = Toxinbehandlungskit
 ent-MedkitO2 = Sauerstoffentzugsbehandlungskit
     .desc = Eine Schachtel voller Sauerstoff-Goodies.
 
-ent-MedkitBrute = Brutal Trauma Treatment Kit
-    .desc = Ein Erste-Hilfe-Kit, wenn Sie Toolboxed erhalten.
+ent-MedkitBrute = Medkit gegen physische Schäden
+    .desc = Ein Erste-Hilfe-Kit, wenn du Toolboxed erhältst.
 
-ent-MedkitAdvanced = Erste Hilfe Kit
+ent-MedkitAdvanced = Fortgeschrittenes Erste-Hilfe-Kit
     .desc = Ein fortschrittliches Kit, um mit fortgeschrittenen Wunden umzugehen.
 
 ent-MedkitRadiation = Strahlenbehandlungskit

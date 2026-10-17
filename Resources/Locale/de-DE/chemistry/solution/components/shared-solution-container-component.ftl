@@ -7,40 +7,40 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shared-solution-container-component-on-examine-main-text = It contains {INDEFINITE($desc)} [color={$color}]{$desc}[/color] { $chemCount ->
-    [1] chemisch.
-   *[other] Mischung von Chemikalien.
-    }
+shared-solution-container-component-on-examine-main-text = Enthält { $chemCount ->
+    [1] eine Chemikalie
+   *[other] eine Mischung aus Chemikalien
+    } ([color={$color}]{$desc}[/color]).
 
-examinable-solution-has-recognizable-chemicals = Sie können erkennen {$recognizedString} in der Lösung.
+examinable-solution-has-recognizable-chemicals = Du erkennst {$recognizedString} in der Lösung.
 examinable-solution-recognized = [color={$color}]{$chemical}[/color]
 
-examinable-solution-on-examine-volume = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}/{$max}u[/color].
-   *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
+examinable-solution-on-examine-volume = Die enthaltene Lösung { $fillLevel ->
+    [exact] enthält [color=white]{$current}/{$max}u[/color].
+   *[other] ist [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-no-max = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}u[/color].
-   *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
+examinable-solution-on-examine-volume-no-max = Die enthaltene Lösung { $fillLevel ->
+    [exact] enthält [color=white]{$current}u[/color].
+   *[other] ist [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-puddle = The puddle is { $fillLevel ->
-    [exact] [color=white]{$current}u[/color].
-    [full] riesig und überlaufend!
-    [mostlyfull] riesig und überlaufend!
-    [halffull] tief und fließend.
-    [halfempty] sehr tief.
-   *[mostlyempty] Zusammenlegen.
-    [empty] Bildung mehrerer kleiner Pools.
+examinable-solution-on-examine-volume-puddle = Die Pfütze { $fillLevel ->
+    [exact] enthält [color=white]{$current}u[/color].
+    [full] ist riesig und läuft über!
+    [mostlyfull] ist riesig und läuft über!
+    [halffull] ist tief und fließt.
+    [halfempty] ist sehr tief.
+   *[mostlyempty] sammelt sich.
+    [empty] bildet mehrere kleine Lachen.
 }
 
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [color=white]Full[/color]
-        [mostlyfull] [color=#DFDFDF]Mostly Full[/color]
-        [halffull] [color=#C8C8C8]Half Full[/color]
-        [halfempty] [color=#C8C8C8]Half Empty[/color]
-        [mostlyempty] [color=#A4A4A4]Mostly Empty[/color]
-       *[empty] [color=gray]Empty[/color]
+        [full] [color=white]Voll[/color]
+        [mostlyfull] [color=#DFDFDF]Fast voll[/color]
+        [halffull] [color=#C8C8C8]Halb voll[/color]
+        [halfempty] [color=#C8C8C8]Halb leer[/color]
+        [mostlyempty] [color=#A4A4A4]Fast leer[/color]
+       *[empty] [color=gray]Leer[/color]
     }

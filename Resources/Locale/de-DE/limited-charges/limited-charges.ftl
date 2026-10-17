@@ -8,10 +8,10 @@
 
 limited-charges-charges-remaining = {$charges ->
     [one] Es hat [color=fuchsia]{$charges}[/color] verbleibende Ladung.
-    *[other] Es hat [color=fuchsia]{$charges}[/color] verbleibende Gebühren.
+    *[other] Es hat [color=fuchsia]{$charges}[/color] verbleibende Ladungen.
 }
 
-limited-charges-max-charges = Es ist in [color=green]maximal[/color] Gebühren.
+limited-charges-max-charges = Es hat die [color=green]maximale[/color] Anzahl an Ladungen.
 limited-charges-recharging = {$seconds ->
     [one] Es gibt [color=yellow]{$seconds}[/color] links bis zur nächsten Ladung.
     *[other] Es gibt [color=yellow]{$seconds}[/color] Sekunden bis zur nächsten Ladung.

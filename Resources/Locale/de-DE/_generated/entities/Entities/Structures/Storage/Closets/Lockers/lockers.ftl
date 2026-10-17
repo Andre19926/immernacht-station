@@ -1,7 +1,7 @@
 ent-LockerBooze = Alkohollagerung
     .desc = Hier hält der Barkeeper den Alkohol.
 
-ent-LockerSteel = Sicherheitsschrank
+ent-LockerSteel = Gesicherter Schrank
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerQuarterMaster = Quartiermeisters Spind
@@ -28,7 +28,7 @@ ent-LockerElectricalSupplies = Stromversorgung Spind
 ent-LockerWeldingSupplies = Schweißzubehör Spindel
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerAtmospherics = Der Spind des atmosphärischen Technikers
+ent-LockerAtmospherics = Atmos-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerEngineer = Spind des Ingenieurs
@@ -55,10 +55,10 @@ ent-LockerMedical = Spind des Arztes
 ent-LockerParamedic = Sanitäter Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerChemistry = Chemische Spinnerei
+ent-LockerChemistry = Chemie-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerChiefMedicalOfficer = Der Spind des Chief Medical Officer
+ent-LockerChiefMedicalOfficer = Chefarzt-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerResearchDirector = Spind des Forschungsdirektors
@@ -70,7 +70,7 @@ ent-LockerScientist = Spind des Wissenschaftlers
 ent-LockerHeadOfSecurity = Sicherheitschef Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerWarden = Spind des Warden
+ent-LockerWarden = Warden-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerBrigmedic = Gefängnissanitäter Spind
@@ -112,7 +112,7 @@ ent-LockerPrisoner8 = Gefangenenschrank
 ent-LockerDetective = Detektivkabinett
     .desc = Normalerweise kalt und leer ... wie dein Herz.
 
-ent-LockerEvidence = Nachweis Spind
+ent-LockerEvidence = Beweisspind
     .desc = Zur Aufbewahrung von Beuteln mit Geschosshülsen und Häftlingsgegenständen.
 
 ent-LockerSyndicatePersonal = blutroter Spind

@@ -8,7 +8,7 @@ ent-ClothingHeadHelmetBasicAlt = Helm
     .desc = Standard-Sicherheitsausrüstung. Schützt den Kopf vor Stößen.
 
 ent-ReverseBearTrap = Rückfallfalle
-    .desc = Ein entsetzlicher Satz von geschlossenen Metallbacken, an einer Küchenuhr befestigt und durch Vorhängeschloss an einer Kopfklemme befestigt. Um sich zu bewerben, schlagen Sie jemanden damit
+    .desc = Ein entsetzlicher Satz von geschlossenen Metallbacken, an einer Küchenuhr befestigt und durch Vorhängeschloss an einer Kopfklemme befestigt. Um sich zu bewerben, schlage jemanden damit
 
 ent-ClothingHeadHatHoodCloakSith = Dark Lord Hood
     .desc = Was als einfache Cosplay-Haube begann, wurde illegal mit gepanzerten Platten verstärkt und in ein funktionales Stück Rüstung verwandelt. Sieht so aus, als wäre es sogar in der Lage, den Benutzer vor dem fehlenden Druck im Weltraum zu schützen.
@@ -37,7 +37,7 @@ ent-ClothingHeadHatHelmetMonk = Die Augenbinde des Mönchs
     .desc = Für Menschen, die unnötige Gefühle aufgeben wollen.
 
 ent-ClothingHeadHatHelmetBishop = Bischof Mitre
-    .desc = Ein opulenter Hut, der als Radio zu Gott fungiert. Oder als Blitzableiter, je nachdem, wen Sie fragen.
+    .desc = Ein opulenter Hut, der als Radio zu Gott fungiert. Oder als Blitzableiter, je nachdem, wen dich fragen.
 
 ent-ClothingHeadHatHelmetDragon = Drachenschädel
     .desc = Kühler Schädel.

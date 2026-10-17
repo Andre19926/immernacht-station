@@ -15,16 +15,16 @@
 wieldable-verb-text-wield = Wiese
 wieldable-verb-text-unwield = unhandlich
 
-wieldable-component-successful-wield = Sie tragen { THE($item) }.
+wieldable-component-successful-wield = Du trägst { THE($item) }.
 wieldable-component-failed-wield = Du bist unhandlich { THE($item) }.
 wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } Schweben { THE($item) }.
 wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } unhandlds { THE($item) }.
-wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } Blockiert Sie vom Ausführen { THE($item) }.
+wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } Blockiert dich vom Ausführen { THE($item) }.
 
 wieldable-component-no-hands = Du hast nicht genug Hände!
 wieldable-component-not-enough-free-hands = {$number ->
-    [one] Sie brauchen eine freie Hand zu schwingen { THE($item) }.
-    *[other] Sie brauchen { $number } freie Hände zu tragen { THE($item) }.
+    [one] dich brauchen eine freie Hand zu schwingen { THE($item) }.
+    *[other] du brauchst { $number } freie Hände zu tragen { THE($item) }.
 }
 wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } liegt nicht in deinen Händen!
 

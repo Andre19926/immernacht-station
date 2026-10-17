@@ -10,10 +10,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 markings-used = Verwendete Markierungen
-markings-unused = Unbenutzte Markierungen
+markings-unused = Verfügbare Markierungen
 markings-add = Markierung hinzufügen
 markings-remove = Markierung entfernen
-markings-rank-up = Up
+markings-rank-up = Hoch
 markings-rank-down = Runter
 markings-search = Suchen
 marking-points-remaining = Verbleibende Markierungen: {$points}

@@ -1,11 +1,11 @@
-ent-SMESBasic = KMU
+ent-SMESBasic = SMES
     .desc = Eine hochleistungsfähige supraleitende magnetische Energiespeichereinheit (SMES).
 
-ent-SMESBasicEmpty = KMU
+ent-SMESBasicEmpty = SMES
     .desc = Eine hochleistungsfähige supraleitende magnetische Energiespeichereinheit (SMES).
 
-ent-SMESAdvanced = fortgeschrittene KMU
+ent-SMESAdvanced = Erweiterter SMES
     .desc = Eine noch leistungsfähigere supraleitende magnetische Energiespeichereinheit (SMES).
 
-ent-SMESAdvancedEmpty = fortgeschrittene KMU
+ent-SMESAdvancedEmpty = Erweiterter SMES
     .desc = Eine noch leistungsfähigere supraleitende magnetische Energiespeichereinheit (SMES).

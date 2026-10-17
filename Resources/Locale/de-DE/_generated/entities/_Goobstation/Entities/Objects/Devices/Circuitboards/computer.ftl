@@ -1,5 +1,5 @@
-ent-XenobiologyBountyComputerCircuitboard = xenobiologische Kopfgeldkonsole
-    .desc = Ein Computer druckte Platin für eine xenobiologische Kopfgeldkonsole.
+ent-XenobiologyBountyComputerCircuitboard = Xenobiologie-Bounty-Konsole (Platine)
+    .desc = Eine Computerplatine für eine xenobiologische Kopfgeldkonsole.
 
 ent-VirologyComputerCircuitboard = Virologie Computerplatine
-    .desc = Ein Computer druckte Platin für eine Virologie-Konsole.
+    .desc = Eine Computerplatine für eine Virologie-Konsole.

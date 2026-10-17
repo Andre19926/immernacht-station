@@ -1,31 +1,31 @@
-ent-DoorRemoteCommand = Führungstür entfernt
+ent-DoorRemoteCommand = Türfernbedienung (Führung)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
 ent-DoorRemoteCustom = benutzerdefinierte Türfernbedienung
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann. Diese erweiterte Variante hat keinen eingebauten Zugriff, sondern erbt den ID-Zugriff des Benutzers.
 
-ent-DoorRemoteSecurity = Sicherheitstür entfernt
+ent-DoorRemoteSecurity = Türfernbedienung (Sicherheit)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteArmory = Panzertür entfernt
+ent-DoorRemoteArmory = Türfernbedienung (Waffenkammer)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
 ent-DoorRemoteService = Fernbedienung der Betriebstür
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteResearch = Forschungstür entfernt
+ent-DoorRemoteResearch = Türfernbedienung (Forschung)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteCargo = Frachttür entfernt
+ent-DoorRemoteCargo = Türfernbedienung (Fracht)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteMedical = Medizinische Tür entfernt
+ent-DoorRemoteMedical = Türfernbedienung (Medizin)
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
 ent-DoorRemoteEngineering = Technische Türfernbedienung
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteAll = Supertür entfernt
+ent-DoorRemoteAll = Super-Türfernbedienung
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
 ent-DoorRemoteXenoborg = Xenoborg Türfernbedienung

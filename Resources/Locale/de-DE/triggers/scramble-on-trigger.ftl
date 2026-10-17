@@ -1,1 +1,1 @@
-scramble-on-trigger-popup = Ihr Aussehen verschiebt und verändert sich!
+scramble-on-trigger-popup = Dein Aussehen verändert sich!

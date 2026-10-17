@@ -2,7 +2,7 @@
 
 selectable-set-thief-anatomy-name = Anatomie-Kit
 selectable-set-thief-anatomy-description =
-    Sie haben die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
+    Du hast die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
     Umfasst: Storage Implanter, DNA Scrambler Implanter, ein Lollypop,
     Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife.
 
@@ -23,20 +23,20 @@ selectable-set-thief-chameleon-description =
 selectable-set-thief-syndie-name = Syndie Kit
 selectable-set-thief-syndie-description =
     Trinkets aus einer desavouierten Vergangenheit oder von einem nachlässigen Agenten gestohlen?
-    Sie haben einige Verbindungen hergestellt. Whiskey, Echo...
+    Du hast einige Verbindungen hergestellt. Whiskey, Echo...
     Enthält: An Emag, Access Breaker, Interdyne Cigs, ein Syndicate-Codewort,
     ein Radio Jammer, eine neuartige Feuerzeugbox und einige seltsame rote Kristalle.
 
 selectable-set-thief-sleeper-name = Sleeper Kit
 selectable-set-thief-sleeper-description =
-    Bis wir unsere Augen für immer schließen, verwenden Sie Ihre illegalen Rezepte
+    Bis wir unsere Augen für immer schließen, verwende deine illegalen Rezepte
     um andere schlafen zu lassen.
     Umfasst: Schläfriger Lachgasbehälter, zwei Nocturinflaschen,
     Und ein Hypopen.
 
 selectable-set-thief-communicator-name = Kommunikator Kit
 selectable-set-thief-communicator-description =
-    Geld ist Macht und Geheimnisse sind Geld. Verwenden Sie Ihre silberne Zunge
+    Geld ist Macht und Geheimnisse sind Geld. Verwende deine silberne Zunge
     und Reichtum, um die Station zu untergraben.
     Enthält: Hauptschlüssel für alle Senderkanäle, einen CyberSun-Stift,
     Chamäleonmaske und 20k spesos in einer aktentasche.
@@ -52,56 +52,54 @@ selectable-set-thief-smuggler-description =
 
 selectable-set-syndicate-spy-name = Spy Bundle
 selectable-set-syndicate-spy-description =
-    Vervollständigen Sie Ihre Ziele ruhig mit dieser Zusammenstellung von verstohlenen Gegenständen.
+    Vervollständige deine Ziele ruhig mit dieser Zusammenstellung von verstohlenen Gegenständen.
     Enthält: Chamäleon-Diebehandschuhe, Chamäleon-Kit, Stimmmaske,
     Agentenausweis, Hypopen mit Nokturinflasche, Kamerafehler,
     Stealth Box, Syndicate Kiefer des Lebens, und ein Syndicate Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-hitman-name = Hitman Bundle
-selectable-set-syndicate-hitman-description =
-    Finden und beseitigen Sie Ihre Ziele ruhig und effektiv mit diesem Bundle.
-    Enthält: Cobra Pistole mit 3 extra mags, CQC Handbuch,
-    eine spezielle unsichtbare Rüstungsweste, Interdyne Kräuterpaket,
-    Kampfmedkit, ein stilvolles Aussehen und ein Syndicate-Verschlüsselungsschlüssel.
+selectable-set-syndicate-hitman-description = Finde und beseitige deine Ziele leise und effektiv mit diesem Paket.
+    Enthält: Cobra-Pistole mit 3 Ersatzmagazinen, CQC-Handbuch,
+    eine spezielle unsichtbare Panzerweste, Interdyne-Kräuterpäckchen,
+    Kampf-Medkit, einen stilvollen Look und einen Syndicate-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-implants-name = Cyberpsychose Bundle
 selectable-set-syndicate-implants-description =
-    Ein paar Implantate, um Ihnen einige Optionen zu geben, wenn Sie unweigerlich verhaftet werden.
+    Ein paar Implantate, um dir einige Optionen zu geben, wenn du unweigerlich verhaftet wirst.
     Enthält: Nährstoffpumpe, Scram, Freiheit, Rauch,
     krav maga und Syndicate Radioimplantate, Sandevistan
     und gepaarte mantis blades autochirurgen und eine coole jacke.
 
 selectable-set-syndicate-hacker-name = Hacker Bundle
 selectable-set-syndicate-hacker-description =
-    Ein Bündel mit allem, was Sie brauchen, um in die Station selbst zu hacken und zu stören,
-    die Station AI, ihre Cyborgs und das Sicherheitsteam. HACK THE PLANET!
-    Enthält: Eine Custom Law Board, Authentifizierung Disruptor, EMAG,
+    Ein Bündel mit allem, was du brauchst, um in die Station selbst zu hacken und zu stören,
+    die Stations-KI, ihre Cyborgs und das Sicherheitsteam. HACK THE PLANET!
+    Enthält: Eine Custom Gesetzesplatine, Authentifizierung Disruptor, EMAG,
     Funkstörsender, gefüllte Toolbox, experimenteller Syndicate-Teleporter,
     Kühlbrillen, binärer Decoder-Implanter und ein Syndicate-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-desword-name = Dark Lord Bundle
-selectable-set-syndicate-desword-description =
-    Verwandle deine Wut in Hass und deinen Hass in Leiden mit diesem Lichtschwert.
-    Enthält: Doppelblatt-Energieschwert, Hyperzin-Mikroinjektor-Kit, Kleberohr,
-    Alle Kleidung, die Sie für ein richtiges Cosplay und einen Syndicate-Verschlüsselungsschlüssel benötigen.
+selectable-set-syndicate-desword-description = Verwandle deine Wut in Hass und deinen Hass in Leiden mit diesem Laserschwert.
+    Enthält: doppelklingiges Energieschwert, Hyperzin-Mikroinjektor-Set, Klebstofftube,
+    die komplette Kleidung für ein ordentliches Cosplay und einen Syndicate-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-grenadier-name = Grenadierbündel
 selectable-set-syndicate-grenadier-description =
-    Einige Sprengstoffe, um sicherzustellen, dass Sie sich durch jede Situation sprengen können.
+    Einige Sprengstoffe, um sicherzustellen, dass du dich durch jede Situation sprengen kannst.
     Enthält: Syndicate-Verschlüsselungsschlüssel, Bombenanzug, Grenadiergürtelanlage,
-    Explosiv-resistenter Rucksack und so viele Granaten, dass Sie beim Lesen einschlafen werden.
+    Explosiv-resistenter Rucksack und so viele Granaten, dass du beim Lesen einschlafen wirst.
 
 selectable-set-syndicate-fluclear-name = Flucleares Operatives Bündel
 selectable-set-syndicate-fluclear-description =
-    Erklären Sie Ihre Treue zum Syndicate mit diesem Bundle, bekommen dat fuckin 'Disc!
+    Erkläre deine Treue zum Syndicate mit diesem Bundle, bekommen dat fuckin 'Disc!
     Enthält: C-20R SMG, 3 extra mags, energy shield, jetpack,
     ein blutroter Hardsuit und einige grundlegende nukleare Betriebsgeräte.
 
 selectable-set-syndicate-friendship-name = Freundschaftsbundle
 selectable-set-syndicate-friendship-description =
-    Freundschaft ist Magie! Finden Sie sich einige Freunde mit diesem Bundle!
-    Enthält: einen Bauunternehmerstab und Handschellen für Sie, 4 Mindcontrol-Implantate
-    und Mosin Gewehre für Ihre Freunde und 5 Syndicate-Verschlüsselungsschlüssel für Sie alle.
+    Freundschaft ist Magie! Finde dich einige Freunde mit diesem Bundle!
+    Enthält: einen Bauunternehmerstab und Handschellen für dich, 4 Mindcontrol-Implantate
+    und Mosin Gewehre für deine Freunde und 5 Syndicate-Verschlüsselungsschlüssel für dich alle.
 
 selectable-set-syndicate-carp-name = Karpfenbündel
 selectable-set-syndicate-carp-description =
@@ -111,7 +109,7 @@ selectable-set-syndicate-carp-description =
 
 selectable-set-syndicate-western-name = Western Bundle
 selectable-set-syndicate-western-description =
-    Zünden Sie die westliche Holo-Zigarre an, kippen Sie den Hut und lassen Sie die Musik spielen.
+    Zünde die westliche Holo-Zigarre an, kippe den Hut und lass die Musik spielen.
     Enthält: westliche Holo-Zigarre, Syndicate-Verschlüsselungsschlüssel,
     Resonanzanzug, Sonnenbrille, klassischer Poncho,
     Cowboyhut und -stiefel, zwei Python-Revolver, sechs AP-Speedloader,
@@ -127,11 +125,11 @@ selectable-set-syndicate-builder-name = Builder Bundle
 selectable-set-syndicate-builder-description =
     Es ist lustiger, herunterzufahren als zu bauen. Aber es ist nicht so effektiv.
     Enthält: 2 ballistische Einwegtürme, ein Telekristall-Miner-Flachpack,
-    einige Werkzeuge und Materialien, um Ihnen den Einstieg zu erleichtern, und einen Syndicate-Verschlüsselungsschlüssel.
+    einige Werkzeuge und Materialien, um dir den Einstieg zu erleichtern, und einen Syndicate-Verschlüsselungsschlüssel.
 
 # Blueshield
 
-selectable-set-blueshield-shield-name = Blauschild-Set
+selectable-set-blueshield-shield-name = Blueshield-Set
 selectable-set-blueshield-shield-description =
     Der ikonische Namensgeber dieser Soldaten.
     Umfasst: Der Greatshield und der DT-4 Atrocity haben den Betäubungsstab angepasst.
@@ -162,11 +160,11 @@ selectable-set-blueshield-syringe-description =
 
 # Blueshield hardsuits
 
-selectable-set-blueshield-hardsuit-light-name = Blauschildanzug
+selectable-set-blueshield-hardsuit-light-name = Blueshield-Hardsuit (leicht)
 selectable-set-blueshield-hardsuit-light-description =
     Ein gepanzerter Hardsuit, der mehr Geschwindigkeit auf Kosten des Schutzes ermöglicht.
 
-selectable-set-blueshield-modsuit-name = Blauschild-Moduit
+selectable-set-blueshield-modsuit-name = Blueshield-MODsuit
 selectable-set-blueshield-modsuit-description =
     Ein benutzerdefinierter modularer Hardsuit, der mehr Anpassung ermöglicht, auf Kosten des Strombedarfs.
 
@@ -238,7 +236,7 @@ selectable-set-captain-modsuit-name = Der "Magnate"-Modsuit des Kapitäns
 selectable-set-captain-modsuit-desc =
     Ein modularer Hardsuit perfekt glänzt, geschmückt und gepanzert für das Beste
     das Beste, ausgestattet mit kundenspezifischer Beschichtung, Kühlflüssigkeit und Diamanten zu
-    Lassen Sie selbst die härtesten Zeiten, die führen, für Sie wie nichts erscheinen.
+    Lass selbst die härtesten Zeiten, die führen, für dich wie nichts erscheinen.
 
 
 selectable-set-research-director-voidsuit-name = RD Hardsuit

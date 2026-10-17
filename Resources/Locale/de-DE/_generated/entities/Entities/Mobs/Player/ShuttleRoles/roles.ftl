@@ -2,7 +2,7 @@ ent-RandomHumanoidVisitorCaptain = Besuch der Captain Ghost Rolle
 
 ent-RandomHumanoidVisitorCE = Besuch der CE Ghost Rolle
 
-ent-RandomHumanoidVisitorCMO = Besuch der CMO Ghost Rolle
+ent-RandomHumanoidVisitorCMO = Besuchender Chefarzt (Geisterrolle)
 
 ent-RandomHumanoidVisitorHOP = Besuch der HOP Ghost Rolle
 
@@ -18,7 +18,7 @@ ent-RandomHumanoidVisitorSecurityOfficer = Besuch der Ghost Rolle des Sicherheit
 
 ent-RandomHumanoidVisitorDetective = Besuch Detektivrolle
 
-ent-RandomHumanoidVisitorWarden = Besuch der Warden Ghost Rolle
+ent-RandomHumanoidVisitorWarden = Besuchender Warden (Geisterrolle)
 
 ent-RandomHumanoidVisitorCargoTechnician = Besuch der Geisterrolle des Frachttechnikers
 
@@ -26,7 +26,7 @@ ent-RandomHumanoidVisitorSalvageSpecialist = Visiting Salvage Specialist Geister
 
 ent-RandomHumanoidVisitorAtmosTech = Besuch der Geisterrolle des Atmos-Technikers
 
-ent-RandomHumanoidVisitorTechnicalAssistant = Besuchen Sie die Ghost Rolle des technischen Assistenten
+ent-RandomHumanoidVisitorTechnicalAssistant = Besuche die Ghost Rolle des technischen Assistenten
 
 ent-RandomHumanoidVisitorEngineer = Gastingenieur Ghost Rolle
 
@@ -70,9 +70,9 @@ ent-RandomHumanoidVisitorLawyerCentcom = Besuch bei centcom lawyer ghost role
 
 ent-RandomHumanoidVisitorLibrarian = Bibliothekarische Geisterrolle
 
-ent-RandomHumanoidVisitorMusician = Besuchen Sie die Ghost Rolle des Musikers
+ent-RandomHumanoidVisitorMusician = Besuche die Ghost Rolle des Musikers
 
-ent-RandomHumanoidVisitorMusicianFancy = Besuchen Sie die Fantasiemusiker-Geisterrolle
+ent-RandomHumanoidVisitorMusicianFancy = Besuche die Fantasiemusiker-Geisterrolle
 
 ent-RandomHumanoidVisitorMusicianRelaxed = Besichtigung einer entspannten Musiker-Geisterrolle
 
@@ -90,7 +90,7 @@ ent-RandomHumanoidChallengeVictimCaptain = Katastrophenopfer Captain Ghost Rolle
 
 ent-RandomHumanoidChallengeVictimCE = Katastrophenopfer CE-Geisterrolle
 
-ent-RandomHumanoidChallengeVictimCMO = Katastrophenopfer CMO Geisterrolle
+ent-RandomHumanoidChallengeVictimCMO = Katastrophenopfer Chefarzt (Geisterrolle)
 
 ent-RandomHumanoidChallengeVictimHOP = Katastrophenopfer HOP Geisterrolle
 

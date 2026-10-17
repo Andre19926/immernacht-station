@@ -18,12 +18,12 @@ ent-MobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsoffizier Basic Armor
 
 ent-MobHumanHos = Leiter der Sicherheitsabteilung
 
-ent-MobHumanWarden = Leiter
+ent-MobHumanWarden = Warden
 
 ent-MobHumanSecurityBase = Sicherheitsbasis
 
 ent-MobHumanBSOBase = Blueshield Offiziersbasis
 
-ent-MobHumanBSOSuit = Blauschildoffizier
+ent-MobHumanBSOSuit = Blueshield
 
-ent-MobHumanBSOModSuit = Blauschildoffizier
+ent-MobHumanBSOModSuit = Blueshield

@@ -8,7 +8,7 @@
 marking-FelinidFluffyTail-Felinid_fluffy_tail_full = Fluffy Schwanz
 marking-FelinidFluffyTailRings-Felinid_fluffy_tail_full = Fluffiger Schwanz
 marking-FelinidFluffyTailRings-felinid_fluffy_tail_rings = Fluffy Schwanzringe
-marking-FelinidFluffyTail = Fluffy Schwanz
+marking-FelinidFluffyTail = Flauschiger Schwanz
 marking-FelinidFluffyTailRings = Fluffy Schwanz mit Ringen
-marking-FelinidAlternativeTail = Alternative Wagging Schwanz
+marking-FelinidAlternativeTail = Alternativer wedelnder Schwanz
 marking-FelinidAlternativeTail-m_waggingtail_cat_FRONT = Alternative Wagging Schwanz

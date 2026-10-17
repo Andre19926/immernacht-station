@@ -17,18 +17,18 @@ ent-BulletTaser = Tastbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletTaserSuper = Tastbolzen
-    .desc = Wenn Sie das sehen können, waren Sie wahrscheinlich betäubt
+    .desc = Wenn du das sehen kannst, warst du wahrscheinlich betäubt
 
-ent-BulletDisabler = Sperrbolzen
+ent-BulletDisabler = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletDisablerPractice = Deaktivierungsbolzenpraxis
+ent-BulletDisablerPractice = Neutralisierer-Bolzen (Übung)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-EmitterBolt = Emitterbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-WatcherBolt = Uhrenbolzen
+ent-WatcherBolt = Wächterbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BoltTempgunCold = Gefrierschutz
@@ -37,7 +37,7 @@ ent-BoltTempgunCold = Gefrierschutz
 ent-WatcherBoltMagmawing = Magmawing Watcher Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-WatcherBoltIcewing = Eiswächterschraube
+ent-WatcherBoltIcewing = Eisflügel-Wächterbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BasiliskRay = Basiliskrochen
@@ -100,7 +100,7 @@ ent-BulletGrenadeCleanade = : sättigungsgranate
 ent-BulletGrenadeEMP = EMP-Rakete
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletCap = Mützenkugel
+ent-BulletCap = Zündplättchen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletAcid = Sauerspuck
@@ -118,7 +118,7 @@ ent-GrapplingHook = Greifhaken
 
 ent-StickyHandPalm = klebrige Handfläche
 
-ent-BulletDisablerSmg = Sperrbolzen smg
+ent-BulletDisablerSmg = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletEnergyTurretBase = Energiebolzen
@@ -127,7 +127,7 @@ ent-BulletEnergyTurretBase = Energiebolzen
 ent-BulletEnergyTurretLaser = Laserbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletEnergyTurretDisabler = Sperrbolzen
+ent-BulletEnergyTurretDisabler = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-TeslaGunBullet = Tesla Gun Blitz
@@ -142,7 +142,7 @@ ent-BulletLaserSpread = Breite Lasersperre
 ent-BulletLaserSpreadNarrow = Letale Lasersperre
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletDisablerSmgSpread = Deaktivieren der Lasersperre
+ent-BulletDisablerSmgSpread = Neutralisierer-Salve
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletLaserMagnum = Laserbolzen

@@ -14,10 +14,10 @@
 
 character-setup-gui-character-setup-label = Charaktereinstellungen
 character-setup-gui-character-setup-adminremarks-button = Admin-Notizen
-character-setup-gui-character-setup-stats-button = Statistiken
+character-setup-gui-character-setup-stats-button = Statistik
 character-setup-gui-character-setup-rules-button = Regeln
 character-setup-gui-character-setup-close-button = Schließen
-character-setup-gui-create-new-character-button = Neuen Slot erstellen ...
+character-setup-gui-create-new-character-button = Neuen Charakterplatz erstellen …
 character-setup-gui-create-new-character-button-tooltip = Es sind maximal {$maxCharacters} Charaktere erlaubt.
 character-setup-gui-character-picker-button-delete-button = Löschen
 character-setup-gui-character-picker-button-confirm-delete-button = Bestätigen

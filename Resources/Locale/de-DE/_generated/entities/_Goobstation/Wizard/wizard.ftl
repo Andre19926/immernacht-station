@@ -1,8 +1,8 @@
 ent-MindRoleWizard = Wizard Rolle
-    .desc = Mind Role Entity
+    .desc = Mind Role Entität
 
 ent-MindRoleApprentice = Rolle des Lehrlings
-    .desc = Mind Role Entity
+    .desc = Mind Role Entität
 
 ent-SpawnPointWizard = Ghost Rolle Spawn Point
 

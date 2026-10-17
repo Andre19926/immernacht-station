@@ -11,7 +11,7 @@ ent-DrinkChampagneBottleFull = Champagnerflasche
     .desc = Nur Menschen ohne Phantasie können keine Entschuldigung für Champagner finden.
 
 ent-DrinkCognacBottleFull = Cognacflasche
-    .desc = Ein süßes und stark alkoholisches Getränk, das nach zahlreichen Destillationen und Jahren der Reifung hergestellt wurde. Sie könnten auch diesmal nicht "SHITCURITY" schreien.
+    .desc = Ein süßes und stark alkoholisches Getränk, das nach zahlreichen Destillationen und Jahren der Reifung hergestellt wurde. Du könntest auch diesmal nicht "SHITCURITY" schreien.
 
 ent-DrinkGrenadineBottleFull = Briar Rose Grenadinsirupflasche
     .desc = Süß und würzig, ein Barsirup verwendet, um Farbe oder Geschmack zu Getränken hinzuzufügen.
@@ -31,7 +31,7 @@ ent-DrinkMelonLiquorBottleFull = Emeraldinmelonenlauge
 ent-DrinkPatronBottleFull = Wrapp Artiste Patrón Flasche
     .desc = Silber geschnürter Tequila, serviert in Weltraumnachtclubs in der gesamten Galaxie.
 
-ent-DrinkPoisonWinebottleFull = Warlock's Velvet Flasche
+ent-DrinkPoisonWinebottleFull = Warlock's Velvet (Flasche)
     .desc = Was für eine schöne Verpackung für einen sicherlich hochwertigen Wein! Der Jahrgang muss erstaunlich sein!
 
 ent-DrinkRumBottleFull = Kubanischer gewürzter Rum von Captain Pete
@@ -46,7 +46,7 @@ ent-DrinkVermouthBottleFull = Goldeneye Wermutflasche
 ent-DrinkVodkaBottleFull = Wodkaflasche
     .desc = Aah, Wodka. Beste Wahl von Getränk und Kraftstoff von Russen weltweit.
 
-ent-DrinkWhiskeyBottleFull = Onkel Git's Special Reserve
+ent-DrinkWhiskeyBottleFull = Onkel Gits Special Reserve
     .desc = Ein Premium-Single-Malt-Whiskey, sanft in den Tunneln eines nuklearen Schutzraums gereift. BESTIMMUNGEN FÜR TUNNELWHISKEY.
 
 ent-DrinkWineBottleFull = Doppelbartbärtige Spezialweinflasche

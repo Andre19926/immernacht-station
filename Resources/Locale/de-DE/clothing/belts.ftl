@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sheath-insert-verb = Schafe
+sheath-insert-verb = Wegstecken
 sheath-eject-verb = Unsheathe

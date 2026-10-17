@@ -1,7 +1,7 @@
 # Components
-spray-painter-ammo-on-examine = Es hält {$charges} Gebühren.
+spray-painter-ammo-on-examine = Es hat {$charges} Ladungen.
 spray-painter-ammo-after-interact-full = Der Spray Painter ist voll!
-spray-painter-ammo-after-interact-refilled = Sie füllen den Spray Painter wieder auf.
+spray-painter-ammo-after-interact-refilled = Du füllst den Sprühlack nach.
 
 spray-painter-interact-no-charges = Es ist nicht genug Farbe übrig.
 spray-painter-interact-nothing-to-remove = Nichts zu entfernen!
@@ -22,7 +22,7 @@ spray-painter-window-title = Sprühmaler
 spray-painter-selected-style = Ausgewählter Stil:
 
 spray-painter-selected-decals = Ausgewähltes Abziehbild:
-spray-painter-use-custom-color = Verwenden Sie benutzerdefinierte Farbe
+spray-painter-use-custom-color = Verwende benutzerdefinierte Farbe
 spray-painter-use-snap-to-tile = Snap to Tile
 
 spray-painter-angle-rotation = Rotation:
@@ -43,10 +43,10 @@ spray-painter-color-black = Schwarz
 # Categories (tabs)
 spray-painter-tab-category-airlocks = Luftschleusen
 spray-painter-tab-category-canisters = Kanister
-spray-painter-tab-category-crates = Kästen
+spray-painter-tab-category-crates = Kisten
 spray-painter-tab-category-lockers = Schließfächer
 spray-painter-tab-category-pipes = Rohrleitungen
-spray-painter-tab-category-decals = Dezimalstellen
+spray-painter-tab-category-decals = Decals
 
 # Groups (subtabs)
 spray-painter-tab-group-airlockstandard = Standard
@@ -64,14 +64,14 @@ spray-painter-tab-group-walllocker = Sicher (Wand)
 # Airlocks
 spray-painter-style-airlockstandard-atmospherics = Atmosphäre
 spray-painter-style-airlockstandard-basic = Grundlegend
-spray-painter-style-airlockstandard-cargo = Ladung
+spray-painter-style-airlockstandard-cargo = Fracht
 spray-painter-style-airlockstandard-chemistry = Chemie
 spray-painter-style-airlockstandard-command = Führung
-spray-painter-style-airlockstandard-engineering = Ingenieurwesen
-spray-painter-style-airlockstandard-freezer = Gefriergerät
+spray-painter-style-airlockstandard-engineering = Technik
+spray-painter-style-airlockstandard-freezer = Kühlgerät
 spray-painter-style-airlockstandard-hydroponics = Hydrokultur
 spray-painter-style-airlockstandard-maintenance = Instandhaltung
-spray-painter-style-airlockstandard-medical = Medizinisch
+spray-painter-style-airlockstandard-medical = Medizin
 spray-painter-style-airlockstandard-salvage = Salvage
 spray-painter-style-airlockstandard-science = Wissenschaft
 spray-painter-style-airlockstandard-security = Sicherheit
@@ -79,13 +79,13 @@ spray-painter-style-airlockstandard-virology = Virologie
 
 spray-painter-style-airlockglass-atmospherics = Atmosphäre
 spray-painter-style-airlockglass-basic = Grundlegend
-spray-painter-style-airlockglass-cargo = Ladung
+spray-painter-style-airlockglass-cargo = Fracht
 spray-painter-style-airlockglass-chemistry = Chemie
 spray-painter-style-airlockglass-command = Führung
-spray-painter-style-airlockglass-engineering = Ingenieurwesen
+spray-painter-style-airlockglass-engineering = Technik
 spray-painter-style-airlockglass-hydroponics = Hydrokultur
 spray-painter-style-airlockglass-maintenance = Instandhaltung
-spray-painter-style-airlockglass-medical = Medizinisch
+spray-painter-style-airlockglass-medical = Medizin
 spray-painter-style-airlockglass-salvage = Salvage
 spray-painter-style-airlockglass-science = Wissenschaft
 spray-painter-style-airlockglass-security = Sicherheit
@@ -151,12 +151,12 @@ spray-painter-style-wallcloset-white = Weiß
 spray-painter-style-wallcloset-yellow = Gelb
 
 spray-painter-style-walllocker-evac = Evakuierung
-spray-painter-style-walllocker-medical = Medizinisch
+spray-painter-style-walllocker-medical = Medizin
 
 # Crates
 spray-painter-style-cratesteel-basic = Grundlegend
 spray-painter-style-cratesteel-electrical = Elektrisch
-spray-painter-style-cratesteel-engineering = Ingenieurwesen
+spray-painter-style-cratesteel-engineering = Technik
 spray-painter-style-cratesteel-radiation = Strahlung
 spray-painter-style-cratesteel-science = Wissenschaft
 spray-painter-style-cratesteel-surgery = Chirurgie
@@ -165,15 +165,15 @@ spray-painter-style-crateplastic-basic = Grundlegend
 spray-painter-style-crateplastic-chemistry = Chemie
 spray-painter-style-crateplastic-command = Führung
 spray-painter-style-crateplastic-hydroponics = Hydrokultur
-spray-painter-style-crateplastic-medical = Medizinisch
+spray-painter-style-crateplastic-medical = Medizin
 spray-painter-style-crateplastic-oxygen = Sauerstoff
 
 spray-painter-style-cratesecure-basic = Grundlegend
 spray-painter-style-cratesecure-chemistry = Chemie
 spray-painter-style-cratesecure-command = Führung
-spray-painter-style-cratesecure-engineering = Ingenieurwesen
+spray-painter-style-cratesecure-engineering = Technik
 spray-painter-style-cratesecure-hydroponics = Hydrokultur
-spray-painter-style-cratesecure-medical = Medizinisch
+spray-painter-style-cratesecure-medical = Medizin
 spray-painter-style-cratesecure-plasma = Plasma
 spray-painter-style-cratesecure-private = Privat
 spray-painter-style-cratesecure-science = Wissenschaft
@@ -184,11 +184,11 @@ spray-painter-style-cratesecure-weapon = Waffe
 spray-painter-style-canisters-air = Luft
 spray-painter-style-canisters-ammonia = Ammoniak
 spray-painter-style-canisters-carbon-dioxide = Kohlendioxid
-spray-painter-style-canisters-frezon = Fressen
+spray-painter-style-canisters-frezon = Frezon
 spray-painter-style-canisters-nitrogen = Stickstoff
 spray-painter-style-canisters-nitrous-oxide = Stickoxide
 spray-painter-style-canisters-oxygen = Sauerstoff
 spray-painter-style-canisters-plasma = Plasma
-spray-painter-style-canisters-storage = Lagerung
+spray-painter-style-canisters-storage = Lager
 spray-painter-style-canisters-tritium = Tritium
 spray-painter-style-canisters-water-vapor = Wasserdampf

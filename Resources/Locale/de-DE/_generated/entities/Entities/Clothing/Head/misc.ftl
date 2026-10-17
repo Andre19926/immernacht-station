@@ -1,4 +1,4 @@
-ent-ClothingHeadHatBunny = Höhrchen
+ent-ClothingHeadHatBunny = Hasenohren
     .desc = Niedliche Hasenohren.
 
 ent-ClothingHeadHatCake = Kuchenhut
@@ -29,7 +29,7 @@ ent-ClothingHeadHatShrineMaidenWig = Sanitärperücke
     .desc = Auf dem Tag steht: "Alle Erlöse gehen an den Hakurei-Schrein."
 
 ent-ClothingHeadHatCone = Warnkegel
-    .desc = Dieser Kegel versucht, Sie vor etwas zu warnen!
+    .desc = Dieser Kegel versucht, dich vor etwas zu warnen!
 
 ent-ClothingHeadHatFancyCrown = ausgefallene Krone
     .desc = Es riecht nach toter Ratte. Lass dich wie einer sprechen!
@@ -39,13 +39,13 @@ ent-ClothingHeadHatCatEars = Katzenohren
 ent-ClothingHeadHatCatEarsValid = Katzenohren
 
 ent-ActionBecomeValid = Werde gültig
-    .desc = *bemerkt Ihr Killsign * owo, was das ist
+    .desc = *bemerkt dein Killsign * owo, was das ist
 
 ent-ClothingHeadHatDogEars = Hundeohren
     .desc = Nur für gute Jungs.
 
 ent-ClothingHeadHatSquid = Squiddy
-    .desc = Erschrecken Sie Ihre Freunde mit dieser eldritch Maske.
+    .desc = Erschrecke deine Freunde mit dieser eldritch Maske.
 
 ent-ClothingHeadHatRedRacoon = Roter Rakonenhut
     .desc = Fluffy Hut der roten Rakone!

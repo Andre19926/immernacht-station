@@ -3,8 +3,8 @@ knowledge-path-cosmos-s1-desc =
     Ein Nebel erschien am Himmel, seine höllische Geburt leuchtete auf mich. Dies war der Beginn einer großen Transzendenz.
 
     Öffnet euch den Weg des Kosmos.
-    Ermöglicht es Ihnen, eine Glasscheibe und ein Messer in eine kosmische Klinge umzuwandeln.
-    Sie können nur zwei gleichzeitig erstellen.
+    Ermöglicht dir, eine Glasscheibe und ein Messer in eine kosmische Klinge umzuwandeln.
+    Du kannst nur zwei gleichzeitig erstellen.
 
 knowledge-path-cosmos-s2-name = Der Greif des Kosmos
 knowledge-path-cosmos-s2-desc =
@@ -26,9 +26,9 @@ knowledge-path-cosmos-s4-name = Zeichen des Kosmos
 knowledge-path-cosmos-s4-desc =
     Das Biest flüsterte mir jetzt gelegentlich nur kleine Leckerbissen ihrer Umstände zu. Ich kann ihnen helfen, ich muss ihnen helfen.
 
-    Euer Mansus-Griff wendet nun das Zeichen des Kosmos an. Die Markierung wird durch einen Angriff mit Ihrem Cosmic Blade ausgelöst.
+    Euer Mansus-Griff wendet nun das Zeichen des Kosmos an. Die Markierung wird durch einen Angriff mit deinem Cosmic Blade ausgelöst.
     Wenn es ausgelöst wird, wird das Opfer an den Ort zurückgebracht, an dem die Markierung ursprünglich auf sie aufgebracht wurde, wodurch ein kosmisches Feld an ihrer Stelle verbleibt.
-    Sie werden dann für 2 Sekunden gelähmt.
+    Du wirst dann für 2 Sekunden gelähmt.
     Kosmische Felder beschleunigen euch jetzt und regenerieren Ausdauer.
 
 knowledge-path-cosmos-s5-name = Star Touch
@@ -38,23 +38,23 @@ knowledge-path-cosmos-s5-desc =
     Gewährt dir Star Touch, einen Zauber, der ein Sternzeichen auf dein Ziel legt und ein kosmisches Feld zu deinen Füßen und zu den Rasen neben dir erzeugt.
     Ziele, die bereits eine Sternmarke haben, werden mit einem kosmischen Strahl mit dir verbunden, geben ihnen eine kosmische Spur und ermöglichen es dir, sie aus nächster Nähe mit deiner kosmischen Klinge zu treffen.
     Angebundene opfer können sich auf keinen fall teleportieren.
-    Wenn das Kabel für 8 Sekunden ungebrochen bleibt, werden sie in den Schlaf versetzt, mit Stern markiert und zu Ihnen teleportiert.
+    Wenn das Kabel für 8 Sekunden ungebrochen bleibt, werden sie in den Schlaf versetzt, mit Stern markiert und zu dir teleportiert.
 
 knowledge-path-cosmos-s6-name = Star Blast
 knowledge-path-cosmos-s6-desc =
     Das Biest war jetzt zu allen Zeiten hinter mir, wobei jedes Opferwort der Bestätigung durch mich geleitet wurde.
 
     Feuert ein Projektil ab, das sich sehr langsam bewegt und eine kurzlebige Wand aus kosmischen Feldern anhebt, wohin es geht.
-    Wenn Sie neu gestaltet werden, werden Sie zum Projektil teleportiert, und kosmische Felder werden von Ihrer aktuellen Position und von Teleport-Standorten erzeugt und Heiden in der Nähe hineingezogen.
+    Wenn du neu gestaltet wirst, wirst du zum Projektil teleportiert, und kosmische Felder werden von deiner aktuellen Position und von Teleport-Standorten erzeugt und Heiden in der Nähe hineingezogen.
 
 knowledge-path-cosmos-s7-name = Kosmische Klinge
 knowledge-path-cosmos-s7-desc =
     Das Biest nahm meine Klingen in der Hand, ich kniete und fühlte einen scharfen Schmerz. Die Klingen glitzerten nun mit fragmentierter Kraft. Ich fiel zu Boden und weinte zu den Füßen des Tieres.
 
-    Ihre Klinge markiert jetzt Ihre Opfer und ermöglicht es Ihnen, sternmarkierte Heiden von weiter weg anzugreifen.
-    Ihre Angriffe werden Bonusschaden an bis zu zwei frühere Opfer ketten.
-    Die Combo wird nach zwei Sekunden zurückgesetzt, ohne einen Angriff auszuführen, oder wenn Sie jemanden angreifen, der bereits markiert ist.
-    Wenn Sie mehr als zwei Angriffe kombinieren, erhalten Sie eine kosmische Spur und erhöhen Ihren Combo-Timer auf bis zu zehn Sekunden.
+    Deine Klinge markiert jetzt deine Opfer und ermöglicht es dir, sternmarkierte Heiden von weiter weg anzugreifen.
+    Deine Angriffe werden Bonusschaden an bis zu zwei frühere Opfer ketten.
+    Die Combo wird nach zwei Sekunden zurückgesetzt, ohne einen Angriff auszuführen, oder wenn du jemanden angreifst, der bereits markiert ist.
+    Wenn du mehr als zwei Angriffe kombinierst, erhältst du eine kosmische Spur und erhöhen deinen Combo-Timer auf bis zu zehn Sekunden.
     Kosmische Felder blockieren jetzt Explosionen, stören die Aktivierung von Granaten oder Signalern und schalten bereits grundierte Granaten ab.
 
 knowledge-path-cosmos-s8-name = Kosmische Expansion
@@ -67,11 +67,11 @@ knowledge-path-cosmos-s8-desc =
 knowledge-path-cosmos-s9-name = Das Geschenk der Schöpfer
 knowledge-path-cosmos-s9-desc =
     Das Aufstiegsritual des Pfades des Kosmos.
-    Bringen Sie 3 Leichen mit einem Sternzeichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
-    Wenn Sie fertig sind, werden Sie der Besitzer eines Star Gazer.
+    Bringe 3 Leichen mit einem Sternzeichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
+    Wenn du fertig bist, wirst du der Besitzer eines Star Gazer.
     Der Star Gazer ist ein starker Verbündeter, der sogar verstärkte Mauern einreißen kann.
     Der Star Gazer hat eine Aura, die dich heilen wird.
-    Star Touch kann Sie jetzt zum Star Gazer teleportieren, wenn Sie in Ihrer Hand aktiviert werden.
+    Star Touch kann dich jetzt zum Star Gazer teleportieren, wenn du in deiner Hand aktiviert wirst.
     Euer kosmischer Expansionszauber und eure Klingen werden ebenfalls stark ermächtigt.
-    Sie erhalten Röntgenblick sowie Immunität gegen extremen Druck und Temperatur.
+    Du erhältst Röntgenblick sowie Immunität gegen extremen Druck und Temperatur.
     Kosmische Felder verlangsamen jetzt die Projektile.

@@ -22,10 +22,10 @@ ent-BoxSurvivalMedical = Überlebensbox
 ent-BoxSurvivalMedicalNitrogen = Überlebensbox
     .desc = Es ist eine Box mit grundlegenden Internaten im Inneren.
 
-ent-BoxHug = Kasten mit Umarmungen
+ent-BoxHug = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
-ent-BoxHugNitrogen = Kasten mit Umarmungen
+ent-BoxHugNitrogen = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxMime = Überlebensbox

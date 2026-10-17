@@ -30,4 +30,4 @@ generic-seconds = Sekunden
 
 generic-playtime-title = Spielzeit
 
-generic-confirm = Bestätigung
+generic-confirm = Bestätigen

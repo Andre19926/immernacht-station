@@ -17,7 +17,7 @@ ent-RMCTrijentSignAlt = Trijent Landing Schild
     .desc = Ein großes Schild mit der Aufschrift "Trijent mining colony", mit der Hälfte des Schildes auf Japanisch.
 
 ent-RMCSorokyneSign = Sorokyne Landeschild
-    .desc = Ein großes Schild mit der Aufschrift "Sorokyne - СОРОКІНО - POP. 110" Das Firmenlogo ist stolz in der Ecke geschmückt. Essen Sie den harzbeschichteten Schnee nicht.
+    .desc = Ein großes Schild mit der Aufschrift "Sorokyne - СОРОКІНО - POP. 110" Das Firmenlogo ist stolz in der Ecke geschmückt. Iss den harzbeschichteten Schnee nicht.
 
 ent-RMCSorokyneSignAlt = Sorokyne Landeschild
     .desc = Ein großes Schild mit der Aufschrift "Sorokyne - СОРОКІНО - POP. 110" Das Firmenlogo ist stolz in der Ecke geschmückt. Jemand hat grob geschrieben "FUCK OFF" in teal Farbe über die Mehrheit der Schild.

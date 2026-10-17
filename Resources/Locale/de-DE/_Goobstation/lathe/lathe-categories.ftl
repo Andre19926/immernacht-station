@@ -15,4 +15,4 @@ lathe-category-mechs-gygax = Gygax
 lathe-category-mechs-durand = Durand
 lathe-category-mechs-equipment = Mech-Ausrüstung
 lathe-category-mechs-weapons = Mech-Waffen
-lathe-category-modsuit = MOD Suits
+lathe-category-modsuit = MODsuits

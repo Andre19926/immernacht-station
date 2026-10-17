@@ -7,7 +7,7 @@ ent-WeaponProtoKineticRepeater = Protokinetische Repeater
 ent-WeaponProtoKineticPistol = Proto-kinetische Pistole
     .desc = Feuert kinetische Bolzen mit geringem Schaden, hat eine höhere Mod-Kapazität.
 
-ent-WeaponProtoKineticAcceleratorSpace = Proto-Kinee-Velle Pro-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle
+ent-WeaponProtoKineticAcceleratorSpace = Proto-kinetischer Beschleuniger (Weltraum)
     .desc = Feuert hochschädigende kinetische Bolzen auf kurze Entfernung.
 
 ent-WeaponProtoKineticShotgunSpace = Protokinetische Schrotflinte

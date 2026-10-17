@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-power-switch-component-toggle-verb = Umschaltleistung
+power-switch-component-toggle-verb = Strom umschalten

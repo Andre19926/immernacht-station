@@ -14,16 +14,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # named frequencies
-device-frequency-prototype-name-atmos = Atmosphärenschutzvorrichtungen
+device-frequency-prototype-name-atmos = Atmosphärengeräte
 device-frequency-prototype-name-suit-sensors = Anzugsensoren
-device-frequency-prototype-name-crew-monitor = Crewmonitor
-device-frequency-prototype-name-lights = Intelligente Beleuchtung
-device-frequency-prototype-name-mailing-units = Postsendungen
+device-frequency-prototype-name-crew-monitor = Crew-Monitor
+device-frequency-prototype-name-lights = Smarte Lichter
+device-frequency-prototype-name-mailing-units = Poststationen
 device-frequency-prototype-name-pdas = PDAs
 device-frequency-prototype-name-fax = Fax
 device-frequency-prototype-name-basic-device = Basisgeräte
-device-frequency-prototype-name-cyborg-control = Cyborg-Kontrolle
-device-frequency-prototype-name-robotics-console = Roboterkonsole
+device-frequency-prototype-name-cyborg-control = Cyborg-Steuerung
+device-frequency-prototype-name-robotics-console = Robotik-Konsole
 device-frequency-prototype-name-turret = Sentry Turret
 device-frequency-prototype-name-turret-control = Sentry Turret Control
 device-frequency-prototype-name-xenoborg = Xenoborg
@@ -31,13 +31,13 @@ device-frequency-prototype-name-mothership = Mutterschiff
 
 ## camera frequencies
 device-frequency-prototype-name-surveillance-camera-test = Subnetztest
-device-frequency-prototype-name-surveillance-camera-engineering = Ingenieurkameras
+device-frequency-prototype-name-surveillance-camera-engineering = Technik-Kameras
 device-frequency-prototype-name-surveillance-camera-security = Sicherheitskameras
-device-frequency-prototype-name-surveillance-camera-science = Wissenschaftliche Kameras
+device-frequency-prototype-name-surveillance-camera-science = Wissenschaftskameras
 device-frequency-prototype-name-surveillance-camera-supply = Versorgungskameras
 device-frequency-prototype-name-surveillance-camera-command = Führungskameras
 device-frequency-prototype-name-surveillance-camera-service = Servicekameras
-device-frequency-prototype-name-surveillance-camera-medical = Medizinische Kameras
+device-frequency-prototype-name-surveillance-camera-medical = Medizin-Kameras
 device-frequency-prototype-name-surveillance-camera-general = Allgemeine Kameras
 device-frequency-prototype-name-surveillance-camera-entertainment = Unterhaltungskameras
 
@@ -64,7 +64,7 @@ device-address-examine-message = Die Adresse des Geräts ist {$address}.
 
 # Device net ID names
 device-net-id-private = Privat
-device-net-id-wired = verdrahtet
+device-net-id-wired = Kabelgebunden
 device-net-id-wireless = Drahtlos
 device-net-id-apc = Apc
 device-net-id-atmos-devices = Atmos-Geräte

@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine Text
-gas-thermomachine-system-examined = Die {$machineName} Thermostat ist auf [color={$tempColor}]{$temp} K[/color].
+gas-thermomachine-system-examined = Der Thermostat von {$machineName} ist auf [color={$tempColor}]{$temp} K[/color] eingestellt.

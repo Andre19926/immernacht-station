@@ -1,11 +1,11 @@
-ent-SmokingPipe = Rohrleitung
+ent-SmokingPipe = Pfeife
     .desc = So wie Grandpappy früher geraucht hat.
 
-ent-SmokingPipeFilledTobacco = Rohrleitung
+ent-SmokingPipeFilledTobacco = Pfeife (Tabak)
     .desc = So wie Grandpappy früher geraucht hat.
 
-ent-SmokingPipeFilledCannabis = Rohrleitung
+ent-SmokingPipeFilledCannabis = Pfeife (Cannabis)
     .desc = So wie Grandpappy früher geraucht hat.
 
-ent-SmokingPipeFilledCannabisRainbow = Rohrleitung
+ent-SmokingPipeFilledCannabisRainbow = Pfeife
     .desc = So wie Grandpappy früher geraucht hat.

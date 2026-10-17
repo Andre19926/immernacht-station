@@ -20,10 +20,10 @@ ent-OrganShadowkinHeart = Herz
     .desc = Ups, ich denke, das gehört jemandem!
 
 ent-OrganShadowkinStomach = Magen
-    .desc = "Yummy!", sagt der Magen, obwohl Sie es nicht hören können.
+    .desc = "Yummy!", sagt der Magen, obwohl du es nicht hören kannst.
 
 ent-OrganShadowkinLiver = Leber
     .desc = Leben 'er? Ich weiß es kaum äh!
 
 ent-OrganShadowkinKidneys = Nieren
-    .desc = Geben Sie dem Kind die Knie zurück, bitte, dies ist das dritte Mal in dieser Woche.
+    .desc = Gib dem Kind die Knie zurück, bitte, dies ist das dritte Mal in dieser Woche.

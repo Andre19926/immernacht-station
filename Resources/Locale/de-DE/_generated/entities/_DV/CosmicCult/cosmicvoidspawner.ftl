@@ -1,1 +1,1 @@
-ent-CosmicVoidspawner = wisp-Laichpunkt
+ent-CosmicVoidspawner = Wisp-Spawnpunkt

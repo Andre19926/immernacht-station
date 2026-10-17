@@ -1,4 +1,4 @@
-xenomorphs-announcement = Warnung: Feindliche Bio-Signaturen entdeckt. Unbekannte Entitäten bewegen sich durch die Lüftungsöffnungen und Wartungsschächte der Station. Alle Mitarbeiter initiieren Sperrprotokolle und vermeiden isolierte Bereiche.
+xenomorphs-announcement = Warnung: Feindliche Biosignaturen entdeckt. Unbekannte Wesen bewegen sich durch die Lüftungsschächte und Wartungsgänge der Station. Alle Mitarbeiter: Sperrprotokolle einleiten und abgelegene Bereiche meiden.
 xenomorphs-no-more-threat-announcement = Nach Daten unserer Fernsensoren wurden alle Xenomorphen eliminiert.
 xenomorphs-win-announcement-shuttle-call =
     Alarm: Die Station wurde vom Black Swarm verbraucht. Alle übrigen Mitarbeiter werden angewiesen, den Kernspaltungssprengstoff zu bewaffnen und sofort zum Evakuierungs-Shuttle zu gehen.

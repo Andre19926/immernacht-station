@@ -13,5 +13,5 @@ ent-BulletGrenadeSpread00Buckshot = Pellet (.50)
 ent-BulletGrenadeSpread0000Buckshot = Pellet (.50)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletGrenadeSlug = Schneckengranaten
+ent-BulletGrenadeSlug = Slug-Granate
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!

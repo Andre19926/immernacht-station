@@ -16,7 +16,7 @@ ent-FoodDonutMeat = Fleischdonut
 ent-FoodDonutPink = Rosa Donut
     .desc = Geht großartig mit einem Soja-Latte.
 
-ent-FoodDonutSpaceman = Spaceman's Donut
+ent-FoodDonutSpaceman = Spaceman-Donut
     .desc = Geht großartig mit einem kalten Becherglas Malk.
 
 ent-FoodDonutApple = Apfeldonut
@@ -37,7 +37,7 @@ ent-FoodDonutBungo = Bungo donut
 ent-FoodDonut = Matcha donut
     .desc = Das L-Theanin in diesem Donut ist entspannend, aber nicht euphorisch. Geht gut mit gegenüber mitwissen Seinender einmal Tee.
 
-ent-FoodDonutSweetpea = Süßerbsendonner
+ent-FoodDonutSweetpea = Süßerbsen-Donut
     .desc = Geht großartig mit einer Flasche Bastion Burbon!
 
 ent-FoodDonutJellyHomer = Geleedonut
@@ -46,7 +46,7 @@ ent-FoodDonutJellyHomer = Geleedonut
 ent-FoodDonutJellyPink = Rosa Geleedonut
     .desc = Geht großartig mit einem Soja-Latte.
 
-ent-FoodDonutJellySpaceman = Spaceman's Gelee-Donut
+ent-FoodDonutJellySpaceman = Spaceman-Gelee-Donut
     .desc = Geht großartig mit einem kalten Becherglas Malk.
 
 ent-FoodDonutJellyApple = Apfelgelee-Donut

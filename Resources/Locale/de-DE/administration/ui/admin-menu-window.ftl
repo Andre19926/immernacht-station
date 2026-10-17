@@ -11,13 +11,13 @@
 
 ## AdminMenuWindow.xaml.cs
 
-admin-menu-title = Admin Menü
+admin-menu-title = Admin-Menü
 admin-menu-admin-tab = Admin
 admin-menu-adminbus-tab = Adminbus
 admin-menu-atmos-tab = Atmos
-admin-menu-round-tab = rund
+admin-menu-round-tab = Runde
 admin-menu-server-tab = Server
 admin-menu-panic-bunker-tab = Panic Bunker
-admin-menu-baby-jail-tab = Baby Gefängnis
+admin-menu-baby-jail-tab = Neulingsschutz
 admin-menu-players-tab = Spieler
 admin-menu-objects-tab = Objekte

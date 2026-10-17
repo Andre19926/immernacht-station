@@ -8,11 +8,11 @@
 
 comp-gas-pump-ui-pump-status = Status:
 comp-gas-pump-ui-status-enabled = On
-comp-gas-pump-ui-status-disabled = Ausgeschaltet
+comp-gas-pump-ui-status-disabled = Aus
 
-comp-gas-pump-ui-pump-set-rate = Setz
+comp-gas-pump-ui-pump-set-rate = Setzen
 comp-gas-pump-ui-pump-set-max = Max.
 
 comp-gas-pump-ui-pump-output-pressure = Ausgangsdruck (kPa):
 
-comp-gas-pump-ui-pump-transfer-rate = Übertragungsrate (L/s):
+comp-gas-pump-ui-pump-transfer-rate = Transferrate (L/s):

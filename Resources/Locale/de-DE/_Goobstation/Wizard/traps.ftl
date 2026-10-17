@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trap-revealed-message = Sie enthüllen {THE($trap)}!
+trap-revealed-message = Du enthüllst {THE($trap)}!
 trap-flare-message = {CAPITALIZE(THE($trap))} Leuchtet hell!
-trap-triggered-message = Sie treten auf {THE($trap)}!
+trap-triggered-message = Du trittst auf {THE($trap)}!
 
 ice-cube-break-free-start = Du fängst an, aus dem Eiswürfel auszubrechen...
 ice-cube-melt = Der Würfel schmilzt!

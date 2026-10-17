@@ -7,4 +7,4 @@ wraith-banishment = Ich bin ganz, zum letzten Mal.
 
 wraith-action-generic-fail = Nicht genug Punkte, um diese Aktion zu nutzen!
 
-whitelist-action-generic-fail = Sie haben nicht die Anforderungen, um diese Aktion zu verwenden.
+whitelist-action-generic-fail = Du hast nicht die Anforderungen, um diese Aktion zu verwenden.

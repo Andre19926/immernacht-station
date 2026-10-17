@@ -1,10 +1,10 @@
 ent-Intellicard = Intellicard
-    .desc = Ein Speichergerät für AIs.
+    .desc = Ein Speichergerät für KIs.
 
-ent-PlayerStationAiEmpty = AI-Kern
+ent-PlayerStationAiEmpty = KI-Kern
     .desc = Das Neueste in der Künstlichen Intelligenz.
 
-ent-PlayerStationAi = AI-Kern
+ent-PlayerStationAi = KI-Kern
     .desc = Das Neueste in der Künstlichen Intelligenz.
 
 ent-PlayerStationAiAssembly = Kernbaugruppe
@@ -13,14 +13,14 @@ ent-PlayerStationAiAssembly = Kernbaugruppe
 ent-StationAiBrain = Positronenhirn
     .desc = Ein künstliches Gehirn, das zu spontaner neuronaler Aktivität fähig ist.
 
-ent-StationAiHolo = AI-Augen
-    .desc = Der Betrachter der AI.
+ent-StationAiHolo = KI-Augen
+    .desc = Der Betrachter der KI.
 
-ent-StationAiHoloLocal = AI-Hologramm
+ent-StationAiHoloLocal = KI-Hologramm
     .desc = Eine holographische Darstellung einer KI.
 
 ent-PlayerBorgBattery = Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-PlayerBorgSyndicateAssaultBattery = Syndicate Angriff Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.

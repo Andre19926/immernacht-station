@@ -5,10 +5,10 @@ ent-ChevalTranslatorImplant = Cheval-Translatorimplantat
     .desc = Ein Implantat, das Cheval verstehen und sprechen kann.
 
 ent-BasicSpaceItalianTranslatorImplant = Basic Space Italienisches Übersetzerimplantat
-    .desc = Bietet Ihnen die Möglichkeit, die Bewohner der Küche zu verstehen.
+    .desc = Bietet dir die Möglichkeit, die Bewohner der Küche zu verstehen.
 
 ent-SpaceItalianTranslatorImplant = Advanced Space Italienisches Übersetzerimplantat
-    .desc = Bietet Ihnen die Fähigkeit, die Sprachen der Küche zu sprechen.
+    .desc = Bietet dir die Fähigkeit, die Sprachen der Küche zu sprechen.
 
 ent-YowKriolTranslatorImplant = Yow Kriol Translatorimplantat
     .desc = Ein Implantat, das die Fähigkeit gibt, Yow Kriol zu verstehen und zu sprechen.

@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-nutrition-error-player = Sie können diesen Befehl nicht verwenden, es sei denn, Sie sind ein Spieler.
-cmd-nutrition-error-entity = Sie können diesen Befehl nicht ohne eine Entität verwenden.
-cmd-nutrition-error-component = Ihr Unternehmen hat keine {$comp} Bauteil.
+cmd-nutrition-error-player = Du kannst diesen Befehl nur als Spieler verwenden.
+cmd-nutrition-error-entity = Du kannst diesen Befehl nicht ohne Entität verwenden.
+cmd-nutrition-error-component = Deine Entität hat keine {$comp}-Komponente.
 
-cmd-hungry-desc = macht hungrig
-cmd-hungry-help = Setzt dein hungriges Level auf den Hunger
-cmd-setnutrit-desc = Ändern Sie Hunger und Durst
-cmd-setnutrit-help = Setzen Sie Ihren Hunger oder Durst auf eine der eingebauten Schwellenwerte
-cmd-setnutrit-error-invalid-threshold = ungültig {$thresholdType} `{$thresholdString}`
+cmd-hungry-desc = Macht dich hungrig
+cmd-hungry-help = Setzt deinen Hunger auf "verhungernd"
+cmd-setnutrit-desc = Ändert Hunger und Durst
+cmd-setnutrit-help = Setzt deinen Hunger oder Durst auf einen der eingebauten Schwellenwerte
+cmd-setnutrit-error-invalid-threshold = Ungültiger {$thresholdType} `{$thresholdString}`
 
-cmd-thirsty-desc = macht dich durstig
-cmd-thirsty-help = Setzen Sie Ihren Durst auf Parted
+cmd-thirsty-desc = Macht dich durstig
+cmd-thirsty-help = Setzt deinen Durst auf „ausgedörrt“

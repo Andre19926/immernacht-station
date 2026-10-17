@@ -14,13 +14,13 @@ ent-ClothingShoesBootsMagDeathsquad = Deathquad Magboots
     .desc = Der Klang dieser Stiefel ist ikonisch; der Klang des Terrors.
 
 ent-ClothingShoesRealJordans = Luftjordanien
-    .desc = State-of-the-art, offizielle, nicht verkleinerte Jordans, die Sie vor dem Ausrutschen schützen, wenn sie eingeschaltet sind.
+    .desc = State-of-the-art, offizielle, nicht verkleinerte Jordans, die du vor dem Ausrutschen schützt, wenn sie eingeschaltet sind.
 
 ent-ClothingShoesFakeJordans = Luftjordanien
     .desc = Bei näherer Betrachtung fühlt sich etwas darüber ab. Sind sie ... verkleinert? Nein, das kann es nicht sein. Warte, das Logo sieht ein wenig aus...
 
-ent-ClothingShoesCreasedJordans = Croped Air Jordans (Deutsche Übersetzung)
-    .desc = Nein warte... das kann nicht sein... Sie sind erlöst!
+ent-ClothingShoesCreasedJordans = Zerknitterte Air Jordans
+    .desc = Nein, warte ... das kann nicht sein ... SIE HABEN KNICKE!
 
 ent-ClothingShoesBootsJackAdvanced = fortgeschrittene Jackstiefel
     .desc = Dieses Paar Jackstiefel wurde für den Sicherheitschef entworfen. Niemand weiß, warum sie fortgeschritten genannt werden, aber sie sind mit Sicherheit im Tropf fortgeschritten.
@@ -28,8 +28,8 @@ ent-ClothingShoesBootsJackAdvanced = fortgeschrittene Jackstiefel
 ent-ClothingShoesRealJordansAutographed = Luftjordanien
     .desc = Dies sind nicht nur irgendwelche Jordans, diese wurden mein Micheal Jordan selbst unterzeichnet. Diese müssen eine Festung wert sein.
 
-ent-ClothingShoesBootsWinterSnowjackBso = Blauschild-Schneejacken
-    .desc = Denn wenn Sie einen Kopf vor einem Wechselblatt auf einer Forschungsstation in der Antarktis retten müssen.
+ent-ClothingShoesBootsWinterSnowjackBso = Blueshield-Schneestiefel
+    .desc = Denn wenn du einen Kopf vor einem Wechselblatt auf einer Forschungsstation in der Antarktis retten musst.
 
 ent-ClothingShoesWinterCombatBoots = Schneejackenstiefel
     .desc = Nanotrasen-issue Security combat boots für Kampfszenarien oder Kampfsituationen. Jetzt in der Winterausgabe.

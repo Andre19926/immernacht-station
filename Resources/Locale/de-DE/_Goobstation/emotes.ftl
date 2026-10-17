@@ -13,18 +13,18 @@
 emote-menu-category-farts = Furze
 
 chat-emote-name-flip = Mach einen Flip
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Sprung
-chat-emote-name-tweak = Tweak
-chat-emote-name-flex = Flexmuskeln
-chat-emote-name-gulp = Schluck
-chat-emote-name-surprised = Blick überrascht
+chat-emote-name-spin = Drehen
+chat-emote-name-jump = Springen
+chat-emote-name-tweak = Durchdrehen
+chat-emote-name-flex = Muskeln spielen lassen
+chat-emote-name-gulp = Schlucken
+chat-emote-name-surprised = Überrascht gucken
 chat-emote-name-bagawk = Bastard
 
 chat-emote-msg-flip = macht einen Flip!
-chat-emote-msg-spin = Spins!
-chat-emote-msg-jump = Sprünge!
-chat-emote-msg-tweak = Fangt an zu optimieren!
-chat-emote-msg-flex = Beugt seine Muskeln.
-chat-emote-msg-gulp = Schlucke.
-chat-emote-msg-surprised = Sieht überrascht aus.
+chat-emote-msg-spin = dreht sich!
+chat-emote-msg-jump = springt!
+chat-emote-msg-tweak = dreht durch!
+chat-emote-msg-flex = lässt die Muskeln spielen.
+chat-emote-msg-gulp = schluckt.
+chat-emote-msg-surprised = guckt überrascht.

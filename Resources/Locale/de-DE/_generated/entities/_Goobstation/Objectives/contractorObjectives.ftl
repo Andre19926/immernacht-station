@@ -1,2 +1,2 @@
 ent-ContractorRansomObjective = Lösegeld ein Crewmitglied.
-    .desc = Sie haben wenig Geld ... Zeit, um etwas einfaches Geld zu verdienen.
+    .desc = Du hast wenig Geld ... Zeit, etwas schnelles Geld zu verdienen.

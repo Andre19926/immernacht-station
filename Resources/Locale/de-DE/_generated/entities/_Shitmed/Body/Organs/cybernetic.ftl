@@ -1,14 +1,14 @@
 ent-BasicCyberneticEyes = kybernetische Augen
-    .desc = Ein Paar kybernetische Augen, die Ihre Sicht verbessern und Sie vor Augenschäden schützen.
+    .desc = Ein Paar kybernetische Augen, die deine Sicht verbessern und dich vor Augenschäden schützen.
 
 ent-SecurityCyberneticEyes = kybernetische Sicherheitsaugen
-    .desc = Ein Paar kybernetische Augen, die Ihre Sicht verbessern, mit einem integrierten SecHUD.
+    .desc = Ein Paar kybernetische Augen, die deine Sicht verbessern, mit einem integrierten SecHUD.
 
 ent-MedicalCyberneticEyes = kybernetische Medhud-Augen
-    .desc = Ein Paar kybernetische Augen, die Ihre Sicht verbessern, mit einem integrierten MedHUD.
+    .desc = Ein Paar kybernetische Augen, die deine Sicht verbessern, mit einem integrierten MedHUD.
 
 ent-DiagnosticCyberneticEyes = kybernetische Diagnoseaugen
-    .desc = Ein Paar kybernetische Augen, die Ihre Sicht verbessern, mit einer integrierten diagnostischen Hud.
+    .desc = Ein Paar kybernetische Augen, die deine Sicht verbessern, mit einer integrierten diagnostischen Hud.
 
 ent-BasicCyberneticHeart = kybernetisches Herz
     .desc = Ein präzise abgestimmtes Herz, das die Aufnahme von Medikamenten verlangsamt und gleichzeitig die Aufnahme von Giften und Betäubungsmitteln beschleunigt, was zu geschwächten Wirkungen führt.

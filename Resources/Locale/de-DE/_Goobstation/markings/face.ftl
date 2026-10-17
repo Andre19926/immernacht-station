@@ -7,19 +7,19 @@ marking-FaceFullblush-fullblush = Full Blush
 marking-FaceCheekspotRight = Cheek Spot (rechts)
 marking-FaceCheekspotRight-cheekspot_r = Cheek Spot (rechts)
 
-marking-FaceCheekspotLeft = Cheek Spot (links)
+marking-FaceCheekspotLeft = Wangenfleck (links)
 marking-FaceCheekspotLeft-cheekspot_l = Cheek Spot (links)
 
 marking-FaceChesireRight = Chesire Grin (rechts)
 marking-FaceChesireRight-chesire_r = Chesire Grin (rechts)
 
-marking-FaceChesireLeft = Chesire Grin (Links)
+marking-FaceChesireLeft = Grinsekatzenlächeln (links)
 marking-FaceChesireLeft-chesire_l = Chesire Grin (Links)
 
 marking-FaceCrowRight = Crow's Feet (Rechts)
 marking-FaceCrowRight-crow_r = Crow's Feet (Rechts)
 
-marking-FaceCrowLeft = Crow's Feet (Links)
+marking-FaceCrowLeft = Krähenfüße (links)
 marking-FaceCrowLeft-crow_l = Crow's Feet (Links)
 
 marking-FaceEarRight = Ohrbedeckung (rechts)
@@ -37,7 +37,7 @@ marking-FaceEyebrowLeft-eyebrow_l = Augenbraue (links)
 marking-FaceEyebrows = Augenbrauen
 marking-FaceEyebrows-eyebrows = Augenbrauen
 
-marking-FaceEyecornerRight = Eye Corner (rechts)
+marking-FaceEyecornerRight = Augenwinkel (rechts)
 marking-FaceEyecornerRight-eyecorner_r = Eye Corner (rechts)
 
 marking-FaceEyecornerLeft = Augenecke (links)
@@ -55,13 +55,13 @@ marking-FaceEyestripe-eyestripe = Augenstreifen
 marking-FaceLipcornerRight = Lip Corner (rechts)
 marking-FaceLipcornerRight-lipcorner_r = Lip Corner (rechts)
 
-marking-FaceLipcornerLeft = Lip Corner (Links)
+marking-FaceLipcornerLeft = Mundwinkel (links)
 marking-FaceLipcornerLeft-lipcorner_l = Lip Corner (Links)
 
 marking-FaceGlabella = Glabella
 marking-FaceGlabella-blabella = Glabella
 
-marking-FaceLowercheekRight = Lower Cheek (rechts)
+marking-FaceLowercheekRight = Untere Wange (rechts)
 marking-FaceLowercheekRight-lowercheek_r = Lower Cheek (rechts)
 
 marking-FaceLowercheekLeft = Untere Wange (links)
@@ -76,7 +76,7 @@ marking-FaceNosetip-nosetip = Nasenspitze
 marking-FaceNosestripe = Nasenstreifen
 marking-FaceNosestripe-nosestripe = Nasenstreifen
 
-marking-FaceUnibrow = Unirow
+marking-FaceUnibrow = Monobraue
 marking-FaceUnibrow-unibrow = Unirow
 
 marking-FaceNeckSlim = Halsbedeckung (Slim)

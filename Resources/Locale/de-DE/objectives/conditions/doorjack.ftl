@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-doorjack-title = Doorjacke {$count} Türen auf dem Bahnhof.
-objective-condition-doorjack-description = Ihre handschuhe können luftschleusen befeuern. Tun Sie dies, um {$count} Türen auf dem Bahnhof.
+objective-condition-doorjack-title = Doorjacke {$count} Türen auf der Station.
+objective-condition-doorjack-description = Deine handschuhe können luftschleusen befeuern. Tu dies, um {$count} Türen auf der Station.

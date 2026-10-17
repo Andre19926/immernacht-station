@@ -14,11 +14,11 @@ analysis-console-menu-title = Broad-Spectrum Mark 3 Analysekonsole
 analysis-console-server-list-button = Server
 analysis-console-extract-button = Auszugspunkte
 
-analysis-console-info-no-scanner = Kein Analysator angeschlossen! Bitte verbinden Sie eine mit einem Multitool.
-analysis-console-info-no-artifact = Kein Artefakt vorhanden! Platzieren Sie einen auf dem Pad, um Knoteninformationen anzuzeigen.
+analysis-console-info-no-scanner = Kein Analysator angeschlossen! Bitte verbinde eine mit einem Multitool.
+analysis-console-info-no-artifact = Kein Artefakt vorhanden! Platziere einen auf dem Pad, um Knoteninformationen anzuzeigen.
 analysis-console-info-ready = Systeme betriebsbereit. Scanbereit.
 
-analysis-console-no-node = Wählen Sie Node to View
+analysis-console-no-node = Wähle Node to View
 analysis-console-info-id = [font="Monospace" size=11]ID:[/font]
 analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/color][/font]
 analysis-console-info-class = [font="Monospace" size=11]Klasse:[/font]
@@ -34,7 +34,7 @@ analysis-console-info-durability-value = [font="Monospace" size=11][color={$colo
 analysis-console-info-effect = [font="Monospace" size=11]Wirkung:[/font]
 analysis-console-info-effect-value = [font="Monospace" size=11][color=gray]{ $state ->
     [true] {$info}
-    *[false] Entsperren Sie Knoten, um Informationen zu erhalten
+    *[false] Entsperre Knoten, um Informationen zu erhalten
 }[/color][/font]
 analysis-console-info-trigger = [font="Monospace" size=11]Auslöser:[/font]
 analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$triggers}[/color][/font]

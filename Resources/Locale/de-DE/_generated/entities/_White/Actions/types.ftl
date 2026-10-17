@@ -5,4 +5,4 @@ ent-ToggleThermalVision = Toggle Thermal Vision
     .desc = Toggles thermische Sicht.
 
 ent-PulseThermalVision = Pulsthermische Sicht
-    .desc = Aktivieren Sie das thermische Sehen vorübergehend.
+    .desc = Aktiviere das thermische Sehen vorübergehend.

@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-triple-citrus = Dreifachzitrusfrüchte
-reagent-desc-triple-citrus = Drei Zitrusfrüchte pro Tag halten Leberversagen in Schach! Hilft auch dabei, Ihre Gäste länger in der Bar zu halten.
+reagent-desc-triple-citrus = Drei Zitrusfrüchte pro Tag halten Leberversagen in Schach! Hilft auch dabei, deine Gäste länger in der Bar zu halten.

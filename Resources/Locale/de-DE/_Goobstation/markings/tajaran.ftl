@@ -12,13 +12,13 @@ marking-TajaranTorsoCrest-crest = Fell
 marking-TajaranTorsoFullBelly = Brustfell (vollständig)
 marking-TajaranTorsoFullBelly-fullbelly = Fell
 
-marking-TajaranHeadMuzzle = Mündung
+marking-TajaranHeadMuzzle = Schnauze
 marking-TajaranHeadMuzzle-muzzle = Mündung
 marking-TajaranHeadMuzzleLarge = Mündung (groß)
 marking-TajaranHeadMuzzleLarge-muzzle_large = Mündung
 marking-TajaranHeadNose = Nase
 marking-TajaranHeadNose-nose = Nase
-marking-TajaranHeadPatches = Patches
+marking-TajaranHeadPatches = Flecken
 marking-TajaranHeadPatches-patch = Patches
 marking-TajaranHeadPoints = Punkte
 marking-TajaranHeadPoints-points = Punkte
@@ -38,7 +38,7 @@ marking-TajaranEarsSeparateNear = Klassische Ohren (Alternativ, Getrennt)
 marking-TajaranEarsSeparateNear-outears_near = Äußeres
 marking-TajaranEarsSeparateNear-inears_near = Inneres
 
-marking-TajaranTailAnim = Classic Tail (Animiert)
+marking-TajaranTailAnim = Klassischer Schwanz (animiert)
 marking-TajaranTailAnim-tail_anim = Schwanz
 marking-TajaranTailAnimRings = Classic Tail (Animiert, Ringe)
 marking-TajaranTailAnimRings-tail_anim = Schwanz
@@ -62,7 +62,7 @@ marking-TajaranEarsCurled = Gerollte Ohren
 marking-TajaranEarsCurled-curled_outer = Äußeres Ohr
 marking-TajaranEarsCurled-curled_inner = Innenohr
 
-marking-TajaranEarsDroopy = Droopy Ohren
+marking-TajaranEarsDroopy = Hängeohren, Flauschohren, Stummelohren
 marking-TajaranEarsDroopy-droopy_outer = Äußeres Ohr
 marking-TajaranEarsDroopy-droopy_inner = Innenohr
 

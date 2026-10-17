@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-diona-hurt-by-herbicide-popup = Die Chemikalie verwelkt etwas von Ihrem Grün!
+diona-hurt-by-herbicide-popup = Die Chemikalie verwelkt etwas von deinem Grün!

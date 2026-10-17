@@ -1,7 +1,7 @@
 ent-AirAlarm = Luftalarm
     .desc = Ein Luftalarm. Alarme ... Luft?
 
-ent-AirAlarmAssembly = Luftalarmanlage
+ent-AirAlarmAssembly = Luftalarm-Bausatz
     .desc = Ein Luftalarm. Sieht nicht so aus, als würde es bald alarmierende Luft sein.
 
 ent-AirAlarmXeno = Luftalarm

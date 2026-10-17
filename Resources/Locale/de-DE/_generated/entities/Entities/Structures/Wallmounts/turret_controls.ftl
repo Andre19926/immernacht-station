@@ -1,4 +1,4 @@
-ent-WeaponEnergyTurretControlPanelFrame = Sentry-Turm-Bedienfeld-Anordnung
+ent-WeaponEnergyTurretControlPanelFrame = Bausatz für Sentry-Turm-Bedienfeld
     .desc = Eine unvollständige Wandmontage für ein Wächterturm-Bedienfeld.
 
 ent-WeaponEnergyTurretAIControlPanel = Kontrolltafel für den Wachturm

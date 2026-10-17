@@ -4,22 +4,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-space-heater-ui-title = Temperaturkontrolleinheit
+comp-space-heater-ui-title = Temperaturregelung
 comp-space-heater-ui-thermostat = Thermostat:
 comp-space-heater-ui-mode = Modus
-comp-space-heater-ui-status-disabled = Ausgeschaltet
+comp-space-heater-ui-status-disabled = Aus
 comp-space-heater-ui-status-enabled = On
 comp-space-heater-ui-increase-temperature-range = +
 comp-space-heater-ui-decrease-temperature-range = -
 
 comp-space-heater-mode-Auto = Auto
-comp-space-heater-mode-Heat = Wärme
-comp-space-heater-mode-Cool = kühl
+comp-space-heater-mode-Heat = Hitze
+comp-space-heater-mode-Cool = Kühlen
 
-comp-space-heater-ui-power-consumption = Leistungspegel:
-comp-space-heater-ui-Low-power-consumption = niedrig
+comp-space-heater-ui-power-consumption = Leistungsstufe:
+comp-space-heater-ui-Low-power-consumption = Niedrig
 comp-space-heater-ui-Medium-power-consumption = Medium
-comp-space-heater-ui-High-power-consumption = hoch
+comp-space-heater-ui-High-power-consumption = Hoch
 
-comp-space-heater-device-name = Raumheizgerät
+comp-space-heater-device-name = Raumheizer
 comp-space-heater-unanchored = Die {$device} nicht verankert ist.

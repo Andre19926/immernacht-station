@@ -8,4 +8,4 @@ quick-dialog-ui-float = Float..
 quick-dialog-ui-short-text = Kurztext..
 quick-dialog-ui-long-text = Langer Text.
 quick-dialog-ui-ok = Ok
-quick-dialog-ui-cancel = Stornierung
+quick-dialog-ui-cancel = Abbrechen

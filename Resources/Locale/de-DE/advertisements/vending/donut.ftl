@@ -9,12 +9,12 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 advertisement-donut-1 = Jeder von uns ist ein kleiner Cop!
-advertisement-donut-2 = Hoffe du bist hungrig!
+advertisement-donut-2 = Hoffentlich hast du Hunger!
 advertisement-donut-3 = Über 1 Million Donuts verkauft!
-advertisement-donut-4 = Wir sind stolz auf die Konsistenz unserer Produkte!
-advertisement-donut-5 = Süß, zuckerhaltig und lecker!
+advertisement-donut-4 = Wir sind stolz auf die gleichbleibende Konsistenz unserer Produkte!
+advertisement-donut-5 = Süß, zuckrig und lecker!
 advertisement-donut-6 = Donut Sorge, sei glücklich!
-thankyou-donut-1 = Genießen Sie Ihren Donut!
+thankyou-donut-1 = Genieße deinen Donut!
 thankyou-donut-2 = Noch ein Donut verkauft!
-thankyou-donut-3 = Einen schönen Tag, Officer!
+thankyou-donut-3 = Einen schönen Tag noch, Officer!
 thankyou-donut-4 = Ich hoffe, du wirst süchtig!

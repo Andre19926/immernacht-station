@@ -9,10 +9,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 cmd-adduplink-desc = Erstellt Uplink für ausgewähltes Element und verknüpft es mit dem Benutzerkonto
-cmd-adduplink-help = Verwendung: Adduplink [username] [item-id] [discountEnabled]
+cmd-adduplink-help = Verwendung: adduplink [username] [item-id] [discountEnabled]
 
-add-uplink-command-completion-1 = Benutzername (Standards zu sich selbst)
-add-uplink-command-completion-2 = Uplink uid (Standard auf PDA)
+add-uplink-command-completion-1 = Benutzername (Standard: du selbst)
+add-uplink-command-completion-2 = Uplink-UID (Standard: PDA)
 add-uplink-command-completion-3 = Ist Uplink-Rabatt aktiviert
-add-uplink-command-error-1 = Ausgewählter Spieler kontrolliert keine Entität
-add-uplink-command-error-2 = Fehler beim Hinzufügen von Uplink zum Player
+add-uplink-command-error-1 = Der ausgewählte Spieler kontrolliert keine Entität
+add-uplink-command-error-2 = Uplink konnte dem Spieler nicht hinzugefügt werden

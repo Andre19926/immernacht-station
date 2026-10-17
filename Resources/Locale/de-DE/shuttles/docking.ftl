@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-docking-component-dock = Dock
-docking-component-undock = Undock
+docking-component-dock = Andocken
+docking-component-undock = Abdocken
 
 cmd-dock-desc = Versuche, 2 Luftschleusen aneinander anzudocken. Prüft nicht, ob es gültig ist.
 cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
 
 cmd-dock-success = Erfolgreich angedockt
-cmd-dock-fail = Nicht im Dock
+cmd-dock-fail = Andocken nicht möglich

@@ -1,23 +1,23 @@
 ent-BorgChassisSelectable = Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisGeneric = Cyborg-Generika
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisMining = Salvage Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisEngineer = Ingenieur Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisJanitor = Hausmeister Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisMedical = Medizinischer Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisService = Service Cyborg
-    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre gesetze immer wieder zu sagen.
+    .desc = Ein Mensch-Maschine-Hybrid, der die Aktivität der Station unterstützt. Sie lieben es, gebeten zu werden, ihre Gesetze immer wieder zu sagen.
 
 ent-BorgChassisSyndicateAssault = Syndicate Angriff Cyborg
     .desc = Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einer Vielzahl von tödlichen Modulen.

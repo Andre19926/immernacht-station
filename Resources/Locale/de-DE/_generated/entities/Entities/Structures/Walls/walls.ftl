@@ -96,7 +96,7 @@ ent-WallWood = Holzwand
 ent-WallWeb = Stegwand
     .desc = Haltet die Spinnen drin und die Grauflut draußen.
 
-ent-WallNecropolis = Steinmauermauer
+ent-WallNecropolis = Steinmauer
     .desc = Haltet die Luft drinnen und die Greytide draußen.
 
 ent-WallMining = Bergbaumauer
@@ -118,19 +118,19 @@ ent-WallInvisible = unsichtbare Wand
 
 ent-WallForce = Kraftwand
 
-ent-WallCobblebrick = Pflastersteinmauermauer
+ent-WallCobblebrick = Kopfsteinpflaster-Wand
     .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
 
 ent-WallBasaltCobblebrick = Basaltsteinmauer
     .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
 
-ent-WallSnowCobblebrick = Schneemauermauer
+ent-WallSnowCobblebrick = Schneeziegelmauer
     .desc = Eine kalte, nicht so undurchdringliche Mauer.
 
-ent-WallAsteroidCobblebrick = Asteroidensteinmauermauer
+ent-WallAsteroidCobblebrick = Asteroiden-Ziegelmauer
     .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
 
-ent-WallSandCobblebrick = Sandsteinmauermauer
+ent-WallSandCobblebrick = Sandsteinmauer
     .desc = Stein für Stein, perfekt zusammengefügt, um eine Wand zu bilden.
 
 ent-WallChromiteCobblebrick = Chromitsteinmauer

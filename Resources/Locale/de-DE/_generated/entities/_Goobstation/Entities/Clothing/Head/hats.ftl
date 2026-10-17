@@ -1,13 +1,13 @@
-ent-ClothingHeadHatBeretEliteNavyOfficer = Elite Marine Offiziersrettich
+ent-ClothingHeadHatBeretEliteNavyOfficer = Elite-Marineoffiziersbarett
     .desc = Eine marineblaue Barette mit dem silbernen Schild der Sicherheitskräfte von Nanotrasen.
 
-ent-ClothingHeadHatBeretNavyOfficer = Beret des Marineoffiziers
+ent-ClothingHeadHatBeretNavyOfficer = Marineoffiziersbarett
     .desc = Eine schwarze Barette mit dem silbernen Schild der Sicherheitskräfte von Nanotrasen.
 
-ent-ClothingHeadHatBeretNavyCaptain = Marinekapitän
+ent-ClothingHeadHatBeretNavyCaptain = Marinekapitänsbarett
     .desc = Ein weißes Stärke-Bret.
 
-ent-ClothingHeadHatBeretBlueshield = Blauschildmütze
+ent-ClothingHeadHatBeretBlueshield = Blueshield-Barett
     .desc = Eine haltbare Berette aus Durathread gewebt. Bietet auch Schutz.
 
 ent-ClothingHeadHatCowboyBlueshield = Blueshields gepanzerter Cowboyhut
@@ -29,27 +29,27 @@ ent-ClothingHeadHatImam = Imam Head Wrap
     .desc = Lobt Allah.
 
 ent-ClothingHeadHatTrainer = NCT-Hut
-    .desc = Ein Hut für Nanotrasen Career Trainers. Sie fühlen sich stilvoll.
+    .desc = Ein Hut für Nanotrasen Career Trainers. Du fühlst dich stilvoll.
 
-ent-ClothingHeadBeretTrainer = NCT-Bret
-    .desc = Eine Berette für Nanotrasen Career Trainers. Sie fühlen sich stilvoll.
+ent-ClothingHeadBeretTrainer = NCT-Barett
+    .desc = Eine Berette für Nanotrasen Career Trainers. Du fühlst dich stilvoll.
 
-ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = Leiter des Sicherheitsparcours
+ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = Paradebarett des Sicherheitschefs
     .desc = Eine besonders vergoldete Mütze, entworfen für den Leiter der Sicherheit.
 
-ent-ClothingHeadHatBeretSeniorBotanist = Botanisches Rettier
+ent-ClothingHeadHatBeretSeniorBotanist = Botaniker-Barett
     .desc = Eine grüne Barette mit einer kleinen blauen Blume, die erfahrenen Botanikern gegeben wurde.
 
 ent-ClothingHeadSanabi = Brigadegeneral Hut
     .desc = Riecht wie Stahl.
 
-ent-ClothingHeadLehmin = obere CMO-Kopfbedeckungen
+ent-ClothingHeadLehmin = Chefarzt-Kopfbedeckung
     .desc = Chemie. Admining. Etwas anderes.
 
 ent-ClothingHeadHatJanitorCap = Hausmeisterkappe
     .desc = Eine extravagante lila Kappe nur für die BESTEN Hausmeister.
 
-ent-ClothingHeadHatCapcapSenior = Kopfkappe
+ent-ClothingHeadHatCapcapSenior = Kapitänsmütze (Senior)
     .desc = Eine großartige, stilvolle Mütze, die von den Seniorenkapitänen getragen wird. Zeigt der Station, wer verantwortlich ist.
 
 ent-ClothingHeadHatTinfoilHat = Stanniolenhut

@@ -7,10 +7,10 @@ ent-LockerElectricalSuppliesFilled = Stromversorgung Spind
 ent-LockerWeldingSuppliesFilled = Schweißzubehör Spindel
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerAtmosphericsFilledHardsuit = Der Spind des atmosphärischen Technikers
+ent-LockerAtmosphericsFilledHardsuit = Atmos-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerAtmosphericsFilled = Der Spind des atmosphärischen Technikers
+ent-LockerAtmosphericsFilled = Atmos-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerEngineerFilledHardsuit = Spind des Ingenieurs

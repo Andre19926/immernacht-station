@@ -1,5 +1,5 @@
 ent-FoodSnackProteinbar = Proteinriegel
-    .desc = SwoleMAX Marken-Proteinriegel, garantiert, dass Sie sich vollkommen übermütig fühlen.
+    .desc = SwoleMAX Marken-Proteinriegel, garantiert, dass du dich vollkommen übermütig fühlst.
 
 ent-FoodSnackMothdog = Mothdog
     .desc = Er ist in seiner Blütezeit.
@@ -17,13 +17,13 @@ ent-FoodSnackMochicake = Mochicake
     .desc = Konnichiwa! Viele gehen Glück Reis Kuchen in Zukunft!
 
 ent-FoodSnackMooncakeWrapped = eingewickelter Mooncake
-    .desc = Entdecken Sie die dunkle Seite! Kann Spuren von rekonstituiertem Kakao enthalten.
+    .desc = Entdecke die dunkle Seite! Kann Spuren von rekonstituiertem Kakao enthalten.
 
 ent-FoodSnackMooncake = Mondkuchen
-    .desc = Entdecken Sie die dunkle Seite! Kann Spuren von rekonstituiertem Kakao enthalten.
+    .desc = Entdecke die dunkle Seite! Kann Spuren von rekonstituiertem Kakao enthalten.
 
 ent-FoodSnackTidegobs = Gezeitengobs
-    .desc = Enthält über 9000% Ihrer täglichen empfohlenen Salzaufnahme.
+    .desc = Enthält über 9000% deiner täglichen empfohlenen Salzaufnahme.
 
 ent-FoodSnackSaturnos = Saturnos
     .desc = Eine Tagesration Salz, Styropor und möglicherweise Sägemehl.
@@ -32,10 +32,10 @@ ent-FoodSnackJoveGello = Jove gello
     .desc = Von Joove! Es ist eine Art Gel.
 
 ent-FoodSnackPlutoniumrods = Plutoniumstäbe
-    .desc = Grundlose, geschmacklose Nutrithick-Stäbe, um Sie durch den Tag zu bringen. Jetzt noch weniger Hautausschlag induzieren!
+    .desc = Grundlose, geschmacklose Nutrithick-Stäbe, um dich durch den Tag zu bringen. Jetzt noch weniger Hautausschlag induzieren!
 
 ent-FoodSnackMarsFrouka = frouka
-    .desc = Feiern Sie den Gründungstag mit einer dampfenden, selbstbeheizten Schüssel mit süßen Eiern und Tatern!
+    .desc = Feiern dich den Gründungstag mit einer dampfenden, selbstbeheizten Schüssel mit süßen Eiern und Tatern!
 
 ent-FoodSnackVenusianhotcakes = venusianische Heißkuchen
     .desc = Heiße nimmt heiße Kuchen, ein zeitloser Klassiker jetzt endlich für den menschlichen Verzehr geeignet!
@@ -44,7 +44,7 @@ ent-FoodSnackOortrocks = Wolkenfelsen
     .desc = Pop-Rocks auf dem wichtigsten Industriesektor in Sol, neue Formel garantiert weniger Schrapnell induzierte Mundverletzungen.
 
 ent-FoodSnackRedalertnuts = Rotalarmnüsse
-    .desc = Eine Tüte Red Alert! Marken würzige Nüsse. Geht gut mit Ihrem Bier!
+    .desc = Eine Tüte Red Alert! Marken würzige Nüsse. Geht gut mit deinem Bier!
 
 ent-FoodSnackRicecake = Reiskuchen
     .desc = Antike Erde Snack Essen aus balled up Reis gemacht.

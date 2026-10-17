@@ -11,5 +11,5 @@ emergency-light-component-on-examine = Die Batterieanzeige zeigt an: {$batterySt
 emergency-light-component-on-examine-alert = Die aktuelle Alarmstufe der Station ist: [color={$color}]{$level}[/color].
 emergency-light-component-light-state-full = [color=darkgreen]voll[/color]
 emergency-light-component-light-state-empty = [color=darkgreen]leer[/color]
-emergency-light-component-light-state-charging = [color=darkgreen]Ladung[/color]
+emergency-light-component-light-state-charging = [color=darkgreen]lädt[/color]
 emergency-light-component-light-state-on = [color=darkgreen]on[/color]

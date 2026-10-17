@@ -1,5 +1,5 @@
 ent-ActionBorgSwapModule = Swapmodul
-    .desc = Wählen Sie dieses Modul aus, damit Sie die von ihm bereitgestellten Tools verwenden können.
+    .desc = Wähle dieses Modul aus, damit du die von ihm bereitgestellten Tools verwenden kannst.
 
 ent-BorgModuleCable = Kabelcyborgmodul
     .desc = Ein universelles Cyborg-Modul, mit dem das Gerät elektrische Systeme installieren und manipulieren kann.
@@ -46,7 +46,7 @@ ent-BorgModuleCleaning = Cyborg-Reinigungsmodul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
 ent-BorgModuleAdvancedCleaning = Advanced Cleaning Cyborg Modul
-    .desc = Fortgeschrittenes Hausmeistermodul mit, naja... fortgeschrittener Hausmeisterausrüstung. Was haben Sie erwartet?
+    .desc = Fortgeschrittenes Hausmeistermodul mit, naja... fortgeschrittener Hausmeisterausrüstung. Was hast du erwartet?
 
 ent-BorgModuleDiagnosis = Diagnose Cyborg Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
@@ -61,7 +61,7 @@ ent-BorgModuleChemical = Chemisches Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
 ent-BorgModuleAdvancedTopical = Advanced Erste Hilfe Cyborg Modul
-    .desc = Fortgeschrittenes medizinisches Modul mit der Cyborg-Adaption des hoch begehrten Hyposprays. Jetzt können Ihre Cyborgs Crew-Schäden noch schneller Chloralhydrat injizieren!
+    .desc = Fortgeschrittenes medizinisches Modul mit der Cyborg-Adaption des hoch begehrten Hyposprays. Jetzt können deine Cyborgs Crew-Schäden noch schneller Chloralhydrat injizieren!
 
 ent-BorgModuleArtifact = Artefakt Cyborg Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
@@ -106,7 +106,7 @@ ent-BorgModuleC20r = C-20r ROW Cyborgmodul
     .desc = Ein Waffenmodul, das mit einem Berstfeuer C-20r geliefert wird.
 
 ent-BorgModuleMartyr = Märtyrer Cyborg Modul
-    .desc = Ein Modul, das mit einem Sprengstoff kommt, den Sie wahrscheinlich nicht selbst handhaben wollen.
+    .desc = Ein Modul, das mit einem Sprengstoff kommt, den dich wahrscheinlich nicht selbst handhaben wollen.
 
 ent-MothershipModule = Mutterschiff-Modul
     .desc = Ein Modul, das dem Mutterschiff hilft, Gehirne zu borgen und andere Module zu installieren.

@@ -2,17 +2,17 @@ ent-ShellShotgunBeanbag = Schale (12 Gauge bebag)
 
 ent-ShellShotgunSlug = Schale (12 Gauge slug)
 
-ent-ShellShotgunFlare = Schale (12 Spurweite)
+ent-ShellShotgunFlare = Schrotpatrone (12 Gauge, Leuchtfackel)
 
-ent-ShellShotgun = Schale (12 Spurweite)
+ent-ShellShotgun = Schrotpatrone (12 Gauge)
 
-ent-ShellShotgunIncendiary = Schale (12 Brandstifter)
+ent-ShellShotgunIncendiary = Schrotpatrone (12 Gauge, Brand)
 
 ent-ShellShotgunPractice = Schale (12 Gauge Praxis)
 
 ent-ShellTranquilizer = Schale (12 Gauge Beruhigungsmittel)
 
-ent-ShellShotgunImprovised = improvisierte Schrotflinte
+ent-ShellShotgunImprovised = Improvisierte Schrotpatrone
     .desc = Eine hausgemachte Schrotflinte mit Glassplitterstücken. Überraschenderweise effektiv, aber die Ausbreitung ist so breit, dass man die breite Seite einer Scheune nicht treffen konnte.
 
 ent-ShellShotgunUranium = Urangeschoss

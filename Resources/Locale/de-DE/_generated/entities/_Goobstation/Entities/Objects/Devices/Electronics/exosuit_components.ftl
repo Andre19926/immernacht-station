@@ -1,11 +1,11 @@
-ent-DurandArmorPlate = Durand Rüstungsplatten
+ent-DurandArmorPlate = Durand-Panzerplatten
     .desc = Panzerplatten aus Plastik für Durand Exosuit.
 
-ent-GygaxArmorPlate = Gygaxpanzerplatten
+ent-GygaxArmorPlate = Gygax-Panzerplatten
     .desc = Panzerplatten aus Stahl für Gygax Exosuit.
 
 ent-RipleyUpgradeKit = Exosuit Upgrade Kit
-    .desc = Mit diesem Kit können Sie einen Exosuit Ripley MK-II zusammenbauen.
+    .desc = Mit diesem Kit kannst du einen Exosuit Ripley MK-II zusammenbauen.
 
 ent-MechAirTank = Exosuit-Luftbehälter
     .desc = Ein spezieller Luftkanister, der eine große Menge an Luft aufnehmen kann.

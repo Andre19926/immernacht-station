@@ -1,5 +1,5 @@
 ent-CigarCase = Zigarrenetui
-    .desc = Ein Fall für Ihre Zigarren, wenn Sie sie nicht rauchen.
+    .desc = Ein Fall für deine Zigarren, wenn du sie nicht rauchst.
 
 ent-CigarGoldCase = Premium-Zigarrenetui
-    .desc = Ein Fall von Premium-Zigarren aus Havanna. Sie werden nur Köpfe mit diesen sehen.
+    .desc = Ein Etui mit Premium-Zigarren aus Havanna. Damit ziehst du garantiert alle Blicke auf dich.

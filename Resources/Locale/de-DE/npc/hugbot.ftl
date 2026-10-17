@@ -1,16 +1,16 @@
-﻿hugbot-start-hug-1 = LEVEL 5 HUG DEFICIENCY DETECTED!
+hugbot-start-hug-1 = LEVEL 5 HUG DEFICIENCY DETECTED!
 hugbot-start-hug-2 = Du siehst aus, als brauchst du eine Umarmung!
 hugbot-start-hug-3 = Oh, jemand braucht eine Umarmung!
 hugbot-start-hug-4 = Erworbenes Ziel; Einleitung der Umarmungsroutine.
-hugbot-start-hug-5 = Halten Sie bitte still.
+hugbot-start-hug-5 = Halte bitte still.
 hugbot-start-hug-6 = Umarmungen!
 hugbot-start-hug-7 = Einsatz von HUG.
 hugbot-start-hug-8 = Ich bin dazu bestimmt, dich zu umarmen, und du wirst dich umarmen.
 
 hugbot-finish-hug-1 = Alles getan.
 hugbot-finish-hug-2 = Hug Routine beendet.
-hugbot-finish-hug-3 = Fühlen Sie sich besser?
-hugbot-finish-hug-4 = Fühlen Sie sich bald besser!
+hugbot-finish-hug-3 = Fühlst du dich besser?
+hugbot-finish-hug-4 = Fühle dich bald besser!
 hugbot-finish-hug-5 = Du wirst geliebt.
 hugbot-finish-hug-6 = Du bist wichtig.
 hugbot-finish-hug-7 = Es wird immer besser!

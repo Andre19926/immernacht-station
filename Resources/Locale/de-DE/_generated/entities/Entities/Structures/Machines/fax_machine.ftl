@@ -1,4 +1,4 @@
-ent-FaxMachineBase = Fernfernfaxgerät
+ent-FaxMachineBase = Langstrecken-Faxgerät
     .desc = Bluespace-Technologien zur Anwendung von Bürokratie.
 
 ent-FaxMachineCentcom = CentComm Langstrecken-Faxgerät

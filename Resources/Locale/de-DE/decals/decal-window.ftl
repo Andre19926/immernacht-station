@@ -8,9 +8,9 @@
 decal-placer-window-title = Decal Placer
 decal-placer-window-use-color = Custom Color
 decal-placer-window-rotation = Rotation
-decal-placer-window-zindex = Zeichnungstiefe
-decal-placer-window-enable-auto = Verwenden Sie automatische Einstellungen
-decal-placer-window-enable-snap = Snap To Tile
-decal-placer-window-enable-cleanable = Reinigend
+decal-placer-window-zindex = Zeichentiefe
+decal-placer-window-enable-auto = Automatische Einstellungen verwenden
+decal-placer-window-enable-snap = An Kachel ausrichten
+decal-placer-window-enable-cleanable = Reinigbar
 decal-placer-window-palette = Palette
 palette-color-picker-window-title = Paletten

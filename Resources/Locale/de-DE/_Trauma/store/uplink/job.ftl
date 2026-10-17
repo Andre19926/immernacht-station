@@ -5,13 +5,13 @@ uplink-medipen-mute-name = Mute Toxin Autoinjektor
 uplink-medipen-mute-desc = Ein Autoinjektor, der als Notfallmedikament getarnt ist und mit 15 Einheiten Mute-Toxin gefüllt ist.
 
 uplink-silent-shoes-name = Silent Shoes
-uplink-silent-shoes-desc = Eine stille Drohung. Niemand wird Sie in diesem speziellen Paar Schuhe kommen hören.
+uplink-silent-shoes-desc = Eine stille Drohung. Niemand wird dich in diesem speziellen Paar Schuhe kommen hören.
 
 uplink-utility-knife-name = Chemisches Gebrauchsmesser
 uplink-utility-knife-desc = Ein Gebrauchsmesser mit speziellen Rillen, die bis zu 10 μ jeder Chemikalie halten können.
 
 uplink-appraisal-tool-jammer-name = Appraising Tool Radio Jammer
-uplink-appraisal-tool-jammer-desc = Ein Radio-Störsender, der in einem Bewertungswerkzeug versteckt ist. Sie können beide ihre Comms jammen und den Preis die Leiche überprüfen!
+uplink-appraisal-tool-jammer-desc = Ein Funkstörsender, versteckt in einem Schätzwerkzeug. Du kannst damit ihre Kommunikation stören und gleichzeitig den Preis der Leiche prüfen!
 
 uplink-mimana-stealthy-name = Stealthy Mimana Peel
 uplink-mimana-stealthy-desc = Eine mutierte Mimana, die in den Hintergrund zu treten scheint. Verliere es nicht!

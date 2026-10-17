@@ -10,7 +10,7 @@ ent-BoxSurvivalSlotsSecurityWaterVapor = Überlebensbox
 ent-BoxSurvivalSlotsMedicalWaterVapor = Überlebensbox
     .desc = Es ist eine Box mit grundlegenden Internaten im Inneren.
 
-ent-BoxHugSlotsWaterVapor = Kasten mit Umarmungen
+ent-BoxHugSlotsWaterVapor = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxSurvivalSlotsSyndicateWaterVapor = Überlebensbox mit erweiterter Kapazität

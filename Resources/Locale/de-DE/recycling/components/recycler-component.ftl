@@ -8,4 +8,4 @@
 ## RecyclerComponent
 
 recycler-component-suicide-message-others = {$victim} Versuche zu recyceln {$victim}!
-recycler-component-suicide-message = Sie recyceln sich selbst!
+recycler-component-suicide-message = Du recycelst dich selbst!

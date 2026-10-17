@@ -8,4 +8,4 @@ ent-FloraPaleSprouts = helle Sprossen
     .desc = Sprossen, die völlig sauber aussehen, scheinen eine sehr glatte Oberfläche zu haben. Diese sehen natürlicher aus.
 
 ent-FloraAshYellowFlowers = Gelbe Blüten
-    .desc = Eine Gruppe von gelben Blumen. Sie sehen schwach aus und schaffen es dennoch, an diesem Ort zu überleben.
+    .desc = Eine Gruppe von gelben Blumen. Du siehst schwach aus und schaffen es dennoch, an diesem Ort zu überleben.

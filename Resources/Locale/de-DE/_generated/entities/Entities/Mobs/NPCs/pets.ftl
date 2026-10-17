@@ -32,7 +32,7 @@ ent-MobMcGriff = McGriff
     .desc = Dieser Hund kann hier etwas riechen, und das ist CRIME!
 
 ent-MobPaperwork = Papiere
-    .desc = Nahm einen neuen Job, der Bücher in der Bibliothek sortierte, nachdem er von der Raumstation 13 versetzt worden war. Er scheint dabei genauso langsam zu sein.
+    .desc = Nahm einen neuen Job, der Bücher in der Bibliothek sortierte, nachdem er von der Space Station 13 versetzt worden war. Er scheint dabei genauso langsam zu sein.
 
 ent-MobWalter = Walter
     .desc = Er mag Chems und behandelt. Walter.

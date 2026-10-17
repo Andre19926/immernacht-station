@@ -8,19 +8,19 @@ marking-VoxTattooEyeliner-eyeliner = Augenleinen
 marking-VoxTattooEyeliner = Augenleinen
 
 marking-VoxVisage-visage = Visage (vollständig)
-marking-VoxVisage = Visage (vollständig)
+marking-VoxVisage = Gesichtszeichnung (voll)
 
 marking-VoxVisageL-visage_l = Visage (links)
 marking-VoxVisageL = Visage (links)
 
 marking-VoxVisageR-visage_r = Visage (Recht)
-marking-VoxVisageR = Visage (Recht)
+marking-VoxVisageR = Gesichtszeichnung (rechts)
 
 marking-VoxCheek-cheekblush = Wangen
 marking-VoxCheek = Wangen
 
 marking-VoxBeak-beak = Schnabel (zackig)
-marking-VoxBeak = Schnabel (zackig)
+marking-VoxBeak = Schnabel (spitz)
 
 marking-VoxBeakSquareCere-beak_squarecere = Schnabel (Square Cere)
 marking-VoxBeakSquareCere = Schnabel (Square Cere)
@@ -65,10 +65,10 @@ marking-VoxScarEyeLeft-vox_scar_eye_left = Linke Augennarbe
 marking-VoxScarEyeLeft = Augennarbe (links)
 
 marking-VoxScarTopSurgeryShort-vox_scar_top_surgery_short = Thorakotomie Narkose
-marking-VoxScarTopSurgeryShort = Thorakotomie Narkose
+marking-VoxScarTopSurgeryShort = Thorakotomie-Narbe
 
 marking-VoxScarTopSurgeryLong-vox_scar_top_surgery_long = Clamshell Scar
-marking-VoxScarTopSurgeryLong = Clamshell Scar
+marking-VoxScarTopSurgeryLong = Muschelschnitt-Narbe (Sternotomie)
 
 marking-VoxScarChest-vox_scar_chest = Brustnarbe
 marking-VoxScarChest = Brustnarbe
@@ -89,7 +89,7 @@ marking-VoxScarFace2-vox_scar_face_2 = Gesichtsnarbe
 marking-VoxScarFace2 = Gesichtsnarbe (klein)
 
 marking-VoxScarEyeRightSmall-vox_scar_eye_right_small = Rechte Augennarbe (klein)
-marking-VoxScarEyeRightSmall = Small Eye Scar (rechts)
+marking-VoxScarEyeRightSmall = Kleine Augennarbe (rechts)
 
 marking-VoxScarEyeLeftSmall-vox_scar_eye_left_small = Narbe des linken Auges (klein)
 marking-VoxScarEyeLeftSmall = Small Eye Scar (links)
@@ -107,7 +107,7 @@ marking-VoxTailSpikes-vox_tail_spikes = Vox Tail (Spiked)
 marking-VoxTailSpikes = Vox Tail (Spiked)
 
 marking-VoxTailDocked-vox_tail_docked = Vox Tail (Vestigial)
-marking-VoxTailDocked = Vox Tail (Vestigial)
+marking-VoxTailDocked = Vox-Schwanz (verkümmert)
 
 marking-VoxTailSplit-vox_tail_split = Vox Tail (Split)
 marking-VoxTailSplit = Vox Tail (Split)

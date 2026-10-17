@@ -7,20 +7,20 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Types
-mixing-verb-default-mix = Mischung
+mixing-verb-default-mix = Mischen
 mixing-verb-default-grind = Mahlen
-mixing-verb-default-juice = Saft
-mixing-verb-default-condense = Kondensat
-mixing-verb-centrifuge = Zentrifugation
-mixing-verb-electrolysis = Elektrolyse
-mixing-verb-holy = Segen
+mixing-verb-default-juice = Entsaften
+mixing-verb-default-condense = Kondensieren
+mixing-verb-centrifuge = Zentrifugieren
+mixing-verb-electrolysis = Elektrolysieren
+mixing-verb-holy = Segnen
 mixing-verb-stir = Rühren
-mixing-verb-shake = Rüssel
+mixing-verb-shake = Schütteln
 
 ## Entity
 
-default-mixing-success = Sie mischen die {$mixed} mit dem {$mixer}
-bible-mixing-success = Du segnest die {$mixed} mit dem {$mixer}
-spoon-mixing-success = Sie rühren die {$mixed} mit dem {$mixer}
-handheld-centrifuge-success = Sie trennen Chemikalien in der {$mixed}
+default-mixing-success = Du mischst {$mixed} mit {$mixer}.
+bible-mixing-success = Du segnest {$mixed} mit {$mixer}.
+spoon-mixing-success = Du rührst {$mixed} mit {$mixer} um.
+handheld-centrifuge-success = Du trennst die Chemikalien in {$mixed}.
 

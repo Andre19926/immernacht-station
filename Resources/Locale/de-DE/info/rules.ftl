@@ -15,5 +15,5 @@ ui-rules-header-rp = Immernacht Station Offizielle Serverregeln
 ui-rules-accept = Ich habe die Regeln lesen und akzeptiere sie!
 ui-rules-wait = Du kannst in {$time} Sekundenakzept.
 
-ui-rules-button-home = Beginn
+ui-rules-button-home = Start
 ui-rules-button-back = Zurück

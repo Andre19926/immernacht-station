@@ -1,4 +1,4 @@
-paired-extendable-hand-busy = Ihre Hand muss frei sein, um dies zu verlängern.
+paired-extendable-hand-busy = Deine Hand muss frei sein, um das auszufahren.
 
 mantis-blade-disabled-emp = Die Mantisklinge wird durch eine EMP deaktiviert und reagiert nicht.
 mantis-blade-arm-examine = [color=red]Dieser Arm enthält eine illegale Cyberware, die es dem Benutzer ermöglicht, eine Mantisklinge aus ihm zu verlängern.[/color]

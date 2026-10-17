@@ -109,4 +109,4 @@ ent-BoxFolderCentComClipboardThreePapers = CentComm Clipboard
     .desc = Eine luxuriöse Zwischenablage mit grünem Samt. Oft gesehen, getragen von CentComm Beamten, selten gesehen, tatsächlich verwendet.
 
 ent-BoxFolderQmClipboard = Requisitionsanzeiger
-    .desc = Eine sperrige elektrische Zwischenablage, gefüllt mit Versandaufträgen und Finanzierungsdetails. Bei so vielen kompromittierenden Dokumenten sollten Sie dies sicher aufbewahren.
+    .desc = Eine sperrige elektrische Zwischenablage, gefüllt mit Versandaufträgen und Finanzierungsdetails. Bei so vielen kompromittierenden Dokumenten sollten dich dies sicher aufbewahren.

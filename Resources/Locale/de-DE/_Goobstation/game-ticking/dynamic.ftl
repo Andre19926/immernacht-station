@@ -41,33 +41,31 @@ dynamic-gamerule-midround-zombies-title = Romerol-Ausbruch (Zombies)
 dynamic-gamerule-midround-blob-title = Blob Spawn (Blob)
 
 dynamic-fax-threat-none =
-    Ihre Station umkreist zuverlässig banalen, sicheren Raum.
-    Obwohl Nanotrasen die Sicherheit in Ihrer Region fest im Griff hat, sind die wertvollen Ressourcen und die strategische Position an Bord Ihrer Station ein potenzielles Ziel für Infiltrationen.
-    Überwachen Sie die Crew auf nicht loyales Verhalten, erwarten Sie jedoch eine relativ zahme Verschiebung ohne großflächige Zerstörung.
-    Wir erwarten tolle Dinge von Ihrer Station.
+    Deine Station umkreist zuverlässig banalen, sicheren Raum.
+    Obwohl Nanotrasen die Sicherheit in deiner Region fest im Griff hat, sind die wertvollen Ressourcen und die strategische Position an Bord deiner Station ein potenzielles Ziel für Infiltrationen.
+    Überwache die Crew auf nicht loyales Verhalten, erwarte jedoch eine relativ zahme Verschiebung ohne großflächige Zerstörung.
+    Wir erwarten tolle Dinge von deiner Station.
 
 dynamic-fax-threat-low =
-    Obwohl Ihre Station in einem von Nanotrasen kontrollierten Raum liegt,
+    Obwohl deine Station in einem von Nanotrasen kontrollierten Raum liegt,
     Der Verlauf seiner Umlaufbahn hat dazu geführt, dass er sich ungewöhnlich nahe an exogeologischen Merkmalen mit anomalen Messwerten kreuzt.
     Obwohl diese Merkmale Chancen für unsere Forschungsabteilung bieten,
     Es ist bekannt, dass diese wenig verstandenen Lesungen oft mit einer erhöhten Aktivität konkurrierender interstellarer Organisationen und Einzelpersonen korreliert sind,
     Unter ihnen die Wizard Federation und Cult of the Geometer of Blood - alle bekannten Konkurrenten für Anomalie Typ B Websites.
-    Üben Sie erhöhte Vorsicht.
+    Übe erhöhte Vorsicht.
 
-dynamic-fax-threat-mid =
-    Herzlichen Glückwunsch und vielen Dank für die Teilnahme am NT 'Frontier' Raumfahrtprogramm!
-    Ihre Station umkreist aktiv ein hochwertiges System weit von den nächsten Unterstützungsstationen entfernt.
-    Über eure Region des Weltraums ist wenig bekannt, und die Gelegenheit, dem Unbekannten zu begegnen, lädt zu größerem Ruhm ein.
-    Sie werden ermutigt, die Sicherheit nach Bedarf zu erhöhen, um Nanotrasen-Assets zu schützen.
+dynamic-fax-threat-mid = Herzlichen Glückwunsch und vielen Dank für die Teilnahme am NT-Raumfahrtprogramm „Frontier“!
+    Eure Station umkreist aktiv ein hochwertiges System weit entfernt von der nächsten Versorgungsstation.
+    Über eure Region des Weltraums ist wenig bekannt, und die Chance, dem Unbekannten zu begegnen, verspricht größeren Ruhm.
+    Ihr seid angehalten, die Sicherheit nach Bedarf zu erhöhen, um das Eigentum von Nanotrasen zu schützen.
 
-dynamic-fax-threat-high =
-    Als Teil eines obligatorischen Sicherheitsprotokolls müssen wir Sie darüber informieren, dass aufgrund Ihres Orbitalmusters direkt hinter einem astrologischen Körper (ausgerichtet von unserem nächsten Observatorium) Ihre Station unter verminderter Überwachung und Unterstützung steht.
-    Es wird erwartet, dass Ihr extremer Standort und eine verminderte Überwachung Sicherheitsrisiken darstellen können.
-    Vermeiden Sie unnötige Risiken und versuchen Sie, Ihre Station in einem Stück zu halten.
+dynamic-fax-threat-high = Im Rahmen eines verpflichtenden Sicherheitsprotokolls müssen wir euch informieren, dass eure Station wegen ihrer Umlaufbahn direkt hinter einem astronomischen Körper (von unserem nächsten Observatorium aus gesehen) nur noch eingeschränkt überwacht und unterstützt wird.
+    Es ist zu erwarten, dass eure extreme Lage und die verringerte Überwachung Sicherheitsrisiken mit sich bringen können.
+    Vermeidet unnötige Risiken und versucht, eure Station heil zu halten.
 
 dynamic-fax-threat-max =
-    Ihre Station befindet sich irgendwie in der Mitte des feindlichen Territoriums, im klaren Blick auf jeden Feind des Unternehmens.
-    Ihre Überlebenswahrscheinlichkeit ist gering, und die Zerstörung der Station wird erwartet und fast unvermeidlich.
+    Deine Station befindet sich irgendwie in der Mitte des feindlichen Territoriums, im klaren Blick auf jeden Feind des Konzerns.
+    Deine Überlebenswahrscheinlichkeit ist gering, und die Zerstörung der Station wird erwartet und fast unvermeidlich.
     Sichere jedes sensible Material und neutralisiere jeden Feind, dem du begegnen wirst.
-    Es ist wichtig, dass Sie zumindest versuchen, die Station zu erhalten
+    Es ist wichtig, dass du zumindest versuchst, die Station zu erhalten
     Viel Glück.

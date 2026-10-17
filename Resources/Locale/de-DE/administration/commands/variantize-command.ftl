@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-variantize-command-description = Randomisiert alle Kachelvarianten auf einem bestimmten Raster.
-variantize-command-help-text = variantisieren <grid id>
+variantize-command-description = Randomisiert alle Kachelvarianten auf einer bestimmten Struktur.
+variantize-command-help-text = Verwendung: variantize <grid id>

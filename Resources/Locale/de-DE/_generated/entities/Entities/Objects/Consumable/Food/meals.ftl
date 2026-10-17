@@ -32,7 +32,7 @@ ent-FoodMealCubancarp = Kubanischer Karpfen
     .desc = Ein grifftastisches Sandwich, das deine Zunge brennt und es dann taub lässt!
 
 ent-FoodMealCornedbeef = Corned Beef und Kohl
-    .desc = Jetzt können Sie sich wie ein echter Tourist fühlen, der in Irland Urlaub macht.
+    .desc = Jetzt kannst du dich wie ein echter Tourist fühlen, der in Irland Urlaub macht.
 
 ent-FoodMealBearsteak = Filet-Migrawr
     .desc = Weil Bärenessen nicht männlich genug war.
@@ -56,13 +56,13 @@ ent-FoodMealMilkape = Milchaffen
     .desc = König von Jungle Thick.
 
 ent-FoodMealMemoryleek = Gedächtnislauge
-    .desc = Dies sollte Ihr Gedächtnis auffrischen.
+    .desc = Dies sollte dein Gedächtnis auffrischen.
 
 ent-DisgustingSweptSoup = Salzige süße Miso-Cola-Suppe
     .desc = Jesus Christus.
 
 ent-FoodMealQueso = queso
-    .desc = Eine klassische Tauchsauce, mit der Sie nichts falsch machen können.
+    .desc = Eine klassische Tauchsauce, mit der du nichts falsch machen kannst.
 
 ent-FoodMealSashimi = Sashimi
     .desc = Sein Geschmack kann nur als "exotisch" bezeichnet werden. Aber die Vergiftung? Das ist ziemlich üblich.
@@ -70,7 +70,7 @@ ent-FoodMealSashimi = Sashimi
 ent-FoodMealEnchiladas = Enchiladas
 
 ent-FoodSaladWatermelonFruitBowl = Melonenfruchtschale
-    .desc = Der einzige Salat, in dem Sie die Schüssel essen können.
+    .desc = Der einzige Salat, in dem du die Schüssel essen kannst.
 
 ent-FoodMealCornInButter = Mais in Butter
     .desc = Butterig.

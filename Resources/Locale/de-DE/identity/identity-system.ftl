@@ -6,8 +6,8 @@
 
 identity-unknown-name = ???
 
-identity-age-young = Jung
-identity-age-middle-aged = mittleres Alter
+identity-age-young = jung
+identity-age-middle-aged = mittleren Alters
 identity-age-old = alt
 
 identity-gender-feminine = Frau

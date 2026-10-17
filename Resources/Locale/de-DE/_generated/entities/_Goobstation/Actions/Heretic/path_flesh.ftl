@@ -1,2 +1,2 @@
 ent-ActionHereticFleshSurgery = Strickfleisch
-    .desc = Ein Berührungszauber, mit dem Sie entweder eine schnelle Operation durchführen oder das Zielfleisch wiederherstellen können.
+    .desc = Ein Berührungszauber, mit dem du entweder eine schnelle Operation durchführen oder das Fleisch des Ziels wiederherstellen kannst.

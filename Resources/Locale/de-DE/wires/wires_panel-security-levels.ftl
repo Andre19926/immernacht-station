@@ -8,9 +8,9 @@
 
 # Examination for different levels of wiring protection
 wires-panel-component-on-examine-security-level1 = Es gibt eine Stahlplatte, die den Zugang zur internen Verdrahtung verhindert. Verwendung a [color=cyan]Brechstange[/color] zu entfernen.
-wires-panel-component-on-examine-security-level2 = Eine Stahlplatte wurde an die Innenseite des [color=lightgray]Wartungstafel[/color]Verwenden Sie a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.
+wires-panel-component-on-examine-security-level2 = Eine Stahlplatte wurde an die Innenseite des [color=lightgray]Wartungstafel[/color]Verwenden dich a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.
 wires-panel-component-on-examine-security-level3 = Es gibt eine Kunststoffplatte, die den Zugriff auf die interne Verdrahtung verhindert. Verwendung a [color=cyan]Brechstange[/color] zu entfernen.
-wires-panel-component-on-examine-security-level4 = An die Innenseite der Platte ist eine Kunststoffplatte angeschweißt. [color=lightgray]Wartungstafel[/color]Verwenden Sie a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.
+wires-panel-component-on-examine-security-level4 = An die Innenseite der Platte ist eine Kunststoffplatte angeschweißt. [color=lightgray]Wartungstafel[/color]Verwenden dich a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.
 wires-panel-component-on-examine-security-level5 = Das Innere des [color=lightgray]Wartungstafel[/color] ist durch einen Sicherheitsgitter geschützt. Verwendung [color=cyan]Drahtabschneider[/color] zu entfernen.
-wires-panel-component-on-examine-security-level6 = Eine Plastikplatte sitzt im Inneren des [color=lightgray]Wartungstafel[/color]Verwenden Sie a [color=cyan]Brechstange[/color] zu entfernen.
-wires-panel-component-on-examine-security-level7 = Eine geschweißte Kunststoffplatte schützt das Innere des [color=lightgray]Wartungstafel[/color]Verwenden Sie a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.
+wires-panel-component-on-examine-security-level6 = Eine Plastikplatte sitzt im Inneren des [color=lightgray]Wartungstafel[/color]Verwenden dich a [color=cyan]Brechstange[/color] zu entfernen.
+wires-panel-component-on-examine-security-level7 = Eine geschweißte Kunststoffplatte schützt das Innere des [color=lightgray]Wartungstafel[/color]Verwenden dich a [color=cyan]skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr[/color] um es zu befreien.

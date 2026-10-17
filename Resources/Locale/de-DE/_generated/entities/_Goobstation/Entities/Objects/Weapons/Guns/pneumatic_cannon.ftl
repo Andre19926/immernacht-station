@@ -17,4 +17,4 @@ ent-LauncherLollypopRegenerating = Lutscherspender
     .desc = Verwendet einen eingebauten Hersteller, um Lutscher aus Energie zu erzeugen.
 
 ent-SantaCannonRegenerating = Die fröhliche pneumatische Kanone des Weihnachtsmanns
-    .desc = Das einzige, was Sie brauchen, um Weihnachtsjubel zu verbreiten!
+    .desc = Das einzige, was du brauchst, um Weihnachtsjubel zu verbreiten!

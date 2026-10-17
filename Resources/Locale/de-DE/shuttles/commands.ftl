@@ -5,16 +5,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # FTLdiskburner
-cmd-ftldisk-desc = Erstellt eine FTL-Koordinatendiskette, um zur Karte zu segeln, auf der die angegebene EntityID ist/auf
+cmd-ftldisk-desc = Erstellt eine FTL-Koordinatendiskette, um zu der Karte zu fliegen, auf der sich die angegebene EntityID befindet
 cmd-ftldisk-help = ftldisk [EntityID]
 
-cmd-ftldisk-no-transform = Stelle {$destination} Es gibt keine Transform-Komponente!
-cmd-ftldisk-no-map = Stelle {$destination} Hat keine Karte!
-cmd-ftldisk-no-map-comp = Stelle {$destination} Irgendwie auf der Karte {$map} ohne Kartenkomponente.
-cmd-ftldisk-map-not-init = Stelle {$destination} ist auf der Karte {$map} Was nicht initialisiert ist! Überprüfen Sie es ist sicher zu initialisieren, dann initialisieren Sie die Karte zuerst oder die Spieler werden an Ort und Stelle stecken!
-cmd-ftldisk-map-paused = Stelle {$desintation} ist auf der Karte {$map} die innegehalten wird! Bitte unterbrechen Sie zuerst die Karte oder die Spieler bleiben an Ort und Stelle.
-cmd-ftldisk-planet = Stelle {$desintation} auf der Planetenkarte {$map} Es wird ein FTL-Punkt benötigt. Es kann bereits existieren.
-cmd-ftldisk-already-dest-not-enabled = Stelle {$destination} ist auf der Karte {$map} das bereits eine FTLDestinationComponent hat, aber es ist nicht aktiviert! Stellen Sie dies manuell für die Sicherheit.
-cmd-ftldisk-requires-ftl-point = Stelle {$destination} ist auf der Karte {$map} Das erfordert einen FTL-Punkt, um dorthin zu reisen! Es kann bereits existieren.
+cmd-ftldisk-no-transform = Entity {$destination} hat keine Transform-Komponente!
+cmd-ftldisk-no-map = Entity {$destination} hat keine Karte!
+cmd-ftldisk-no-map-comp = Entity {$destination} befindet sich irgendwie auf Karte {$map}, die keine Kartenkomponente hat.
+cmd-ftldisk-map-not-init = Entity {$destination} befindet sich auf Karte {$map}, die nicht initialisiert ist! Prüfe, ob das gefahrlos möglich ist, und initialisiere die Karte zuerst, sonst stecken die Spieler fest!
+cmd-ftldisk-map-paused = Entity {$desintation} befindet sich auf der Karte {$map}, die pausiert ist! Bitte hebe zuerst die Pause der Karte auf, sonst bleiben die Spieler an Ort und Stelle stecken.
+cmd-ftldisk-planet = Entity {$desintation} befindet sich auf der Planetenkarte {$map} und benötigt einen FTL-Punkt. Er existiert möglicherweise bereits.
+cmd-ftldisk-already-dest-not-enabled = Entity {$destination} befindet sich auf Karte {$map}, die bereits eine FTLDestinationComponent hat, aber nicht aktiviert ist! Setze das zur Sicherheit manuell.
+cmd-ftldisk-requires-ftl-point = Entity {$destination} befindet sich auf Karte {$map}, für die ein FTL-Punkt zum Hinreisen nötig ist! Er existiert möglicherweise bereits.
 
-cmd-ftldisk-hint = Karte netID
+cmd-ftldisk-hint = Karten-NetID

@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rule-traitor-added-announcement = Hallo Crew! Haben Sie eine gute Verschiebung!
+rule-traitor-added-announcement = Hallo Crew! Habt eine gute Schicht!

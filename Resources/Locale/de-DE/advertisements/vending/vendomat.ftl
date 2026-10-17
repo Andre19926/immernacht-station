@@ -6,10 +6,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 advertisement-vendomat-1 = Nur das Beste!
-advertisement-vendomat-2 = Habe einige Werkzeuge.
+advertisement-vendomat-2 = Nimm dir ein paar Werkzeuge.
 advertisement-vendomat-3 = Die robusteste Ausrüstung.
 advertisement-vendomat-4 = Die beste Ausrüstung im Weltraum!
-advertisement-vendomat-5 = Dies ist sicherlich besser als standardmäßig ausgegebene Geräte!
-advertisement-vendomat-6 = Holen Sie sich Ihre gute alte Brechstange hier!
-advertisement-vendomat-7 = Hier für, wenn Sie einen vollen Satz von Werkzeugen benötigen!
+advertisement-vendomat-5 = Das ist sicher besser als die Standardausrüstung!
+advertisement-vendomat-6 = Hol dir hier deine gute alte Brechstange!
+advertisement-vendomat-7 = Hier bekommst du einen ganzen Werkzeugsatz, wenn du ihn brauchst!
 

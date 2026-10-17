@@ -50,7 +50,7 @@ ent-FoodDoughTortillaSlice = Tortilla-Teigscheiben
     .desc = Eine Scheibe Tortillateig.
 
 ent-FoodDoughTortillaFlat = abgeflachter Tortillateig
-    .desc = Eine abgeflachte Scheibe Tortillateig, kochen Sie dies, um eine Tacoshell zu bekommen.
+    .desc = Eine abgeflachte Scheibe Tortillateig, koche dies, um eine Tacoshell zu bekommen.
 
 ent-FoodDoughCotton = Baumwollteig
     .desc = Ein Stück Stoffteig.
@@ -77,19 +77,19 @@ ent-FoodDoughCottonFlat = flacher Baumwollteig
     .desc = Ein abgeflachter Baumwollteig.
 
 ent-FoodDoughPizzaBaked = Pizzabrot
-    .desc = Fügen Sie Zutaten hinzu, um eine Pizza zu machen.
+    .desc = Füge Zutaten hinzu, um eine Pizza zu machen.
 
 ent-FoodCakeBatter = Kuchenteig
-    .desc = Kochen Sie es, um einen Kuchen zu bekommen.
+    .desc = Koche es, um einen Kuchen zu bekommen.
 
-ent-FoodButter = Butterfett
+ent-FoodButter = Stück Butter
     .desc = Ein Stock von köstlicher, goldener, fettiger Güte.
 
 ent-FoodButterSlice = Butterscheiben
     .desc = Ein Klaps der köstlichen, goldenen, fettigen Güte.
 
-ent-FoodCannabisButter = Cannabisbutterstab
-    .desc = Fügen Sie dies zu Ihren Lieblingsbackwaren für eine Irie-Zeit hinzu.
+ent-FoodCannabisButter = Stück Cannabisbutter
+    .desc = Füge dies zu deinen Lieblingsbackwaren für eine Irie-Zeit hinzu.
 
 ent-FoodCheese = Käserad
     .desc = Ein großes Rad mit köstlichem Cheddar.

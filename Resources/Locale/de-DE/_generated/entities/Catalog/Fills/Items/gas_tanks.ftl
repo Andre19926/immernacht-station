@@ -29,7 +29,7 @@ ent-NitrogenTankFilled = Stickstoffbehälter
     .desc = Ein zylindrischer Standardgasbehälter für Stickstoff. Es kann 5 l Gas aufnehmen.
 
 ent-NitrousOxideTankFilled = Lachgasbehälter
-    .desc = Enthält eine Mischung aus Luft und Lachgas. Stellen Sie sicher, dass Sie es nicht mit reinem N2O nachfüllen. Es kann 5 l Gas aufnehmen.
+    .desc = Enthält eine Mischung aus Luft und Lachgas. Stelle sicher, dass du es nicht mit reinem N2O nachfüllst. Es kann 5 l Gas aufnehmen.
 
 ent-PlasmaTankFilled = Plasmatank
-    .desc = Enthält gefährliches Plasma. Inhalieren Sie nicht, es sei denn, Sie sind ein Plasmamann. Extrem entzündlich. Es kann 5 l Gas aufnehmen.
+    .desc = Enthält gefährliches Plasma. Inhaliere nicht, es sei denn, du bist ein Plasmamann. Extrem entzündlich. Es kann 5 l Gas aufnehmen.

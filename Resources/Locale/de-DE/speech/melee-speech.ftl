@@ -6,4 +6,4 @@
 # SPDX-License-Identifier: MIT
 
 melee-speech-current-battlecry = Schlachtruf:
-melee-speech-menu-title = Set Battlecry
+melee-speech-menu-title = Schlachtruf festlegen

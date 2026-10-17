@@ -3,4 +3,4 @@ no-eorg-popup-message = [bold]End-of-round Trauer (EORG)[/bold] ist nicht erlaub
 no-eorg-popup-rule = [bold][color=#a4885c]Regel 15: End of Round Griefing (Nur MRP).[/color][/bold]
 no-eorg-popup-close-button = Klingt gut!
 no-eorg-popup-close-button-wait = Der Schließknopf wird aktiviert, nachdem {$time} Sekunden.
-no-eorg-popup-skip-checkbox = Zeigen Sie das nicht noch einmal.
+no-eorg-popup-skip-checkbox = Zeige das nicht noch einmal.

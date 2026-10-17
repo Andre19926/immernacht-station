@@ -32,7 +32,7 @@ ent-FoodBakedCookieOatmeal = Haferflockenkeks
     .desc = Das Beste aus Keks und Hafer.
 
 ent-FoodBakedCookieRaisin = Rosinenkekse
-    .desc = Warum sollten Sie Rosinen in einen Keks stecken?
+    .desc = Warum solltest du Rosinen in einen Keks stecken?
 
 ent-FoodBakedCookieSugar = Zuckerkekse
     .desc = Genau wie deine Mutter es früher gemacht hat.
@@ -53,7 +53,7 @@ ent-FoodBakedWaffle = Waffeln
     .desc = Mmm, Waffeln.
 
 ent-FoodBakedWaffleSoy = Soja-Waffeln
-    .desc = Sie fühlen sich gesünder und - weiblicher?
+    .desc = Du fühlst dich gesünder und - weiblicher?
 
 ent-FoodBakedWaffleSoylent = Soylierungswaffeln
     .desc = Nicht aus Menschen gemacht. Ehrlich.
@@ -89,7 +89,7 @@ ent-FoodBakedCannabisBrownie = Spezial-Brownie
     .desc = Ein "spezieller" Brownie.
 
 ent-FoodOnionRings = Zwiebelringe
-    .desc = Sie können es essen oder Ihren Lieben vorschlagen.
+    .desc = Du kannst es essen oder deinen Lieben vorschlagen.
 
 ent-FoodBakedCroissant = Croissant
     .desc = Butterige, schuppige Güte.

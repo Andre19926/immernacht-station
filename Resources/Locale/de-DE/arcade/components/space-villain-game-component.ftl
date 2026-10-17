@@ -8,15 +8,15 @@
 
 ## SpaceVillainGame
 
-space-villain-game-player-attack-message = Sie greifen an {$enemyName} für {$attackAmount}!
-space-villain-game-player-heal-message = Sie verwenden {$magicPointAmount} Magie zum Heilen {$healAmount} Schaden!
+space-villain-game-player-attack-message = Du greifst {$enemyName} an und verursachst {$attackAmount} Schaden!
+space-villain-game-player-heal-message = Du verwendest {$magicPointAmount} Magie zum Heilen {$healAmount} Schaden!
 space-villain-game-player-recharge-message = Du wiederherstellst {$regainedPoints} Punkte
-space-villain-game-player-wins-message = Sie haben gewonnen!
+space-villain-game-player-wins-message = Du hast gewonnen!
 space-villain-game-enemy-dies-message = {$enemyName} stirbt.
 space-villain-game-player-loses-message = Du hast verloren!
 space-villain-game-enemy-cheers-message = {$enemyName} Beifall.
 space-villain-game-enemy-dies-with-player-message = {$enemyName} Stirbt, aber nimmt dich mit ihm.
-space-villain-game-enemy-throws-bomb-message = {$enemyName} Wirft eine Bombe, explodieren Sie für {$damageReceived} Schaden!
+space-villain-game-enemy-throws-bomb-message = {$enemyName} Wirft eine Bombe, explodiere für {$damageReceived} Schaden!
 space-villain-game-enemy-steals-player-power-message = {$enemyName} Steals {$stolenAmount} Deiner Macht!
 space-villain-game-enemy-heals-message = {$enemyName} heilt für {$healedAmount} Gesundheit!
 space-villain-game-enemy-attacks-message = {$enemyName} greift dich an für {$damageDealt} Schaden!

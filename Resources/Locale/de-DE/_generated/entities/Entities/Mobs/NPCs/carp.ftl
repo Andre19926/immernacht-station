@@ -5,7 +5,7 @@ ent-MobCarpMagic = Magarp
     .desc = Sieht aus wie eine Art Fisch. Könnte magisch sein.
 
 ent-MobCarpHolo = Holokarpfen
-    .desc = Karpfen aus holographischen Energien. Leider für Sie, es ist sehr real.
+    .desc = Karpfen aus holographischen Energien. Leider für dich, es ist sehr real.
 
 ent-MobCarpRainbow = Regenbogenkarpfen
     .desc = Wow so ein glänzender Fishie!

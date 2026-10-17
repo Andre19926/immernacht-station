@@ -1,4 +1,4 @@
-ent-MachineAnomalyVessel = Anomalieschiff
+ent-MachineAnomalyVessel = Anomaliegefäß
     .desc = Ein Container, der in der Lage ist, einen Scan einer Anomalie zu nutzen und sie in Forschungsdaten umzuwandeln.
 
 ent-MachineAnomalyVesselExperimental = Experimentelles Anomaliegefäß

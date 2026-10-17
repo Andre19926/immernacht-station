@@ -32,7 +32,7 @@ ent-ClothingHandsGlovesColorYellowUnremovable = Isolierte Handschuhe
     .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.
 
 ent-ClothingHandsKnuckleDusters = Schädelstäube
-    .desc = Knöchelstäbchen aus kräftigem Plastik. Fügt eine ganze Menge mehr Gewicht zu Ihren Schlägen.
+    .desc = Knöchelstäbchen aus kräftigem Plastik. Fügt eine ganze Menge mehr Gewicht zu deinen Schlägen.
 
 ent-ClothingHandsKnuckleDustersBrass = Knöchelstauber aus Messing
     .desc = Knöchelstauber aus Messing. So wie sie es früher gemacht haben und immer noch genauso hart getroffen haben.

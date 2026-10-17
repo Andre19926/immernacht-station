@@ -5,7 +5,7 @@ ent-Screwdriver = Schraubendreher
     .desc = Industrielles Drehmoment in einem kleinen Schraubpaket.
 
 ent-Wrench = Schraubenschlüssel
-    .desc = Ein gemeinsames Werkzeug für die Montage und Demontage. Denken Sie daran: Linksverriegelung, Rechtsverriegelung.
+    .desc = Ein gemeinsames Werkzeug für die Montage und Demontage. Denke daran: Linksverriegelung, Rechtsverriegelung.
 
 ent-Multitool = Multitool
     .desc = Ein fortschrittliches Werkzeug zum Kopieren, Speichern und Senden elektrischer Impulse und Signale durch Drähte und Maschinen.

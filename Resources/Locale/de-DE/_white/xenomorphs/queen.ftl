@@ -1,5 +1,5 @@
-xenomorphs-queen-promotion-didnt-pass-whitelist = Sie dürfen dies nur mit Ihren erwachsenen, nicht königlichen Kindern verwenden!
-xenomorphs-queen-promotion-no-mind = Ihr Verstand kann die Promotion nicht unterstützen!
+xenomorphs-queen-promotion-didnt-pass-whitelist = Du darfst dies nur mit deinen erwachsenen, nicht königlichen Kindern verwenden!
+xenomorphs-queen-promotion-no-mind = Ihr Bewusstsein kann die Beförderung nicht verkraften!
 
 ### Goobstation
 xenomorphs-queen-not-enough-plasma = Nicht genug Plasma. Bedarf { $plasma } mehr.

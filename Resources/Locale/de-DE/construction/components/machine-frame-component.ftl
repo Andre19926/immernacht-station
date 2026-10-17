@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 machine-frame-component-on-examine-label = [color=white]Aktuelle Maschinenplatine:[/color] [color=cyan]{$board}[/color]
-machine-frame-component-on-complete = Bauabschluss
+machine-frame-component-on-complete = Bau abgeschlossen

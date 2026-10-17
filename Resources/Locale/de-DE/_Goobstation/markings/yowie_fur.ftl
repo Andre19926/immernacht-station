@@ -12,7 +12,7 @@ marking-YowieFurHead-yowie_fur_head = Yowiekopffell
 marking-YowieFurChest = Brustfell
 marking-YowieFurChest-yowie_fur_chest = Brustfell
 
-marking-YowieFurGroin = Leistengegend
+marking-YowieFurGroin = Yowie-Leistenfell
 marking-YowieFurGroin-yowie_fur_groin = Leistengegend
 
 marking-YowieFurArmRight = Yowie rechter Arm

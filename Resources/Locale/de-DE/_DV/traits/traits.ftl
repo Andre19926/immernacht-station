@@ -8,9 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 trait-ultravision-name = Ultraviolettsicht
-trait-ultravision-desc = Ob durch benutzerdefinierte bionische Augen, zufällige Mutation,
-                         oder als Harpyie, nehmen Sie die Welt mit ultraviolettem Licht wahr.
+trait-ultravision-desc = Ob durch maßgefertigte Bionikaugen, zufällige Mutation oder weil du eine Harpyie bist: Du siehst die Welt im ultravioletten Licht.
 
 trait-deuteranopia-name = Deuteranopie
-trait-deuteranopia-desc = Ob durch benutzerdefinierte bionische Augen, zufällige Mutation,
-                          oder ein Vulpkanin zu sein, haben Sie rot-grüne Farbenblindheit.
+trait-deuteranopia-desc = Ob durch maßgefertigte Bionikaugen, zufällige Mutation oder weil du ein Vulpkanin bist: Du hast eine Rot-Grün-Schwäche.

@@ -1,4 +1,4 @@
-ent-CrateEngineeringGear = Bauwerksverzahnung
+ent-CrateEngineeringGear = Technik-Ausrüstungskiste
     .desc = Verschiedene technische Getriebeteile.
 
 ent-CrateEngineeringToolbox = Werkzeugkastenkiste
@@ -46,7 +46,7 @@ ent-CrateRCD = RCD-Kiste
 ent-CrateParticleDecelerators = Partikelverzögerungsbehälter
     .desc = Eine Kiste mit 3 Partikel-Dezerler.
 
-ent-CrateEngineeringSpaceHeater = Raumheizkasten
+ent-CrateEngineeringSpaceHeater = Raumheizer-Kiste
     .desc = Enthält eine Raumheizung zur Klimatisierung.
 
 ent-CrateTechBoardRandom = Überschuss-Boards

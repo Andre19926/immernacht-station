@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-botany-plant-seedsrestored = Sie können das leise Geräusch von schlurfenden Blättern hören.
+botany-plant-seedsrestored = Du hörst das leise Rascheln von Blättern.
 botany-plant-seedsdestroyed = Die Samen auf der Pflanze beginnen zu knacken und fallen ab!

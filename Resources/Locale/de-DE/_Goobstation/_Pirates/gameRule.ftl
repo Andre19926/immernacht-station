@@ -4,18 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-antag-pirate-briefing =
-    Die Station weigerte sich, für Ihren Schutz zu bezahlen!
-
-    Sie müssen die Station für Wertsachen überfallen. Sobald Sie genug gesammelt haben, verkaufen Sie es auf Ihrer Frachtpalette und legen Sie die Credits in den Data Siphon auf Ihrem Schiff ein.
-    Holen Sie sich so viel Beute wie möglich!
-
-    Durch die Aktivierung des Data Siphons beginnen Sie, die Frachtabteilung von ihren Credits zu entleeren.
-    Vorsicht, dies wird dein Schiff verankern, die gesamte Crew alarmieren und verärgern, also mach dich bereit für einen großen Kampf!
+antag-pirate-briefing = Die Station hat sich geweigert, für deinen Schutz zu zahlen!
+    
+    Du musst die Station nach Wertsachen plündern. Verkaufe die Beute auf deiner Frachtpalette und stecke die Credits in den Data Siphon auf deinem Schiff.
+    Hol so viel Beute heraus wie möglich!
+    
+    Aktivierst du den Data Siphon, saugt er der Frachtabteilung die Credits ab.
+    Achtung: Dadurch wird dein Schiff verankert und die gesamte Crew alarmiert und verärgert. Mach dich auf einen großen Kampf gefasst!
 
 antag-pirate-briefing-short =
     Du bist ein Pirat.
-    Schützen Sie das Schiff, saugen Sie die Credits von der Station ab und überfallen Sie es für noch mehr Beute!
+    Schütze das Schiff, sauge die Credits von der Station ab und überfalle es für noch mehr Beute!
 
 pirate-roundend-append = Die Piratencrew plünderte die Station ihrer Wertsachen im Wert von insgesamt [color=yellow]{$num}[/color] Credits!
 

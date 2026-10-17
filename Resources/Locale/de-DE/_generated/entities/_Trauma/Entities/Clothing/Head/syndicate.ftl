@@ -1,2 +1,2 @@
 ent-ClothingHeadHatConeStorage = Warnkegel
-    .desc = Dieser Kegel versucht, Sie vor etwas zu warnen!
+    .desc = Dieser Kegel versucht, dich vor etwas zu warnen!

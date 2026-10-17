@@ -52,10 +52,10 @@ ent-ClothingHandsGlovesFingerlessInsulated = Fingerlose isolierte Handschuhe
     .desc = Beständig gegen Stöße, oder zumindest sie zu.
 
 ent-ClothingHandsGlovesMercFingerless = Söldnerhandschuhe ohne Finger
-    .desc = Handschuhe, die Sie möglicherweise nicht vor Fingerverbrennungen schützen, aber Sie kühler machen.
+    .desc = Handschuhe, die dich möglicherweise nicht vor Fingerverbrennungen schützen, dich aber kühler halten.
 
 ent-ThievingGloves = schwarze Handschuhe
-    .desc = Regelmäßige schwarze Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesCluwne = cluwne Hände
     .desc = Ein verfluchtes Paar Cluwne Hände.
@@ -64,7 +64,7 @@ ent-ClothingHandsGlovesNorthStar = Handschuhe des Nordsterns
     .desc = Nur diese anzusehen, erfüllt dich mit dem Drang, die Scheiße aus den Menschen zu schlagen.
 
 ent-ClothingHandsGlovesForensic = Forensische Handschuhe
-    .desc = Lassen Sie keine Fasern oder Fingerabdrücke. Wenn Sie ohne sie arbeiten, sind Sie ein schrecklicher Detektiv.
+    .desc = Lass keine Fasern oder Fingerabdrücke. Wenn du ohne sie arbeitest, bist du ein schrecklicher Detektiv.
 
 ent-ClothingHandsGlovesJanitor = Gummihandschuhe
     .desc = Hochwertige Gummihandschuhe, quietschend, um etwas zu reinigen!

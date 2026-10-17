@@ -6,6 +6,6 @@
 
 comp-paper-label-has-label = Es ist ein Etikett angebracht, es lautet:
 comp-paper-label-has-label-blank = Es ist ein Etikett angebracht, aber es ist leer.
-comp-paper-label-has-label-cant-read = Es ist ein Etikett angebracht, aber Sie können es nicht aus dieser Entfernung lesen.
-comp-paper-label-insert = Anbringungsetikett
-comp-paper-label-eject = Aufkleber
+comp-paper-label-has-label-cant-read = Es ist ein Etikett angebracht, aber du kannst es nicht aus dieser Entfernung lesen.
+comp-paper-label-insert = Etikett anbringen
+comp-paper-label-eject = Etikett entfernen

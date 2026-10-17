@@ -8,7 +8,7 @@ translator-implanter-used = Dieser Implanter scheint leer.
 
 translator-examined-langs-understood = Es kann übersetzen aus: [color=green]{$languages}[/color].
 translator-examined-langs-spoken = Es kann übersetzt werden zu: [color=green]{$languages}[/color].
-translator-examined-requires-any = Sie müssen mindestens eine dieser Sprachen kennen: [color=yellow]{$languages}[/color].
-translator-examined-requires-all = Es erfordert, dass Sie alle diese Sprachen kennen: [color=yellow]{$languages}[/color].
+translator-examined-requires-any = Du musst mindestens eine dieser Sprachen beherrschen: [color=yellow]{$languages}[/color].
+translator-examined-requires-all = Es erfordert, dass du alle diese Sprachen kennst: [color=yellow]{$languages}[/color].
 translator-examined-enabled = Es scheint, dass [color=green]aktiv[/color].
 translator-examined-disabled = Es scheint, dass [color=red]ausgeschaltet[/color].

@@ -9,7 +9,7 @@
 marking-LizardHeadGuilmon= Lizard, Guilmon
 marking-LizardHeadGuilmon-guilmon = Hauptverwaltung
 
-marking-LizardShoutEasternDragon= Lizard, östlicher Drache
+marking-LizardShoutEasternDragon= Echse, östlicher Drache (Schnauze)
 marking-LizardShoutEasternDragon-eastern_dragon = Äußeres
 marking-LizardShoutEasternDragon-eastern_dragon_overlay = Inneres
 
@@ -55,7 +55,7 @@ marking-SnakeLargeTail-tail_snakelarge = Inneres
 marking-SnakeLargeTail-tail_snakelarge_overlay = Äußeres
 
 # SPINES
-marking-LizardChestSpinesAquatic = Lizard, Brust, Wirbelsäulen (Aquatik)
+marking-LizardChestSpinesAquatic = Echse, Brust, Stacheln (aquatisch)
 marking-LizardChestSpinesAquatic-spines_aquatic = Spikes
 marking-LizardChestSpinesAquaticWithoutTail = Lizard, Brust, Wirbelsäulen (Aquatisch, ohne Schwanz)
 marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Spikes

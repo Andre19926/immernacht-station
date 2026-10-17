@@ -1,1 +1,1 @@
-equip-spray-verb-press = Presse
+equip-spray-verb-press = Drücken

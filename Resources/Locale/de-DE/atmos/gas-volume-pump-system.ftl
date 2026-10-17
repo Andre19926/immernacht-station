@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine Text
-gas-volume-pump-system-examined = Die Pumpe ist auf [color={$statusColor}]{$rate} Liter/sec[/color].
+gas-volume-pump-system-examined = Die Pumpe ist auf [color={$statusColor}]{$rate} Liter/s[/color] eingestellt.

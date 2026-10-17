@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-spider-charge-title-no-target = Detonieren Sie die Spinnenclansladung (kein Ziel)
-objective-condition-spider-charge-title = Detonieren Sie die Spider-Clan-Ladung {$location}
+objective-condition-spider-charge-title-no-target = Detoniere die Spinnenclansladung (kein Ziel)
+objective-condition-spider-charge-title = Detoniere die Spider-Clan-Ladung {$location}

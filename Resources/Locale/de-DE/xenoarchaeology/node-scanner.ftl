@@ -5,12 +5,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-node-scan-tooltip = Scannen Sie aktive Knoten
+node-scan-tooltip = Scanne aktive Knoten
 node-scan-no-data = Keine aktiven Knotendaten gefunden
 node-scan-display-title = Knotenscanner
 
 node-scanner-artifact-state-ready = Artifact ist bereit für Interaktion
-node-scanner-artifact-state-unlocking = Artefakt ist in Resonanz mit Ihren Aktionen
+node-scanner-artifact-state-unlocking = Artefakt ist in Resonanz mit deinen Aktionen
 node-scanner-artifact-state-cooldown = Artefakt ruht
 node-scanner-artifact-connected = Rasterartefakt
 node-scanner-artifact-non-connected = Artefakt nicht gefunden oder außerhalb des Bereichs

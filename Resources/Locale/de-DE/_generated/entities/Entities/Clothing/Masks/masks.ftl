@@ -11,10 +11,10 @@ ent-ClothingMaskGasAtmos = atmosphärische Gasmaske
     .desc = Verbesserte Gasmaske, die von atmosphärischen Technikern verwendet wird. Es ist flammfest!
 
 ent-ClothingMaskGasCaptain = Die Gasmaske des Kapitäns
-    .desc = Nanotrasen schnitt Ecken und malte eine Reserve atmosphärische Gasmaske, aber sagen Sie es niemandem.
+    .desc = Nanotrasen schnitt Ecken und malte eine Reserve atmosphärische Gasmaske, aber sage es niemandem.
 
 ent-ClothingMaskGasCentcom = CentComm Gasmaske
-    .desc = Oooh, Gold und Grün. Fancy! Dies sollte helfen, wenn Sie in Ihrem Büro sitzen.
+    .desc = Oooh, Gold und Grün. Fancy! Dies sollte helfen, wenn du in deinem Büro sitzt.
 
 ent-ClothingMaskGasExplorer = Erkundungsgasmaske
     .desc = Eine militärische Gasmaske, die an eine Luftversorgung angeschlossen werden kann.
@@ -23,7 +23,7 @@ ent-ClothingMaskBreathMedical = Medizinische Maske
     .desc = Eine eng anliegende Sterilmaske, die an eine Luftzufuhr angeschlossen werden kann.
 
 ent-ClothingMaskBreathMedicalSecurity = Militärische medizinische Maske
-    .desc = Eine medizinische Maske mit einer kleinen Schutzschicht gegen Schäden und Viren, ähnlich der, die in den medizinischen Einheiten des ersten Unternehmenskrieges verwendet wurde.
+    .desc = Eine medizinische Maske mit einer kleinen Schutzschicht gegen Schäden und Viren, ähnlich der, die in den medizinischen Einheiten des ersten Konzernkrieges verwendet wurde.
 
 ent-ClothingMaskBreath = Atemschutzmaske
     .desc = Könnte das auch 24/7 halten.
@@ -38,7 +38,7 @@ ent-ClothingMaskClownSecurity = Sicherheitsclownperücke und Maske
     .desc = Eine umstritten oxymoronische, aber schützende Maske und Perücke.
 
 ent-ClothingMaskJoy = Freudenmaske
-    .desc = Drücken Sie Ihr Glück aus oder verbergen Sie Ihre Sorgen mit diesem lachenden Gesicht mit weinenden Tränen der Freude ausgeschnitten.
+    .desc = Drücke dein Glück aus oder verberge deine Sorgen mit diesem lachenden Gesicht mit weinenden Tränen der Freude ausgeschnitten.
 
 ent-ClothingMaskMime = Mimemaske
     .desc = Die Maske der traditionellen Mime. Es hat eine unheimliche Gesichtshaltung.
@@ -106,8 +106,8 @@ ent-ClothingMaskSadMime = Sad Mime Maske
 ent-ClothingMaskScaredMime = Angst Mime Maske
     .desc = Sieht so aus, als würde es schreien, wenn es keine Maske wäre.
 
-ent-ClothingMaskMimeSecurity = Sicherheitsmaske
-    .desc = Sie haben das Recht, zu schweigen.
+ent-ClothingMaskMimeSecurity = Sicherheits-Mimenmaske
+    .desc = Du hast das Recht zu schweigen.
 
 ent-ClothingMaskItalianMoustache = Italienischer Schnurrbart
     .desc = Hergestellt aus authentischen italienischen Schnurrbarthaaren. Gibt dem Träger einen unwiderstehlichen Drang, wild zu gestikulieren.

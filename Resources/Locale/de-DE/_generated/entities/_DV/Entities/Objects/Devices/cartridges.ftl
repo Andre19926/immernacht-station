@@ -1,2 +1,2 @@
 ent-NanoChatCartridge = NanoChat Patrone
-    .desc = Lassen Sie andere Menschen Nachricht!
+    .desc = Lass andere Menschen Nachricht!

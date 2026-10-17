@@ -1,14 +1,14 @@
 ent-ProjectileFireball = Feuerball
-    .desc = Sie besser GITTAH WEIGH.
+    .desc = Mach besser GITTAH WEIGH.
 
 ent-ProjectileDragonsBreath = Drachenatmen
-    .desc = Versuchen Sie, nicht geröstet zu werden.
+    .desc = Versuche, nicht geröstet zu werden.
 
 ent-ProjectileAnomalyFireball = Feuerball
     .desc = Schwebender Flammenfleck.
 
 ent-ProjectileLocker = Verfluchter Spind
-    .desc = Ein verfluchter magischer Spind! Können Sie widerstehen?
+    .desc = Ein verfluchter magischer Spind! Kannst du widerstehen?
 
 ent-ProjectilePolyboltCarp = Karpfenpolybolz
     .desc = Nein, ich will kein Fisch sein!

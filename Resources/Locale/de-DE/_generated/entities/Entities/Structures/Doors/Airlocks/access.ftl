@@ -277,7 +277,7 @@ ent-AirlockSyndicateGlassLocked = Glas Luftschleuse
 ent-AirlockSyndicateNukeopGlassLocked = Glas Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMaintLocked = Instandhaltungszugang
+ent-AirlockMaintLocked = Wartungszugang (verschlossen)
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockXenoMaintLocked = Luftschleuse

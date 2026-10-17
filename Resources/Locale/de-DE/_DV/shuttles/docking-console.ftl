@@ -6,16 +6,16 @@
 
 docking-console-no-shuttle = Kein Shuttle entdeckt
 docking-console-ftl = FTL
-docking-console-call = Call Shuttle
+docking-console-call = Shuttle rufen
 
-mining-console-window-title = Mining Shuttle Konsole
+mining-console-window-title = Mining-Shuttle-Konsole
 
 shuttle-destination-lavaland = Lavaland
 shuttle-destination-glacier-surface = Gletscheroberfläche
 
-docking-console-ftl-message-Unknown = FTL-Zustand abrufen...
+docking-console-ftl-message-Unknown = FTL-Zustand wird abgerufen ...
 docking-console-ftl-message-Ready = Alle Systeme sind bereit.
-docking-console-ftl-message-NoSelection = Wählen Sie eines der Ziele aus.
+docking-console-ftl-message-NoSelection = Wähle eines der Ziele aus.
 docking-console-ftl-message-NoAccess = FEHLER: Zugang verweigert.
 docking-console-ftl-message-RechargingFtl = WARNUNG: Das FTL-System ist nicht bereit.
-docking-console-ftl-message-InFtl = FTL ist gestartet!
+docking-console-ftl-message-InFtl = FTL wurde gestartet!

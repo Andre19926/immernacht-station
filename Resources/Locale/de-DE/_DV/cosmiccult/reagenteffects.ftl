@@ -4,7 +4,7 @@ reagent-effect-guidebook-cleanse-cultist =
         *[other] cleanse
     } otherwordly influences
 
-entropy-effect-numb = Sie fühlen sich unheimlich taub.
+entropy-effect-numb = Du fühlst dich unheimlich taub.
 
 reagent-name-entropy = flüssige Entropie
 

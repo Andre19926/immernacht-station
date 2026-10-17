@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-batteryslotrequireslock-component-alert-owner = {$user} ist mit Ihrem Wartungspanel verwirren!
+batteryslotrequireslock-component-alert-owner = {$user} macht sich an deiner Wartungsklappe zu schaffen!

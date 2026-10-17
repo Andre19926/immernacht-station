@@ -1,19 +1,19 @@
 ent-ShadowlingGlareEffect = Blendwirkung
 
-ent-ShadowlingShadowWalkInEffect = Shadowling Shadow Walk in der Tat
+ent-ShadowlingShadowWalkInEffect = Schattenwesen: Schattenschritt (Eintritt)
 
 ent-ShadowlingShadowWalkOutEffect = Shadowing Shadow Walk Out Effekt
 
 ent-ShadowlingCollectiveMindEffect = Schattenwirkung des kollektiven Geistes
 
-ent-ShadowlingRapidRehatchEffect = Abschattung des Rapid Rehatch-Effekts
+ent-ShadowlingRapidRehatchEffect = Schattenwesen des Rapid Rehatch-Effekts
 
 ent-ShadowlingIcyVeinsEffect = Wirkung von eisigen Adern
 
-ent-ShadowlingNullChargeEffect = Abschattung des Nullladungseffekts
+ent-ShadowlingNullChargeEffect = Schattenwesen des Nullladungseffekts
 
-ent-ShadowlingSonicScreechEffect = Abschattung des Schallschutzes
+ent-ShadowlingSonicScreechEffect = Schattenwesen des Schallschutzes
 
-ent-ShadowlingBlackRecuperationEffect = Abschattungsschwarz-Rekuperationseffekt
+ent-ShadowlingBlackRecuperationEffect = Schwarze Regeneration (Schattenwesen-Effekt)
 
-ent-ShadowlingAscendingEffect = Abschattung aufsteigender Wirkung
+ent-ShadowlingAscendingEffect = Schattenwesen aufsteigender Wirkung

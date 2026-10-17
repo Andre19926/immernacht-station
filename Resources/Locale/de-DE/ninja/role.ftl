@@ -13,4 +13,4 @@ objective-issuer-spiderclan = [color=#33cc00]Spider Clan[/color]
 ninja-role-greeting =
     Ich bin ein Elite-Söldner des mächtigen Spider-Clans!
     Überraschung ist meine Waffe. Schatten sind meine Rüstung. Ohne sie bin ich nichts.
-    Verwenden Sie Ihren Pinpointer, um die Station zu finden. Viel Glück!
+    Verwende deinen Pinpointer, um die Station zu finden. Viel Glück!

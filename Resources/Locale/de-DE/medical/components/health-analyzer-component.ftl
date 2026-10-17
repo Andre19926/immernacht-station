@@ -40,8 +40,8 @@ health-analyzer-window-entity-bleeding-text = [color=red]Patient hat offene Wund
 
 health-analyzer-window-scan-mode-text = Scanmodus:
 health-analyzer-window-scan-mode-active = Aktiv
-health-analyzer-window-scan-mode-inactive = inaktiv
+health-analyzer-window-scan-mode-inactive = Inaktiv
 
 health-analyzer-popup-scan-target = {CAPITALIZE(THE($user))} versucht, dich zu scannen!
 ## Shitmed Change
-health-analyzer-window-return-button-text = < Rückkehr
+health-analyzer-window-return-button-text = < Zurück

@@ -12,7 +12,7 @@
 tabletop-verb-play-game = Spielspiel
 tabletop-verb-dump-pieces = Muldenstücke
 tabletop-default-board-name = Brettspiel
-tabletop-error-remove-non-hologram = Sie können ein eingebautes Stück nicht entfernen!
+tabletop-error-remove-non-hologram = Du kannst kein eingebautes Teil entfernen!
 tabletop-added-piece = Das Board schimmert hell!
 
 ## Chess

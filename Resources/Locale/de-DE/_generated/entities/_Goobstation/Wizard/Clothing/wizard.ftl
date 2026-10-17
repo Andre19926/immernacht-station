@@ -14,12 +14,12 @@ ent-ClothingOuterWizardYellowReal = Gelbe Zaubererrobe
     .desc = Eine prächtige gelbe Edelsteinrobe, die Kraft zu strahlen scheint.
 
 ent-ClothingHeadHatTapewizardReal = Klebeband
-    .desc = Ein magisch abgestimmter Hut, der ausschließlich aus Klebeband hergestellt wird. Sie können kaum sehen.
+    .desc = Ein magisch abgestimmter Hut, der ausschließlich aus Klebeband hergestellt wird. Du kannst kaum sehen.
 
 ent-ClothingOuterWizardTapeReal = Gewänder aus Band
     .desc = Eine feine Robe aus magisch abgestimmtem Klebeband.
 
-ent-ClothingHeadHatChanterelleReal = Chanterelle
+ent-ClothingHeadHatChanterelleReal = Pfifferlinghut
     .desc = Eine übergroße chanterelle mit hohlraum, um einen kopf hinein erfolgte. Sieht aus wie der Zaubererhut.
 
 ent-ClothingOuterWizardPaperReal = papier-mâché robes
@@ -28,7 +28,7 @@ ent-ClothingOuterWizardPaperReal = papier-mâché robes
 ent-ClothingHeadHatPaperWizard = Zaubereipapier
     .desc = Ein Hut aus Papier.
 
-ent-ClothingHeadHatMimeReal = Magische Berette
+ent-ClothingHeadHatMimeReal = Magisches Barett
     .desc = Ein magisches rotes Bett.
 
 ent-ClothingOuterWizardMimeReal = Mime Robe
@@ -44,7 +44,7 @@ ent-ClothingHeadHatPsyReal = Psychischer Verstärker
     .desc = Eine Dornenkrone psychischen Verstärker.
 
 ent-ClothingOuterWizardPsyReal = lila Gewänder
-    .desc = Schwere, königliche lila Gewänder mit psychischen Verstärkern und seltsamen, bauchigen Linsen. Maschinenwaschen Sie nicht.
+    .desc = Schwere, königliche lila Gewänder mit psychischen Verstärkern und seltsamen, bauchigen Linsen. Maschinenwasche nicht.
 
 ent-ClothingHeadHatOblivionEnforcer = Oblivion Enforcer
     .desc = Eine Kapuze, die von einem Oblivion Enforcer getragen wird.
@@ -53,7 +53,7 @@ ent-ClothingOuterOblivionEnforcer = Oblivion Enforcer Gewänder
     .desc = Eine Reihe von gepanzerten, strahlungsdichten Gewändern, die von Oblivion Enforcers getragen werden.
 
 ent-ClothingMaskGasOblivionEnforcer = Maske des Oblivion Enforcers
-    .desc = Die Maske eines Oblivion Enforcers. Vergessen Sie nicht, es einzuschalten, bevor Sie Ihre Einzeiler geben!
+    .desc = Die Maske eines Oblivion Enforcers. Vergiss nicht, es einzuschalten, bevor du deine Einzeiler gibst!
 
 ent-ClothingHeadHatWizardReal = Zauberhand
     .desc = Ein seltsam aussehender blauer Hut, der sicherlich zu einem mächtigen Magier gehört.
@@ -74,7 +74,7 @@ ent-ClothingOuterWizardVioletReal = Violette Zaubererrobe
     .desc = Eine bizarre Edelstein-verkrustete violette Robe, die magische Energien ausstrahlt.
 
 ent-ClothingHeadHatWitchReal = Hexenhut
-    .desc = Seltsam aussehende Hutbekleidung. Sie wollen Feuerbälle werfen.
+    .desc = Seltsam aussehender Hut. Du willst plötzlich Feuerbälle werfen.
 
 ent-ClothingOuterSuitWitchRobesReal = Hexenroben
     .desc = Magie ist alles über die Zauberkraft, ZE!

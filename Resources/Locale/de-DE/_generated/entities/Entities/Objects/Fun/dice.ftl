@@ -20,7 +20,7 @@ ent-d4Dice = d4
     .desc = Ein Würfel mit vier Seiten. Der Nerd's Caltrop.
 
 ent-DiceBag = Würfelbeutel
-    .desc = Enthält all das Glück, das Sie jemals brauchen werden.
+    .desc = Enthält all das Glück, das du jemals brauchen wirst.
 
 ent-MagicDiceBag = Würfelbeutel
-    .desc = Enthält all das Glück, das Sie jemals brauchen werden.
+    .desc = Enthält all das Glück, das du jemals brauchen wirst.

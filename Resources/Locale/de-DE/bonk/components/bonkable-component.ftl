@@ -9,5 +9,5 @@
 
 forced-bonkable-success-message = { CAPITALIZE($bonker) } Bonzen {$victim}s Kopf gegen { THE($bonkable) }!
 
-bonkable-success-message-user = Sie bonk den Kopf gegen { THE($bonkable) }!
+bonkable-success-message-user = Du stößt dir den Kopf an { THE($bonkable) }!
 bonkable-success-message-others = {$victim} Kopf gegen Kopf { THE($bonkable) }!

@@ -5,7 +5,7 @@ ent-HoloFan = Holofan
     .desc = Eine Barriere aus hartem Licht, die die Luft blockiert, aber nichts anderes.
 
 ent-HoloPeel = Holopeal
-    .desc = Eine Bananenschale aus rutschigem hartem Licht, achten Sie auf Ihren Schritt!
+    .desc = Eine Bananenschale aus rutschigem hartem Licht, achte auf deinen Schritt!
 
 ent-HolosignSecurity = holographische Barriere
     .desc = Eine Barriere aus hartem Licht, die Bewegung blockiert, aber ziemlich schwach.

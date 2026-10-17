@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-virodrobe-1 = Viren bringen dich runter? Dann upgraden Sie heute auf sterilisierte Kleidung!
-advertisement-virodrobe-2 = Sich krank fühlen? Diese Outfits werden dazu beitragen, die Ausbreitung dieser fiesen Krankheit zu begrenzen ... Ich denke.
-advertisement-virodrobe-3 = Schützt Sie vor allen bösen Krankheiten!
+advertisement-virodrobe-1 = Viren machen dir zu schaffen? Dann steig heute auf sterilisierte Kleidung um!
+advertisement-virodrobe-2 = Fühlst du dich krank? Diese Outfits helfen, die Ausbreitung dieser fiesen Krankheit einzudämmen ... glaube ich.
+advertisement-virodrobe-3 = Schützt dich vor allen bösen Krankheiten!

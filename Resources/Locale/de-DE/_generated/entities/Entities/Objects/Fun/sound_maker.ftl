@@ -7,7 +7,7 @@ ent-CluwneHorn = gebrochenes Fahrradhorn
 ent-GoldenBikeHorn = Goldhonker
     .desc = Ein fröhlicher Hupenpreis, bete zu den Göttern für deine Belohnung.
 
-ent-BananiumHorn = Absorber
+ent-BananiumHorn = Bananium-Hupe
     .desc = Ein Lufthorn aus Bananium.
 
 ent-PushHorn = Drückhorn
@@ -25,7 +25,7 @@ ent-SyndicateWhistle = Trenchpfeifen
 ent-ToyRubberDuck = Gummiente
     .desc = Nicht von Meeresströmungen getragen.
 
-ent-RubberChicken = Gummihühner
+ent-RubberChicken = Gummihuhn
     .desc = Eine stressauslösende Parodie auf den schönsten Vogel der Natur.
 
 ent-NewtonCradle = Newton Cradle

@@ -32,7 +32,7 @@ entity-condition-guidebook-group-damage =
     { $max ->
         [2147483648] Es hat mindestens {NATURALFIXED($min, 2)} von {$type} Schäden.
         *[other] { $min ->
-                    [0] Es hat höchstens {NATURALFIXED($max, 2)} von {$type} Schäden.
+                    [0] Es hat höchstens {NATURALFIXED($max, 2)} {$type}-Schaden.
                     *[other] Es hat zwischen {NATURALFIXED($min, 2)} und {NATURALFIXED($max, 2)} von {$type} Schäden
                  }
     }
@@ -55,14 +55,12 @@ entity-condition-guidebook-reagent-threshold =
                  }
     }
 
-entity-condition-guidebook-mob-state-condition =
-    Der Mob ist { $state }
+entity-condition-guidebook-mob-state-condition = das Wesen ist { $state }
 
-entity-condition-guidebook-job-condition =
-    Die Aufgabe des Ziels ist { $job }
+entity-condition-guidebook-job-condition = der Job des Ziels ist { $job }
 
 entity-condition-guidebook-solution-temperature =
-    the solution's temperature is { $max ->
+    die Temperatur der Lösung ist { $max ->
             [2147483648] mindestens {NATURALFIXED($min, 2)}k
             *[other] { $min ->
                         [0] höchstens {NATURALFIXED($max, 2)}k
@@ -71,7 +69,7 @@ entity-condition-guidebook-solution-temperature =
     }
 
 entity-condition-guidebook-body-temperature =
-    the body's temperature is { $max ->
+    die Körpertemperatur ist { $max ->
             [2147483648] mindestens {NATURALFIXED($min, 2)}k
             *[other] { $min ->
                         [0] höchstens {NATURALFIXED($max, 2)}k
@@ -80,16 +78,16 @@ entity-condition-guidebook-body-temperature =
     }
 
 entity-condition-guidebook-organ-type =
-    the metabolizing organ { $shouldhave ->
+    das metabolisierende Organ { $shouldhave ->
                                 [true] ist
                                 *[false] ist nicht
-                           } {INDEFINITE($name)} {$name} Organ
+                           } ein {$name}-Organ
 
 entity-condition-guidebook-has-tag =
-    the target { $invert ->
+    das Ziel { $invert ->
                  [true] hat nicht
                  *[false] hat
-                } Der Tag {$tag}
+                } den Tag {$tag}
 
 entity-condition-guidebook-this-reagent = dieses Reagenz
 
@@ -105,13 +103,13 @@ entity-condition-guidebook-blood-reagent-threshold =
 # Goobstation?
 
 entity-condition-guidebook-breathing =
-    the metabolizer is { $isBreathing ->
-                [true] Atmung normal
-                *[false] Ersticken
+    der Metabolisierer { $isBreathing ->
+                [true] atmet normal
+                *[false] erstickt
                }
 
 entity-condition-guidebook-internals =
-    the metabolizer is { $usingInternals ->
-                [true] Verwendung von Einbauten
-                *[false] Atmung atmosphärischer Luft
+    der Metabolisierer { $usingInternals ->
+                [true] nutzt Atemgas aus einem Tank
+                *[false] atmet Umgebungsluft
                }

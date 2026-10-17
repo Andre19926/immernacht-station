@@ -11,10 +11,10 @@
 
 ## IdCardComponent
 
-access-id-card-component-owner-name-job-title-text = Personalausweis{$jobSuffix}
-access-id-card-component-owner-full-name-job-title-text = {$fullName}Personalausweis{$jobSuffix}
-access-id-card-component-default = Personalausweis
+access-id-card-component-owner-name-job-title-text = ID-Karte{$jobSuffix}
+access-id-card-component-owner-full-name-job-title-text = ID-Karte von {$fullName}{$jobSuffix}
+access-id-card-component-default = ID-Karte
 
-id-card-component-microwave-burnt = {$id}'s Circuits Pop laut!
-id-card-component-microwave-bricked = {$id}'s Schaltungen brutzeln!
-id-card-component-microwave-safe = {$id}'s Schaltungen machen ein seltsames Geräusch.
+id-card-component-microwave-burnt = Die Schaltkreise von {$id} knallen laut!
+id-card-component-microwave-bricked = Die Schaltkreise von {$id} brutzeln!
+id-card-component-microwave-safe = Die Schaltkreise von {$id} machen ein seltsames Geräusch.

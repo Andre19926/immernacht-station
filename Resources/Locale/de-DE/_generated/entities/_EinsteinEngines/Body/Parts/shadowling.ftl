@@ -1,8 +1,8 @@
-ent-ChestShadowling = Abschattungskasten
+ent-ChestShadowling = Schattenwesen-Torso
 
-ent-GroinShadowling = Abschattungsleiste
+ent-GroinShadowling = Schattenwesen-Unterleib
 
-ent-HeadShadowling = Abschattungskopf
+ent-HeadShadowling = Schattenwesen-Kopf
 
 ent-LeftArmShadowling = linker Schattenarm
 

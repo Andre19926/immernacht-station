@@ -10,7 +10,7 @@ ent-ClothingHeadHelmetSwat = SWAT-Helm
 ent-ClothingHeadHelmetSwatSyndicate = SWAT-Helm
     .desc = Ein extrem robuster Helm, der üblicherweise von paramilitärischen Kräften verwendet wird. Es ist in einem schändlichen roten und schwarzen Streifenmuster geschmückt.
 
-ent-ClothingHeadHelmetRiot = Lichtschutzhelm
+ent-ClothingHeadHelmetRiot = Leichter Aufruhrhelm
     .desc = Es ist ein Helm, der speziell zum Schutz vor Nahbereichsangriffen entwickelt wurde.
 
 ent-ClothingHeadHelmetBombSuit = Bombenanzughelm
@@ -53,7 +53,7 @@ ent-ClothingHeadHelmetERTMedic = ERT Sanitäterhelm
     .desc = Ein In-Atmosphäre-Helm, der von medizinischen Mitgliedern des Nanotrasen Emergency Response Teams getragen wird. Es hat weiße Highlights.
 
 ent-ClothingHeadHelmetERTEngineer = Helm von ERT-Ingenieuren
-    .desc = Ein In-Atmosphäre-Helm, der von Ingenieurmitgliedern des Nanotrasen Emergency Response Teams getragen wird. Hat orange Highlights und hält Ihre Augen sicher.
+    .desc = Ein In-Atmosphäre-Helm, der von Ingenieurmitgliedern des Nanotrasen Emergency Response Teams getragen wird. Hat orange Highlights und hält deine Augen sicher.
 
 ent-ClothingHeadHelmetERTJanitor = ERT Hausmeisterhelm
     .desc = Ein In-Atmosphäre-Helm, der von Hausmeistermitgliedern des Nanotrasen Emergency Response Teams getragen wird. Hat dunkle violette Highlights.

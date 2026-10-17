@@ -1,7 +1,7 @@
-ent-HelpimovCircuitBoard = Law Board (Helpimov)
+ent-HelpimovCircuitBoard = Gesetzesplatine (Helpimov)
     .desc = Eine Elektronikplatine, die das Helpimov-Gesetz enthält.
 
-ent-GambamovCircuitBoard = Law Board (Gambamov)
+ent-GambamovCircuitBoard = Gesetzesplatine (Gambamov)
     .desc = Eine Elektronikplatine, die das Gambamov-Gesetz enthält.
 
 ent-PlayerBorgDerelictSyndicateAssaultBattery = derelict syndicate assasult cyborg

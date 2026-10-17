@@ -28,11 +28,11 @@ paper-component-illiterate = Du kannst nicht schreiben.
 paper-component-illiterate-mime = Dein Gelübde verbietet dir das Schreiben.
 
 paper-component-action-stamp-paper-other = {CAPITALIZE(THE($user))} Stempel {THE($target)} mit {THE($stamp)}.
-paper-component-action-stamp-paper-self = Sie stempeln {THE($target)} mit {THE($stamp)}.
+paper-component-action-stamp-paper-self = Du stempelst {THE($target)} mit {THE($stamp)} ab.
 
 # Indicator to show how full a paper is
 paper-ui-fill-level = {$currentLength}/{$maxLength}
 
-paper-ui-save-button = Speichern{$keybind})
+paper-ui-save-button = Speichern ({$keybind})
 
 paper-tamper-proof-modified-message = Diese Seite wurde mit manipulationssicherer Tinte geschrieben.

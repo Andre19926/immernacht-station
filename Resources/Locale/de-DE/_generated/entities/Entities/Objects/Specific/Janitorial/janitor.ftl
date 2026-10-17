@@ -17,7 +17,7 @@ ent-GoldenPlunger = Goldkolben
     .desc = Ein Kolben mit einem Kunststoffsaugnapf, der in einer dünnen Goldschicht beschichtet ist, wird als Zeichen der Wertschätzung für jahrelangen Dienst angegeben. Es wird immer noch verwendet, um Drains aufzulösen.
 
 ent-RagItem = feuchter Lappen
-    .desc = Um Chaos aufzuräumen, vermuten Sie.
+    .desc = Um Chaos aufzuräumen, vermute.
 
 ent-WireBrush = Drahtbürste
     .desc = Eine bristly Stahldrahtbürste, perfekt zum Abstreifen auch die härtesten Flecken von Rost.

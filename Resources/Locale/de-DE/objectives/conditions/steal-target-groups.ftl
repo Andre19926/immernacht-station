@@ -33,7 +33,7 @@ steal-target-groups-door-remotes = Türferne
 steal-target-groups-encryption-keys = Verschlüsselungsschlüssel
 steal-target-groups-technology-disks = Technologiediskette
 steal-target-groups-mail = Postsendung
-steal-target-groups-id-cards = Personalausweis
+steal-target-groups-id-cards = ID-Karte
 steal-target-groups-officer-handguns = Handfeuerwaffe des Sicherheitsbeamten
 steal-target-groups-lamps = Lampe
 
@@ -44,7 +44,7 @@ steal-target-groups-ammo-tech-fab-circuitboard = ammo techfab Leiterplatte
 steal-target-groups-clothing-head-hat-warden = Warden's Cap
 steal-target-groups-clothing-outer-hardsuit-void-paramed = Sanitäter-Voidsanzug
 steal-target-groups-medical-tech-fab-circuitboard = Medizinische Techfab Maschinenplatte
-steal-target-groups-clothing-headset-alt-medical = Das Over-Ear-Headset von Chief Medical Officer
+steal-target-groups-clothing-headset-alt-medical = Das Over-Ear-Headset von Chefarzt
 steal-target-groups-research-and-development-server-machine-circuitboard = R&D Server Maschinenplatine
 steal-target-groups-fire-axe = Feuerachse
 steal-target-groups-ame-part-flatpack =  AME Flatpack

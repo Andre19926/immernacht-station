@@ -19,7 +19,7 @@ ent-CrateEngineeringSingularityContainment = Containment-Feldgenerator-Kiste
 ent-CrateEngineeringSingularityGenerator = Singularitätsgeneratorkiste
     .desc = Ein Singularitätsgenerator, die Mutter des Tieres.
 
-ent-CrateEngineeringParticleAccelerator = PA Bordkiste
+ent-CrateEngineeringParticleAccelerator = PA-Platinenkiste
     .desc = Komplex zu setup, aber lohnend wie ficken. Enthält Platinen für alle Partikelbeschleunigerkomponenten.
 
 ent-CrateEngineeringGenerator = Generatorkiste

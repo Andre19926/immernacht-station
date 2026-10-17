@@ -1,5 +1,5 @@
-ent-MindRoleShadowling = Rolle der Abschattung
-    .desc = Mind Role Entity
+ent-MindRoleShadowling = Rolle der Schattenwesen
+    .desc = Mind Role Entität
 
 ent-MindRoleThrall = Thrall Rolle
-    .desc = Mind Role Entity
+    .desc = Mind Role Entität

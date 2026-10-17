@@ -32,10 +32,10 @@ marking-SynthAntennaTwin-antenna_twin = Antenne
 marking-SynthLArmLight = Armlicht (links)
 marking-SynthLArmLight-arm_light_l = Licht
 
-marking-SynthRArmLight = Armbeleuchtung (rechts)
+marking-SynthRArmLight = Armlicht (rechts)
 marking-SynthRArmLight-arm_light_r = Licht
 
-marking-SynthLArmStarPauldron = Star Pauldron (Links)
+marking-SynthLArmStarPauldron = Sternen-Schulterplatte (links)
 marking-SynthLArmStarPauldron-star_pauldron_l = Pauldron
 
 marking-SynthRArmStarPauldron = Star Pauldron (rechts)
@@ -43,7 +43,7 @@ marking-SynthRArmStarPauldron-star_pauldron_r = Pauldron
 
 # Chest
 
-marking-SynthChestComposite = Synth Chest (Komposit)
+marking-SynthChestComposite = Synth-Brust (Verbund)
 marking-SynthChestComposite-composite = Verbundwerkstoff
 marking-SynthChestComposite-composite_frame = Rahmen
 
@@ -51,7 +51,7 @@ marking-SynthChestLight = Brustlicht
 marking-SynthChestLight-chest_light = Licht
 
 marking-SynthChestStarCross = Sternkreuz
-marking-SynthChestStarCross-star_cross = Kreuzung
+marking-SynthChestStarCross-star_cross = Kreuz
 
 # Eyes
 
@@ -60,7 +60,7 @@ marking-SynthChestStarCross-star_cross = Kreuzung
 marking-SynthJawComposite = Synth Jaw (Komposit)
 marking-SynthJawComposite-jaw_composite = Verbundwerkstoff
 
-marking-SynthVisor = Synth Visor (Fabrik)
+marking-SynthVisor = Synth-Visier (Fabrik)
 marking-SynthVisor-visor = Sicht
 marking-SynthVisor-visor_frame = Rahmen
 marking-SynthVisor-visor_plate = Platte
@@ -72,13 +72,13 @@ marking-SynthVisorStarCross-visor_plate_star_cross = Platte
 
 # Head Side
 
-marking-SynthCompositeHood = Composite Hood
+marking-SynthCompositeHood = Verbundhaube
 marking-SynthCompositeHood-composite_hood = Verbundwerkstoff
 
 marking-SynthCompositeHoodLight = Composite Hood (Licht)
 marking-SynthCompositeHoodLight-composite_hood_light = Licht
 
-marking-SynthSolarFans = Solarventilatoren
+marking-SynthSolarFans = Solarlüfter
 marking-SynthSolarFans-solar_fans = Fans
 
 # Legs

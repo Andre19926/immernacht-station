@@ -9,10 +9,10 @@ station-ai-icon-blank = Leere Schale
 station-ai-icon-bingle = Bingle
 station-ai-icon-performer = Jedermanns Idol
 
-station-ai-earlyleave-button = AI Shutdown
-station-ai-earlyleave-menu-title = AI Shutdown
-station-ai-earlyleave-menu-text = Sind Sie sicher? Sie werden aus der Runde entfernt und Ihr Job-Slot wird geöffnet.
-station-ai-earlyleave-menu-confirm = Bestätigung
+station-ai-earlyleave-button = KI Shutdown
+station-ai-earlyleave-menu-title = KI Shutdown
+station-ai-earlyleave-menu-text = Bist du sicher? Du wirst aus der Runde entfernt und dein Job-Slot wird geöffnet.
+station-ai-earlyleave-menu-confirm = Bestätigen
 station-ai-earlyleave-menu-deny = Leugnen
-station-ai-earlyleave-announcement = {$character} (Station AI) ist in den Winterschlaf eingetreten!
-station-ai-earlyleave-announcement-sender = AI Core
+station-ai-earlyleave-announcement = {$character} (Stations-KI) ist in den Winterschlaf eingetreten!
+station-ai-earlyleave-announcement-sender = KI Core

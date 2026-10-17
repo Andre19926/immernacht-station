@@ -5,8 +5,8 @@
 
 advertisement-pride-1 = Be gay do crime!
 advertisement-pride-2 = Voller Farben!
-advertisement-pride-3 = Du bist gültig!
-advertisement-pride-4 = Der erste Stolz war ein Aufruhr!
+advertisement-pride-3 = Du bist genau richtig!
+advertisement-pride-4 = Der erste Pride war ein Aufstand!
 thankyou-pride-1 = Slay!
 thankyou-pride-2 = Knock 'em dead!
-thankyou-pride-3 = Was für ein Leuchten!
+thankyou-pride-3 = Was für ein Glow-up!

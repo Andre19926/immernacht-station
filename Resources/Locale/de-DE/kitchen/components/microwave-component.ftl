@@ -14,29 +14,29 @@
 
 ## Entity
 
-microwave-component-interact-using-no-power = Sie hat keine Macht!
+microwave-component-interact-using-no-power = Es hat keinen Strom!
 microwave-component-interact-using-broken = Es ist kaputt!
-microwave-component-interact-using-container-full = Container ist voll
+microwave-component-interact-using-container-full = Behälter ist voll
 microwave-component-interact-using-transfer-success = Übertragen {$amount}u
 microwave-component-interact-using-transfer-fail = Das wird nicht funktionieren!
-microwave-component-suicide-multi-head-others-message = {$victim} Sie versuchen, ihre Köpfe zu kochen!
-microwave-component-suicide-others-message = {$victim} Sie versuchen, ihren Kopf zu kochen!
-microwave-component-suicide-multi-head-message = Du kochst deine Köpfe!
-microwave-component-suicide-message = Du kochst deinen Kopf!
+microwave-component-suicide-multi-head-others-message = {$victim} versucht, sich die Köpfe zu kochen!
+microwave-component-suicide-others-message = {$victim} versucht, sich den Kopf zu kochen!
+microwave-component-suicide-multi-head-message = Du kochst dir den Kopf!
+microwave-component-suicide-message = Du kochst dir den Kopf!
 microwave-component-interact-full = Es ist voll.
 microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } ist zu groß, um in die Mikrowelle zu passen!
 
 ## Bound UI
 
-microwave-bound-user-interface-instant-button = INSTANTE
+microwave-bound-user-interface-instant-button = SOFORT
 microwave-bound-user-interface-cook-time-label = KOKZEIT: {$time}
 
 ## UI
 
 microwave-menu-title = Mikrowelle
-microwave-menu-start-button = Beginn
-microwave-menu-eject-all-text = Alle Inhalte auswerfen
+microwave-menu-start-button = Start
+microwave-menu-eject-all-text = Gesamten Inhalt auswerfen
 microwave-menu-eject-all-tooltip = Dadurch werden alle Reagenzien verdampft, aber alle Feststoffe ausgestoßen.
-microwave-menu-instant-button = INSTANTE
-microwave-menu-footer-flavor-left = Legen Sie keine elektronischen, metallischen oder lebenden Objekte ein.
+microwave-menu-instant-button = SOFORT
+microwave-menu-footer-flavor-left = Lege keine elektronischen, metallischen oder lebenden Objekte ein.
 microwave-menu-footer-flavor-right = v1.5

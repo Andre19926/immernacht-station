@@ -9,7 +9,7 @@ ent-DrinkTeapot = Teekanne
 
 ent-DrinkCanPack = 6 Packung
 
-ent-DrinkShaker = Rüttel
+ent-DrinkShaker = Shaker
     .desc = Der treue Mischkumpel des Barkeepers.
 
 ent-DrinkShakerGold = Goldschüttler

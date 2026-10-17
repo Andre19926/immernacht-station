@@ -11,13 +11,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-pressed = gepresst
+signal-port-name-pressed = Gedrückt
 signal-port-description-pressed = Dieser Port wird immer dann aufgerufen, wenn der Sender aktiviert ist.
 
 signal-port-name-on-transmitter = On
 signal-port-description-on-transmitter = Dieser Port wird aufgerufen, wenn der Sender eingeschaltet ist.
 
-signal-port-name-off-transmitter = Ausgeschaltet
+signal-port-name-off-transmitter = Aus
 signal-port-description-off-transmitter = Dieser Port wird aufgerufen, wenn der Sender ausgeschaltet ist.
 
 signal-port-name-status-transmitter = Status
@@ -26,7 +26,7 @@ signal-port-description-status-transmitter = Dieser Port wird je nach Senderstat
 signal-port-name-left = Links
 signal-port-description-left = Dieser Port wird immer dann aufgerufen, wenn der Hebel in die linke Position bewegt wird.
 
-signal-port-name-right = rechts
+signal-port-name-right = Rechts
 signal-port-description-right = Dieser Port wird immer dann aufgerufen, wenn der Hebel in die rechte Position bewegt wird.
 
 signal-port-name-doorstatus = Türstatus
@@ -35,7 +35,7 @@ signal-port-description-doorstatus = Dieser Port wird mit HIGH aufgerufen, wenn 
 signal-port-name-dockstatus = Dockstatus
 signal-port-description-dockstatus = Dieser Port wird mit HIGH aufgerufen, wenn angedockt und LOW, wenn nicht angedockt.
 
-signal-port-name-middle = Mittler
+signal-port-name-middle = Mitte
 signal-port-description-middle = Dieser Port wird immer dann aufgerufen, wenn der Hebel in die Neutralposition bewegt wird.
 
 signal-port-name-trigger-sender = Trigger
@@ -44,16 +44,16 @@ signal-port-description-trigger-sender = Dieser Port wird aufgerufen, wenn das G
 signal-port-name-timer-trigger = Timer
 signal-port-description-timer-trigger = Dieser Port wird aufgerufen, wenn der Timer aus ist.
 
-signal-port-name-timer-start = Startzeit
+signal-port-name-timer-start = Timer starten
 signal-port-description-timer-start = Dieser Port wird immer dann aufgerufen, wenn der Timer startet.
 
 signal-port-name-logic-output = Output
 signal-port-description-logic-output = Dieser Port wird mit HIGH oder LOW aufgerufen, abhängig vom ausgewählten Gate und den Eingängen.
 
-signal-port-name-logic-output-high = Hoher Output
+signal-port-name-logic-output-high = Hoher Ausgang
 signal-port-description-logic-output-high = Dieser Port wird immer dann aufgerufen, wenn die Eingabe eine steigende Flanke hat.
 
-signal-port-name-logic-output-low = Niedriger Output
+signal-port-name-logic-output-low = Niedriger Ausgang
 signal-port-description-logic-output-low = Dieser Port wird immer dann aufgerufen, wenn die Eingabe eine fallende Flanke hat.
 
 signal-port-name-air-danger = Gefahr
@@ -65,10 +65,10 @@ signal-port-description-air-warning = Dieser Port wird mit HIGH aufgerufen, wenn
 signal-port-name-air-normal = Normal
 signal-port-description-air-normal = Dieser Port wird mit HIGH aufgerufen, wenn er sich im normalen Modus befindet, und LOW, wenn nicht.
 
-signal-port-name-decaying = Abklingen
+signal-port-name-decaying = Zerfallend
 signal-port-description-decaying = Dieser Port wird aufgerufen, wenn eine gebundene Anomalie zu verfallen beginnt.
 
-signal-port-name-stabilize = Stabilisierung
+signal-port-name-stabilize = Stabilisieren
 signal-port-description-stabilize = Dieser Port wird aufgerufen, wenn eine gebundene Anomalie normalisiert wird.
 
 signal-port-name-growing = Wachsend
@@ -80,11 +80,11 @@ signal-port-description-pulse = Dieser Port wird aufgerufen, wenn eine gebundene
 signal-port-name-supercrit = Überkritisch
 signal-port-description-supercrit = Dieser Port wird aufgerufen, wenn eine gebundene Anomalie nach dem Supercrit-Zustand explodiert.
 
-signal-port-name-power-charging = Gebühren
+signal-port-name-power-charging = Lädt
 signal-port-description-power-charging = Dieser Port wird mit HIGH aufgerufen, wenn die Batterie aufgeladen ist und LOW, wenn nicht.
 
-signal-port-name-power-discharging = Entladen
+signal-port-name-power-discharging = Entlädt
 signal-port-description-power-discharging = Dieser Port wird mit HIGH aufgerufen, wenn die Batterie Ladung verliert und LOW, wenn nicht.
 
-signal-port-name-item-detected = Gefunden
+signal-port-name-item-detected = Erkannt
 signal-port-description-item-detected = Dieser Port wird immer dann aufgerufen, wenn der Sender ein Element erkennt.

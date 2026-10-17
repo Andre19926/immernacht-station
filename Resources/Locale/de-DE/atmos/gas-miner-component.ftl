@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-miner-mines-text = Es Minen [color=lightgray]{$gas}[/color] Wenn aktiv.
+gas-miner-mines-text = Es fördert [color=lightgray]{$gas}[/color], wenn es aktiv ist.
 
-gas-miner-amount-text = Es Minen {$moles} Mol Gas eine Sekunde, wenn aktiv.
+gas-miner-amount-text = Es fördert {$moles} Mol Gas pro Sekunde, wenn es aktiv ist.
 gas-miner-temperature-text = Temperatur des geförderten Gases: {$tempK}K ({$tempC}°C).
 
-gas-miner-moles-cutoff-text = Umgebende Mol Cutoff: {$moles} Mol.
-gas-miner-pressure-cutoff-text = Umgebende Druckabschaltung: {$pressure} kPA.
+gas-miner-moles-cutoff-text = Abschaltgrenze (Umgebungsmenge): {$moles} Mol.
+gas-miner-pressure-cutoff-text = Abschaltgrenze (Umgebungsdruck): {$pressure} kPa.
 
-gas-miner-state-working-text = Der Miner ist [color=green]aktiv[/color] und Bergbaugas.
-gas-miner-state-idle-text = Der Miner ist [color=yellow]Leerlauf[/color] Nicht Bergbaugas.
-gas-miner-state-disabled-text = Der Miner ist [color=red]Behinderte[/color] Nicht Bergbaugas.
+gas-miner-state-working-text = Der Gasförderer ist [color=green]aktiv[/color] und fördert Gas.
+gas-miner-state-idle-text = Der Gasförderer ist im [color=yellow]Leerlauf[/color] und fördert kein Gas.
+gas-miner-state-disabled-text = Der Gasförderer ist [color=red]deaktiviert[/color] und fördert kein Gas.

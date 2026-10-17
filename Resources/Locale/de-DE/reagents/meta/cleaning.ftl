@@ -9,10 +9,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-bleach = Bleichmittel
-reagent-desc-bleach = Heavy Duty Reiniger, der Fliesen besser reinigen kann als Space Cleaner. Extrem giftig beim Verzehr.
+reagent-desc-bleach = Heavy Duty Reiniger, der Kacheln besser reinigen kann als Space Cleaner. Extrem giftig beim Verzehr.
 
-reagent-name-space-cleaner = Raumfilter
-reagent-desc-space-cleaner = Dies ist in der Lage, fast alle Oberflächen von fast allem zu reinigen, was sie verschmutzen kann. Der Hausmeister wird wahrscheinlich Nachfüllungen zu schätzen wissen.
+reagent-name-space-cleaner = Raumreiniger
+reagent-desc-space-cleaner = Reinigt fast jede Oberfläche von fast allem, was sie verschmutzen kann. Der Hausmeister freut sich bestimmt über Nachschub.
 
 reagent-name-soap = Seife
 reagent-desc-soap = Ich würde meinen Mund damit nicht aufräumen, wenn ich du wäre.

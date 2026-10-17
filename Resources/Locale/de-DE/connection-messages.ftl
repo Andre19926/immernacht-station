@@ -22,11 +22,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-whitelistadd-desc = Fügt den Player mit dem angegebenen Benutzernamen zur Server-Whitelist hinzu.
+cmd-whitelistadd-desc = Fügt den Spieler mit dem angegebenen Benutzernamen zur Server-Whitelist hinzu.
 cmd-whitelistadd-help = Verwendung: whitelistadd <Benutzername oder Benutzer-ID>
 cmd-whitelistadd-existing = {$username} steht bereits auf der Whitelist!
 cmd-whitelistadd-added = {$username} zur Whitelist hinzugefügt
-cmd-whitelistadd-not-found = Unfähig zu finden '{$username}'
+cmd-whitelistadd-not-found = „{$username}“ nicht gefunden
 cmd-whitelistadd-arg-player = [player]
 
 cmd-whitelistremove-desc = Entfernt den Player mit dem angegebenen Benutzernamen von der Server-Whitelist.
@@ -36,7 +36,7 @@ cmd-whitelistremove-removed = {$username} von der Whitelist entfernt
 cmd-whitelistremove-not-found = Unfähig zu finden '{$username}'
 cmd-whitelistremove-arg-player = [player]
 
-cmd-kicknonwhitelisted-desc = Kicks alle nicht-weißen Spieler vom Server.
+cmd-kicknonwhitelisted-desc = Kickt alle Spieler, die nicht auf der Whitelist stehen, vom Server.
 cmd-kicknonwhitelisted-help = Verwendung: kicknonwhitelisted
 
 ban-banned-permanent = Dieser Bann wird nur durch einen Einspruch aufgehoben.
@@ -61,24 +61,24 @@ whitelist-blacklisted = Du stehst auf der Blacklist dieses Servers.
 whitelist-always-deny = Du darfst diesem Server nicht beitreten.
 whitelist-fail-prefix = Nicht auf der Whitelist: {$msg}
 
-cmd-blacklistadd-desc = Fügt den Player mit dem angegebenen Benutzernamen zur Server-Blacklist hinzu.
+cmd-blacklistadd-desc = Fügt den Spieler mit dem angegebenen Benutzernamen zur Server-Blacklist hinzu.
 cmd-blacklistadd-help = Verwendung: blacklistadd <Benutzername>
 cmd-blacklistadd-existing = {$username} steht bereits auf der Blacklist!
 cmd-blacklistadd-added = {$username} zur Blacklist hinzugefügt
-cmd-blacklistadd-not-found = Unfähig zu finden '{$username}'
+cmd-blacklistadd-not-found = „{$username}“ nicht gefunden
 cmd-blacklistadd-arg-player = [player]
 
-cmd-blacklistremove-desc = Entfernt den Player mit dem angegebenen Benutzernamen von der Server-Blacklist.
+cmd-blacklistremove-desc = Entfernt den Spieler mit dem angegebenen Benutzernamen von der Server-Blacklist.
 cmd-blacklistremove-help = Verwendung: blacklistremove <username>
 cmd-blacklistremove-existing = {$username} steht nicht auf der schwarzen Liste!
 cmd-blacklistremove-removed = {$username} von der Blacklist entfernt
-cmd-blacklistremove-not-found = Unfähig zu finden '{$username}'
+cmd-blacklistremove-not-found = „{$username}“ nicht gefunden
 cmd-blacklistremove-arg-player = [player]
 
-baby-jail-account-denied = Dieser server ist ein newbie-server, der für neue spieler und diejenigen gedacht ist, die ihnen helfen wollen. Neue Verbindungen durch Accounts, die zu alt sind oder nicht auf einer Whitelist stehen, werden nicht akzeptiert. Schauen Sie sich einige andere Server an und sehen Sie alles, was Space Station 14 zu bieten hat. Viel Spaß!
-baby-jail-account-denied-reason = Dieser server ist ein newbie-server, der für neue spieler und diejenigen gedacht ist, die ihnen helfen wollen. Neue Verbindungen durch Accounts, die zu alt sind oder nicht auf einer Whitelist stehen, werden nicht akzeptiert. Schauen Sie sich einige andere Server an und sehen Sie alles, was Space Station 14 zu bieten hat. Viel Spaß! Grund: "{$reason}"
-baby-jail-account-reason-account = Ihr Space Station 14-Konto ist zu alt. Es muss jünger sein als {$minutes} Minuten
-baby-jail-account-reason-overall = Ihre Gesamtspielzeit auf dem Server muss jünger sein als {$minutes} $Minuten
+baby-jail-account-denied = Dieser Server ist ein Neulingsserver für neue Spieler und alle, die ihnen helfen wollen. Neue Verbindungen von Konten, die zu alt sind oder nicht auf einer Whitelist stehen, werden nicht akzeptiert. Schau dir doch einige andere Server an und entdecke alles, was Space Station 14 zu bieten hat. Viel Spaß!
+baby-jail-account-denied-reason = Dieser Server ist ein Neulingsserver für neue Spieler und alle, die ihnen helfen wollen. Neue Verbindungen von Konten, die zu alt sind oder nicht auf einer Whitelist stehen, werden nicht akzeptiert. Schau dir doch einige andere Server an und entdecke alles, was Space Station 14 zu bieten hat. Viel Spaß! Grund: "{$reason}"
+baby-jail-account-reason-account = Dein Space Station 14-Konto ist zu alt. Es muss jünger als {$minutes} Minuten sein
+baby-jail-account-reason-overall = Deine Gesamtspielzeit auf dem Server muss unter {$minutes} Minuten liegen
 
 generic-misconfigured = Der Server ist falsch konfiguriert und nimmt keine Spieler auf. Bitte wende dich an den Serverbetreiber und versuch es später erneut.
 

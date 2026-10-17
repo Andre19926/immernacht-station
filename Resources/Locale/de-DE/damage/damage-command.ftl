@@ -6,16 +6,16 @@
 
 ## Damage command loc.
 
-damage-command-description = Hinzufügen oder Entfernen von Schäden an einer Entität. 
-damage-command-help = Verwendung: {$command} <type/group> <mount> [ignoreResistances] [uid]
+damage-command-description = Fügt einer Entität Schaden hinzu oder entfernt ihn. 
+damage-command-help = Verwendung: {$command} <type/group> <amount> [ignoreResistances] [uid]
 
 damage-command-arg-type = <Schadenstyp oder Gruppe>
 damage-command-arg-quantity = [quantity]
 damage-command-arg-target = [target euid]
 
 damage-command-error-type = {$arg} ist keine gültige Schadensgruppe oder -art.
-damage-command-error-euid = {$arg} ist keine gültige Entity uid.
+damage-command-error-euid = {$arg} ist keine gültige Entitäts-UID.
 damage-command-error-quantity = {$arg} ist keine gültige Menge.
-damage-command-error-bool = {$arg} Es ist kein gültiger bool.
-damage-command-error-player = Keine Entität, die an eine Sitzung angeschlossen ist. Sie müssen eine Ziel-UID angeben
-damage-command-error-args = Ungültige Anzahl von Argumenten 
+damage-command-error-bool = {$arg} ist kein gültiger Bool-Wert.
+damage-command-error-player = Keine Entität mit der Sitzung verbunden. Du musst eine Ziel-UID angeben.
+damage-command-error-args = Ungültige Anzahl an Argumenten 

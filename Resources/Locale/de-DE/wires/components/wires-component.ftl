@@ -10,21 +10,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wires-component-ui-on-receive-message-no-hands = Sie haben keine Hände.
-wires-component-ui-on-receive-message-cannot-reach = Du kannst dort nicht ankommen!
-wires-component-ui-on-receive-message-need-wirecutters = Sie müssen einen Wirecutter in der Hand halten!
-wires-component-ui-on-receive-message-need-multitool = Sie müssen ein Multitool in der Hand halten!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Sie können keinen Draht pulsieren, der geschnitten wurde!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = Sie können keinen Draht schneiden, der geschnitten wurde!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Sie können keinen Draht reparieren, der repariert wurde!
+wires-component-ui-on-receive-message-no-hands = Du hast keine Hände.
+wires-component-ui-on-receive-message-cannot-reach = Da kommst du nicht hin!
+wires-component-ui-on-receive-message-need-wirecutters = Du musst einen Drahtschneider in der Hand halten!
+wires-component-ui-on-receive-message-need-multitool = Du musst ein Multitool in der Hand halten!
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Du kannst keinen Draht anpulsen, der durchtrennt wurde!
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = Du kannst keinen Draht durchtrennen, der bereits durchtrennt ist!
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Du kannst keinen Draht reparieren, der nicht durchtrennt ist!
 
 ## UI
 
 wires-menu-name-label = Drähte
 wires-menu-dead-beef-text = Totes Rindfleisch
 wires-menu-help-popup =
-    Klicken Sie auf die Goldkontakte mit einem Multitool in der Hand, um ihren Draht zu pulsieren.
-    Klicken Sie auf die Drähte mit einem Paar Wirecutters in der Hand, um sie zu schneiden / zu reparieren.
+    Klicke auf die Goldkontakte mit einem Multitool in der Hand, um ihren Draht zu pulsieren.
+    Klicke auf die Drähte mit einem Paar Wirecutters in der Hand, um sie zu schneiden / zu reparieren.
 
     Die Lichter an der Spitze zeigen den Zustand der Maschine, das Durcheinanderlegen mit Drähten wird ihnen wahrscheinlich etwas antun.
     Drahtlayouts sind in jeder Runde unterschiedlich, aber konsistent zwischen Maschinen des gleichen Typs.

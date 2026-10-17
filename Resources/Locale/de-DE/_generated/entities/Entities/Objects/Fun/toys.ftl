@@ -1,5 +1,5 @@
 ent-SnapPop = Snap Pop
-    .desc = Werfen Sie es auf den Boden und hören Sie es POP!
+    .desc = Wirf es auf den Boden und hör es POPPEN!
 
 ent-SnapPopBox = Snap Pop Box
     .desc = Enthält Snap Pops für ein paar Minuten Popspaß!

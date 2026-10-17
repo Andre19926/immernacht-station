@@ -14,7 +14,7 @@
 
 store-currency-inserted = {CAPITALIZE(THE($used))} wird eingefügt in {THE($target)}.
 store-currency-war-boost-given = { CAPITALIZE($target) } Beginnt zu summen
-store-currency-inserted-implant = {CAPITALIZE(THE($used))} wird in Ihr Implantat eingeführt.
+store-currency-inserted-implant = {CAPITALIZE(THE($used))} wird in dein Implantat eingeführt.
 
 store-currency-free = frei
 store-currency-display-debugdollar = {$amount ->

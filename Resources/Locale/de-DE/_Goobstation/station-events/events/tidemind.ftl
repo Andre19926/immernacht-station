@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-tidemind-message = [color=#AAAAAF]Sie spüren ein starkes Gefühl der Einheit mit anderen Assistenten. Sie können jetzt die [color=gray][bold]Tidemin[/bold][/color] mit [bold]+t[/bold].[/color]
+station-event-tidemind-message = [color=#AAAAAF]Du spürst eine starke Verbundenheit mit anderen Assistenten. Du kannst jetzt den [color=gray][bold]Tidemind[/bold][/color] mit [bold]+t[/bold] nutzen.[/color]

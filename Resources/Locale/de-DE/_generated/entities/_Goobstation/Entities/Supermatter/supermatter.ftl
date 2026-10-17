@@ -1,2 +1,2 @@
-ent-Supermatter = Überlagerungskristall
-    .desc = Ein seltsam durchsichtiger und schillernder Kristall.
+ent-Supermatter = Supermatter-Kristall
+    .desc = Ein seltsam durchscheinender, schillernder Kristall.

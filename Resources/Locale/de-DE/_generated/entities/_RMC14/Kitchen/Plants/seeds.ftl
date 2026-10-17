@@ -1,1 +1,1 @@
-ent-MangoSeeds = Packung Mangosamen
+ent-MangoSeeds = Mangosamen

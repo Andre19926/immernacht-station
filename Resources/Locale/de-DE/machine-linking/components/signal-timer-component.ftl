@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 signal-timer-menu-title = Timer
-signal-timer-menu-label = Etikett: 
+signal-timer-menu-label = Beschriftung: 
 signal-timer-menu-delay = Verzögerung: 
-signal-timer-menu-start = Beginn
+signal-timer-menu-start = Start

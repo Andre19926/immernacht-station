@@ -5,9 +5,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-logic-gate-examine = Es ist derzeit {INDEFINITE($gate)} {$gate} Gate.
+logic-gate-examine = Es ist derzeit ein {$gate}-Gatter.
 
-logic-gate-cycle = Umgestellt auf {INDEFINITE($gate)} {$gate} Tor
+logic-gate-cycle = Umgestellt auf {$gate}-Gatter
 
 power-sensor-examine = It is currently checking the network's {$output ->
     [true] Ausgangsleistung

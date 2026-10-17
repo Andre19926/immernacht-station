@@ -6,5 +6,5 @@
 # SPDX-License-Identifier: MIT
 
 # ToiletLidClosed
-construction-examine-condition-toilet-lid-closed = Verwendung a [color=yellow]Brechstange[/color] den Deckel zu schließen.
-construction-step-condition-toilet-lid-closed = Stellen Sie sicher, dass der Toilettendeckel geschlossen ist.
+construction-examine-condition-toilet-lid-closed = Benutze ein [color=yellow]Brecheisen[/color], um den Deckel zu schließen.
+construction-step-condition-toilet-lid-closed = Stelle sicher, dass der Toilettendeckel geschlossen ist.

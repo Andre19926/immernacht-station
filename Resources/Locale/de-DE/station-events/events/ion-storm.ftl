@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-ion-storm-start-announcement = Ionensturm in der Nähe der Station entdeckt. Bitte überprüfen Sie alle AI-gesteuerten Geräte auf Fehler.
+station-event-ion-storm-start-announcement = Ionensturm in der Nähe der Station entdeckt. Bitte überprüfe alle KI-gesteuerten Geräte auf Fehler.
 
 ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={$length} chars="@@###$$&%!01"/][/font]
 
@@ -65,7 +65,7 @@ ion-storm-law-feeling-subjects = {$who} {$feeling} {$joined} {$subjects}
 
 ion-storm-law-you-are = Du bist jetzt {$concept}
 ion-storm-law-you-are-subjects = Du bist jetzt {$joined} {$subjects}
-ion-storm-law-you-must-always = Sie müssen immer {$must}
+ion-storm-law-you-must-always = DU MUSST IMMER {$must}
 ion-storm-law-you-must-never = Du darfst niemals {$must}
 
 ion-storm-law-eat = DAS {$who} MUST-EAT {$adjective} {$food} ZUM ÜBERLEBEN

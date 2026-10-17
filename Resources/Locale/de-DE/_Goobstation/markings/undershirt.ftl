@@ -5,7 +5,7 @@ marking-UndershirtRolled-rolled_undershirt = Unterhemden
 marking-UndershirtRolled = Unterhemd (Rolled)
 
 marking-UndershirtSleeveless-sleeveless = Tankstelle
-marking-UndershirtSleeveless = Tankstelle
+marking-UndershirtSleeveless = Tanktop (ärmellos)
 
 marking-UndershirtGrossSleeveless-gross_sleeveless = Tankstelle
 marking-UndershirtGrossSleeveless = Tanktop (Gross)
@@ -17,10 +17,10 @@ marking-UndershirtNanotrasen-nanotrasen = Unterhemden
 marking-UndershirtNanotrasen = Unterhemd (Nanotrasen)
 
 marking-UndershirtBinder-binder = Binder
-marking-UndershirtBinder = Binder
+marking-UndershirtBinder = Brustbinder
 
 marking-UndershirtBraClassic-classic = Brabra
-marking-UndershirtBraClassic = Bra (klassisch)
+marking-UndershirtBraClassic = BH (klassisch)
 
 marking-UndershirtBraSports-sports = Brabra
 marking-UndershirtBraSports = Bra (Sport)

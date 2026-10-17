@@ -35,10 +35,10 @@ ent-ActionDisableTechV = Deaktivierungstechnologie V
     .desc = Deaktiviert alle Waffen, Kameras und die meisten anderen Technologien in Reichweite.
 
 ent-ActionSmokeII = Rauch II
-    .desc = Spawnt eine Wolke von erstickendem Rauch an Ihrem Standort.
+    .desc = Spawnt eine Wolke von erstickendem Rauch an deinem Standort.
 
 ent-ActionSmokeIII = Rauch III
-    .desc = Spawnt eine Wolke von erstickendem Rauch an Ihrem Standort.
+    .desc = Spawnt eine Wolke von erstickendem Rauch an deinem Standort.
 
 ent-ActionRepulseII = Rückschlag II
     .desc = Wirft alles um den Benutzer herum weg.
@@ -71,31 +71,31 @@ ent-ActionBlindV = Blind V
     .desc = Erblindet vorübergehend ein einzelnes Ziel.
 
 ent-ActionMutateII = Mutat II
-    .desc = Veranlasst Sie, sich in einen Hulk zu verwandeln und für kurze Zeit ein Lasersehen zu erlangen.
+    .desc = Veranlasst dich, in einen Hulk zu verwandeln und für kurze Zeit ein Lasersehen zu erlangen.
 
 ent-ActionTeslaBlastII = Tesla Blast II
-    .desc = Laden Sie einen Tesla-Bogen auf und geben Sie ihn bei zufälligen Zielen in der Nähe frei.
+    .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
 ent-ActionTeslaBlastIII = Tesla Blast III
-    .desc = Laden Sie einen Tesla-Bogen auf und geben Sie ihn bei zufälligen Zielen in der Nähe frei.
+    .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
 ent-ActionTeslaBlastIV = Tesla Blast IV
-    .desc = Laden Sie einen Tesla-Bogen auf und geben Sie ihn bei zufälligen Zielen in der Nähe frei.
+    .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
 ent-ActionTeslaBlastV = Tesla Blast V
-    .desc = Laden Sie einen Tesla-Bogen auf und geben Sie ihn bei zufälligen Zielen in der Nähe frei.
+    .desc = Lade einen Tesla-Bogen auf und gib ihn bei zufälligen Zielen in der Nähe frei.
 
 ent-ActionLightningBoltII = Blitzschlag II
-    .desc = Feuern Sie einen Blitz auf Ihre Feinde.
+    .desc = Feuern dich einen Blitz auf deine Feinde.
 
 ent-ActionLightningBoltIII = Blitzschlag III
-    .desc = Feuern Sie einen Blitz auf Ihre Feinde.
+    .desc = Feuern dich einen Blitz auf deine Feinde.
 
 ent-ActionLightningBoltIV = Blitzbolzen IV
-    .desc = Feuern Sie einen Blitz auf Ihre Feinde.
+    .desc = Feuern dich einen Blitz auf deine Feinde.
 
 ent-ActionLightningBoltV = Blitzschlag V
-    .desc = Feuern Sie einen Blitz auf Ihre Feinde.
+    .desc = Feuern dich einen Blitz auf deine Feinde.
 
 ent-ActionHomingToolboxII = Homing Werkzeugkasten II
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
@@ -110,16 +110,16 @@ ent-ActionHomingToolboxV = Homing Werkzeugkasten V
     .desc = Feuert einen magischen Homing Werkzeugkasten auf deinen Gegner.
 
 ent-ActionArcaneBarrageII = Arkane Barriere II
-    .desc = Feuert einen Strom arkaner Energie auf eure Feinde.
+    .desc = Feuert einen Strom arkaner Energie auf deine Feinde.
 
 ent-ActionArcaneBarrageIII = Arkane Barriere III
-    .desc = Feuert einen Strom arkaner Energie auf eure Feinde.
+    .desc = Feuert einen Strom arkaner Energie auf deine Feinde.
 
 ent-ActionLesserSummonGunsII = Kleinere Beschwörungswaffen II
-    .desc = Beschwören Sie einen endlosen Strom von Bolzen-Action-Gewehren.
+    .desc = Beschwöre einen endlosen Strom von Bolzen-Action-Gewehren.
 
 ent-ActionLesserSummonGunsIII = Kleinere Beschwörungswaffen III
-    .desc = Beschwören Sie einen endlosen Strom von Bolzen-Action-Gewehren.
+    .desc = Beschwöre einen endlosen Strom von Bolzen-Action-Gewehren.
 
 ent-ActionBarnyardCurseII = Fluch der Barnyard II
     .desc = Verdammt eine unglückliche Seele, die Sprach- und Gesichtsmerkmale eines Scheunentiers zu besitzen.
@@ -128,22 +128,22 @@ ent-ActionBarnyardCurseIII = Fluch der Barnyard III
     .desc = Verdammt eine unglückliche Seele, die Sprach- und Gesichtsmerkmale eines Scheunentiers zu besitzen.
 
 ent-ActionScreamForMeII = Scream For Me II
-    .desc = Dieser böse Zauber fügt Ihrem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
+    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
 ent-ActionScreamForMeIII = Scream For Me III
-    .desc = Dieser böse Zauber fügt Ihrem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
+    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
 ent-ActionScreamForMeIV = Scream For Me IV
-    .desc = Dieser böse Zauber fügt Ihrem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
+    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
 ent-ActionScreamForMeV = Scream For Me V
-    .desc = Dieser böse Zauber fügt Ihrem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
+    .desc = Dieser böse Zauber fügt deinem Ziel viele schwere Wunden zu, so dass es wahrscheinlich zu Tode blutet, es sei denn, es wird sofort medizinisch behandelt.
 
 ent-ActionTeleportII = Teleport II
-    .desc = Dieser Zauber teleportiert Sie zu einem Bereich Ihrer Wahl.
+    .desc = Dieser Zauber teleportiert dich zu einem Bereich deiner Wahl.
 
 ent-ActionTeleportIII = Teleport III
-    .desc = Dieser Zauber teleportiert Sie zu einem Bereich Ihrer Wahl.
+    .desc = Dieser Zauber teleportiert dich zu einem Bereich deiner Wahl.
 
 ent-ActionTrapsII = Die Fallen! II
     .desc = Beschwöre eine Reihe von Fallen um dich herum.
@@ -158,10 +158,10 @@ ent-ActionTrapsV = Die Fallen! V
     .desc = Beschwöre eine Reihe von Fallen um dich herum.
 
 ent-ActionLesserSummonBeesII = Kleine Summonen-Bienen
-    .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu Ihrem Standort.
+    .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
 
 ent-ActionLesserSummonBeesIII = Kleinere Beschwörerbienen III
-    .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu Ihrem Standort.
+    .desc = Dieser Zauber tritt auf magische Weise in einen transdimensionalen Bienenstock und ruft sofort einen Bienenschwarm zu deinem Standort.
 
 ent-ActionSanguineStrikeII = Sanguine Strike II
     .desc = Verzaubert deinen nächsten Waffenschlag, um mehr Schaden zu verursachen, dich für den verursachten Schaden zu heilen und Blut aufzufüllen.
@@ -170,10 +170,10 @@ ent-ActionSanguineStrikeIII = Sanguine Strike III
     .desc = Verzaubert deinen nächsten Waffenschlag, um mehr Schaden zu verursachen, dich für den verursachten Schaden zu heilen und Blut aufzufüllen.
 
 ent-ActionSwapII = Swap II
-    .desc = Ermöglicht es Ihnen, Standorte mit jedem Lebewesen zu tauschen.
+    .desc = Ermöglicht es dir, Standorte mit jedem Lebewesen zu tauschen.
 
 ent-ActionSwapIII = Swap III
-    .desc = Ermöglicht es Ihnen, Standorte mit jedem Lebewesen zu tauschen.
+    .desc = Ermöglicht es dir, Standorte mit jedem Lebewesen zu tauschen.
 
 ent-ActionBlinkII = Blink II
     .desc = Zufällig teleportieren eine kurze Strecke.
@@ -182,28 +182,28 @@ ent-ActionBlinkIII = Blink III
     .desc = Zufällig teleportieren eine kurze Strecke.
 
 ent-ActionForceWallII = Force Wall II
-    .desc = Erstellen Sie eine magische Barriere, die nur Sie passieren können.
+    .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
 ent-ActionForceWallIII = Kraftwand III
-    .desc = Erstellen Sie eine magische Barriere, die nur Sie passieren können.
+    .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
 ent-ActionForceWallIV = Kraftwand 4
-    .desc = Erstellen Sie eine magische Barriere, die nur Sie passieren können.
+    .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
 ent-ActionForceWallV = Kraftwand V
-    .desc = Erstellen Sie eine magische Barriere, die nur Sie passieren können.
+    .desc = Erstelle eine magische Barriere, die nur du passierst können.
 
-ent-ActionChargeII = Ladung II
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in Ihren Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+ent-ActionChargeII = Aufladen II
+    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
 
-ent-ActionChargeIII = Gebühr III
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in Ihren Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+ent-ActionChargeIII = Aufladen III
+    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
 
-ent-ActionChargeIV = Ladung IV
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in Ihren Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+ent-ActionChargeIV = Aufladen IV
+    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
 
-ent-ActionChargeV = Ladung V
-    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in Ihren Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+ent-ActionChargeV = Aufladen V
+    .desc = Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
 
 ent-ActionMindSwapII = Mind Swap II
     .desc = Tausche Körper mit einer anderen Person aus!
@@ -230,10 +230,10 @@ ent-ActionKnockIII = Anschlag III
     .desc = Öffnet in der Nähe Türen und Spind.
 
 ent-ActionSpellCardsII = Zauberkarten II
-    .desc = Feuern Sie bis zu sechs Ausbrüche von Homing Zauberkarten.
+    .desc = Feuern dich bis zu sechs Ausbrüche von Homing Zauberkarten.
 
 ent-ActionSpellCardsIII = Zauberkarten III
-    .desc = Feuern Sie bis zu sechs Ausbrüche von Homing Zauberkarten.
+    .desc = Feuern dich bis zu sechs Ausbrüche von Homing Zauberkarten.
 
 ent-ActionPolymorphWizardRodII = Rod Formblatt II
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.

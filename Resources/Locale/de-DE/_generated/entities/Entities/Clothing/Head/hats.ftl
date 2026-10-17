@@ -1,12 +1,12 @@
 ent-ClothingHeadHatBeaverHat = Biberhut
 
-ent-ClothingHeadHatBeret = Rüben
+ent-ClothingHeadHatBeret = Barett
     .desc = Die Lieblingskopfbedeckung eines Künstlers.
 
-ent-ClothingHeadHatBeretFrench = Fressgewehr
+ent-ClothingHeadHatBeretFrench = Französisches Barett
     .desc = Ein französisches Bret. "Vive la France!"
 
-ent-ClothingHeadHatBeretSecurity = Sicherheitshelm
+ent-ClothingHeadHatBeretSecurity = Sicherheitsbarett
     .desc = Eine Berette mit den Abzeichen der Sicherheitsabteilung. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
 
 ent-ClothingHeadHatSecurityTrooper = Hut für Soldaten
@@ -15,28 +15,28 @@ ent-ClothingHeadHatSecurityTrooper = Hut für Soldaten
 ent-ClothingHeadHatCasa = Casa
     .desc = kegelförmiger Hut.
 
-ent-ClothingHeadHatBeretRND = Wissenschaftliches Reittier
+ent-ClothingHeadHatBeretRND = Wissenschaftsbarett
     .desc = Eine Berette für echte Wissenschaftler.
 
-ent-ClothingHeadHatBeretEngineering = Maschinenregal
+ent-ClothingHeadHatBeretEngineering = Technik-Barett
     .desc = Eine Berette mit den Insignien der Ingenieurabteilung. Für Ingenieure, die eher zum Stil als zur Sicherheit neigen.
 
-ent-ClothingHeadHatBeretQM = Quartiermeisterrettich
+ent-ClothingHeadHatBeretQM = Quartiermeister-Barett
     .desc = Eine Berette mit den Abzeichen der Frachtabteilung.
 
-ent-ClothingHeadHatBeretHoS = Leiter der Sicherheitsrettung
+ent-ClothingHeadHatBeretHoS = Barett des Sicherheitschefs
     .desc = Eine schwarze Barette mit einem Kommandantenrang-Emblem. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
 
-ent-ClothingHeadHatBeretWarden = Warden's beret
-    .desc = Ein Corporate-Blau-Bret mit einem Rang Emblem des Wärters. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
+ent-ClothingHeadHatBeretWarden = Warden-Barett
+    .desc = Ein Corporate-Blau-Bret mit einem Rang Emblem des Warden. Für Offiziere, die eher zum Stil als zur Sicherheit neigen.
 
-ent-ClothingHeadHatBeretSeniorPhysician = Ärztin
+ent-ClothingHeadHatBeretSeniorPhysician = Oberarzt-Barett
     .desc = Die Farben der Medizin und Chemie anziehend, sind Ärzte der Stolz dieser Abteilung!
 
-ent-ClothingHeadHatBeretBrigmedic = Brigmedik-Brettich
+ent-ClothingHeadHatBeretBrigmedic = Gefängnissanitäter-Barett
     .desc = Eine weiße Berette für Gefängnissanitäter.
 
-ent-ClothingHeadHatBeretMerc = Söldner
+ent-ClothingHeadHatBeretMerc = Söldnerbarett
     .desc = Eine Olivenmütze mit einem Abzeichen, das einen Schakal auf einem Felsen darstellt.
 
 ent-ClothingHeadHatBeretCommand = Führungs-Barett
@@ -45,7 +45,7 @@ ent-ClothingHeadHatBeretCommand = Führungs-Barett
 ent-ClothingHeadHatBowlerHat = Bowlerhut
     .desc = Ein stilvoller Bowlerhut.
 
-ent-ClothingHeadHatCaptain = Hardhat des Kapitäns
+ent-ClothingHeadHatCaptain = Kapitänshelm
     .desc = Es fühlt sich gut an, der König zu sein.
 
 ent-ClothingHeadHatCardborg = Cardborghelm
@@ -55,7 +55,7 @@ ent-ClothingHeadHatCentcom = Markenname CentComm
     .desc = Fühlt sich gut an, der Chef des Königs zu sein.
 
 ent-ClothingHeadHatChef = Kochhut
-    .desc = Ein Hut von Köchen verwendet, um ihre Haare aus Ihrem Essen zu halten. Nach dem Essen im Durcheinander zu urteilen, funktionieren sie nicht.
+    .desc = Ein Hut von Köchen verwendet, um ihre Haare aus deinem Essen zu halten. Nach dem Essen im Durcheinander zu urteilen, funktionieren sie nicht.
 
 ent-ClothingHeadHatFedoraBrown = Brauner Fedora
     .desc = Eine braune Fedora.
@@ -76,7 +76,7 @@ ent-ClothingHeadHatOutlawHat = Outlaw-Hut
     .desc = Ein Hut, der dich aussehen lässt, als ob du eine eingekerbte Pistole trägst, nummeriert eine und neunzehn weitere.
 
 ent-ClothingHeadHatWitch1 = Hexenhut
-    .desc = Seltsam aussehende Hutbekleidung. Sie wollen Feuerbälle werfen.
+    .desc = Seltsam aussehender Hut. Du willst plötzlich Feuerbälle werfen.
 
 ent-ClothingHeadHatPaper = Papierhut
     .desc = Ein Hut aus Papier.
@@ -97,13 +97,13 @@ ent-ClothingHeadHatSombrero = Sombre
     .desc = "Perfekt für Space Mexico, si?"
 
 ent-ClothingHeadHatSurgcapBlue = Blaue Operationskappe
-    .desc = Ein Blue Cap Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, Ihre inneren Organe zu kitzeln.
+    .desc = Ein Blue Cap Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, deine inneren Organe zu kitzeln.
 
 ent-ClothingHeadHatSurgcapGreen = Grüne chirurgische Kappe
-    .desc = Ein Green Cap Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, Ihre inneren Organe zu kitzeln.
+    .desc = Ein Green Cap Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, deine inneren Organe zu kitzeln.
 
-ent-ClothingHeadHatSurgcapPurple = Purpur-Chirurgie
-    .desc = Ein lila Kappe Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, Ihre inneren Organe zu kitzeln.
+ent-ClothingHeadHatSurgcapPurple = Violette Operationskappe
+    .desc = Ein lila Kappe Chirurgen tragen während der Operationen. Hält ihre Haare davon ab, deine inneren Organe zu kitzeln.
 
 ent-ClothingHeadHatTophat = Tophat
     .desc = Einen stilvollen schwarzen Tophat.
@@ -112,16 +112,16 @@ ent-ClothingHeadHatUshanka = Uschanka
     .desc = "Perfekt für den Winter in Sibirien, da?"
 
 ent-ClothingHeadHatCanadaBeanie = Beanie
-    .desc = Rot, weiß und eng. Es strahlt ein heimeliges Gefühl aus, wenn Ihr Haus kühl und mit Kaffeehäusern gefüllt ist.
+    .desc = Rot, weiß und eng. Es strahlt ein heimeliges Gefühl aus, wenn dein Haus kühl und mit Kaffeehäusern gefüllt ist.
 
 ent-ClothingHeadHatVioletwizard = Violetter Zauberer
     .desc = Ein seltsam aussehender violetter Hut, der sicherlich zu einem mächtigen Zauberbenutzer gehört.
 
-ent-ClothingHeadHatWarden = Warden's Cap
-    .desc = Dieser Hut betont, dass Sie das Gesetz sind.
+ent-ClothingHeadHatWarden = Warden-Mütze
+    .desc = Dieser Hut betont, dass du das Gesetz bist.
 
 ent-ClothingHeadHatWitch = Hexenhut
-    .desc = Seltsam aussehende Hutbekleidung. Sie wollen Feuerbälle werfen.
+    .desc = Seltsam aussehender Hut. Du willst plötzlich Feuerbälle werfen.
 
 ent-ClothingHeadHatWizardFake = Fake Wizard Hat
     .desc = Es hat "WIZZARD" in grellen Pailletten darüber geschrieben. Kommt mit einem kühlen Bart.
@@ -135,13 +135,13 @@ ent-ClothingHeadHatTrucker = Truckerhut
     .desc = Früher Chuck, dieser Hut ist jetzt dein.
 
 ent-ClothingHeadPyjamaSyndicateBlack = Syndicate schwarzer Pyjamahut
-    .desc = Für das Halten dieses verräterischen Kopf von Ihnen warm.
+    .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
 ent-ClothingHeadPyjamaSyndicatePink = Syndicate Pink Pyjama Hat
-    .desc = Für das Halten dieses verräterischen Kopf von Ihnen warm.
+    .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
 ent-ClothingHeadPyjamaSyndicateRed = Syndicate Red Pyjama Hat
-    .desc = Für das Halten dieses verräterischen Kopf von Ihnen warm.
+    .desc = Für das Halten dieses verräterischen Kopf von dir warm.
 
 ent-ClothingHeadPaperSack = Papiersackhut
     .desc = Ein Papiersack mit groben Löchern für die Augen ausgeschnitten. Nützlich, um seine identität und / oder hässlichkeit zu verbergen.
@@ -149,7 +149,7 @@ ent-ClothingHeadPaperSack = Papiersackhut
 ent-ClothingHeadPaperSackSmile = Lächelnder Papiersackhut
     .desc = Ein Papiersack mit groben Löchern für die Augen und ein skizzenhaftes Lächeln auf der Vorderseite. Nicht gruselig überhaupt.
 
-ent-ClothingHeadFishCap = Fangkappe
+ent-ClothingHeadFishCap = Anglerkappe
     .desc = "Frauen fürchten mich." Fische haben Angst vor mir. Männer wenden ihre Augen von mir ab. Während ich gehe, wagt es kein Tier, in meiner Gegenwart ein Geräusch zu machen. Ich bin allein auf dieser unfruchtbaren Erde.
 
 ent-ClothingHeadWehcellentCap = Schwellverschluss
@@ -162,15 +162,15 @@ ent-ClothingHeadRastaHat = Rastahut
     .desc = In der nähe von da beach, boyee.
 
 ent-ClothingHeadSafari = Safari-Hafen
-    .desc = Haltet die Sonne aus deinen Augen. Macht Sie zu einem Ziel für die Einheimischen.
+    .desc = Haltet die Sonne aus deinen Augen. Macht dich zu einem Ziel für die Einheimischen.
 
 ent-ClothingHeadHatJester = Justerhut
-    .desc = Ein Hut mit Glocken, um etwas Fröhlichkeit zu Ihrem Kopf hinzuzufügen.
+    .desc = Ein Hut mit Glocken, um etwas Fröhlichkeit zu deinem Kopf hinzuzufügen.
 
 ent-ClothingHeadHatJesterAlt = Justerhut
-    .desc = Ein Hut mit Glocken, um etwas Fröhlichkeit zu Ihrem Kopf hinzuzufügen.
+    .desc = Ein Hut mit Glocken, um etwas Fröhlichkeit zu deinem Kopf hinzuzufügen.
 
-ent-ClothingHeadHatBeretCmo = Beret des Chefarztes
+ent-ClothingHeadHatBeretCmo = Chefarzt-Barett
     .desc = Eine türkisfarbene Barette mit einem Kreuz an der Vorderseite. Der Anblick davon beruhigt dich und macht deutlich, dass du geheilt wirst.
 
 ent-ClothingHeadHatPirateTricord = Piraterie
@@ -186,10 +186,10 @@ ent-ClothingHeadHatSyndie = Syndicate-Hut
     .desc = Ein Souvenirhut von "Syndieland", deren Produktion bereits geschlossen wurde.
 
 ent-ClothingHeadHatSyndieMAA = Master auf Arms Hat
-    .desc = Meister an Waffenhut, sieht einschüchternd aus, ich bezweifle, dass Sie gerne mit seinem Besitzer kommunizieren werden ...
+    .desc = Meister an Waffenhut, sieht einschüchternd aus, ich bezweifle, dass du gerne mit seinem Besitzer kommunizieren wirst...
 
 ent-ClothingHeadHatTacticalMaidHeadband = taktisches Dienstmädchen-Kopfband
-    .desc = Ein rotes Stirnband - stellen Sie sich keinen Rambo vor und nehmen Sie nicht ein paar Maschinengewehre.
+    .desc = Ein rotes Stirnband - stelle dich keinen Rambo vor und nimm nicht ein paar Maschinengewehre.
 
 ent-ClothingHeadHatHetmanHat = Hetman-Haft
     .desc = Aus dem Zaporozhian Sich mit Liebe.
@@ -197,7 +197,7 @@ ent-ClothingHeadHatHetmanHat = Hetman-Haft
 ent-ClothingHeadHatMagician = Der Tophat des Magiers
     .desc = Eine Magicianer-Truppe
 
-ent-ClothingHeadHatCapcap = Kappenkappe
+ent-ClothingHeadHatCapcap = Kapitänsmütze
     .desc = Eine großartige, stilvolle Kappe, die der Kapitän trägt. Zeigt der Station, wer verantwortlich ist.
 
 ent-ClothingHeadHatCentcomcap = Obergrenze für CentComm
@@ -219,7 +219,7 @@ ent-ClothingHeadHatPartyBlue = blauer Partyhut
     .desc = Verbreite eine Freude!
 
 ent-ClothingHeadHatPartyWaterCup = Water Cup Party Hut
-    .desc = Nicht so erfüllend, wie Sie gehofft hatten...
+    .desc = Nicht so erfüllend, wie du gehofft hattest...
 
 ent-ClothingHeadHatGreyFlatcap = grauer Flatcap
     .desc = Mode für die Arbeiterklasse und den alten Mann Jenkins.
@@ -248,7 +248,7 @@ ent-ClothingHeadHatCowboyBountyHunter = Kopfgeldjäger Cowboyhut
 ent-ClothingHeadHatStrawHat = Strohhut
     .desc = Ein schicker Hut für heiße Tage! Es wird nicht empfohlen, in der Nähe von Feuer zu tragen.
 
-ent-ClothingHeadHatBeretMedic = Badewanne
+ent-ClothingHeadHatBeretMedic = Medizin-Barett
     .desc = Eine sterile weiße Berette.
 
 ent-ClothingHeadHatSolidHeadband = Volles Stirnband

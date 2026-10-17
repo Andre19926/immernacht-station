@@ -25,22 +25,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-desoxyephedrine = Desoxyephedrin
-reagent-desc-desoxyephedrine = Eine effektivere Ephedrine, mit aktiveren Downsides. Benötigt weniger Dosen, um Narkolepse zu heilen. Explodiert, wenn Sie es auf 420K erhitzen!
+reagent-desc-desoxyephedrine = Eine effektivere Ephedrine, mit aktiveren Downsides. Benötigt weniger Dosen, um Narkolepse zu heilen. Explodiert, wenn du es auf 420K erhitzt!
 
 reagent-name-ephedrine = Ephedrin
-reagent-desc-ephedrine = Eine koffeinhaltige Adrenalin-Stimulator-Chemikalie, die Sie schneller und schwieriger macht. Hilft auch, Narkolepsie bei Dosierungen über dreißig zu bekämpfen, auf Kosten von schwerem Nervenstress.
+reagent-desc-ephedrine = Eine koffeinhaltige Adrenalin-Stimulans-Chemikalie, die dich schneller und schwerer umwerfbar macht. Hilft bei Dosierungen über dreißig auch gegen Narkolepsie, auf Kosten schwerer Nervenbelastung.
 
 reagent-name-stimulants = Hyperzin
-reagent-desc-stimulants = Ein von Donk Co. entwickelter chemischer Cocktail, der es Agenten ermöglicht, sich schneller von Betäubungen zu erholen, sich schneller zu bewegen und eine kleine Heilung zu gewähren, wenn Sie mehr tot als lebendig sind.
+reagent-desc-stimulants = Ein von Donk Co. entwickelter chemischer Cocktail, der es Agenten ermöglicht, sich schneller von Betäubungen zu erholen, sich schneller zu bewegen und eine kleine Heilung zu gewähren, wenn du mehr tot als lebendig bist.
 
 reagent-name-experimental-stimulants = Versuchsstimulanzien
-reagent-desc-experimental-stimulants = Eine Prototypversion von Hyperzine. Die Verwendung gewährt virtuelle Immunität gegen Betäubungswaffen, schnelle Geweberegeneration, extreme Laufgeschwindigkeit durch Verringerung der Milchsäurebildung und ein allgemeines Gefühl der Euphorie. Nebenwirkungen können extreme Antikoagulation, Tunnelsicht, extreme Toxinbildung im Blutkreislauf und schnellen Lebertod umfassen. Geben Sie nicht an Tiere.
+reagent-desc-experimental-stimulants = Eine Prototypversion von Hyperzine. Die Verwendung gewährt virtuelle Immunität gegen Betäubungswaffen, schnelle Geweberegeneration, extreme Laufgeschwindigkeit durch Verringerung der Milchsäurebildung und ein allgemeines Gefühl der Euphorie. Nebenwirkungen können extreme Antikoagulation, Tunnelsicht, extreme Toxinbildung im Blutkreislauf und schnellen Lebertod umfassen. Gib nicht an Tiere.
 
 reagent-name-thc = THC
 reagent-desc-thc = Die wichtigste psychoaktive Verbindung in Cannabis.
 
-reagent-name-bananadine = Banandin
-reagent-desc-bananadine = Ein mildes Psychedelika, das in kleinen Spuren in Bananenschalen gefunden wird.
+reagent-name-bananadine = Bananadin
+reagent-desc-bananadine = Ein mildes Psychedelikum, das in kleinen Spuren in Bananenschalen vorkommt.
 
 reagent-name-nicotine = Nikotin
 reagent-desc-nicotine = Gefährlich und sehr süchtig machend, aber das sagt die Propaganda.
@@ -48,7 +48,7 @@ reagent-desc-nicotine = Gefährlich und sehr süchtig machend, aber das sagt die
 reagent-name-impedrezene = Impedrezen
 reagent-desc-impedrezene = Ein Betäubungsmittel, das die Fähigkeit eines Menschen behindert, indem es die höheren Gehirnzellenfunktionen verlangsamt.
 
-reagent-name-space-drugs = Space Fata Morgana
+reagent-name-space-drugs = Weltraum-Mirage
 reagent-desc-space-drugs = Eine illegale Verbindung, die eine Reihe von Effekten wie Gleichgewichtsverlust und visuelle Artefakte hervorruft.
 
 reagent-name-nocturine = Nocturin
@@ -64,7 +64,7 @@ reagent-name-tear-gas = Tränengas
 reagent-desc-tear-gas = Eine Chemikalie, die schwere Irritationen und Weinen verursacht, die üblicherweise bei der Bekämpfung von Unruhen verwendet wird.
 
 reagent-name-happiness = Glückseligkeit
-reagent-desc-happiness = Füllt Sie mit ekstatischer Taubheit und verursacht kleinere Hirnschäden. Sehr süchtig machend. Wenn eine Überdosierung plötzliche Stimmungsschwankungen verursacht.
+reagent-desc-happiness = Füllt dich mit ekstatischer Taubheit und verursacht kleinere Hirnschäden. Sehr süchtig machend. Wenn eine Überdosierung plötzliche Stimmungsschwankungen verursacht.
 
 reagent-name-nitrosyl-plasmide = Nitrosylplasmid
 reagent-desc-nitrosyl-plasmide = Ein starkes Stimulans, das Schläfrigkeit, Betäubung und Knockdowns verhindern kann.

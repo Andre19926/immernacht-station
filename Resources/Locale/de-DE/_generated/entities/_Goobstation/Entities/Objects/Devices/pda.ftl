@@ -10,7 +10,7 @@ ent-HelldiverPDA = Salvage-Taucher PDA
 ent-HecuPDA = HECU PDA
     .desc = Gerüche nach Schießpulver.
 
-ent-BlueshieldPDA = Blauschildoffizier PDA
+ent-BlueshieldPDA = Blueshield-PDA
     .desc = Der silberne Schild des Blueshield ist auf der Vorderseite eingraviert.
 
 ent-DeathsquadPDA = Deathquad PDA
@@ -19,7 +19,7 @@ ent-DeathsquadPDA = Deathquad PDA
 ent-NanotrasenRepresentativePDA = Nanotrasen Vertreter PDA
     .desc = Der Teufel steckt im Detail.
 
-ent-TrainerPDA = nct's PDA
+ent-TrainerPDA = NCT-PDA
     .desc = Ein Standard-Ausgabe Nanotrasen Karriere Trainer PDA.
 
 ent-NavyCaptainPDA = PDA des Kapitäns der Marine
@@ -59,7 +59,7 @@ ent-RoboticistPDA = Robotiker PDA
     .desc = Es ist mit gescheiterten Ambitionen bedeckt.
 
 ent-RadioHostPDA = Radiomoderator PDA
-    .desc = Sie hören die glatten Klänge von 145,9 FM.
+    .desc = Du hörst die glatten Klänge von 145,9 FM.
 
 ent-OuterCommandPDA = äußerer Befehl PDA
     .desc = Purple pda für äußere Führungsmitglieder.

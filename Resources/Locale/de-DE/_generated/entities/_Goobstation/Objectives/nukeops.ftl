@@ -1,2 +1,2 @@
-ent-NukeopsDetonateObjective = Zerstören Sie die Station mit einem nuklearen Gerät.
-    .desc = Liefern Sie die Nutzlast und steigen Sie aus, bevor die Nutzlast detoniert.
+ent-NukeopsDetonateObjective = Zerstöre die Station mit einem nuklearen Gerät.
+    .desc = Liefern dich die Nutzlast und steige aus, bevor die Nutzlast detoniert.

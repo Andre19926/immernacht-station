@@ -1,12 +1,12 @@
 ent-SurgeryStepOpenIncisionScalpel = Mit einem Skalpell geschnitten
 
-ent-SurgeryStepClampBleeders = Klemmen Sie die Blutungen
+ent-SurgeryStepClampBleeders = Klemme die Blutungen
 
 ent-SurgeryStepCloseBloodOutputs = Zerstörtes Gewebe zusammennähen
 
 ent-SurgeryStepRetractSkin = Zurückziehen der Haut
 
-ent-SurgeryStepRemoveSeveredSkin = Entfernen Sie die abgestorbene Haut
+ent-SurgeryStepRemoveSeveredSkin = Entferne die abgestorbene Haut
 
 ent-SurgeryStepSawBones = Säge durch Knochen
 
@@ -42,7 +42,7 @@ ent-SurgeryStepClampInternalBleeders = Klemmeninnenentlüftung
 
 ent-SurgeryStepRemoveFeature = Amputatteil
 
-ent-SurgeryStepCarefulIncisionScalpel = Machen Sie einen vorsichtigen Schnitt
+ent-SurgeryStepCarefulIncisionScalpel = Mache einen vorsichtigen Schnitt
 
 ent-SurgeryStepRepairBruteTissue = Geschädigtes Gewebe reparieren
 
@@ -50,7 +50,7 @@ ent-SurgeryStepRepairBurnTissue = Verbranntes Gewebe reparieren
 
 ent-SurgeryStepSealTendWound = Versiegeln der Wunde
 
-ent-SurgeryStepSealDismembermentWound = Nähen Sie die Zerstückelung Wunde
+ent-SurgeryStepSealDismembermentWound = Nähe die Zerstückelung Wunde
 
 ent-SurgeryStepInsertItem = Artikel in den Hohlraum einsetzen
 

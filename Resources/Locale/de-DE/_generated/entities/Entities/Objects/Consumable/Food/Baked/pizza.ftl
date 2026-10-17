@@ -10,14 +10,14 @@ ent-FoodPizzaMeat = Fleischpizza
 ent-FoodPizzaMeatSlice = Fleischstück Pizza
     .desc = Ein nahrhaftes Stück Fleischpizza.
 
-ent-FoodPizzaMushroom = Pilzpiste
+ent-FoodPizzaMushroom = Pilzpizza
     .desc = Eine ganz besondere Pizza.
 
 ent-FoodPizzaMushroomSlice = Pizzastück Pilz
     .desc = Vielleicht ist es das letzte Stück Pizza in deinem Leben.
 
-ent-FoodPizzaVegetable = Gemüsepiste
-    .desc = Die Vegetarier der Station werden es Ihnen danken, dass Sie dies gemacht haben.
+ent-FoodPizzaVegetable = Gemüsepizza
+    .desc = Die Vegetarier der Station werden es dir danken, dass du dies gemacht hast.
 
 ent-FoodPizzaVegetableSlice = Stück Gemüsepizza
     .desc = Ein Stück davon reicht aus, um selbst das wählerischste Stationspersonal zu befriedigen.
@@ -52,7 +52,7 @@ ent-FoodPizzaArnold = Arnolds Pizza
 ent-FoodPizzaArnoldSlice = Ein Stück von Arnolds Pizza
     .desc = Ich komme vorbei, vielleicht gebe ich dir eine pizza, vielleicht breche ich dir den arm ab.
 
-ent-FoodPizzaMoldySlice = Schimmelpizze
+ent-FoodPizzaMoldySlice = Stück Schimmelpizza
     .desc = Einst ein vollkommen gutes Stück Pizzakuchen, aber jetzt liegt es hier, ranzig und voller Sporen.
 
 ent-FoodPizzaUranium = Gewürzige Rock Pizza

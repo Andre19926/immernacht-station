@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 war-ops-infiltrator-unavailable = FEHLER: FTL Reiserekalkulation im Gange. Geschätzte Zeit: {$time} Minuten.
-war-ops-shuttle-call-unavailable = Evakuierungs-Shuttle ist derzeit nicht verfügbar. Bitte warten Sie
+war-ops-shuttle-call-unavailable = Evakuierungs-Shuttle ist derzeit nicht verfügbar. Bitte warte 

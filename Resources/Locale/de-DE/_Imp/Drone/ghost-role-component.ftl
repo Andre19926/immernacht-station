@@ -10,9 +10,9 @@ ghost-role-information-onestar-mecha-description = Du bist das Ende dieser Stati
 
 ghost-role-information-drone-name = Wartungsdrohne
 # Goobstation
-ghost-role-information-drone-description = Halten Sie die Station aufrecht. Ignoriere andere Wesen außer Drohnen. Verwenden Sie +/+d, um im Dronemind zu sprechen.
-ghost-role-information-drone-rules = Sie sind an diese Gesetze gebunden, sowohl im Spiel als auch außerhalb des Charakters:
-
-     1. Sie dürfen sich nicht in die Angelegenheiten eines Wesens außer einer anderen Drohne einmischen, unabhängig von Absicht oder Umständen.
-     2. Ihr Ziel ist es, die Station so gut wie möglich zu erhalten oder zu verbessern.
-     3. Sie dürfen keine Maßnahmen ergreifen, die der Station oder ihren Bewohnern Schaden zufügen.
+ghost-role-information-drone-description = Halte die Station aufrecht. Ignoriere andere Wesen außer Drohnen. Verwende +/+d, um im Dronemind zu sprechen.
+ghost-role-information-drone-rules = Du bist an diese Gesetze gebunden, sowohl im Spiel als auch außerhalb des Charakters:
+    
+     1. Du darfst dich nicht in die Angelegenheiten irgendeines Wesens außer einer anderen Drohne einmischen, unabhängig von Absicht oder Umständen.
+     2. Dein Ziel ist es, die Station nach besten Kräften zu warten oder zu verbessern.
+     3. Du darfst keine Handlung ausführen, die der Station oder ihren Bewohnern Schaden zufügt.

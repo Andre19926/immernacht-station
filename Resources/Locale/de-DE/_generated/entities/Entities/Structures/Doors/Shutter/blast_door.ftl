@@ -4,10 +4,10 @@ ent-BlastDoor = Drucktür
 ent-BlastDoorOpen = Drucktür
     .desc = Dieser sagt "BLAST DONGER".
 
-ent-BlastDoorFrame = Blastorrahmen
+ent-BlastDoorFrame = Drucktürrahmen
     .desc = Dieser sagt "BLAST DONGER".
 
-ent-BlastDoorXeno = Xeno-Schnelltür
+ent-BlastDoorXeno = Xeno-Drucktür
     .desc = Verliere keinen Arm!
 
 ent-BlastDoorXenoOpen = Xeno-Schnelltür
@@ -16,7 +16,7 @@ ent-BlastDoorXenoOpen = Xeno-Schnelltür
 ent-BlastDoorXenoFrame = Xeno Blast Türrahmen
     .desc = Dieser sagt "BLAST DONGER".
 
-ent-BlastDoorXenoborg = Xenoborg Sprengtür
+ent-BlastDoorXenoborg = Xenoborg-Drucktür
     .desc = Verliere keinen Kopf!
 
 ent-BlastDoorXenoborgOpen = Xenoborg Sprengtür

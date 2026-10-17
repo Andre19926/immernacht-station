@@ -10,16 +10,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-player-actions-reason = Grund
-admin-player-actions-bans = Verbotsliste
-admin-player-actions-notes = Anmerkungen
+admin-player-actions-bans = Banliste
+admin-player-actions-notes = Admin-Notizen
 admin-player-actions-kick = Kick
-admin-player-actions-ban = Verbot
-admin-player-actions-ahelp = Hilfe
+admin-player-actions-ban = Bannen
+admin-player-actions-ahelp = AHelp
 admin-player-actions-respawn = Respawn
-admin-player-actions-spawn = Spawnen hier
+admin-player-actions-spawn = Hier spawnen
 admin-player-spawn-failed = Keine gültigen Koordinaten gefunden
-admin-player-actions-player-panel = Open Player Panel
+admin-player-actions-player-panel = Spielerpanel öffnen
 
 admin-player-actions-clone = Klon
 admin-player-actions-follow = Folgen
-admin-player-actions-confirm = Sind Sie sicher?
+admin-player-actions-confirm = Bist du sicher?

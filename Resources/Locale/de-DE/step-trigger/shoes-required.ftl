@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-clothing-required-step-trigger-examine = Sie sollten wahrscheinlich nicht barfuß auf diesen treten.
+clothing-required-step-trigger-examine = Hier solltest du wahrscheinlich nicht barfuß drübergehen.

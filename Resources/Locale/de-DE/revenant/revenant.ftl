@@ -6,11 +6,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-revenant-essence-amount = Sie haben [color=plum]{$current} Essenz[/color]Ihr Regener-Betrag ist [color=plum]{$max} Essenz[/color].
-revenant-max-essence-increased = Ihre maximale Essenz ist gestiegen!
+revenant-essence-amount = Du hast [color=plum]{$current} Essenz[/color]dein Regener-Betrag ist [color=plum]{$max} Essenz[/color].
+revenant-max-essence-increased = Deine maximale Essenz ist gestiegen!
 
 revenant-not-enough-essence = Nicht genug Essenz!
-revenant-in-solid = Sie können diese Fähigkeit nicht innerhalb eines festen Objekts verwenden.
+revenant-in-solid = Du kannst diese Fähigkeit nicht innerhalb eines festen Objekts nutzen.
 
 revenant-soul-too-powerful = Diese Seele ist zu stark zum Ernten!
 revenant-soul-harvested = Diese Seele ist bereits geerntet!

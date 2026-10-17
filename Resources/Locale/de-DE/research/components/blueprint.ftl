@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-blueprint-receiver-popup-insert = { CAPITALIZE(THE($user)) } eingelegt { THE($blueprint) } in { THE($receiver) }.
-blueprint-receiver-popup-recipe-exists = Die gleiche Blaupause wurde bereits eingefügt!
+blueprint-receiver-popup-insert = { CAPITALIZE(THE($user)) } legt { THE($blueprint) } in { THE($receiver) } ein.
+blueprint-receiver-popup-recipe-exists = Dieser Bauplan wurde bereits eingelegt!

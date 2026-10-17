@@ -11,18 +11,18 @@
 
 ## UI
 
-reagent-grinder-bound-user-interface-instant-button = INSTANTE
-reagent-grinder-bound-user-interface-cook-time-label = Kochzeit
-reagent-grinder-component-cannot-put-entity-message = Sie können das nicht in die Reagenzmühle geben!
+reagent-grinder-bound-user-interface-instant-button = SOFORT
+reagent-grinder-bound-user-interface-cook-time-label = GARZEIT
+reagent-grinder-component-cannot-put-entity-message = Das kannst du nicht in die Reagenzienmühle geben!
 
 grinder-menu-title = All-In-One Grinder 3000
-grinder-menu-grind-button = Grill
-grinder-menu-juice-button = Saft
+grinder-menu-grind-button = Mahlen
+grinder-menu-juice-button = Entsaften
 grinder-menu-auto-label = Auto-Modus
-grinder-menu-auto-button-off = Ausgeschaltet
+grinder-menu-auto-button-off = Aus
 grinder-menu-manual-label = Manueller Modus
 grinder-menu-chamber-content-box-label = Kammer
-grinder-menu-chamber-content-box-button = Auswurfinhalte
+grinder-menu-chamber-content-box-button = Inhalt auswerfen
 grinder-menu-beaker-content-box-label = Becherglas
-grinder-menu-beaker-content-box-button = Auswurfbecher
+grinder-menu-beaker-content-box-button = Becherglas auswerfen
 grinder-menu-beaker-content-box-is-empty = Leer

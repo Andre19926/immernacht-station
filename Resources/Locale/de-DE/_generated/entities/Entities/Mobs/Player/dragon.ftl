@@ -11,13 +11,13 @@ ent-ActionSpawnRift = Sumpfkarpfenriss
     .desc = Beschwört einen Karpfenriss, der periodisch Karpfen hervorbringt.
 
 ent-ActionDevour = [color=red]Verschlingen[/color]
-    .desc = Versuchen Sie, eine Struktur mit Ihrem Kiefer zu brechen oder eine Kreatur zu schlucken.
+    .desc = Versuche, eine Struktur mit deinem Kiefer zu brechen oder eine Kreatur zu schlucken.
 
 ent-ActionDragonsBreath = [color=orange]Drachenatmen[/color]
     .desc = Spucke Flammen auf jeden, der dumm genug ist, dich anzugreifen!
 
 ent-ActionRiseFish = Sumpfkarpfenhorde
-    .desc = Beschwören Sie 3 Karpfen vor Ort, um Sie vor Gefahr zu schützen!
+    .desc = Beschwöre 3 Karpfen vor Ort, um dich vor Gefahr zu schützen!
 
 ent-ActionDragonRoar = Flügelklappe
     .desc = Klappe deine Flügel, um alle Feinde um dich herum zu betäuben!

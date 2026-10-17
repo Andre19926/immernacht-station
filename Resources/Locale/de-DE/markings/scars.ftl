@@ -13,7 +13,7 @@ marking-ScarEyeLeft-scar_eye_left = Linke Augennarbe
 marking-ScarEyeLeft = Augennarbe (links)
 
 marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
-marking-ScarTopSurgeryShort = Top Surgery Scar (kurz)
+marking-ScarTopSurgeryShort = Narbe (Brust-OP, kurz)
 
 marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
 marking-ScarTopSurgeryLong = Top Surgery Scar (lang)

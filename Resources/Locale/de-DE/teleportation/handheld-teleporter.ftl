@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-handheld-teleporter-instability-fizzle = Das Portal verpufft, während Sie versuchen, es zu platzieren, und zerstört beide Enden!
+handheld-teleporter-instability-fizzle = Das Portal verpufft, während du versuchst, es zu platzieren, und zerstört beide Enden!

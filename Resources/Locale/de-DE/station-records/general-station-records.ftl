@@ -10,8 +10,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 general-station-record-console-window-title = Station Records Computer
-general-station-record-console-select-record-info = Wählen Sie links einen Datensatz aus.
-general-station-record-console-empty-state = Keine Aufzeichnungen gefunden!
+general-station-record-console-select-record-info = Wähle links einen Datensatz aus.
+general-station-record-console-empty-state = Keine Einträge gefunden!
 general-station-record-console-no-record-found = Für die ausgewählte Person wurde kein Datensatz gefunden.
 
 general-station-record-console-record-age = Alter: {$age}
@@ -21,12 +21,12 @@ general-station-record-console-record-gender = Geschlecht: {$gender}
 general-station-record-console-record-fingerprint = Fingerabdruck: {$fingerprint}
 general-station-record-console-record-dna = DNA: {$dna}
 
-general-station-record-for-filter-line-placeholder = Eingabetext und drücken Sie "Enter"
+general-station-record-for-filter-line-placeholder = Eingabetext und drücke "Enter"
 general-station-record-name-filter = Name der Person
-general-station-record-job-filter = Arbeit
-general-station-record-species-filter = Arten
+general-station-record-job-filter = Job
+general-station-record-species-filter = Spezies
 general-station-record-prints-filter = Fingerabdrücke
 general-station-record-dna-filter = DNA
 general-station-record-console-search-records = Suche
 general-station-record-console-reset-filters = Zurücksetzen
-general-station-record-console-delete = Löschung
+general-station-record-console-delete = Löschen

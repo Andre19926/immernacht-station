@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-power-receiver-component-on-examine-main = Es scheint, dass {$stateText}.
-power-receiver-component-on-examine-powered = [color=darkgreen]angetrieben[/color]
-power-receiver-component-on-examine-unpowered =  [color=darkred]ohne Strom[/color]
+power-receiver-component-on-examine-main = Es scheint {$stateText} zu sein.
+power-receiver-component-on-examine-powered = [color=darkgreen]mit Strom versorgt[/color]
+power-receiver-component-on-examine-unpowered = [color=darkred]ohne Strom[/color]

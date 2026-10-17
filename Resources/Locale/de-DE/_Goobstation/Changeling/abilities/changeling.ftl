@@ -19,11 +19,11 @@ changeling-biomass-warn-death = Unsere Zellen beginnen sich selbst zu konsumiere
 
 changeling-absorb-start = {CAPITALIZE(THE($user))} Beginn der Aufnahme {CAPITALIZE(THE($target))}Die DNA!
 changeling-absorb-fail-incapacitated = Wir können sie nicht aufnehmen, bis sie handlungsunfähig sind.
-changeling-absorb-fail-absorbed = Sie wurden bereits absorbiert.
+changeling-absorb-fail-absorbed = Es wurde bereits absorbiert.
 changeling-absorb-fail-unabsorbable = Das Target ist nicht absorbierbar.
 changeling-absorb-end-self = Der Organismus wurde absorbiert. Wir entwickeln uns weiter.
 changeling-absorb-end-self-ling = Ein weiterer Wechsel wurde absorbiert. Unser Körper ist mit immenser Kraft gefüllt, während sich unsere Zellen schnell entwickeln.
-changeling-absorb-end-self-ling-incompatible = Ein weiterer Wechsel wurde absorbiert. Ihre derzeitige Form hinderte uns jedoch daran, ihre DNA-Sequenz zu extrahieren.
+changeling-absorb-end-self-ling-incompatible = Ein weiterer Changeling wurde absorbiert. Seine derzeitige Form hat uns jedoch daran gehindert, seine DNA-Sequenz zu extrahieren.
 changeling-absorb-end-partial = Der Organismus wurde absorbiert. Wir waren nicht in der Lage, etwas zu extrahieren, um unsere Evolution zu unterstützen.
 changeling-absorb-onexamine = [color=red]Der Körper fühlt sich hohl an.[/color]
 changeling-absorb-fail-nograb = Wir greifen nicht hart genug.
@@ -80,7 +80,7 @@ changeling-passive-active = Schon aktiv!
 changeling-action-fail-onfire = Unsere Zellen winden sich vor Qualen und führen die Aktion nicht aus!
 changeling-action-fail-lesserform = Kann diese Aktion nicht ausführen, während in einer geringeren Form!
 changeling-action-fail-absorbed = Notwendigkeit zu absorbieren {$number} Mehr Organismen, um es zu nutzen!
-changeling-action-fail-not-changeling = Bruh. Sie sollen diese Aktion nicht haben. Melden Sie dies als Bug.
+changeling-action-fail-not-changeling = Bruh. Du sollst diese Aktion nicht haben. Melde dies als Bug.
 
 changeling-fleshmend = Wir beginnen, unsere Wunden zu versiegeln und tote Zellen zu regenerieren.
 changeling-panacea = Wir beginnen, unsere Zellstruktur und unser Immunsystem zu rekonstruieren.
@@ -101,6 +101,6 @@ changeling-voidadapt-onfire = Unsere Anpassungen werden zu schmerzhaft, um Feuer
 
 changeling-hivemind-start = Wir stimmen unsere Gehirnwellen auf die Hivemindfrequenz ab
 
-changeling-lastresort-activate = Der aktuelle Körper wird verloren gehen! Verwenden Sie es erneut, um zu bestätigen.
+changeling-lastresort-activate = Der aktuelle Körper wird verloren gehen! Verwende es erneut, um zu bestätigen.
 
 changeling-rejuvenate = Eine seltsame Energie pulsiert durch unseren Körper, verjüngt unsere Zellen und stellt unsere Chemikalien wieder her!

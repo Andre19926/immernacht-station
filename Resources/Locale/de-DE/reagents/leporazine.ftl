@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-leporazine-effect-temperature-adjusting = Sie spüren, wie sich die Temperatur Ihres Körpers schnell anpasst.
+leporazine-effect-temperature-adjusting = Du spürst, wie sich die Temperatur deines Körpers schnell anpasst.

@@ -16,7 +16,7 @@ ent-ClothingHeadHatHoodBioSecurity = Biohaube
 ent-ClothingHeadHatHoodBioVirology = Biohaube
     .desc = Eine Haube, die Kopf und Gesicht stark vor biologischen Verunreinigungen schützt.
 
-ent-ClothingHeadHatHoodChaplainHood = Kapuze
+ent-ClothingHeadHatHoodChaplainHood = Kaplan-Kapuze
     .desc = Maximale Frömmigkeit in diesem Sternensystem.
 
 ent-ClothingHeadHatHoodCulthood = Kulthaube
@@ -64,7 +64,7 @@ ent-ClothingHeadHatHoodWinterCentcom = CentComm Winter Mantelhaube
 ent-ClothingHeadHatHoodWinterChem = Chemische Wintermantelhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterCMO = Chefarzt des Wintermantels
+ent-ClothingHeadHatHoodWinterCMO = Kapuze des Chefarzt-Wintermantels
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterEngineer = Ingenieur Wintercoat Haube
@@ -82,7 +82,7 @@ ent-ClothingHeadHatHoodWinterHydro = Hydroponische Mantelhaube
 ent-ClothingHeadHatHoodWinterJani = Haube des Hausmeistermantels
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterMed = Männchenhaube
+ent-ClothingHeadHatHoodWinterMed = Medizin-Winterkapuze
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterMime = Mimecoat-Haube
@@ -112,7 +112,7 @@ ent-ClothingHeadHatHoodWinterSec = Schutzhaube
 ent-ClothingHeadHatHoodWinterSyndie = Syndicate-Mantelhaube
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
-ent-ClothingHeadHatHoodWinterWarden = Wärterhaube
+ent-ClothingHeadHatHoodWinterWarden = Warden-Winterkapuze
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterWeb = Webcoat-Haube

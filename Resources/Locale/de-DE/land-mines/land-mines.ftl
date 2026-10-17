@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-land-mine-triggered = Sie treten auf die { $mine }!
+land-mine-triggered = Du trittst auf { $mine }!
 land-mine-verb-begin = Arm

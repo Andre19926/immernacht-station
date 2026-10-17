@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mapping-entities = Stellen
-mapping-tiles = Fliesen
-mapping-decals = Dezimalstellen
+mapping-entities = Entities
+mapping-tiles = Kacheln
+mapping-decals = Decals
 
 mapping-replace = Ersetzen
-mapping-erase-entity = Löschungsstelle
+mapping-erase-entity = Entity löschen
 mapping-erase-decal = Decal löschen

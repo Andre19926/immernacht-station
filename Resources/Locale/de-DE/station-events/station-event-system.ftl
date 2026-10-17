@@ -8,5 +8,5 @@
 
 ## BasicStationEventSchedulerSystem
 
-station-event-system-run-event = Laufende Veranstaltung {$eventName}
-station-event-system-run-random-event-no-valid-events = Kein gültiges Ereignis gegeben
+station-event-system-run-event = Event gestartet: {$eventName}
+station-event-system-run-random-event-no-valid-events = Kein gültiges Event gefunden

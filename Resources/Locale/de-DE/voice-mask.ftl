@@ -11,10 +11,10 @@
 voice-mask-default-name-override = Unbekannt
 
 voice-mask-name-change-window = Voice Mask Name Änderung
-voice-mask-name-change-info = Geben Sie den Namen ein, den Sie nachahmen möchten.
+voice-mask-name-change-info = Gib den Namen ein, den dich nachahmen möchten.
 voice-mask-name-change-speech-style = Sprachstil
 voice-mask-name-change-set = Set Name
-voice-mask-name-change-set-description = Ändern Sie den Namen, den andere hören, in etwas anderes.
+voice-mask-name-change-set-description = Ändern dich den Namen, den andere hören, in etwas anderes.
 voice-mask-name-change-toggle = Stimmmaske
 voice-mask-name-change-accent-toggle = Block Akzent
 
@@ -25,6 +25,6 @@ voice-mask-popup-success = Name erfolgreich festgelegt.
 voice-mask-popup-failure = Der Name konnte nicht festgelegt werden.
 
 # Goobstation / GabyStation Job Icons
-voice-mask-icon-label = Job (für Ihr Radio-Icon)
+voice-mask-icon-label = Job (für dein Radio-Icon)
 voice-mask-name-current-name = Derzeitiger Name
 

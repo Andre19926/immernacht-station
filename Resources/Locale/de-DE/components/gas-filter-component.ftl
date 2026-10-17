@@ -8,14 +8,14 @@
 
 comp-gas-filter-ui-filter-status = Status:
 comp-gas-filter-ui-status-enabled = On
-comp-gas-filter-ui-status-disabled = Ausgeschaltet
+comp-gas-filter-ui-status-disabled = Aus
 
-comp-gas-filter-ui-filter-transfer-rate = Übertragungsrate (L/s):
-comp-gas-filter-ui-filter-set-rate = Setz
+comp-gas-filter-ui-filter-transfer-rate = Transferrate (L/s):
+comp-gas-filter-ui-filter-set-rate = Setzen
 
-comp-gas-filter-ui-filter-gas-current = Derzeit filtern:
-comp-gas-filter-ui-filter-gas-select = Wählen Sie ein Gas zum Herausfiltern:
-comp-gas-filter-ui-filter-gas-confirm = Setzgas
+comp-gas-filter-ui-filter-gas-current = Aktuell gefiltert:
+comp-gas-filter-ui-filter-gas-select = Wähle ein Gas zum Herausfiltern:
+comp-gas-filter-ui-filter-gas-confirm = Gas setzen
 comp-gas-filter-ui-filter-gas-none = Keine
 
-comp-gas-filter-ui-needs-anchor = Verankern Sie es zuerst!
+comp-gas-filter-ui-needs-anchor = Verankere es zuerst!

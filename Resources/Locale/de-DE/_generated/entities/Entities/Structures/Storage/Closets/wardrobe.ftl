@@ -31,7 +31,7 @@ ent-WardrobeSecurity = Sicherheitsschrank
 ent-WardrobeAtmospherics = Atmosphärengarderobe
     .desc = Es ist eine Speichereinheit für Standard-Ausgabe Nanotrasen Kleidung.
 
-ent-ClosetJanitor = Kleiderschrank
+ent-ClosetJanitor = Hausmeisterschrank
     .desc = Es ist eine Aufbewahrungseinheit für Hausmeisterkleidung und -ausrüstung.
 
 ent-WardrobeFormal = formaler Schrank

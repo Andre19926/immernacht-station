@@ -1,2 +1,2 @@
 marking-BodyScarr-scar_chest = Rightsides Narben
-marking-BodyScarr = Rightsides Narben
+marking-BodyScarr = Narben (rechte Seite)

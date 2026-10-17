@@ -20,7 +20,7 @@ ent-FoodFrozenPopsicleBerry = Beerencremesikel
     .desc = Ein lebendiges Beerencremesikel. Eine Beere gute gefroren zu behandeln.
 
 ent-FoodFrozenPopsicleJumbo = Jumbo-Eiscreme
-    .desc = Eine luxuriöse Eiscreme mit reichhaltiger Schokolade. Es ist kleiner als Sie sich erinnern.
+    .desc = Eine luxuriöse Eiscreme mit reichhaltiger Schokolade. Es ist kleiner als du dich erinnerst.
 
 ent-FoodFrozenSnowconeBase = Süßschneekegel
     .desc = Es ist nur rasiertes Eis und einfacher Sirup, minimaler Aufwand.

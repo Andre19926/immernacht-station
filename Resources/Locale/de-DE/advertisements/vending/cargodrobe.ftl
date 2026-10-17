@@ -7,6 +7,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-cargodrobe-1 = Verbesserter Assistentenstil! Wählen Sie Ihre heute!
-advertisement-cargodrobe-2 = Diese Shorts sind bequem und einfach zu tragen, holen Sie sich jetzt!
-advertisement-cargodrobe-3 = Gemacht für Komfort und auch billig!
+advertisement-cargodrobe-1 = Passagierstil, aufgewertet! Such dir noch heute deinen aus!
+advertisement-cargodrobe-2 = Diese Shorts sind bequem und leicht zu tragen, hol dir jetzt deine!
+advertisement-cargodrobe-3 = Auf Komfort ausgelegt, und billig obendrein!

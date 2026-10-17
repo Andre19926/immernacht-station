@@ -184,7 +184,7 @@ language-Delvahii-description =
 
 language-Shadowmind-name = Shadowmind
 language-Shadowmind-description =
-    Eine Sprache, die von den Shadowlings gesprochen wird. Es ist nicht viel darüber bekannt, außer dass Thralls es verstehen können.
+    Eine Sprache, die von den Schattenwesen gesprochen wird. Es ist nicht viel darüber bekannt, außer dass Thralls es verstehen können.
 language-Qiilour-name = Qiilour
 language-Qiilour-description =
     Die Muttersprache und Hauptsprache der Xelthia, Qiilour wird von fast allen Mitgliedern ihrer Spezies zu einem gewissen Grad gesprochen. Es ist eine raffinierte Fusion mehrerer alter Zungen - wie Telenarii, Voskarn und Old Xelthec -, die jetzt für die Geschichte verloren gehen.
@@ -198,5 +198,5 @@ language-Schechi-description =
 language-NewKinPidgin-name = Ka'rakk
 language-NewKinPidgin-description = Ein degradierter Dialekt, der von Vox der unteren Kaste zusammengeschustert und bis zur Unkenntlichkeit verstümmelt wurde.
     Während ein primitiver und ungeschickter Versuch zu einer langweiligen, vereinfachten Verhöhnung ihrer wahren Sprache führte,
-    Vox höherer Kasten kann immer noch Bedeutung innerhalb der groben Annäherungen erkennen.
+    Vox höherer Kiste kann immer noch Bedeutung innerhalb der groben Annäherungen erkennen.
     Es klingt wie chaotisches Schreien zu allen anderen.

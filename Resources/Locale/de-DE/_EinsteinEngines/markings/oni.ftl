@@ -12,7 +12,7 @@ marking-OniHornTallCurved3Tone-tall_curved_3tone_1 = Bottom Third
 marking-OniHornTallCurved3Tone-tall_curved_3tone_2 = Mittleres Drittel
 marking-OniHornTallCurved3Tone-tall_curved_3tone_3 = Top Third
 
-marking-OniHornTallBull= Großer Stier
+marking-OniHornTallBull= Hoher Stier
 marking-OniHornTallBull-tall_bull = Großer Stier
 
 marking-OniHornTallBull3Tone = Tall Bull (Drei Tonnen)
@@ -20,7 +20,7 @@ marking-OniHornTallBull3Tone-tall_bull_3tone_1 = Bottom Third
 marking-OniHornTallBull3Tone-tall_bull_3tone_2 = Mittleres Drittel
 marking-OniHornTallBull3Tone-tall_bull_3tone_3 = Top Third
 
-marking-OniHornCrowned = Krone
+marking-OniHornCrowned = Gekrönt
 marking-OniHornCrowned-crowned = Krone
 
 marking-OniHornSerket = Serket

@@ -1,8 +1,8 @@
 ent-ContrabandDetector = Schmuggeldetektor
-    .desc = Gehen Sie mit Vertrauen herein, gehen Sie mit Sicherheit hinaus und jagen Sie.
+    .desc = Geh mit Vertrauen herein, geh mit Sicherheit hinaus und jage.
 
 ent-ContrabandDetectorSecure = Schmuggeldetektor
-    .desc = Gehen Sie mit Vertrauen herein, gehen Sie mit Sicherheit hinaus und jagen Sie.
+    .desc = Geh mit Vertrauen herein, geh mit Sicherheit hinaus und jage.
 
 ent-ContrabandDetectorFrame = Schmuggeldetektorrahmen
 

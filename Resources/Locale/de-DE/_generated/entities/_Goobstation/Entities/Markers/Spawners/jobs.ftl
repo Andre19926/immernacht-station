@@ -1,4 +1,4 @@
-ent-SpawnPointBlueshieldOfficer = Blauschildschützer
+ent-SpawnPointBlueshieldOfficer = Blueshield-Spawnpunkt
 
 ent-SpawnPointNanotrasenRepresentative = Nanotrasenrepräsentativ
 

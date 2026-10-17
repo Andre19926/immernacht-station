@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 particle-accelerator-control-menu-on-button = On
-particle-accelerator-control-menu-off-button = Ausgeschaltet
+particle-accelerator-control-menu-off-button = Aus
 particle-accelerator-control-menu-service-manual-reference = Siehe S.132 des Servicehandbuchs
 particle-accelerator-control-menu-device-version-label = Mark 2 Partikelbeschleuniger
 particle-accelerator-control-menu-power-label = [bold]Leistung:[/bold]
@@ -24,7 +24,7 @@ particle-accelerator-control-menu-status-incomplete = [font="Monospace"][color=r
 particle-accelerator-control-menu-draw = [bold]Zeichnung:[/bold]
 particle-accelerator-control-menu-draw-value = [font="Monospace"]{$watts}/{$lastReceive}[/font]
 particle-accelerator-control-menu-draw-not-available = [font="Monospace"][color=gray]N/A[/color][/font]
-particle-accelerator-control-menu-flavor-left = Bitte halten Sie den Clown von dieser Konsole fern!
+particle-accelerator-control-menu-flavor-left = Bitte halte den Clown von dieser Konsole fern!
 particle-accelerator-control-menu-flavor-right = v 1.6
 
 particle-accelerator-radio-message-on = PA Strom wurde eingeschaltet.

@@ -25,13 +25,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-toxin = Toxin
-reagent-desc-toxin = Eine wenig überraschend giftige Chemikalie. Verfügbar in einem ausgemergelten Chem Dispenser.
+reagent-desc-toxin = Eine wenig überraschend giftige Chemikalie. Erhältlich in einem mit EMAG manipulierten Chem-Dispenser.
 
 reagent-name-carpotoxin = Carpotoxin
 reagent-desc-carpotoxin = Ein hochgiftiges Reagenz, das in Weltraumkarpfen gefunden wird. Verursacht ein schmerzhaftes Brennen.
 
 reagent-name-mold = Schimmel
-reagent-desc-mold = Ein Pilzwachstum, oft an dunklen, feuchten Orten oder an abgelaufenem Brot. Wird dazu führen, dass sie eine krankheit entwickeln, wenn sie eingenommen werden.
+reagent-desc-mold = Ein Pilzbewuchs, der oft an dunklen, feuchten Orten oder auf abgelaufenem Brot zu finden ist. Wer ihn verschluckt, entwickelt eine Krankheit.
 
 reagent-name-polytrinic-acid = Polytrinsäure
 reagent-desc-polytrinic-acid = Eine extrem korrosive chemische Substanz. Verbrennt schwer jeden, der direkt mit ihm in Kontakt kommt.
@@ -46,7 +46,7 @@ reagent-name-ferrochromic-acid = Ferrochromsäure
 reagent-desc-ferrochromic-acid = Eine milde korrosive Lösung, die keine ernsthafte Gefahr verursachen kann, wenn sie nicht eingenommen wird.
 
 reagent-name-fluorosulfuric-acid = Fluorschwefelsäure
-reagent-desc-fluorosulfuric-acid = Eine hoch korrosive Chemikalie, die in der Lage ist, eine Marke auf Ihrer Haut zu hinterlassen.
+reagent-desc-fluorosulfuric-acid = Eine hoch korrosive Chemikalie, die in der Lage ist, eine Marke auf deiner Haut zu hinterlassen.
 
 reagent-name-sulfuric-acid = Schwefelsäure
 reagent-desc-sulfuric-acid = Eine ätzende Chemikalie. Halte dich von deinem Gesicht fern.
@@ -55,7 +55,7 @@ reagent-name-unstable-mutagen = instabiles Mutagen
 reagent-desc-unstable-mutagen = Verursacht Mutationen, wenn sie in lebende Menschen oder Pflanzen injiziert werden. Hohe Dosen können tödlich sein, besonders beim Menschen.
 
 reagent-name-heartbreaker-toxin = Herzbrechertoxin
-reagent-desc-heartbreaker-toxin = Eine halluzinogene Verbindung aus Mindbreaker-Toxin. Es blockiert neurologische Signale an die Atemwege und verursacht Erstickung. Dexalin plus und Adrenalin werden es jedoch herausfiltern.
+reagent-desc-heartbreaker-toxin = Eine halluzinogene Verbindung aus Mindbreaker-Toxin. Sie blockiert neurologische Signale an die Atemwege und verursacht Erstickung. Dexalin plus und Epinephrin filtern sie jedoch heraus.
 
 reagent-name-lexorin = Lexorin
 reagent-desc-lexorin = Eine schnell wirkende Chemikalie, die Menschen schnell erstickt.
@@ -64,7 +64,7 @@ reagent-name-mindbreaker-toxin = Mindbreaker-Toxin
 reagent-desc-mindbreaker-toxin = Eine starke halluzinogene Verbindung, die früher als LSD bekannt ist.
 
 reagent-name-histamine = Histamin
-reagent-desc-histamine = Eine Chemikalie, die durch Allergene verursacht wird, die mit Antikörpern reagieren. Bei großen Mengen tödlich.
+reagent-desc-histamine = Eine Chemikalie, die entsteht, wenn Allergene mit Antikörpern reagieren. In großen Mengen tödlich.
 
 reagent-name-theobromine = Theobromin
 reagent-desc-theobromine = Ein bitteres Alkaloid der Kakaopflanze, das häufig in Schokolade vorkommt. Nicht an Tiere füttern.
@@ -87,7 +87,7 @@ reagent-desc-allicin = Eine schwefelorganische Verbindung, die in Alliums wie Kn
 reagent-name-pax = Pax
 reagent-desc-pax = Eine psychiatrische Chemikalie, die verhindert, dass der Patient jemandem direkt schadet.
 
-reagent-name-honk = Hupen
+reagent-name-honk = Honk
 reagent-desc-honk = Ein Toxin in Bananium gefunden. Verursacht schweres Hupen und innere Blutungen, kann auch dazu führen, dass der Patient mutiert.
 
 reagent-name-lead = Blei
@@ -109,7 +109,7 @@ reagent-name-mechanotoxin = Mechanotoxin
 reagent-desc-mechanotoxin = Ein Neurotoxin, das von einigen Spinnenarten als Gift verwendet wird. Degradiert die Bewegung beim Aufbau.
 
 reagent-name-toxintrash = Wiederaufbereitetes Material
-reagent-desc-toxintrash = Ein schrecklich riechender Schlamm, der aus weggeworfener Materie effizient verfeinert wurde. Es stellt eine perfekte, Null-Abfall-Umwandlung von Salvage in Vox-Ernährung dar, obwohl es ein gewalttätiges Gift für andere ist.
+reagent-desc-toxintrash = Eine übel riechende Brühe, effizient aus Abfall gewonnen. Sie wandelt Salvage-Müll verlustfrei in Nahrung für Vox um, ist für alle anderen aber ein heftiges Gift.
 
 reagent-name-hemorrhinol = Hemorrhinol
 reagent-desc-hemorrhinol = Ein Toxin, das schwere Schäden an Blutgefäßen verursacht und schnelle Blutungen verursacht.

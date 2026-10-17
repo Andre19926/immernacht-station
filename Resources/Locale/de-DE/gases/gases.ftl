@@ -13,5 +13,5 @@ gases-plasma = Plasma
 gases-tritium = Tritium
 gases-water-vapor = Wasserdampf
 gases-ammonia = Ammoniak
-gases-n2o = Stickoxide
-gases-frezon = Fressen
+gases-n2o = Lachgas
+gases-frezon = Frezon

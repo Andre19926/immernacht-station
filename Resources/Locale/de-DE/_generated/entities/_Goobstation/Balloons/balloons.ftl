@@ -23,7 +23,7 @@ ent-ZebraBalloon = Zebraballon
     .desc = gehört in einen Zoo. Immunität gegen jeden Brandschaden!
 
 ent-SteelBalloon = Stahlballon
-    .desc = Der am meisten gepanzerte Ballon. So befürchtete, dass sogar Tiere es nicht angreifen. Immun gegen rohe Schäden!
+    .desc = Der am meisten gepanzerte Ballon. So befürchtete, dass sogar Tiere es nicht angreifen. Immun gegen physische Schäden!
 
 ent-RainbowBalloon = Regenbogenballon
     .desc = Der böseste Ballon von allen. Lass dich nicht von den hübschen Farben täuschen.

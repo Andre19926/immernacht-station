@@ -1,8 +1,8 @@
 ent-ExplosionRune = Explosions Rune
 
-ent-StunRune = Betäubungsrinde
+ent-StunRune = Betäubungsrune
 
-ent-IgniteRune = Anzündrinde
+ent-IgniteRune = Entzündungsrune
 
 ent-ExplosionTimedRune = Explosions-zeitgesteuerte Rune
 

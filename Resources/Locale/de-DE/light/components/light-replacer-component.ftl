@@ -14,10 +14,10 @@
 comp-light-replacer-missing-light = Keine Lichter mehr in {THE($light-replacer)}.
 
 # Shown when player inserts light bulb inside light replacer
-comp-light-replacer-insert-light = Sie setzen ein {$bulb} in {THE($light-replacer)}.
+comp-light-replacer-insert-light = Du steckst {$bulb} in {THE($light-replacer)}.
 
 # Shown when player tries to insert in light replacer brolen light bulb
-comp-light-replacer-insert-broken-light = Sie können keine kaputten Lichter einfügen!
+comp-light-replacer-insert-broken-light = Du kannst keine kaputten Leuchtmittel einsetzen!
 
 # Shown when player refill light from light box
 comp-light-replacer-refill-from-storage = Nachfüllen {THE($light-replacer)}.
@@ -25,7 +25,7 @@ comp-light-replacer-refill-from-storage = Nachfüllen {THE($light-replacer)}.
 ### Examine
 
 comp-light-replacer-no-lights = Es ist leer.
-comp-light-replacer-has-lights = Sie enthält Folgendes:
+comp-light-replacer-has-lights = Es enthält Folgendes:
 comp-light-replacer-light-listing = {$amount ->
     [one] [color=yellow]{$amount}[/color] [color=gray]{$name}[/color]
     *[other] [color=yellow]{$amount}[/color] [color=gray]{$name}s[/color]

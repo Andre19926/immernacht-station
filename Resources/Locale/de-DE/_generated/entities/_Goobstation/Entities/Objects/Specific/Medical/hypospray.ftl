@@ -19,7 +19,7 @@ ent-CartridgeBicaridine = Autoinjektorpatrone
 ent-CartridgeDermaline = Autoinjektorpatrone verbrennen
     .desc = Enthält 5 μ Kelotan, 4 μ Dermalin 1 μ Leporazin, verwendet in einem Cartridge-Autoinjektor.
 
-ent-CartridgeAtropine = Notbremse
+ent-CartridgeAtropine = Notfall-Autoinjektor-Patrone (Atropin)
     .desc = Enthält 10 μ Atropin, verwendet in einer Kartusche Autoinjektor.
 
 ent-CartridgePuncturase = Piercing-Autoinjektor-Patrone

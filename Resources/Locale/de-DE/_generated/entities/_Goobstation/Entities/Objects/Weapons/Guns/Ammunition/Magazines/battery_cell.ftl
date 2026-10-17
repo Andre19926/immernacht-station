@@ -46,7 +46,7 @@ ent-PowerCellOverchargedRevolver = übertaktete Revolverkraftzelle
 ent-PowerCellBluespaceRevolver = Bluespace Revolver-Kraftzelle
     .desc = Eine militarisierte Kraftzelle, die mit Laserrevolvern kompatibel ist und Strahlen aus kalibrierten Blauraumpartikeln abfeuert, die einige Zentimeter Panzerung umgehen.
 
-ent-PowerCellIonRevolver = Ionenrevolver-Kraftstoffzelle
+ent-PowerCellIonRevolver = Ionenrevolver-Energiezelle
     .desc = Eine militarisierte Kraftzelle, die mit Laserrevolvern kompatibel ist und Ionenstrahlen abfeuert.
 
 ent-MilitaryPowerCellLMG = LMG-Batterie

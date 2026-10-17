@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 shuttle-call-error = Kann den Shuttle wegen FEHLER nicht anrufen.
-shuttle-call-warops-nukies-present = Befreien Sie sich von den verbleibenden nuklearen Agenten.
+shuttle-call-warops-nukies-present = Befreie dich von den verbleibenden nuklearen Agenten.

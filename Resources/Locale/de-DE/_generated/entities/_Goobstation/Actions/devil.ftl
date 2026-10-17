@@ -11,10 +11,10 @@ ent-ActionDevilPossess = Zielbesitz
     .desc = Vorübergehend ein Ziel besitzen.
 
 ent-ActionEndPossession = Endbesitz
-    .desc = Stornieren Sie diesen Besitz vorzeitig.
+    .desc = Storniere diesen Besitz vorzeitig.
 
 ent-ActionDevilGrip = Teufelsgriff
     .desc = Der kleine Bruchteil deiner Macht bleibt in diesem Bereich, kanalisiert in deine Hände.
 
 ent-ActionCheatDeath = Cheat Death
-    .desc = Lachen Sie im Grim Reapers Gesicht. Du hast noch Zeit.
+    .desc = Lache im Grim Reapers Gesicht. Du hast noch Zeit.

@@ -32,10 +32,10 @@ ent-DnaScramblerImplant = DNA Scrambler Implantat
     .desc = Mit diesem Implantat kann der Benutzer sein Aussehen und seinen Namen einmal zufällig ändern.
 
 ent-ChameleonControllerImplant = Chamäleon-Controllerimplantat
-    .desc = Mit diesem Implantat können Sie das Aussehen aller getragenen Chamäleon-Kleidung sofort ändern.
+    .desc = Mit diesem Implantat kannst du das Aussehen aller getragenen Chamäleon-Kleidung sofort ändern.
 
 ent-VoiceMaskImplant = Stimmmaskenimplantat
-    .desc = Dieses Implantat ermöglicht es Ihnen, Ihre Stimme nach Belieben zu ändern.
+    .desc = Dieses Implantat ermöglicht es dir, deine Stimme nach Belieben zu ändern.
 
 ent-MicroBombImplant = Mikrobombenimplantat
     .desc = Dieses Implantat zündet den Benutzer bei Aktivierung oder Tod.

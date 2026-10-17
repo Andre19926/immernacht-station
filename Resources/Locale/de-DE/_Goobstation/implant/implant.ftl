@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mindshield-implant-effect-removed = Sie fühlen einen qualvollen Schmerz, wenn sich Ihre Perspektive ändert und sich Ihre Vision fast sofort erweitert.
-nanite-mend-popup = Sie spüren eine lebendige Wärme, die sich im ganzen Körper ausbreitet.
+mindshield-implant-effect-removed = Du fühlst einen qualvollen Schmerz, wenn sich deine Perspektive ändert und sich deine Vision fast sofort erweitert.
+nanite-mend-popup = Du spürst eine lebendige Wärme, die sich im ganzen Körper ausbreitet.
 
 # BSO and nukie implant
 

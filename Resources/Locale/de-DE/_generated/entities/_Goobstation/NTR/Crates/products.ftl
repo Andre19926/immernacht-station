@@ -5,10 +5,10 @@ ent-NTRCratePointDisks = Point Disks gewähren Bonus
     .desc = Fortschritt, mein Freund, Fortschritt.
 
 ent-NTRCrateEmergencyMed = Medizinische Notversorgung
-    .desc = Denken Sie darüber nach, wie Sie dies NT erklären würden.
+    .desc = Denke darüber nach, wie du dies NT erklären würdest.
 
-ent-NTRCrateDisablers = Kasten für Behinderte
-    .desc = Eine Kiste mit Behinderten, warum brauchen Sie das?
+ent-NTRCrateDisablers = Neutralisierer-Kiste
+    .desc = Eine Kiste mit Neutralisierern. Wozu brauchst du die?
 
 ent-NTRCrateToolsSmall = Werkzeugkiste
     .desc = Eine Kiste mit Standard-NanoTrasen-Tools.

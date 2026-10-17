@@ -19,8 +19,8 @@ gas-canister-popup-denied = Zugang verweigert
 # window
 
 gas-canister-window-ok-text = OK
-gas-canister-window-edit-text = Edit
-gas-canister-window-label-label = Etikett:
+gas-canister-window-edit-text = Ändern
+gas-canister-window-label-label = Beschriftung:
 gas-canister-window-pressure-label = Druck:
 gas-canister-window-release-pressure-label = Ablassdruck:
 gas-canister-window-valve-label = Ventil:

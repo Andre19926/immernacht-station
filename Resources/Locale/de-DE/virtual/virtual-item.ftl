@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-virtual-item-dropped-other = Sie fiel {THE($dropped)}!
+virtual-item-dropped-other = Du hast {THE($dropped)} fallen lassen!

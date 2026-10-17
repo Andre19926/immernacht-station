@@ -15,7 +15,7 @@ spellbook-fireball-desc =
 
 spellbook-blink-name = Blink
 spellbook-blink-desc =
-    Dieser Zauber teleportiert Sie zufällig eine kurze Strecke.
+    Dieser Zauber teleportiert dich zufällig eine kurze Strecke.
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-voidapplause-name = Leerer Beifall
@@ -38,9 +38,9 @@ spellbook-polymorph-rod-desc =
     Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg. Ein Upgrade dieses Zaubers erhöht auch den Schaden und die Reichweite der Stange.
     Erfordert die Robe und den Hut des Zauberers.
 
-spellbook-charge-name = Gebühr
+spellbook-charge-name = Aufladen
 spellbook-charge-desc =
-    Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in Ihren Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
+    Dieser Zauber kann verwendet werden, um eine Vielzahl von Dingen in deinen Händen aufzuladen, von magischen Artefakten bis hin zu elektrischen Komponenten. Ein kreativer Zauberer kann es sogar verwenden, um einem anderen magischen Benutzer magische Kraft zu verleihen.
     Erfordert nicht die Robe und den Hut des Zauberers.
 
 spellbook-ethereal-jaunt-name = Ethereal Jaunt
@@ -50,18 +50,18 @@ spellbook-ethereal-jaunt-description =
 
 spellbook-mind-swap-name = Mind Swap
 spellbook-mind-swap-description =
-    Ermöglicht es Ihnen, Körper mit einem Ziel neben Ihnen zu wechseln. Sie werden beide niedergeschlagen werden, wenn dies geschieht, und es wird ziemlich offensichtlich sein, dass Sie der Körper des Ziels sind, wenn jemand Sie dabei beobachtet.
+    Ermöglicht es dir, Körper mit einem Ziel neben dir zu wechseln. Du wirst beide niedergeschlagen werden, wenn dies geschieht, und es wird ziemlich offensichtlich sein, dass du der Körper des Ziels bist, wenn jemand dich dabei beobachtet.
     Funktioniert nicht bei Wechselgliedern, Ketzern, Ghouls, Geistern und temporären Kreaturen.
     Erfordert keine Discords Robe und Hut zu werfen.
 
 spellbook-slip-name = Slippery Slope
-spellbook-slip-desc = Lernen Sie die alten Wege des Hausmeisters kennen und verfluchen Sie Ihr Ziel, rutschig zu sein.
+spellbook-slip-desc = Erlerne die alten Wege des Hausmeisters und belege dein Ziel mit einem Fluch, rutschig zu sein.
 
 spellbook-item-recall-name = Artikel Rückruf
-spellbook-item-recall-description = Markieren Sie einen gehaltenen Gegenstand und rufen Sie ihn jederzeit mit nur einem Fingerschnipsen zurück!
+spellbook-item-recall-description = Markiere einen gehaltenen Gegenstand und rufe ihn jederzeit mit nur einem Fingerschnipsen zurück!
 
 # Goobstation?
-spellbook-tile-toggle-name = Fliesenbewegung
+spellbook-tile-toggle-name = Kachelbewegung
 spellbook-tile-toggle-description = Den Assistenten wird das nicht gefallen.
 spellbook-curse-of-byond-name = Fluch von Byond
 spellbook-curse-of-byond-description = Verurteile dein Ziel zu einer Ewigkeit des Leidens.
@@ -86,8 +86,8 @@ spellbook-wand-locker-description =
 
 spellbook-event-summon-ghosts-name = Summon Ghosts
 spellbook-event-summon-ghosts-description =
-    Spook die Crew aus, indem sie sie sehen tote Menschen. Seien Sie gewarnt, Geister sind launisch und gelegentlich rachsüchtig, und einige werden ihre unglaublich kleinen Fähigkeiten nutzen, um Sie zu frustrieren.
-    Dieser Zauber tritt sofort in Kraft, sobald Sie ihn kaufen.
+    Spook die Crew aus, indem sie sie sehen tote Menschen. Sei gewarnt, Geister sind launisch und gelegentlich rachsüchtig, und einige werden ihre unglaublich kleinen Fähigkeiten nutzen, um dich zu frustrieren.
+    Dieser Zauber tritt sofort in Kraft, sobald du ihn kaufst.
     Kann nicht zurückerstattet werden.
 
 spellbook-event-summon-guns-name = Summon Guns

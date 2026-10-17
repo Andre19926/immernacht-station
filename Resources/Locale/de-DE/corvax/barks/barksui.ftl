@@ -1,3 +1,3 @@
-ui-options-barks-volume = Stimmvolumen:
+ui-options-barks-volume = Stimmlautstärke:
 humanoid-profile-editor-voice-label = Stimme:
 humanoid-profile-editor-voice-play = ▶

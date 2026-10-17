@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # AirlockBolted
-construction-examine-condition-airlock-bolt = Zunächst einmal die Schraube {$entityName}.
-construction-examine-condition-airlock-unbolt = Erstens, entriegeln Sie die {$entityName}.
-construction-step-condition-airlock-bolt = Es muss verschraubt werden.
-construction-step-condition-airlock-unbolt = Sie muss entriegelt werden.
+construction-examine-condition-airlock-bolt = Zuerst {$entityName} verriegeln.
+construction-examine-condition-airlock-unbolt = Zuerst {$entityName} entriegeln.
+construction-step-condition-airlock-bolt = Es muss verriegelt sein.
+construction-step-condition-airlock-unbolt = Es muss entriegelt sein.

@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-passive-gate-examined = Der Durchflussmesser zeigt an [color=lightblue]{$flowRate} Liter/sec[/color].
+gas-passive-gate-examined = Der Durchflussmesser zeigt [color=lightblue]{$flowRate} Liter/s[/color] an.

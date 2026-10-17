@@ -1,5 +1,5 @@
 ent-WarpPoint = Kettpunkt
 
-ent-WarpPointBeacon = Warp Point (Bacon)
+ent-WarpPointBeacon = Warppunkt (Bake)
 
 ent-GhostWarpPoint = Geist nur Warp Point

@@ -3,10 +3,10 @@ ent-CheckerBoard = Schachbrett
 
 ent-CheckerBoardTabletop = Schachbrett
 
-ent-CheckerPieceWhite = weißes Prüfstück
+ent-CheckerPieceWhite = Damestein (weiß)
 
 ent-CheckerCrownWhite = Weiße Checker Krone
 
-ent-CheckerPieceBlack = schwarzes Kontrollstück
+ent-CheckerPieceBlack = Damestein (schwarz)
 
 ent-CheckerCrownBlack = Black Checker Krone

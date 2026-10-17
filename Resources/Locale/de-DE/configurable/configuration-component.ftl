@@ -6,8 +6,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 
-configuration-menu-confirm = Bestätigung
+configuration-menu-confirm = Bestätigen
 configuration-menu-device-title = Gerätekonfiguration
 
 ## ConfigureVerb
-configure-verb-get-data-text = Offene Konfiguration
+configure-verb-get-data-text = Konfiguration öffnen

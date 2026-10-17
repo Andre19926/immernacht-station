@@ -5,5 +5,5 @@
 
 chameleon-projector-inside-container = Es gibt keinen Platz, um das zu scannen!
 chameleon-projector-invalid = Du kannst dich nicht so verkleiden!
-chameleon-projector-success = Projizierte neue Verkleidung.
-chameleon-projector-set-disguise = Verkleidung
+chameleon-projector-success = Neue Verkleidung projiziert.
+chameleon-projector-set-disguise = Verkleidung wählen

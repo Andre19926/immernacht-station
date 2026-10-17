@@ -7,37 +7,37 @@
 
 # Dignitary
 
-job-description-bso = Handeln Sie als Bodyguard und Berater für Command und CentCom VIPs.
-job-description-ntr = Stellen Sie NT dar, senden Sie ihnen Berichte über die Situation der Station zurück, informieren Sie die Leiter über alles, was CentCom ihnen befiehlt.
+job-description-bso = Handeln dich als Bodyguard und Berater für Command und CentCom VIPs.
+job-description-ntr = Stelle NT dar, sende ihnen Berichte über die Situation der Station zurück, informiere die Leiter über alles, was CentCom ihnen befiehlt.
 
 # Navy
 
-job-description-navy-officer-undercover = Schließen Sie Ihre zugewiesenen Aufgaben ab und beenden Sie die angegebenen Ziele. Viel Glück.
+job-description-navy-officer-undercover = Schließe deine zugewiesenen Aufgaben ab und beende die angegebenen Ziele. Viel Glück.
 job-description-navy-captain = Verschlusssachen.
-job-description-navy-officer = Beantworten Sie Faxe und Funkkommunikation, die an das CentComm gerichtet sind. Führen Sie Untersuchungen an der Station und ihrer Crew durch.
-job-description-diplomat = Stellt das CentComm dar und verwaltet die Beziehungen zu anderen Fraktionen an Bord der Station. Säubern Sie die Probleme, die der Kapitän wahrscheinlich verursacht hat.
+job-description-navy-officer = Beantworte Faxe und Funkkommunikation, die an das CentComm gerichtet sind. Führe Untersuchungen an der Station und ihrer Crew durch.
+job-description-diplomat = Stellt das CentComm dar und verwaltet die Beziehungen zu anderen Fraktionen an Bord der Station. Säubern dich die Probleme, die der Kapitän wahrscheinlich verursacht hat.
 job-description-navy-special-operations-officer = Senden, kurze und direkte Notfallteams oder andere Nanotrasen Kräfte. Gib die Nuklearcodes frei oder nicht.
 job-description-outercommander = Ein externer Beobachter, der das CentComm auditiert und bürokratischen Druck ohne direkte Autorität ausübt.
 
 # Generic Nanotrasen
 
-job-description-nct = Bringen Sie den Neulingen bei, wie sie ihre vom Unternehmen zugewiesenen Aufgaben richtig ausführen und sich aus Schwierigkeiten heraushalten.
+job-description-nct = Bringe den Neulingen bei, wie sie ihre vom Konzern zugewiesenen Aufgaben richtig erledigen, und halte sie aus Schwierigkeiten heraus.
 
 # Syndicate
 
-job-description-highcommander = Sie sind ein Elite-, hochrangiger Beamter im Spinward Syndicate. Es spielt keine Rolle, welche Fraktion, Sie sind wichtig für sie alle.
+job-description-highcommander = Du bist ein Elite-, hochrangiger Beamter im Spinward Syndicate. Es spielt keine Rolle, welche Fraktion, du bist wichtig für sie alle.
 
 # Half Life
 
 job-description-governmentman = Ist das nicht wie in alten Zeiten?
-job-description-hecu = Erfüllen Sie die Befehle Ihres Vorgesetzten, unabhängig von der Moral.
+job-description-hecu = Erfülle die Befehle deines Vorgesetzten, unabhängig von der Moral.
 
 # Misc
 
 job-description-conquest = Steh bereit für meine Ankunft, Wurm.
-job-description-mercenarycaptain = Bestellen Sie andere Söldner herum. Handeln Sie als Muskel für den Höchstbietenden. Nur weil es jetzt NT ist, heißt das nicht, dass es sich später nicht ändern wird.
-job-description-roboticist = Bauen und pflegen Sie Cyborgs und Mechs. Halten Sie die AI in Schach.
-job-description-radiohost = Hosten Sie die Stationen lokalen Radiosender, spielen Vinyls, interviewen Sie die Crew, nehmen Sie Faxe und führen Sie Anzeigen, um die beste Radiosendung auf der Station zu machen.
+job-description-mercenarycaptain = Bestelle andere Söldner herum. Handeln dich als Muskel für den Höchstbietenden. Nur weil es jetzt NT ist, heißt das nicht, dass es sich später nicht ändern wird.
+job-description-roboticist = Baue und warte Cyborgs und Mechs. Halte die KI in Schach.
+job-description-radiohost = Hoste die Stationen lokalen Radiosender, spielen Vinyls, interviewe die Crew, nimm Faxe und führe Anzeigen, um die beste Radiosendung auf der Station zu machen.
 
 # Viro
-job-description-virologist = Studiere die Verbreitung von Viren, produziere Heilmittel für kranke Crewmitglieder, experimentiere mit der Schaffung nützlicher Viren. Stellen Sie sicher, dass sich Pandemien nicht ausbreiten.
+job-description-virologist = Studiere die Verbreitung von Viren, produziere Heilmittel für kranke Crewmitglieder, experimentiere mit der Schaffung nützlicher Viren. Stelle sicher, dass sich Pandemien nicht ausbreiten.

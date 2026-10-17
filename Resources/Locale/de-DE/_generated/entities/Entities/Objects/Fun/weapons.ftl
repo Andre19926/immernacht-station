@@ -1,23 +1,23 @@
 ent-FoamCrossbow = Schaumarmbrust
-    .desc = Wenn Sie dies bei Security anstreben, werden Sie möglicherweise mit Blei gefüllt.
+    .desc = Wenn du dies bei Security anstrebst, wirst du möglicherweise mit Blei gefüllt.
 
 ent-WeaponRifleFoam = Foam Force Astro Ace
     .desc = Ein Premium-Schaumgewehr von höchster Qualität. Sein Plastik fühlt sich robust an und seine Mechanismen sind robust.
 
-ent-RevolverCapGun = Mützenpistole
+ent-RevolverCapGun = Zündplättchenpistole
     .desc = Sieht fast aus wie das echte Ding! Alter 8 und älter.
 
-ent-RevolverCapGunFake = Mützenpistole
+ent-RevolverCapGunFake = Zündplättchenpistole
     .desc = Sieht fast aus wie das echte Ding! Alter 8 und älter.
 
 ent-WeaponStickyHand = klebrige Hand
-    .desc = Sie sagen, dass Sie erreichen. Sie sagen, es ist eine Strecke. Sie werden sie alle zeigen, und Sie werden es an sie kleben.
+    .desc = Du sagst, dass du erreichst. Du sagst, es ist eine Strecke. Du wirst sie alle zeigen, und du wirst es an sie kleben.
 
 ent-FoamBlade = Schaumstoffblatt
     .desc = Es steht "Sternside Changs Nummer 1 Fan" darauf.
 
 ent-FoamCutlass = Schaumschneider
-    .desc = Cosplay als Pirat und zwingen Sie Ihre Freunde, die Planke zu gehen.
+    .desc = Cosplay als Pirat und zwinge deine Freunde, die Planke zu gehen.
 
 ent-ToySword = Spielzeugschwert
     .desc = Neues Sandy-Cat Plastikschwert! Kommt mit realistischem Sound und voller Farbe! Sieht fast aus wie das echte Ding!

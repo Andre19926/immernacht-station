@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spike-solution-generic = Du Spike {THE($spiked-entity)} mit {THE($spike-entity)}.
+spike-solution-generic = Du versetzt {THE($spiked-entity)} mit {THE($spike-entity)}.
 spike-solution-empty-generic = {THE($spike-entity)} löst sich nicht in {THE($spiked-entity)}.
-spike-solution-egg = Risse {THE($spike-entity)} in {THE($spiked-entity)}.
+spike-solution-egg = Du schlägst {THE($spike-entity)} in {THE($spiked-entity)} auf.

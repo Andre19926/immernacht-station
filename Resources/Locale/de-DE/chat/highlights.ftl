@@ -8,14 +8,14 @@ highlights-blueshield-officer = Blueshield Officer, "Central Command", "BSO", "C
 highlights-captain = Captain, "Cap", Bridge, "Command"
 highlights-head-of-personnel = Leiter des Personals, "HoP", Service, Bridge, "Command"
 highlights-chief-engineer = Chefingenieur, "CE", Ingenieur, Ingenieur, "Engi", Bridge, "Command"
-highlights-chief-medical-officer = Chief Medical Officer, "CMO", Medbay, "Med", Bridge, "Command"
+highlights-chief-medical-officer = Chefarzt, "CMO", Medbay, "Med", Bridge, "Command"
 highlights-head-of-security = Head of Security, "HoS", Security, "Sec", Bridge, "Command"
 highlights-quartermaster = Quartermaster, "QM", Fracht, Bridge, "Command"
 highlights-research-director = Forschungsdirektor, "RD", Wissenschaft, "Sci", Bridge, "Command"
 # Goob end
 
 # Security
-highlights-detective = Detective, "Det", Sicherheit, "Sec"
+highlights-detective = Detektiv, "Det", Sicherheit, "Sec"
 highlights-security-cadet = Sicherheitskadett, Secoff, Kadett, Sicherheit, "Sec"
 highlights-security-officer = Security Officer, Secoff, Officer, Security, "Sec"
 highlights-warden = Warden, "Ward", Security, "Sec"
@@ -43,14 +43,14 @@ highlights-research-assistant = Forschungsassistent, Wissenschaft, "Sci"
 highlights-bartender = Barkeeper, Barkeep, "Bar"
 highlights-botanist = Botaniker, Botanik, Hydroponik
 highlights-chaplain = Kaplan, "Chap", Kapelle
-highlights-chef = Chef, "Koch", Küche
+highlights-chef = Koch, "Cook", Küche
 highlights-clown = Clown, Jester
 highlights-janitor = Janitor, "Jani"
-highlights-lawyer = Rechtsanwalt, Rechtsanwalt
+highlights-lawyer = Anwalt, Rechtsanwalt
 highlights-librarian = Bibliothekar, Bibliothek
 highlights-mime = Mime
 highlights-passenger = Assistent, Greytider, "Tider"
-highlights-service-worker = Servicearbeiter
+highlights-service-worker = Servicekraft
 
 # Station-specific
 highlights-reporter = Reporter, Journalist

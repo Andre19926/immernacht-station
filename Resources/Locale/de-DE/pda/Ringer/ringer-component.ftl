@@ -18,6 +18,6 @@ comp-ringer-ui-menu-title = Rington
 
 comp-ringer-ui-test-ringtone-button = Test
 
-comp-ringer-ui-set-ringtone-button = Setz
+comp-ringer-ui-set-ringtone-button = Setzen
 
 comp-ringer-ui = [color=yellow]♪{$RingtoneOne}-{$RingtoneTwo}-{$RingtoneThree}-{$RingtoneFour}[/color]

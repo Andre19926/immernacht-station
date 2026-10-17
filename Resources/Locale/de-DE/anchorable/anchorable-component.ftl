@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-anchorable-anchored = verankert
-anchorable-unanchored = nicht verankert
-anchorable-occupied = Besetzte Fliesen
+anchorable-anchored = Verankert
+anchorable-unanchored = Nicht verankert
+anchorable-occupied = Feld besetzt

@@ -13,7 +13,7 @@ ent-WarmLightBulb = Warmglühlampe
 ent-LightBulbOld = alte Glühlampe
     .desc = Eine alternde Glühbirne.
 
-ent-LightBulbBroken = Glühlampe
+ent-LightBulbBroken = Kaputte Glühlampe
     .desc = Eine Glühbirne.
 
 ent-ServiceLightBulb = Betriebsglühlampe
@@ -25,7 +25,7 @@ ent-LightTube = Leuchtstofflampenröhre
 ent-LightTubeOld = alte Leuchtstoffröhre
     .desc = Eine alternde Leuchte.
 
-ent-LightTubeBroken = Leuchtstofflampenröhre
+ent-LightTubeBroken = Kaputte Leuchtstoffröhre
     .desc = Eine Leuchte.
 
 ent-LedLightTube = LED-Lichtröhre
@@ -67,7 +67,7 @@ ent-LightBulbCrystalCyan = Cyankristalllampe
 ent-LightBulbCrystalBlue = blaue Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
 
-ent-LightBulbCrystalYellow = gelbe Lampe
+ent-LightBulbCrystalYellow = Gelbe Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
 
 ent-LightBulbCrystalPink = rosafarbene Kristalllampe
@@ -76,11 +76,11 @@ ent-LightBulbCrystalPink = rosafarbene Kristalllampe
 ent-LightBulbCrystalOrange = orangefarbene Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
 
-ent-LightBulbCrystalBlack = Glühbirne aus schwarzem Kristall
+ent-LightBulbCrystalBlack = Schwarze Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat. Es ist nicht sehr hell.
 
 ent-LightBulbCrystalRed = rote Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.
 
-ent-LightBulbCrystalGreen = Glühlampe mit grüner Kristalllampe
+ent-LightBulbCrystalGreen = Grüne Kristalllampe
     .desc = Eine High Power High Energy Birne, die einen kleinen farbigen Kristall im Inneren hat.

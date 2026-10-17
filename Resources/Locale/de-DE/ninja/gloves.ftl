@@ -8,7 +8,7 @@
 
 ninja-gloves-on = Die Handschuhe schweben mit Macht!
 ninja-gloves-off = Die Handschuhe Power Down...
-ninja-gloves-not-wearing-suit = Sie tragen keinen Ninja-Anzug
+ninja-gloves-not-wearing-suit = Du trägst keinen Ninja-Anzug
 ninja-gloves-examine-on = Alle Fähigkeiten sind aktiviert.
 ninja-gloves-examine-off = Langweilige alte Handschuhe...
 ninja-doorjack-success = Die Handschuhe zappen etwas in {THE($target)}.

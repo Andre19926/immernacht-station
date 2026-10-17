@@ -22,13 +22,13 @@ ent-MedicatedSuture = Arzneinaht
 ent-BrutepackAdvanced1 = Arzneinaht
     .desc = Eine Naht, die in der Medizin getränkt ist, behandelt blunt-force Trauma effektiv und schließt Wunden.
 
-ent-Bloodpack = Blutpackungen
+ent-Bloodpack = Blutbeutel
     .desc = Enthält einen bahnbrechenden universellen Blutersatz, der durch die fortgeschrittene medizinische Wissenschaft von Nanotrasen geschaffen wurde.
 
-ent-Bloodpack1 = Blutpackungen
+ent-Bloodpack1 = Blutbeutel
     .desc = Enthält einen bahnbrechenden universellen Blutersatz, der durch die fortgeschrittene medizinische Wissenschaft von Nanotrasen geschaffen wurde.
 
-ent-Tourniquet = Tourniquet
+ent-Tourniquet = Aderpresse
     .desc = Hört auf zu bluten! Hoffentlich.
 
 ent-Gauze = Gazerolle

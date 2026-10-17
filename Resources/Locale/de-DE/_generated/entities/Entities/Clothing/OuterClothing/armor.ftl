@@ -4,7 +4,7 @@ ent-ClothingOuterArmorBasic = Panzerwesten
 ent-ClothingOuterArmorBasicSlim = Panzerwesten
     .desc = Eine schlanke Typ I gepanzerte Weste, die einen angemessenen Schutz gegen die meisten Arten von Schäden bietet.
 
-ent-ClothingOuterArmorBulletproof = kugelsichere Westweste
+ent-ClothingOuterArmorBulletproof = Kugelsichere Weste
     .desc = Eine schwere kugelsichere Weste vom Typ III, die den Träger in geringerem Maße vor traditionellen Projektilwaffen und Sprengstoffen schützt.
 
 ent-ClothingOuterArmorReflective = reflektierende Weste

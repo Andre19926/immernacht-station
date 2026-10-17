@@ -8,67 +8,67 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 borg-player-not-allowed = Das Gehirn passt nicht!
-borg-player-not-allowed-eject = Das Gehirn wurde aus dem Chassis vertrieben!
+borg-player-not-allowed-eject = Das Gehirn wurde aus dem Chassis ausgeworfen!
 
 borg-panel-not-open = Das Panel des Cyborgs ist nicht offen...
 
-borg-mind-added = {CAPITALIZE($name)} powered on!
-borg-mind-removed = {CAPITALIZE($name)} Abschalten!
+borg-mind-added = {CAPITALIZE($name)} wurde eingeschaltet!
+borg-mind-removed = {CAPITALIZE($name)} wurde abgeschaltet!
 
 borg-module-too-many = Es gibt nicht genug Platz für ein anderes Modul...
 borg-module-duplicate = Dieses Modul ist bereits in diesem Cyborg installiert.
 borg-module-whitelist-deny = Dieses Modul passt nicht in diese Art von Cyborg ...
 
-borg-module-action-name = Aktivieren {$moduleName}
-borg-module-action-description = Wählen Sie {$moduleName}, damit Sie die von ihm bereitgestellten Tools verwenden können.
+borg-module-action-name = {$moduleName} aktivieren
+borg-module-action-description = Wähle {$moduleName} aus, um die bereitgestellten Werkzeuge zu benutzen.
 
 borg-construction-guide-string = Die Cyborg-Gliedmaßen und der Rumpf müssen am Endoskelett befestigt sein.
 
 borg-ui-menu-title = Cyborg-Schnittstelle
-borg-ui-charge-label = Gebühr: {$charge}%
+borg-ui-charge-label = Ladung: {$charge} %
 borg-ui-no-brain = Kein Gehirn vorhanden
 borg-ui-remove-battery = Entfernen
 borg-ui-modules-label = Module:
 borg-ui-module-counter = {$actual}/{$max}
 
 # Transponder
-borg-transponder-disabled-popup = Ein Gehirn schießt die Spitze des {$name}!
-borg-transponder-disabling-popup = Ihr Transponder fängt an, Sie aus dem Chassis zu sperren!
-borg-transponder-destroying-popup = Die Selbstzerstörung des {$name} Fangt an zu piepen!
-borg-transponder-emagged-disabled-popup = Die Lichter Ihres Transponders gehen aus!
-borg-transponder-emagged-destroyed-popup = Die Sicherung Ihres Transponders schlägt!
+borg-transponder-disabled-popup = Ein Gehirn schießt oben aus {$name} heraus!
+borg-transponder-disabling-popup = Dein Transponder beginnt, dich aus dem Chassis auszusperren!
+borg-transponder-destroying-popup = Die Selbstzerstörung von {$name} beginnt zu piepen!
+borg-transponder-emagged-disabled-popup = Die Lichter deines Transponders gehen aus!
+borg-transponder-emagged-destroyed-popup = Die Sicherung deines Transponders brennt durch!
 
 ## Borg type selection UI.
-borg-select-type-menu-title = Fahrzeugtyp auswählen
-borg-select-type-menu-bottom-text = Fahrwerksauswahl ist irreversibel
+borg-select-type-menu-title = Chassis-Typ auswählen
+borg-select-type-menu-bottom-text = Die Chassis-Wahl ist unwiderruflich
 borg-select-type-menu-available = Verfügbare Typen
 borg-select-type-menu-information = Information
 borg-select-type-menu-select-type = Typ auswählen, um Informationen anzuzeigen
 borg-select-type-menu-confirm = Auswahl bestätigen
-borg-select-type-menu-guidebook = Leitfaden
+borg-select-type-menu-guidebook = Guidebook
 
 ## Borg type information
 
-borg-type-generic-name = Gattungsbezeichnung
-borg-type-generic-desc = Jack aller Trades, Master of None. Führen Sie verschiedene zufällige Stationsaufgaben aus oder helfen Sie vielleicht der Wissenschaftsabteilung, die Sie gebaut hat.
-borg-type-generic-transponder = Cyborg-Generika
+borg-type-generic-name = Allgemein
+borg-type-generic-desc = Mädchen für alles, aber in nichts richtig gut. Erledige verschiedene Aufgaben auf der Station oder hilf der Wissenschaft, die dich gebaut hat.
+borg-type-generic-transponder = allgemeiner Cyborg
 
-borg-type-engineering-name = Ingenieurwesen
-borg-type-engineering-desc = Unterstützen Sie das Ingenieurteam beim Bau von Stationen, bei der Reparatur von Schäden oder bei der Behebung elektrischer und atmosphärischer Probleme.
-borg-type-engineering-transponder = Ingenieur Cyborg
+borg-type-engineering-name = Technik
+borg-type-engineering-desc = Unterstütze die Technik beim Bau der Station, bei der Reparatur von Schäden und bei elektrischen oder atmosphärischen Problemen.
+borg-type-engineering-transponder = Technik-Cyborg
 
 borg-type-mining-name = Salvage
-borg-type-mining-desc = Schließen Sie sich der Salvage an und helfen Sie ihnen, nach Materialien zu suchen, Wracks zu plündern und feindliche Wildtiere zu bekämpfen.
-borg-type-mining-transponder = Salvage Cyborg
+borg-type-mining-desc = Schließe dich der Salvage an und hilf beim Abbau von Materialien, beim Plündern von Wracks und beim Abwehren feindlicher Wildtiere.
+borg-type-mining-transponder = Salvage-Cyborg
 
 borg-type-janitor-name = Hausmeister
-borg-type-janitor-desc = Halten Sie die Station schön und ordentlich, bereinigen Sie Verschmutzungen, sammeln und entsorgen Sie den Müll, den faule Crewmitglieder hinterlassen haben.
-borg-type-janitor-transponder = Hausmeister Cyborg
+borg-type-janitor-desc = Halte die Station sauber und ordentlich, beseitige Verschmutzungen und sammle und entsorge den Müll, den faule Crewmitglieder herumliegen lassen.
+borg-type-janitor-transponder = Hausmeister-Cyborg
 
-borg-type-medical-name = Medizinisch
-borg-type-medical-desc = Geben Sie medizinische Hilfe für die Crew, die es brauchen, entweder in Medbay oder in gefährlichen Bereichen, die herkömmliche Sanitäter nicht erreichen können.
-borg-type-medical-transponder = Medizinischer Cyborg
+borg-type-medical-name = Medizin
+borg-type-medical-desc = Versorge Crewmitglieder medizinisch, entweder in der Medbay oder in gefährlichen Bereichen, die normale Sanitäter nicht erreichen können.
+borg-type-medical-transponder = Medizin-Cyborg
 
-borg-type-service-name = Dienst
-borg-type-service-desc = Helfen Sie mit einer breiten Palette von Crew-Services, die von Snacks und Getränken über Botanik bis hin zu Unterhaltung reichen.
-borg-type-service-transponder = Service Cyborg
+borg-type-service-name = Service
+borg-type-service-desc = Hilf bei den vielfältigen Crew-Diensten, von Snacks und Getränken über Botanik bis zur Unterhaltung.
+borg-type-service-transponder = Service-Cyborg

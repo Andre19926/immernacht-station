@@ -10,7 +10,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Goobstation - Armor resisting syringe gun
-melee-inject-failed-armor = Ihr {$weapon} kann nicht durch Rüstung injizieren!
+melee-inject-failed-armor = Dein {$weapon} kann nicht durch Rüstung injizieren!
 
 melee-balloon-pop = {CAPITALIZE(THE($balloon))} Popped!
 

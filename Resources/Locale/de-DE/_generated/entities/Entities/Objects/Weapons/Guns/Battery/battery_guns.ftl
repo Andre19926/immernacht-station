@@ -5,7 +5,7 @@ ent-WeaponLaserGun = Retro-Laserblaser
     .desc = Eine Laserpistole aus einer anderen Zeit. Sein Design ist in der aktuellen Ära ziemlich selten, aber es ist kompatibel mit modernen Ladegeräten.
 
 ent-WeaponMakeshiftLaser = Provisorische Laserpistole
-    .desc = Beten Sie besser, es wird Ihre Hände nicht verbrennen.
+    .desc = Bete besser, es wird deine Hände nicht verbrennen.
 
 ent-WeaponTeslaGun = Tesla Gun
     .desc = Die Kraft des ursprünglichen Elements des Blitzes in deinen Händen.
@@ -34,14 +34,14 @@ ent-WeaponParticleDecelerator = tragbarer Partikelverzögerer
 ent-WeaponXrayCannon = Röntgenkanone
     .desc = Eine experimentelle Laserwaffe, die einen dichten Röntgenstrahl abfeuert. Hinterlässt intensive Strahlung Verbrennungen.
 
-ent-WeaponDisablerPractice = Übungsbehinderer
+ent-WeaponDisablerPractice = Übungs-Neutralisierer
     .desc = Eine Selbstverteidigungswaffe, die organische Ziele erschöpft und sie schwächt, bis sie zusammenbrechen. Dieser wurde für den Einsatz in Trainingsszenarien oder Zielpraxis unterabgestimmt.
 
-ent-WeaponDisabler = Deaktivierer
+ent-WeaponDisabler = Neutralisierer
     .desc = Eine Selbstverteidigungswaffe, die organische Ziele erschöpft und sie schwächt, bis sie zusammenbrechen.
 
-ent-WeaponDisablerSMG = Deaktivierer SMG
-    .desc = Eine Iteration des Deaktivierers, die die Leistung jedes Schusses für eine massive Erhöhung der Feuerrate reduziert. Obwohl viel sperriger, machen der leichte Rahmen und der Mangel an Rückstoß es vollständig einhändig nutzbar.
+ent-WeaponDisablerSMG = Neutralisierer-SMG
+    .desc = Eine Weiterentwicklung des Neutralisierers: Jeder Schuss ist schwächer, dafür steigt die Feuerrate massiv. Die Waffe ist deutlich sperriger, aber der leichte Rahmen und der fehlende Rückstoß machen sie voll einhändig nutzbar.
 
 ent-WeaponTaser = Taser
     .desc = Eine Handbetäubungswaffe, die zwei elektrifizierte Pfeile auf das Ziel abfeuert. Früher von NanoTrasen Security verwendet, obwohl es größtenteils auslaufen wurde.
@@ -68,7 +68,7 @@ ent-WeaponEnergyShotgun = Energieschrotflinte
     .desc = Eine einzigartige Energiewaffe, die eine Barriere aus rot-heißem Plasma anstelle eines Laserstrahls abfeuert. Kommt mit einem Feuerwähler zwischen schmal, breit und deaktivieren, so dass es eine vielfältige Waffe in den rechten Händen.
 
 ent-WeaponEnergyMagnum = Energy Magnum
-    .desc = Eine leistungsstarke selbstaufladende Energiepistole für Elite-Sicherheitspersonal. Es hat drei Zündmodi, die entweder hohen Schaden, Fensterstechen oder nicht-tödliche Deaktivierung ermöglichen.
+    .desc = Eine leistungsstarke, selbstaufladende Energiepistole für Elite-Sicherheitskräfte. Sie hat drei Feuermodi: hoher Schaden, fensterdurchschlagend oder nicht-tödliche Neutralisierung.
 
 ent-WeaponTemperatureGun = Temperaturpistole
     .desc = Eine vielseitige Energiepistole, die Projektile abfeuert, die die innere Körpertemperatur verändern, ursprünglich für den Einsatz gegen Gegner im gepanzerten Hardsuit entwickelt. Wahrscheinlich stellt eine Art Kriegsverbrechen im Unternehmensraum dar.

@@ -4,7 +4,7 @@ ent-ClothingOuterVestWebDurathread = Rote Fleckenweste
 ent-ClothingOuterArmourDurathread = Durathread Rüstung
     .desc = Eine gepanzerte Weste aus Plastikplatten, die mit Durathread gewebt sind. Es ist überraschend flexibel und leicht, trotz gewaltiger Panzerung.
 
-ent-ClothingOuterArmorHelldiver = Rettung NT-01 taktischer Hardsuit
+ent-ClothingOuterArmorHelldiver = Salvage-NT-01-Taktik-Hardsuit
     .desc = Diese ist die Nano-Achtung, die aus der gleichen Titan-Legierung besteht wie der Goliath-Achtung.
 
 ent-ClothingOuterArmorHoSVestWeb = Leiter der Sicherheitswebweste
@@ -16,10 +16,10 @@ ent-ClothingOuterCapJacket = Panzerjacke des Kapitäns
 ent-ClothingOuterWinterCapArmored = Der schicke Wintermantel des Kapitäns
     .desc = Ein verzierter Wintermantel mit einer ballistischen Platte, die für das Feinste der Station gemacht wurde.
 
-ent-ClothingBlueshieldArmourVest = Blauschildpanzerung
-    .desc = Eine gepanzerte Weste mit dem Abzeichen des Blauschildes. Verwendet die Bluespace-Technologie, um kompakter zu sein.
+ent-ClothingBlueshieldArmourVest = Blueshield-Panzerweste
+    .desc = Eine gepanzerte Weste mit dem Abzeichen des Blueshield. Verwendet die Bluespace-Technologie, um kompakter zu sein.
 
-ent-ClothingBlueshieldArmoredJacket = Blauschildjacke
+ent-ClothingBlueshieldArmoredJacket = Blueshield-Panzerjacke
     .desc = Eine Jacke mit eingenähten Verstärkungsschichten.
 
 ent-ClothingBlueshieldArmoredCowboyJacket = Blueshields gepanzerte Cowboyjacke
@@ -34,11 +34,11 @@ ent-ClothingOuterArmourInvisible = Blauraum-unterstützte Panzerung
 ent-ClothingOuterArmourInvisibleChameleon = verdeckte Panzerung
     .desc = Eine gepanzerte Weste, die Bluespace-Technologie verwendet. Fähig, völlig unsichtbar zu sein oder wie jede andere äußere Kleidung zu erscheinen.
 
-ent-ClothingOuterArmorCloakSith = Dark Lord Mantel
+ent-ClothingOuterArmorCloakSith = Dark-Lord-Umhang
     .desc = Was als einfacher Cosplaymantel begann, wurde illegal mit gepanzerten Platten verstärkt und in ein funktionelles Stück Rüstung verwandelt. Sieht so aus, als wäre es sogar in der Lage, den Benutzer vor dem fehlenden Druck im Weltraum zu schützen.
 
 ent-ClothingOuterArmourInvisibleSyndie = Rotraumgestützte Panzerung
-    .desc = Eine gepanzerte Weste, die Redspace-Technologie verwendet, um unsichtbar zu erscheinen und sich nicht mit Ihrem Geschäftsstil zu beschäftigen.
+    .desc = Eine gepanzerte Weste, die Redspace-Technologie verwendet, um unsichtbar zu erscheinen und sich nicht mit deinem Geschäftsstil zu beschäftigen.
 
 ent-ClothingOuterArmorQueenCarapace = Carapace der Königin
     .desc = Der Schädel der alten Xeno-Königin, wieder zu einem imposanten Bruststück, das ihre frühere Bedrohung in unnachgiebigen Schutz verwandelt.
@@ -68,13 +68,13 @@ ent-ClothingOuterArmorMonk = Mönchsgewohnheit
     .desc = Ein paar Schritte über zerrissenem Sacktuch.
 
 ent-ClothingOuterArmorBishop = Bischofsroben
-    .desc = Ich freue mich zu sehen, dass die Zehnten, die Sie gesammelt haben, gut ausgegeben wurden.
+    .desc = Ich freue mich zu sehen, dass die Zehnten, die du gesammelt hast, gut ausgegeben wurden.
 
 ent-ClothingOuterArmorDragon = Drachenanzug
     .desc = Die Waage wurde ethisch beschafft, versprochen.
 
 ent-ClothingOuterArmorInquisitor = Inquisitor Rüstung
-    .desc = Bulky Rüstung mit goldenen Ketten und Muster geschmückt. Zeigen Sie Häresie Ihre Macht!
+    .desc = Bulky Rüstung mit goldenen Ketten und Muster geschmückt. Zeige Häresie deine Macht!
 
 ent-ClothingOuterSchemaMonk = Klosterkleidung
     .desc = Ein Schild des völligen Verzichts auf die Welt und der Akzeptanz des Heldentums. Es wird von denen getragen, die den Weg des Gebets und des Kampfes für die menschliche Seele gewählt haben. In der Stille des Kosmos scheint es besonders angemessen zu sein.

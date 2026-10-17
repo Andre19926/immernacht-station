@@ -5,7 +5,7 @@ ent-ClothingOuterApronBar = Apron
     .desc = Eine dunklere Schürze für Barkeeper.
 
 ent-ClothingOuterApronBotanist = Apron
-    .desc = Eine dicke blaue Schürze, perfekt zum Isolieren Ihres weichen Fleisches vor Verschüttungen, Erde und Dornen.
+    .desc = Eine dicke blaue Schürze, perfekt zum Isolieren deines weichen Fleisches vor Verschüttungen, Erde und Dornen.
 
 ent-ClothingOuterApronChef = Apron
     .desc = Eine Schürzenjacke, die von einem erstklassigen Koch verwendet wird.

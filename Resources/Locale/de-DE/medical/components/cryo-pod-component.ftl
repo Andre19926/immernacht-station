@@ -7,7 +7,7 @@
 # Ejection verb label.
 cryo-pod-verb-noun-occupant = Patient
 # Examine text showing whether there's a beaker in the pod and if it is empty.
-cryo-pod-examine = Es gibt {INDEFINITE($beaker)} {$beaker} hier drinnen.
+cryo-pod-examine = Hier drin steckt {$beaker}.
 cryo-pod-empty-beaker = Es ist leer!
 # Shown when a normal ejection through the eject verb is attempted on a locked pod.
 cryo-pod-locked = Der Ausstoßmechanismus reagiert nicht!

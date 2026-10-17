@@ -22,7 +22,7 @@ ent-ClothingHeadHelmetHardsuitSecurity = Sicherheitshelm Hardsuit
 ent-ClothingHeadHelmetHardsuitBrigmedic = Gefängnissanitäter Hardsuit Helm
     .desc = Der leichte Helm des Gefängnissanitäter Hardsuit. Schützt vor Viren und Clowns.
 
-ent-ClothingHeadHelmetHardsuitWarden = Helm des Warden Hardsuit
+ent-ClothingHeadHelmetHardsuitWarden = Warden-Hardsuit-Helm
     .desc = Ein modifizierter Bereitschaftshelm. Seltsam bequem.
 
 ent-ClothingHeadHelmetHardsuitCap = Helm des Kapitäns
@@ -31,17 +31,17 @@ ent-ClothingHeadHelmetHardsuitCap = Helm des Kapitäns
 ent-ClothingHeadHelmetHardsuitEngineeringWhite = Hardsuit Helm des Chefingenieurs
     .desc = Spezieller Hardsuit-Helm, gemacht für den Chefingenieur der Station.
 
-ent-ClothingHeadHelmetHardsuitMedical = Hardsuit Helm des Chief Medical Officer
-    .desc = Leichter medizinischer Hardsuit-Helm, der Ihre Kopfbewegungen nicht einschränkt.
+ent-ClothingHeadHelmetHardsuitMedical = Chefarzt-Hardsuit-Helm
+    .desc = Leichter medizinischer Hardsuit-Helm, der deine Kopfbewegungen nicht einschränkt.
 
 ent-ClothingHeadHelmetHardsuitRd = Experimentelle Forschung Hardsuit Helm
-    .desc = Leichter Hardsuit-Helm, der Ihre Kopfbewegungen nicht einschränkt.
+    .desc = Leichter Hardsuit-Helm, der deine Kopfbewegungen nicht einschränkt.
 
 ent-ClothingHeadHelmetHardsuitSecurityRed = Sicherheitschef Hardsuit Helm
     .desc = Sicherheitshelm mit der neuesten streng geheimen NT-HUD-Software. gehört der HoS an.
 
 ent-ClothingHeadHelmetHardsuitLuxury = Luxus-Mining Hardsuit Helm
-    .desc = Ein renovierter Bergbau-Helm, ausgestattet mit Satin-Dämpfung und einer zusätzlichen (nicht funktionierenden) Antenne, weil Sie das extra sind.
+    .desc = Ein renovierter Bergbau-Helm, ausgestattet mit Satin-Dämpfung und einer zusätzlichen (nicht funktionierenden) Antenne, weil du das extra bist.
 
 ent-ClothingHeadHelmetHardsuitSyndie = blutroter Hardsuit Helm
     .desc = Ein schwer gepanzerter Helm für die Arbeit in speziellen Operationen. Eigentum der Gorlex Marauders.

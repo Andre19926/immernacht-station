@@ -1,8 +1,8 @@
-ent-ChestShadowkin = Schattenkiste
+ent-ChestShadowkin = Shadowkin-Rumpf
 
-ent-GroinShadowkin = Schattenkehlen
+ent-GroinShadowkin = Shadowkin-Leiste
 
-ent-HeadShadowkin = Schattenkopf
+ent-HeadShadowkin = Shadowkin-Kopf
 
 ent-LeftArmShadowkin = linker Shadowkin-Arm
 

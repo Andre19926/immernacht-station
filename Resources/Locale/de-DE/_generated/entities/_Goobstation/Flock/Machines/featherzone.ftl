@@ -1,11 +1,11 @@
 ent-FeatherzoneCockpit = Shuttle Cockpit
-    .desc = Sie haben keine Ahnung, wie Sie dieses Ding bedienen sollen!
+    .desc = Du hast keine Ahnung, wie du dieses Ding bedienen sollst!
 
 ent-FeatherzoneReactorOff = Flockreaktor
-    .desc = Sie haben keine Ahnung, wie Sie dieses Ding bedienen sollen!
+    .desc = Du hast keine Ahnung, wie du dieses Ding bedienen sollst!
 
 ent-FeatherzoneReactorOn = Flockreaktor
-    .desc = Sie haben keine Ahnung, wie Sie dieses Ding bedienen sollen!
+    .desc = Du hast keine Ahnung, wie du dieses Ding bedienen sollst!
 
 ent-FeatherzoneWing1 = Funkenklinge
     .desc = Von hier aus sieht es sehr zerbrechlich aus. Und gefährlich leben. Am besten nicht zu nahe kommen.

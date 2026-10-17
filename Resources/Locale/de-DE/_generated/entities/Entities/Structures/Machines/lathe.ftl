@@ -1,37 +1,37 @@
-ent-Autolathe = Autolach
-    .desc = Es produziert grundlegende Gegenstände aus Metall und Glas. Hat die Fähigkeit, Blaupausen zu verarbeiten, um neue Rezepte zu drucken.
+ent-Autolathe = Autolathe
+    .desc = Stellt einfache Gegenstände aus Metall und Glas her. Kann Baupläne verarbeiten, um neue Rezepte zu drucken.
 
-ent-AutolatheHyperConvection = Hyperkonvektionsautolathe
-    .desc = Eine hochexperimentelle Autolathe, die die Kraft extremer Hitze nutzt, um Objekte kostengünstiger zu erstellen.
+ent-AutolatheHyperConvection = Hyperkonvektions-Autolathe
+    .desc = Eine hochexperimentelle Autolathe, die die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
 
-ent-Protolathe = Protolath
-    .desc = Verwandelt Rohstoffe in fortschrittliche Artikel.
+ent-Protolathe = Protolathe
+    .desc = Verwandelt Rohstoffe in fortschrittliche Gegenstände.
 
-ent-ProtolatheHyperConvection = Hyperkonvektionsprotolathe
-    .desc = Eine hochexperimentelle Protolathe, die die Kraft extremer Hitze nutzt, um Objekte kostengünstiger zu erstellen.
+ent-ProtolatheHyperConvection = Hyperkonvektions-Protolathe
+    .desc = Eine hochexperimentelle Protolathe, die die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
 
-ent-CircuitImprinter = Schaltungsdrucker
-    .desc = Druckt Platin für Maschinen.
+ent-CircuitImprinter = Platinendrucker
+    .desc = Druckt Platinen für Maschinen.
 
-ent-CircuitImprinterHyperConvection = Hyperkonvektionskreisdrucker
-    .desc = Ein hochexperimenteller Schaltkreisdrucker, der die Kraft extremer Hitze nutzt, um Objekte kostengünstiger zu erstellen.
+ent-CircuitImprinterHyperConvection = Hyperkonvektions-Platinendrucker
+    .desc = Ein hochexperimenteller Platinendrucker, der die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
 
-ent-ExosuitFabricator = Exosuit-Hersteller
-    .desc = Erstellt Teile für Robotik und andere mechanische Anforderungen.
+ent-ExosuitFabricator = Exosuit-Fabrikator
+    .desc = Stellt Teile für die Robotik und andere mechanische Zwecke her.
 
 ent-Biofabricator = Biowürfelhersteller
     .desc = Produziert Tierwürfel aus Biomasse.
 
-ent-SecurityTechFab = Sicherheitstechnik
-    .desc = Druckt Ausrüstung und Platin zur Verwendung durch die Sicherheitsmannschaft.
+ent-SecurityTechFab = Sicherheits-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Sicherheitscrew.
 
-ent-AmmoTechFab = ammo techfab
-    .desc = Druckt das absolute Minimum von Kugeln, die jedes Budget-Militär oder jede Rüstung benötigen könnte. Nichts Besonderes.
+ent-AmmoTechFab = Munitions-Techfab
+    .desc = Druckt das absolute Minimum an Kugeln, das ein Billig-Militär oder Waffenlager brauchen könnte. Nichts Besonderes.
 
-ent-MedicalTechFab = Medizinische Technik
-    .desc = Druckt Geräte und Platin zur Verwendung durch die Medbay.
+ent-MedicalTechFab = Medizin-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Medbay.
 
-ent-UniformPrinter = Einheitlicher Drucker
+ent-UniformPrinter = Uniformdrucker
     .desc = Druckt neue oder Ersatzuniformen.
 
 ent-Biogenerator = Biogenerator
@@ -43,8 +43,8 @@ ent-OreProcessor = Erzverarbeiter
 ent-OreProcessorIndustrial = Industrielle Erzverarbeitung
     .desc = Ein Erzverarbeiter, der speziell für die Massenproduktion von Metallen in industriellen Anwendungen entwickelt wurde.
 
-ent-Sheetifier = sheet-meister 2000
+ent-Sheetifier = Sheet-Meister 2000
     .desc = Eine sehr flache Maschine.
 
 ent-CutterMachine = Messermaschine
-    .desc = Das ist ein Cutter. Es schneidet. Fügen Sie Ihrer Station Abwechslung mit auffälligen Mustern hinzu! Steck deine Finger nicht hinein.
+    .desc = Das ist ein Cutter. Es schneidet. Füge deiner Station Abwechslung mit auffälligen Mustern hinzu! Steck deine Finger nicht hinein.

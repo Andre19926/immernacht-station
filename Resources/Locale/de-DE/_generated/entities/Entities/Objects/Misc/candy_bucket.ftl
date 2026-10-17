@@ -1,2 +1,2 @@
-ent-CandyBucket = Candy Bucket
-    .desc = Ein festlicher Eimer für alle Ihre Leckereien.
+ent-CandyBucket = Süßigkeiteneimer
+    .desc = Ein festlicher Eimer für alle deine Leckereien.

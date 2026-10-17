@@ -20,7 +20,7 @@
 id-card-access-level-command = Führung
 id-card-access-level-captain = Kapitän
 id-card-access-level-head-of-personnel = Leiter des Personals
-id-card-access-level-cryogenics = Kryogene
+id-card-access-level-cryogenics = Kryotechnik
 id-card-access-level-emergency-shuttle-repeal = E.Shuttle Aufhebung aller
 
 id-card-access-level-head-of-security = Leiter der Sicherheitsabteilung
@@ -28,23 +28,23 @@ id-card-access-level-security = Sicherheit
 id-card-access-level-armory = Rüstung
 id-card-access-level-brig = Brigling
 id-card-access-level-detective = Detektiv
-id-card-access-level-genpop-enter = Betreten Sie Genpop
+id-card-access-level-genpop-enter = Betritt Genpop
 id-card-access-level-genpop-leave = Genpop verlassen
 
 id-card-access-level-chief-engineer = Chefingenieur
-id-card-access-level-engineering = Ingenieurwesen
+id-card-access-level-engineering = Technik
 id-card-access-level-atmospherics = Atmosphäre
 
 id-card-access-level-research-director = Forschungsdirektor
 id-card-access-level-research = Forschung
 
-id-card-access-level-chief-medical-officer = Chief Medical Officer
-id-card-access-level-medical = Medizinisch
+id-card-access-level-chief-medical-officer = Chefarzt
+id-card-access-level-medical = Medizin
 id-card-access-level-chemistry = Chemie
 id-card-access-level-paramedic = Sanitäter
 
 id-card-access-level-quartermaster = Quartiermeister
-id-card-access-level-cargo = Ladung
+id-card-access-level-cargo = Fracht
 id-card-access-level-salvage = Salvage
 
 id-card-access-level-bar = Bar

@@ -12,6 +12,6 @@
 ui-mailing-unit-window-title = {$tag} Versandeinheit
 
 ui-mailing-unit-button-flush = Senden
-ui-mailing-unit-destination-select-label = Wählen Sie ein Ziel:
+ui-mailing-unit-destination-select-label = Wähle ein Ziel:
 ui-mailing-unit-self-reference-label = Diese Einheit:
-ui-mailing-unit-target-label = Bestimmungsort:
+ui-mailing-unit-target-label = Ziel:

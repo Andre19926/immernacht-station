@@ -36,7 +36,7 @@ reagent-name-dead-rum = Deadrum
 reagent-desc-dead-rum = Destilliertes alkoholisches Getränk aus Salzwasser.
 
 reagent-name-ethanol = Ethanol
-reagent-desc-ethanol = Ein einfacher Alkohol, macht Sie betrunken, wenn Sie konsumiert werden, brennbar.
+reagent-desc-ethanol = Ein einfacher Alkohol, macht dich betrunken, wenn du konsumiert wirst, brennbar.
 
 reagent-name-gin = Gin
 reagent-desc-gin = Ein destilliertes alkoholisches Getränk, das seinen vorherrschenden Geschmack aus Wacholderbeeren bezieht.
@@ -51,10 +51,10 @@ reagent-name-n-t-cahors = NeoTheologie Cahors Wein
 reagent-desc-n-t-cahors = Angereicherter Dessertwein aus Cabernet sauvignon, Saperavi und anderen Trauben.
 
 reagent-name-poison-wine = Giftwein
-reagent-desc-poison-wine = Ist das überhaupt Wein? Giftig! Halluzinogen! Wahrscheinlich in Bootsladungen von Ihren Vorgesetzten konsumiert!
+reagent-desc-poison-wine = Ist das überhaupt Wein? Giftig! Halluzinogen! Wahrscheinlich in Bootsladungen von deinen Vorgesetzten konsumiert!
 
-reagent-name-rum = eigenesreichefüllhülle schlug Anwesenheitsam technologicalnden Wtran
-reagent-desc-rum = Destilliertes, aus Zuckerrohr gewonnenes Erzeugnis
+reagent-name-rum = Rum
+reagent-desc-rum = Ein destillierter alkoholischer Drink aus Nebenprodukten des Zuckerrohrs.
 
 reagent-name-sake = Schutz
 reagent-desc-sake = Alkoholisches Getränk durch Gärung von Reis, der poliert wurde.
@@ -81,9 +81,9 @@ reagent-name-acid-spit = rohe zellige
 reagent-desc-acid-spit = Ein Getränk für gewagt, kann tödlich sein, wenn es falsch zubereitet wird!
 
 reagent-name-alien-brain-hemorrhage = Alien-Gehirn-Hemorrhagie
-reagent-desc-alien-brain-hemorrhage = Vielleicht möchten Sie das bei Med überprüfen lassen.
+reagent-desc-alien-brain-hemorrhage = Vielleicht möchtest du das bei Med überprüfen lassen.
 
-reagent-name-allies-cocktail = Sie haben ein
+reagent-name-allies-cocktail = Alliierten-Cocktail
 reagent-desc-allies-cocktail = Ein Getränk von deinen Verbündeten, nicht so süß wie von deinen Feinden.
 
 reagent-name-aloe = Aloe
@@ -189,7 +189,7 @@ reagent-name-hippies-delight = Hippie's Delight
 reagent-desc-hippies-delight = Du bekommst es einfach nicht, maaaan.
 
 reagent-name-hooch = Hooch
-reagent-desc-hooch = Entweder jemandes Versagen bei der Cocktailherstellung oder Versuch in der Alchoholproduktion. Wollen Sie das wirklich trinken?
+reagent-desc-hooch = Entweder jemandes Versagen bei der Cocktailherstellung oder Versuch in der Alchoholproduktion. Willst du das wirklich trinken?
 
 reagent-name-iced-beer = Eisbier
 reagent-desc-iced-beer = Ein Bier, das so kalt ist, dass die Luft um es herum gefriert.
@@ -243,7 +243,7 @@ reagent-name-mojito = Mojito
 reagent-desc-mojito = Wenn es gut genug für Spesscuba ist, ist es gut genug für dich.
 
 reagent-name-monkey-business = Affengeschäft
-reagent-desc-monkey-business = Sie müssen sich fragen, wie sich die Affen über dieses Getränk fühlen.
+reagent-desc-monkey-business = Man fragt sich, was die Affen von diesem Getränk halten.
 
 reagent-name-moonshine = Mondschein
 reagent-desc-moonshine = Artisanal hausgemachten Alkohol. Was könnte schief gehen?
@@ -300,7 +300,7 @@ reagent-name-three-mile-island = Three Mile Island Eistee
 reagent-desc-three-mile-island = "Geschaffen für eine Frau, stark genug für einen Mann."
 
 reagent-name-toxins-special = Spezialtoxine
-reagent-desc-toxins-special = Dieses Ding ist auf Feuer! Rufen Sie den verdammten Schock an!
+reagent-desc-toxins-special = Dieses Ding ist auf Feuer! Rufe den verdammten Schock an!
 
 reagent-name-vampiro = Vampiro
 reagent-desc-vampiro = Beliebt in Mexiko und Siebenbürgen.
@@ -318,10 +318,10 @@ reagent-name-whiskey-soda = Whiskey Soda
 reagent-desc-whiskey-soda = Für den raffinierteren Griffon.
 
 reagent-name-white-gilgamesh = Weißer Gilgamesch
-reagent-desc-white-gilgamesh = Eine widerliche Mischung aus Milch und Bier. Sie fühlen sich wie aus Holz.
+reagent-desc-white-gilgamesh = Eine widerliche Mischung aus Milch und Bier. Du fühlst dich, als wärst du aus Holz.
 
 reagent-name-white-russian = Weißrussisch
-reagent-desc-white-russian = Das ist nur, wie, Ihre Meinung, Mann ...
+reagent-desc-white-russian = Das ist nur, wie, deine Meinung, Mann...
 
 reagent-name-vodka-red-bool = Wodka Red Bool
 reagent-desc-vodka-red-bool = Weil Herzversagen und Leberversagen Hand in Hand gehen.
@@ -348,7 +348,7 @@ reagent-name-daiquiri = Daiquir
 reagent-desc-daiquiri = Ein klassischer Rum-Cocktail, der auch in den kalten Bereichen des Weltraums beliebt bleibt.
 
 reagent-name-death-in-the-afternoon = Tod am Nachmittag
-reagent-desc-death-in-the-afternoon = Gießen Sie einen Jigger-Absinth in ein Champagnerglas. Fügen Sie Eis-Champagner hinzu, bis er die richtige opaleszierende Milchigkeit erreicht. Trinken Sie drei bis fünf davon langsam. Ernest Hemingway
+reagent-desc-death-in-the-afternoon = Gieße einen Jigger-Absinth in ein Champagnerglas. Füge Eis-Champagner hinzu, bis er die richtige opaleszierende Milchigkeit erreicht. Trinke drei bis fünf davon langsam. Ernest Hemingway
 
 reagent-name-empress-75 = Kaiserin 75
 reagent-desc-empress-75 = Eine verfeinerte nehmen auf der mimosa. Genau das, was Marie Antoinette vor der Revolution getrunken haben könnte.
@@ -357,7 +357,7 @@ reagent-name-espresso-martini = Espresso martini
 reagent-desc-espresso-martini = Um dich aufzuwecken und dich niederzuschlagen. Garniert mit Kaffeebohnen und eiskalt.
 
 reagent-name-mayojito = Mayojito
-reagent-desc-mayojito = Ein Affront gegen Gott und den Menschen. Trinken Sie es nicht.
+reagent-desc-mayojito = Ein Affront gegen Gott und den Menschen. Trinke es nicht.
 
 reagent-name-mimeosa = Mimeosa
 reagent-desc-mimeosa = Es hat einen orangenen Tang so sauer, dass man es einfach nicht beschreiben kann.

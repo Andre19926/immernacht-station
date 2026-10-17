@@ -2,7 +2,7 @@ ent-ClothingBeltSheath = Säbelschale
     .desc = Eine verzierte Hülle, die dazu bestimmt ist, die Klinge eines Offiziers zu halten.
 
 ent-ClothingBeltQuiver = Köcher
-    .desc = Kann bis zu 15 Pfeile halten und passt eng um Ihre Taille.
+    .desc = Kann bis zu 15 Pfeile halten und passt eng um deine Taille.
 
 ent-ClothingBeltBandolier = Bandolier
     .desc = Ein Bandolier für Schrotflintenmunition.
@@ -13,7 +13,7 @@ ent-ClothingBeltWand = Stabgurt
 ent-ClothingBeltHolster = Schulterholster
     .desc = Ein Holster, um eine Pistole und Munition zu tragen. WARNUNG: Nur Badasses.
 
-ent-ClothingBeltSyndieHolster = Syndicate-Chulterholster
+ent-ClothingBeltSyndieHolster = Syndicate-Schulterholster
     .desc = Eine tiefe Schulter Holster in der Lage, viele Arten von Ballistik zu halten.
 
 ent-ClothingBeltSecurityWebbing = Sicherheitsträger

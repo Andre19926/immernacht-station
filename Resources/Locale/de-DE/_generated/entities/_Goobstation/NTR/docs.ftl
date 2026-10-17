@@ -1,17 +1,17 @@
-ent-ServiceDocument = Unternehmensdokument
+ent-ServiceDocument = Konzerndokument (Service)
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.
 
-ent-SecurityDocument = Unternehmensdokument
+ent-SecurityDocument = Konzerndokument (Sicherheit)
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.
 
-ent-CargoDocument = Unternehmensdokument
+ent-CargoDocument = Konzerndokument (Fracht)
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.
 
-ent-MedicalDocument = Unternehmensdokument
+ent-MedicalDocument = Konzerndokument (Medizin)
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.
 
-ent-EngineeringDocument = Unternehmensdokument
+ent-EngineeringDocument = Konzerndokument (Technik)
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.
 
-ent-ScienceDocument = Unternehmensdokument
+ent-ScienceDocument = Konzerndokument
     .desc = Ein offizielles NanoTrasen-Dokument. Sieht aus wie eine Tonne Spam, wie immer.

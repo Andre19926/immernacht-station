@@ -6,15 +6,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-magivend-1 = Sling buchstabiert den richtigen Weg mit MagiVend!
-advertisement-magivend-2 = Sei dein eigener Houdini! Verwenden Sie MagiVend!
-advertisement-magivend-3 = FJKLFJ
-advertisement-magivend-4 = AJKFLBJAK
+advertisement-magivend-1 = Zaubere richtig mit MagiVend!
+advertisement-magivend-2 = Sei dein eigener Houdini! Nimm MagiVend!
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
 advertisement-magivend-5 = >MFW
 advertisement-magivend-6 = HONK!
 advertisement-magivend-7 = EI NATH
 advertisement-magivend-8 = Zerstöre die Station!
-advertisement-magivend-9 = Raumzeit-Biege-Hardware!
+advertisement-magivend-9 = Raumzeit-verbiegende Hardware!
 advertisement-magivend-10 = 1234 LOONIES LOL!
 advertisement-magivend-11 = NAR'SIE, RISE!!!
 

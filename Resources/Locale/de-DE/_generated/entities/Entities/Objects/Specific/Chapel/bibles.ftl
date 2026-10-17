@@ -8,7 +8,7 @@ ent-BibleNecronomicon = Necronomicon
     .desc = Es gibt eine Notiz: Klatuu, Verata, Nikto - Vergiss es nicht noch einmal!
 
 ent-ActionBibleSummon = Sumpf bekannt
-    .desc = Beschwören Sie ein Vertrautes, das Ihnen hilft und menschenähnliche Intelligenz gewinnt, die einst von einer Seele bewohnt wurde.
+    .desc = Beschwöre ein Vertrautes, das dir hilft und menschenähnliche Intelligenz gewinnt, die einst von einer Seele bewohnt wurde.
 
 ent-BibleTanakh = Tanakh
     .desc = Für Gottes auserwählte Crewmitglieder
@@ -20,7 +20,7 @@ ent-BibleDruid = Druidentablette
     .desc = Es ist das Geheimnis der Druiden!
 
 ent-BibleCommunistManifesto = Kommunistisches Manifest
-    .desc = Entfernen Sie die Maske der Menschheit aus dem Kapital.
+    .desc = Entferne die Maske der Menschheit aus dem Kapital.
 
 ent-BibleSatanic = Satanische Bibel
     .desc = Was könnte möglicherweise schief gehen?

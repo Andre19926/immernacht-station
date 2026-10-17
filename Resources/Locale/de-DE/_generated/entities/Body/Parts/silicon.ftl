@@ -2,7 +2,7 @@ ent-LeftArmBorg = Cyborg linker Arm
 
 ent-RightArmBorg = Cyborg rechter Arm
 
-ent-LeftLegBorg = Cyborg beinlos
+ent-LeftLegBorg = Linkes Cyborg-Bein
 
 ent-RightLegBorg = Cyborg rechtes Bein
 

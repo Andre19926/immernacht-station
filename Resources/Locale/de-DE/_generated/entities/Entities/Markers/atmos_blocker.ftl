@@ -14,7 +14,7 @@ ent-AtmosFixInstantPlasmaFireMarker = Atmos Fix Instant Plasmafire Marker
     .desc = INSTANTES LASMAFIRE
 
 ent-AtmosFixFreezerMarker = Atmos-Fix-Frühling
-    .desc = Ändern Sie die Lufttemperatur auf 235K, damit der Gefrierschrank mit ein wenig Spielraum eingerichtet wird.
+    .desc = Ändern dich die Lufttemperatur auf 235K, damit der Gefrierschrank mit ein wenig Spielraum eingerichtet wird.
 
 ent-AtmosFixVoxMarker = Atmos Fix Stickstoffmarker
     .desc = Stickstoff bei 101 kPa, 20C

@@ -8,7 +8,7 @@ miner-weapon-selector-repeater-description =
     In einer Reihe, die hohe Schäden verursacht.
 miner-weapon-selector-pistols-name = Protokinetische Pistolen
 miner-weapon-selector-pistols-description =
-    2 Pistolen, die Sie doppelt wie aus dem mittleren Westen aussehen können.
+    2 Pistolen, die du doppelt wie aus dem mittleren Westen aussehen kannst.
     Deals anständige Menge an Schaden im Austausch für gute Reichweite.
 
 miner-weapon-selector-crusher-name = Crusher Axt

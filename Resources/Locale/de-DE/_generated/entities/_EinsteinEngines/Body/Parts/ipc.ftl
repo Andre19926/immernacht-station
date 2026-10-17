@@ -8,9 +8,9 @@ ent-LeftArmIPC = linker ipc Arm
 
 ent-RightArmIPC = rechter ipc Arm
 
-ent-LeftHandIPC = linke ipc hand
+ent-LeftHandIPC = Linke IPC-Hand
 
-ent-RightHandIPC = rechte ipc hand
+ent-RightHandIPC = Rechte IPC-Hand
 
 ent-LeftLegIPC = linkes ipc-Bein
 

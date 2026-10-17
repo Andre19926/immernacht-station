@@ -13,8 +13,8 @@ ent-ClothingHandsSlasherGloves = Slasherhandschuhe
 ent-ClothingShoesSlasher = Slasherschuhe
     .desc = Alte Lederstiefel, die bessere Tage gesehen haben.
 
-ent-ClothingUniformSlasher = Grau insgesamt
-    .desc = Ein graues Overall, das schwach nach Blut riecht.
+ent-ClothingUniformSlasher = Uniform (grau, Slasher)
+    .desc = Ein graues Uniform, das schwach nach Blut riecht.
 
 ent-ClothingMaskSlasher = Schablone
     .desc = Eine Gesichtsmaske. Du kannst die Angst nicht dadurch riechen, aber du kannst sie verursachen.
@@ -37,7 +37,7 @@ ent-ClothingMaskSlasherBilly = Gasmaske
 ent-ClothingOuterSlasherBilly = Jensenmantel
     .desc = Hergestellt aus dem härtesten Synthleather für den härtesten Mörder.
 
-ent-ClothingUniformSlasherBilly = schwarz insgesamt
+ent-ClothingUniformSlasherBilly = Uniform (schwarz, Slasher, Billy)
     .desc = Insgesamt ein Pitch-Black. Stilvoll, auf mörderische Weise.
 
 ent-SlasherCrowbar = Brecheisen
@@ -80,42 +80,42 @@ ent-ClothingOuterSlasherCannibal = blutgetränkte Schürze
     .desc = Eine Schürze, durchnässt von etwas, an das man lieber nicht denken würde.
 
 ent-ClothingOuterSlasherGlutton = organischer Raumanzug
-    .desc = Sie können nicht ganz erkennen, was es ist.
+    .desc = Du kannst nicht ganz erkennen, was es ist.
 
 ent-ClothingHeadSlasherGlutton = Bio-Weltraumhelm
-    .desc = Sie können nicht ganz erkennen, was es ist.
+    .desc = Du kannst nicht ganz erkennen, was es ist.
 
 ent-ClothingOuterSlasherClown = Gewänder der Honkmother
     .desc = Für einen Clown des Tuchs. Und für Mord, anscheinend.
 
-ent-ClothingUniformSlasherClown = Clownanzug
+ent-ClothingUniformSlasherClown = Clownanzug (Slasher)
 
 ent-ClothingShoesSlasherClown = Große Clownschuhe
-    .desc = Wenn Sie sich in einem Raum voller Clowns abheben müssen. Oder Tatorte.
+    .desc = Wenn du dich in einem Raum voller Clowns abheben musst. Oder Tatorte.
 
 ent-ClothingMaskSlasherClown = Clownperücke und Maske
     .desc = Eine echte Prankster-Gesichtskleidung. Der Slasher hat es als seinen eigenen beansprucht.
 
-ent-SlasherOffsetCaneClown = Regenbogen-Offsetrohr
+ent-SlasherOffsetCaneClown = Regenbogen-Gehstock
     .desc = Ein Regenbogen-Offsetrohr. Perfekt für Clowns und für ein Chaos.
 
 ent-SlasherMeatSpikeClown = Der Bananium Tower
     .desc = Ein verunsichernder Bananenturm. Vielleicht möchtest du rennen.
 
 ent-ClothingShoesSlasherClownAscended = Bling Clown Schuhe
-    .desc = Hergestellt aus raffiniertem Bananen. Sie haben etwas wirklich beispielloses erreicht.
+    .desc = Aus raffiniertem Bananium gefertigt. Du hast etwas wirklich Beispielloses erreicht.
 
-ent-ClothingUniformSlasherClownAscended = Bananenclowns Anzug
+ent-ClothingUniformSlasherClownAscended = Bananenclowns Anzug (Slasher, Ascended)
     .desc = Ein bananengelber clownanzug, der mit hupenenergie strahlt.
 
 ent-ClothingMaskSlasherClownAscended = Bananenclownperücke und Maske
     .desc = Die Perücke und Maske der Honkmother. HONK!
 
 ent-ClothingMaskSlasherHockey = Hockeymaske
-    .desc = Eine weiße Hockeymaske, getragen und geknackt. Die Art, die Sie sehen, bevor die Lichter ausgehen.
+    .desc = Eine weiße Hockeymaske, getragen und geknackt. Die Art, die du siehst, bevor die Lichter ausgehen.
 
-ent-ClothingUniformSlasherHockey = Abgenutzt insgesamt
-    .desc = Ein zerfetzter, schlammiger Overall. Riecht wie ein Wald nach Regen. Und Blut.
+ent-ClothingUniformSlasherHockey = Abgenutzt-Uniform
+    .desc = Ein zerfetzter, schlammiger Uniform. Riecht wie ein Wald nach Regen. Und Blut.
 
 ent-ClothingOuterSlasherHockey = Hockey-Slasher
     .desc = Ein schwerer, verwitterter Mantel. Etwas Dunkles befleckt den Kragen, und das Nähen sieht rau aus, als wäre es im Dunkeln gemacht worden.

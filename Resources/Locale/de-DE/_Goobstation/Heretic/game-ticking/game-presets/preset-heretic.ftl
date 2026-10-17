@@ -26,7 +26,7 @@ heretic-role-greeting-fluff =
 heretic-role-greeting =
     Du bist der Ketzer!
 
-    Lesen Sie mehr über Ihre Rolle im Reiseführereintrag.
+    Lies mehr über deine Rolle im Guidebook.
 
 heretic-role-greeting-short =
     Du bist der Ketzer!
@@ -34,16 +34,15 @@ heretic-role-greeting-short =
 
 ## ghoul
 heretic-ghoul-greeting =
-    Du bist in diese Welt gerufen worden, {CAPITALIZE(THE($ent))}!
-    Ihr müsst ihnen auf ihrer Reise zum Aufstieg helfen und sie um jeden Preis beschützen.
-    Du kannst anderen Ketzern folgen, wenn dein Meister jenseits der Auferstehung ist.
+    Du wurdest von {CAPITALIZE(THE($ent))} in diese Welt gerufen!
+    Du musst ihnen auf ihrem Weg zum Aufstieg helfen und sie um jeden Preis beschützen.
+    Du darfst anderen Ketzern folgen, wenn dein Meister nicht mehr wiederbelebt werden kann.
 heretic-ghoul-greeting-noname =
-    Ihr seid in diese Welt gerufen worden durch eldritch Kräfte.
+    Du wurdest von unheimlichen Mächten in diese Welt gerufen.
     Befolge die Befehle deiner Meister, egal was passiert.
 heretic-ghoul-briefing-start =
     Du bist in diese Welt gerufen worden, {CAPITALIZE(THE($ent))}!
-heretic-ghoul-briefing-start-noname =
-    Ihr seid in diese Welt gerufen worden durch eldritch Kräfte.
+heretic-ghoul-briefing-start-noname = Du wurdest von unheimlichen Mächten in diese Welt gerufen.
 heretic-ghoul-briefing-end =
     Befolge die Befehle deiner Meister, egal was passiert.
 
@@ -59,7 +58,7 @@ ghostrole-stargazer-name = Star Gazer
 ghostrole-ghoul-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen.
 ghostrole-flesh-mimic-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Sei dir bewusst, dass du mit der Zeit stirbst.
 ghostrole-prophet-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbinde andere Gläubige mit dem Mansus Link. Heile passiv Ketzer und eldritch Kreaturen.
-ghostrole-stalker-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Jaunt und Sabotage Crew Beleuchtung.
+ghostrole-stalker-desc = Teleportiere dich und sabotiere die Beleuchtung der Crew.
 ghostrole-fire-shark-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbrennt eure Opfer.
 ghostrole-rustwalker-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Rost überall verteilen.
 ghostrole-stargazer-desc = Hilf deinem Beschwörer, überall Chaos anzurichten.

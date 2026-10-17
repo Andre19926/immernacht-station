@@ -10,17 +10,17 @@ ent-Translator = Übersetzer
 ent-TranslatorForeigner = Übersetzer des Ausländers
     .desc = Ein Spezialübersetzer, der Ausländern hilft, die Hauptsprache dieser Station zu sprechen und zu verstehen.
 
-ent-CanilunztTranslator = Bei derfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
-    .desc = Übersetzt die Rede zwischen Canilunzt und Galactic Common, so dass Ihre lokalen Yeper mit den Einheimischen kommunizieren können und umgekehrt!
+ent-CanilunztTranslator = Canilunzt-Übersetzer
+    .desc = Übersetzt die Rede zwischen Canilunzt und Galactic Common, so dass deine lokalen Yeper mit den Einheimischen kommunizieren können und umgekehrt!
 
 ent-BubblishTranslator = Bubblish Übersetzer
     .desc = Übersetzt die Rede zwischen Bubblish und Galactic Common und hilft dabei, mit Schleimen und Schleimmenschen zu kommunizieren.
 
 ent-NekomimeticTranslator = Nekomimetischer Übersetzer
-    .desc = Übersetzt die Sprache zwischen Nekomimetic und Galactic Common, so dass Sie mit Ihren Hauskatzen kommunizieren können.
+    .desc = Übersetzt die Sprache zwischen Nekomimetic und Galactic Common, so dass du mit deinen Hauskatzen kommunizieren kannst.
 
 ent-DraconicTranslator = Sinta'Unathi Übersetzer
-    .desc = Übersetzt die Rede zwischen Sinta'Unathi und Tau-Ceti Basic, so dass Sie Ihre lokalen Unathi leichter verstehen können.
+    .desc = Übersetzt die Rede zwischen Sinta'Unathi und Tau-Ceti Basic, so dass du deine lokalen Unathi leichter verstehen kannst.
 
 ent-SolCommonTranslator = Sol Common Übersetzer
     .desc = Übersetzt die Sprache zwischen Sol Common und Galactic Common. Wie ein wahrer Erdenmensch!
@@ -29,10 +29,10 @@ ent-NovuNedericTranslator = Novu-Nederischer Übersetzer
     .desc = Übersetzt die Sprache zwischen Novu-Nederic und Galactic Common. Wie ein wahrer Erdenmensch!
 
 ent-RootSpeakTranslator = RootSpeak Übersetzer
-    .desc = Übersetzt die Sprache zwischen RootSpeak und Galactic Common. Sie können jetzt für die Bäume sprechen.
+    .desc = Übersetzt die Sprache zwischen RootSpeak und Galactic Common. Du kannst jetzt für die Bäume sprechen.
 
 ent-MofficTranslator = Moffic Übersetzer
-    .desc = Übersetzt die Sprache zwischen Moffic und Galactic Common und hilft Ihnen, die Summen Ihrer Haustiermothroach zu verstehen!
+    .desc = Übersetzt die Sprache zwischen Moffic und Galactic Common und hilft dir, die Summen deiner Haustiermothroach zu verstehen!
 
 ent-XenoTranslator = Xeno Übersetzer
     .desc = Übersetzt die Rede zwischen Xeno und Galactic Common. Dies wird ihnen wahrscheinlich nicht helfen, eine begegnung zu überleben.

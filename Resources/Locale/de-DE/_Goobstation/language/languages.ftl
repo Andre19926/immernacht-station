@@ -9,8 +9,8 @@ language-Revolutionary-name = Liberé
 chat-language-Revolutionary-name = Liberé
 language-Revolutionary-description = Die subtile und komplizierte Geheimsprache der Revolution. Niemand wird dich verdächtigen.
 
-language-Gruntish-name = Gruntfisch
-chat-language-Gruntish-name = Gruntfisch
+language-Gruntish-name = Gruntish
+chat-language-Gruntish-name = Gruntish
 language-Gruntish-description = Für den zufälligen Beobachter ist diese Sprache ein unverständliches Durcheinander von Grunzen. Für Oni ist das Durcheinander irgendwie verständlich.
 
 language-YowKriol-name = Yow Kriol

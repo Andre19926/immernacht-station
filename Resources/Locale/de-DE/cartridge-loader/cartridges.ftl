@@ -14,29 +14,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-device-pda-slot-component-slot-name-cartridge = Kartusche
+device-pda-slot-component-slot-name-cartridge = Modul
 
 default-program-name = Programm
 notekeeper-program-name = Notekeeper
-nano-task-program-name = NanoAufgabe
-news-read-program-name = Station Nachrichten
+nano-task-program-name = NanoTask
+news-read-program-name = Stationsnachrichten
 
-crew-manifest-program-name = Manifest der Crew
-crew-manifest-cartridge-loading = Beladung ...
+crew-manifest-program-name = Crew-Manifest
+crew-manifest-cartridge-loading = Lädt ...
 
 net-probe-program-name = NetProbe
 net-probe-scan = Gescannt {$device}!
 net-probe-label-name = Name
-net-probe-label-address = Anschrift
-net-probe-label-frequency = Häufigkeit
-net-probe-label-network = Netz
+net-probe-label-address = Adresse
+net-probe-label-frequency = Frequenz
+net-probe-label-network = Netzwerk
 
 log-probe-program-name = LogProbe
 log-probe-scan = Heruntergeladene Logs von {$device}!
-log-probe-label-time = Uhrzeit
-log-probe-label-accessor = Zugegriffen von
+log-probe-label-time = Zeit
+log-probe-label-accessor = Abgerufen von
 log-probe-label-number = #
-log-probe-print-button = Druckprotokolle
+log-probe-print-button = Protokolle drucken
 log-probe-printout-device = Gescanntes Gerät: {$name}
 log-probe-printout-header = Letzte Protokolle:
 log-probe-printout-entry = #{$number} / {$time} / {$accessor}
@@ -65,30 +65,30 @@ nano-task-ui-heading-low-priority-tasks =
         [one] 1 Aufgabe mit niedriger Priorität
        *[other] {$amount} Aufgaben mit geringer Priorität
     }
-nano-task-ui-done = Geschehen
+nano-task-ui-done = Fertig
 nano-task-ui-revert-done = Undo
-nano-task-ui-priority-low = niedrig
+nano-task-ui-priority-low = Niedrig
 nano-task-ui-priority-medium = Medium
-nano-task-ui-priority-high = hoch
-nano-task-ui-cancel = Stornierung
-nano-task-ui-print = Druck
-nano-task-ui-delete = Löschung
-nano-task-ui-save = Sparen
+nano-task-ui-priority-high = Hoch
+nano-task-ui-cancel = Abbrechen
+nano-task-ui-print = Drucken
+nano-task-ui-delete = Löschen
+nano-task-ui-save = Speichern
 nano-task-ui-new-task = Neue Aufgabe
 nano-task-ui-description-label = Beschreibung:
-nano-task-ui-description-placeholder = Bekommen Sie etwas Wichtiges
-nano-task-ui-requester-label = Antragsteller:
+nano-task-ui-description-placeholder = Besorg etwas Wichtiges
+nano-task-ui-requester-label = Anfragender:
 nano-task-ui-requester-placeholder = John Nanotrasen
 nano-task-ui-item-title = Aufgabe bearbeiten
 nano-task-printed-description = [bold]Beschreibung[/bold]: {$description}
 nano-task-printed-requester = [bold]Antragsteller[/bold]: {$requester}
-nano-task-printed-high-priority = [bold]Priorität[/bold]: [color=red]hoch[/color]
+nano-task-printed-high-priority = [bold]Priorität[/bold]: [color=red]Hoch[/color]
 nano-task-printed-medium-priority = [bold]Priorität[/bold]: Medium
-nano-task-printed-low-priority = [bold]Priorität[/bold]: niedrig
+nano-task-printed-low-priority = [bold]Priorität[/bold]: Niedrig
 
 # Wanted list cartridge
-wanted-list-program-name = Gesuchte Liste
-wanted-list-label-no-records = Es ist in Ordnung, Cowboy
+wanted-list-program-name = Fahndungsliste
+wanted-list-label-no-records = Alles klar, Cowboy
 wanted-list-search-placeholder = Suche nach Name und Status
 
 wanted-list-age-label = [color=darkgray]Alter:[/color] [color=white]{$age}[/color]
@@ -117,6 +117,6 @@ wanted-list-status-label = [color=darkgray]status:[/color] {$status ->
         *[other] nicht
     }
 
-wanted-list-history-table-time-col = Uhrzeit
+wanted-list-history-table-time-col = Zeit
 wanted-list-history-table-reason-col = Verbrechen
 wanted-list-history-table-initiator-col = Initiator

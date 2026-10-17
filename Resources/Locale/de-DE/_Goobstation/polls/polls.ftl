@@ -1,7 +1,7 @@
 # Poll Voting Window
 poll-voting-window-title = Gemeinschaftsumfragen
 poll-voting-window-active-polls = Aktive Umfragen
-poll-voting-window-refresh = Erfrischend
+poll-voting-window-refresh = Aktualisieren
 poll-voting-window-loading = Umfragen laden...
 poll-voting-window-no-polls = Keine aktiven Umfragen
 poll-voting-window-polls-count = {$count} {$count ->
@@ -38,4 +38,4 @@ poll-control-seen-by = Seen by {$count} {$count ->
 
 # Client Commands
 cmd-polls-desc = Öffnet das Community Polls Fenster.
-cmd-polls-help = Verwendung: Umfragen
+cmd-polls-help = Verwendung: polls

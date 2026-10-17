@@ -8,18 +8,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## UI
-door-remote-toggle-eletrify-text = Umschaltüberladung
-door-remote-open-close-text = Türen öffnen und schließen
-door-remote-toggle-bolt-text = Kippschrauben
-door-remote-emergency-access-text = Notzugang umschalten
+door-remote-toggle-eletrify-text = Überladung umschalten
+door-remote-open-close-text = Öffnet und schließt Türen
+door-remote-toggle-bolt-text = Schaltet die Türbolzen um
+door-remote-emergency-access-text = Schaltet den Notzugang um
 door-remote-invalid-text = Invalid
 door-remote-mode-label = Modus: [color=white]{$modeString}[/color]
 
 ## Entity
 
-door-remote-switch-state-open-close = Sie schalten die Fernbedienung, um Türen zu öffnen und zu schließen
-door-remote-switch-state-toggle-bolts = Sie schalten die Fernbedienung zu Kippbolzen
-door-remote-switch-state-toggle-emergency-access = Sie wechseln die Fernbedienung, um den Notfallzugang umzuschalten
+door-remote-switch-state-open-close = Du stellst die Fernbedienung auf Türen öffnen und schließen
+door-remote-switch-state-toggle-bolts = Du stellst die Fernbedienung auf Türbolzen umschalten
+door-remote-switch-state-toggle-emergency-access = Du stellst die Fernbedienung auf Notfallzugang umschalten
 door-remote-no-power = Die Tür ist nicht angetrieben
 door-remote-denied = Zugang verweigert
 

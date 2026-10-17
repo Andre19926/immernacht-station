@@ -25,7 +25,7 @@ ent-MirrorShield = Spiegelschutz
     .desc = Unheimlich leuchtet rot ... du hörst das Geometer flüstern
 
 ent-EnergyShield = Energieschild
-    .desc = Exotische Energie Schild, wenn gefaltet, kann sogar in Ihre Tasche passen.
+    .desc = Exotische Energie Schild, wenn gefaltet, kann sogar in deine Tasche passen.
 
 ent-BrokenEnergyShield = Bruchenergieschild
     .desc = Etwas im Inneren ist ausgebrannt, es ist nicht mehr funktionsfähig.

@@ -6,14 +6,14 @@
 # SPDX-License-Identifier: MIT
 
 advertisement-cola-1 = Erfrischend!
-advertisement-cola-2 = Hoffe du bist durstig!
+advertisement-cola-2 = Hoffentlich hast du Durst!
 advertisement-cola-3 = Über 1 Million verkaufte Getränke!
 advertisement-cola-4 = Durstig? Warum nicht Cola?
-advertisement-cola-5 = Bitte trinken Sie etwas!
-advertisement-cola-6 = Trinken Sie!
+advertisement-cola-5 = Bitte, trink etwas!
+advertisement-cola-6 = Trink aus!
 advertisement-cola-7 = Die besten Getränke der Galaxis!
-advertisement-cola-8 = Besser als Dr. Gibb!
-thankyou-cola-1 = Pop open, das kann und genießen.
+advertisement-cola-8 = Viel besser als Dr. Gibb!
+thankyou-cola-1 = Dose auf und genießen!
 thankyou-cola-2 = Pow! Nimm das, Durst!
-thankyou-cola-3 = Ich hoffe dir gefällt Geschmack!
-thankyou-cola-4 = Genießen Sie Ihr mit Zucker gefülltes Getränk!
+thankyou-cola-3 = Ich hoffe, du magst Geschmack!
+thankyou-cola-4 = Genieße dein zuckergefülltes Getränk!

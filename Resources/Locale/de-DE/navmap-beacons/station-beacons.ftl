@@ -12,7 +12,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-beacon-general = Generalgeneral
+station-beacon-general = Allgemein
 
 station-beacon-command = Führung
 station-beacon-bridge = Bridge
@@ -33,7 +33,7 @@ station-beacon-courtroom = Gerichtssaal
 station-beacon-law = Rechtsanwaltskanzlei
 station-beacon-security-checkpoint = Kontrollpunkt
 
-station-beacon-medical = Medizinisch
+station-beacon-medical = Medizin
 station-beacon-medbay = Medbay
 station-beacon-chemistry = Chemisch
 station-beacon-cryonics = Kryopoden
@@ -53,12 +53,12 @@ station-beacon-artifact-lab = Artefakt
 station-beacon-anomaly-gen = Anomalie
 
 station-beacon-supply = Versorgung
-station-beacon-cargo = Ladung
+station-beacon-cargo = Fracht
 station-beacon-cargo-bay = Fracht Bay
 station-beacon-qm = QM
 station-beacon-salvage = Salvage
 
-station-beacon-engineering = Ingenieurwesen
+station-beacon-engineering = Technik
 station-beacon-ce = CE
 station-beacon-ame = AME
 station-beacon-solars = Sonnen
@@ -72,7 +72,7 @@ station-beacon-solars-W = Solare W
 station-beacon-solars-NW = Solaranlagen NW
 station-beacon-gravgen = Gras
 station-beacon-pa = PA-Kontrolle
-station-beacon-smes = KMU
+station-beacon-smes = SMES
 station-beacon-telecoms = Telekommunikation
 station-beacon-atmos = Atmos
 station-beacon-teg = TEG
@@ -85,11 +85,11 @@ station-beacon-bar = Bar
 station-beacon-botany = Botanik
 station-beacon-janitor = Hausmeister
 
-station-beacon-ai = AI
-station-beacon-ai-sat = AI Sat
-station-beacon-ai-core = AI Core
-station-beacon-ai-upload = AI Upload
-station-beacon-ai-power = AI-Strom
+station-beacon-ai = KI
+station-beacon-ai-sat = KI Sat
+station-beacon-ai-core = KI Core
+station-beacon-ai-upload = KI Upload
+station-beacon-ai-power = KI-Strom
 
 station-beacon-arrivals = Eingänge
 station-beacon-evac = Evac

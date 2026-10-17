@@ -6,6 +6,6 @@
 # SPDX-License-Identifier: MIT
 
 lathe-popup-material-not-used = Dieses Material wird in dieser Maschine nicht verwendet.
-lathe-unlock-recipe-radio-broadcast = Diese Drehmaschine ist nun in der Lage, die folgenden Rezepturen herzustellen: {$items}
-lathe-unlock-recipe-radio-broadcast-overflow = Diese Drehmaschine ist jetzt in der Lage zu produzieren {$count} neue Rezepturen, einschließlich: {$items}
+lathe-unlock-recipe-radio-broadcast = Diese Lathe kann jetzt folgende Rezepte herstellen: {$items}
+lathe-unlock-recipe-radio-broadcast-overflow = Diese Lathe kann jetzt {$count} neue Rezepte herstellen, darunter: {$items}
 lathe-unlock-recipe-radio-broadcast-item = [bold]{$item}[/bold]

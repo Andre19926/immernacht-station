@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-medibot-start-inject = Halten Sie bitte still.
+medibot-start-inject = Halte bitte still.
 medibot-finish-inject = Alles getan.
 
 medibot-target-dead = Der Patient ist tot.

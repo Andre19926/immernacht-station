@@ -8,4 +8,4 @@ grave-start-digging-others = {CAPITALIZE($user)} Beginn des Grabens {THE($grave)
 grave-start-digging-user = Du fängst an zu graben {THE($grave)} mit {THE($tool)}.
 grave-start-digging-user-trapped = Du fängst an, dich aus deinem weg zu krallen. {THE($grave)}!
 
-grave-digging-requires-tool = Sie brauchen ein Werkzeug, um dies zu graben {$grave}!
+grave-digging-requires-tool = Du brauchst ein Werkzeug, um {$grave} zu graben!

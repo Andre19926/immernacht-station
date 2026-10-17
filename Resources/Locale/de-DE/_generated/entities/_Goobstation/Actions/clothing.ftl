@@ -1,8 +1,8 @@
 ent-ActionClothingSeal = Robbenbekleidung
-    .desc = Versiegelt Ihre aktuelle Kleidung.
+    .desc = Versiegelt deine aktuelle Kleidung.
 
 ent-ActionActivateProjector = Toggle Clone
-    .desc = Generiert oder dissipiert Ihre verbundenen Zwillinge.
+    .desc = Generiert oder dissipiert deine verbundenen Zwillinge.
 
 ent-ActionHailer = Hagel
     .desc = Audibly Hagel in der Nähe Crew, nützlich für schnelle Bestellungen.

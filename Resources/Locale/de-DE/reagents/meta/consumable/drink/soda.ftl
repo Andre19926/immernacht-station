@@ -16,13 +16,13 @@ reagent-name-shirley-temple = Shirley Temple
 reagent-desc-shirley-temple = Ein Favorit unter jüngeren Mitgliedern der Crew.
 
 reagent-name-changeling-sting = Wechselstich
-reagent-desc-changeling-sting = Sie nehmen einen kleinen Schluck und fühlen ein brennendes Gefühl ...
+reagent-desc-changeling-sting = Du nimmst einen kleinen Schluck und fühlen ein brennendes Gefühl ...
 
 reagent-name-dr-gibb = Dr. Gibb
 reagent-desc-dr-gibb = Eine köstliche Mischung aus 42 verschiedenen Aromen.
 
 reagent-name-energy-drink = Roter Bool
-reagent-desc-energy-drink = Eine Dosis Energie! Nanotrasen ist nicht verantwortlich, wenn Sie Vogelanhänger wachsen.
+reagent-desc-energy-drink = Eine Dosis Energie! Nanotrasen ist nicht verantwortlich, wenn du Vogelanhänger wächst.
 
 reagent-name-grape-soda = Traubenpulver
 reagent-desc-grape-soda = Es ist Graaaaaape!
@@ -64,5 +64,5 @@ reagent-name-fourteen-loko = Vierzehn Loko
 reagent-desc-fourteen-loko = Eine hochverarbeitete flüssige Substanz, die kaum intergalatische Gesundheitsstandards für ein Softdrink erfüllt.
 
 reagent-name-shamblers-juice = Shambler-Saft
-reagent-desc-shamblers-juice = Schütteln Sie mir etwas von diesem Shambler's Juice!
+reagent-desc-shamblers-juice = Schütteln dich mir etwas von diesem Shambler's Juice!
 

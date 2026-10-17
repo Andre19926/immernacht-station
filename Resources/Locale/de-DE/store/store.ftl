@@ -17,7 +17,7 @@ store-ui-refund-text = Erstattung
 store-ui-balance-display = {$currency}: {$amount}
 store-ui-price-display = {$amount} {$currency}
 store-ui-discount-display-with-currency =  {$amount} ausgeschaltet {$currency}
-store-ui-discount-display =  ({$amount} Aus!
+store-ui-discount-display = ({$amount} Rabatt!)
 store-ui-traitor-flavor = Copyright (C) NT -30643
 store-ui-traitor-warning = Operateure müssen ihre Uplinks nach dem Gebrauch sperren, um eine Erkennung zu vermeiden.
 

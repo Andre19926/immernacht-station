@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-secdrobe-1 = Beat Perps im Stil!
-advertisement-secdrobe-2 = Es ist rot, so dass Sie das Blut nicht sehen können!
-advertisement-secdrobe-3 = Sie haben das Recht, modisch zu sein!
-advertisement-secdrobe-4 = Jetzt können Sie die Modepolizei sein, die Sie schon immer sein wollten!
-advertisement-secdrobe-5 = Der beste Farbton von Rot, TOTAL nicht, wie, der gleiche Farbton wie das, was Syndicates verwenden!
+advertisement-secdrobe-1 = Verprügle Täter mit Stil!
+advertisement-secdrobe-2 = Sie ist rot, damit man das Blut nicht sieht!
+advertisement-secdrobe-3 = Du hast das Recht, modisch zu sein!
+advertisement-secdrobe-4 = Jetzt kannst du die Modepolizei sein, die du schon immer sein wolltest!
+advertisement-secdrobe-5 = Der beste Rotton, GANZ sicher nicht derselbe, den das Syndicate verwendet!

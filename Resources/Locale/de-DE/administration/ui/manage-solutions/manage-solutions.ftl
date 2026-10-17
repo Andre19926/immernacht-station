@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-solutions-window-title = Solution Editor - {$targetName}
+admin-solutions-window-title = Lösungs-Editor – {$targetName}
 admin-solutions-window-solution-label = Ziellösung:
 admin-solutions-window-solution-button = Lösung
 admin-solutions-window-solution-button-tooltip = Öffnet die entsprechende serverseitige Solution-Instanz in ViewVariables. Nützlich für das Debuggen von Vorhersageproblemen.

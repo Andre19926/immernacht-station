@@ -18,4 +18,4 @@ uplink-user-interface-search-label = Suche
 uplink-user-interface-withdraw-button = Rücknahme TC
 uplink-user-interface-withdraw-title = Rücknahme TC
 uplink-user-interface-withdraw-withdraw-button = Rücknahme
-uplink-user-interface-withdraw-cancel-button = Stornierung
+uplink-user-interface-withdraw-cancel-button = Abbrechen

@@ -14,35 +14,27 @@
 
 ## Rev Head
 
-roles-antag-rev-head-name = Hauptrevolutionär
-roles-antag-rev-head-objective = Ihr Ziel ist es, die Station zu übernehmen, indem Sie Menschen zu Ihrer Sache bekehren und alle Mitglieder der Führung eliminieren.
+roles-antag-rev-head-name = Revolutionsführer
+roles-antag-rev-head-objective = Dein Ziel ist es, die Station zu übernehmen, indem du Leute für deine Sache gewinnst und alle Mitglieder der Führung ausschaltest.
 
-head-rev-role-greeting =
-    Du bist ein Hauptrevolutionär.
-    Sie haben die Aufgabe, das gesamte Führung durch Tod, Exil oder Gefängnis von der Station zu entfernen.
-    Das Syndicate hat Sie mit einem Manifest gesponsert, das die Crew an Ihre Seite überzeugt.
-    Vorsicht, das wird bei Security oder Command nicht funktionieren - ihre Loyalität ist unerschütterlich.
-    Viva la revolución!
+head-rev-role-greeting = Du bist Revolutionsführer. Deine Aufgabe: die gesamte Führung durch Tod, Exil oder Haft von der Station zu entfernen. Das Syndicate hat dir ein Manifest gestellt, das die Crew überzeugt. Vorsicht: Bei Sicherheit und Führung wirkt es nicht, sie sind unerschütterlich loyal. Viva la revolución!
 
-head-rev-briefing =
-    Verwenden Sie das Manifest, um Menschen zu Ihrer Sache zu bekehren.
-    Befreie dich von allen Köpfen, um die Station zu übernehmen.
+head-rev-briefing = Werde alle Abteilungsleiter los, um die Station zu übernehmen.
 
-head-rev-break-mindshield = Der Mindshield neutralisierte hypnotische Kräfte, aber seine Funktionalität wurde kompromittiert!
+head-rev-break-mindshield = Das Mindshield hat die hypnotischen Kräfte neutralisiert, ist aber beschädigt!
 
 ## Rev
 
 roles-antag-rev-name = Revolutionär
-roles-antag-rev-objective = Ihr Ziel ist es, die Sicherheit zu gewährleisten und den Befehlen der Hauptrevolutionäre zu folgen und ihnen zu helfen, die Station zu übernehmen, indem sie alle Mitglieder der Führung eliminieren.
+roles-antag-rev-objective = Dein Ziel ist es, die Sicherheit der Anführer-Revolutionäre zu gewährleisten, ihren Befehlen zu folgen und ihnen zu helfen, die Station zu übernehmen, indem ihr alle Mitglieder der Führung ausschaltet.
 
-rev-break-control = {$name} Er erinnert sich an seine wahre Treue!
+rev-break-control = {$name} hat sich auf seine wahre Treue besonnen!
 
-rev-role-greeting =
-    Du bist ein Revolutionär. Ihr habt die Aufgabe, die Hauptrevolutionäre zu schützen und ihnen zu helfen, die Station zu übernehmen.
-    Die Revolution muss zusammenarbeiten, um alle Mitglieder der Führung zu töten, zurückzuhalten oder zu bekehren.
+rev-role-greeting = Du bist ein Revolutionär. Deine Aufgabe ist es, die Anführer-Revolutionäre zu schützen und ihnen zu helfen, die Station zu übernehmen.
+    Die Revolution muss zusammenarbeiten, um alle Mitglieder der Führung zu töten, festzusetzen oder umzudrehen.
     Viva la revolución!
 
-rev-briefing = Helfen Sie Ihren Kopf Revolutionäre konvertieren oder loswerden jeden Kopf über die Station zu übernehmen.
+rev-briefing = Hilf deinen Revolutionsführern, jeden Abteilungsleiter zu bekehren oder loszuwerden, um die Station zu übernehmen.
 
 ## General
 
@@ -55,7 +47,7 @@ rev-no-heads = Es gab keine Hauptrevolutionäre, die ausgewählt werden sollten.
 
 rev-won = Die Hauptrevolutionäre überlebten und eroberten erfolgreich die Kontrolle über die Station.
 
-rev-lost = der Führung überlebte und neutralisierte alle Head Revs.
+rev-lost = Die Führung hat überlebt und alle Revolutionsführer ausgeschaltet.
 
 rev-stalemate = Sowohl die Führung als auch die Hauptrevolutionäre sind alle gestorben. Es ist ein Unentschieden.
 
@@ -78,9 +70,9 @@ rev-headrev-name = [color=#5e9cff]{$name}[/color] converted {$count} {$count ->
 
 ## Deconverted window
 
-rev-deconverted-title = Dekonvertiert!
+rev-deconverted-title = Entkonvertiert!
 rev-deconverted-text =
     Als die letzte Headrev neutralisiert wurde, ist die Revolution vorbei.
 
     Du bist kein Revolutionär mehr, also sei nett.
-rev-deconverted-confirm = Bestätigung
+rev-deconverted-confirm = Bestätigen

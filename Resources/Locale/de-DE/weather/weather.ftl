@@ -9,7 +9,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 cmd-weather-desc = Legt das Wetter für die aktuelle Karte fest.
-cmd-weather-help = Wetter <mapId> <Prototyp / null>
+cmd-weather-help = Verwendung: weather <mapId> <Prototyp / null>
 cmd-weather-hint = Wetterprototyp
 cmd-weather-null = Räumt das Wetter
 

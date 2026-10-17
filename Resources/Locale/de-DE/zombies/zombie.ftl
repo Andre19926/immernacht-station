@@ -10,18 +10,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 zombie-transform = {CAPITALIZE(THE($target))} verwandelte sich in einen Zombie!
-zombie-infection-greeting = Du bist ein Zombie geworden. Ihr Ziel ist es, die Lebenden zu suchen und zu versuchen, sie zu infizieren. Arbeiten Sie mit den anderen Zombies zusammen und bleiben Sie zunächst infiziert, um die Station zu überholen.
+zombie-infection-greeting = Du bist zum Zombie geworden. Dein Ziel ist es, die Lebenden aufzuspüren und zu versuchen, sie zu infizieren. Arbeite mit den anderen Zombies und den übrigen Erstinfizierten zusammen, um die Station zu überrennen.
 
 zombie-generic = Zombie
 zombie-name-prefix = zombifiziert {$baseName}
 zombie-role-desc =  Eine bösartige Kreatur der Toten.
-zombie-role-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]Suchen Sie die Lebenden und beißen Sie sie, um sie zu infizieren und in Zombies zu verwandeln. Arbeiten Sie mit den anderen Zombies zusammen und bleiben Sie zunächst infiziert, um die Station zu überholen.
+zombie-role-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Suche die Lebenden und beiße sie, um sie zu infizieren und in Zombies zu verwandeln. Arbeite mit den anderen Zombies und den übrigen Erstinfizierten zusammen, um die Station zu überrennen.
 
 zombie-permadeath = Diesmal bist du wirklich tot.
 
 zombification-resistance-coefficient-value = - [color=violet]Infektion[/color] Chance reduziert durch [color=lightblue]{$value}%[/color].
 
-zombie-roleban-ghosted = Sie wurden ghosted, weil sie verboten sind, die zombie-rolle zu spielen.
+zombie-roleban-ghosted = Du wurdest zum Geist gemacht, weil du für die Rolle des Zombies gesperrt bist.
 
 # Goob
 zombie-cure-success = Die Zombie-Infektion verschwindet spurlos!

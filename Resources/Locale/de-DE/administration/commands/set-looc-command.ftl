@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-setlooc-description = Ermöglicht Ihnen, LOOC zu aktivieren oder zu deaktivieren.
+cmd-setlooc-description = Aktiviert oder deaktiviert LOOC.
 cmd-setlooc-help = Verwendung: setlooc ODER setlooc [value]
-cmd-setlooc-looc-enabled = Der LOOC Chat wurde aktiviert.
-cmd-setlooc-looc-disabled = Der LOOC Chat wurde deaktiviert.
+cmd-setlooc-looc-enabled = LOOC-Chat wurde aktiviert.
+cmd-setlooc-looc-disabled = LOOC-Chat wurde deaktiviert.

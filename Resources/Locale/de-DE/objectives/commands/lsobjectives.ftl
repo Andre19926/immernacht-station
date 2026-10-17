@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: MIT
 
 # lsobjectives
-cmd-lsobjectives-desc = Listen Sie alle Ziele in einem Spieler Geist.
+cmd-lsobjectives-desc = Listet alle Ziele im Bewusstsein eines Spielers auf.
 cmd-lsobjectives-help = Verwendung: lsobjectives <Benutzername>

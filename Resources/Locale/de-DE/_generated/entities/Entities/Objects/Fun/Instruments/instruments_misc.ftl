@@ -20,7 +20,7 @@ ent-CannedApplauseInstrument = Beifall in Dosen
     .desc = Scheint, als hätte jemand schon alles benutzt ...
 
 ent-GunpetInstrument = Gewehr
-    .desc = Warum müssen Sie das untersuchen? Ist es nicht selbsterklärend?
+    .desc = Warum musst du das untersuchen? Ist es nicht selbsterklärend?
 
 ent-BikeHornInstrument = vergoldetes Fahrradhorn
     .desc = Ein exquisit dekoriertes Fahrradhorn, das in einer Vielzahl von Noten hupen kann.

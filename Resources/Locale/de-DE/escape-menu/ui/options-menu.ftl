@@ -79,10 +79,10 @@ ui-options-value-percent = { TOSTRING($value, "P0") }
 
 ui-options-discordrich = Discord Rich Presence aktivieren
 ui-options-general-ui-style = UI-Stil
-ui-options-general-discord = Dissonanz
+ui-options-general-discord = Discord
 ui-options-general-cursor = Mauszeiger
 ui-options-general-speech = Sprache
-ui-options-general-storage = Lagerung
+ui-options-general-storage = Lager
 ui-options-general-accessibility = Barrierefreiheit
 
 ## Audio menu
@@ -262,7 +262,7 @@ ui-options-function-open-emotes-menu = Emote-Menü öffnen
 ui-options-function-toggle-round-end-summary-window = Rundenende-Zusammenfassung ein-/ausblenden
 ui-options-function-open-entity-spawn-window = Entity-Spawn-Menü öffnen
 ui-options-function-open-sandbox-window = Sandbox-Menü öffnen
-ui-options-function-open-tile-spawn-window = Boden-Spawn-Menü öffnen
+ui-options-function-open-tile-spawn-window = Kachel-Menü öffnen
 ui-options-function-open-decal-spawn-window = Decal-Spawn-Menü öffnen
 ui-options-function-open-admin-menu = Admin-Menü öffnen
 ui-options-function-open-guidebook = Handbuch öffnen
@@ -285,12 +285,12 @@ ui-options-function-editor-copy-object = Kopieren
 
 ui-options-function-show-debug-console = Konsole öffnen
 ui-options-function-show-debug-monitors = Debug-Anzeigen einblenden
-ui-options-function-inspect-entity = Entity untersuchen
-ui-options-function-inspect-entity-tooltip = Öffnet ein ViewVariables-Fenster für die Entity, über der sich dein Mauszeiger gerade befindet.
+ui-options-function-inspect-entity = Entität untersuchen
+ui-options-function-inspect-entity-tooltip = Öffnet ein ViewVariables-Fenster für die Entität, über der sich dein Mauszeiger gerade befindet.
 ui-options-function-inspect-server-component = Server-Komponente untersuchen
-ui-options-function-inspect-server-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Server-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entity unter deinem Mauszeiger.
+ui-options-function-inspect-server-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Server-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
 ui-options-function-inspect-client-component = Client-Komponente untersuchen
-ui-options-function-inspect-client-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Client-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entity unter deinem Mauszeiger.
+ui-options-function-inspect-client-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Client-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
 ui-options-function-hide-ui = UI ausblenden
 
 ui-options-function-hotbar1 = Hotbar-Slot 1
@@ -313,26 +313,26 @@ ui-options-function-hotbar-shift7 = Hotbar-Slot Umschalt+7
 ui-options-function-hotbar-shift8 = Hotbar-Slot Umschalt+8
 ui-options-function-hotbar-shift9 = Hotbar-Slot Umschalt+9
 ui-options-function-hotbar-shift0 = Hotbar-Slot Umschalt+0
-ui-options-function-loadout1 = Hotbar-Loadout 1
-ui-options-function-loadout2 = Hotbar-Loadout 2
-ui-options-function-loadout3 = Hotbar-Loadout 3
-ui-options-function-loadout4 = Hotbar-Loadout 4
-ui-options-function-loadout5 = Hotbar-Loadout 5
-ui-options-function-loadout6 = Hotbar-Loadout 6
-ui-options-function-loadout7 = Hotbar-Loadout 7
-ui-options-function-loadout8 = Hotbar-Loadout 8
-ui-options-function-loadout9 = Hotbar-Loadout 9
-ui-options-function-loadout0 = Hotbar-Loadout 0
-ui-options-function-loadoutshift1 = Hotbar-Loadout Umschalt+1
-ui-options-function-loadoutshift2 = Hotbar-Loadout Umschalt+2
-ui-options-function-loadoutshift3 = Hotbar-Loadout Umschalt+3
-ui-options-function-loadoutshift4 = Hotbar-Loadout Umschalt+4
-ui-options-function-loadoutshift5 = Hotbar-Loadout Umschalt+5
-ui-options-function-loadoutshift6 = Hotbar-Loadout Umschalt+6
-ui-options-function-loadoutshift7 = Hotbar-Loadout Umschalt+7
-ui-options-function-loadoutshift8 = Hotbar-Loadout Umschalt+8
-ui-options-function-loadoutshift9 = Hotbar-Loadout Umschalt+9
-ui-options-function-loadoutshift0 = Hotbar-Loadout Umschalt+0
+ui-options-function-loadout1 = Hotbar-Ausrüstung 1
+ui-options-function-loadout2 = Hotbar-Ausrüstung 2
+ui-options-function-loadout3 = Hotbar-Ausrüstung 3
+ui-options-function-loadout4 = Hotbar-Ausrüstung 4
+ui-options-function-loadout5 = Hotbar-Ausrüstung 5
+ui-options-function-loadout6 = Hotbar-Ausrüstung 6
+ui-options-function-loadout7 = Hotbar-Ausrüstung 7
+ui-options-function-loadout8 = Hotbar-Ausrüstung 8
+ui-options-function-loadout9 = Hotbar-Ausrüstung 9
+ui-options-function-loadout0 = Hotbar-Ausrüstung 0
+ui-options-function-loadoutshift1 = Hotbar-Ausrüstung Umschalt+1
+ui-options-function-loadoutshift2 = Hotbar-Ausrüstung Umschalt+2
+ui-options-function-loadoutshift3 = Hotbar-Ausrüstung Umschalt+3
+ui-options-function-loadoutshift4 = Hotbar-Ausrüstung Umschalt+4
+ui-options-function-loadoutshift5 = Hotbar-Ausrüstung Umschalt+5
+ui-options-function-loadoutshift6 = Hotbar-Ausrüstung Umschalt+6
+ui-options-function-loadoutshift7 = Hotbar-Ausrüstung Umschalt+7
+ui-options-function-loadoutshift8 = Hotbar-Ausrüstung Umschalt+8
+ui-options-function-loadoutshift9 = Hotbar-Ausrüstung Umschalt+9
+ui-options-function-loadoutshift0 = Hotbar-Ausrüstung Umschalt+0
 
 ui-options-function-shuttle-strafe-up = Nach oben driften
 ui-options-function-shuttle-strafe-right = Nach rechts driften
@@ -358,18 +358,18 @@ ui-options-net-predict-tick-bias-tooltip = Ein höherer Wert macht das Spiel mei
                                            etwas mehr Latenz hinzu und der Client muss
                                            mehr zukünftige Ticks vorhersagen.
 
-ui-options-net-pvs-spawn = PVS-Budget für neu erzeugte Entities
+ui-options-net-pvs-spawn = PVS-Budget für neu erzeugte Entitäten
 ui-options-net-pvs-spawn-tooltip = Begrenzt, wie schnell der Server neu erzeugte
-                                       Entities an den Client sendet. Ein niedrigerer Wert kann Ruckeln
-                                       durch Entity-Spawns verringern, kann aber zu Aufpoppen führen.
+                                       Entitäten an den Client sendet. Ein niedrigerer Wert kann Ruckeln
+                                       durch Entitäten-Spawns verringern, kann aber zu Aufpoppen führen.
 
-ui-options-net-pvs-entry = PVS-Budget für Entities
+ui-options-net-pvs-entry = PVS-Budget für Entitäten
 ui-options-net-pvs-entry-tooltip = Begrenzt, wie schnell der Server neu sichtbare
-                                       Entities an den Client sendet. Ein niedrigerer Wert kann Ruckeln
+                                       Entitäten an den Client sendet. Ein niedrigerer Wert kann Ruckeln
                                        verringern, kann aber zu Aufpoppen führen.
 
 ui-options-net-pvs-leave = PVS-Entfernungsrate
-ui-options-net-pvs-leave-tooltip = Begrenzt, wie schnell der Client Entities entfernt,
+ui-options-net-pvs-leave-tooltip = Begrenzt, wie schnell der Client Entitäten entfernt,
                                        die nicht mehr im Sichtfeld sind. Ein niedrigerer Wert kann Ruckeln
                                        beim Herumlaufen verringern, kann aber gelegentlich
                                        zu Fehlvorhersagen und anderen Problemen führen.

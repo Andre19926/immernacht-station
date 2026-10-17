@@ -2,9 +2,9 @@ ent-ClothingEyesGlassesMedSec = medizinische Sicherheitsbrille
     .desc = Sonnenbrillen mit einer medizinischen und Sicherheitshütte
 
 ent-ClothingEyesPrescriptionGlasses = Rezeptbrillen
-    .desc = Ihre Versicherung deckt diese nicht ab. Verliere sie nicht.
+    .desc = Deine Versicherung deckt die nicht ab. Verlier sie nicht.
 
-ent-ClothingEyesGlassesBroken = Glasscherben
+ent-ClothingEyesGlassesBroken = Kaputte Brille
     .desc = Meine Brille! Ich kann nicht ohne meine Brille sehen!
 
 ent-ClothingEyesGlassesDiag = Diagnosegläser
@@ -20,7 +20,7 @@ ent-ClothingEyesGlassesCentComm = Zentralbefehlstöne
     .desc = Ein Paar Schattierungen für das zentrale Führungspersonal. Es ist nichts Persönliches.
 
 ent-ClothingEyesGlassesCentCommNoThermal = Zentralbefehlstöne
-    .desc = Ein Paar Schattierungen für das zentrale Führungspersonal. Kommt mit mehr Funktionen, als Sie sich vorstellen können.
+    .desc = Ein Paar Schattierungen für das zentrale Führungspersonal. Kommt mit mehr Funktionen, als du dich vorstellen kannst.
 
 ent-ClothingEyesGlassesBSO = BlueShield Officer Brille
     .desc = Sonnenbrillen mit einem medizinischen, Job und Diagnose Hud.

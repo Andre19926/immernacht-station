@@ -16,7 +16,7 @@ ent-GasValve = Handventil
 ent-SignalControlledValve = Signalventil
     .desc = Ein Rohr mit einem Ventil, das mit Signalen gesteuert werden kann.
 
-ent-GasPort = Anschlussanschluss
+ent-GasPort = Anschlussport
     .desc = Zum Anschluss von tragbaren Geräten im Zusammenhang mit der Steuerung der Atmosphäre.
 
 ent-GasDualPortVentPump = Luftlüfter mit zwei Ventilen

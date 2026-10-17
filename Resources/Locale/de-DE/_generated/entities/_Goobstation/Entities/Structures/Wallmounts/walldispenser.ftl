@@ -1,2 +1,2 @@
 ent-CapsaicinDispenser = Capsaicinspender
-    .desc = Ein Wandspender, der Capsaicin abgeben kann. Füllen Sie hier Ihren Pfefferspray auf.
+    .desc = Ein Wandspender, der Capsaicin abgeben kann. Fülle hier deinen Pfefferspray auf.

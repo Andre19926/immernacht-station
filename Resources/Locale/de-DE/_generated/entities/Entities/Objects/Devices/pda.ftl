@@ -65,7 +65,7 @@ ent-JanitorPDA = Hausmeister PDA
     .desc = Riecht wie Bleichmittel.
 
 ent-CaptainPDA = Kapitän PDA
-    .desc = Überraschenderweise nicht anders als Ihr PDA.
+    .desc = Überraschenderweise nicht anders als dein PDA.
 
 ent-HoPPDA = Leiter des Personals PDA
     .desc = Sieht so aus, als wäre es gekaut worden.
@@ -76,7 +76,7 @@ ent-CEPDA = Chefingenieur PDA
 ent-EngineerPDA = Ingenieur PDA
     .desc = Robust und abgenutzt.
 
-ent-CMOPDA = Chief Medical Officer PDA
+ent-CMOPDA = Chefarzt-PDA
     .desc = Außerordentlich glänzend und steril.
 
 ent-MedicalPDA = Medizinische PDA
@@ -100,7 +100,7 @@ ent-SciencePDA = Wissenschaft PDA
 ent-HoSPDA = Leiter der Sicherheits-PDA
     .desc = Wer auch immer diese PDA trägt, ist das Gesetz.
 
-ent-WardenPDA = Ward PDA
+ent-WardenPDA = Warden-PDA
     .desc = Das OS scheint zu haben, wurde jailbroken.
 
 ent-SecurityPDA = Sicherheit PDA
@@ -110,7 +110,7 @@ ent-CentcomPDA = CentComm PDA
     .desc = Lichtgrüner Schild der wandelnden Bürokratie.
 
 ent-AdminPDA = Admin PDA
-    .desc = Wenn Sie kein Administrator sind, geben Sie diesen PDA bitte an den nächstgelegenen Administrator zurück.
+    .desc = Wenn du kein Administrator bist, gib diesen PDA bitte an den nächstgelegenen Administrator zurück.
 
 ent-MusicianPDA = Musiker PDA
     .desc = Es erfüllt dich mit Inspiration.
@@ -193,13 +193,13 @@ ent-SeniorCourierPDA = Senior Kurier PDA
 ent-PiratePDA = Piraterie PDA
 
 ent-SyndiAgentPDA = Syndicate Corpsman PDA
-    .desc = Für die Tage, an denen die Heilung normaler Syndicate-E nicht ausreicht, versuchen Sie stattdessen, nukleare Agenten zu heilen!
+    .desc = Für die Tage, an denen die Heilung normaler Syndicate-E nicht ausreicht, versuche stattdessen, nukleare Agenten zu heilen!
 
 ent-ChameleonPDA = Fluggast PDA
     .desc = Warum ist es nicht grau?
 
 ent-WizardPDA = Wizard PDA
-    .desc = Sie hören schwaches Flüstern, das von ihm kommt.
+    .desc = Du hörst schwaches Flüstern, das von ihm kommt.
 
 ent-ScurretPDA = klarer PDA
     .desc = Ein temporärer PDA, der gewährt wird, um Temperaturen zu verhindern. Tut nicht viel. Wawa!

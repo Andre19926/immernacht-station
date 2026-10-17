@@ -15,10 +15,10 @@ pai-system-off = Es ist kein pAI installiert.
 pai-system-still-searching = Auf der Suche nach einem PAI.
 pai-system-searching = Auf der Suche nach einem PAI...
 
-pai-system-role-name = Personal AI
+pai-system-role-name = Personal KI
 pai-system-role-description = Sei jemandes elektronischer Kumpel!
                               (Erinnerungen *nicht* enthalten.)
-pai-system-role-name-syndicate = Syndicate Personal AI
+pai-system-role-name-syndicate = Syndicate Personal KI
 pai-system-role-description-syndicate = Sei jemandes Syndicate-Freund!
                                         (Erinnerungen *nicht* enthalten.)
 pai-system-role-name-potato = Kartoffel Künstliche Intelligenz

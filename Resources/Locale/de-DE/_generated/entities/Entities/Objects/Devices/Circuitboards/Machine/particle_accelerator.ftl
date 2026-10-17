@@ -1,17 +1,17 @@
-ent-MachineParticleAcceleratorEndCapCircuitboard = PA Endkappe
-    .desc = Ein Maschinenplatin für eine Endkappe eines Teilchenbeschleunigers.
+ent-MachineParticleAcceleratorEndCapCircuitboard = PA-Endkappe (Platine)
+    .desc = Eine Maschinenplatine für eine Endkappe eines Teilchenbeschleunigers.
 
-ent-MachineParticleAcceleratorFuelChamberCircuitboard = PA Kraftstoffkammerplatine
-    .desc = Ein Maschinenplatin für eine Partikelbeschleuniger-Brennstoffkammer.
+ent-MachineParticleAcceleratorFuelChamberCircuitboard = PA-Brennstoffkammer (Platine)
+    .desc = Eine Maschinenplatine für eine Partikelbeschleuniger-Brennstoffkammer.
 
-ent-MachineParticleAcceleratorPowerBoxCircuitboard = PA Powerbox Board
-    .desc = Ein Maschinenplatin für eine Teilchenbeschleuniger-Powerbox.
+ent-MachineParticleAcceleratorPowerBoxCircuitboard = PA-Powerbox (Platine)
+    .desc = Eine Maschinenplatine für eine Teilchenbeschleuniger-Powerbox.
 
-ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = PA Steuerbord-Emitterplatte
-    .desc = Ein Maschinenplatin für einen Teilchenbeschleuniger hinterließ Emitter.
+ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = PA-Emitter Steuerbord (Platine)
+    .desc = Eine Maschinenplatine für einen Teilchenbeschleuniger hinterließ Emitter.
 
-ent-MachineParticleAcceleratorEmitterForeCircuitboard = PA fore Emitter Board
-    .desc = Ein Maschinenplatin für einen Teilchenbeschleunigermittelstrahler.
+ent-MachineParticleAcceleratorEmitterForeCircuitboard = PA-Emitter vorne (Platine)
+    .desc = Eine Maschinenplatine für einen Teilchenbeschleunigermittelstrahler.
 
-ent-MachineParticleAcceleratorEmitterPortCircuitboard = PA Port Emitter Board
-    .desc = Ein Maschinenplatin für einen Teilchenbeschleuniger-Rechtsemitter.
+ent-MachineParticleAcceleratorEmitterPortCircuitboard = PA-Emitter Backbord (Platine)
+    .desc = Eine Maschinenplatine für einen Teilchenbeschleuniger-Rechtsemitter.

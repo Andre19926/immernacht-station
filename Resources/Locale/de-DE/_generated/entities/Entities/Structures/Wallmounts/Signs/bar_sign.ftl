@@ -3,7 +3,7 @@ ent-BarSign = Stäbeschild
 ent-BarSignComboCafe = Combo Cafe
     .desc = Bekannt systemweit für ihre völlig unkreativen Getränkekombinationen.
 
-ent-BarSignEmergencyRumParty = Rum-Notfallpartei
+ent-BarSignEmergencyRumParty = Rum-Notfallparty
     .desc = Kürzlich nach einer langen Schließung relizenziert.
 
 ent-BarSignLV426 = LV426
@@ -13,7 +13,7 @@ ent-BarSignMaidCafe = Maid Cafe
     .desc = Willkommen zurück, Meister!
 
 ent-BarSignMalteseFalcon = Malteserfalsche
-    .desc = Spielen Sie es noch einmal, Sam.
+    .desc = Spiele es noch einmal, Sam.
 
 ent-BarSignOfficerBeersky = Offizier Beersky
     .desc = Mann isst einen dong, diese getränke sind großartig.
@@ -43,7 +43,7 @@ ent-BarSignTheLightbulb = Die Glühbirne
     .desc = Ein Café beliebt bei Motten und Moffs. Einmal für eine Woche heruntergefahren, nachdem der Barkeeper Mottenkugeln benutzt hatte, um ihre Ersatzuniformen zu schützen.
 
 ent-BarSignTheLooseGoose = Die lose Gans
-    .desc = Trinken Sie, bis Sie kotzen und / oder die Gesetze der Realität brechen!
+    .desc = Trink, bis du kotzt und / oder die Gesetze der Realität brichst!
 
 ent-BarSignTheNet = Das Netz
     .desc = Du scheinst nur stundenlang darin gefangen zu sein.
@@ -64,7 +64,7 @@ ent-BarSignEmprah = 4 Die Emprah
     .desc = Genießt von fanatikern, ketzern und hirngeschädigten gönnern gleichermaßen.
 
 ent-BarSignSpacebucks = Spacebucks
-    .desc = Sie können nicht von ihnen wegkommen, sogar im Weltraum, und sogar nachdem wir angefangen haben, sie stattdessen "Spesos" zu nennen.
+    .desc = Du kannst ihnen nicht entkommen, nicht einmal im Weltraum, und nicht einmal, nachdem wir angefangen haben, sie stattdessen „Spesos“ zu nennen.
 
 ent-BarSignMaltroach = Der Maltroach
     .desc = Quietschen!

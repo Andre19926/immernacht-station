@@ -11,7 +11,7 @@ spellbook-upgrade-cluwne-curse-name = Fluch des Cluwne Upgrades
 spellbook-upgrade-cluwne-curse-desc = Upgrades Cluwne Curse auf ein Maximum von Level 3!
 
 spellbook-upgrade-banana-touch-name = Banana Touch Upgrade
-spellbook-upgrade-banana-touch-desc = Upgrades Bananen Berühren Sie bis zu einem Maximum von Level 5!
+spellbook-upgrade-banana-touch-desc = Upgrades Bananen Berühren dich bis zu einem Maximum von Level 5!
 
 spellbook-upgrade-magic-missile-name = Magic Missile Upgrade
 spellbook-upgrade-magic-missile-desc = Upgrades Magic Missile auf ein Maximum von Level 3!

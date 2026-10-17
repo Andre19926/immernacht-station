@@ -4,25 +4,25 @@ ent-CentcomAgentSkirt = Centcom Agent Rock
 ent-ClothingUniformJumpskirtNanotrasenRepresentative = Nanotrasen-Repräsentantenrock
     .desc = Ein schwarzer Rock, der von Beamten getragen wird.
 
-ent-ClothingUniformJumpskirtBlueshieldOfficer = Blauschildoffizier Overallrock
-    .desc = Ein kurzärmeliges graues und blaues Overallrock, aus einem robusten Material. Blueshield Standard Ausgabe.
+ent-ClothingUniformJumpskirtBlueshieldOfficer = Blueshield-Offiziersuniform (Rock)
+    .desc = Ein kurzärmeliges graues und blaues Rock-Uniform, aus einem robusten Material. Blueshield Standard Ausgabe.
 
-ent-ClothingUniformJumpskirtTrainer = NCT Overallrock
-    .desc = Ein Overallrock ausgestellt Nanotrasen Career Trainers. Erfüllt dich mit einem Gefühl von Stolz.
+ent-ClothingUniformJumpskirtTrainer = NCT-Uniform (Rock)
+    .desc = Ein Rock-Uniform ausgestellt Nanotrasen Career Trainers. Erfüllt dich mit einem Gefühl von Stolz.
 
-ent-ClothingUniformSkirtMailCarrier = Postbetreiber Overallrock
+ent-ClothingUniformSkirtMailCarrier = Postbotenuniform (Rock)
     .desc = Feind der Hunde überall.
 
 ent-ClothingUniformJumpskirtCommandMaid = Kommandantinnenuniform
     .desc = Eine stilvolle Dienstmädchenuniform, die speziell für Elite Command Maids entwickelt wurde. Kombiniert Professionalität mit einem Hauch von Eleganz.
 
-ent-ClothingUniformJumpskirtSalvageSpecialist = Salvage-Spezialist Overallrock
-    .desc = Es ist ein knackiger Overallrock mit einem robusten Overall. Es ist sehr schmutzig.
+ent-ClothingUniformJumpskirtSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung (Rock)
+    .desc = Es ist ein knackiger Rock-Uniform mit einem robusten Uniform. Es ist sehr schmutzig.
 
-ent-ClothingUniformJumpskirtShaftMiner = Schachtbergarbeiter Overallrock
-    .desc = Es ist ein knackiger Overallrock mit einem robusten Overall. Es sieht verbrannt aus.
+ent-ClothingUniformJumpskirtShaftMiner = Bergarbeiter-Arbeitskleidung (Rock)
+    .desc = Es ist ein knackiger Rock-Uniform mit einem robusten Uniform. Es sieht verbrannt aus.
 
-ent-ClothingUniformJumpskirtResearchDirectorAlt = Turtleneck des Forschungsdirektors
+ent-ClothingUniformJumpskirtResearchDirectorAlt = Turtleneck des Forschungsdirektors (Jumpskirt, Alternativ)
     .desc = Es ist ein turtleneck, getragen von denen mit dem know-how, um die position des research director zu erreichen. Sein Gewebe bietet einen geringen Schutz vor biologischen Verunreinigungen.
 
 ent-ClothingUniformJumpskirtReporter = Kleid des Reporters

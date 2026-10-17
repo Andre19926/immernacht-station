@@ -5,7 +5,7 @@ gps-window-gps-position-label = GPS Coords
 gps-window-tracked-position-label = Verfolgte Coords
 gps-window-position-none = N/A
 
-gps-window-clear-tracking-button = klar
+gps-window-clear-tracking-button = Leeren
 
 gps-window-visibility-on = Sichtbarkeit: am
 gps-window-visibility-off = Sichtbarkeit: ausgeschaltet
@@ -14,4 +14,4 @@ gps-window-visibility-tooltip = Kontrolliert die Sichtbarkeit dieses GPS auf and
 gps-window-alarm-tooltip = Alarmknopf: hebt dieses GPS auf anderen Radaren hervor. Einsatz in Notfällen!
 gps-window-clear-tooltip = Löscht die Auswahl des aktuellen Ziels.
 
-gps-window-footer-text = Denken Sie daran, die Sichtbarkeit zu aktivieren, um nicht verloren zu gehen!
+gps-window-footer-text = Denke daran, die Sichtbarkeit zu aktivieren, um nicht verloren zu gehen!

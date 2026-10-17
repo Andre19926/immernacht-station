@@ -1,1 +1,1 @@
-ent-GangDuffelBagTrappedStatusEffect = Gang Duffel Bag Verlangsamung
+ent-GangDuffelBagTrappedStatusEffect = Gang-Seesack: Verlangsamung

@@ -45,7 +45,7 @@ cmd-listvotes-help = Verwendung: listvotes
 
 cmd-cancelvote-desc = Absagen einer aktiven Abstimmung
 cmd-cancelvote-help = Verwendung: cancelvote <id>
-                      Sie können die ID vom Befehl listvotes erhalten.
+                      Dich können die ID vom Befehl listvotes erhalten.
 cmd-cancelvote-error-invalid-vote-id = ID der ungültigen Stimme
 cmd-cancelvote-error-missing-vote-id = Fehlende ID
 cmd-cancelvote-arg-id = <id>

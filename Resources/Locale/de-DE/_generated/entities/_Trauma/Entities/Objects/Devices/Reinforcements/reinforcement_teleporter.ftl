@@ -2,7 +2,7 @@ ent-ReinforcementRadioSyndicateNukieMouse = verdächtiger Käse
     .desc = Schimmeliger Käse mit einem kleinen Wurm, der herausragt und einer ... blinkenden Antenne? Könnte eine seltsame Maus anziehen.
 
 ent-ReinforcementRadioSyndicateNukieCarp = Syndicate Carp Verstärkung Radio
-    .desc = Ruft in einem Syndicate Karpfen bereit, Ihnen zu helfen.
+    .desc = Ruft in einem Syndicate Karpfen bereit, dir zu helfen.
 
 ent-ReinforcementRadioSyndicateNukieSpider = Unerklärlicherweise drohendes Ei
     .desc = Du bist dir nicht sicher, ob das ein Radio-Transceiver oder ein Augenblinken ist. Könnte eine seltsame Spinne anziehen.

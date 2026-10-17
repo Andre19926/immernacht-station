@@ -1,8 +1,8 @@
 ent-ClothingModsuitContractor = Subunternehmer Modsuit Steuergerät
     .desc = Der Hauptcontroller für einen Contractor Modsuit.
 
-ent-ClothingModsuitGauntletsContractor = Auftragnehmer Modsuit Gauntlets
-    .desc = I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+ent-ClothingModsuitGauntletsContractor = Contractor-MODsuit-Handschuhe
+    .desc = Ein Paar Handschuhe für den Contractor-MODsuit.
 
 ent-ClothingModsuitHelmetContractor = Bauunternehmer Modsuit Helm
     .desc = Ein hochmoderner Helm, entworfen vom Syndicate für den Auftragnehmer Modsuit. Es enthält ein eingebautes HUD.

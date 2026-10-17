@@ -17,10 +17,10 @@ ent-ComputerShuttleCargo = Frachtshuttle-Konsole
     .desc = Wird verwendet, um das Frachtshuttle zu steuern.
 
 ent-ComputerIFF = IFF-Computer
-    .desc = Ermöglicht es Ihnen, die IFF-Eigenschaften dieses Schiffes zu kontrollieren.
+    .desc = Ermöglicht es dir, die IFF-Eigenschaften dieses Schiffes zu kontrollieren.
 
 ent-ComputerIFFSyndicate = IFF-Computer
-    .desc = Ermöglicht es Ihnen, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
+    .desc = Ermöglicht es dir, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
 
 ent-ComputerPowerMonitoring = Leistungsüberwachungsrechner
     .desc = Es überwacht die Leistungspegel in der gesamten Station.
@@ -53,12 +53,12 @@ ent-ComputerComms = Kommunikationsrechner
     .desc = Ein Computer, der verwendet wurde, um stationsweite Ankündigungen über die Tastatur zu machen, die entsprechende Alarmstufe einzustellen und das Notfall-Shuttle anzurufen.
 
 ent-SyndicateComputerComms = Syndicate-Kommunikationsrechner
-    .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn Sie dies für eine Ankündigung verwenden, wird die Station auf Ihre Anwesenheit aufmerksam gemacht.
+    .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn du dies für eine Ankündigung verwendest, wird die Station auf deine Anwesenheit aufmerksam gemacht.
 
-ent-WizardComputerComms = Wächterkommunikationsrechner
-    .desc = Ein Computer, der in der Lage ist, Ihre Sprache magisch auf die Station zu projizieren. Wenn Sie dies für eine Ankündigung verwenden, wird die Station auf Ihre Anwesenheit aufmerksam gemacht.
+ent-WizardComputerComms = Zauberer-Kommunikationscomputer
+    .desc = Ein Computer, der in der Lage ist, deine Sprache magisch auf die Station zu projizieren. Wenn du dies für eine Ankündigung verwendest, wird die Station auf deine Anwesenheit aufmerksam gemacht.
 
-ent-CentcommComputerComms = Zentraler Befehlskommunikationsrechner
+ent-CentcommComputerComms = CentComm-Kommunikationscomputer
     .desc = Ein Computer machte früher weltweite Ankündigungen über die Tastatur. Der überlegene Vetter des regulären Kommunikationscomputers.
 
 ent-ComputerSolarControl = Solarsteuerrechner
@@ -95,13 +95,13 @@ ent-ComputerCloningConsole = Klonen von Konsolencomputern
     .desc = Das Herzstück des Klonsystems, die größte Errungenschaft der Medizin. Es hat viele Ports und Kabel.
 
 ent-ComputerSalvageJobBoard = Salvage Job Board
-    .desc = Konsole für den Zugriff auf Salvage-Jobs, wenn Sie hart genug sind.
+    .desc = Konsole für den Zugriff auf Salvage-Jobs, wenn du hart genug bist.
 
 ent-ComputerSalvageExpedition = Salvage Expeditionen Computer
-    .desc = Wird verwendet, um Rettungsmissionen anzunehmen, wenn Sie hart genug sind.
+    .desc = Wird verwendet, um Rettungsmissionen anzunehmen, wenn du hart genug bist.
 
 ent-ComputerSurveillanceCameraMonitor = Kameramonitor
-    .desc = Eine Überwachungskamera Monitore. Sie sehen sie. Vielleicht.
+    .desc = Eine Überwachungskamera Monitore. Du siehst sie. Vielleicht.
 
 ent-ComputerSurveillanceWirelessCameraMonitor = Funkkameramonitor
     .desc = Ein drahtloser Überwachungskameramonitor. Du beobachtest sie. Vielleicht.
@@ -112,7 +112,7 @@ ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = xenoborg Kameramonitor
 ent-ComputerPalletConsole = Frachtverkaufsrechner
     .desc = Wird zum Verkauf von Waren verwendet, die auf Frachtpaletten geladen werden.
 
-ent-ComputerMassMedia = connector weistückfeld derdar Links der.
+ent-ComputerMassMedia = Nachrichtenkonsole
     .desc = Schreibe deine Botschaft an die Welt!
 
 ent-ComputerSensorMonitoring = Sensorüberwachungsrechner
@@ -124,10 +124,10 @@ ent-ComputerRoboticsControl = Robotik-Steuerkonsole
 ent-ComputerXenoborgsControl = Xenoborgs Kontrollkonsole
     .desc = Wird zur Fernüberwachung aller Xenoborgs verwendet.
 
-ent-StationAiUploadComputer = AI Upload Konsole
-    .desc = Wird verwendet, um die Gesetze der Station AI zu aktualisieren.
+ent-StationAiUploadComputer = KI Upload Konsole
+    .desc = Wird verwendet, um die Gesetze der Stations-KI zu aktualisieren.
 
-ent-StationAiFixerComputer = AI-Wiederherstellungskonsole
+ent-StationAiFixerComputer = KI-Wiederherstellungskonsole
     .desc = Wird verwendet, um beschädigte künstliche Intelligenzen zu reparieren.
 
 ent-ComputerNukieDelivery = Syndicate-Lieferrechner

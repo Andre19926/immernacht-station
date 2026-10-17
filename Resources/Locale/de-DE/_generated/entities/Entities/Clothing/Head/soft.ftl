@@ -22,10 +22,10 @@ ent-ClothingHeadHatCommandSoft = Führungs-Schirmmütze
 ent-ClothingHeadHatCommandSoftFlipped = Führungs-Schirmmütze
     .desc = Eine Baseballkappe im unverwechselbaren Blauton der Führung.
 
-ent-ClothingHeadHatCorpsoft = Kapitalisierung
+ent-ClothingHeadHatCorpsoft = Konzernmütze
     .desc = Eine Baseballkappe in Corporation-Farben.
 
-ent-ClothingHeadHatCorpsoftFlipped = Kapitalisierung
+ent-ClothingHeadHatCorpsoftFlipped = Konzernmütze (umgedreht)
     .desc = Eine Baseballkappe in Corporation-Farben.
 
 ent-ClothingHeadHatGreensoft = Grüne Kappe

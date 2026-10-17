@@ -5,7 +5,7 @@ ent-MedicalBed = medizinisches Bett
     .desc = Ein Krankenhausbett, in dem sich die Patienten erholen können. Hier auszuruhen bietet eine ziemlich langsame Heilung.
 
 ent-DogBed = Hundebett
-    .desc = Ein bequem aussehendes Hundebett. Sie können sogar Ihr Haustier anschnallen, falls sich die Schwerkraft abschaltet.
+    .desc = Ein bequem aussehendes Hundebett. Du kannst sogar dein Haustier anschnallen, falls sich die Schwerkraft abschaltet.
 
 ent-Mattress = Matratze
     .desc = Besser schlafen, dann auf dem boden, denke ich.

@@ -1,5 +1,5 @@
 ent-SaxophoneInstrument = Saxofon
-    .desc = Ein Instrument. Sie könnten dies wahrscheinlich in rohen Jazz schleifen.
+    .desc = Ein Instrument. Du könntest dies wahrscheinlich in rohen Jazz schleifen.
 
 ent-HarmonicaInstrument = Mundharmonika
     .desc = Das ist ein Instrument.

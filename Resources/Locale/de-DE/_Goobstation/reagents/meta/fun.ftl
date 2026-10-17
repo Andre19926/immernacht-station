@@ -31,17 +31,17 @@ reagent-desc-profanol = Eine chemische Verbindung, die dafür bekannt ist, dass 
 
 reagent-name-copium = Copium
 reagent-desc-copium = Denn wenn du einen Stimmungsschub brauchst.
-reagent-popup-copium-1 = Sie fühlen sich sehr robust.
+reagent-popup-copium-1 = Du fühlst dich sehr robust.
 reagent-popup-copium-2 = Du hast das Gefühl, dass du bald eine Gehaltserhöhung bekommst.
 reagent-popup-copium-3 = Du liegst nie falsch.
 reagent-popup-copium-4 = Du bist der Held dieser Geschichte.
-reagent-popup-copium-5 = Ihre Investitionen gehen zum Mond.
+reagent-popup-copium-5 = Deine Investitionen gehen zum Mond.
 reagent-popup-copium-6 = Du bist dieser Typ.
-reagent-popup-copium-7 = Sie können jederzeit aufhören, wenn Sie wollen.
-reagent-popup-copium-8 = Sie haben die Kontrolle.
+reagent-popup-copium-7 = Du kannst jederzeit aufhören, wenn du willst.
+reagent-popup-copium-8 = Du hast die Kontrolle.
 reagent-popup-copium-9 = Du solltest der Kapitän sein.
-reagent-popup-copium-10 = Sie betreiben diese Station.
-reagent-popup-copium-11 = Sie wissen, was das Beste ist.
+reagent-popup-copium-10 = Du leitest diese Station.
+reagent-popup-copium-11 = Du weißt, was das Beste ist.
 reagent-popup-copium-12 = Du könntest ihn nehmen.
 
 reagent-name-cat-drugs = Katzendrogen
@@ -51,7 +51,7 @@ reagent-name-nostalgia = Nostalgie
 reagent-desc-nostalgia = Warum ist das hier?
 
 reagent-name-tilenol = Tilenol
-reagent-desc-tilenol = Sie können fühlen, dass Sie robuster werden, nur indem Sie dies halten.
+reagent-desc-tilenol = Du kannst fühlen, dass du robuster wirst, nur indem du dies hältst.
 
 reagent-name-crapotoxin = Crapotoxin
 reagent-desc-crapotoxin = Verursacht, dass der Metabolisierer unkontrolliert furzt.

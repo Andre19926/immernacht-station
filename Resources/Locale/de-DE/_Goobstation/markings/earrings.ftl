@@ -102,7 +102,7 @@ marking-EarringsDangleBasicRight = Dangle Ohrringe (rechts)
 marking-EarringsDangleBasicRight-dangle_tone_1_r = Material
 marking-EarringsDangleBasicRight-dangle_tone_2_r = Verzierung
 
-marking-EarringsDangleLongLeft = Lange Winkelohrringe (links)
+marking-EarringsDangleLongLeft = Lange Hängeohrringe (links)
 marking-EarringsDangleLongLeft-dangle_long_tone_1_l = Material
 marking-EarringsDangleLongLeft-dangle_long_tone_2_l = Verzierung
 
@@ -110,7 +110,7 @@ marking-EarringsDangleLongRight = Lange Dangle Ohrringe (rechts)
 marking-EarringsDangleLongRight-dangle_long_tone_1_r = Material
 marking-EarringsDangleLongRight-dangle_long_tone_2_r = Verzierung
 
-marking-EarringsEightLeft = Acht Ohrringe (links)
+marking-EarringsEightLeft = Achter-Ohrringe (links)
 marking-EarringsEightLeft-eight_l = Acht Ohrringe (links)
 
 marking-EarringsEightRight = Acht Ohrringe (rechts)

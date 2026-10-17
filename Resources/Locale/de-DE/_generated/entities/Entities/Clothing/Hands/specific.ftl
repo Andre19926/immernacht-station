@@ -1,5 +1,5 @@
 ent-ClothingHandsChameleon = schwarze Handschuhe
-    .desc = Regelmäßige schwarze Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsChameleonThief = schwarze Handschuhe
-    .desc = Regelmäßige schwarze Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.

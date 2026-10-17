@@ -5,14 +5,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # mop bucket
-mop-bucket-slot-component-slot-name-item = Position
-mop-bucket-slot-component-eject-verb = Entnahme
+mop-bucket-slot-component-slot-name-item = Gegenstand
+mop-bucket-slot-component-eject-verb = Herausnehmen
 # janitorial trolley
-janitorial-trolley-slot-component-slot-name-plunger = Pfropfen
-janitorial-trolley-slot-component-slot-name-goldenplunger = Goldpfropfen
-janitorial-trolley-slot-component-slot-name-sign = Zeichen
-janitorial-trolley-slot-component-slot-name-lightreplacer = Lichtersatz
+janitorial-trolley-slot-component-slot-name-plunger = Pümpel
+janitorial-trolley-slot-component-slot-name-goldenplunger = Goldener Pümpel
+janitorial-trolley-slot-component-slot-name-sign = Schild
+janitorial-trolley-slot-component-slot-name-lightreplacer = Lampenwechsler
 janitorial-trolley-slot-component-slot-name-spray = Spray
 janitorial-trolley-slot-component-slot-name-bucket = Eimer
-janitorial-trolley-slot-component-slot-name-trashbag = Papierkorb
-janitorial-trolley-slot-component-slot-name-mop = Mohn
+janitorial-trolley-slot-component-slot-name-trashbag = Müllsack
+janitorial-trolley-slot-component-slot-name-mop = Mopp

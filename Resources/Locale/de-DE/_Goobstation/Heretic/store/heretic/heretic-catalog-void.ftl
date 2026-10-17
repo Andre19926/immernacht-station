@@ -28,25 +28,25 @@ knowledge-path-void-s1-desc =
     Ich beginne, die Leere der Existenz zu erkennen. Irgendetwas beobachtet mich.
 
     Öffnet euch den Weg der Leere.
-    Ermöglicht es Ihnen, ein Messer bei Temperaturen unter Null in eine leere Klinge umzuwandeln.
-    Sie können nur zwei gleichzeitig erstellen.
+    Ermöglicht dir, ein Messer bei Temperaturen unter Null in eine leere Klinge umzuwandeln.
+    Du kannst nur zwei gleichzeitig erstellen.
 
 knowledge-path-void-s2-name = Griff der Leere
 knowledge-path-void-s2-desc =
-    Ich sah den kalten Beobachter, der mich beobachtete. Die Kälte steigt in mir.
-    Sie sind ruhig. Das ist nicht das Ende des Mysteriums.
+    Ich sah den kalten Beobachter, der mich beobachtet. Die Kälte steigt in mir auf.
+    Sie sind still. Das ist nicht das Ende des Rätsels.
 
-    Ihr Mansus Grasp wird das Opfer vorübergehend stummschalten und abschrecken.
-    Sie werden immun gegen kalte Temperaturen.
+    Dein Mansus-Griff bringt das Opfer vorübergehend zum Schweigen und kühlt es aus.
+    Du wirst immun gegen Kälte.
 
 
 knowledge-path-void-s3-name = Voidphase
 knowledge-path-void-s3-desc =
-    Die Entität nennt sich selbst den Aristokraten. Sie gehen mühelos wie nichts durch die Luft und hinterlassen eine harte, kalte Brise.
-    Sie verschwinden, und ich bleibe im Schneesturm.
+    Die Entität nennt sich selbst der Aristokrat. Mühelos schreitet sie durch die Luft und hinterlässt eine harte, kalte Brise.
+    Sie verschwindet, und ich bleibe im Schneesturm zurück.
 
-    Gewährleistet Ihnen Void Phase, einen ferngesteuerten Teleport-Zauber.
-    Zusätzlich verursacht Schäden an Heiden um Ihr ursprüngliches und Zielziel.
+    Gewährt dir Void Phase, einen gezielten Teleportzauber mit großer Reichweite.
+    Fügt außerdem Ungläubigen um deinen Ausgangs- und Zielort Schaden zu.
 
 # knowledge-path-void-s3-name = Aristocrat's Way
 # knowledge-path-void-s3-desc =
@@ -60,9 +60,9 @@ knowledge-path-void-s4-name = Zeichen der Leere
 knowledge-path-void-s4-desc =
     Ein Windstoß? Ein Schimmer in der Luft? Die Anwesenheit ist überwältigend, meine Sinne begannen mich zu verraten. Mein Verstand ist mein eigener Feind.
 
-    Dein Mansus-Graphen wendet nun das Zeichen der Leere an. Die Markierung wird durch einen Angriff mit Ihrem Void Blade ausgelöst.
+    Dein Mansus-Graphen wendet nun das Zeichen der Leere an. Die Markierung wird durch einen Angriff mit deinem Void Blade ausgelöst.
     Wenn es ausgelöst wird, gibt es dem Opfer den Fluch der Leere, der stumm wird und sie langsam zu Tode einfriert.
-    Sie müssen nicht mehr atmen /
+    Du musst nicht mehr atmen /
 
 # knowledge-path-void-s5-name = Void Blast
 # knowledge-path-void-s5-desc =
@@ -79,20 +79,20 @@ knowledge-path-void-s5-desc =
     Aber die einzigen Striemen, die gemacht werden, sind auf meiner eigenen Faust.
     Mein lächelndes Gesicht wendet sich mir zu und reflektiert in glasigen Augen den leeren Weg, den ich hinuntergeführt wurde.
 
-    Gewährt ihnen leeres gefängnis, ein zauberspruch, der ihr opfer in einen ball bringt und es unfähig macht, etwas zu tun oder zu sprechen. Gilt für void chill danach.
+    Gewährt dir Void Prison, einen Zauber, der dein Opfer in eine Kugel sperrt und es unfähig macht, etwas zu tun oder zu sprechen. Wendet danach Void Chill an.
 
 knowledge-path-void-s6-name = Void Pull
 knowledge-path-void-s6-desc =
-    Alles ist flüchtig, aber was bleibt noch? Ich bin kurz davor, das zu beenden, was begonnen wurde.
-    Der Aristokrat offenbart sich mir wieder. Sie sagen mir, dass ich zu spät komme. Ihre Anziehungskraft ist immens, ich kann nicht umkehren.
+    Alles ist flüchtig, aber was bleibt sonst? Ich bin nah dran, zu beenden, was begonnen wurde.
+    Der Aristokrat offenbart sich mir erneut. Er sagt mir, ich sei zu spät. Sein Sog ist gewaltig, ich kann nicht umkehren.
 
-    Gewährt Ihnen Void Pull, ein Zauber, der alle nahe gelegenen Heiden auf Sie zuzieht und sie kurz betäubt.
+    Gewährt dir Void Pull, einen Zauber, der alle Ungläubigen in der Nähe zu dir zieht und sie kurz betäubt.
 
 knowledge-path-void-s7-name = Suchende Klinge
 knowledge-path-void-s7-desc =
     Flüchtige Erinnerungen, flüchtige Füße. Ich markiere meinen Weg mit gefrorenem Blut auf dem Schnee. Bedeckt und vergessen.
 
-    Deine Klinge friert jetzt Feinde ein. Zusätzlich könnt ihr nun entfernte Ziele mit eurer Leerklinge angreifen und euch direkt neben ihnen teleportieren.
+    Deine Klinge friert jetzt Feinde ein. Zusätzlich kannst du nun entfernte Ziele mit deiner Leerklinge angreifen und dich direkt neben ihnen teleportieren.
 
 knowledge-path-void-s8-name = Leere Leitung
 knowledge-path-void-s8-desc =
@@ -100,15 +100,15 @@ knowledge-path-void-s8-desc =
     Über den Lärm gibt es keinen Unterschied zum Klappern von Fensterscheiben und dem gähnenden Wissen, das durch meinen Schädel prallt.
     Die Türen werden sich nicht schließen. Ich kann die Kälte jetzt nicht aufhalten.
 
-    Gewährt Ihnen Void Conduit, ein Zauber, der ein pulsierendes Tor zur Void selbst beschwört. Jeder Puls bricht Fenster und Luftschleusen, während Heathens mit einer eldritch Kälte und Abschirmung Ketzer gegen niedrigen Druck befallen.
+    Gewährt dir Void Conduit, ein Zauber, der ein pulsierendes Tor zur Void selbst beschwört. Jeder Puls bricht Fenster und Luftschleusen, während Heathens mit einer eldritch Kälte und Abschirmung Ketzer gegen niedrigen Druck befallen.
 
 knowledge-path-void-s9-name = Waltz am Ende der Zeit
 knowledge-path-void-s9-desc =
     Das Aufstiegsritual des Pfades der Leere.
-    Bringen Sie 3 Leichen zu einer Transmutationsrune bei Temperaturen unter Null, um das Ritual abzuschließen.
-    Wenn Sie fertig sind, gewähren Sie Aristokraten Segen.
-    Ein Schneesturm wird gerufen, alles um dich herum wird in Schnee verwandelt und die Luft wird ständig eingefroren. Diejenigen in der Nähe werden noch schneller zum Schweigen gebracht und eingefroren.
-    Lichter werden zerbrechen, wenn sie in der Nähe sind.
-    Laser werden durch Sie hindurchgehen und Kugeln werden an Ihrer Anwesenheit verlangsamt und werden Sie nicht treffen, der Effekt ist größer, wenn Sie entweder gehen oder liegen.
-    Wasser, Eis und rutschige Oberflächen nicht rutschen Sie.
-    Sie werden auch immun gegen Flammen, Weltraum und ähnliche Umweltgefahren. Sie erhalten völlige Bewegungsfreiheit in der Schwerelosigkeit.
+    Bringe 3 Leichen bei Temperaturen unter dem Gefrierpunkt zu einer Transmutationsrune, um das Ritual abzuschließen.
+    Nach Abschluss erhältst du den Segen des Aristokraten.
+    Ein Schneesturm wird heraufbeschworen, alles um dich herum wird zu Schnee und die Luft gefriert ununterbrochen. Wer in der Nähe ist, wird noch schneller zum Schweigen gebracht und eingefroren.
+    Lichter zerspringen in deiner Nähe.
+    Laser gehen durch dich hindurch, und Kugeln werden in deiner Gegenwart verlangsamt und verfehlen dich; der Effekt ist größer, wenn du gehst oder liegst.
+    Wasser, Eis und rutschige Oberflächen lassen dich nicht mehr ausrutschen.
+    Außerdem wirst du immun gegen Flammen, den Weltraum und ähnliche Umweltgefahren. Du erhältst völlige Bewegungsfreiheit in der Schwerelosigkeit.

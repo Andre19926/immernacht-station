@@ -6,12 +6,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-sovietsoda-1 = Für Kamerad und Land.
-advertisement-sovietsoda-2 = Haben Sie heute Ihre Ernährungsquote erfüllt?
+advertisement-sovietsoda-1 = Für Genosse und Vaterland.
+advertisement-sovietsoda-2 = Hast du heute deine Ernährungsquote erfüllt?
 advertisement-sovietsoda-3 = Sehr schön!
 advertisement-sovietsoda-4 = Wir sind einfache Menschen, denn das ist alles, was wir essen.
-advertisement-sovietsoda-5 = Wenn es eine Person gibt, gibt es ein Problem. Wenn es keine Person gibt, dann gibt es kein Problem.
-advertisement-sovietsoda-6 = Wenn es gut genug für das tägliche Leben ist, ist es gut genug für uns!
-thankyou-sovietsoda-1 = Genießen Sie, Genosse!
-thankyou-sovietsoda-2 = Jetzt machen Sie sich wieder an die Arbeit.
-thankyou-sovietsoda-3 = Das ist alles, was Sie bekommen.
+advertisement-sovietsoda-5 = Wo ein Mensch ist, ist ein Problem. Wo kein Mensch ist, ist kein Problem.
+advertisement-sovietsoda-6 = Wenn es für das tägliche Leben gut genug ist, ist es auch für uns gut genug!
+thankyou-sovietsoda-1 = Genieße, Genosse!
+thankyou-sovietsoda-2 = Und jetzt zurück an die Arbeit.
+thankyou-sovietsoda-3 = Das ist alles, was du bekommst.

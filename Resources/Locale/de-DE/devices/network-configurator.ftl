@@ -16,40 +16,40 @@ network-configurator-device-failed = Fehler beim Speichern des Netzwerkgeräts {
 network-configurator-too-many-devices = Zu viele Geräte auf diesem Gerät gespeichert!
 network-configurator-update-ok = Gerätespeicher aktualisiert.
 network-configurator-device-already-saved = Netzwerkeinrichtung: {$device} ist bereits gerettet.
-network-configurator-device-access-denied = Zugang verweigert!
+network-configurator-device-access-denied = Zugriff verweigert!
 network-configurator-link-mode-started = Startverknüpfungsvorrichtung: {$device}
-network-configurator-link-mode-stopped = Linking gestoppt.
+network-configurator-link-mode-stopped = Verknüpfung abgebrochen.
 network-configurator-mode-link = Link
 network-configurator-mode-list = Liste
 network-configurator-switched-mode = Schaltmodus in: {$mode}
 
 # Verbs
-network-configurator-save-device = Sicherungsvorrichtung
+network-configurator-save-device = Gerät speichern
 network-configurator-configure = Konfigurieren
-network-configurator-switch-mode = Schaltmodus
-network-configurator-link-defaults = Linkausfälle
-network-configurator-start-link = Startlink
+network-configurator-switch-mode = Modus wechseln
+network-configurator-link-defaults = Standardverknüpfungen
+network-configurator-start-link = Verknüpfung starten
 network-configurator-link = Link
 
 # ui
 network-configurator-title-saved-devices = Gespeicherte Geräte
 network-configurator-title-device-configuration = Gerätekonfiguration
-network-configurator-ui-clear-button = klar
+network-configurator-ui-clear-button = Leeren
 network-configurator-ui-count-label = {$count} Geräte
 
-network-configurator-text-set = Setz
-network-configurator-text-add = Addition
-network-configurator-text-clear = klar
-network-configurator-text-copy = Kopie
+network-configurator-text-set = Setzen
+network-configurator-text-add = Hinzufügen
+network-configurator-text-clear = Leeren
+network-configurator-text-copy = Kopieren
 network-configurator-text-show = Show
 
 # tooltips
-network-configurator-tooltip-set = Sets-Zielgeräteliste
+network-configurator-tooltip-set = Setzt die Zielgeräteliste
 network-configurator-tooltip-add = Addiert zur Zielgeräteliste
 network-configurator-tooltip-edit = Zielgeräteliste bearbeiten
-network-configurator-tooltip-clear = Klare Zielgeräteliste
+network-configurator-tooltip-clear = Zielgeräteliste leeren
 network-configurator-tooltip-copy = Kopieren der Geräteliste für das gehaltene Werkzeug
-network-configurator-tooltip-show = Zeigen Sie eine holographische Visualisierung der Zielgeräteliste
+network-configurator-tooltip-show = Zeige eine holographische Visualisierung der Zielgeräteliste
 
 # examine
 network-configurator-examine-mode-link = [color=red]Link[/color]
@@ -62,5 +62,5 @@ network-configurator-item-status-label = Modus: {$mode}
     Schalter: {$keybinding}
 
 # command
-cmd-clearnetworklinkoverlays-desc = Löschen Sie alle Netzwerkverbindungs-Overlays.
+cmd-clearnetworklinkoverlays-desc = Lösche alle Netzwerkverbindungs-Overlays.
 cmd-clearnetworklinkoverlays-help = Nutzung: clearnetworklinkoverlays

@@ -5,11 +5,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-ui-blueprint-map = Karte
-admin-ui-blueprint-path = Wegstrecke
+admin-ui-blueprint-path = Pfad
 admin-ui-blueprint-x = X
 admin-ui-blueprint-y = Y
 admin-ui-blueprint-rotation = Rotation
 
-admin-ui-blueprint-teleport = Teleportieren
+admin-ui-blueprint-teleport = Teleportieren zu
 admin-ui-blueprint-reset = Zurücksetzen auf Standard
-admin-ui-blueprint-load = Load Blueprint
+admin-ui-blueprint-load = Bauplan laden

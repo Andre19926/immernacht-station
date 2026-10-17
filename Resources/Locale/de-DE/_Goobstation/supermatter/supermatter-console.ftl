@@ -7,7 +7,7 @@ supermatter-console-window-label-sm = {CAPITALIZE($name)}
 
 supermatter-console-window-label-alert-types = Supermatterstatus:
 supermatter-console-window-error-status = Fehler
-supermatter-console-window-inactive-status = inaktiv
+supermatter-console-window-inactive-status = Inaktiv
 supermatter-console-window-normal-status = Normal
 supermatter-console-window-caution-status = Vorsicht
 supermatter-console-window-warning-status = Warnung
@@ -40,5 +40,5 @@ supermatter-console-window-label-absorption-bar = {$absorption}%
 supermatter-console-window-label-gas = Unbekanntes Gas
 supermatter-console-window-label-gas-bar = {$gas}%
 
-supermatter-console-window-flavor-left = ⚠ Nähern Sie sich nicht dem Kristall
+supermatter-console-window-flavor-left = ⚠ Nähern dich nicht dem Kristall
 supermatter-console-window-flavor-right = v1.1

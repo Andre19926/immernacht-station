@@ -13,11 +13,11 @@ ent-WeaponMechCombatFiredartLaser = CH-PS "Firedart" Laser
 ent-WeaponMechCombatTeslaCannon = P-X Tesla Cannon
     .desc = Eine Waffe für Kampf-Mechs, die Energiebälle abfeuern, basierend auf dem Prinzip eines experimentellen Tesla-Motors.
 
-ent-WeaponMechCombatDisabler = CH-PD Disabler
-    .desc = Eine nicht tödlich montierte Elektroschockpistole, mit der Sie Eindringlinge immobilisieren können.
+ent-WeaponMechCombatDisabler = CH-PD-Neutralisierer
+    .desc = Eine nicht tödlich montierte Elektroschockpistole, mit der du Eindringlinge immobilisieren kannst.
 
 ent-WeaponMechCombatTaser = PBT "Pacifier" montierter Taser
-    .desc = Ein montierter nicht-tödlicher Taser, mit dem Sie Eindringlinge betäuben können.
+    .desc = Ein montierter nicht-tödlicher Taser, mit dem du Eindringlinge betäuben kannst.
 
 ent-WeaponMechCombatShotgun = LBX AC 10 "Scattershot"
     .desc = Eine montierte Schrotflinte für den Einsatz gegen feindliche Arbeitskräfte.

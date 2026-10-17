@@ -9,7 +9,7 @@ marking-SpotsChest-spots2 = Bauch
 
 marking-VChest = Vee
 marking-VChest-v1 = oben
-marking-VChest-v2 = Mittler
+marking-VChest-v2 = Mitte
 marking-VChest-v3 = Boden
 
 marking-VoxBelly = Bauch
@@ -61,8 +61,8 @@ marking-VoxEarhole-earhole = Trommelfellmembran
 
 marking-VoxHeadGradient = Gefälle
 marking-VoxHeadGradient-gradient1 = vorn
-marking-VoxHeadGradient-gradient2 = Mittler
-marking-VoxHeadGradient-gradient3 = Rücken
+marking-VoxHeadGradient-gradient2 = Mitte
+marking-VoxHeadGradient-gradient3 = Zurück
 
 marking-VoxNeckband = Halsband
 marking-VoxNeckband-neckband = Halsband
@@ -148,7 +148,7 @@ marking-VoxRFootScales = Fußwaage rechts
 
 marking-VoxHandGradientLHand = Gradient (linke Hand)
 marking-VoxHandGradientLHand-gradient1 = Boden
-marking-VoxHandGradientLHand-gradient2 = Mittler
+marking-VoxHandGradientLHand-gradient2 = Mitte
 marking-VoxHandGradientLHand-gradient3 = oben
 
 marking-VoxLArmProsthetic = Prothese (links)
@@ -160,7 +160,7 @@ marking-VoxLHandScales = Handwaage links
 
 marking-VoxHandGradientRHand = Gradient (rechte Hand)
 marking-VoxHandGradientRHand-gradient1 = Boden
-marking-VoxHandGradientRHand-gradient2 = Mittler
+marking-VoxHandGradientRHand-gradient2 = Mitte
 marking-VoxHandGradientRHand-gradient3 = oben
 
 marking-VoxRArmProsthetic = Prothese (rechts)
@@ -228,8 +228,8 @@ marking-VoxStreamers-streamers3 = Auge
 # Tail
 
 marking-FriendsOfAFeather = Feder eines Freundes
-marking-FriendsOfAFeather-friendsfeather1 = Feder
-marking-FriendsOfAFeather-friendsfeather2 = Feder
+marking-FriendsOfAFeather-friendsfeather1 = Federschnitt
+marking-FriendsOfAFeather-friendsfeather2 = Federschnitt
 
 marking-SpotsTail = Gefleckter Schwanz
 marking-SpotsTail-spots= Gefleckter Schwanz

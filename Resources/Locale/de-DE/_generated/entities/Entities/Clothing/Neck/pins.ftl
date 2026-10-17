@@ -8,7 +8,7 @@ ent-ClothingNeckAromanticPin = Aromantischer Stift
     .desc = Sei aro do crime.
 
 ent-ClothingNeckAroacePin = Aroace Pin
-    .desc = Seien Sie aroace Verbrechen tun.
+    .desc = Sei aroace Verbrechen tun.
 
 ent-ClothingNeckAsexualPin = Asexuelle Pinsel
     .desc = Sei ace do crime.

@@ -9,18 +9,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-console-window-privileged-id = Privilegierter Ausweis:
+id-card-console-window-privileged-id = Berechtigte ID:
 id-card-console-window-target-id = Ziel-ID:
 id-card-console-window-full-name-label = Vollständiger Name:
-id-card-console-window-save-button = Sparen
-id-card-console-window-job-title-label = Berufsbezeichnung:
-id-card-console-window-eject-button = Auswurf
+id-card-console-window-save-button = Speichern
+id-card-console-window-job-title-label = Jobtitel:
+id-card-console-window-eject-button = Auswerfen
 id-card-console-window-insert-button = Insert
 id-card-console-window-job-selection-label = Job Preset (Set-Abteilung und Job-Icon):
-id-card-console-window-select-all-button = Zuschuss alle
-id-card-console-window-deselect-all-button = Alle widerrufen
+id-card-console-window-select-all-button = Alle erteilen
+id-card-console-window-deselect-all-button = Alle entziehen
 
-access-id-card-console-component-no-hands-error = Sie haben keine Hände.
+access-id-card-console-component-no-hands-error = Du hast keine Hände.
 id-card-console-privileged-id = Berechtigte ID
 id-card-console-target-id = Ziel-ID
 id-card-console-damaged = Strukturelle Integrität kompromittiert, Inhalte auswerfen.

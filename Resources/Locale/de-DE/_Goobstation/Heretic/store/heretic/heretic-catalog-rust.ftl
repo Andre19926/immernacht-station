@@ -24,27 +24,27 @@
 
 knowledge-path-rust-s1-name = Die Geschichte von Blacksmith
 knowledge-path-rust-s1-desc =
-    "Lassen Sie mich Ihnen eine Geschichte erzählen", sagte der Schmied, als er tief in seine rostige Klinge blickte.
+    "Lass mich dir eine Geschichte erzählen", sagte der Schmied, als er tief in seine rostige Klinge blickte.
 
     Öffnet euch den Weg des Rust.
-    Ermöglicht es Ihnen, ein Messer mit einem beliebigen Müllartikel in eine Rusty Blade zu verwandeln.
-    Sie können nur zwei gleichzeitig erstellen.
+    Ermöglicht dir, ein Messer mit einem beliebigen Müllartikel in eine Rusty Blade zu verwandeln.
+    Du kannst nur zwei gleichzeitig erstellen.
 
 knowledge-path-rust-s2-name = Griff von Rust
 knowledge-path-rust-s2-desc =
     An der Decke des Mansus wächst Rost wie Moos auf einem Stein.
 
-    Ihr Mansusgras wird nicht lebende Materie massiv schädigen und jede Oberfläche, die es berührt, rosten.
+    Dein Mansusgras wird nicht lebende Materie massiv schädigen und jede Oberfläche, die es berührt, rosten.
     Bereits verrostete Oberflächen werden zerstört.
-    Stehen auf Rusted Fliesen heilt, säubert Chems von Ihrem Körper und gewährt Ihnen Widerstand gegen Schlagstöcke.
-    Ermöglicht es Ihnen, grundlegende Eisenwände und -böden zu rosten.
+    Stehen auf Rusted Kacheln heilt, säubert Chems von deinem Körper und gewährt dir Widerstand gegen Schlagstöcke.
+    Ermöglicht dir, grundlegende Eisenwände und -böden zu rosten.
     Gibt dir Immunität gegen Ekel.
 
 knowledge-path-rust-s3-name = Aggressiver Spread
 knowledge-path-rust-s3-desc =
     Alle Weisen wissen gut, die Rusted Hills nicht zu besuchen. Doch die Geschichte des Schmieds war inspirierend.
 
-    Gewährt Ihnen Aggressive Spread, ein Zauber, der Rost auf nahe gelegene Oberflächen verteilt.
+    Gewährt dir Aggressive Spread, ein Zauber, der Rost auf nahe gelegene Oberflächen verteilt.
 
 # knowledge-path-rust-s3-name = Leeching Walk
 # knowledge-path-rust-s3-desc =
@@ -56,41 +56,41 @@ knowledge-path-rust-s4-name = Mark von Rust
 knowledge-path-rust-s4-desc =
     Der Schmied schaut weg. An einen Ort, der vor langer Zeit verloren gegangen ist. "Rusted Hills helfen denen, die in Not sind ... zu einem Preis."
 
-    Dein Mansus-Gras gilt nun das Rustzeichen. Die Markierung wird durch einen Angriff mit Ihrer Rusty Blade ausgelöst.
-    Wenn es ausgelöst wird, wird Ihr Opfer schweren Ekel erleiden.
-    Ermöglicht es Ihnen, spezielle Materialwände zu rosten.
+    Dein Mansus-Gras gilt nun das Rustzeichen. Die Markierung wird durch einen Angriff mit deiner Rusty Blade ausgelöst.
+    Wenn es ausgelöst wird, wird dein Opfer schweren Ekel erleiden.
+    Ermöglicht dir, spezielle Materialwände zu rosten.
 
 knowledge-path-rust-s5-name = Rostbau
 knowledge-path-rust-s5-desc =
     Bilder von fremden und ominösen Strukturen begannen in meinem Kopf zu tanzen. Von Kopf bis Fuß in dickem Rost bedeckt, sahen sie nicht mehr von Menschen gemacht aus. Oder vielleicht waren sie nie an erster Stelle.
 
-    Gewährt Ihnen Rostbau, ein Zauber, mit dem Sie eine Wand aus einem verrosteten Boden erheben können.
+    Gewährt dir Rostbau, ein Zauber, mit dem du eine Wand aus einem verrosteten Boden erheben kannst.
     Jeder, der über der Mauer steht, wird zur Seite geworfen und erleidet Schaden.
 
 knowledge-path-rust-s6-name = Entropischer Plume
 knowledge-path-rust-s6-desc =
-    Die Korrosion war nicht aufzuhalten. Der Rost war unerfreulich. Der Schmied war weg, und Sie halten ihre Klinge. Champions of Hope, der Rustbringer ist nahe!
+    Die Korrosion war nicht aufzuhalten. Der Rost war unerfreulich. Der Schmied war weg, und du hältst ihre Klinge. Champions of Hope, der Rustbringer ist nahe!
 
-    Gewährt Ihnen Entropic Plume, ein Zauber, der eine ärgerliche Welle von Rust freisetzt. Blinds, Gifte, und fügt Amok auf alle Heiden, die es trifft, wodurch sie auf Freund oder Feind wild zu schlagen. Auch rostet und zerstört und Oberflächen trifft es.
+    Gewährt dir Entropic Plume, ein Zauber, der eine ärgerliche Welle von Rust freisetzt. Blinds, Gifte, und fügt Amok auf alle Heiden, die es trifft, wodurch sie auf Freund oder Feind wild zu schlagen. Auch rostet und zerstört und Oberflächen trifft es.
 
 knowledge-path-rust-s7-name = Giftige Klinge
 knowledge-path-rust-s7-desc =
-    Der Schmied gibt Ihnen seine Klinge. "Die Klinge wird dich durch das Fleisch führen, wenn du es lässt." Der schwere Rost belastet es. Du starrst tief hinein. Die Rusted Hills rufen Sie jetzt an.
+    Der Schmied gibt dir seine Klinge. "Die Klinge wird dich durch das Fleisch führen, wenn du es lässt." Der schwere Rost belastet es. Du starrst tief hinein. Die Rusted Hills rufen dich jetzt an.
 
-    Dein Rusty Die Klinge verursacht jetzt giftige Schäden und Abscheu gegenüber denen, die Sie angreifen, und erhöht auch die Fäulnis der Leichen.
-    Stehen auf Rusted Fliesen verschließt Ihre Wunden und heilt Ihren Schmerz, heilende Wirkung erhöht.
-    Ermöglicht es Ihnen, verstärkte und abbauende Wände zu rosten.
+    Deine Rostklinge verursacht jetzt giftige Schäden und Abscheu gegenüber denen, die du angreifst, und erhöht auch die Fäulnis der Leichen.
+    Stehen auf Rusted Kacheln verschließt deine Wunden und heilt deinen Schmerz, heilende Wirkung erhöht.
+    Ermöglicht dir, verstärkte und abbauende Wände zu rosten.
 
 knowledge-path-rust-s8-rust-charge-name = Rostladung
 knowledge-path-rust-s8-rust-charge-desc =
     Die Hügel funkelten jetzt, als ich mich ihnen näherte, begann mein Geist zu wandern. Ich gewann schnell meine Entschlossenheit zurück und drängte nach vorne, dieses letzte Bein wäre das tückischste.
 
-    Gewährt Ihnen Rust Charge, eine gezielte Aktion, die nur auf eine verrostete Fliese gegossen werden kann. Es lädt Sie vorwärts und zerstört alle verrosteten Objekte, mit denen Sie in Kontakt kommen, es wird auch anderen hohen Schaden zufügen und während der Ladung um Sie herum rosten.
+    Gewährt dir Rust Charge, eine gezielte Aktion, die nur auf eine verrostete Kachel gegossen werden kann. Du stürmst dabei vorwärts und zerstörst alle verrosteten Objekte, mit denen du in Kontakt kommst. Außerdem fügst du anderen hohen Schaden zu und rostest während des Ansturms alles um dich herum.
 
 knowledge-path-rust-s9-name = Eid von Rustbringer
 knowledge-path-rust-s9-desc =
     Das Aufstiegsritual des Pfades von Rust.
-    Bringen Sie 3 verrottende oder Silikonleichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
+    Bringe 3 verrottende oder Silikonleichen zu einer Transmutationsrune, um das Ritual zu vervollständigen.
     Wenn die Ritualstätte fertiggestellt ist, wird sie endlos Rost auf jede Oberfläche verteilen und für nichts aufhören.
-    Darüber hinaus werden Sie auf Rost extrem widerstandsfähig, heilen mit viel höherer Rate, regenerieren verlorene Gliedmaßen und werden immun gegen viele Effekte und Gefahren.
-    Sie werden in der Lage sein, fast alles beim Aufsteigen zu rosten.
+    Darüber hinaus werden dich auf Rost extrem widerstandsfähig, heilen mit viel höherer Rate, regenerieren verlorene Gliedmaßen und werden immun gegen viele Effekte und Gefahren.
+    Du wirst in der Lage sein, fast alles beim Aufsteigen zu rosten.

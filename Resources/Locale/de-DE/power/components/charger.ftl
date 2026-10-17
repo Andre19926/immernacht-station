@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-charger-examine = Gebühren bei [color={$color}]{$chargeRate}W[/color].
-charger-component-charge-rate = Gebührensatz
-charger-content = Die aktuelle Ladung ist bei [color=#5E7C16]{$chargePercent}[/color]%.
-charger-empty = Im Ladegerät ist nichts.
+charger-examine = Lädt mit [color={$color}]{$chargeRate}W[/color].
+charger-component-charge-rate = Laderate
+charger-content = Der aktuelle Ladestand beträgt [color=#5E7C16]{$chargePercent}[/color] %.
+charger-empty = Im Ladegerät steckt nichts.

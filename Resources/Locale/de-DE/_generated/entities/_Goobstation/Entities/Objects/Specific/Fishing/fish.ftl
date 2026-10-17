@@ -7,7 +7,7 @@ ent-FishAngler = Anglerfisch
 ent-FishBass = Fischbarsch
     .desc = Wahrscheinlich der normalste Fisch überhaupt. Es sei denn, man benutzt sie als Bassgitarre.
 
-ent-FishBingle = Bindelfisch
+ent-FishBingle = Bingle-Fisch
     .desc = Binsen
 
 ent-FishBlob = Klumpenfisch
@@ -25,7 +25,7 @@ ent-FishCat = Katzenfisch
 ent-FishTropicalClown = Clown-Clownfisch
     .desc = Das ist fast ein Witz.
 
-ent-FishNukeDisk = Ackerfisch
+ent-FishNukeDisk = Nuke-Disk-Fisch
     .desc = Eigentlich ist es eine schlechte Idee, einen Fisch in ein nukleares Explosionsgerät zu stecken.
 
 ent-FishGib = Gib-Stick-Fisch
@@ -40,14 +40,14 @@ ent-FishNuker = Kernbetriebsfähige Fische
 ent-FishPuffer = Kugelfisch
     .desc = Es ist giftig ... in vielerlei Hinsicht.
 
-ent-FishSilver = Silberfischfisch
+ent-FishSilver = Silberner Fisch
     .desc = Enthält tatsächlich Silber.
 
 ent-FishTropicalSun = Tropische Sonnenfische
     .desc = Es sah wahrscheinlich zu lange in die Sonne...?
 
-ent-FishToxic = Giftige Abfälle
-    .desc = Wenn Sie sich diesen Fisch ansehen, verstehen Sie, wie schlecht es war, Atommüll in Flüsse zu lassen.
+ent-FishToxic = Giftmüll-Fisch
+    .desc = Wenn du diesen Fisch ansiehst, verstehst du, wie schlecht es war, Atommüll in Flüsse zu kippen.
 
 ent-FishTropical = Clownfisch
     .desc = Dieser Fisch ist immer auf der Suche nach etwas... Oder vielleicht jemand?

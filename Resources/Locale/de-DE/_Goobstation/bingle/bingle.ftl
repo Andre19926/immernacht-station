@@ -19,7 +19,7 @@ bingle-verb-4 = Grumbles
 bingle-station-announcement = Bingle Bingle Bingle
 
 ghost-role-information-bingle-name = Bingle
-ghost-role-information-bingle-description = Die Grube ist Liebe. Die Grube ist das Leben. Die Grube muss wachsen. Verwenden Sie +w, um mit anderen Bingles zu bingen.
+ghost-role-information-bingle-description = Die Grube ist Liebe. Die Grube ist das Leben. Die Grube muss wachsen. Verwende +w, um mit anderen Bingles zu bingen.
 ghost-role-information-bingle-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] mit anderen Bingles
 
 bingle-upgrade-success = Du fühlst dich stärker

@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flammable-component-resist-message = Sie stoppen, fallen und rollen!
+flammable-component-resist-message = Du hältst an, wirfst dich zu Boden und rollst dich ab!

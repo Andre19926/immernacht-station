@@ -1,77 +1,77 @@
-ent-ClothingHandsGlovesEnvirogloves = Plasma-Umgebungslieben
+ent-ClothingHandsGlovesEnvirogloves = Plasma-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesBlack = Schwarze Umgebung
+ent-ClothingHandsGlovesEnviroglovesBlack = Umwelthandschuhe (schwarz)
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesCombat = Bekämpfung von Umweltlieben
+ent-ClothingHandsGlovesEnviroglovesCombat = Kampf-Umwelthandschuhe
     .desc = Speziell entwickelte Umgebungsschuhe für Kampf- und Schockschutz.
 
-ent-ClothingHandsGlovesEnviroglovesNitrile = Nitril-Umgebungslieblinge
+ent-ClothingHandsGlovesEnviroglovesNitrile = Nitril-Umwelthandschuhe
     .desc = Pricy Nitril Handschuhe für Plasmamen gemacht.
 
-ent-ClothingHandsGlovesEnviroglovesWhite = Weiße Umgebung
+ent-ClothingHandsGlovesEnviroglovesWhite = Umwelthandschuhe (weiß)
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesColor = Umgebungslieben
+ent-ClothingHandsGlovesEnviroglovesColor = Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesDetective = Forensische Envirogloves
+ent-ClothingHandsGlovesEnviroglovesDetective = Forensik-Umwelthandschuhe
     .desc = Verdeckt diese skandalöse Knochen Fingerabdrücke.
 
-ent-ClothingHandsGlovesEnviroglovesRoboticist = Robotiker Umwelt liebt
+ent-ClothingHandsGlovesEnviroglovesRoboticist = Robotiker-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesJanitor = Hausmeister envirogloves
+ent-ClothingHandsGlovesEnviroglovesJanitor = Hausmeister-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesCargo = Frachtumwelt liebt
+ent-ClothingHandsGlovesEnviroglovesCargo = Fracht-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesEngineering = Engineering Enviogloves
+ent-ClothingHandsGlovesEnviroglovesEngineering = Technik-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesAtmos = atmos envirogloves
+ent-ClothingHandsGlovesEnviroglovesAtmos = Atmos-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesSalvage = Salvage enviroglove
+ent-ClothingHandsGlovesEnviroglovesSalvage = Salvage-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesLeather = Hydrokulturen envirogloves
-    .desc = Diese Lederhandschuhe schützen Ihre knochigen Hände vor Dornen, Widerhaken, Stacheln und Stacheln.
+ent-ClothingHandsGlovesEnviroglovesLeather = Hydroponik-Umwelthandschuhe
+    .desc = Diese Lederhandschuhe schützen deine knochigen Hände vor Dornen, Widerhaken, Stacheln und Stacheln.
 
-ent-ClothingHandsGlovesEnviroglovesPrototype = Prototyp envirogloves
+ent-ClothingHandsGlovesEnviroglovesPrototype = Prototyp-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesClown = Clowns envirogloves
+ent-ClothingHandsGlovesEnviroglovesClown = Clown-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesHoP = Leiter der Personalumwelt
+ent-ClothingHandsGlovesEnviroglovesHoP = Personalchef-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen, knochigen Hände. Scheint ein Versuch zu sein, eine Replik der Handschuhe des Kapitäns zu machen.
 
-ent-ClothingHandsGlovesEnviroglovesCaptain = Kapitäns-Umweltführer
+ent-ClothingHandsGlovesEnviroglovesCaptain = Kapitän-Umwelthandschuhe
     .desc = Deckt diese skandalösen, knöchernen Hände auf eine ausgefallene Weise.
 
-ent-ClothingHandsGlovesEnviroglovesChiefEngineer = Umgebung des Chefingenieurs
+ent-ClothingHandsGlovesEnviroglovesChiefEngineer = Chefingenieur-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesResearchDirector = Die Umgebung des Forschungsdirektors
+ent-ClothingHandsGlovesEnviroglovesResearchDirector = Forschungsleiter-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesPurple = Purpurnuss
+ent-ClothingHandsGlovesEnviroglovesPurple = Umwelthandschuhe (lila)
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesAdminAssistant = Umgebung des Verwaltungsassistenten
+ent-ClothingHandsGlovesEnviroglovesAdminAssistant = Verwaltungsassistent-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesColorDarkGreen = dunkelgrüne Umweltlieben
+ent-ClothingHandsGlovesEnviroglovesColorDarkGreen = Umwelthandschuhe (dunkelgrün)
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesColorDarkGrey = dunkelgraue Umgebungslieben
+ent-ClothingHandsGlovesEnviroglovesColorDarkGrey = Umwelthandschuhe (dunkelgrau)
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesGladiator = Gladiator envirogloves
+ent-ClothingHandsGlovesEnviroglovesGladiator = Gladiator-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesReporter = Reporter envirogloves
+ent-ClothingHandsGlovesEnviroglovesReporter = Reporter-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen knochigen Hände.

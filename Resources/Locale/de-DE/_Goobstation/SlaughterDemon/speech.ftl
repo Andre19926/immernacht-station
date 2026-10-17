@@ -48,7 +48,7 @@ accent-demonic-suffix-2 = FLESH IST WEAK.
 accent-demonic-suffix-3 = RIP UND TEAR.
 accent-demonic-suffix-4 = DIE SCHREIBUNG.
 accent-demonic-suffix-5 = Ich höre dein Herz.
-accent-demonic-suffix-6 = Bieten Sie Ihre Knochen an.
+accent-demonic-suffix-6 = Biete deine Knochen an.
 accent-demonic-suffix-7 = Blut wird dich ertrinken.
 
 # speech verbs

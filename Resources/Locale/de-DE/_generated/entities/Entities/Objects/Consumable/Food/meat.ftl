@@ -5,7 +5,7 @@ ent-FoodMeatHuman = rohes menschliches Fleisch
     .desc = Brutto.
 
 ent-FoodMeatFish = Rohkarpfenfilets
-    .desc = Ihre letzten Worte sind "Wow, exotisch!" sind es nicht wert. Aber der Geschmack selbst? Vielleicht.
+    .desc = Deine letzten Worte „Wow, exotisch!“ sind es nicht wert. Aber der Geschmack selbst? Vielleicht.
 
 ent-FoodMeatBacon = Rohbacon
     .desc = Ein rohes Stück Speck.
@@ -17,10 +17,10 @@ ent-FoodMeatPenguin = rohes Pinguinfleisch
     .desc = Eine Platte aus rohem Pinguinfleisch. Kann als Ersatz für Fisch in Rezepten verwendet werden.
 
 ent-FoodMeatChicken = rohes Hühnerfleisch
-    .desc = Eine Platte aus rohem Huhn. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Eine Platte aus rohem Huhn. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatDuck = rohes Entenfleisch
-    .desc = Eine Platte roher Ente. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Eine Platte roher Ente. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatCorgi = Korgi-Fleisch in Erstschnitt
     .desc = Das verdorbene Geschenk eines bösen Verbrechens. Das Fleisch mag lecker sein, aber zu welchem Preis?
@@ -44,7 +44,7 @@ ent-FoodMeatPlant = rohes Pflanzenfleisch
     .desc = Alle Freuden des gesunden Essens mit all dem Spaß am Kannibalismus.
 
 ent-FoodMeatRotten = Fäulnisfleisch
-    .desc = Auf halbem Weg zum Dünger für Ihren Garten.
+    .desc = Auf halbem Weg zum Dünger für deinen Garten.
 
 ent-FoodMeatSpider = rohes Spinnenfleisch
     .desc = Eine Scheibe Spinnenfleisch. Das ist so kafkaesk.
@@ -53,7 +53,7 @@ ent-FoodMeatSpiderLeg = Rohes Spinnenbein
     .desc = Ein immer noch zuckendes Bein einer riesigen Spinne ... du willst das nicht wirklich essen, oder?
 
 ent-FoodMeatWheat = Fleischweizenklumpen
-    .desc = Das sieht nicht wie Fleisch aus, aber Ihre Standards sind anfangs nicht so hoch.
+    .desc = Das sieht nicht wie Fleisch aus, aber deine Standards sind anfangs nicht so hoch.
 
 ent-FoodMeatSnake = rohes Schlangenfleisch
     .desc = Ein langes Stück Schlangenfleisch, hoffentlich nicht giftig.
@@ -122,7 +122,7 @@ ent-FoodMeatGoliathCooked = Goliathsteak
     .desc = Ein leckeres, lavagekochtes Steak.
 
 ent-FoodMeatRounyCooked = Rouny Steak CAS-Nr.
-    .desc = Manche töten, um zu überleben. Sie auf der anderen Seite, töten zum Spaß.
+    .desc = Manche töten, um zu überleben. Du hingegen tötest zum Spaß.
 
 ent-FoodMeatLizardCooked = Echsensteak
     .desc = Gekochtes, hartes Echsenfleisch.
@@ -155,10 +155,10 @@ ent-FoodMeatPenguinCutlet = Rohes Pinguin-Schnitzel
     .desc = Ein Stück rohem Pinguinfleisch. Kann als Ersatz für Fisch in Rezepten verwendet werden.
 
 ent-FoodMeatChickenCutlet = rohes Hähnchenschnitzel
-    .desc = Ein Stück rohes Huhn. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Ein Stück rohes Huhn. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatDuckCutlet = rohes Entenschnitzel
-    .desc = Ein Stück rohe Ente. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Ein Stück rohe Ente. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatLizardCutlet = rohes Echsenschnitzel
     .desc = Köstliches Dino-Schnitzel.
@@ -188,10 +188,10 @@ ent-FoodMeatPenguinCutletCooked = Pinguin-Schnitzel
     .desc = Ein Stück gekochtes Pinguinfleisch.
 
 ent-FoodMeatChickenCutletCooked = Hähnchenschnitt
-    .desc = Ein Stück gekochtes Huhn. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Ein Stück gekochtes Huhn. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatDuckCutletCooked = Entenschnitzel
-    .desc = Ein Schnitzel gekochter Ente. Denken Sie daran, Ihre Hände zu waschen!
+    .desc = Ein Schnitzel gekochter Ente. Denke daran, deine Hände zu waschen!
 
 ent-FoodMeatLizardCutletCooked = Echsenschnitzel
     .desc = Köstlich gekochtes Dino-Schnitzel.

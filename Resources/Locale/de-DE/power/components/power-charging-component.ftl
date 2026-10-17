@@ -9,20 +9,20 @@
 power-charge-window-status = Status:
 power-charge-window-power = Leistung:
 power-charge-window-eta = ETA:
-power-charge-window-charge = Gebühr:
+power-charge-window-charge = Ladung:
 
 ## UI statuses
 power-charge-window-status-fully-charged = Voll aufgeladen
-power-charge-window-status-off = Ausgeschaltet
-power-charge-window-status-charging = Gebühren
-power-charge-window-status-discharging = Entladen
+power-charge-window-status-off = Aus
+power-charge-window-status-charging = Lädt
+power-charge-window-status-discharging = Entlädt
 
 ## UI Power Buttons
-power-charge-window-power-on = On
-power-charge-window-power-off = Ausgeschaltet
+power-charge-window-power-on = An
+power-charge-window-power-off = Aus
 power-charge-window-power-label = { $draw } / { $max } W
 
 ## UI ETA label
 
-power-charge-window-eta-none = N/A
+power-charge-window-eta-none = k. A.
 power-charge-window-eta-value = { TOSTRING($left, "m\\:ss") }

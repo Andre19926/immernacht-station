@@ -26,4 +26,4 @@ ent-FenceWoodSmallTJunction = kleiner Holzzaun
     .desc = Holzstück kleiner Zaun. Der beste Schutz für die Umzäunung eines privaten Territoriums!
 
 ent-FenceWoodSmallGate = Holzzauntor
-    .desc = Wenn Sie dieses Tor betrachten, erscheint ein vertrautes Bild in Ihrem Kopf. Wo ist mein Schwein?
+    .desc = Wenn du dieses Tor betrachtest, erscheint ein vertrautes Bild in deinem Kopf. Wo ist mein Schwein?

@@ -1,4 +1,4 @@
-ent-ClothingHeadHatChameleon = Rüben
+ent-ClothingHeadHatChameleon = Barett
     .desc = Eine Berette, ein Künstler Lieblingskopfbedeckung.
 
 ent-ClothingHeadHatDetGadget = Go Go Hat

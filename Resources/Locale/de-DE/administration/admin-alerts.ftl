@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-alert-shared-connection = {$player} teilt eine Verbindung mit {$otherCount} Connected Player(s): {$otherList}
-admin-alert-ipintel-blocked = {$player} wurde vom Beitritt abgelehnt, weil ihre IP eine {TOSTRING($percent, "P2")} Vertrauen, ein vpn/datacenter zu sein.
-admin-alert-ipintel-warning = {$player} IP hat eine {TOSTRING($percent, "P2")} Vertrauen, ein vpn/datacenter zu sein. Bitte sehen Sie sie sich an.
+admin-alert-shared-connection = {$player} teilt sich eine Verbindung mit {$otherCount} verbundenen Spielern: {$otherList}
+admin-alert-ipintel-blocked = {$player} wurde am Beitritt gehindert: Die IP ist mit {TOSTRING($percent, "P2")} Wahrscheinlichkeit ein VPN/Rechenzentrum.
+admin-alert-ipintel-warning = Die IP von {$player} ist mit {TOSTRING($percent, "P2")} Wahrscheinlichkeit ein VPN/Rechenzentrum. Bitte im Auge behalten.
 admin-alert-antag-label = {$message} [ANTAG: {$name}, {$subtype}]
 admin-alert-tp-to-players-header = Spieler:{" "}
-admin-alert-tp-to-coords-header = Kordeln:{" "}
+admin-alert-tp-to-coords-header = Koordinaten:{" "}

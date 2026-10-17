@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-disposal-tagger-window-title = Entsorgungs-Tagger
+disposal-tagger-window-title = Müllleitungs-Etikettierer
 disposal-tagger-window-tag-input-label = Tag:
-disposal-tagger-window-tag-confirm-button = Bestätigung
+disposal-tagger-window-tag-confirm-button = Bestätigen

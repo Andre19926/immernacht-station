@@ -11,5 +11,5 @@ lube-success = {CAPITALIZE(THE($target))} Es ist mit Gleitmittel bedeckt!
 lubed-name-prefix = geschmiert {$baseName}
 lube-failure = Can't cover {THE($target)} In Gleitmittel!
 lube-slip = {CAPITALIZE(THE($target))} Rutscht aus deinen Händen!
-lube-verb-text = Gleitmittel anwenden
-lube-verb-message = Ein Objekt schmieren
+lube-verb-text = Gleitmittel auftragen
+lube-verb-message = Objekt einschmieren

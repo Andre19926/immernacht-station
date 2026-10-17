@@ -8,7 +8,7 @@ ent-ClothingEyesNightVisionGogglesNukie = Syndicate Nachtsichtbrille
     .desc = Ein High-Tech-Paar Nachtsichtbrille. Hat medizinische Analysetechnologie.
 
 ent-ClothingEyesThermalVisionGoggles = Wärmesichtbrille
-    .desc = Jetzt können Sie alle sehen!
+    .desc = Jetzt kannst du alle sehen!
 
 ent-ClothingEyesThermalVisionGogglesSyndie = Wärmesichtbrille
     .desc = Ein High-Tech-Paar Thermobrille.

@@ -31,7 +31,7 @@ comp-secret-stash-verb-take-out-message-nothing = In {$stashname} ist nichts.
 
 comp-secret-stash-verb-close = Schließen
 comp-secret-stash-verb-cant-close = Damit kannst du {$stashname} nicht schließen.
-comp-secret-stash-verb-open = Öffnen
+comp-secret-stash-verb-open = Offen
 
 ### Stash names
 secret-stash-plant = Pflanze

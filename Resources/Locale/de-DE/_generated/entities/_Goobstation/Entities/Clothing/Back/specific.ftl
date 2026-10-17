@@ -10,7 +10,7 @@ ent-ClothingBackpackStasisBatteryUnremoveableFilled = Stasisspeicherung
 ent-ClothingBackpackMercFilledHECU = Söldnerbeutel
     .desc = Ein Rucksack, der an vielen gefährlichen Orten war, ein zuverlässiger Kampfrucksack.
 
-ent-ClothingBackpackDuffelGman = Merkwürdiger Duffel
+ent-ClothingBackpackDuffelGman = Merkwürdiger Seesack
     .desc = Eine seltsame, unentfernbare Tasche, die eine absurde Menge an Gegenständen enthalten kann. Scheinbar unsichtbar für das bloße Auge.
 
 ent-ClothingBackpackLMGBattery = EL-20 Speicherung

@@ -5,29 +5,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-player-panel-title = Informationen für {$player}
+player-panel-title = Informationen zu {$player}
 player-panel-username = Benutzername: {$player}
 player-panel-whitelisted = Whitelist:
-player-panel-bans = Totalverbote: {$totalBans}
-player-panel-rolebans = Totale Rollenverbote: {$totalRoleBans}
-player-panel-notes = Anmerkungen insgesamt: {$totalNotes}
+player-panel-bans = Bans gesamt: {$totalBans}
+player-panel-rolebans = Rollenbans gesamt: {$totalRoleBans}
+player-panel-notes = Notizen gesamt: {$totalNotes}
 player-panel-playtime = Gesamtspielzeit: {$days}d:{$hours}h:{$minutes}m
 player-panel-shared-connections = Gemeinsame Verbindungen: {$sharedConnections}
-player-panel-trust-score = Trust Score: {TOSTRING($trustScore, "P0")}
+player-panel-trust-score = Vertrauenswert: {TOSTRING($trustScore, "P0")}
 
-player-panel-copy-username = Kopie
-player-panel-show-notes = Anmerkungen
-player-panel-show-bans = Show Bans
-player-panel-help = Hilfe
-player-panel-freeze-and-mute = Einfrieren & Mute
+player-panel-copy-username = Kopieren
+player-panel-show-notes = Notizen
+player-panel-show-bans = Bans anzeigen
+player-panel-help = AHelp
+player-panel-freeze-and-mute = Einfrieren & Stummschalten
 player-panel-freeze = Einfrieren
-player-panel-unfreeze = Ungefroren
+player-panel-unfreeze = Auftauen
 player-panel-kick = Kick
-player-panel-ban = Verbot
-player-panel-logs = Protokolle
-player-panel-delete = Löschung
-player-panel-rejuvenate = Verjüngen
+player-panel-ban = Bannen
+player-panel-logs = Logs
+player-panel-delete = Löschen
+player-panel-rejuvenate = Vollständig heilen
 player-panel-false = Falsch
-player-panel-true = Wahrhaftig
+player-panel-true = Wahr
 player-panel-follow = Folgen
 player-panel-camera = Kamera

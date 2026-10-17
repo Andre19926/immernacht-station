@@ -7,5 +7,5 @@ xenomorphs-face-hugger-try-equip = { $equipment } Schmetterlinge gegen deine { $
 xenomorphs-face-hugger-try-equip-other = { $equipment } Zerschlagung gegen { $target }'s { $equipmentBlocker }
 
 ### Goob station
-xenomorphs-face-hugger-mask-blocked = Ihr { $mask } Blöcke { $facehugger }!
+xenomorphs-face-hugger-mask-blocked = { $mask } blockt { $facehugger }!
 xenomorphs-face-hugger-mask-blocked-other = { $facehugger } wird blockiert durch { $target }'s { $mask }!

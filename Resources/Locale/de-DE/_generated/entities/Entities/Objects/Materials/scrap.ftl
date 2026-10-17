@@ -2,7 +2,7 @@ ent-ScrapSteel = Stahlspund
     .desc = Ein haufen stahl, der in extremer hitze zusammengeschweißt wurde. Es ist von einer anständigen größe insgesamt; sie könnten wahrscheinlich eine ganze menge blätter daraus bekommen.
 
 ent-ScrapGlass = Schrottkreisläufe
-    .desc = Ein riesiger Klumpen verschiedener Schaltkreise, die seltsam miteinander verschmolzen sind. Sie könnten wahrscheinlich einige Materialien daraus extrahieren.
+    .desc = Ein riesiger Klumpen verschiedener Schaltkreise, die seltsam miteinander verschmolzen sind. Du könntest wahrscheinlich einige Materialien daraus extrahieren.
 
 ent-ScrapAirlock1 = Luftschleusetür
     .desc = Früher hielt es die Luft drin. Jetzt scheint es überhaupt nichts zu tun.
@@ -10,14 +10,14 @@ ent-ScrapAirlock1 = Luftschleusetür
 ent-ScrapAirlock2 = Luftschleuselicht
     .desc = Serviert es richtig, um all diese zeiten rot zu blinken.
 
-ent-ScrapBucket = Kübel
+ent-ScrapBucket = Kaputter Eimer
     .desc = Lieber Gott...
 
 ent-ScrapCamera = Zerbrochene Kamera
     .desc = Es könnte immer noch zuschauen.
 
 ent-ScrapCanister1 = Kanistergriff
-    .desc = Hilfreich beim Halten eines Kanisters. Jetzt brauchen Sie nur noch den eigentlichen Kanisterteil.
+    .desc = Hilfreich beim Halten eines Kanisters. Jetzt brauchst du nur noch den eigentlichen Kanisterteil.
 
 ent-ScrapCanister2 = Kanisterventil
     .desc = Ein Ventil aus einem Gaskanister.
@@ -38,10 +38,10 @@ ent-ScrapFirelock2 = Brandschutztür
     .desc = OH! Das ist, wo die andere Hälfte ging!
 
 ent-ScrapFirelock3 = Brandschutzrahmen
-    .desc = Wertloser Müll. Sie könnten wahrscheinlich einige Materialien daraus bekommen.
+    .desc = Wertloser Müll. Du könntest wahrscheinlich einige Materialien daraus bekommen.
 
 ent-ScrapIntercom = Gegensprechschrott
-    .desc = Sie möchten, dass es zumindest mit einigen Verschlüsselungsschlüsseln geliefert wird.
+    .desc = Du möchtest, dass es zumindest mit einigen Verschlüsselungsschlüsseln geliefert wird.
 
 ent-ScrapJetpack = gesprengter Jetpack
     .desc = Sieht so aus, als würde er nicht mehr fliegen.
@@ -52,10 +52,10 @@ ent-ScrapMedkit = Schnappschüssel Medkit
 ent-ScrapMopBucket = Halber Wischbecher
     .desc = Tiders sterben. Hausmeister überleben.
 
-ent-ScrapPAI = Personal-AI-Gerät
+ent-ScrapPAI = Personal-KI-Gerät
     .desc = Ein Kumpel! Bist du noch da? Hallo? Kumpel???
 
-ent-ScrapPAIGold = vergoldetes Personal AI Gerät
+ent-ScrapPAIGold = vergoldetes Personal KI Gerät
     .desc = Wow! Was für ein One-in-a-Million finden! Das wäre ein Vermögen wert ... wenn es in gutem Zustand wäre.
 
 ent-ScrapTube = zerbrochenes Probenröhrchen

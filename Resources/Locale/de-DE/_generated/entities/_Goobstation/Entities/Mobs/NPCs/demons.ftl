@@ -2,7 +2,7 @@ ent-MobLivingCurse = Lebendiger Fluch
     .desc = Ausufernd langsam, aber ist gegen alle Arten von Schäden, außer heilig.
 
 ent-MobSpookyGhost1 = ???
-    .desc = Sie haben keine Ahnung, was das ist!
+    .desc = Du hast keine Ahnung, was das ist!
 
 ent-BaseMobGlutton = Glutton
     .desc = Etwas, das einst ein Clown war.

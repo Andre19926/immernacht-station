@@ -28,7 +28,7 @@ ent-ClothingOuterWinterChef = Gefriermantel des Kochs
 ent-ClothingOuterWinterChem = Chemie Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterCMO = Wintermantel des Chefarztes
+ent-ClothingOuterWinterCMO = Chefarzt-Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
 ent-ClothingOuterWinterClown = Clown Winterjacke
@@ -85,10 +85,10 @@ ent-ClothingOuterWinterSec = Sicherheitswintermantel
 ent-ClothingOuterWinterViro = Virologie Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.
 
-ent-ClothingOuterWinterWarden = Der gepanzerte Wintermantel des Warden
-    .desc = Ein robuster, utilitaristischer Wintermantel, der einen Wärter vor allen an die Brig gebundenen Bedrohungen und hypothermischen Ereignissen schützen soll.
+ent-ClothingOuterWinterWarden = Gepanzerter Warden-Wintermantel
+    .desc = Ein robuster, utilitaristischer Wintermantel, der einen Warden vor allen an die Brig gebundenen Bedrohungen und hypothermischen Ereignissen schützen soll.
 
-ent-ClothingOuterWinterWardenUnarmored = Wintermantel des Wärters
+ent-ClothingOuterWinterWardenUnarmored = Warden-Wintermantel
     .desc = Ein robuster Mantel, ein warmer Mantel, aber kein gepanzerter Mantel.
 
 ent-ClothingOuterWinterSyndieCap = Wintermantel des Syndicate-S
@@ -104,7 +104,7 @@ ent-ClothingOuterWinterMusician = Wintermantel des Musikers
     .desc = Ein übergroßer, plastischer Weltraumsmoking, bei dem die Leute fragen: "Kennst du mich?"
 
 ent-ClothingOuterWinterWeb = Webwintermantel
-    .desc = Fühlt sich an wie das Innere eines Kokons, nicht dass dies Sie weniger Angst machen würde, in einem zu sein.
+    .desc = Fühlt sich an wie das Innere eines Kokons, nicht dass dies dich weniger Angst machen würde, in einem zu sein.
 
 ent-ClothingOuterWinterColorBlack = Schwarzer Wintermantel
     .desc = Eine schwere Jacke aus "synthetischen" Tierfellen.

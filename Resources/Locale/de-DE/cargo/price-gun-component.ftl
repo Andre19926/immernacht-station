@@ -12,7 +12,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 price-gun-pricing-result = Das Gerät hält {THE($object)} Wertvoll sein {$price} Spesos.
-price-gun-verb-text = Bewertung
+price-gun-verb-text = Schätzung
 price-gun-verb-message = Bewertung {THE($object)}.
 price-gun-bounty-complete = Das Gerät bestätigt, dass das darin enthaltene Bounty abgeschlossen ist.
 price-gun-salvjob-complete = Das Gerät bestätigt, dass der darin enthaltene Salvage-Auftrag abgeschlossen ist.

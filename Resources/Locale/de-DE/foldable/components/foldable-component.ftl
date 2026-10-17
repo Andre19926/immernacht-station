@@ -8,22 +8,22 @@
 
 # Foldable
 
-foldable-fold-fail = Sie können die {$object} hier.
+foldable-fold-fail = Du kannst {$object} hier nicht zusammenklappen.
 foldable-unfold-fail = Du kannst die {$object} hier.
 
-foldable-deploy-fail = Sie können die {$object} hier.
-fold-verb = Falte
-unfold-verb = Ungefaltet
+foldable-deploy-fail = Du kannst {$object} hier nicht aufstellen.
+fold-verb = Zusammenfalten
+unfold-verb = Auffalten
 
 fold-flip-verb = Flip
 
 fold-zip-verb = Zip up
-fold-unzip-verb = Zwercher
+fold-unzip-verb = Öffnen
 
 fold-verb-clothing-jacket = Jacke ausziehen
 unfold-verb-clothing-jacket = Jacke anziehen
 
 # Hijacking this because it works well for toggling hideable layers - Goob
 
-fold-showhair-verb = Showhaar
+fold-showhair-verb = Haare zeigen
 fold-hidehair-verb = Haare verstecken

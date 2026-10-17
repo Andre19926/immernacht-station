@@ -9,7 +9,7 @@ ent-SupermatterHalberd = Supermatte halberd
 ent-GoheiWizard = Gohei
     .desc = Ein Holzstock mit weißen Streamern am Ende. Ursprünglich von Schreinmädchen verwendet, um Dinge zu reinigen. Jetzt von den weeaboos der station benutzt.
 
-ent-StaffTape = Tonbandpersonal
+ent-StaffTape = Klebebandstab
     .desc = Eine Bandrolle, die eng an einem Stick befestigt ist.
 
 ent-HighFrequencyBlade = Hochfrequenz-Rohling

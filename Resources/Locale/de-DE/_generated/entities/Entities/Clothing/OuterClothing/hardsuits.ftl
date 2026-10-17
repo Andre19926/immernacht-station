@@ -22,7 +22,7 @@ ent-ClothingOuterHardsuitSecurity = Sicherheit Hardsuit
 ent-ClothingOuterHardsuitBrigmedic = Gefängnissanitäter Hardsuit
     .desc = Spezielle Hardsuit des Schutzengels der Brig. Es ist die medizinische Version des Sicherheits-Hardsuit.
 
-ent-ClothingOuterHardsuitWarden = Hardsuit des Warden
+ent-ClothingOuterHardsuitWarden = Warden-Hardsuit
     .desc = Ein spezialisierter Aufruhranzug, der darauf ausgerichtet ist, Niederdruckumgebungen zu bekämpfen.
 
 ent-ClothingOuterHardsuitCap = Kapitänsparade Hardsuit
@@ -31,7 +31,7 @@ ent-ClothingOuterHardsuitCap = Kapitänsparade Hardsuit
 ent-ClothingOuterHardsuitEngineeringWhite = Hardsuit des Chefingenieurs
     .desc = Ein spezieller Hardsuit, der vor gefährlichen, niedrigen Druckumgebungen schützt, wurde für den Chefingenieur der Station entwickelt.
 
-ent-ClothingOuterHardsuitMedical = Hardsuit des Chief Medical Officer
+ent-ClothingOuterHardsuitMedical = Chefarzt-Hardsuit
     .desc = Ein spezieller Anzug, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Gebaut mit leichten Materialien für leichtere Bewegung.
 
 ent-ClothingOuterHardsuitRd = Experimentelle Forschung Hardsuit
@@ -79,7 +79,7 @@ ent-ClothingOuterHardsuitERTChaplain = ERT Kaplan-Hardsuit
 ent-ClothingOuterHardsuitERTEngineer = Hardsuit des ERT-Ingenieurs
     .desc = Ein schützender Hardsuit, getragen von den Ingenieuren eines Notfallteams.
 
-ent-ClothingOuterHardsuitERTMedical = ERT medic's Hardsuit
+ent-ClothingOuterHardsuitERTMedical = ERT-Sanitäter-Hardsuit
     .desc = Ein schützender Hardsuit, der von den Sanitätern eines Notfallteams getragen wird.
 
 ent-ClothingOuterHardsuitERTSecurity = Hardsuit von ERT security
@@ -100,5 +100,5 @@ ent-ClothingOuterHardsuitClown = Clown Hardsuit
 ent-ClothingOuterHardsuitMime = Mime Hardsuit
     .desc = Ein maßgeschneiderter Mime Hardsuit.
 
-ent-ClothingOuterHardsuitSanta = Santa's Hardsuit
+ent-ClothingOuterHardsuitSanta = Weihnachtsmann-Hardsuit
     .desc = Ein festlicher, fröhlicher Hardsuit, der den fröhlichen Geschenkgeber während auf Schlittenfahrten im Weltraum schützt. Bietet etwas Widerstand gegen Asteroidenschläge.

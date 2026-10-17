@@ -1,5 +1,5 @@
 goob-ui-ghost-cosmetics = Ghost Cosmetics
-goob-ui-ghost-cosmetics-description = Verkleiden Sie Ihren Geist mit einem Hut, einer Maske und einem Partikeleffekt.
+goob-ui-ghost-cosmetics-description = Verkleide deinen Geist mit einem Hut, einer Maske und einem Partikeleffekt.
 goob-ui-ghost-cosmetics-particles = Partikel
 goob-ui-ghost-cosmetics-hat = Hut
 goob-ui-ghost-cosmetics-mask = Maske

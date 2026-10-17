@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 roles-antag-changeling-name = Wechsel
-roles-antag-changeling-description = Verwenden Sie Ihre Shapeshifting-Fähigkeiten, um Ihre Ziele zu erreichen.
+roles-antag-changeling-description = Verwende deine Shapeshifting-Fähigkeiten, um deine Ziele zu erreichen.
 
 roles-antag-corporate-agent-name = Corporate Agent
-roles-antag-corporate-agent-description = Verwenden Sie Ihre Unternehmensressourcen, um Ihre Ziele zu erreichen.
+roles-antag-corporate-agent-description = Verwende deine Konzernressourcen, um deine Ziele zu erreichen.

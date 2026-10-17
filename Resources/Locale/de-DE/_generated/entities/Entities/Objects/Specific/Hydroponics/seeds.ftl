@@ -1,167 +1,167 @@
-ent-WheatSeeds = Packung Weizensamen
+ent-WheatSeeds = Weizensamen
 
-ent-MeatwheatSeeds = Packung von Fleischweizensamen
-    .desc = Wenn Sie jemals einen Vegetarier zum Wahnsinn fahren wollten, hier ist wie.
+ent-MeatwheatSeeds = Fleischweizensamen
+    .desc = Wenn du jemals einen Vegetarier zum Wahnsinn fahren wolltest, hier ist wie.
 
-ent-OatSeeds = Packung Hafersamen
+ent-OatSeeds = Hafersamen
 
-ent-BananaSeeds = Packung Bananensaatgut
+ent-BananaSeeds = Bananensaatgut
 
-ent-MimanaSeeds = Packung Mimanasamen
+ent-MimanaSeeds = Mimanasamen
 
-ent-CarrotSeeds = Packung Karottensaatgut
+ent-CarrotSeeds = Karottensaatgut
 
-ent-CabbageSeeds = Packung Kohlsaatgut
+ent-CabbageSeeds = Kohlsaatgut
 
-ent-GarlicSeeds = Packung Knoblauchsamen
+ent-GarlicSeeds = Knoblauchsamen
 
-ent-LaughinPeaSeeds = Päckchen Laughin' Pea Pods
+ent-LaughinPeaSeeds = Lachende-Erbsen-Samen
     .desc = Diese Samen geben einen sehr weichen violetten Glanz ab.. sie sollten zu Laughin' Peas wachsen.
 
-ent-LemonSeeds = Packung Zitronensamen
+ent-LemonSeeds = Zitronensamen
 
-ent-LemoonSeeds = Packung Lemoonsamen
+ent-LemoonSeeds = Lemoonsamen
 
-ent-LimeSeeds = Paket von Kalksaatgut
+ent-LimeSeeds = Limettensamen
 
-ent-OrangeSeeds = Packung Orangenkerne
+ent-OrangeSeeds = Orangenkerne
 
-ent-ExtradimensionalOrangeSeeds = Paket von extradimensionalen orange Samen
+ent-ExtradimensionalOrangeSeeds = Extradimensionale-Orange-Samen
     .desc = Polygone Samen.
 
-ent-PineappleSeeds = Packung Ananassamen
+ent-PineappleSeeds = Ananassamen
 
-ent-PotatoSeeds = Packung Kartoffelsamen
+ent-PotatoSeeds = Kartoffelsamen
 
-ent-SugarcaneSeeds = Packung Zuckerrohrsaatgut
+ent-SugarcaneSeeds = Zuckerrohrsaatgut
 
-ent-TeaPlantSeeds = Packung Teepflanzensamen
+ent-TeaPlantSeeds = Teepflanzensamen
 
-ent-PapercaneSeeds = Päckchen Papierrohrsaatgut
+ent-PapercaneSeeds = Papierrohrsaatgut
 
-ent-TowercapSeeds = Paket von Turmkappensporen
+ent-TowercapSeeds = Turmkappen-Sporen
 
-ent-SteelcapSeeds = Sporenpaket aus Stahlkappen
+ent-SteelcapSeeds = Stahlkappen-Sporen
 
-ent-TomatoSeeds = Packung Tomatensamen
+ent-TomatoSeeds = Tomatensamen
 
-ent-BlueTomatoSeeds = Packung blauer Tomatensamen
+ent-BlueTomatoSeeds = Blaue Tomatensamen
 
-ent-BloodTomatoSeeds = Packung Bluttomatensamen
+ent-BloodTomatoSeeds = Bluttomatensamen
 
-ent-KillerTomatoSeeds = Packung Killertomatensamen
+ent-KillerTomatoSeeds = Killertomatensamen
 
-ent-EggplantSeeds = Packung Auberginensamen
+ent-EggplantSeeds = Auberginensamen
 
-ent-AppleSeeds = Packung Apfelsamen
+ent-AppleSeeds = Apfelsamen
 
-ent-GoldenAppleSeeds = Packung goldener Apfelsamen
+ent-GoldenAppleSeeds = Goldene Apfelsamen
 
-ent-CornSeeds = Paket von Maissamen
+ent-CornSeeds = Maissamen
 
-ent-ChanterelleSeeds = Paket von Chanterelle Sporen
+ent-ChanterelleSeeds = Pfifferling-Sporen
 
-ent-EggySeeds = Packung Eierpflanzensaatgut
+ent-EggySeeds = Eierpflanzensaatgut
 
-ent-TobaccoSeeds = Packung Tabaksamen
+ent-TobaccoSeeds = Tabaksamen
     .desc = Diese Samen wachsen zu Tabakpflanzen heran.
 
-ent-CannabisSeeds = Packung Cannabissamen
+ent-CannabisSeeds = Cannabissamen
     .desc = Steuerpflichtig.
 
-ent-RainbowCannabisSeeds = Paket von Regenbogen-Cannabissamen
+ent-RainbowCannabisSeeds = Regenbogen-Cannabissamen
     .desc = Diese Samen wachsen zu Regenbogen-Unkraut. Groovy ... und auch sehr süchtig machend.
 
-ent-NettleSeeds = Packung Nesselsaatgut
+ent-NettleSeeds = Nesselsaatgut
     .desc = Handle mit Handschuhen.
 
-ent-DeathNettleSeeds = Päckchen toter Brennnesselsamen
+ent-DeathNettleSeeds = Todesnessel-Samen
     .desc = Griff mit sehr dicken Handschuhen.
 
-ent-ChiliSeeds = Packung Chilisamen
+ent-ChiliSeeds = Chilisamen
 
-ent-ChillySeeds = Packung kühler Samen
+ent-ChillySeeds = Eischili-Samen
     .desc = Frostbrand.
 
-ent-AloeSeeds = Packung Aloe-Saatgut
+ent-AloeSeeds = Aloe-Saatgut
     .desc = Lindernd.
 
-ent-PoppySeeds = Packung Mohnsamen
-    .desc = Essen Sie nicht innerhalb von 72 Stunden nach einem Drogentest.
+ent-PoppySeeds = Mohnsamen
+    .desc = Iss nicht innerhalb von 72 Stunden nach einem Drogentest.
 
-ent-LilySeeds = Paket von Liliensamen
+ent-LilySeeds = Liliensamen
     .desc = Diese Samen wachsen zu Lilien.
 
-ent-LingzhiSeeds = Paket von Lingzhi-Sporen
+ent-LingzhiSeeds = Lingzhi-Sporen
     .desc = Auch bekannt als Reishi.
 
-ent-AmbrosiaVulgarisSeeds = Packung Ambrosia vulgarissamen
+ent-AmbrosiaVulgarisSeeds = Ambrosia-vulgaris-Samen
     .desc = Eine Heilpflanze für das gemeine Volk.
 
-ent-AmbrosiaDeusSeeds = Packung Ambrosia-deus-Samen
+ent-AmbrosiaDeusSeeds = Ambrosia-deus-Samen
     .desc = Eine Heilpflanze für die Götter selbst.
 
-ent-GalaxythistleSeeds = Paket von Galaxisthistelsamen
+ent-GalaxythistleSeeds = Galaxisthistelsamen
     .desc = Bürsten von sternennachten.
 
-ent-GlasstleSeeds = Päckchen aus Glaskümmel
+ent-GlasstleSeeds = Glasdistel-Samen
     .desc = Narben von düsteren Nächten.
 
-ent-FlyAmanitaSeeds = Paket von Fliegen-Amanita-Sporen
+ent-FlyAmanitaSeeds = Fliegen-Amanita-Sporen
     .desc = Der ikonische, extrem tödliche Pilz, der für rein ornamentale Zwecke verwendet wird.
 
-ent-GatfruitSeeds = Packung von Gafruitsamen
+ent-GatfruitSeeds = Gafruitsamen
     .desc = Das sind keine Peashooter.
 
-ent-OnionSeeds = Packung Zwiebelsamen
+ent-OnionSeeds = Zwiebelsamen
     .desc = Kein Schalot.
 
-ent-RiceSeeds = Packung Reissamen
+ent-RiceSeeds = Reissamen
 
-ent-SoybeanSeeds = Packung Sojasamen
+ent-SoybeanSeeds = Sojasamen
 
-ent-SpacemansTrumpetSeeds = Paket von Spaceman Trompetensamen
+ent-SpacemansTrumpetSeeds = Spaceman-Trompetensamen
 
-ent-KoibeanSeeds = Packung Koibeansamen
+ent-KoibeanSeeds = Koibeansamen
 
-ent-OnionRedSeeds = Packung roter Zwiebelsamen
+ent-OnionRedSeeds = Rote Zwiebelsamen
     .desc = Lila trotz des Namens.
 
-ent-WatermelonSeeds = Packung Wassermelonensamen
+ent-WatermelonSeeds = Wassermelonensamen
 
-ent-HolymelonSeeds = Paket von Holymelon Samen
+ent-HolymelonSeeds = Holymelon-Samen
 
-ent-GrapeSeeds = Packung Traubenkerne
+ent-GrapeSeeds = Traubenkerne
 
-ent-CocoaSeeds = Packung Kakaosamen
+ent-CocoaSeeds = Kakaosamen
 
-ent-BerrySeeds = Packung Beerensamen
+ent-BerrySeeds = Beerensamen
 
-ent-BungoSeeds = Paket von Bungosamen
+ent-BungoSeeds = Bungosamen
     .desc = Iss die Gruben nicht.
 
-ent-PeaSeeds = Packung Erbsenhülsen
+ent-PeaSeeds = Erbsensamen
     .desc = Diese bescheidenen Pflanzen waren einst ein wichtiger Teil in der Erforschung der Genetik.
 
-ent-WorldPeaSeeds = Packung Erbsensamen
+ent-WorldPeaSeeds = Weltfrieden-Erbsensamen
     .desc = Diese ziemlich großen Samen geben einen beruhigenden blauen Schein ab.
 
-ent-PumpkinSeeds = Paket von Kürbissamen
+ent-PumpkinSeeds = Kürbissamen
 
-ent-BluePumpkinSeeds = Packung blauer Kürbissamen
+ent-BluePumpkinSeeds = Blaue Kürbissamen
 
-ent-CottonSeeds = Packung Baumwollsamen
+ent-CottonSeeds = Baumwollsamen
 
-ent-PyrottonSeeds = Paket von Pyrottonsaatgut
+ent-PyrottonSeeds = Pyrottonsaatgut
 
-ent-RealCapfruitSeeds = Packung Capfruitsamen
+ent-RealCapfruitSeeds = Capfruit-Samen
     .desc = Ist es echt oder ist es falsch?
 
-ent-FakeCapfruitSeeds = Packung Capfruitsamen
+ent-FakeCapfruitSeeds = Capfruitsamen
     .desc = Ist es echt oder ist es falsch?
 
-ent-CherrySeeds = Packung Kirschsamen
+ent-CherrySeeds = Kirschsamen
 
-ent-AnomalyBerrySeeds = Paket von Anomalie-Beerensamen
+ent-AnomalyBerrySeeds = Anomalie-Beerensamen
 
-ent-BloonionSeeds = Päckchen von Blonionsamen
+ent-BloonionSeeds = Ballonzwiebel-Samen

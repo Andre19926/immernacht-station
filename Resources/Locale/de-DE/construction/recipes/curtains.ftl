@@ -1,4 +1,4 @@
-construction-recipe-curtains-cloth = Vorhänge (Tuch)
+construction-recipe-curtains-cloth = Vorhänge (Stoff)
 construction-recipe-curtains-black = Vorhänge (schwarz)
 construction-recipe-curtains-blue = Vorhänge (blau)
 construction-recipe-curtains-sky-blue = Vorhänge (himmelblau)

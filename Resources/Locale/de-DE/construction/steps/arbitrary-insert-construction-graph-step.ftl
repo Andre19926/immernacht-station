@@ -8,14 +8,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Shown when examining an in-construction object
-construction-insert-arbitrary-entity = Als nächstes einfügen [color=cyan]{$stepName}[/color].
+construction-insert-arbitrary-entity = Als Nächstes: [color=cyan]{$stepName}[/color] einsetzen.
 
 construction-insert-info-examine-name-instrument-brass = Messinginstrument
-construction-insert-info-examine-name-instrument-keyed = Schlüsselinstrument
-construction-insert-info-examine-name-instrument-percussion = Schlaggerät
-construction-insert-info-examine-name-instrument-string = String-Intruktion
+construction-insert-info-examine-name-instrument-keyed = Tasteninstrument
+construction-insert-info-examine-name-instrument-percussion = Schlaginstrument
+construction-insert-info-examine-name-instrument-string = Saiteninstrument
 construction-insert-info-examine-name-instrument-woodwind = Holzblasinstrument
 construction-insert-info-examine-name-knife = Messer
-construction-insert-info-examine-name-utensil = Utensil
-construction-insert-info-examine-name-laser-cannon = Hochleistungslaserwaffe
-construction-insert-info-examine-name-power-cell = Leistungszelle
+construction-insert-info-examine-name-utensil = Besteck
+construction-insert-info-examine-name-laser-cannon = Hochleistungs-Laserwaffe
+construction-insert-info-examine-name-power-cell = Energiezelle

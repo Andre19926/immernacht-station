@@ -17,17 +17,17 @@ gravity-generator-window-title = Gravitationsgenerator
 gravity-generator-window-status = Status:
 gravity-generator-window-power = Leistung:
 gravity-generator-window-eta = ETA:
-gravity-generator-window-charge = Gebühr:
+gravity-generator-window-charge = Ladung:
 
 ## UI statuses
 gravity-generator-window-status-fully-charged = Voll aufgeladen
-gravity-generator-window-status-off = Ausgeschaltet
-gravity-generator-window-status-charging = Gebühren
-gravity-generator-window-status-discharging = Entladen
+gravity-generator-window-status-off = Aus
+gravity-generator-window-status-charging = Lädt
+gravity-generator-window-status-discharging = Entlädt
 
 ## UI Power Buttons
 gravity-generator-window-power-on = On
-gravity-generator-window-power-off = Ausgeschaltet
+gravity-generator-window-power-off = Aus
 gravity-generator-window-power-label = { $draw } / { $max } W
 
 ## UI ETA label

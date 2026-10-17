@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-server-shutdown = Abschaltung
+server-shutdown = Herunterfahren
 server-ooc-toggle = OOC umschalten
-server-looc-toggle = Toggle LOOC
+server-looc-toggle = LOOC umschalten

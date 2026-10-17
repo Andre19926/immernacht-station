@@ -1,5 +1,5 @@
 ent-WeaponRifleBurner = Brenner
-    .desc = Ein obszönes vollautomatisches Antimaterialgewehr, das .50 herunterschleudert, solange Sie es schultern können. Sie wollen nicht wissen, wie viel es kostet. Feeds von .50 Anti-Materiel Magazine.
+    .desc = Ein obszönes vollautomatisches Antimaterialgewehr, das.50 herunterschleudert, solange du es schultern kannst. Du willst nicht wissen, wie viel es kostet. Feeds von.50 Anti-Materiel Magazine.
 
 ent-WeaponRifleM90 = M-90
     .desc = Eine billigere Überarbeitung des M-90GL, die den integrierten Granatwerfer auslässt. Feeds von .20 Gewehrmagazinen.

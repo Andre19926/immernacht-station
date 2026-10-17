@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-title = Der Leitfaden
-guide-description = Eine meist ruhige Erfahrung mit einer Mischung aus Kampf und friedlichen Veranstaltungen
+guide-title = Der Wegweiser
+guide-description = Eine meist ruhige Runde mit einer Mischung aus Kämpfen und friedlichen Ereignissen.

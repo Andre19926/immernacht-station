@@ -1,26 +1,26 @@
-ent-EngineeringTechFabCircuitboard = Engineering TechFab Maschinenplatine
-    .desc = Eine Maschine gedruckt Platin für eine Engineering-Techfab.
+ent-EngineeringTechFabCircuitboard = Technik-Techfab Maschinenplatine
+    .desc = Eine Maschinenplatine für eine Technik-Techfab.
 
-ent-CargoTechFabCircuitboard = cargo techfab Maschinenplatine
-    .desc = Eine Maschine druckte Platin für eine Fracht Techfab.
+ent-CargoTechFabCircuitboard = Fracht-Techfab Maschinenplatine
+    .desc = Eine Maschinenplatine für eine Fracht-Techfab.
 
-ent-ScienceTechFabCircuitboard = science techfab Maschinenplatine
-    .desc = Eine Maschine druckte Platin für eine wissenschaftliche Techfab.
+ent-ScienceTechFabCircuitboard = Wissenschafts-Techfab Maschinenplatine
+    .desc = Eine Maschinenplatine für eine Wissenschafts-Techfab.
 
-ent-ServiceTechFabCircuitboard = service techfab Maschinenplatine
-    .desc = Eine Maschine druckte Platin für eine Service-Techfab.
+ent-ServiceTechFabCircuitboard = Service-Techfab Maschinenplatine
+    .desc = Eine Maschinenplatine für eine Service-Techfab.
 
-ent-ERTTechFabCircuitboard = ERT techfab Maschinenplatine
-    .desc = Eine Maschine, die Platin für gedruckt Platin für eine wende Platin für gedruckte Platin für eine  eine Platin einer   gedruckt    gedruckt  .
+ent-ERTTechFabCircuitboard = ERT-Techfab Maschinenplatine
+    .desc = Eine Maschinenplatine für eine ERT-Techfab.
 
-ent-TeslaCoilCircuitboard = Tesla Coil Board
+ent-TeslaCoilCircuitboard = Teslaspule (Platine)
 
-ent-RadiationCollectorCircuitboard = Strahlungskollektorplatte
+ent-RadiationCollectorCircuitboard = Strahlungskollektor (Platine)
 
-ent-PlumbingPumpCircuitboard = Flüssigkeitspumpenbrett
+ent-PlumbingPumpCircuitboard = Flüssigkeitspumpe (Platine)
 
 ent-EnergyChemDispenserMachineCircuitboard = Energy Chem Dispenser Maschinenplatine
-    .desc = Eine Maschine gedruckt Platin für einen Energie-Chem-Dispenser.
+    .desc = Eine Maschinenplatine für einen Energie-Chem-Dispenser.
 
 ent-TelecomTransmitterCircuitboard = Telekommunikationssender Maschinenplatine
-    .desc = Eine Maschine gedruckt Platin für einen Telekommunikationssender.
+    .desc = Eine Maschinenplatine für einen Telekommunikationssender.

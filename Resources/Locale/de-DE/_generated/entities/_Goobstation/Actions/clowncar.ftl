@@ -1,8 +1,8 @@
 ent-ActionThankDriver = Danke Fahrer
-    .desc = Zeigen Sie dem Fahrer, dass Sie gerne ein Assistent sind
+    .desc = Zeige dem Fahrer, dass du gerne ein Assistent bist
 
 ent-ActionQuietBackThere = Ruhig zurück da
-    .desc = Sagen Sie den Assistenten, dass sie ruhig sein sollen
+    .desc = Sage den Assistenten, dass sie ruhig sein sollen
 
 ent-ActionDrivingWithStyle = JukeBox
     .desc = Fahren mit Musik

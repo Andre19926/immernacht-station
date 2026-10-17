@@ -1,5 +1,5 @@
 ent-BluespaceLifelineImplant = bluespace lifeline Implantat
-    .desc = Teleportiert den Host-Körper zum Central Command bei Aktivierung. Sie werden nicht zurückkehren können.
+    .desc = Teleportiert den Körper des Trägers bei Aktivierung zum Central Command. Du wirst nicht zurückkehren können.
 
 ent-CommandTrackingImplant = Befehlsverfolgungsimplantat
     .desc = Dieses für den Befehl reservierte Implantat verfügt über ein Tracking-Gerät, das an ein privates Anzugsensornetzwerk angeschlossen ist, sowie über einen Zustandsmonitor für den Befehlsfunkkanal.
@@ -29,7 +29,7 @@ ent-StypticStimulatorImplant = Styptisches Stimulatorimplantat
     .desc = Dieses Implantat sendet die Benutzer Regeneration in Overdrive.
 
 ent-BinaryImplant = binäres Decoderimplantat
-    .desc = Dieses Implantat ermöglicht es dem Benutzer, auf Binary zuzugreifen und mit Silikonen zu kommunizieren (verwenden Sie :b).
+    .desc = Dieses Implantat ermöglicht es dem Benutzer, auf Binary zuzugreifen und mit Silikonen zu kommunizieren (verwenden dich:b).
 
 ent-ClumsyImplant = Unbeholfenes Implantat
     .desc = Dieses Implantat macht den Benutzer ungeschickt, so dass er ein bestimmtes Fahrzeug fahren kann.
@@ -65,4 +65,4 @@ ent-XenoCompatibilityImplant = Xeno-Kompatibilität Implantat
     .desc = Ermöglicht einem Subjekt, Xeno-Organe transplantiert zu haben.
 
 ent-RedspaceLifelineImplant = Redspace Lifeline Implantat
-    .desc = Teleportiert den Host-Körper zum Syndicate High Command bei Aktivierung. Sie werden nicht zurückkehren können.
+    .desc = Teleportiert den Körper des Trägers bei Aktivierung zum Syndicate High Command. Du wirst nicht zurückkehren können.

@@ -20,4 +20,4 @@ spellblade-enchantment-spacetime-name = [color=pink]Raumzeit[/color]
 spellblade-enchantment-spacetime-desc = Raumzeit. Diese Klinge schneidet schneller, aber schwächer und verflucht das Ziel und schneidet sie einige Sekunden, nachdem sie nicht bei jedem Treffer angeschwemmt wurden.
 
 spellblade-enchantment-forceshield-name = [color=cyan]Schutzschirm[/color]
-spellblade-enchantment-forceshield-desc = Schutzschild. Diese Klinge wird Sie teilweise gegen Angriffe und Betäubungen für eine kurze Zeit nach dem Schlagen eines Feindes abschirmen.
+spellblade-enchantment-forceshield-desc = Schutzschild. Diese Klinge wird dich teilweise gegen Angriffe und Betäubungen für eine kurze Zeit nach dem Schlagen eines Feindes abschirmen.

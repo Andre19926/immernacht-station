@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-id-examinable-component-verb-text = Personalausweis
-id-examinable-component-verb-disabled = Lesen Sie einen Personalausweis aus nächster Nähe.
-id-examinable-component-verb-no-id = Kein Personalausweis sichtbar.
+id-examinable-component-verb-text = ID-Karte
+id-examinable-component-verb-disabled = Lies die ID-Karte aus nächster Nähe.
+id-examinable-component-verb-no-id = Keine ID-Karte sichtbar.

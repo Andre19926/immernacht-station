@@ -12,12 +12,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carp-rift-warning = Eine Kluft verursacht einen unnatürlich großen Energiefluss {$location}Stoppen Sie es um jeden Preis!
+carp-rift-warning = Eine Kluft verursacht einen unnatürlich großen Energiefluss {$location}Stoppen dich es um jeden Preis!
 carp-rift-duplicate = Kann nicht 2 Laderisse gleichzeitig haben!
 carp-rift-examine = Es ist [color=yellow]{$percentage}%[/color] aufgeladen!
-carp-rift-max = Sie haben Ihre maximale Menge an Rissen erreicht
+carp-rift-max = Du hast deine maximale Menge an Rissen erreicht
 carp-rift-anchor = Risse erfordern eine stabile Oberfläche zum Laichen.
 carp-rift-proximity = Zu nah an einem nahe gelegenen Riss! Muss mindestens sein {$proximity}m weg.
 carp-rift-space-proximity = Zu nah am Weltraum! Muss mindestens sein {$proximity}m weg.
-carp-rift-weakened = Sie sind nicht in der Lage, weitere Risse in Ihrem geschwächten Zustand zu beschwören.
+carp-rift-weakened = Du bist nicht in der Lage, weitere Risse in deinem geschwächten Zustand zu beschwören.
 carp-rift-destroyed = Ein Riss wurde zerstört! Du bist jetzt vorübergehend geschwächt.

@@ -46,5 +46,5 @@ construction-graph-tag-baseball-bat = Baseballschläger
 construction-graph-tag-heart = Herz
 construction-graph-tag-camera-electronics = Überwachungskameraelektronik
 construction-graph-tag-stunbaton = einen Betäubungsstab
-construction-graph-tag-disabler = ein Behinderter
+construction-graph-tag-disabler = ein Neutralisierer
 construction-graph-tag-combat-knife = ein Kampfmesser

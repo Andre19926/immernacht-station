@@ -40,13 +40,13 @@ ent-BoxMagazinePistolSubMachineGun = Box von SMG .35 Automagazine
 ent-BoxMagazinePistolSubMachineGunPractice = Box von SMG .35 auto (Praxis) Zeitschriften
     .desc = Eine Box voller SMG .35 Auto (Praxis) Magazine.
 
-ent-BoxMagazineShotgun = Kasten mit (.50 Pellets) Munitionsfässern
-    .desc = Ein Kasten voller Munitionsfässer (.50 Pellets).
+ent-BoxMagazineShotgun = Kiste mit (.50 Pellets) Munitionsfässern
+    .desc = Eine Kiste voller Munitionsfässer (.50 Pellets).
 
 ent-BoxMagazineShotgunBeanbag = Box mit (.50 Sitzsack) Munitionsfässern
     .desc = Eine Schachtel voller (.50 Sitzsack) Munitionsfässer.
 
-ent-BoxMagazineShotgunSlug = Kasten mit (.50-Schnecke) Munitionsfässern
+ent-BoxMagazineShotgunSlug = Kiste mit Munitionstrommeln (.50 Slug)
     .desc = Eine Schachtel voller (.50-Schnecke) Munitionstrommeln.
 
 ent-BoxMagazineShotgunIncendiary = Box mit (.50 Brandbomben) Munitionsfässern

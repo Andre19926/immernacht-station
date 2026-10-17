@@ -1,4 +1,4 @@
-ent-StatusEffectFireBlasted = Feuer gesprengt
+ent-StatusEffectFireBlasted = Feuerexplosion
 
 ent-StatusEffectStarMark = Sternmarke
 

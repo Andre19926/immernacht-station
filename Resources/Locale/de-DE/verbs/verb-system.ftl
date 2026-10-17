@@ -19,7 +19,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-system-null-server-response = Entity nicht in Sichtweite. Das solltest du eigentlich nicht sehen.
+verb-system-null-server-response = Entität nicht in Sichtweite. Das solltest du eigentlich nicht sehen.
 
 
 # if verbs have a range of targets (e.g., multiple ejectables) you can
@@ -37,7 +37,7 @@ verb-categories-insert = Einsetzen
 verb-categories-buckle = Anschnallen
 verb-categories-unbuckle = Abschnallen
 verb-categories-rotate = Drehen
-verb-categories-smite = Strafen
+verb-categories-smite = Smite
 verb-categories-tricks = Tricks
 verb-categories-transfer = Transfermenge festlegen
 verb-categories-split = Teilen

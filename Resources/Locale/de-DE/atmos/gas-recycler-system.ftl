@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-gas-recycler-reacting = Es ist [color=green]Umwandlung[/color] Abgase.
+gas-recycler-reacting = Es [color=green]wandelt[/color] Abgase um.
 gas-recycler-low-pressure = Der Eingangsdruck ist [color=darkred]zu niedrig[/color].
 gas-recycler-low-temperature = Die Eingangstemperatur ist [color=darkred]zu niedrig[/color].

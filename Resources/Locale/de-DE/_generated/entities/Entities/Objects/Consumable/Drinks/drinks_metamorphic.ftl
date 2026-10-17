@@ -419,7 +419,7 @@ ent-DrinkVodkaTonicGlass = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.
 
 ent-DrinkWaterJug = Wasserkanne
-    .desc = Bleiben Sie hydratisiert.
+    .desc = Bleib hydratisiert.
 
 ent-DrinkWatermelonJuice = metamorphes Glas
     .desc = Ein metamorphes Glas, das sich automatisch in ein Glas verwandelt, das für das Getränk im Inneren geeignet ist. Unten ist eine abgeschliffene Patentnummer.

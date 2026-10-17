@@ -6,42 +6,42 @@
 
 accent-mobster-prefix-1 = Nyehh
 
-accent-mobster-suffix-boss-1 = Sehen Sie?
+accent-mobster-suffix-boss-1 = , see?
 accent-mobster-suffix-boss-2 = , fugeddaboutit.
-accent-mobster-suffix-boss-3 = Capiche?
+accent-mobster-suffix-boss-3 = , capiche?
 # Goob edit start
-accent-mobster-suffix-boss-4 = Gabagool. 
-accent-mobster-suffix-boss-5 = Wie geht's? 
+accent-mobster-suffix-boss-4 = , gabagool.
+accent-mobster-suffix-boss-5 = , how ya doin'?
 # Goob edit end
 
 accent-mobster-suffix-minion-1 = , ja!
-accent-mobster-suffix-minion-2 = Chef sagt!
+accent-mobster-suffix-minion-2 = , der Boss sagt!
 
-accent-mobster-words-1 = Lassen Sie mich
-accent-mobster-words-replace-1 = Lemme
+accent-mobster-words-1 = lass mich
+accent-mobster-words-replace-1 = lemme
 
 accent-mobster-words-2 = sollte
-accent-mobster-words-replace-2 = sollte
+accent-mobster-words-replace-2 = oughta
 
 accent-mobster-words-3 = das
 accent-mobster-words-replace-3 = da
 
-accent-mobster-words-4 = sie
-accent-mobster-words-replace-4 = Dem
+accent-mobster-words-4 = ihnen
+accent-mobster-words-replace-4 = dem
 
-accent-mobster-words-5 = Angriff
-accent-mobster-words-replace-5 = Whack
+accent-mobster-words-5 = angreifen
+accent-mobster-words-replace-5 = whack
 
-accent-mobster-words-6 = Tötung
-accent-mobster-words-replace-6 = Whack
+accent-mobster-words-6 = töten
+accent-mobster-words-replace-6 = whack
 
 accent-mobster-words-7 = Mord
-accent-mobster-words-replace-7 = Whack
+accent-mobster-words-replace-7 = whack
 
 accent-mobster-words-8 = tot
-accent-mobster-words-replace-8 = Sleepin' mit Da Fishies
+accent-mobster-words-replace-8 = sleepin' with da fishies
 
-accent-mobster-words-9 = Hey
+accent-mobster-words-9 = hey
 accent-mobster-words-replace-9 = ey'o
 
 accent-mobster-words-10 = hi
@@ -51,19 +51,19 @@ accent-mobster-words-11 = Hallo
 accent-mobster-words-replace-11 = ey'o
 
 accent-mobster-words-12 = Vorschriften
-accent-mobster-words-replace-12 = Roolz
+accent-mobster-words-replace-12 = roolz
 
-accent-mobster-words-13 = Sie
-accent-mobster-words-replace-13 = Sie
+accent-mobster-words-13 = du
+accent-mobster-words-replace-13 = yous
 
 accent-mobster-words-14 = müssen
-accent-mobster-words-replace-14 = Gotta
+accent-mobster-words-replace-14 = gotta
 
-accent-mobster-words-15 = gehen
-accent-mobster-words-replace-15 = Boutta
+accent-mobster-words-15 = werde
+accent-mobster-words-replace-15 = boutta
 
-accent-mobster-words-16 = etwa bis
-accent-mobster-words-replace-16 = Boutta
+accent-mobster-words-16 = gleich
+accent-mobster-words-replace-16 = boutta
 
 accent-mobster-words-17 = Hier
-accent-mobster-words-replace-17 = „ere
+accent-mobster-words-replace-17 = 'ere

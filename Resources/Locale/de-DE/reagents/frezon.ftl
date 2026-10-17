@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: MIT
 
 frezon-lungs-cold = Deine Lungen fühlen sich kälter an..
-frezon-euphoric = Sie fühlen sich kalt, aber euphorisch.
+frezon-euphoric = Dir ist kalt, aber du fühlst dich euphorisch.

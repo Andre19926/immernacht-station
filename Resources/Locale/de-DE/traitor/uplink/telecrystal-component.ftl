@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-telecrystal-component-sucs-inserted = Sie Slot {THE($source)} in {THE($target)}.
+telecrystal-component-sucs-inserted = Du steckst {THE($source)} in {THE($target)}.

@@ -1,35 +1,35 @@
 ent-ClothingHandsGlovesColorPurple = lila Handschuhe
-    .desc = Regelmäßige lila Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche lila Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorRed = rote Handschuhe
-    .desc = Regelmäßige rote Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche rote Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorBlue = Blaue Handschuhe
-    .desc = Regelmäßige blaue Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche blaue Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorTeal = Teal-Handschuhe
-    .desc = Regelmäßige Teal-Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche Teal-Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorBrown = Braune Handschuhe
-    .desc = Regelmäßige braune Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche braune Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorGray = graue Handschuhe
     .desc = Regelmäßige graue gehäute, die dich nicht davon abhalten, zu frieren.
 
 ent-ClothingHandsGlovesColorGreen = grüne Handschuhe
-    .desc = Regelmäßige grüne Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche grüne Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorLightBrown = hellbraune Handschuhe
-    .desc = Regelmäßige hellbraune Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche hellbraune Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorOrange = Orangenhandschuhe
-    .desc = Normale orange Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche orange Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorWhite = weiße Handschuhe
-    .desc = Regelmäßige weiße Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche weiße Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorBlack = schwarze Handschuhe
-    .desc = Regelmäßige schwarze Handschuhe, die Sie nicht vom Braten abhalten.
+    .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.
 
 ent-ClothingHandsGlovesColorYellow = Isolierte Handschuhe
     .desc = Diese Handschuhe schützen den Träger vor Elektroschocks.

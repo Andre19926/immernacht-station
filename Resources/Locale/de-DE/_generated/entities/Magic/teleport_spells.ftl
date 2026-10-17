@@ -1,2 +1,2 @@
 ent-ActionBlink = Blink
-    .desc = Teleportieren Sie zum angeklickten Standort.
+    .desc = Teleportiere zum angeklickten Standort.

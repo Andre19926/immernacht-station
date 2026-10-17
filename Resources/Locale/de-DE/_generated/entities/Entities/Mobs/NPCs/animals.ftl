@@ -25,7 +25,7 @@ ent-MobCockroach = Kakerlake
 ent-MobGlockroach = Glockroach
     .desc = Diese Station kriecht nur mit bu- OH GOTT, dass COCKROACH EINEN KÜNST!!!
 
-ent-MobMothroach = Mothroach
+ent-MobMothroach = Mottenschabe
     .desc = Dies ist das entzückende Nebenprodukt mehrerer Versuche, Mottenmenschen mit Kakerlaken genetisch zu vermischen.
 
 ent-MobDuckMallard = Stockente
@@ -88,7 +88,7 @@ ent-MobKoboldSyndicateAgentNukeops = Kosold
     .desc = Cousins der fühlenden Rasse von Echsen, Kobolde verschmelzen mit ihrem natürlichen Lebensraum und sind so böse wie Affen; bereit, deine Haare herauszuziehen und dich zu Tode zu stechen.
 
 ent-MobGuidebookMonkey = Reiseführer Affen
-    .desc = Ein hoffentlich hilfreicher Affe, dessen einziger Zweck im Leben darin besteht, dass Sie darauf klicken. Zählt das so, dass ein Affe Ihnen ein Tutorial gibt?
+    .desc = Ein hoffentlich hilfreicher Affe, dessen einziger Zweck im Leben darin besteht, dass du darauf klickst. Zählt das so, dass ein Affe dir ein Tutorial gibt?
 
 ent-MobMouse = Maus
     .desc = Quietschen!
@@ -111,7 +111,7 @@ ent-MobMouseCancer = Krebs Maus
 ent-MobLizard = Echse
     .desc = Ein harmloser Drache.
 
-ent-MobSlug = Schnecke
+ent-MobSlug = Slug
     .desc = Und sie nannten das eine Eidechse?
 
 ent-MobFrog = Frosch
@@ -151,7 +151,7 @@ ent-MobRaccoon = Waschbär
     .desc = Trash Panda!
 
 ent-MobFox = Fox
-    .desc = Sie sind ein Fuchs.
+    .desc = Das ist ein Fuchs.
 
 ent-MobCorgi = Korridor
     .desc = Endlich ein Space Corgi!

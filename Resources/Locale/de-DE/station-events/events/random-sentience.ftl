@@ -13,7 +13,7 @@
 random-sentience-event-data-1 = Scans von unseren Langstreckensensoren
 random-sentience-event-data-2 = unsere ausgefeilten probabilistischen Modelle
 random-sentience-event-data-3 = Unsere Allmacht
-random-sentience-event-data-4 = der Kommunikationsverkehr auf Ihrer Station
+random-sentience-event-data-4 = der Kommunikationsverkehr auf deiner Station
 random-sentience-event-data-5 = Energieemissionen, die wir entdeckt haben
 random-sentience-event-data-6 = [REDACTED]
 
@@ -25,7 +25,7 @@ random-sentience-event-strength-4 = Sicherheit
 random-sentience-event-strength-5 = Befehl
 random-sentience-event-strength-6 = Clown
 random-sentience-event-strength-7 = niedrig
-random-sentience-event-strength-8 = AI
+random-sentience-event-strength-8 = KI
 
 ## Announcement text
 

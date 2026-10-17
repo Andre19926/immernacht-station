@@ -7,6 +7,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 delete-singularities = Singularitäten löschen
-open-station-events = Station Veranstaltungen
-load-game-prototype = Lastprototyp
-load-blueprints = Load Blueprints
+open-station-events = Station-Events
+load-game-prototype = Prototyp laden
+load-blueprints = Baupläne laden

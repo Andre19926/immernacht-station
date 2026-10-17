@@ -5,4 +5,4 @@
 
 fresium-effect-freeze-insides = Du spürst, wie dein Inneres einfriert!
 fresium-effect-frozen = Deine Beine sind komplett eingefroren!
-fresium-effect-slow = Ihre Beine schnallen und kämpfen sich zu bewegen!
+fresium-effect-slow = Deine Beine geben nach und lassen sich kaum bewegen!

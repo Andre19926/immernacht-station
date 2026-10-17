@@ -4,25 +4,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-grab-soft-target = {CAPITALIZE($puller)} Ergriff dich sanft.
-popup-grab-hard-target = {CAPITALIZE($puller)} Ergriff dich fest.
-popup-grab-suffocate-target = {CAPITALIZE($puller)} fing an, dich zu ersticken!
-popup-grab-no-target = {CAPITALIZE($puller)} Hör auf, dich zu packen.
-popup-grab-soft-self = Sie griffen {CAPITALIZE($target)} weich.
-popup-grab-hard-self = Sie griffen {CAPITALIZE($target)} entschieden.
-popup-grab-suffocate-self = Du hast angefangen zu ersticken {CAPITALIZE($target)}.
-popup-grab-no-self = Du hast aufgehört zu greifen {CAPITALIZE($target)}.
-popup-grab-soft-others = {CAPITALIZE($puller)} gegriffen {CAPITALIZE($target)} weich.
-popup-grab-hard-others = {CAPITALIZE($puller)} gegriffen {CAPITALIZE($target)} entschieden.
-popup-grab-suffocate-others = {CAPITALIZE($puller)} Beginn der Erstickung {CAPITALIZE($target)}!
-popup-grab-no-others = {CAPITALIZE($puller)} Stoppen des Greifens {CAPITALIZE($target)}.
-popup-grab-release-too-soon = Sie sind nach dem vorherigen Versuch immer noch müde.
-popup-grab-release-fail-self = Sie versuchen zu fliehen.
-popup-grab-release-success-self = Du bist dem Grab entkommen!
-popup-grab-release-success-puller = {CAPITALIZE($target)} entkam!
-popup-grab-retake-fail = {CAPITALIZE($puller)} lässt dich nicht ziehen {CAPITALIZE($pulled)}!
-popup-grab-retake-fail-puller = {CAPITALIZE($puller)} versucht zu befreien {CAPITALIZE($pulled)}!
-popup-grab-retake-success = Sie sind freigelassen {CAPITALIZE($pulled)} von {CAPITALIZE($puller)}'s grab!
-popup-grab-retake-success-puller = {CAPITALIZE($puller)} freigelassen {CAPITALIZE($pulled)} Aus deinem Grab!
+popup-grab-soft-target = {CAPITALIZE($puller)} hat dich sanft gepackt.
+popup-grab-hard-target = {CAPITALIZE($puller)} hat dich fest gepackt.
+popup-grab-suffocate-target = {CAPITALIZE($puller)} fängt an, dich zu würgen!
+popup-grab-no-target = {CAPITALIZE($puller)} lässt dich los.
+popup-grab-soft-self = Du hast {CAPITALIZE($target)} sanft gepackt.
+popup-grab-hard-self = Du hast {CAPITALIZE($target)} fest gepackt.
+popup-grab-suffocate-self = Du fängst an, {CAPITALIZE($target)} zu würgen.
+popup-grab-no-self = Du lässt {CAPITALIZE($target)} los.
+popup-grab-soft-others = {CAPITALIZE($puller)} hat {CAPITALIZE($target)} sanft gepackt.
+popup-grab-hard-others = {CAPITALIZE($puller)} hat {CAPITALIZE($target)} fest gepackt.
+popup-grab-suffocate-others = {CAPITALIZE($puller)} fängt an, {CAPITALIZE($target)} zu würgen!
+popup-grab-no-others = {CAPITALIZE($puller)} lässt {CAPITALIZE($target)} los.
+popup-grab-release-too-soon = Du bist nach dem letzten Versuch noch erschöpft.
+popup-grab-release-fail-self = Du versuchst, dich zu befreien.
+popup-grab-release-success-self = Du hast dich aus dem Griff befreit!
+popup-grab-release-success-puller = {CAPITALIZE($target)} hat sich befreit!
+popup-grab-retake-fail = {CAPITALIZE($puller)} lässt dich {CAPITALIZE($pulled)} nicht ziehen!
+popup-grab-retake-fail-puller = {CAPITALIZE($puller)} versucht, {CAPITALIZE($pulled)} loszulassen!
+popup-grab-retake-success = Du hast {CAPITALIZE($pulled)} aus dem Griff von {CAPITALIZE($puller)} befreit!
+popup-grab-retake-success-puller = {CAPITALIZE($puller)} hat {CAPITALIZE($pulled)} aus deinem Griff befreit!
 popup-grabbed-cant-speak = Du kannst nicht atmen!
-popup-grab-need-hand = Sie brauchen eine freie Hand!
+popup-grab-need-hand = Du brauchst eine freie Hand!

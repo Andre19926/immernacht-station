@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-engidrobe-1 = Garantiert, um Ihre Füße vor Industrieunfällen zu schützen!
-advertisement-engidrobe-2 = Angst vor Strahlung? Dann tragen Sie gelb!
-advertisement-engidrobe-3 = Wir haben Hüte, die Ihr Noggin schützen!
-advertisement-engidrobe-4 = Nicht genug Menschen tragen heutzutage Sicherheitsausrüstung!
-advertisement-engidrobe-5 = Holen Sie sich noch heute Ihre Sicherheitsausrüstung!
+advertisement-engidrobe-1 = Schützt deine Füße garantiert vor Arbeitsunfällen!
+advertisement-engidrobe-2 = Angst vor Strahlung? Dann trag Gelb!
+advertisement-engidrobe-3 = Wir haben Hüte, die deine Birne schützen!
+advertisement-engidrobe-4 = Heutzutage tragen zu wenige Leute Schutzausrüstung!
+advertisement-engidrobe-5 = Hol dir noch heute deine Schutzausrüstung!

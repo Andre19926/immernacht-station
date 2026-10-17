@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-accent-southern-words-1 = Ihr alle
+accent-southern-words-1 = ihr alle
 accent-southern-words-replace-1 = y'all
 
-accent-southern-words-2 = Ihr Jungs
+accent-southern-words-2 = ihr Jungs
 accent-southern-words-replace-2 = y'all
 
 accent-southern-words-3 = ist nicht

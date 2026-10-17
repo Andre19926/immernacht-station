@@ -13,9 +13,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-barsign-component-name = Balkenzeichen
-barsign-ui-menu = Bar Sign Konfiguration
-barsign-ui-set-label = Zeichen setzen:
+barsign-component-name = Barschild
+barsign-ui-menu = Barschild-Konfiguration
+barsign-ui-set-label = Schild einstellen:
 
 # Bar signs prototypes
 
@@ -32,11 +32,11 @@ barsign-prototype-name-drunk-carp = Der betrunkene Karpfen
 barsign-prototype-description-drunk-carp = Nicht trinken und schwimmen.
 
 ## Officer Beersky
-barsign-prototype-name-officer-beersky = Offizier Beersky
+barsign-prototype-name-officer-beersky = Officer Beerskys
 barsign-prototype-description-officer-beersky = Mann isst einen dong, diese getränke sind großartig.
 
 ## The Outer Spess
-barsign-prototype-name-outer-spess = Die äußere Spess
+barsign-prototype-name-outer-spess = Das Äußere Spess
 barsign-prototype-description-outer-spess = Diese Bar befindet sich nicht wirklich im Weltraum.
 
 ## The Coderbus
@@ -68,16 +68,16 @@ barsign-prototype-name-maid-cafe = Maid Cafe
 barsign-prototype-description-maid-cafe = Willkommen zurück, Meister!
 
 ## Maltese Falcon
-barsign-prototype-name-maltese-falcon = Malteserfalsche
-barsign-prototype-description-maltese-falcon = Spielen Sie es noch einmal, Sam.
+barsign-prototype-name-maltese-falcon = Der Malteser Falke
+barsign-prototype-description-maltese-falcon = Spiel es noch einmal, Sam.
 
 ## The Sun
 barsign-prototype-name-the-sun = Die Sonne
 barsign-prototype-description-the-sun = Ironisch hell für so einen schattigen Balken.
 
 ## The Birdcage
-barsign-prototype-name-the-birdcage = Der Birdcage
-barsign-prototype-description-the-birdcage = Caw Caw!
+barsign-prototype-name-the-birdcage = Der Vogelkäfig
+barsign-prototype-description-the-birdcage = Kräh kräh!
 
 ## Zocalo
 barsign-prototype-name-zocalo = Zocalo
@@ -88,7 +88,7 @@ barsign-prototype-name-lv426 = LV-426
 barsign-prototype-description-lv426 = Trinken mit ausgefallenen Gesichtsmasken ist eindeutig wichtiger als zu Medbay zu gehen.
 
 ## The Wiggle Roomm
-barsign-prototype-name-wiggle-room = Der Wiggle Roomm
+barsign-prototype-name-wiggle-room = Der Wiggle Room
 barsign-prototype-description-wiggle-room = MoMMIs haben Moves.
 
 ## The Lightbulb
@@ -97,26 +97,26 @@ barsign-prototype-description-the-lightbulb = Ein Café beliebt bei Motten und M
 
 ## The Loose Goose
 barsign-prototype-name-goose = Die lose Gans
-barsign-prototype-description-goose = Trinken Sie, bis Sie kotzen und / oder die Gesetze der Realität brechen!
+barsign-prototype-description-goose = Trink, bis du kotzt und/oder die Gesetze der Realität brichst!
 
 ## The Engine Change
-barsign-prototype-name-enginechange = Der Motorwechsel
-barsign-prototype-description-enginechange = Immer noch warten.
+barsign-prototype-name-enginechange = Der Triebwerkswechsel
+barsign-prototype-description-enginechange = Warte immer noch.
 
 ## 4 The Emprah
-barsign-prototype-name-emprah = 4 Die Emprah
+barsign-prototype-name-emprah = 4 The Emprah
 barsign-prototype-description-emprah = Genießt von fanatikern, ketzern und hirngeschädigten gönnern gleichermaßen.
 
 ## Spacebucks
 barsign-prototype-name-spacebucks = Spacebucks
-barsign-prototype-description-spacebucks = Sie können nicht von ihnen wegkommen, sogar im Weltraum, und sogar nachdem wir angefangen haben, sie stattdessen "Spesos" zu nennen.
+barsign-prototype-description-spacebucks = Man entkommt ihnen nicht, selbst im Weltraum, selbst nachdem wir angefangen haben, sie stattdessen „Spesos“ zu nennen.
 
 ## Maltroach
 barsign-prototype-name-maltroach = Maltroach
-barsign-prototype-description-maltroach = Quietschen!
+barsign-prototype-description-maltroach = Quiek!
 
 ## Whiskey Echoes
-barsign-prototype-name-whiskeyechoes = Whiskey Echos
+barsign-prototype-name-whiskeyechoes = Whiskey-Echos
 barsign-prototype-description-whiskeyechoes = Eine Elite-Bar für Elite-Oper-Warte, dies ist eine Nanotrasen-Station. Warum ist dieses Zeichen in der Datenbank?
 
 ## EmpBarSign

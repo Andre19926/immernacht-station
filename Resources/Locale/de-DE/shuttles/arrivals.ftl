@@ -4,13 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-arrivals-enable-hint = Ermöglicht Ankunft
-cmd-arrivals-disable-hint = Ankunftsverbote
+cmd-arrivals-enable-hint = Aktiviert Ankünfte
+cmd-arrivals-disable-hint = Deaktiviert Ankünfte
 
-cmd-arrivals-returns = Set Ankunft kehrt zurück zum {$value}.
-cmd-arrivals-returns-hint = Umschalter, die es spielern ermöglichen, über ankünfte zurückzukehren.
+cmd-arrivals-returns = Rückkehr über Ankünfte auf {$value} gesetzt.
+cmd-arrivals-returns-hint = Schaltet um, ob Spieler über die Ankünfte zurückkehren dürfen.
 
-cmd-arrivals-invalid = Invalid arg geliefert.
+cmd-arrivals-invalid = Ungültiges Argument.
 
 cmd-arrivals-force-hint = Zwingt die Spieler, anzukommen.
-cmd-arrivals-forced = Zwang {$uid} um zum Bahnhof zu gelangen.
+cmd-arrivals-forced = {$uid} wurde gezwungen, zur Station zu kommen.

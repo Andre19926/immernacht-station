@@ -1,4 +1,4 @@
-ent-CrateCybersunDarkGygaxBundle = Cybersun Gygax Bundle
+ent-CrateCybersunDarkGygaxBundle = Cybersun-Dark-Gygax-Paket
     .desc = Enthält eine Reihe von Cybersan Light Armored Mechs.
 
 ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
@@ -11,7 +11,7 @@ ent-CrateSyndicateDreadnought = Cybersun Dreadnought Bundle
     .desc = Ein fortschrittliches Cybersun Dreadnought Bundle.
 
 ent-CratePizzaParty = Disaster Pizza Lieferung
-    .desc = Im ultimativen Fall, dass alles andere gescheitert ist, finden Sie Trost, dass mehr Pizza alles löst. Enthält 16 Pizzas.
+    .desc = Im ultimativen Fall, dass alles andere gescheitert ist, finde Trost, dass mehr Pizza alles löst. Enthält 16 Pizzas.
 
 ent-CrateSyndicateUndetermined = unbestimmte Syndicate Bündelkiste
     .desc = Enthält ein Syndicate Bundle. Welches noch nicht entschieden ist.

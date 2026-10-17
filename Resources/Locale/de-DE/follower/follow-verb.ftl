@@ -6,4 +6,4 @@
 # SPDX-License-Identifier: MIT
 
 verb-follow-text = Folgen
-verb-follow-me-text = Machen Sie Folge
+verb-follow-me-text = Folgen lassen

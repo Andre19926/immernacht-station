@@ -19,8 +19,8 @@ signal-linker-component-type-mismatch = Der Porttyp stimmt nicht mit dem Typ des
 signal-linker-component-out-of-range = Die Verbindung liegt außerhalb der Reichweite!
 
 # Verbs
-signal-linking-verb-text-link-default = Link Default Ports
+signal-linking-verb-text-link-default = Standard-Anschlüsse verknüpfen
 signal-linking-verb-success = Alle Standardanschlüsse {$machine} Links.
 signal-linking-verb-fail = Fehlgeschlagen, um alle Standard zu verbinden {$machine} Links.
-signal-linking-verb-disabled-no-transmitter = Interagieren Sie zuerst mit einem Sender und verknüpfen Sie dann Standardports.
-signal-linking-verb-disabled-no-receiver = Interagieren Sie zuerst mit einem Empfänger und verknüpfen Sie dann Standardports.
+signal-linking-verb-disabled-no-transmitter = Interagiere zuerst mit einem Sender und verknüpfe dann Standardports.
+signal-linking-verb-disabled-no-receiver = Interagiere zuerst mit einem Empfänger und verknüpfe dann Standardports.

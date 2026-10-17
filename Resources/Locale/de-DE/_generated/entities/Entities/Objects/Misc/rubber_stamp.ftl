@@ -10,13 +10,13 @@ ent-RubberStampChaplain = Seelsorgestempel
 ent-RubberStampLawyer = Anwaltsstempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampClown = Clown's Stempel
+ent-RubberStampClown = Clown-Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
 ent-RubberStampCE = Stempel des Chefingenieurs
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampCMO = Chief Medical Officer's Stempel
+ent-RubberStampCMO = Stempel des Chefarztes
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
 ent-RubberStampHop = Leiter des Personals Stempel
@@ -25,7 +25,7 @@ ent-RubberStampHop = Leiter des Personals Stempel
 ent-RubberStampHos = Sicherheitschef Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampMime = Mime's Stempel
+ent-RubberStampMime = Mime-Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
 ent-RubberStampQm = Quartiermeisterstempel
@@ -40,7 +40,7 @@ ent-RubberStampTrader = Stempel des Händlers
 ent-RubberStampSyndicate = Syndicate Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampWarden = Warden's Stempel
+ent-RubberStampWarden = Warden-Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
 ent-RubberStampApproved = GENEHMIGTER Stempel
@@ -52,11 +52,11 @@ ent-RubberStampDenied = VERNEIDUNG VON STAMM
 ent-RubberStampDetective = Detektivstempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente.
 
-ent-RubberStampGreytide = Greytide's Stempel
+ent-RubberStampGreytide = Greytide-Stempel
     .desc = Ein Stempel zum Stempeln wichtiger Dokumente. Die Flut wäscht über dich, nur sie anzusehen...
 
 ent-RubberStampPsychologist = Stempel des Psychologen
-    .desc = Ein Stempel zum Stempeln wichtiger Dokumente. Verschreiben Sie diese Behandlungen!
+    .desc = Ein Stempel zum Stempeln wichtiger Dokumente. Verschreibe diese Behandlungen!
 
 ent-RubberStampWizard = Zaubererstempel
     .desc = Ein chaotischer Zaubererstempel, um unchaotischen Papierkram zu servieren, wie ironisch.

@@ -7,18 +7,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Command
-cmd-faxui-desc = Offenes Admin-Fenster zum Versenden von Faxen
-cmd-faxui-help = Verwendung: Faxui
+cmd-faxui-desc = Öffnet das Admin-Fenster zum Versenden von Faxen
+cmd-faxui-help = Verwendung: faxui
 
 # Window
-admin-fax-title = Admin Fax Manager
+admin-fax-title = Admin-Fax-Verwaltung
 admin-fax-fax = Fax:
 admin-fax-follow = Folgen
 admin-fax-title-placeholder = Papiername ...
-admin-fax-from-placeholder = Gestempelt von...
-admin-fax-message-placeholder = Deine Botschaft hier...
+admin-fax-from-placeholder = Gestempelt von ...
+admin-fax-message-placeholder = Deine Nachricht hier ...
 admin-fax-stamp = Stempelsymbol:
 admin-fax-stamp-color = Stempelfarbe:
 admin-fax-send = Senden
-admin-fax-lock-page = Sperrseite
-admin-fax-lock-page-tooltip = Sperren Sie das Papier so, dass es nicht einmal von Dingen wie Cybersun-Stiften bearbeitet werden kann.
+admin-fax-lock-page = Seite sperren
+admin-fax-lock-page-tooltip = Sperrt das Papier, sodass es nicht einmal mit Cybersun-Stiften bearbeitet werden kann.

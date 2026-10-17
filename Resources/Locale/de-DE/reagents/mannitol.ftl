@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-mannitol-effect-enlightened = Sie fühlen sich erleuchtet!
+mannitol-effect-enlightened = Du fühlst dich ERLEUCHTET!

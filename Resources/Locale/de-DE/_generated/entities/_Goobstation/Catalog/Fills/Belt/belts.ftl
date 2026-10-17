@@ -1,13 +1,13 @@
-ent-ClothingBeltMilitaryWebbingCMOFilled = Chief Medical Officer Brust-Rig
+ent-ClothingBeltMilitaryWebbingCMOFilled = Chefarzt-Brustgurt
     .desc = Ein medizinischer Brustkorb mit tiefen Taschen, für die Verwendung durch Gesundheitsexperten.
 
 ent-ClothingBeltDeathsquadWebbingFilled = Deathquad operativer Brustkorb
-    .desc = Eine robuste und langlebige Brust, die alles enthält, was Sie brauchen, um Sie im Kampf zu halten. Sie werden es wahrscheinlich nicht verwenden müssen.
+    .desc = Eine robuste und langlebige Brust, die alles enthält, was du brauchst, um dich im Kampf zu halten. Du wirst es wahrscheinlich nicht verwenden müssen.
 
 ent-ClothingBeltHolsterFilledCentComm = Schulterholster
     .desc = Ein Holster, um eine Pistole und Munition zu tragen. WARNUNG: Nur Badasses.
 
-ent-ClothingBeltSecurityWebbingFilledMedical = Ert Doctor's Rig.
+ent-ClothingBeltSecurityWebbingFilledMedical = ERT-Sanitäter-Brustgurt
     .desc = Ein medizinisches Brustgestell mit tiefen Taschen, zur Verwendung durch ERT-Mitarbeiter.
 
 ent-ClothingBeltSheathFilledNavyOfficer = Säbelschale
@@ -16,7 +16,7 @@ ent-ClothingBeltSheathFilledNavyOfficer = Säbelschale
 ent-ClothingBeltSheathHeadOfSecurityFilled = Leiter der Sicherheitshülle
     .desc = Eine robuste Hülle, entworfen, um das benutzerdefinierte Energieschwert des Sicherheitschefs zu halten.
 
-ent-ClothingBeltCorporateJudoFilled = Unternehmen Judo Belt
+ent-ClothingBeltCorporateJudoFilled = Konzern-Judo Belt
     .desc = Unterrichtet den Träger NT Corporate Judo.
 
 ent-ClothingBeltHolsterFilledChaplain = Chaplains' Holster
@@ -38,7 +38,7 @@ ent-ClothingBeltHolsterFilledBlueshield = Schulterholster
     .desc = Ein Holster, um eine Pistole und Munition zu tragen. WARNUNG: Nur Badasses.
 
 ent-ClothingBeltMilitaryRigGrenadierFilled = Grenadiergürtel
-    .desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass Ihr Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
+    .desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass dein Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
 
 ent-ClothingBeltUtilityAtmosFilled = Atmosphärengürtel
     .desc = Behält alle Werkzeuge, die für ein wachsendes (mittleres) atmosisches Katzenmädchen benötigt werden.

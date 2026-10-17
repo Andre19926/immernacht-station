@@ -11,7 +11,7 @@ ent-SurvivalKnife = Überlebensmesser
     .desc = Waffe des ersten und letzten Auswegs zur Bekämpfung des Weltraumkarpfens.
 
 ent-KukriKnife = Kukri-Messer
-    .desc = Profis haben Standards. Sei höflich. Seien Sie effizient. Habe einen Plan, jeden zu töten, den du triffst.
+    .desc = Profis haben Standards. Sei höflich. Sei effizient. Habe einen Plan, jeden zu töten, den du triffst.
 
 ent-BladedFlatcapGrey = grauer Flatcap
     .desc = Mode für die Arbeiterklasse und den alten Mann Jenkins. Es hat Glassplitter in der Krempe versteckt.

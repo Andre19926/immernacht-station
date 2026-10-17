@@ -6,4 +6,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 species-name-gingerbread = Lebkuchen
-gingerbread-hurt-by-water-popup = Das Wasser schmilzt einige von euch weg!
+gingerbread-hurt-by-water-popup = Das Wasser lässt Teile von dir schmelzen!

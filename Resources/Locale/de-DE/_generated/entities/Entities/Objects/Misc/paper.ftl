@@ -17,7 +17,7 @@ ent-PaperCargoInvoice = Frachtrechnung
     .desc = Eine Einheit der Bürokratie.
 
 ent-PaperNanoTaskItem = NanoAufgabenposition
-    .desc = Ein gedruckter NanoTask-Artikel. Kann in Ihren PDA eingefügt werden, um ihn Ihren Aufgaben hinzuzufügen.
+    .desc = Ein gedruckter NanoTask-Artikel. Kann in deinen PDA eingefügt werden, um ihn deinen Aufgaben hinzuzufügen.
 
 ent-PaperCargoBountyManifest = Kopfgeldmanifest
     .desc = Ein Papieretikett, das eine Kiste mit einem Kopfgeld bezeichnet. Der Verkauf einer Kiste mit diesem Etikett wird die Prämie erfüllen.
@@ -26,7 +26,7 @@ ent-PaperSalvageJobLabel = Transportetikett für Salvage-Arbeiten
     .desc = Ein Papieretikett, das eine Kiste als eine Sendung zur Erfüllung eines Salvage-Auftrags bezeichnet. Der Verkauf einer Kiste damit wird den Job erfüllen.
 
 ent-PaperCNCSheet = Zeichenblatt
-    .desc = Ein Blatt für Ihre Carps und Crypts Zeichen.
+    .desc = Ein Blatt für deine Carps und Crypts Zeichen.
 
 ent-PaperWritten = Papier
     .desc = Ein Stück weißes Papier.
@@ -44,4 +44,4 @@ ent-AllTraitorCodesPaper = Syndicate Codewords Registry
     .desc = Eine Registrierung aller aktiven Syndicate-Codewörter.
 
 ent-Envelope = Hülle
-    .desc = Ein kleiner Umschlag, um neugierige Augen von Ihren sensiblen Dokumenten fernzuhalten.
+    .desc = Ein kleiner Umschlag, um neugierige Augen von deinen sensiblen Dokumenten fernzuhalten.

@@ -1,8 +1,8 @@
 ent-ActionRevertPolymorph = Zurückverwandeln
-    .desc = Kehren Sie zurück in Ihre ursprüngliche Form.
+    .desc = Kehre zurück in deine ursprüngliche Form.
 
 ent-ActionPolymorphWizardSpider = Spinnenverwandlung
-    .desc = Polymorphs Sie in eine Spinne.
+    .desc = Polymorphs dich in eine Spinne.
 
 ent-ActionPolymorphWizardRod = Stabverwandlung
     .desc = Nimm die Form eines unbeweglichen Stabes an und zerstöre alles auf deinem Weg.

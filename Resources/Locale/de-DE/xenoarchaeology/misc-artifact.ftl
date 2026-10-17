@@ -13,4 +13,4 @@ foam-artifact-popup = Seltsamer Schaum strömt aus dem Artefakt!
 shuffle-artifact-popup = Du fühlst dich sofort teleportieren!
 charge-artifact-popup = Du spürst, wie die Luft mit Elektrizität summt.
 
-activate-artifact-popup-self = Sie aktivieren Node {$node}.
+activate-artifact-popup-self = Du aktivierst Knoten {$node}.

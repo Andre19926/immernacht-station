@@ -7,5 +7,5 @@
 # SPDX-License-Identifier: MIT
 
 lobby-character-preview-panel-header = Charakter
-lobby-character-preview-panel-character-setup-button = Anpassen
+lobby-character-preview-panel-character-setup-button = Charakter bearbeiten
 lobby-character-preview-panel-unloaded-preferences-label = Deine Charaktereinstellungen sind noch nicht geladen, bitte warten.

@@ -1,188 +1,188 @@
-ent-PassengerIDCard = Personalausweis
+ent-PassengerIDCard = Assistenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-TechnicalAssistantIDCard = Personalausweis des technischen Assistenten
+ent-TechnicalAssistantIDCard = Techniker-Assistenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-MedicalInternIDCard = Arztinterner Personalausweis
+ent-MedicalInternIDCard = Medizin-Praktikanten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ResearchAssistantIDCard = Personalausweis des Forschungsassistenten
+ent-ResearchAssistantIDCard = Forschungsassistenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SecurityCadetIDCard = Personalausweis des Sicherheitskadetten
+ent-SecurityCadetIDCard = Sicherheitskadetten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ServiceWorkerIDCard = Personalausweis des Dienstarbeiters
+ent-ServiceWorkerIDCard = Servicemitarbeiter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CaptainIDCard = Kapitänsausweis
+ent-CaptainIDCard = Kapitäns-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SecurityIDCard = Sicherheitsausweis
+ent-SecurityIDCard = Sicherheits-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-WardenIDCard = Personalausweis des Wärters
+ent-WardenIDCard = Warden-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-EngineeringIDCard = Personalausweis des Ingenieurs
+ent-EngineeringIDCard = Ingenieurs-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-MedicalIDCard = Arztausweis
+ent-MedicalIDCard = Medizin-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ParamedicIDCard = Sanitäterausweis
+ent-ParamedicIDCard = Sanitäter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ChemistIDCard = Chemieausweis
+ent-ChemistIDCard = Chemiker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CargoIDCard = Frachtausweis
+ent-CargoIDCard = Frachttechniker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SalvageIDCard = Rettungsausweis
+ent-SalvageIDCard = Salvage-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-QuartermasterIDCard = Quartiermeisterausweis
+ent-QuartermasterIDCard = Quartiermeister-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ResearchIDCard = Forschungsausweis
+ent-ResearchIDCard = Forschungs-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ClownIDCard = Clownausweis
+ent-ClownIDCard = Clown-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-MimeIDCard = mime ID-Karte
+ent-MimeIDCard = Mime-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ChaplainIDCard = Kaplanausweis
+ent-ChaplainIDCard = Kaplan-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-JanitorIDCard = Hausmeisterausweis
+ent-JanitorIDCard = Hausmeister-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-BartenderIDCard = Barkeeperausweis
+ent-BartenderIDCard = Barkeeper-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-PunPunIDCard = Pun Pun ID Card
+ent-PunPunIDCard = Pun-Pun-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ChefIDCard = Kochausweis
+ent-ChefIDCard = Koch-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-BotanistIDCard = Botanikerausweis
+ent-BotanistIDCard = Botaniker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-LibrarianIDCard = Bibliothekarausweis
+ent-LibrarianIDCard = Bibliothekar-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-LawyerIDCard = Rechtsanwaltsausweis
+ent-LawyerIDCard = Anwalts-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-HoPIDCard = Kopf des Personals
+ent-HoPIDCard = Personalchef-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CEIDCard = Personalausweis des Chefingenieurs
+ent-CEIDCard = Chefingenieur-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CMOIDCard = Chief Medical Officer Personalausweis
+ent-CMOIDCard = Chefarzt-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-RDIDCard = Forschungsleiter ID-Karte
+ent-RDIDCard = Forschungsleiter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-HoSIDCard = Leiter des Sicherheitsausweises
+ent-HoSIDCard = Sicherheitschef-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-VisitorIDCard = Besucherausweis
+ent-VisitorIDCard = Besucher-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-BrigmedicIDCard = Gefängnissanitäter Personalausweis
+ent-BrigmedicIDCard = Gefängnissanitäter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CentcomIDCard = Personalausweis des Befehlshabers
+ent-CentcomIDCard = CentComm-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTLeaderIDCard = ERT-Leiterausweis
+ent-ERTLeaderIDCard = ERT-Anführer-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTChaplainIDCard = ERT Kaplanausweis
+ent-ERTChaplainIDCard = ERT-Kaplan-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTEngineerIDCard = Ausweis des ERT-Ingenieurs
+ent-ERTEngineerIDCard = ERT-Ingenieur-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTJanitorIDCard = ERT Hausmeisterausweis
+ent-ERTJanitorIDCard = ERT-Hausmeister-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTMedicIDCard = ERT Arztausweis
+ent-ERTMedicIDCard = ERT-Sanitäter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ERTSecurityIDCard = ERT-Sicherheitsausweis
+ent-ERTSecurityIDCard = ERT-Sicherheits-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-MusicianIDCard = Musikerausweis
+ent-MusicianIDCard = Musiker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CentcomIDCardDeathsquad = ID-Karte der Todesschwadron
+ent-CentcomIDCardDeathsquad = Todesschwadron-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-AgentIDCard = Ausweiskarte
+ent-AgentIDCard = Agenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-NukieAgentIDCard = Ausweiskarte
+ent-NukieAgentIDCard = Agenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-AtmosIDCard = Ausweis des Atmos-Technikers
+ent-AtmosIDCard = Atmos-Techniker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndicateIDCard = Syndicate-Ausweis
+ent-SyndicateIDCard = Syndicate-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiOperativeIDCard = Personalausweis des Syndicate-S
+ent-SyndiOperativeIDCard = Syndicate-Agenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiCorpsmanIDCard = Dings
+ent-SyndiCorpsmanIDCard = Syndicate-Sanitäter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiCommanderIDCard = Syndicate-Führerausweis
+ent-SyndiCommanderIDCard = Syndicate-Anführer-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-PirateIDCard = Piratenausweis
+ent-PirateIDCard = Piraten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-XenoborgIDCard = xenoborg Personalausweis
+ent-XenoborgIDCard = Xenoborg-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-PsychologistIDCard = Psychologenausweis
+ent-PsychologistIDCard = Psychologen-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-ReporterIDCard = Melderausweis
+ent-ReporterIDCard = Reporter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-DetectiveIDCard = Detektivausweis
+ent-DetectiveIDCard = Detektiv-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-PrisonerIDCard = Gefangenenausweis
-    .desc = Ein generisch gedruckter Personalausweis für schmutzige Gefangene.
+ent-PrisonerIDCard = Gefangenen-ID-Karte
+    .desc = Eine einfach gedruckte ID-Karte für schmutzige Gefangene.
 
-ent-CBURNIDcard = CBURN ID-Karte
+ent-CBURNIDcard = CBURN-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-CluwneIDCard = cluwne ID-Karte
+ent-CluwneIDCard = Cluwne-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SeniorEngineerIDCard = Personalausweis eines leitenden Ingenieurs
+ent-SeniorEngineerIDCard = Oberingenieur-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SeniorResearcherIDCard = Ausweis für leitende Forscher
+ent-SeniorResearcherIDCard = Oberforscher-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SeniorPhysicianIDCard = Oberarztausweis
+ent-SeniorPhysicianIDCard = Oberarzt-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SeniorOfficerIDCard = Personalausweis eines leitenden Beamten
+ent-SeniorOfficerIDCard = Oberoffizier-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-UniversalIDCard = universeller Personalausweis
-    .desc = Ein Personalausweis, der Ihnen Zugang über Ihre wildesten Träume hinaus ermöglicht.
+ent-UniversalIDCard = Universelle ID-Karte
+    .desc = Eine ID-Karte, die dir Zugang über deine wildesten Träume hinaus ermöglicht.

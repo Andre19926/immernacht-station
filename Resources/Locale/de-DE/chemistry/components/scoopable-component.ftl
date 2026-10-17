@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-scoopable-component-popup = Du schaufelst nach oben {$scooped} in {THE($beaker)}.
+scoopable-component-popup = Du schöpfst {$scooped} in {THE($beaker)}.

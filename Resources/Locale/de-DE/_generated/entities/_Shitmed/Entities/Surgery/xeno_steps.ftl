@@ -14,7 +14,7 @@ ent-SurgeryStepXenoSawExoskeleton = Säge durch das Exoskelett
 
 ent-SurgeryStepXenoMendExoskeleton = Exoskelett wieder verschließen
 
-ent-SurgeryStepXenoCloseExoskeleton = Schließen Sie das Exoskelett
+ent-SurgeryStepXenoCloseExoskeleton = Schließe das Exoskelett
 
 ent-SurgeryStepXenoRetractEndoskeleton = Zurückziehen des Endoskeletts
 
@@ -22,7 +22,7 @@ ent-SurgeryStepXenoSawEndoskeleton = Säge durch das Endoskelett
 
 ent-SurgeryStepXenoMendEndoskeleton = Reparatur des Endoskeletts
 
-ent-SurgeryStepXenoCloseEndoskeleton = Schließen Sie das Endoskelett
+ent-SurgeryStepXenoCloseEndoskeleton = Schließe das Endoskelett
 
 ent-SurgeryStepXenoCloseIncision = Naheinschnitt
 

@@ -23,4 +23,4 @@ ent-DrinkLithiumFlask = Lithiumflasche
     .desc = Eine Flasche mit einem Lithiumatom-Symbol darauf.
 
 ent-DrinkVacuumFlask = Vakuumflasche
-    .desc = Halten Sie Ihre Getränke auf der perfekten Temperatur seit 1892.
+    .desc = Halte deine Getränke auf der perfekten Temperatur seit 1892.

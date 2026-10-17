@@ -10,7 +10,7 @@
 power-monitoring-window-title = Stromüberwachungskonsole
 
 power-monitoring-window-label-sources = Quellen
-power-monitoring-window-label-smes = KMU
+power-monitoring-window-label-smes = SMES
 power-monitoring-window-label-substation = Umspannwerk
 power-monitoring-window-label-apc = APC
 power-monitoring-window-label-misc = Misc
@@ -19,19 +19,19 @@ power-monitoring-window-object-array = {$name} Array [{$count}]
 
 power-monitoring-window-station-name = [color=white][font size=14]{$stationName}[/font][/color]
 power-monitoring-window-unknown-location = Unbekannter Standort
-power-monitoring-window-total-sources = Gesamterzeugerleistung
-power-monitoring-window-total-battery-usage = Gesamtbatterieverbrauch
-power-monitoring-window-total-loads = Netzlasten insgesamt
+power-monitoring-window-total-sources = Gesamtleistung der Generatoren
+power-monitoring-window-total-battery-usage = Gesamter Batterieverbrauch
+power-monitoring-window-total-loads = Gesamte Netzlast
 power-monitoring-window-value = { POWERWATTS($value) }
 power-monitoring-window-button-value = {$value} W
 power-monitoring-window-show-inactive-consumers = Inaktive Verbraucher anzeigen
 
-power-monitoring-window-show-cable-networks = Umschaltkabelnetze
+power-monitoring-window-show-cable-networks = Kabelnetze umschalten
 power-monitoring-window-show-hv-cable = Hochspannung
 power-monitoring-window-show-mv-cable = Mittelspannung
 power-monitoring-window-show-lv-cable = Niederspannung
 
-power-monitoring-window-flavor-left = [user@nanotrasen] $run power net query
+power-monitoring-window-flavor-left = [user@nanotrasen] $run power_net_query
 power-monitoring-window-flavor-right = v1.3
 power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold]! WARNUNG - ROGUE KRAFTVERBRAUCHERGERÄT NACHWEISEN![/bold][/font][/color]
 power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]VORSICHT - ABNORMALE AKTIVITÄT IM KRAFTNETZ[/bold][/font][/color]

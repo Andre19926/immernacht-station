@@ -8,4 +8,4 @@ ent-PaperAgrichemManual = NT "AgriChem Is Fun" Handbuch
     .desc = Das einzelne Blatt mit Anweisungen, die in das Kit kamen.
 
 ent-PaperWrittenCombatBakeryKit = Kampf Bäckerei Kit Anweisungen
-    .desc = Essen Sie Notiz nach dem Lesen.
+    .desc = Iss Notiz nach dem Lesen.

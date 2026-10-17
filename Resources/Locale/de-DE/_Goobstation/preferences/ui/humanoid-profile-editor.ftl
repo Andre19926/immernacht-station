@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-humanoid-profile-editor-borgname-label = Bevorzugte Siliziumbezeichnung:
-humanoid-profile-editor-antag-roll-before-jobs = Beachten Sie, dass alle Antags mit Ausnahme der anfänglichen Infektion und des Schläferagenten vor den Jobs gerollt werden.
+humanoid-profile-editor-borgname-label = Bevorzugter Cyborg-/KI-Name:
+humanoid-profile-editor-antag-roll-before-jobs = Beachte: Alle Gegenspieler außer Erstinfizierten und Schläferagenten werden vor den Berufen ausgelost.

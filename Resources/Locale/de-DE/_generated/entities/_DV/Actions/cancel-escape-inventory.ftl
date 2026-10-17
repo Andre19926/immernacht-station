@@ -1,2 +1,2 @@
 ent-ActionCancelEscape = Fluchtstopp
-    .desc = Beruhigen Sie sich und sitzen Sie friedlich im Inventar Ihres Spediteurs
+    .desc = Beruhige dich und sitz friedlich im Inventar deines Trägers.

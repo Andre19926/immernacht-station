@@ -8,13 +8,13 @@ ent-ActionOpenDoors = Offene Türen, Spind, Kisten
     .desc = Öffnet und schließt ein paar zufällige Türen, Spind und Kisten in der Gegend.
 
 ent-ActionCreateSmoke = Rauch erzeugen
-    .desc = Erzeugt mehrere Rauchwolken in Ihrer Nähe, die die Sicht der Menschen vollständig verdunkeln können. Wolken bleiben etwa eine Minute lang bestehen.
+    .desc = Erzeugt mehrere Rauchwolken in deiner Nähe, die die Sicht der Menschen vollständig verdunkeln können. Wolken bleiben etwa eine Minute lang bestehen.
 
 ent-ActionCreateEctoplasm = Ektoplasma erzeugen
     .desc = Spawnt ein paar Klumpen von Ektoplasma in der Gegend.
 
 ent-ActionSapApc = Sap APC
-    .desc = Entzieht ein bisschen Strom aus dem APC der Region. Je höher Ihre WP Regenerate ist, desto mehr Strom wird verbraucht. Mehrere APCs können nicht abgelassen werden.
+    .desc = Entzieht ein bisschen Strom aus dem APC der Region. Je höher deine WP Regenerate ist, desto mehr Strom wird verbraucht. Mehrere APCs können nicht abgelassen werden.
 
 ent-ActionSpookRandom = Zufällig
     .desc = Führt eine zufällige Aktion aus.

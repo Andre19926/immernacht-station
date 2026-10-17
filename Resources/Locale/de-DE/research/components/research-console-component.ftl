@@ -11,22 +11,22 @@
 
 ## UI
 
-research-console-menu-title = R&D Konsole
+research-console-menu-title = R&D-Konsole
 research-console-menu-research-points-text = Forschungspunkte: [color=orchid]{$points}[/color]
 research-console-menu-main-discipline = Hauptdisziplin: [color={$color}]{$name}[/color]
 research-console-menu-server-selection-button = Serverliste
-research-console-menu-server-sync-button = Sync
+research-console-menu-server-sync-button = Synchronisieren
 research-console-menu-server-research-button = Forschung
 research-console-available-text = Forschungsfähige Technologien
 research-console-unlocked-text = Freigeschaltete Technologien
-research-console-tier-discipline-info = Tier {$tier}, [color={$color}]{$discipline}[/color]
-research-console-tier-info-small = : Ebene {$tier}
+research-console-tier-discipline-info = Stufe {$tier}, [color={$color}]{$discipline}[/color]
+research-console-tier-info-small = : Stufe {$tier}
 research-console-cost = Kosten: [color=orchid]{$amount}[/color]
-research-console-unlocks-list-start = Entsperrungen:
+research-console-unlocks-list-start = Schaltet frei:
 research-console-unlocks-list-entry = - [color=yellow]{$name}[/color]
 research-console-unlocks-list-entry-generic = - [color=green]{$text}[/color]
-research-console-prereqs-list-start = Erfordert:
+research-console-prereqs-list-start = Benötigt:
 research-console-prereqs-list-entry = - [color=orchid]{$text}[/color]
 
 research-console-no-access-popup = Kein Zugang!
-research-console-unlock-technology-radio-broadcast = Entsperrt [bold]{$technology}[/bold] für [bold]{$amount}[/bold] Forschung durch [bold]{$approver}[/bold].
+research-console-unlock-technology-radio-broadcast = [bold]{$approver}[/bold] hat [bold]{$technology}[/bold] für [bold]{$amount}[/bold] Forschung freigeschaltet.

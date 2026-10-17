@@ -42,13 +42,13 @@ signal-port-description-automation-slot-materials = Ein Automatisierungsschlitz 
 
 # Disposal Unit
 
-signal-port-name-flush = Spülung
+signal-port-name-flush = Spülen
 signal-port-description-flush = Signalanschluss zum Umschalten des Spülmechanismus einer Entsorgungseinheit.
 
-signal-port-name-eject = Auswurf
+signal-port-name-eject = Auswerfen
 signal-port-description-eject = Signalport zum Auswerfen des Inhalts einer Entsorgungseinheit.
 
-signal-port-name-ready = Fertig
+signal-port-name-ready = Bereit
 signal-port-description-ready = Signalanschluss, der gepulst wird, nachdem eine Entsorgungseinheit vollständig unter Druck gesetzt wurde.
 
 # Storage Bin
@@ -67,12 +67,12 @@ signal-port-description-storage-removed = Signalanschluss, der gepulst wird, nac
 signal-port-name-automation-slot-paper = Position: Papier
 signal-port-description-automation-slot-paper = Ein Automatisierungsschlitz für das Papierfach eines Faxgeräts.
 
-signal-port-name-fax-copy = Kopieren Sie Fax
+signal-port-name-fax-copy = Kopiere Fax
 signal-port-description-fax-copy = Signalanschluss zum Kopieren des Papiers eines Faxgeräts.
 
 # Constructor / Interactor
 
-signal-port-name-machine-start = Beginn
+signal-port-name-machine-start = Start
 signal-port-description-machine-start = Signalport, um eine Maschine einmal zu starten.
 
 signal-port-name-machine-autostart = Autostart
@@ -98,7 +98,7 @@ signal-port-name-automation-slot-autodoc-hand = Artikel: Autodoc Hand
 signal-port-description-automation-slot-autodoc-hand = Ein Automatisierungs-Slot für ein Autodoc gehalten Organ / Teil / etc aus STORE ITEM / GRAB ITEM Anweisungen.
 
 signal-port-name-alt-interact = Alt Interact Mode
-signal-port-description-alt-interact = Signalport zum Umschalten des alternativen Interaktionsmodus oder setzen Sie ihn auf einen HIGH/LOW-Wert.
+signal-port-description-alt-interact = Signalport zum Umschalten des alternativen Interaktionsmodus oder setze ihn auf einen HIGH/LOW-Wert.
 
 # Gas Canister
 
@@ -115,7 +115,7 @@ signal-port-description-automation-slot-bottles = Ein Automatisierungssteckplatz
 signal-port-name-rad-empty = Leer
 signal-port-description-rad-empty = Signalanschluss auf HIGH eingestellt, wenn der Tank fehlt oder unter 33% Druck, ansonsten LOW.
 
-signal-port-name-rad-low = niedrig
+signal-port-name-rad-low = Niedrig
 signal-port-description-rad-low = Signalanschluss auf HIGH eingestellt, wenn der Tank unter 66% Druck ist, ansonsten LOW.
 
 signal-port-name-rad-full = voll

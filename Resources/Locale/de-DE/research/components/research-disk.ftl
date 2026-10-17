@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-disk-inserted = Einfügen der Festplatte, Hinzufügen {$points} Zeigt auf den Server.
+research-disk-inserted = Du legst die Diskette ein und überträgst {$points} Punkte an den Server.

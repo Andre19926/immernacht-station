@@ -11,6 +11,6 @@
 # Examine text after when they're holding something (in-hand)
 comp-hands-examine = { CAPITALIZE(SUBJECT($user)) } hält { $items }.
 comp-hands-examine-empty = { CAPITALIZE(SUBJECT($user)) } hält nichts in den Händen.
-comp-hands-examine-wrapper = { INDEFINITE($item) } [color=paleturquoise]{$item}[/color]
+comp-hands-examine-wrapper = [color=paleturquoise]{$item}[/color]
 
 hands-system-blocked-by = Blockiert durch

@@ -2,10 +2,10 @@ ent-WheatBushel = Weizenbuscheln
     .desc = Seufzer... Weizen... a-Korn?
 
 ent-MeatwheatBushel = Fleischweizen-Buschel
-    .desc = Einige blutgetränkte Weizenstiele. Sie können sie in das zerquetschen, was für Fleisch gilt, wenn Sie hart genug schielen.
+    .desc = Einige blutgetränkte Weizenstiele. Du kannst sie in das zerquetschen, was für Fleisch gilt, wenn du hart genug schielst.
 
 ent-OatBushel = Haferbüsche
-    .desc = Essen Sie Hafer, machen Sie Squats.
+    .desc = Iss Hafer, mache Squats.
 
 ent-Sugarcane = Zuckerrohr
     .desc = Krank süß.
@@ -57,8 +57,8 @@ ent-FoodLemon = Zitrone
 ent-FoodLemoon = Lemoon
     .desc = Die Leute sagen, Mond ist aus Käse, aber Mond ist eigentlich aus Milch und Lorbeer gemacht!
 
-ent-FoodLime = Kalk
-    .desc = Cures Space Scurvy ermöglicht es Ihnen, sich wie ein Weltraumpirat zu verhalten.
+ent-FoodLime = Limette
+    .desc = Cures Space Scurvy ermöglicht es dir, sich wie ein Weltraumpirat zu verhalten.
 
 ent-FoodOrange = Orange
     .desc = Gesund, sehr orange.
@@ -105,7 +105,7 @@ ent-FoodOnion = Zwiebeln
 ent-FoodOnionRed = rote Zwiebeln
     .desc = Lila trotz des Namens.
 
-ent-FoodMushroom = Chanterelles Cluster
+ent-FoodMushroom = Pfifferlingbüschel
     .desc = Cantharellus Cibarius: Diese fröhlichen gelben kleinen Pilze sehen sicher lecker aus!
 
 ent-FoodPineappleSlice = Ananasscheiben
@@ -133,10 +133,10 @@ ent-FoodLily = Lilie
     .desc = Eine schöne orange Blume, die topische Medizin enthält.
 
 ent-FoodLingzhi = Lingzhi
-    .desc = Ein starker Heilpilz. Gehen Sie nicht über Bord.
+    .desc = Ein starker Heilpilz. Geh nicht über Bord.
 
 ent-FoodAmbrosiaVulgaris = Ambrosia vulgaris
-    .desc = Eine Heilpflanze. Vielleicht fühlen Sie sich ein wenig lustig.
+    .desc = Eine Heilpflanze. Vielleicht fühlst du dir ein wenig lustig.
 
 ent-FoodAmbrosiaDeus = ambrosia de
     .desc = Eine äußerst begehrte Heilpflanze. Kann einige funky Nebenwirkungen haben.
@@ -148,7 +148,7 @@ ent-FoodGlasstle = Glasse
     .desc = Eine zerbrechliche Kristallpflanze mit vielen Dornen.
 
 ent-FoodFlyAmanita = Fly Amanita
-    .desc = Ein köstlich aussehender Pilz, wie Sie ihn in diesen Cartoons sehen.
+    .desc = Ein köstlich aussehender Pilz, wie du ihn in diesen Cartoons siehst.
 
 ent-FoodGatfruit = Gatfrucht
     .desc = Eine köstliche, waffenförmige Frucht mit einem dicken Holzstiel.
@@ -172,7 +172,7 @@ ent-FoodKoibean = Koibe
     .desc = Diese Bohnen wirken ein wenig fischig.
 
 ent-FoodWatermelon = Wassermelone
-    .desc = Runder grüner Gegenstand, den Sie schneiden und essen können.
+    .desc = Runder grüner Gegenstand, den dich schneiden und essen können.
 
 ent-FoodWatermelonSlice = Wassermelonenscheibe
     .desc = Saftige grüne und rote Scheibe.
@@ -180,7 +180,7 @@ ent-FoodWatermelonSlice = Wassermelonenscheibe
 ent-FoodHolymelon = Heiligmelone
     .desc = Das Wasser in dieser Melone wurde von einer Gottheit gesegnet, die Wassermelone besonders liebt.
 
-ent-FoodHolymelonSlice = Whitemelon-Scheibe
+ent-FoodHolymelonSlice = Holymelon-Scheibe
     .desc = Juicy golden und rote Scheibe.
 
 ent-FoodGrape = Trauben
@@ -194,7 +194,7 @@ ent-FoodBungo = Bungofrüchte
 
 ent-FoodBungoPit = Bungogrube
 
-ent-FoodPeaPod = Erbsenhülsen
+ent-FoodPeaPod = Erbsenschote
     .desc = Der Lieblingsgenuss einer Ente!
 
 ent-FoodWorldPeas = Erbsencluster
@@ -220,5 +220,5 @@ ent-TrashCherryPit = Kirschgrube
 ent-FoodAnomalyBerry = Anomalie-Beere
     .desc = Eine seltsame blaue Frucht. Etwas daran scheint nicht richtig zu sein.
 
-ent-FoodBloonion = blühende Glühbirne
+ent-FoodBloonion = Ballonzwiebel
     .desc = Eine seltsame schwimmende Glühbirne... Nichts, worüber man weinen sollte.

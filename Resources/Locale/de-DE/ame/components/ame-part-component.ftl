@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ame-part-component-interact-using-no-hands = Sie haben keine Hände.
-ame-part-component-shielding-already-present = Shielding ist bereits da!
+ame-part-component-interact-using-no-hands = Du hast keine Hände.
+ame-part-component-shielding-already-present = Die Abschirmung ist schon da!

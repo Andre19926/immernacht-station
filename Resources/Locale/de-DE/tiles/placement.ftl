@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-invalid-floor-placement = Unfähig, dort zu platzieren
+invalid-floor-placement = Hier kann nichts platziert werden.

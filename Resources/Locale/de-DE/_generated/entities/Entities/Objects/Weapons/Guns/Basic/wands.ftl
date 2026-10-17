@@ -1,7 +1,7 @@
-ent-WeaponWandPolymorphCarp = Karpfenstabpolymorph
+ent-WeaponWandPolymorphCarp = Stab der Karpfenverwandlung
     .desc = Denn wenn man schnell ein Karpfenfilet braucht und der Clown saftig aussieht.
 
-ent-WeaponWandPolymorphMonkey = Affenstab polymorph
+ent-WeaponWandPolymorphMonkey = Stab der Affenverwandlung
     .desc = Denn wenn du einen Affenfreund brauchst.
 
 ent-WeaponWandFireball = Zauberstab des Feuerballs
@@ -14,10 +14,10 @@ ent-WeaponWandDeath = Zauberstab des sofortigen Todes
     .desc = Nur das beste und hellste R & D-Team von Space Wizards arbeitete zusammen, um diese Schönheit zu schaffen.
 
 ent-WeaponWandPolymorphDoor = Eingangsstab
-    .desc = Denn wenn Sie eine Fluchtroute brauchen.
+    .desc = Denn wenn du eine Fluchtroute brauchst.
 
 ent-WeaponWandCluwne = Zauberstab
     .desc = Machen sie ihre situation schlimmer, indem sie sie in eine cluwne verwandeln.
 
 ent-WeaponWandPolymorphBread = Zauberbrotstab
-    .desc = Verwandle alle deine Freunde in Brot! Dein Chef! Eure Feinde! Dein Hund! Mach alles Brot!
+    .desc = Verwandle alle deine Freunde in Brot! Dein Chef! Deine Feinde! Dein Hund! Mach alles Brot!

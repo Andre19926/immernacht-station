@@ -80,7 +80,7 @@ reagent-name-bozaide = Bozaid
 reagent-desc-bozaide = Ein passives, langsam wirkendes rohes Medikament, das als Katalysator für die natürliche Geweberegeneration wirkt.
 
 reagent-name-genecide = Genzid
-reagent-desc-genecide = Stößt genetische Schäden weg, buchstäblich. Achten Sie darauf, Patienten zu überwachen, die es einnehmen.
+reagent-desc-genecide = Stößt genetische Schäden weg, buchstäblich. Achte darauf, Patienten zu überwachen, die es einnehmen.
 
 reagent-name-procenyl-lazide-sludge = Procenyllazidschlamm
 reagent-desc-procenyl-lazide-sludge = Relativ einfach zu schaffende Lösung, muss Heizung richtig in einer notorisch ineffizienten Reaktion binden.
@@ -98,10 +98,10 @@ reagent-name-herignis = Herignis
 reagent-desc-herignis = Kann die meisten gekühlten Echsen auftauen, empfohlen, nur in kleinen Dosen zu verwenden, da es seinen Metabolisierer schnell auf gefährliche Werte erhitzen kann.
 
 reagent-name-immurin = Immurin
-reagent-desc-immurin = Eine Chemikalie, die Ihr Immunsystem stärkt und es schneller und härter arbeiten lässt. Der Boost bleibt für einige Zeit, auch nachdem die Chemikalie metabolisiert hat. Schmeckt schrecklich.
+reagent-desc-immurin = Eine Chemikalie, die dein Immunsystem stärkt und es schneller und härter arbeiten lässt. Der Boost bleibt für einige Zeit, auch nachdem die Chemikalie metabolisiert hat. Schmeckt schrecklich.
 
 reagent-name-spaceacilin = Spaceacilin
-reagent-desc-spaceacilin = Häufig verwendete und wirksame antibakterielle Medizin. Schwächt leicht Ihre Immunität.
+reagent-desc-spaceacilin = Häufig verwendete und wirksame antibakterielle Medizin. Schwächt leicht deine Immunität.
 
 reagent-name-devirate = Abweichung
 reagent-desc-devirate = Antivirale Medizin. Leicht giftig.

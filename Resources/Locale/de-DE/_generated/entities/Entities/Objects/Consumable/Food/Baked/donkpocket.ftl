@@ -4,13 +4,13 @@ ent-FoodDonkpocket = Donk-pocket
 ent-FoodDonkpocketWarm = warme Donk-Tasche
     .desc = Das beheizte Essen der Wahl für den erfahrenen Verräter.
 
-ent-FoodDonkpocketDank = Dackeltasche
+ent-FoodDonkpocketDank = Dank-Pocket
     .desc = Das Essen der Wahl für den erfahrenen Botaniker.
 
 ent-FoodDonkpocketDankWarm = warme Naßtasche
     .desc = Das erhitzte Essen der Wahl für den erfahrenen Botaniker.
 
-ent-FoodDonkpocketSpicy = würzige Tasche
+ent-FoodDonkpocketSpicy = Scharfe Pocket
     .desc = Das klassische Snack-Food, jetzt mit einem hitzeaktivierten würzigen Flair.
 
 ent-FoodDonkpocketSpicyWarm = warme würzige Tasche
@@ -22,7 +22,7 @@ ent-FoodDonkpocketTeriyaki = Teriyaki-Tasche
 ent-FoodDonkpocketTeriyakiWarm = warme Teriyaki-Tasche
     .desc = Eine ostasiatische Version des klassischen Stationside-Snacks, jetzt dampfend und warm.
 
-ent-FoodDonkpocketPizza = Pizzatasche
+ent-FoodDonkpocketPizza = Pizza-Pocket
     .desc = Köstlich, kitschig und überraschend füllend.
 
 ent-FoodDonkpocketPizzaWarm = warme Pizzatasche
@@ -34,19 +34,19 @@ ent-FoodDonkpocketHonk = Honk-pocket
 ent-FoodDonkpocketHonkWarm = warme Honktasche
     .desc = Die preisgekrönte Donk-Tasche, jetzt warm und toasty.
 
-ent-FoodDonkpocketBerry = Beerentasche
+ent-FoodDonkpocketBerry = Beeren-Pocket
     .desc = Eine unerbittlich süße Donk-Tasche. Hergestellt mit 100% künstlichem Aroma.
 
 ent-FoodDonkpocketBerryWarm = warme Beerentasche
     .desc = Eine unerbittlich süße Donk-Tasche, jetzt warm und lecker.
 
-ent-FoodDonkpocketStonk = Stangentasche
+ent-FoodDonkpocketStonk = Stonk-Pocket
     .desc = Lecker, aber eine traurige Erinnerung an den großen Crash von '24.
 
 ent-FoodDonkpocketStonkWarm = warme Stonktasche
     .desc = Lecker, aber eine traurige Erinnerung an den großen Crash von '24.
 
-ent-FoodDonkpocketCarp = Karpfentasche
+ent-FoodDonkpocketCarp = Karpfen-Pocket
     .desc = Eine lange verlorene Ausgabe von Donk Pocket, speziell für hart arbeitende Retter.
 
 ent-FoodDonkpocketCarpWarm = warme Karpfentasche

@@ -35,31 +35,31 @@ ent-CdDiskSecurityPsa = CD-Diskette (Sicherheit psa)
     .desc = Eine CD-Diskette enthält normalerweise Anzeigen.
 
 ent-CdDiskCommanderAnnouncement = CD Disk (Befehlsmeldung)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskCommanderFigurines = CD-Disk (Kommandantenfiguren)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskCommanderResignation = CD Disk (Kommandantenrücktritt)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskCommanderSupport = CD-Disk (Kommandantenunterstützung)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskHeisenbeeTrial = CD-Disc (Prozess gegen Heisenbee)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskXgOnboarding1 = CD-Disk (xg onboarding 1)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskXgOnboarding2 = CD-Diskette (xg onboarding 2)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskXgOnboarding3 = CD-Diskette (xg onboarding 3)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-CdDiskXgOnboarding4 = CD-Diskette (xg onboarding 4)
-    .desc = Eine seltsame CD-Diskette, etwas sagt Ihnen, dass diese keine Werbung enthält.
+    .desc = Eine seltsame CD-Diskette, etwas sagt dir, dass diese keine Werbung enthält.
 
 ent-JVNECdDiskCapstien = CD-Disk (Capstien)
     .desc = Die Juni- und Eels-Show!

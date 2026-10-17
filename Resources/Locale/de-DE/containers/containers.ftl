@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-container-verb-text-enter = Eingang
+container-verb-text-enter = Betreten
 container-verb-text-empty = Leer
 
 ## missed
-container-thrown-missed = Verpasst!
+container-thrown-missed = Verfehlt!

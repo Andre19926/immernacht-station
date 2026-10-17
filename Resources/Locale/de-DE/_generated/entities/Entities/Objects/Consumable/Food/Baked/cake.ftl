@@ -20,7 +20,7 @@ ent-FoodCakeBrain = Hirnkuchen
     .desc = Ein squishy Kuchen-Ding.
 
 ent-FoodCakeBrainSlice = Ein Stück Hirnkuchen
-    .desc = Lemme erzählt Ihnen etwas über Prionen. SIE SIND DELICIOUS.
+    .desc = Lemme erzählt dir etwas über Prionen. SIE SIND DELICIOUS.
 
 ent-FoodCakeCheese = Käsekuchen
     .desc = GEFÄHRLICH kitschig.
@@ -34,10 +34,10 @@ ent-FoodCakeOrange = Orangenkuchen
 ent-FoodCakeOrangeSlice = Stück Orangenkuchen
     .desc = Nur ein Stück Kuchen, es ist genug für alle.
 
-ent-FoodCakeLime = Kalkkuchen
+ent-FoodCakeLime = Limettenkuchen
     .desc = Kuchen mit Kalkzusatz.
 
-ent-FoodCakeLimeSlice = Kalkkuchenscheibe
+ent-FoodCakeLimeSlice = Stück Limettenkuchen
     .desc = Nur ein Stück Kuchen, es ist genug für alle.
 
 ent-FoodCakeLemon = Zitronenkuchen
@@ -103,7 +103,7 @@ ent-FoodCakeClownSlice = Stück Clownkuchen
 ent-FoodCakeSpaceman = Torte des Raumfahrers
     .desc = Ein Raumfahrer Trompete gefroren Kuchen.
 
-ent-FoodCakeSpacemanSlice = Ein Stück vom Spaceman's Cake
+ent-FoodCakeSpacemanSlice = Stück Spaceman-Kuchen
     .desc = Ein Raumfahrer Trompete gefroren Kuchen.
 
 ent-MobCatCake = Cak
@@ -119,10 +119,10 @@ ent-FoodCakeCotton = Baumwollkuchen
     .desc = Ein Kuchen mit einem Faserfrost und einem Watte Baumwolle an der Spitze.
 
 ent-FoodCakeCottonSlice = Stück Baumwollkuchen
-    .desc = Ein Stück Baumwollkuchen. Sie können den Frost lecken, es ist in Ordnung.
+    .desc = Ein Stück Baumwollkuchen. Du kannst den Frost lecken, es ist in Ordnung.
 
 ent-FoodCakeBerryDelight = Beerenfreude
     .desc = Das ist ein Kuchen, der sich nähert.
 
 ent-FoodCakeBerryDelightSlice = Beerenfreudenscheiben
-    .desc = Setzen Sie eine Gabel in, Ihren Hunger in Isolation.
+    .desc = Setze eine Gabel in, deinen Hunger in Isolation.

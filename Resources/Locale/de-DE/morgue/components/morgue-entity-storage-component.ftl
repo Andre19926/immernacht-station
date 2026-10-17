@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-morgue-entity-storage-component-on-examine-details-body-has-soul = Der Inhalt Light ist [color=green]grün[/color]Dieser Körper könnte noch gerettet werden!
-morgue-entity-storage-component-on-examine-details-body-has-no-soul = Der Inhalt Light ist [color=red]rot[/color]Hier ist eine Leiche! Oh warte...
-morgue-entity-storage-component-on-examine-details-has-contents = Der Inhalt Light ist [color=yellow]gelb[/color]Hier ist etwas drin.
-morgue-entity-storage-component-on-examine-details-empty = Das Inhaltslicht ist ausgeschaltet, hier ist nichts drin.
+morgue-entity-storage-component-on-examine-details-body-has-soul = Die Inhaltsleuchte ist [color=green]grün[/color]: Dieser Körper könnte noch gerettet werden!
+morgue-entity-storage-component-on-examine-details-body-has-no-soul = Die Inhaltsleuchte ist [color=red]rot[/color]: Hier liegt eine Leiche! Oh, warte …
+morgue-entity-storage-component-on-examine-details-has-contents = Die Inhaltsleuchte ist [color=yellow]gelb[/color]: Hier ist etwas drin.
+morgue-entity-storage-component-on-examine-details-empty = Die Inhaltsleuchte ist aus: Hier ist nichts drin.

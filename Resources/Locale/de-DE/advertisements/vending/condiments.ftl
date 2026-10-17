@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-condiment-1 = Müde von trockenem Fleisch? Spritzen Sie ein paar würzige Gewürze darauf!
+advertisement-condiment-1 = Genug von trockenem Fleisch? Spritz einfach würzige Soßen drauf!
 advertisement-condiment-2 = Kindersichere Utensilien. Gabeln, Löffel und Messer, die nichts schneiden.
 advertisement-condiment-3 = Maisöl!
-advertisement-condiment-4 = Versüßen Sie Ihren Tag mit Astrotame! Acht von zehn Ärzten stimmen zu, dass es wahrscheinlich keinen Krebs verursachen wird.
-advertisement-condiment-5 = Heiße Sauce! Barbecue Sauce! Kalte Sauce! Ketchup! Sojasauce! Meerrettich-Sauce! Wir haben alle Sauce!
-advertisement-condiment-6 = Stellen Sie sicher, dass Sie Ketchup und Senf auf Ihre Burger legen! Die Köche vergessen es oft.
+advertisement-condiment-4 = Versüße dir den Tag mit Astrotame! Acht von zehn Ärzten sind sich einig: Es verursacht wahrscheinlich keinen Krebs.
+advertisement-condiment-5 = Scharfe Soße! Barbecuesoße! Kalte Soße! Ketchup! Sojasoße! Meerrettichsoße! Wir haben alle Soßen!
+advertisement-condiment-6 = Denk daran, Ketchup und Senf auf deine Burger zu tun! Die Köche vergessen es oft.
 

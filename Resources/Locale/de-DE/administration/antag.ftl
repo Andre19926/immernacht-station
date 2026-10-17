@@ -16,31 +16,31 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-categories-antag = Antag ctrl
-admin-verb-make-traitor = Machen Sie das Ziel zu einem Verräter.
-admin-verb-make-initial-infected = Machen Sie das Ziel zu einem Initial Infected.
+verb-categories-antag = Antagonisten
+admin-verb-make-traitor = Macht das Ziel zu einem Verräter.
+admin-verb-make-initial-infected = Macht das Ziel zu einem Erstinfizierten.
 admin-verb-make-zombie = Zombisiert das Ziel sofort.
-admin-verb-make-nuclear-operative = Machen Sie das Ziel zu einem einsamen nuklearen Operateur.
-admin-verb-make-pirate = Machen Sie das Ziel zu einem Piraten. Beachten Sie, dass dies die Spielregel nicht konfiguriert.
-admin-verb-make-head-rev = Machen Sie das Ziel zu einem Head Revolutionär.
-admin-verb-make-thief = Machen Sie das Ziel zu einem Dieb.
-admin-verb-make-paradox-clone = Erstellen Sie eine Paradox Clone Geisterrolle des Ziels.
-admin-verb-make-wizard = Machen Sie das Ziel zu einem Zauberer.
-admin-verb-make-space-ninja = Machen Sie das Ziel zu einem Space Ninja.
-admin-verb-make-changeling = Machen Sie das Ziel zu einem Changeling.
+admin-verb-make-nuclear-operative = Macht das Ziel zu einem einzelnen Atomkommando-Agenten.
+admin-verb-make-pirate = Macht das Ziel zu einem Piraten. Hinweis: Die Spielregel wird dabei nicht konfiguriert.
+admin-verb-make-head-rev = Macht das Ziel zu einem Revolutionsführer.
+admin-verb-make-thief = Macht das Ziel zu einem Dieb.
+admin-verb-make-paradox-clone = Erstellt eine Paradox-Klon-Geisterrolle des Ziels.
+admin-verb-make-wizard = Macht das Ziel zu einem Zauberer.
+admin-verb-make-space-ninja = Macht das Ziel zu einem Space Ninja.
+admin-verb-make-changeling = Macht das Ziel zu einem Wechselbalg.
 
 
-admin-verb-text-make-traitor = Machen Verräter
-admin-verb-text-make-initial-infected = Machen Sie Initial Infected
-admin-verb-text-make-zombie = Machen Sie Zombie
-admin-verb-text-make-nuclear-operative = Machen Sie Nuclear Operate
-admin-verb-text-make-pirate = Macht Piraten
-admin-verb-text-make-head-rev = Make Head Rev.
-admin-verb-text-make-thief = Machen Sie Dieb
-admin-verb-text-make-paradox-clone = Paradox Clone erstellen
-admin-verb-text-make-wizard = Machen Sie Zauberer
-admin-verb-text-make-space-ninja = Machen Sie Ninja
+admin-verb-text-make-traitor = Zum Verräter machen
+admin-verb-text-make-initial-infected = Zum Erstinfizierten machen
+admin-verb-text-make-zombie = Zum Zombie machen
+admin-verb-text-make-nuclear-operative = Zum Atomkommando-Agenten machen
+admin-verb-text-make-pirate = Zum Piraten machen
+admin-verb-text-make-head-rev = Zum Revolutionsführer machen
+admin-verb-text-make-thief = Zum Dieb machen
+admin-verb-text-make-paradox-clone = Paradox-Klon erstellen
+admin-verb-text-make-wizard = Zum Zauberer machen
+admin-verb-text-make-space-ninja = Zum Ninja machen
 # Goob edit v
-admin-verb-text-make-changeling = Wechseln
+admin-verb-text-make-changeling = Zum Wechselbalg machen
 
 admin-overlay-antag-classic = ANTAG

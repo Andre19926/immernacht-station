@@ -5,11 +5,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ### goblin tusks
-marking-GoblinTusksBasic = No Tusks
-marking-GoblinTusksBasic-goblin_tusks_none = No Tusks
+marking-GoblinTusksBasic = Keine Hauer
+marking-GoblinTusksBasic-goblin_tusks_none = Keine Hauer
 
-marking-GoblinTusksSmall = Kleine Tusks
+marking-GoblinTusksSmall = Kleine Hauer
 marking-GoblinTusksSmall-goblin_tusks_small = Kleine Tusks
 
-marking-GoblinTusksBig = Langrohre
+marking-GoblinTusksBig = Lange Hauer
 marking-GoblinTusksBig-goblin_tusks_big = Langrohre

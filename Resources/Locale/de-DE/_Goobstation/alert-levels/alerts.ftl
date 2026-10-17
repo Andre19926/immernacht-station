@@ -9,13 +9,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 alerts-stasis-name = [color=cyan]Zeitliche Stasis[/color]
-alerts-stasis-desc = Sie befinden sich in einer vorübergehenden Stasis. Du kannst nicht mit der Welt interagieren, noch kann sie mit dir interagieren.
+alerts-stasis-desc = Du befindest dich in vorübergehender Stasis. Du kannst nicht mit der Welt interagieren, und sie nicht mit dir.
 
 alerts-knocked-down-name = [color=yellow]Abgeschlagen[/color]
 alerts-knocked-down-desc = [color=yellow]Abgeschlagen[/color]Du kannst nicht aufstehen.
 
 alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
-alerts-modsuit-power-desc = Zeigt die aktuelle Leistungsstufe Ihres Modsuits an. Niedriger Strom kann die Funktionalität des Anzugs beeinträchtigen.
+alerts-modsuit-power-desc = Zeigt die aktuelle Leistungsstufe deines Modsuits an. Niedriger Strom kann die Funktionalität des Anzugs beeinträchtigen.
 
 alerts-centered-name = mittig
-alerts-centered-desc = Du fühlst dich in Kontakt mit deinen Wurzeln. Insbesondere die Wurzeln, die Sie auf Fliesen zentriert halten.
+alerts-centered-desc = Du fühlst dich in Kontakt mit deinen Wurzeln. Insbesondere die Wurzeln, die du auf Kacheln zentriert hältst.

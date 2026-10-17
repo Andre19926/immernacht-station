@@ -17,7 +17,7 @@ comp-kitchen-spike-deny-collect = { CAPITALIZE(THE($this)) } Hat schon etwas dra
 comp-kitchen-spike-deny-butcher = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden auf { THE($this) }.
 comp-kitchen-spike-deny-changeling = { CAPITALIZE(THE($victim)) } Resists werden aufgesetzt { THE($this) }.
 comp-kitchen-spike-deny-absorbed = { CAPITALIZE(THE($victim)) } Hat nichts mehr zu Metzger.
-comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden auf { THE($this) }Sie müssen es mit einem Messer abschlachten.
+comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden auf { THE($this) }dich müssen es mit einem Messer abschlachten.
 comp-kitchen-spike-deny-not-dead = { CAPITALIZE(THE($victim)) } kann nicht abgeschlachtet werden. { CAPITALIZE(SUBJECT($victim)) } { CONJUGATE-BE($victim) } Nicht tot!
 comp-kitchen-spike-begin-hook-self = Du fängst an, dich auf { THE($hook) }!
 comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) } Beginnt zu ziehen { REFLEXIVE($victim) } auf { THE($hook) }!
@@ -43,13 +43,13 @@ comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } erhalten { R
 comp-kitchen-spike-unhook-other-self = Du hast { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
 comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } erhalten { CAPITALIZE(THE($victim)) } ausgeschaltet { THE($hook) }!
 
-comp-kitchen-spike-begin-butcher-self = Sie fangen an zu schlachten { THE($victim) }!
+comp-kitchen-spike-begin-butcher-self = Du fängst an, { THE($victim) } zu schlachten!
 comp-kitchen-spike-begin-butcher = { CAPITALIZE(THE($user)) } beginnt zu schlachten { THE($victim) }!
 
-comp-kitchen-spike-butcher-self = Sie schlachteten { THE($victim) }!
+comp-kitchen-spike-butcher-self = Du hast { THE($victim) } geschlachtet!
 comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } geschlachtet { THE($victim) }!
 
-comp-kitchen-spike-unhook-verb = Unhaken
+comp-kitchen-spike-unhook-verb = Aushaken
 
 comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) } ist auf diesem Spike![/color]
 

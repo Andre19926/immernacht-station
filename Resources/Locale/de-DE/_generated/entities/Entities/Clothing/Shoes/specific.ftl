@@ -11,7 +11,7 @@ ent-ClothingShoesBling = Bling Clown Schuhe
     .desc = Hergestellt aus raffiniertem Bananium und glänzt mit dem Fruchtfleisch einer frischen Bananenschale. Diese machen eine auffällige Aussage.
 
 ent-ClothingShoesCult = Kultionsschuhe
-    .desc = Ein Paar Stiefel, getragen von den Anhängern von Nar'Sie.
+    .desc = Ein Paar Stiefel, getragen von den Anhängern von Nar'dich.
 
 ent-ClothingShoesGaloshes = Galoschen
     .desc = Spezialisierte rutschfeste Gummistiefel, entworfen, um Hausmeisterarbeitsunfälle zu reduzieren; ein Schatz des Tiders.
@@ -19,8 +19,8 @@ ent-ClothingShoesGaloshes = Galoschen
 ent-ClothingShoesSpaceNinja = Space Ninja Schuhe
     .desc = Ein Paar nanoverstärkte Stiefel mit eingebauten magnetischen Saugnäpfen.
 
-ent-ClothingShoesSwat = Stiefelschuhe
-    .desc = Wenn Sie die Hitze aufdrehen wollen.
+ent-ClothingShoesSwat = SWAT-Stiefel
+    .desc = Wenn du die Hitze aufdrehen willst.
 
 ent-ClothingShoesWizard = Zaubererschuhe
     .desc = Ein Paar Zauberschuhe.
@@ -38,7 +38,7 @@ ent-ClothingShoesCluwne = Cluwne-Schuhe
     .desc = Verfluchtes Paar Clowne Schuhe.
 
 ent-ClothingShoesClownLarge = Große Clownschuhe
-    .desc = Wenn Sie sich in einem Raum voller Clowns abheben müssen!
+    .desc = Wenn du dich in einem Raum voller Clowns abheben musst!
 
 ent-ClothingShoesSkates = Rollschuhe
-    .desc = Holen Sie sich Ihre Skates auf!
+    .desc = Hole dir deine Skates auf!

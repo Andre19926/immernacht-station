@@ -1,15 +1,15 @@
-ent-AdminInstantEffectEMP = Sofortige Wirkung
+ent-AdminInstantEffectEMP = Sofortwirkung: EMP
 
-ent-AdminInstantEffectBluespace = Sofortige Wirkung
+ent-AdminInstantEffectBluespace = Sofortwirkung: Bluespace
 
-ent-AdminInstantEffectFlash = Sofortige Wirkung
+ent-AdminInstantEffectFlash = Sofortwirkung: Blitz
 
-ent-AdminInstantEffectSmoke3 = Sofortige Wirkung
+ent-AdminInstantEffectSmoke3 = Sofortwirkung: Rauch (3)
 
-ent-AdminInstantEffectSmoke10 = Sofortige Wirkung
+ent-AdminInstantEffectSmoke10 = Sofortwirkung: Rauch (10)
 
-ent-AdminInstantEffectSmoke30 = Sofortige Wirkung
+ent-AdminInstantEffectSmoke30 = Sofortwirkung: Rauch (30)
 
-ent-AdminInstantEffectTearGas = Sofortige Wirkung
+ent-AdminInstantEffectTearGas = Sofortwirkung: Tränengas
 
-ent-AdminInstantEffectGravityWell = Sofortige Wirkung
+ent-AdminInstantEffectGravityWell = Sofortwirkung: Gravitationsbrunnen

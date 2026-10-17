@@ -6,14 +6,14 @@ arcade-villain-verbs-fight-4 = Eigenheim
 arcade-villain-verbs-fight-5 = Pwn
 arcade-villain-verbs-fight-6 = robust
 arcade-villain-verbs-fight-7 = Romantik
-arcade-villain-verbs-fight-8 = Sparen
+arcade-villain-verbs-fight-8 = Speichern
 arcade-villain-verbs-fight-9 = Stopp
 arcade-villain-verbs-fight-10 = Streik
 
 # Enemy names
 arcade-villain-names-enemy-first-1 = Herzog
 arcade-villain-names-enemy-first-2 = Betriebsinhaber
-arcade-villain-names-enemy-first-3 = Generalgeneral
+arcade-villain-names-enemy-first-3 = Allgemein
 arcade-villain-names-enemy-first-4 = Herr
 arcade-villain-names-enemy-first-5 = Professor
 arcade-villain-names-enemy-first-6 = Die Automatik

@@ -7,5 +7,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 advertisement-genedrobe-1 = Perfekt für den verrückten Wissenschaftler in dir!
-advertisement-genedrobe-2 = Experimentieren mit Affen macht mehr Spaß, als Sie denken!
+advertisement-genedrobe-2 = Experimentieren mit Affen macht mehr Spaß, als du denkst!
 

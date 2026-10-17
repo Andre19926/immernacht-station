@@ -10,13 +10,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alert-level-announcement = Achtung! Station Alarmstufe ist jetzt {$name}! {$announcement}
+alert-level-announcement = Achtung! Die Alarmstufe der Station ist jetzt {$name}! {$announcement}
 
 alert-level-unknown = Unbekannt.
 alert-level-unknown-instructions = Unbekannt.
 
 alert-level-green = Grün
-alert-level-green-announcement = Es ist jetzt sicher, an Ihren Arbeitsplatz zurückzukehren.
+alert-level-green-announcement = Es ist jetzt sicher, an deinen Arbeitsplatz zurückzukehren.
 alert-level-green-instructions = Mach deinen Job.
 
 alert-level-blue = Blau
@@ -24,8 +24,8 @@ alert-level-blue-announcement = Es gibt eine bestätigte Bedrohung für die Stat
 alert-level-blue-instructions = Die Crewmitglieder sollten wachsam sein und verdächtige Aktivitäten der Sicherheit melden.
 
 alert-level-red = Rot
-alert-level-red-announcement = Es besteht eine unmittelbare Bedrohung für die Station. Die Sicherheit sollte sich darauf vorbereiten, wenn nötig tödliche Gewalt anzuwenden. Die Crewmitglieder sollten einen sicheren Ort finden, an dem sie sich schützen können, und es wird ihnen empfohlen, den derzeitigen Behörden zu folgen.
-alert-level-red-instructions = Die Crewmitglieder sollten einen sicheren Ort finden, an dem sie sich schützen können, und es wird ihnen empfohlen, den derzeitigen Behörden zu folgen.
+alert-level-red-announcement = Es besteht eine unmittelbare Bedrohung für die Station. Die Sicherheit soll sich darauf vorbereiten, notfalls tödliche Gewalt einzusetzen. Die Crewmitglieder sollen einen sicheren Ort zum Schutz aufsuchen und den anwesenden Autoritäten folgen.
+alert-level-red-instructions = Die Crewmitglieder sollen einen sicheren Ort zum Schutz aufsuchen und den anwesenden Autoritäten folgen.
 
 alert-level-violet = Violett
 alert-level-violet-announcement = Es gibt eine virale Bedrohung auf der Station. Medizinischem Personal wird empfohlen, Crewmitglieder mit irgendwelchen Symptomen zu isolieren. Den Crewmitgliedern wird empfohlen, sich von anderen zu distanzieren und Sicherheitsmaßnahmen durchzuführen, um eine weitere Ausbreitung zu verhindern.
@@ -36,44 +36,44 @@ alert-level-yellow-announcement = Es gibt eine strukturelle oder atmosphärische
 alert-level-yellow-instructions = Den Crewmitgliedern wird empfohlen, sich von der Bedrohung fernzuhalten und gegebenenfalls an ihren Arbeitsplätzen zu bleiben.
 
 alert-level-gamma = Gamma
-alert-level-gamma-announcement = Das CentComm hat die Gamma-Sicherheitsstufe auf der Station angeordnet. Die Sicherheit besteht darin, jederzeit Waffen auszurüsten, und alle Zivilisten müssen sofort ihren nächsten Kopf für den Transport an einen sicheren Ort suchen.
-alert-level-gamma-instructions = Alle Zivilisten müssen sofort ihren nächsten Kopf für den Transport an einen sicheren Ort suchen.
+alert-level-gamma-announcement = CentComm hat die Alarmstufe Gamma für die Station angeordnet. Die Sicherheit hat jederzeit Waffen bereitzuhalten, und alle Zivilisten haben sich umgehend an die nächste Führungsperson zu wenden, um an einen sicheren Ort gebracht zu werden.
+alert-level-gamma-instructions = Alle Zivilisten haben sich umgehend an die nächste Führungsperson zu wenden, um an einen sicheren Ort gebracht zu werden.
 
 alert-level-delta = Delta
-alert-level-delta-announcement = Die Station ist derzeit von einer drohenden Zerstörung bedroht. Den Crewmitgliedern wird empfohlen, den Leitern der Mitarbeiter für weitere Informationen zuzuhören.
-alert-level-delta-instructions = Den Crewmitgliedern wird empfohlen, den Leitern der Mitarbeiter für weitere Informationen zuzuhören.
+alert-level-delta-announcement = Der Station droht die unmittelbare Zerstörung. Den Crewmitgliedern wird empfohlen, auf die Führung zu hören und weitere Informationen abzuwarten.
+alert-level-delta-instructions = Den Crewmitgliedern wird empfohlen, auf die Führung zu hören und weitere Informationen abzuwarten.
 
 alert-level-epsilon = Epsilon
-alert-level-epsilon-announcement = Das CentComm hat die Epsilon-Sicherheitsstufe auf der Station bestellt. Betrachten Sie alle Verträge gekündigt.
-alert-level-epsilon-instructions = Betrachten Sie alle Verträge gekündigt.
+alert-level-epsilon-announcement = CentComm hat die Alarmstufe Epsilon für die Station angeordnet. Alle Verträge gelten als gekündigt.
+alert-level-epsilon-instructions = Alle Verträge gelten als gekündigt.
 
 alert-level-omicron = Omikron
-alert-level-omicron-announcement = Station Override aktiviert. Warten Sie auf weitere Bestellungen von Mitarbeitern des CentComm, bleiben Sie in Ihren Abteilungen.
-alert-level-omicron-instructions = Warten Sie auf weitere Bestellungen.
+alert-level-omicron-announcement = Stations-Override aktiviert. Wartet auf weitere Befehle von CentComm und bleibt in euren Abteilungen.
+alert-level-omicron-instructions = Warte auf weitere Befehle.
 
 ## DeltaV - Cosmic Cult
-alert-level-octarine = Octarin
+alert-level-octarine = Oktarin
 alert-level-octarine-announcement = Ein katastrophales noosphärisches Ereignis droht den Realraum einzuhüllen. Die Stationscrew hat das Ereignis nach Möglichkeit einzudämmen oder zu evakuieren.
-alert-level-octarine-instructions = Den Crewmitgliedern wird empfohlen, den Leitern der Mitarbeiter für weitere Informationen zuzuhören.
+alert-level-octarine-instructions = Den Crewmitgliedern wird empfohlen, auf die Führung zu hören und weitere Informationen abzuwarten.
 
 ## GoobStation
-alert-level-honk = Honche
+alert-level-honk = Hup
 alert-level-honk-announcement = Ein hinterhältiger Clown ist auf freiem Fuß und verursacht katastrophalen Schaden, wenn er nicht hingerichtet wird! Alle Crewmitglieder müssen, wenn möglich, bei der Hinrichtung des Clowns zusammenarbeiten oder evakuieren.
 alert-level-honk-instructions = Den Crewmitgliedern wird empfohlen, den Clown hinzurichten.
 
 alert-level-amber = Bernstein
-alert-level-amber-announcement = Es gibt eine sofortige Station Ende Bedrohung. Alle Crewmitglieder müssen mit allen Mitteln bewaffnet werden, und alle nicht wesentlichen Mitarbeiter müssen die Sicherheit und die Stabschefs bei der Verteidigung der Station unterstützen.
-alert-level-amber-instructions = Crewmitglieder sollen bewaffnet werden, um eine Station zu bekämpfen, die die Bedrohung beendet.
-alert-level-amber-locked = Amber Alarm ist gesperrt. Es muss durch Befehlsautorisierung oder eine Bedrohung zum Beenden der Station entsperrt werden, bevor es aktiviert werden kann.
-alert-level-amber-unlocked = Bernsteinalarm entsperrt. Es kann jetzt von jeder Kommunikationskonsole aus aktiviert werden.
-alert-level-amber-no-id = Keine ID-Karte entdeckt. Halten oder tragen Sie eine ID zu wischen.
-alert-level-amber-needs-command = Das Entsperren von Bernsteinalarm muss mit einem Captain oder Head of Security ID eingeleitet werden.
-alert-level-amber-first-swipe = Erste ID akzeptiert. Wischen Sie eine zweite, andere Befehls-ID, um den Bernsteinalarm zu entsperren.
-alert-level-amber-same-id = Diese ID wurde bereits geklaut. Eine zweite, andere Befehls-ID ist erforderlich.
-alert-level-amber-needs-second-command = Die zweite ID muss über einen Befehlszugriff verfügen.
-alert-level-amber-verb-text = Entsperren von Bernsteinalarm
-alert-level-amber-verb-message = Wischen Sie Ihre ID, um einen Bernsteinalarm freizuschalten, damit er aktiviert werden kann. Benötigt eine Captain oder Head of Security ID plus eine zweite, andere Befehls-ID.
-alert-level-amber-authorized-initiated-announcement = Amber alarm unlock initiiert von {$name}.
-alert-level-amber-authorized-announcement = Amber Alarm wurde entsperrt von {$name}.
+alert-level-amber-announcement = Es besteht eine unmittelbare Bedrohung, die das Ende der Station bedeuten kann. Alle Crewmitglieder sind mit allen Mitteln zu bewaffnen, und alles nicht unbedingt benötigte Personal muss die Sicherheit und die Führung bei der Verteidigung der Station unterstützen.
+alert-level-amber-instructions = Die Crewmitglieder sind zu bewaffnen, um eine Bedrohung zu bekämpfen, die das Ende der Station bedeuten kann.
+alert-level-amber-locked = Die Alarmstufe Bernstein ist gesperrt. Sie muss durch eine Freigabe der Führung oder eine stationsvernichtende Bedrohung entsperrt werden, bevor sie aktiviert werden kann.
+alert-level-amber-unlocked = Alarmstufe Bernstein entsperrt. Sie kann jetzt von jeder Kommunikationskonsole aus aktiviert werden.
+alert-level-amber-no-id = Keine ID-Karte erkannt. Halte eine ID-Karte in der Hand oder trage sie, um sie durchzuziehen.
+alert-level-amber-needs-command = Die Entsperrung der Alarmstufe Bernstein muss mit der ID-Karte des Kapitäns oder des Head of Security eingeleitet werden.
+alert-level-amber-first-swipe = Erste ID-Karte akzeptiert. Ziehe eine zweite, andere Führungs-ID-Karte durch, um die Alarmstufe Bernstein zu entsperren.
+alert-level-amber-same-id = Diese ID-Karte wurde bereits durchgezogen. Es ist eine zweite, andere Führungs-ID-Karte nötig.
+alert-level-amber-needs-second-command = Die zweite ID-Karte muss Führungszugang haben.
+alert-level-amber-verb-text = Alarmstufe Bernstein entsperren
+alert-level-amber-verb-message = Ziehe deine ID-Karte durch, um die Alarmstufe Bernstein zu entsperren, damit sie aktiviert werden kann. Benötigt die ID-Karte des Kapitäns oder des Head of Security plus eine zweite, andere Führungs-ID-Karte.
+alert-level-amber-authorized-initiated-announcement = Die Entsperrung der Alarmstufe Bernstein wurde von {$name} eingeleitet.
+alert-level-amber-authorized-announcement = Die Alarmstufe Bernstein wurde von {$name} entsperrt.
 alert-level-amber-unknown-name = Unbekannt
-alert-level-amber-unlocked-announcement = Amber Alert wurde entsperrt und kann nun von jeder Kommunikationskonsole aus aktiviert werden.
+alert-level-amber-unlocked-announcement = Die Alarmstufe Bernstein wurde entsperrt und kann jetzt von jeder Kommunikationskonsole aus aktiviert werden.

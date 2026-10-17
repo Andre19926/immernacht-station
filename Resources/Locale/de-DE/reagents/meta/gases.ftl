@@ -20,7 +20,7 @@ reagent-name-tritium = Tritium
 reagent-desc-tritium = Radioaktiver weltraummagischer Pixiestaub.
 
 reagent-name-carbon-dioxide = Kohlendioxid
-reagent-desc-carbon-dioxide = Sie haben wirklich keine Ahnung, was das ist.
+reagent-desc-carbon-dioxide = Du hast wirklich keine Ahnung, was das ist.
 
 reagent-name-nitrogen = Stickstoff
 reagent-desc-nitrogen = Ein farbloses, geruchloses unreaktives Gas. Sehr stabil.

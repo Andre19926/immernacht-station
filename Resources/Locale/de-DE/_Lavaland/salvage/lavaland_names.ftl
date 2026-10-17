@@ -40,6 +40,6 @@ lavaland-ruin-crash = Flucht Pod Crash
 lavaland-ruin-desk = Stationsmüll
 lavaland-ruin-generator = Generatorfriedhof
 lavaland-ruin-mug = Becherfabrik
-lavaland-ruin-temple = Nar'Sie Tempel
+lavaland-ruin-temple = Nar'dich Tempel
 lavaland-ruin-flock-large = Seltsame Glasruine
 lavaland-ruin-reclaimer = NT-Reclaimer

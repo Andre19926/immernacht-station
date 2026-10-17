@@ -8,4 +8,4 @@ ent-NevcottaBark = Nevcottarinde
     .desc = Die Rinde eines Nevcotta-Baumes.
 
 ent-FoodBluespaceTomato = Blauraumtomate
-    .desc = Seien Sie vorsichtig damit.
+    .desc = Sei vorsichtig damit.

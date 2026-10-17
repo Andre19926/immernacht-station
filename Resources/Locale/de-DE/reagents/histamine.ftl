@@ -6,4 +6,4 @@
 ### Messages that pop up when metabolizing histamine.
 
 histamine-effect-light-itchiness = Du fühlst dich ein wenig juckend...
-histamine-effect-heavy-itchiness = Sie fühlen sich wirklich juckend!
+histamine-effect-heavy-itchiness = Du juckst dich überall, es ist furchtbar!

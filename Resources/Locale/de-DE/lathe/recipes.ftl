@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-recipe-Medkit-name = Erste-Hilfe-Kit (leer)
-lathe-recipe-MedkitBurn-name = Burn Treatment Kit (leer)
-lathe-recipe-MedkitToxin-name = Toxinbehandlungssatz (leer)
-lathe-recipe-MedkitO2-name = Sauerstoffentzugsbehandlungssatz (leer)
-lathe-recipe-MedkitBrute-name = Brute Trauma Treatment Kit (leer)
-lathe-recipe-MedkitAdvanced-name = Advanced Erste-Hilfe-Kit (leer)
-lathe-recipe-MedkitRadiation-name = Strahlenbehandlungssatz (leer)
-lathe-recipe-MedkitCombat-name = Combat Medical Kit (leer)
+lathe-recipe-Medkit-name = Erste-Hilfe-Kasten (leer)
+lathe-recipe-MedkitBurn-name = Verbrennungs-Medkit (leer)
+lathe-recipe-MedkitToxin-name = Toxin-Medkit (leer)
+lathe-recipe-MedkitO2-name = Sauerstoffmangel-Medkit (leer)
+lathe-recipe-MedkitBrute-name = Medkit gegen physische Schäden (leer)
+lathe-recipe-MedkitAdvanced-name = Erweiterter Erste-Hilfe-Kasten (leer)
+lathe-recipe-MedkitRadiation-name = Strahlungs-Medkit (leer)
+lathe-recipe-MedkitCombat-name = Kampf-Medkit (leer)

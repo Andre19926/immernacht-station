@@ -1,2 +1,2 @@
 alerts-broken-bones-name = Gebrochene Knochen
-alerts-broken-bones-desc = Sie haben einen oder mehrere gebrochene Knochen. Holen Sie sich so schnell wie möglich ärztliche Hilfe.
+alerts-broken-bones-desc = Du hast einen oder mehrere gebrochene Knochen. Such so schnell wie möglich ärztliche Hilfe.

@@ -29,7 +29,7 @@ ent-BookHowToKeepStationClean = Wie man die Station sauber hält
     .desc = Dieses Buch ist sehr sauber.
 
 ent-BookHowToRockAndStone = Wie man rockt und Stein
-    .desc = Eine sehr detaillierte Anleitung über Salvage geschrieben von Karl, einem legendären Space Miner, aber er fehlt. Es motiviert Sie zum Felsen und Stein.
+    .desc = Eine sehr detaillierte Anleitung über Salvage geschrieben von Karl, einem legendären Space Miner, aber er fehlt. Es motiviert dich zum Felsen und Stein.
 
 ent-BookMedicalReferenceBook = Medizinisches Referenzbuch
     .desc = Ein Nachschlagewerk über Medizin, geschrieben von einem alten Arzt. Die Handschrift ist kaum nachvollziehbar.

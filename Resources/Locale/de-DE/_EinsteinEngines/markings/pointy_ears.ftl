@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 marking-PointyEarsStandard-pointy_ears_standard = Standardohr
-marking-PointyEarsStandard = Standardohr
+marking-PointyEarsStandard = Spitze Ohren (Standard)
 
 marking-PointyEarsWide-pointy_ears_wide = Breite Ohren
 marking-PointyEarsWide = Breite Ohren

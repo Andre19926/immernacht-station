@@ -1,17 +1,17 @@
 ## CREW EXAMINES
 cosmic-examine-text-contraband = [color=#4cabb3]Dies ist höchst illegale Schmuggelware mit unbekannten Eigenschaften![/color]
 cosmic-examine-text-structures = [color=#4cabb3]Dieses Objekt sollte nicht auf der Station sein![/color]
-cosmic-examine-text-entities = [color=#4cabb3]Diese Entität sollte nicht auf der Station sein![/color]
+cosmic-examine-text-entities = [color=#4cabb3]Dieses Wesen sollte nicht auf der Station sein![/color]
 cosmic-examine-text-glyphs = [color=#4cabb3]Die geätzten Linien sind zutiefst nervig zu betrachten.[/color]
-cosmic-examine-text-abilityblank = [color=#4cabb3]Ihre katatonischen Augen pulsieren mit bösem Licht![/color]
-cosmic-examine-text-abilitylapse = [color=#4cabb3]Sie sehen aus, als würden sie etwas sehen, das nicht dazu bestimmt ist, gesehen zu werden. Nicht von irgendjemandem.[/color]
+cosmic-examine-text-abilityblank = [color=#4cabb3]Die katatonischen Augen pulsieren in bösem Licht![/color]
+cosmic-examine-text-abilitylapse = [color=#4cabb3]Es sieht aus, als würde es etwas sehen, das nicht gesehen werden soll. Von niemandem.[/color]
 cosmic-examine-text-malignecho = [color=#4cabb3]Ein Echo in der Membran des Realraums - es scheint schnell zu verblassen. Etwas stimmt nicht an Bord der Station![/color]
 cosmic-examine-text-imposition = [color=#4cabb3]Eine Barriere der astralen Macht schützt sie vor Verletzungen![/color]
 cosmic-examine-text-chantry = [color=#4cabb3]Du bekommst das schreckliche Gefühl, dass jemand darin gefangen ist![/color]
 cosmic-examine-text-effigy = [color=#4cabb3]Es strahlt instabile anomale Energie aus![/color]
 cosmic-examine-text-god = [color=#4cabb3]Das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende[/color]
 cosmic-examine-text-subtle-mark = [color=#4cabb3]Anderswortlich schweben Energien in ihren Augen![/color]
-cosmic-examine-text-injector = [color=#4cabb3]Sie haben das Gefühl, dies in sich selbst zu injizieren, wäre Ihre letzte schlechte Idee.[/color]
+cosmic-examine-text-injector = [color=#4cabb3]du hast das Gefühl, dies in sich selbst zu injizieren, wäre deine letzte schlechte Idee.[/color]
 
 ## CULTIST EXAMINES
 cosmic-examine-text-forthecult = [color=#4cabb3]Das ist unser Tun. So wie es sein sollte.[/color]

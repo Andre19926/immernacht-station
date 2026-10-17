@@ -10,22 +10,21 @@ objective-condition-kill-everyone-title = TÖTEN ALLE
 objective-condition-hug-and-tickle-title = HAUPT SIE ALLE
 objective-condition-hug-and-tickle-desc = Die Crew liebt es so sehr, dass sie Ketchup überall verbreiten! Gut, dass du Ketchup liebst! Yupeee!
 
-objective-kill-wizard-desc =
-    Derjenige, der es gewagt hat, dich zu rufen, muss den ultimativen Preis bezahlen.
-    Ihr arkanes Blut ruft dich an, finde sie, jage sie und sende ihre Seele schreiend in die Leere.
-    Ihre Magie endet hier.
+objective-kill-wizard-desc = Wer es gewagt hat, dich zu beschwören, muss den höchsten Preis zahlen.
+    Sein arkanes Blut ruft nach dir. Finde ihn, jage ihn und schicke seine Seele schreiend in die Leere.
+    Seine Magie endet hier.
 
 objective-kill-everyone-desc =
     Dieses Reich riecht nach sterblichem Fleisch.
-    Malen Sie diese Hallen purpurn, lassen Sie jeden Herzschlag zum Schweigen gebracht werden.
-    Lassen Sie nichts als Echos des Terrors und Ströme von Blut.
+    Male diese Hallen purpurn, lass jeden Herzschlag zum Schweigen gebracht werden.
+    Lass nichts als Echos des Terrors und Ströme von Blut.
 
 # true fluff
 objective-annihilate-janitors-title =
-    Vernichten Sie alle Hausmeister und ihre Roboterersatz.
+    Vernichte alle Hausmeister und ihre Roboterersatz.
 
 objective-spare-crew-title =
-    Sparen Sie ein paar der Crew, um sie vor dem letzten Schlag bluten zu lassen.
+    Spare ein paar der Crew, um sie vor dem letzten Schlag bluten zu lassen.
 
 objective-hunt-for-brave-title =
     Jagd nach den Mutigen, die versuchen, zuerst für dich zu jagen.

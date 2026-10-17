@@ -1,11 +1,11 @@
 # Ghost HUD button
-thunderdome-ghost-button = Thunderdom{$count})
+thunderdome-ghost-button = Thunderdome ({$count})
 thunderdome-ghost-button-default = Thunderdome (0)
 
 # Loadout window
-thunderdome-loadout-title = Thunderdome Loadout
+thunderdome-loadout-title = Thunderdome Ausrüstung
 thunderdome-loadout-players = Spieler in der Arena: {$count}
-thunderdome-loadout-subtitle = Wählen Sie Ihre primäre Waffe
+thunderdome-loadout-subtitle = Wähle deine primäre Waffe
 thunderdome-loadout-confirm = Betreten der Arena
 
 # Weapon categories
@@ -46,7 +46,7 @@ thunderdome-desc-mosin = Kardashev-Mosin + 2 Reservemagazine + Ushanka + ein Wod
 
 # Kill streak announcements
 thunderdome-streak-3 = {$player} Ist auf einer Killing Spree!
-thunderdome-streak-4 = {$player} Sie dominiert!
+thunderdome-streak-4 = {$player} dominiert!
 thunderdome-streak-5 = {$player} Hat einen Mega Kill!
 thunderdome-streak-6 = {$player} Es ist unaufhaltsam!
 thunderdome-streak-7 = {$player} Ist Wicked Sick!
@@ -58,7 +58,7 @@ thunderdome-streak-12 = {$player} Ist über Gott hinaus!
 thunderdome-revival-title = Körper wiederbelebt
 thunderdome-revival-offer = Dein ursprünglicher Körper wurde wiederbelebt! Zurück zu ihm?
 thunderdome-revival-accept = Zurück zum Körper
-thunderdome-revival-decline = Bleiben Sie in der Arena
+thunderdome-revival-decline = Bleib in der Arena
 
 # Chat / messages
 thunderdome-join = {$player} Er ist in den Thunderdome eingetreten!

@@ -16,23 +16,23 @@ heretic-ritual-norituals = Du kennst keine Rituale!
 heretic-ritual-noritual = Kein Ritual gewählt!
 
 heretic-ritual-basic-sacrifice = Herzschlag des Mansus
-heretic-ritual-basic-sacrifice-desc = Bringen Sie eines Ihrer Ziele in einen kritischen oder schlechteren Zustand, um sie dem Mansus zu opfern, sie zu geben und Ihnen einen Wissenspunkt zu gewähren. Die Mitarbeiter geben einen zusätzlichen Bonuspunkt.
+heretic-ritual-basic-sacrifice-desc = Bringe eines deiner Ziele in einen kritischen oder schlechteren Zustand, um sie dem Mansus zu opfern, sie zu geben und dir einen Wissenspunkt zu gewähren. Die Mitarbeiter geben einen zusätzlichen Bonuspunkt.
 
 heretic-ritual-basic-focus = Bernsteinfokus
-heretic-ritual-basic-focus-desc = Transmutieren Sie eine Glasscherbe und ein Paar Augen in Amber Focus. Eine kleine Halskette, mit der Sie fortgeschrittene Zauber wirken können, ohne den Codex in der Hand halten zu müssen.
+heretic-ritual-basic-focus-desc = Transmutiere eine Glasscherbe und ein Paar Augen in Amber Focus. Eine kleine Halskette, mit der du fortgeschrittene Zauber wirken kannst, ohne den Codex in der Hand halten zu müssen.
 
 heretic-ritual-basic-heart = Unerbittlicher Herzschlag
-heretic-ritual-basic-heart-desc = Transmutieren Sie ein Herz, einen Stift und ein Papier, um Ihre Ziele neu zu rollen. Seien Sie vorsichtig, dass Sie die gleichen Ziele wie zuvor rollen können. Verwenden Sie dies nur, wenn es absolut notwendig ist.
+heretic-ritual-basic-heart-desc = Transmutiere ein Herz, einen Stift und ein Papier, um deine Ziele neu zu rollen. Sei vorsichtig, dass du die gleichen Ziele wie zuvor rollen kannst. Verwende dies nur, wenn es absolut notwendig ist.
 
 heretic-ritual-basic-codex = Codex Cicatrix
 heretic-ritual-basic-codex-desc =
     Das Okkulte hinterlässt Fragmente von Wissen und Macht überall und überall. Der Codex Cicatrix ist ein solches Beispiel. Innerhalb der ledergebundenen Gesichter und uralten Seiten wird ein Weg in den Mansus offenbart.
 
-    Ermöglicht es Ihnen, ein Buch, einen beliebigen Stift und ein Stück Fleisch oder ein anderes Organ zu transmutieren, um einen Codex Cicatrix zu erstellen.
+    Ermöglicht dir, ein Buch, einen beliebigen Stift und ein Stück Fleisch oder ein anderes Organ zu transmutieren, um einen Codex Cicatrix zu erstellen.
     Der Codex Cicatrix kann verwendet werden, wenn Einflüsse entwässert werden, um zusätzliches Wissen zu erlangen, besteht jedoch ein höheres Risiko, bemerkt zu werden. Es kann auch verwendet werden, um Transmutationsrunen leichter zu zeichnen und zu entfernen, und als Zauber Fokus in einer Prise.
 
 heretic-ritual-basic-reminiscence = Erinnerungen
-heretic-ritual-basic-reminiscence-desc = Transmutieren Sie einen Stuhl, um sofort eine Ihrer verlorenen Klingen zurückzugeben.
+heretic-ritual-basic-reminiscence-desc = Transmutiere einen Stuhl, um sofort eine deiner verlorenen Klingen zurückzugeben.
 
 heretic-ritual-basic-owls = Fest der Eulen
 heretic-ritual-basic-owls-desc =
@@ -49,11 +49,11 @@ heretic-ritual-fail-sacrifice-ash = Es gibt entweder nicht genug von ihnen tot o
 heretic-ritual-fail-sacrifice-blade = Einige von ihnen haben immer noch einen Kopf auf ihren Schultern.
 heretic-ritual-fail-sacrifice-rust = Nicht genug verrottende oder siliziumleichen.
 heretic-ritual-fail-sacrifice-cosmos = Nicht genug sternmarkierte Leichen.
-heretic-ritual-fail-limit = Sie haben eine Grenze von Gegenständen erreicht, die dieses Ritual bietet.
+heretic-ritual-fail-limit = Du hast eine Grenze von Gegenständen erreicht, die dieses Ritual bietet.
 heretic-ritual-fail-no-lost-blades = Es können keine verlorenen Klingen gefunden werden.
 heretic-ritual-fail-already-ascended = Du bist bereits aufgestiegen.
 heretic-ritual-fail-cannot-ascend = Du kannst nicht aufsteigen.
-heretic-ritual-fail-cannot-ascend-objectives = Ihr müsst eure Ziele vollenden, um aufzusteigen.
+heretic-ritual-fail-cannot-ascend-objectives = Du musst deine Ziele erfüllen, um aufzusteigen.
 
 ## side quests
 heretic-ritual-side-knowledge = Ritual des Wissens

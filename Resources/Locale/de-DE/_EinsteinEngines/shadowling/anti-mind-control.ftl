@@ -3,4 +3,4 @@ mind-control-thrall-done = Du hast das Gefühl, dass du die Kontrolle über dein
 
 anti-mind-max-charges-reached = Das Gerät hat seinen ursprünglichen Grenzwert erreicht.
 
-anti-mind-examine-charges = [color=#FF0000]Es hat {$charges} Gebühren übrig geblieben.[/color]
+anti-mind-examine-charges = [color=#FF0000]Es hat noch {$charges} Ladungen.[/color]

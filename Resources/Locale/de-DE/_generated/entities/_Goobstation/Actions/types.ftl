@@ -1,29 +1,29 @@
 ent-ActionActivateBluespaceLifeline = Bluespace Lifeline aktivieren
-    .desc = Aktiviert Ihr Bluespace Lifeline-Implantat und teleportiert Sie weit weg von dieser Station. Du wirst nicht zurückkommen können.
+    .desc = Aktiviert dein Bluespace Lifeline-Implantat und teleportiert dich weit weg von dieser Station. Du wirst nicht zurückkommen können.
 
 ent-ActionHorn = Honk!
     .desc = Piep das Horn an wem auch immer du überfahren wirst.
 
 ent-ActionSiren = Sirenen
-    .desc = Warnt euer Opfer auf eure Anwesenheit.
+    .desc = Warnt dein Opfer vor deiner Anwesenheit.
 
 ent-ActivateSmokeImplant = Eine Rauchwolke freisetzen
     .desc = Setzt eine Rauchwolke um dich herum frei.
 
 ent-ActionDashMoth = Wing Dash
-    .desc = Schlagen Sie scharf mit den Flügeln und stürzen Sie zur Seite!
+    .desc = Schlage scharf mit den Flügeln und stürze zur Seite!
 
 ent-ActionToggleRightMantisBlade = Toggle Right Mantis Klinge
-    .desc = Verlängern oder ziehen Sie die Mantisklinge in Ihrem rechten Arm.
+    .desc = Verlängern oder ziehe die Mantisklinge in deinem rechten Arm.
 
 ent-ActionToggleLeftMantisBlade = Toggle Left Mantis Klinge
-    .desc = Verlängern oder ziehen Sie die Mantisklinge in Ihrem linken Arm.
+    .desc = Verlängern oder ziehe die Mantisklinge in deinem linken Arm.
 
 ent-ActionToggleSandevistan = Toggle Sandevistan
-    .desc = Aktivieren oder deaktivieren Sie Ihre verbesserten Reflexe, die vom Sandevistan bereitgestellt werden.
+    .desc = Aktiviere oder deaktiviere deine verbesserten Reflexe vom Sandevistan.
 
 ent-ActionShowStationMap = Stationskarten-Schnittstelle
-    .desc = Sehen Sie sich ein Station Map Interface an.
+    .desc = Siehst du dir ein Station Map Interface an.
 
 ent-ActionToggleFloorBoardsMode = Boden betreten oder verlassen
     .desc = Krabbeln unter den Bodenplatten.
@@ -32,19 +32,19 @@ ent-ActionStealShoes = Stealschuhe
     .desc = Ein leckerer Snack wird es sein!
 
 ent-ActionVehicleWallPush = Wall Launch
-    .desc = Starten Sie sich von der nächsten Oberfläche, die Gezeiten zählen als Oberflächen.
+    .desc = Starte dich von der nächsten Oberfläche, die Gezeiten zählen als Oberflächen.
 
 ent-ActionRocketChairBoost = Boost
     .desc = Sprühwasser, um vorwärts zu starten.
 
 ent-ActionActivateBerserkerImplant = Berserker-Implantat aktivieren
-    .desc = Aktivieren Sie Ihr Berserker-Implantat und erhöhen Sie Ihren Nahkampfschaden und Ihre Geschwindigkeit für kurze Zeit erheblich. Während Sie sich im Berserker-Modus befinden, können Sie keine Fernkampfwaffen verwenden.
+    .desc = Aktiviere dein Berserker-Implantat und erhöhe deinen Nahkampfschaden und deine Geschwindigkeit für kurze Zeit erheblich. Während du dich im Berserker-Modus befindest, kannst du keine Fernkampfwaffen verwenden.
 
 ent-ActionActivateRedspaceLifeline = Redspace Lifeline aktivieren
-    .desc = Aktiviert Ihr Redspace Lifeline-Implantat und teleportiert Sie weit weg von dieser Station. Du wirst nicht zurückkommen können.
+    .desc = Aktiviert dein Redspace Lifeline-Implantat und teleportiert dich weit weg von dieser Station. Du wirst nicht zurückkommen können.
 
 ent-ActionForklift = Lift aktivieren
-    .desc = Heben Sie Kisten vor sich auf.
+    .desc = Hebe Kisten vor dich auf.
 
 ent-ActionUnforklift = Drop Lift
-    .desc = Legen Sie Kisten vor sich hin.
+    .desc = Lege Kisten vor dich hin.

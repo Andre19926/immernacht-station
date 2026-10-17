@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-space-law = Weltraumgesetz
+guide-entry-space-law = Weltraumrecht
 guide-entry-medpatches = Medizinische Patches
 guide-entry-virology = Virologie
 guide-entry-rules-nrp = NRP-Regeln
@@ -29,10 +29,10 @@ guide-entry-sop-jobs = Arbeitsstandards
 guide-entry-sop-legal = Gerichtsverfahren
 guide-entry-sop-standards = Führungsverfahren
 # - Sub/Nested Directories
-guide-entry-sop-cargo = Ladung
+guide-entry-sop-cargo = Fracht
 guide-entry-sop-command = Führung
-guide-entry-sop-engineering = Ingenieurwesen
-guide-entry-sop-medical = Medizinisch
+guide-entry-sop-engineering = Technik
+guide-entry-sop-medical = Medizin
 guide-entry-sop-science = Wissenschaft
 guide-entry-sop-security = Sicherheit
 guide-entry-sop-service = Dienst
@@ -56,7 +56,7 @@ guide-entry-sop-confirmedrevs = Revolution
 guide-entry-sop-containmentfail = Eindämmung scheitert
 guide-entry-sop-firegasspill = Feuer/Gasverschüttungen
 guide-entry-sop-meteorstorm = Meteorstürme
-guide-entry-sop-stationdamage = Schäden am Bahnhof
+guide-entry-sop-stationdamage = Schäden an der Station
 guide-entry-sop-supermatterdelam = SM Delamination
 guide-entry-sop-wardeclaration = Kriegserklärung
 guide-entry-sop-zombieoutbreak = Zombie-Ausbruch
@@ -69,20 +69,20 @@ guide-entry-sop-searches = Durchsuchungen
 # - Cargo
 guide-entry-sop-cargotech = Frachttechniker
 guide-entry-sop-salvage = Salvage-Spezialist
-guide-entry-sop-shaft-miner = Shaft Miner
+guide-entry-sop-shaft-miner = Bergarbeiter
 # - Command
 guide-entry-sop-ntr = Nanotrasen Rep.
-guide-entry-sop-bso = Blauschildoffizier
+guide-entry-sop-bso = Blueshield-Offizier
 guide-entry-sop-captain = Kapitän
 guide-entry-sop-hop = Leiter des Personals
 guide-entry-sop-hos = Leiter der Sicherheitsabteilung
 guide-entry-sop-rd = Forschungsdirektor
-guide-entry-sop-cmo = Chief Medical Ofc.
+guide-entry-sop-cmo = Chefarzt
 guide-entry-sop-ce = Chefingenieur
 guide-entry-sop-qm = Quartiermeister
 # - Engineering
 guide-entry-sop-atmostech = Atmos Tech
-guide-entry-sop-stationengineer = Bahnhofsingenieur
+guide-entry-sop-stationengineer = Stationsingenieur
 # - Medical
 guide-entry-sop-chemist = Chemiker
 guide-entry-sop-doctorintern = Arzt/Praktikant

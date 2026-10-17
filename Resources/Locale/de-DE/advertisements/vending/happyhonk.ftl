@@ -6,17 +6,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-happyhonk-1 = Honk! Honk! Warum nicht noch heute ein Happy Honk Meal bestellen?
-advertisement-happyhonk-2 = Clowns verdienen eine Umarmung, wenn Sie eine sehen, sollten Sie Ihre Wertschätzung zeigen.
-advertisement-happyhonk-3 = Wenn Sie den Golden Honker finden, dann beten Sie zu den Göttern, Sie sind eine glückliche Person.
-advertisement-happyhonk-4 = Happy Honk: Es ist eine Mahlzeit, es ist ein Deal, es hat ein Plastikspielzeug, das dich zum Quietschen bringt.
-advertisement-happyhonk-5 = Was ist überall schwarz und weiß und rot? Die Mime und sie starben an einem stumpfen Kopftrauma.
-advertisement-happyhonk-6 = Wie viele Sicherheitsbeamte braucht es, um Sie zu verhaften? Drei, einer, um dich zu tode zu schlagen, einer, um dich zu fesseln und einer, um deinen körper in wartung zu werfen.
-advertisement-happyhonk-7 = Happy Honk ist nicht verantwortlich für die Qualität des Essens in unseren Happy Honk-Mahlzeitboxen.
-advertisement-happyhonk-8 = Warum nicht nach unserer limitierten Edition Mime Happy Honk Meal fragen?
-advertisement-happyhonk-9 = Happy Honk ist eine Marke von Honk! co. und ist Robust Nukie Food corp weit überlegen.
-advertisement-happyhonk-10 = Unsere Happy Honk Mahlzeiten sind sicher, eine große Überraschung zu bieten!
+advertisement-happyhonk-1 = Honk! Honk! Warum nicht heute noch ein Happy Honk Meal bestellen?
+advertisement-happyhonk-2 = Clowns verdienen eine Umarmung. Wenn du einen siehst, zeig ihm deine Wertschätzung.
+advertisement-happyhonk-3 = Wenn du den Goldenen Honker findest, dann danke den Göttern – du bist ein echter Glückspilz.
+advertisement-happyhonk-4 = Happy Honk: ein Menü, ein Deal, mit Plastikspielzeug – da quiekst du vor Freude!
+advertisement-happyhonk-5 = Was ist schwarz, weiß und überall rot? Der Mime, nachdem er an einem Schädel-Hirn-Trauma gestorben ist.
+advertisement-happyhonk-6 = Wie viele Sicherheitsleute braucht man, um dich zu verhaften? Drei: einen, der dich totprügelt, einen, der dir Handschellen anlegt, und einen, der deine Leiche in die Wartungsgänge kippt.
+advertisement-happyhonk-7 = Happy Honk haftet nicht für die Qualität der Speisen in unseren Happy-Honk-Menüboxen.
+advertisement-happyhonk-8 = Frag doch mal nach unserem limitierten Mime-Happy-Honk-Meal!
+advertisement-happyhonk-9 = Happy Honk ist eine Marke von Honk! co. und der Robust Nukie Food corp. weit überlegen.
+advertisement-happyhonk-10 = Unsere Happy-Honk-Menüs bergen garantiert eine große Überraschung!
 thankyou-happyhonk-1 = Honk!
 thankyou-happyhonk-2 = Honk Honk!
-thankyou-happyhonk-3 = Teilen Sie den Spaß! Honk!
-thankyou-happyhonk-4 = Geh rutsch Leute! Honk!
+thankyou-happyhonk-3 = Teile den Spaß! Honk!
+thankyou-happyhonk-4 = Los, bring Leute zum Ausrutschen! Honk!

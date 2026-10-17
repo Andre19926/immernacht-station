@@ -5,16 +5,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 flatpack-unpack-no-room = Kein Platz zum Auspacken!
-flatpack-examine = Verwendung a [color=yellow]Multitool[/color] um das auszupacken.
-flatpack-entity-name = {$name} Flatpack
-flatpack-entity-description = Ein Flatpack zum Bauen {INDEFINITE($name)} {$name}.
+flatpack-examine = Benutze ein [color=yellow]Multitool[/color], um das auszupacken.
+flatpack-entity-name = {$name}-Flatpack
+flatpack-entity-description = Ein Flatpack zum Bau von: {$name}.
 
-flatpacker-item-slot-name = Maschinenbrettschlitz
+flatpacker-item-slot-name = Platinen-Steckplatz
 flatpacker-ui-title = Flatpacker 1001
-flatpacker-ui-materials-label = Werkstoffe
+flatpacker-ui-materials-label = Materialien
 flatpacker-ui-cost-label = Verpackungskosten
-flatpacker-ui-no-board-label = Kein Vorstand anwesend!
-flatpacker-ui-board-invalid-label = [color=red]Invalid Board!
-    Kann nicht gedruckt werden![/color]
-flatpacker-ui-insert-board = Legen Sie ein Board ein, um zu beginnen.
-flatpacker-ui-pack-button = Packung
+flatpacker-ui-no-board-label = Keine Platine vorhanden!
+flatpacker-ui-board-invalid-label = [color=red]Ungültige Platine!
+        Druck nicht möglich![/color]
+flatpacker-ui-insert-board = Lege eine Platine ein, um zu beginnen.
+flatpacker-ui-pack-button = Einpacken

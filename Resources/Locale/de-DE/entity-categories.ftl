@@ -9,9 +9,9 @@
 entity-category-name-actions = Aktionen
 entity-category-name-game-rules = Spielregeln
 entity-category-name-objectives = Ziele
-entity-category-name-roles = Gedankenrollen
-entity-category-name-mapping = Zuordnung
-entity-category-name-donotmap = Keine Karte
+entity-category-name-roles = Mind-Rollen
+entity-category-name-mapping = Mapping
+entity-category-name-donotmap = Nicht mappen
 entity-category-name-status-effects = Statuseffekte
 
-entity-category-suffix-donotmap = NICHT MAP
+entity-category-suffix-donotmap = NICHT MAPPEN

@@ -5,22 +5,20 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 honkops-title = Honklearoperanten
-honkops-description = Honklear-Agenten haben die Station angegriffen. Versuchen Sie, sie davon abzuhalten, die Nuke zu bewaffnen und zu detonieren, indem Sie die Atomscheibe schützen!
+honkops-description = Honklear-Agenten haben die Station angegriffen. Versuche, sie davon abzuhalten, die Nuke zu bewaffnen und zu detonieren, indem du die Atomscheibe schützt!
 
-honkops-welcome =
-    Du bist ein Honklear-Agent. Dein Ziel ist es, zu explodieren {$station}, und stellen Sie sicher, dass es nur ein Haufen Trümmer ist. Ihre Chefs, das Honkicate, haben Ihnen die Werkzeuge zur Verfügung gestellt, die Sie für die Aufgabe benötigen.
-    Betrieb {$name} Es ist ein Go! Honk!
-honkops-briefing = Ihre Ziele sind einfach. Liefern Sie die Nutzlast und stellen Sie sicher, dass sie detoniert. Beginn der Mission. Honk!
+honkops-welcome = Du bist ein Honklear-Agent. Dein Ziel: {$station} in einen Trümmerhaufen zu verwandeln. Dein Auftraggeber, das Honkicate, hat dir die Werkzeuge gestellt. Operation {$name} läuft! Honk!
+honkops-briefing = Deine Ziele sind einfach. Liefern dich die Nutzlast und stelle sicher, dass sie detoniert. Beginn der Mission. Honk!
 
 honkops-opsmajor = [color=crimson]Honkicate großer Sieg![/color]
 honkops-opsminor = [color=crimson]Ein kleiner Sieg![/color]
 honkops-neutral = [color=yellow]Neutrales Ergebnis![/color]
-honkops-crewminor = [color=green]Mannschaft kleiner Sieg![/color]
-honkops-crewmajor = [color=green]Crew großer Sieg![/color]
+honkops-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
+honkops-crewmajor = [color=green]Großer Sieg für die Crew![/color]
 
 honkops-cond-nukeexplodedoncorrectstation = Die Honklear-Agenten schafften es, die Station zu sprengen.
 honkops-cond-nukeexplodedonnukieoutpost = Der operative Außenposten von Honklear wurde durch eine Honklear-Explosion zerstört.
-honkops-cond-nukeexplodedonincorrectlocation = Die honklear Bombe wurde off-station gezündet.
+honkops-cond-nukeexplodedonincorrectlocation = Die Honklear-Bombe wurde außerhalb der Station gezündet.
 honkops-cond-nukeactiveinstation = Die Honklear-Bombe wurde bewaffnet auf der Station gelassen.
 honkops-cond-nukeactiveatcentcom = Die honkleare Bombe wurde an das CentComm geliefert!
 honkops-cond-nukediskoncentcom = Die Crew entkam mit der Honklear-Authentifizierungsdiskette.

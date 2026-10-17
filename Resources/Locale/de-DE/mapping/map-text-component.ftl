@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-map-text-default = Verwenden Sie VV, um den angezeigten Text zu ändern
-map-text-font-error = "Fehler - ungültige Schrift"
+map-text-default = Verwende VV, um den angezeigten Text zu ändern
+map-text-font-error = "Fehler - ungültige Schriftart"

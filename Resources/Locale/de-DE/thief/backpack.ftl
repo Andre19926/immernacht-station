@@ -15,15 +15,15 @@
 thief-backpack-window-title = Räubersatz
 
 thief-backpack-window-description =
-    Im Inneren sind Ihre Werkzeuge des Handels, die sich auflösen, wenn Sie bereit sind.
+    Im Inneren sind deine Werkzeuge des Handels, die sich auflösen, wenn du bereit bist.
     Choose {$maxCount} different {$maxCount ->
         [1] Satz
         *[other] Sätze
     } aus der Liste.
 
-thief-backpack-window-selected = Ausgewählte Kits: (){$selectedCount}/{$maxCount})
+thief-backpack-window-selected = Ausgewählte Kits: ({$selectedCount}/{$maxCount})
 
-thief-backpack-window-approve-button = Genehmigung
+thief-backpack-window-approve-button = Genehmigen
 thief-backpack-button-select = Wählen [  ]
 thief-backpack-button-deselect = Wählen [X]
 
@@ -45,27 +45,27 @@ thief-backpack-category-tools-description =
 
 thief-backpack-category-chemistry-name = Anatomie-Kit
 thief-backpack-category-chemistry-description =
-    Sie haben die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
+    Du hast die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
     Umfasst: Storage Implanter, DNA Scrambler Implanter,
     Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife
 
 thief-backpack-category-syndie-name = Syndie Kit
 thief-backpack-category-syndie-description =
     Trinkets aus einer desavouierten Vergangenheit oder von einem nachlässigen Agenten gestohlen?
-    Sie haben einige Verbindungen hergestellt. Whiskey, Echo...
+    Du hast einige Verbindungen hergestellt. Whiskey, Echo...
     Enthält: An Emag, Access Breaker, Interdyne Cigs, ein Syndicate-Codewort,
     ein Radio Jammer, ein Feuerzeug und einige seltsame rote Kristalle.
 
 thief-backpack-category-sleeper-name = Sleeper Kit
 thief-backpack-category-sleeper-description =
-    Bis wir unsere Augen für immer schließen, verwenden Sie Ihre illegalen Rezepte
+    Bis wir unsere Augen für immer schließen, verwende deine illegalen Rezepte
     um andere schlafen zu lassen.
     Umfasst: Schläfriger Lachgasbehälter, zwei Nocturinflaschen,
     Und ein Hypopen.
 
 thief-backpack-category-communicator-name = Kommunikator Kit
 thief-backpack-category-communicator-description =
-    Geld ist Macht und Geheimnisse sind Geld. Verwenden Sie Ihre silberne Zunge
+    Geld ist Macht und Geheimnisse sind Geld. Verwende deine silberne Zunge
     und Reichtum, um die Station zu untergraben.
     Enthält: Hauptschlüssel für alle Senderkanäle, einen CyberSun-Stift,
     Stimmmaskenimplantator und 20k spesos in einer aktentasche.

@@ -7,7 +7,7 @@
 
 cmd-planet-desc = Konvertiert die mitgelieferte Karte in einen Planeten mit einem bestimmten Biom.
 cmd-planet-help = {$command} <mapid> <biome>.
-cmd-planet-args = Benötigt nur 2 Args.
-cmd-planet-map = Unfähig zu parsen {$map} als bestehende Karte.
-cmd-planet-map-prototype = Indexierung nicht möglich {$prototype} als bereits existierender Prototyp eines Bioms.
-cmd-planet-success = Höhenlage {$mapId} zum Planeten. HINWEIS! Sie müssen die Karte laden (entweder auf eine neue Karte oder durch Neustart des Spiels), damit die Atmosphäre funktioniert.
+cmd-planet-args = Benötigt genau 2 Argumente.
+cmd-planet-map = {$map} konnte nicht als bestehende Karte gelesen werden.
+cmd-planet-map-prototype = {$prototype} konnte nicht als bestehender Biom-Template-Prototyp gefunden werden.
+cmd-planet-success = Karte {$mapId} wurde in einen Planeten umgewandelt. ACHTUNG: Du musst die Karte laden (auf eine neue Karte oder durch Neustart des Spiels), damit die Atmosphäre funktioniert.

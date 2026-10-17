@@ -29,7 +29,7 @@ ent-PaintingSkeletonCigarette = Schädel eines Skeletts mit brennender Zigarette
     .desc = Dieses Gemälde zeigt ein impressionistisches Porträt eines Skeletts. Eine angezündete Zigarette ist zwischen den Zähnen eingeklemmt.
 
 ent-PaintingSkeletonBoof = Schädel von MLG Skeleton mit Fat Boof
-    .desc = Malerei wird hart. Fühlen Sie sich frei zum Screenshot.
+    .desc = Malerei wird hart. Fühle dich frei zum Screenshot.
 
 ent-PaintingPrayerHands = Studieren der Hände eines Apostels
     .desc = Dieses Gemälde zeigt ein Paar Hände, die im Gebet eingeschlossen sind.
@@ -46,8 +46,8 @@ ent-PaintingSaturn = Saturn verschlingt seinen Sohn
 ent-PaintingSleepingGypsy = Der schlafende Gypsy
     .desc = Dieses Gemälde zeigt einen Zigeuner, der zwischen ihren Habseligkeiten in der Wüste schläft. Ein Löwe steht hinter ihnen.
 
-ent-PaintingRedBlueYellow = Zusammensetzung mit Rotblau und Gelb
-    .desc = Dieses Gemälde besteht aus mehreren Boxen. Sie sind mit flachen Farbtönen gefüllt.
+ent-PaintingRedBlueYellow = Komposition in Rot, Blau und Gelb
+    .desc = Dieses Gemälde besteht aus mehreren Flächen, die mit einfarbigen Tönen gefüllt sind.
 
 ent-PaintingAmogusTriptych = Amogus Triptychon (ohne Titel)
     .desc = Dieses Gemälde besteht aus 3 einzelnen Abschnitten. Jeder zeigt eine religiöse Figur.

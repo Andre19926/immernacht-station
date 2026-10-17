@@ -11,13 +11,13 @@ xenobio-reagent-jelly-darkblue-name = Schleimkühlgelee
 xenobio-reagent-jelly-darkblue-desc = Dieses Gelee macht jeden Verbraucher für eine anständige Zeit feuerfest. Sei ein Firebug, ohne wie einer auszusehen! Bergleute können dies gut nutzen, da es sie aschesicher macht.
 
 xenobio-reagent-jelly-cerulean-name = Slime Boost
-xenobio-reagent-jelly-cerulean-desc = Wenn es von einem Schleim aufgenommen wird, wird es bei Mitose mehr Nachkommen produzieren. Verwechseln Sie nicht mit "Broly Boost".
+xenobio-reagent-jelly-cerulean-desc = Wenn es von einem Schleim aufgenommen wird, wird es bei Mitose mehr Nachkommen produzieren. Verwechseln dich nicht mit "Broly Boost".
 
 xenobio-reagent-jelly-red-name = Schleimstabilisator
 xenobio-reagent-jelly-red-desc = Das Gegenteil eines Schleimstabilisators. Erhöht die Mutationswahrscheinlichkeit eines Schleims um 25 Prozent und setzt sich über Generationen hinweg fort.
 
 xenobio-reagent-jelly-pink-name = Schleimdübelextrakt
-xenobio-reagent-jelly-pink-desc = Macht jeden feindlichen Mob fügsam und zahm. Auch Sie können Ihr eigenes Haustier haben, genau wie der HoP!
+xenobio-reagent-jelly-pink-desc = Macht jeden feindlichen Mob fügsam und zahm. Auch du kannst dein eigenes Haustier haben, genau wie der HoP!
 
 xenobio-reagent-jelly-green-name = Gelee Green Slime
 xenobio-reagent-jelly-green-desc = Verwandelt jeden Humanoiden, der genug davon aufnimmt, in einen Schleimmenschen. Schleimmenschen könnten eine Chance bekommen, den Konsum zu mutieren!

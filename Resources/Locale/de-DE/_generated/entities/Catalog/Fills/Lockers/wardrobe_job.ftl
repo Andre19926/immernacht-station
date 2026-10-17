@@ -5,31 +5,31 @@ ent-ClosetWallWardrobePrisonFilled = Gefängnismauerschrank
     .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
 
 ent-WardrobeRoboticsFilled = Robotergarderobe
-    .desc = Sie können einen Roboter aus diesem Spind bauen.
+    .desc = Du kannst einen Roboter aus diesem Spind bauen.
 
 ent-WardrobeChemistryFilled = Chemiegarderobe
-    .desc = Die glatten orangefarbenen Fäden, die darin enthalten sind, machen es viel weniger wahrscheinlich, dass Sie aus dem Chemielabor geworfen werden.
+    .desc = Die glatten orangefarbenen Fäden, die darin enthalten sind, machen es viel weniger wahrscheinlich, dass du aus dem Chemielabor geworfen wirst.
 
 ent-WardrobeGeneticsFilled = Genetische Garderobe
-    .desc = Die glatten blauen Fäden, die darin enthalten sind, machen es viel weniger wahrscheinlich, dass Sie aus dem Genetiklabor geworfen werden.
+    .desc = Die glatten blauen Fäden, die darin enthalten sind, machen es viel weniger wahrscheinlich, dass du aus dem Genetiklabor geworfen wirst.
 
 ent-WardrobeVirologyFilled = Virologische Wardrobe
-    .desc = Die darin enthaltenen glatten grünen Fäden machen es viel weniger wahrscheinlich, dass Sie aus dem virologischen Labor geworfen werden.
+    .desc = Die darin enthaltenen glatten grünen Fäden machen es viel weniger wahrscheinlich, dass du aus dem virologischen Labor geworfen wirst.
 
 ent-WardrobeScienceFilled = Wissenschaftsgarderobe
-    .desc = Sie haben ein paar popwissenschaftliche Artikel gelesen, jetzt ist es Zeit für den echten Deal.
+    .desc = Du hast ein paar populärwissenschaftliche Artikel gelesen, jetzt ist es Zeit für die echte Arbeit.
 
 ent-WardrobeBotanistFilled = Botanische Garderobe
-    .desc = Pflanzen Sie sich unter den Pflanzenmännern mit diesen 100% natürlichen pflanzlichen Kleidern.
+    .desc = Pflanze dich unter den Pflanzenmännern mit diesen 100% natürlichen pflanzlichen Kleidern.
 
 ent-WardrobeMedicalDoctorFilled = Garderobe für Ärzte
     .desc = Wir haben alle schon einmal Doktor gespielt, jetzt praktizieren wir Medizin.
 
 ent-WardrobeChapelFilled = Kaplangarderobe
-    .desc = Sie müssen für Ihre Herde vorzeigbar aussehen.
+    .desc = Du musst für deine Herde vorzeigbar aussehen.
 
 ent-WardrobeSecurityFilled = Sicherheitsschrank
-    .desc = Überqueren Sie die dünne rote Linie.
+    .desc = Überquere die dünne rote Linie.
 
 ent-WardrobeCargoFilled = Frachtschränke
     .desc = Dieser Spind? Vielleicht 500 Spesos. Bruderschaft? Unbezahlbar.

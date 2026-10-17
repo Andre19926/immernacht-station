@@ -1,12 +1,12 @@
 wraith-plaguerat-eat-not-satisfy = Das kannst du nicht essen, es stillt deinen Appetit nicht.
-wraith-plaguerat-eat-interrupt = Sie wurden unterbrochen!
-wraith-plaguerat-eat-you-start = Sie fangen an zu essen { $target }!
+wraith-plaguerat-eat-interrupt = Du wurdest unterbrochen!
+wraith-plaguerat-eat-you-start = Du fängst an, { $target } zu fressen!
 wraith-plaguerat-eat-you-finish = Du hast aufgehört zu essen { $target }!
 
-wraith-plaguerat-bite-you-message = Sie beißen { $target }!
+wraith-plaguerat-bite-you-message = Du beißt { $target }!
 
 ghost-role-information-plagurat-name = Erkrankte Ratte
-ghost-role-information-plaguerat-description = Vom Wraith beschworen, bist du klein, schwach, hungrig. Wachsen Sie, indem Sie Müll essen und verbreiten Sie die Pest auf all diese lästigen Crewmitglieder, die versuchen, sich in den Weg zu stellen!
+ghost-role-information-plaguerat-description = Vom Wraith beschworen, bist du klein, schwach und ausgehungert. Wachse, indem du Müll frisst, und verbreite die Pest unter all den lästigen Crewmitgliedern, die dir in die Quere kommen!
 
 # Unused
 
@@ -21,5 +21,5 @@ wraith-plaguerat-bite-cant-bite = Du kannst definitiv nicht durchbeißen [P.loc]
 wraith-plaguerat-bite-message = [holder.owner] Bisse [MT]!
 
 wraith-plaguerat-spawn-den-new = Du laichst eine Rattenhöhle.
-wraith-plaguerat-spawn-den-destroyed = Sie hatten eine alte Rattenhöhle, sie ist jetzt zerstört.
-wraith-plaguerat-spawn-den-new-again = Sie laichen eine neue Rattenhöhle
+wraith-plaguerat-spawn-den-destroyed = Du hattest einen alten Rattenbau, er ist jetzt zerstört.
+wraith-plaguerat-spawn-den-new-again = Du baust einen neuen Rattenbau.

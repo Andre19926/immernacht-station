@@ -2,15 +2,15 @@ ent-PlushieLouie = Louie Plüschtier
     .desc = Ein süßes Stoffspielzeug, das einer Ratte ähnelt. Du fühlst einen seltsamen zwang, hallo zu der ratte zu sagen.
 
 ent-FoamThrongler = Foam Throngler
-    .desc = Nicht der Throngler, den Sie wollten, aber der Throngler, den Sie verdienen.
+    .desc = Nicht der Throngler, den dich wollten, aber der Throngler, den dich verdienen.
 
 ent-PlushieDurk = Durk Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Sie fühlen sich wie ein großer Bruch des Universums nähert, während dies halten
+    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Du fühlst dich wie ein großer Bruch des Universums nähert, während dies halten
 
 ent-FoamWonderprod = Toy Wonderprod
     .desc = Mit diesem wird sec dich töten.
 
-ent-PlushieBingle = Bingle in voller Größe Plüschtier
+ent-PlushieBingle = Bingle Plüschtier (lebensgroß)
     .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du fühlst einen seltsamen zwang, bingle zu sagen.
 
 ent-PlushieBingleSmall = Bingle Plüschtier
@@ -35,7 +35,7 @@ ent-BulletGrenadeToy = Streichgranate
 ent-WeaponLauncherTaiwanPond = Taiwan-Teich
 
 ent-PlushieSamantha = jane blueshield Plüschtier
-    .desc = Ein süßes Stoffspielzeug, das einem erfahrenen Blueshield-Offizier ähnelt. Sie spüren einen plötzlichen Drang nach Lutscher, während Sie ihn halten.
+    .desc = Ein süßes Stoffspielzeug, das einem erfahrenen Blueshield-Offizier ähnelt. Du spürst einen plötzlichen Drang nach Lutscher, während du ihn hältst.
 
 ent-PlushieJvne = jvne Plüschtier
     .desc = Es war ein harter Tag...
@@ -53,10 +53,10 @@ ent-PlushieBaldzby = Baldzby Plüschtier
     .desc = Jetzt ist die Wahrheit offen für alle zu sehen.
 
 ent-PlushieBoggle = Boggle Plüschtier
-    .desc = Sie können Geld im Inneren fühlen.
+    .desc = Du kannst Geld im Inneren fühlen.
 
 ent-PlushieLehmin = Lehmin Plüschtier
-    .desc = Riecht nach Chemikalien, Sie fühlen sich unwohl, es zu halten.
+    .desc = Riecht nach Chemikalien, du fühlst dich unwohl, es zu halten.
 
 ent-PlushieMnwaar = Mnwaar-Plüsch
 
@@ -109,7 +109,7 @@ ent-EvilPlushieXeve = Böser Xeve Plüsch
     .desc = Dieser verdammte Byrd, den ich hasse.
 
 ent-EvilPlushieBoggle = Evil Boggle Plüsch
-    .desc = Sie können Geld im Inneren fühlen.
+    .desc = Du kannst Geld im Inneren fühlen.
 
 ent-EvilPlushieBrizby = Böser Brizby Plüsch
     .desc = Er wird immer zugeben, böse zu sein.
@@ -126,7 +126,7 @@ ent-EvilPlushieJvne = Böser Jvne Plüsch
 ent-EvilPlushieMnwaar = Böser Mnwaar Plüsch
 
 ent-EvilPlushieDurk = Böser Durk Plüsch
-    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Sie fühlen sich wie ein großer Bruch des Universums nähert, während dies halten
+    .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Du fühlst dich wie ein großer Bruch des Universums nähert, während dies halten
 
 ent-EvilPlushieLouie = Böser Louie Plüsch
     .desc = Ein süßes Stoffspielzeug, das einer Ratte ähnelt. Du fühlst einen seltsamen zwang, hallo zu der ratte zu sagen.

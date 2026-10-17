@@ -12,17 +12,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-welder-component-welder-not-lit-message = Der Schweißer ist ausgeschaltet!
-welder-component-cannot-weld-message = Der Schweißer hat dafür nicht genug Kraftstoff!
-welder-component-no-fuel-message = Der Schweißer hat keinen Treibstoff mehr!
-welder-component-no-fuel-in-tank = Die {$owner} ist leer.
-welder-component-on-examine-welder-lit-message = [color=orange]Lit[/color]
-welder-component-on-examine-welder-not-lit-message = nicht beleuchtet
-welder-component-on-examine-detailed-message = Kraftstoff: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]
+welder-component-welder-not-lit-message = Der Schweißbrenner ist ausgeschaltet!
+welder-component-cannot-weld-message = Der Schweißbrenner hat dafür nicht genug Brennstoff!
+welder-component-no-fuel-message = Dem Schweißbrenner ist der Brennstoff ausgegangen!
+welder-component-no-fuel-in-tank = {$owner} ist leer.
+welder-component-on-examine-welder-lit-message = [color=orange]Brennt[/color]
+welder-component-on-examine-welder-not-lit-message = Aus
+welder-component-on-examine-detailed-message = Brennstoff: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]
     {$status}
-welder-component-suicide-lit-others-message = {$victim} schweißt jede Öffnung geschlossen! Es sieht so aus, als ob sie versuchen, Selbstmord zu begehen!
-welder-component-suicide-lit-message = Sie schweißen jede Öffnung geschlossen!
-welder-component-suicide-unlit-others-message = {$victim} Schmiede sich mit dem unerleuchteten Schweißbrenner!
-welder-component-suicide-unlit-message = Sie schlagen sich mit dem unbeleuchteten Schweißbrenner!
-welder-component-after-interact-refueled-message = Betankt!
-welder-component-already-full = Der Schweißer ist bereits voll.
+welder-component-suicide-lit-others-message = {$victim} schweißt sich jede Körperöffnung zu! Es sieht aus, als wolle er sich umbringen!
+welder-component-suicide-lit-message = Du schweißt dir jede Körperöffnung zu!
+welder-component-suicide-unlit-others-message = {$victim} schlägt sich mit dem ausgeschalteten Schweißbrenner!
+welder-component-suicide-unlit-message = Du schlägst dich mit dem ausgeschalteten Schweißbrenner!
+welder-component-after-interact-refueled-message = Aufgetankt!
+welder-component-already-full = Der Schweißbrenner ist bereits voll.

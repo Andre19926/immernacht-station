@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-chemdrobe-1 = Unsere Kleidung ist 0,5% widerstandsfähiger gegen Säureverschüttungen! Holen Sie sich Ihre jetzt!
+advertisement-chemdrobe-1 = Unsere Kleidung ist 0,5 % widerstandsfähiger gegen Säurespritzer! Hol dir jetzt deine!
 advertisement-chemdrobe-2 = Professionelle Laborkleidung, entworfen von NanoTrasen!
-advertisement-chemdrobe-3 = Ich bin mir ziemlich sicher, dass diese Sie vor Säureverschmutzungen schützen werden!
+advertisement-chemdrobe-3 = Ich bin mir ziemlich sicher, dass die dich vor Säurespritzern schützen!
 advertisement-chemdrobe-4 = Die beste Modeformel!

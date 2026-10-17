@@ -1,5 +1,5 @@
 ent-ClothingEyesGlassesGar = Sonnenbrillen
-    .desc = Gehen Sie über das Unmögliche hinaus und treten Sie die Vernunft an den Bordstein!
+    .desc = Geh über das Unmögliche hinaus und tritt die Vernunft an den Bordstein!
 
 ent-ClothingEyesGlassesGarOrange = Orange Garnelen
     .desc = Nur wer zum Teufel denkst du, dass ich bin?!
@@ -11,13 +11,13 @@ ent-ClothingEyesGlassesMeson = Mesonenbrille
     .desc = Grün getönte Brille mit einem proprietären Polymer, das Schutz vor Augenschäden aller Art bietet.
 
 ent-ClothingEyesGlasses = Glas
-    .desc = Bei näherer Betrachtung stellen Sie fest, dass diese Linsen tatsächlich aus Kunststoff bestehen.
+    .desc = Bei näherer Betrachtung stellst du fest, dass diese Linsen tatsächlich aus Kunststoff bestehen.
 
 ent-ClothingEyesGlassesJensen = Jensengläser
-    .desc = Ein Paar gelb getönte Faltbrille. Sie haben nie danach gefragt.
+    .desc = Ein Paar gelb getönte Faltbrillen. Du hast nie danach gefragt.
 
 ent-ClothingEyesGlassesJamjar = Jamja-Gläser
-    .desc = Diese Retro-Brille erinnert Sie an eine einfachere Zeit.
+    .desc = Diese Retro-Brille erinnert dich an eine einfachere Zeit.
 
 ent-ClothingEyesGlassesOutlawGlasses = Outlaw Brillen
     .desc = Ein Muss für jeden sich selbst respektierenden Undercover-Agenten.

@@ -14,7 +14,7 @@ heretic-ascension-ash =
 
 heretic-ascension-blade =
     Ich reiße durch Ketten aus Staub und Licht. Der Mond wächst hier, unter den Auserwählten.
-    Die Schlange enthauptete. Sein Gift ist weg. Mieten Sie mit Sichelklingen aus Silber.
+    Die Schlange enthauptete. Sein Gift ist weg. Miete mit Sichelklingen aus Silber.
     Ein Sturm aus Stahl, bin ich, CHAMPION OF THE TORN AND PURE. ZUCHT MEINER ASCENSION!
 
 heretic-ascension-lock =
@@ -33,14 +33,14 @@ heretic-ascension-void =
     Wie die Welt vor unseren Augen zerstört wird. Die Leere wird alles zu nichts zurückbringen. ZUCHT MEINER ASCENSION!
 
 heretic-ascension-rust =
-    Lassen Sie mich Ihnen eine Geschichte erzählen.
+    Lass mich dir eine Geschichte erzählen.
     Es gibt Hügel vor uns, drapiert in Rost. Rost, der deine Hitze verrottet. Mund ausgetrocknet, Seele schwach, deine Zunge beginnt zu bluten.
     Ich bin Verfall inkarniert. UNVERWENDBAR ALS STEINSTER; WIRKLICH ALS WASSER. ZUCHT MEINER ASCENSION!
 
 heretic-ascension-cosmos =
-    Das Biest streckte seine Hand aus, ich packte es und sie zogen mich zu ihnen. Ihr Körper war hoch aufragend, aber es schien so klein und schwach nach all ihren Geschichten in meinem Kopf zusammengestellt.
-    Ich klammerte mich an sie, sie würden mich beschützen, und ich würde es beschützen.
-    Ich schloss die Augen mit dem Kopf gegen ihre Form gelegt. Ich war in Sicherheit.
-    ZUCHT MEINER ASCENSION!
+    Das Biest streckte seine Hand aus, ich ergriff sie und es zog mich zu sich. Sein Körper ragte hoch auf, doch er wirkte so klein und schwach nach all den Geschichten, die sich in meinem Kopf angesammelt hatten.
+    Ich klammerte mich an es, es würde mich beschützen, und ich würde es beschützen.
+    Ich schloss die Augen und legte meinen Kopf an seine Gestalt. Ich war in Sicherheit.
+    BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-bingle = Mist

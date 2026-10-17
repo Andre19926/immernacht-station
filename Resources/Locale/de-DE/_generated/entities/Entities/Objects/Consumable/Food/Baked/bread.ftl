@@ -58,7 +58,7 @@ ent-FoodBreadMeatSpiderSlice = Spinnenfleischbrotscheibe
     .desc = Ein Stück Mesloaf aus einem Tier, das höchstwahrscheinlich noch tot ist.
 
 ent-FoodBreadTofu = Tofubrot
-    .desc = Wie Fleischbrot, aber für Vegetarier. Brag zu Ihren Crewkollegen darüber, wie viel besser es ist.
+    .desc = Wie Fleischbrot, aber für Vegetarier. Brag zu deinen Crewkollegen darüber, wie viel besser es ist.
 
 ent-FoodBreadTofuSlice = Tofu-Brotscheiben
     .desc = Ein Stück köstliches Tofubrot.

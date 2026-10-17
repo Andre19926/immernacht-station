@@ -1,20 +1,20 @@
-ent-WindoorAssembly = Windoor-Anordnung
+ent-WindoorAssembly = Windoor-Bausatz
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen!
 
-ent-WindoorAssemblySecure = sichere Windoor-Anordnung
+ent-WindoorAssemblySecure = Gesicherter Windoor-Bausatz
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht hart aus.
 
-ent-WindoorAssemblyClockwork = Uhrwerk-Windoor-Anordnung
+ent-WindoorAssemblyClockwork = Uhrwerk-Windoor-Bausatz
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht hart aus.
 
 ent-WindoorAssemblyPlasma = Plasma-Windoor-Baugruppe
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht purp-, nein, rosa aus. Warte...
 
-ent-WindoorAssemblySecurePlasma = sichere Plasma-Windoor-Anordnung
-    .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht stark aus und pin-, nein, lila. Halten Sie ...
+ent-WindoorAssemblySecurePlasma = Sicherer Plasma-Windoor-Bausatz
+    .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht stark aus und pin-, nein, lila. Halte...
 
 ent-WindoorAssemblyUranium = Uran-Windoor-Baugruppe
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht kränklich grün aus...
 
-ent-WindoorAssemblySecureUranium = Bau einer sicheren Uran-Windoor-Montage
+ent-WindoorAssemblySecureUranium = Uran-Windoor-Bausatz (gesichert)
     .desc = Es öffnet sich, es schließt sich und du kannst es durchschauen! Dieser sieht stark und radioaktiv-kalk-grün aus!

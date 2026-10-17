@@ -11,10 +11,10 @@ ent-ActionMassWhisper = Massenflüsterer
     .desc = Greife in den Verstand aller Wesen und flüstere sie in den Wahnsinn.
 
 ent-ActionVeilOfTheVoid = Schleier der Leere
-    .desc = Verschwindet/Manifestiert zurück aus der Leere, um eure Beute zu jagen...
+    .desc = Verschwinde in der Leere oder manifestiere dich daraus zurück, um deine Beute zu jagen...
 
 ent-ActionOmnipresence = Omnipräsenz
-    .desc = Wählen Sie überall zu sein.
+    .desc = Wähle überall zu sein.
 
 ent-ActionHasturClone = Klon
-    .desc = Teilen Sie sich in zwei Teile und hinterlassen Sie einen vorübergehenden Schatten Ihrer Anwesenheit.
+    .desc = Teile dich in zwei Hälften und hinterlasse einen vorübergehenden Schatten deiner Anwesenheit.

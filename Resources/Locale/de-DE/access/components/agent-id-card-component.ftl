@@ -7,13 +7,13 @@
 
 agent-id-new = { $number ->
     [0] Keine neuen Zugänge von {THE($card)}.
-    [one] Erhalten Sie einen neuen Zugang von {THE($card)}.
+    [one] Erhalte einen neuen Zugang von {THE($card)}.
    *[other] gewonnen {$number} Neue Zugänge von {THE($card)}.
 }
 
 agent-id-card-current-name = Name:
-agent-id-card-current-job = Tätigkeit:
-agent-id-card-job-icon-label = Job-Icon:
-agent-id-menu-title = Agentenausweis
+agent-id-card-current-job = Job:
+agent-id-card-job-icon-label = Job-Symbol:
+agent-id-menu-title = Agenten-ID-Karte
 
 agent-id-open-ui-verb = Einstellungen ändern

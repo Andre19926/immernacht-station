@@ -1,7 +1,7 @@
-screams-and-flinches-pain = { $entity } Schreit und zuckt vor Schmerzen!
-screams-in-agony = { $entity } schreit vor Schmerz und quält sich nervös! 
+screams-and-flinches-pain = { $entity } schreit und zuckt vor Schmerzen!
+screams-in-agony = { $entity } schreit vor Schmerz und windet sich nervös!
 screams-and-falls-pain = { $entity } schreit vor Schmerzen und fällt zuckend auf den Boden.
 screams-in-pain = { $entity } schreit vor Schmerz und zuckt nervös!
-passes-out-pain = { $entity } läuft außer Atem und ohnmächtig!
+passes-out-pain = { $entity } verliert vor Schmerz das Bewusstsein!
 
-woundable-dodged = { $entity } knapp ausgewichen!
+woundable-dodged = { $entity } ist knapp ausgewichen!

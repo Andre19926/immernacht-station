@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-step-condition-wallmount = Sie müssen es an einer Wand bauen.
+construction-step-condition-wallmount = Du musst es an einer Wand anbringen.

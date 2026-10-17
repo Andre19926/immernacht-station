@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-spider-charge-not-ninja = Während es normal erscheint, können Sie die Ladung nicht detonieren.
-spider-charge-too-far = Dies ist nicht der Ort, den Sie verwenden sollten!
+spider-charge-not-ninja = Während es normal erscheint, kannst du die Ladung nicht detonieren.
+spider-charge-too-far = Dies ist nicht der Ort, den dich verwenden sollten!

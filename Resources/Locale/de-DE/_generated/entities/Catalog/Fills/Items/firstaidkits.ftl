@@ -1,11 +1,11 @@
-ent-MedkitFilled = Erste-Hilfe-Kasten
+ent-MedkitFilled = Erste-Hilfe-Kiste
     .desc = Es ist ein medizinisches Notfall-Kit für diese schweren Boo-Boos.
 
 ent-MedkitBurnFilled = Verbrennungs-Medkit
     .desc = Ein spezialisiertes medizinisches Kit, wenn das Toxinlabor spontan abbrennt.
 
-ent-MedkitBruteFilled = Medkit für Stumpfe Traumata
-    .desc = Ein Erste-Hilfe-Kit, wenn Sie Toolboxed erhalten.
+ent-MedkitBruteFilled = Medkit gegen physische Schäden
+    .desc = Ein Erste-Hilfe-Kit, wenn du Toolboxed erhältst.
 
 ent-MedkitToxinFilled = Toxin-Medkit
     .desc = Wird verwendet, um toxischen Blutgehalt zu behandeln.

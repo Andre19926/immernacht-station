@@ -10,21 +10,21 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 zombie-title = Zombies
-zombie-description = Die Untoten wurden auf der Station entfesselt! Arbeiten Sie mit der Crew, um den Ausbruch zu überleben und die Station zu sichern.
+zombie-description = Die Untoten sind auf die Station losgelassen! Arbeitet mit der Crew zusammen, überlebt den Ausbruch und sichert die Station.
 
 zombieteors-title = Zombieteors
-zombieteors-description = Die Untoten wurden auf der Station inmitten eines katastrophalen Meteorschauers entfesselt! Arbeiten Sie mit Ihrer Crew und tun Sie Ihr Bestes, um zu überleben!
+zombieteors-description = Die Untoten sind mitten in einem katastrophalen Meteoritenschauer auf die Station losgelassen! Haltet zusammen und überlebt!
 
 zombie-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es gab {$readyPlayersCount} Spieler bereiten sich aus {$minimumPlayers} benötigt. Zombies kann man nicht starten.
 zombie-no-one-ready = Keine Spieler bereit! Zombies kann man nicht starten.
 
-zombie-patientzero-role-greeting = Sie sind eine Erstinfizierte. Holen Sie sich Vorräte und bereiten Sie sich auf Ihre eventuelle Transformation vor. Ihr Ziel ist es, die Station zu überholen und gleichzeitig so viele Menschen wie möglich zu infizieren.
+zombie-patientzero-role-greeting = Du bist Erstinfizierter. Besorge Vorräte und bereite dich auf deine Verwandlung vor. Dein Ziel ist es, die Station zu überrennen und so viele wie möglich zu infizieren.
 zombie-healing = Du spürst ein Rühren in deinem Fleisch
-zombie-infection-warning = Sie spüren, dass der Zombie-Virus sich durchsetzt
-zombie-infection-underway = Ihr Blut beginnt sich zu verdicken
+zombie-infection-warning = Du spürst, dass der Zombie-Virus sich durchsetzt
+zombie-infection-underway = Dein Blut beginnt, dicker zu werden
 
 ## goob edit
-zombie-start-announcement = Bestätigter Ausbruch der biologischen Gefahr der Stufe 7 an Bord der Station. Sicherheit kann dich nicht mehr schützen. Machen Sie sich auf den Weg zu geschützten Bereichen und verschließen Sie sich zur Evakuierung.
+zombie-start-announcement = Bestätigter Ausbruch einer biologischen Gefahr der Stufe 7 an Bord der Station. Die Sicherheit kann euch nicht mehr schützen. Begebt euch in gesicherte Bereiche und verschanzt euch bis zur Evakuierung.
 ### Over
 zombie-alone = Du fühlst dich ganz allein.
 
@@ -34,7 +34,7 @@ zombie-round-end-initial-count = {$initialCount ->
     [one] Es gab eine erste Infektion:
     *[other] Es gab {$initialCount} Erstinfektion:
 }
-zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]Es war eine der ersten infizierten.
+zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) war einer der ersten Infizierten.
 
 zombie-round-end-amount-none = [color=green]Alle Zombies wurden ausgerottet![/color]
 zombie-round-end-amount-low = [color=green]Fast alle Zombies wurden ausgerottet.[/color]
@@ -46,4 +46,4 @@ zombie-round-end-survivor-count = {$count ->
     [one] Es gab nur noch einen Überlebenden:
     *[other] Es gab nur {$count} Hinterbliebene:
 }
-zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]Sie überlebten den Ausbruch.
+zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) hat den Ausbruch überlebt.

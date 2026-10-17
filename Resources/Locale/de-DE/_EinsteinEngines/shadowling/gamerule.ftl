@@ -1,35 +1,29 @@
-shadowling-condition-win = Die Shadowlings sind erfolgreich in ihre endgültige Form aufgestiegen!
+shadowling-condition-win = Die Schattenwesen sind erfolgreich in ihre endgültige Form aufgestiegen!
 shadowling-condition-draw = Beide Parteien erlitten große Verluste, aber die Crew überlebte.
-shadowling-condition-failure = Die Crew hat es geschafft, den Aufstieg der Shadowlings zu stoppen!
+shadowling-condition-failure = Die Crew hat es geschafft, den Aufstieg der Schattenwesen zu stoppen!
 
-shadowling-list-start = Die Shadowlings waren:
+shadowling-list-start = Die Schattenwesen waren:
 thrall-list-start = Die Thralls waren:
 
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
 
-shadowling-title = Abschattungen
-shadowling-description = Der Schatten ist der größte Lehrer, wie man zum Licht kommt.
+shadowling-title = Schattenwesen
+shadowling-description = Der Schatten ist der beste Lehrer auf dem Weg ins Licht.
 
-shadowling-round-end-name = Abschattung
+shadowling-round-end-name = Schattenwesen
 
-shadowling-role-greeting =
-    Etwas bewegt sich tief in deinem Kopf. Ein rotes Licht überflutet Ihre Vision, und langsam erinnern Sie sich. Obwohl deine menschliche Verkleidung dir gedient hat
-    Nun, die Zeit ist nahe, es abzuwerfen und in deine wahre Form einzutreten. Du hast dich unter den Menschen verkleidet, aber du gehörst nicht zu ihnen.
-    Du bist ein Schattenleger, und du musst um jeden Preis aufsteigen.
-    Überprüfen Sie den Reiseführer für weitere Informationen.
+shadowling-role-greeting = Du bist ein Schattenwesen und musst um jeden Preis aufsteigen. Mehr Infos im Handbuch.
 
-shadowling-role-greeting-short =
-    Du bist ein Schatten, der im Körper des {$name}.
+shadowling-role-greeting-short = Du bist ein Schattenwesen, das im Körper von {$name} erwacht ist.
 
 thrall-role-greeting =
     Du bist ein Thrall.
-    Hilf deinem Shadowling mit allen notwendigen Mitteln aufzusteigen.
+    Hilf deinem Schattenwesen mit allen notwendigen Mitteln aufzusteigen.
 
-shadowling-briefing =
-    Vergießt euch von dieser geringeren Form und beginnt euren Weg zum Aufstieg.
+shadowling-briefing = Streife diese geringere Gestalt ab und beginne deinen Weg zum Aufstieg.
 
 thrall-briefing =
     Du bist nicht mehr an deine alten Überzeugungen gebunden.
-    Helfen Sie Ihrem Shadowling, um jeden Preis aufzusteigen.
+    Hilf deinem Schattenwesen, um jeden Preis aufzusteigen.
 
-objective-issuer-shadowling = Abschattung
+objective-issuer-shadowling = Schattenwesen

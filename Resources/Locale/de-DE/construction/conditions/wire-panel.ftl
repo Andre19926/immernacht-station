@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: MIT
 
 # WirePanel
-construction-examine-condition-wire-panel-open = Öffnen Sie zunächst das Wartungspanel.
-construction-examine-condition-wire-panel-close = Schließen Sie zunächst das Wartungspanel.
-construction-step-condition-wire-panel-open = Die Wartungstafel muss offen sein.
-construction-step-condition-wire-panel-close = Die Wartungstafel muss geschlossen sein.
+construction-examine-condition-wire-panel-open = Öffne zuerst die Wartungsklappe.
+construction-examine-condition-wire-panel-close = Schließe zuerst die Wartungsklappe.
+construction-step-condition-wire-panel-open = Die Wartungsklappe muss offen sein.
+construction-step-condition-wire-panel-close = Die Wartungsklappe muss geschlossen sein.

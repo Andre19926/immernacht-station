@@ -1,29 +1,29 @@
-ent-ClothingUniformJumpsuitMilitarySalvageSpecialist = Salvage-Spezialist insgesamt
-    .desc = Es ist ein knackiger Overall mit einem robusten Overall. Es ist sehr schmutzig.
+ent-ClothingUniformJumpsuitMilitarySalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung (Militär)
+    .desc = Es ist ein knackiger Uniform mit einem robusten Uniform. Es ist sehr schmutzig.
 
-ent-ClothingUniformJumpsuitMilitaryColorBlackAlt = schwarz insgesamt
-    .desc = Ein generisches schwarz insgesamt ohne rangmarkierungen.
+ent-ClothingUniformJumpsuitMilitaryColorBlackAlt = Uniform (schwarz, Jumpsuit, Militär, Color, Alternativ)
+    .desc = Ein generischer schwarzer Uniform ohne rangmarkierungen.
 
-ent-ClothingUniformJumpsuitMilitarySecurity = Sicherheit insgesamt
-    .desc = Ein Overall aus starkem Material, das einen robusten Schutz bietet.
+ent-ClothingUniformJumpsuitMilitarySecurity = Sicherheitsuniform (Militär, Security)
+    .desc = Ein Uniform aus starkem Material, das einen robusten Schutz bietet.
 
-ent-ClothingUniformJumpsuitMilitarySecuritySeniorOfficer = Senior Officer Insgesamt
+ent-ClothingUniformJumpsuitMilitarySecuritySeniorOfficer = Senior Officer-Uniform
     .desc = Ein Schild von Geschick und Prestige innerhalb der Sicherheitsabteilung.
 
-ent-ClothingUniformJumpsuitMilitaryMailCarrier = Postbeförderer insgesamt
+ent-ClothingUniformJumpsuitMilitaryMailCarrier = Postbotenuniform
     .desc = Feind der K9s überall.
 
-ent-ClothingUniformJumpsuitMilitarySeniorResearcher = Senior Researcher Insgesamt
+ent-ClothingUniformJumpsuitMilitarySeniorResearcher = Senior Researcher-Uniform
     .desc = Ein Schild von Geschick und Prestige innerhalb der Wissenschaftsabteilung.
 
-ent-ClothingUniformJumpsuitMilitaryHoS = Sicherheitschef Overall
+ent-ClothingUniformJumpsuitMilitaryHoS = Sicherheitschefsuniform (Militär)
     .desc = Es ist leuchtend rot und ziemlich knusprig, ähnlich wie die opfer der sicherheit dazu neigen.
 
-ent-ClothingUniformJumpsuitMilitaryNTR = Nanotrasen-Repräsentantenanzug
+ent-ClothingUniformJumpsuitMilitaryNTR = Nanotrasen-Repräsentantenanzug (Militär, NTR)
     .desc = Ein schwarzer Anzug, der von Beamten getragen wird.
 
-ent-ClothingUniformJumpsuitMilitaryWarden = Uniform des Wärters
+ent-ClothingUniformJumpsuitMilitaryWarden = Warden-Uniform (Militär)
     .desc = Ein formeller Sicherheitsanzug für Offiziere mit Nanotrasen-Gürtelschnalle.
 
-ent-ClothingUniformJumpsuitMilitaryBrigmedic = Gefängnissanitäter insgesamt
+ent-ClothingUniformJumpsuitMilitaryBrigmedic = Gefängnissanitäteruniform (Militär)
     .desc = Diese Uniform wird qualifiziertem Personal ausgestellt, das ausgebildet wurde. Niemand kümmert sich darum, dass das Training einen halben Tag dauerte.

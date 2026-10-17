@@ -12,10 +12,10 @@ influence-name-shunt = Shunt-Subjektivität
 influence-description-shunt = Schneite den Geist deines Ziels aus ihrem Körper und in die kosmische Dunkelheit und mache ihren Körper vorübergehend geistlos.
 
 influence-name-ingress = Krafteinbruch
-influence-description-ingress = Verwenden Sie eine konzentrierte Kraftanstrengung, um eine Luftschleuse - sichere Tür - zu öffnen.
+influence-description-ingress = Verwende eine konzentrierte Kraftanstrengung, um eine Luftschleuse - sichere Tür - zu öffnen.
 
 influence-name-nova = Astral-Nova
-influence-description-nova = Schleudern Sie eine große und störende Explosion astraler Energie, die alles auf ihrem Weg schädigt, lähmt und anzieht.
+influence-description-nova = Schleudern dich eine große und störende Explosion astraler Energie, die alles auf ihrem Weg schädigt, lähmt und anzieht.
 
 influence-name-imposition = Vakkulose Aufbringung
 influence-description-imposition = Für kurze Zeit wird deine körperliche Form zu einem Kanal kosmischer Kraft - was jeden ankommenden Schaden negiert.
@@ -23,13 +23,13 @@ influence-description-imposition = Für kurze Zeit wird deine körperliche Form 
 
 ## PASSIVE INFLUENCES
 influence-name-eschew = Metabolismus vermeiden
-influence-description-eschew = Ihre körperlichen Bedürfnisse von Hunger und Durst sind getrennt - Sie müssen nicht mehr essen oder trinken.
+influence-description-eschew = Deine körperlichen Bedürfnisse von Hunger und Durst sind getrennt - dich müssen nicht mehr essen oder trinken.
 
 influence-name-step = Ungebunden
-influence-description-step = Sie bewegen sich relativ nur zum sternlosen Schwarz - Ihre Bewegung wird nicht mehr von der Schwerkraft beeinflusst.
+influence-description-step = Du bewegst dich relativ nur zum sternlosen Schwarz - deine Bewegung wird nicht mehr von der Schwerkraft beeinflusst.
 
 influence-name-stride = Astralschritt
 influence-description-stride = Astralenergie belebt jede deiner Bewegungen und beschleunigt subtil deine Geschwindigkeit.
 
 influence-name-vitality = Leere Vitalität
-influence-description-vitality = Die sternlose Leere des Monuments überwältigt Ihren Geist und Körper. Deine körperliche Form regeneriert sich langsam, während du in ihrer Gegenwart bist.
+influence-description-vitality = Die sternlose Leere des Monuments überwältigt deinen Geist und Körper. Deine körperliche Form regeneriert sich langsam, während du in ihrer Gegenwart bist.

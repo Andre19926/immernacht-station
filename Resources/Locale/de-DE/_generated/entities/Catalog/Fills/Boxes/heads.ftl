@@ -1,26 +1,26 @@
-ent-BoxCaptainCircuitboards = Bridge-Platinenkiste
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxCaptainCircuitboards = Brücken-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
-ent-BoxCECircuitboards = Engineering Circuit Tote
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxCECircuitboards = Technik-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
-ent-BoxCMOCircuitboards = Medizinischer Schaltkreis tote
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxCMOCircuitboards = Medizin-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
-ent-BoxHoPCircuitboards = Leiter des Personalkreises
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxHoPCircuitboards = Personalchef-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
 ent-BoxHoPStamps = Leiter des Personalstempelkastens
     .desc = Eine kleine Schachtel mit Stempeln.
 
-ent-BoxHoSCircuitboards = Sicherheitsschaltung tote
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxHoSCircuitboards = Sicherheits-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
-ent-BoxQMCircuitboards = Ladungsumschlag
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxQMCircuitboards = Fracht-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.
 
 ent-BoxQMStamps = Briefkasten des Quartiermeisters
     .desc = Eine kleine Schachtel mit Stempeln.
 
-ent-BoxRDCircuitboards = Wissenschaft Circuit Tote
-    .desc = Eine große Tote zum Tragen von Platin.
+ent-BoxRDCircuitboards = Wissenschafts-Platinenkiste
+    .desc = Eine große Tote zum Tragen von Platinen.

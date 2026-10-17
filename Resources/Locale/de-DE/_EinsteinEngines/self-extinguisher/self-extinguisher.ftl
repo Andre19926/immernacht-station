@@ -14,5 +14,5 @@ self-extinguisher-not-immune-to-fire-other = {$target} {CONJUGATE-BE($target)} N
 self-extinguisher-extinguish-self = Die {$item} löscht dich aus!
 self-extinguisher-extinguish-other = Die {$item} Löschungen {$target}!
 
-self-extinguisher-refill = Sie füllen den Selbstlöscher des Anzugs auf und verbrauchen die Patrone.
+self-extinguisher-refill = Du füllst den Selbstlöscher des Anzugs auf und verbrauchst dabei die Patrone.
 self-extinguisher-refill-full = Der Selbstverlöschende ist voll.

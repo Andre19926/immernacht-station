@@ -1,11 +1,11 @@
 signal-port-name-vinyl-player = Vinyl-Spielerausgang
-signal-port-description-vinyl-player = Die Vinyl-Player-Musikausgabe, verbinden Sie sich mit dem Rig.
+signal-port-description-vinyl-player = Die Vinyl-Player-Musikausgabe, verbinde dich mit dem Rig.
 
 signal-port-name-radio-rig = Funkanlageeingang
-signal-port-description-radio-rig = Der Eingang eines Radio-Rigs, verbinden Sie einen Vinyl-Player mit diesem und verbinden Sie dann das Rig mit dem Radioserver.
+signal-port-description-radio-rig = Der Eingang eines Radio-Rigs, verbinde einen Vinyl-Player mit diesem und verbinde dann das Rig mit dem Radioserver.
 
 signal-port-name-radio-server = Servereingang
-signal-port-description-radio-server = Der Eingang des Radioservers, verbinden Sie ein Radio-Rig mit diesem, um Musik rund um die Station abzuspielen!
+signal-port-description-radio-server = Der Eingang des Radioservers, verbinde ein Radio-Rig mit diesem, um Musik rund um die Station abzuspielen!
 
 vinyl-popout-no-station = Das Vinyl wirft sich selbst aus, du bist nicht auf einer Station!
 vinyl-popout-no-power = Das Vinyl wirft sich selbst aus, der Player ist nicht angetrieben!

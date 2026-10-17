@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-stealthmin-desc = Umschalten, ob andere sie in adminwer sehen können.
-cmd-stealthmin-help = Verwendung: Stealthmin\nVerwenden Sie Stealthmin, um zu schalten, ob Sie in der Ausgabe des Befehls adminwho erscheinen.
+cmd-stealthmin-desc = Schaltet um, ob andere dich in der Ausgabe von adminwho sehen können.
+cmd-stealthmin-help = Verwendung: stealthmin\nMit stealthmin schaltest du um, ob du in der Ausgabe des Befehls adminwho erscheinst.

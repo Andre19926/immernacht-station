@@ -13,7 +13,7 @@ comp-containment-off = Es ist umgeschaltet [color=red]ausgeschaltet[/color].
 comp-containment-connected = Der Containment-Feldgenerator schießt ein Licht aus, während er eine Verbindung herstellt!
 comp-containment-disconnected = Das Containment-Feld-Generatorlicht verblasst und trennt die Verbindung.
 
-comp-containment-anchor-warning = Sie können den Containment-Feldgenerator nicht entankern, während er eingeschaltet oder angeschlossen ist!
-comp-containment-toggle-warning = Sie können den Generator nicht ausschalten, während er angeschlossen ist.
+comp-containment-anchor-warning = Du kannst den Eindämmungsfeldgenerator nicht lösen, solange er eingeschaltet oder angeschlossen ist!
+comp-containment-toggle-warning = Du kannst den Generator nicht ausschalten, solange er angeschlossen ist.
 
 comp-field-vaporized = Die {$entity} trifft das Feld und verdampft in nichts!

@@ -7,22 +7,22 @@ ent-DebugBatteryStorage = Batteriespeicher
 
 ent-DebugBatteryDischarger = Batterieentladung
 
-ent-DebugSMES = KMU
+ent-DebugSMES = SMES
     .desc = Eine hochleistungsfähige supraleitende magnetische Energiespeichereinheit (SMES).
 
-ent-DebugSMESRecharging = KMU
+ent-DebugSMESRecharging = SMES
     .desc = Eine hochleistungsfähige supraleitende magnetische Energiespeichereinheit (SMES).
 
-ent-DebugSubstation = Umspannwerk
+ent-DebugSubstation = Substation
     .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
 
-ent-DebugSubstationRecharging = Umspannwerk
+ent-DebugSubstationRecharging = Substation
     .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
 
-ent-DebugSubstationWall = Wandstation
+ent-DebugSubstationWall = Wandmontierte Substation
     .desc = Eine Umspannstation für kompakte Shuttles und Räume.
 
-ent-DebugSubstationWallRecharging = Wandstation
+ent-DebugSubstationWallRecharging = Wandmontierte Substation
     .desc = Eine Umspannstation für kompakte Shuttles und Räume.
 
 ent-DebugAPC = APC

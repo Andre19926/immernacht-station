@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-guide-condition-empty-or-window-valid-in-tile = Sie müssen dies auf eine gültige Kachel legen.
+construction-guide-condition-empty-or-window-valid-in-tile = Du musst das auf einer gültigen Kachel platzieren.

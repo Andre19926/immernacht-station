@@ -40,7 +40,7 @@ reagent-name-juice-lime = Kalksaft
 reagent-desc-juice-lime = Der süß-saure Saft von Limetten.
 
 reagent-name-juice-orange = Orangensaft
-reagent-desc-juice-orange = Beide köstlich und reich an Vitamin C. Was brauchen Sie noch?
+reagent-desc-juice-orange = Beide köstlich und reich an Vitamin C. Was brauchst du noch?
 
 reagent-name-juice-pineapple = Ananassaft
 reagent-desc-juice-pineapple = Der köstliche Saft einer Ananas.

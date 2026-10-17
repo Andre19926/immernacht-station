@@ -22,10 +22,10 @@ ent-BoxSurvivalSlotsMedical = Überlebensbox
 ent-BoxSurvivalSlotsMedicalNitrogen = Überlebensbox
     .desc = Es ist eine Box mit grundlegenden Internaten im Inneren.
 
-ent-BoxHugSlots = Kasten mit Umarmungen
+ent-BoxHugSlots = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
-ent-BoxHugSlotsNitrogen = Kasten mit Umarmungen
+ent-BoxHugSlotsNitrogen = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxSurvivalSlotsSyndicate = Überlebensbox mit erweiterter Kapazität
@@ -55,7 +55,7 @@ ent-BoxSurvivalSlotsSecurityPlasma = Überlebensbox
 ent-BoxSurvivalSlotsMedicalPlasma = Überlebensbox
     .desc = Es ist eine Box mit grundlegenden Internaten im Inneren.
 
-ent-BoxHugSlotsPlasma = Kasten mit Umarmungen
+ent-BoxHugSlotsPlasma = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxSurvivalSlotsSyndicatePlasma = Überlebensbox mit erweiterter Kapazität

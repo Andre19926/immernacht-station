@@ -14,5 +14,5 @@ lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} 
 
 ## ToggleLockVerb
 
-toggle-lock-verb-unlock = Aufschließen
+toggle-lock-verb-unlock = Entriegeln
 toggle-lock-verb-lock = Abschließen

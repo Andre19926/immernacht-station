@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # DoorWelded
-construction-examine-condition-door-weld = Zuerst schweißen die {$entityName}.
-construction-examine-condition-door-unweld = Erstens, unweld die {$entityName}.
-construction-guide-condition-door-weld = Stellen Sie sicher, dass es geschweißt ist.
-construction-guide-condition-door-unweld = Stellen Sie sicher, dass es nicht geschweißt ist.
+construction-examine-condition-door-weld = Zuerst {$entityName} verschweißen.
+construction-examine-condition-door-unweld = Zuerst die Schweißnaht an {$entityName} lösen.
+construction-guide-condition-door-weld = Stelle sicher, dass es geschweißt ist.
+construction-guide-condition-door-unweld = Stelle sicher, dass es nicht geschweißt ist.

@@ -21,20 +21,20 @@
 
 # User interface
 comms-console-menu-title = Kommunikationskonsole
-comms-console-menu-announcement-placeholder = Ankündigungstext...
-comms-console-menu-announcement-button = Ankündigung
-comms-console-menu-announcement-button-tooltip = Senden Sie Ihre Nachricht als stationenweite Radioankündigung.
-comms-console-menu-broadcast-button = Rundfunk
-comms-console-menu-broadcast-button-tooltip = Übertragen Sie Ihre Nachricht an Wandbildschirme rund um die Station. Hinweis: Sie passen nur zehn Zeichen!
-comms-console-menu-alert-level-button-tooltip = Ändern Sie die Alarmstufe der Station. Gilt sofort bei der Auswahl.
-comms-console-menu-call-shuttle = Notruf Shuttle
-comms-console-menu-recall-shuttle = Notfall-Shuttle
-comms-console-menu-emergency-shuttle-button-tooltip = Ruft oder ruft das Notfall-Shuttle zurück. Sie können sich nur erinnern, wenn noch genügend Zeit bleibt.
+comms-console-menu-announcement-placeholder = Ankündigungstext ...
+comms-console-menu-announcement-button = Ankündigen
+comms-console-menu-announcement-button-tooltip = Sende deine Nachricht als Funkdurchsage an die gesamte Station.
+comms-console-menu-broadcast-button = Durchsage
+comms-console-menu-broadcast-button-tooltip = Zeige deine Nachricht auf Wandbildschirmen rund um die Station an. Hinweis: Es passen nur zehn Zeichen drauf!
+comms-console-menu-alert-level-button-tooltip = Ändert die Alarmstufe der Station. Gilt sofort nach der Auswahl.
+comms-console-menu-call-shuttle = Evakuierungsshuttle rufen
+comms-console-menu-recall-shuttle = Notfall-Shuttle zurückrufen
+comms-console-menu-emergency-shuttle-button-tooltip = Ruft das Notfall-Shuttle oder ruft es zurück. Zurückrufen ist nur möglich, solange noch genug Zeit bleibt.
 comms-console-menu-time-remaining = Restlaufzeit: {$time}
 
 # Popup
-comms-console-permission-denied = Erlaubnis verweigert
-comms-console-shuttle-unavailable = Shuttle ist derzeit nicht verfügbar
+comms-console-permission-denied = Zugriff verweigert
+comms-console-shuttle-unavailable = Shuttle derzeit nicht verfügbar
 comms-console-message-too-long = Nachricht ist zu lang
 
 # Placeholder values
@@ -44,6 +44,6 @@ comms-console-announcement-unknown-sender = Unbekannt
 # Comms console variant titles
 comms-console-announcement-title-station = Kommunikationskonsole
 comms-console-announcement-title-centcom = CentComm
-comms-console-announcement-title-nukie = Syndicate Nuclear Operate
-comms-console-announcement-title-station-ai = Stations-AI
+comms-console-announcement-title-nukie = Syndicate-Atomagent
+comms-console-announcement-title-station-ai = Stations-KI
 comms-console-announcement-title-wizard = Zauberer

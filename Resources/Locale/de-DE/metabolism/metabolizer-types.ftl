@@ -6,12 +6,12 @@
 
 metabolizer-type-animal = Tier
 metabolizer-type-bloodsucker = Blutsauger
-metabolizer-type-dragon = Drachen
+metabolizer-type-dragon = Drache
 metabolizer-type-human = Mensch
 metabolizer-type-slime = Schleim
 metabolizer-type-vox = Vox
 metabolizer-type-rat = Ratte
-metabolizer-type-plant = Pflanzen
+metabolizer-type-plant = Pflanze
 metabolizer-type-dwarf = Zwerg
-metabolizer-type-moth = Motten
-metabolizer-type-arachnid = Arachen
+metabolizer-type-moth = Motte
+metabolizer-type-arachnid = Arachnide

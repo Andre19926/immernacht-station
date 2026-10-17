@@ -1,5 +1,5 @@
 ent-MobGhoulStalker = Stalker
-    .desc = Ein Gräuel, das aus verschiedenen Überresten zusammengeschustert wurde. Sein Aussehen ändert sich leicht jedes Mal, wenn Sie blinken.
+    .desc = Ein Gräuel, das aus verschiedenen Überresten zusammengeschustert wurde. Sein Aussehen ändert sich leicht jedes Mal, wenn du blinkst.
 
 ent-MobGhoulProphet = Roher Prophet
     .desc = Ein Gräuel, zusammengenäht aus ein paar abgetrennten Armen und einem geschwollenen, verwaisten Auge.

@@ -6,5 +6,5 @@
 
 advertisement-sweettoof-1 = 99,9 % künstlicher Zucker!
 advertisement-sweettoof-2 = Gesponsert von Donk Co.!
-advertisement-sweettoof-3 = SweetToof! Jeder verdient ein wenig Süßigkeiten!
-advertisement-sweettoof-4 = Hey! Willst du etwas Süßigkeiten?
+advertisement-sweettoof-3 = SweetToof! Jeder verdient ein bisschen Süßes!
+advertisement-sweettoof-4 = Hey! Willst du Süßigkeiten?

@@ -1,53 +1,53 @@
-ent-RipleyMKIIHarness = Rippenbaum MK-II
+ent-RipleyMKIIHarness = Ripley-MK-II-Rumpf
     .desc = Der Kern des Ripley MK-II.
 
-ent-ClarkeHarness = Klarke
+ent-ClarkeHarness = Clarke-Rumpf
     .desc = Der Kern der Clarke.
 
-ent-ClarkeHead = Klarke
+ent-ClarkeHead = Clarke-Kopf
     .desc = Der Kopf der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-ClarkeRArm = Clarke rechter Arm
+ent-ClarkeRArm = Clarke-Rechter Arm
     .desc = Der rechte Arm der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-ClarkeLArm = Clarke linker Arm
+ent-ClarkeLArm = Clarke-Linker Arm
     .desc = Der linke Arm der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-ClarkeTreads = Klarkelaufflächen
+ent-ClarkeTreads = Clarke-Ketten
     .desc = Die Trittflächen der Clarke. Es gehört auf das Chassis des Mech.
 
-ent-DurandHarness = Krawatte
+ent-DurandHarness = Durand-Rumpf
     .desc = Der Kern des Durand.
 
-ent-DurandHead = Strandkopf
+ent-DurandHead = Durand-Kopf
     .desc = Der Kopf des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandLArm = Durand linker Arm
+ent-DurandLArm = Durand-Linker Arm
     .desc = Der linke Arm des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandLLeg = Dummes linkes Bein
+ent-DurandLLeg = Durand-Linkes Bein
     .desc = Das linke Bein des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandRLeg = Dummes rechtes Bein
+ent-DurandRLeg = Durand-Rechtes Bein
     .desc = Das rechte Bein des Durand. Es gehört auf das Chassis des Mech.
 
-ent-DurandRArm = Durand Right Arm
+ent-DurandRArm = Durand-Rechter Arm
     .desc = Der rechte Arm des Durand. Es gehört auf das Chassis des Mech.
 
-ent-GygaxHarness = Gymnastik
+ent-GygaxHarness = Gygax-Rumpf
     .desc = Der Kern des Gygax.
 
-ent-GygaxHead = Gymaxkopf
+ent-GygaxHead = Gygax-Kopf
     .desc = Der Chef des Gygax. Es gehört zum Chassis des Mech.
 
-ent-GygaxLArm = Gygax linker Arm
+ent-GygaxLArm = Gygax-Linker Arm
     .desc = Der linke Arm des Gygax. Es gehört auf das Chassis des Mech.
 
-ent-GygaxLLeg = Gygax linkes Bein
+ent-GygaxLLeg = Gygax-Linkes Bein
     .desc = Das linke Bein des Gygax. Es gehört auf das Chassis des Mech.
 
-ent-GygaxRLeg = Gymax rechtes Bein
+ent-GygaxRLeg = Gygax-Rechtes Bein
     .desc = Das rechte Bein des Gygax. Es gehört auf das Chassis des Mech.
 
-ent-GygaxRArm = Gygax rechter Arm
+ent-GygaxRArm = Gygax-Rechter Arm
     .desc = Der rechte Arm des Gygax. Es gehört auf das Chassis des Mech.

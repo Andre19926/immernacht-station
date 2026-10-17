@@ -7,5 +7,5 @@ ent-SlingEggHatch = Schattenei
 ent-SlingEggAscension = Schattenei
     .desc = Ein dunkler, gepanzerter Kokon pulsiert mit unheimlicher Energie und läutet den Aufstieg des Schattens ein.
 
-ent-AscensionEggShadowlingInside = Der Shadowling
+ent-AscensionEggShadowlingInside = Der Schattenwesen
     .desc = Eine Terryfing-Kreatur, die sich anscheinend auf dem Ei gebildet hat. Ist es lebendig?

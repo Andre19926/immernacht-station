@@ -6,11 +6,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 cmd-respawn-desc = Respawnt einen Spieler und wirft ihn zurück in die Lobby.
-cmd-respawn-help = Respawn [player or UserId]
+cmd-respawn-help = Verwendung: respawn [player oder UserId]
 
-cmd-respawn-invalid-args = Muss <= 1 Argument liefern.
-cmd-respawn-no-player = Wenn nicht ein Spieler, muss ein Argument gegeben werden.
+cmd-respawn-invalid-args = Es darf höchstens 1 Argument angegeben werden.
+cmd-respawn-no-player = Ohne Spieler-Entität muss ein Argument angegeben werden.
 cmd-respawn-unknown-player = Unbekannter Spieler
-cmd-respawn-player-not-online = Der spieler ist derzeit nicht online, aber er wird respawnen, wenn er online zurückkehrt.
+cmd-respawn-player-not-online = Der Spieler ist derzeit nicht online, wird aber respawnen, sobald er wieder online ist.
 
 cmd-respawn-player-completion = <Benutzername>

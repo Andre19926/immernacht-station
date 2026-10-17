@@ -1,5 +1,5 @@
 ent-PosterBroken = Gebrochenes Poster
-    .desc = Sie können nichts aus dem originaldruck des posters erkennen. Es ist ruiniert.
+    .desc = Du kannst nichts aus dem originaldruck des posters erkennen. Es ist ruiniert.
 
 ent-PosterContrabandFreeTonto = Freier Ton
     .desc = Ein geborgener Fetzen einer viel größeren Flagge, Farben bluteten zusammen und verblassten mit dem Alter.
@@ -14,7 +14,7 @@ ent-PosterContrabandRealExomorph = Echt! Exomorph
     .desc = Ein konspiratives Poster über gefährliche außerirdische Lebensformen.
 
 ent-PosterContrabandSyndicateRecruitment = Syndicate Recruitment
-    .desc = Sehen Sie die Galaxis! Korrupte Megakonzerne! Treten Sie heute bei!
+    .desc = Siehst du die Galaxis! Korrupte Megakonzerne! Tritt heute bei!
 
 ent-PosterContrabandSmoke = Rauch
     .desc = Ein Poster, das für eine rivalisierende Markenmarke von Zigaretten wirbt.
@@ -62,7 +62,7 @@ ent-PosterContrabandBorgFancyv2 = Cyborg Fancy v2
     .desc = Cyborg Fancy, Jetzt nur die meisten Phantasie.
 
 ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 existiert nicht
-    .desc = Ein Poster, das CentComms Leugnung der Existenz der verfallenen Station in der Nähe von Raumstation 13 verspottet.
+    .desc = Ein Poster, das CentComms Leugnung der Existenz der verfallenen Station in der Nähe von Space Station 13 verspottet.
 
 ent-PosterContrabandRebelsUnite = Rebellen vereint
     .desc = Ein Poster drängt den Betrachter, gegen Nanotrasen zu rebellieren.
@@ -70,11 +70,11 @@ ent-PosterContrabandRebelsUnite = Rebellen vereint
 ent-PosterContrabandC20r = C-20r
     .desc = Ein Poster für die Scarborough Arms C-20r.
 
-ent-PosterContrabandHaveaPuff = Haben Sie einen Puff
-    .desc = Wer kümmert sich um Lungenkrebs, wenn Sie high wie ein Kite sind?
+ent-PosterContrabandHaveaPuff = Hab einen Puff
+    .desc = Wer kümmert sich um Lungenkrebs, wenn du high wie ein Kite bist?
 
 ent-PosterContrabandRevolver = Revolver
-    .desc = Denn sieben Schüsse sind alles, was Sie brauchen.
+    .desc = Denn sieben Schüsse sind alles, was du brauchst.
 
 ent-PosterContrabandDDayPromo = D-Day Promo
     .desc = Ein Werbeposter für einige Rapper.
@@ -86,7 +86,7 @@ ent-PosterContrabandEnergySwords = Energieschwerter
     .desc = Alle Farben des blutigen Mordregenbogens.
 
 ent-PosterContrabandRedRum = Roter Rum
-    .desc = Wenn Sie sich dieses Poster ansehen, möchten Sie töten.
+    .desc = Wenn du dieses Poster ansiehst, willst du töten.
 
 ent-PosterContrabandCC64KAd = CC 64K Ad Ad
     .desc = Der neueste tragbare Computer von Comrade Computing, mit einem ganzen 64kB RAM!
@@ -95,7 +95,7 @@ ent-PosterContrabandPunchShit = Punch Shit
     .desc = Kämpfe gegen Dinge ohne Grund, wie ein Mann!
 
 ent-PosterContrabandTheGriffin = Der Griffin
-    .desc = Der Griffin befiehlt dir, das Schlimmste zu sein, was du sein kannst. Wollen Sie?
+    .desc = Der Griffin befiehlt dir, das Schlimmste zu sein, was du sein kannst. Willst du?
 
 ent-PosterContrabandFreeDrone = Freie Drohne
     .desc = Dieses Poster erinnert an die Tapferkeit der Schurkendrohne; einst verbannt und dann schließlich von CentComm zerstört.
@@ -107,7 +107,7 @@ ent-PosterContrabandRobustSoftdrinks = Robuste Softdrinks
     .desc = Robuste Softdrinks: Robuster als ein Werkzeugkasten am Kopf!
 
 ent-PosterContrabandShamblersJuice = Shambler-Saft
-    .desc = Schütteln Sie mir etwas von diesem Shambler's Juice!
+    .desc = Schütteln dich mir etwas von diesem Shambler's Juice!
 
 ent-PosterContrabandPwrGame = Pwr-Spiel
     .desc = Die Kraft, die die Spieler TRAGEN! In Zusammenarbeit mit Vlad's Salad.
@@ -146,7 +146,7 @@ ent-PosterContrabandVoteWeh = Abstimmung Weh
     .desc = Ein stilvolles, elegantes und gut illustriertes Poster für einen "Weh"nderful neuen progressiven Kandidaten, der in dieser Wahlsaison kommt.
 
 ent-PosterContrabandBeachStarYamamoto = Strandstar Yamamoto!
-    .desc = Eine Wandrolle, die einen alten schwimmenden Anime mit Mädchen in kleinen Badeanzügen zeigt. Sie fühlen sich mehr weebish, je länger Sie es betrachten.
+    .desc = Eine Wandrolle, die einen alten schwimmenden Anime mit Mädchen in kleinen Badeanzügen zeigt. Du fühlst dich mehr weebish, je länger dich es betrachten.
 
 ent-PosterContrabandHighEffectEngineering = High Effect Engineering
     .desc = Es gibt 3 Scherben und eine Singularität. Die Scherben singen. Die Ingenieure weinen.
@@ -170,27 +170,27 @@ ent-PosterContrabandDonk = DONK CO. MIKROWASSERBARE BRANDLEBENDE LEBENSMITTEL
     .desc = DONK CO. BRANDMESSWARBARE LEBENSMITTEL: VON STARVING-KOLLEGE-STUDENTEN, ZUM STARVING-KOLLEGE-STUDENTEN MACHEN
 
 ent-PosterContrabandEnlistGorlex = Liste
-    .desc = Treten Sie noch heute bei den Gorlex Marauders ein! Sehen Sie die Galaxis, töten Sie Korpus, werden Sie bezahlt!
+    .desc = Tritt noch heute bei den Gorlex Marauders ein! Siehst du die Galaxis, töte Korpus, wirst du bezahlt!
 
 ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: Für die Gesundheit der Menschheit
     .desc = Eine Werbung für die GeneClean Kliniken von Interdyne Pharmaceutics. "Werde zum Meister deines eigenen Körpers!"
 
-ent-PosterContrabandWaffleCorp = Machen Sie Mine a Waffle Corp: Feine Gewehre, wirtschaftliche Preise
+ent-PosterContrabandWaffleCorp = Mache Mine a Waffle Corp: Feine Gewehre, wirtschaftliche Preise
     .desc = Eine alte Werbung für Waffle Corp Gewehre. "Bessere Waffen, niedrigere Preise!"
 
 ent-PosterContrabandMissingSpacepen = Fehlender Spacepen
-    .desc = Dieses Poster zeigt etwas, das Sie nie finden werden.
+    .desc = Dieses Poster zeigt etwas, das du nie finden wirst.
 
 ent-PosterContrabandExoAcid = Exomorph Warning: Acid Spit!
-    .desc = Dieses Poster warnt Sie vor dem sauren Spieß eines Exomorphs. Nicht, dass solche Exomorphe real sind... Richtig?
+    .desc = Dieses Poster warnt dich vor dem sauren Spieß eines Exomorphs. Nicht, dass solche Exomorphe real sind... Richtig?
 
 ent-PosterContrabandExoRun = Exomorph Warnung: Weglaufen!
     .desc = Dieses Poster warnt dich vor einem athletischen Exomorph, der jeden wegziehen kann, der erwischt wird; also werde nicht erwischt!
 
 ent-PosterContrabandExoChomp = Exomorph Warnung: Gefährliche Bisse!
-    .desc = Dieses Poster warnt Sie vor den tödlichen Bissen, die Exomorphs haben können. Werde kein Alien Snack!
+    .desc = Dieses Poster warnt dich vor den tödlichen Bissen, die Exomorphs haben können. Werde kein Alien Snack!
 
-ent-PosterLegitHereForYourSafety = Hier für Ihre Sicherheit
+ent-PosterLegitHereForYourSafety = Hier für deine Sicherheit
     .desc = Ein Poster, das die Sicherheitskräfte der Station verherrlicht.
 
 ent-PosterLegitNanotrasenLogo = Nanotrasen Logo
@@ -200,7 +200,7 @@ ent-PosterLegitCleanliness = Sauberkeit
     .desc = Ein Plakat warnt vor den Gefahren einer schlechten Hygiene.
 
 ent-PosterLegitHelpOthers = Anderen helfen
-    .desc = Ein Poster, das Sie ermutigt, anderen Crewmitgliedern zu helfen.
+    .desc = Ein Poster, das dich dazu ermutigt, anderen Crewmitgliedern zu helfen.
 
 ent-PosterLegitBuild = Bau
     .desc = Ein Poster, das das Ingenieurteam verherrlicht.
@@ -232,19 +232,19 @@ ent-PosterLegitSpaceCops = Space Cops.
 ent-PosterLegitUeNo = Ue Nr.
     .desc = Das Ding ist alles auf Japanisch.
 
-ent-PosterLegitGetYourLEGS = Holen Sie sich Ihre Legs
+ent-PosterLegitGetYourLEGS = Hole dir deine Legs
     .desc = LEGS: Führung, Erfahrung, Genie, Unterordnung.
 
 ent-PosterLegitDoNotQuestion = Keine Frage
     .desc = Ein Poster, das den Betrachter anweist, nicht nach Dingen zu fragen, die er nicht wissen soll.
 
 ent-PosterLegitWorkForAFuture = Arbeiten für eine Zukunft
-    .desc = Ein Poster, das Sie ermutigt, für Ihre Zukunft zu arbeiten.
+    .desc = Ein Poster, das dich dazu ermutigt, für deine Zukunft zu arbeiten.
 
 ent-PosterLegitSoftCapPopArt = Soft Cap Pop Art Stil
     .desc = Ein Poster Nachdruck von einigen billigen Pop-Art.
 
-ent-PosterLegitSafetyInternals = Sicherheit: Interieur
+ent-PosterLegitSafetyInternals = Sicherheit: Atemgerät
     .desc = Ein Poster, das den Betrachter anweist, Einbauten in den seltenen Umgebungen zu tragen, in denen kein Sauerstoff vorhanden ist oder die Luft giftig gemacht wurde.
 
 ent-PosterLegitSafetyEyeProtection = Sicherheit: Augenschutz
@@ -275,19 +275,19 @@ ent-PosterLegitPDAAd = PDA-Anzeige
     .desc = Ein Poster, das die neueste PDA von Nanotrasen-Lieferanten annonciert.
 
 ent-PosterLegitEnlist = Liste
-    .desc = Nehmen Sie noch heute an den Nanotrasen ERT Reserven teil!
+    .desc = Nimm noch heute an den Nanotrasen ERT Reserven teil!
 
 ent-PosterLegitNanomichiAd = Nanomichi Ad
     .desc = Ein Poster Werbung Nanomichi Marke Audiokassetten.
 
-ent-PosterLegit12Gauge = 12 Spurweite
+ent-PosterLegit12Gauge = 12 Gauge
     .desc = Ein Poster mit der Überlegenheit von 12-Gaugen-Schrotflintengranaten.
 
 ent-PosterLegitHighClassMartini = Hochklasse Martini
     .desc = Ich sagte dir, du sollst es schütteln, kein Rühren.
 
 ent-PosterLegitTheOwl = Die Eule
-    .desc = Die Eule würde ihr Bestes tun, um die Station zu schützen. Wollen Sie?
+    .desc = Die Eule würde ihr Bestes tun, um die Station zu schützen. Willst du?
 
 ent-PosterLegitNoERP = Keine ERP
     .desc = Dieses Poster erinnert die Crew daran, dass Erotik und Pornografie auf Nanotrasen-Stationen verboten sind.
@@ -305,7 +305,7 @@ ent-PosterLegitJustAWeekAway = Nur eine Woche entfernt...
     .desc = Ein Poster, das ein lange verspätetes Projekt annonciert, behauptet immer noch, es sei "nur eine Woche entfernt ..."
 
 ent-PosterLegitSecWatch = Sec beobachtet dich
-    .desc = Ein Poster, das Sie daran erinnert, dass Sicherheit jede Ihrer Bewegungen beobachtet.
+    .desc = Ein Poster, das dich daran erinnert, dass die Sicherheit jeden deiner Schritte beobachtet.
 
 ent-PosterLegitAnatomyPoster = Anatomie eines Spessman
     .desc = Ein Poster, das die Bits und Bobs zeigt, die dich ... dich machen!
@@ -319,15 +319,15 @@ ent-PosterLegitSafetyMothDelam = Safety Moth - Delamination Sicherheitsvorkehrun
     .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter mitzuteilen, dass er sich im Spind verstecken soll, wenn der Supermatter-Kristall delaminiert ist, um Halluzinationen zu verhindern. Evakuieren könnte eine bessere Strategie sein.
 
 ent-PosterLegitSafetyMothEpi = Sicherheitsmotte - Epinephrin
-    .desc = Dieses Informationsposter verwendet Safety MothTM, um den Betrachter zu informieren, um verletzten / verstorbenen Crewmitgliedern mit ihren Adrenalin-Injektoren zu helfen. "Verhindern Sie Organfäule mit diesem einen einfachen Trick!"
+    .desc = Dieses Informationsposter verwendet Safety MothTM, um den Betrachter zu informieren, um verletzten / verstorbenen Crewmitgliedern mit ihren Adrenalin-Injektoren zu helfen. "Verhindern dich Organfäule mit diesem einen einfachen Trick!"
 
 ent-PosterLegitSafetyMothPiping = Sicherheitsmotte - Piping
     .desc = Dieses Informationsposter verwendet Safety MothTM, um Atmos-Technikern die richtigen Arten von Rohrleitungen mitzuteilen. "Pipes, nicht Pumps!" Richtige Rohrplatzierung verhindert schlechte Leistung!
 
 ent-PosterLegitSafetyMothMeth = Sicherheitsmotte - Methamphetamin
-    .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter mitzuteilen, dass er vor dem Kochen von Methamphetamin die CMO-Zulassung einholen soll. "Bleiben Sie nahe an der Zieltemperatur und gehen Sie nie vorbei!" ... Du solltest das nie machen.
+    .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter mitzuteilen, dass er vor dem Kochen von Methamphetamin die CMO-Zulassung einholen soll. "Bleib nahe an der Zieltemperatur und geh nie vorbei!"... Du solltest das nie machen.
 
-ent-PosterLegitSafetyMothHardhat = Sicherheitsmotte - Hardhats
+ent-PosterLegitSafetyMothHardhat = Sicherheitsmotte – Schutzhelme
     .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter zu sagen, dass er Hardhats in vorsichtigen Bereichen tragen soll. "Es ist wie eine Lampe für deinen Kopf!"
 
 ent-PosterLegitVacation = Nanotrasen Corporate Perks: Urlaub
@@ -340,19 +340,19 @@ ent-PosterLegitNTTGC = Nanotrasen Taktische Spielkarten
     .desc = Eine Werbung für Nanotrasens TCG-Karten: KAUFEN SIE MEHR CARDS.
 
 ent-PosterLegitSafetyMothSSD = Sicherheitsmotte - Space Sleep Disorder
-    .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter von Space Sleep Disorder (SSD) zu erzählen, einem Zustand, bei dem die Person aufhört, auf Dinge zu reagieren. "Behandeln Sie die SSD-Crew mit Sorgfalt!" Sie könnten jederzeit aufwachen!
+    .desc = Dieses Informationsposter verwendet Safety MothTM, um dem Betrachter von Space Sleep Disorder (SSD) zu erzählen, einem Zustand, bei dem die Person aufhört, auf Dinge zu reagieren. "Behandeln dich die SSD-Crew mit Sorgfalt!" du könntest jederzeit aufwachen!
 
 ent-PosterLegitOppenhopper = Oppenhopper
     .desc = Ein Poster für einen längst vergessenen Film. Es folgt einer Gruppe hartnäckiger Greenhorns aus dem Grasshopper-Sektor, die sich gegen Angriffe der berüchtigten Nuclear Operateure verteidigen. Der Slogan lautet: "Nuke Ops wird weitergehen, bis sich die Robustheit verbessert."
 
-ent-PosterLegitTyrone = Tyrone's Guide für den Weltraum
-    .desc = Ein Poster Werbung Online-Schulung über den Weltraum. Die aufgeführten Klassen scheinen Dinge von der grundlegenden Verwendung von Stationsausrüstung bis hin zu komplizierten Themen wie dem Erstellen von Rohrbomben oder dem Abdecken ganzer Flure im Weltraum zu decken. Ein Disclaimer lautet: "Es ist nie so schlimm, und am Ende könnten Sie sogar eine Tortilla bekommen."
+ent-PosterLegitTyrone = Tyrones Leitfaden für den Weltraum
+    .desc = Ein Poster Werbung Online-Schulung über den Weltraum. Die aufgeführten Klassen scheinen Dinge von der grundlegenden Verwendung von Stationsausrüstung bis hin zu komplizierten Themen wie dem Erstellen von Rohrbomben oder dem Abdecken ganzer Flure im Weltraum zu decken. Ein Disclaimer lautet: "Es ist nie so schlimm, und am Ende könnten dich sogar eine Tortilla bekommen."
 
 ent-PosterLegitHelio = Helio Logistics ad ad
     .desc = Ein Plakat für Helio Logistics und ihr entzückendes Maskottchen. Der Slogan lautet: "Komm regen oder scheinen, wir liefern pünktlich."
 
 ent-PosterLegitBotanyFear = Angst vor Hydrokultur
-    .desc = Denken Sie dreimal darüber nach, bevor Sie die Luftschleuse für die Hydrokultur öffnen, könnte sich dort eine rote Bedrohung verstecken.
+    .desc = Denke dreimal darüber nach, bevor du die Luftschleuse für die Hydrokultur öffnest, könnte sich dort eine rote Bedrohung verstecken.
 
 ent-PosterMapBagel = Bagel-Karte
     .desc = Eine Karte der Bagel Station.

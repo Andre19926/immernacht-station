@@ -5,13 +5,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-custom-vote-webhook-name = Custom Vote
+custom-vote-webhook-name = Eigene Abstimmung gestartet
 custom-vote-webhook-footer = Server: { $serverName }, Runde: { $roundId } { $runLevel }
-custom-vote-webhook-cancelled = **Votum abgesagt**
+custom-vote-webhook-cancelled = **Abstimmung abgebrochen**
 custom-vote-webhook-option-pending = TBD
 custom-vote-webhook-option-cancelled = N/A
 
-votekick-webhook-name = Votekick hielt
+votekick-webhook-name = Votekick gestartet
 votekick-webhook-description = Initiator: { $initiator }; Ziel: { $target }
 votekick-webhook-cancelled-admin-online = **Vote abgesagt wegen Admins online**
 votekick-webhook-cancelled-admin-target = **Vote abgesagt, weil das Ziel admin ist **

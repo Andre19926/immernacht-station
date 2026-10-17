@@ -8,4 +8,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 emag-success = Das Gerät zappt etwas in {THE($target)}.
-emag-no-charges = Keine Gebühren mehr!
+emag-no-charges = Keine Ladungen mehr!

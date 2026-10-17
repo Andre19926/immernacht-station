@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-admin-shuttle-title = (Re)Call Shuttle
+admin-shuttle-title = Shuttle (zurück)rufen

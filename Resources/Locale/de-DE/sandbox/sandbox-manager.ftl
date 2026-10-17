@@ -9,24 +9,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sandbox-window-title = Sandbox Panel
+sandbox-window-title = Sandbox-Menü
 
-sandbox-window-map-editing-label = Bearbeiten
+sandbox-window-map-editing-label = Bearbeitung
 sandbox-window-visibility-label = Sichtbarkeit
 sandbox-window-your-character-label = Dein Charakter
 
-sandbox-window-ai-overlay-button = AI-Überlagerung
-sandbox-window-respawn-button = Respawn
-sandbox-window-spawn-entities-button = Spawnunternehmen
-sandbox-window-spawn-tiles-button = Spawnfliesen
-sandbox-window-spawn-decals-button = Spawn Decals
-sandbox-window-grant-full-access-button = Grant Full Access
+sandbox-window-ai-overlay-button = KI-Überlagerung
+sandbox-window-respawn-button = Respawnen
+sandbox-window-spawn-entities-button = Entities spawnen
+sandbox-window-spawn-tiles-button = Kachel-Menü
+sandbox-window-spawn-decals-button = Decals spawnen
+sandbox-window-grant-full-access-button = Vollzugriff erhalten
 sandbox-window-ghost-button = Geist
-sandbox-window-toggle-lights-button = Umschaltlichter
-sandbox-window-toggle-fov-button = Toggle FOV
+sandbox-window-toggle-lights-button = Licht umschalten
+sandbox-window-toggle-fov-button = Sichtfeld umschalten
 sandbox-window-toggle-shadows-button = Schatten umschalten
-sandbox-window-toggle-subfloor-button = Toggle Subfloor
-sandbox-window-toggle-suicide-button = Selbstmord
-sandbox-window-show-spawns-button = Show Spawns
-sandbox-window-show-bb-button = Show BB
-sandbox-window-show-npc-button = Show NPC
+sandbox-window-toggle-subfloor-button = Unterboden umschalten
+sandbox-window-toggle-suicide-button = Suizid
+sandbox-window-show-spawns-button = Spawnpunkte anzeigen
+sandbox-window-show-bb-button = Hitboxen anzeigen
+sandbox-window-show-npc-button = NPCs anzeigen

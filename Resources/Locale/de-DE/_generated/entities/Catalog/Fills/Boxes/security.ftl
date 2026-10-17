@@ -11,7 +11,7 @@ ent-BoxStinger = Stingergranatenbox
     .desc = Eine Schachtel voller Stachelgranaten. Dispers!
 
 ent-BoxTearGas = Tränengasgranatenbox
-    .desc = Eine Schachtel voller Tränengasgranaten. Halten Sie den Atem an.
+    .desc = Eine Schachtel voller Tränengasgranaten. Halte den Atem an.
 
 ent-BoxSechud = Sechudscha-Box
     .desc = Eine Schachtel Sechuds.

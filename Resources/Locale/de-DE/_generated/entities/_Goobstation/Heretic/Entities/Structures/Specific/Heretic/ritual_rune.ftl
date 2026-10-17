@@ -1,4 +1,4 @@
-ent-HereticRuneRitual = Transmutationsrinde
+ent-HereticRuneRitual = Transmutationsrune
     .desc = Eine alte Zeichnung, die von finsteren Individuen für Opfer verwendet wurde.
 
 ent-HereticRuneRitualDrawAnimation = unfertige Transmutationsrinde
@@ -8,4 +8,4 @@ ent-HereticRuneRitualDrawAnimationCicatrix = unfertige Transmutationsrinde
     .desc = Eine unvollendete antike Zeichnung, die von finsteren Individuen für Opfer verwendet wurde.
 
 ent-HereticRuneRitualAnimation = Transmutationsrinde
-    .desc = Sie sollten diese Beschreibung nicht sehen
+    .desc = Du solltest diese Beschreibung nicht sehen

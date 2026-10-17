@@ -1,5 +1,5 @@
 ent-TailCarp = Karpfenschwanz
-    .desc = Einzigartige Drüsen in diesem Schwanz lassen Sie Space Carp im Vakuum schwimmen.
+    .desc = Einzigartige Drüsen in diesem Schwanz lassen dich Space Carp im Vakuum schwimmen.
 
 ent-ChestCarp = Karpfenkiste
 

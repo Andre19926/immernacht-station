@@ -9,5 +9,5 @@
 
 ## Entity
 
-seed-extractor-component-interact-message = Sie extrahieren einige Samen aus dem { THE($name) }.
+seed-extractor-component-interact-message = Du extrahierst einige Samen aus { THE($name) }.
 seed-extractor-component-no-seeds = { CAPITALIZE(THE($name)) } hat keine Samen!

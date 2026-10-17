@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-thruster-comp-enabled = Der Thruster wird gedreht [color=green]am[/color].
-thruster-comp-disabled = Der Thruster wird gedreht [color=red]ausgeschaltet[/color].
-thruster-comp-nozzle-direction = Die Düse ist zugewandt [color=yellow]{$direction}[/color].
-thruster-comp-nozzle-exposed = Die Düse [color=green]exponiert[/color] in den Weltraum.
-thruster-comp-nozzle-not-exposed = Die Düse [color=red]nicht exponiert[/color] in den Weltraum.
+thruster-comp-enabled = Der Thruster ist [color=green]eingeschaltet[/color].
+thruster-comp-disabled = Der Thruster ist [color=red]ausgeschaltet[/color].
+thruster-comp-nozzle-direction = Die Düse zeigt nach [color=yellow]{$direction}[/color].
+thruster-comp-nozzle-exposed = Die Düse ist dem Weltraum [color=green]ausgesetzt[/color].
+thruster-comp-nozzle-not-exposed = Die Düse ist dem Weltraum [color=red]nicht ausgesetzt[/color].

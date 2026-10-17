@@ -1,10 +1,10 @@
-popup-trauma-BoneDamage-Damaged = Du fühlst Schmerzen in deinem {$part}.
-popup-trauma-BoneDamage-Cracked = Du fühlst einen scharfen Schmerz in deinem {$part}!
-popup-trauma-BoneDamage-Broken = Sie hören einen lauten Riss in Ihrem {$part}!!
-self-inspect-trauma-BoneDamage = Schmerz im Inneren
-self-inspect-trauma-BoneDamage-Large = fühlt sich ausgerenkt
-inspect-trauma-BoneDamage = Blicke ausgerenkt
+popup-trauma-BoneDamage-Damaged = Du spürst Schmerzen in deinem Körperteil: {$part}.
+popup-trauma-BoneDamage-Cracked = Du spürst einen stechenden Schmerz in deinem Körperteil: {$part}!
+popup-trauma-BoneDamage-Broken = Du hörst ein lautes Knacken in deinem Körperteil: {$part}!
+self-inspect-trauma-BoneDamage = schmerzt von innen
+self-inspect-trauma-BoneDamage-Large = fühlt sich ausgerenkt an
+inspect-trauma-BoneDamage = sieht ausgerenkt aus
 
-popup-trauma-OrganDamage-Damaged = Ihr {$part} Fühlt sich sehr falsch...
-popup-trauma-OrganDamage-Destroyed = Du fühlst einen sehr scharfen Schmerz in deinem {$part}!
-self-inspect-trauma-OrganDamage = Es fühlt sich jedes Mal komisch an, wenn du atmest.
+popup-trauma-OrganDamage-Damaged = Mit deinem Körperteil ({$part}) stimmt etwas ganz und gar nicht …
+popup-trauma-OrganDamage-Destroyed = Du spürst einen sehr stechenden Schmerz in deinem Körperteil: {$part}!
+self-inspect-trauma-OrganDamage = fühlt sich bei jedem Atemzug seltsam an.

@@ -12,6 +12,6 @@
 earlyleave-cryo-job-unknown = Unbekannt
 # {$entity} available for GENDER function purposes
 earlyleave-cryo-announcement = {$character} ({$job}) ist in die kryogene Lagerung eingetreten!
-earlyleave-cryo-sender = Bahnhof
+earlyleave-cryo-sender = Station
 
-cryostorage-paused-map-name = Speicherkarte des Kryosleers
+cryostorage-paused-map-name = Kryoschläfer-Körperlagerkarte

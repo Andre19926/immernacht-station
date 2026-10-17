@@ -29,66 +29,66 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 trait-blindness-name = Blindheit
-trait-blindness-desc = Sie sind rechtlich blind und können nicht klar vorbei ein paar Meter vor Ihnen sehen.
+trait-blindness-desc = Du bist im rechtlichen Sinne blind und siehst nur wenige Meter vor dir klar.
 
 trait-poor-vision-name = Kurzsichtig
-trait-poor-vision-desc = Ihre Augen sind nicht das, was sie waren, Sie haben Schwierigkeiten, Dinge zu sehen, die ohne eine Brille entfernt sind.
+trait-poor-vision-desc = Deine Augen sind nicht mehr, was sie waren: Ohne Korrekturbrille hast du Mühe, weit entfernte Dinge zu erkennen.
 
 trait-narcolepsy-name = Narkolepsie
-trait-narcolepsy-desc = Sie schlafen zufällig ein.
+trait-narcolepsy-desc = Du schläfst unvermittelt ein.
 
 trait-pacifist-name = Pazifist
 trait-pacifist-desc = Du kannst keine Lebewesen angreifen oder verletzen.
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} Augen sind glasig und unscharf. Es scheint nicht wie {SUBJECT($target)} Ich kann dich gut sehen, wenn überhaupt.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} Augen sind glasig und unscharf. Es scheint, als könne {SUBJECT($target)} dich nur schlecht oder gar nicht sehen.[/color]
 
-trait-lightweight-name = Leichter Betrunkener
-trait-lightweight-desc = Alkohol hat eine stärkere Wirkung auf Sie.
+trait-lightweight-name = Schwacher Trinker
+trait-lightweight-desc = Alkohol wirkt bei dir stärker.
 
-trait-monochromacy-name = Monochrom
-trait-monochromacy-desc = Sie sind völlig farbenblind, alles, was Sie wahrnehmen, reicht von Schwarzen bis Weißen.
+trait-monochromacy-name = Monochromasie (Totale Farbenblindheit)
+trait-monochromacy-desc = Du bist völlig farbenblind, alles, was du siehst, reicht von Schwarz bis Weiß.
 
-trait-muted-name = Mutiert
-trait-muted-desc = Sie können nicht sprechen.
+trait-muted-name = Stumm
+trait-muted-desc = Du kannst nicht sprechen.
 
-trait-paracusia-name = Paracusia
-trait-paracusia-desc = Sie hören Geräusche, die nicht wirklich da sind.
+trait-paracusia-name = Akustische Halluzinationen
+trait-paracusia-desc = Du hörst Geräusche, die gar nicht da sind.
 
-trait-unrevivable-name = nicht wiederbelebbar
-trait-unrevivable-desc = Sie können nicht durch Defibrillatoren wiederbelebt werden.
+trait-unrevivable-name = Nicht wiederbelebbar
+trait-unrevivable-desc = Du kannst nicht mit Defibrillatoren wiederbelebt werden.
 
-trait-pirate-accent-name = Piraterie Akzent
-trait-pirate-accent-desc = Du kannst nicht aufhören wie ein Pirat zu sprechen!
+trait-pirate-accent-name = Piratenakzent
+trait-pirate-accent-desc = Du kannst nicht aufhören, wie ein Pirat zu reden!
 
-trait-accentless-name = Akzentlos
-trait-accentless-desc = Sie haben nicht den Akzent, den Ihre Spezies normalerweise haben würde.
+trait-accentless-name = Akzentfrei
+trait-accentless-desc = Du hast nicht den Akzent, den deine Spezies normalerweise hätte.
 
-trait-frontal-lisp-name = Lisp frontal
-trait-frontal-lisp-desc = Du thpeakst mit einem Lithp.
+trait-frontal-lisp-name = Lispeln (vorn)
+trait-frontal-lisp-desc = Du thprichst mit einem Lithpeln.
 
-trait-socialanxiety-name = Stutter
-trait-socialanxiety-desc = Sie sprechen mit einem Stottern.
+trait-socialanxiety-name = Stottern
+trait-socialanxiety-desc = Du stotterst beim Sprechen.
 
-trait-southern-name = Südlicher Zug
-trait-southern-desc = Du hast eine andere Art zu sprechen.
+trait-southern-name = Südstaatenakzent
+trait-southern-desc = Du hast so ‚ne eigene Art zu schnacken.
 
 trait-snoring-name = Schnarchen
-trait-snoring-desc = Sie werden schnarchen, während Sie schlafen.
+trait-snoring-desc = Du schnarchst im Schlaf.
 
 trait-liar-name = Pathologischer Lügner
-trait-liar-desc = Du kannst dich kaum dazu bringen, die Wahrheit zu sagen. Manchmal lügt man sowieso.
+trait-liar-desc = Du bringst die Wahrheit kaum über die Lippen. Manchmal lügst du trotzdem.
 
-trait-cowboy-name = Cowboy Akzent
-trait-cowboy-desc = Sie sprechen mit einem ausgeprägten Cowboy-Akzent!
+trait-cowboy-name = Cowboy-Akzent
+trait-cowboy-desc = Du sprichst mit ausgeprägtem Cowboy-Akzent!
 
-trait-german-name = Deutscher Akzent
-trait-german-desc = Sie scheinen aus dem Weltraum Deutschland zu kommen.
+trait-german-name = Englischer Akzent
+trait-german-desc = Du scheinst aus dem Weltraum-England zu kommen.
 
 trait-italian-name = Italienischer Akzent
-trait-italian-desc = Mama mia! Sie scheinen im Weltraum Italien gelebt zu haben!
+trait-italian-desc = Mamma mia! Du scheinst im Weltraum-Italien gelebt zu haben!
 
 trait-french-name = Französischer Akzent
-trait-french-desc = Ihr Akzent scheint ein gewisses «je ne sais quoi» zu haben.
+trait-french-desc = Dein Akzent hat ein gewisses „je ne sais quoi“.
 
 trait-spanish-name = Spanischer Akzent
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
@@ -96,18 +96,18 @@ trait-spanish-desc = Hola señor, donde esta la biblioteca.
 trait-dementia-name = Demenz
 trait-dementia-desc = I-... äh, worum ging es hier nochmal? Oh, das stimmt! Du vergisst manchmal viel
 
-trait-painnumbness-name = Taube
-trait-painnumbness-desc = Es fehlt dir das Gefühl, Schmerz zu empfinden, dir nicht bewusst zu sein, wie verletzt du sein kannst.
+trait-painnumbness-name = Schmerzunempfindlich
+trait-painnumbness-desc = Du spürst keinen Schmerz und merkst deshalb nicht, wie schwer du verletzt bist.
 
 trait-hemophilia-name = Hämophilie
-trait-hemophilia-desc = Ihr Körper macht keine Blutgerinnsel.
+trait-hemophilia-desc = Dein Körper bildet keine Blutgerinnsel.
 
-trait-impaired-mobility-name = Beeinträchtigte Mobilität
-trait-impaired-mobility-desc = Sie haben Schwierigkeiten, sich ohne Mobilitätshilfe zu bewegen.
+trait-impaired-mobility-name = Eingeschränkte Mobilität
+trait-impaired-mobility-desc = Du hast ohne Gehhilfe Schwierigkeiten, dich fortzubewegen.
 
 # Goobstation?
-trait-newyork-name = New York Akzent
-trait-newyork-desc = Sie sprechen mit einem dicken New Yorker Akzent. I'm fuckin' walkin' ere!
+trait-newyork-name = New-York-Akzent
+trait-newyork-desc = Du sprichst mit breitem New-Yorker Akzent. I'm fuckin' walkin' 'ere!
 
 trait-british-name = Britischer Akzent
-trait-british-desc = Du sprichst richtig, im Gegensatz zu diesen blutigen Yangs.
+trait-british-desc = Du sprichst richtig, anders als diese verdammten Amis.

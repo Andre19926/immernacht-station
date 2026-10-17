@@ -13,7 +13,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 tool-quality-anchoring-name = Verankerung
-tool-quality-anchoring-tool-name = s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s m
+tool-quality-anchoring-tool-name = Schraubenschlüssel
 
 tool-quality-prying-name = Prying
 tool-quality-prying-tool-name = Brechstange
@@ -25,7 +25,7 @@ tool-quality-cutting-name = Schneiden
 tool-quality-cutting-tool-name = Drahtabnehmer
 
 tool-quality-welding-name = Schweißen
-tool-quality-welding-tool-name = skapazitätenwie ähnlich Kol definiert versetzenredeschüttfuhr
+tool-quality-welding-tool-name = Schweißgerät
 
 tool-quality-pulsing-name = Pulsung
 tool-quality-pulsing-tool-name = Multitool
@@ -34,7 +34,7 @@ tool-quality-slicing-name = Schneiden
 tool-quality-slicing-tool-name = Messer
 
 tool-quality-ignition-name = Zündung
-tool-quality-ignition-tool-name = hörennendefügt auszu Zwischen ausendeender jenerfügtrechnen partner vorhandene wenigessssssssssssssssssssssssssssssssssssssssss::sssssss::sssss::ss::sssss:ss:ss:s:ss:s:s:s:s:s:ss:s:ssssss::s:s::s:ss:s:s:s::s:s:s:s:s:s: Pfad::s:s::s:s::s::s:s:s::s:::s::s:s:s:::::s::::::s:s:s:s:s:s:s:s:s:s::s:s:s:::s:s:s::::::::::::s:::::::s:::s::
+tool-quality-ignition-tool-name = Streichholz
 
 tool-quality-sawing-name = Sägen
 tool-quality-sawing-tool-name = Säge

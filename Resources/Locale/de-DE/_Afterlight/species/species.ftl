@@ -1,1 +1,1 @@
-species-name-synth = Synthion
+species-name-synth = Synth

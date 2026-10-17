@@ -12,7 +12,7 @@
 machine-insert-item = {CAPITALIZE(THE($user))} eingelegt {THE($item)} in {THE($machine)}.
 
 machine-upgrade-examinable-verb-text = Upgrades
-machine-upgrade-examinable-verb-message = Untersuchen Sie die Maschinen-Upgrades.
+machine-upgrade-examinable-verb-message = Zeigt die Maschinen-Upgrades an.
 machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht durch {$percent}%.
 machine-upgrade-decreased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] vermindert um {$percent}%.
 machine-upgrade-increased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht durch {$difference}.
@@ -20,12 +20,12 @@ machine-upgrade-decreased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/col
 machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] nicht aktualisiert.
 
 machine-part-name-capacitor = Kondensator
-machine-part-name-manipulator = Handhabungsgerät
-machine-part-name-matter-bin = Materie Bin
+machine-part-name-manipulator = Manipulator
+machine-part-name-matter-bin = Materialbehälter
 machine-part-name-power-cell = Power Cell
 
-two-way-lever-left = Schub nach links
-two-way-lever-right = nach rechts drücken
+two-way-lever-left = nach links schieben
+two-way-lever-right = nach rechts schieben
 two-way-lever-cant = kann den Hebel nicht so drücken!
 
 recycler-count-items = Recycelt {$items} Gegenstände.

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-throw-scoreboard-command-description = Rundendanzeiger für alle Spieler anzeigen, aber die Runde nicht beenden
-throw-scoreboard-command-help-text = Verwendung: Anzeiger
+throw-scoreboard-command-description = Zeigt allen Spielern die Rundenanzeige am Rundenende, ohne die Runde zu beenden
+throw-scoreboard-command-help-text = Verwendung: throwscoreboard

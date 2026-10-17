@@ -18,7 +18,7 @@ suspicion-objective = Ziel: {$objectiveText}
 
 # Shown when greeted with the Suspicion role
 suspicion-partners-in-crime = {$partnersCount ->
-    [zero] Du bist alleine. Viel Glück!
-    [one] Ihr Partner in der Kriminalität ist {$partnerNames}.
-    *[other] Ihre Partner in der Kriminalität sind {$partnerNames}.
+    [zero] Du bist auf dich allein gestellt. Viel Glück!
+    [one] Dein Komplize ist {$partnerNames}.
+    *[other] Deine Komplizen sind {$partnerNames}.
     }

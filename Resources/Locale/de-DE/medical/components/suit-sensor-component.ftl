@@ -7,9 +7,9 @@
 
 ## Modes
 
-suit-sensor-mode-off = Ausgeschaltet
+suit-sensor-mode-off = Aus
 suit-sensor-mode-binary = Binär
-suit-sensor-mode-vitals = Vitalien
+suit-sensor-mode-vitals = Vitalwerte
 suit-sensor-mode-cords = Koordinaten
 
 ## Popups
@@ -18,11 +18,11 @@ suit-sensor-mode-state = Anzugsensoren: {$mode}
 ## Components
 
 suit-sensor-component-unknown-name = Unbekannt
-suit-sensor-component-unknown-job = Keine Arbeit
+suit-sensor-component-unknown-job = Kein Job
 
 ## Examine
 
-suit-sensor-examine-off = Seine Sensoren scheinen [color=darkred]Behinderte[/color].
-suit-sensor-examine-binary = Seine binären Lebenssensoren scheinen aktiviert zu sein.
-suit-sensor-examine-vitals = Sein vitaler Tracker scheint aktiviert zu sein.
-suit-sensor-examine-cords = Der wichtige Tracker und das Tracking-Beacon scheinen aktiviert zu sein.
+suit-sensor-examine-off = Die Sensoren scheinen [color=darkred]deaktiviert[/color].
+suit-sensor-examine-binary = Der Lebenssensor scheint aktiviert zu sein.
+suit-sensor-examine-vitals = Der Vitalwertsensor scheint aktiviert zu sein.
+suit-sensor-examine-cords = Vitalwert- und Ortungssensor scheinen aktiviert zu sein.

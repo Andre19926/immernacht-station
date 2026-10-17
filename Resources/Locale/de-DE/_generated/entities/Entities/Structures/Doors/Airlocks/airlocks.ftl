@@ -34,7 +34,7 @@ ent-AirlockCommand = Luftschleuse
 ent-AirlockSecurity = Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockMaint = Instandhaltungszugang
+ent-AirlockMaint = Wartungszugang
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockSyndicate = Luftschleuse

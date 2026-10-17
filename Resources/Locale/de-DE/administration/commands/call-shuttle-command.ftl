@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 cmd-callshuttle-desc = Ruft das Notfall-Shuttle mit einer optional angegebenen Ankunftszeit an.
-cmd-callshuttle-help = Nutzung: callhuttle [m:ss]
+cmd-callshuttle-help = Verwendung: callshuttle [m:ss]
 cmd-recallshuttle-desc = Erinnert sich an das Notfall-Shuttle.
 cmd-recallshuttle-help = Verwendung: recallshuttle

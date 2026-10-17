@@ -1,5 +1,5 @@
-armor-coverage-value = Diese Rüstung schützt deine [color=yellow]{ $type }[/color].
-armor-coverage-type-arm = Waffen
+armor-coverage-value = - Diese Rüstung schützt: [color=yellow]{ $type }[/color].
+armor-coverage-type-arm = Arme
 armor-coverage-type-hand = Hände
 armor-coverage-type-foot = Füße
 armor-coverage-type-leg = Beine

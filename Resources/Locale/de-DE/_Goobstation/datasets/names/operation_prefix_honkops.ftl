@@ -1,4 +1,4 @@
-operation-prefix-honkops-dataset-1 = Honche
+operation-prefix-honkops-dataset-1 = Hup
 operation-prefix-honkops-dataset-2 = Bonk
 operation-prefix-honkops-dataset-3 = Clown
 operation-prefix-honkops-dataset-4 = Tötung

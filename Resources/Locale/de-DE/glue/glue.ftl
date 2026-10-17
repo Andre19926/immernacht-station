@@ -11,6 +11,6 @@
 glue-success = { CAPITALIZE(THE($target))} wurde mit Kleber bedeckt!
 glued-name-prefix = geklebt {$baseName}
 glue-failure = Can't cover {THE($target)} in Leim!
-glue-verb-text = Aufbringen von Kleber
-glue-verb-message = Ein Objekt verkleben
+glue-verb-text = Kleber auftragen
+glue-verb-message = Objekt verkleben
 

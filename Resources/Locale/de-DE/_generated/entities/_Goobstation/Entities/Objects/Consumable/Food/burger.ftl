@@ -1,13 +1,13 @@
 ent-FoodBurgerChud = Nichts Burger
     .desc = Ein Burger, wenn nichts passiert.
 
-ent-FoodBurgerleopard = Mothroachburger
+ent-FoodBurgerleopard = Mottenschabenburger
     .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.
 
-ent-FoodBurgerlunar = Mothroachburger
+ent-FoodBurgerlunar = Mottenschabenburger
     .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.
 
-ent-FoodBurgerCecropia = Mothroachburger
+ent-FoodBurgerCecropia = Mottenschabenburger
     .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.
 
 ent-FoodBurgerCold = Fünf unter Burger

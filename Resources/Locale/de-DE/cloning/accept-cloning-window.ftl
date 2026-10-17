@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 accept-cloning-window-title = Klonmaschine
-accept-cloning-window-prompt-text-part = Sie werden geklont!
-                                         Übertragen Sie Ihre Seele auf den Klonkörper?
+accept-cloning-window-prompt-text-part = Du wirst geklont!
+                                                Möchtest du deine Seele in den Klonkörper übertragen?
 accept-cloning-window-accept-button = Ja
-accept-cloning-window-deny-button = No
+accept-cloning-window-deny-button = Nein

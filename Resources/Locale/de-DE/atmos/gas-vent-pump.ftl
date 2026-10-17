@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-gas-vent-pump-uvlo = Es ist in [color=red]Unterdrucksperre[/color].
-gas-vent-pump-release-lockout = Lösedrucksperre
+gas-vent-pump-uvlo = Es befindet sich in der [color=red]Unterdrucksperre[/color].
+gas-vent-pump-release-lockout = Ablassdruck sperren

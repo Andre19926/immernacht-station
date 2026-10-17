@@ -6,7 +6,7 @@
 
 # Blocking examines
 blocking-examinable-verb-text = Schutz
-blocking-examinable-verb-message = Untersuchen Sie die Schutzwerte.
+blocking-examinable-verb-message = Zeigt die Schutzwerte an.
 blocking-fraction = Es Blöcke [color=lightblue]{$value}%[/color] von ankommenden Schäden und
 blocking-coefficient-value = - Es braucht [color=lightblue]{$value}%[/color] von [color=yellow]{$type}[/color] Schäden.
 blocking-reduction-value = - Es braucht [color=lightblue]{$value}[/color] weniger [color=yellow]{$type}[/color] Schäden.

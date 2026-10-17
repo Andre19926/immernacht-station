@@ -12,7 +12,7 @@
 
 ## Entity
 
-gas-analyzer-object-out-of-range = Das Objekt ging aus der Reichweite.
+gas-analyzer-object-out-of-range = Das Objekt ist außer Reichweite.
 gas-analyzer-shutoff = Der Gasanalysator schaltet sich ab.
 
 ## UI
@@ -20,7 +20,7 @@ gas-analyzer-shutoff = Der Gasanalysator schaltet sich ab.
 gas-analyzer-window-name = Gasanalysator
 gas-analyzer-window-environment-tab-label = Umwelt
 gas-analyzer-window-tab-title-capitalized = {CAPITALIZE($title)}
-gas-analyzer-window-refresh-button = Erfrischend
+gas-analyzer-window-refresh-button = Aktualisieren
 gas-analyzer-window-no-data = Keine Daten
 gas-analyzer-window-no-gas-text = Keine Gase
 gas-analyzer-window-error-text = Fehler: {$errorText}
@@ -35,12 +35,12 @@ gas-analyzer-window-molarity-column-name = Mol
 gas-analyzer-window-percentage-column-name = %
 gas-analyzer-window-molarity-text = {$mol}
 gas-analyzer-window-percentage-text = {$percentage}
-gas-analyzer-window-molarity-percentage-text = {$gasName}: {$amount} Mol{$percentage}%)
+gas-analyzer-window-molarity-percentage-text = {$gasName}: {$amount} mol ({$percentage} %)
 
 # Used for GasEntry.ToString()
 gas-entry-info = {$gasName}: {$gasAmount} Mol
 
 # overrides for trinary devices to have saner names
 gas-analyzer-window-text-inlet = Einlass
-gas-analyzer-window-text-outlet = Auslauf
+gas-analyzer-window-text-outlet = Auslass
 gas-analyzer-window-text-filter = Filter

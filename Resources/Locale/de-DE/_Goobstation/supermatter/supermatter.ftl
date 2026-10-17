@@ -43,4 +43,4 @@ supermatter-tamper-end =
 
 supermatter-announcement-cc-tamper =
     Unser automatisches Unfallsystem hat erkannt, dass die strukturelle Integrität des Supermatterkristalls durch eine äußere Kraft beeinträchtigt wurde.
-    Engineering-Abteilung, berichten Sie sofort an die Supermatter-Engine.
+    Engineering-Abteilung, berichte sofort an die Supermatter-Engine.

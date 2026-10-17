@@ -10,7 +10,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-food-sequence-no-space = Sie können nicht mehr setzen!
+food-sequence-no-space = Es passt nichts mehr drauf!
 
 # GENERAL
 
@@ -122,7 +122,7 @@ food-sequence-burger-content-soy = Sojabohne
 food-sequence-burger-content-koibean = Koi
 food-sequence-burger-content-watermelon = Wasser
 food-sequence-burger-content-holymelon = heilig
-food-sequence-burger-content-cannabis = Lustig
+food-sequence-burger-content-cannabis = komisch
 food-sequence-burger-content-rainbow-cannabis = FONNIEN
 food-sequence-burger-content-tobacco = Tobaco
 food-sequence-burger-content-suppermatter = Abendessen

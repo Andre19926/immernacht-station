@@ -8,10 +8,10 @@ ent-ClothingOuterHardsuitBlueshieldLight = "Prätorianer" Escort Hardsuit
     .desc = Ein Hardsuit für einen Elite-Bodyguard. Dieser spezielle ist aus einem leichteren Metall gefertigt, was eine höhere Manövrierfähigkeit ermöglicht.
 
 ent-ClothingOuterHardsuitCybersunStealth = Cybersun Stealth Hardsuit
-    .desc = Ein Hardsuit mit photoreaktiver Beschichtung für hinterhältige Operationen, die Abschirmung funktioniert nicht, während Sie sich bewegen! Benötigt den Helm, um das Stealth-Feld zu beenden.
+    .desc = Ein Hardsuit mit photoreaktiver Beschichtung für hinterhältige Operationen, die Abschirmung funktioniert nicht, während du dich bewegst! Benötigt den Helm, um das Stealth-Feld zu beenden.
 
 ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun Dreadnought Anzug
-    .desc = Das Syndicate legt seine Herrlichkeit auf eure Schultern, enttäuscht nicht.
+    .desc = Das Syndicate legt seine Herrlichkeit auf deine Schultern, enttäusche es nicht.
 
 ent-ClothingOuterVoidsuitSecurity = Sicherheit Hardsuit
     .desc = Ein leichter Hardsuit mit eingebautem Plattenträger, um einen moderaten Schutz zu bieten und dabei mobil zu bleiben.
@@ -20,7 +20,7 @@ ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 "Honor Guard" Parade
     .desc = Ein spezieller Hardsuit, der vor gefährlichen Umgebungen mit niedrigem Druck schützt. Hat ein experimentelles eingebautes stimulierendes Autoinjektorsystem.
 
 ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Mirrorduss
-    .desc = Ein grober dunkler Exosuit aus verstärkter Beschichtung, geätzt mit schwach leuchtenden Bluespace-Schaltungen. Sie können jemandem sagen, der versucht hat, einen Teil des Textes zu kratzen - Prototyp Nr. 2
+    .desc = Ein grober dunkler Exosuit aus verstärkter Beschichtung, geätzt mit schwach leuchtenden Bluespace-Schaltungen. Du kannst jemandem sagen, der versucht hat, einen Teil des Textes zu kratzen - Prototyp Nr. 2
 
 ent-ClothingSingulothArmor = Singuloth Ritterrüstung
     .desc = Eine zeremonielle Rüstung aus dem Kapitel der Singuloth Knights, Es ist aus rein geschmiedetem Adamantium gemacht.

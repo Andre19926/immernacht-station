@@ -16,7 +16,7 @@ ent-CrateMedicalSurgery = chirurgische Versorgung Kiste
 ent-CrateMedicalScrubs = Medizinische Peelings Kiste
     .desc = Medizinische Kleidung.
 
-ent-CrateEmergencyBurnKit = Notbrand-Kit
+ent-CrateEmergencyBurnKit = Notfall-Brandwunden-Kit
     .desc = Kiste mit einem Burn Treatment Kit gefüllt.
 
 ent-CrateEmergencyToxinKit = Notfalltoxin-Kit
@@ -25,7 +25,7 @@ ent-CrateEmergencyToxinKit = Notfalltoxin-Kit
 ent-CrateEmergencyO2Kit = Notfall-O2-Kit
     .desc = Kiste mit einem O2-Behandlungskit gefüllt.
 
-ent-CrateEmergencyBruteKit = Emergency Brute Kit
+ent-CrateEmergencyBruteKit = Notfall-Medkit gegen physische Schäden
     .desc = Kiste gefüllt mit einem rohen Behandlungssatz.
 
 ent-CrateEmergencyAdvancedKit = Notfall-Advanced-Kit
@@ -38,4 +38,4 @@ ent-CrateBodyBags = Leichenbeutel Kiste
     .desc = Enthält zehn Leichenbeutel.
 
 ent-CrateVirologyBiosuit = virologischer Bioanzug
-    .desc = Enthält 2 Biohazard-Anzüge, um sicherzustellen, dass keine Krankheit Sie von der Behandlung der Crew ablenkt. Erfordert medizinischen Zugang zu öffnen.
+    .desc = Enthält 2 Biohazard-Anzüge, um sicherzustellen, dass keine Krankheit dich von der Behandlung der Crew ablenkt. Erfordert medizinischen Zugang zu öffnen.

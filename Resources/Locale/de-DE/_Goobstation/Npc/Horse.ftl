@@ -1,3 +1,3 @@
 
 petting-success-horse = Die Kreatur ist zufrieden.
-petting-failure-horse = Sie vermeiden es knapp, Ihre Hand abzunehmen!
+petting-failure-horse = Du vermeidest es knapp, deine Hand abzunehmen!

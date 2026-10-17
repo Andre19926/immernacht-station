@@ -17,4 +17,4 @@ ent-DoubleEmergencyPlasmaTankFilled = Plasmaeinbaubehälter
     .desc = Ein Plasmatank, der als Inneres für Plasmamen entworfen wurde.
 
 ent-PlasmaTankFilledInternals = Plasmatank
-    .desc = Enthält gefährliches Plasma. Inhalieren Sie nicht, es sei denn, Sie sind ein Plasmamann. Extrem entzündlich. Es kann 5 l Gas aufnehmen.
+    .desc = Enthält gefährliches Plasma. Inhaliere nicht, es sei denn, du bist ein Plasmamann. Extrem entzündlich. Es kann 5 l Gas aufnehmen.

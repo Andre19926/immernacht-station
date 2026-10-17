@@ -1,4 +1,4 @@
-ent-PelletShotgunSlug = Pellet (.50 Schnecken)
+ent-PelletShotgunSlug = Pellet (.50 Slug)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-PelletShotgunBeanbag = Sitzsack (.50)

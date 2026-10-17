@@ -22,7 +22,7 @@ ent-SurgeryInsertEggSack = Transplantation Eiersack
 
 ent-SurgeryRemoveHiveNode = Transplantierte Hive Node entfernen
 
-ent-SurgeryRemoveResinSpinner = Entfernen Sie transplantierten Harz Spinner
+ent-SurgeryRemoveResinSpinner = Entferne transplantierten Harz Spinner
 
 ent-SurgeryRemoveNeurotoxinGland = Transplantierte Neurotoxindrüse entfernen
 

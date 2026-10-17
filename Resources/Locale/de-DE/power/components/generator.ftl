@@ -10,41 +10,41 @@
 
 generator-clogged = {CAPITALIZE(THE($generator))} schaltet abrupt ab!
 
-portable-generator-verb-start = Startgenerator
+portable-generator-verb-start = Generator starten
 portable-generator-verb-start-msg-unreliable = Starte den Generator. Dies kann einige Versuche erfordern.
 portable-generator-verb-start-msg-reliable = Starte den Generator.
 portable-generator-verb-start-msg-unanchored = Der Generator muss zuerst verankert werden!
-portable-generator-verb-stop = Stoppgenerator
-portable-generator-start-fail = Sie ziehen das Kabel, aber es hat nicht angefangen.
-portable-generator-start-success = Sie ziehen die Schnur, und es wirbelt zum Leben.
+portable-generator-verb-stop = Generator stoppen
+portable-generator-start-fail = Du ziehst an der Schnur, aber er springt nicht an.
+portable-generator-start-success = Du ziehst an der Schnur, und er surrt los.
 
 portable-generator-ui-title = Tragbarer Generator
-portable-generator-ui-status-stopped = Angehalten:
-portable-generator-ui-status-starting = Beginn:
-portable-generator-ui-status-running = Laufen:
-portable-generator-ui-start = Beginn
+portable-generator-ui-status-stopped = Gestoppt:
+portable-generator-ui-status-starting = Startet:
+portable-generator-ui-status-running = Läuft:
+portable-generator-ui-start = Start
 portable-generator-ui-stop = Stopp
 portable-generator-ui-target-power-label = Zielleistung (kW):
 portable-generator-ui-efficiency-label = Effizienz:
-portable-generator-ui-fuel-use-label = Kraftstoffverbrauch:
-portable-generator-ui-fuel-left-label = Kraftstoff nach links:
-portable-generator-ui-clogged = Schadstoffe im Kraftstofftank nachgewiesen!
-portable-generator-ui-eject = Auswurf
-portable-generator-ui-eta = (~{ $minutes } min.
-portable-generator-ui-unanchored = nicht verankert
-portable-generator-ui-current-output = Stromverbrauch: {$voltage}
-portable-generator-ui-network-stats = Netz:
+portable-generator-ui-fuel-use-label = Treibstoffverbrauch:
+portable-generator-ui-fuel-left-label = Treibstoff übrig:
+portable-generator-ui-clogged = Verunreinigungen im Treibstofftank erkannt!
+portable-generator-ui-eject = Auswerfen
+portable-generator-ui-eta = (~{ $minutes } min)
+portable-generator-ui-unanchored = Nicht verankert
+portable-generator-ui-current-output = Aktuelle Ausgangsspannung: {$voltage}
+portable-generator-ui-network-stats = Stromnetz:
 portable-generator-ui-network-stats-value = { POWERWATTS($supply) } / { POWERWATTS($load) }
-portable-generator-ui-network-stats-not-connected = nicht verbunden
+portable-generator-ui-network-stats-not-connected = Nicht verbunden
 
-power-switchable-generator-examine = Die Leistung ist auf {$voltage}.
-power-switchable-generator-switched = Geschaltener Ausgang {$voltage}!
+power-switchable-generator-examine = Der Ausgang ist auf {$voltage} eingestellt.
+power-switchable-generator-switched = Ausgang auf {$voltage} umgeschaltet!
 
 power-switchable-voltage = { $voltage ->
     [HV] [color=orange]HV[/color]
     [MV] [color=yellow]MV[/color]
     *[LV] [color=green]LV[/color]
 }
-power-switchable-switch-voltage = Wechsel zu {$voltage}
+power-switchable-switch-voltage = Auf {$voltage} umschalten
 
-fuel-generator-verb-disable-on = Schalten Sie zuerst den Generator aus!
+fuel-generator-verb-disable-on = Schalte zuerst den Generator aus!

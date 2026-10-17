@@ -30,7 +30,7 @@ comp-stack-already-full = Stack ist schon voll.
 comp-stack-becomes-full = Stack ist jetzt voll.
 
 # Text related to splitting a stack
-comp-stack-split = Sie teilen den Stapel.
+comp-stack-split = Du teilst den Stapel.
 # Goobstation - Custom stack splitting dialog
 comp-stack-split-custom = Teilbetrag ...
 comp-stack-split-halve = Halbe
@@ -40,5 +40,5 @@ comp-stack-split-too-small = Stack ist zu klein zum Splitten.
 comp-stack-split-size = Max: {$size}
 
 ui-custom-stack-split-title = Geteilter Betrag
-ui-custom-stack-split-line-edit-placeholder = Betrag
+ui-custom-stack-split-line-edit-placeholder = Menge
 ui-custom-stack-split-apply = Splitter

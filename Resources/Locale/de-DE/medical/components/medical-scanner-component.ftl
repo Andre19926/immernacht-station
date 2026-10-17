@@ -12,5 +12,5 @@
 
 ## EnterVerb
 
-medical-scanner-verb-enter = Eingang
-medical-scanner-verb-noun-occupant = Besatzer
+medical-scanner-verb-enter = Betreten
+medical-scanner-verb-noun-occupant = Insasse

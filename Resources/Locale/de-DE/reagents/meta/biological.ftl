@@ -24,7 +24,7 @@ reagent-name-insect-blood = Insektenblut
 reagent-desc-insect-blood = Okay, das ist wirklich grob. Sieht fast ... lebendig aus?
 
 reagent-name-slime = Schleim
-reagent-desc-slime = Sie dachten, dies sei gradient blut auf den ersten, aber Sie waren falsch.
+reagent-desc-slime = Du dachtest zuerst, das wäre Blut mit Farbverlauf – ein Irrtum.
 
 reagent-name-sap = Saft
 reagent-desc-sap = Klebriges, süßes Baumblut.
@@ -38,14 +38,14 @@ reagent-desc-ammonia-blood = Nichts anderes in der gesamten Galaxie riecht so en
 reagent-name-zombie-blood = Zombieblut
 reagent-desc-zombie-blood = Ich würde nicht raten zu essen. Kann verwendet werden, um eine Impfung gegen die Infektion zu schaffen.
 
-reagent-name-ichor = Illor
+reagent-name-ichor = Ichor
 reagent-desc-ichor = Eine extrem starke regenerative Chemikalie, perfektioniert durch die Entwicklung der Weltraumfauna. Produziert im Verdauungssystem des Drachen, wird es aufgrund der gigantischen Bemühungen, nach ihm zu jagen, als exotische Ware angesehen.
 
 reagent-name-fat = Fett
 reagent-desc-fat = Egal wie es erhalten wurde, seine Anwendung ist wichtig.
 
-reagent-name-vomit = Erbrechen
-reagent-desc-vomit = Sie können ein paar Stücke von jemandes letzter Mahlzeit darin sehen.
+reagent-name-vomit = Erbrochenes
+reagent-desc-vomit = Du erkennst ein paar Brocken der letzten Mahlzeit von jemandem darin.
 
 reagent-name-grey-matter = graue Substanz
 reagent-desc-grey-matter = Gedankensaft, das Zeug, das aus deinen Ohren austritt.

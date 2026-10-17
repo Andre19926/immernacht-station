@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-restricted-melee-component-attack-fail-too-large = Sie können nicht ganz in den Griff bekommen { CAPITALIZE(THE($item))}Es war scheinbar für eine andere Spezies konzipiert.
+restricted-melee-component-attack-fail-too-large = Du bekommst { CAPITALIZE(THE($item))} nicht richtig zu fassen, sie wurde offenbar für eine andere Spezies entworfen.

@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cpr-start-second-person = Sie beginnen CPR auf {CAPITALIZE($target)}.
-cpr-start-second-person-patient = {CAPITALIZE(THE($user))} Beginnt CPR auf Sie durchzuführen.
-cpr-must-remove = Sie müssen entfernen {THE($clothing)} vom Patienten.
-cpr-must-remove-own-mask = Sie müssen Ihre {THE($clothing)}.
-cpr-target-rotting = {CAPITALIZE($entity)} ist zu weit weg...
-cpr-target-cantbreathe = {CAPITALIZE($entity)} Oder du bist unfähig zu atmen.
-cpr-verb = Durchführung von CPR
+cpr-start-second-person = Du beginnst mit der Herz-Lungen-Wiederbelebung bei {CAPITALIZE($target)}.
+cpr-start-second-person-patient = {CAPITALIZE(THE($user))} beginnt, dich wiederzubeleben.
+cpr-must-remove = Du musst zuerst {THE($clothing)} des Patienten entfernen.
+cpr-must-remove-own-mask = Du musst zuerst deine eigene {THE($clothing)} abnehmen.
+cpr-target-rotting = {CAPITALIZE($entity)} ist nicht mehr zu retten …
+cpr-target-cantbreathe = {CAPITALIZE($entity)} oder du seid nicht in der Lage zu atmen.
+cpr-verb = CPR durchführen

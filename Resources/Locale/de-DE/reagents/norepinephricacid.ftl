@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-norepinephricacid-effect-eyelids = Ihre Augenlider zucken schnell.
+norepinephricacid-effect-eyelids = Deine Augenlider zucken schnell.
 norepinephricacid-effect-eyes-itch = Deine Augen fühlen sich juckend.
 norepinephricacid-effect-vision-fade = Du fühlst deine Vision verblassen.
 norepinephricacid-effect-vision-fail = Du kannst spüren, wie deine Vision dich im Stich lässt.

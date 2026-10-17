@@ -13,7 +13,7 @@
 
 ## ExamineSystem
 
-examine-system-entity-does-not-exist = Diese Entity existiert nicht
+examine-system-entity-does-not-exist = Diese Entität existiert nicht
 
 examine-system-cant-see-entity = Du kannst nicht erkennen, was das ist.
 

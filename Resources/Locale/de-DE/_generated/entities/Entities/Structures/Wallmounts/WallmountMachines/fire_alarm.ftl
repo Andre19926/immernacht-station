@@ -1,7 +1,7 @@
 ent-FireAlarm = Brandmelder
     .desc = Ein Feueralarm. Spicy!
 
-ent-FireAlarmAssembly = Brandmelderanordnung
+ent-FireAlarmAssembly = Feueralarm-Bausatz
     .desc = Eine Feueralarmanordnung. Sehr mild.
 
 ent-FireAlarmXeno = Brandmelder

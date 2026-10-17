@@ -19,39 +19,39 @@
 cmd-delayroundend-desc = Stoppt den Timer, der die Runde beendet, wenn das Notfall-Shuttle den Hyperraum verlässt.
 cmd-delayroundend-help = Nutzung: delayroundend
 emergency-shuttle-command-round-yes = Runde verzögert.
-emergency-shuttle-command-round-no = Das runde Ende kann nicht verzögert werden.
+emergency-shuttle-command-round-no = Das Rundenende kann nicht verzögert werden.
 
 ## Dock emergency shuttle
-cmd-dockemergencyshuttle-desc = Ruft das Notfall-Shuttle an und andockt es an die Station ... wenn es kann.
+cmd-dockemergencyshuttle-desc = Ruft das Notfall-Shuttle und dockt es an die Station an ... wenn möglich.
 cmd-dockemergencyshuttle-help = Nutzung: dockemergencyshuttle
 
 ## Launch emergency shuttle
-cmd-launchemergencyshuttle-desc = Startet das Notfall-Shuttle, wenn möglich.
+cmd-launchemergencyshuttle-desc = Startet das Notfall-Shuttle vorzeitig, wenn möglich.
 cmd-launchemergencyshuttle-help = Nutzung: launchemergencyshuttle
 
 # Emergency shuttle
-emergency-shuttle-left = Das Emergency Shuttle hat die Station verlassen. Schätzung {$transitTime} Sekunden, bis der Shuttle bei CentComm ankommt.
+emergency-shuttle-left = Das Notfall-Shuttle hat die Station verlassen. Voraussichtlich erreicht es CentComm in {$transitTime} Sekunden.
 emergency-shuttle-launch-time = Das Notfall-Shuttle startet in {$consoleAccumulator} Sekunden.
-emergency-shuttle-docked = Das Emergency Shuttle hat angedockt {$direction} des Bahnhofs, {$location}Es wird in {$time} Sekunden.{$extended}
-emergency-shuttle-good-luck = Das Emergency Shuttle kann keine Station finden. Viel Glück.
-emergency-shuttle-nearby = Das Emergency Shuttle kann keinen gültigen Docking-Port finden. Es hat sich in {$direction} des Bahnhofs, {$location}Es wird in {$time} Sekunden.{$extended}
+emergency-shuttle-docked = Das Notfall-Shuttle hat {$direction} der Station angedockt, {$location}. Es startet in {$time} Sekunden.{$extended}
+emergency-shuttle-good-luck = Das Notfall-Shuttle findet keine Station. Viel Glück.
+emergency-shuttle-nearby = Das Notfall-Shuttle findet keinen gültigen Andockpunkt. Es ist {$direction} der Station aufgetaucht, {$location}. Es startet in {$time} Sekunden.{$extended}
 emergency-shuttle-extended = {" "}Die Startzeit wurde aufgrund unbequemer Umstände verlängert.
 
 # Emergency shuttle console popup / announcement
-emergency-shuttle-console-no-early-launches = Early Launch ist deaktiviert
-emergency-shuttle-console-auth-left = {$remaining} Genehmigungen erforderlich, bis das Shuttle frühzeitig gestartet wird.
-emergency-shuttle-console-auth-revoked = vorzeitige Startgenehmigung widerrufen, {$remaining} Genehmigungen erforderlich.
+emergency-shuttle-console-no-early-launches = Früher Start ist deaktiviert
+emergency-shuttle-console-auth-left = Noch {$remaining} Freigaben nötig, bis das Shuttle früh startet.
+emergency-shuttle-console-auth-revoked = Freigabe für den frühen Start widerrufen, noch {$remaining} Freigaben nötig.
 emergency-shuttle-console-denied = Zugang verweigert
 
 # UI
-emergency-shuttle-console-window-title = Emergency Shuttle Konsole
-emergency-shuttle-ui-engines = VORSCHRIFTEN
-emergency-shuttle-ui-idle = Idle
-emergency-shuttle-ui-repeal-all = Aufhebung aller
-emergency-shuttle-ui-early-authorize = Early Launch Authorization
-emergency-shuttle-ui-authorize = BEHÖRDE
-emergency-shuttle-ui-repeal = AUFHEBUNG
-emergency-shuttle-ui-authorizations = Genehmigungen
+emergency-shuttle-console-window-title = Notfall-Shuttle-Konsole
+emergency-shuttle-ui-engines = TRIEBWERKE:
+emergency-shuttle-ui-idle = Leerlauf
+emergency-shuttle-ui-repeal-all = Alle widerrufen
+emergency-shuttle-ui-early-authorize = Freigabe für frühen Start
+emergency-shuttle-ui-authorize = FREIGEBEN
+emergency-shuttle-ui-repeal = WIDERRUFEN
+emergency-shuttle-ui-authorizations = Freigaben
 emergency-shuttle-ui-remaining = Verbleibend: {$remaining}
 
 # Map Misc.

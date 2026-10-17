@@ -35,15 +35,15 @@ ent-BulletLaserSpreadHeavy = Schwere Lasersperre
 
 ent-StunPulse = Betäubungsimpuls
 
-ent-BulletTemperatureCold = Kalttemperaturschraube
+ent-BulletTemperatureCold = Kältegeschoss
 
 ent-BulletTemperatureHot = Heißtemperaturbolzen
     .desc = Brennen!
 
-ent-BulletEnergyGunDisabler = Sperrbolzen
+ent-BulletEnergyGunDisabler = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletSyndicateDisabler = Sperrbolzen
+ent-BulletSyndicateDisabler = Neutralisierer-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BulletGrenadeTeargas = Tränengasgranaten

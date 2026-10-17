@@ -1,7 +1,7 @@
 automation-filter-examine-empty = [color=red]Dieser Filter ist noch nicht konfiguriert.[/color]
 automation-filter-examine-string = Dieser Filter ist auf '{$name}'
 stack-filter-examine = Dieser Filter ist auf ein Minimum von [color=green]{$size}[/color] Gegenstände in einem Stapel.
-combined-filter-examine = Dieser Filter ist auf {INDEFINITE($gate)} [color=green]{$gate}[/color] Vergleich mit seinen Inputs.
+combined-filter-examine = Dieser Filter vergleicht seine Eingänge per [color=green]{$gate}[/color].
 pressure-filter-examine = Dieser Filter ist auf zwischen [color=green]{$min}[/color] kPa und [color=green]{$max}[/color] kPa.
 
 label-filter-window-title = Bearbeiten Label Filter
@@ -9,7 +9,7 @@ label-filter-placeholder = Label to match gegen
 
 name-filter-window-title = Bearbeiten Name Filter
 name-filter-mode-Contain = Enthalten
-name-filter-mode-Start = Beginnen Sie mit
+name-filter-mode-Start = Beginne mit
 name-filter-mode-End = Ende mit
 name-filter-mode-Match = Pass genau
 

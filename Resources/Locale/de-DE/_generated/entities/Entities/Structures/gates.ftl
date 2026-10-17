@@ -20,7 +20,7 @@ ent-LogicGateXnor = Logik-Gate
     .desc = Ein Logik-Gatter mit zwei Eingängen und einem Ausgang. Techniker können ihre Funktionsweise mit einem Schraubendreher ändern.
 
 ent-EdgeDetector = Kantendetektor
-    .desc = Teilen Sie steigende und fallende Kanten in einzigartige Impulse und erkennt, wie nervös Sie sind.
+    .desc = Teile steigende und fallende Kanten in einzigartige Impulse und erkennt, wie nervös dich sind.
 
 ent-PowerSensor = Leistungssensor
     .desc = Generiert Signale als Reaktion auf Powernet-Änderungen. Kann zwischen Kabelspannungen getaktet werden.

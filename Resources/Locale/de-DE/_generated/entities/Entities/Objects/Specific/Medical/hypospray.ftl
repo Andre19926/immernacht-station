@@ -25,7 +25,7 @@ ent-EmergencyMedipen = Notfallmedipen
 ent-AntiPoisonMedipen = Gift Autoinjektor
     .desc = Eine schnelle Dosis Anti-Gift. Verursacht extremen Stress, wenn er mit anderen Medikamenten gemischt wird.
 
-ent-BruteAutoInjector = Brute-Autoinjektor
+ent-BruteAutoInjector = Autoinjektor gegen physische Schäden
     .desc = Eine schnelle Dosis von Bicaridin, Salicylsäure, Tranexamsäure und Tramadol, die für Kampfanwendungen bestimmt ist. Verwendung von mehreren sehr empfohlen gegen.
 
 ent-BurnAutoInjector = Brennender Autoinjektor
@@ -44,7 +44,7 @@ ent-AirlossAutoInjector = Airlos Autoinjektor
     .desc = Eine Einzeldosis, nicht nachfüllbare Medipen mit Kochsalzlösung und Dexalin plus, verwendet, um schnell und einfach Blutverlust und Erstickung zu behandeln.
 
 ent-SpaceMedipen = Umweltstabilisierung medipen
-    .desc = Enthält eine Mischung aus Chemikalien, die Sie vorübergehend vor Niederdruckumgebungen schützen und Ihre Körpertemperatur stabilisieren.
+    .desc = Enthält eine Mischung aus Chemikalien, die dich vorübergehend vor Niederdruckumgebungen schützt und deine Körpertemperatur stabilisiert.
 
 ent-Stimpack = Hyperzininjektor
     .desc = Ein chemischer Injektor, der einen großen Schuss reines Hyperzin enthält. Denn wenn es Zeit ist, sich niederzuwerfen. Die Effekte dauern etwa 60 Sekunden.

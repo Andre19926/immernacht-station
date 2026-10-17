@@ -8,7 +8,7 @@
 
 toggle-clothing-verb-text = Umschalter {CAPITALIZE($entity)}
 
-toggleable-clothing-remove-first = Sie müssen unequip {$entity} zuerst.
-toggleable-clothing-remove-all-attached-first = Sie müssen zuerst alle umgedrehte Kleidung ausrüsten.
-toggleable-clothing-attach-tooltip = Geräte
-toggleable-clothing-unattach-tooltip = Ausrüstung
+toggleable-clothing-remove-first = Du musst zuerst {$entity} ablegen.
+toggleable-clothing-remove-all-attached-first = Du musst zuerst die gesamte ausgeklappte Kleidung ablegen.
+toggleable-clothing-attach-tooltip = Anlegen
+toggleable-clothing-unattach-tooltip = Ablegen

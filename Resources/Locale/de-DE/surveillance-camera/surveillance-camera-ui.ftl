@@ -15,5 +15,5 @@ surveillance-camera-monitor-ui-status-disconnected = Trennung
 surveillance-camera-monitor-ui-no-subnets = Keine Subnetze
 
 surveillance-camera-setup = Einrichtung
-surveillance-camera-setup-ui-set = Setz
+surveillance-camera-setup-ui-set = Setzen
 

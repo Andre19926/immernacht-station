@@ -1,14 +1,14 @@
-ent-BaseSubstationWall = Wandstation
+ent-BaseSubstationWall = Wandmontierte Substation
     .desc = Eine Umspannstation für kompakte Shuttles und Räume.
 
-ent-SubstationBasic = Umspannwerk
+ent-SubstationBasic = Substation
     .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
 
-ent-SubstationBasicEmpty = Umspannwerk
+ent-SubstationBasicEmpty = Substation
     .desc = Reduziert die Spannung der Elektrizität, die in sie eingesetzt wird.
 
-ent-SubstationWallBasic = Wandstation
+ent-SubstationWallBasic = Wandmontierte Substation
     .desc = Eine Umspannstation für kompakte Shuttles und Räume.
 
-ent-BaseSubstationWallFrame = Wallmount Substation Frame
+ent-BaseSubstationWallFrame = Rahmen für wandmontierte Substation
     .desc = Ein Unterstationsrahmen für den Bau.

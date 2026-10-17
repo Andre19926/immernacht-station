@@ -7,12 +7,12 @@
 cqc-fail-notself = Du kannst niemanden mit {CAPITALIZE(THE($manual))}.
 
 cqc-fail-changeling = Wir sind weit davon entfernt, dies zu nutzen.
-cqc-fail-knowanother = Sie kennen bereits eine andere Kampfkunst.
-cqc-fail-already = Sie kennen bereits eine Kampfkunst.
-cqc-success-unblocked = Ihre CQC-Fähigkeiten sind nicht mehr an die Küche gebunden.
-cqc-success-learned = Sie haben CQC gelernt. Das Handbuch verbrennt in deinen Händen...
-capoeira-success-learned = Sie haben Capoeira gelernt. Das Handbuch verbrennt in deinen Händen...
-dragon-success-learned = Sie haben Dragon Kung Fu gelernt. Das Handbuch verbrannt in Ihren Händen...
+cqc-fail-knowanother = Du kennst bereits eine andere Kampfkunst.
+cqc-fail-already = Du kennst bereits eine Kampfkunst.
+cqc-success-unblocked = Deine CQC-Fähigkeiten sind nicht mehr an die Küche gebunden.
+cqc-success-learned = Du hast CQC gelernt. Das Handbuch verbrennt in deinen Händen...
+capoeira-success-learned = Du hast Capoeira gelernt. Das Handbuch verbrennt in deinen Händen...
+dragon-success-learned = Du hast Dragon Kung Fu gelernt. Das Handbuch verbrannt in deinen Händen...
 ninjutsu-success-learned = Du hast Ninjutsu gelernt. Die Schriftrolle verbrennt in deinen Händen...
 hellrip-success-learned = Du hast Hell Ripte gelernt. Die Schriftrolle verbrennt in deinen Händen...
 
@@ -37,22 +37,22 @@ carp-saying-see = Du kannst mich nicht sehen!
 carp-saying-time = Meine Zeit ist jetzt!!
 carp-saying-cowabunga = COWABUNGA!
 
-krav-maga-ready = Sie bereiten einen {$action}
+krav-maga-ready = Du bereitest einen {$action}
 
-martial-arts-action-sender = Sie schlagen {$name} mit {$move}
+martial-arts-action-sender = Du schlägst {$name} mit {$move}
 martial-arts-action-receiver = {$name} Schlag dich mit {$move}
 
-martial-arts-fail-prone = Sie können diese Combo nicht verwenden, während Sie sich hinlegen!
-martial-arts-fail-target-down = Sie können diese Combo nicht für abgeschossene Ziele verwenden!
-martial-arts-fail-target-standing = Sie können diese Combo nicht für stehende Ziele verwenden!
-capoeira-fail-low-velocity = Sie sind zu langsam, um diese Combo durchzuführen!
-ninjutsu-fail-loss-of-surprise = Ihre Absichten sind bekannt! Kann diesen Zug nicht ausführen!
+martial-arts-fail-prone = Du kannst diese Combo nicht verwenden, während du dich hinlegst!
+martial-arts-fail-target-down = Du kannst diese Combo nicht für abgeschossene Ziele verwenden!
+martial-arts-fail-target-standing = Du kannst diese Combo nicht für stehende Ziele verwenden!
+capoeira-fail-low-velocity = Du bist zu langsam, um diese Combo durchzuführen!
+ninjutsu-fail-loss-of-surprise = Deine Absichten sind bekannt! Kann diesen Zug nicht ausführen!
 
 alerts-dragon-power-name = Dragon Power
-alerts-dragon-power-desc = Sie nehmen sich einen Moment Zeit, um über vergangene und kommende Kämpfe nachzudenken. Diese Einsicht wird Sie vor zukünftigen Schäden schützen.
+alerts-dragon-power-desc = Du nimmst dir einen Moment Zeit, um über vergangene und kommende Kämpfe nachzudenken. Diese Einsicht wird dich vor zukünftigen Schäden schützen.
 
 alerts-sneak-attack-name = Sneak Attack
 alerts-sneak-attack-desc = Für einen wahren Shinobi sind der erste und der letzte Streik ein und derselbe.
 
 alerts-loss-of-surprise-name = Verlust der Überraschung
-alerts-loss-of-surprise-desc = Ihre Absichten sind bekannt! Es wird ein paar Augenblicke dauern, um den Angriff wieder zu schleichen.
+alerts-loss-of-surprise-desc = Deine Absichten sind bekannt! Es wird ein paar Augenblicke dauern, um den Angriff wieder zu schleichen.

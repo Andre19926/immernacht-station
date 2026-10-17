@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-verb-make-heretic = Machen Sie das Ziel zu einem Ketzer.
+admin-verb-make-heretic = Macht das Ziel zu einem Ketzer.
 
-admin-verb-text-make-heretic = Machen Ketzer
+admin-verb-text-make-heretic = Zum Ketzer machen

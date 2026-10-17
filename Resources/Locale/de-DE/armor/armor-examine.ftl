@@ -9,21 +9,21 @@
 
 # Armor examines
 armor-examinable-verb-text = Rüstung
-armor-examinable-verb-message = Untersuchen Sie die Rüstungswerte.
+armor-examinable-verb-message = Zeigt die Rüstungswerte an.
 armor-examine = Es bietet folgenden Schutz:
 armor-coefficient-value = - [color=yellow]{$type}[/color] Schadensminderung durch [color=lightblue]{$value}%[/color].
 armor-reduction-value = - [color=yellow]{$type}[/color] Schadensminderung durch [color=lightblue]{$value}[/color].
 armor-damage-type-blunt = stumpf
-armor-damage-type-slash = Schrägstrich
+armor-damage-type-slash = Schnitt
 armor-damage-type-piercing = Piercing
-armor-damage-type-heat = Wärme
+armor-damage-type-heat = Hitze
 armor-damage-type-radiation = Strahlung
-armor-damage-type-caustic = Kaustisch
+armor-damage-type-caustic = Ätzend
 armor-damage-type-bloodloss = Blutverlust
 armor-damage-type-asphyxiation = Erstickung
-armor-damage-type-cellular = Zellular
+armor-damage-type-cellular = Zellulär
 armor-damage-type-cold = Kälte
 armor-damage-type-poison = Gift
 armor-damage-type-shock = Schock
-armor-damage-type-structural = Struktur
+armor-damage-type-structural = Strukturell
 armor-damage-type-holy = Heilig

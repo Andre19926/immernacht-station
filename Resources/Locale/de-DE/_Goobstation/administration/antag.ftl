@@ -1,5 +1,5 @@
-admin-verb-text-make-devil = Macht Teufel
-admin-verb-make-devil = Machen Sie das Ziel zu einem Teufel
+admin-verb-text-make-devil = Zum Teufel machen
+admin-verb-make-devil = Macht das Ziel zu einem Teufel.
 
-admin-verb-text-make-gang-leader = Machen Sie Gang Leader
-admin-verb-make-gang-leader = Machen Sie das Ziel zu einem Bandenführer (Dies startet die Spielregel einschließlich Duffelbag / Kiste Tropfen). Empfohlen 2 - 3 andere Gangführer hinzugefügt
+admin-verb-text-make-gang-leader = Zum Bandenchef machen
+admin-verb-make-gang-leader = Macht das Ziel zu einem Bandenchef (startet die Spielregel inklusive Duffelbag- und Kistenabwurf). Empfohlen: 2–3 weitere Bandenchefs hinzufügen.

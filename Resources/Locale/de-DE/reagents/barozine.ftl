@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: MIT
 
 barozine-effect-skin-burning = Du hast das Gefühl, deine Haut brennt ab!
-barozine-effect-muscle-contract = Fazit: Sie können spüren, wie sich Ihre Muskeln zusammenziehen.
+barozine-effect-muscle-contract = Fazit: Du kannst spüren, wie sich deine Muskeln zusammenziehen.

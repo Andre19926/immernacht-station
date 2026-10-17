@@ -11,4 +11,4 @@ all-at-once-title = Alles auf einmal
 all-at-once-description = Es ist einfach nicht dein Tag...
 
 aller-at-once-title = Aller auf einmal
-aller-at-once-description = Du hast jetzt gefickt. Sie *haben * jetzt gefickt.
+aller-at-once-description = Jetzt hast du es richtig verbockt. Du *hast* es verbockt.

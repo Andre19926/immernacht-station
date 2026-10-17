@@ -1,3 +1,3 @@
 ent-MagazineShotgunHeavy = Munitionstrommel (2 Gauge HE Pellet)
 
-ent-MagazineShotgunHeavySlug = Munitionstrommel (2 Gauge HE-Schnecke)
+ent-MagazineShotgunHeavySlug = Munitionstrommel (2 Gauge, HE-Slug)

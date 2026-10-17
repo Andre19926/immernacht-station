@@ -48,7 +48,7 @@ ent-BulletShrapnelHeavyHighExplosive = Sprengstoffsplitter
 ent-HeavyPelletShotgunSpread = Pellet (2 Gauge)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BulletSlugHeavyHighExplosive = Schnecke (2 Gauge)
+ent-BulletSlugHeavyHighExplosive = Slug (2 Gauge)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-HighCaliberPelletGrenade = Pellet (MP-APERS)

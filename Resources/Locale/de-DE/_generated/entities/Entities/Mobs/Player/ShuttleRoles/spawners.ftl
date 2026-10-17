@@ -4,7 +4,7 @@ ent-VisitorCaptainSpawner = Besuch von Kapitän Spawner
 
 ent-VisitorCESpawner = Besuch bei Chefingenieur Spawner
 
-ent-VisitorCMOSpawner = Besuch bei Chief Medical Officer Spawner
+ent-VisitorCMOSpawner = Besuchender-Chefarzt-Spawner
 
 ent-VisitorHOPSpawner = Gastleiter Personal Spawner
 
@@ -22,7 +22,7 @@ ent-VisitorSecurityOfficerSpawner = Sicherheitsbeauftragter Spawner
 
 ent-VisitorDetective = Detektiv Spawner
 
-ent-VisitorWarden = Gastwirt Spawner
+ent-VisitorWarden = Besuchender-Warden-Spawner
 
 ent-VisitingCargonianSpawner = Frachter-Besucher Spawner
 

@@ -1,2 +1,2 @@
-job-name-shaftminer = Shaft Miner
-job-description-shaftminer = Erkunden Sie die Oberflächen von Planeten, kämpfen Sie mit der Fauna und extrahieren Sie Erz.
+job-name-shaftminer = Bergarbeiter
+job-description-shaftminer = Erkunde die Oberflächen von Planeten, kämpfe mit der Fauna und extrahiere Erz.

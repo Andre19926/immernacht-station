@@ -5,13 +5,13 @@ ent-HolyClaymore = Heiliger Claymore
     .desc = Eine Waffe für einen Kreuzzug! Ein Schwert, das fähig ist, den Übeltätern das Leben zu stehlen.
 
 ent-Rosary = Rosenkranz
-    .desc = Diese zu benutzen, um in der Nähe von jemandem zu beten, wird sie heilen. Sie sind von einer heiligen Aura umgeben.
+    .desc = Wenn du damit in der Nähe von jemandem betest, heilt es ihn. Eine heilige Aura umgibt dich.
 
 ent-GodHand = Hand Gottes
     .desc = Ein heiliges, feuriges Geschenk der Götter. Du wirst diesen nicht fallen lassen.
 
 ent-ArrythmicKnife = arythmisches Messer
-    .desc = Sie sagen, Angst ist der wahre Gedankenkiller, aber sie in den Kopf zu stechen funktioniert auch. Verlangsamt dich und beschleunigt dich zufällig.
+    .desc = Man sagt, Angst sei der wahre Gedankenkiller, aber sie in den Kopf zu stechen funktioniert auch. Verlangsamt und beschleunigt dich zufällig.
 
 ent-MonkStaff = Mitarbeiter des Mönchs
     .desc = Ein langer, großer Stab aus poliertem Holz. Traditionell in alten alten Kampfkünsten verwendet, jetzt verwendet, um den Clown zu belästigen.
@@ -23,7 +23,7 @@ ent-Bulwark = Bulwarz
     .desc = Ein absolut enormer zweihändiger Schild, sehr schwierig zu verwenden, wenn nicht an Ort und Stelle gepflanzt.
 
 ent-HonkmotherMaw = Honkmother's Maw
-    .desc = A-HEAD von euch liegt ein Weg am meisten urkomisch.
+    .desc = Der Weg, der vor dir liegt, ist höchst belustigend.
 
 ent-UristHand = Der graue Kaiserhandschuh
     .desc = Die Flut winkt.

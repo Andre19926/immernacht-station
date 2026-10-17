@@ -1,2 +1,2 @@
 ent-GunneryControlComputerCircuitboard = Waffenkontrolle Computerplatine
-    .desc = Ein Computer druckte Platin für einen Gunnery Control Computer.
+    .desc = Eine Computerplatine für einen Gunnery Control Computer.

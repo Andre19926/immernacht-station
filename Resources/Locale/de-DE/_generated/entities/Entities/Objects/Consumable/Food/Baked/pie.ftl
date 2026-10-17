@@ -63,7 +63,7 @@ ent-FoodPiePlump = Pflaumenkuchen
     .desc = Ich wette, du liebst sachen aus plumpen helmen.
 
 ent-FoodTartGrape = Traubensorte
-    .desc = Ein leckeres Dessert, das Sie an den Wein erinnert, den Sie nicht gemacht haben.
+    .desc = Ein leckeres Dessert, das dich an den Wein erinnert, den du nicht gemacht hast.
 
 ent-FoodTartGapple = Goldapfelstreuseltarte
     .desc = Ein leckeres Dessert, das es nicht durch einen Metalldetektor schafft.

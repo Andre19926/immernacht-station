@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-robodrobe-1 = Du machst mich wahr, benutze definiert.
+advertisement-robodrobe-1 = Du schaltest mich auf WAHR, benutze defines!
 advertisement-robodrobe-2 = 0110001101101100011011110111010001101000011001010111001101101000011001010111001001100101
-advertisement-robodrobe-3 = Stehlen Sie jemanden aus der Wartung und verwandeln Sie ihn in einen Roboter!
+advertisement-robodrobe-3 = Klau jemanden aus der Wartung und verwandle ihn in einen Roboter!
 advertisement-robodrobe-4 = Robotik macht Spaß!

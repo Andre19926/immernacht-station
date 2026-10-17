@@ -10,6 +10,6 @@
 
 rat-king-domain-popup = Eine Ammoniakwolke wird in die Luft freigesetzt!
 
-rat-king-too-hungry = Sie sind zu hungrig, um diese Fähigkeit zu nutzen!
+rat-king-too-hungry = Du bist zu hungrig, um diese Fähigkeit zu nutzen!
 
-rat-king-rummage-text = Rumpf
+rat-king-rummage-text = Durchwühlen

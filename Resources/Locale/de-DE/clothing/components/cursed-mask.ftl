@@ -8,4 +8,4 @@ cursed-mask-examine-Neutral = Es zeigt ein völlig unauffälliges Gesicht.
 cursed-mask-examine-Joy = Es zeigt ein Gesicht, das sich vor Freude sonnt.
 cursed-mask-examine-Despair = Es zeigt ein Gesicht voller Verzweiflung.
 cursed-mask-examine-Anger = Es zeigt einen wütenden Ausdruck, der in Wut eingeschlossen ist.
-cursed-mask-takeover-popup = Die Maske ergreift die Kontrolle über Ihren Körper!
+cursed-mask-takeover-popup = Die Maske ergreift die Kontrolle über deinen Körper!

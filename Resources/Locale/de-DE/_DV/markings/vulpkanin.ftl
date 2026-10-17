@@ -99,7 +99,7 @@ marking-VulpHeadTiger = Vulpkanin Tigerstreifen (Kopf)
 marking-VulpHeadTigerFace-tiger_face = Tigerstreifen
 marking-VulpHeadTigerFace = Vulpkanin Tigerstreifen (Gesicht)
 
-marking-VulpHeadSlash-slash = Schrägstrich
+marking-VulpHeadSlash-slash = Schnitt
 marking-VulpHeadSlash = Vulpkanin-Slash
 
 
@@ -253,8 +253,8 @@ marking-VulpHairMizar = Mizar
 marking-VulpHairPunkBraided = Punk geflochten
 marking-VulpHairRaine = Regen
 marking-VulpHairRough = rau
-marking-VulpHairShort = Kurzhaar
-marking-VulpHairShort2 = Kurzhaar 2
+marking-VulpHairShort = Kurzes Haar
+marking-VulpHairShort2 = Kurzes Haar 2
 marking-VulpHairSpike = Spike
 
 marking-VulpFacialHairRuff = Krause

@@ -1,8 +1,8 @@
 ent-FoodSnackBoritos = Borit
-    .desc = Crunchy, salty Tortilla Chips. Sie könnten wahrscheinlich Nachos mit diesen machen.
+    .desc = Crunchy, salty Tortilla Chips. Du könntest wahrscheinlich Nachos mit diesen machen.
 
 ent-FoodSnackCnDs = C&D
-    .desc = Rechtlich gesehen können wir nicht sagen, dass diese nicht in Ihren Händen schmelzen werden.
+    .desc = Rechtlich gesehen können wir nicht sagen, dass diese nicht in deinen Händen schmelzen werden.
 
 ent-FoodSnackCheesie = cheesie Honkers
     .desc = Angebliche cheesie-snacks, die überall in ihrem mund horchen.
@@ -23,7 +23,7 @@ ent-FoodSnackEnergyBar = Energieriegel
     .desc = Ein Energiebalken mit viel Punch.
 
 ent-FoodSnackPistachios = Süße Pistazien
-    .desc = Sweeties Markennamen Pistazien. Wahrscheinlich werden Sie keine Krankheiten bekommen. Wahrscheinlich.
+    .desc = Sweeties Markennamen Pistazien. Wahrscheinlich wirst du keine Krankheiten bekommen. Wahrscheinlich.
 
 ent-FoodSnackPopcorn = Popcorn
     .desc = Gewachsen auf einem unbekannten Planeten, von einem unbekannten Bauern, geknallt von einem Idioten auf einer Raumstation.
@@ -35,13 +35,13 @@ ent-FoodSnackSemki = Semki Sonnenblumenkerne
     .desc = Produziert von der Bob Bobson Nutrition Corporation. Perfekt, um Menschen anzuspucken.
 
 ent-FoodSnackSus = Sus Jerky
-    .desc = Etwas an diesem Paket lässt Sie sich unglaublich unwohl fühlen. Aber Jerky ist gut.
+    .desc = Etwas an diesem Paket lässt dich unglaublich unwohl fühlen. Aber Jerky ist gut.
 
 ent-FoodSnackSyndi = Syndikuchen
     .desc = Ein extrem feuchter Snackkuchen, der nach dem Nuked genauso gut schmeckt.
 
 ent-DrinkRamen = Becherramen
-    .desc = Ein billiges Essen mit einem Geschmack, der Sie an Ihre Schuljahre erinnert.
+    .desc = Ein billiges Essen mit einem Geschmack, der dich an deine Schuljahre erinnert.
 
 ent-DrinkHellRamen = Hell Ramen
     .desc = Super würziger Geschmack!

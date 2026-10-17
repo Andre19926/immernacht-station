@@ -13,28 +13,28 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-forensic-scanner-interface-title = Forensischer Scanner
+forensic-scanner-interface-title = Forensik-Scanner
 forensic-scanner-interface-fingerprints = Fingerabdrücke
 forensic-scanner-interface-fibers = Fasern
 forensic-scanner-interface-dnas = DNAs
 forensic-scanner-interface-residues = Rückstände
 forensic-scanner-interface-no-data = Keine Scandaten verfügbar
-forensic-scanner-interface-print = Druck
-forensic-scanner-interface-clear = klar
+forensic-scanner-interface-print = Drucken
+forensic-scanner-interface-clear = Leeren
 forensic-scanner-report-title = Forensik-Bericht: {$entity}
 forensic-pad-unused = Es wurde nicht benutzt.
 forensic-pad-sample = Es hat eine Probe: {$sample}
 forensic-pad-no-access-due = Kann nicht auf den Fingerabdruck zugreifen, weil {THE($entity)}.
 forensic-pad-no-access = Kann nicht auf den Fingerabdruck zugreifen.
 forensic-pad-start-scan-target = {CAPITALIZE($user)} versucht, eine probe ihrer fingerabdrücke zu nehmen.
-forensic-pad-start-scan-user = Sie fangen an, eine Probe von {CAPITALIZE($target)}Fingerabdrücke.
+forensic-pad-start-scan-user = Du fängst an, eine Probe von den Fingerabdrücken von {CAPITALIZE($target)} zu nehmen.
 forensic-pad-already-used = Dieses Pad wurde bereits verwendet.
-forensic-scanner-match-fiber = Match in Faser gefunden!
-forensic-scanner-match-fingerprint = Match im Fingerabdruck gefunden!
-forensic-scanner-match-none = Keine Matches gefunden!
+forensic-scanner-match-fiber = Übereinstimmung in Faser gefunden!
+forensic-scanner-match-fingerprint = Übereinstimmung im Fingerabdruck gefunden!
+forensic-scanner-match-none = Keine Übereinstimmung gefunden!
 forensic-scanner-printer-not-ready = Printer ist noch nicht fertig.
 forensic-scanner-verb-text = Scan
-forensic-scanner-verb-message = Führen Sie einen forensischen Scan durch
+forensic-scanner-verb-message = Forensischen Scan durchführen
 
 forensics-dna-unknown = unbekannte DNA
 

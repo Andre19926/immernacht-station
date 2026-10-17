@@ -16,5 +16,5 @@ ent-ClothingOuterArmorHereticBlade = ominöse Rüstung
 ent-ClothingOuterArmorHereticCosmos = ominöse Rüstung
     .desc = Ein zerlumptes, staubiges Gewand. Seltsame Augen säumen das Innere.
 
-ent-ClothingOuterArmorCloakVoid = Leermantel
-    .desc = Schwarz wie Teer, kein Licht reflektierend. Runische Symbole säumen die Außenseite. Mit jedem Blitz verlieren Sie das Verständnis dessen, was Sie sehen.
+ent-ClothingOuterArmorCloakVoid = Leere-Umhang
+    .desc = Schwarz wie Teer, kein Licht reflektierend. Runische Symbole säumen die Außenseite. Mit jedem Blitz verlierst du das Verständnis dessen, was du siehst.

@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-clothing-boots-sidearm = Seitenarm
+clothing-boots-sidearm = Seitenwaffe

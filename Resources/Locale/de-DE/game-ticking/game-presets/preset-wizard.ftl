@@ -1,13 +1,13 @@
-﻿## Survivor
+## Survivor
 
 roles-antag-survivor-name = Überlebender
 # It's a Halo reference
 roles-antag-survivor-objective = Aktuelles Ziel: Überleben
 
 survivor-role-greeting =
-    Du bist ein Überlebender. Vor allem müssen Sie es lebend zurück zum Central Command schaffen.
+    Du bist ein Überlebender. Vor allem musst du es lebend zurück zum Central Command schaffen.
     Sammle so viel Feuerkraft wie nötig, um dein Überleben zu garantieren.
-    Vertrauen Sie niemandem.
+    Vertraue niemandem.
 
 survivor-round-end-dead-count =
 {

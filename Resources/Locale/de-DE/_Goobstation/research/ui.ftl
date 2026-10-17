@@ -3,10 +3,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-console-unlocks-text = Entsperrte Rezepte:
+research-console-unlocks-text = Freigeschaltete Rezepte:
 research-console-required-text = Voraussetzungen:
 research-console-no-tech-requirements = [color=green]Diese Technologie hat keine Voraussetzungen![/color]
-research-console-menu-recenter-button = Zentrum
-research-console-menu-server-researched-button = Geforscht
+research-console-menu-recenter-button = Neu zentrieren
+research-console-menu-server-researched-button = Erforscht
 research-console-tech-cost-label = { $cost } R.P.
 research-console-tier-percentage = : { $perc }%

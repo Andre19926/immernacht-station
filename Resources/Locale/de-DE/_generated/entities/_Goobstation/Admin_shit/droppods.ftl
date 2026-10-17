@@ -1,2 +1,2 @@
-ent-DropPodspawner = Tropfhülse
-    .desc = Platziere Gegenstände, die die Spieler in der Tasche erhalten sollen, und aktiviere sie dort, wo der Pod fallen soll. Die Spieler können den Pod nicht sehen. Um Lebewesen fallen zu lassen, ziehen Sie sie in den Pod (wie jemanden auf einen Stuhl zu schnallen).
+ent-DropPodspawner = Landekapsel-Spawner
+    .desc = Lege die Gegenstände, die die Spieler erhalten sollen, in die Tasche und aktiviere sie dort, wo die Kapsel landen soll. Die Spieler können die Kapsel nicht sehen. Um Lebewesen abzuwerfen, ziehe sie in die Kapsel (wie beim Anschnallen an einem Stuhl).

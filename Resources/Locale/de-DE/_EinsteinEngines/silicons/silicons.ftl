@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-silicon-overheating = Sie spüren, wie Ihre Schaltkreise überhitzen!
+silicon-overheating = Du spürst, wie deine Schaltkreise überhitzen!
 silicon-crit = Strukturelle Integrität kritisch!
-silicon-power-low = Power Low!
+silicon-power-low = Energie niedrig!

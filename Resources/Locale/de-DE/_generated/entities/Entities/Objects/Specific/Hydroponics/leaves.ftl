@@ -5,7 +5,7 @@ ent-LeavesCannabisDried = getrocknete Cannabisblätter
     .desc = Getrocknete Cannabisblätter, bereit, gemahlen zu werden.
 
 ent-GroundCannabis = gemahlenes Cannabis
-    .desc = Grund-Cannabis, bereit, Sie auf eine Reise mitzunehmen.
+    .desc = Gemahlenes Cannabis, bereit, dich auf eine Reise mitzunehmen.
 
 ent-LeavesCannabisRainbow = Regenbogen-Cannabisblätter
     .desc = Soll es so leuchten...?
@@ -14,7 +14,7 @@ ent-LeavesCannabisRainbowDried = Blätter von getrocknetem Regenbogen
     .desc = Getrocknete Regenbogen-Cannabisblätter, bereit, gemahlen zu werden.
 
 ent-GroundCannabisRainbow = Erdregenbogen-Cannabis
-    .desc = Bodenregenbogen-Cannabis, bereit, Sie auf eine Reise mitzunehmen.
+    .desc = Gemahlenes Regenbogen-Cannabis, bereit, dich auf eine Reise mitzunehmen.
 
 ent-LeavesTea = Teeblätter
     .desc = Kann ausgetrocknet werden, um Tee zu machen.

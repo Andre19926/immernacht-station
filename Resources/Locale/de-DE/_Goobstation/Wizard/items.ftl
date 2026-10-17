@@ -7,7 +7,7 @@
 ensouled-item-name = beseelt {$item}
 ensouled-item-desc = [color=darkred]Eine schreckliche Aura umgibt diesen Gegenstand, seine Existenz ist beleidigend für das Leben selbst.[/color]
 
-delete-on-drop-attempt-comp-examine = Lassen Sie diesen Artikel fallen, um ihn loszuwerden.
+delete-on-drop-attempt-comp-examine = Lass diesen Artikel fallen, um ihn loszuwerden.
 
 enchanted-rifle-guns-left = Geschütze links: [color=yellow]{$guns}[/color].
 
@@ -18,7 +18,7 @@ sanguine-strike-end = {CAPITALIZE($item)} Er scheint seinen roten Schein zu verl
 sanguine-strike-examine = [color=#c41515]Diese Waffe wird durch sanguinische Magie gestärkt.[/color]
 
 scrying-orb-verb-message = Betritt das Reich der Toten
-scrying-orb-verb-text = Aktivieren Sie die Orb
+scrying-orb-verb-text = Aktiviere die Orb
 
-wizard-mirror-guardian-change-species-fail = Sie können Ihre Spezies nicht ändern, nachdem Sie den Wächter gehostet haben!
+wizard-mirror-guardian-change-species-fail = Du kannst deine Spezies nicht ändern, nachdem du den Wächter gehostet hast!
 wizard-mirror-blood-crawl-change-species-fail = Du kannst deine Spezies nicht ändern, nachdem du ein dämonisches Herz benutzt hast!

@@ -28,19 +28,19 @@ chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb
 chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]"[/color]
 # Einstein Engines - Languages end
 
-examine-headset-default-channel = Verwendung {$prefix} für den Standardkanal ()[color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Verwende {$prefix} für den Standardkanal ([color={$color}]{$channel}[/color]).
 
 chat-radio-common = Allgemein
 chat-radio-centcom = CentComm
 chat-radio-command = Führung
-chat-radio-engineering = Ingenieurwesen
-chat-radio-medical = Medizinisch
+chat-radio-engineering = Technik
+chat-radio-medical = Medizin
 chat-radio-science = Wissenschaft
 chat-radio-security = Sicherheit
-chat-radio-service = Dienst
-chat-radio-supply = Versorgung
+chat-radio-service = Service
+chat-radio-supply = Fracht
 chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freiberuflich
+chat-radio-freelance = Freelancer
 
 # not headset but whatever
 chat-radio-handheld = Handheld

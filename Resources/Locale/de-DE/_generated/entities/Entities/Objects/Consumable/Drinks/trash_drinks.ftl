@@ -11,7 +11,7 @@ ent-DrinkBottleAlcoClear = Miss Blue Curaçao
     .desc = Ein fruchtiges, außergewöhnlich azurblaues Getränk. Erlaubt dem Imbiber nicht, die fünfte Magie zu benutzen.
 
 ent-DrinkBottleCognac = Cognacflasche
-    .desc = Ein süßes und stark alkoholisches Getränk, das nach zahlreichen Destillationen und Jahren der Reifung hergestellt wurde. Sie könnten auch diesmal nicht "SHITCURITY" schreien.
+    .desc = Ein süßes und stark alkoholisches Getränk, das nach zahlreichen Destillationen und Jahren der Reifung hergestellt wurde. Du könntest auch diesmal nicht "SHITCURITY" schreien.
 
 ent-DrinkBottleGin = Griffeater-Gin
     .desc = Eine Flasche hochwertigen Gins, produziert in der New London Space Station.
@@ -27,7 +27,7 @@ ent-DrinkBottleNTCahors = nt cahors Flasche
 ent-DrinkBottlePatron = Wrapp Artiste Patrón Flasche
     .desc = Silber geschnürter Tequila, serviert in Weltraumnachtclubs in der gesamten Galaxie.
 
-ent-DrinkBottlePoisonWine = Warlock's Velvet Flasche
+ent-DrinkBottlePoisonWine = Warlock's Velvet (Flasche)
     .desc = Was für eine schöne Verpackung für einen sicherlich hochwertigen Wein! Der Jahrgang muss erstaunlich sein!
 
 ent-DrinkBottleRum = Kubanischer gewürzter Rum von Captain Pete
@@ -42,23 +42,23 @@ ent-DrinkBottleVermouth = Goldeneye Wermutflasche
 ent-DrinkBottleVodka = Wodkaflasche
     .desc = Aah, Wodka. Beste Wahl von Getränk und Kraftstoff von Russen weltweit.
 
-ent-DrinkBottleWhiskey = Onkel Git's Special Reserve
+ent-DrinkBottleWhiskey = Onkel Gits Special Reserve
     .desc = Ein Premium-Single-Malt-Whiskey, sanft in den Tunneln eines nuklearen Schutzraums gereift. BESTIMMUNGEN FÜR TUNNELWHISKEY.
 
 ent-DrinkBottleWine = Doppelbartbärtige Spezialweinflasche
     .desc = Eine schwache Aura von Unbehaglichkeit und Asspainery umgibt die Flasche.
 
-ent-DrinkCartonLime = Kalksaft
+ent-DrinkCartonLime = Limettensaft
     .desc = Süß-saure Güte.
 
 ent-DrinkCartonOrange = Orangensaft
     .desc = Voller Vitamine und Köstlichkeit!
 
 ent-DrinkCartonTomato = Tomatensaft
-    .desc = Zumindest sieht es aus wie Tomatensaft. Sie können nicht mit all dieser Rötung sagen.
+    .desc = Zumindest sieht es aus wie Tomatensaft. Du kannst nicht mit all dieser Rötung sagen.
 
 ent-DrinkCartonCream = Milchrahm
-    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachten Sie, würden Sie dort finden?
+    .desc = Es ist Creme. Hergestellt aus Milch. Was sonst dachtest du, würdest du dort finden?
 
 ent-DrinkCartonMilk = Milch
     .desc = Eine opake weiße Flüssigkeit, die von den Milchdrüsen von Säugetieren produziert wird.

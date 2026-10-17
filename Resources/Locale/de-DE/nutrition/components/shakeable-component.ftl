@@ -5,4 +5,4 @@
 
 shakeable-verb = Schütteln
 shakeable-popup-message-others = { CAPITALIZE(THE($user)) } Shakes { THE($shakeable) }
-shakeable-popup-message-self = Sie schütteln { THE($shakeable) }
+shakeable-popup-message-self = Du schüttelst { THE($shakeable) }

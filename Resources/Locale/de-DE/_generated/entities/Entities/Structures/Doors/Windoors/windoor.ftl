@@ -164,7 +164,7 @@ ent-PlasmaWindoorSecureSyndicateLocked = sicheres Plasma Windoor
     .desc = Es ist ein robustes lila Fenster * und * eine Schiebetür. Spektakulär!
 
 ent-PlasmaWindoorSecureSyndicateLockedIndestructable = Plasma Windoor sichern?
-    .desc = Da haben Sie ein schlechtes Gefühl.
+    .desc = Da haben dich ein schlechtes Gefühl.
 
 ent-UraniumWindoorSyndicateLocked = Uran-Windoor
     .desc = Es ist ein Fenster und eine Schiebetür. Huh? Oh, und es ist grün!

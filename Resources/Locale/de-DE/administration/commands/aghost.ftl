@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-aghost-desc = Macht dich oder andere zu einem admin-geist.
-aghost-no-mind-self = Du kannst hier nicht geistern!
-aghost-no-mind-other = Die können hier nicht geistern!
+cmd-aghost-desc = Macht dich oder andere zu einem Admin-Geist.
+aghost-no-mind-self = Hier kannst du nicht zum Geist werden!
+aghost-no-mind-other = Der Spieler kann hier nicht zum Geist werden!

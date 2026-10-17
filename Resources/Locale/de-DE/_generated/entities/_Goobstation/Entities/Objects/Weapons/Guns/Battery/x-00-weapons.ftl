@@ -8,4 +8,4 @@ ent-WeaponHeadOfSecurityShotgun = X-12 "Flamberge"
     .desc = Eine aufwendig gestaltete Schrotflinte, die Schüsse aus reinem Phoron abfeuert. Gebaut, um Abwehrkräfte abzubauen, und es macht diesen Job gut.
 
 ent-WeaponHeadOfSecuritySniper = X-18 "Ranought"
-    .desc = Ein aufwendig gestaltetes Scharfschützengewehr, das Schüsse aus reinem Phoron abfeuert. Sie werden nicht davon getroffen werden wollen.
+    .desc = Ein aufwendig gestaltetes Scharfschützengewehr, das Schüsse aus reinem Phoron abfeuert. Du willst nicht davon getroffen werden.

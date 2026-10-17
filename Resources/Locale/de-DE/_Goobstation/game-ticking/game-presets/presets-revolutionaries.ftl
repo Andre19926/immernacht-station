@@ -11,12 +11,12 @@ revolutionaries-lose-announcement-shuttle-call = Basierend auf Scans unserer Fer
 revolutionaries-lose-announcement = Basierend auf Scans unserer Fernsensoren wurden die feindlichen revolutionären Zellen auf der Station unterdrückt und neutralisiert.
 
 revolutionaries-win-announcement-shuttle-call =
-    Nach den Berichten des Führers wurde das Unternehmenskommando gestürzt und wir haben die Kontrolle über die Station übernommen.
+    Nach den Berichten des Führers wurde das Konzernkommando gestürzt und wir haben die Kontrolle über die Station übernommen.
 
     Viva la revolution!
 
 revolutionaries-win-announcement =
-    Nach den Berichten des Führers wurde das Unternehmenskommando gestürzt und wir haben die Kontrolle über die Station übernommen.
+    Nach den Berichten des Führers wurde das Konzernkommando gestürzt und wir haben die Kontrolle über die Station übernommen.
 
     Viva la revolution!
 

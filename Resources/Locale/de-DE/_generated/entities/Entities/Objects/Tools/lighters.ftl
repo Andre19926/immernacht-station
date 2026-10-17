@@ -2,7 +2,7 @@ ent-Lighter = Grundfeuerzeug
     .desc = Ein einfaches Plastik-Zigarettenfeuerzeug.
 
 ent-CheapLighter = billiges Feuerzeug
-    .desc = Ein gefährlich preiswertes Plastikfeuerzeug, verbrennen Sie nicht Ihren Daumen!
+    .desc = Ein gefährlich preiswertes Plastikfeuerzeug, verbrenne nicht deinen Daumen!
 
 ent-FlippoLighter = Flippo-Feuerzeug
     .desc = Ein robustes Metallfeuerzeug, hält eine ganze Weile.
@@ -13,8 +13,8 @@ ent-FlippoEngravedLighter = Flippo-Feuerzeug
 ent-SyndicateFlippo = Blutrotes Flippo
     .desc = Eine "Valid" -Wahl in Feuerzeugen. Enthält kein Kupfer.
 
-ent-DiscountDanLighter = Rabatt Dan's Feuerzeug
-    .desc = Das schlechteste Feuerzeug, das jemals produziert wurde, ist unvermeidlich, tanken Sie nicht, während Sie angezündet sind.
+ent-DiscountDanLighter = Discount-Dan's-Feuerzeug
+    .desc = Das schlechteste Feuerzeug, das jemals produziert wurde, ist unvermeidlich, tanke nicht, während du angezündet bist.
 
 ent-CybersunFlippo = CyberSun Flippo
     .desc = Ein elegantes schwarzes und magenta-Flippo-Feuerzeug mit dem Logo und der Ikonographie von CyberSun Industries.

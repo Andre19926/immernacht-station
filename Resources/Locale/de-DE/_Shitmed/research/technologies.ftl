@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-technology-autodoc = Automatisierte Chirurgie
-research-technology-basic-augmentation = Basic Augmentation
+research-technology-autodoc = Automatisierte Operationen
+research-technology-basic-augmentation = Grundlegende Augmentierung
 research-technology-implanted-tools = Implantierte Werkzeuge
-research-technology-combat-augmentation = Combat Augmentation
+research-technology-combat-augmentation = Kampf-Augmentierung

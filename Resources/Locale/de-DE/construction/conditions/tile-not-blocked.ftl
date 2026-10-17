@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-step-condition-tile-not-blocked = Die Fliese darf nicht versperrt werden.
+construction-step-condition-tile-not-blocked = Die Kachel darf nicht blockiert sein.

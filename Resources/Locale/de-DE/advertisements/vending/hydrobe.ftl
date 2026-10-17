@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-hydrobe-1 = Lieben Sie den Boden? Dann kaufen Sie unsere Kleidung!
-advertisement-hydrobe-2 = Holen Sie sich Outfits, die zu Ihrem grünen Daumen passen!
-advertisement-hydrobe-3 = Hier erhalten Sie ein Outfit perfekt für den Umgang mit Pflanzen!
-advertisement-hydrobe-4 = Perfekte Outfits für Baumumarmer ... oder nur buchstäbliche Bäume!
-advertisement-hydrobe-5 = Tragen Sie grün und wachsen!
+advertisement-hydrobe-1 = Liebst du Erde? Dann kauf unsere Kleidung!
+advertisement-hydrobe-2 = Hol dir hier Outfits, die zu deinem grünen Daumen passen!
+advertisement-hydrobe-3 = Hier bekommst du das perfekte Outfit für den Umgang mit Pflanzen!
+advertisement-hydrobe-4 = Perfekte Outfits für Baumumarmer ... oder einfach für echte Bäume!
+advertisement-hydrobe-5 = Trag Grün und wachse!

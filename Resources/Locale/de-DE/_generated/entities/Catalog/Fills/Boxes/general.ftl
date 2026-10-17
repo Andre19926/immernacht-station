@@ -5,22 +5,22 @@ ent-BoxCardboardSmall = Pappkarton
     .desc = Ein kleiner Karton zum Aufbewahren von Dingen.
 
 ent-BoxMousetrap = Mausefalle
-    .desc = Diese Box ist mit Mausefallen gefüllt. Versuchen Sie, Ihre Hand nicht in einem stecken zu lassen.
+    .desc = Diese Box ist mit Mausefallen gefüllt. Versuche, deine Hand nicht in einem stecken zu lassen.
 
 ent-BoxLightbulb = Glühbirnenkasten
-    .desc = Dieser Kasten ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
+    .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxWarmLightbulb = Glühbirnenkasten warm
-    .desc = Dieser Kasten ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
+    .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxLighttube = Lampenkasten
-    .desc = Dieser Kasten ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
+    .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxLightMixed = Mixed Lights Box
-    .desc = Dieser Kasten ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
+    .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxLighttubeHoliday = Ferienlichtröhrenbox
-    .desc = Dieser Kasten ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
+    .desc = Diese Kiste ist innen so geformt, dass nur Glühröhren und Glühbirnen passen.
 
 ent-BoxPDA = PDA-Box
     .desc = Eine Box mit Ersatz-PDA-Mikrocomputern.
@@ -40,7 +40,7 @@ ent-BoxMesonScanners = Meson-Box
 ent-BoxMRE = M.R.E.
     .desc = Eine Schachtel mit jahrzehntelangen militärischen Überschussrationen. Es ist erstaunlicherweise nicht faul.
 
-ent-BoxHugHealing = Kasten mit Umarmungen
+ent-BoxHugHealing = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxInflatable = aufblasbare Wandbox
@@ -97,7 +97,7 @@ ent-BoxDarts = Dartbox
     .desc = Eine Schachtel voller bunter Darts.
 
 ent-BoxEnvelope = Umschlagbehälter
-    .desc = Ein Kasten mit Umschlägen gefüllt.
+    .desc = Eine Kiste mit Umschlägen gefüllt.
 
 ent-BoxUtensil = Utensilienbox
     .desc = Eine Schachtel gefüllt mit Gabeln und Löffeln.

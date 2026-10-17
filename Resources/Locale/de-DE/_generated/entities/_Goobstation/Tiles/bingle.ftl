@@ -1,2 +1,2 @@
-ent-FloorTileItemBingle = Binsenboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemBingle = Bingle-Kachel
+    .desc = Der Boden sollte das halten, nicht dich.

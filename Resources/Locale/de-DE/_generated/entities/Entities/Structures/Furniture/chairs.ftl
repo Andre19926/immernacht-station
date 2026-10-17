@@ -1,17 +1,17 @@
 ent-Chair = Stuhl
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-ChairGreyscale = Stuhl
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-Stool = Stuhl
     .desc = Hintern auftragen.
 
 ent-StoolBar = Barhocker
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-ChairBrass = Messingstuhl
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-ChairOfficeLight = Weißer Bürostuhl
     .desc = Scoot von Schreibtisch zu Schreibtisch, weil Stehen für Praktikanten ist.
@@ -26,7 +26,7 @@ ent-ChairPilotSeat = Pilotsitz
     .desc = Der Pilotsitz eines prestigeträchtigen Schiffes.
 
 ent-ChairWood = Holzstuhl
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-ChairRitual = Ritualstuhl
     .desc = Sieht unbequem aus.
@@ -41,19 +41,19 @@ ent-ChairWeb = Bahnstuhl
     .desc = Für echte Webentwickler.
 
 ent-ChairFolding = Klappstuhl
-    .desc = Wenn Sie sechs davon tragen, werden Sie das coolste Kind in der Kirche.
+    .desc = Wenn du sechs davon trägst, wirst du das coolste Kind in der Kirche.
 
 ent-ChairFoldingSpawnFolded = Klappstuhl
-    .desc = Wenn Sie sechs davon tragen, werden Sie das coolste Kind in der Kirche.
+    .desc = Wenn du sechs davon trägst, wirst du das coolste Kind in der Kirche.
 
 ent-SteelBench = Stahlbank
     .desc = Ein langer Stuhl für eine U-Bahn. Wirklich Standarddesign.
 
 ent-CardStool = Kartonhocker
-    .desc = Stellen Sie sicher, dass Sie *wirklich * sanft sitzen.
+    .desc = Stelle sicher, dass du *wirklich * sanft sitzt.
 
 ent-WoodenBench = Holzbank
     .desc = Hast du einen Splitter bekommen? Zumindest ist es umweltfreundlich.
 
 ent-ChairXeno = Xeno Stuhl
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.

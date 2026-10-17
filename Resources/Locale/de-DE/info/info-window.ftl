@@ -15,14 +15,14 @@ ui-info-tab-rules = Serverregeln
 ui-info-tab-tutorial = Tutorial
 
 ## Tutorial tab
-ui-info-text-controls = Sie können SS14s Kontrollen im
+ui-info-text-controls = Du kannst die Steuerung von SS14 überprüfen und neu belegen im
 
 ui-info-header-intro = Einleitung
-ui-info-header-controls = Kontrollen
+ui-info-header-controls = Steuerung
 ui-info-header-gameplay = Gameplay
 ui-info-header-sandbox = Sandbox Spawner
-ui-info-subheader-entityoptions = Optionen für das Entity-Spawn-Panel:
-ui-info-subheader-gridoptions = Grid-justierte Optionen:
+ui-info-subheader-entityoptions = Optionen des Entitäten-Spawn-Panels:
+ui-info-subheader-gridoptions = Optionen zur Rasterausrichtung:
 ui-info-header-feedback = Feedback
 
-ui-info-button-controls = Menü Optionen
+ui-info-button-controls = Optionsmenü

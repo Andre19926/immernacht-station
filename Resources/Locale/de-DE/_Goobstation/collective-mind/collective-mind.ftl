@@ -3,9 +3,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-collective-mind-dragon = Fischhirn
+collective-mind-dragon = Fishmind
 collective-mind-lingmind = Hivemind
-collective-mind-tidemind = Tidemin
+collective-mind-tidemind = Tidemind
 collective-mind-blobmind = Blobmind
 collective-mind-mansus-link = Mansus-Verbindung
 collective-mind-abductormind = Glorpmind
@@ -13,6 +13,6 @@ collective-mind-binary = Binär
 collective-mind-mousemind = Piepmind
 collective-mind-dronemind = Dronemind
 collective-mind-empathy = Empathie
-collective-mind-bingle = Leinwand
+collective-mind-bingle = Binglemind
 collective-mind-shadow-mind = Shadowmind
 collective-mind-xeno = Hivemind

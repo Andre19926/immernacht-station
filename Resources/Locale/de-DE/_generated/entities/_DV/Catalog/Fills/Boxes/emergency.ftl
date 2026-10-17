@@ -10,7 +10,7 @@ ent-BoxSurvivalSecurityWaterVapor = Überlebensbox
 ent-BoxSurvivalMedicalWaterVapor = Überlebensbox
     .desc = Es ist eine Box mit grundlegenden Internaten im Inneren.
 
-ent-BoxHugWaterVapor = Kasten mit Umarmungen
+ent-BoxHugWaterVapor = Kiste mit Umarmungen
     .desc = Eine spezielle Box für sensible Menschen.
 
 ent-BoxMimeWaterVapor = Überlebensbox

@@ -6,37 +6,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-panicbunker-desc = Schaltet den panikbunker um, was strengere einschränkungen ermöglicht, wer dem server beitreten darf.
-cmd-panicbunker-help = Verwendung: Panikbunker
+cmd-panicbunker-desc = Schaltet den Panic Bunker um, der strengere Einschränkungen dafür festlegt, wer dem Server beitreten darf.
+cmd-panicbunker-help = Verwendung: panicbunker
 panicbunker-command-enabled = Der Panic Bunker wurde aktiviert.
-panicbunker-command-disabled = Der Panikbunker wurde deaktiviert.
+panicbunker-command-disabled = Der Panic Bunker wurde deaktiviert.
 
-cmd-panicbunker_disable_with_admins-desc = Schaltet um, ob der panikbunker deaktiviert wird oder nicht, wenn sich ein admin verbindet.
-cmd-panicbunker_disable_with_admins-help = Verwendung: panicbunker disable with admins
-panicbunker-command-disable-with-admins-enabled = Der panikbunker wird automatisch mit admins online deaktiviert.
-panicbunker-command-disable-with-admins-disabled = Der panikbunker wird nicht automatisch mit admins online deaktiviert.
+cmd-panicbunker_disable_with_admins-desc = Schaltet um, ob der Panic Bunker automatisch deaktiviert wird, sobald ein Admin beitritt.
+cmd-panicbunker_disable_with_admins-help = Verwendung: panicbunker_disable_with_admins
+panicbunker-command-disable-with-admins-enabled = Der Panic Bunker wird automatisch deaktiviert, sobald ein Admin online ist.
+panicbunker-command-disable-with-admins-disabled = Der Panic Bunker wird nicht automatisch deaktiviert, wenn ein Admin online ist.
 
-cmd-panicbunker_enable_without_admins-desc = Schaltet um, ob der panikbunker aktiviert wird oder nicht, wenn der letzte admin getrennt wird.
-cmd-panicbunker_enable_without_admins-help = Verwendung: panicbunker enable without admins
-panicbunker-command-enable-without-admins-enabled = Der panikbunker wird automatisch ohne admins online aktiviert.
-panicbunker-command-enable-without-admins-disabled = Der panikbunker wird ohne admins online nicht automatisch aktiviert.
+cmd-panicbunker_enable_without_admins-desc = Schaltet um, ob der Panic Bunker automatisch aktiviert wird, sobald der letzte Admin die Verbindung trennt.
+cmd-panicbunker_enable_without_admins-help = Verwendung: panicbunker_enable_without_admins
+panicbunker-command-enable-without-admins-enabled = Der Panic Bunker wird automatisch aktiviert, sobald kein Admin mehr online ist.
+panicbunker-command-enable-without-admins-disabled = Der Panic Bunker wird nicht automatisch aktiviert, wenn kein Admin mehr online ist.
 
-cmd-panicbunker_count_deadminned_admins-desc = Schaltet um, ob tote Administratoren gezählt werden sollen, wenn der Panikbunker automatisch aktiviert und deaktiviert wird.
-cmd-panicbunker_count_deadminned_admins-help = Verwendung: panicbunker count deadminned admins
-panicbunker-command-count-deadminned-admins-enabled = Der panikbunker zählt tote admins, wenn er automatisch aktiviert und deaktiviert wird.
-panicbunker-command-count-deadminned-admins-disabled = Der panikbunker zählt keine toten admins, wenn er automatisch aktiviert und deaktiviert wird.
+cmd-panicbunker_count_deadminned_admins-desc = Schaltet um, ob de-adminte Admins mitgezählt werden, wenn der Panic Bunker automatisch aktiviert oder deaktiviert wird.
+cmd-panicbunker_count_deadminned_admins-help = Verwendung: panicbunker_count_deadminned_admins
+panicbunker-command-count-deadminned-admins-enabled = Der Panic Bunker zählt de-adminte Admins mit, wenn er automatisch aktiviert oder deaktiviert wird.
+panicbunker-command-count-deadminned-admins-disabled = Der Panic Bunker zählt de-adminte Admins nicht mit, wenn er automatisch aktiviert oder deaktiviert wird.
 
-cmd-panicbunker_show_reason-desc = Umschaltet, ob man den Verbindungskunden den Grund zeigt, warum der Panikbunker sie daran gehindert hat, sich anzuschließen.
-cmd-panicbunker_show_reason-help = Verwendung: panicbunker show reason
-panicbunker-command-show-reason-enabled = Der panikbunker zeigt nun den benutzern einen grund, den er von der verbindung blockiert.
-panicbunker-command-show-reason-disabled = Der panikbunker zeigt den benutzern keinen grund mehr, die verbindung zu blockieren.
+cmd-panicbunker_show_reason-desc = Schaltet um, ob abgewiesenen Spielern der Grund angezeigt wird, warum der Panic Bunker sie am Beitritt gehindert hat.
+cmd-panicbunker_show_reason-help = Verwendung: panicbunker_show_reason
+panicbunker-command-show-reason-enabled = Der Panic Bunker zeigt abgewiesenen Spielern jetzt den Grund für die Blockierung an.
+panicbunker-command-show-reason-disabled = Der Panic Bunker zeigt abgewiesenen Spielern den Grund für die Blockierung nicht mehr an.
 
-cmd-panicbunker_min_account_age-desc = Bekommt oder legt das mindestalter des kontos in minuten fest, in denen ein konto mit dem aktivierten panikbunker verbunden werden muss.
-cmd-panicbunker_min_account_age-help = Nutzung: panicbunker min account age <minutes>
-panicbunker-command-min-account-age-is = Das Mindestkontoalter für den Panikbunker ist {$minutes} Minuten.
-panicbunker-command-min-account-age-set = Legen Sie das Mindestkontoalter für den Panikbunker auf {$minutes} Minuten.
+cmd-panicbunker_min_account_age-desc = Zeigt oder legt das Mindestalter eines Kontos in Minuten fest, das bei aktiviertem Panic Bunker zum Beitritt nötig ist.
+cmd-panicbunker_min_account_age-help = Verwendung: panicbunker_min_account_age <minutes>
+panicbunker-command-min-account-age-is = Das Mindestkontoalter für den Panic Bunker beträgt {$minutes} Minuten.
+panicbunker-command-min-account-age-set = Das Mindestkontoalter für den Panic Bunker wurde auf {$minutes} Minuten gesetzt.
 
-cmd-panicbunker_min_overall_minutes-desc = Bekommt oder legt die minimale Gesamtspielzeit in Minuten fest, die ein Konto mit dem aktivierten Panikbunker verbinden darf.
-cmd-panicbunker_min_overall_minutes-help = Nutzung: panicbunker min overall minutes <minutes>
-panicbunker-command-min-overall-minutes-is = Die minimale Gesamtspielzeit für den Panikbunker ist {$minutes} Minuten.
-panicbunker-command-min-overall-minutes-set = Legen Sie die minimale Gesamtspielzeit für den Panikbunker auf {$minutes} Minuten.
+cmd-panicbunker_min_overall_minutes-desc = Zeigt oder legt die minimale Gesamtspielzeit in Minuten fest, die ein Konto bei aktiviertem Panic Bunker zum Beitritt braucht.
+cmd-panicbunker_min_overall_minutes-help = Verwendung: panicbunker_min_overall_minutes <minutes>
+panicbunker-command-min-overall-minutes-is = Die minimale Gesamtspielzeit für den Panic Bunker beträgt {$minutes} Minuten.
+panicbunker-command-min-overall-minutes-set = Die minimale Gesamtspielzeit für den Panic Bunker wurde auf {$minutes} Minuten gesetzt.

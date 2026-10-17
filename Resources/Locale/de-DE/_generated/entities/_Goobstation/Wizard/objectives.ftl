@@ -1,5 +1,5 @@
 ent-WizardSurviveObjective = Überleben, so viel Chaos wie möglich verursachen
-    .desc = Space Wizard Federation hat Sie geschickt, um Chaos auf der Station zu zerstören. Enttäuschen Sie sie nicht.
+    .desc = Space Wizard Federation hat dich geschickt, um Chaos auf der Station zu zerstören. Enttäusche sie nicht.
 
-ent-KeepWizardAliveObjective = Stellen Sie sicher, dass der Zauberer überlebt
-    .desc = Schützen Sie die Person, die Sie um jeden Preis gerufen hat.
+ent-KeepWizardAliveObjective = Stelle sicher, dass der Zauberer überlebt
+    .desc = Beschütze die Person, die dich gerufen hat, um jeden Preis.

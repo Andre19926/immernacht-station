@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-defusable-verb-begin = Countdown beginnen
+defusable-verb-begin = Countdown starten

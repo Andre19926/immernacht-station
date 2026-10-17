@@ -14,13 +14,13 @@ ent-BannerRevolution = Revolutionsbanner
     .desc = Ein Banner, das Revolution zeigt. Viva!
 
 ent-BannerSyndicate = Syndicate-Banner
-    .desc = Ein Banner, von dem Sie laut Syndicate Hass auf NT empfinden sollten.
+    .desc = Ein Banner, von dem du laut Syndicate Hass auf NT empfinden solltest.
 
 ent-BannerScience = Wissenschaftliches Banner
     .desc = Ein Banner mit den Farben der Wissenschaftsabteilung. Wo die Wissenschaft keine Grenzen hat und Vorschriften selten befolgt werden.
 
 ent-BannerSecurity = Sicherheitsbanner
-    .desc = Ein Banner mit den Farben der Sicherheitsabteilung. Sie sind überrascht, dass es nicht vandalisiert wird.
+    .desc = Ein Banner in den Farben der Sicherheitsabteilung. Du wunderst dich, dass es nicht vandaliert wird.
 
 ent-BannerBlue = Blaues Banner
     .desc = Ein Banner mit der Farbe Blau. Dabudidabudai.
@@ -29,7 +29,7 @@ ent-BannerRed = rotes Banner
     .desc = Ein Banner mit der Farbe Rot. Der kantige.
 
 ent-BannerYellow = gelbes Banner
-    .desc = Ein Banner mit der Farbe Gelb. Erinnert Sie an Enten und Zitronenstände.
+    .desc = Ein Banner mit der Farbe Gelb. Erinnert dich an Enten und Zitronenstände.
 
 ent-BannerGreen = Grünes Banner
     .desc = Ein Banner mit der Farbe Grün. Gras, Blätter, Guacamole.

@@ -10,7 +10,7 @@ ent-LeftHandCybernetic = kybernetische linke Hand
 
 ent-RightHandCybernetic = kybernetische rechte Hand
 
-ent-LeftFootCybernetic = Kyber strukturiert Liegs kybernetischer linker Fuß
+ent-LeftFootCybernetic = Kybernetischer linker Fuß
 
 ent-RightFootCybernetic = kybernetischer rechter Fuß
 

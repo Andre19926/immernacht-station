@@ -20,47 +20,47 @@
 
 ## General
 
-shell-command-success = Führung erfolgreich
-shell-invalid-command = Ungültiges Führung.
-shell-invalid-command-specific = Invalid {$commandName} Führung.
-shell-can-only-run-from-pre-round-lobby = Sie können diesen Befehl nur ausführen, während sich das Spiel in der Vorrundenlobby befindet.
-shell-can-only-run-while-round-is-active = Sie können diesen Befehl nur ausführen, während sich das Spiel in einer Runde befindet.
-shell-cannot-run-command-from-server = Sie können diesen Befehl nicht vom Server aus ausführen.
+shell-command-success = Befehl erfolgreich
+shell-invalid-command = Ungültiger Befehl.
+shell-invalid-command-specific = Ungültiger Befehl „{$commandName}“.
+shell-can-only-run-from-pre-round-lobby = Du kannst diesen Befehl nur ausführen, solange sich das Spiel in der Vorrundenlobby befindet.
+shell-can-only-run-while-round-is-active = Du kannst diesen Befehl nur ausführen, solange eine Runde läuft.
+shell-cannot-run-command-from-server = Du kannst diesen Befehl nicht vom Server aus ausführen.
 shell-only-players-can-run-this-command = Nur Spieler können diesen Befehl ausführen.
-shell-must-be-attached-to-entity = Sie müssen an eine Entität gebunden sein, um diesen Befehl auszuführen.
-shell-must-have-body = Sie müssen einen Körper haben, um diesen Befehl auszuführen.
+shell-must-be-attached-to-entity = Du musst an eine Entität gebunden sein, um diesen Befehl auszuführen.
+shell-must-have-body = Du musst einen Körper haben, um diesen Befehl auszuführen.
 
 ## Arguments
 
 shell-need-exactly-one-argument = Es braucht genau ein Argument.
-shell-wrong-arguments-number-need-specific = Bedarf {$properAmount} Argumente, gab es {$currentAmount}.
+shell-wrong-arguments-number-need-specific = Es werden {$properAmount} Argumente benötigt, angegeben wurden {$currentAmount}.
 shell-argument-must-be-number = Argument muss eine Zahl sein.
 shell-argument-must-be-boolean = Argument muss ein Boolean sein.
 shell-wrong-arguments-number = Falsche Anzahl von Argumenten.
-shell-need-between-arguments = Bedarf {$lower} bis {$upper} Argumente!
-shell-need-minimum-arguments = Muss mindestens {$minimum} Argumente!
-shell-need-minimum-one-argument = Benötigen Sie mindestens ein Argument!
-shell-need-exactly-zero-arguments = Dieser Befehl nimmt null Argumente.
+shell-need-between-arguments = Es werden {$lower} bis {$upper} Argumente benötigt!
+shell-need-minimum-arguments = Es werden mindestens {$minimum} Argumente benötigt!
+shell-need-minimum-one-argument = Es wird mindestens ein Argument benötigt!
+shell-need-exactly-zero-arguments = Dieser Befehl akzeptiert keine Argumente.
 
 shell-argument-uid = EntityUid
 
 ## Guards
 
-shell-missing-required-permission = Sie brauchen {$perm} Für diesen Befehl!
-shell-entity-is-not-mob = Ziel-Entität ist kein Mob!
-shell-invalid-entity-id = Kennung der ungültigen Stelle.
-shell-invalid-grid-id = Ungültige Gitterkennung.
-shell-invalid-map-id = Kennung der ungültigen Karte.
-shell-invalid-entity-uid = {$uid} ist nicht erwerbsfähig
-shell-invalid-bool = Invalid boolean.
-shell-entity-uid-must-be-number = EntityUid muss eine Nummer sein.
-shell-could-not-find-entity = Konnte keine Entität finden {$entity}
-shell-could-not-find-entity-with-uid = Konnte keine Entität mit uid finden {$uid}
-shell-entity-with-uid-lacks-component = Entität mit uid {$uid} hat nicht {INDEFINITE($componentName)} {$componentName} Komponente
-shell-entity-target-lacks-component = Ziel-Entität hat nicht {INDEFINITE($componentName)} {$componentName} Komponente
+shell-missing-required-permission = Du brauchst {$perm} für diesen Befehl!
+shell-entity-is-not-mob = Die Ziel-Entität ist kein Mob!
+shell-invalid-entity-id = Ungültige Entitäts-ID.
+shell-invalid-grid-id = Ungültige Struktur-ID.
+shell-invalid-map-id = Ungültige Karten-ID.
+shell-invalid-entity-uid = {$uid} ist keine gültige Entitäts-UID
+shell-invalid-bool = Ungültiger Boolean-Wert.
+shell-entity-uid-must-be-number = Die EntityUid muss eine Zahl sein.
+shell-could-not-find-entity = Entität {$entity} nicht gefunden
+shell-could-not-find-entity-with-uid = Entität mit UID {$uid} nicht gefunden
+shell-entity-with-uid-lacks-component = Entität mit UID {$uid} hat keine {$componentName}-Komponente.
+shell-entity-target-lacks-component = Ziel-Entität hat keine {$componentName}-Komponente.
 shell-invalid-color-hex = Ungültige Farbe hex!
 shell-target-player-does-not-exist = Zielspieler gibt es nicht!
-shell-target-entity-does-not-have-message = Zielunternehmen hat nicht {INDEFINITE($missing)} {$missing}!
+shell-target-entity-does-not-have-message = Ziel-Entität hat kein „{$missing}“!
 shell-timespan-minutes-must-be-correct = {$span} ist keine gültige Minutenspanne.
 shell-argument-must-be-prototype = Argumentation {$index} muss ein {LOC($prototypeName)}!
 shell-argument-number-must-be-between = Argumentation {$index} muss eine Zahl zwischen {$lower} und {$upper}!

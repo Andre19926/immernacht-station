@@ -1,5 +1,5 @@
 ent-ActionAugmentOpenToolsPanel = Offenes Werkzeugfeld
-    .desc = Zugriff auf die in Ihnen implantierten Werkzeuge
+    .desc = Zugriff auf die in dir implantierten Werkzeuge
 
 ent-AugmentUtilityPanelElectronics = Utility Tools Panel Elektronik
     .desc = Eine Elektronikplatine, die ein Werkzeugfeld programmiert, um eine bestimmte Art von Gegenstand zu halten. Dieser hält Utility Tools.
@@ -41,7 +41,7 @@ ent-AugmentStrengthCables = Festigkeitsvergrößerungsgehäuse mit Kabeln
     .desc = Kann in einen Körper implantiert werden, um die körperliche Stärke zu erhöhen. Dieser ist unvollständig.
 
 ent-ActionAugmentToggleStrength = Kippfestigkeitsvergrößerung
-    .desc = Erhöht Ihren Nahkampfschaden um 25%, verbraucht 30W während aktiv.
+    .desc = Erhöht deinen Nahkampfschaden um 25%, verbraucht 30W während aktiv.
 
 ent-AugmentStrength = Festigkeitsvergrößerung
     .desc = Kann in einen Körper implantiert werden, um die körperliche Stärke zu erhöhen.

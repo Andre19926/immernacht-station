@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-step-condition-no-windows-in-tile = Es kann keine Fenster in dieser Kachel geben.
+construction-step-condition-no-windows-in-tile = Auf dieser Kachel darf kein Fenster stehen.

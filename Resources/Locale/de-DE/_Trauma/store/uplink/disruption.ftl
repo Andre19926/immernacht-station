@@ -11,4 +11,4 @@ uplink-shuttle-bundle-name = Syndicate Shuttle Crate
 uplink-shuttle-bundle-desc = Die nackten Notwendigkeiten für einen Shuttle.
 
 uplink-shuttle-iff-name = Syndicate IFF Console Board
-uplink-shuttle-iff-desc = Ermöglicht es Ihnen, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
+uplink-shuttle-iff-desc = Ermöglicht es dir, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.

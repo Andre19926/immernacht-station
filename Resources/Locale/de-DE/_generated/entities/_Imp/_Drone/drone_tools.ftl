@@ -1,4 +1,4 @@
-ent-DroneSatchelUnremovable = Sattel
+ent-DroneSatchelUnremovable = Umhängetasche
     .desc = Ein trendy aussehender Satchel.
 
 ent-trayScannerUnremoveable = t-Strahlenscanner
@@ -17,4 +17,4 @@ ent-NetworkConfiguratorUnremoveable = Netzwerkkonfigurator
     .desc = Ein Werkzeug zum Verbinden von Geräten. Hat zwei Modi, einen Listenmodus für Massenverknüpfungsgeräte und einen Verknüpfungsmodus für fortgeschrittene Geräteverknüpfungen.
 
 ent-PinpointerStationUnremoveable = Stationspinpointer
-    .desc = Du bist die Station. Finden Sie sich selbst. Drücken Sie E zum Aktivieren.
+    .desc = Du bist die Station. Finde dich selbst. Drücke E zum Aktivieren.

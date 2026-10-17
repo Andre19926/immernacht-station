@@ -1,4 +1,4 @@
-placeholders-criminal-records-wanted-reason-1 = Essen Sie einen köstlichen gültigen Salat
+placeholders-criminal-records-wanted-reason-1 = Hat einen köstlichen, gültigen Salat gegessen
 placeholders-criminal-records-wanted-reason-2 = Eigene Schuhe essen
 placeholders-criminal-records-wanted-reason-3 = Ein Clown sein
 placeholders-criminal-records-wanted-reason-4 = Ein Mime sein
@@ -16,5 +16,5 @@ placeholders-criminal-records-wanted-reason-15 = AME rechtzeitig einrichten
 placeholders-criminal-records-wanted-reason-16 = Slipped die HoS
 placeholders-criminal-records-wanted-reason-17 = Die Maske des Clowns gestohlen
 placeholders-criminal-records-wanted-reason-18 = Erzählt ein unlustiger Witz
-placeholders-criminal-records-wanted-reason-19 = Tragen Sie eine Gasmaske
+placeholders-criminal-records-wanted-reason-19 = Hat eine Gasmaske getragen
 placeholders-criminal-records-wanted-reason-20 = Schlimmere Boxhandschuhe

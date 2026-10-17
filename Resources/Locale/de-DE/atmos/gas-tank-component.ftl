@@ -19,20 +19,20 @@ comp-gas-tank-examine = Druck: [color=orange]{PRESSURE($pressure)}[/color].
 comp-gas-tank-connected = Es ist mit einer externen Komponente verbunden.
 
 # Examine text when valve is open or closed.
-comp-gas-tank-examine-open-valve = Gasablassventil ist [color=red]offen[/color].
-comp-gas-tank-examine-closed-valve = Gasablassventil ist [color=green]geschlossen[/color].
+comp-gas-tank-examine-open-valve = Das Gasablassventil ist [color=red]offen[/color].
+comp-gas-tank-examine-closed-valve = Das Gasablassventil ist [color=green]geschlossen[/color].
 
 ## ControlVerb
-control-verb-open-control-panel-text = Offene Kontrolltafel
+control-verb-open-control-panel-text = Bedienfeld öffnen
 
 ## UI
-gas-tank-window-internals-toggle-button = Umschalter
+gas-tank-window-internals-toggle-button = Umschalten
 gas-tank-window-output-pressure-label = Ausgangsdruck
-gas-tank-window-tank-pressure-text = Druck: {$tankPressure} kPA
-gas-tank-window-internal-text = Interne Einrichtungen: {$status}
+gas-tank-window-tank-pressure-text = Druck: {$tankPressure} kPa
+gas-tank-window-internal-text = Atemgerät (Internals): {$status}
 gas-tank-window-internal-connected = [color=green]Verbunden[/color]
-gas-tank-window-internal-disconnected = [color=red]Trennung[/color]
+gas-tank-window-internal-disconnected = [color=red]Getrennt[/color]
 
 ## Valve
-comp-gas-tank-open-valve = Offenes Ventil
-comp-gas-tank-close-valve = Schließventil
+comp-gas-tank-open-valve = Ventil öffnen
+comp-gas-tank-close-valve = Ventil schließen

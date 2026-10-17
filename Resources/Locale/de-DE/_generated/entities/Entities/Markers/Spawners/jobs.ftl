@@ -1,6 +1,6 @@
-ent-SpawnPointObserver = Beobachter-Laichpunkt
+ent-SpawnPointObserver = Beobachter-Spawnpunkt
 
-ent-SpawnPointLatejoin = Laichpunkt
+ent-SpawnPointLatejoin = Spätbeitritts-Spawnpunkt
 
 ent-SpawnPointAnyJob = Jeder Job Spawn Point
 
@@ -56,7 +56,7 @@ ent-SpawnPointAtmos = Atmosphären
 
 ent-SpawnPointChiefMedicalOfficer = Chiefmedicalofficer
 
-ent-SpawnPointMedicalDoctor = Arzt
+ent-SpawnPointMedicalDoctor = Spawnpunkt: Arzt
 
 ent-SpawnPointParamedic = Sanitäter
 
@@ -66,7 +66,7 @@ ent-SpawnPointScientist = Wissenschaftler
 
 ent-SpawnPointHeadOfSecurity = Sicherheit
 
-ent-SpawnPointWarden = Leiter
+ent-SpawnPointWarden = Warden
 
 ent-SpawnPointSecurityOfficer = Sicherheitsbeamter
 

@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-metabolism-component-is-comfortable = Sie fühlen sich wohl
+metabolism-component-is-comfortable = Du fühlst dich wohl
 metabolism-component-is-sweating = Du schwitzt
 metabolism-component-is-shivering = Du zitterst

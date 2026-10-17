@@ -1,2 +1,2 @@
-petting-failure-gemini = Sie erreichen zu pet {THE($target)}, aber {POSS-ADJ($target)} zerfällt in winzige Nanomaschinen vor Ihren Händen.
-petting-success-gemini = Du Hund {THE($target)} am {POSS-ADJ($target)} Nanomaschine zusammengesetzt Kopf.
+petting-failure-gemini = Du streckst die Hand aus, um {THE($target)} zu streicheln, aber der Kopf löst sich vor deinen Händen in winzige Nanomaschinen auf.
+petting-success-gemini = Du streichelst {THE($target)} über den aus Nanomaschinen bestehenden Kopf.

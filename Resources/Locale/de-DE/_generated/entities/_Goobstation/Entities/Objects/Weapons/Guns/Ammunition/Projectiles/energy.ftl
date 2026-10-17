@@ -4,7 +4,7 @@ ent-RifleBulletEnergyGunLethal = Gewehrenergiebolzen
 ent-RifleBulletEnergyGunIon = Gewehrionenbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-RifleBulletEnergyGunDisabler = Gewehrsperrbolzen
+ent-RifleBulletEnergyGunDisabler = Neutralisierer-Gewehrbolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-RifleBulletEnergyGunAsh = Ascheenergiebolzen

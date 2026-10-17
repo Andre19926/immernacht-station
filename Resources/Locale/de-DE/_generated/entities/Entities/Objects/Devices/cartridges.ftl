@@ -2,13 +2,13 @@ ent-NotekeeperCartridge = Notenkassette
     .desc = Ein Programm zur Aufbewahrung von Notizen.
 
 ent-NanoTaskCartridge = NanoTask Patrone
-    .desc = Ein Programm, mit dem Sie eine Liste der zu erledigenden Aufgaben führen können.
+    .desc = Ein Programm, mit dem du eine Liste der zu erledigenden Aufgaben führen kannst.
 
 ent-NewsReaderCartridge = Nachrichtenpatrone
     .desc = Ein Programm zum Lesen von Nachrichten.
 
 ent-CrewManifestCartridge = Patronen für das Manifest
-    .desc = Ein Programm zur Auflistung Ihrer Crewmitglieder.
+    .desc = Ein Programm zur Auflistung deiner Crewmitglieder.
 
 ent-NetProbeCartridge = NetProbe Patrone
     .desc = Ein Programm zum Abrufen der Adresse und Häufigkeit von Netzwerkgeräten.

@@ -10,20 +10,20 @@
 
 ## Entity
 
-reagent-dispenser-component-activate-no-hands = Sie haben keine Hände.
-reagent-dispenser-component-cannot-put-entity-message = Sie können das nicht in den Dispenser legen!
+reagent-dispenser-component-activate-no-hands = Du hast keine Hände.
+reagent-dispenser-component-cannot-put-entity-message = Das kannst du nicht in den Dispenser legen!
 
 ## Bound UI
 
-reagent-dispenser-bound-user-interface-title = Reagenzspender
+reagent-dispenser-bound-user-interface-title = Reagenzienspender
 
 ## UI
 
-reagent-dispenser-window-amount-to-dispense-label = Betrag
-reagent-dispenser-window-clear-button = klar
-reagent-dispenser-window-eject-button = Auswurf
+reagent-dispenser-window-amount-to-dispense-label = Menge
+reagent-dispenser-window-clear-button = Leeren
+reagent-dispenser-window-eject-button = Auswerfen
 reagent-dispenser-window-eject-container-button = ⏏
-reagent-dispenser-window-no-container-loaded-text = Kein Container beladen.
-reagent-dispenser-window-reagent-name-not-found-text = Reagensname nicht gefunden
+reagent-dispenser-window-no-container-loaded-text = Kein Behälter eingesetzt.
+reagent-dispenser-window-reagent-name-not-found-text = Reagenzname nicht gefunden
 reagent-dispenser-window-unknown-reagent-text = Unbekanntes Reagenz
 reagent-dispenser-window-quantity-label-text = {$quantity}u

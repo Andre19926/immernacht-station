@@ -8,7 +8,7 @@ ent-OrganSynthTongue = Synthionzunge
     .desc = Es ist eine Zunge, fähig zu unaussprechlichen Dingen. Es hat ein kleines Logo auf der Rückseite eines offensiv rosa Synth. Du weißt nicht, warum du es beleidigend findest.
 
 ent-OrganSynthAppendix = roter Stein
-    .desc = Wenn Sie das sehen, ist es schon zu spät. Es tut mir leid.
+    .desc = Wenn du das siehst, ist es schon zu spät. Es tut mir leid.
 
 ent-OrganSynthEars = Audiopackung
     .desc = Ein Sensorpaket, das für den Einbau in einen Synth entwickelt wurde. Dieser enthält Audiosensoren.
@@ -28,5 +28,5 @@ ent-OrganSynthLiver = Syntherleber
 ent-OrganSynthKidneys = Energiespule
     .desc = Eine Synth-Energiespule. Es filtert alles heraus, wofür der Rest des Körpers keine Verwendung hat.
 
-ent-OrganSynthPowerCell = Synthesizer-Kraftstoffzelle
+ent-OrganSynthPowerCell = Synthesizer-Energiezelle
     .desc = Eine wiederaufladbare Kraftzelle, die so geformt ist, dass sie in das Endoskelett eines Synth passt. Kann in jedem Zellenladegerät nachgefüllt werden.

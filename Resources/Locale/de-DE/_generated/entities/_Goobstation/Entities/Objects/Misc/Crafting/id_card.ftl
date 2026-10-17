@@ -1,5 +1,5 @@
-ent-IDCardTide = Tide ID-Karte
+ent-IDCardTide = Tide-ID-Karte
     .desc = Provisorische ID-Karte, gemacht von Gott weiß was.
 
-ent-IDCardTideUnfinished = unbearbeitete behelfsmäßige ID-Karte
+ent-IDCardTideUnfinished = Unfertige behelfsmäßige ID-Karte
     .desc = Und Gott ist Barmherzigkeit.

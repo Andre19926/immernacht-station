@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sleeper-title = Der Geist
-sleeper-description = Eine ruhige Erfahrung mit einer Reihe von friedlichen Veranstaltungen.
+sleeper-title = Das Gespenst
+sleeper-description = Eine ruhige Runde mit allerlei friedlichen Ereignissen.

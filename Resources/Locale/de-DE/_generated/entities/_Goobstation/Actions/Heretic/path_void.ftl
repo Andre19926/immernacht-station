@@ -1,11 +1,11 @@
 ent-ActionHereticVoidBlast = Leere Explosion
-    .desc = Feuert einen Eiskegel vor euch ab.
+    .desc = Feuert einen Eiskegel vor dir ab.
 
 ent-ActionHereticVoidPhase = Voidphase
-    .desc = Wechseln Sie durch die Leere und schlagen Sie alle um Sie herum nieder.
+    .desc = Wechseln dich durch die Leere und schlage alle um dich herum nieder.
 
 ent-ActionHereticVoidPrison = Leeres Gefängnis
-    .desc = Sendet einen Heiden für 10 Sekunden in die Leere. Sie können während der Dauer keine Aktionen durchführen. Danach werden sie gekühlt und in das sterbliche Flugzeug zurückgebracht.
+    .desc = Sendet einen Heiden für 10 Sekunden in die Leere. Du kannst während der Dauer keine Aktionen durchführen. Danach werden sie gekühlt und in das sterbliche Flugzeug zurückgebracht.
 
 ent-ActionHereticVoidPull = Void Pull
     .desc = Nennt die Leere, schädlich, niedergeschlagen, zieht Menschen näher und atemberaubende Menschen in der Nähe.

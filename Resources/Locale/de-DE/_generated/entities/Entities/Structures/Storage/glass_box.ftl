@@ -13,5 +13,5 @@ ent-GlassBoxLaserFilledOpen = Glaskasten
 ent-GlassBoxFrame = Glaskastenrahmen
     .desc = Ein glasloses, robustes Schaufenster für ein teures Exponat.
 
-ent-GlassBoxBroken = Glaskasten
+ent-GlassBoxBroken = Zerbrochener Glaskasten
     .desc = Ein zerbrochenes Schaufenster für eine gestohlene teure Ausstellung.

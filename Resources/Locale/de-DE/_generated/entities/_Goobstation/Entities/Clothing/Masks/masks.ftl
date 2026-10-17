@@ -22,8 +22,8 @@ ent-ClothingMaskMuzzleShock = Schockmündung
 ent-ClothingMaskGasUnremoveable = Gasmaske
     .desc = Eine Gesichtsmaske, die an eine Luftzufuhr angeschlossen werden kann.
 
-ent-ClothingBSOMaskGasSwat = Blauschild-SWAT-Gasmaske
+ent-ClothingBSOMaskGasSwat = Blueshield-SWAT-Gasmaske
     .desc = Eine Standard-Gasmaske für BlueShield Officers
 
 ent-ClothingMaskGasThunderdome = Donnerdom-Gasmaske
-    .desc = Sind Sie bereit für RUMBLEEEE?
+    .desc = Bist du bereit für RUMBLEEEE?

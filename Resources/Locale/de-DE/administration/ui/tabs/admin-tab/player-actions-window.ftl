@@ -8,12 +8,12 @@
 #
 # SPDX-License-Identifier: MIT
 
-admin-player-actions-window-title = Player Actions Panel
-admin-player-actions-window-ban = Verbotspanel
-admin-player-actions-window-admin-ghost = Admin Ghost
-admin-player-actions-window-permissions = Genehmigungsgremium
-admin-player-actions-window-announce = Ankündigung
-admin-player-actions-window-shuttle = (Re)Call Shuttle
-admin-player-actions-window-admin-logs = Admin Logs
-admin-player-actions-window-admin-fax = Admin Fax
-admin-player-actions-window-admin-chat = Admin Chat
+admin-player-actions-window-title = Spieleraktionen
+admin-player-actions-window-ban = Bann-Panel
+admin-player-actions-window-admin-ghost = Admin-Ghost
+admin-player-actions-window-permissions = Rechteverwaltung
+admin-player-actions-window-announce = Ankündigen
+admin-player-actions-window-shuttle = Shuttle (zurück)rufen
+admin-player-actions-window-admin-logs = Admin-Protokoll
+admin-player-actions-window-admin-fax = Admin-Fax
+admin-player-actions-window-admin-chat = Admin-Chat

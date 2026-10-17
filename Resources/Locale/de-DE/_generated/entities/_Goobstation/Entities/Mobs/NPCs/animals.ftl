@@ -38,7 +38,7 @@ ent-MobBearGoon = Bär
     .desc = Warum starrst du an? Noch nie einen Bären gesehen?
 
 ent-MobWhiteWolf = Weißer Wolf
-    .desc = Versuchen Sie nicht, diesen zu streicheln.
+    .desc = Versuche nicht, diesen zu streicheln.
 
 ent-MobHorse = Pferd
     .desc = Sehr üble Kreatur. Für diejenigen, die sich wie Stanzen fühlen.

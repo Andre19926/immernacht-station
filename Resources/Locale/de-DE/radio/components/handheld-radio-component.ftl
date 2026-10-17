@@ -8,9 +8,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-handheld-radio-component-on-use = Das Radio ist jetzt {$radioState}.
-handheld-radio-component-on-examine = Es wird über die {$frequency} Häufigkeit.
-handheld-radio-component-on-state = on
+handheld-radio-component-on-use = Das Funkgerät ist jetzt {$radioState}.
+handheld-radio-component-on-examine = Es sendet auf der Frequenz {$frequency}.
+handheld-radio-component-on-state = eingeschaltet
 handheld-radio-component-off-state = ausgeschaltet
-handheld-radio-component-channel-set = Kanal auf {$channel}
+handheld-radio-component-channel-set = Kanal auf {$channel} gestellt.
 handheld-radio-component-chennel-examine = Der aktuelle Kanal ist {$channel}.

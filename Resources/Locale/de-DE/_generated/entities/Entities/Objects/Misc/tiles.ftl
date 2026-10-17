@@ -1,281 +1,281 @@
-ent-FloorTileItemSteelCheckerDark = dunkler Stahlprüfstein
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelCheckerDark = dunkle Stahl-Schachbrettkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelCheckerLight = Stahllichtprüfstein
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelCheckerLight = helle Stahl-Schachbrettkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDark = dunkle Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDark = dunkle Kachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkDiagonalMini = dunkler Stahl diagonal Mini-Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkDiagonalMini = dunkle diagonale Stahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemDarkDiagonal = dunkle Diagonalkachel aus Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkHerringbone = dunkles Stahlgräten
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkHerringbone = Dunkelstahl-Fischgrät
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkMini = dunkler Stahl Mini-Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkMini = Dunkelstahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkMono = dunkler Stahl Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkMono = dunkle Stahl-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkPavement = dunkler Stahlbelag
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkPavement = Dunkelstahlpflaster
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkPavementVertical = vertikaler Straßenbelag aus dunklem Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkPavementVertical = Dunkelstahlpflaster (vertikal)
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkOffset = Offset dunkle Stahlfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkOffset = versetzte dunkle Stahlkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteel = Stahlfliesen
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteel = Stahlkacheln
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelOffset = Offset-Stahlfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelOffset = versetzte Stahlkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelDiagonalMini = Stahl diagonale Mini-Folien
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelDiagonalMini = diagonale Stahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelDiagonal = Diagonale Stahlfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelDiagonal = Diagonale Stahlkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelHerringbone = Heringsgrat aus Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelHerringbone = Stahl-Fischgrät
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelMini = Mini-Stahlfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelMini = Stahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelMono = Monofliesen aus Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelMono = Stahl-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelPavement = Stahlbelag
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelPavement = Stahlpflaster
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelPavementVertical = vertikaler Stahlbelag
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelPavementVertical = Stahlpflaster (vertikal)
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhite = weiße Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhite = weiße Kachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteOffset = Offset-Weißstahlfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhiteOffset = versetzte Weißstahlkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteDiagonalMini = Weißstahl diagonal Minifliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhiteDiagonalMini = diagonale Weißstahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemWhiteDiagonal = Diagonalkachel aus Weißstahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteHerringbone = Weißer Stahlgräber
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhiteHerringbone = Weißstahl-Fischgrät
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteMini = Weißstahl Mini-Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhiteMini = Weißstahl-Minikachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteMono = Weißstahl-Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhiteMono = Weißstahl-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhitePavement = Straßenbelag aus weißem Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhitePavement = Weißstahlpflaster
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhitePavementVertical = vertikaler Straßenbelag aus weißem Stahl
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWhitePavementVertical = Weißstahlpflaster (vertikal)
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemMetalDiamond = Stahlfliesen
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemMetalDiamond = Stahlkacheln
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemWood = Holzfußboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemTechmaint = techmaint floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemTechmaint = Techmaint-Boden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemTechmaintDark = Dark Techmaint Floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemTechmaintDark = Dunkler Techmaint-Boden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemMono = Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemMono = Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemLino = Linoleumboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemBrassFilled = gefüllte Messingplatte
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemBrassReebe = glatte Messingplatte
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDirty = Schmutzfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDirty = Schmutzkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemElevatorShaft = Aufzugsschachtfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemElevatorShaft = Aufzugsschachtkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemRockVault = Steingewölbefliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemRockVault = Steingewölbekachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemBlue = blaue Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemBlue = blaue Kachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemLime = Kalkfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemLime = limettengrüne Kachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemMining = Bergbaufliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemMining = Bergbaukachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemMiningDark = Dark Mining Fliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemMiningDark = dunkle Bergbaukachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemMiningLight = Leichtbergbaufliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemMiningLight = helle Bergbaukachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemFreezer = Gefrierfliesen
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemFreezer = Kühlraumkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemShowroom = Showroom Fliesen
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemShowroom = Showroom Kacheln
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemHydro = Hydrofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemHydro = Hydrokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemBar = Balkenfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemBar = Barkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemClown = Clownziegel
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemClown = Clownkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemMime = Mime-Kachel
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemKitchen = Küchenfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemKitchen = Küchenkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemLaundry = Wäschefliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemLaundry = Wäschekachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemConcrete = Betonfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemConcrete = Betonkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemConcreteMono = Beton-Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemConcreteMono = Beton-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemConcreteSmooth = Beton glatt
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemConcreteSmooth = glatter Betonboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGrayConcrete = graue Betonfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGrayConcrete = graue Betonkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGrayConcreteMono = grauer Beton Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGrayConcreteMono = grauer Beton Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGrayConcreteSmooth = grauer Beton glatt
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGrayConcreteSmooth = glatter grauer Betonboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemOldConcrete = alte Betonfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemOldConcrete = alte Betonkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemOldConcreteMono = alte Beton-Monofliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemOldConcreteMono = alte Beton-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemOldConcreteSmooth = alte Beton glatt
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemOldConcreteSmooth = alter glatter Betonboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemIronsandConcrete = Eisensandbetonfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemIronsandConcrete = Eisensandbetonkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemIronsandConcreteMono = Eisensandbeton-Monoziegel
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemIronsandConcreteMono = Eisensand-Beton-Monokachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemIronsandConcreteSmooth = Eisensandbeton glatt
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemIronsandConcreteSmooth = glatter Eisensand-Betonboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemArcadeBlue = Blauer Arcade Floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemArcadeBlue = blaue Spielautomatenkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemArcadeBlue2 = Blauer Arcade Floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemArcadeBlue2 = blaue Spielautomatenkachel (alternativ)
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemArcadeRed = Roter Arcade Floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemArcadeRed = rote Spielautomatenkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemEighties = 80 % Boden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemEighties = Achtzigerkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemCarpetClown = Teppichboden des Clowns
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemCarpetClown = Clown-Teppichkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemCarpetOffice = Büro Teppichboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemCarpetOffice = Büro-Teppichkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemBoxing = Boxringboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGym = Turnhalle
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGym = Turnhallenkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleWhite = weißer Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleBlue = blauer Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleOrange = orangefarbener Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttlePurple = violetter Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleRed = roter Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleGrey = grauer Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemShuttleBlack = schwarzer Shuttleboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGold = Goldboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGold = Goldkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSilver = Silberfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSilver = Silberkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGCircuit = Grüner Stromkreisboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGCircuit = grüne Schaltkreiskachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemBCircuit = blauer Stromkreisboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemBCircuit = blaue Schaltkreiskachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemRCircuit = roter Stromkreisboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemRCircuit = rote Schaltkreiskachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGrass = Grasfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGrass = Graskachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGrassJungle = Dschungelgrasfliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGrassJungle = Dschungelgraskachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSnow = Schneefliese
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSnow = Schneekachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemWoodPattern = Holzmusterboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemFlesh = Fleischboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemSteelMaint = Stahlhauptboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemSteelMaint = Stahl-Wartungsboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemGratingMaint = Rost-Maintboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemGratingMaint = Gitter-Wartungsboden
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWeb = Bahnkacheln
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemWeb = Spinnennetzkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemAstroGrass = Astrogras
     .desc = Gefälschtes Gras, das Drähte bedeckt und sogar mit realistischen NanoTrimmings geliefert wird!
@@ -289,7 +289,7 @@ ent-FloorTileItemJungleAstroGrass = Dschungel-Astrogras
 ent-FloorTileItemDarkAstroGrass = dunkles Astrogras
     .desc = Gefälschtes Gras, das Drähte bedeckt und sogar mit realistischen NanoTrimmings geliefert wird!
 
-ent-FloorTileItemLightAstroGrass = Lichtastrogras
+ent-FloorTileItemLightAstroGrass = helles Astrogras
     .desc = Gefälschtes Gras, das Drähte bedeckt und sogar mit realistischen NanoTrimmings geliefert wird!
 
 ent-FloorTileItemAstroSnow = Astroschnee
@@ -301,47 +301,47 @@ ent-FloorTileItemAstroIce = Astro-Eis
 ent-FloorTileItemAstroAsteroidSand = Asteroiden-Astrosand
     .desc = Fake Sand. Zum Glück ist es nicht so grob wie die reale Sache.
 
-ent-FloorTileItemAstroAsteroidSandBorderless = Borderless Asteroid Astro-Sand
+ent-FloorTileItemAstroAsteroidSandBorderless = randloser Asteroiden-Astrosand
     .desc = Fake Sand. Zum Glück ist es nicht so grob wie die reale Sache.
 
-ent-FloorTileItemAstroIronsand = astro-Ironsand
+ent-FloorTileItemAstroIronsand = Astro-Eisensand
     .desc = Falscher roter Sand. Importiert von gefälschtem Mars.
 
-ent-FloorTileItemAstroIronsandBorderless = grenzenlose astro-ironsand
+ent-FloorTileItemAstroIronsandBorderless = randloser Astro-Eisensand
     .desc = Falscher roter Sand. Importiert von gefälschtem Mars.
 
 ent-FloorTileItemDesertAstroSand = Wüstenastrosand
     .desc = Fake Sand, entworfen, um gut zu sein.
 
 ent-FloorTileItemWoodLarge = Großer Holzboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemWhiteMarble = weiße Marmorfliese
+ent-FloorTileItemWhiteMarble = weiße Marmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Am besten nicht verlieren.
 
-ent-FloorTileItemDarkMarble = dunkle Marmorfliese
+ent-FloorTileItemDarkMarble = dunkle Marmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Am besten nicht verlieren.
 
-ent-FloorTileItemPlasmaMarble = plasmarble Fliese
+ent-FloorTileItemPlasmaMarble = Plasmamarmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Plasma-infundiert für extra ... etwas.
 
-ent-FloorTileItemUraniumMarble = Uran-Marmorfliese
+ent-FloorTileItemUraniumMarble = Uran-Marmorkachel
     .desc = Ein gemeißeltes, poliertes Quadrat des feinsten Space Marble. Uran-infundiert, um es extra rad zu machen! Pun beabsichtigt!
 
 ent-FloorTileItemXeno = Xenoboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemXenoSteel = xeno Stahlboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemXenoSteel = Xeno-Stahlkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemXenoSteelCorner = Xeno Steel Eckboden
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemXenoSteelCorner = Xeno-Stahl-Eckkachel
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemXenoMaint = xeno techmaint floor
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemXenoMaint = Xeno-Techmaint-Boden
+    .desc = Der Boden sollte das halten, nicht dich.
 
 ent-FloorTileItemXenoborg = Xenoborg-Boden
-    .desc = Der Boden sollte das halten, nicht Sie.
+    .desc = Der Boden sollte das halten, nicht dich.
 
-ent-FloorTileItemDarkSquiggly = dunkle Stahl-Squiggly-Kachel
-    .desc = Der Boden sollte das halten, nicht Sie.
+ent-FloorTileItemDarkSquiggly = dunkle Stahlkachel (Schnörkel)
+    .desc = Der Boden sollte das halten, nicht dich.

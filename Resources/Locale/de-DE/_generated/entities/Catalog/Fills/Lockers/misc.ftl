@@ -11,10 +11,10 @@ ent-ClosetWallEmergencyFilledRandom = Notwandschrank
     .desc = Es ist eine Speichereinheit für Atemschutzmasken und O2-Tanks.
 
 ent-ClosetEmergencyN2FilledRandom = Notstickstoffschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass Sie Stickstoff atmen.
+    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
 
 ent-ClosetWallEmergencyN2FilledRandom = Notstickstoff-Wandschrank
-    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass Sie Stickstoff atmen.
+    .desc = Es ist voller lebensrettender Ausrüstung. Angenommen, das heißt, dass du Stickstoff atmest.
 
 ent-ClosetFireFilled = Brandschutzschrank
     .desc = Es ist ein Lager für Feuerlöschmittel.

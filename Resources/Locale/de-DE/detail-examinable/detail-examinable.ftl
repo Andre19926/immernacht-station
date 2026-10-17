@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-detail-examinable-verb-text = Einzelheiten
-detail-examinable-verb-disabled = Betrachten Sie das Objekt genauer.
+detail-examinable-verb-text = Details
+detail-examinable-verb-disabled = Betrachte das Objekt genauer.

@@ -26,7 +26,7 @@ marking-HarpyWingOwlWhitescale-whitescale_harpy_wing_owl = Flügel
 marking-HarpyWingClassic = Klassische Flügel
 marking-HarpyWingClassic-classic_harpy = Flügel
 
-marking-HarpyWing2ToneClassic = Klassische Two Tone Wings
+marking-HarpyWing2ToneClassic = Klassische zweifarbige Flügel …
 marking-HarpyWing2ToneClassic-harpy_2tone_1 = Obere Hälfte
 marking-HarpyWing2ToneClassic-harpy_2tone_2 = untere Hälfte
 
@@ -41,7 +41,7 @@ marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Speckles
 
 marking-HarpyWingUndertoneClassic = Klassische Flügel mit Undertone
 marking-HarpyWingUndertoneClassic-harpy_undertone_1 = vorn
-marking-HarpyWingUndertoneClassic-harpy_undertone_2 = Rücken
+marking-HarpyWingUndertoneClassic-harpy_undertone_2 = Zurück
 
 marking-HarpyWingTipsClassic = Klassische Flügel mit Feder Tipps
 marking-HarpyWingTipsClassic-harpy_wingtip_1 = Hauptverwaltung
@@ -55,10 +55,10 @@ marking-HarpyWingBionic = Einfache bionische Flügel (Whitescale)
 marking-HarpyWingBionic-bionic_wings_tone_1 = Flügel
 marking-HarpyWingBionic-bionic_wings_tone_2 = Lichter (unschattiert)
 
-marking-HarpyEarsDefault = Federröhren
+marking-HarpyEarsDefault = Federbüschel
 marking-HarpyEarsDefault-harpy_ears_default = Röhren
 
-marking-HarpyEarsLarge = Große Feder Tufts
+marking-HarpyEarsLarge = Große Federbüschel
 marking-HarpyEarsLarge-harpy_ears_large = Röhren
 
 marking-HarpyTailPhoenix = Grundschwanz
@@ -89,7 +89,7 @@ marking-HarpyTailForkedLong-forked_long = Schwanz
 
 marking-HarpyTailSwallow = Schwalbenschwanz (Whitescale)
 
-marking-HarpyChestDefault = Wing & Groin Unterwäsche
+marking-HarpyChestDefault = Flügel- und Schritt-Unterwäsche
 marking-HarpyChestDefault-upper = Flügelunterwäsche
 marking-HarpyChestDefault-lower = Leistenunterwäsche
 

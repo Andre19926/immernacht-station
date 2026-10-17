@@ -34,10 +34,10 @@ comp-pda-io-program-fallback-title = Programm
 comp-pda-io-no-programs-available = Keine Programme verfügbar
 
 pda-bound-user-interface-show-uplink-title = Open Uplink
-pda-bound-user-interface-show-uplink-description = Zugriff auf Ihren Uplink
+pda-bound-user-interface-show-uplink-description = Zugriff auf deinen Uplink
 
 pda-bound-user-interface-lock-uplink-title = Lock Uplink
-pda-bound-user-interface-lock-uplink-description = Verhindern Sie, dass jemand ohne Code auf Ihren Uplink zugreift
+pda-bound-user-interface-lock-uplink-description = Verhindern dich, dass jemand ohne Code auf deinen Uplink zugreift
 
 comp-pda-ui-menu-title = PDA
 
@@ -57,13 +57,13 @@ comp-pda-ui-eject-pen-button = Kugelschreiber
 
 comp-pda-ui-ringtone-button = Rington
 
-comp-pda-ui-ringtone-button-description = Ändern Sie den Klingelton Ihres PDA
+comp-pda-ui-ringtone-button-description = Ändern dich den Klingelton deines PDA
 
 comp-pda-ui-toggle-flashlight-button = Taschenlampe
 
 pda-bound-user-interface-music-button = Musikinstrument
 
-pda-bound-user-interface-music-button-description = Musik auf Ihrem PDA abspielen
+pda-bound-user-interface-music-button-description = Musik auf deinem PDA abspielen
 
 comp-pda-ui-unknown = Unbekannt
 

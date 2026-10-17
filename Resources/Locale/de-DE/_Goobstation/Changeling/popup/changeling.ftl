@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-changeling-biomass-deficit-low = Ihre Haut juckt.
+popup-changeling-biomass-deficit-low = Deine Haut juckt.
 popup-changeling-biomass-deficit-medium = Muss eine Nahrungsquelle finden...
 popup-changeling-biomass-deficit-high = Muss essen... JETZT!!

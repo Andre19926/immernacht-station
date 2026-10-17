@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-HumanNoseSchnozz = Schnaps
+marking-HumanNoseSchnozz = Zinken
 marking-HumanNoseSchnozz-schnozz = Nase
 
-marking-HumanNoseNubby = Nubby Nase
+marking-HumanNoseNubby = Stummelnase
 marking-HumanNoseNubby-nubby = Nase
 
-marking-HumanNoseDroop = Droopy Nase
+marking-HumanNoseDroop = Hängende Nase
 marking-HumanNoseDroop-droop = Nase
 
-marking-HumanNoseBlob = Blobby Nase
+marking-HumanNoseBlob = Knollennase
 marking-HumanNoseBlob-blob = Nase
 
-marking-HumanNoseUppie = Uppie Nose
+marking-HumanNoseUppie = Stupsnase
 marking-HumanNoseUppie-uppie = Nase

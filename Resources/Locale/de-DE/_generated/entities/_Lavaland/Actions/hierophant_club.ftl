@@ -1,5 +1,5 @@
-ent-ActionHierophantClubTileMovement = Fluch der Fliesenbewegung
+ent-ActionHierophantClubTileMovement = Fluch der Kachelbewegung
     .desc = Das Ziel bewegt sich nur durch Kacheln.
 
 ent-ActionHierophantClubBlink = Blink
-    .desc = Teleportiert Sie zu jeder Position, die Sie physisch erreichen können.
+    .desc = Teleportiert dich zu jeder Position, die du physisch erreichen kannst.

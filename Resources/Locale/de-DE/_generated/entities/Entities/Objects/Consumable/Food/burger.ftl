@@ -5,7 +5,7 @@ ent-FoodBreadBunBottom = Bodenbrötchen
     .desc = Es ist Zeit, den Burgerturm zu bauen.
 
 ent-FoodBreadBunTop = Oberes Brötchen
-    .desc = Das perfekte Finish für Ihren Burgerturm.
+    .desc = Das perfekte Finish für deinen Burgerturm.
 
 ent-FoodBurgerJelly = Geleeburger
     .desc = Kulinarisches Vergnügen...?
@@ -53,12 +53,12 @@ ent-FoodBurgerDuck = Entensandwich
     .desc = Ein Entensandwich, nur der kriminell Verrückte würde es wagen, das Fleisch einer so entzückenden Kreatur zu essen.
 
 ent-FoodBurgerEmpowered = Empowered Burger
-    .desc = Es ist schockierend gut, wenn Sie von Elektrizität leben, das ist.
+    .desc = Es ist schockierend gut, wenn du von Elektrizität lebst, das ist.
 
 ent-FoodBurgerCarp = Filet-o-Carp-Burger
     .desc = Fast wie ein Karpfen irgendwo schreit...
 
-ent-FoodBurgerFive = Fünf Alarmburger
+ent-FoodBurgerFive = Fünf-Alarm-Burger
 
 ent-FoodBurgerGhost = Geisterburger
     .desc = Zu gruselig!
@@ -70,7 +70,7 @@ ent-FoodBurgerMcguffin = McGuffin
     .desc = Eine billige und fettige Imitation eines Eiers Benedict.
 
 ent-FoodBurgerMcrib = BBQ Rib Sandwich
-    .desc = Ein schwer fassbarer rippenförmiger Burger mit begrenzter Verfügbarkeit in der gesamten Galaxie. Nicht so gut, wie Sie sich erinnern.
+    .desc = Ein schwer fassbarer rippenförmiger Burger mit begrenzter Verfügbarkeit in der gesamten Galaxie. Nicht so gut, wie du dich erinnerst.
 
 ent-FoodBurgerMime = Mime Burger
     .desc = Sein Geschmack trotzt der Sprache.
@@ -79,15 +79,15 @@ ent-FoodBurgerPlain = Plain Burger
     .desc = Ein langweiliger, trockener Burger.
 
 ent-FoodBurgerRat = Rattenburger
-    .desc = So ziemlich das, was Sie erwarten würden...
+    .desc = So ziemlich das, was du erwarten würdest...
 
 ent-FoodBurgerRobot = Burger
     .desc = Der Salat ist die einzige organische Komponente. Piepton.
 
 ent-FoodBurgerSoy = Soylentburger
-    .desc = Nach dem Essen haben Sie den überwältigenden Drang, überteuerte Figuren von Superhelden zu kaufen.
+    .desc = Nach dem Essen hast du den überwältigenden Drang, überteuerte Figuren von Superhelden zu kaufen.
 
-ent-FoodBurgerSpell = Speckburger
+ent-FoodBurgerSpell = Zauberburger
     .desc = Das ist absolut Ei Nath.
 
 ent-FoodBurgerSuper = Super Biss Burger
@@ -99,5 +99,5 @@ ent-FoodBurgerTofu = Tofuburger
 ent-FoodBurgerXeno = Xenoburger
     .desc = riecht ätzend. Schmeckt nach Häresie.
 
-ent-FoodBurgerMothRoach = Mothroachburger
+ent-FoodBurgerMothRoach = Mottenschabenburger
     .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.

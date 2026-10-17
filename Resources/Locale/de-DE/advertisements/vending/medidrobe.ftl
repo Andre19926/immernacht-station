@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-medidrobe-1 = Lassen Sie diese Blutflecken modisch aussehen!!
-advertisement-medidrobe-2 = Sauber und hygienisch! Holen Sie sich nicht zu viele Blutflecken auf sich selbst!
-advertisement-medidrobe-3 = Mit diesen Outfits werden Sie jetzt wie ein professioneller Arzt aussehen!
-advertisement-medidrobe-4 = Jumpsuit, check. Mantel, Kontrolle. Jemand, der das tragen wird? Check!
+advertisement-medidrobe-1 = Lass diese Blutflecken modisch aussehen!!
+advertisement-medidrobe-2 = Sauber und hygienisch! Hol dir nicht zu viele Blutflecken ab!
+advertisement-medidrobe-3 = Mit diesen Outfits siehst du jetzt aus wie ein professioneller Arzt!
+advertisement-medidrobe-4 = Overall, check. Kittel, check. Jemand, der das trägt? Check!

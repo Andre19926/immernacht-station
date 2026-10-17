@@ -14,4 +14,4 @@ ent-KnifePlastic = Kunststoffmesser
     .desc = Das ist kein Messer. Das ist ein Messer.
 
 ent-BarSpoon = Stangenlöffel
-    .desc = Ihr persönlicher Helfer, um Getränke zu mischen und Leben zu verändern.
+    .desc = Dein persönlicher Helfer, um Getränke zu mischen und Leben zu verändern.

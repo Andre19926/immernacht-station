@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 jetpack-downed = Jetpack schaltet sich ab
-jetpack-is-down = Kann den Jetpack nicht im Liegen benutzen
+jetpack-is-down = Du kannst den Jetpack nicht im Liegen benutzen.

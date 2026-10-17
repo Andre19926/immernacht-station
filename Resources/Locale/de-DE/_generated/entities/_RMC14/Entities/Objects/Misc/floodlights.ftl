@@ -5,7 +5,7 @@ ent-RMCTallFloodlight = Hohe Flutlicht
     .desc = Eine Lichtsäule in der Dunkelheit.
 
 ent-RMCFloodlightBroken = Hohes, gebrochenes Flutlicht
-    .desc = Ein eingeklebter Hinweis sagt: "Um die Platte zu reparieren, schrauben Sie sie ab, Brecheisen die beschädigte Baugruppe aus, schweißen Sie sie fest, fügen Sie 2 Kabel hinzu und schließen Sie dann die Platte."
+    .desc = Ein eingeklebter Hinweis sagt: "Um die Platte zu reparieren, schraube sie ab, Brecheisen die beschädigte Baugruppe aus, schweiße sie fest, füge 2 Kabel hinzu und schließe dann die Platte."
 
 ent-RMCLZFloodlight = Landelicht
     .desc = Ein starkes Licht, das normalerweise in der Nähe von Landezonen stationiert ist, um eine bessere Sicht zu bieten. Dieser scheint verschraubt worden zu sein und kann nicht bewegt werden.

@@ -13,19 +13,19 @@
 
 ## Entity
 
-plant-holder-component-plant-success-message = Sie pflanzen die {$seedName} {$seedNoun}.
+plant-holder-component-plant-success-message = Du pflanzt {$seedName} ({$seedNoun}).
 plant-holder-component-already-seeded-message = Die {$name} hat bereits Samen darin!
-plant-holder-component-remove-weeds-message = Sie entfernen das Unkraut aus dem {$name}.
+plant-holder-component-remove-weeds-message = Du entfernst das Unkraut aus {$name}.
 plant-holder-component-remove-weeds-others-message = {$otherName} beginnt, das Unkraut zu entwurzeln.
 plant-holder-component-no-weeds-message = Diese Handlung ist frei von Unkraut! Es braucht keine Entwurzelung.
-plant-holder-component-remove-plant-message = Sie entfernen die Pflanze aus dem {$name}.
+plant-holder-component-remove-plant-message = Du entfernst die Pflanze aus {$name}.
 plant-holder-component-remove-plant-others-message = {$name} entfernt die Pflanze.
 plant-holder-component-no-plant-message = Es gibt keine Pflanze zu entfernen.
-plant-holder-component-transfer-message = Sie übertragen {$amount}u bis {$owner}.
+plant-holder-component-transfer-message = Du überträgst {$amount}u an {$owner}.
 plant-holder-component-nothing-to-sample-message = Es gibt nichts zu nehmen eine Probe von!
 plant-holder-component-already-sampled-message = Diese Pflanze wurde bereits beprobt.
 plant-holder-component-dead-plant-message = Diese Pflanze ist tot.
-plant-holder-component-take-sample-message = Sie nehmen eine Probe von der {$seedName}.
+plant-holder-component-take-sample-message = Du nimmst eine Probe von der {$seedName}.
 plant-holder-component-compost-message = Du kompostierst {$usingItem} in {$owner}.
 plant-holder-component-compost-others-message = {$user} Kompost {$usingItem} in {$owner}.
 plant-holder-component-nothing-planted-message = Es hat nichts darin gepflanzt..
@@ -34,7 +34,7 @@ plant-holder-component-something-already-growing-low-health-message = Die Pflanz
 plant-holder-component-plant-old-adjective = alt und welkend
 plant-holder-component-plant-unhealthy-adjective = ungesund
 plant-holder-component-dead-plant-matter-message = Es ist voll von [color=red]tote Pflanzenstoffe[/color].
-plant-holder-component-weed-high-level-message = Es ist gefüllt mit [color=green]Unkräuter[/color]!
+plant-holder-component-weed-high-level-message = Es ist voller [color=green]Unkraut[/color]!
 plant-holder-component-pest-high-level-message = Es ist gefüllt mit [color=gray]winzige Würmer[/color]!
 plant-holder-component-water-level-message = Wasser:     [color=cyan]{$waterLevel}[/color].
 plant-holder-component-nutrient-level-message = Nährstoff: [color=orange]{$nutritionLevel}[/color].

@@ -7,11 +7,11 @@
 
 plant-attribute-growth = Alter
 plant-attribute-water = Wasserstand
-plant-attribute-potency = Potenz
-plant-attribute-weeds = Unkrautgehalt
-plant-attribute-toxins = Toxingehalt
-plant-attribute-nutrition = Nährstoffgehalt
+plant-attribute-potency = Stärke
+plant-attribute-weeds = Unkrautgrad
+plant-attribute-toxins = Toxingrad
+plant-attribute-nutrition = Nährstoffgrad
 plant-attribute-mutation-level = Mutationsgrad
-plant-attribute-pests = Schädlingspegel
+plant-attribute-pests = Schädlingsgrad
 plant-attribute-mutation-mod = Mutationsmodifikator
 plant-attribute-health = Gesundheit

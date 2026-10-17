@@ -1,11 +1,11 @@
 ent-VendingMachineCondiments = Gewürzstation
-    .desc = Slather diese dicken klebrigen Substanzen auf Ihrem Essen für einen vollen Geschmackseffekt.
+    .desc = Slather diese dicken klebrigen Substanzen auf deinem Essen für einen vollen Geschmackseffekt.
 
 ent-VendingMachineAmmo = Befreiungsstation
-    .desc = Eine überwältigende Menge an altem Patriotismus wäscht über Sie, nur indem Sie auf die Maschine schauen.
+    .desc = Eine überwältigende Menge an altem Patriotismus wäscht über dich, nur indem du auf die Maschine schaust.
 
 ent-VendingMachineBooze = Booze-O-Mat
-    .desc = Ein technologisches Wunderwerk, das angeblich nur die Mischung mischen kann, die Sie trinken möchten, sobald Sie nach einer fragen.
+    .desc = Ein technologisches Wunderwerk, das angeblich nur die Mischung mischen kann, die du trinken möchtest, sobald du nach einer fragst.
 
 ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
     .desc = Eine renovierte Booze-O-Mat zur Steigerung der operativen Moral. Ein Abdruck eines blutroten Hardsuits ist auf der einen Seite sichtbar, und die Farbe scheint auf der anderen Seite verascht zu sein.
@@ -14,10 +14,10 @@ ent-VendingMachineCart = PTech
     .desc = PTech Vending! Bereitstellung einer ROBUST-Auswahl von PDAs, Patronen und allem anderen, was ein langweiliger Papierschieber braucht!
 
 ent-VendingMachineChefvend = ChefVend
-    .desc = Ein Zutatenlieferant für alle Ihre Cheffin-Bedürfnisse.
+    .desc = Ein Zutatenlieferant für alle deine Cheffin-Bedürfnisse.
 
 ent-VendingMachineCigs = ShadyCigs Deluxe
-    .desc = Wenn Sie Krebs bekommen möchten, können Sie es genauso gut mit Stil tun.
+    .desc = Wenn du Krebs bekommen möchtest, kannst du es genauso gut mit Stil tun.
 
 ent-VendingMachineClothing = Kleidungsstücke
     .desc = Ein Verkaufsautomat für Kleidung.
@@ -34,20 +34,20 @@ ent-VendingMachineCola = Robuste Softdrinks
 ent-VendingMachineColaBlack = Robuste Softdrinks
     .desc = Ein Softdrink-Anbieter von Robust Industries, LLC.
 
-ent-VendingMachineColaRed = Space Cola Verkäufer
+ent-VendingMachineColaRed = Space-Cola-Automat
     .desc = Es verkauft Cola, im Weltraum.
 
-ent-VendingMachineSpaceUp = Space-Up! Verkäufer
-    .desc = Gönnen Sie sich eine Explosion des Geschmacks.
+ent-VendingMachineSpaceUp = Space-Up!-Automat
+    .desc = Gönne dir eine Explosion des Geschmacks.
 
 ent-VendingMachineSoda = Robuste Softdrinks
     .desc = Ein Softdrink-Anbieter von Robust Industries, LLC.
 
-ent-VendingMachineStarkist = Star-Kist-Verkäufer
+ent-VendingMachineStarkist = Star-Kist-Automat
     .desc = Der Geschmack eines Sterns in flüssiger Form.
 
-ent-VendingMachineShamblersJuice = Shambler's Juice Verkäufer
-    .desc = Schütteln Sie mir etwas von diesem Shambler's Juice!
+ent-VendingMachineShamblersJuice = Shambler's-Juice-Automat
+    .desc = Schütteln dich mir etwas von diesem Shambler's Juice!
 
 ent-VendingMachinePwrGame = Pwr Game Vendor
     .desc = Du willst es, wir haben es. Geführt in Partnerschaft mit Vlad's Salads.
@@ -58,13 +58,13 @@ ent-VendingMachineDrGibb = Dr. Gibb Vendor
 ent-VendingMachineSmite = Smite Vendor
     .desc = Beliebt bei der Verwaltung.
 
-ent-VendingMachineDinnerware = Plasteel Chef's Dinnerware Verkäufer
+ent-VendingMachineDinnerware = Plasteel-Chef's-Geschirrautomat
     .desc = Ein Küchen- und Restaurantausstattungsverkäufer.
 
 ent-VendingMachineMagivend = MagiVend
     .desc = Ein Zauberautomat.
 
-ent-VendingMachineDiscount = Rabatt Dan's
+ent-VendingMachineDiscount = Discount-Dan's-Automat
     .desc = Ein Verkaufsautomat mit Rabatt-Snacks aus dem berüchtigten "Discount Dan" Franchise.
 
 ent-VendingMachineEngivend = Engi-Vend
@@ -116,7 +116,7 @@ ent-VendingMachineVendomat = Vendomat
     .desc = Nur die feinste robuste Ausrüstung im Weltraum!
 
 ent-VendingMachineRobotics = Robotech Deluxe
-    .desc = Alle Werkzeuge, die Sie benötigen, um Ihre eigene Roboterarmee zu erstellen.
+    .desc = Alle Werkzeuge, die du benötigst, um deine eigene Roboterarmee zu erstellen.
 
 ent-VendingMachineYouTool = YouTool
     .desc = Ein Verkaufsautomat mit Standardwerkzeugen. Auf einem Etikett steht: Werkzeuge für Werkzeuge.
@@ -125,9 +125,9 @@ ent-VendingMachineGames = Guter sauberer Spaß
     .desc = Vends dinge, die der kapitän und der chef des personals wahrscheinlich nicht schätzen werden, mit denen sie statt mit ihrem job herumspielen.
 
 ent-VendingMachineChang = Herr Chang
-    .desc = Eine eigennützige chinesische Lebensmittelmaschine, für alle Ihre chinesischen Lebensmittelbedürfnisse.
+    .desc = Eine eigennützige chinesische Lebensmittelmaschine, für alle deine chinesischen Lebensmittelbedürfnisse.
 
-ent-VendingMachineSalvage = Salvage-Verkäufer
+ent-VendingMachineSalvage = Salvage-Automat
     .desc = Der beste Freund eines Zwergs!
 
 ent-VendingMachineDonut = Monkin' Donuts
@@ -146,7 +146,7 @@ ent-VendingBarDrobe = BarDrobe
     .desc = Ein stilvoller Verkäufer, um die stilvollste Barkleidung auszugeben!
 
 ent-VendingMachineChapel = PietyVend
-    .desc = Fügen Sie einfach den Kapitalismus hinzu!
+    .desc = Füge einfach den Kapitalismus hinzu!
 
 ent-VendingMachineCargoDrobe = LadungDrobe
     .desc = Ein hochmoderner Verkaufsautomat für den Kauf von Ladung bezogene Kleidung kostenlos.
@@ -170,7 +170,7 @@ ent-VendingMachineChefDrobe = ChefDrobe
     .desc = Dieser Verkaufsautomat gibt möglicherweise kein Fleisch aus, aber er gibt sicherlich chefbezogene Kleidung aus.
 
 ent-VendingMachineDetDrobe = DetDrobe
-    .desc = Eine Maschine für alle Ihre Detektivbedürfnisse, solange Sie Kleidung brauchen.
+    .desc = Eine Maschine für alle deine Detektivbedürfnisse, solange du Kleidung brauchst.
 
 ent-VendingMachineJaniDrobe = JaniDrobe
     .desc = Ein Selbstreinigungsautomat, der Kleidung für Hausmeister ausgeben kann.

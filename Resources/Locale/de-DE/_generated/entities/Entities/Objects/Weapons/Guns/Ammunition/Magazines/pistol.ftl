@@ -1,4 +1,4 @@
-ent-MagazinePistolSubMachineGunTopMounted = WT550 Magazin (.35 Auto-Top-Montage)
+ent-MagazinePistolSubMachineGunTopMounted = WT550-Magazin (.35 Auto, oben montiert)
     .desc = Unkonventionelles 30-Rund-Top-Feeding-Magazin für den WT550 SMG. Beabsichtigt, allgemeine kinetische Munition aufzunehmen.
 
 ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550 Magazin (.35 Auto-Top-Mounted Any)

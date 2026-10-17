@@ -32,7 +32,7 @@ ent-DrinkMugMetal = Metallschale
     .desc = Ein Metallbecher. Du bist dir nicht sicher, welches Metall.
 
 ent-DrinkMugMoebius = Moebius-Becher
-    .desc = Eine Tasse mit einem Moebius Laboratories Logo darauf. Nicht einmal Ihr Morgenkaffee ist vor Unternehmenswerbung sicher.
+    .desc = Eine Tasse mit einem Moebius Laboratories Logo darauf. Nicht einmal dein Morgenkaffee ist vor Konzernwerbung sicher.
 
 ent-DrinkMugOne = #1 Becher
     .desc = Eine weiße Tasse, es zeigt prominent eine #1.
@@ -50,7 +50,7 @@ ent-DrinkHotCoffee = Kaffee
     .desc = Kaffee ist ein gebrautes Getränk aus gerösteten Samen, die gemeinhin als Kaffeebohnen bezeichnet werden, der Kaffeepflanze.
 
 ent-DrinkCafeLatte = Cafe Latte
-    .desc = Ein schönes, starkes und leckeres Getränk, während Sie lesen.
+    .desc = Ein schönes, starkes und leckeres Getränk, während du liest.
 
 ent-DrinkTeacup = Tee
     .desc = Eine schlichte weiße Porzellan-Teekasse.

@@ -6,6 +6,6 @@
 spacevillain-menu-title = Weltraumschurke
 spacevillain-menu-label-player = Spieler
 spacevillain-menu-button-attack = ATTACK
-spacevillain-menu-button-heal = HEILUNG
-spacevillain-menu-button-recharge = RÜCKGABE
+spacevillain-menu-button-heal = HEILEN
+spacevillain-menu-button-recharge = AUFLADEN
 spacevillain-menu-button-new-game = Neues Spiel

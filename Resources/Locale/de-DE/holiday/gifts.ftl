@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-gift-packin-contains = Diese Gegenwart scheint zu enthalten {INDEFINITE($name)} {$name}.
-christmas-tree-got-gift = Nach ein wenig Graben finden Sie ein Geschenk mit Ihrem Namen darauf!
+gift-packin-contains = Dieses Geschenk scheint Folgendes zu enthalten: {$name}.
+christmas-tree-got-gift = Nach ein wenig Graben findest du ein Geschenk mit deinem Namen darauf!
 christmas-tree-no-gift = Es gibt kein Geschenk unter dem Baum für dich...

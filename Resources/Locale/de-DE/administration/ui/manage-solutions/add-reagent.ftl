@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-add-reagent-window-title = Hinzufügen von {$solution}
+admin-add-reagent-window-title = Zu {$solution} hinzufügen
 admin-add-reagent-window-amount-label = Menge:
-admin-add-reagent-window-search-placeholder = Filter...
-admin-add-reagent-window-add = Addition {$quantity}u {$reagent}
-admin-add-reagent-window-add-invalid-reagent = Wählen Sie ein Reagenz
+admin-add-reagent-window-search-placeholder = Filtern …
+admin-add-reagent-window-add = {$quantity}u {$reagent} hinzufügen
+admin-add-reagent-window-add-invalid-reagent = Wähle ein Reagenz

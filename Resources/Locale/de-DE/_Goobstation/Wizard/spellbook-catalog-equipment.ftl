@@ -7,17 +7,16 @@
 
 spellbook-scrying-orb-name = Scrying Orb
 spellbook-scrying-orb-desc =
-    Eine glühende Kugel mit knisternder Energie, die es Ihnen ermöglicht, während des Lebens zu geistern, so dass Sie die Station mit Leichtigkeit ausspionieren können. Darüber hinaus hält es in der Hand oder in der Tasche wird Ihnen Röntgenblick gewähren.
+    Eine glühende Kugel mit knisternder Energie, die es dir ermöglicht, während des Lebens zu geistern, so dass du die Station mit Leichtigkeit ausspionieren kannst. Darüber hinaus hält es in der Hand oder in der Tasche wird dir Röntgenblick gewähren.
 
 spellbook-spellblade-name = Spellblade
-spellbook-spellblade-desc =
-    Ein magisches Schwert, das verzaubert werden kann, indem man es in der Hand benutzt, um einen einzigartigen On-Hit-Effekt zu haben.
-
-    Beleuchtung: Lichtbögen zwischen nahe gelegenen Zielen, betäuben und beschädigen sie.
-    Feuer: Zündet nahegelegene Ziele bei Treffer und macht den Träger immun gegen Feuer.
-    Bluespace: ermöglicht es Ihnen, eine große Entfernung zu teleportieren und Ziele in einem kleinen Radius um den Teleport-Standort zu zerstören.
-    Forceshield: Wenn Sie getroffen werden, betäuben Sie 5 Sekunden lang und reduzieren Brute- und Hitzeschäden um die Hälfte.
-    Raumzeit: schneidet schneller, aber schwächer und verflucht das Ziel und schneidet es einige Sekunden, nachdem es nicht bei jedem Treffer angeschwemmt wurde.
+spellbook-spellblade-desc = Ein magisches Schwert, das verzaubert werden kann, indem du es in der Hand benutzt. Jede Verzauberung gibt ihm einen eigenen Treffereffekt.
+    
+    Blitz: Lässt Elektrizität zwischen nahen Zielen überspringen, betäubt und verletzt sie.
+    Feuer: Setzt nahe Ziele beim Treffer in Brand und macht den Träger feuerimmun.
+    Bluespace: Teleportiert dich weit weg und wirft Ziele in einem kleinen Radius um das Teleportziel zu Boden.
+    Kraftschild: Macht dich beim Treffer 5 Sekunden lang immun gegen Betäubung und halbiert physischen Schaden und Hitzeschaden.
+    Raumzeit: Schneidet schneller, aber schwächer und belegt das Ziel mit einem Fluch: Ein paar Sekunden nachdem du es nicht mehr getroffen hast, wird es für jeden früheren Treffer erneut aufgeschlitzt.
 
 spellbook-everfull-mug-name = Everfull Becher
 spellbook-everfull-mug-desc =
@@ -29,12 +28,11 @@ spellbook-echo-katana-desc =
 
 spellbook-skates-name = Wizard Skates
 spellbook-skates-desc =
-    Ein Paar Rollschuhe, die Ihre Bewegungsgeschwindigkeit stark erhöhen.
-    Diese Schlittschuhe sind von Kollisionsschutzmagie durchdrungen, so dass Sie sich keine Sorgen machen müssen, wenn Sie auf Hindernisse stoßen.
+    Ein Paar Rollschuhe, die deine Bewegungsgeschwindigkeit stark erhöhen.
+    Diese Schlittschuhe sind von Kollisionsschutzmagie durchdrungen, so dass du dich keine Sorgen machen musst, wenn du auf Hindernisse stößt.
 
 spellbook-hardsuit-name = Mastercrafted Rüstung Set
-spellbook-hardsuit-desc =
-    Ein Artefakt-Rüstungsanzug, mit dem Sie Zauber wirken können und gleichzeitig mehr Schutz vor Angriffen und der Leere des Weltraums bieten.
+spellbook-hardsuit-desc = Eine Artefakt-Rüstung, mit der du Zauber wirken kannst und die zusätzlich besseren Schutz vor Angriffen und dem Vakuum des Weltraums bietet.
     Kann nicht zurückerstattet werden.
 
 spellbook-paper-robe-name = Papier-Mâché Robes
@@ -49,7 +47,7 @@ spellbook-high-freq-desc =
 spellbook-sm-halberd-name = Supermatter Halberd
 spellbook-sm-halberd-desc =
     Mächtige zweihändige Halbbarde, die von Oblivion Enforcers verwendet wird, die in der Lage ist, Ziele bei leichten Angriffen sowie leicht Wände, Fenster, Türen und gefallene Feinde zu zerstören.
-    Der Kauf ermöglicht es Ihnen, magische Oblivion Enforcer-Ausrüstung kostenlos zu erhalten!
+    Der Kauf ermöglicht es dir, magische Oblivion Enforcer-Ausrüstung kostenlos zu erhalten!
 
 spellbook-staff-healing-name = Mitarbeiter von Healing
 spellbook-staff-healing-desc =
@@ -64,18 +62,18 @@ spellbook-staff-change-desc =
 
 spellbook-staff-chaos-name = Mitarbeiter von Chaos
 spellbook-staff-chaos-desc =
-    Ein launisches Werkzeug, das alle Arten von Magie ohne Reim oder Grund abfeuern kann. Die Verwendung bei Personen, die Ihnen wichtig sind, wird nicht empfohlen.
+    Ein launisches Werkzeug, das alle Arten von Magie ohne Reim oder Grund abfeuern kann. Die Verwendung bei Personen, die dir wichtig sind, wird nicht empfohlen.
     Ladet sich automatisch alle 2 Sekunden auf.
 
 spellbook-staff-slipping-name = Mitarbeiter von Slipping
 spellbook-staff-slipping-desc =
     Ein Personal, das magische Bananen schießt. Diese Bananen werden entweder rutschen oder betäuben das Ziel, wenn getroffen. Überraschend zuverlässig!
-    Stellen Sie sicher, dass Sie nicht selbst auf die Bananen treten!
+    Stelle sicher, dass du nicht selbst auf die Bananen trittst!
     Ladet sich automatisch alle 4 Sekunden auf.
 
 spellbook-wand-name = Magic Wand
 spellbook-wand-desc =
-    Der ikonische Zauberstab. Hat 14 verschiedene magische Feuermodi, aktivieren Sie es, um sie zu ändern.
+    Der ikonische Zauberstab. Hat 14 verschiedene magische Feuermodi, aktiviere es, um sie zu ändern.
     Nur Zauberer und ihre Lehrlinge können den Zauberstabfeuermodus ändern.
     Kann für sich selbst verwendet werden.
     Wand ist im Vergleich zu Dauben kompakter, lädt sich aber nicht automatisch auf.
@@ -88,12 +86,12 @@ spellbook-ninjutsu-desc =
 spellbook-hell-rip-name = Hell Ripte Scroll
 spellbook-hell-rip-desc =
     Eine Schriftrolle, die einen Hell Ripte lehrt, eine Kampfkunst und eine Reihe von Taktiken, die von Slaughter Demons verwendet werden.
-    Kaufen Sie dies und Flasche Blut entsperrt den Kauf eines speziellen Schlacht Dämonenherz.
+    Kaufe dies und Flasche Blut entsperrt den Kauf eines speziellen Schlacht Dämonenherz.
     Kann nicht zurückerstattet werden.
 
 spellbook-demon-heart-name = Herz des Dämons
 spellbook-demon-heart-desc =
-    Bei der Verwendung implantiert sich selbst in Ihrem Körper, was Ihnen schlachtendes Dämonenblut kriecht dämonisches Flüstern und die Fähigkeit, Körper zu verschlingen, um Gesundheit zu regenerieren.
+    Bei der Verwendung implantiert sich selbst in deinem Körper, was dir schlachtendes Dämonenblut kriecht dämonisches Flüstern und die Fähigkeit, Körper zu verschlingen, um Gesundheit zu regenerieren.
     Kann nicht zurückerstattet werden.
 
 spellbook-staff-animate-name = Mitarbeiter von Animation
@@ -111,5 +109,5 @@ spellbook-hammer-singularity-description =
 spellbook-crate-of-enchanting-name = Die Kiste von Enchanting
 spellbook-crate-of-enchanting-description =
     Eine Kiste mit gestohlenen Anomaliekernen, die von arkaner Macht herbeigerufen wurden.
-    Wird verwendet, um Ihre Ausrüstung zu verzaubern, um noch mächtiger zu sein!
+    Wird verwendet, um deine Ausrüstung zu verzaubern, um noch mächtiger zu sein!
     Die Auswahl ist zufällig und kann effektiv nutzlos sein. Keine Rückerstattung!

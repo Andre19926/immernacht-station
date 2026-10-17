@@ -51,13 +51,13 @@ uplink-gondola-name = Gondelkiste
 uplink-gondola-desc = Kiste mit einer Gondel mit Standardausgabe.
 
 uplink-operative-radio-name = Nuklearer Teleporter
-uplink-operative-radio-desc = Radio in einem nuklearen Agenten von äußerst fragwürdiger Qualität. No off button, kaufen sie dies, wenn sie bereit sind zu feiern. Sie haben grundlegendes nukleares Betriebsgerät.
+uplink-operative-radio-desc = Ein Funkgerät in Form eines Atomagenten von äußerst fragwürdiger Qualität. Kein Ausschalter. Kauf es, wenn du bereit zum Feiern bist. Er hat die Grundausrüstung eines Atomagenten.
 
 uplink-mobroach-microbomb-name = SyndiRoach Teleporter
-uplink-mobroach-microbomb-desc = Rufen Sie eine handliche Mothroach mit einem Mikrobombenimplantat an. Explodiert, wenn schwer verletzt.
+uplink-mobroach-microbomb-desc = Rufe eine handliche Mottenschabe mit einem Mikrobombenimplantat an. Explodiert, wenn schwer verletzt.
 
 uplink-signaller-name = Fortgeschrittener Fernmelder
-uplink-signaller-desc = Ein Gerät, das Signale in jeder Entfernung auslösen kann. Sie können Elemente mit einem Multitool- oder Netzwerkkonfigurator verknüpfen.
+uplink-signaller-desc = Ein Gerät, das Signale über beliebige Entfernung auslösen kann. Du kannst Gegenstände mit einem Multitool oder Netzwerkkonfigurator verknüpfen.
 
 # bang bang pew pew eat it up i gota go
 
@@ -79,19 +79,19 @@ uplink-dart-gun-name = Dart Gun
 uplink-dart-gun-desc = Diese Waffe wendet Chemikalien auf ihre regenerierende Dartversorgung an und ermöglicht es, Verbündete aus der Ferne zu heilen oder Kriegsverbrechen zu begehen, indem sie Feinde vergiftet.
 
 uplink-his-grace-name = Seine Gnade
-uplink-his-grace-desc = Eine jenseitige Entität, die in einer Toolbox gefangen ist. Wächst an Macht für jede Tötung, wird dich aber verzehren, wenn du nicht gefüttert wirst. Aktivieren Sie in der Hand, um sich zu binden.
+uplink-his-grace-desc = Ein jenseitiges Wesen, gefangen in einer Werkzeugkiste. Wird mit jedem Mord mächtiger, verschlingt dich aber, wenn es nicht gefüttert wird. In der Hand aktivieren, um dich daran zu binden.
 
 uplink-magazine-nailgun-name = Nail Gun Magazine (AP)
-uplink-magazine-nailgun-desc = Fast wie ein normales Magazin für Ihre Nagelpistole. Der einzige Unterschied ist, dass dieser Panzer-Piercing ist.
+uplink-magazine-nailgun-desc = Fast wie ein normales Magazin für deine Nagelpistole. Der einzige Unterschied ist, dass dieser Panzer-Piercing ist.
 
 uplink-pressure-modkit-name = Druckmodkit
-uplink-pressure-modkit-desc = Dieses illegale Modkit nimmt 30 Kapazität Ihres protokinetischen Beschleunigers und übertaktet ihn, um selbst bei ungeeignetem Druck vollen Schaden zu verursachen.
+uplink-pressure-modkit-desc = Dieses illegale Modkit nimmt 30 Kapazität deines protokinetischen Beschleunigers und übertaktet ihn, um selbst bei ungeeignetem Druck vollen Schaden zu verursachen.
 
 uplink-grey-tide-name = Graue Flut
 uplink-grey-tide-desc = Ein altes Artefakt mit magischen Eigenschaften. Identisch mit dem Plasmaspeer, aber fähig, Illusionen zu beschwören, wenn der Träger ein Assistent ist.
 
 uplink-adv-mimery-name = Leitfaden für Advanced Mimery Series
-uplink-adv-mimery-desc = Die klassische zweiteilige Serie, wie Sie Ihre Mime-Fähigkeiten weiter verbessern können. Beim Studium der Serie sollte der Benutzer in der Lage sein, 3x1 unsichtbare Wände zu machen und Kugeln aus den Fingern zu schießen.
+uplink-adv-mimery-desc = Die klassische zweiteilige Serie, wie du deine Mime-Fähigkeiten weiter verbessern kannst. Beim Studium der Serie sollte der Benutzer in der Lage sein, 3x1 unsichtbare Wände zu machen und Kugeln aus den Fingern zu schießen.
 
 # Weapons
 
@@ -99,10 +99,10 @@ uplink-contractor-baton-name = Auftragnehmer Baton
 uplink-contractor-baton-desc = Ein kompakter, spezialisierter Stab, der den Syndicate-Auftragnehmern zugewiesen wurde. Wendet leichte elektrische Schläge auf Ziele an. Diese Stöße können auch die inneren Schaltkreise der meisten Roboter beeinflussen und einen kurzen Betäubungsvorgang durchführen.
 
 uplink-weapon-burner-name = Brenner
-uplink-weapon-burner-desc = Ein vollautomatisches Anti-Material-Gewehr, das .50 Downrange schleudert, solange Sie es schultern können. Feeds von .50 Anti-Materiel Magazine.
+uplink-weapon-burner-desc = Ein vollautomatisches Anti-Material-Gewehr, das.50 Downrange schleudert, solange du es schultern kannst. Feeds von.50 Anti-Materiel Magazine.
 
 uplink-weapon-heavy-shotgun-name = NZ CSG-242
-uplink-weapon-heavy-shotgun-desc = Eine tragbare Menschenrechtsverletzung. Bersten Sie Feuer, hochexplosiv, und wird Sie buchstäblich sechs Fuß zurückschieben, wenn Sie abgefeuert werden. Feeds aus 2 Gauge Trommelmagazinen.
+uplink-weapon-heavy-shotgun-desc = Eine tragbare Menschenrechtsverletzung. Berste Feuer, hochexplosiv, und wird dich buchstäblich sechs Fuß zurückschieben, wenn du abgefeuert wirst. Feeds aus 2 Gauge Trommelmagazinen.
 
 uplink-WSPR-name = WSPR
 uplink-WSPR-desc = Ein schweigendes, unterschalliges und gehäuseloses Gewehr für den Agenten, das keine Spuren hinterlässt. Effektiver gegen unbewaffnete Ziele. Feeds von 9,5mm SMG Magazinen.
@@ -111,7 +111,7 @@ uplink-c20r-name = C-20R
 uplink-c20r-desc = Ein einhändiger Bullpup SMG, der Genauigkeit für reine Feuerrate opfert. Feeds von .35 Auto SMG Magazine.
 
 uplink-buldog-name = Bulldoggen
-uplink-buldog-desc = Eine vollautomatische Bullpup-Flinte, wenn Sie drei Sekunden Zeit haben, um acht Personen in Pasta-Sauce zu verwandeln.
+uplink-buldog-desc = Eine vollautomatische Bullpup-Flinte, wenn du drei Sekunden Zeit hast, um acht Personen in Pasta-Sauce zu verwandeln.
 
 uplink-l6-saw-name = L6 SAW
 uplink-l6-saw-desc = Ein sperriges leichtes Maschinengewehr, das sich hervorragend für unterdrückendes, anhaltendes Feuer eignet. Feeds ab .30 Gewehrkastenmagazine.
@@ -122,8 +122,8 @@ uplink-m90-desc = Ein robustes Sturmgewehr, das seine Genauigkeit über extreme 
 uplink-estoc-name = Estoc
 uplink-estoc-desc = Ein Feuerschießgewehr, das mit einer teuren Tritiumoptik ausgestattet ist. Feeds von .20 Gewehrmagazinen.
 
-uplink-syndicate-disabler-name = Syndicate Disabler
-uplink-syndicate-disabler-desc = Ein schlanker Disabler, der aus einem reversierten NanoTrasen-Prototyp entwickelt wurde. Während es keine Bremskraft hat, gleicht es es mit einer selbstaufladenden Zelle aus.
+uplink-syndicate-disabler-name = Syndicate-Neutralisierer
+uplink-syndicate-disabler-desc = Ein schlanker Neutralisierer, der aus einem reversierten NanoTrasen-Prototyp entwickelt wurde. Während es keine Bremskraft hat, gleicht es es mit einer selbstaufladenden Zelle aus.
 
 uplink-dualetta-bundle-name = Dualetta Bundle
 uplink-dualetta-bundle-desc = Kommt mit 2 Dualetta-Pistolen, 2 Maschinenpistolenmagazinen, Kampfhandschuhen, Noir-Anzug, Detektiven Trenchcoat und Schnürschuhen.
@@ -135,13 +135,13 @@ uplink-bulk-mosin-name = Syndicate Bulk Gewehrkiste
 uplink-bulk-mosin-desc = 10 Gewehre aus dem 4. Weltkrieg, um dich, deine Freunde und deine Katze zu bewaffnen. Spart 40% auf Versandkosten durch den Kauf in großen Mengen.
 
 uplink-whimsy-bundle-name = Syndicate Joy und Whimsy Bundle
-uplink-whimsy-bundle-desc = Magst du es, Freude und Laune zu verbreiten? Nun, Donk Co. hat die Lösung für Sie! Enthält eine LIMITED EDITION Axt und genug Süßigkeiten, um einen Mann zu töten.
+uplink-whimsy-bundle-desc = Magst du es, Freude und Laune zu verbreiten? Nun, Donk Co. hat die Lösung für dich! Enthält eine LIMITED EDITION Axt und genug Süßigkeiten, um einen Mann zu töten.
 
 uplink-m7s-name = M7S Ventilator
-uplink-m7s-desc = Die Ausbreitung dieser Maschinenpistole wird enger, je länger Sie Ihre Feinde damit unterdrücken. Auch die Schüsse werden unterdrückt. Feeds von Sideloading 5x23mm Magazinen.
+uplink-m7s-desc = Die Ausbreitung dieser Maschinenpistole wird enger, je länger dich deine Feinde damit unterdrücken. Auch die Schüsse werden unterdrückt. Feeds von Sideloading 5x23mm Magazinen.
 
 uplink-combat-shotgun-name = Bojevic
-uplink-combat-shotgun-desc = Eine Pump-Action-Flinte, wenn Sie Ziele abstoßen müssen, die sich hinter zwei Plastikwänden, einem Kühlschrank und einer Autotür befinden. Ladet 5 Runden von 8 Gauge.
+uplink-combat-shotgun-desc = Eine Pump-Action-Flinte, wenn du Ziele abstoßen musst, die sich hinter zwei Plastikwänden, einem Kühlschrank und einer Autotür befinden. Ladet 5 Runden von 8 Gauge.
 
 uplink-he1sg8-bundle-name = HE1S-G8 Bundle
 uplink-he1sg8-bundle-desc = High Energy One-Shell Gewehrbündel. Kommt mit 10 Abriss- und 9 hochgeladenen Gauß-8-Patronen für etwas mehr Spaß.
@@ -155,13 +155,13 @@ uplink-frag-grenade-name = Fraggranate (40 mm)
 uplink-frag-grenade-desc = Geringere Schäden, größerer Radius. Kompatibel mit dem China-See.
 
 uplink-mpapers-grenade-name = MP-APERS-Hülle (40 mm)
-uplink-mpapers-grenade-desc = Feuert 20 kleine Pellets aus, um Ihren Granatwerfer in eine Schrotflinte zu verwandeln. Kompatibel mit dem China-See.
+uplink-mpapers-grenade-desc = Feuert 20 kleine Pellets aus, um deinen Granatwerfer in eine Schrotflinte zu verwandeln. Kompatibel mit dem China-See.
 
 uplink-rifle-caseless-mag-name = Gewehrmagazin (9.5mm HP)
 uplink-rifle-caseless-mag-desc = Ein 30-Rund-Gewehrmagazin, gefüllt mit 9,5mm hülsenlosen Magnum-Hohlpunktgeschossen. Kompatibel mit der WSPR.
 
 uplink-pistol-magazine-caseless-saphe-name = Pistolenmagazin (9.5mm SAP-HE)
-uplink-pistol-magazine-caseless-saphe-desc = 10 Patronen mit 9,5 mm gehäuseloser Magnum-Halbpanzerung, die hochexplosive Munition durchdringt. Es ist genau das, was Sie gelesen haben. Kompatibel mit der Cobra.
+uplink-pistol-magazine-caseless-saphe-desc = 10 Patronen mit 9,5 mm gehäuseloser Magnum-Halbpanzerung, die hochexplosive Munition durchdringt. Es ist genau das, was du gelesen hast. Kompatibel mit der Cobra.
 
 uplink-l6-box-name = Magazinbox (.30 Gewehr)
 uplink-l6-box-desc = Magazinbox mit 100 Catridges. Kompatibel mit dem L6 SAW.
@@ -223,13 +223,13 @@ uplink-sarin-gas-grenade-name = Sarinengasgranaten
 uplink-sarin-gas-grenade-desc = Ein brutales neurotoxin-gas, das betäubt, blind macht und jeden vergiftet, der unglücklich genug ist, um einen hauch zu fangen, und jeden verbrennt, der nicht in einem voidsuit ist und sich auf dem boden windet und darum bittet, fertig zu werden.
 
 uplink-M172LAW-name = M172 Leichte Antistrukturwaffe
-uplink-M172LAW-desc = Ein Einweg-Raketenwerfer mit einem einzigen Schuss zum Herausnehmen einzelner Wände / Maschinen mit minimalem Kollateralschaden. kann bequem in Ihrem Rucksack aufbewahrt werden.
+uplink-M172LAW-desc = Ein Einweg-Raketenwerfer mit einem einzigen Schuss zum Herausnehmen einzelner Wände / Maschinen mit minimalem Kollateralschaden. kann bequem in deinem Rucksack aufbewahrt werden.
 
 uplink-RPOA-name = RPO-A „Shmel
-uplink-RPOA-desc = Ein Einweg-Thermoraketenwerfer mit einem einzigen Schuss, der Feinden und Geiseln in einem weiten Radius Feuer versetzt. kann in Ihrem Rucksack aufbewahrt werden.
+uplink-RPOA-desc = Ein Einweg-Thermoraketenwerfer mit einem einzigen Schuss, der Feinden und Geiseln in einem weiten Radius Feuer versetzt. kann in deinem Rucksack aufbewahrt werden.
 
 uplink-ExplosivePayloadBlueprint-name = Explosive Nutzlast Blueprint
-uplink-ExplosivePayloadBlueprint-desc = Eine Blaupause, die es einer einzigen Drehmaschine ermöglicht, explosive Nutzlasten zu drucken, ein illegales und gefährliches Gerät, das in Granaten verwendet werden kann.
+uplink-ExplosivePayloadBlueprint-desc = Eine Blaupause, mit der ein einzelner Lathe explosive Nutzlasten drucken kann. Das ist ein illegales und gefährliches Gerät, das in Granaten verwendet werden kann.
 
 # Mechs
 
@@ -248,7 +248,7 @@ uplink-lollypop-bundle-big-name = Donk Co. Candy Bundle
 uplink-lollypop-bundle-big-desc = Enthält eine gottlose Menge an Süßigkeiten. Was könnten sie enthalten?
 
 uplink-medical-beam-gun-name = Medizinische Beam Gun
-uplink-medical-beam-gun-desc = Heile deine Teamkollegen mit diesem neuen Gerät! Läuft mit interner Batterie und lädt sich nach dem Entladen automatisch auf. Sie können nur einen Teamkollegen auf einmal heilen.
+uplink-medical-beam-gun-desc = Heile deine Teamkollegen mit diesem neuen Gerät! Läuft mit interner Batterie und lädt sich nach dem Entladen automatisch auf. Dich können nur einen Teamkollegen auf einmal heilen.
 
 uplink-advanced-combat-medipen-name = Fortgeschrittene Kampfmedikation
 uplink-advanced-combat-medipen-desc = Ein fortschrittliches Einweg-Medipen, das Chemikalien enthält, die die meisten Arten von Schäden in einem Kampf schnell heilen.
@@ -257,10 +257,10 @@ uplink-syringe-pistol-name = Spritzenpistole
 uplink-syringe-pistol-desc = Eine Waffe, die Spritzen als Munition nimmt und ihren Inhalt ihren Opfern injiziert. Injiziert schneller als normale Spritzenpistolen und kann in Taschen passen.
 
 uplink-combat-medkit-pills-name = Combat Medical Kit (Pillen)
-uplink-combat-medkit-pills-desc = Enthält die meisten Medikamente, die Sie benötigen, um sich von Verletzungen und Krankheiten zu erholen, alles in einer bequemen Pillenform.
+uplink-combat-medkit-pills-desc = Enthält die meisten Medikamente, die du benötigst, um sich von Verletzungen und Krankheiten zu erholen, alles in einer bequemen Pillenform.
 
 uplink-combat-medkit-ipc-name = Combat Medical Kit (IPC)
-uplink-combat-medkit-ipc-desc = Enthält alles, was Sie brauchen, um einen IPC zu heilen; enthält LV-Draht, Industrieschweißer, eine Hochleistungszelle und Mesonbrille.
+uplink-combat-medkit-ipc-desc = Enthält alles, was du brauchst, um einen IPC zu heilen; enthält LV-Draht, Industrieschweißer, eine Hochleistungszelle und Mesonbrille.
 
 # Implants
 
@@ -287,7 +287,7 @@ uplink-autosurgeon-statveka-sandevistan-name = Statveka Sandevistan Autochirurg
 uplink-autosurgeon-statveka-sandevistan-desc = Ersetzt das Herz des Benutzers durch eine Statveka Sandevistan, ein synthetisches Organ, das die Geschwindigkeit und den Reflex des Benutzers auf Kosten seiner Ausdauer drastisch erhöht. Im Gegensatz zu ihrem normalen Gegenstück verlangsamt dieser scheinbar die Zeit in der Nähe des Benutzers. kommt mit einem One-Use-Autochirurgen für die Installation.
 
 uplink-davids-jacket-name = Edgerunner Jacke
-uplink-davids-jacket-desc = Eine Jacke für diejenigen, die besonders daran interessiert sind, ihren Körper zu verbessern, genau wie Sie.
+uplink-davids-jacket-desc = Eine Jacke für alle, die besonders daran interessiert sind, ihren Körper zu verbessern – genau wie du.
 
 uplink-autosurgeon-smartlink-name = Smartlink-Autochirurg
 uplink-autosurgeon-smartlink-desc = Ändert die Arme des Benutzers, um Smartlink-Cyberware einzuschließen, und verbessert das Ziel mit Fernkampfwaffen. Erfordert zu viel Feinabstimmung für einen Menschen, kommt mit einem One-Use-Autochirurgen für die Installation.
@@ -299,7 +299,7 @@ uplink-autosurgeon-berserker-heart-name = Berserker Herz-Autochirurg
 uplink-autosurgeon-berserker-heart-desc = Ersetzt das Herz des Benutzers durch ein Berserker-Implantat, das es ihm ermöglicht, in einen Berserker-Zustand zu gelangen, was seinen Nahkampfschaden, seine Geschwindigkeit und die Verhinderung kritischer Schäden erheblich erhöht. Erfordert zu viel Feinabstimmung für einen Menschen, kommt mit einem One-Use-Autochirurgen für die Installation.
 
 uplink-autosurgeon-jumpstarter-heart-name = Jumpstarter Heart Autochirurg
-uplink-autosurgeon-jumpstarter-heart-desc = Ersetzt das Herz des Benutzers durch ein Jumpstarter-Implantat, das genug Omnizin injiziert, um aufzustehen, sobald Sie einen kritischen Schaden erlitten haben. Hat eine Abklingzeit von 3 Minuten. Erfordert zu viel Feinabstimmung für einen Menschen, kommt mit einem One-Use-Autochirurgen für die Installation.
+uplink-autosurgeon-jumpstarter-heart-desc = Ersetzt das Herz des Benutzers durch ein Jumpstarter-Implantat, das genug Omnizin injiziert, um aufzustehen, sobald du einen kritischen Schaden erlitten hast. Hat eine Abklingzeit von 3 Minuten. Erfordert zu viel Feinabstimmung für einen Menschen, kommt mit einem One-Use-Autochirurgen für die Installation.
 
 # Wearables
 
@@ -307,13 +307,13 @@ uplink-helmet-swat-name = Syndicate SWAT Helm
 uplink-helmet-swat-desc = Robuster Helm, der guten Schutz bietet und auch Flashbang-Sounds in gewissem Maße unterdrückt.
 
 uplink-reverse-bear-trap-name = Rückwärtsfalle
-uplink-reverse-bear-trap-desc = Eine geniale Ausführungsvorrichtung, die auf dem Kopf getragen (oder auf ihn gezwungen) wird. Bewaffnet wird ein konfigurierbarer Timer (30-120 Sekunden), der an der Bärenfalle montiert ist. Wenn es losgeht, werden sich die Kiefer der Falle gewaltsam öffnen und sofort jeden töten, der sie trägt, indem sie ihre Kiefer in zwei Hälften zerreißen. Um zu bewaffnen, greifen Sie jemanden damit an, während er keine Kopfbedeckung trägt.
+uplink-reverse-bear-trap-desc = Eine geniale Ausführungsvorrichtung, die auf dem Kopf getragen (oder auf ihn gezwungen) wird. Bewaffnet wird ein konfigurierbarer Timer (30-120 Sekunden), der an der Bärenfalle montiert ist. Wenn es losgeht, werden sich die Kiefer der Falle gewaltsam öffnen und sofort jeden töten, der sie trägt, indem sie ihre Kiefer in zwei Hälften zerreißen. Um zu bewaffnen, greife jemanden damit an, während er keine Kopfbedeckung trägt.
 
 uplink-belt-rig-name = Grenadiergürtel
-uplink-belt-rig-desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass Ihr Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
+uplink-belt-rig-desc = Eine spezielle Gürtelanlage, um so viele Granaten zu halten, dass dein Arm müde wird, sie alle zu werfen. Kann auch eine Seitenarm und Magazine dafür aufbewahren.
 
 uplink-guerrilla-gloves-name = Guerillahandschuhe
-uplink-guerrilla-gloves-desc = Ein spezielles stoßfestes Paar Handschuhe, die Sie standardmäßig hart greifen lassen, reduzieren Sie Ihre Verlangsamung beim aktiven Greifen und erschweren es den Opfern, Ihren Greifern zu entkommen.
+uplink-guerrilla-gloves-desc = Ein spezielles stoßfestes Paar Handschuhe, die du standardmäßig hart greifen lässt, reduziere deine Verlangsamung beim aktiven Greifen und erschweren es den Opfern, deinen Greifern zu entkommen.
 
 # Deception
 
@@ -337,16 +337,16 @@ uplink-capoeira-name = Capoeira-Handbuch
 uplink-capoeira-desc = Ein Handbuch, das einem einzelnen Benutzer Capoeira beibringt, bevor er sich selbst zerstört. Capoeira konzentriert sich auf schnelle Angriffe, die zu fließenden Combos führen, wobei jede Bewegung schneller und härter ist als die letzte, angetrieben von unerbittlichem Schwung.
 
 uplink-sleeping-carp-name = Weg der schlafenden Karpfenrolle
-uplink-sleeping-carp-desc = Diese Single-Use-Scroll enthält die Geheimnisse einer alten Kampfkunsttechnik. Du wirst unbewaffneten Kampf meistern, dem Fernwaffenfeuer mühelos ausweichen, und der Weltraumkarpfen wird dir freundlich werden. Das Erlernen dieser Kunst bedeutet, dass Sie sich auch weigern werden, unehrenhafte Fernkampfwaffen zu verwenden. durch Wechselschaltungen nicht zu verstehen.
+uplink-sleeping-carp-desc = Diese Single-Use-Scroll enthält die Geheimnisse einer alten Kampfkunsttechnik. Du wirst unbewaffneten Kampf meistern, dem Fernwaffenfeuer mühelos ausweichen, und der Weltraumkarpfen wird dir freundlich werden. Das Erlernen dieser Kunst bedeutet, dass du dich auch weigern wirst, unehrenhafte Fernkampfwaffen zu verwenden. durch Wechselschaltungen nicht zu verstehen.
 
 
 # Misc
 
 uplink-dimension-pot-name = Dimensionierungstopf
-uplink-dimension-pot-desc = Ein Portal zu Ihrer eigenen Taschendimension, das in Form einer Topfpflanze verkleidet ist, denn beim Verstauen eines Gegenstands reicht es nicht aus.
+uplink-dimension-pot-desc = Ein Portal zu deiner eigenen Taschendimension, das in Form einer Topfpflanze verkleidet ist, denn beim Verstauen eines Gegenstands reicht es nicht aus.
 
 uplink-pizza-bomb-name = Nefare Pizza Bombe
-uplink-pizza-bomb-desc = Zuerst von Terroristen entwickelt, wird jetzt vom Syndicate zur Beseitigung hochwertiger Ziele verwendet. Öffnen Sie nicht vor der Explosion.
+uplink-pizza-bomb-desc = Zuerst von Terroristen entwickelt, wird jetzt vom Syndicate zur Beseitigung hochwertiger Ziele verwendet. Öffne nicht vor der Explosion.
 
 uplink-pizza-party-crate-name = Pizza Party Crate
 uplink-pizza-party-crate-desc = Eine Kiste kommt in Form von Katastrophe Pizza Lieferung. Gefüllt mit Pizzas und Pizzabomben, um die explosivste Pizzaparty aller Zeiten zu werfen. Leider kannst du dich nicht erinnern, welches was ist.
@@ -370,10 +370,10 @@ uplink-cddisksyndicate-name = Syndicate Advertisement CD
 uplink-cddisksyndicate-desc = 102.9 Syndicate Radio
 
 uplink-cddisknumber-name = Nummer Station CD
-uplink-cddisknumber-desc = Rufen Sie eine Drohung an, um die Station abzulenken ... viel Glück beim Spielen der ganzen Sache.
+uplink-cddisknumber-desc = Rufe eine Drohung an, um die Station abzulenken... viel Glück beim Spielen der ganzen Sache.
 
 uplink-box-xenobio-name = Xenobiology Slimes Box
-uplink-box-xenobio-desc = Schleime für Ihre Xenobiologie Bedürfnisse. Enthält 9 zufällige T1-Schleime.
+uplink-box-xenobio-desc = Schleime für deine Xenobiologie Bedürfnisse. Enthält 9 zufällige T1-Schleime.
 
 # Contractor
 

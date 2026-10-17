@@ -16,29 +16,29 @@
 
 ## UI
 
-ui-disposal-unit-title = Entsorgungseinheit
+ui-disposal-unit-title = Müllentsorgungseinheit
 
-ui-disposal-unit-label-state = Staat:
+ui-disposal-unit-label-state = Status:
 ui-disposal-unit-label-pressure = Druck:
-ui-disposal-unit-label-status = Fertig
+ui-disposal-unit-label-status = Bereit
 
-ui-disposal-unit-button-flush = Spülung
-ui-disposal-unit-button-eject = Auswurfinhalte
+ui-disposal-unit-button-flush = Spülen
+ui-disposal-unit-button-eject = Inhalt auswerfen
 ui-disposal-unit-button-power = Leistung
 
 ## Verbs
-disposal-flush-verb-get-data-text = Spülung
-disposal-self-insert-verb-get-data-text = Jump innen
-disposal-eject-verb-get-data-text = Auswurfinhalt
+disposal-flush-verb-get-data-text = Spülen
+disposal-self-insert-verb-get-data-text = Hineinspringen
+disposal-eject-verb-get-data-text = Inhalt auswerfen
 
 ## No hands
 disposal-unit-no-hands = Du hast keine Hände!
 
 # state
-disposal-unit-state-Ready = Fertig
+disposal-unit-state-Ready = Bereit
 # Yes I want it to always say Pressurizing
-disposal-unit-state-Flushed = Druck
-disposal-unit-state-Pressurizing = Druck
+disposal-unit-state-Flushed = Druckaufbau
+disposal-unit-state-Pressurizing = Druckaufbau
 
 # putting people in
-disposal-unit-being-inserted = {CAPITALIZE($user)} versucht, Sie in eine Entsorgungsrutsche zu zwingen!
+disposal-unit-being-inserted = {CAPITALIZE($user)} versucht, dich in eine Entsorgungsrutsche zu zwingen!

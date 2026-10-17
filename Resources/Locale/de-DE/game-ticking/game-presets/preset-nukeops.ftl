@@ -17,22 +17,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nukeops-title = Kernkraftbetriebene
-nukeops-description = Nukleare Agenten haben die Station ins Visier genommen. Versuchen Sie, sie davon abzuhalten, die Nuke zu bewaffnen und zu detonieren, indem Sie die Atomscheibe schützen!
+nukeops-title = "Atomkommando" als Titel, in Texten durchgehend "Atomagent(en)".
+nukeops-description = Atomagenten greifen die Station an. Verhindere, dass sie die Nuke scharf machen und zünden: Beschütze die Atomdiskette!
 
-nukeops-welcome =
-    Sie sind ein Atomaktivist. Dein Ziel ist es, zu explodieren {$station}, und stellen Sie sicher, dass es nur ein Haufen Trümmer ist. Ihre Chefs, das Syndicate, haben Ihnen die Werkzeuge zur Verfügung gestellt, die Sie für die Aufgabe benötigen.
-    Betrieb {$name} Es ist ein Go! Tod für Nanotrasen!
-nukeops-briefing = Ihre Ziele sind einfach. Liefern Sie die Nutzlast und steigen Sie aus, bevor die Nutzlast detoniert. Beginn der Mission.
+nukeops-welcome = Du bist ein Atomagent. Dein Ziel ist es, {$station} zu sprengen, bis nur noch ein Trümmerhaufen übrig ist. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung gestellt. | Operation {$name} läuft! Tod für Nanotrasen!
+nukeops-briefing = Deine Ziele sind einfach: Liefere die Bombe ab und verschwinde, bevor sie hochgeht. Mission beginnt.
 
-nukeops-opsmajor = [color=crimson]Syndicate großer Sieg![/color]
-nukeops-opsminor = [color=crimson]Syndicate kleiner Sieg![/color]
+nukeops-opsmajor = [color=crimson]Großer Sieg für das Syndicate![/color]
+nukeops-opsminor = [color=crimson]Kleiner Sieg für das Syndicate![/color]
 nukeops-neutral = [color=yellow]Neutrales Ergebnis![/color]
-nukeops-crewminor = [color=green]Mannschaft kleiner Sieg![/color]
-nukeops-crewmajor = [color=green]Crew großer Sieg![/color]
+nukeops-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
+nukeops-crewmajor = [color=green]Großer Sieg für die Crew![/color]
 
 nukeops-cond-nukeexplodedoncorrectstation = Die Atomaktivisten schafften es, die Station zu sprengen.
-nukeops-cond-nukeexplodedonnukieoutpost = Der nukleare operative Außenposten wurde durch eine nukleare Explosion zerstört!
+nukeops-cond-nukeexplodedonnukieoutpost = Der Außenposten der Atomagenten wurde von einer Atomexplosion zerstört!
 nukeops-cond-nukeexplodedonincorrectlocation = Die Nuke detonierte außerhalb der Station.
 nukeops-cond-nukeactiveinstation = Die Nuke wurde bewaffnet auf der Station gelassen.
 nukeops-cond-nukeactiveatcentcom = Die Nuke wurde bewaffnet und an das CentComm geliefert!
@@ -40,17 +38,17 @@ nukeops-cond-nukediskoncentcom = Die Crew entkam mit der nuklearen Authentifizie
 nukeops-cond-nukedisknotoncentcom = Die Crew ließ die nukleare Authentifizierungsscheibe zurück.
 nukeops-cond-nukiesabandoned = Die Atomaktivisten wurden aufgegeben.
 nukeops-cond-allnukiesdead = Alle Atomarbeiter sind gestorben.
-nukeops-cond-somenukiesalive = Einige Atomaktivisten starben.
-nukeops-cond-allnukiesalive = Keine nuklearen Agenten starben.
+nukeops-cond-somenukiesalive = Einige Atomagenten sind gestorben.
+nukeops-cond-allnukiesalive = Kein Atomagent ist gestorben.
 
-nukeops-list-start = Die nuklearen Agenten waren:
+nukeops-list-start = Die Atomagenten waren:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es gab {$readyPlayersCount} Spieler bereiten sich aus {$minimumPlayers} benötigt. Ich kann Nukeops nicht starten.
+nukeops-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Nukeops kann nicht gestartet werden.
 nukeops-no-one-ready = Keine Spieler bereit! Ich kann Nukeops nicht starten.
 
-nukeops-role-commander = Befehlshaber
-nukeops-role-agent = Korpsmann
-nukeops-role-operator = Betreiber
+nukeops-role-commander = Kommandant
+nukeops-role-agent = Sanitäter
+nukeops-role-operator = Agent
 
-nukeops-roundend-name = eine Kernkraftanlage
+nukeops-roundend-name = ein Atomagent

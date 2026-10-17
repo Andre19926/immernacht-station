@@ -11,38 +11,38 @@
 ## Speech verbs for chat
 
 chat-speech-verb-name-gondola = Gondel
-chat-speech-verb-gondola-1 = Starre
-chat-speech-verb-gondola-2 = Atemzüge
+chat-speech-verb-gondola-1 = starrt
+chat-speech-verb-gondola-2 = atmet
 
 chat-speech-verb-name-dead = Tot
-chat-speech-verb-dead-1 = Salze
-chat-speech-verb-dead-2 = Malzen
-chat-speech-verb-dead-3 = Cops
-chat-speech-verb-dead-4 = Seethes
-chat-speech-verb-dead-5 = Klagen
-chat-speech-verb-dead-6 = Wittlinge
-chat-speech-verb-dead-7 = Stöhnen
-chat-speech-verb-dead-8 = Schreie
-chat-speech-verb-dead-9 = Weiden
+chat-speech-verb-dead-1 = jammert
+chat-speech-verb-dead-2 = heult rum
+chat-speech-verb-dead-3 = redet sich raus
+chat-speech-verb-dead-4 = kocht vor Wut
+chat-speech-verb-dead-5 = klagt
+chat-speech-verb-dead-6 = jault
+chat-speech-verb-dead-7 = stöhnt
+chat-speech-verb-dead-8 = weint
+chat-speech-verb-dead-9 = wehklagt
 
 chat-speech-verb-VoiceModulator-name = Sprachmodulator
-chat-speech-verb-VoiceModulator-1 = Modulate
-chat-speech-verb-VoiceModulator-2 = Summen
-chat-speech-verb-VoiceModulator-3 = Drohnen
-chat-speech-verb-VoiceModulator-4 = Summen
-chat-speech-verb-VoiceModulator-5 = Grieben
+chat-speech-verb-VoiceModulator-1 = moduliert
+chat-speech-verb-VoiceModulator-2 = surrt
+chat-speech-verb-VoiceModulator-3 = dröhnt
+chat-speech-verb-VoiceModulator-4 = brummt
+chat-speech-verb-VoiceModulator-5 = knistert
 
 chat-speech-verb-name-holier-than-thou = Holier Than Thou
-chat-speech-verb-holier-than-thou-1 = Befehle
-chat-speech-verb-holier-than-thou-2 = Vorträge
-chat-speech-verb-holier-than-thou-3 = Gelenke
+chat-speech-verb-holier-than-thou-1 = befiehlt
+chat-speech-verb-holier-than-thou-2 = doziert
+chat-speech-verb-holier-than-thou-3 = formuliert
 chat-speech-verb-holier-than-thou-4 = proklamiert
 chat-speech-verb-holier-than-thou-5 = kündigt an
-chat-speech-verb-holier-than-thou-6 = Recitite
+chat-speech-verb-holier-than-thou-6 = rezitiert
 chat-speech-verb-holier-than-thou-7 = erklärt
-chat-speech-verb-holier-than-thou-8 = Verlautbarungen
+chat-speech-verb-holier-than-thou-8 = verkündet
 
 chat-speech-verb-name-station-radio = Stationsradio
-chat-speech-verb-station-radio-1 = Sendungen
+chat-speech-verb-station-radio-1 = sendet
 
 chat-manager-entity-say-bolded-language-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent][font="{$boldFontType}" size={$fontSize}][color={$color}]{$message}[/color][/font][/BubbleContent]"[/font]

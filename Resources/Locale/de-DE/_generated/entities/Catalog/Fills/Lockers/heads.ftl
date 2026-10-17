@@ -19,10 +19,10 @@ ent-LockerChiefEngineerFilled = Spind des Chefingenieurs
 ent-LockerChiefEngineerFilledHardsuit = Spind des Chefingenieurs
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerChiefMedicalOfficerFilled = Der Spind des Chief Medical Officer
+ent-LockerChiefMedicalOfficerFilled = Chefarzt-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
-ent-LockerChiefMedicalOfficerFilledHardsuit = Der Spind des Chief Medical Officer
+ent-LockerChiefMedicalOfficerFilledHardsuit = Chefarzt-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerResearchDirectorFilled = Spind des Forschungsdirektors

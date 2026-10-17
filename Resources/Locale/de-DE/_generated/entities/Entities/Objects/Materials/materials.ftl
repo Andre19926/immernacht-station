@@ -76,7 +76,7 @@ ent-MaterialWebSilk25 = Seide
 ent-MaterialWebSilk1 = Seide
     .desc = Ein Webby-Material.
 
-ent-MaterialToothSpaceCarp = Raumkarrenzahn
+ent-MaterialToothSpaceCarp = Weltraumkarpfenzahn
     .desc = Ziemlich klein, aber viel böse. Du magst sie am besten, wenn sie nicht in dich versinken.
 
 ent-MaterialToothSpaceCarp1 = Raumkarrenzahn
@@ -98,7 +98,7 @@ ent-MaterialGunpowder = Schießpulver
     .desc = Eine explosive Verbindung.
 
 ent-MaterialGoliathHide = Goliathhautplatten
-    .desc = Stücke eines Goliaths felsige Haut, diese könnten Ihren Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.
+    .desc = Stücke eines Goliaths felsige Haut, diese könnten deinen Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.
 
 ent-MaterialGoliathHide1 = Goliathhautplatten
-    .desc = Stücke eines Goliaths felsige Haut, diese könnten Ihren Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.
+    .desc = Stücke eines Goliaths felsige Haut, diese könnten deinen Anzug ein bisschen haltbarer machen, um von der lokalen Fauna anzugreifen.

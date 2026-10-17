@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-examine-condition-min-solution = Zuerst hinzufügen {$quantity}u von {$reagent}.
-construction-guide-condition-min-solution = Addition {$quantity}u von {$reagent}
+construction-examine-condition-min-solution = Zuerst {$quantity}u {$reagent} hinzufügen.
+construction-guide-condition-min-solution = {$quantity}u {$reagent} hinzufügen

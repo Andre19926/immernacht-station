@@ -8,4 +8,4 @@
 ## AirlockComponent
 
 airlock-component-cannot-pry-is-bolted-message = Die Schrauben der Luftschleuse verhindern, dass sie gezwungen wird!
-airlock-component-cannot-pry-is-powered-message = Die angetriebenen Motoren blockieren Ihre Bemühungen!
+airlock-component-cannot-pry-is-powered-message = Die angetriebenen Motoren blockieren deine Bemühungen!

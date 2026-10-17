@@ -1,19 +1,19 @@
-ent-AdminObserver = Beobachter
+ent-AdminObserver = Admin-Geist
 
-ent-ActionAGhostShowSolar = Solarsteuerschnittstelle
-    .desc = Sehen Sie ein Solar Control Interface.
+ent-ActionAGhostShowSolar = Solar-Steuerung anzeigen
+    .desc = Zeigt eine Solar-Steuerungsoberfläche an.
 
-ent-ActionAGhostShowCommunications = Kommunikationsschnittstelle
-    .desc = Sehen Sie sich eine Kommunikationsschnittstelle an.
+ent-ActionAGhostShowCommunications = Kommunikationskonsole anzeigen
+    .desc = Zeigt eine Kommunikationskonsole an.
 
-ent-ActionAGhostShowRadar = Mass Scanner Interface
-    .desc = Ein Mass Scanner Interface ansehen.
+ent-ActionAGhostShowRadar = Massenscanner anzeigen
+    .desc = Zeigt eine Massenscanner-Oberfläche an.
 
-ent-ActionAGhostShowCargo = Schnittstelle für die Bestellung von Fracht
-    .desc = Ein Fracht Ordering Interface ansehen.
+ent-ActionAGhostShowCargo = Frachtbestellung anzeigen
+    .desc = Zeigt eine Frachtbestellungs-Oberfläche an.
 
-ent-ActionAGhostShowCrewMonitoring = Crewüberwachungsschnittstelle
-    .desc = Sehen Sie ein Crew Monitoring Interface.
+ent-ActionAGhostShowCrewMonitoring = Crew-Überwachung anzeigen
+    .desc = Zeigt eine Crew-Überwachungsoberfläche an.
 
-ent-ActionAGhostShowStationRecords = Schnittstelle Station Records
-    .desc = Sehen Sie sich ein Station Records Interface an.
+ent-ActionAGhostShowStationRecords = Stationsakten anzeigen
+    .desc = Zeigt die Stationsakten an.

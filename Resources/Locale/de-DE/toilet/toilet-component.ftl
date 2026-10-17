@@ -15,10 +15,10 @@
 
 toilet-component-on-examine-found-hidden-item = Es gibt etwas in der Zisterne!
 toilet-component-suicide-head-message-others = {CAPITALIZE(THE($victim))} Steckt den Kopf in {THE($owner)} Und spült es!
-toilet-component-suicide-head-message = Sie stecken den Kopf in {THE($owner)} Und spülen Sie es!
+toilet-component-suicide-head-message = Du steckst den Kopf in {THE($owner)} Und spüle es!
 toilet-component-suicide-message-others = {CAPITALIZE(THE($victim))} bashes selbst mit {THE($owner)}!
-toilet-component-suicide-message = Sie bash sich mit {THE($owner)}!
+toilet-component-suicide-message = Du schlägst dir mit {THE($owner)} den Schädel ein!
 toilet-seat-close = Schließender Sitz
 toilet-seat-open = Offener Sitz
 
-plunger-unblock = Sie entsperren die {THE($target)}!
+plunger-unblock = Du entstopfst {THE($target)}!

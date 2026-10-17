@@ -2,7 +2,7 @@ ent-GlockenspielInstrument = Glockenspiel
     .desc = Das ist ein Instrument.
 
 ent-MusicBoxInstrument = Musikbox
-    .desc = Wenn Sie dies spielen, fühlen Sie sich vor gruseliger Animatronik sicher.
+    .desc = Wenn du dies spielst, fühle dich vor gruseliger Animatronik sicher.
 
 ent-XylophoneInstrument = Xylophon
     .desc = Regenbogenfarbenes Glockenspiel.

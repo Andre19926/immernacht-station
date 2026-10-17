@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-inner-anomaly-start-message-pyro = Du kannst die wahnsinnige Flamme in dir spüren. Sie wurden der Gastgeber einer pyroklastischen Anomalie.
-inner-anomaly-start-message-shock = Blitze zittern an deinen Fingerspitzen! Sie wurden der Gastgeber einer elektrischen Anomalie.
+inner-anomaly-start-message-pyro = Du spürst die wahnsinnige Flamme in dir. Du bist zum Wirt einer pyroklastischen Anomalie geworden.
+inner-anomaly-start-message-shock = Blitze zucken an deinen Fingerspitzen! Du bist zum Wirt einer elektrischen Anomalie geworden.
 inner-anomaly-start-message-shadow = Es strömt eine undurchdringliche Dunkelheit aus dir heraus... Du wurdest zum Gastgeber einer Schattenanomalie.
-inner-anomaly-start-message-frost = Der eisige Frost bindet Ihre Knochen. Du wurdest der Gastgeber einer Eisanomalie.
-inner-anomaly-start-message-flora = Blätter und Blumen sprießen durch Ihre Haut! Sie wurden der Gastgeber einer floralen Anomalie.
-inner-anomaly-start-message-bluespace = Deine Gedanken rasen wie verrückt! Sie wurden zum Gastgeber einer Bluespace-Anomalie.
+inner-anomaly-start-message-frost = Der eisige Frost bindet deine Knochen. Du wurdest der Gastgeber einer Eisanomalie.
+inner-anomaly-start-message-flora = Blätter und Blumen sprießen durch deine Haut! Du wurdest der Gastgeber einer floralen Anomalie.
+inner-anomaly-start-message-bluespace = Deine Gedanken rasen wie verrückt! Du bist zum Wirt einer Bluespace-Anomalie geworden.
 inner-anomaly-start-message-flesh = Dein Körper wächst hektisch. Du wurdest der Gastgeber einer Fleischanomalie.
 inner-anomaly-start-message-grav = Alles wurde unnatürlich schwer und leicht zugleich... Du wurdest zum Gastgeber einer Gravitationsanomalie.
-inner-anomaly-start-message-tech = Ihr Kopf summt mit der Menge an chaotischen Informationen! Sie wurden der Gastgeber einer technischen Anomalie.
+inner-anomaly-start-message-tech = Dein Kopf brummt von der Menge an chaotischen Informationen! Du bist zum Wirt einer Technik-Anomalie geworden.
 inner-anomaly-start-message-rock = Die Kristalle wachsen durch deine Knochen! Du wurdest der Gastgeber einer Rock-Anomalie.
 inner-anomaly-start-message-santa = Du wirst besessen vom Weihnachtsgeist! Du wurdest der Gastgeber einer Weihnachtsanomalie.
 
 inner-anomaly-end-message = Die abnorme Aktivität in dir verschwindet spurlos.
 
-inner-anomaly-severity-info-50 = Sie haben das Gefühl, dass die Anomalie den halben Körper einnimmt.
-inner-anomaly-severity-info-75 = Sie haben das Gefühl, dass die Anomalie einen großen Teil Ihres Körpers übernimmt.
-inner-anomaly-severity-info-90 = Sie haben das Gefühl, dass die Anomalie Ihren Körper fast vollständig übernommen hat.
+inner-anomaly-severity-info-50 = Du hast das Gefühl, dass die Anomalie den halben Körper einnimmt.
+inner-anomaly-severity-info-75 = Du hast das Gefühl, dass die Anomalie einen großen Teil deines Körpers übernimmt.
+inner-anomaly-severity-info-90 = Du hast das Gefühl, dass die Anomalie deinen Körper fast vollständig übernommen hat.
 inner-anomaly-severity-info-100 = Die Anomalie in dir wächst unkontrolliert, verursacht immense Schmerzen und reißt dich auseinander!

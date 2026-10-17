@@ -1,4 +1,4 @@
-﻿# Chest
+# Chest
 
 marking-DwarfConstellationChest = Brustkonstellation
 marking-DwarfConstellationChest-constellation = Brustkonstellation

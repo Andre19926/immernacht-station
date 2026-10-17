@@ -1,2 +1,2 @@
-construction-smokeable-joint-rainbow = Regenbogengelenk
-construction-smokeable-blunt-rainbow = Regenbogenstumpf
+construction-smokeable-joint-rainbow = Regenbogen-Joint
+construction-smokeable-blunt-rainbow = Regenbogen-Blunt

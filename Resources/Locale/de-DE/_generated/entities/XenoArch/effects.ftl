@@ -83,10 +83,10 @@ ent-XenoArtifactKnock = Wirkung
     .desc = Leichte elektromagnetische Störungen
 
 ent-XenoArtifactMagnet = Einmaleffekt
-    .desc = Erstellen Sie kleine Schwerkraft gut
+    .desc = Erstelle kleine Schwerkraft gut
 
 ent-XenoArtifactMagnetNegative = Einmaleffekt
-    .desc = Erstellen Sie kleine Schwerkraft gut
+    .desc = Erstelle kleine Schwerkraft gut
 
 ent-XenoArtifactStealth = Einmaleffekt
     .desc = Lichtinterferenz erzeugen
@@ -107,13 +107,13 @@ ent-XenoArtifactRareMaterialSpawnUranium = Wirkung
     .desc = Uran erzeugen
 
 ent-XenoArtifactAngryCarpSpawn = Wirkung
-    .desc = Erstellen Sie feindliche Fische
+    .desc = Erstelle feindliche Fische
 
 ent-XenoArtifactFaunaSpawn = Wirkung
-    .desc = Erstellen Sie eine freundliche Fauna
+    .desc = Erstelle eine freundliche Fauna
 
 ent-XenoArtifactHostileFaunaSpawn = Wirkung
-    .desc = Erstellen Sie feindliche Fauna
+    .desc = Erstelle feindliche Fauna
 
 ent-XenoArtifactCashSpawn = Wirkung
     .desc = Geld schaffen

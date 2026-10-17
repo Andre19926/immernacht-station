@@ -5,18 +5,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-category-all = alle
+construction-category-all = Alle
 construction-category-furniture = Möbel
-construction-category-storage = Lagerung
+construction-category-storage = Lager
 construction-category-tools = Werkzeuge
-construction-category-materials = Werkstoffe
+construction-category-materials = Materialien
 construction-category-structures = Strukturen
 construction-category-machines = Maschinen
 construction-category-weapons = Waffen
-construction-category-tiles = Fliesen
-construction-category-utilities = Versorgungsunternehmen
-construction-category-misc = Misc
-construction-category-clothing = Bekleidung
+construction-category-tiles = Kacheln
+construction-category-utilities = Hilfsmittel
+construction-category-misc = Sonstiges
+construction-category-clothing = Kleidung
 construction-category-favorites = Favoriten
 construction-add-favorite-button = Zu den Favoriten hinzufügen
 construction-remove-from-favorite-button = Aus Favoriten entfernen

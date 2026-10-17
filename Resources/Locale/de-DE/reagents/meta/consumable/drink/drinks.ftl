@@ -19,7 +19,7 @@ reagent-name-coffee = Kaffee
 reagent-desc-coffee = Ein Getränk aus gebrühten Kaffeebohnen. Enthält eine moderate Menge an Koffein.
 
 reagent-name-cream = Creme
-reagent-desc-cream = Der fettige, noch flüssige Teil der Milch. Warum mischen Sie das nicht mit Sum Scotch, oder?
+reagent-desc-cream = Der fettige, noch flüssige Teil der Milch. Warum mischst du das nicht mit Sum Scotch, oder?
 
 reagent-name-coconut-water = Kokoswasser
 reagent-desc-coconut-water = Ein Favorit von Überlebenden auf verlassenen Inseln.
@@ -28,7 +28,7 @@ reagent-name-cream-of-coconut = Kokoscreme
 reagent-desc-cream-of-coconut = Süße, sirupöse Version von Kokosnusscreme mit Zuckerzusatz.
 
 reagent-name-cafe-latte = Cafe Latte
-reagent-desc-cafe-latte = Ein schönes, starkes und leckeres Getränk, während Sie lesen.
+reagent-desc-cafe-latte = Ein schönes, starkes und leckeres Getränk, während du liest.
 
 reagent-name-tea-powder = Teepulver
 reagent-desc-tea-powder = Fein gemahlene Teeblätter, die zur Herstellung von Tee verwendet werden.
@@ -49,10 +49,10 @@ reagent-name-iced-tea = Eistee
 reagent-desc-iced-tea = Keine Beziehung zu einem bestimmten Rap-Künstler / Schauspieler.
 
 reagent-name-lemonade = Limonade
-reagent-desc-lemonade = Trinken Sie mit Zitronensaft, Wasser und einem Süßstoff wie Rohrzucker oder Honig.
+reagent-desc-lemonade = Trinke mit Zitronensaft, Wasser und einem Süßstoff wie Rohrzucker oder Honig.
 
 reagent-name-arnold-palmer = Arnold Palmer
-reagent-desc-arnold-palmer = Jetzt schauen Sie sich diese Fahrt an.
+reagent-desc-arnold-palmer = Jetzt schaue dich diese Fahrt an.
 
 reagent-name-milk = Milch
 reagent-desc-milk = Eine opake weiße Flüssigkeit, die von den Milchdrüsen von Säugetieren produziert wird.

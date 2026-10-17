@@ -1,7 +1,7 @@
-cassette-repair-start = Sie fangen an, das Band wieder in {THE($item)}.
-cassette-repair-finish = Sie schaffen es, das Band wieder in {THE($item)}.
+cassette-repair-start = Du fängst an, das Band wieder in {THE($item)} aufzuspulen.
+cassette-repair-finish = Du schaffst es, das Band wieder in {THE($item)} einzuspulen.
 tape-cassette-position = In der Kassette geht es um [color=green]{$position}%[/color] den Weg durch.
-tape-cassette-damaged = Die Kassette ist entspulet, verwenden Sie einen Stift oder Schraubenzieher, um es zu reparieren.
+tape-cassette-damaged = Die Kassette ist entspulet, verwende einen Stift oder Schraubenzieher, um es zu reparieren.
 tape-recorder-playing = Das Tonbandgerät ist in [color=green]Wiedergabe[/color] Modus.
 tape-recorder-stopped = Das Tonbandgerät wird angehalten.
 tape-recorder-empty = Das Tonbandgerät ist leer.

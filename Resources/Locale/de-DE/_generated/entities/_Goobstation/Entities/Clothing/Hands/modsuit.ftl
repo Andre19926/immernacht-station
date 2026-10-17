@@ -19,9 +19,9 @@ ent-ClothingModsuitGauntletsAtmostech = aeolus Modsuit-Handschuhe
     .desc = Mit Asbest ausgekleidete modulare Anzughandschuhe zum einfachen Drücken von Tasten auf einer RPD.
 
 ent-ClothingModsuitGauntletsResearchDirector = Minerva Modsuit Gauntlets
-    .desc = Um Ihre Ziffern bei 10 zu halten, nachdem das Artefakt thermonuklear auf Sie geht.
+    .desc = Um deine Ziffern bei 10 zu halten, nachdem das Artefakt thermonuklear auf dich geht.
 
-ent-ClothingModsuitGauntletsCaptain = Magnat-Moll-Knüppel
+ent-ClothingModsuitGauntletsCaptain = Magnat-MODsuit-Handschuhe
     .desc = Hat spezielle Rillen und Schnitte für das Halten dat fukn diiisskk einfacher.
 
 ent-ClothingModsuitGauntletsBrigMed = Trauma Modsuit Gauntlets

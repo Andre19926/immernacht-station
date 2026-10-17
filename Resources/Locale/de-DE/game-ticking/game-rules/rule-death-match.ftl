@@ -7,4 +7,4 @@
 
 rule-death-match-added-announcement = Das Spiel ist jetzt ein Death Match. Töte alle anderen, um zu gewinnen!
 rule-death-match-check-winner-stalemate = Jeder ist tot, es ist eine Pattsituation!
-rule-death-match-check-winner = {$winner} Sie gewinnen das Death Match!
+rule-death-match-check-winner = {$winner} gewinnt das Deathmatch!

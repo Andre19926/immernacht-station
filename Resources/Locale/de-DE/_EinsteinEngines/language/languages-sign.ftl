@@ -22,7 +22,7 @@ chat-speech-verb-sign-nalrasan-6 = Flickt ihre Ohren mehrmals in kurzer Folge
 chat-speech-verb-sign-nalrasan-7 = schwenkt ihre Ohren
 chat-speech-verb-sign-nalrasan-8 = schwenkt die Ohren ein paar Mal
 chat-speech-verb-sign-nalrasan-9 = schwenkt ihre Ohren mehrmals in schneller Folge
-chat-speech-verb-sign-nalrasan-10 = Ihre Ohren schwenken eine Weile
+chat-speech-verb-sign-nalrasan-10 = schwenkt eine Weile die Ohren
 
 chat-speech-verb-sign-nalrasan-11 = Flickt mit dem Schwanz
 chat-speech-verb-sign-nalrasan-12 = Flickt den Schwanz ein paar Mal

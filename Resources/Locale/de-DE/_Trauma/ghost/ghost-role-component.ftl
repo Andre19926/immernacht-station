@@ -10,4 +10,4 @@ ghost-role-information-nukie-spider-description = Eine Nuclear Operative Spider 
 ghost-role-information-syndicate-cyborg-medical-name = Syndicate Medical Cyborg
 
 ghost-role-information-syndicate-behonker-name = Syndicate Behonker
-ghost-role-information-syndicate-behonker-desc = Ein Schüler der Honkmother braucht dich. Helfen Sie ihnen in ihrer Zeit der Not.
+ghost-role-information-syndicate-behonker-desc = Ein Schüler der Honkmother braucht dich. Hilf ihnen in ihrer Zeit der Not.

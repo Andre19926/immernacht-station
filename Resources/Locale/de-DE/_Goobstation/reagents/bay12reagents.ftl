@@ -8,7 +8,7 @@ reagent-name-milk-choco = Schokoladenmilch
 reagent-desc-milk-choco = Ein Milchgetränk mit Schokolade aromatisiert.
 
 reagent-name-tramadol = Tramadol
-reagent-desc-tramadol = Ein starkes Kampfschmerzmittel. Nehmen Sie nicht mit Alkohol.
+reagent-desc-tramadol = Ein starkes Kampfschmerzmittel. Nimm nicht mit Alkohol.
 
 reagent-name-oxycodone = Oxycodon
-reagent-desc-oxycodone = Ein sehr starkes Schmerzmittel, das im Wesentlichen alle Schmerzen betäubt, aber eine brutale Überdosis hat. Nehmen Sie nicht mit Alkohol.
+reagent-desc-oxycodone = Ein sehr starkes Schmerzmittel, das im Wesentlichen alle Schmerzen betäubt, aber eine brutale Überdosis hat. Nimm nicht mit Alkohol.

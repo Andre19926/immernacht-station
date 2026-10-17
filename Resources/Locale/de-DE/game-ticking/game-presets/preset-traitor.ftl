@@ -38,47 +38,47 @@ traitor-no-one-ready = Keine Spieler bereit! Kann Traitor nicht starten.
 ## TraitorDeathMatch
 traitor-death-match-title = Traitor Deathmatch
 traitor-death-match-description = Jeder ist ein Verräter. Alle wollen einander tot sehen.
-traitor-death-match-station-is-too-unsafe-announcement = Die Station ist zu unsicher, um fortzufahren. Sie haben eine Minute Zeit.
-traitor-death-match-end-round-description-first-line = Die PDAs erholten sich danach...
+traitor-death-match-station-is-too-unsafe-announcement = Die Station ist zu unsicher, um fortzufahren. Du hast eine Minute Zeit.
+traitor-death-match-end-round-description-first-line = Die danach geborgenen PDAs ...
 traitor-death-match-end-round-description-entry = {$originalName}'s PDA, mit {$tcBalance} TC
 
 ## TraitorRole
 
 # TraitorRole
-traitor-role-greeting =
-    Sie sind ein Agent, der von [color = darkred]Das Syndicate[/color] im Namen von {$corporation}.
-    Ihre Ziele und Codewörter sind im Charaktermenü aufgeführt.
-    Verwenden Sie Ihren Uplink, um die Werkzeuge zu kaufen, die Sie für diese Mission benötigen.
+traitor-role-greeting = 
+    Du bist ein Agent, entsandt vom [color = darkred]Syndicate[/color] im Namen von {$corporation}.
+    Deine Ziele und Codewörter stehen im Charaktermenü.
+    Kaufe mit deinem Uplink die Werkzeuge, die du für diese Mission brauchst.
     Tod für Nanotrasen!
 traitor-role-codewords =
     Die Codewörter sind: [color = lightgray]
     {$codewords}.[/color]
     Codewörter können in regelmäßigen Gesprächen verwendet werden, um sich diskret gegenüber anderen Verrätern zu identifizieren.
 traitor-role-uplink-code =
-    Setzen Sie Ihren Klingelton auf die Noten [color = lightgray]{$code}[/color] um Ihren Uplink zu sperren oder zu entsperren.
-    Denken Sie daran, es danach zu sperren, oder die Crew der Station wird es auch leicht öffnen!
+    Setze deinen Klingelton auf die Noten [color = lightgray]{$code}[/color] um deinen Uplink zu sperren oder zu entsperren.
+    Denke daran, es danach zu sperren, oder die Crew der Station wird es auch leicht öffnen!
 traitor-role-uplink-implant =
-    Ihr Uplink-Implantat wurde aktiviert, greifen Sie von Ihrer Hotbar darauf zu.
-    Der Uplink ist sicher, es sei denn, jemand entfernt ihn aus Ihrem Körper.
+    Dein Uplink-Implantat wurde aktiviert, greife von deiner Hotbar darauf zu.
+    Der Uplink ist sicher, es sei denn, jemand entfernt ihn aus deinem Körper.
 
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =
     Die Codewörter sind:
     {$codewords}.
 
-traitor-role-uplink-code-short = Ihr Uplink-Code ist {$code}Stellen Sie es als Ihren PDA-Klingelton ein, um Zugang zum Schwarzmarkt zu erhalten.
-traitor-role-uplink-pen-code-short = Dein Pen Uplink Code ist {$code}Drehen Sie den Stift zum Entsperren. Schlösser wenn geschlossen.
-traitor-role-uplink-implant-short = Dein Uplink wurde implantiert. Greifen Sie aus dem Aktionsmenü darauf zu.
+traitor-role-uplink-code-short = Dein Uplink-Code ist {$code}Stellen dich es als deinen PDA-Klingelton ein, um Zugang zum Schwarzmarkt zu erhalten.
+traitor-role-uplink-pen-code-short = Dein Pen Uplink Code ist {$code}Drehen dich den Stift zum Entsperren. Schlösser wenn geschlossen.
+traitor-role-uplink-implant-short = Dein Uplink wurde implantiert. Greife aus dem Aktionsmenü darauf zu.
 
 traitor-role-moreinfo =
-    Erfahren Sie mehr über Ihre Rolle im Charaktermenü.
+    Erfahre mehr über deine Rolle im Charaktermenü.
 
 traitor-role-nouplink =
-    Leider haben Sie keinen Zugang zum Schwarzmarkt.
+    Leider hast du keinen Zugang zum Schwarzmarkt.
 
 traitor-role-allegiances =
-    Ihre Loyalitäten:
+    Deine Loyalitäten:
 
 traitor-role-notes =
-    Zusätzliche Anmerkungen:
+    Weitere Hinweise:
 

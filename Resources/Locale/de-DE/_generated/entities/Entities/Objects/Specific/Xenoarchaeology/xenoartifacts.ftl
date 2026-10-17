@@ -1,2 +1,2 @@
 ent-ActionArtifactActivate = Artefakt aktivieren
-    .desc = Aktivieren Sie sich und verursachen Sie Chaos für diejenigen in Ihrer Nähe.
+    .desc = Aktiviere dich selbst und verursache Chaos bei allen in deiner Nähe.

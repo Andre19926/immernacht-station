@@ -9,7 +9,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-fentanyl = Fentanyl
-reagent-desc-fentanyl = Eine erschreckend giftige Straßendroge mit einer Wäscheliste von Nebenwirkungen. Wenn Sie Drogen nehmen, gehen Sie in die Hölle, bevor Sie sterben!
+reagent-desc-fentanyl = Eine erschreckend giftige Straßendroge mit einer Wäscheliste von Nebenwirkungen. Wenn du Drogen nimmst, geh in die Hölle, bevor du stirbst!
 
 reagent-name-blind-toxin = Blindtoxin
 reagent-desc-blind-toxin = Eine dicke Chemikalie, die den Benutzer während der Metabolisierung nicht sehen kann und ihre Augen schädigt.

@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 oni-cannot-shoot-guns-1 = Oni benutzen keine Waffen! Das ist dumm!
-oni-cannot-shoot-guns-2 = Sie versuchen, den Abzug zu drücken, aber Ihre großen Finger passen nicht.
-oni-cannot-shoot-guns-3 = Sie würden lieber ein Bajonett benutzen, als zu versuchen, mit dieser unbequemen Sache umzugehen.
+oni-cannot-shoot-guns-2 = Du versuchst, den Abzug zu drücken, aber deine großen Finger passen nicht.
+oni-cannot-shoot-guns-3 = Du würdest lieber ein Bajonett benutzen, als dich mit diesem unhandlichen Ding abzugeben.

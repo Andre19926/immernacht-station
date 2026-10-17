@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-door-pry = Prytür
+door-pry = Tür aufhebeln

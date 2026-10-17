@@ -28,20 +28,20 @@ knowledge-path-ash-s1-desc =
     Die Stadtwache kennt ihre Uhr. Wenn du sie nachts fragst, können sie dir von der ashy Laterne erzählen.
 
     Öffnet euch den Weg der Asche.
-    Ermöglicht es Ihnen, ein Streichholz und ein Messer in eine Ashen Blade zu verwandeln.
-    Sie können nur zwei gleichzeitig erstellen.
+    Ermöglicht dir, ein Streichholz und ein Messer in eine Ashen Blade zu verwandeln.
+    Du kannst nur zwei gleichzeitig erstellen.
 
 knowledge-path-ash-s2-name = Aschegriff
 knowledge-path-ash-s2-desc =
-    Der Nightwatcher war der erste von ihnen, sein Verrat begann alles. Ihre Laterne, abgelaufen zu Asche - ihre Uhr, abwesend.
+    Der Nachtwächter war der Erste von ihnen, sein Verrat setzte alles in Gang. Seine Laterne ist zu Asche verglüht – seine Wache ist verwaist.
 
-    Ihr Mansus-Gras wird die Augen des Opfers verbrennen, sie schädigen und ihre Sicht verwischen.
+    Dein Mansus-Griff verbrennt die Augen des Opfers, verletzt es und trübt seine Sicht.
 
 knowledge-path-ash-s3-name = Ashen Shift
 knowledge-path-ash-s3-desc =
     Er wusste, wie man zwischen den Flugzeugen läuft.
 
-    Gewährt Ihnen Ashen Passage, ein Zauber, mit dem Sie aus der Realität aussteigen und eine sehr kurze Strecke durchqueren können, indem Sie durch irgendwelche Wände gehen.
+    Gewährt dir Ashen Passage, ein Zauber, mit dem du aus der Realität aussteigen und eine sehr kurze Strecke zurücklegen kannst, indem du durch beliebige Wände gehst.
 
 knowledge-path-ash-s4-name = Aschemarkierung
 knowledge-path-ash-s4-desc =
@@ -49,7 +49,7 @@ knowledge-path-ash-s4-desc =
     Aber trotz seiner Pflicht trancete er regelmäßig durch die Manse mit seiner lodernden Laterne hochgehalten.
     Er leuchtete hell in der Dunkelheit, bis die Flamme zu sterben begann.
 
-    Dein Mansus-Gras gilt nun das Zeichen der Asche. Die Markierung wird durch einen Angriff mit Ihrer Ashen Blade ausgelöst.
+    Dein Mansus-Gras gilt nun das Zeichen der Asche. Die Markierung wird durch einen Angriff mit deiner Ashen Blade ausgelöst.
     Wenn es ausgelöst wird, nimmt das Opfer zusätzliche Ausdauer und Verbrennungsschäden, und die Markierung wird an einen nahe gelegenen Heiden übertragen.
     Der Schaden wird mit jedem Transfer verringert.
 
@@ -65,17 +65,17 @@ knowledge-path-ash-s6-name = Maske des Wahnsinns
 knowledge-path-ash-s6-desc =
     Der Nightwatcher war verloren. Das ist es, was die Uhr glaubte. Doch er ging um die Welt, unbemerkt von den Massen.
 
-    Ermöglicht es Ihnen, jede Maske, eine Fackel, einen Aschepool, ein Feuerzeug, einen Betäubungsstab und eine Leber zu transmutieren, um eine Maske des Wahnsinns zu erzeugen.
+    Ermöglicht dir, jede Maske, eine Fackel, einen Aschepool, ein Feuerzeug, einen Betäubungsstab und eine Leber zu transmutieren, um eine Maske des Wahnsinns zu erzeugen.
     Die Maske weckt Angst in Heiden, die sie bezeugen, was Ausdauerschäden, Halluzinationen und Wahnsinn verursacht.
     Es kann auch auf einen Heiden gezwungen werden, um sie unfähig zu machen, es abzunehmen ...
-    Darüber hinaus bietet Ihnen die Maske Schutz vor Bränden und hohen Temperaturen beim Tragen.
+    Darüber hinaus bietet dir die Maske Schutz vor Bränden und hohen Temperaturen beim Tragen.
 
 knowledge-path-ash-s7-name = Feurige Klinge
 knowledge-path-ash-s7-desc =
     Er kehrte zurück, Klinge in der Hand, schwang und schwang, als die Asche vom Himmel fiel.
     Seine Stadt, die Leute, denen er geschworen hat, sie zu beobachten ... und sie sahen zu, wie er es tat, wie sie alle zu Asche verbrannten.
 
-    Ihre Klinge zündet jetzt Feinde in Flammen auf Angriff.
+    Deine Klinge zündet jetzt Feinde in Flammen auf Angriff.
 
 knowledge-path-ash-s8-name = Nightwatchers Wiedergeburt
 knowledge-path-ash-s8-desc =
@@ -91,4 +91,4 @@ knowledge-path-ash-s9-desc =
     Wenn du fertig bist, wirst du ein Vorbote von Flammen und erhältst zwei Fähigkeiten.
     Kaskade, die einen massiven, wachsenden Ring aus Feuer um dich herum verursacht,
     und Eid der Flamme, wodurch du passiv einen Ring von Flammen erschaffst, während du gehst.
-    Sie werden auch immun gegen Flammen, Weltraum und ähnliche Umweltgefahren.
+    Du wirst auch immun gegen Flammen, Weltraum und ähnliche Umweltgefahren.

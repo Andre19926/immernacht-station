@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-electrocute-desc = Elektroschocks die angegebene Entität, standardmäßig 10 Sekunden und 10 Schaden. Schockierend!
+cmd-electrocute-desc = Gibt der angegebenen Entität einen Stromschlag, standardmäßig 10 Sekunden und 10 Schaden. Schockierend!
 cmd-electrocute-help = Verwendung: electrocute <uid> [seconds] [damage]
-cmd-electrocute-entity-cannot-be-electrocuted = Du kannst diese Entität nicht elektrisieren!
+cmd-electrocute-entity-cannot-be-electrocuted = Diese Entität kann keinen Stromschlag bekommen!

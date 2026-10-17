@@ -28,11 +28,11 @@ ent-PlushieLizardJobChemist = Chemiker-Echse Plüschtier
 ent-PlushieLizardJobChiefengineer = Chefingenieur Lizard Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie dem Chefingenieur ähnelt. Es ist mit Metallspäne und Schweißspritzer bedeckt.
 
-ent-PlushieLizardJobChiefmedicalofficer = Chefarzt Lizard Plüschtier
+ent-PlushieLizardJobChiefmedicalofficer = Chefarzt-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Eidechse als Chefarzt ähnelt. Der Schwanz des Plüschtiers wurde wieder und wieder genäht, wahrscheinlich von einer chirurgischen Operation.
 
 ent-PlushieLizardJobClown = Clown-Echse Plüschtier
-    .desc = Ein verwöhnbares spielzeug, das einem schreiner wie ein clown ähnelt. Seine Nase quietscht, wenn Sie es drücken.
+    .desc = Ein verwöhnbares spielzeug, das einem schreiner wie ein clown ähnelt. Seine Nase quietscht, wenn du es drückst.
 
 ent-PlushieLizardJobDetective = Detektiv-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Eidechse als Detektiv ähnelt. Scheint bereit für ein Geheimnis.
@@ -100,17 +100,17 @@ ent-PlushieLizardJobSecurityofficer = Sicherheitsbeauftragte Lizard Plüschtier
 ent-PlushieLizardJobServiceworker = Servicearbeiter Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen als Servicearbeiter ähnelt. Riecht nach einer Mischung aus Reinigungsmitteln und Lebensmitteln.
 
-ent-PlushieLizardJobStationengineer = Bahnhofsingenieur Echse Plüschtier
+ent-PlushieLizardJobStationengineer = Stationsingenieur-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie einem Stationsingenieur ähnelt. Es hat Ölflecken an seinen Händen.
 
 ent-PlushieLizardJobTechnicalassistant = Technischer Assistent Lizard Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Eidechse als technischer Assistent ähnelt. Es riecht schwach nach verbrannten Drähten.
 
-ent-PlushieLizardJobWarden = Warzard Plüschtier
-    .desc = Ein entzückendes Stoffspielzeug, das einer Eidechse als Wärter ähnelt. Riecht nach schwarzem Pulver und Pistolenöl.
+ent-PlushieLizardJobWarden = Warden-Echse Plüschtier
+    .desc = Ein entzückendes Stoffspielzeug, das einer Eidechse als Warden ähnelt. Riecht nach schwarzem Pulver und Pistolenöl.
 
 ent-PlushieLizardJobZookeeper = Zoowärter-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsenmenschen wie einem Zoowärter ähnelt. Es hat einige Gorilla-Fell daran geklebt.
 
 ent-PlushieLizardJobMultiweh = Multiwelchse Plüschtier
-    .desc = Ein entzückendes Stoffspielzeug, das wie jeder Job einem Eidechsenmenschen ähnelt! Es ist ein Plüschtier vieler Talente. Sie können ein hop in der ferne weinen hören.
+    .desc = Ein entzückendes Stoffspielzeug, das wie jeder Job einem Eidechsenmenschen ähnelt! Es ist ein Plüschtier vieler Talente. Du kannst ein hop in der ferne weinen hören.

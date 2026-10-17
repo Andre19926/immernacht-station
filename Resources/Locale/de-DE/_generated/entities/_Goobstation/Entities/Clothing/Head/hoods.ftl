@@ -1,7 +1,7 @@
 ent-ClothingHeadHatHoodZeusHood = Zeus-Haube
-    .desc = Garantiert, nicht zu fliegen, wenn Sie von Wolkenkratzer zu Wolkenkratzer springen.
+    .desc = Garantiert, nicht zu fliegen, wenn du von Wolkenkratzer zu Wolkenkratzer springst.
 
-ent-ClothingHeadHatHoodWinterBso = Blauschildhaube
+ent-ClothingHeadHatHoodWinterBso = Blueshield-Winterkapuze
     .desc = Eine Haube, gemacht, um den Kopf warm zu halten.
 
 ent-ClothingHeadHatHoodWinterCapFancy = Der schicke Wintermantel des Kapitäns

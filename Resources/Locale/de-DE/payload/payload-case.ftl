@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-payload-case-not-close-enough = Sie müssen näher kommen, um festzustellen, ob {THE($ent)} eine Nutzlast installiert ist.
+payload-case-not-close-enough = Du musst näher herangehen, um festzustellen, ob in {THE($ent)} eine Nutzlast installiert ist.
 payload-case-has-payload = {CAPITALIZE(THE($ent))} Hat eine Nutzlast installiert!
 payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} Es ist keine Nutzlast installiert.

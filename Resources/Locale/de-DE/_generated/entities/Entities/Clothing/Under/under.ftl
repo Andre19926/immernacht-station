@@ -1,2 +1,2 @@
 ent-ClothingUnderSocksBee = Bienensocken
-    .desc = Machen Sie Lenden Buzz!
+    .desc = Mache Lenden Buzz!

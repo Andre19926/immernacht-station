@@ -16,57 +16,57 @@
 
 
 gun-selected-mode-examine = Der aktuell ausgewählte Feuermodus ist [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = Feuerrate ist [color={$color}]{$fireRate}[/color] pro Sekunde.
-gun-selector-verb = Änderung {$mode}
-gun-selected-mode = Ausgewählt {$mode}
-gun-disabled = Sie können keine Waffen benutzen!
-gun-set-fire-mode-examine = Aufgesetzt auf [color=yellow]{$mode}[/color].
-gun-set-fire-mode-popup = Geändert in {$mode}
+gun-fire-rate-examine = Die Feuerrate beträgt [color={$color}]{$fireRate}[/color] pro Sekunde.
+gun-selector-verb = Wechseln zu {$mode}
+gun-selected-mode = {$mode} gewählt
+gun-disabled = Du kannst keine Schusswaffen benutzen!
+gun-set-fire-mode-examine = Eingestellt auf [color=yellow]{$mode}[/color].
+gun-set-fire-mode-popup = Gewechselt zu {$mode}
 gun-magazine-whitelist-fail = Das passt nicht in die Waffe!
 gun-magazine-fired-empty = Keine Munition mehr!
 
 # SelectiveFire
-gun-SemiAuto = semi-auto
-gun-Burst = Bruch
-gun-FullAuto = Vollautomat
+gun-SemiAuto = Halbautomatik
+gun-Burst = Salve
+gun-FullAuto = Vollautomatik
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Zyklus
-gun-ballistic-cycled = zyklisch
-gun-ballistic-cycled-empty = zyklisch (leer)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} wird nicht hineinpassen {THE($targetEntity)}!
+gun-ballistic-cycle = Durchladen
+gun-ballistic-cycled = Durchgeladen
+gun-ballistic-cycled-empty = Durchgeladen (leer)
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} passt nicht in {THE($targetEntity)}!
 gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} ist leer.
 gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} ist bereits vollständig geladen.
 
 # CartridgeAmmo
-gun-cartridge-spent = Es ist [color=red]ausgegeben[/color].
-gun-cartridge-unspent = Es ist [color=lime]nicht ausgegeben[/color].
+gun-cartridge-spent = Sie ist [color=red]verbraucht[/color].
+gun-cartridge-unspent = Sie ist [color=lime]nicht verbraucht[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = Es hat genug Ladung für [color={$color}]{$count}[/color] Schüsse.
+gun-battery-examine = Sie hat genug Ladung für [color={$color}]{$count}[/color] Schüsse.
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = nicht mit einer Pistole
+gun-chamber-bolt-ammo = Waffe nicht verriegelt
 gun-chamber-bolt = Der Bolzen ist [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Verschlussbolzen
-gun-chamber-bolt-opened = Geöffneter Bolzen
-gun-chamber-bolt-close = Schließbolzen
-gun-chamber-bolt-open = Offener Bolzen
+gun-chamber-bolt-closed = Verschluss geschlossen
+gun-chamber-bolt-opened = Verschluss geöffnet
+gun-chamber-bolt-close = Verschluss schließen
+gun-chamber-bolt-open = Verschluss öffnen
 gun-chamber-bolt-closed-state = offen
 gun-chamber-bolt-open-state = geschlossen
-gun-chamber-rack = Rack
+gun-chamber-rack = Repetieren
 
 # MagazineAmmoProvider
-gun-magazine-examine = Es hat [color={$color}]{$count}[/color] verbleibende Schüsse.
+gun-magazine-examine = Es hat noch [color={$color}]{$count}[/color] Schüsse.
 
 # RevolverAmmoProvider
 gun-revolver-empty = Leerer Revolver
 gun-revolver-full = Revolver voll
 gun-revolver-insert = eingesetzt
-gun-revolver-spin = Spin Revolver
-gun-revolver-spun = Spinnerei
-gun-speedloader-empty = Lastwagen leer
+gun-revolver-spin = Trommel drehen
+gun-revolver-spun = Gedreht
+gun-speedloader-empty = Speedloader leer
 
 # GunSpreadModifier
-examine-gun-spread-modifier-reduction = Die Ausbreitung wurde reduziert durch [color=yellow]{$percentage}%[/color].
-examine-gun-spread-modifier-increase = Die Ausbreitung wurde erhöht durch [color=yellow]{$percentage}%[/color].
+examine-gun-spread-modifier-reduction = Die Streuung wurde um [color=yellow]{$percentage}%[/color] verringert.
+examine-gun-spread-modifier-increase = Die Streuung wurde um [color=yellow]{$percentage}%[/color] erhöht.

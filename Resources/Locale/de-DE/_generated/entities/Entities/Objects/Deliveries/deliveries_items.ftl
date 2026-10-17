@@ -7,23 +7,23 @@ ent-MailNanotrasenSpam = Gründe für Nanotrasen!
 ent-MailSyndicateSpam = Gründe für die Wahl von The Syndicate!
     .desc = Eine Werbung für das Syndicate.
 
-ent-MailAlternativeDimensionSpam = Schicken Sie Verstärkungen!
+ent-MailAlternativeDimensionSpam = Schicke Verstärkungen!
     .desc = Eine offizielle Mitteilung von ... einer alternativen Timeline?
 
-ent-MailNarsieCultSpam = Die Kinder von Nar'Sie
+ent-MailNarsieCultSpam = Die Kinder von Nar'dich
     .desc = Ein lokaler Kult sucht Rekruten.
 
 ent-MailRageCageSpam = Willst du kämpfen?!
     .desc = Werbung für einen lokalen Kampfclub.
 
-ent-MailVoyageAdvertisementSpam = Begleiten Sie uns auf der Jungfernreise!
+ent-MailVoyageAdvertisementSpam = Begleite uns auf der Jungfernreise!
     .desc = Werbung für eine entspannende Reise.
 
 ent-MailScienceSpiderClanSpam = Müde von der Wissenschaft in die Luft?
-    .desc = Befolgen Sie diese einfachen Schritte, um sicherzustellen, dass es nie wieder passiert!
+    .desc = Befolge diese einfachen Schritte, um sicherzustellen, dass es nie wieder passiert!
 
 ent-MailAllAccessSpam = FREI ALLE AXCESS!!!
-    .desc = Wollten Sie jemals freien Zugang?!
+    .desc = Wolltest du jemals freien Zugang?!
 
 ent-MailCentcommRetributionSpam = HINWEIS VON NANOTRASN!!
     .desc = Eine offizielle Mitteilung des CEO von Nanotrasn?!

@@ -10,8 +10,8 @@
 job-name-futureagent = Zukünftiger Agent
 job-name-salvagediver = Salvage Diver
 job-name-ntr = Nanotrasen Vertreter
-job-name-bs = Blauschild
-job-name-bso = Blauschildoffizier
+job-name-bs = Blueshield
+job-name-bso = Blueshield-Offizier
 job-name-overall = Insgesamt
 job-name-tider = Tider
 
@@ -44,7 +44,7 @@ job-name-radiohost = Radiomoderator
 
 # Role timers - Make these alphabetical or I cut you (dont listen to upstream, i copied and pasted this, make it very un-alphabetical :godo:)
 
-JobBlueshieldOfficer = Blauschildoffizier
+JobBlueshieldOfficer = Blueshield-Offizier
 JobNanotrasenRepresentative = Nanotrasen Vertreter
 JobNanotrasenCareerTrainer = Nanotrasen Karrieretrainer
 JobHecuOperative = HECU-Operator

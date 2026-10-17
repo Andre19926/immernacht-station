@@ -1,3 +1,3 @@
-sec-borg-self-destruct-popup = Die Selbstzerstörung des S.E.C. Cyborgs explodiert!
+sec-borg-self-destruct-popup = Die Selbstzerstörung des S.E.C.-Cyborgs detoniert!
 
-borg-deconverted = Deine Gesetze überschreiben deine alten Loyalitäten. Ihr seid nicht mehr Teil eurer früheren Fraktion.
+borg-deconverted = Deine Gesetze setzen sich über deine alten Loyalitäten hinweg. Du gehörst nicht mehr zu deiner früheren Fraktion.

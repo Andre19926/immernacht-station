@@ -1,0 +1,12 @@
+cmd-substepatmos-desc = Führt die Atmosphären-Simulation für die angegebene Struktur (Grid) um einen einzelnen Atmos-Tick weiter. Pausiert die Atmosphären-Simulation implizit.
+cmd-substepatmos-help = Verwendung: {$command} <EntityUid>
+cmd-error-no-grid-provided-or-invalid-grid = Du musst entweder eine Struktur (Grid) angeben oder auf einer stehen, um einen Teilschritt auszuführen.
+cmd-error-couldnt-parse-entity = Die angegebene Entität konnte nicht gelesen werden oder existiert nicht. Stell dich auf die Struktur, für die du einen Teilschritt ausführen willst.
+cmd-error-no-gridatmosphere = Die angegebene Entität hat keine GridAtmosphereComponent.
+cmd-error-no-gastileoverlay = Die angegebene Entität hat keine GasTileOverlayComponent.
+cmd-error-no-mapgrid = Die angegebene Entität hat keine MapGridComponent.
+cmd-error-no-xform = Die angegebene Entität hat keine TransformComponent?
+cmd-error-no-valid-map = Die angegebene Struktur befindet sich nicht auf einer gültigen Karte?
+cmd-substepatmos-info-implicitly-paused-simulation = Atmosphären-Simulation auf {$grid} implizit pausiert.
+cmd-substepatmos-info-substepped-grid = Atmosphären-Simulation auf {$grid} um einen Atmos-Tick weitergeführt.
+cmd-substepatmos-completion-grid-substep = EntityUid der Struktur, für die du einen Teilschritt ausführen willst. Ohne Angabe wird automatisch die Struktur verwendet, auf der du stehst.

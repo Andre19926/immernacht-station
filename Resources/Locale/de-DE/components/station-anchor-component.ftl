@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 station-anchor-unanchoring-failed = Kann einen aktiven Stationsanker nicht entankern
-station-anchor-window-title = Ankerplatz
+station-anchor-window-title = Stationsanker

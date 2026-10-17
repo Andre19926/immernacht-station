@@ -1,26 +1,26 @@
-ent-ClothingHeadsetAltSyndicateCommander = Blutroter Kommandant Over-Ear Headset
+ent-ClothingHeadsetAltSyndicateCommander = Blutrotes Kommandanten-Over-Ear-Headset
     .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
 
-ent-ClothingHeadsetChronolegioneer = futuristisches Over-Ear-Headset
+ent-ClothingHeadsetChronolegioneer = Futuristisches Over-Ear-Headset
     .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen aufnehmen kann.
 
-ent-ClothingHeadsetChronolegioneerUnremoveable = futuristisches Over-Ear-Headset
+ent-ClothingHeadsetChronolegioneerUnremoveable = Futuristisches Over-Ear-Headset
     .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen aufnehmen kann.
 
-ent-ClothingHeadsetAltWarden = Über-Ear-Headset des Warden
+ent-ClothingHeadsetAltWarden = Warden-Over-Ear-Headset
     .desc = Eine aktualisierte, modulare Gegensprechanlage, die eine schnelle Kommunikation mit dem Führungspersonal ermöglicht.
 
-ent-ClothingHeadsetDeathsquad = Deathquad Over-Ear-Headset
+ent-ClothingHeadsetDeathsquad = Deathsquad-Over-Ear-Headset
     .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
 
 ent-ClothingHeadsetAltSecurityRegular = Sicherheits-Over-Ear-Headset
     .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
 
-ent-ClothingHeadsetAltBlueshield = Blueshield Offiziere Over-Ear Headset
+ent-ClothingHeadsetAltBlueshield = Blueshield-Over-Ear-Headset
     .desc = Eine aktualisierte, modulare Gegensprechanlage, die über den Kopf passt. Nimmt Verschlüsselungsschlüssel.
 
 ent-ClothingHeadsetCommandService = Führungsdienst-Headset
     .desc = Ein Headset mit Befehls- und Dienstkanälen.
 
-ent-ClothingHeadsetAltRadioHost = Over-Ear-Headset des Radiomoderators
+ent-ClothingHeadsetAltRadioHost = Radiomoderator-Over-Ear-Headset
     .desc = Ein Over-Ear-Headset mit zusätzlicher Schaumstoffpolsterung um die Ohren.

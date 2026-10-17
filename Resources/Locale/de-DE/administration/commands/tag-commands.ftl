@@ -4,13 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-addtag-command-description = Hinzufügen eines Tags zu einer bestimmten Entität
+addtag-command-description = Fügt der angegebenen Entität einen Tag hinzu
 addtag-command-help = Verwendung: addtag <entity uid> <tag>
 
 addtag-command-success = Zugesetzt {$tag} bis {$target}.
 addtag-command-fail = Konnte nicht hinzufügen {$tag} bis {$target}.
 
-removetag-command-description = Entfernen eines Tags von einer bestimmten Entität
+removetag-command-description = Entfernt einen Tag von der angegebenen Entität
 removetag-command-help = Verwendung: removetag <entity uid> <tag>
 
 removetag-command-success = Entfernt {$tag} von {$target}.

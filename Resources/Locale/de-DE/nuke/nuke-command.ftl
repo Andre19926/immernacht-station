@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-nukearm-desc = Nuke-Timer umschalten. Sie können den Timer direkt einstellen. Uid ist optional.
+cmd-nukearm-desc = Schaltet den Timer der Atombombe um. Du kannst den Timer direkt setzen. UID ist optional.
 cmd-nukearm-help = nukearm <timer> <uid>
-cmd-nukearm-not-found = Kann keine Entität mit einer NukeComponent finden.
+cmd-nukearm-not-found = Keine Entität mit einer NukeComponent gefunden.
 
 cmd-nukearm-1-help = Zeit (in Sekunden)
-cmd-nukearm-2-help = Kern
+cmd-nukearm-2-help = Nuke

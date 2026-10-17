@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-supermatter-halberd-execution-start-user = Sie erhöhen {THE($used)} hoch, bereit, es auf {$target}!
+supermatter-halberd-execution-start-user = Du hebst {THE($used)} hoch, bereit, auf {$target} zuzuschlagen!
 supermatter-halberd-execution-start-other = {CAPITALIZE($user)} Erhöhungen {THE($used)} hoch, bereit, es auf {$target}!
-supermatter-halberd-execution-cancel = Sie senken {THE($used)}Es wird Zeit sein, sie später auszulöschen...
+supermatter-halberd-execution-cancel = Du senkst {THE($used)}. Es bleibt noch Zeit, sie später auszulöschen …
 supermatter-halberd-execution-end-user = Du bringst runter {THE($used)}, ausgelöscht {$target} Mit einem schweren Schlag!
 supermatter-halberd-execution-end-other = {CAPITALIZE($user)} Herabsetzung {THE($used)}, ausgelöscht {$target} Mit einem schweren Schlag!

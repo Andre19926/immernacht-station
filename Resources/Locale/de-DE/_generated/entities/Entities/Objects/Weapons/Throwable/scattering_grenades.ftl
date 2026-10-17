@@ -5,7 +5,7 @@ ent-ClusterBangFull = Clusterbang
     .desc = Startet drei Flashbangs, nachdem der Timer abgelaufen ist.
 
 ent-ClusterGrenade = Clustergranate
-    .desc = Warum eine Granate verwenden, wenn Sie drei auf einmal verwenden können!
+    .desc = Warum eine Granate verwenden, wenn du drei auf einmal verwenden kannst!
 
 ent-ClusterBananaPeel = Clusterbananenschale
     .desc = Splits in 6 explosive Bananenschalen nach dem Werfen, garantiert Spaß!

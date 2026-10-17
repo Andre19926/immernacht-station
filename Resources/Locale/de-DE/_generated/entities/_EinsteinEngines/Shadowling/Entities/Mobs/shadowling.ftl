@@ -1,5 +1,5 @@
-ent-BaseMobShadowlingAscendant = Abschattungsaufstieg
-    .desc = Ein aufsteigender Schatten. Wenn Sie das sehen, sind Sie wahrscheinlich tot.
+ent-BaseMobShadowlingAscendant = Aufgestiegenes Schattenwesen
+    .desc = Ein aufsteigender Schatten. Wenn du das siehst, bist du wahrscheinlich tot.
 
-ent-BaseMobShadowlingAscendantAdminSpawn = Abschattungsaufstieg
-    .desc = Ein aufsteigender Schatten. Wenn Sie das sehen, sind Sie wahrscheinlich tot.
+ent-BaseMobShadowlingAscendantAdminSpawn = Aufgestiegenes Schattenwesen
+    .desc = Ein aufsteigender Schatten. Wenn du das siehst, bist du wahrscheinlich tot.

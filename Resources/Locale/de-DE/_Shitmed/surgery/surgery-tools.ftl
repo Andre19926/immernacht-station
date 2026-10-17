@@ -5,13 +5,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-surgery-tool-turn-on = Schalten Sie es zuerst ein!
-surgery-tool-reload = Laden Sie es zuerst neu!
-surgery-tool-match-light = Licht es zuerst!
-surgery-tool-match-replace = Hol dir ein neues Match!
+surgery-tool-turn-on = Schalte es zuerst ein!
+surgery-tool-reload = Lade es zuerst neu!
+surgery-tool-match-light = Zünde es zuerst an!
+surgery-tool-match-replace = Hol dir ein neues Streichholz!
 
-surgery-tool-examinable-verb-text = chirurgisches Werkzeug
-surgery-tool-examinable-verb-message = Untersuchen Sie die Verwendung dieses Tools in Operationen.
+surgery-tool-examinable-verb-text = Chirurgisches Werkzeug
+surgery-tool-examinable-verb-message = Untersuche die Verwendung dieses Tools in Operationen.
 surgery-tool-header = Dies kann in Operationen verwendet werden als:
-surgery-tool-unlimited = - {$tool} bei [color={$color}]{$speed}x[/color] Drehzahl
-surgery-tool-used = - {$tool} bei [color={$color}]{$speed}x[/color] Drehzahl, [color=red]dann aufgebraucht[/color]
+surgery-tool-unlimited = - {$tool} mit [color={$color}]{$speed}-facher[/color] Geschwindigkeit
+surgery-tool-used = - {$tool} mit [color={$color}]{$speed}-facher[/color] Geschwindigkeit, [color=red]wird dabei verbraucht[/color]

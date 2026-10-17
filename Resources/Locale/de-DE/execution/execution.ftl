@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-execution-verb-name = Ausführung
+execution-verb-name = Ausführen
 execution-verb-message = Benutze deine Waffe, um jemanden hinzurichten.
 
 # All the below localisation strings have access to the following variables
@@ -19,7 +19,7 @@ execution-verb-message = Benutze deine Waffe, um jemanden hinzurichten.
 
 execution-popup-melee-initial-internal = Du bist bereit {THE($weapon)} gegen {THE($victim)}Hals.
 execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } Fertigwaren {POSS-ADJ($attacker)} {$weapon} gegen die Kehle des {THE($victim)}.
-execution-popup-melee-complete-internal = Sie schlitzen die Kehle von {THE($victim)}!
+execution-popup-melee-complete-internal = Du schlitzt {THE($victim)} die Kehle auf!
 execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } schlitzt den Hals von {THE($victim)}!
 
 execution-popup-self-initial-internal = Du bist bereit {THE($weapon)} gegen deine eigene Kehle.

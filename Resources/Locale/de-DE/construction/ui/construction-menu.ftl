@@ -8,10 +8,10 @@
 
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title = Bauarbeiten
-construction-menu-place-ghost = Place Construction Ghost
-construction-menu-clear-all = Alles klar
-construction-menu-eraser-mode = Löschmodus
-construction-menu-craft = Fahrzeuge
+construction-menu-title = Bau
+construction-menu-place-ghost = Bauplan platzieren
+construction-menu-clear-all = Alle löschen
+construction-menu-eraser-mode = Radiermodus
+construction-menu-craft = Herstellen
 construction-menu-search = Suche
-construction-menu-grid-view = Gitteransicht
+construction-menu-grid-view = Rasteransicht

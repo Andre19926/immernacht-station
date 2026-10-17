@@ -8,11 +8,11 @@
 
 encryption-key-successfully-installed = Du legst den Verschlüsselungsschlüssel hinein.
 encryption-key-slots-already-full = Es gibt keinen Platz für einen anderen Verschlüsselungsschlüssel.
-encryption-keys-all-extracted = Sie knallen die Verschlüsselungsschlüssel heraus!
+encryption-keys-all-extracted = Du hebelst die Verschlüsselungsschlüssel heraus!
 encryption-keys-no-keys = Dieses Gerät hat keine Verschlüsselungsschlüssel!
-encryption-keys-are-locked = Verschlüsselungsschlüssel Slots sind gesperrt!
-encryption-keys-panel-locked = Offenes Wartungspanel zuerst!
+encryption-keys-are-locked = Die Schlüsselfächer sind gesperrt!
+encryption-keys-panel-locked = Öffne zuerst die Wartungsklappe!
 
-examine-encryption-channels-prefix = Verfügbare Frequenzen
+examine-encryption-channels-prefix = Verfügbare Frequenzen:
 examine-encryption-channel = [color={$color}]{$key} für {$id} ({NATURALFIXED($freq, 1)}) {$deviceType}[/color]
 examine-encryption-default-channel = Der Standardkanal ist [color={$color}]{$channel}[/color].

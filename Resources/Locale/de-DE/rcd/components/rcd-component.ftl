@@ -24,24 +24,24 @@ rcd-component-change-mode = Der RCD ist jetzt auf '{$mode}Modus.
 rcd-component-change-build-mode = Der RCD wird jetzt gebaut {MAKEPLURAL($name)}.
 
 # Ammo count
-rcd-component-no-ammo-message = Dem RCD gehen die Gebühren aus!
+rcd-component-no-ammo-message = Dem RCD gehen die Ladungen aus!
 rcd-component-insufficient-ammo-message = Der RCD hat nicht genug Ladungen übrig!
 
 # Deconstruction
 rcd-component-tile-indestructible-message = Diese ist nicht zu zerstören!
 rcd-component-deconstruct-target-not-on-whitelist-message = Du kannst das nicht dekonstruieren!
 rcd-component-nothing-to-deconstruct-message = Es gibt nichts zu dekonstruieren!
-rcd-component-tile-obstructed-message = Sie können Fliesen nicht dekonstruieren, wenn etwas darüber ist!
-rcd-component-deconstruct-target-no-access = Sie haben keinen Zugang, um das zu dekonstruieren!
+rcd-component-tile-obstructed-message = Du kannst keine Kacheln abbauen, solange etwas darauf liegt!
+rcd-component-deconstruct-target-no-access = Du hast keinen Zugang, um das zu dekonstruieren!
 rcd-component-deconstruct-target-is-bolted = Die Bolzen des Mechanismus verhindern eine Dekonstruktion!
 
 # Construction
 rcd-component-no-valid-grid = Du bist zu weit in den offenen Raum, um hier zu bauen!
-rcd-component-must-build-on-empty-tile-message = Hier gibt es bereits eine Stiftung!
-rcd-component-cannot-build-on-empty-tile-message = Sie können das nicht ohne ein Fundament bauen!
-rcd-component-must-build-on-subfloor-message = Sie können das nur auf exponiertem Untergrund bauen!
-rcd-component-cannot-build-on-subfloor-message = Sie können das nicht auf exponiertem Untergrund bauen!
-rcd-component-cannot-build-on-occupied-tile-message = Sie können hier nicht bauen, der Raum ist bereits besetzt!
+rcd-component-must-build-on-empty-tile-message = Hier gibt es bereits ein Fundament!
+rcd-component-cannot-build-on-empty-tile-message = Das kannst du nicht ohne Fundament bauen!
+rcd-component-must-build-on-subfloor-message = Das kannst du nur auf freiliegendem Unterboden bauen!
+rcd-component-cannot-build-on-subfloor-message = Das kannst du nicht auf freiliegendem Unterboden bauen!
+rcd-component-cannot-build-on-occupied-tile-message = Du kannst hier nicht bauen, der Platz ist bereits belegt!
 rcd-component-cannot-build-identical-tile = Diese Kachel existiert bereits dort!
 rcd-component-cannot-build-identical-entity = Das gibt es dort schon!
 
@@ -56,11 +56,11 @@ rcd-component-lighting = Beleuchtung
 rcd-component-piping = Rohrleitungen
 rcd-component-atmosphericutility = Atmosphärisches Dienstprogramm
 rcd-component-pumpsvalves = Pumpen und Ventile
-rcd-component-vents = Ventile
+rcd-component-vents = Lüftungen
 
 
 ### Prototype names (note: constructable items will be puralized)
 
 rcd-component-deconstruct = Dekonstruktion
-rcd-component-floor-steel = Stahlfliesen
+rcd-component-floor-steel = Stahlkacheln
 rcd-component-plating = Rumpfplatte

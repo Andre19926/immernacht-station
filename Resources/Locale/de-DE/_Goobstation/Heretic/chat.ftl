@@ -38,11 +38,10 @@ influence-gain-message-12 =
     Mehr sehe ich.
 influence-gain-message-13 =
     Der Schleier wird zerschlagen.
-influence-gain-message-14 =
-    Ihre Hand ist an meiner Seite.
+influence-gain-message-14 = IHRE HAND IST AN MEINER SEITE.
 influence-gain-message-15 =
-    Sie gehen die Welt.
-    UNNOTIERT.
+    SIE WANDELN DURCH DIE WELT.
+    UNBEMERKT.
 influence-gain-message-16 =
     ZWISCHEN FLUGZEUGEN ZWISCHEN
 

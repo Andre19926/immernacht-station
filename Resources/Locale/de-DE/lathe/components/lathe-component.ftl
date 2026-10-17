@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-component-upgrade-speed = Drehzahl
-lathe-component-upgrade-material-use = Materialeinsatz
+lathe-component-upgrade-speed = Geschwindigkeit
+lathe-component-upgrade-material-use = Materialverbrauch
 
-lathe-component-output-slot-beaker-name = Becherschlitz
+lathe-component-output-slot-beaker-name = Becherglas-Fach

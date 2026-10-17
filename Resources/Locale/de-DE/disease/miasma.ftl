@@ -9,23 +9,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ammonia-smell = Etwas riecht scharf!
+ammonia-smell = Etwas riecht stechend!
 
 ## Perishable
 
-perishable-1 = [color=green]{ CAPITALIZE(POSS-ADJ($target)) } Die Leiche sieht immer noch frisch aus.[/color]
-perishable-2 = [color=orangered]{ CAPITALIZE(POSS-ADJ($target)) } Die Leiche sieht etwas frisch aus.[/color]
-perishable-3 = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } Leiche sieht nicht sehr frisch aus.[/color]
+perishable-1 = [color=green]Die Leiche sieht noch frisch aus.[/color]
+perishable-2 = [color=orangered]Die Leiche sieht nicht mehr ganz frisch aus.[/color]
+perishable-3 = [color=red]Die Leiche sieht nicht sehr frisch aus.[/color]
 
-perishable-1-nonmob = [color=green]{ CAPITALIZE(SUBJECT($target)) } Sieht immer noch frisch aus.[/color]
-perishable-2-nonmob = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } Sieht etwas frisch aus.[/color]
-perishable-3-nonmob = [color=red]{ CAPITALIZE(SUBJECT($target)) } Sieht nicht sehr frisch aus.[/color]
+perishable-1-nonmob = [color=green]{ CAPITALIZE(SUBJECT($target)) } sieht noch frisch aus.[/color]
+perishable-2-nonmob = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } sieht nicht mehr ganz frisch aus.[/color]
+perishable-3-nonmob = [color=red]{ CAPITALIZE(SUBJECT($target)) } sieht nicht sehr frisch aus.[/color]
 
 ## Rotting
 
-rotting-rotting = [color=orange]{ CAPITALIZE(POSS-ADJ($target)) } Leiche verrottet![/color]
-rotting-bloated = [color=orangered]{ CAPITALIZE(POSS-ADJ($target)) } Leiche ist aufgebläht![/color]
-rotting-extremely-bloated = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } Die Leiche ist extrem aufgebläht![/color]
+rotting-rotting = [color=orange]Die Leiche verrottet![/color]
+rotting-bloated = [color=orangered]Die Leiche ist aufgebläht![/color]
+rotting-extremely-bloated = [color=red]Die Leiche ist extrem aufgebläht![/color]
 
 rotting-rotting-nonmob = [color=orange]{ CAPITALIZE(SUBJECT($target)) } verrottet![/color]
 rotting-bloated-nonmob = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } ist aufgebläht![/color]

@@ -23,4 +23,4 @@ ent-DiseaseBehaviorOrganFailure = Organversagen
     .desc = In der Endphase besteht die Möglichkeit eines sofortigen Todes
 
 ent-DiseaseBehaviorGunemia = Gunämie
-    .desc = Macht Sie Husten Kugeln. Mechanismus unbekannt.
+    .desc = Macht dich Husten Kugeln. Mechanismus unbekannt.

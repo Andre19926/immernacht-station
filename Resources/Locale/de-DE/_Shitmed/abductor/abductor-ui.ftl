@@ -27,34 +27,33 @@ abductors-title = Entführer
 abductors-description = Entführer haben die Station ins Visier genommen. Vermeide es, von ihnen entführt zu werden!
 
 abductor-lone-ghost-role-name = Einsame Entführer
-abductor-lone-ghost-role-desc = Entführen Sie Menschen und stopfen Sie sie mit experimentellen Organen zweifelhafter Herkunft, ganz alleine.
+abductor-lone-ghost-role-desc = Entführe Menschen und stopfe sie mit experimentellen Organen zweifelhafter Herkunft voll, ganz allein.
 
 abductor-scientist-ghost-role-name = Entführerwissenschaftler
-abductor-scientist-ghost-role-desc = Teleportieren Sie Menschen, die Ihr Partner auf Ihr Schiff entführt hat, und stopfen Sie sie mit experimentellen Organen zweifelhafter Herkunft.
+abductor-scientist-ghost-role-desc = Teleportiere Menschen, die dein Partner auf dein Schiff entführt hat, und stopfe sie mit experimentellen Organen zweifelhafter Herkunft.
 
 abductor-agent-ghost-role-name = Entführerwirkstoff
-abductor-agent-ghost-role-desc = Entführen Sie Menschen für Ihren Partner, um sie mit experimentellen Organen zweifelhafter Herkunft zu stopfen.
+abductor-agent-ghost-role-desc = Entführe Menschen für deinen Partner, um sie mit experimentellen Organen zweifelhafter Herkunft zu stopfen.
 
 abductors-ghost-role-rules = Du bist ein [color=red][bold]Entführer[/bold][/color].
-                            Ihre Absichten sind, Menschen von der Station zu entführen und ihre Organe durch verschiedene experimentelle Geräte zu ersetzen,
-                            Danach kehren Sie zurück. Sie dürfen die Station nicht zerstören oder absichtlich Menschen töten.
-                            Es liegt in Ihrem Interesse, die Testpersonen lebendig und gesund für die Reinheit des Experiments zurückzugeben.
-
-                            Du erinnerst dich an nichts von deinem früheren Leben und du erinnerst dich an nichts, was du als Geist gelernt hast.
-                            Sie dürfen sich an das Wissen über das Spiel im Allgemeinen erinnern, z. B. wie man kocht, wie man Objekte benutzt usw.
-                            Du bist absolut [color=red]NICHT[/color] erlaubt, sich beispielsweise an den Namen, das Aussehen usw. Ihres vorherigen Charakters zu erinnern.
+                            Dein Ziel ist es, Menschen von der Station zu entführen und ihre Organe durch verschiedene experimentelle Geräte zu ersetzen,
+                            woraufhin du sie zurückbringst. Du darfst die Station nicht zerstören oder absichtlich Menschen töten.
+                            Es liegt in deinem Interesse, die Testpersonen lebend und gesund zurückzubringen, damit das Experiment sauber bleibt.
+    
+                            Du erinnerst dich an nichts aus deinem früheren Leben und an nichts, was du als Geist gelernt hast.
+                            Du darfst dich an allgemeines Wissen über das Spiel erinnern, etwa wie man kocht, wie man Gegenstände benutzt usw.
+                            Du darfst dich absolut [color=red]NICHT[/color] an den Namen, das Aussehen usw. deines vorherigen Charakters erinnern.
 
 abductor-round-end-agent-name = Entführer
 
 objective-issuer-abductors = [color=#FD0098]Mutterschiff[/color]
 
-objective-condition-abduct-title = Entführung {$count} Person.
-objective-condition-abduct-description = (Verwenden Sie den Gizmo bei einem gedämpften Opfer, dann verwenden Sie den Gizmo auf der Entführerkonsole und wählen Sie die Anziehungsaktion), ersetzen Sie dann ihr Herz durch eine der Drüsen, legen Sie sie in den Experimentator und drücken Sie das vollständige Experiment.
+objective-condition-abduct-title = Entführe {$count} Person(en).
+objective-condition-abduct-description = (Verwende den Gizmo bei einem gedämpften Opfer, dann verwende den Gizmo auf der Entführerkonsole und wähle die Anziehungsaktion), ersetze dann ihr Herz durch eine der Drüsen, lege sie in den Experimentator und drücke das vollständige Experiment.
 
-abductor-role-greeting = Sie sind ein professioneller Kampfwissenschaftler eines High-Tech-Rennens. Ihre Aufgabe ist es, Menschen zu entführen, Experimente mit ihnen durchzuführen und sie lebend für die Reinheit des Experiments zurückzugeben. Es liegt nicht in Ihrem Interesse, die Station zu zerstören, zu töten oder der Crew zu helfen.
-                        Verwenden Sie + oder +a im Chat, um im Glorpmind zu sprechen.
+abductor-role-greeting = Du bist ein professioneller Kampfwissenschaftler eines hochentwickelten Volkes.
 
-roles-antag-abductor-objective = Entführen Sie die Crew der Station und führen Sie Ihre Experimente mit ihnen durch!
+roles-antag-abductor-objective = Entführe die Crew der Station und führe deine Experimente mit ihnen durch!
 
 abductor-victim-role-greeting = Du hast Dinge gesehen, die du nicht haben solltest. Die Welt muss die Wahrheit kennen.
 abductor-victim-role-name = Entführte

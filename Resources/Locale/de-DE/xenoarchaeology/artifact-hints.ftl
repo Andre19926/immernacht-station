@@ -64,7 +64,7 @@ xenoarch-trigger-tip-plasma = Nichtfestes Plasma
 xenoarch-trigger-tip-tritium = Tritium
 xenoarch-trigger-tip-ammonia = Ammoniak
 xenoarch-trigger-tip-n2o = Stickoxide
-xenoarch-trigger-tip-frezon = Fressen
+xenoarch-trigger-tip-frezon = Frezon
 xenoarch-trigger-tip-radiation = Strahlung
 xenoarch-trigger-tip-brute-damage = Körperliche Schäden
 xenoarch-trigger-tip-interaction = Physische Interaktion
@@ -86,7 +86,7 @@ xenoarch-trigger-examine-wrenching = Es dreht sich ein bisschen herum.
 xenoarch-trigger-examine-prying = Es gibt eine Platte, die von der Oberfläche kommt.
 xenoarch-trigger-examine-screwing = Es gibt einen erhöhten Abschnitt mit einem kleinen Einsatz darauf.
 xenoarch-trigger-examine-pulsing = Eine exponierte Diode stößt aus der Oberfläche des Artefakts heraus.
-xenoarch-trigger-examine-timer = Schnitzereien und Kratzer bedecken die Oberfläche... Sie können kaum eine Zahl erkennen: [italic]{$time}[/italic]
+xenoarch-trigger-examine-timer = Schnitzereien und Kratzer bedecken die Oberfläche … Du kannst gerade so eine Zahl erkennen: [italic]{$time}[/italic]
 
 ### Effects hints
 xenoarch-effect-puddle = Produziert eine Pfütze folgender Reagenzien: {$reagent}

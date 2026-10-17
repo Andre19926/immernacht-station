@@ -10,8 +10,8 @@ marking-fishbowl-fishbowl2 = Fischblasen
 marking-SlimeBonechest = Schwimmender Ribcage
 marking-SlimeBonechest-bone = Schwimmender Ribcage
 
-marking-SlimeCore = Kernnetz
-marking-SlimeCore-core = Kernnetz
+marking-SlimeCore = Kern
+marking-SlimeCore-core = Kern
 
 marking-SlimeCoreGlowing = Kern (Glowing)
 marking-SlimeCoreGlowing-core = Kern (Glowing)

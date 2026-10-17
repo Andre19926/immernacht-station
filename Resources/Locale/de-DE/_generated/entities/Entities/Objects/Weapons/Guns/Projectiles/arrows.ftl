@@ -14,4 +14,4 @@ ent-ArrowImprovisedCarp = Zahnpfeil
     .desc = Der bevorzugte Pfeil des Retters. Töte deine Feinde mit den Zähnen ihrer Familien.
 
 ent-ArrowCard = Pfeil für Karton
-    .desc = Vorsichtig, Sie werden ein Auge herausstecken!
+    .desc = Vorsichtig, du wirst ein Auge herausstecken!

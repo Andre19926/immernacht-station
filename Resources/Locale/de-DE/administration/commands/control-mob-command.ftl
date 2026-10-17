@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-control-mob-command-description = Überträgt den Benutzergeist auf die angegebene Entität.
+control-mob-command-description = Überträgt das Bewusstsein des Benutzers auf die angegebene Entity.
 control-mob-command-help-text = Verwendung: controlmob <mobUid>.

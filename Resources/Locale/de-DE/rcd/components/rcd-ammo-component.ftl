@@ -7,6 +7,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rcd-ammo-component-on-examine = Es hält {$charges} Gebühren.
+rcd-ammo-component-on-examine = Es hat {$charges} Ladungen.
 rcd-ammo-component-after-interact-full = Der RCD ist voll!
-rcd-ammo-component-after-interact-refilled = Sie füllen den RCD auf.
+rcd-ammo-component-after-interact-refilled = Du lädst den RCD wieder auf.

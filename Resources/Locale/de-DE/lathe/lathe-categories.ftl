@@ -9,35 +9,35 @@
 
 # Generic
 lathe-category-circuitry = Schaltungen
-lathe-category-clothing = Bekleidung
-lathe-category-lights = Lichter
+lathe-category-clothing = Kleidung
+lathe-category-lights = Beleuchtung
 lathe-category-machines = Maschinen
 lathe-category-parts = Teile
 lathe-category-tools = Werkzeuge
 lathe-category-weapons = Waffen
 
 # Biogen
-lathe-category-food = Lebensmittel
+lathe-category-food = Essen
 lathe-category-chemicals = Chemikalien
-lathe-category-materials = Werkstoffe
+lathe-category-materials = Materialien
 
 # Circuit imprinter
 lathe-category-computers = Computer
-lathe-category-engineering = Ingenieurwesen
-lathe-category-general = Generalgeneral
-lathe-category-medical = Medizinisch
+lathe-category-engineering = Technik
+lathe-category-general = Allgemein
+lathe-category-medical = Medizin
 lathe-category-research = Forschung
 lathe-category-security = Sicherheit
 lathe-category-service = Dienst
 lathe-category-supply = Versorgung
 
 # Cutter
-lathe-category-tiles = Fliesen
+lathe-category-tiles = Kacheln
 lathe-category-circuit-tile = Schaltung
 lathe-category-concrete-tile = Beton
 lathe-category-dark-tile = Dunkel
 lathe-category-faux-tile = Faux
-lathe-category-maints-tile = Mainze
+lathe-category-maints-tile = Wartungsschächte
 lathe-category-marble = Marmor
 lathe-category-steel-tile = Stahl
 lathe-category-white-tile = Weiß
@@ -50,14 +50,14 @@ lathe-category-robotics = Robotik
 
 # Security TechFab
 lathe-category-ammo = Munition
-lathe-category-boxes = Kästen
-lathe-category-magazines = Zeitschriften
+lathe-category-boxes = Kisten
+lathe-category-magazines = Magazine
 
 # Uniform
 lathe-category-bedsheets = Bettlaken
 lathe-category-carpets = Teppiche
-lathe-category-coats = Mantel
+lathe-category-coats = Mäntel
 lathe-category-command = Führung
 lathe-category-hats = Hüte
-lathe-category-jumpsuits = Jumpsuits
+lathe-category-jumpsuits = Uniformen
 lathe-category-neck = Hals

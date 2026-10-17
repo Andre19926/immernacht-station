@@ -6,4 +6,4 @@
 ### Messages that pop up when metabolizing ethyloxyephedrine
 
 ethyloxyephedrine-effect-feeling-awake = Du fühlst dich wacher.
-ethyloxyephedrine-effect-clear-mind = Der Nebel des Schlafes, bevor Sie wegräumen.
+ethyloxyephedrine-effect-clear-mind = Der Nebel des Schlafes, bevor du wegräumst.

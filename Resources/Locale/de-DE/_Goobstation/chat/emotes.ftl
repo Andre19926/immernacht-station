@@ -8,34 +8,34 @@
 
 # Names
 chat-emote-name-fart = Furz
-chat-emote-name-fart-inhale = Atmen Sie in einem Furz
-chat-emote-name-fart-super = Superfarm
-chat-emote-name-flap = Klappe
+chat-emote-name-fart-inhale = Einen Furz einatmen
+chat-emote-name-fart-super = Superfurz
+chat-emote-name-flap = Flügelschlag
 chat-emote-name-trill = Trill
-chat-emote-name-warble = Warteschleifer
-chat-emote-name-wurble = Wurst
+chat-emote-name-warble = Trällern
+chat-emote-name-wurble = Wurbeln
 chat-emote-name-mars = Mars
 
 # Message
-chat-emote-msg-fart = Furze.
-chat-emote-msg-fart-inhale = Atmet in einem großen Furz.
-chat-emote-msg-fart-super = Superfurze.
-chat-emote-msg-flap = Klappen {POSS-ADJ($entity)} Flügel.
-chat-emote-msg-trill = Triller!
-chat-emote-msg-warble = Warbles!
-chat-emote-msg-wurble = Wirbeln!
+chat-emote-msg-fart = furzt.
+chat-emote-msg-fart-inhale = atmet einen großen Furz ein.
+chat-emote-msg-fart-super = furzt super.
+chat-emote-msg-flap = schlägt mit den Flügeln.
+chat-emote-msg-trill = trillert!
+chat-emote-msg-warble = trällert!
+chat-emote-msg-wurble = wurbelt!
 chat-emote-msg-mars = Mars.
-chat-emote-msg-bagawk = Bastarken!
+chat-emote-msg-bagawk = bagawkt!
 
 
 # Misc
-emote-fart-not-loaded = Du hast keinen super furz geladen.
-emote-fart-already-loaded = Sie haben bereits einen Furz geladen!
+emote-fart-not-loaded = Du hast keinen Superfurz geladen!
+emote-fart-already-loaded = Du hast bereits einen Furz geladen!
 emote-fart-ass-off = Du hast keinen Hintern zum Furzen!
-emote-fart-out-of-farts = Ihr seid alle aus Furzen!
-emote-fart-super-fart = Du hast (buchstäblich) deinen Arsch abgeschlagen!
-emote-fart-inhale-notice = Sie atmen ein und bewaffnen einen Superfurz.
-emote-fart-inhale-disarm-notice = Du entwaffnest deinen Superfurz.
+emote-fart-out-of-farts = Du hast keine Furze mehr!
+emote-fart-super-fart = Du furzt dir (buchstäblich) den Arsch ab!
+emote-fart-inhale-notice = Du atmest ein und machst einen Superfurz scharf.
+emote-fart-inhale-disarm-notice = Du entschärfst deinen Superfurz.
 
 chat-emote-name-boop = Knopf
 chat-emote-name-whirr = Wirbel

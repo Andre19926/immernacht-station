@@ -21,8 +21,8 @@ cmd-dungen-hint-posy = Position Y
 cmd-dungen-hint-seed = [Seed]
 
 cmd-dungen_preset_vis-desc = Generiert eine fliesenbasierte Vorschau eines Dungeon Presets.
-cmd-dungen_preset_vis-help = dungen preset vis <mapid> <preset>
+cmd-dungen_preset_vis-help = Verwendung: dungen_preset_vis <mapid> <preset>
 
 cmd-dungen_pack_vis-success = Erfolgreich
 cmd-dungen_pack_vis-desc = Generiert eine fliesenbasierte Vorschau eines Dungeon-Packs.
-cmd-dungen_pack_vis-help = dungen pack vis <mapid> <pack>
+cmd-dungen_pack_vis-help = Verwendung: dungen_pack_vis <mapid> <pack>

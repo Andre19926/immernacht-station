@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-miningdrobe-1 = Schützt Sie vor jeder Megafauna!
-advertisement-miningdrobe-2 = Komfort in jeder Schaukel einer Spitzhacke!
-advertisement-miningdrobe-3 = Holen Sie sich Ihre Nontear Kleidung hier!!!
+advertisement-miningdrobe-1 = Schützt dich vor jeder Megafauna!
+advertisement-miningdrobe-2 = Komfort bei jedem Schlag mit der Spitzhacke!
+advertisement-miningdrobe-3 = Hol dir hier deine reißfeste Kleidung!!!

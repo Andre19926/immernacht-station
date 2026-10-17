@@ -14,7 +14,7 @@ ent-NitrogenCanister = Stickstoffkanister
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Stickstoff enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.
 
 ent-LiquidNitrogenCanister = Flüssigstickstoffkanister
-    .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll flüssigen Stickstoff enthalten. Sie kann mit Hilfe eines Schraubenschlüssels an Steckverbinder-Ports befestigt werden.
+    .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll flüssigen Stickstoff enthalten. Er kann mit Hilfe eines Schraubenschlüssels an Anschlussports befestigt werden.
 
 ent-CarbonDioxideCanister = Kohlendioxidbehälter
     .desc = Ein Kanister, der jede Art von Gas enthalten kann. Dieser soll Kohlendioxid enthalten. Es kann mit einem Schraubenschlüssel an Steckverbinder angeschlossen werden.

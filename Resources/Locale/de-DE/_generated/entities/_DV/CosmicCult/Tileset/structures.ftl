@@ -1,8 +1,8 @@
 ent-CosmicShuttleCore = Malign-Instrument
-    .desc = Seine Oberfläche leuchtet mit einer Vielzahl von unergründlichen Glyphen, die ein einziges Wort in Ihren Geist kommunizieren: "Flucht".
+    .desc = Seine Oberfläche leuchtet mit einer Vielzahl von unergründlichen Glyphen, die ein einziges Wort in deinen Geist kommunizieren: "Flucht".
 
 ent-CosmicChair = Bösartige Soße
-    .desc = Sie sitzen darin. Entweder durch Willen oder Gewalt.
+    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
 
 ent-CosmicObelisk = Maligner Obelisk
     .desc = Eine geheimnisvolle, aber inerte Struktur. Absetzen.

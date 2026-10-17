@@ -5,14 +5,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-ui-atmos-add = Atmos hinzufügen
-admin-ui-atmos-add-gas = Gaszugabe
-admin-ui-atmos-fill-gas = Füllgas
-admin-ui-atmos-set-temperature = Einstelltemperatur
+admin-ui-atmos-add-gas = Gas hinzufügen
+admin-ui-atmos-fill-gas = Gas auffüllen
+admin-ui-atmos-set-temperature = Temperatur setzen
 
-admin-ui-atmos-grid = Netz
+admin-ui-atmos-grid = Struktur
 admin-ui-atmos-grid-current = Aktuell
-admin-ui-atmos-tile-x = TileX
-admin-ui-atmos-tile-y = Tiley
+admin-ui-atmos-tile-x = Kachel X
+admin-ui-atmos-tile-y = Kachel Y
 admin-ui-atmos-gas = Gas
-admin-ui-atmos-gas-amount = Betrag
+admin-ui-atmos-gas-amount = Menge
 admin-ui-atmos-temperature = Temperatur

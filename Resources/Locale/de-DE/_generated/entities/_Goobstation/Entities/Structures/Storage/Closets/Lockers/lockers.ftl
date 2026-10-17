@@ -1,4 +1,4 @@
-ent-LockerBlueshieldOfficer = Blauschildoffizier Spind
+ent-LockerBlueshieldOfficer = Blueshield-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerNanorep = Nanotrasen Vertreter Spind

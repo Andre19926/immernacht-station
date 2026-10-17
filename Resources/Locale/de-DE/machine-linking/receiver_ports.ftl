@@ -20,76 +20,76 @@
 signal-port-name-autoclose = Autoclose
 signal-port-description-autoclose = Schaltet um, ob das Gerät automatisch geschlossen werden soll.
 
-signal-port-name-toggle = Umschalter
+signal-port-name-toggle = Umschalten
 signal-port-description-toggle = Schaltet den Zustand eines Geräts um.
 
 signal-port-name-on-receiver = On
 signal-port-description-on-receiver = Schaltet ein Gerät ein.
 
-signal-port-name-off-receiver = Ausgeschaltet
+signal-port-name-off-receiver = Aus
 signal-port-description-off-receiver = Schaltet ein Gerät aus.
 
 signal-port-name-forward = Vorwärts
 signal-port-description-forward = Lässt ein Gerät (z. B. Förderband) in die normale Richtung arbeiten.
 
-signal-port-name-reverse = Rückwärtsgang
+signal-port-name-reverse = Rückwärts
 signal-port-description-reverse = Lässt ein Gerät (z. B. Förderer) in umgekehrter Richtung arbeiten.
 
 signal-port-name-open = Offen
-signal-port-description-open = Öffnen Sie ein Gerät.
+signal-port-description-open = Öffnet ein Gerät.
 
 signal-port-name-close = Schließen
 signal-port-description-close = Schließt ein Gerät.
 
-signal-port-name-doorbolt = Türbolzen
-signal-port-description-doorbolt = Schrauben Tür, wenn HIGH.
+signal-port-name-doorbolt = Türriegel
+signal-port-description-doorbolt = Verriegelt die Tür bei HIGH.
 
 signal-port-name-trigger-receiver = Trigger
 signal-port-description-trigger-receiver = Löst einen Mechanismus auf dem Gerät aus.
 
-signal-port-name-order-sender = Auftragsabsender
-signal-port-description-order-sender = Absender von Frachtkonsolenaufträgen
+signal-port-name-order-sender = Bestellungs-Sender
+signal-port-description-order-sender = Frachtkonsole: Bestellungs-Sender
 
-signal-port-name-order-receiver = Auftragsempfänger
-signal-port-description-order-receiver = Empfänger des Frachtkonsolenauftrags
+signal-port-name-order-receiver = Bestellungs-Empfänger
+signal-port-description-order-receiver = Frachtkonsole: Bestellungs-Empfänger
 
-signal-port-name-pressurize = Druck
+signal-port-name-pressurize = Unter Druck setzen
 signal-port-description-pressurize = Verursacht, dass das Gerät anfängt, Luft freizugeben, bis ein Zieldruck erreicht ist.
 
-signal-port-name-depressurize = Druckentspannung
+signal-port-name-depressurize = Druck ablassen
 signal-port-description-depressurize = Verursacht, dass das Gerät mit dem Absaugen von Luft beginnt, bis ein Zieldruck erreicht ist.
 
-signal-port-name-pod-sender = Klonhülse
-signal-port-description-pod-sender = Klonierung von Pod-Signalsender
+signal-port-name-pod-sender = Klonkapsel
+signal-port-description-pod-sender = Klonkapsel-Signalsender
 
-signal-port-name-pod-receiver = Klonhülse
-signal-port-description-pod-receiver = Klonierung von Pod-Signalempfänger
+signal-port-name-pod-receiver = Klonkapsel
+signal-port-description-pod-receiver = Klonkapsel-Signalempfänger
 
 signal-port-name-med-scanner-sender = Medizinischer Scanner
-signal-port-description-med-scanner-sender = Signalsender für medizinische Scanner
+signal-port-description-med-scanner-sender = Medizinscanner-Signalsender
 
 signal-port-name-med-scanner-receiver = Medizinischer Scanner
-signal-port-description-med-scanner-receiver = Medizinischer Scanner Signalempfänger
+signal-port-description-med-scanner-receiver = Medizinscanner-Signalempfänger
 
-signal-port-name-hold-open = Halt
+signal-port-name-hold-open = Halten
 signal-port-description-hold-open = Schaltet das automatische Schließen aus.
 
 signal-port-name-artifact-analyzer-sender = Konsole
-signal-port-description-artifact-analyzer-sender = Signalsender der Analysekonsole
+signal-port-description-artifact-analyzer-sender = Analysekonsole-Signalsender
 
 signal-port-name-artifact-analyzer-receiver = Pad
 signal-port-description-artifact-analyzer-receiver = Artefaktanalysator-Signalempfänger
 
-signal-port-name-set-particle-delta = Typ der eingestellten Partikel: delta
+signal-port-name-set-particle-delta = Partikeltyp setzen: Delta
 signal-port-description-set-particle-delta = Legt den Partikeltyp fest, den dieses Gerät auf Delta aussendet.
 
-signal-port-name-set-particle-epsilon = Typ des eingestellten Partikels: epsilon
+signal-port-name-set-particle-epsilon = Partikeltyp setzen: Epsilon
 signal-port-description-set-particle-epsilon = Legt den Partikeltyp fest, den dieses Gerät an epsilon aussendet.
 
-signal-port-name-set-particle-zeta = Typ der eingestellten Partikel: Zeta
+signal-port-name-set-particle-zeta = Partikeltyp setzen: Zeta
 signal-port-description-set-particle-zeta = Legt den Partikeltyp fest, den dieses Gerät in Zeta emittiert.
 
-signal-port-name-set-particle-sigma = Set Partikeltyp: sigma
+signal-port-name-set-particle-sigma = Partikeltyp setzen: Sigma
 signal-port-description-set-particle-sigma = Legt den Partikeltyp fest, den dieses Gerät in Sigma aussendet.
 
 signal-port-name-logic-input-a = Eingang A
@@ -103,7 +103,7 @@ signal-port-description-logic-input = Der Eingang zum Flankendetektor kann kein 
 
 signal-port-description-logic-memory-input = Signal zum Laden in die Speicherzelle, wenn aktiviert.
 
-signal-port-name-logic-enable = Ermöglicht
+signal-port-name-logic-enable = Aktivieren
 signal-port-description-logic-enable = Ladet das Eingangssignal nur bei HIGH in die Speicherzelle.
 
 signal-port-name-logic-random-input = Eingangssignal

@@ -1,2 +1,2 @@
 ent-LavalandShuttleConsoleCircuitboard = Mining-Shuttle-Konsole
-    .desc = Ein gedrucktes Platin für eine Mining-Shuttle-Konsole.
+    .desc = Eine Platine für eine Mining-Shuttle-Konsole.

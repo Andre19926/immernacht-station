@@ -2,13 +2,13 @@ ent-AnomalyScanner = Anomalie-Scanner
     .desc = Ein Handscanner, der gebaut wurde, um Informationen über verschiedene anomale Objekte zu sammeln.
 
 ent-AnomalyLocatorUnpowered = Anomalie Locator
-    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Haben Sie die Gasminenarbeiter überprüft?
+    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Hast du die Gasminenarbeiter überprüft?
 
 ent-AnomalyLocator = Anomalie Locator
-    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Haben Sie die Gasminenarbeiter überprüft?
+    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Hast du die Gasminenarbeiter überprüft?
 
 ent-AnomalyLocatorEmpty = Anomalie Locator
-    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Haben Sie die Gasminenarbeiter überprüft?
+    .desc = Ein Gerät, das bei der Lokalisierung von Anomalien helfen soll. Hast du die Gasminenarbeiter überprüft?
 
 ent-AnomalyLocatorWideUnpowered = Breitband-Anomalie-Locator
     .desc = Ein Gerät, das aus großer Entfernung nach Anomalien sucht, aber keine Möglichkeit hat, den Abstand zu ihnen zu bestimmen.

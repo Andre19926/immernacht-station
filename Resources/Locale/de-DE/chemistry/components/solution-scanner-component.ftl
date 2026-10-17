@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 scannable-solution-verb-text = Lösung
-scannable-solution-verb-message = Untersuchen Sie die chemische Zusammensetzung.
+scannable-solution-verb-message = Zeigt die chemische Zusammensetzung an.
 scannable-solution-main-text = Es enthält die folgenden Chemikalien:
 scannable-solution-empty-container = Es enthält keine Chemikalien.
 scannable-solution-chemical = - {$amount}u [color={$color}]{$type}[/color]

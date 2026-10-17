@@ -7,29 +7,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-permissions-eui-do-not-have-required-flags-to-edit-admin-tooltip = Sie haben nicht die erforderlichen Flags, um diesen Admin zu bearbeiten.
-permissions-eui-do-not-have-required-flags-to-edit-rank-tooltip = Sie haben nicht die erforderlichen Flags, um diesen Rang zu bearbeiten.
+permissions-eui-do-not-have-required-flags-to-edit-admin-tooltip = Dir fehlen die nötigen Flags, um diesen Admin zu bearbeiten.
+permissions-eui-do-not-have-required-flags-to-edit-rank-tooltip = Dir fehlen die nötigen Flags, um diesen Rang zu bearbeiten.
 
-permissions-eui-menu-title = Genehmigungsgremium
+permissions-eui-menu-title = Berechtigungen
 permissions-eui-menu-add-admin-button = Admin hinzufügen
-permissions-eui-menu-add-admin-rank-button = Admin Rang hinzufügen
-permissions-eui-menu-save-admin-rank-button = Sparen
+permissions-eui-menu-add-admin-rank-button = Admin-Rang hinzufügen
+permissions-eui-menu-save-admin-rank-button = Speichern
 permissions-eui-menu-remove-admin-rank-button = Entfernen
 permissions-eui-menu-admins-tab-title = Admins
-permissions-eui-menu-admin-ranks-tab-title = Admin-Ranks
-permissions-eui-edit-admin-window-edit-admin-label = Admin bearbeiten {$admin}
+permissions-eui-menu-admin-ranks-tab-title = Admin-Ränge
+permissions-eui-edit-admin-window-edit-admin-label = Admin {$admin} bearbeiten
 permissions-eui-edit-admin-window-name-edit-placeholder = Benutzername/Benutzer-ID
-permissions-eui-edit-admin-window-title-edit-placeholder = Benutzerdefinierte Titel, lassen Sie leer, um Rangtitel zu erben.
+permissions-eui-edit-admin-window-title-edit-placeholder = Eigener Titel, leer lassen, um den Rangtitel zu erben.
 permissions-eui-edit-admin-window-no-rank-button = Kein Rang
-permissions-eui-edit-admin-rank-window-name-edit-placeholder = Rangbezeichnung
-permissions-eui-edit-admin-title-control-text = nicht
+permissions-eui-edit-admin-rank-window-name-edit-placeholder = Rangname
+permissions-eui-edit-admin-title-control-text = keiner
 permissions-eui-edit-admin-window-suspended = Suspendiert?
-permissions-eui-edit-no-rank-text = nicht
+permissions-eui-edit-no-rank-text = kein Rang
 permissions-eui-edit-title-button = Edit
 permissions-eui-edit-admin-rank-button = Edit
-permissions-eui-edit-admin-rank-window-title = Admin-Rank bearbeiten
-permissions-eui-edit-admin-window-save-button = Sparen
+permissions-eui-edit-admin-rank-window-title = Admin-Rang bearbeiten
+permissions-eui-edit-admin-window-save-button = Speichern
 permissions-eui-edit-admin-window-remove-flag-button = Entfernen
 
-cmd-permissions-desc = Öffnet das Admin-Berechtigungsfeld.
-cmd-permissions-help = Nutzung: Berechtigungen
+cmd-permissions-desc = Öffnet das Berechtigungs-Panel für Admins.
+cmd-permissions-help = Verwendung: permissions

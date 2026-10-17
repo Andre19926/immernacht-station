@@ -2,7 +2,7 @@
 
 selectable-set-syndicate-lawyer-name = Syndicate Lawyer Bundle
 selectable-set-syndicate-lawyer-description =
-    Das Gesetz ist diesmal auf Ihrer Seite.
+    Das Gesetz ist diesmal auf deiner Seite.
     Enthält: rote Anwaltsklage, Syndicate-Sonnenbrille,
     Rechtsanwaltsabzeichen, Rechtsanwalt PDA, Chamäleon Headset, Chamäleon
     Rucksack, Syndicate-Verschlüsselungsschlüssel, Anwaltsstempel,
@@ -11,7 +11,7 @@ selectable-set-syndicate-lawyer-description =
 
 selectable-set-syndicate-no-russian-name = Syndicate Terrorist Bundle
 selectable-set-no-russian-description =
-    Denken Sie daran, kein Russe.
+    Denke daran, kein Russe.
     Enthält: schwarze Anwaltsklage, Brust-Rig, Syndicate-Sonnenbrille,
     Syndicate-Verschlüsselungsschlüssel, L6 SAW und
     eine L6 SAW Magazinbox.
@@ -37,15 +37,14 @@ selectable-set-syndicate-engineer-description =
 selectable-set-syndicate-door-kicker-name = Syndicate Tür Kicker Bundle
 selectable-set-syndicate-door-kicker-description =
     Lebe nach einem Ehrenkodex. Jetzt gesponsert vom Syndicate.
-    Enthält: operativer Overall, Kampfhandschuhe, Wärmesichtbrille,
+    Enthält: operativer Uniform, Kampfhandschuhe, Wärmesichtbrille,
     Syndicate operativer PDA, Webweste, Brustkorb, Syndicate-Gasmaske,
     Syndicate Kiefer des Todes, "bojevic" Kampfflinte, Shell-Box,
     Syndicate-Verschlüsselungsschlüssel und zwei C-4.
 
 selectable-set-syndicate-tunnel-clown-name = Tunnel Clown Bundle
-selectable-set-syndicate-tunnel-clown-description =
-    Rüsten Sie Ihre Clownausrüstung aus, hupen und töten Sie Menschen in der Wartung.
-    Enthält: Syndicate-Verschlüsselungsschlüssel, Clown Loadout, Webweste,
-    Kampfhandschuhe, Nachtsichtbrille, Flaming Fire Axe,
-    zwei Stunprods, Freiheitsimplantat, Mikrobombenimplantat, trauriges Posaunenimplantat,
-    zwei Handschellen, holoclown, combat medipen und eine Syndicate Visitenkarte.
+selectable-set-syndicate-tunnel-clown-description = Leg deine Clownsausrüstung an, hupe und töte Leute in den Wartungsgängen.
+    Enthält: Syndicate-Verschlüsselungsschlüssel, Clown-Ausrüstung, Webweste,
+    Kampfhandschuhe, Syndicate-Nachtsichtbrille, Flammende Feueraxt,
+    zwei Schlagstöcke, Freiheitsimplantat, Mikrobombenimplantat, Traurige-Posaune-Implantat,
+    zwei Handschellen, Holoclown, Kampf-Medipen und eine Syndicate-Visitenkarte.

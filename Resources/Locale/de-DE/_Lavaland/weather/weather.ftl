@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lavaland-weather-start-message = Sie haben das Gefühl, dass der Wind stärker weht ...
+lavaland-weather-start-message = Du hast das Gefühl, dass der Wind stärker weht ...
 lavaland-weather-end-message = Der Wind geht aus.

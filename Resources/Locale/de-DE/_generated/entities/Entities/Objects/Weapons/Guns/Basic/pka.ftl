@@ -1,2 +1,2 @@
-ent-WeaponProtoKineticAccelerator = Proto-Kinee-Velle Pro-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle-Velle
+ent-WeaponProtoKineticAccelerator = Proto-kinetischer Beschleuniger
     .desc = Feuert hochschädigende kinetische Bolzen auf kurze Entfernung.

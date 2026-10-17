@@ -12,25 +12,25 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-e-z-nutrient = EZ Nährstoff
-reagent-desc-e-z-nutrient = Geben Sie Ihren Pflanzen einige dieser EZ Nährstoffe! Dionas finden das köstlich.
+reagent-desc-e-z-nutrient = Gib deinen Pflanzen einige dieser EZ Nährstoffe! Dionas finden das köstlich.
 
 reagent-name-left4-zed = left-4-zed
 reagent-desc-left4-zed = Ein Cocktail aus mutagenen Verbindungen, der Nährstoffe liefert, das Genom des Pflanzenlebens schädigt und beeinflusst.
 
 reagent-name-pest-killer = Schädlingsbekämpfungsmittel
-reagent-desc-pest-killer = Eine Mischung, die auf Schädlinge abzielt. Während es nützlich ist, vergiftet es langsam Pflanzen mit Toxinen, seien Sie vorsichtig, wenn Sie es verwenden.
+reagent-desc-pest-killer = Eine Mischung, die auf Schädlinge abzielt. Während es nützlich ist, vergiftet es langsam Pflanzen mit Toxinen, sei vorsichtig, wenn du es verwendest.
 
 reagent-name-plant-b-gone = plant-B-gon
 reagent-desc-plant-b-gone = Eine schädliche toxische Mischung, um Pflanzenleben abzutöten. Sehr effektiv gegen Kudzu.
 
 reagent-name-robust-harvest = Robuste Ernte
-reagent-desc-robust-harvest = Ein hochwirksamer Dünger mit einer begrenzten potenzsteigernden Wirkung auf Pflanzen. Verwenden Sie es vorsichtig, da eine übermäßige Anwendung den Pflanzenertrag reduzieren kann. Es hat eine besonders positive Wirkung auf Dionas.
+reagent-desc-robust-harvest = Ein hochwirksamer Dünger mit einer begrenzten potenzsteigernden Wirkung auf Pflanzen. Verwende es vorsichtig, da eine übermäßige Anwendung den Pflanzenertrag reduzieren kann. Es hat eine besonders positive Wirkung auf Dionas.
 
 reagent-name-weed-killer = Unkrautvernichter
-reagent-desc-weed-killer = Eine Mischung, die auf Unkraut abzielt. Sehr effektiv gegen Kudzu. Während es nützlich ist, vergiftet es langsam Pflanzen mit Toxinen, seien Sie vorsichtig, wenn Sie es verwenden.
+reagent-desc-weed-killer = Eine Mischung, die auf Unkraut abzielt. Sehr effektiv gegen Kudzu. Während es nützlich ist, vergiftet es langsam Pflanzen mit Toxinen, sei vorsichtig, wenn du es verwendest.
 
 reagent-name-ammonia = Ammoniak
-reagent-desc-ammonia = Ein effektiver Dünger, es gibt Ihren Pflanzen einige Nährstoffe.
+reagent-desc-ammonia = Ein effektiver Dünger, es gibt deinen Pflanzen einige Nährstoffe.
 
 reagent-name-diethylamine = Diethylamin
 reagent-desc-diethylamine = Ein sehr starker Dünger, behandelt Pflanzen mit Nährstoffen, beseitigt Schädlinge und kann manchmal sogar das Wachstum beschleunigen.

@@ -4,14 +4,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 advertisement-gibb-1 = Köstlich!
-advertisement-gibb-2 = Empfohlen von mindestens einem Arzt!
+advertisement-gibb-2 = Von mindestens einem Arzt empfohlen!
 advertisement-gibb-3 = Über 1 Million verkaufte Getränke!
-advertisement-gibb-4 = Dr. Gibb, was ist das Schlimmste, was passieren könnte?
+advertisement-gibb-4 = Dr. Gibb, was kann schon schlimmstenfalls passieren?
 advertisement-gibb-5 = Dr. Gibb, die Geschmacksexplosion!
-advertisement-gibb-6 = Vertrauen Sie mir, ich bin Arzt!
-advertisement-gibb-7 = Die beste Zuckerinfusion in der Galaxie!
-advertisement-gibb-8 = Space Cola kann Gibbed bekommen!
-thankyou-gibb-1 = Der Dr. ist in ... deinem Bauch!
+advertisement-gibb-6 = Vertrau mir, ich bin Arzt!
+advertisement-gibb-7 = Die beste Zuckerinfusion der Galaxis!
+advertisement-gibb-8 = Space Cola kann sich gibben lassen!
+thankyou-gibb-1 = Der Doktor ist da ... in deinem Bauch!
 thankyou-gibb-2 = Prognose: Geschmack!
-thankyou-gibb-3 = Genießen Sie die 42 Geschmacksrichtungen!
-thankyou-gibb-4 = Genießen Sie die sirupöse Güte!
+thankyou-gibb-3 = Genieße die 42 Geschmacksrichtungen!
+thankyou-gibb-4 = Genieße die sirupartige Köstlichkeit!

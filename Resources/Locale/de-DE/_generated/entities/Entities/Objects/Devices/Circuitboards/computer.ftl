@@ -1,145 +1,145 @@
 ent-AlertsComputerCircuitboard = atmosphärische Warnungen Computerplatine
-    .desc = Ein Computer druckte Platin für einen atmosphärischen Alarmcomputer.
+    .desc = Eine Computerplatine für einen atmosphärischen Alarmcomputer.
 
 ent-AtmosMonitoringComputerCircuitboard = Überwachungstafel für atmosphärische Netzwerke
-    .desc = Ein Computer druckte Platin für einen atmosphärischen Netzwerkmonitor.
+    .desc = Eine Computerplatine für einen atmosphärischen Netzwerkmonitor.
 
 ent-PowerComputerCircuitboard = Leistungsüberwachung Computerplatine
-    .desc = Ein Computer druckte Platin für einen Stromüberwachungscomputer.
+    .desc = Eine Computerplatine für einen Stromüberwachungscomputer.
 
 ent-SupermatterComputerCircuitboard = Supermatter-Überwachungskonsolenplatine
-    .desc = Ein Computer druckte Platin für eine Supermatter-Überwachungskonsole.
+    .desc = Eine Computerplatine für eine Supermatter-Überwachungskonsole.
 
 ent-MedicalRecordsComputerCircuitboard = Krankenakten Computerplatine
-    .desc = Ein Computer gedruckt Platine für eine medizinische Aufzeichnungen Computer.
+    .desc = Eine Computerplatine für eine medizinische Aufzeichnungen Computer.
 
 ent-CriminalRecordsComputerCircuitboard = Strafregister Computerplatine
-    .desc = Ein computer druckte platin für einen strafregistercomputer.
+    .desc = Eine Computerplatine für einen Strafregister-Computer.
 
 ent-StationRecordsComputerCircuitboard = Station Aufzeichnungen Computerplatine
-    .desc = Ein Computer gedruckt Platin für eine Station zeichnet Computer auf.
+    .desc = Eine Computerplatine für einen Stationsakten-Computer.
 
 ent-CargoRequestComputerCircuitboard = Frachtanfrage Computerplatine
-    .desc = Ein Computer druckte Platin für einen Frachtanforderungscomputer.
+    .desc = Eine Computerplatine für einen Frachtanforderungscomputer.
 
-ent-CargoRequestEngineeringComputerCircuitboard = Engineering Request Computerplatine
-    .desc = Ein Computer druckte Platin für einen Engineering Request Computer.
+ent-CargoRequestEngineeringComputerCircuitboard = Technik-Anforderungscomputer Computerplatine
+    .desc = Eine Computerplatine für einen Technik-Anforderungscomputer.
 
-ent-CargoRequestMedicalComputerCircuitboard = medizinische Anfrage Computerplatine
-    .desc = Ein Computer gedruckt Platine für eine medizinische Anfrage Computer.
+ent-CargoRequestMedicalComputerCircuitboard = Medizin-Anforderungscomputer Computerplatine
+    .desc = Eine Computerplatine für einen Medizin-Anforderungscomputer.
 
-ent-CargoRequestScienceComputerCircuitboard = Wissenschaftsanfrage Computerplatine
-    .desc = Ein Computer gedruckt Platin für eine Wissenschaft Anfrage Computer.
+ent-CargoRequestScienceComputerCircuitboard = Wissenschafts-Anforderungscomputer Computerplatine
+    .desc = Eine Computerplatine für einen Wissenschafts-Anforderungscomputer.
 
-ent-CargoRequestSecurityComputerCircuitboard = Sicherheitsanfrage Computerplatine
-    .desc = Ein Computer gedruckt Platine für eine Sicherheitsanforderung Computer.
+ent-CargoRequestSecurityComputerCircuitboard = Sicherheits-Anforderungscomputer Computerplatine
+    .desc = Eine Computerplatine für einen Sicherheits-Anforderungscomputer.
 
-ent-CargoRequestServiceComputerCircuitboard = Service Request Computerplatine
-    .desc = Ein Computer druckte Platine für einen Service Request Computer.
+ent-CargoRequestServiceComputerCircuitboard = Service-Anforderungscomputer Computerplatine
+    .desc = Eine Computerplatine für einen Service Request Computer.
 
 ent-FundingAllocationComputerCircuitboard = Mittelzuweisung Computerplatine
-    .desc = Ein Computer druckte Platin für eine Finanzierungskartenkonsole.
+    .desc = Eine Computerplatine für eine Finanzierungskartenkonsole.
 
 ent-CargoSaleComputerCircuitboard = Frachtverkauf Computerplatine
-    .desc = Ein Computer gedruckt Platin für einen Frachtverkauf Computer.
+    .desc = Eine Computerplatine für einen Frachtverkauf Computer.
 
 ent-CargoBountyComputerCircuitboard = Fracht Bounty Computerplatine
-    .desc = Ein Computer druckte Platin für einen Fracht Bounty Computer.
+    .desc = Eine Computerplatine für einen Fracht Bounty Computer.
 
-ent-SalvageJobBoardComputerCircuitboard = salvage job board Computerplatine
-    .desc = Ein Computer gedruckt Platin für eine Salvage Job Board Computer.
+ent-SalvageJobBoardComputerCircuitboard = Salvage-Auftragstafel Computerplatine
+    .desc = Eine Computerplatine für eine Salvage Job Board Computer.
 
 ent-SalvageExpeditionsComputerCircuitboard = Salvage Expeditionen Computerplatine
-    .desc = Ein Computer gedruckt Platin für eine Salvage Expeditionen Computer.
+    .desc = Eine Computerplatine für eine Salvage Expeditionen Computer.
 
 ent-CargoShuttleConsoleCircuitboard = Frachtshuttle-Konsole
-    .desc = Ein Computer druckte Platin für eine Frachtshuttle-Konsole.
+    .desc = Eine Computerplatine für eine Frachtshuttle-Konsole.
 
 ent-SurveillanceCameraMonitorCircuitboard = Überwachungskameramonitor
-    .desc = Ein Computer druckte Platin für einen Überwachungskameramonitor.
+    .desc = Eine Computerplatine für einen Überwachungskameramonitor.
 
-ent-SurveillanceWirelessCameraMonitorCircuitboard = drahtlose Überwachungskameramonitorkarte
-    .desc = Ein computer gedrucktes platin für einen Überwachungskameramonitor.
+ent-SurveillanceWirelessCameraMonitorCircuitboard = Drahtloser Überwachungskameramonitor (Platine)
+    .desc = Eine Computerplatine für einen drahtlosen Überwachungskameramonitor.
 
 ent-XenoborgCameraMonitorCircuitboard = Xenoborg Kameramonitor
-    .desc = Ein Computer druckte Platin für einen Xenoborg Kameramonitor.
+    .desc = Eine Computerplatine für einen Xenoborg Kameramonitor.
 
 ent-ComputerTelevisionCircuitboard = Fernsehgerät
-    .desc = Ein Computer druckte Platin für einen Fernseher.
+    .desc = Eine Computerplatine für einen Fernseher.
 
 ent-ResearchComputerCircuitboard = R&D Computerplatine
-    .desc = Ein Computer druckte Platin für eine R & D-Konsole.
+    .desc = Eine Computerplatine für eine R & D-Konsole.
 
 ent-AnalysisComputerCircuitboard = Analyse Computerplatine
-    .desc = Ein Computer druckte Platin für eine Analysekonsole.
+    .desc = Eine Computerplatine für eine Analysekonsole.
 
 ent-TechDiskComputerCircuitboard = Tech-Disc-Anschlussplatte
-    .desc = Ein Computer druckte Platin für ein Technologie-Disk-Terminal.
+    .desc = Eine Computerplatine für ein Technologie-Disk-Terminal.
 
 ent-CrewMonitoringComputerCircuitboard = Crewüberwachung Computerplatine
-    .desc = Ein Computer druckte Platin für eine Crew-Überwachungskonsole.
+    .desc = Eine Computerplatine für eine Crew-Überwachungskonsole.
 
-ent-IDComputerCircuitboard = ID-Karte Computerplatine
-    .desc = Ein Computer druckte Platin für eine ID-Kartenkonsole.
+ent-IDComputerCircuitboard = ID-Karten-Computerplatine
+    .desc = Eine Computerplatine für eine ID-Kartenkonsole.
 
 ent-BodyScannerComputerCircuitboard = Bodyscanner Computerplatine
-    .desc = Ein computer gedrucktes platin für eine body-scanner-konsole.
+    .desc = Eine Computerplatine für eine Körperscanner-Konsole.
 
 ent-CommsComputerCircuitboard = Kommunikation Computerplatine
-    .desc = Ein Computer druckte Platin für eine Kommunikationskonsole.
+    .desc = Eine Computerplatine für eine Kommunikationskonsole.
 
 ent-SyndicateCommsComputerCircuitboard = Syndicate-Kommunikation Computerplatine
-    .desc = Ein Computer druckte Platin für eine Syndicate-Kommunikationskonsole.
+    .desc = Eine Computerplatine für eine Syndicate-Kommunikationskonsole.
 
 ent-WizardCommsComputerCircuitboard = Wizard-Kommunikation Computerplatine
-    .desc = Ein Computer druckte Platin für eine Kommunikationskonsole des Assistenten.
+    .desc = Eine Computerplatine für eine Wizard-Kommunikationskonsole.
 
 ent-CentcommCommsComputerCircuitboard = zentrale Führungskommunikation Computerplatine
-    .desc = Ein Computer druckte Platin für eine zentrale Führungskommunikationskonsole.
+    .desc = Eine Computerplatine für eine zentrale Führungskommunikationskonsole.
 
 ent-RadarConsoleCircuitboard = Massenscanner Computerplatine
 
 ent-SolarControlComputerCircuitboard = Solarsteuerung Computerplatine
-    .desc = Ein Computer druckte Platin für eine Solarsteuerung.
+    .desc = Eine Computerplatine für eine Solarsteuerung.
 
-ent-SpaceVillainArcadeComputerCircuitboard = Space Villain Arcade Board
-    .desc = Ein Computer gedruckt Platin für einen Raum Bösewicht Arcade-Kabinett.
+ent-SpaceVillainArcadeComputerCircuitboard = Space-Villain-Arcade Computerplatine
+    .desc = Eine Computerplatine für einen Raum Bösewicht Arcade-Kabinett.
 
-ent-BlockGameArcadeComputerCircuitboard = Blockspiel Arcade Board
-    .desc = Ein Computer gedruckt Platine für ein Blockspiel Arcade-Kabinett.
+ent-BlockGameArcadeComputerCircuitboard = Blockspiel-Arcade Computerplatine
+    .desc = Eine Computerplatine für ein Blockspiel Arcade-Kabinett.
 
 ent-ParticleAcceleratorComputerCircuitboard = PA-Steuerbox Computerplatine
-    .desc = Ein Computer druckte Platin für eine Partikelbeschleunigersteuerbox.
+    .desc = Eine Computerplatine für eine Partikelbeschleunigersteuerbox.
 
 ent-ShuttleConsoleCircuitboard = Shuttlekonsole
-    .desc = Ein Computer druckte Platin für eine Shuttle-Konsole.
+    .desc = Eine Computerplatine für eine Shuttle-Konsole.
 
-ent-SyndicateShuttleConsoleCircuitboard = Syndicate Shuttle Konsole Board
-    .desc = Ein Computer druckte Platin für eine Syndicate-Shuttle-Konsole.
+ent-SyndicateShuttleConsoleCircuitboard = Syndicate-Shuttle-Konsole (Platine)
+    .desc = Eine Computerplatine für eine Syndicate-Shuttle-Konsole.
 
 ent-CloningConsoleComputerCircuitboard = Klonkonsole Computerplatine
-    .desc = Ein Computer druckte Platin für eine Klonkonsole.
+    .desc = Eine Computerplatine für eine Klonkonsole.
 
-ent-ComputerIFFCircuitboard = IFF Konsole Board
-    .desc = Ermöglicht es Ihnen, die IFF-Eigenschaften dieses Schiffes zu kontrollieren.
+ent-ComputerIFFCircuitboard = IFF-Konsole (Platine)
+    .desc = Ermöglicht es dir, die IFF-Eigenschaften dieses Schiffes zu kontrollieren.
 
-ent-ComputerIFFSyndicateCircuitboard = Syndicate IFF Console Board
-    .desc = Ermöglicht es Ihnen, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
+ent-ComputerIFFSyndicateCircuitboard = Syndicate-IFF-Konsole (Platine)
+    .desc = Ermöglicht es dir, die IFF und Stealth-Eigenschaften dieses Schiffes zu kontrollieren.
 
-ent-ComputerMassMediaCircuitboard = News Manager Konsolen Board
+ent-ComputerMassMediaCircuitboard = Nachrichten-Konsole (Platine)
     .desc = Schreibe deine Botschaft an die Welt!
 
 ent-SensorConsoleCircuitboard = Sensorüberwachungspultplatine
-    .desc = Ein Computer druckte Platin für eine Sensorüberwachungskonsole.
+    .desc = Eine Computerplatine für eine Sensorüberwachungskonsole.
 
 ent-RoboticsConsoleCircuitboard = Robotik-Steuerpultplatine
-    .desc = Ein Computer druckte Platin für eine Robotik-Kontrollkonsole.
+    .desc = Eine Computerplatine für eine Robotik-Kontrollkonsole.
 
-ent-ComputerXenoborgsControlCircuitboard = Xenoborg Steuerpult
-    .desc = Ein Computer druckte Platin für eine Xenoborg-Kontrollkonsole.
+ent-ComputerXenoborgsControlCircuitboard = Xenoborg-Kontrollkonsole (Platine)
+    .desc = Eine Computerplatine für eine Xenoborg-Kontrollkonsole.
 
-ent-StationAiUploadCircuitboard = AI Upload Konsole Board
-    .desc = Ein Computer druckte Platin für eine AI-Upload-Konsole.
+ent-StationAiUploadCircuitboard = KI-Upload-Konsole (Platine)
+    .desc = Eine Computerplatine für eine KI-Upload-Konsole.
 
-ent-StationAiFixerCircuitboard = AI-Restaurationskonsole
-    .desc = Ein Computer druckte Platin für eine AI-Restaurationskonsole.
+ent-StationAiFixerCircuitboard = KI-Wiederherstellungskonsole (Platine)
+    .desc = Eine Computerplatine für eine KI-Restaurationskonsole.

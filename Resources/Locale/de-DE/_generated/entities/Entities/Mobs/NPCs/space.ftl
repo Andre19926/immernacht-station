@@ -22,13 +22,13 @@ ent-MobCobraSpace = Raumkobra
 ent-MobCobraSpaceSalvage = Raumkobra
     .desc = Lange Reißzähne und eine glühende Haube, und der verführerische Blick bittet, näher zu kommen.
 
-ent-MobSnail = Schnecken
+ent-MobSnail = Schnecke
     .desc = Es sei denn, du bist französisch.
 
-ent-MobSnailInstantDeath = Schnecken
+ent-MobSnailInstantDeath = Schnecke
     .desc = Es sei denn, du bist französisch.
 
-ent-MobSnailSpeed = Schnecken
+ent-MobSnailSpeed = Schnecke
     .desc = Es sei denn, du bist französisch.
 
 ent-MobSnailMoth = Snoth

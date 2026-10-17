@@ -1,14 +1,14 @@
-ent-EngineeringTechFab = Engineering Techfab
-    .desc = Druckt Ausrüstung und Platin für die Verwendung durch die Ingenieurabteilung.
+ent-EngineeringTechFab = Technik-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Technikabteilung.
 
-ent-CargoTechFab = Frachttechniker-Fab
-    .desc = Druckt Ausrüstung und Platin zur Verwendung durch die Frachtabteilung.
+ent-CargoTechFab = Fracht-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Frachtabteilung.
 
-ent-ScienceTechFab = Wissenschaft Techfab
-    .desc = Druckt Ausrüstung und Platin für die Wissenschaftsabteilung.
+ent-ScienceTechFab = Wissenschafts-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Wissenschaftsabteilung.
 
-ent-ServiceTechFab = Service TechFab
-    .desc = Drucken Sie Geräte und Platin zur Verwendung durch die Serviceabteilung.
+ent-ServiceTechFab = Service-Techfab
+    .desc = Druckt Ausrüstung und Platinen für die Serviceabteilung.
 
-ent-ERTTechFab = ERT-Technologie
-    .desc = Standard-Ausgabemunition und -ausrüstung für den Einsatz von Notfallteams. Schnell, einfach, zuverlässig.
+ent-ERTTechFab = ERT-Techfab
+    .desc = Standardausrüstung und -munition für Einsätze des Notfallteams. Schnell, einfach, zuverlässig.

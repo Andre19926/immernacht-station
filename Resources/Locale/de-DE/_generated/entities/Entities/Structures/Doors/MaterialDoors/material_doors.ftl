@@ -19,7 +19,7 @@ ent-WoodDoor = Holztür
 ent-PaperDoor = Papiertür
     .desc = Eine Tür, wohin wird sie führen?
 
-ent-WebDoor = Bahntür
+ent-WebDoor = Spinnwebtür
     .desc = Eine Tür, die zu den Ländern der Spinnen führt ... oder ein beabstandeter Raum.
 
 ent-CardDoor = Kartontür

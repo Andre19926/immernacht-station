@@ -8,12 +8,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-server-info-rules-button = Vorschriften
-server-info-guidebook-button = Leitfaden
-server-info-discord-button = Dissonanz
+server-info-rules-button = Regeln
+server-info-guidebook-button = Guidebook
+server-info-discord-button = Discord
 server-info-website-button = Website
 server-info-wiki-button = Wiki
 server-info-forum-button = Forum
-server-info-telegram-button = Telegramm
-server-info-report-button = Bugs melden
-server-info-credits-button = Kredite
+server-info-telegram-button = Telegram
+server-info-report-button = Bug melden
+server-info-credits-button = Mitwirkende

@@ -7,5 +7,5 @@
 
 ## goob edit: no more nukie auto shuttle call
 
-nuke-ops-no-more-threat-announcement-shuttle-call = Langstreckensensoren zeigen, dass die nukleare Bedrohung beseitigt wurde. Das Notfall-Shuttle wurde aufgerufen. ETA: {$time} {$units}Sie erinnern sich vielleicht an das Shuttle, um die Verschiebung zu verlängern.
+nuke-ops-no-more-threat-announcement-shuttle-call = Langstreckensensoren zeigen, dass die nukleare Bedrohung beseitigt wurde. Das Evakuierungsshuttle wurde gerufen. Ankunft in: {$time} {$units}. Ihr könnt das Shuttle zurückrufen, um die Schicht zu verlängern.
 nuke-ops-no-more-threat-announcement = Langstreckensensoren zeigen, dass die nukleare Bedrohung beseitigt wurde. Das Notfall-Shuttle ist bereits unterwegs.

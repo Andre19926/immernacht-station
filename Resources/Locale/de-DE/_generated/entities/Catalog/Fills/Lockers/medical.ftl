@@ -10,7 +10,7 @@ ent-LockerMedicalFilled = Spind des Arztes
 ent-LockerWallMedicalDoctorFilled = Wand des Arztes Spind
     .desc = Eine Standard-Nanotrasen-Speichereinheit, jetzt an Wänden.
 
-ent-LockerChemistryFilled = Chemische Spinnerei
+ent-LockerChemistryFilled = Chemie-Spind
     .desc = Eine Standardausgabe-Nanotrasen-Speichereinheit.
 
 ent-LockerParamedicFilled = Sanitäter Spind

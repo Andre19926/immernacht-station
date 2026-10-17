@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-janidrobe-1 = Kommen Sie und holen Sie sich Ihre Hausmeisterkleidung, die jetzt von Echsenhausmeistern überall unterstützt wird!
-advertisement-janidrobe-2 = Hier, um dich sauber zu halten, während du unreine Dinge aufräumst!
+advertisement-janidrobe-1 = Hol dir deine Hausmeisterkleidung, jetzt von Echsen-Hausmeistern überall empfohlen!
+advertisement-janidrobe-2 = Hält dich sauber, während du Unsauberes aufräumst!
 advertisement-janidrobe-3 = Stilvoll gelb!
-advertisement-janidrobe-4 = Polieren Sie Ihren Auftritt mit JaniDrobe!
-advertisement-janidrobe-5 = Leuchten wie ein glänzender Boden!
+advertisement-janidrobe-4 = Poliere deinen Auftritt mit JaniDrobe!
+advertisement-janidrobe-5 = Glänze wie ein blitzblanker Boden!
