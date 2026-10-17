@@ -37,3 +37,18 @@ condition-body-bleeding-LeftHand = • An der linken Hand von {$entity} blutet e
 condition-body-bleeding-RightHand = • An der rechten Hand von {$entity} blutet es.
 condition-body-bleeding-LeftFoot = • Am linken Fuß von {$entity} blutet es.
 condition-body-bleeding-RightFoot = • Am rechten Fuß von {$entity} blutet es.
+
+# Gesundheitsanalysator-Fenster (clientseitige Beschriftungen)
+health-analyzer-window-tab-body = Körper
+health-analyzer-window-tab-organs = Organe
+health-analyzer-window-tab-chemicals = Chemikalien
+health-analyzer-window-conditions-heading = Zustände
+group-solution-id-bloodstream = Blutkreislauf
+group-solution-id-stomach = Magen
+group-solution-id-food = Nahrung
+group-solution-id-drink = Getränk
+group-solution-id-chemicals = Chemikalien
+group-solution-id-absorbed = Aufgenommen
+group-solution-id-melee = Nahkampf
+group-solution-id-beaker = Behälter
+group-solution-id-tank = Tank

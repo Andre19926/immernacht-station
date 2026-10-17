@@ -142,9 +142,9 @@ namespace Content.Client.HealthAnalyzer.UI
             // Scan Mode
 
             ScanModeLabel.Text = msg.ScanMode.HasValue
-                ? msg.ScanMode.Value
+                ? Loc.GetString("health-analyzer-window-scan-mode-text") + " " + (msg.ScanMode.Value
                     ? Loc.GetString("health-analyzer-window-scan-mode-active")
-                    : Loc.GetString("health-analyzer-window-scan-mode-inactive")
+                    : Loc.GetString("health-analyzer-window-scan-mode-inactive"))
                 : Loc.GetString("health-analyzer-window-entity-unknown-text");
 
             ScanModeLabel.FontColorOverride = msg.ScanMode.HasValue && msg.ScanMode.Value ? Color.Green : Color.Red;
@@ -508,6 +508,16 @@ namespace Content.Client.HealthAnalyzer.UI
             GroupsContainer.AddChild(groupContainer);
         }
 
+        private static string GetSolutionDisplayName(string? solutionName)
+        {
+            if (string.IsNullOrEmpty(solutionName))
+                return Loc.GetString("group-solution-unknown");
+
+            return Loc.TryGetString($"group-solution-id-{solutionName.ToLowerInvariant()}", out var localized)
+                ? localized
+                : solutionName;
+        }
+
         private void DrawSolutionDiagnostics(Dictionary<NetEntity, Solution> solutions)
         {
             TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
@@ -515,7 +525,7 @@ namespace Content.Client.HealthAnalyzer.UI
             {
                 var groupTitleText = $"{Loc.GetString(
                     "group-solution-name",
-                    ("solution", data.Name ?? Loc.GetString("group-solution-unknown"))
+                    ("solution", GetSolutionDisplayName(data.Name))
                 )}";
 
                 var groupContainer = new BoxContainer

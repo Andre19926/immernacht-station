@@ -37,3 +37,18 @@ condition-body-bleeding-LeftHand = • {$entity}'s left hand is bleeding.
 condition-body-bleeding-RightHand = • {$entity}'s right hand is bleeding.
 condition-body-bleeding-LeftFoot = • {$entity}'s left foot is bleeding.
 condition-body-bleeding-RightFoot = • {$entity}'s right foot is bleeding.
+
+# Health analyzer window (client-side labels)
+health-analyzer-window-tab-body = Body
+health-analyzer-window-tab-organs = Organs
+health-analyzer-window-tab-chemicals = Chemicals
+health-analyzer-window-conditions-heading = Conditions
+group-solution-id-bloodstream = Bloodstream
+group-solution-id-stomach = Stomach
+group-solution-id-food = Food
+group-solution-id-drink = Drink
+group-solution-id-chemicals = Chemicals
+group-solution-id-absorbed = Absorbed
+group-solution-id-melee = Melee
+group-solution-id-beaker = Container
+group-solution-id-tank = Tank
