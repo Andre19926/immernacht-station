@@ -8,35 +8,35 @@ traitor-arcterrorist-intro = Du bist der ARC-Terrorist.
 traitor-arcterrorist-goal = Die Geschöpfe dieser Welt müssen vom eisernen Griff von Nanotrasen befreit werden, und du bist ihre einzige Hoffnung!
 traitor-arcterrorist-allies = Du kannst mit anderen Syndicate-Agenten zusammenarbeiten, wenn du unsere Sache unterstützt. Vielleicht kannst du die Agenten der Bee Liberation Front davon überzeugen, einmal zusammenzuarbeiten?
 traitor-arcterrorist-uplink = Das Syndicate hat gnädigerweise einen ihrer Uplinks für deine Aufgabe gegeben.
-traitor-arcterrorist-roundend = [color=green]Eine Aktivistin des Animal Rights Consortium[/color]
+traitor-arcterrorist-roundend = [color=green]Ein Aktivist des Animal Rights Consortium[/color]
 
-traitor-beeliberationfront-intro = Du bist die Bee Liberation Front Aktivistin.
-traitor-beeliberationfront-goal = Wir müssen uns dem Syndicate beweisen, sonst können wir nicht beitreten. Animal Rights Consort wird uns rollen!
+traitor-beeliberationfront-intro = Du bist ein Aktivist der Bee Liberation Front.
+traitor-beeliberationfront-goal = Wir müssen uns dem Syndicate beweisen, sonst können wir nicht beitreten. Das Animal Rights Consortium wird uns anwerben!
 traitor-beeliberationfront-allies = Du kannst mit anderen Syndicate-Agenten zusammenarbeiten, wenn sie unsere Sache unterstützen. Vielleicht kannst du ein Animal Rights Consort rekrutieren, um einmal nützlich zu sein?
 traitor-beeliberationfront-uplink = Das Syndicate hat gnädigerweise einen ihrer Uplinks gegeben, um zu sehen, ob wir würdig sind.
-traitor-beeliberationfront-roundend = [color=green]Eine Aktivistin von Bee Liberation Front[/color]
+traitor-beeliberationfront-roundend = [color=green]Ein Aktivist der Bee Liberation Front[/color]
 
 traitor-cybersunindustries-intro = Du bist der Spezialist von Cybersun Industries.
 traitor-cybersunindustries-goal = Stelle keine wesentliche Präsenz in der vorgesehenen Einrichtung her, da größere Vorfälle schwerer zu vertuschen sind.
-traitor-cybersunindustries-allies = Kollegen Cybersun Agenten sind zu vertrauen. Mitgliedern der MI13-Organisation kann man vertrauen. Allen anderen Syndicate-Agenten ist nicht zu trauen.
+traitor-cybersunindustries-allies = Mitgliedern von Cybersun kann man vertrauen. Mitgliedern von MI13 kann man ebenfalls vertrauen. Allen anderen Syndicate-Agenten ist nicht zu trauen.
 traitor-cybersunindustries-uplink = Du hast die Werkzeuge für den Job in Form eines Syndicate-Uplinks erhalten.
 traitor-cybersunindustries-roundend = [color=yellow]ein Spezialist von Cybersun Industries[/color]
 
-traitor-corporateclimber-intro = Du bist der Corporate Climber.
-traitor-corporateclimber-goal = Unnötig zu töten würde dich zu einer Art Verräter machen oder zumindest definitiv als einer angesehen werden. Das ist alles nur ein Mittel zum Zweck.
+traitor-corporateclimber-intro = Du bist der Konzern-Karrierist.
+traitor-corporateclimber-goal = Unnötiges Töten würde dich zu einer Art Verräter machen oder zumindest dafür gehalten werden. Das alles ist nur ein Mittel zum Zweck.
 traitor-corporateclimber-allies = Tod dem Syndicate.
-traitor-corporateclimber-uplink = Du hast Verbindungen zum Schwarzmarkt für die Taten. Klopfe ein paar lose Gewichte ab, und dein Aufstieg wird so viel glatter sein.
-traitor-corporateclimber-roundend = [color=yellow]Ein Corporate Kletterer.[/color]
+traitor-corporateclimber-uplink = Du hast Verbindungen zum Schwarzmarkt für die Taten. Räum ein paar Hindernisse aus dem Weg, und dein Aufstieg verläuft so viel reibungsloser.
+traitor-corporateclimber-roundend = [color=yellow]Ein Konzern-Karrierist.[/color]
 
-traitor-donkcorporation-intro = Du bist der Donk Co. Infiltrator.
+traitor-donkcorporation-intro = Du bist der Infiltrator von Donk Co.
 traitor-donkcorporation-goal = Wir billigen nicht die sinnlose Tötung unschuldiger Arbeiter; reinkommen, fertig werden, rauskommen ist unser Motto.
 traitor-donkcorporation-allies = Mitglieder von Waffle Co. sollen auf Sicht getötet werden; sie dürfen nicht auf der Station sein, während wir in der Nähe sind.
 traitor-donkcorporation-uplink = Du hast einen Syndicate-Uplink erhalten, um deine Aufgabe zu erfüllen.
-traitor-donkcorporation-roundend = [color=orange]ein Mitarbeiter von Donk Corporation[/color]
+traitor-donkcorporation-roundend = [color=orange]ein Mitarbeiter der Donk Corporation[/color]
 
-traitor-gorlexmarauders-intro = Du bist der Gorlex Marauder.
-traitor-gorlexmarauders-goal = Auffallen ist kein Problem, und du kannst jede Ebene der Verordnung verwenden, um die Arbeit zu erledigen. Davon abgesehen, mache dies nicht nachlässig, indem du wahllos schlachtest.
-traitor-gorlexmarauders-allies = Du kannst mit Freunden der Syndicate-Koalition zusammenarbeiten, aber behalte einen dieser Tiger-Punks im Auge, wenn sie auftauchen.
+traitor-gorlexmarauders-intro = Du bist ein Gorlex Marauder.
+traitor-gorlexmarauders-goal = Auffallen ist kein Problem, und du darfst jedes Maß an Gewalt einsetzen, um die Arbeit zu erledigen. Trotzdem: Sei dabei nicht nachlässig, indem du wahllos schlachtest.
+traitor-gorlexmarauders-allies = Du kannst mit Freunden der Syndicate-Koalition zusammenarbeiten, aber behalte diese Tiger-Punks im Auge, falls sie auftauchen.
 traitor-gorlexmarauders-uplink = Du hast einen Syndicate-Uplink erhalten, um deine Aufgabe zu erfüllen.
 traitor-gorlexmarauders-roundend = [color=red]Gorlex Marauder[/color]
 
@@ -55,7 +55,7 @@ traitor-mi13-roundend = [color=cyan]ein MI13-Agent[/color]
 traitor-tigercooperative-intro = Du bist der Tiger Cooperative Fanatic.
 traitor-tigercooperative-goal = Erinnert euch an die Lehren von Hy-lurgixon; tötet zuerst, stellt später Fragen!
 traitor-tigercooperative-allies = Nur den erleuchteten Tigerbrüdern kann man vertrauen; alle anderen müssen aus diesem sterblichen Reich vertrieben werden!
-traitor-tigercooperative-uplink = Du hast einen Syndicate-Uplink von deinen Freunden bei Cybersun Industries erhalten, um sich im Wechselstock zu beweisen. Wenn du deine Aufgaben erfüllst, wirst du assimiliert.
+traitor-tigercooperative-uplink = Du hast einen Syndicate-Uplink von deinen Freunden bei Cybersun Industries erhalten, um dich zu beweisen. Wenn du deine Aufgaben erfüllst, wirst du assimiliert.
 traitor-tigercooperative-roundend = [color=crimson]Ein Tiger Cooperative Fanatic[/color]
 
 traitor-wafflecorporation-intro = Du bist der Waffle Co. Infiltrator.

@@ -11,12 +11,12 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 flavor-base-futuristic = futuristisch
-flavor-base-offensive = Offensive
+flavor-base-offensive = anstößig
 flavor-base-sigma = Sigma
-flavor-complex-fentanyl = Brennteer
-flavor-base-tears = Salzige Tränen
-flavor-base-alienblood = Ausländer
+flavor-complex-fentanyl = Fentanyl
+flavor-base-tears = salzige Tränen
+flavor-base-alienblood = Alienblut
 flavor-base-old = alt
 flavor-base-robust = robust
-flavor-complex-unicorntears = Wie Einhorn Tränen
+flavor-complex-unicorntears = wie Einhorntränen
 flavor-base-chuddy = Chuddy
