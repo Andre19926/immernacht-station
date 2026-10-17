@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 alerts-changeling-chemicals-name = Chemikalien
-alerts-changeling-chemicals-desc = Verbringe Chemikalien, um deine Fähigkeiten zu nutzen. Langsam regeneriert.
+alerts-changeling-chemicals-desc = Verbrauche Chemikalien, um deine Fähigkeiten zu nutzen. Regeneriert sich langsam.
 
 alerts-changeling-biomass-name = Biomasse
 alerts-changeling-biomass-desc = Das ist deine Gesundheit. Wenn sie 0 erreicht, ist es [color=red]vorbei[/color]. Absorbiere Humanoide, um einen Teil davon wiederherzustellen.
@@ -17,16 +17,16 @@ alerts-changeling-fleshmend-desc = Physischer Schaden wird schnell geheilt! Verb
 
 alerts-changeling-adrenaline-name = Adrenalinreserven
 alerts-changeling-adrenaline-desc =
-    Stuns, Knockdowns und die meisten Handlungsunfähigkeitsmethoden haben null Wirkung!
+    Betäubungen, Niederschläge und die meisten Methoden zur Handlungsunfähigkeit haben keine Wirkung!
 
 alerts-changeling-panacea-name = Anatomisches Allheilmittel
 alerts-changeling-panacea-desc =
-    Nicht-physische Schäden werden geheilt! Krankheiten, Chemikalien und der Einfluss von Drogen werden gereinigt. [color=red]Effekte werden aufhören, während auf Feuer oder tot.[/color]
+    Nicht-physischer Schaden wird geheilt! Krankheiten, Chemikalien und der Einfluss von Drogen werden entfernt. [color=red]Die Wirkung endet, solange du brennst oder tot bist.[/color]
 
-alerts-changeling-darkadapt-name = Anpassung der Dunkelheit
+alerts-changeling-darkadapt-name = Dunkelheitsanpassung
 alerts-changeling-darkadapt-desc =
-    Unser Körper ist dem Schleier der Dunkelheit angepasst. [color=yellow]Chemische Regeneration um 15% verringert[/color]. [color=red]Die Auswirkungen werden aufhören, während sie brennen.[/color]
+    Unser Körper ist an den Schleier der Dunkelheit angepasst. [color=yellow]Chemische Regeneration um 15% verringert[/color]. [color=red]Die Wirkung endet, solange wir brennen.[/color]
 
 alerts-changeling-voidadapt-name = Leerraumanpassung
 alerts-changeling-voidadapt-desc =
-    Die niedrigen Extreme werden angepasst. [color=yellow]Chemische Regeneration wird gestoppt[/color]. [color=red]Die Auswirkungen werden aufhören, während sie brennen.[/color]
+    Wir sind an die Extreme der Kälte und des Niederdrucks angepasst. [color=yellow]Chemische Regeneration wird gestoppt[/color]. [color=red]Die Wirkung endet, solange wir brennen.[/color]

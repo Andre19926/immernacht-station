@@ -7,4 +7,4 @@
 # Changeling
 store-ling-category-combat = Kampf
 store-ling-category-sting = Stiche
-store-ling-category-utility = Versorgungsunternehmen
+store-ling-category-utility = Hilfsmittel

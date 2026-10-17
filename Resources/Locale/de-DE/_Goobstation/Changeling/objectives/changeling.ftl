@@ -7,15 +7,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-absorb-title = Absorb {$count} Humanoiden.
-objective-condition-absorb-description = Wir müssen absorbieren {$count} Humanoiden. Es ist notwendig für unser Überleben und unsere weitere Evolution.
+objective-condition-absorb-title = Absorbiere {$count} Humanoide.
+objective-condition-absorb-description = Wir müssen {$count} Humanoide absorbieren. Es ist notwendig für unser Überleben und unsere weitere Evolution.
 
-objective-condition-absorb-other-title = Absorb {$count} sonstige Wechseleinrichtungen.
-objective-condition-absorb-other-description = Um wahre Macht zu erlangen, müssen wir Wechselgänge aufnehmen. {$count} wird genügen.
+objective-condition-absorb-other-title = Absorbiere {$count} andere Wechselbälger.
+objective-condition-absorb-other-description = Um wahre Macht zu erlangen, müssen wir andere Wechselbälger aufnehmen. {$count} werden genügen.
 
-objective-condition-stealdna-title = Extrakt {$count} kompatible, einzigartige Genome.
-objective-condition-stealdna-description = Wir müssen extrahieren {$count} einzigartige Genome.
+objective-condition-stealdna-title = Extrahiere {$count} kompatible, einzigartige Genome.
+objective-condition-stealdna-description = Wir müssen {$count} einzigartige Genome extrahieren.
 
 objective-condition-escape-identity-title = Entkomme lebend und ungefesselt mit dem Evakuierungsshuttle, während du {$targetName}, {CAPITALIZE($job)}, bist.
 
-objective-condition-changelingsteal-description = Unsere Gläubigen wollen, dass wir es zurückholen. Der Grund betrifft uns nicht.
+objective-condition-changelingsteal-description = Unsere Gläubigen wollen, dass wir es zurückholen. Der Grund geht uns nichts an.

@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-changelings = Wechselbetriebe
+guide-entry-changelings = Wechselbälger
