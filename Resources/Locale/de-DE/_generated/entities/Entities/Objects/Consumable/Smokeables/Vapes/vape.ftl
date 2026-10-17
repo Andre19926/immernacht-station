@@ -1,2 +1,2 @@
 ent-Vape = Vae
-    .desc = Wie eine zigarre, aber für harte teenager. (WARNUNG: Gieße nur Wasser in den Dampf)
+    .desc = Wie eine Zigarre, nur für harte Teenager. (WARNUNG: Nur Wasser in den Dampf geben)

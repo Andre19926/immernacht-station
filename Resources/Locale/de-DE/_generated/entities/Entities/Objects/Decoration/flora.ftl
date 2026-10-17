@@ -1,5 +1,5 @@
 ent-FloraRockSolid = Felsblock
-    .desc = Schwer wie eine wirklich schwere Sache.
+    .desc = Schwer wie etwas wirklich Schweres.
 
 ent-FloraStalagmite = Stalagmit
     .desc = Natursteinspitzen.

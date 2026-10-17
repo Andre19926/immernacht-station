@@ -5,13 +5,13 @@ ent-WoodenSignRight = Holzschild
     .desc = Er zeigt irgendwohin.
 
 ent-WoodenSupport = Holzträger
-    .desc = Erhöht dein Vertrauen, dass ein Stein nicht auf deinen Kopf fällt.
+    .desc = Stärkt dein Vertrauen, dass dir kein Stein auf den Kopf fällt.
 
 ent-WoodenSupportBeam = Holztragbalken
-    .desc = Erhöht dein Vertrauen, dass ein Stein nicht auf deinen Kopf fällt.
+    .desc = Stärkt dein Vertrauen, dass dir kein Stein auf den Kopf fällt.
 
 ent-WoodenSupportWall = Holzstützwand
-    .desc = Eine alte, faule Mauer.
+    .desc = Eine alte, morsche Mauer.
 
 ent-WoodenSupportWallBroken = Holzstützwand
-    .desc = Eine alte, faule Mauer.
+    .desc = Eine alte, morsche Mauer.

@@ -1,77 +1,77 @@
 ent-FoodDonutPlain = Plain Donut
-    .desc = Geht gut mit robustem Kaffee.
+    .desc = Passt gut zu kräftigem Kaffee.
 
 ent-FoodDonutJellyPlain = Gelee-Donut
-    .desc = Geht gut mit robustem Kaffee.
+    .desc = Passt gut zu kräftigem Kaffee.
 
 ent-FoodDonutHomer = Donut
-    .desc = Geht gut mit robustem Kaffee.
+    .desc = Passt gut zu kräftigem Kaffee.
 
 ent-FoodDonutChaos = Chaos Donut
     .desc = Wie das Leben schmeckt es nie ganz gleich.
 
 ent-FoodDonutMeat = Fleischdonut
-    .desc = Schmeckt so grob wie es aussieht.
+    .desc = Schmeckt so eklig, wie es aussieht.
 
 ent-FoodDonutPink = Rosa Donut
-    .desc = Geht großartig mit einem Soja-Latte.
+    .desc = Passt hervorragend zu einem Soja-Latte.
 
 ent-FoodDonutSpaceman = Spaceman-Donut
-    .desc = Geht großartig mit einem kalten Becherglas Malk.
+    .desc = Passt hervorragend zu einem kalten Becherglas Malk.
 
 ent-FoodDonutApple = Apfeldonut
-    .desc = Geht großartig mit einem Schuss Zimt Schnaps.
+    .desc = Passt hervorragend zu einem Schuss Zimtschnaps.
 
 ent-FoodDonutCaramel = Caramel Donut
-    .desc = Geht großartig mit einer Tasse heißer Kokos.
+    .desc = Passt hervorragend zu einer Tasse heißer Kokosmilch.
 
 ent-FoodDonutChocolate = Schokoladen-Donut
-    .desc = Geht gut mit einem Glas warme Milch.
+    .desc = Passt gut zu einem Glas warmer Milch.
 
 ent-FoodDonutBluePumpkin = Blue Pumpkin Donut
-    .desc = Geht großartig mit einer Tasse beruhigenden betrunkenen blauen Kürbis.
+    .desc = Passt hervorragend zu einer Tasse beruhigendem betrunkenem blauem Kürbis.
 
 ent-FoodDonutBungo = Bungo donut
-    .desc = Geht großartig mit einem maurerglas der freude des hippies.
+    .desc = Passt hervorragend zu einem Einmachglas Hippie-Freude.
 
 ent-FoodDonut = Matcha donut
-    .desc = Das L-Theanin in diesem Donut ist entspannend, aber nicht euphorisch. Geht gut mit gegenüber mitwissen Seinender einmal Tee.
+    .desc = Das L-Theanin in diesem Donut wirkt entspannend, aber nicht euphorisierend. Passt gut zu einer Tasse Tee.
 
 ent-FoodDonutSweetpea = Süßerbsen-Donut
-    .desc = Geht großartig mit einer Flasche Bastion Burbon!
+    .desc = Passt hervorragend zu einer Flasche Bastion Burbon!
 
 ent-FoodDonutJellyHomer = Geleedonut
     .desc = Du Gelee?
 
 ent-FoodDonutJellyPink = Rosa Geleedonut
-    .desc = Geht großartig mit einem Soja-Latte.
+    .desc = Passt hervorragend zu einem Soja-Latte.
 
 ent-FoodDonutJellySpaceman = Spaceman-Gelee-Donut
-    .desc = Geht großartig mit einem kalten Becherglas Malk.
+    .desc = Passt hervorragend zu einem kalten Becherglas Malk.
 
 ent-FoodDonutJellyApple = Apfelgelee-Donut
-    .desc = Geht großartig mit einem Schuss Zimt Schnaps.
+    .desc = Passt hervorragend zu einem Schuss Zimtschnaps.
 
 ent-FoodDonutJellyCaramel = Karamellgelee-Donut
-    .desc = Geht großartig mit einer Tasse heißer Kokos.
+    .desc = Passt hervorragend zu einer Tasse heißer Kokosmilch.
 
 ent-FoodDonutJellyChocolate = Schokoladengelee-Donut
-    .desc = Geht gut mit einem Glas warme Milch.
+    .desc = Passt gut zu einem Glas warmer Milch.
 
 ent-FoodDonutJellyBluePumpkin = Blauer Kürbis, Gelee-Donut
-    .desc = Geht großartig mit einer Tasse beruhigenden betrunkenen blauen Kürbis.
+    .desc = Passt hervorragend zu einer Tasse beruhigendem betrunkenem blauem Kürbis.
 
 ent-FoodDonutJellyBungo = Bungogelee-Donut
-    .desc = Geht großartig mit einem maurerglas der freude des hippies.
+    .desc = Passt hervorragend zu einem Einmachglas Hippie-Freude.
 
 ent-FoodDonutJelly = Matcha-Gelee-Donut
-    .desc = Das L-Theanin in diesem Gelee-Donut ist entspannend, aber nicht euphorisch. Geht gut mit einer Tasse Tee.
+    .desc = Das L-Theanin in diesem Gelee-Donut wirkt entspannend, aber nicht euphorisierend. Passt gut zu einer Tasse Tee.
 
 ent-FoodDonutJellySweetpea = Gelee-Donut-Süßerbsen
-    .desc = Geht großartig mit einer Flasche Bastion Burbon!
+    .desc = Passt hervorragend zu einer Flasche Bastion Burbon!
 
 ent-FoodDonutJellyScurret = Gelee-Scurret-Donut
-    .desc = Keine Löcher in diesem Donut, falls eine verdächtig aussehende Stange auftaucht.
+    .desc = Keine Löcher in diesem Donut, falls plötzlich eine verdächtig aussehende Stange auftaucht.
 
 ent-FoodDonutPoison = Rosa Donut
-    .desc = Geht großartig mit einem Soja-Latte.
+    .desc = Passt hervorragend zu einem Soja-Latte.

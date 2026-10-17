@@ -1,74 +1,74 @@
 ent-FoodSnackBoritos = Borit
-    .desc = Crunchy, salty Tortilla Chips. Du könntest wahrscheinlich Nachos mit diesen machen.
+    .desc = Knusprige, salzige Tortilla-Chips. Damit könntest du wahrscheinlich Nachos machen.
 
 ent-FoodSnackCnDs = C&D
-    .desc = Rechtlich gesehen können wir nicht sagen, dass diese nicht in deinen Händen schmelzen werden.
+    .desc = Rechtlich gesehen können wir nicht behaupten, dass sie nicht in deinen Händen schmelzen.
 
 ent-FoodSnackCheesie = cheesie Honkers
-    .desc = Angebliche Käsesnacks, die überall in deinem Mund herumhorchen.
+    .desc = Angebliche Käsesnacks, die überall in deinem Mund herumspuken.
 
 ent-FoodSnackChips = Chips
     .desc = Commander Rikers „Was-zum-Crisps“.
 
 ent-FoodSnackChocolate = Schokoladenriegel
-    .desc = Schmeckt wie Karton.
+    .desc = Schmeckt wie Pappe.
 
 ent-FoodSnackChocolateBar = Schokoladenriegel
-    .desc = Schmeckt wie Karton.
+    .desc = Schmeckt wie Pappe.
 
 ent-FoodSnackEnergy = Energieriegel
-    .desc = Ein Energiebalken mit viel Punch.
+    .desc = Ein Energieriegel mit ordentlich Punch.
 
 ent-FoodSnackEnergyBar = Energieriegel
-    .desc = Ein Energiebalken mit viel Punch.
+    .desc = Ein Energieriegel mit ordentlich Punch.
 
 ent-FoodSnackPistachios = Süße Pistazien
-    .desc = Sweeties Markennamen Pistazien. Wahrscheinlich wirst du keine Krankheiten bekommen. Wahrscheinlich.
+    .desc = Pistazien der Marke Sweetie. Du bekommst wahrscheinlich keine Krankheit davon. Wahrscheinlich.
 
 ent-FoodSnackPopcorn = Popcorn
-    .desc = Gewachsen auf einem unbekannten Planeten, von einem unbekannten Bauern, geknallt von einem Idioten auf einer Raumstation.
+    .desc = Gewachsen auf einem unbekannten Planeten, von einem unbekannten Bauern, aufgeknackt von einem Idioten auf einer Raumstation.
 
 ent-FoodSnackRaisins = 4ohne Rosinen
-    .desc = Die besten Rosinen im Universum. Nicht sicher warum.
+    .desc = Die besten Rosinen im Universum. Warum, weiß niemand.
 
 ent-FoodSnackSemki = Semki Sonnenblumenkerne
-    .desc = Produziert von der Bob Bobson Nutrition Corporation. Perfekt, um Menschen anzuspucken.
+    .desc = Hergestellt von der Bob Bobson Nutrition Corporation. Perfekt, um Leute anzuspucken.
 
 ent-FoodSnackSus = Sus Jerky
-    .desc = Etwas an diesem Paket lässt dich unglaublich unwohl fühlen. Aber Jerky ist gut.
+    .desc = Irgendetwas an dieser Packung macht dich unglaublich unruhig. Aber Jerky ist gut.
 
 ent-FoodSnackSyndi = Syndikuchen
-    .desc = Ein extrem feuchter Snackkuchen, der nach dem Nuked genauso gut schmeckt.
+    .desc = Ein extrem feuchter Snackkuchen, der auch nach dem Atomschlag noch genauso gut schmeckt.
 
 ent-DrinkRamen = Becherramen
-    .desc = Ein billiges Essen mit einem Geschmack, der dich an deine Schuljahre erinnert.
+    .desc = Billiges Essen mit einem Geschmack, der dich an deine Schulzeit erinnert.
 
 ent-DrinkHellRamen = Hell Ramen
     .desc = Super würziger Geschmack!
 
 ent-FoodSnackChowMein = Chow mein
-    .desc = Ein salziger gebratener Nudel-Snack. Sieht so aus, als hätten sie das Gemüse vergessen.
+    .desc = Ein salziger gebratener Nudelsnack. Sieht aus, als hätten sie das Gemüse vergessen.
 
 ent-FoodSnackDanDanNoodles = Dan dan Nudeln
-    .desc = Ein scharfer Sichuan Nudel Snack. Die Chili-Öl-Slick-Pools oben.
+    .desc = Ein scharfer Sichuan-Nudelsnack. Oben schwimmen Pfützen aus Chiliöl.
 
 ent-FoodSnackCookieFortune = Glückskekse
-    .desc = Ein langweiliger Pappverkostung Snack mit einem Vermögen im Inneren. Überraschung! Du bist auch langweilig.
+    .desc = Ein langweiliger Snack mit Pappgeschmack und einem Vermögen im Inneren. Überraschung! Du bist auch langweilig.
 
 ent-FoodSnackNutribrick = Nutribrick
-    .desc = Ein sorgfältig synthetisierter Ziegel, der das höchste Verhältnis von Nährstoff zu Volumen enthält. Schmeckt nach Scheiße.
+    .desc = Ein sorgfältig synthetisierter Block mit dem höchsten Nährstoff-Volumen-Verhältnis. Schmeckt scheußlich.
 
 ent-FoodSnackNutribrickOpen = Nutribrick
-    .desc = Ein sorgfältig synthetisierter Ziegel, der das höchste Verhältnis von Nährstoff zu Volumen enthält. Schmeckt nach Scheiße.
+    .desc = Ein sorgfältig synthetisierter Block mit dem höchsten Nährstoff-Volumen-Verhältnis. Schmeckt scheußlich.
 
 ent-FoodSnackMREBrownie = Brownie
-    .desc = Ein präzise gemischter Brownie, der stumpfen Traumata und harten Bedingungen standhält. Schmeckt nach Scheiße.
+    .desc = Ein präzise gemischter Brownie, der stumpfen Traumata und harten Bedingungen standhält. Schmeckt scheußlich.
 
 ent-FoodSnackMREBrownieOpen = Brownie
-    .desc = Ein präzise gemischter Brownie, der stumpfen Traumata und harten Bedingungen standhält. Schmeckt nach Scheiße.
+    .desc = Ein präzise gemischter Brownie, der stumpfen Traumata und harten Bedingungen standhält. Schmeckt scheußlich.
 
 ent-FoodSnackSwirlLollipop = swirl Lutscher
-    .desc = Ein wirbelnder Kreis aus reinem konzentriertem Zucker. Wer ist jetzt das größte Kind auf dem Spielplatz?
+    .desc = Ein wirbelnder Kreis aus reinem, konzentriertem Zucker. Wer ist jetzt das größte Kind auf dem Spielplatz?
 
 ent-FoodPacketBoritosTrash = Boritbeutel
     .desc = Das ist Unsinn.
@@ -119,4 +119,4 @@ ent-FoodCookieFortune = Cookie Vermögen
     .desc = Das Glück sagt: Das Ende ist nah ... und es ist alles deine Schuld.
 
 ent-FoodPacketMRETrash = MRE-Umschlag
-    .desc = Ein Allzweck-Wrapper für eine Vielzahl von militärischen Lebensmitteln.
+    .desc = Eine Allzweckverpackung für eine Vielzahl militärischer Lebensmittel.

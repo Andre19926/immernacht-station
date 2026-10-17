@@ -5,19 +5,19 @@ ent-FoodPieAppleSlice = Apfelkuchenstück
     .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieBaklava = Baklava
-    .desc = Ein köstlicher Snack aus Nussschichten mit dünnem Brot.
+    .desc = Ein köstlicher Snack aus Nussschichten mit dünnem Teig.
 
 ent-FoodPieBaklavaSlice = Baklava-Scheibe
-    .desc = Eine Portion eines köstlichen gesunden Snacks aus Nussschichten mit dünnem Brot.
+    .desc = Eine Portion eines köstlichen, gesunden Snacks aus Nussschichten mit dünnem Teig.
 
 ent-FoodPieBananaCream = Bananencremekuchen
-    .desc = Wie zu Hause, auf dem Clownplaneten! HONK!
+    .desc = Wie zu Hause auf dem Clownplaneten! HONK!
 
 ent-FoodPieBananaCreamSlice = Stück Bananencremekuchen
-    .desc = Wie zu Hause, auf dem Clownplaneten! HONK!
+    .desc = Wie zu Hause auf dem Clownplaneten! HONK!
 
 ent-FoodPieClafoutis = Beerenklafoutis
-    .desc = Keine schwarzen Vögel, das ist ein gutes Schild.
+    .desc = Keine schwarzen Vögel, das ist ein gutes Zeichen.
 
 ent-FoodPieClafoutisSlice = Beerenklafoutis
     .desc = Ein Stück Kuchen. Lecker!
@@ -29,13 +29,13 @@ ent-FoodPieCherrySlice = Stück Kirschkuchen
     .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieMeat = Fleischkuchen
-    .desc = Ein altes Friseurrezept, sehr lecker!
+    .desc = Ein altes Barbier-Rezept, sehr lecker!
 
 ent-FoodPieMeatSlice = Stück Fleischkuchen
     .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPiePumpkin = Kürbiskuchen
-    .desc = Jemand sollte das in einen Latte verwandeln.
+    .desc = Jemand sollte daraus einen Latte machen.
 
 ent-FoodPiePumpkinSlice = Kürbiskuchenstück
     .desc = Ein Stück Kuchen. Lecker!
@@ -46,7 +46,7 @@ ent-FoodPieXenoSlice = Stück Xeno Pie
     .desc = Ein Stück Kuchen. Lecker!
 
 ent-FoodPieFrosty = frostiger Kuchen
-    .desc = Schmeckt wie blau und kalt.
+    .desc = Schmeckt blau und kalt.
 
 ent-FoodPieFrostySlice = Stück frostiger Kuchen
     .desc = Ein Stück Kuchen. Lecker!
@@ -60,13 +60,13 @@ ent-FoodPieAmanita = Amanita-Torte
     .desc = Süße und leckere Giftkuchen.
 
 ent-FoodPiePlump = Pflaumenkuchen
-    .desc = Ich wette, du liebst sachen aus plumpen helmen.
+    .desc = Ich wette, du liebst Sachen aus plumpen Helmen.
 
 ent-FoodTartGrape = Traubensorte
     .desc = Ein leckeres Dessert, das dich an den Wein erinnert, den du nicht gemacht hast.
 
 ent-FoodTartGapple = Goldapfelstreuseltarte
-    .desc = Ein leckeres Dessert, das es nicht durch einen Metalldetektor schafft.
+    .desc = Ein leckeres Dessert, das nicht durch einen Metalldetektor kommt.
 
 ent-FoodTartCoco = Schokoladen-Lava-Tarte
-    .desc = Ein leckeres Dessert aus Schokolade mit einem flüssigen Kern.
+    .desc = Ein leckeres Schokoladendessert mit flüssigem Kern.

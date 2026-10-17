@@ -1,17 +1,17 @@
 ent-PackPaperRolling = Packung Rollenpapier
-    .desc = Eine Packung dünner Papierstücke, die verwendet wurden, um feine Rauchartikel herzustellen.
+    .desc = Eine Packung dünner Papierblättchen zur Herstellung feiner Rauchwaren.
 
 ent-PackPaperRollingFilters = Packung Rollenpapier mit Filtern
-    .desc = Eine Packung Filter und dünne Papierstücke wurden verwendet, um feine Rauchartikel herzustellen.
+    .desc = Eine Packung Filter und dünner Papierblättchen zur Herstellung feiner Rauchwaren.
 
 ent-PaperRolling = Rollpapier
-    .desc = Ein dünnes Stück Papier verwendet, um feine Rauchwaren zu machen.
+    .desc = Ein dünnes Blättchen Papier zur Herstellung feiner Rauchwaren.
 
 ent-PaperRolling1 = Rollpapier
-    .desc = Ein dünnes Stück Papier verwendet, um feine Rauchwaren zu machen.
+    .desc = Ein dünnes Blättchen Papier zur Herstellung feiner Rauchwaren.
 
 ent-CigaretteFilter = Zigarettenfilter
-    .desc = Ein Streifen festes Papier als Filter für handgefertigte Zigaretten verwendet.
+    .desc = Ein Streifen festes Papier als Filter für selbstgedrehte Zigaretten.
 
 ent-CigaretteFilter1 = Zigarettenfilter
-    .desc = Ein Streifen festes Papier als Filter für handgefertigte Zigaretten verwendet.
+    .desc = Ein Streifen festes Papier als Filter für selbstgedrehte Zigaretten.

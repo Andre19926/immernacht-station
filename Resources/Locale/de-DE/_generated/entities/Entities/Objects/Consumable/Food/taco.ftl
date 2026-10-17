@@ -1,26 +1,26 @@
 ent-FoodTacoShell = Taco-Schale
-    .desc = Eine Tacoshell, leicht zu halten, fällt aber beim Ablegen auf die Seite.
+    .desc = Eine Taco-Schale, leicht zu halten, kippt aber beim Abstellen zur Seite.
 
 ent-FoodTacoBeef = Rinder-Taco
-    .desc = Eine sehr einfache und Lauf der Mühle Rindfleisch Taco, jetzt mit Käse!
+    .desc = Ein sehr einfacher, ganz gewöhnlicher Rindfleisch-Taco, jetzt mit Käse!
 
 ent-FoodTacoChicken = Chicken Tacco
-    .desc = Eine sehr einfache und Lauf der Mühle Huhn Taco, jetzt mit Käse!
+    .desc = Ein sehr einfacher, ganz gewöhnlicher Hühnchen-Taco, jetzt mit Käse!
 
 ent-FoodTacoFish = Fischtaco
-    .desc = Klingt irgendwie grob, aber es ist eigentlich nicht so schlimm.
+    .desc = Klingt irgendwie eklig, ist aber eigentlich gar nicht so schlimm.
 
 ent-FoodTacoRat = Rattentaco
-    .desc = Ja, das sieht ungefähr richtig aus...
+    .desc = Ja, das sieht ungefähr richtig aus ...
 
 ent-FoodTacoBeefSupreme = Beef Taco Supreme
-    .desc = Es ist wie ein normaler Rindfleisch-Taco, aber erhaben!
+    .desc = Wie ein normaler Rindfleisch-Taco, nur erhabener!
 
 ent-FoodTacoChickenSupreme = Hähnchentaco Supreme
     .desc = Wie ein normaler Hähnchentaco, nur erhabener!
 
 ent-FoodTacoDragon = Draco
-    .desc = Ein Drachentaco, der technisch auch ein Fischtaco ist.
+    .desc = Ein Drachen-Taco, der technisch gesehen auch ein Fisch-Taco ist.
 
 ent-FoodMealSoftTaco = Weichtaco
     .desc = Nimm einen Bissen!

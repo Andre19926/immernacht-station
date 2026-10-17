@@ -20,7 +20,7 @@ ent-FoodTinBeansTrash = Bohnenkanne
     .desc = Eine leere Dose. Daraus ließe sich etwas Metall gewinnen.
 
 ent-FoodTinMRE = Fleisch in Dosen
-    .desc = Eine Standardausgabe Dose Fleisch mit einem bequemen Pull-Tab.
+    .desc = Eine Standard-Fleischdose mit praktischem Aufreißring.
 
 ent-FoodTinMRETrash = Fleisch in Dosen
     .desc = Eine leere Dose. Daraus ließe sich etwas Metall gewinnen.

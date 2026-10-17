@@ -8,7 +8,7 @@ ent-CigCartonBlue = AcmeCo-Karton
     .desc = Ein Karton mit 6 Packungen AcmeCo.
 
 ent-CigCartonBlack = Nomadenkarton
-    .desc = Ein Karton mit 6 Paketen Nomaden.
+    .desc = Ein Karton mit 6 Packungen Nomads.
 
 ent-CigCartonMixed = Dans getränkte Raucher
-    .desc = Ein Karton enthält 3 Päckchen von Dans getränkten Rauch.
+    .desc = Ein Karton mit 3 Päckchen von Dans getränktem Rauch.

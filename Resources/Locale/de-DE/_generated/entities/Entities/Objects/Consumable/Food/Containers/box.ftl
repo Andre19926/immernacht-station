@@ -16,7 +16,7 @@ ent-FoodBoxPizzaCotton = Pizzabox
     .desc = Ein Pizzakarton. Er hält die Hitze, den Geruch und die Erinnerung an die besten fünf Minuten deines Lebens.
 
 ent-FoodBoxNugget = Hühnernuggets
-    .desc = Du spürst plötzlich den Drang, an der intergalaktischen Börse zu handeln.
+    .desc = Du verspürst plötzlich den Drang, an der intergalaktischen Börse zu handeln.
 
 ent-FoodBoxDonkpocket = Schachtel mit Donk-Taschen
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
@@ -43,31 +43,31 @@ ent-FoodBoxDonkpocketHonk = Schachtel mit Donktaschen mit Bananengeschmack
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-FoodBoxDonkpocketDink = Kiste mit Dink-Taschen
-    .desc = Net Zero Kohlenhydrate! Keine Notwendigkeit zum Heizen!
+    .desc = Netto null Kohlenhydrate! Kein Aufwärmen nötig!
 
 ent-FoodBoxDonkpocketMoth = Kiste von Mottentaschen
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
 ent-HappyHonk = Happy-Honk-Menü
-    .desc = Das Spielzeug ist essbarer als das Essen.
+    .desc = Das Spielzeug ist genießbarer als das Essen.
 
 ent-HappyHonkMime = Happy-Honk-Menü (Mime)
-    .desc = Eine limitierte Mime-Edition des Happy Honk Meal.
+    .desc = Eine limitierte Pantomimen-Edition des Happy Honk Meal.
 
 ent-HappyHonkNukie = Robustes Nukie-Menü
-    .desc = Eine Sus Mahlzeit mit einer potenziell explosiven Überraschung.
+    .desc = Eine verdächtige Mahlzeit mit potenziell explosiver Überraschung.
 
 ent-HappyHonkNukieSnacks = Syndicate-Snackbox
-    .desc = Eine Sus Mahlzeit mit einer potenziell explosiven Überraschung.
+    .desc = Eine verdächtige Mahlzeit mit potenziell explosiver Überraschung.
 
 ent-HappyHonkCluwne = Happy-Honk-Menü (Cluwne)
-    .desc = Nichts Gutes kann dabei herauskommen.
+    .desc = Daraus kann nichts Gutes entstehen.
 
 ent-FoodMealHappyHonkClown = Happy-Honk-Menü (Clown)
-    .desc = Das Spielzeug ist essbarer als das Essen.
+    .desc = Das Spielzeug ist genießbarer als das Essen.
 
 ent-FoodMealHappyHonkBigBite = Happy Honk Big Bite Mahlzeit
-    .desc = Jemand hat gutes Geld bezahlt, um diese Fast-Food-Mahlzeit auf diese Weise zu versenden. Es riecht irgendwie frisch.
+    .desc = Jemand hat gutes Geld bezahlt, um diese Fast-Food-Mahlzeit so verschicken zu lassen. Sie riecht irgendwie frisch.
 
 ent-FoodBoxCloth = Schachtel mit Stoff der Marke FlutterSoft
     .desc = Faser ist die wichtigste Mottenmahlzeit des Tages! Überspring sie nicht und greif nicht zu Spind-Resten, sondern kauf lieber hochwertigen FlutterSoft-Markenstoff.

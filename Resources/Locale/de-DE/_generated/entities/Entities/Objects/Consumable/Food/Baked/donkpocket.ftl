@@ -2,34 +2,34 @@ ent-FoodDonkpocket = Donk-pocket
     .desc = Das Essen der Wahl für den erfahrenen Verräter.
 
 ent-FoodDonkpocketWarm = warme Donk-Tasche
-    .desc = Das beheizte Essen der Wahl für den erfahrenen Verräter.
+    .desc = Das aufgewärmte Essen der Wahl für den erfahrenen Verräter.
 
 ent-FoodDonkpocketDank = Dank-Pocket
     .desc = Das Essen der Wahl für den erfahrenen Botaniker.
 
 ent-FoodDonkpocketDankWarm = warme Nasstasche
-    .desc = Das erhitzte Essen der Wahl für den erfahrenen Botaniker.
+    .desc = Das aufgewärmte Essen der Wahl für den erfahrenen Botaniker.
 
 ent-FoodDonkpocketSpicy = Scharfe Pocket
-    .desc = Das klassische Snack-Food, jetzt mit einem hitzeaktivierten würzigen Flair.
+    .desc = Der klassische Snack, jetzt mit hitzeaktivierter, würziger Note.
 
 ent-FoodDonkpocketSpicyWarm = warme würzige Tasche
-    .desc = Das klassische Snack-Essen, jetzt vielleicht ein bisschen zu scharf.
+    .desc = Der klassische Snack, jetzt vielleicht ein bisschen zu scharf.
 
 ent-FoodDonkpocketTeriyaki = Teriyaki-Tasche
-    .desc = Eine ostasiatische Version des klassischen Stationside Snacks.
+    .desc = Eine ostasiatische Version des klassischen Stationssnacks.
 
 ent-FoodDonkpocketTeriyakiWarm = warme Teriyaki-Tasche
-    .desc = Eine ostasiatische Version des klassischen Stationside-Snacks, jetzt dampfend und warm.
+    .desc = Eine ostasiatische Version des klassischen Stationssnacks, jetzt dampfend und warm.
 
 ent-FoodDonkpocketPizza = Pizza-Pocket
-    .desc = Köstlich, kitschig und überraschend füllend.
+    .desc = Köstlich, käsig und überraschend sättigend.
 
 ent-FoodDonkpocketPizzaWarm = warme Pizzatasche
-    .desc = Käsefüllung wirklich trifft die Stelle, wenn warm.
+    .desc = Käsefüllung trifft im warmen Zustand genau den richtigen Punkt.
 
 ent-FoodDonkpocketHonk = Honk-pocket
-    .desc = Der preisgekrönte Donk-Pocket, der die Herzen von Clowns und Menschen gleichermaßen gewonnen hat.
+    .desc = Die preisgekrönte Donk-Tasche, die die Herzen von Clowns und Menschen gleichermaßen erobert hat.
 
 ent-FoodDonkpocketHonkWarm = warme Honktasche
     .desc = Die preisgekrönte Donk-Tasche, jetzt warm und knusprig.
@@ -47,16 +47,16 @@ ent-FoodDonkpocketStonkWarm = warme Stonktasche
     .desc = Lecker, aber eine traurige Erinnerung an den großen Crash von '24.
 
 ent-FoodDonkpocketCarp = Karpfen-Pocket
-    .desc = Eine lange verlorene Ausgabe von Donk Pocket, speziell für hart arbeitende Retter.
+    .desc = Eine lange verschollene Ausgabe der Donk-Tasche, speziell für hart arbeitende Retter.
 
 ent-FoodDonkpocketCarpWarm = warme Karpfentasche
-    .desc = Eine lange verlorene Ausgabe von Donk Pocket, speziell für hart arbeitende Retter.
+    .desc = Eine lange verschollene Ausgabe der Donk-Tasche, speziell für hart arbeitende Retter.
 
 ent-FoodDonkpocketDink = Dink-Tasche
-    .desc = Eine Off-Brand-Echse-Donk-Tasche, mit eingelegter Karotte gefüllt und mit Algen eingewickelt. Am besten kalt gegessen, oder noch besser, überhaupt nicht gegessen.
+    .desc = Eine Echsen-Donk-Tasche eines Billiganbieters, gefüllt mit eingelegter Karotte und in Algen gewickelt. Am besten kalt gegessen, oder noch besser, gar nicht.
 
 ent-FoodDonkpocketMoth = Mottentasche
-    .desc = Buzzy-Edition von Donk-Pocket, die während der Massenproteste erstellt wurde. Eigentlich wen interessiert das? Nur Donk-Taschen für Motten.
+    .desc = Summende Edition der Donk-Tasche, die während der Massenproteste entstand. Eigentlich, wen interessiert das? Nur Donk-Taschen für Motten.
 
 ent-FoodDonkpocketMothWarm = warme Mottentasche
-    .desc = Buzzy-Edition von Donk-Pocket, die während der Massenproteste erstellt wurde. Eigentlich wen interessiert das? Nur Donk-Taschen für Motten.
+    .desc = Summende Edition der Donk-Tasche, die während der Massenproteste entstand. Eigentlich, wen interessiert das? Nur Donk-Taschen für Motten.

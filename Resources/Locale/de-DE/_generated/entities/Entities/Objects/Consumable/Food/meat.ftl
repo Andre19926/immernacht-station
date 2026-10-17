@@ -89,22 +89,22 @@ ent-FoodMeatAnomaly = anomale Fleischmasse
     .desc = Ein unglaublich dichtes Stück Fleisch. Schon beim Anblick wird dir unwohl.
 
 ent-MaterialSmileExtract = Lächelnextrakt
-    .desc = Es ist ein echtes Allheilmittel. Aber zu welchen Kosten?
+    .desc = Es ist ein echtes Allheilmittel. Aber zu welchem Preis?
 
 ent-FoodMeatCooked = Steak
-    .desc = Eine gekochte Fleischplatte. Riecht urtümlich.
+    .desc = Ein gekochtes Stück Fleisch. Riecht urtümlich.
 
 ent-FoodMeatBaconCooked = Speck
     .desc = Ein leckeres Stück gekochten Speck.
 
 ent-FoodMeatBearCooked = gekochter Bär
-    .desc = Eine gut gekochte Platte Bärenfleisch. Hart, aber schmackhaft mit den rechten Seiten.
+    .desc = Ein gut durchgegartes Stück Bärenfleisch. Zäh, aber mit der richtigen Beilage schmackhaft.
 
 ent-FoodMeatPenguinCooked = Pinguinfilet
-    .desc = Ein gekochtes Pinguinfilet. Kann als Ersatz für Fisch in Rezepten verwendet werden.
+    .desc = Ein gekochtes Pinguinfilet. Kann in Rezepten als Fischersatz verwendet werden.
 
 ent-FoodMeatChickenCooked = gekochtes Huhn
-    .desc = Ein gekochtes Stück Huhn. Am besten in anderen Rezepten verwendet.
+    .desc = Ein gekochtes Stück Huhn. Am besten in anderen Rezepten zu verwenden.
 
 ent-FoodMeatChickenFried = gebratenes Huhn
     .desc = Ein saftiges Stück Hühnerfleisch, perfekt gebraten.
@@ -113,7 +113,7 @@ ent-FoodMeatChickenFriedVox = Mysteriöses gebratenes Huhn
     .desc = „Elf geheime Kräuter und ... oh nein.“ Das ist kein Huhn.
 
 ent-FoodMeatDuckCooked = gekochte Ente
-    .desc = Ein gekochtes Stück Ente. Am besten in anderen Rezepten verwendet.
+    .desc = Ein gekochtes Stück Ente. Am besten in anderen Rezepten zu verwenden.
 
 ent-FoodMeatCrabCooked = gekochte Krabbe
     .desc = Köstlich gekochtes Krabbenfleisch.
@@ -128,7 +128,7 @@ ent-FoodMeatLizardCooked = Echsensteak
     .desc = Gekochtes, zähes Echsenfleisch.
 
 ent-FoodMeatSpiderlegCooked = Gekochtes Spinnenbein
-    .desc = Ein riesiges Spinnenbein, das immer noch zuckt, nachdem es gekocht wurde. Brutto!
+    .desc = Ein riesiges Spinnenbein, das nach dem Kochen immer noch zuckt. Igitt!
 
 ent-FoodMeatMeatballCooked = Fleischbällchen
     .desc = Ein gekochtes Fleischbällchen. Perfekt als Zutat für andere Gerichte ... außer fruchtige.
@@ -140,46 +140,46 @@ ent-FoodMeatSnailCooked = Gekochte Schnecke
     .desc = Mit Salz verfeinert.
 
 ent-FoodMeatAnomalyCooked = Anomales Steak
-    .desc = Eine riesige Masse von gekochtem Fleisch. Eine mahlzeit für eine dinnerparty oder jemand wirklich hungrig.
+    .desc = Eine riesige Masse gekochtes Fleisch. Eine Mahlzeit für eine Dinnerparty oder jemanden mit wirklich großem Hunger.
 
 ent-FoodMeatDragonCooked = Drachensteak
-    .desc = Das Ausgießen von Ketchup wird auf den meisten Stationen als Kapitalverbrechen betrachtet.
+    .desc = Ketchup zu verschütten gilt auf den meisten Stationen als Kapitalverbrechen.
 
 ent-FoodMeatCutlet = Rohschnitzel
-    .desc = Ein rohes Fleisch-Schneibchen.
+    .desc = Eine rohe Fleischscheibe.
 
 ent-FoodMeatBearCutlet = Rohes Bärenschnitzel
     .desc = Ein sehr männliches Stück rohes Bärenfleisch.
 
 ent-FoodMeatPenguinCutlet = Rohes Pinguin-Schnitzel
-    .desc = Ein Stück rohem Pinguinfleisch. Kann als Ersatz für Fisch in Rezepten verwendet werden.
+    .desc = Ein Stück rohes Pinguinfleisch. Kann in Rezepten als Fischersatz verwendet werden.
 
 ent-FoodMeatChickenCutlet = rohes Hähnchenschnitzel
-    .desc = Ein Stück rohes Huhn. Denke daran, deine Hände zu waschen!
+    .desc = Ein Stück rohes Huhn. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatDuckCutlet = rohes Entenschnitzel
-    .desc = Ein Stück rohe Ente. Denke daran, deine Hände zu waschen!
+    .desc = Ein Stück rohe Ente. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatLizardCutlet = rohes Echsenschnitzel
     .desc = Ein köstliches Dino-Schnitzel.
 
 ent-FoodMeatSpiderCutlet = rohes Spinnenschnitzel
-    .desc = Ein Stück rohem Spinnenfleisch. Kafkaesque.
+    .desc = Ein Stück rohes Spinnenfleisch. Kafkaesk.
 
 ent-FoodMeatXenoCutlet = rohes Xeno-Schnitzel
-    .desc = Eine Platte aus rohem Xeno-Flest, tropfte mit Säure.
+    .desc = Ein Stück rohes Xeno-Fleisch, tropfend vor Säure.
 
 ent-FoodMeatTomatoCutlet = Rohes Killer-Tomatenschnitzel
-    .desc = Ein Schnitzel aus einer Tomatenplatte.
+    .desc = Ein Schnitzel aus einem Tomatenstück.
 
 ent-FoodMeatSalamiSlice = Salami-Scheibe
-    .desc = Ein Stück kurierte Salami.
+    .desc = Ein Stück gepökelte Salami.
 
 ent-FoodMeatDragonCutlet = Rohes Drachenschnitzel
-    .desc = Ein rohes Drachenfleisch-Schnittchen.
+    .desc = Eine rohe Scheibe Drachenfleisch.
 
 ent-FoodMeatCutletCooked = Schnitzel
-    .desc = Ein gekochtes Fleischschnitzel. Benötigt etwas Würze.
+    .desc = Ein gegartes Fleischschnitzel. Könnte etwas Würze vertragen.
 
 ent-FoodMeatBearCutletCooked = Bärenschnitzel
     .desc = Ein sehr männliches Stück gekochtes Bärenfleisch.
@@ -188,10 +188,10 @@ ent-FoodMeatPenguinCutletCooked = Pinguin-Schnitzel
     .desc = Ein Stück gekochtes Pinguinfleisch.
 
 ent-FoodMeatChickenCutletCooked = Hähnchenschnitt
-    .desc = Ein Stück gekochtes Huhn. Denke daran, deine Hände zu waschen!
+    .desc = Ein Stück gekochtes Huhn. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatDuckCutletCooked = Entenschnitzel
-    .desc = Ein Schnitzel gekochter Ente. Denke daran, deine Hände zu waschen!
+    .desc = Ein Schnitzel gekochte Ente. Denk daran, dir die Hände zu waschen!
 
 ent-FoodMeatLizardCutletCooked = Echsenschnitzel
     .desc = Ein köstlich gebratenes Dino-Schnitzel.
@@ -200,7 +200,7 @@ ent-FoodMeatSpiderCutletCooked = Spinnenschnitzel
     .desc = Ein Stück gekochtes Spinnenfleisch. Endlich essbar.
 
 ent-FoodMeatXenoCutletCooked = Xeno-Schnitzel
-    .desc = Ein Schnitzel gekochtes Xeno, tropfend mit ... Geschmack?
+    .desc = Ein Schnitzel gekochtes Xeno, tropfend vor ... Geschmack?
 
 ent-FoodMeatDragonCutletCooked = Drachenschnitzel
-    .desc = Es ist eine Mahlzeit für Könige!
+    .desc = Das ist ein Festmahl für Könige!

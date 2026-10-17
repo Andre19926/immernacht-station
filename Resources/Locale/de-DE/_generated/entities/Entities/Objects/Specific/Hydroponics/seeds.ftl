@@ -125,7 +125,7 @@ ent-SpacemansTrumpetSeeds = Spaceman-Trompetensamen
 ent-KoibeanSeeds = Koibeansamen
 
 ent-OnionRedSeeds = Rote Zwiebelsamen
-    .desc = Lila trotz des Namens.
+    .desc = Lila, trotz des Namens.
 
 ent-WatermelonSeeds = Wassermelonensamen
 

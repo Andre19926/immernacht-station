@@ -1,23 +1,23 @@
 ent-FoodPlate = große Platte
-    .desc = Ein großer Teller, ausgezeichnet für Brot.
+    .desc = Ein großer Teller, hervorragend für Brot.
 
 ent-FoodPlateTrash = Zerbrochener Teller
-    .desc = Eine gebrochene Platte. Nutzlos.
+    .desc = Ein zerbrochener Teller. Nutzlos.
 
 ent-FoodPlateSmall = Kleiner Teller
-    .desc = Eine kleine Platte. Delikat.
+    .desc = Ein kleiner Teller. Delikat.
 
 ent-FoodPlateSmallTrash = Zerbrochener kleiner Teller
-    .desc = Eine gebrochene Platte. Nutzlos.
+    .desc = Ein zerbrochener Teller. Nutzlos.
 
 ent-FoodPlatePlastic = große Kunststoffplatte
-    .desc = Eine große blaue Plastikplatte, hervorragend für einen Geburtstagskuchen.
+    .desc = Ein großer blauer Plastikteller, hervorragend für einen Geburtstagskuchen.
 
 ent-FoodPlateSmallPlastic = Kleiner Plastikteller
-    .desc = Eine blaue Plastikplatte, hervorragend für Scheiben Geburtstagskuchen.
+    .desc = Ein blauer Plastikteller, hervorragend für Stücke von Geburtstagskuchen.
 
 ent-FoodPlateTin = Torte
-    .desc = Eine billige Foliendose für Kuchen.
+    .desc = Eine billige Folienschale für Kuchen.
 
 ent-FoodPlateMuffinTin = Muffinzinn
-    .desc = Billige Foliendose für Muffins.
+    .desc = Billige Folienschale für Muffins.

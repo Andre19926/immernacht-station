@@ -1,17 +1,17 @@
 ent-CigPackGreen = Spessman's Smokes (Packung)
-    .desc = Auf einem Etikett auf der Verpackung steht: Würde ein langsamer Tod keine Veränderung bewirken?
+    .desc = Auf einem Etikett auf der Packung steht: Würde ein langsamer Tod keinen Unterschied machen?
 
 ent-CigPackRed = DromedaryCo-Paket
-    .desc = So ist es auch mit den beiden anderen Unternehmen zu finden: So ist es auch mit den beiden anderen Unternehmen.
+    .desc = So verhält es sich auch mit den beiden anderen Unternehmen.
 
 ent-CigPackBlue = AcmeCo-Paket
-    .desc = Für diejenigen, die irgendwie den Rekord für die meisten Krebstumoren erhalten wollen.
+    .desc = Für alle, die irgendwie den Rekord für die meisten Krebstumoren aufstellen wollen.
 
 ent-CigPackBlack = Nomads (Packung)
     .desc = Nomads sind extra stark, wenn dein Leben extra hart ist.
 
 ent-CigPackSyndicate = Interdyne Herbals (Packung)
-    .desc = Elite-Zigaretten für Elite-Syndicate-Agenten. Infundiert mit Medizin, wenn du mehr tun musst, als deine Nerven zu beruhigen.
+    .desc = Elite-Zigaretten für Elite-Syndicate-Agenten. Mit Medizin versetzt, falls du mehr tun musst, als deine Nerven zu beruhigen.
 
 ent-CigPackMixed = Dans getränkte Raucher
-    .desc = Dan arbeitete mit NT Chemie, um überschüssige Chemikalien zu entsorgen, ENJOY.
+    .desc = Dan hat mit NT-Chemie zusammengearbeitet, um überschüssige Chemikalien zu entsorgen. VIEL SPASS.

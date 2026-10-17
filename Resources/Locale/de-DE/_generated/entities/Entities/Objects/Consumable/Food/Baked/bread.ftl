@@ -1,17 +1,17 @@
 ent-FoodBreadVolcanic = Vulkanlaib
-    .desc = Ein dunkler Laib. Ähnelt Bimsstein.
+    .desc = Ein dunkler Laib. Sieht aus wie Bimsstein.
 
 ent-FoodBreadVolcanicSlice = vulkanische Scheibe
-    .desc = Ein Stück dunkles Laib. Ähnelt Bimsstein.
+    .desc = Ein Stück dunkler Laib. Sieht aus wie Bimsstein.
 
 ent-FoodBreadBanana = Bananenbrot
-    .desc = Ein himmlischer und erfüllender Genuss.
+    .desc = Ein himmlischer, sättigender Genuss.
 
 ent-FoodBreadBananaSlice = Bananenbrotscheiben
     .desc = Ein Stück köstliches Bananenbrot.
 
 ent-FoodBreadCotton = Baumwollbrot
-    .desc = Brot, aber für Moff.
+    .desc = Brot, aber für Moffs.
 
 ent-FoodBreadCottonSlice = Baumwollbrotscheiben
     .desc = Ein Stück (vielleicht) leckeres Baumwollbrot.
@@ -28,19 +28,19 @@ ent-FoodBreadCreamcheeseSlice = Sahnekäsebrotscheibe
     .desc = Ein Stück Yum!
 
 ent-FoodBreadMeat = Fleischbrot
-    .desc = Die kulinarische Basis jedes sich selbst respektierenden Eloquen/tg/entleman.
+    .desc = Die kulinarische Grundlage jedes Gentlemans mit Selbstachtung.
 
 ent-FoodBreadMeatSlice = Fleischbrotscheiben
     .desc = Ein Stück leckeres Fleischbrot.
 
 ent-FoodBreadMimana = Mimanabrot
-    .desc = Am besten in der Stille gegessen.
+    .desc = Am besten in Stille gegessen.
 
 ent-FoodBreadMimanaSlice = Mimana Brotscheibe
     .desc = Ein Stück Stille!
 
 ent-FoodBreadPlain = Brot
-    .desc = Ein einfaches altes irdenes Brot.
+    .desc = Ein einfaches altes Erdbrot.
 
 ent-FoodBreadPlainSlice = Brotscheibe
     .desc = Ein Stück Zuhause.
@@ -52,22 +52,22 @@ ent-FoodBreadSausageSlice = Wurstbrotscheibe
     .desc = Denk nicht zu viel darüber nach.
 
 ent-FoodBreadMeatSpider = Spinnenfleischbrot
-    .desc = Beruhigend grünes Fleischloaf aus Spinnenfleisch.
+    .desc = Beruhigend grünes Fleischbrot aus Spinnenfleisch.
 
 ent-FoodBreadMeatSpiderSlice = Spinnenfleischbrotscheibe
-    .desc = Ein Stück Mesloaf aus einem Tier, das höchstwahrscheinlich noch tot ist.
+    .desc = Ein Stück Fleischbrot von einem Tier, das höchstwahrscheinlich noch tot ist.
 
 ent-FoodBreadTofu = Tofubrot
-    .desc = Wie Fleischbrot, aber für Vegetarier. Brag zu deinen Crewkollegen darüber, wie viel besser es ist.
+    .desc = Wie Fleischbrot, nur für Vegetarier. Prahle vor deinen Crewkollegen damit, wie viel besser es ist.
 
 ent-FoodBreadTofuSlice = Tofu-Brotscheiben
     .desc = Ein Stück köstliches Tofubrot.
 
 ent-FoodBreadMeatXeno = Xeno-Fleischbrot
-    .desc = Ein Anpassen und Füllen, Ende zu Xeno Abschaum.
+    .desc = Ein Auslegen und Füllen, Ende zu Ende, aus Xeno-Schleim.
 
 ent-FoodBreadMeatXenoSlice = Xeno Fleischbrotscheibe
-    .desc = Ein Stück Xeno-Abschaum.
+    .desc = Ein Stück Xeno-Schleim.
 
 ent-FoodBreadBaguette = Baguette
     .desc = Guten Appetit!
@@ -81,22 +81,22 @@ ent-FoodBreadBaguetteCottonSlice = Baumwoll-Crostini
 ent-FoodBreadButteredToast = Buttertoast
 
 ent-FoodBreadFrenchToast = Französischer Toast
-    .desc = Eine Scheibe Brot, getränkt in einer geschlagenen Eiermischung.
+    .desc = Eine Scheibe Brot, getränkt in verquirltem Eigemisch.
 
 ent-FoodBreadGarlicSlice = Knoblauchbrot
     .desc = Leider ist es begrenzt.
 
 ent-FoodBreadJellySlice = Gelee Toast
-    .desc = Als ob die Wissenschaft ihren Schleim für Toast aufgeben würde!
+    .desc = Als würde die Wissenschaft ihren Schleim für Toast hergeben!
 
 ent-FoodBreadMoldySlice = Schimmelbrotscheibe
-    .desc = Ganze Stationen wurden auseinandergerissen, um zu streiten, ob das noch gut zu essen ist.
+    .desc = Ganze Stationen wurden auseinandergerissen im Streit darüber, ob das noch gut zu essen ist.
 
 ent-FoodBreadTwoSlice = zwei Scheiben
     .desc = Klasse.
 
 ent-MobBreadDog = Brothund
-    .desc = Es ist ein Brot. Es ist ein Hund. Es ist ein... Brothund?
+    .desc = Es ist ein Brot. Es ist ein Hund. Es ist ein ... Brothund?
 
 ent-FoodBreadNutriBatard = Nutribâtard
 

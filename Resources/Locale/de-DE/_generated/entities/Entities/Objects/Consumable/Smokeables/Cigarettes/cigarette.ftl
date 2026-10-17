@@ -1,14 +1,14 @@
 ent-Cigarette = Zigarette
-    .desc = Eine Rolle Tabak und Nikotin.
+    .desc = Eine Rolle aus Tabak und Nikotin.
 
 ent-SoakedCigarette = Zigarette
     .desc = Eine Rolle Tabak, getränkt in Nikotin und irgendeiner Chemikalie.
 
 ent-CigaretteSpent = Zigarette
-    .desc = Eine Rolle Tabak und Nikotin.
+    .desc = Eine Rolle aus Tabak und Nikotin.
 
 ent-CigaretteSyndicate = Zigarette
-    .desc = Eine Rolle Tabak und Nikotin.
+    .desc = Eine Rolle aus Tabak und Nikotin.
 
 ent-CigaretteOmnizine = Hotdog-Wasser-Explosion
     .desc = Eine Rolle Tabak, getränkt in Nikotin und irgendeiner Chemikalie.

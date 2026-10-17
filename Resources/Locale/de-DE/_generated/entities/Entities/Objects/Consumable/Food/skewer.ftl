@@ -1,2 +1,2 @@
 ent-FoodKebabSkewer = Spieß
-    .desc = Ein dünner Metallstab spießte fast alles auf und kochte es.
+    .desc = Ein dünner Metallspieß, auf den man fast alles stecken und garen kann.

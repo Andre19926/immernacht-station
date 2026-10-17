@@ -1,23 +1,23 @@
 ent-FoodBakedMuffin = Muffin
-    .desc = Ein leckerer und schwammiger kleiner Kuchen.
+    .desc = Ein leckeres, luftiges Küchlein.
 
 ent-FoodBakedMuffinBerry = Beerenmuffin
-    .desc = Ein leckerer und schwammiger kleiner Kuchen mit Beeren.
+    .desc = Ein leckeres, luftiges Küchlein mit Beeren.
 
 ent-FoodBakedMuffinCherry = Kirschmuffin
-    .desc = Ein süßer Muffin mit Kirschbissen.
+    .desc = Ein süßer Muffin mit Kirschstückchen.
 
 ent-FoodBakedMuffinBluecherry = Blaukirschenmuffin
     .desc = Blaue Kirschen in einem köstlichen Muffin.
 
 ent-FoodBakedMuffinChocolate = Schokoladenmuffin
-    .desc = Ein köstlicher und schwammiger Schokoladenmuffin.
+    .desc = Ein köstlicher, luftiger Schokoladenmuffin.
 
 ent-FoodBakedMuffinBanana = Bananenmuffin
-    .desc = Ein köstlicher und schwammiger Bananenmuffin.
+    .desc = Ein köstlicher, luftiger Bananenmuffin.
 
 ent-FoodBakedBunHoney = Honigbrötchen
-    .desc = Ein klebriges Gebäck mit Honig glasiert.
+    .desc = Ein klebriges Gebäck mit Honigglasur.
 
 ent-FoodBakedBunHotX = Hotcross-Brötchen
     .desc = Ein klebriges Gebäck, glasiert mit einem deutlichen weißen Kreuz.
@@ -32,13 +32,13 @@ ent-FoodBakedCookieOatmeal = Haferflockenkeks
     .desc = Das Beste aus Keks und Hafer.
 
 ent-FoodBakedCookieRaisin = Rosinenkekse
-    .desc = Warum solltest du Rosinen in einen Keks stecken?
+    .desc = Warum solltest du Rosinen in einen Keks tun?
 
 ent-FoodBakedCookieSugar = Zuckerkekse
     .desc = Genau wie deine Mutter es früher gemacht hat.
 
 ent-FoodBakedNugget = Chicken Nugget
-    .desc = Ein "Huhn" Nugget vage in ein Objekt geformt.
+    .desc = Ein „Hühner“-Nugget, vage in eine Form gepresst.
 
 ent-FoodBakedPancake = Pfannkuchen
     .desc = Ein flauschiger Pfannkuchen. Der weichere, überlegene Verwandte der Waffel.
@@ -53,52 +53,52 @@ ent-FoodBakedWaffle = Waffeln
     .desc = Mmm, Waffeln.
 
 ent-FoodBakedWaffleSoy = Soja-Waffeln
-    .desc = Du fühlst dich gesünder und - weiblicher?
+    .desc = Du fühlst dich gesünder und ... weiblicher?
 
 ent-FoodBakedWaffleSoylent = Soylierungswaffeln
     .desc = Nicht aus Menschen gemacht. Ehrlich.
 
 ent-FoodBakedWaffleRoffle = Roffle-Waffeln
-    .desc = Waffen von Roffle. Co.
+    .desc = Waffeln von Roffle Co.
 
 ent-FoodBakedPretzel = Mohnbretzel
     .desc = Es ist alles verdreht!
 
 ent-FoodBakedCannoli = Cannolin
-    .desc = Ein sizilianisches Leckerbissen, das dich zu einem weisen Kerl macht.
+    .desc = Eine sizilianische Spezialität, die dich zum Mafioso macht.
 
 ent-FoodBakedDumplings = Knödel
-    .desc = Durchschnittliche Rezeptur für Fleisch in Teigen.
+    .desc = Durchschnittliches Rezept für Fleisch im Teig.
 
 ent-FoodBakedChevreChaud = chèvre chaud
-    .desc = Eine Scheibe aus leicht geschmolzenem Chèvre floppte auf einer Crostini und wurde rundum geröstet.
+    .desc = Eine Scheibe leicht geschmolzener Chèvre auf einem Crostini, rundum geröstet.
 
 ent-FoodBakedChevreChaudCotton = Baumwolle chèvre chaud
-    .desc = Eine Scheibe aus leicht geschmolzenem Chèvre floppte auf einer ... Baumwoll-Crostini und wurde rundum geröstet.
+    .desc = Eine Scheibe leicht geschmolzener Chèvre auf einem ... Baumwoll-Crostini, rundum geröstet.
 
 ent-FoodBakedBrownieBatch = Brownies
-    .desc = Eine Pfanne Brownies.
+    .desc = Ein Blech Brownies.
 
 ent-FoodBakedBrownie = Brownie
     .desc = Ein frisch gebackener Brownie.
 
 ent-FoodBakedCannabisBrownieBatch = Spezial-Brownies
-    .desc = Eine Pfanne mit "speziellen" Brownies.
+    .desc = Ein Blech „spezieller“ Brownies.
 
 ent-FoodBakedCannabisBrownie = Spezial-Brownie
     .desc = Ein "spezieller" Brownie.
 
 ent-FoodOnionRings = Zwiebelringe
-    .desc = Du kannst es essen oder deinen Lieben vorschlagen.
+    .desc = Du kannst es essen oder deinen Liebsten vorschlagen.
 
 ent-FoodBakedCroissant = Croissant
-    .desc = Butterige, blättrige Köstlichkeit.
+    .desc = Buttrige, blättrige Köstlichkeit.
 
 ent-FoodBakedCroissantCotton = Croissant aus Baumwolle
-    .desc = Butterig, blättrig, faserig.
+    .desc = Buttrig, blättrig, faserig.
 
 ent-FoodBakedGrilledCheeseSandwich = gegrilltes Käsesandwich
-    .desc = Brot und Käse mit Butter geröstet, perfekt für einen kühlen Tag im Weltraum.
+    .desc = In Butter geröstetes Brot mit Käse, perfekt für einen kühlen Tag im Weltraum.
 
 ent-FoodBakedGrilledCheeseSandwichCotton = Sandwich aus gegrilltem Baumwollkäse
-    .desc = Baumwollbrot leicht verbrannt in Butter, mit geschmolzenem Käse. Motten finden es schwierig, dieser Kombination zu widerstehen.
+    .desc = In Butter leicht angebräuntes Baumwollbrot mit geschmolzenem Käse. Motten können dieser Kombination kaum widerstehen.

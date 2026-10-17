@@ -287,25 +287,25 @@ ent-VinylDiskBroken = gebrochene Schallplatte
     .desc = Wie die meisten Vinyls endete diese am Ende kaputt.
 
 ent-VinylSleeveAI = KI Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveDevil = Teufel Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleevePizza = Pizzaplattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveFart = Furzplattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveLavaLand = Sonnenseite von der Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveHockey = Hockeyplattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveRat = Rattenplattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveMgs = Sneaking Plattenhülle
     .desc = Wartest du, huh?
@@ -317,24 +317,24 @@ ent-VinylSleeveJanitor = Hausmeister Plattenhülle
     .desc = Der unbesungene Held, jetzt gesungen!
 
 ent-VinylSleeveWeird = Merkwürdige Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveDJClown = DJ-Clown Plattenhülle
     .desc = DJ-Clown eine galaktische Sensation, seine galaktische Tour listet Sol als einziges Sternensystem auf.
 
 ent-VinylSleeveVampire = Vampir Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveShulker = shulker Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveRedSun = rote Sonne Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveSkull = Schädel Plattenhülle
 
 ent-VinylSleeveFisherman = Fischer Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveHeisenbee = Heisenbee Plattenhülle
     .desc = Das berühmte Maskottchen der Goonstation kehrt zurück, in Kartonform.
@@ -346,10 +346,10 @@ ent-VinylSleeveStation14 = Space Station 14 Plattenhülle
     .desc = Die berühmte Raumstation, Glück 14
 
 ent-VinylSleeveReactor = Reaktor Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleevePda = pda Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveNukeDisk = Kernscheibe Plattenhülle
     .desc = Obwohl es wie eine aussehen mag, funktioniert dies nicht wirklich als Atomscheibe.
@@ -358,7 +358,7 @@ ent-VinylSleeveBlockyCraft = Blockschiff Plattenhülle
     .desc = Der Hit 2457 Videospiel Blocky Craft Soundtrack kommt auf Vinyl!
 
 ent-VinylSleeveEye = eye Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveTh = th Plattenhülle
     .desc = Irgendwie hielt diese Indie-Band es für eine gute Idee, sich selbst „th“ zu nennen.
@@ -373,7 +373,7 @@ ent-VinylSleeveDJTider = JD Tider Plattenhülle
     .desc = DJ tider eine galaktische Sensation, seine galaktische Tour listet Sol und Alpha Centauri als Stopps.
 
 ent-VinylSleeveCoffee = Kaffeeplattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveWelcomeSS13 = Willkommen bei SS13 Plattenhülle
     .desc = Schade, dass sie diesen Ort gesprengt haben.
@@ -382,22 +382,22 @@ ent-VinylSleevePeace = Frieden Plattenhülle
     .desc = Die Kunst zeigt die Ereignisse der Raumstation 12, wo ein Kapitän und ein Syndicate-Aufständischer am Weihnachtstag einem Waffenstillstand zugestimmt haben.
 
 ent-VinylSleeveJapan = japan Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveChristmas = weihnachtliche Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleevePickle = Pickelplattenhülle
     .desc = Viele Künstler haben versucht herauszufinden, was diese Kunst darstellt, unsere größten Köpfe sind sich einig, dass es höchstwahrscheinlich 3 Gurken auf einer Straße darstellt.
 
 ent-VinylSleeveFlash = flash Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveBeige = beige Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveBlack = schwarze Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
 
 ent-VinylSleeveWhite = weiße Plattenhülle
-    .desc = Eine Plattenhülle, perfekt zur Aufbewahrung deiner Schallplatten.
+    .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.
