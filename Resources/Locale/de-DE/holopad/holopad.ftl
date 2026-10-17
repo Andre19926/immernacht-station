@@ -55,11 +55,11 @@ holopad-ai-is-unable-to-activate-projector = Du kannst den Projektor des Holopad
 # General
 holopad-general-tools = Allgemein - Werkzeuge
 holopad-general-cryosleep = Allgemein - Kryoschlaf
-holopad-general-theater = General - Theater
+holopad-general-theater = Allgemein - Theater
 holopad-general-disposals = Allgemein - Müllentsorgung
 holopad-general-eva = Allgemein - EVA-Lager
-holopad-general-lounge = General - Lounge
-holopad-general-arcade = General - Arcade
+holopad-general-lounge = Allgemein - Lounge
+holopad-general-arcade = Allgemein - Spielhalle
 holopad-general-evac = Allgemein - Evakuierung
 holopad-general-arrivals = Allgemein - Ankunft
 
@@ -102,7 +102,7 @@ holopad-medical-clinic = Medizin - Klinik
 # Cargo
 holopad-cargo-front = Fracht - Front
 holopad-cargo-bay = Fracht - Frachtraum
-holopad-cargo-salvage-bay = Fracht - Salvage Bay
+holopad-cargo-salvage-bay = Fracht - Bergungsraum
 holopad-cargo-breakroom  = Fracht - Pausenraum
 holopad-cargo-ats = Fracht - ATS
 holopad-cargo-shuttle = Fracht - Shuttle
@@ -110,21 +110,21 @@ holopad-cargo-mailroom = Fracht - Poststelle
 
 # Engineering
 holopad-engineering-atmos-front = Atmos – Vorderseite
-holopad-engineering-atmos-main = Atmos - Main
+holopad-engineering-atmos-main = Atmos - Hauptraum
 holopad-engineering-atmos-teg = Atmos - TEG
 holopad-engineering-storage = Technik - Lager
 holopad-engineering-breakroom = Technik - Pausenraum
 holopad-engineering-front = Technik – Vorderseite
 holopad-engineering-telecoms = Technik - Telekommunikation
 holopad-engineering-tech-vault = Technik – Technik-Tresor
-holopad-engineering-ame = Engineering - AME
+holopad-engineering-ame = Technik - AME
 holopad-engineering-power = Technik – Strom
 holopad-engineering-main = Technik – Haupt
 
 # Security
 holopad-security-front = Sicherheit - Front
 holopad-security-brig = Sicherheit - Brig
-holopad-security-warden = Sicherheit - Warden
+holopad-security-warden = Sicherheit - Wärter
 holopad-security-interrogation = Sicherheit - Verhör
 holopad-security-breakroom = Sicherheit - Pausenraum
 holopad-security-detective = Sicherheit - Detektiv
@@ -144,12 +144,12 @@ holopad-service-kitchen = Service - Küche
 holopad-service-botany = Service - Botanik
 holopad-service-chapel = Service - Kapelle
 holopad-service-library = Service - Bibliothek
-holopad-service-newsroom = Service - Newsroom
+holopad-service-newsroom = Service - Nachrichtenredaktion
 holopad-service-zookeeper = Service – Tierpfleger
 holopad-service-boxer = Service - Boxer
 holopad-service-clown = Service - Clown
 holopad-service-musician = Service - Musiker
-holopad-service-mime = Service - Mime
+holopad-service-mime = Service - Pantomime
 holopad-service-clown-mime = Service – Clown/Mime
 holopad-service-gameroom = Service - Spielzimmer
 
@@ -162,7 +162,7 @@ holopad-ai-entrance = KI - Eingang
 holopad-ai-chute = KI - Chute
 
 # Long Range
-holopad-station-bridge = Station - Bridge
+holopad-station-bridge = Station - Brücke
 holopad-station-cargo-bay = Station - Frachtraum
 
 # CentComm

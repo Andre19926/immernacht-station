@@ -61,7 +61,7 @@ shuttle-console-docked = Angedockte Objekte
 shuttle-console-view = Ansicht
 shuttle-console-undock = Abdocken
 shuttle-console-dock = Andocken
-shuttle-console-docks-label = Docks
+shuttle-console-docks-label = Andockstellen
 
 shuttle-console-undock-fail = Abdocken fehlgeschlagen
 shuttle-console-dock-fail = Andocken fehlgeschlagen

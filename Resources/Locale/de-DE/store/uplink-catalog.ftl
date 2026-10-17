@@ -215,7 +215,7 @@ uplink-holopara-kit-name = Holoparasit-Kit
 uplink-holopara-kit-desc = Stolz und Freude von Cybersun. Enthält einen Injektor, der einen fühlenden metaphysischen Wächter aus hartem Licht beherbergt, der sich im Körper des Benutzers befindet, wenn er nicht aktiv ist.
     Der Wächter kann schnell schlagen und ist immun gegen gefährliche Umgebungen, während er resistent gegen direkte Traumata ist, teilt aber den Schaden, den er nimmt, mit dem Benutzer. Kann nicht von Wechselstuben benutzt werden.
 
-uplink-holoclown-kit-name = Holoclown Kit
+uplink-holoclown-kit-name = Holoclown-Set
 uplink-holoclown-kit-desc = Ein Joint Venture zwischen Cybersun und Honk.co. Enthält einen Injektor, der einen fühlenden metaphysischen Clown aus hartem Licht beherbergt, der sich im Körper des Benutzers befindet, wenn er nicht aktiv ist.
     Das holoclown hat taschen, um dinge zu speichern, eine leichte hand, mit der es die umgebung manipulieren kann und ist immun gegen gefährliche umgebungen, während es resistent gegen direkte traumata ist, aber teilt den schaden, den es nimmt, mit dem benutzer.
 
@@ -228,7 +228,7 @@ uplink-chest-rig-desc = Explosionsfestes taktisches Gurtband zur Aufnahme von Ve
 uplink-emag-name = Mag
 uplink-emag-desc = Die Visitenkarte des Syndicate-S, dieser Sequenzer ist in der Lage, eine Vielzahl von Stationsgeräten zu manipulieren. Ladet sich automatisch auf.
 
-uplink-access-breaker-name = Access Breaker
+uplink-access-breaker-name = Zugangsknacker
 uplink-access-breaker-desc = Ein gehackter Zugangskonfigurator und ein guter Freund der emag. Dieses Gerät ist in der Lage, Luftschleusen zu öffnen sowie die Zugangsanforderungen von Stationsgeräten zu löschen. Ladet sich automatisch auf.
 
 uplink-agent-id-card-name = Agenten-ID-Karte
@@ -237,7 +237,7 @@ uplink-agent-id-card-desc = Eine modifizierte ID-Karte, die Zugriffe von anderen
 uplink-syndicate-id-card-name = Syndicate-Ausweis
 uplink-syndicate-id-card-desc = Eine Syndicate ID-Karte mit Syndicate-Zugriff. Es ist unwahrscheinlich, alleine nützlich zu sein, aber es geht gut mit neu konfigurierten Türen. Es kommt nicht mit Access-Copying-Funktionalität.
 
-uplink-black-jetpack-name = Black Jetpack
+uplink-black-jetpack-name = Schwarzer Jetpack
 uplink-black-jetpack-desc = Ein schwarzer Jetpack. Es erlaubt dir, im Weltraum herumzufliegen. Nachfüllungen nicht inbegriffen, verwende deinen Kraftstoff mit Bedacht.
 
 uplink-reinforcement-radio-ancestor-name = Genetische Vorfahren Verstärkung Teleporter
@@ -252,7 +252,7 @@ uplink-reinforcement-radio-nukeops-desc =  Funke einen Atomagenten von äußerst
 uplink-reinforcement-radio-cyborg-assault-name = Syndicate Angriff Cyborg Teleporter
 uplink-reinforcement-radio-cyborg-assault-desc =  Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einem Energy Sword, LMG, Cryptographic Sequencer und einem Pinpointer.
 
-uplink-stealth-box-name = Stealth Box
+uplink-stealth-box-name = Tarnkiste
 uplink-stealth-box-desc = Eine Box mit Stealth-Technologie. Neige unbemerkt herum, aber bewege dich nicht zu schnell oder du wirst offenbart werden!
 
 uplink-headset-name = Syndicate Over-Ear Headset
@@ -329,13 +329,13 @@ uplink-observation-kit-desc = Einschließlich Überwachungskamera-Monitor und al
 uplink-emp-kit-name = Elektrischer Disruptorsatz
 uplink-emp-kit-desc = Die ultimative Umkehrung energiebasierter Waffen: Deaktiviert Neutralisierer, Betäubung, Entladung von Laserkanonen! Enthält 3 EMP-Granaten und einen EMP-Implanter. Stört keine tatsächlichen Schusswaffen.
 
-uplink-decoy-kit-name = Decoy Kit
+uplink-decoy-kit-name = Köder-Set
 uplink-decoy-kit-desc = Modernste Ablenkungstechnologie direkt von RND. Kommt mit fünf realistischen Ballons, vier Lockvogelgranaten und ein paar Snap Poppers!
 
 uplink-chemistry-kit-name = Chemisches Synthese-Kit
 uplink-chemistry-kit-desc = Ein Starter-Kit für den aufstrebenden Chemiker, enthält insbesondere eine chemische Nutzlast und Timer, eine Hyperzinspritze und zwei Vials Vestine für alle deine kriminellen Bedürfnisse!
 
-uplink-knives-kit-name = Werfen Messer Kit
+uplink-knives-kit-name = Wurfmesser-Set
 uplink-knives-kit-desc = Ein Satz von 8 Syndicate-Werfmessern, perfekt für die Einbettung in den Körper deiner Opfer. Fähigkeit, Rüstung vollständig zu ignorieren, wenn geworfen.
 
 uplink-meds-bundle-name = Interdyne-Medizinpaket
@@ -344,13 +344,13 @@ uplink-meds-bundle-desc = Eine Auswahl an Autoinjektoren und erstklassigen mediz
 uplink-ammo-bundle-name = Munitionsbündel
 uplink-ammo-bundle-desc = Nachladen! Enthält 4 Magazine für die C-20r, 4 Trommeln für die Bulldogge, 3 Magazine für die Estoc DMR und 2 Munitionsboxen für die L6 SAW.
 
-uplink-sniper-bundle-name = Sniper Bundle
+uplink-sniper-bundle-name = Scharfschützen-Paket
 uplink-sniper-bundle-desc = Eine unauffällige Aktentasche, die einen Hristov, 15 Ersatzkugeln und eine bequeme Verkleidung enthält.
 
 uplink-c20r-bundle-name = C-20r-Paket
 uplink-c20r-bundle-desc = Alte Gläubige: Die klassische C-20r Maschinenpistole, gebündelt mit drei Magazinen.
 
-uplink-buldog-bundle-name = Bulldog Bundle
+uplink-buldog-bundle-name = Bulldog-Paket
 uplink-buldog-bundle-desc = Lean and mean: Enthält die beliebte Bulldog Shotgun, eine 12g Slug Trommel und vier 12g Buckshot Trommeln.
 
 uplink-grenade-launcher-bundle-name = China-See-Bundle
@@ -372,7 +372,7 @@ uplink-starter-kit-name = Operatives Basispaket
 uplink-starter-kit-desc = Enthält alles, was ein Mitarbeiter braucht, um anzufangen. Für diejenigen, die einfach nicht wissen, was sie kaufen sollen.
 
 # Tools
-uplink-toolbox-name = Toolbox
+uplink-toolbox-name = Werkzeugkasten
 uplink-toolbox-desc = Ein volles Kompliment an Werkzeugen für den mechanisch geneigten Verräter. Enthält ein Paar isolierte Kampfhandschuhe und eine Syndicate-Gasmaske.
 
 uplink-syndicate-jaws-of-life-name = Kiefer des Lebens
@@ -381,7 +381,7 @@ uplink-syndicate-jaws-of-life-desc = Ein kombiniertes Frisier- und Schneidwerkze
 uplink-duffel-surgery-name = Chirurgischer Duffelbeutel
 uplink-duffel-surgery-desc = Eine große Duffel-Tasche mit einer vollständigen Suite von chirurgischen Werkzeugen.
 
-uplink-power-sink-name = Power Sink
+uplink-power-sink-name = Energiesenke
 uplink-power-sink-desc = Entzieht immense Mengen an Strom aus dem Netz und explodiert dann, wenn es gesättigt ist. Verwende den Schlüssel, um ihn mit Drähten zu verbinden.
 
 uplink-carp-dehydrated-name = Dehydrierte Weltraumkarpfen
@@ -424,13 +424,13 @@ uplink-cluster-banana-peel-desc = Splitt sich nach dem Werfen in 6 explosive Ban
 uplink-cane-blade-name = Rohrblatt
 uplink-cane-blade-desc = Ein Stock, der eine versteckte, seltsame Klinge hat, die nicht umhüllt werden kann. Gestohlen aus dem persönlichen Museum eines Kurators. Lichter Menschen auf Feuer durch eine alte Verzauberung.
 # Armor
-uplink-chameleon-name = Chameleon Kit
+uplink-chameleon-name = Chamäleon-Set
 uplink-chameleon-desc = Ein rucksack mit gegenständen, die die chaseon-technologie enthalten, die es ihnen erlaubt, sich auf der station zu verkleiden, und...
 
 uplink-clothing-no-slips-shoes-name = Schuhe ohne Rutschschuhe
 uplink-clothing-no-slips-shoes-desc = Chamäleon-Schuhe, die du vor Ausrutschern schützt.
 
-uplink-clothing-chameleon-thieving-gloves-name = Chamäleon Diebhandschuhe
+uplink-clothing-chameleon-thieving-gloves-name = Chamäleon-Diebeshandschuhe
 uplink-clothing-chameleon-thieving-gloves-desc = Stiehl diskret aus den Taschen und verbessern dich deine Diebstahltechnik mit diesen ausgefallenen neuen Handschuhen. Du kannst das Aussehen ändern, um jedes Paar Handschuhe zu passen!
 
 uplink-clothing-outer-vest-web-name = Webwesten
@@ -448,7 +448,7 @@ uplink-eva-syndie-desc = Ein Syndicate-Farbiger EVA-Anzug und Helm. Hält dich i
 uplink-hardsuit-carp-name = Karpfenhartanzug
 uplink-hardsuit-carp-desc = Sieht aus wie ein gewöhnlicher Karpfenanzug, außer vollständig platzdicht und Tricks Weltraumkarpfen zu denken, du bist einer von ihnen.
 
-uplink-hardsuit-syndie-name = Syndicate Hardsuit
+uplink-hardsuit-syndie-name = Syndicate-Hardsuit
 uplink-hardsuit-syndie-desc = Der bekannte gepanzerte blutrote Hardsuit des Syndicate-S, fähig zu Weltraumspaziergängen und kugelsicher.
 
 uplink-syndie-raid-name = Syndicate-Überfallanzug
@@ -461,7 +461,7 @@ uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Anzug
 uplink-clothing-outer-hardsuit-juggernaut-desc = Hyperelastische Panzerung aus Materialien, die in der Tau-Chromosphären-Anlage getestet wurden. Das einzige, was dich verlangsamen wird, ist dieser Anzug ... und Taser.
 
 # Misc
-uplink-cyberpen-name = Cybersun Pen
+uplink-cyberpen-name = Cybersun-Stift
 uplink-cyberpen-desc = Cybersun Rechtsabteilung Stift, von unschätzbarem Wert für die Fälschung von Dokumenten und die Flucht aus Gefängnissen. Riecht vage nach hartem Licht und Kriegsgewinn.
 
 uplink-decoy-disk-name = Köderkernscheibe
@@ -500,7 +500,7 @@ uplink-stimpack-desc = Die legendäre Chemikalie produziert von Donk Co. für da
 uplink-stimkit-name = Hyperzin-Injektorset
 uplink-stimkit-desc = Ein Medkit mit 6 Hyperzin-Mikroinjektoren, die dir jeweils genug Hyperzin injizieren, um 30 Sekunden zu dauern.
 
-uplink-syndicate-segway-crate-name = Syndicate Segway
+uplink-syndicate-segway-crate-name = Syndicate-Segway
 uplink-syndicate-segway-crate-desc = Sei ein Feind des Konzerns, mit Stil!
 
 uplink-syndicate-sponge-box-name = Syndicate-Schwammbox
@@ -509,10 +509,10 @@ uplink-syndicate-sponge-box-desc = Eine Box mit 6 Syndicate-Chwämmen, die als A
 uplink-slipocalypse-clustersoap-name = Slipokalypse Clusterseife
 uplink-slipocalypse-clustersoap-desc = Streut kleine Stücke von Syndicate-Markenseife nach dem Werfen, diese Seifenstücke verdunsten nach 60 Sekunden.
 
-uplink-mobcat-microbomb-name = SyndiCat Teleporter
+uplink-mobcat-microbomb-name = SyndiCat-Teleporter
 uplink-mobcat-microbomb-desc = Rufe eine handliche Katze mit einem Mikrobombenimplantat an. Explodiert, wenn schwer verletzt. Kann schmerzhaft beißen.
 
-uplink-chameleon-projector-name = Chameleon Projektor
+uplink-chameleon-projector-name = Chamäleon-Projektor
 uplink-chameleon-projector-desc = Verschwinde in Sichtweite, indem du ein Hologramm eines Gegenstands um dich herum erschaffst. Verwende dies nicht, um das Spiel "Object Search" zu spielen.
 
 # Pointless
@@ -525,7 +525,7 @@ uplink-syndicate-stamp-desc = Ein Gummistempel zum Prägen wichtiger Dokumente.
 uplink-cat-ears-name = Katzenohren
 uplink-cat-ears-desc = UwU
 
-uplink-outlaw-hat-name = Outlaw Hat
+uplink-outlaw-hat-name = Gesetzlosen-Hut
 uplink-outlaw-hat-desc = Ein Hut, der dich aussehen lässt, als ob du eine eingekerbte Pistole trägst, nummeriert eine und neunzehn weitere.
 
 uplink-outlaw-glasses-name = Outlaw-Brille
@@ -558,7 +558,7 @@ uplink-scarf-syndie-green-desc = Ein stilvoll gestreifter grüner Syndicate-Scha
 uplink-syndicate-pai-name = Syndicate Personal KI Gerät
 uplink-syndicate-pai-desc = Eine Syndicate-Variante des pAI mit Zugang zum Syndicate-Funkkanal. Wir garantieren ihre Nützlichkeit nicht.
 
-uplink-bribe-name = Lobbying Bundle
+uplink-bribe-name = Lobbyismus-Paket
 uplink-bribe-desc = Ein herzliches Geschenk, das dir helfen kann, die Meinung von jemandem zu beeinflussen. Echt oder Fälschung? Ja.
 
 uplink-hypodart-name = Hypodart
@@ -582,7 +582,7 @@ uplink-business-card-desc = Eine Visitenkarte, die du jemandem geben kannst, um 
 uplink-fake-mindshield-name = Gefälschter Mindshield
 uplink-fake-mindshield-desc = Ein togglierbares Implantat, das in der Lage ist, die gleichen Übertragungen nachzuahmen, die ein echter Mindshield beim Einschalten auslöst, und das fähige Heads-up-Displays dazu bringt, zu denken, dass du einen Mindshield hast (Nanotrasen-Markenimplanter ist nicht vorgesehen.)
 
-uplink-contraband-lighter-name = Contraband Lighter Box
+uplink-contraband-lighter-name = Schmuggelfeuerzeug-Box
 uplink-contraband-lighter-desc = Eine Mystery Box enthält garantiert ein Syndicate-Feuerzeug. Kein Kraftstoff erforderlich
 
 uplink-smuggler-satchel-name = Schmuggler-Umhängetasche

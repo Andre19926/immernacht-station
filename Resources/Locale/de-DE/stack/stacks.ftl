@@ -17,68 +17,68 @@ stack-gunpowder = Schießpulver
 stack-cardboard = Karton
 
 stack-bones = {$amount ->
-    [1] bone
-    *[other] bones
+    [1] Knochen
+    *[other] Knochen
 }
 stack-cloth = {$amount ->
-    [1] cloth
-    *[other] cloths
+    [1] Stoff
+    *[other] Stoffe
 }
 stack-lv-cable = {$amount ->
-    [1] lv cable
-    *[other] lv cables
+    [1] NS-Kabel
+    *[other] NS-Kabel
 }
 stack-mv-cable = {$amount ->
-    [1] mv cable
-    *[other] mv cables
+    [1] MS-Kabel
+    *[other] MS-Kabel
 }
 stack-hv-cable = {$amount ->
-    [1] hv cable
-    *[other] hv cables
+    [1] HS-Kabel
+    *[other] HS-Kabel
 }
 stack-explosive-cord = {$amount ->
-    [1] explosive cord
-    *[other] explosive cords
+    [1] Sprengschnur
+    *[other] Sprengschnüre
 }
 stack-wood-plank = {$amount ->
-    [1] wood plank
-    *[other] wood planks
+    [1] Holzbrett
+    *[other] Holzbretter
 }
 stack-durathread = {$amount ->
-    [1] durathread
-    *[other] durathreads
+    [1] Duragarn
+    *[other] Duragarne
 }
 stack-rods = {$amount ->
-    [1] rod
-    *[other] rods
+    [1] Stab
+    *[other] Stäbe
 }
 stack-meat-sheet = {$amount ->
-    [1] meat sheet
-    *[other] meat sheets
+    [1] Fleischplatte
+    *[other] Fleischplatten
 }
-stack-space-carp-tooth = space carp {$amount ->
-    [1] Zahn
-    *[other] Zähne
+stack-space-carp-tooth = {$amount ->
+    [1] Weltraumkarpfenzahn
+    *[other] Weltraumkarpfenzähne
 }
 stack-paper = {$amount ->
-    [1] paper
-    *[other] papers
+    [1] Papier
+    *[other] Papiere
 }
 stack-diamond = {$amount ->
-    [1] diamond
-    *[other] diamonds
+    [1] Diamant
+    *[other] Diamanten
 }
 stack-silk = {$amount ->
-    [1] silk
-    *[other] silks
+    [1] Seide
+    *[other] Seiden
 }
 stack-cotton = {$amount ->
-    [1] cotton
-    *[other] cottons
+    [1] Baumwolle
+    *[other] Baumwollen
 }
-stack-artifact-fragment = artifact {$amount ->
-    [1] Fragment
-    *[other] Bruchstücke
+stack-artifact-fragment = {$amount ->
+    [1] Artefaktfragment
+    *[other] Artefaktbruchstücke
 }
 
 # best materials
@@ -89,13 +89,13 @@ stack-dried-tobacco-leaves = getrocknete Tabakblätter
 stack-dried-cannabis-leaves = getrocknete Cannabisblätter
 stack-dried-rainbow-cannabis-leaves = getrocknete Regenbogen-Cannabisblätter
 
-stack-cigarette-filter = cigarette {$amount ->
-    [1] Filter
-    *[other] Filter
+stack-cigarette-filter = {$amount ->
+    [1] Zigarettenfilter
+    *[other] Zigarettenfilter
 }
-stack-rolling-paper = rolling {$amount ->
-    [1] Papier
-    *[other] Papiere
+stack-rolling-paper = {$amount ->
+    [1] Zigarettenpapier
+    *[other] Zigarettenpapiere
 }
 
 stack-fulton = Fulton
