@@ -19,4 +19,4 @@ ent-GasPipeBroken = gebrochenes Rohr
     .desc = Früher hielt es Gas.
 
 ent-GasPipeManifold = Gasrohrverteiler
-    .desc = Ermöglicht die Verbindung von Gasleitungen verschiedener Konfigurationen.
+    .desc = Ermöglicht die Verbindung von Gasleitungen unterschiedlicher Konfiguration.

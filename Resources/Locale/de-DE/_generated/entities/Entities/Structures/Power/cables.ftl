@@ -11,10 +11,10 @@ ent-CableMVUncuttable = MV Stromkabel
     .desc = Mittelspannungskabel.
 
 ent-CableApcExtension = LV Stromkabel
-    .desc = Ein Kabel, das verwendet wird, um Maschinen mit einem APC zu verbinden.
+    .desc = Ein Kabel zum Anschluss von Maschinen an einen APC.
 
 ent-CableApcExtensionUncuttable = LV Stromkabel
-    .desc = Ein Kabel, das verwendet wird, um Maschinen mit einem APC zu verbinden.
+    .desc = Ein Kabel zum Anschluss von Maschinen an einen APC.
 
 ent-CableDet = Sprengstoffkabel
-    .desc = Spaghetti für Menschen, die Wände hassen.
+    .desc = Spaghetti für Leute, die Wände hassen.

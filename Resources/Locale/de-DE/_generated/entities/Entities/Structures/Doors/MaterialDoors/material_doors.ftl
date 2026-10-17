@@ -20,7 +20,7 @@ ent-PaperDoor = Papiertür
     .desc = Eine Tür. Wohin sie wohl führt?
 
 ent-WebDoor = Spinnwebtür
-    .desc = Eine Tür, die in das Land der Spinnen führt ... oder in einen luftleeren Raum.
+    .desc = Eine Tür, die ins Land der Spinnen führt ... oder in den luftleeren Raum.
 
 ent-CardDoor = Kartontür
     .desc = Eine Tür. Wohin sie wohl führt?
@@ -29,4 +29,4 @@ ent-IronstoneDoor = Eisensteintür
     .desc = Eine geheimnisvolle Tür aus Runenstein.
 
 ent-EncrustedIronstoneDoor = verkrustete Eisensteintür
-    .desc = Eine steinerne Tür, bedeckt mit nacreous Klumpen einer unbekannten Substanz.
+    .desc = Eine steinerne Tür, bedeckt mit perlmuttartigen Klumpen einer unbekannten Substanz.

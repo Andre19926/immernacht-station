@@ -1,5 +1,5 @@
 ent-GravityGenerator = Schwerkraftgenerator
-    .desc = Es ist das, was dich auf dem Boden hält.
+    .desc = Es hält dich am Boden.
 
 ent-GravityGeneratorMini = Minigravitationsgenerator
-    .desc = Es ist, was hält dich auf den Boden, jetzt in lustiger Größe.
+    .desc = Es hält dich am Boden, jetzt in Spaßgröße.

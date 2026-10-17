@@ -44,7 +44,7 @@ ent-PoweredSmallLight = kleines Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Glühbirne bestückt ist.
 
 ent-EmergencyLight = Notlicht
-    .desc = Ein kleines Licht mit einer internen Batterie, die sich einschaltet, sobald sie keine Energie mehr erhält. Die Nanotrasen-Technologie ermöglicht es ihr, ihre Farbe anzupassen, um die Crew auf die Bedingungen der Station aufmerksam zu machen.
+    .desc = Ein kleines Licht mit interner Batterie, das sich einschaltet, sobald es keinen Strom mehr erhält. Dank Nanotrasen-Technologie kann es seine Farbe ändern, um die Crew auf die Bedingungen der Station aufmerksam zu machen.
 
 ent-PoweredlightCyan = Licht
     .desc = Eine Leuchte. Benötigt Strom und erzeugt Licht, wenn sie mit einer Leuchtröhre bestückt ist.

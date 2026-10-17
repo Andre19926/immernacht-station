@@ -1,11 +1,11 @@
 ent-TableFrame = Tischgestell
-    .desc = Metallstücke, die den Rahmen eines Tisches bilden.
+    .desc = Metallteile, die den Rahmen eines Tisches bilden.
 
 ent-CounterWoodFrame = Holzgegenrahmen
-    .desc = Holzstücke, die den Rahmen eines Tisches bilden.
+    .desc = Holzteile, die den Rahmen eines Tisches bilden.
 
 ent-CounterMetalFrame = Metallgegenrahmen
-    .desc = Metallstücke, die den Rahmen eines Tisches bilden.
+    .desc = Metallteile, die den Rahmen eines Tisches bilden.
 
 ent-Table = Tisch
     .desc = Ein quadratisches Stück Metall, das auf vier Metallbeinen steht.
@@ -17,7 +17,7 @@ ent-TableGlass = Glastisch
     .desc = Ein quadratisches Stück Glas, das auf vier Metallbeinen steht.
 
 ent-TableCard = Kartontisch
-    .desc = Kartonblätter, die um einen Metalltischrahmen gewickelt sind.
+    .desc = Kartonbögen, die um einen Metalltischrahmen gewickelt sind.
 
 ent-TableReinforcedGlass = verstärkter Glastisch
     .desc = Ein quadratisches Stück Glas, das auf vier Metallbeinen steht. Extra robust.
@@ -29,10 +29,10 @@ ent-TableBrass = Messingtisch
     .desc = Ein glänzender, korrosionsbeständiger Messingtisch. Steampunk!
 
 ent-TableWood = Holztisch
-    .desc = Wende darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
+    .desc = Zünde ihn nicht an. Gerüchten zufolge brennt er leicht.
 
 ent-TableCarpet = Spieltisch
-    .desc = Spiele em' Cowboy.
+    .desc = Spiel den Cowboy.
 
 ent-TableStone = Steintisch
     .desc = Buchstäblich das Robusteste, was du je gesehen hast.
@@ -41,42 +41,42 @@ ent-TableWeb = Webtisch
     .desc = Wirklich glatt und überraschend langlebig.
 
 ent-TableXeno = Xenotisch
-    .desc = Ich würde das Besteck nicht darauf legen.
+    .desc = Das Besteck würde ich nicht darauf legen.
 
 ent-TableFancyBlue = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancySkyBlue = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyCyan = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyBlack = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyRed = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyPurple = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyPink = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyGreen = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyOrange = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableFancyWhite = ausgefallener Tisch
-    .desc = Teuer und reich.
+    .desc = Teuer und reichhaltig.
 
 ent-TableDebug = Tisch
 
 ent-TableCounterWood = Holzzähler
-    .desc = Wende darauf kein Feuer an. Gerüchte sagen, dass es leicht brennt.
+    .desc = Zünde ihn nicht an. Gerüchten zufolge brennt er leicht.
 
 ent-TableCounterMetal = Metallzähler
-    .desc = Sieht aus wie ein guter Ort, um ein Getränk nach unten.
+    .desc = Sieht aus wie ein guter Ort, um sich einen Drink hinter die Binde zu kippen.

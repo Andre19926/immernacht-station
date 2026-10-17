@@ -1,2 +1,2 @@
 ent-FatExtractor = Lipidextraktor
-    .desc = Sicher und effizient extrahiert überschüssiges Fett von einem Subjekt.
+    .desc = Entfernt sicher und effizient überschüssiges Fett von einem Patienten.

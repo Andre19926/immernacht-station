@@ -1,2 +1,2 @@
 ent-SeedExtractor = Saatgutextraktor
-    .desc = Extrakt Samen aus Erzeugnissen.
+    .desc = Gewinnt Samen aus Erzeugnissen.

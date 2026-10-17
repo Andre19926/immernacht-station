@@ -1,14 +1,14 @@
 ent-HolosignWetFloor = Nassbodenschild
-    .desc = Die Worte flackern, als ob sie nichts bedeuten.
+    .desc = Die Worte flackern, als bedeuteten sie nichts.
 
 ent-HoloFan = Holofan
-    .desc = Eine Barriere aus hartem Licht, die die Luft blockiert, aber nichts anderes.
+    .desc = Eine Barriere aus Hartlicht, die Luft blockiert, aber sonst nichts.
 
 ent-HoloPeel = Holopeal
-    .desc = Eine Bananenschale aus rutschigem hartem Licht, achte auf deinen Schritt!
+    .desc = Eine Bananenschale aus rutschigem Hartlicht – pass auf, wohin du trittst!
 
 ent-HolosignSecurity = holographische Barriere
-    .desc = Eine Barriere aus hartem Licht, die Bewegung blockiert, aber ziemlich schwach.
+    .desc = Eine Barriere aus Hartlicht, die Bewegung blockiert, aber ziemlich schwach ist.
 
 ent-HolosignForcefield = holographisches Kraftfeld
-    .desc = Ein mächtiges zeitliches Eindämmungsfeld, das nichts durchlässt, nicht einmal ein Tesla oder eine Singularität.
+    .desc = Ein mächtiges zeitliches Eindämmungsfeld, das nichts durchlässt, nicht einmal eine Tesla oder Singularität.

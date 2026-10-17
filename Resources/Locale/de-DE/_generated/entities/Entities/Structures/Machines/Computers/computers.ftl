@@ -5,10 +5,10 @@ ent-ComputerAtmosMonitoring = Atmos-Netzwerkmonitor
     .desc = Wird verwendet, um die atmosphärischen Netzwerke der Station zu überwachen.
 
 ent-ComputerEmergencyShuttle = Notfall-Shuttle-Konsole
-    .desc = Behandelt die Berechtigung, das Shuttle frühzeitig zu starten.
+    .desc = Verwaltet die Berechtigung, das Shuttle vorzeitig zu starten.
 
 ent-ComputerShuttle = Shuttlekonsole
-    .desc = Wird verwendet, um einen Shuttle zu steuern.
+    .desc = Dient zur Steuerung eines Shuttles.
 
 ent-ComputerShuttleSyndie = Syndicate-Shuttle-Konsole
     .desc = Wird verwendet, um ein Syndicate-Agentenhuttle zu steuern.
@@ -23,94 +23,94 @@ ent-ComputerIFFSyndicate = IFF-Computer
     .desc = Ermöglicht es dir, die IFF- und Tarneigenschaften dieses Schiffes zu steuern.
 
 ent-ComputerPowerMonitoring = Strom-Monitorcomputer
-    .desc = Es überwacht die Leistungspegel in der gesamten Station.
+    .desc = Überwacht die Leistungspegel auf der gesamten Station.
 
 ent-ComputerMedicalRecords = Krankenakten-Computer
-    .desc = Dies kann verwendet werden, um medizinische Aufzeichnungen zu überprüfen.
+    .desc = Hiermit lassen sich medizinische Aufzeichnungen einsehen.
 
 ent-ComputerCriminalRecords = Strafregister
-    .desc = Dies kann verwendet werden, um Strafregister zu überprüfen. Nur Sicherheit kann sie verändern.
+    .desc = Hiermit lassen sich Strafregister einsehen. Nur die Sicherheit kann sie ändern.
 
 ent-ComputerStationRecords = Stationsakten-Computer
-    .desc = Dies kann verwendet werden, um Stationsaufzeichnungen zu überprüfen.
+    .desc = Hiermit lassen sich Stationsaufzeichnungen einsehen.
 
 ent-ComputerCrewMonitoring = Crew-Monitorkonsole
-    .desc = Wird verwendet, um aktive Gesundheitssensoren zu überwachen, die in den meisten Uniformen der Crew eingebaut sind.
+    .desc = Dient zur Überwachung aktiver Gesundheitssensoren, die in den meisten Crew-Uniformen eingebaut sind.
 
 ent-ComputerResearchAndDevelopment = FuE-Computer
-    .desc = Ein Computer zur Schnittstelle mit F&E-Tools.
+    .desc = Ein Computer zur Anbindung an F&E-Werkzeuge.
 
 ent-ComputerAnalysisConsole = Analysekonsole
-    .desc = Ein Computer, der zur Schnittstelle mit dem Artefaktanalysator verwendet wird.
+    .desc = Ein Computer zur Anbindung an den Artefaktanalysator.
 
 ent-ComputerId = ID-Kartencomputer
-    .desc = Terminal zum Programmieren von Nanotrasen-Mitarbeiterausweisen für den Zugriff auf Teile der Station.
+    .desc = Terminal zum Programmieren von Nanotrasen-Mitarbeiterausweisen für den Zugang zu Teilen der Station.
 
 ent-computerBodyScanner = Bodyscanner-Computer
     .desc = Ein Bodyscanner.
 
 ent-ComputerComms = Kommunikationscomputer
-    .desc = Ein Computer, der verwendet wurde, um stationsweite Ankündigungen über die Tastatur zu machen, die entsprechende Alarmstufe einzustellen und das Notfall-Shuttle anzurufen.
+    .desc = Ein Computer, um stationsweite Durchsagen über die Tastatur zu machen, die passende Alarmstufe einzustellen und das Notfallshuttle zu rufen.
 
 ent-SyndicateComputerComms = Syndicate-Kommunikationscomputer
-    .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn du dies für eine Ankündigung verwendest, wird die Station auf deine Anwesenheit aufmerksam gemacht.
+    .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn du ihn für eine Durchsage nutzt, wird die Station auf deine Anwesenheit aufmerksam.
 
 ent-WizardComputerComms = Zauberer-Kommunikationscomputer
-    .desc = Ein Computer, der in der Lage ist, deine Sprache magisch auf die Station zu projizieren. Wenn du dies für eine Ankündigung verwendest, wird die Station auf deine Anwesenheit aufmerksam gemacht.
+    .desc = Ein Computer, der deine Stimme magisch auf die Station projizieren kann. Wenn du ihn für eine Durchsage nutzt, wird die Station auf deine Anwesenheit aufmerksam.
 
 ent-CentcommComputerComms = CentComm-Kommunikationscomputer
-    .desc = Ein Computer machte früher weltweite Ankündigungen über die Tastatur. Der überlegene Vetter des regulären Kommunikationscomputers.
+    .desc = Ein Computer für weltweite Durchsagen über die Tastatur. Der überlegene Vetter des normalen Kommunikationscomputers.
 
 ent-ComputerSolarControl = Solarsteuerungscomputer
     .desc = Ein Controller für Solarpanel-Arrays.
 
 ent-ComputerRadar = Massenscanner-Computer
-    .desc = Ein Computer zur Erkennung von Körpern in der Nähe, die durch Position und Masse angezeigt werden.
+    .desc = Ein Computer zur Erkennung von Objekten in der Nähe, angezeigt nach Position und Masse.
 
 ent-ComputerCargoOrders = Fracht-Bestellcomputer
-    .desc = Wird verwendet, um Lieferungen zu bestellen und Anfragen zu genehmigen.
+    .desc = Dient zum Bestellen von Lieferungen und zum Genehmigen von Anfragen.
 
 ent-ComputerCargoOrdersEngineering = Technik-Bestellcomputer
-    .desc = Wird von der Ingenieurabteilung verwendet, um Lieferungen zu bestellen.
+    .desc = Wird von der Technikabteilung zum Bestellen von Lieferungen verwendet.
 
 ent-ComputerCargoOrdersMedical = Medizin-Bestellcomputer
-    .desc = Wird von der medizinischen Abteilung verwendet, um Lieferungen zu bestellen.
+    .desc = Wird von der medizinischen Abteilung zum Bestellen von Lieferungen verwendet.
 
 ent-ComputerCargoOrdersScience = Wissenschafts-Bestellcomputer
-    .desc = Wird von der Wissenschaftsabteilung verwendet, um Lieferungen zu bestellen.
+    .desc = Wird von der Wissenschaftsabteilung zum Bestellen von Lieferungen verwendet.
 
 ent-ComputerCargoOrdersSecurity = Sicherheits-Bestellcomputer
-    .desc = Wird von der Sicherheitsabteilung verwendet, um Lieferungen zu bestellen.
+    .desc = Wird von der Sicherheitsabteilung zum Bestellen von Lieferungen verwendet.
 
 ent-ComputerCargoOrdersService = Service-Bestellcomputer
-    .desc = Wird von der Serviceabteilung verwendet, um Lieferungen zu bestellen.
+    .desc = Wird von der Serviceabteilung zum Bestellen von Lieferungen verwendet.
 
 ent-ComputerCargoBounty = Fracht-Kopfgeldcomputer
     .desc = Wird verwendet, um derzeit aktive Bounties zu verwalten.
 
 ent-ComputerFundingAllocation = Finanzverteilungscomputer
-    .desc = Terminal zur Kontrolle der Verteilung von Mitteln und Zahlungen an Abteilungen.
+    .desc = Terminal zur Kontrolle der Mittelverteilung und der Zahlungen an Abteilungen.
 
 ent-ComputerCloningConsole = Klon-Konsole
-    .desc = Das Herzstück des Klonsystems, die größte Errungenschaft der Medizin. Es hat viele Ports und Kabel.
+    .desc = Das Herzstück des Klonsystems, der größten Errungenschaft der Medizin. Es hat viele Anschlüsse und Kabel.
 
 ent-ComputerSalvageJobBoard = Salvage-Auftragstafel
-    .desc = Konsole für den Zugriff auf Salvage-Jobs, wenn du hart genug bist.
+    .desc = Konsole für den Zugriff auf Bergungsaufträge, wenn du hart genug bist.
 
 ent-ComputerSalvageExpedition = Salvage-Expeditionscomputer
-    .desc = Wird verwendet, um Rettungsmissionen anzunehmen, wenn du hart genug bist.
+    .desc = Dient zur Annahme von Bergungsmissionen, wenn du hart genug bist.
 
 ent-ComputerSurveillanceCameraMonitor = Kameramonitor
-    .desc = Eine Überwachungskamera Monitore. Du siehst sie. Vielleicht.
+    .desc = Ein Überwachungskameramonitor. Du siehst sie. Vielleicht.
 
 ent-ComputerSurveillanceWirelessCameraMonitor = Funkkameramonitor
     .desc = Ein drahtloser Überwachungskameramonitor. Du beobachtest sie. Vielleicht.
 
 ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = Xenoborg-Kameramonitor
-    .desc = Ein drahtloser Xenoborg Kameramonitor. Du beobachtest sie. Vielleicht.
+    .desc = Ein drahtloser Xenoborg-Kameramonitor. Du beobachtest sie. Vielleicht.
 
 ent-ComputerPalletConsole = Frachtverkaufscomputer
-    .desc = Wird zum Verkauf von Waren verwendet, die auf Frachtpaletten geladen werden.
+    .desc = Dient zum Verkauf von Waren, die auf Frachtpaletten geladen sind.
 
 ent-ComputerMassMedia = Nachrichtenkonsole
     .desc = Schreib deine Botschaft an die Welt!
@@ -119,18 +119,18 @@ ent-ComputerSensorMonitoring = Sensor-Monitorcomputer
     .desc = Eine flexible Konsole zur Überwachung aller Arten von Sensoren.
 
 ent-ComputerRoboticsControl = Robotik-Steuerkonsole
-    .desc = Wird verwendet, um die Cyborgs der Station aus der Ferne zu überwachen.
+    .desc = Dient zur Fernüberwachung der Cyborgs der Station.
 
 ent-ComputerXenoborgsControl = Xenoborg-Kontrollkonsole
-    .desc = Wird zur Fernüberwachung aller Xenoborgs verwendet.
+    .desc = Dient zur Fernüberwachung aller Xenoborgs.
 
 ent-StationAiUploadComputer = KI-Upload-Konsole
-    .desc = Wird verwendet, um die Gesetze der Stations-KI zu aktualisieren.
+    .desc = Dient zum Aktualisieren der Gesetze der Stations-KI.
 
 ent-StationAiFixerComputer = KI-Wiederherstellungskonsole
-    .desc = Wird verwendet, um beschädigte künstliche Intelligenzen zu reparieren.
+    .desc = Dient zur Reparatur beschädigter künstlicher Intelligenzen.
 
 ent-ComputerNukieDelivery = Syndicate-Lieferungscomputer
 
 ent-ComputerSupermatter = Supermaterie-Monitorkonsole
-    .desc = Wird verwendet, um den Status von Supermatterkristallen zu überwachen.
+    .desc = Dient zur Überwachung des Zustands von Supermaterie-Kristallen.

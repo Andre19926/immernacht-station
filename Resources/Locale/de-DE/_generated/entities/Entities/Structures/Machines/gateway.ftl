@@ -1,2 +1,2 @@
 ent-Gateway = Gateway
-    .desc = Ein mysteriöses Tor, das von unbekannten Händen gebaut wurde, ermöglicht eine schnellere als leichte Reise zu weit entfernten Orten.
+    .desc = Ein mysteriöses Tor, von unbekannten Händen erbaut, das Reisen schneller als das Licht zu weit entfernten Orten ermöglicht.

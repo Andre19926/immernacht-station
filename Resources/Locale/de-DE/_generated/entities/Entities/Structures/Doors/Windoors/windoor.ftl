@@ -14,7 +14,7 @@ ent-WindoorSecurePlasma = sicheres Plasma Windoor
     .desc = Ein robustes lila Fenster *und* eine Schiebetür. Spektakulär!
 
 ent-WindoorUranium = Uran-Windoor
-    .desc = Es ist ein Fenster und eine Schiebetür. Huh? Oh, und es ist grün!
+    .desc = Es ist ein Fenster und eine Schiebetür. Hä? Oh, und es ist grün!
 
 ent-WindoorSecureUranium = sicheres Uran Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Es ist so neongrün, dass es sogar nach Limetten schmecken könnte!
@@ -164,10 +164,10 @@ ent-PlasmaWindoorSecureSyndicateLocked = sicheres Plasma Windoor
     .desc = Ein robustes lila Fenster *und* eine Schiebetür. Spektakulär!
 
 ent-PlasmaWindoorSecureSyndicateLockedIndestructable = Plasma Windoor sichern?
-    .desc = Da haben dich ein schlechtes Gefühl.
+    .desc = Dabei bekommst du ein ungutes Gefühl.
 
 ent-UraniumWindoorSyndicateLocked = Uran-Windoor
-    .desc = Es ist ein Fenster und eine Schiebetür. Huh? Oh, und es ist grün!
+    .desc = Es ist ein Fenster und eine Schiebetür. Hä? Oh, und es ist grün!
 
 ent-UraniumWindoorSecureSyndicateLocked = sicheres Uran Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Es ist so neongrün, dass es sogar nach Limetten schmecken könnte!
@@ -185,7 +185,7 @@ ent-PlasmaWindoorSecureNukeopLocked = sicheres Plasma Windoor
     .desc = Ein robustes lila Fenster *und* eine Schiebetür. Spektakulär!
 
 ent-UraniumWindoorNukeopLocked = Uran-Windoor
-    .desc = Es ist ein Fenster und eine Schiebetür. Huh? Oh, und es ist grün!
+    .desc = Es ist ein Fenster und eine Schiebetür. Hä? Oh, und es ist grün!
 
 ent-UraniumWindoorSecureNukeopLocked = sicheres Uran Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Es ist so neongrün, dass es sogar nach Limetten schmecken könnte!

@@ -11,4 +11,4 @@ ent-GasMixerFlipped = Gasmischer
     .desc = Sehr nützlich zum Mischen von Gasen.
 
 ent-PressureControlledValve = Pneumatikventil
-    .desc = Ein bidirektionales Ventil, das durch Druck gesteuert wird. Öffnet, wenn die Ausgangsleitung um 101,325 kPa niedriger als der Druck der Steuerleitung ist.
+    .desc = Ein bidirektionales Ventil, das durch Druck gesteuert wird. Öffnet, wenn der Druck in der Ausgangsleitung um 101,325 kPa niedriger ist als in der Steuerleitung.

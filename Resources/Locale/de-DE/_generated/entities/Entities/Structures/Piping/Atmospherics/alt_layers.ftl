@@ -41,22 +41,22 @@ ent-GasVolumePumpAlt2 = Volumengaspumpe
     .desc = Eine Pumpe, die Gas nach Volumen bewegt.
 
 ent-GasPassiveGateAlt1 = passives Gate
-    .desc = Ein Einweg-Luftventil, das keinen Strom benötigt.
+    .desc = Ein Einwegventil für Luft, das keinen Strom benötigt.
 
 ent-GasPassiveGateAlt2 = passives Gate
-    .desc = Ein Einweg-Luftventil, das keinen Strom benötigt.
+    .desc = Ein Einwegventil für Luft, das keinen Strom benötigt.
 
 ent-GasValveAlt1 = Handventil
-    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand unterbinden lässt.
+    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand sperren lässt.
 
 ent-GasValveAlt2 = Handventil
-    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand unterbinden lässt.
+    .desc = Ein Rohr mit einem Ventil, mit dem sich der Gasfluss von Hand sperren lässt.
 
 ent-SignalControlledValveAlt1 = Signalventil
-    .desc = Ein Rohr mit einem Ventil, das mit Signalen gesteuert werden kann.
+    .desc = Ein Rohr mit einem Ventil, das sich per Signal steuern lässt.
 
 ent-SignalControlledValveAlt2 = Signalventil
-    .desc = Ein Rohr mit einem Ventil, das mit Signalen gesteuert werden kann.
+    .desc = Ein Rohr mit einem Ventil, das sich per Signal steuern lässt.
 
 ent-GasPipeSensorAlt1 = Gasrohrsensor
     .desc = Meldet den Zustand des Gases im angeschlossenen Rohrleitungsnetz.

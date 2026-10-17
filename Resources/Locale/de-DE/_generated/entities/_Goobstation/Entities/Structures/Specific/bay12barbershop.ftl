@@ -1,5 +1,5 @@
 ent-ChairBarber = Friseurstuhl
-    .desc = Du sitzt darin. Entweder aus freiem Willen oder mit Gewalt.
+    .desc = Du sitzt darin. Entweder freiwillig oder unter Zwang.
 
 ent-BarberSignPole = Barberpolster
     .desc = Hypnotisch.

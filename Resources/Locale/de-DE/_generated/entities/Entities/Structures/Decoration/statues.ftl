@@ -5,7 +5,7 @@ ent-StatueVenusBlue = Statue einer reinen Jungfrau
     .desc = Eine alte Marmorstatue. Das Motiv ist mit einem bodenlangen Zopf dargestellt und trägt einen blauen Werkzeugkasten.
 
 ent-StatueBananiumClown = Bananium Retter Statue
-    .desc = Eine Bananenstatue. Es zeigt die Rückkehr des Retters, der sich erheben und die Clowns zum großen Hupen führen wird.
+    .desc = Eine Bananenstatue. Sie zeigt die Rückkehr des Retters, der sich erheben und die Clowns zum großen Hupen führen wird.
 
 ent-StatueIronsandSmall = Eisen und kleine Statue
     .desc = Eine geheimnisvolle Statue, in einer Wüste aus Eisensand gefunden.

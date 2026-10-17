@@ -1,8 +1,8 @@
 ent-Firelock = Feuerlöscher
-    .desc = Brecheisen anwenden.
+    .desc = Brecheisen ansetzen.
 
 ent-FirelockGlass = Glasbrandschutz
-    .desc = Brecheisen anwenden.
+    .desc = Brecheisen ansetzen.
 
 ent-FirelockEdge = Feuerlöscher
-    .desc = Brecheisen anwenden.
+    .desc = Brecheisen ansetzen.

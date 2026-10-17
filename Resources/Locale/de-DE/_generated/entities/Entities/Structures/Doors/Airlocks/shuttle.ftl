@@ -5,7 +5,7 @@ ent-AirlockGlassShuttle = Außenluftschleuse
     .desc = Notwendig, um zwei Raumfahrzeuge miteinander zu verbinden.
 
 ent-AirlockShuttleAssembly = Außenluftschleuse-Baugruppe
-    .desc = Eine unvollständige Struktur, die notwendig ist, um zwei Raumfahrzeuge miteinander zu verbinden.
+    .desc = Eine unvollständige Struktur, die zur Verbindung zweier Raumfahrzeuge nötig ist.
 
 ent-AirlockGlassShuttleSyndicate = Außenluftschleuse
     .desc = Notwendig, um zwei Raumfahrzeuge miteinander zu verbinden.

@@ -11,22 +11,22 @@ ent-GasOutletInjector = Lufteinblasventil
     .desc = Hat ein Ventil und eine Pumpe daran befestigt.
 
 ent-GasThermoMachineFreezer = Gefriergeräte
-    .desc = Gas in verbundenen Rohren kühlt.
+    .desc = Kühlt Gas in angeschlossenen Rohren.
 
 ent-GasThermoMachineFreezerEnabled = Gefriergeräte
-    .desc = Gas in verbundenen Rohren kühlt.
+    .desc = Kühlt Gas in angeschlossenen Rohren.
 
 ent-GasThermoMachineHeater = Heizung
-    .desc = Erhitzt Gas in verbundenen Rohren.
+    .desc = Erhitzt Gas in angeschlossenen Rohren.
 
 ent-GasThermoMachineHeaterEnabled = Heizung
-    .desc = Erhitzt Gas in verbundenen Rohren.
+    .desc = Erhitzt Gas in angeschlossenen Rohren.
 
 ent-GasThermoMachineHellfireFreezer = Hellfire Froster
-    .desc = Eine fortschrittliche Maschine, die Gas in verbundenen Rohren kühlt. Hat die Nebenwirkung der Kühlung der Umgebung. Kalt wie die Hölle!
+    .desc = Eine fortschrittliche Maschine, die Gas in angeschlossenen Rohren kühlt. Hat den Nebeneffekt, die Umgebung abzukühlen. Eiskalt!
 
 ent-GasThermoMachineHellfireHeater = Hellfire Heat
-    .desc = Eine fortschrittliche Maschine, die Gas in verbundenen Rohren erhitzt. Hat die Nebenwirkung von austretender Wärme in die Umgebung. Heiß wie die Hölle!
+    .desc = Eine fortschrittliche Maschine, die Gas in angeschlossenen Rohren erhitzt. Hat den Nebeneffekt, Wärme an die Umgebung abzugeben. Höllisch heiß!
 
 ent-BaseGasCondenser = Kondensator
-    .desc = Kondensiert Gase zu Flüssigkeiten. Jetzt brauchen wir nur noch etwas Sanitär.
+    .desc = Kondensiert Gase zu Flüssigkeiten. Jetzt fehlt nur noch etwas Sanitär.

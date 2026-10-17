@@ -1,2 +1,2 @@
 ent-BiomassReclaimer = Biomasserückgewinnung
-    .desc = Rückgewinnung von Biomasse aus Leiche. Grausam.
+    .desc = Gewinnt Biomasse aus Leichen zurück. Grausam.

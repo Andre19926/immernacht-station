@@ -53,4 +53,4 @@ ent-AltarFangs = Gebläsealtar
     .desc = Altar der Götter.
 
 ent-AltarBananium = Honkmotheraltar
-    .desc = Ein Bananenaltar, der der Honkmother gewidmet ist.
+    .desc = Ein Bananenaltar, der der Honkmother geweiht ist.

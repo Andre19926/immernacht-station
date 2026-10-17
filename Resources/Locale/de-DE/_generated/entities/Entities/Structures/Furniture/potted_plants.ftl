@@ -76,7 +76,7 @@ ent-PottedPlant24 = Topfpflanzen
 ent-PottedPlantRD = RD Topfpflanze
 
 ent-PottedPlant26 = Topfpflanzen
-    .desc = Ist es nur ich, oder blinkt es?
+    .desc = Bilde ich mir das ein, oder blinkt es?
 
 ent-PottedPlant27 = Topfpflanze aus Kunststoff
     .desc = Ein künstlicher, billig aussehender Plastikbaum. Perfekt für Leute, die jede Pflanze umbringen, die sie anfassen.

@@ -1,8 +1,8 @@
 ent-AmeController = AME-Controller
-    .desc = Es ist ein Controller für die Antimaterie-Engine.
+    .desc = Ein Controller für den Antimaterie-Motor.
 
 ent-AmeControllerUnanchored = AME-Controller
-    .desc = Es ist ein Controller für die Antimaterie-Engine.
+    .desc = Ein Controller für den Antimaterie-Motor.
 
 ent-AmeShielding = AME-Abschirmung
-    .desc = Haltet die Antimaterie in und die Materie aus.
+    .desc = Hält die Antimaterie drin und die Materie draußen.

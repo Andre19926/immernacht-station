@@ -1,14 +1,14 @@
 ent-Autolathe = Autolathe
-    .desc = Stellt einfache Gegenstände aus Metall und Glas her. Kann Baupläne verarbeiten, um neue Rezepte zu drucken.
+    .desc = Stellt einfache Gegenstände aus Metall und Glas her. Kann Blaupausen verarbeiten, um neue Rezepte zu drucken.
 
 ent-AutolatheHyperConvection = Hyperkonvektions-Autolathe
-    .desc = Eine hochexperimentelle Autolathe, die die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
+    .desc = Ein hochexperimenteller Autolathe, der die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
 
 ent-Protolathe = Protolathe
     .desc = Verwandelt Rohstoffe in fortschrittliche Gegenstände.
 
 ent-ProtolatheHyperConvection = Hyperkonvektions-Protolathe
-    .desc = Eine hochexperimentelle Protolathe, die die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
+    .desc = Ein hochexperimenteller Protolathe, der die Kraft extremer Hitze nutzt, um Gegenstände langsam, aber kostengünstiger herzustellen.
 
 ent-CircuitImprinter = Platinendrucker
     .desc = Druckt Platinen für Maschinen.
@@ -20,7 +20,7 @@ ent-ExosuitFabricator = Exosuit-Fabrikator
     .desc = Stellt Teile für die Robotik und andere mechanische Zwecke her.
 
 ent-Biofabricator = Biowürfelhersteller
-    .desc = Produziert Tierwürfel aus Biomasse.
+    .desc = Stellt aus Biomasse Tierwürfel her.
 
 ent-SecurityTechFab = Sicherheits-Techfab
     .desc = Druckt Ausrüstung und Platinen für die Sicherheitscrew.
@@ -38,13 +38,13 @@ ent-Biogenerator = Biogenerator
     .desc = Verwandelt Pflanzen in Biomasse, aus der nützliche Gegenstände hergestellt werden können.
 
 ent-OreProcessor = Erzverarbeiter
-    .desc = Es produziert Platten und Barren mit Erzen.
+    .desc = Produziert Platten und Barren aus Erzen.
 
 ent-OreProcessorIndustrial = Industrielle Erzverarbeitung
-    .desc = Ein Erzverarbeiter, der speziell für die Massenproduktion von Metallen in industriellen Anwendungen entwickelt wurde.
+    .desc = Ein Erzverarbeiter, speziell für die Massenproduktion von Metallen in industriellen Anwendungen entwickelt.
 
 ent-Sheetifier = Sheet-Meister 2000
     .desc = Eine sehr flache Maschine.
 
 ent-CutterMachine = Messermaschine
-    .desc = Das ist ein Cutter. Es schneidet. Füge deiner Station Abwechslung mit auffälligen Mustern hinzu! Steck deine Finger nicht hinein.
+    .desc = Das ist ein Cutter. Er schneidet. Bring Abwechslung in deine Station mit auffälligen Mustern! Steck nicht die Finger hinein.

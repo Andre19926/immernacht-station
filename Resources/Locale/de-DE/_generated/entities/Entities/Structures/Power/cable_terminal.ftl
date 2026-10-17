@@ -1,5 +1,5 @@
 ent-CableTerminal = Kabelanschluss
-    .desc = Du siehst eine kleine Warnung auf den roten Kabeln in schmutziger schwarzer Tinte: „ROT AN BATTERIE ZUM LADEN ANSCHLIESSEN.“
+    .desc = Auf den roten Kabeln steht in schmutziger schwarzer Tinte eine kleine Warnung: „ROT ZUM LADEN AN BATTERIE ANSCHLIESSEN.“
 
 ent-CableTerminalUncuttable = Kabelanschluss
-    .desc = Du siehst eine kleine Warnung auf den roten Kabeln in schmutziger schwarzer Tinte: „ROT AN BATTERIE ZUM LADEN ANSCHLIESSEN.“
+    .desc = Auf den roten Kabeln steht in schmutziger schwarzer Tinte eine kleine Warnung: „ROT ZUM LADEN AN BATTERIE ANSCHLIESSEN.“

@@ -31,4 +31,4 @@ ent-CarpetWhite = Teppich
 ent-CarpetChapel = Teppich der Kapelle
 
 ent-CarpetCard = Karton „Teppich
-    .desc = Sogar Lino ist besser.
+    .desc = Sogar Linoleum ist besser.

@@ -11,7 +11,7 @@ ent-ToiletDirtyWaterFilled = Toilette
     .desc = Die HT-451, eine drehmomentbasierte Entsorgungseinheit für kleine Materie. Dieses Exemplar wirkt bemerkenswert sauber.
 
 ent-ToiletGoldenEmpty = goldene Toilette
-    .desc = Der HT-451G ist die Goldversion des Geräts. Es sagt auf der Seite, dass es aus dem reinsten Mercurian Gold und einem echten Ledersitz gemacht ist.
+    .desc = Der HT-451G ist die Goldversion des Geräts. Auf der Seite steht, dass er aus reinstem Merkurgold und mit echtem Ledersitz gefertigt ist.
 
 ent-ToiletGoldenDirtyWater = goldene Toilette
-    .desc = Der HT-451G ist die Goldversion des Geräts. Es sagt auf der Seite, dass es aus dem reinsten Mercurian Gold und einem echten Ledersitz gemacht ist.
+    .desc = Der HT-451G ist die Goldversion des Geräts. Auf der Seite steht, dass er aus reinstem Merkurgold und mit echtem Ledersitz gefertigt ist.

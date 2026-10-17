@@ -1,5 +1,5 @@
 ent-Memorial = Gedenkstätte
-    .desc = Erinnern an etwas.
+    .desc = Erinnert an etwas.
 
 ent-SS13Memorial = Grab des unbekannten Angestellten
 

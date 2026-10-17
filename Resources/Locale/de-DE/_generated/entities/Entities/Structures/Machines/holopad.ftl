@@ -2,13 +2,13 @@ ent-Holopad = Holopad
     .desc = Ein am Boden montiertes Gerät zum Projizieren holografischer Bilder.
 
 ent-HolopadLongRange = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadUnlimitedRange = Quantenverwickeltes Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte in extremen Entfernungen.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in extremer Entfernung.
 
 ent-HolopadBluespace = Bluespace-Holopad
-    .desc = Ein experimentelles bodenmontiertes Gerät zur Projektion holographischer Bilder über den Blauraum.
+    .desc = Ein experimentelles bodenmontiertes Gerät zum Projizieren holografischer Bilder über Bluespace.
 
 ent-HolopadHologram = Hologramm
 
@@ -277,19 +277,19 @@ ent-HolopadAiChute = Holopad
     .desc = Ein am Boden montiertes Gerät zum Projizieren holografischer Bilder.
 
 ent-HolopadCargoAts = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadCommandBridgeLongRange = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadCargoBayLongRange = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadCargoShuttle = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadCentCommEvacShuttle = Langstrecken-Holopad
-    .desc = Ein bodenmontiertes Gerät zum Projizieren holographischer Bilder auf ähnliche Geräte, die weit weg sind.
+    .desc = Ein bodenmontiertes Gerät zum Projizieren holografischer Bilder auf ähnliche Geräte in weiter Ferne.
 
 ent-HolopadServiceClownMime = Holopad
     .desc = Ein am Boden montiertes Gerät zum Projizieren holografischer Bilder.

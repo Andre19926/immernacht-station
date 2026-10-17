@@ -1,5 +1,5 @@
 ent-SalvageMagnet = Salvage-Magnet
-    .desc = Pulls in Salvage.
+    .desc = Zieht Bergungsgut an.
 
 ent-SalvageLocator = Salvage-Ortung
-    .desc = Sucht Salvage.
+    .desc = Sucht Bergungsgut.

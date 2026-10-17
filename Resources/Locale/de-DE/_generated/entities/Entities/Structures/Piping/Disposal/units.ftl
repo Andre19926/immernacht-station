@@ -1,5 +1,5 @@
 ent-DisposalUnit = Entsorgungseinheit
-    .desc = Eine pneumatische Abfallentsorgungseinheit.
+    .desc = Eine pneumatische Abfallentsorgungsstation.
 
 ent-MailingUnit = Versandeinheit
-    .desc = Eine pneumatische Postzustellungseinheit.
+    .desc = Eine pneumatische Postzustellstation.

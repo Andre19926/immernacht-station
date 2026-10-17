@@ -1,2 +1,2 @@
 ent-Jukebox = Jukebox
-    .desc = Eine Maschine, die in der Lage ist, eine Vielzahl von Melodien zu spielen. Genuss nicht garantiert.
+    .desc = Eine Maschine, die eine Vielzahl von Melodien spielen kann. Hörgenuss nicht garantiert.

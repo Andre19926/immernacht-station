@@ -1,20 +1,20 @@
 ent-PowerCellRecharger = Zellenaufladegerät
-    .desc = Ein älteres Modell Wiederaufladegerät, das Stromzellen aufladen kann.
+    .desc = Ein älteres Ladegerät, das Energiezellen aufladen kann.
 
 ent-PowerCageRecharger = Käfigladegerät
-    .desc = Eine spezialisierte Maschine zum Aufladen der schweren Käfigbatterien, die von Schiffswaffen verwendet werden.
+    .desc = Eine Spezialmaschine zum Aufladen der schweren Käfigbatterien, wie sie in Schiffswaffen verwendet werden.
 
 ent-WeaponCapacitorRecharger = Ladegerät
-    .desc = Eine moderne Ladestation, die sowohl Stromzellen als auch kleine elektronische Geräte aufnehmen kann.
+    .desc = Eine moderne Ladestation, die sowohl Energiezellen als auch kleine elektronische Geräte aufnehmen kann.
 
 ent-TurboItemRecharger = Turbolader
-    .desc = Ein übertaktetes Recharger. Nicht empfohlen für die Verwendung bei Asthmatikern.
+    .desc = Ein übertaktetes Ladegerät. Für Asthmatiker nicht zu empfehlen.
 
 ent-WallWeaponCapacitorRecharger = Wandauflader
-    .desc = Ein kompakter Wandlader. Es kann nur elektronische Geräte aufladen und hat keinen Platz für Stromzellen.
+    .desc = Ein kompaktes Wandladegerät. Lädt nur elektronische Geräte auf und hat keinen Platz für Energiezellen.
 
 ent-BorgCharger = Cyborg-Ladestation
-    .desc = Ein stationäres Ladegerät für verschiedene Roboter- und Cyborg-Einheiten. Überraschend geräumig.
+    .desc = Ein stationäres Ladegerät für verschiedene Roboter und Cyborgs. Überraschend geräumig.
 
 ent-BorgChargerXenoborg = Xenoborg-Ladestation
-    .desc = Ein stationäres Ladegerät für Xenoborgs. Fühlt sich klaustrophobisch.
+    .desc = Ein stationäres Ladegerät für Xenoborgs. Wirkt klaustrophobisch.

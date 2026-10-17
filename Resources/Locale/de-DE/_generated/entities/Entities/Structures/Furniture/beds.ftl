@@ -1,17 +1,17 @@
 ent-Bed = Bett
-    .desc = Dies wird verwendet, um zu liegen, zu schlafen oder anzuziehen. Hier auszuruhen sorgt für eine extrem langsame Heilung.
+    .desc = Dient zum Liegen, Schlafen oder Anziehen. Hier zu ruhen sorgt für extrem langsame Heilung.
 
 ent-MedicalBed = medizinisches Bett
-    .desc = Ein Krankenhausbett, in dem sich die Patienten erholen können. Hier auszuruhen bietet eine ziemlich langsame Heilung.
+    .desc = Ein Krankenhausbett, in dem sich Patienten erholen können. Hier zu ruhen sorgt für ziemlich langsame Heilung.
 
 ent-DogBed = Hundebett
-    .desc = Ein bequem aussehendes Hundebett. Du kannst sogar dein Haustier anschnallen, falls sich die Schwerkraft abschaltet.
+    .desc = Ein bequem aussehendes Hundebett. Du kannst dein Haustier sogar anschnallen, falls die Schwerkraft ausfällt.
 
 ent-Mattress = Matratze
-    .desc = Besser schlafen, dann auf dem boden, denke ich.
+    .desc = Besser, als auf dem Boden zu schlafen, schätze ich.
 
 ent-WebBed = Netzbett
-    .desc = Du hast ein Webbed.
+    .desc = Du hast Schwimmhäute.
 
 ent-PsychBed = Psychologenbett
-    .desc = Ein Polsterbett für die psychologische Versorgung der Patienten.
+    .desc = Ein gepolstertes Bett für die psychologische Betreuung von Patienten.
