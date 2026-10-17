@@ -1,4 +1,4 @@
-wraith-skeleton-rally-howl = { $user } Emittiert ein Rallye-Heulen!
+wraith-skeleton-rally-howl = { $user } stößt ein Sammelheulen aus!
 
 # Unused
 

@@ -1,3 +1,3 @@
-ghost-role-information-nascent-name = Naszender Kokon
-ghost-role-information-nascent-description = Du bist nur ein Kokon, der vom Wraith aus der Leere gerufen wird. Wähle eine von drei Kreaturen, um zu werden. Der Skelettkommandant, der in der Lage ist, andere Günstlinge zu sammeln und kleinere Skelette zu beschwören; der Voidhound, der in der Lage ist, sich zu verhüllen und aus den Schatten zu stürzen; oder der Void Spiker, eine Kreatur mit einem Tentakelhaken und Gift, das Schläfrigkeit verursacht.
-ghost-role-information-nascent-rules = Du bist ein Geschöpf aus der Leere, das vom Wraith gerufen wird. Befolge ihre Befehle und verursache so viel Chaos wie möglich.
+ghost-role-information-nascent-name = Entstehender Kokon
+ghost-role-information-nascent-description = Du bist nur ein Kokon, vom Phantomgeist aus der Leere gerufen. Wähle eine von drei Kreaturen, zu der du werden willst: den Skelettkommandanten, der andere Diener um sich scharen und kleinere Skelette beschwören kann; den Leerenhund, der sich tarnen und aus den Schatten hervorspringen kann; oder den Leerenstachler, eine Kreatur mit Tentakelhaken und einem Gift, das Schläfrigkeit verursacht.
+ghost-role-information-nascent-rules = Du bist ein Geschöpf aus der Leere, vom Phantomgeist gerufen. Befolge seine Befehle und richte so viel Chaos an, wie du kannst.

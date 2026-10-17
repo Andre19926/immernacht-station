@@ -1,4 +1,4 @@
-wraith-spiker-lash = { $user } Wimpern an { $target }!
+wraith-spiker-lash = { $user } peitscht nach { $target }!
 
-wraith-spiker-shuffle = Du bist gemischt!
-wraith-spiker-shuffle-removed = Du bist nicht mehr gemischt!
+wraith-spiker-shuffle = Du wirst durchgeschüttelt!
+wraith-spiker-shuffle-removed = Du wirst nicht mehr durchgeschüttelt!
