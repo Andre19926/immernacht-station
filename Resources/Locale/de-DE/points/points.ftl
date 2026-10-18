@@ -7,7 +7,7 @@
 
 point-scoreboard-winner = Der Sieger war [color=lime]{$player}![/color]
 point-scoreboard-header = [bold]Anzeiger[/bold]
-point-scoreboard-list = {$place}. [bold][color=cyan]{$name}[/color][/bold] scored [color=yellow]{$points ->
+point-scoreboard-list = {$place}. [bold][color=cyan]{$name}[/color][/bold] hat [color=yellow]{$points ->
     [one] {$points} Punkt
     *[other] {$points} Punkte
-}.[/color]
+} erzielt.[/color]

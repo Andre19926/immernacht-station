@@ -18,8 +18,8 @@ store-currency-inserted-implant = {CAPITALIZE(THE($used))} wird in dein Implanta
 
 store-currency-free = frei
 store-currency-display-debugdollar = {$amount ->
-    [one] Debug Dollar
-    *[other] Debug Dollars
+    [one] Debug-Dollar
+    *[other] Debug-Dollar
 }
 store-currency-display-telecrystal = TC
 store-currency-display-stolen-essence = Gestohlene Essenz

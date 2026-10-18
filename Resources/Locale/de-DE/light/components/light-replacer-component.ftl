@@ -28,5 +28,5 @@ comp-light-replacer-no-lights = Es ist leer.
 comp-light-replacer-has-lights = Es enthält Folgendes:
 comp-light-replacer-light-listing = {$amount ->
     [one] [color=yellow]{$amount}[/color] [color=gray]{$name}[/color]
-    *[other] [color=yellow]{$amount}[/color] [color=gray]{$name}s[/color]
+    *[other] [color=yellow]{$amount}[/color] [color=gray]{$name}[/color]
 }

@@ -36,12 +36,12 @@ salvage-magnet-resources = {$resource ->
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Poor)
-    [2] (Moderate)
-    [3] (Moderate)
-    [4] (Rich)
-    [5] (Rich)
-    *[other] (Extraordinary)
+    [1] (Dürftig)
+    [2] (Mäßig)
+    [3] (Mäßig)
+    [4] (Reichhaltig)
+    [5] (Reichhaltig)
+    *[other] (Außergewöhnlich)
 }
 
 # Debris

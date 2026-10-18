@@ -7,6 +7,6 @@ parcel-wrap-popup-being-wrapped-self = Du fängst an, dich selbst in Paketpapier
 
 # Shown when parcel wrap is examined in details range
 parcel-wrap-examine-detail-uses = { $uses ->
-    [one] Es gibt [color={$markupUsesColor}]{$uses}[/color] Verwendung links
-    *[other] Es gibt [color={$markupUsesColor}]{$uses}[/color] Verwendungen links
+    [one] Noch [color={$markupUsesColor}]{$uses}[/color] Verwendung übrig
+    *[other] Noch [color={$markupUsesColor}]{$uses}[/color] Verwendungen übrig
 }.

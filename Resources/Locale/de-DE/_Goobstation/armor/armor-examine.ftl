@@ -6,24 +6,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-armor-examine-stamina = - [color=cyan]Ausdauer[/color] Schadensminderung durch [color=lightblue]{$num}%[/color].
+armor-examine-stamina = - [color=cyan]Ausdauer[/color]schaden um [color=lightblue]{$num}%[/color] verringert.
 
-armor-examine-cancel-delayed-knockdown = - [color=green]Vollständig abbrechen[/color] Betäubungsstab verzögert Knockdown.
+armor-examine-cancel-delayed-knockdown = - [color=green]Verhindert vollständig[/color] den verzögerten Niederschlag durch Betäubungsstäbe.
 
 armor-examine-modify-delayed-knockdown-delay =
     - { $deltasign ->
-          [1] [color=green]Erhöhungen[/color]
-          *[-1] [color=red]Abnahme[/color]
-      } stun baton delayed knockdown delay by [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
-          [1] zweite
+          [1] [color=green]Erhöht[/color]
+          *[-1] [color=red]Senkt[/color]
+      } die Verzögerung des verzögerten Niederschlags von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
+          [1] Sekunde
           *[other] Sekunden
       }[/color].
 
 armor-examine-modify-delayed-knockdown-time =
     - { $deltasign ->
-          [1] [color=red]Erhöhungen[/color]
-          *[-1] [color=green]Abnahme[/color]
-      } stun baton delayed knockdown time by [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
-          [1] zweite
+          [1] [color=red]Erhöht[/color]
+          *[-1] [color=green]Senkt[/color]
+      } die Dauer des verzögerten Niederschlags von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
+          [1] Sekunde
           *[other] Sekunden
       }[/color].

@@ -14,8 +14,8 @@
 
 # Shown when a stack is examined in details range
 comp-stack-examine-detail-count = {$count ->
-    [one] Es gibt [color={$markupCountColor}]{$count}[/color] Sache
-    *[other] Es gibt [color={$markupCountColor}]{$count}[/color] Dinge
+    [one] Es ist [color={$markupCountColor}]{$count}[/color] Stück enthalten
+    *[other] Es sind [color={$markupCountColor}]{$count}[/color] Stück enthalten
 } im Stapel.
 
 # Stack status control

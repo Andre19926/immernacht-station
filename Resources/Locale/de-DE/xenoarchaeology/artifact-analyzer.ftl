@@ -41,7 +41,7 @@ analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$
 analysis-console-info-scanner = Scannen...
 analysis-console-info-scanner-paused = Angehalten.
 analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} zweite
+    [one] T-{$seconds} Sekunde
     *[other] T-{$seconds} Sekunden
 }
 
