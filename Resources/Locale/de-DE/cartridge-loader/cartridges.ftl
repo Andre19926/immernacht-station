@@ -32,7 +32,7 @@ net-probe-label-frequency = Frequenz
 net-probe-label-network = Netzwerk
 
 log-probe-program-name = LogProbe
-log-probe-scan = Heruntergeladene Logs von {$device}!
+log-probe-scan = Protokolle von {$device} heruntergeladen!
 log-probe-label-time = Zeit
 log-probe-label-accessor = Abgerufen von
 log-probe-label-number = #

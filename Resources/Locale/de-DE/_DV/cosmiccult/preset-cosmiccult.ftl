@@ -6,7 +6,7 @@ cosmiccult-title = Kosmischer Kult
 cosmiccult-description = Kultisten lauern unter der Crew.
 
 roles-antag-cosmiccult-name = Kosmischer Kultist
-roles-antag-cosmiccult-description = Usher am Ende aller Dinge durch Ausflüchten und Sabotage, Gehirnwäsche diejenigen, die sich dir widersetzen würden.
+roles-antag-cosmiccult-description = Läute durch List und Sabotage das Ende aller Dinge ein und wasche denen das Gehirn, die sich dir widersetzen würden.
 
 cosmiccult-gamemode-title = Der kosmische Kult
 cosmiccult-gamemode-description = Scanner erkennen einen anomalen Anstieg des Λ-CDM. Es gibt keine zusätzlichen Daten.
@@ -38,7 +38,7 @@ cosmiccult-roundend-cultist-count = {$initialCount ->
     [1] Es gab {$initialCount} [color=#4cabb3]Kosmischer Kultist[/color].
     *[other] Es gab {$initialCount} [color=#4cabb3]Kosmische Kultisten[/color].
 }
-cosmiccult-roundend-entropy-count = Der Kult siphoned {$count} Entropie.
+cosmiccult-roundend-entropy-count = Der Kult hat {$count} Entropie abgezapft.
 cosmiccult-roundend-cultpop-count = Kultisten erfunden {$count}% der Crew.
 cosmiccult-roundend-monument-stage = {$stage ->
     [1] Ach, das Monument scheint verlassen.
@@ -47,17 +47,17 @@ cosmiccult-roundend-monument-stage = {$stage ->
     *[other] [color=red]Etwas ist ZUTIEFST schiefgelaufen.[/color]
 }
 
-cosmiccult-roundend-cultcomplete = [color=#4cabb3]Cosmic Cult kompletter Sieg![/color]
-cosmiccult-roundend-cultmajor = [color=#4cabb3]Cosmic Cult großer Sieg![/color]
-cosmiccult-roundend-cultminor = [color=#4cabb3]Cosmic Cult Minor Sieg![/color]
+cosmiccult-roundend-cultcomplete = [color=#4cabb3]Kosmischer Kult: vollständiger Sieg![/color]
+cosmiccult-roundend-cultmajor = [color=#4cabb3]Kosmischer Kult: großer Sieg![/color]
+cosmiccult-roundend-cultminor = [color=#4cabb3]Kosmischer Kult: kleiner Sieg![/color]
 cosmiccult-roundend-neutral = [color=yellow]Neutrales Ende![/color]
 cosmiccult-roundend-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
 cosmiccult-roundend-crewmajor = [color=green]Großer Sieg für die Crew![/color]
 cosmiccult-roundend-crewcomplete = [color=green]Crew kompletter Sieg![/color]
 
 cosmiccult-summary-cultcomplete = Die kosmischen Kultisten haben das Ende eingeläutet!
-cosmiccult-summary-cultmajor = Der Steward des Kults schaffte es unbemerkt nach Midpoint. Der Kult wird leben, um einen anderen Tag zu sehen.
-cosmiccult-summary-cultminor = Mehrere Kultisten schafften es unbemerkt nach Midpoint. Der Kult wird leben, um einen anderen Tag zu sehen.
+cosmiccult-summary-cultmajor = Der Verwalter des Kults schaffte es unbemerkt nach Midpoint. Der Kult wird einen weiteren Tag erleben.
+cosmiccult-summary-cultminor = Mehrere Kultisten schafften es unbemerkt nach Midpoint. Der Kult wird einen weiteren Tag erleben.
 cosmiccult-summary-neutral = Keine Kultisten schafften es bis zur Mitte, aber einige bleiben auf der Station. Der Kampf geht weiter.
 cosmiccult-summary-crewminor = Das Monument erreichte nicht die volle Macht.
 cosmiccult-summary-crewmajor = Alle kosmischen Kultisten wurden eliminiert.
@@ -118,7 +118,7 @@ cosmiccult-rift-purge = {$NAME} Säubert die bösartige Kluft von der Realität!
 ## CHANTRY
 
 cosmiccult-chantry-location = Ein gefährlicher Anstieg des Λ-CDM wurde bei {$location} festgestellt! Abfangen und sofort eingreifen.
-cosmiccult-chantry-powerup = Die leere Chantry flackert zum Leben!
+cosmiccult-chantry-powerup = Die leere Kantorei erwacht flackernd zum Leben!
 
 ## UI / BASE POPUP
 
@@ -160,7 +160,7 @@ objective-condition-entropy-desc = Zapft gemeinsam mindestens {$count} Entropie 
 objective-condition-culttier-title = DAS MONUMENT ERMÄCHTIGEN
 objective-condition-culttier-desc = Stelle sicher, dass das Monument zur vollen Macht gebracht wird.
 objective-condition-victory-title = VERWENDUNG
-objective-condition-victory-desc = Beckon Das Unbekannte und läutet den letzten Vorhang-Aufruf ein.
+objective-condition-victory-desc = Rufe das Unbekannte herbei und läute den letzten Vorhang ein.
 
 
 ## CHAT ANNOUNCEMENTS
@@ -185,7 +185,7 @@ cosmiccult-entropy-inserted = Du führst dem Monument {$count} Entropie zu.
 cosmiccult-entropy-unavailable = Das kannst du jetzt nicht machen.
 cosmiccult-astral-ascendant = {$name}, Aszendent
 cosmiccult-gear-pickup-rejection = {$ITEM} wehrt sich gegen die Berührung von {CAPITALIZE(THE($TARGET))}!
-cosmiccult-astral-minion = {$name}, Malign
+cosmiccult-astral-minion = {$name}, Boshafter
 cosmiccult-gear-pickup = Du spürst, wie du dich auflöst, solange du {$ITEM} hältst!
 
 cosmiccult-silicon-subverted-briefing =

@@ -40,7 +40,7 @@ ntr-executive-hardsuit-name = Bestelle einen Hardsuit
 ntr-executive-hardsuit-desc = Ein langlebiger Hardsuit für extreme Umgebungen. Bist du sicher, dass dieser Kauf gerechtfertigt ist?
 
 ntr-experimental-hardsuit-name = Bestelle einen Hardsuit
-ntr-experimental-hardsuit-desc = Nanotrasen testet einen experimentellen Exosuit, der aus Bluespace-leitfähigen Platten gebaut wurde, die per Reverse Engineering aus Cybersuns Redspace Dread Suit gewonnen wurden; Live-Tests finden unter deiner Aufsicht statt.
+ntr-experimental-hardsuit-desc = Nanotrasen erprobt einen experimentellen Exoanzug aus Bluespace-leitfähigen Platten, die per Reverse Engineering aus Cybersuns Redspace-Schreckensanzug gewonnen wurden. Die Praxistests finden unter deiner Aufsicht statt.
 
 ntr-executive-cigar-name = Premium-Zigarrenetui
 ntr-executive-cigar-desc = Ein Standard-Premium-Zigarrenetui. Nur Führungskräfte dürfen diese in öffentlichen Bereichen rauchen.

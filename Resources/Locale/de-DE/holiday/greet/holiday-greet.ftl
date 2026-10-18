@@ -18,7 +18,7 @@ holiday-greet = Hab einen glücklichen {$holidayName}!
 holiday-name-new-year = Neues Jahr
 holiday-name-mister-lizard = Mister Lizards Geburtstag
 holiday-name-chinese-new-year = Chinesisches Neujahr
-holiday-name-groundhog-day = Groundhog Day
+holiday-name-groundhog-day = Murmeltiertag
 holiday-name-valentines-day = Valentinstag
 holiday-name-birthday13 = Geburtstag der Space Station 13
 holiday-name-random-kindness = Tag der zufälligen Freundlichkeit
@@ -85,10 +85,10 @@ holiday-name-pride-month = Pride-Monat
 ## Custom congrats
 
 holiday-custom-cosmonautics-day = An diesem Tag vor über 600 Jahren wagte sich Genosse Juri Gagarin zum ersten Mal in den Weltraum!
-holiday-custom-mothers-day = Happy Mother's Day in den meisten Amerikas, Asien und Ozeanien!
+holiday-custom-mothers-day = Alles Gute zum Muttertag in weiten Teilen Amerikas, Asiens und Ozeaniens!
 holiday-custom-bastille-day = Hörst du die Leute singen?
 holiday-custom-friendship-day = Hab einen magischen Freundschaftstag!
-holiday-custom-talk-like-a-pirate-day = Du redest heute wie ein Pirat oder sonst gehst du tha Plank, matey!
+holiday-custom-talk-like-a-pirate-day = Du sprichst heute wie ein Pirat, sonst gehst du über die Planke, Kamerad!
 holiday-custom-halloween = Gruseliges Halloween!
 holiday-custom-kindness-day = Mach ein paar zufällige Taten der Freundlichkeit für einen Fremden!
 holiday-custom-christmas = Fröhliche Weihnachten!

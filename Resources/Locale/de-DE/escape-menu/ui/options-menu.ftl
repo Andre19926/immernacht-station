@@ -163,7 +163,7 @@ ui-options-vp-vertical-fit-tooltip = Wenn aktiviert, ignoriert die Hauptansicht 
                                      wird sie horizontal abgeschnitten.
 ui-options-vp-low-res = Spielansicht mit niedriger Auflösung
 ui-options-parallax-low-quality = Parallax (Hintergrund) in niedriger Qualität
-ui-options-ambient-occlusion = Ambient Occlusion anzeigen
+ui-options-ambient-occlusion = Umgebungsverdeckung anzeigen
 ui-options-fps-counter = FPS-Anzeige einblenden
 ui-options-vp-width = Breite der Spielansicht:
 ui-options-hud-layout = HUD-Layout:
@@ -263,7 +263,7 @@ ui-options-function-toggle-round-end-summary-window = Rundenende-Zusammenfassung
 ui-options-function-open-entity-spawn-window = Entity-Spawn-Menü öffnen
 ui-options-function-open-sandbox-window = Sandbox-Menü öffnen
 ui-options-function-open-tile-spawn-window = Kachel-Menü öffnen
-ui-options-function-open-decal-spawn-window = Decal-Spawn-Menü öffnen
+ui-options-function-open-decal-spawn-window = Dekal-Spawn-Menü öffnen
 ui-options-function-open-admin-menu = Admin-Menü öffnen
 ui-options-function-open-guidebook = Handbuch öffnen
 ui-options-function-window-close-all = Alle Fenster schließen

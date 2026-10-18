@@ -14,7 +14,7 @@ blocking-reduction-value = - Es braucht [color=lightblue]{$value}[/color] wenige
 # Shown when examining the shield. Each entry represents the shield's health condition
 comp-shield-damaged-1 = Es sieht völlig intakt aus.
 comp-shield-damaged-2 = Es hat ein paar Kratzer.
-comp-shield-damaged-3 = Es hat ein paar kleine Löcher und Divots.
+comp-shield-damaged-3 = Er hat ein paar kleine Löcher und Dellen.
 comp-shield-damaged-4 = [color=yellow]Es hat mehrere Löcher und gebogene Teile.[/color]
 comp-shield-damaged-5 = [color=orange]Es hat tiefe Risse, mehrere Löcher und Teile davon sind abgebrochen.[/color]
 comp-shield-damaged-6 = [color=red]Es wurde extrem brutalisiert und fällt fast auseinander.[/color]

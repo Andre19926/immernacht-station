@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 silicon-emote-deathgasp = ergreift und fällt schlaff, {POSS-ADJ($entity)} Lichter sputtern in die Dunkelheit...
-chat-emote-msg-deathgasp-silicon =  plötzlich verstummt, mit einem Zischen von schleifenden Servos und einem Schrei von sterbenden Myomeren.
+chat-emote-msg-deathgasp-silicon = verstummt plötzlich, mit einem Zischen mahlender Servos und dem Kreischen sterbender Myomere.

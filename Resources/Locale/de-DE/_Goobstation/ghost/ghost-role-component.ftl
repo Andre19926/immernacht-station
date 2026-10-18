@@ -117,7 +117,7 @@ justice-role-description = Hilf dem HOS, Verhaftungen durchzuführen, indem du P
 
 ghost-role-information-ancient-queen-name = Alte Xeno Königin
 ghost-role-information-ancient-king-name = Der alte Xeno-König
-ghost-role-information-ancient-rogue-king-name = Der alte Rogue Xeno King
+ghost-role-information-ancient-rogue-king-name = Der uralte Abtrünnige Xeno-König
 
 ghost-role-information-ancient-xeno-description = Eine Kreatur, die als ausgestorben galt, und doch...
 ghost-role-information-ancient-rogue-king-description = Der einsame König, mit nichts als Rache im Blick. Zeige ihnen keine Gnade!

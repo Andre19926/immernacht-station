@@ -7,7 +7,7 @@ devil-sign-invalid-user = Du hast nicht die Macht, diesen Vertrag zu erfüllen!
 devil-contract-mind-shielded-failed = Eine Stimme kommt von deinem NanotrasenTM Mindshield. "Schöner Versuch."
 
 contract-summon-flavor = Die Hand von {$name} geht in Flammen auf, bevor sie eine schwarze Pergamentrolle enthüllt …
-burn-contract-prompt = Burn Contract.
+burn-contract-prompt = Vertrag verbrennen.
 burn-contract-popup-success = Der Vertrag bricht in Flammen auf! Es scheint, dass jemandes Schicksal besiegelt wurde ...
 burn-contract-popup-fail = Du kannst keinen Vertrag während eines Deals verbrennen!
 

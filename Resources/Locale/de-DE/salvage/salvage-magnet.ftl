@@ -12,7 +12,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 salvage-system-announcement-losing = Der Magnet ist nicht mehr in der Lage, die bergungsfähigen Trümmer zu halten. Geschätzte Zeit bis zum Verlust: {$timeLeft} Sekunden.
-salvage-system-announcement-spawn-debris-disintegrated = Debris zerfiel während des Orbitaltransfers.
+salvage-system-announcement-spawn-debris-disintegrated = Trümmer zerfielen während des Orbitaltransfers.
 salvage-system-announcement-spawn-no-debris-available = Kein Schutt konnte durch den Salvage-Magneten geborgen werden.
 salvage-system-announcement-arrived = Ein Stück bergungsfähiger Trümmer wurde hineingezogen. Geschätzte Haltezeit: {$timeLeft} Sekunden.
 salvage-asteroid-name = Asteroid

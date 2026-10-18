@@ -46,7 +46,7 @@ ui-vote-abuse-warning =
   Missbrauch des Votekick-Systems kann zu einem unbefristeten Bann führen!
 
 # Hue hue hue
-ui-vote-fluff = Angetrieben von RobustTM Anti-Tamper Technologie
+ui-vote-fluff = Angetrieben von RobustTM-Manipulationsschutz-Technologie
 
 ## Vote menu command
 

@@ -1,16 +1,16 @@
 ghost-role-information-slaughter-demon-name = Schlachtdämon
 ghost-role-information-slaughter-demon-description = Was für eine Zeit, am Leben zu sein! LASS DIESE WINZIGEN STERBLICHEN MEINEN WAHREN ZORN SPÜREN!
 ghost-role-information-slaughter-demon-rules =
-    LEHN DICH EINFACH ZURÜCK und genieße das Töten, denn sonst tut es niemand. Hier ein paar Dinge, die du dir merken solltest – von Dämon zu Dämon.
+    LEHN DICH EINFACH ZURÜCK UND GENIESSE DAS TÖTEN, DENN SONST TUT ES NIEMAND. EIN PAAR DINGE SOLLTEST DU TROTZDEM BEDENKEN – VON DÄMON ZU DÄMON.
         HIERARCHIE:
-        SO LÄUFT ES
+        SO LÄUFT DAS
             SATAN
-            DIE UNTERWELT
+            TEUFEL
             DÄMONENKÖNIG BUBBLEGUM
             DÄMONEN
             IMPS
-            DUMME GLIBBERKLUMPEN, die wir MENSCHEN nennen
-    Meine werten Mitdämonen, bitte [color=red]TÖTET EURESGLEICHEN NICHT[/color], denn Satan wird euch ganz schnell in der Unterwelt schnappen, so böse er auch ist.
+            DUMME GLIBBERKLUMPEN, DIE WIR MENSCHEN NENNEN
+    MEINE WERTEN MITDÄMONEN, BITTE [color=red]TÖTET KEINE TEUFEL[/color], DENN SATAN WIRD EUCH SOFORT ZERSCHMETTERN, SOBALD DER TEUFEL EUCH IN DER UNTERWELT VERPETZT.
 
 
 ghost-role-information-laughter-demon-name = Lachdämon

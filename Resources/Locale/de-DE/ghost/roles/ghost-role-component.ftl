@@ -181,16 +181,16 @@ ghost-role-information-tropico-name = Tropico
 ghost-role-information-tropico-description = Der edle Begleiter von Atmosia und sein standhaftster Verteidiger. Viva!
 
 ghost-role-information-guardian-name = Wächter
-ghost-role-information-guardian-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Punch Leute hart.
+ghost-role-information-guardian-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Schlage Leute hart.
 
 ghost-role-information-holoparasite-name = Holoparasit
-ghost-role-information-holoparasite-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Punch Leute hart.
+ghost-role-information-holoparasite-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Schlage Leute hart.
 
 ghost-role-information-holoclown-name = Holoclown
 ghost-role-information-holoclown-description = Höre auf deinen Besitzer. Verwende deine Taschen und Hand, um deinem Besitzer zu helfen.
 
 ghost-role-information-ifrit-name = Ifrit
-ghost-role-information-ifrit-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Punch Leute hart.
+ghost-role-information-ifrit-description = Höre auf deinen Besitzer. Tanke keinen Schaden. Schlage Leute hart.
 
 ghost-role-information-space-dragon-name = Weltraumdrache
 ghost-role-information-space-dragon-description = Rufe 3 Karpfenrisse herbei und übernimm diesen Quadranten! Du hast zwischen den Rissen nur je 5 Minuten, bevor du verschwindest.
@@ -257,7 +257,7 @@ ghost-role-information-hellspawn-description = Bringt den Tod denen, die dem gro
 
 # Goob Station - Deathsquad Revamp
 
-ghost-role-information-Death-Squad-name = Death Squad Chirurg
+ghost-role-information-Death-Squad-name = Todesschwadron-Agent
 ghost-role-information-Death-Squad-description = Wir brauchen den Nanotrasen-Vertreter am Leben, um uns zu sagen, was passiert ist. Der Rest? Nun ... sie sind Zeugen.
 ghost-role-information-Death-Squad-rules = Deine Ziele sind einfach: [color=red][bold]Eliminiere[/bold][/color] alle, die nicht zum Personal des Central Command gehören. Exekutivbefehle können das ändern.
 
@@ -281,7 +281,7 @@ ghost-role-information-syndicate-reinforcement-name = Syndicate-Agent
 ghost-role-information-syndicate-reinforcement-description = Jemand braucht Verstärkung. Du, die erste Person, die das Syndicate finden könnte, wirst ihnen helfen.
 ghost-role-information-syndicate-reinforcement-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit dem Agenten, der dich gerufen hat.
 
-ghost-role-information-syndicate-reinforcement-medic-name = Syndicate Medicate
+ghost-role-information-syndicate-reinforcement-medic-name = Syndicate-Sanitäter
 ghost-role-information-syndicate-reinforcement-medic-description = Jemand braucht Verstärkung. Deine Aufgabe ist es, den Agenten, der dich gerufen hat, am Leben zu halten.
 
 ghost-role-information-syndicate-reinforcement-spy-name = Syndicate-Spion
@@ -304,7 +304,7 @@ ghost-role-information-syndicate-cyborg-assault-name = Syndicate-Sturm-Cyborg
 ghost-role-information-syndicate-cyborg-saboteur-name = Syndicate-Saboteur-Cyborg
 ghost-role-information-syndicate-cyborg-description = Das Syndicate braucht Verstärkung. Du bist eine kalte Tötungsmaschine aus Silizium und hilfst ihnen.
 
-ghost-role-information-derelict-engineering-cyborg-name = Derelict Ingenieur Cyborg
+ghost-role-information-derelict-engineering-cyborg-name = Verlassener Ingenieur-Cyborg
 ghost-role-information-derelict-engineering-cyborg-description = Du bist ein Ingenieur Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
 ghost-role-information-derelict-cyborg-name = Verlassener Standard-Cyborg
@@ -319,7 +319,7 @@ ghost-role-information-derelict-medical-cyborg-description = Du bist ein medizin
 ghost-role-information-derelict-mining-cyborg-name = Verlassener Salvage-Cyborg
 ghost-role-information-derelict-mining-cyborg-description = Du bist ein Rettungscyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
-ghost-role-information-derelict-syndicate-assault-cyborg-name = Derelict Syndicate Asault Cyborg
+ghost-role-information-derelict-syndicate-assault-cyborg-name = Verlassener Syndicate-Sturm-Cyborg
 ghost-role-information-derelict-syndicate-assault-cyborg-description = Du bist ein frühes Modell Syndicate Angriff Cyborg, der im Weltraum verloren ging. Nach Jahren der Exposition gegenüber Ionenstürmen findest du dich in der Nähe einer Raumstation.
 
 ghost-role-information-security-name = Sicherheit
@@ -369,13 +369,13 @@ ghost-role-information-syndie-disaster-victim-name = Syndicate Katastrophenopfer
 ghost-role-information-syndie-disaster-victim-description = Du bist ein regelmäßiger Assistent von einer Syndicate-Station. Du hast von deiner Heimatstation übergelaufen und befanden dich in unbekanntem Gebiet...
 
 ghost-role-information-syndie-soldier-name = Syndicate-Soldaten
-ghost-role-information-syndie-soldier-description = Du bist ein Soldat des Syndicate-S.
+ghost-role-information-syndie-soldier-description = Du bist ein Soldat des Syndicate.
 
 ghost-role-information-syndie-soldier-teamlead-name = Syndicate-Truppführer
-ghost-role-information-syndie-soldier-teamlead-description = Du bist der Feuerwehrleiter einer operativen Taskforce von Syndicate.
+ghost-role-information-syndie-soldier-teamlead-description = Du bist der Truppführer einer Einsatz-Taskforce des Syndicate.
 
 ghost-role-information-blackmarketeer-name = Schwarzmarkthändler
-ghost-role-information-blackmarketeer-description = Mache Trades oder nimm ungerade Jobs an, um die interessantesten Artikel am Ende der Schicht zu sammeln.
+ghost-role-information-blackmarketeer-description = Mache Tauschgeschäfte oder übernimm Gelegenheitsjobs, um bis zum Schichtende die interessantesten Gegenstände zu sammeln.
 
 ghost-role-information-cossack-name = Alte Reisende
 ghost-role-information-cossack-description = Von einer Geschichte, die mit der Zeit verloren geht, finde dich in diesen Tag und Zeitalter geworfen.
@@ -388,7 +388,7 @@ ghost-role-information-pirate-irs-captain-description = Lenke den Plünderungspr
 
 ghost-role-information-pirate-irs-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] mit den anderen Piraten.
 
-ghost-role-information-artifact-name = Sentient-Artefakt
+ghost-role-information-artifact-name = Empfindungsfähiges Artefakt
 ghost-role-information-artifact-description = Setze deine unheimlichen Launen um. Aktiviere deine Knoten gewaltsam zum Guten oder zum Bösen.
 
 ghost-role-information-tomatokiller-name = Tomatenmörder

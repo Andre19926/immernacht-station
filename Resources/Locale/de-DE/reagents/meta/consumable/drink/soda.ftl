@@ -33,7 +33,7 @@ reagent-desc-ice-cream = Es war entweder dies oder die Mikrowelle, und niemand w
 reagent-name-lemon-lime = Smite
 reagent-desc-lemon-lime = Tangy Limette und Zitronen-Soda.
 
-reagent-name-lemon-lime-cranberry = Strafe-Cranberry
+reagent-name-lemon-lime-cranberry = Zitrone-Limette-Cranberry
 reagent-desc-lemon-lime-cranberry = Herbe Cranberry, Weihnachten und ein Hauch von Zitrone und Limette.
 
 reagent-name-pwr-game = PWR-Spiel
@@ -64,5 +64,5 @@ reagent-name-fourteen-loko = Vierzehn Loko
 reagent-desc-fourteen-loko = Eine hochverarbeitete flüssige Substanz, die kaum intergalatische Gesundheitsstandards für ein Softdrink erfüllt.
 
 reagent-name-shamblers-juice = Shambler-Saft
-reagent-desc-shamblers-juice = Schütteln dich mir etwas von diesem Shambler's Juice!
+reagent-desc-shamblers-juice = ~Schüttel mir ordentlich was von diesem Shambler's Juice!~
 

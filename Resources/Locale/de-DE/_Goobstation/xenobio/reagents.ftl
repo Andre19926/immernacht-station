@@ -32,4 +32,4 @@ xenobio-reagent-toxin-advanced-name = Fortgeschrittenes Mutationstoxin
 xenobio-reagent-toxin-advanced-desc = Verwandelt jeden Humanoiden, der genug davon aufnimmt, in eine zufällige Spezies. Ja, sogar ein Skelett. Frag nicht wie.
 
 xenobio-reagent-genderfluid-name = Geschlechtsflüssigkeit
-xenobio-reagent-genderfluid-desc = Swaps geschlechter der person, die es einnimmt. Wenn dies vor 100 Jahren existiert hätte, hätte die Menschheit wahrscheinlich den Weltfrieden erreicht.
+xenobio-reagent-genderfluid-desc = Vertauscht die Geschlechter der Person, die es einnimmt. Hätte es das vor 100 Jahren gegeben, hätte die Menschheit wahrscheinlich den Weltfrieden erreicht.

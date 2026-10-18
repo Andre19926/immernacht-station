@@ -37,7 +37,7 @@ job-description-hecu = Erfülle die Befehle deines Vorgesetzten, unabhängig von
 job-description-conquest = Steh bereit für meine Ankunft, Wurm.
 job-description-mercenarycaptain = Bestelle andere Söldner herum. Handeln dich als Muskel für den Höchstbietenden. Nur weil es jetzt NT ist, heißt das nicht, dass es sich später nicht ändern wird.
 job-description-roboticist = Baue und warte Cyborgs und Mechs. Halte die KI in Schach.
-job-description-radiohost = Hoste die Stationen lokalen Radiosender, spielen Vinyls, interviewe die Crew, nimm Faxe und führe Anzeigen, um die beste Radiosendung auf der Station zu machen.
+job-description-radiohost = Betreibe den lokalen Radiosender der Station, spiele Schallplatten, interviewe die Crew, nimm Faxe entgegen und schalte Werbung, um die beste Radiosendung der Station zu machen.
 
 # Viro
 job-description-virologist = Studiere die Verbreitung von Viren, produziere Heilmittel für kranke Crewmitglieder, experimentiere mit der Schaffung nützlicher Viren. Stelle sicher, dass sich Pandemien nicht ausbreiten.

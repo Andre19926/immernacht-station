@@ -6,5 +6,5 @@
 # SPDX-License-Identifier: MIT
 
 bucket-component-bucket-is-empty-message = Eimer ist leer
-bucket-component-mop-is-now-wet-message = Mop ist jetzt nass
-bucket-component-mop-is-now-dry-message = Mop ist jetzt trocken
+bucket-component-mop-is-now-wet-message = Der Mopp ist jetzt nass
+bucket-component-mop-is-now-dry-message = Der Mopp ist jetzt trocken

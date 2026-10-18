@@ -24,5 +24,5 @@ thankyou-snack-1 = Iss auf!
 thankyou-snack-2 = Viel Spaß mit deinem Produkt!
 thankyou-snack-3 = Lass dir den Snack schmecken.
 thankyou-snack-4 = Köstlich!
-thankyou-snack-5 = Yummy!
+thankyou-snack-5 = Lecker!
 thankyou-snack-6 = Vielen Dank für den Kauf unserer Snacks!

@@ -18,7 +18,7 @@
 bwoink-user-title = Admin-Hilfe
 bwoink-admin-title = AHelp
 
-bwoink-system-starmute-message-no-other-users = *System: Niemand ist verfügbar, um deine Nachricht zu erhalten. Versuch, die Game Admins auf Discord anzupingen.
+bwoink-system-starmute-message-no-other-users = *System: Niemand ist verfügbar, um deine Nachricht zu erhalten. Versuche, die Spiel-Admins auf Discord anzupingen.
 
 bwoink-system-messages-being-relayed-to-discord =
     Alle Nachrichten werden über Discord an die Admins weitergeleitet.

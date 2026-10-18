@@ -8,7 +8,7 @@ uplink-silent-shoes-name = Lautlose Schuhe
 uplink-silent-shoes-desc = Eine stille Drohung. Niemand wird dich in diesem speziellen Paar Schuhe kommen hören.
 
 uplink-utility-knife-name = Chemisches Gebrauchsmesser
-uplink-utility-knife-desc = Ein Gebrauchsmesser mit speziellen Rillen, die bis zu 10 μ jeder Chemikalie halten können.
+uplink-utility-knife-desc = Ein Gebrauchsmesser mit speziellen Rillen, die bis zu 10u jeder Chemikalie halten können.
 
 uplink-appraisal-tool-jammer-name = Appraising Tool Radio Jammer
 uplink-appraisal-tool-jammer-desc = Ein Funkstörsender, versteckt in einem Schätzwerkzeug. Du kannst damit ihre Kommunikation stören und gleichzeitig den Preis der Leiche prüfen!

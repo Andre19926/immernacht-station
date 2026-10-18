@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # UI
-ban-list-bans = Banns
+ban-list-bans = Banne
 ban-list-role-bans = Rollenbans
 
 ban-list-header-ids = IDs

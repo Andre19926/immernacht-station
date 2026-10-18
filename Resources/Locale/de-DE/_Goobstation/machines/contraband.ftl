@@ -6,7 +6,7 @@
 
 signal-port-name-contraband-detected = Schmuggelwarenerkennung
 signal-port-description-contraband-detected = Sendet ein Signal, wenn Schmuggelartikel vom Scanner erkannt werden.
-contraband-detector-popup-detected = Contraband gefunden
+contraband-detector-popup-detected = Schmuggelware entdeckt
 
 contraband-detector-construction-name = Schmuggeldetektor
 contraband-detector-construction-desc = Ein Sicherheitsgerät, das nach Schmuggelartikeln sucht.

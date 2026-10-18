@@ -1,5 +1,5 @@
 trigger-on-voice-examine = Das Display zeigt: „{$keyphrase}“
-trigger-on-voice-uninitialized = Auf dem Display steht: Uninitialized...
+trigger-on-voice-uninitialized = Auf dem Display steht: Uninitialisiert ...
 
 trigger-on-voice-record = Aufzeichnung
 trigger-on-voice-stop = Stopp

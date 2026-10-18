@@ -26,10 +26,10 @@ reagent-name-syriniver = Syriniver
 reagent-desc-syriniver = Ein experimentelles Antipoison, das Toxin-basiertes Zellversagen repariert, unabhängig davon, ob der Patient lebt. Hat eine schrecklich niedrige Überdosis und verursacht interne Blutungen, wenn sie sogar in Spurenmengen injiziert werden.
 
 reagent-name-musiver = Musiver
-reagent-desc-musiver = Schnell wirkendes Antitoxin abgelagert im Gefolge von Syriniver. Passiv heilt Zellschäden, während alle anderen fremden Reagenzien aus dem Blutkreislauf entfernt werden.
+reagent-desc-musiver = Schnell wirkendes Antitoxin, das im Gefolge von Syriniver entsteht. Heilt passiv Zellschäden und entfernt gleichzeitig alle anderen fremden Reagenzien aus dem Blutkreislauf.
 
 reagent-name-multiver = Multiversum
-reagent-desc-multiver = Drug Zweck gebaut, um gefährliche chemische Mischungen zu reinigen. Kann gegen einfache Vergiftungen verwendet werden, aber es wird empfohlen, es mit anderen Chemikalien für eine höhere Effizienz zu mischen.
+reagent-desc-multiver = Ein eigens entwickelter Wirkstoff zur Reinigung gefährlicher Chemikalienmischungen. Kann gegen einfache Vergiftungen eingesetzt werden, sollte aber für höhere Wirksamkeit mit anderen Chemikalien gemischt werden.
 
 reagent-name-monover = Monovers
 reagent-desc-monover = Relativ geringe Komplexität Anti-Gift-Medikament, das aufhört, in unreinen Umgebungen zu arbeiten. Seine Nebenwirkungen können möglicherweise verwendet werden, um schnell zu überprüfen, ob der Blutkreislauf von Chemikalien sauber ist.
@@ -98,7 +98,7 @@ reagent-name-herignis = Herignis
 reagent-desc-herignis = Kann die meisten gekühlten Echsen auftauen, empfohlen, nur in kleinen Dosen zu verwenden, da es seinen Metabolisierer schnell auf gefährliche Werte erhitzen kann.
 
 reagent-name-immurin = Immurin
-reagent-desc-immurin = Eine Chemikalie, die dein Immunsystem stärkt und es schneller und härter arbeiten lässt. Der Boost bleibt für einige Zeit, auch nachdem die Chemikalie metabolisiert hat. Schmeckt schrecklich.
+reagent-desc-immurin = Eine Chemikalie, die dein Immunsystem stärkt und es schneller und härter arbeiten lässt. Die Stärkung hält noch einige Zeit an, auch nachdem die Chemikalie abgebaut wurde. Schmeckt furchtbar.
 
 reagent-name-spaceacilin = Spaceacilin
 reagent-desc-spaceacilin = Häufig verwendete und wirksame antibakterielle Medizin. Schwächt leicht deine Immunität.

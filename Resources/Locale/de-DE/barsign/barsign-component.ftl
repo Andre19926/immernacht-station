@@ -48,7 +48,7 @@ barsign-prototype-name-robusta-cafe = Das Robusta Cafe
 barsign-prototype-description-robusta-cafe = Halter der "Tödlichsten Barkämpfe" Rekord 5 Jahre unangefochten.
 
 ## Emergency Rum Party
-barsign-prototype-name-emergency-rum-party = Die Emergency Rum Party
+barsign-prototype-name-emergency-rum-party = Die Notfall-Rum-Party
 barsign-prototype-description-emergency-rum-party = Kürzlich nach einer langen Schließung relizenziert.
 
 ## The Combo Cafe
@@ -64,7 +64,7 @@ barsign-prototype-name-the-net = Das Netz
 barsign-prototype-description-the-net = Du scheinst nur stundenlang darin gefangen zu sein.
 
 ## Maid Cafe
-barsign-prototype-name-maid-cafe = Maid Cafe
+barsign-prototype-name-maid-cafe = Maid-Café
 barsign-prototype-description-maid-cafe = Willkommen zurück, Meister!
 
 ## Maltese Falcon

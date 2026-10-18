@@ -29,7 +29,7 @@ reagent-name-raw-egg = rohe Eier
 reagent-desc-raw-egg = Wird zum Backen verwendet.
 
 reagent-name-sugar = Zucker
-reagent-desc-sugar = Schmackhafter spacey Zucker!
+reagent-desc-sugar = Köstlicher Weltraumzucker!
 
 reagent-name-blackpepper = Schwarzer Pfeffer
 reagent-desc-blackpepper = Oft verwendet, um Essen zu würzen oder Menschen zum Niesen zu bringen.
@@ -47,7 +47,7 @@ reagent-name-oil = Öl
 reagent-desc-oil = Wird von Köchen zum Kochen verwendet.
 
 reagent-name-capsaicin-oil = Capsaicinöl
-reagent-desc-capsaicin-oil = Capsaicin Öl ist die Zutat in verschiedenen Arten von Paprika gefunden.
+reagent-desc-capsaicin-oil = Capsaicinöl ist der Inhaltsstoff, der in verschiedenen Chilisorten steckt.
 
 reagent-name-frost-oil = Frostöl
 reagent-desc-frost-oil = Frost Öl ist die Zutat, die in kalten Paprika gefunden wird, einer seltenen Pfeffermutation.

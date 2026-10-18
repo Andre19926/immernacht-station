@@ -7,7 +7,7 @@ loadout-traitor-uplink-pda-desc = Dein Uplink wird in deinem PDA versteckt. Gib 
 
 # Pen Uplink Option
 loadout-traitor-uplink-pen-name = Stift-Uplink
-loadout-traitor-uplink-pen-desc = Dein Uplink wird in einem Stift versteckt. Spin zu deinem Code zum Entsperren. Auto-Locks wenn geschlossen.
+loadout-traitor-uplink-pen-desc = Dein Uplink wird in einem Stift versteckt. Drehe den Stift auf deinen Code, um ihn zu entsperren. Sperrt automatisch, wenn er geschlossen wird.
 
 # Implant Uplink Option
 loadout-traitor-uplink-implant-name = Subdermales Implantat

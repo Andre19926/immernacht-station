@@ -56,7 +56,7 @@ slasher-soulsteal-success-victim = Du fühlst, wie sich ein Stück deiner Seele 
 slasher-soulsteal-fail-not-valid = Dies ist kein gültiges Ziel!
 slasher-soulsteal-unlock-possession = Deine Macht wächst. Du kannst jetzt Lebende besitzen!
 slasher-soulsteal-ascendance = Kritischer Alarm: Massive psychische Störung erkannt. Ein Wesen von beispielloser bösartiger Macht hat eine kritische Masse erreicht. Allen Mitarbeitern wird empfohlen, sich zu bewaffnen und in Gruppen zu reisen.
-slasher-soulsteal-ascendance-clown = Kritische Warnung: Beispiellose HONK-Leistung erkannt. Alle Mitarbeiter werden darauf hingewiesen, dass etwas tief Verstörtes an Bord ist. Brace für Impact. HONK.
+slasher-soulsteal-ascendance-clown = Kritische Warnung: Beispiellose HONK-Leistung erkannt. Das gesamte Personal wird darauf hingewiesen, dass sich etwas zutiefst Wahnsinniges an Bord befindet. Auf den Aufprall vorbereiten. HONK.
 
 slasher-massacre-start = Ein Energieschub füllt die Luft!
 slasher-massacre-end = Die Atmosphäre kehrt zur Normalität zurück.

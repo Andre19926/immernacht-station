@@ -17,7 +17,7 @@ unfold-verb = Auffalten
 
 fold-flip-verb = Umdrehen
 
-fold-zip-verb = Zip up
+fold-zip-verb = Zuziehen
 fold-unzip-verb = Öffnen
 
 fold-verb-clothing-jacket = Jacke ausziehen

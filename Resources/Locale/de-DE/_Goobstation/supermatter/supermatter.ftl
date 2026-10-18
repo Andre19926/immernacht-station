@@ -18,16 +18,16 @@ supermatter-emergency =
     GEFAHR! Kristall-Hyperstruktur-Integrität erreicht kritische Ebenen! Integrität: {$integrity}%.
 
 supermatter-delam-explosion =
-    CRYSTAL DELAMINATION IMMINENT! Der Kristall hat den kritischen Integritätsfehler erreicht! Notfall Kausalität Destabilisierung Feld wurde engagiert.
+    KRISTALL-DELAMINATION STEHT BEVOR! Der Kristall hat einen kritischen Integritätsausfall erreicht! Das Notfall-Kausalitäts-Destabilisierungsfeld wurde aktiviert.
 
 supermatter-delam-overmass =
-    CRYSTAL DELAMINATION IMMINENT! Kristall-Hyperstruktur-Integrität hat kritisches Massenversagen erreicht! Singularitätsbildung steht bevor!
+    KRISTALL-DELAMINATION STEHT BEVOR! Die Integrität der Kristall-Hyperstruktur hat kritisches Massenversagen erreicht! Singularitätsbildung steht bevor!
 
 supermatter-delam-tesla =
-    CRYSTAL DELAMINATION IMMINENT! Kristall-Hyperstruktur-Integrität hat kritische Power Surge Ausfall erreicht! Energieballbildung steht bevor!
+    KRISTALL-DELAMINATION STEHT BEVOR! Die Integrität der Kristall-Hyperstruktur hat kritischen Leistungsspitzen-Ausfall erreicht! Energieballbildung steht bevor!
 
 supermatter-delam-cascade =
-    CRYSTAL DELAMINATION IMMINENT! Harmonische Frequenzgrenzen überschritten, Unfall Destabilisierungsfeld konnte nicht eingeschaltet werden!
+    KRISTALL-DELAMINATION STEHT BEVOR! Harmonische Frequenzgrenzen überschritten, das Unfall-Destabilisierungsfeld konnte nicht aktiviert werden!
 
 supermatter-delam-cancel =
     Kristalline Hyperstruktur kehrt zu sicheren Betriebsparametern zurück Failsafe wurde ausgeschaltet. Integrität: {$integrity}%.

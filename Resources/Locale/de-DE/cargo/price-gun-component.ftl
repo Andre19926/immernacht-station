@@ -14,5 +14,5 @@
 price-gun-pricing-result = Das Gerät schätzt {THE($object)} auf {$price} Spesos.
 price-gun-verb-text = Schätzung
 price-gun-verb-message = {THE($object)} schätzen.
-price-gun-bounty-complete = Das Gerät bestätigt, dass das darin enthaltene Bounty abgeschlossen ist.
+price-gun-bounty-complete = Das Gerät bestätigt, dass der darin enthaltene Auftrag abgeschlossen ist.
 price-gun-salvjob-complete = Das Gerät bestätigt, dass der darin enthaltene Salvage-Auftrag abgeschlossen ist.

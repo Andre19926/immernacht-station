@@ -25,6 +25,6 @@ sealable-clothing-unsealed-process-toggle-fail = Suit startet bereits!
 sealable-clothing-sealed-toggle-fail = Deaktiviere zuerst den Anzug!
 sealable-clothing-seal-was-broken = Das Siegel im Anzug bricht!
 
-sealable-clothing-not-powered = Suit ist nicht powered!
+sealable-clothing-not-powered = Der Anzug hat keinen Strom!
 sealable-clothing-open-sealed-panel-fail = Die Verdrahtung ist zu dicht versiegelt!
 sealable-clothing-close-panel-first = Schließe das Verdrahtungspanel zuerst!

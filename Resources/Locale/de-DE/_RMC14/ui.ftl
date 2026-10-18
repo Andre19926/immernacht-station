@@ -17,8 +17,8 @@ rmc-ui-lobby-message-description = Wird den Spielern angezeigt, bevor das Spiel 
   Einer wird zufällig zwischen allen Patrons dieser Stufe gewählt.
   Stelle sicher, dass die von dir gewählte Nachricht nicht gegen die Regeln verstößt.
   Wenn du dich nicht sicher bist, frage in AHELP! (F1)
-rmc-ui-shoutout = Round-End-Shoutout
-rmc-ui-shoutout-nt-title = Name für das Round-End Nanotrasen Shoutout zu verwenden.
+rmc-ui-shoutout = Shoutout am Rundenende
+rmc-ui-shoutout-nt-title = Name, der für den Nanotrasen-Shoutout am Rundenende verwendet wird.
 rmc-ui-shoutout-nt-description = Gezeigt am runden Ende als "Nanotrasen finanziert von:" dann deinen Namen.
 rmc-ui-shoutout-example = Beispiel:
 rmc-ui-shoutout-info = Jeder Name wird zufällig unter allen Patrons dieser Stufe ausgewählt.

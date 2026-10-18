@@ -20,7 +20,7 @@ gemini-projector-regenerate-verb-text = Regeneriere den aktuellen Klon, halte se
 gemini-projector-reboot-verb = Persönlichkeit neu kalibrieren
 gemini-projector-reboot-verb-text = Rekalibriere die Persönlichkeit des aktuellen Klons und gib ihm einen brandneuen Geist. Das kann nicht rückgängig gemacht werden.
 
-ghost-role-information-gemini-clone-name = Gemini Hologram
+ghost-role-information-gemini-clone-name = Gemini-Hologramm
 ghost-role-information-gemini-clone-description = Unterstütze den Forschungsdirektor bei allen seinen Aufgaben. Vielleicht brennen eine Stadt oder zwei, wenn sie wollen.
 
 ghost-role-information-monozygotic-clone-name = Monozygotes Hologramm

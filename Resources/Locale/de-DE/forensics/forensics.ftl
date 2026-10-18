@@ -32,7 +32,7 @@ forensic-pad-already-used = Dieses Pad wurde bereits verwendet.
 forensic-scanner-match-fiber = Übereinstimmung in Faser gefunden!
 forensic-scanner-match-fingerprint = Übereinstimmung im Fingerabdruck gefunden!
 forensic-scanner-match-none = Keine Übereinstimmung gefunden!
-forensic-scanner-printer-not-ready = Printer ist noch nicht fertig.
+forensic-scanner-printer-not-ready = Der Drucker ist noch nicht bereit.
 forensic-scanner-verb-text = Scannen
 forensic-scanner-verb-message = Forensischen Scan durchführen
 

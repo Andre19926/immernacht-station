@@ -17,6 +17,6 @@ space-villain-game-player-loses-message = Du hast verloren!
 space-villain-game-enemy-cheers-message = {$enemyName} Beifall.
 space-villain-game-enemy-dies-with-player-message = {$enemyName} Stirbt, aber nimmt dich mit ihm.
 space-villain-game-enemy-throws-bomb-message = {$enemyName} wirft eine Bombe, die dir {$damageReceived} Schaden zufügt!
-space-villain-game-enemy-steals-player-power-message = {$enemyName} Steals {$stolenAmount} Deiner Macht!
+space-villain-game-enemy-steals-player-power-message = {$enemyName} stiehlt dir {$stolenAmount} deiner Macht!
 space-villain-game-enemy-heals-message = {$enemyName} heilt für {$healedAmount} Gesundheit!
 space-villain-game-enemy-attacks-message = {$enemyName} greift dich an für {$damageDealt} Schaden!

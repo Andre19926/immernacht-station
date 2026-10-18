@@ -6,5 +6,5 @@ criminal-name-error = Kein Name in Strafregistern entdeckt
 criminal-records-status-demote = Demontage
 criminal-records-console-demote-reason = Demontagegrund
 
-criminal-records-console-demote = {$name} ({$job}) wurde mit Degradation gekennzeichnet wegen: {$reason}.
-criminal-records-console-not-demoted = {$name} ({$job}) ist nicht mehr mit Demotion gekennzeichnet.
+criminal-records-console-demote = {$name} ({$job}) wurde zur Degradierung vorgemerkt: {$reason}.
+criminal-records-console-not-demoted = {$name} ({$job}) ist nicht mehr zur Degradierung vorgemerkt.

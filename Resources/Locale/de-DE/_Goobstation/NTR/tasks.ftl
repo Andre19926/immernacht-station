@@ -23,41 +23,41 @@ task-ntr-weh-name = Schicke Weh Saft an CentComm
 task-ntr-weh-desc = Sende ein Fläschchen mit 30u Weh Saft an CC für Wehwehweh
 
 task-ntr-hew-name = Sende heW Saft an CentComm
-task-ntr-hew-desc = Sende ein Fläschchen mit 30 μ Saft an CC für Wehwehweh
+task-ntr-hew-desc = Sende ein Fläschchen mit 30u Saft an CC für Wehwehweh
 
-task-ntr-ethyl-desc = Sende ein Fläschchen mit 30 μ Ethylredoxrazin für etwas Wichtiges.
+task-ntr-ethyl-desc = Sende ein Fläschchen mit 30u Ethylredoxrazin für etwas Wichtiges.
 
-task-ntr-ipecac-desc = Sende ein Fläschchen mit 30 μ Ipecac für Verhöre.
+task-ntr-ipecac-desc = Sende ein Fläschchen mit 30u Ipecac für Verhöre.
 
-task-ntr-tr-acid-desc = Sende ein Fläschchen mit 30 μ Tranexamsäure für die Lagersicherheit.
+task-ntr-tr-acid-desc = Sende ein Fläschchen mit 30u Tranexamsäure für die Lagersicherheit.
 
 task-ntr-sigynate-desc = Sende ein Fläschchen mit 30u Sigynate für die Lagersicherheit.
 
-task-ntr-dexalin-desc = Sende ein Fläschchen mit 30 μ Dexalin Plus an CentComm.
+task-ntr-dexalin-desc = Sende ein Fläschchen mit 30u Dexalin Plus an CentComm.
 
 task-ntr-cogni-name = Cognizine an CentComm senden
-task-ntr-cogni-desc = Sende ein Fläschchen mit mindestens 10 μ Cognizine zur Forschung.
+task-ntr-cogni-desc = Sende ein Fläschchen mit mindestens 10u Cognizine zur Forschung.
 
 task-ntr-holy-name = Sende Weihwasser an CentComm
 task-ntr-holy-desc = Sende ein Fläschchen mit 30u Weihwasser für die Forschung.
 
 task-ntr-razorium-name = Razorium an CentComm senden
-task-ntr-razorium-desc = Sende einen Krug mit 100 μ Razorium an CC für eine Clown-Hinrichtung.
+task-ntr-razorium-desc = Sende einen Krug mit 100u Razorium an CC für eine Clown-Hinrichtung.
 
 task-ntr-punct-name = Sende Puncturase an CentComm
-task-ntr-punct-desc = Sende einen Krug mit 100 μ Puncturase an CC, um ERT mit Chems zu bestücken.
+task-ntr-punct-desc = Sende einen Krug mit 100u Puncturase an CC, um ERT mit Chems zu bestücken.
 
 task-ntr-trico-name = Tricordrazin an CentComm senden
-task-ntr-trico-desc = Sende einen Krug mit 100 μ Tricordrazin an CC für Trainingszwecke.
+task-ntr-trico-desc = Sende einen Krug mit 100u Tricordrazin an CC für Trainingszwecke.
 
 task-ntr-meth-name = Meth an CentComm senden
-task-ntr-meth-desc = Sende einen Krug mit 100 μ Desoxyephedrin an CC für [REDACTED].
+task-ntr-meth-desc = Sende einen Krug mit 100u Desoxyephedrin an CC für [REDACTED].
 
 task-ntr-thc-name = THC an CentComm senden
-task-ntr-thc-desc = Sende einen Krug mit 100 μ THC an CC für eine "Special Party".
+task-ntr-thc-desc = Sende einen Krug mit 100u THC an CC für eine „spezielle Party“.
 
 # Drink descriptions
-task-ntr-kira-special-desc = Sende 30u Kira Special Cocktail an CC.
+task-ntr-kira-special-desc = Sende 30u Kira-Special-Cocktail an CC.
 task-ntr-nuclear-cola-desc = Sende 30u Nuclear Cola an CC. Streng geheim!
 task-ntr-gildlager-desc = Liefere 30u Gildlager-Bier zur Qualitätskontrolle.
 task-ntr-grog-desc = Liefere 30u authentischen Space Grog.
@@ -67,9 +67,9 @@ task-ntr-long-island-desc = Reiche 30u Long Island Iced Tea ein.
 task-ntr-manhattan-desc = 30u Manhattan Cocktail für VIP-Party benötigt.
 task-ntr-manly-dorf-desc = Beschaffe 30u Manly-Dorf-Gebräu.
 task-ntr-pina-colada-desc = 30u von Pina Colada für tropische Forschung.
-task-ntr-cogchamp-desc = Sammle 30 μ CogChamp-Energydrink.
-task-ntr-singulo-desc = 30u Singularity Bomb Cocktail - Mit Sorgfalt handhaben!
-task-ntr-tequila-sunrise-desc = 30u von Tequila Sunrise für Sonnenaufgangssimulation.
-task-ntr-white-russian-desc = Der Dude bleibt - 30u von White Russian erforderlich.
-task-ntr-budget-insuls-desc = 30u Budget-Insulation-Getränk für Tider.
+task-ntr-cogchamp-desc = Sammle 30u CogChamp-Energydrink.
+task-ntr-singulo-desc = 30u Singularity-Bomb-Cocktail – mit Vorsicht behandeln!
+task-ntr-tequila-sunrise-desc = 30u Tequila Sunrise für die Sonnenaufgangssimulation.
+task-ntr-white-russian-desc = Der Dude abides – 30u White Russian erforderlich.
+task-ntr-budget-insuls-desc = 30u Budget-Isolier-Getränk für Tider.
 task-ntr-zombie-cocktail-desc = EXTREME 30u Zombie Cocktail!

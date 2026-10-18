@@ -1,17 +1,17 @@
 xenomorphs-announcement = Warnung: Feindliche Biosignaturen entdeckt. Unbekannte Wesen bewegen sich durch die Lüftungsschächte und Wartungsgänge der Station. Alle Mitarbeiter: Sperrprotokolle einleiten und abgelegene Bereiche meiden.
 xenomorphs-no-more-threat-announcement = Nach Daten unserer Fernsensoren wurden alle Xenomorphen eliminiert.
 xenomorphs-win-announcement-shuttle-call =
-    Alarm: Die Station wurde vom Black Swarm verbraucht. Alle übrigen Mitarbeiter werden angewiesen, den Kernspaltungssprengstoff zu bewaffnen und sofort zum Evakuierungs-Shuttle zu gehen.
+    ALARM: Die Station wurde vom Schwarzen Schwarm verschlungen. Alle übrigen Mitarbeiter werden angewiesen, den Kernspaltungssprengstoff scharf zu machen und sofort zum Evakuierungsshuttle zu gehen.
 
-    Colonial Marines wurden kontaktiert und werden innerhalb von zwei Wochen eintreffen.
+    Die Colonial Marines wurden kontaktiert und treffen innerhalb von zwei Wochen ein.
 
-    Der Evakuierungs-Shuttle wird ankommen {$time} {$units}.
+    Das Evakuierungsshuttle trifft in {$time} {$units} ein.
 xenomorphs-win-announcement =
-    Alarm: Die Station wurde vom Black Swarm verbraucht. Alle übrigen Mitarbeiter werden angewiesen, den Kernspaltungssprengstoff zu bewaffnen und sofort zum Evakuierungs-Shuttle zu gehen.
+    ALARM: Die Station wurde vom Schwarzen Schwarm verschlungen. Alle übrigen Mitarbeiter werden angewiesen, den Kernspaltungssprengstoff scharf zu machen und sofort zum Evakuierungsshuttle zu gehen.
 
-    Colonial Marines wurden kontaktiert und werden innerhalb von zwei Wochen eintreffen.
+    Die Colonial Marines wurden kontaktiert und treffen innerhalb von zwei Wochen ein.
 
-    Ein Notfall-Shuttle ist unterwegs.
+    Ein Notfallshuttle ist unterwegs.
 
 xenomorphs-xenomajor = Major Xenomorph Sieg!
 xenomorphs-xenominor = Kleiner Xenomorph Sieg!

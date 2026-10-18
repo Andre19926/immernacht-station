@@ -21,4 +21,4 @@ reagent-name-space-lube = Raumgleitmittel
 reagent-desc-space-lube = Weltraum-Gleitmittel ist ein Hochleistungsschmierstoff für die Wartung äußerst komplexer mechanischer Geräte (und ganz bestimmt nicht dafür gedacht, Leute ausrutschen zu lassen).
 
 reagent-name-space-glue = Raumleim
-reagent-desc-space-glue = Space Glue ist ein Hochleistungskleber, der für die Wartung extrem komplexer mechanischer Geräte bestimmt ist (und sicherlich nicht dazu verwendet wird, Menschen auf den Boden zu bringen).
+reagent-desc-space-glue = Weltraumkleber ist ein Hochleistungskleber für die Wartung äußerst komplexer mechanischer Geräte (und ganz bestimmt nicht dafür gedacht, Leute am Boden festkleben zu lassen).

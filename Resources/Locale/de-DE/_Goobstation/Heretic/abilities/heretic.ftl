@@ -58,7 +58,7 @@ heretic-livingheart-faraway = Es ist {$state}, extrem weit entfernt!
 heretic-stargaze-obliterate-other = Du siehst {$uid} Verstrickt in den sengenden Zorn des Kosmos. Für einen Moment siehst du ihre Silhouette in Agonie, bevor sie zu bloßen Atomen verblasst.
 heretic-stargaze-obliterate-user = DIE KRAFT DES KOSMOS SELBST ERGIESST SICH ÜBER DEINE GESTALT. HITZEWELLEN KRALLEN SICH AN DEINEN KÖRPER UND REISSEN IHN AN DEN NÄHTEN AUSEINANDER. DEINE VÖLLIGE VERNICHTUNG DAUERT NUR EINEN AUGENBLICK, BIS DU AUF DAS ZURÜCKGEFÜHRT BIST, WAS DU STETS WARST. STAUBKÖRNER, MEHR NICHT ...
 
-heretic-stargazer-reset-consciousness = DIESE AKTION WIRD IHR STAR GAZER MIND IRREVERSICHTIG VERÄNDERN! Verwende es erneut, um zu bestätigen.
+heretic-stargazer-reset-consciousness = DIESE AKTION VERÄNDERT DEINEN STERNGUCKER-GEIST UNWIDERRUFLICH! Verwende sie erneut, um zu bestätigen.
 heretic-stargazer-consciousness-reset-fail = Deine Bitte, die Persönlichkeit des Sternengasts zu wechseln, scheint abgelehnt worden zu sein ... Sieht so aus, als müsstest du vorerst damit leben.
 heretic-stargazer-consciousness-reset-target = Dein Beschwörer hat dich zurückgesetzt, und dein Körper wurde von einem Geist übernommen. Sieht so aus, als wären sie mit ihrer leistung nicht zufrieden.
 heretic-stargazer-consciousness-reset-user = Der Geist des Sternenschauers hat sich verdreht, um besser zu dir zu passen.

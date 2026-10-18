@@ -9,7 +9,7 @@ node-scan-tooltip = Scanne aktive Knoten
 node-scan-no-data = Keine aktiven Knotendaten gefunden
 node-scan-display-title = Knotenscanner
 
-node-scanner-artifact-state-ready = Artifact ist bereit für Interaktion
+node-scanner-artifact-state-ready = Das Artefakt ist bereit für Interaktion
 node-scanner-artifact-state-unlocking = Artefakt ist in Resonanz mit deinen Aktionen
 node-scanner-artifact-state-cooldown = Artefakt ruht
 node-scanner-artifact-connected = Rasterartefakt

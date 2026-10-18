@@ -43,7 +43,7 @@ nuke-user-interface-first-status-device-cooldown = DEAKTIVIERT
 nuke-user-interface-status-error = FEHLER
 
 ## Lower status
-nuke-user-interface-second-status-await-disk = AWAY DISK
+nuke-user-interface-second-status-await-disk = DISKETTE EINLEGEN
 nuke-user-interface-second-status-time = ZEIT: {$time}
 nuke-user-interface-second-status-current-code = Code: {$code}
 nuke-user-interface-second-status-cooldown-time = WART: {$time}

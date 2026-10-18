@@ -5,4 +5,4 @@ smart-fridge-component-search-filter = Suche ...
 smart-fridge-component-title = Smart-Kühlschrank
 smart-fridge-list-item = {$item} [{$amount}]
 smart-fridge-request-generic = Alle Verkäufe final
-smart-fridge-request-chemistry = Refills aus der Chemie anfordern
+smart-fridge-request-chemistry = Nachfüllungen aus der Chemie anfordern

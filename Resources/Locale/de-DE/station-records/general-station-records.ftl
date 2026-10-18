@@ -21,7 +21,7 @@ general-station-record-console-record-gender = Geschlecht: {$gender}
 general-station-record-console-record-fingerprint = Fingerabdruck: {$fingerprint}
 general-station-record-console-record-dna = DNA: {$dna}
 
-general-station-record-for-filter-line-placeholder = Eingabetext und drücke "Enter"
+general-station-record-for-filter-line-placeholder = Text eingeben und „Enter“ drücken
 general-station-record-name-filter = Name der Person
 general-station-record-job-filter = Job
 general-station-record-species-filter = Spezies

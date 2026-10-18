@@ -7,7 +7,7 @@ tape-recorder-stopped = Das Tonbandgerät wird angehalten.
 tape-recorder-empty = Das Tonbandgerät ist leer.
 tape-recorder-recording = Das Tonbandgerät ist in [color=red]Aufzeichnung[/color] Modus.
 tape-recorder-rewinding = Das Tonbandgerät ist in [color=yellow]Aufwickeln[/color] Modus.
-tape-recorder-locked = Cant auswerfen, während der Bandrekorder läuft.
+tape-recorder-locked = Kann nicht ausgeworfen werden, solange der Bandrekorder läuft.
 tape-recorder-voice-unknown = Unbekannt
 tape-recorder-voice-unintelligible = Unverständlich
 tape-recorder-message-corruption = #

@@ -1,5 +1,5 @@
 gunnery-window-title = Waffenkontrolle
-gunnery-window-disconnected = DISCONNECTED
+gunnery-window-disconnected = GETRENNT
 gunnery-window-connected = VERBINDUNG
 gunnery-select-all = Alle auswählen
 gunnery-unselect-all = Alle nicht auswählen

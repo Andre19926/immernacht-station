@@ -18,7 +18,7 @@ reagent-name-pendetide = Pendetid
 reagent-desc-pendetide = Während es größtenteils neutral ist, verstärkt es alle vorhandenen Strahlungsschäden. Zusätzlich spült Medikamente aus dem Blutkreislauf, was die Heilung erschwert.
 
 reagent-name-aluite = Aluit
-reagent-desc-aluite = Nicht reaktives Molekül, das sich bei niedrigen Temperaturen an andere Chemikalien bindet, um sie zu transportieren und ihre Effizienz zu steigern. Bursts im Blutkreislauf, mit Überdosierungen, die Organbrüche verursachen.
+reagent-desc-aluite = Nicht reaktives Molekül, das sich bei niedrigen Temperaturen an andere Chemikalien bindet, um sie zu transportieren und ihre Wirksamkeit zu steigern. Platzt im Blutkreislauf auf; Überdosierungen verursachen Organrisse.
 
 reagent-name-sarin = Sarin
 reagent-desc-sarin = Ein brutales Neurotoxin, das bei Kontakt mit der Haut unangenehme ätzende Verbrennungen erzeugt. Giftig beim Einatmen und verursacht Lähmung.

@@ -13,7 +13,7 @@ tabletop-verb-play-game = Spielspiel
 tabletop-verb-dump-pieces = Muldenstücke
 tabletop-default-board-name = Brettspiel
 tabletop-error-remove-non-hologram = Du kannst kein eingebautes Teil entfernen!
-tabletop-added-piece = Das Board schimmert hell!
+tabletop-added-piece = Das Spielbrett schimmert hell!
 
 ## Chess
 tabletop-chess-board-name = Schach

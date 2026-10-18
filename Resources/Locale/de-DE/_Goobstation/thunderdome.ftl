@@ -51,7 +51,7 @@ thunderdome-streak-5 = {$player} hat einen Mega Kill!
 thunderdome-streak-6 = {$player} Es ist unaufhaltsam!
 thunderdome-streak-7 = {$player} ist unfassbar krass drauf!
 thunderdome-streak-8 = {$player} Ein Monster Kill!
-thunderdome-streak-9 = {$player} Das ist GODLIKE!
+thunderdome-streak-9 = {$player} ist GODLIKE!
 thunderdome-streak-12 = {$player} ist ÜBER GÖTTLICH!
 
 # Revival

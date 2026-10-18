@@ -37,7 +37,7 @@ reagent-name-green-tea = Grüner Tee
 reagent-desc-green-tea = Lecker grüner Tee.
 
 reagent-name-grenadine = Grenadin
-reagent-desc-grenadine = Nicht cherry aromatisiert!
+reagent-desc-grenadine = Nicht kirscharomatisiert!
 
 reagent-name-iced-coffee = Eiskaffee
 reagent-desc-iced-coffee = Kaffee und Eis, erfrischend und kühl.

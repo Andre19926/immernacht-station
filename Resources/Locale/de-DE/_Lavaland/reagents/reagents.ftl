@@ -6,10 +6,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-minerssalve = Minerslavin
-reagent-desc-minerssalve = Eine starke Mischung von Stimulanzien, die für den Einsatz durch Lavaland-Schacht-Miner bestimmt ist.
+reagent-desc-minerssalve = Eine starke Mischung aus Stimulanzien, die für Schachtbergarbeiter auf Lavaland gedacht ist.
 
 reagent-name-luxurium = Luxurium
-reagent-desc-luxurium = Ein böses Gebräu, das von den Top-Nanotrasen-Wissenschaftlern entwickelt wurde und außerhalb des niedrigen Drucks schädlich wird, wodurch die Wirksamkeit des Luxus-Mining-Stifts verringert wird, wenn er außerhalb der vorgesehenen Umgebungen verwendet wird.
+reagent-desc-luxurium = Ein bösartiges Gebräu der besten Nanotrasen-Wissenschaftler, das außerhalb von Niederdruck schädlich wird und die Wirksamkeit des Luxus-Bergbaustifts verringert, wenn er außerhalb der vorgesehenen Umgebung verwendet wird.
 
 reagent-name-vitrium-froth = Vitriumbaum
 reagent-desc-vitrium-froth = Eine sprudelnde Paste, die Wunden der Haut heilt.

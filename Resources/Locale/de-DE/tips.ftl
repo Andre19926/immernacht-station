@@ -148,6 +148,6 @@ tips-dataset-133 = Affen und Kobolde sind mit geringer Wahrscheinlichkeit empfin
 tips-dataset-134 = Du erkennst, ob ein Bereich mit geöffneten Brandschotten entlüftet ist, daran, ob neben den Brandschotten Lichter leuchten.
 tips-dataset-135 = Statt Essen aufzuheben, kannst du es mit Alt-Klick essen. Das funktioniert auch bei Mäusen und anderen Kreaturen ohne Hände.
 tips-dataset-136 = Wenn du hinter einer elektrifizierten Tür festsitzt, deaktiviere den APC oder wirf deine ID-Karte gegen die Tür, um keinen Stromschlag zu bekommen!
-tips-dataset-137 = Wenn die KI eine Tür elektrifiziert und du Isolierhandschuhe hast, zwick das Stromkabel durch und flick es wieder zusammen, um die Elektrifizierung zurückzusetzen!
+tips-dataset-137 = Wenn die KI eine Tür elektrifiziert und du Isolierhandschuhe hast, schneide das Stromkabel durch und flicke es wieder zusammen, um die Elektrifizierung zurückzusetzen!
 tips-dataset-138 = Wenn du verhindern willst, dass dein Gefangener direkt nach dem Entfesseln aus der Zelle flieht, schalte beim Entfesseln den Kampfmodus ein – das schubst den Gefangenen zu Boden.
 tips-dataset-139 = Reinige deine illegalen Implantatoren nach Gebrauch mit Seife! Detektive können benutzte Implantatoren auf belastende DNA-Spuren scannen, aber nicht, wenn sie sauber gewischt wurden.

@@ -129,7 +129,7 @@ reagent-name-booger = Booger
 reagent-desc-booger = Igitt …
 
 reagent-name-brave-bull = Brave Bull
-reagent-desc-brave-bull = Es ist genauso effektiv wie Dutch-Courage!
+reagent-desc-brave-bull = Es ist genauso wirksam wie angetrunkener Mut!
 
 reagent-name-bronx = Bronx
 reagent-desc-bronx = Der orangefarbene Cousin der Manhattan und Martini.
@@ -246,7 +246,7 @@ reagent-name-monkey-business = Affengeschäft
 reagent-desc-monkey-business = Man fragt sich, was die Affen von diesem Getränk halten.
 
 reagent-name-moonshine = Mondschein
-reagent-desc-moonshine = Artisanal hausgemachten Alkohol. Was könnte schief gehen?
+reagent-desc-moonshine = Handwerklich hausgebrannter Alkohol. Was könnte schiefgehen?
 
 reagent-name-neurotoxin = Neurotoxin
 reagent-desc-neurotoxin = Ein starkes Neurotoxin, das das Subjekt in einen todesähnlichen Zustand versetzt.
@@ -261,7 +261,7 @@ reagent-name-pina-colada = Piña Colada
 reagent-desc-pina-colada = Um sich im Regen zu verlieren.
 
 reagent-name-radler = Radler
-reagent-desc-radler = Ein einfacher, aber heftiger Klassiker, direkt aus Space-Germany.
+reagent-desc-radler = Ein schlichter, aber bewährter Klassiker, direkt aus dem Weltraum-Deutschland.
 
 reagent-name-red-mead = Roter Met
 reagent-desc-red-mead = Das wahre Wikingergetränk! Obwohl es eine seltsame rote Farbe hat.
@@ -279,7 +279,7 @@ reagent-name-cogchamp = Cogchamp
 reagent-desc-cogchamp = Nicht einmal Ratvars vier Generäle konnten dem standhalten! Qevax Jryy!
 
 reagent-name-silencer = Schalldämpfer
-reagent-desc-silencer = Ein Drink von Mime Heaven.
+reagent-desc-silencer = Ein Drink aus dem Pantomimenhimmel.
 
 reagent-name-singulo = Singulo
 reagent-desc-singulo = Ein Blue-Space-Getränk!
@@ -351,7 +351,7 @@ reagent-name-death-in-the-afternoon = Tod am Nachmittag
 reagent-desc-death-in-the-afternoon = Gieße einen Jigger-Absinth in ein Champagnerglas. Füge Eis-Champagner hinzu, bis er die richtige opaleszierende Milchigkeit erreicht. Trinke drei bis fünf davon langsam. Ernest Hemingway
 
 reagent-name-empress-75 = Kaiserin 75
-reagent-desc-empress-75 = Eine verfeinerte nehmen auf der mimosa. Genau das, was Marie Antoinette vor der Revolution getrunken haben könnte.
+reagent-desc-empress-75 = Eine verfeinerte Variante des Mimosa. Genau das, was Marie Antoinette vor der Revolution genippt haben könnte.
 
 reagent-name-espresso-martini = Espresso martini
 reagent-desc-espresso-martini = Um dich aufzuwecken und dich niederzuschlagen. Garniert mit Kaffeebohnen und eiskalt.

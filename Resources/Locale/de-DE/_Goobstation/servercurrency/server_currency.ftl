@@ -56,7 +56,7 @@ gs-balanceui-gift-player-tooltip = Gib den Namen des Spielers ein, an den dich d
 gs-balanceui-gift-value = Wert
 gs-balanceui-gift-value-tooltip = Geldbetrag zu übertragen
 
-gs-balanceui-shop-label = Token Store
+gs-balanceui-shop-label = Token-Shop
 gs-balanceui-shop-empty = Ausverkauft!
 gs-balanceui-shop-buy = Kaufen
 gs-balanceui-shop-footer = ⚠ Hilf, dein Token zu verwenden. Nur 1 Gebrauch pro Tag.
@@ -65,7 +65,7 @@ gs-balanceui-shop-token-label = Tokens
 gs-balanceui-shop-tittle-label = Titel
 
 gs-balanceui-shop-buy-token-antag = Kaufe einen Antag Token - {$price} Immernachtmünzen
-gs-balanceui-shop-buy-token-admin-abuse = Kaufe einen Admin Abuse Token - {$price} Immernachtmünzen
+gs-balanceui-shop-buy-token-admin-abuse = Kaufe einen Admin-Abuse-Token – {$price} Immernachtmünzen
 gs-balanceui-shop-buy-token-hat = Kaufe ein Hat Token - {$price} Immernachtmünzen
 
 gs-balanceui-shop-token-antag = Hochstufiger Antag-Token

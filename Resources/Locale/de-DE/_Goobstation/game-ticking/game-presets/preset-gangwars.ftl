@@ -6,7 +6,7 @@ roles-antag-gang-objective = Steh hinter deinem Anführer, verteidige dein Revie
 
 gang-leader-role-greeting = Du bist Bandenchef. Deine Bosse sind nicht begeistert: Deine jüngsten Misserfolge haben dich aufs Abstellgleis gebracht. Das ist deine letzte Chance. Schlag hart zu, rekrutiere, wen du kannst, und zeig allen, wer hier das Sagen hat.
 
-gang-leader-action-summon-locker-name = Summon Gang Schließfach
+gang-leader-action-summon-locker-name = Gang-Schließfach beschwören
 gang-leader-action-summon-locker-desc = Beschwören sie ihr bandenschließfach zu ihrem standort. Wenn bereits platziert, verschiebe es stattdessen.
 
 gang-member-action-toggle-overlay-name = Revieranzeige umschalten
@@ -54,7 +54,7 @@ gang-spray-can-charges-remaining = {$charges ->
 gang-store-title = Gang-Laden
 gang-store-in-use = Jemand anderes benutzt bereits das Schließfach!
 
-store-currency-display-gangpoint = Gang-Points
+store-currency-display-gangpoint = Gangpunkte
 
 gang-store-category-starter-equipment = Startausrüstung
 gang-store-category-consumables = Verbrauchsgüter
@@ -100,7 +100,7 @@ gang-store-listing-light-armor-vest-name = Leichte Rüstungsweste
 gang-store-listing-light-armor-vest-desc = Eine gepanzerte Weste vom Typ I. Nicht auffällig, aber es wird dich in einem Kampf länger atmen lassen.
 
 gang-crate-no-locker-nearby = Du musst in der nähe eines bandenschließfachs sein, um dies zu öffnen.
-gang-crate-reward-popup = Deine Bande hat die Kiste gesichert! +{$points} Gang Points!
+gang-crate-reward-popup = Deine Bande hat die Kiste gesichert! +{$points} Gangpunkte!
 
 gang-duffel-bag-untrapped = Du schneidest deine Hand auf die Tasche der Falle!
 gang-duffel-bag-untrapping = Du fängst an, die Falle zu entwaffnen.

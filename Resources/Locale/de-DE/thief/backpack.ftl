@@ -51,10 +51,10 @@ thief-backpack-category-chemistry-description =
 
 thief-backpack-category-syndie-name = Syndie-Set
 thief-backpack-category-syndie-description =
-    Trinkets aus einer desavouierten Vergangenheit oder von einem nachlässigen Agenten gestohlen?
+    Krimskrams aus einer verleugneten Vergangenheit oder von einem nachlässigen Agenten geklaut?
     Du hast einige Verbindungen hergestellt. Whiskey, Echo...
-    Enthält: An Emag, Access Breaker, Interdyne Cigs, ein Syndicate-Codewort,
-    ein Radio Jammer, ein Feuerzeug und einige seltsame rote Kristalle.
+    Enthält: einen Emag, einen Zugangsknacker, Interdyne-Zigaretten, ein Syndicate-Codewort,
+    einen Funkstörsender, ein Feuerzeug und einige seltsame rote Kristalle.
 
 thief-backpack-category-sleeper-name = Schläfer-Set
 thief-backpack-category-sleeper-description =

@@ -33,9 +33,9 @@ dynamic-gamerule-xenos-title = Xenobiologie Ausbruch
 dynamic-gamerule-revenant-title = Wiederkäuer
 dynamic-gamerule-ratking-title = Rattenmigration
 
-dynamic-gamerule-midround-traitor-title = Sleeper Agents (Verräter)
+dynamic-gamerule-midround-traitor-title = Schläferagenten (Verräter)
 dynamic-gamerule-midround-changeling-title = Genomerwachen (Wechselbälger)
-dynamic-gamerule-midround-heretic-title = Plötzliche Beleuchtung (Heretics)
+dynamic-gamerule-midround-heretic-title = Plötzliche Beleuchtung (Häretiker)
 dynamic-gamerule-midround-revolutionary-title = Provokateure (Revolutionäre)
 dynamic-gamerule-midround-zombies-title = Romerol-Ausbruch (Zombies)
 dynamic-gamerule-midround-blob-title = Blob-Erscheinen (Blob)

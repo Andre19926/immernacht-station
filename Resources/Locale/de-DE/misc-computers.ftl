@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-radar-console-window-title = Mass Scanner Konsole
+radar-console-window-title = Massenscanner-Konsole
 shuttle-console-window-title = Shuttle-Konsole

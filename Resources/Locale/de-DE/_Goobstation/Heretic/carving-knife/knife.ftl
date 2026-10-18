@@ -5,7 +5,7 @@
 
 carving-knife-comp-cant-draw = Kann hier keine Schnitzereien zeichnen!
 carving-knife-comp-too-many-runes = Zu viele Schnitzereien!
-carving-knife-comp-close-to-another-carving = Zu nah an einem anderen Carving!
+carving-knife-comp-close-to-another-carving = Zu nah an einer anderen Schnitzerei!
 carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] Zeichen insgesamt eingeritzt.[/color]
 carving-knife-comp-runes-deleted = Zerstört alle Schnitzereien!
 

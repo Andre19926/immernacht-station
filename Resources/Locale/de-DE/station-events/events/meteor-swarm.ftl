@@ -11,7 +11,7 @@ station-event-meteor-swarm-end-announcement = Der Meteorschwarm ist vorbei. Bitt
 
 station-event-space-dust-start-announcement = Die Station durchquert eine Trümmerwolke, es sind kleinere Schäden an Außenarmaturen und -einbauten zu erwarten.
 station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Bitte bleib ruhig und höre ihnen nicht zu.
-station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Warnung: Füttere sie nicht mit Weizen. Moo-ve weg von äußeren Abschnitten.
+station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Warnung: Füttere sie nicht mit Weizen. Muh-ve weg von den Außenbereichen.
 station-event-meteor-clown-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. HONK! Lachgasspeicher sofort evakuieren.
 station-event-meteor-potato-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Hoher Stärkegehalt nachgewiesen.
 station-event-fun-swarm-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Bitte gerät angemessen in Panik.

@@ -8,7 +8,7 @@
 admin-solutions-window-title = Lösungs-Editor – {$targetName}
 admin-solutions-window-solution-label = Ziellösung:
 admin-solutions-window-solution-button = Lösung
-admin-solutions-window-solution-button-tooltip = Öffnet die entsprechende serverseitige Solution-Instanz in ViewVariables. Nützlich für das Debuggen von Vorhersageproblemen.
+admin-solutions-window-solution-button-tooltip = Öffnet die entsprechende serverseitige Solution-Instanz in ViewVariables. Nützlich zum Debuggen von Vorhersageproblemen.
 admin-solutions-window-vv-button = VV
 admin-solutions-window-vv-button-tooltip = Öffnet die entsprechende Lösungsentität in ViewVariables.
 admin-solutions-window-add-new-button = Reagenz hinzufügen

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-pipe-sensor-sm-hot-loop = SM Hot Loop
-gas-pipe-sensor-sm-cold-loop = SM Cold Loop
+gas-pipe-sensor-sm-hot-loop = SM-Heißkreislauf
+gas-pipe-sensor-sm-cold-loop = SM-Kaltkreislauf

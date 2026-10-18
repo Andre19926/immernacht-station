@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fulton-folded = Beacon braucht Entfaltung
+fulton-folded = Bake muss entfaltet werden
 fulton-examine = {$time} Sekunden bis zur Extraktion
 fulton-linked = Verknüpftes Leuchtfeuer
 fulton-not-found = Kein Leuchtfeuer gefunden

@@ -7,7 +7,7 @@
 hail-0 = Hör auf, das Gesetz zu brechen, Arschloch!!
 hail-1 = Halt, oder ich schlag dich nieder!!
 hail-2 = Hör auf im Namen des Gesetzes!!
-hail-3 = Compliance ist in deinem besten Interesse!!
+hail-3 = Gehorsam liegt in deinem besten Interesse!!
 hail-4 = Beweg dich nicht, du Widerling!!
 hail-5 = Ich bin das Gesetz!!
 hail-6 = Runter auf den Boden, du Widerling!!

@@ -10,9 +10,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emote-menu-category-farts = Furze
+emote-menu-category-farts = Pupse
 
-chat-emote-name-flip = Mach einen Flip
+chat-emote-name-flip = Salto machen
 chat-emote-name-spin = Drehen
 chat-emote-name-jump = Springen
 chat-emote-name-tweak = Durchdrehen
@@ -21,7 +21,7 @@ chat-emote-name-gulp = Schlucken
 chat-emote-name-surprised = Überrascht gucken
 chat-emote-name-bagawk = Bagawk
 
-chat-emote-msg-flip = macht einen Flip!
+chat-emote-msg-flip = macht einen Salto!
 chat-emote-msg-spin = dreht sich!
 chat-emote-msg-jump = springt!
 chat-emote-msg-tweak = dreht durch!

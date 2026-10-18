@@ -13,7 +13,7 @@ ghost-role-information-colossus-rules = Du bist ein [color={role-type-team-antag
 terror-colossus = Achtung Crew, es scheint, dass jemand auf deiner Station die Aufmerksamkeit auf eine enorme bösartige Anomalie gezogen hat.
 
 ghost-role-colossus-charactermenu = Du musst das Ende aller Dinge einläuten. Unermessliche Verwüstung über alle vor dir.
-ghost-role-colossus-objective = Rufe eine Effigy der Entropie hervor und bleibe bis zum Ende aller Dinge bestehen.
+ghost-role-colossus-objective = Rufe ein Abbild der Entropie herbei und bestehe bis zum Ende aller Dinge fort.
 ghost-role-colossus-briefing =
     Du bist ein entropischer Koloss!
     Deine Ziele sind im Charaktermenü aufgeführt.
@@ -37,7 +37,7 @@ ghost-role-mindsink-installed = Flüstern summt von seiner Oberfläche!
 ghost-role-mindsink-off = Es ruht.
 ghost-role-mindsink-still-searching = Es bezieht sich auf die Noösphere...
 ghost-role-mindsink-searching = Es hat begonnen, sich auf die Noösphere zu stützen ...
-ghost-role-mindsink-role-name = Maligner Mindsink
+ghost-role-mindsink-role-name = Boshafter Gedankenschlucker
 ghost-role-mindsink-role-description = Diene der Stationscrew, trotz deiner ungewöhnlichen Herkunft.
 ghost-role-mindsink-wipe-device-verb-text = Lösche den Verstand
 ghost-role-mindsink-wiped-device = Der Verstand wurde ausgelöscht.

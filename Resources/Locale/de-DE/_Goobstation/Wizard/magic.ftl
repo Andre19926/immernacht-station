@@ -59,4 +59,4 @@ spell-rathen-gut-popup = Du hast keinen Blinddarm, aber etwas musste nachgeben!
 
 ghosts-summoned-message = Geister wurden gerufen!
 dimension-shift-message = Dimensionsverschiebung!
-global-tile-movement-message = Ein ominöser Beat beginnt zu spielen!
+global-tile-movement-message = Ein unheilvoller Beat beginnt zu spielen!
