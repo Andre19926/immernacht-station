@@ -56,7 +56,7 @@ roles-antag-space-ninja-name = Weltraum-Ninja
 roles-antag-space-ninja-objective = Verwende deine Stealth, um die Station zu sabotieren, nom auf elektrischen Leitungen.
 
 roles-antag-paradox-clone-name = Paradox-Klon
-roles-antag-paradox-clone-objective = Eine freak Raum-Zeit-Anomalie hat euch in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden und töten und ersetzen.
+roles-antag-paradox-clone-objective = Eine ungewöhnliche Raum-Zeit-Anomalie hat dich in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden, töten und ersetzen.
 
 roles-antag-thief-name = Dieb
 roles-antag-thief-objective = Füge einige NT-Eigenschaften zu deiner persönlichen Sammlung hinzu, ohne Gewalt anzuwenden.

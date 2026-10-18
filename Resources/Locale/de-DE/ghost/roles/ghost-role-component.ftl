@@ -131,7 +131,7 @@ ghost-role-information-xeno-description = Du bist ein Xeno, kooperierst mit dein
 ghost-role-information-xeno-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen Xenos.
 
 ghost-role-information-revenant-name = Revenant
-ghost-role-information-revenant-description = Du bist ein Revenant. Nutzt eure Kräfte, um Seelen zu ernten und Chaos auf die Crew loszulassen. Schalte neue Fähigkeiten mit der Essenz frei, die du erntest.
+ghost-role-information-revenant-description = Du bist ein Revenant. Nutze deine Kräfte, um Seelen zu ernten und Chaos auf die Crew loszulassen. Schalte neue Fähigkeiten mit der Essenz frei, die du erntest.
 
 ghost-role-information-kangaroo-name = Känguru
 ghost-role-information-kangaroo-description = Du bist ein Känguru! Mache alles, was Kängurus tun.
@@ -275,7 +275,7 @@ ghost-role-information-space-ninja-name = Weltraum-Ninja
 ghost-role-information-space-ninja-description = Verwende Stealth und Täuschung, um die Station zu sabotieren.
 
 ghost-role-information-paradox-clone-name = Paradox-Klon
-ghost-role-information-paradox-clone-description = Eine freak Raum-Zeit-Anomalie hat euch in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden und töten und ersetzen.
+ghost-role-information-paradox-clone-description = Eine ungewöhnliche Raum-Zeit-Anomalie hat dich in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden, töten und ersetzen.
 
 ghost-role-information-syndicate-reinforcement-name = Syndicate-Agent
 ghost-role-information-syndicate-reinforcement-description = Jemand braucht Verstärkung. Du, die erste Person, die das Syndicate finden könnte, wirst ihnen helfen.
