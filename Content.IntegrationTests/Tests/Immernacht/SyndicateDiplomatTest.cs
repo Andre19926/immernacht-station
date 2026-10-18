@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using System.Collections.Generic;
 using System.Linq;
 using Content.Shared.Roles;
 using Content.Shared.Storage;
@@ -139,7 +140,8 @@ public sealed class SyndicateDiplomatTest
             }
 
             var job = server.ProtoMan.Index<JobPrototype>("SyndicateDiplomat");
-            var req = job.Requirements?.OfType<RoleTimeRequirement>().Single(r => r.Role == "AntagSyndicateAgent");
+            var roleSys = server.EntMan.System<SharedRoleSystem>();
+            var req = roleSys.GetRoleRequirements(job)?.OfType<RoleTimeRequirement>().Single(r => r.Role == "AntagSyndicateAgent");
             Assert.That(req, Is.Not.Null);
             Assert.That(req!.Time, Is.EqualTo(TimeSpan.FromHours(50)));
 
