@@ -6,20 +6,20 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 marking-ArachnidCheliceraeDownwards = Kieferklauen (abwärts)
-marking-ArachnidCheliceraeDownwards-downwards = Chelicerae
+marking-ArachnidCheliceraeDownwards-downwards = Kieferklauen
 
-marking-ArachnidCheliceraeInwards = Chelicerae (nach innen)
-marking-ArachnidCheliceraeInwards-inwards = Chelicerae
+marking-ArachnidCheliceraeInwards = Kieferklauen (nach innen)
+marking-ArachnidCheliceraeInwards-inwards = Kieferklauen
 
 marking-ArachnidAppendagesDefault = Fortsätze (lang)
 marking-ArachnidAppendagesDefault-long_primary = Fortsatz
 marking-ArachnidAppendagesDefault-long_secondary = Streifen
 
-marking-ArachnidAppendagesSharp = Anlagen (scharf)
+marking-ArachnidAppendagesSharp = Anhänge (scharf)
 marking-ArachnidAppendagesSharp-sharp_primary = Fortsatz
 marking-ArachnidAppendagesSharp-sharp_secondary = Streifen
 
-marking-ArachnidAppendagesZigZag = Anhänge (ZigZag)
+marking-ArachnidAppendagesZigZag = Anhänge (Zickzack)
 marking-ArachnidAppendagesZigZag-zigzag_primary = Fortsatz
 marking-ArachnidAppendagesZigZag-zigzag_secondary = Streifen
 
@@ -39,11 +39,11 @@ marking-ArachnidAppendagesHarvest = Anhänge (Ernte)
 marking-ArachnidAppendagesHarvest-harvest_primary = Fortsatz
 marking-ArachnidAppendagesHarvest-harvest_secondary = Streifen
 
-marking-ArachnidAppendagesShort = Anlagen (kurz)
+marking-ArachnidAppendagesShort = Anhänge (kurz)
 marking-ArachnidAppendagesShort-short_primary = Fortsatz
 marking-ArachnidAppendagesShort-short_secondary = Streifen
 
-marking-ArachnidAppendagesFreaky = Anhänge (Freaky long)
+marking-ArachnidAppendagesFreaky = Anhänge (extralang)
 marking-ArachnidAppendagesFreaky-freaky_primary = Fortsatz
 marking-ArachnidAppendagesFreaky-freaky_secondary = Streifen
 
@@ -77,7 +77,7 @@ marking-ArachnidTorsoArrows-arrows = Muster
 marking-ArachnidTorsoCore = Kern
 marking-ArachnidTorsoCore-core = Muster
 
-marking-ArachnidTorsoFiddleback = Fiddleback
+marking-ArachnidTorsoFiddleback = Violinspinne
 marking-ArachnidTorsoFiddleback-fiddleback = Muster
 
 marking-ArachnidTorsoSkull = Schädel

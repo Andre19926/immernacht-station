@@ -36,12 +36,12 @@ marking-LizardHornsShort = Echsen-Hörner (Kurz)
 marking-LizardHornsSimple-horns_simple = Echsen-Hörner
 marking-LizardHornsSimple = Echsen-Hörner
 
-marking-LizardTailSmooth-tail_smooth_primary = Lizard Schwanz
+marking-LizardTailSmooth-tail_smooth_primary = Echsen-Schwanz
 marking-LizardTailSmooth-tail_smooth_secondary = Unterton
-marking-LizardTailSmooth = Lizard Schwanz (glatt)
+marking-LizardTailSmooth = Echsen-Schwanz (glatt)
 
-marking-LizardTailLarge-tail_large = Lizard Schwanz (Groß)
-marking-LizardTailLarge = Lizard Schwanz (Groß)
+marking-LizardTailLarge-tail_large = Echsen-Schwanz (Groß)
+marking-LizardTailLarge = Echsen-Schwanz (Groß)
 
 marking-LizardTailSpikes-tail_spikes = Echsen-Schwanz (Stachelig)
 marking-LizardTailSpikes = Echsen-Schwanz (Stachelig)
@@ -52,8 +52,8 @@ marking-LizardTailLTiger = Echsen-Schwanz (Helle Tigerstreifen)
 marking-LizardTailDTiger-tail_dtiger = Echsen-Schwanz (Dunkle Tigerstreifen)
 marking-LizardTailDTiger = Echsen-Schwanz (Dunkle Tigerstreifen)
 
-marking-LizardTailAquatic-tail_aquatic = Lizard Schwanz (Aquatisch)
-marking-LizardTailAquatic = Lizard Schwanz (Aquatisch)
+marking-LizardTailAquatic-tail_aquatic = Echsen-Schwanz (Aquatisch)
+marking-LizardTailAquatic = Echsen-Schwanz (Aquatisch)
 
 marking-LizardSnoutRound-snout_round = Echsenschnauze (Runde)
 marking-LizardSnoutRound = Echsenschnauze (Runde)
@@ -129,11 +129,11 @@ marking-LizardChestFin-body_fin = Echsen-Flosse
 marking-LizardChestFin = Echsen-Flosse
 
 marking-LizardSnoutSplotch = Echsen-Schnauze (Klecks)
-marking-LizardSnoutSplotch-snout_splotch_primary = Mündung
+marking-LizardSnoutSplotch-snout_splotch_primary = Schnauzenspitze
 marking-LizardSnoutSplotch-snout_splotch_secondary = Schnauze
 
 marking-LizardSnoutVisageSharp = Echsen-Antlitz (Scharf)
 marking-LizardSnoutVisageSharp-visage_sharp = Echsen-Antlitz (Scharf)
 
-marking-LizardSnoutVisageRound = Lizard Visage (Runde)
-marking-LizardSnoutVisageRound-visage_round = Lizard Visage (Runde)
+marking-LizardSnoutVisageRound = Echsen-Antlitz (Runde)
+marking-LizardSnoutVisageRound-visage_round = Echsen-Antlitz (Runde)

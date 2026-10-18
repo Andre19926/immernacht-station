@@ -49,10 +49,10 @@ marking-TattooEyeVoxRight = rechtes Auge
 marking-TattooEyeVoxLeft-tattoo_eye_vox_l = linkes Auge
 marking-TattooEyeVoxLeft = linkes Auge
 
-marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Eyeshadow (oben)
+marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Lidschatten (oben)
 marking-TattooEyeshadowUpper = Lidschatten (oben)
 
-marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Eyeshadow (Unterer)
+marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Lidschatten (unten)
 marking-TattooEyeshadowLower = Lidschatten (unten)
 
 marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Lidschatten (unten)
@@ -61,10 +61,10 @@ marking-TattooEyeshadowLowerReptilian = Lidschatten (unten)
 marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Lidschatten (klein)
 marking-TattooEyeshadowVoxSmall = Lidschatten (klein)
 
-marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Eyeshadow (Mittelwert)
+marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Lidschatten (mittel)
 marking-TattooEyeshadowVoxMedium = Lidschatten (mittel)
 
-marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Eyeshadow (Groß)
+marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Lidschatten (groß)
 marking-TattooEyeshadowVoxLarge = Lidschatten (groß)
 
 marking-TattooVoxTailRing-tattoo_vox_tail_ring = Schwanzring

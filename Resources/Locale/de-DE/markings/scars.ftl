@@ -6,17 +6,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-ScarEyeRight-scar_eye_right = Rechtes Auge Narkose
+marking-ScarEyeRight-scar_eye_right = Augennarbe (rechts)
 marking-ScarEyeRight = Augennarbe (rechts)
 
-marking-ScarEyeLeft-scar_eye_left = Linke Augennarbe
+marking-ScarEyeLeft-scar_eye_left = Augennarbe (links)
 marking-ScarEyeLeft = Augennarbe (links)
 
-marking-ScarTopSurgeryShort-scar_top_surgery_short = Brust-OP Narbe
-marking-ScarTopSurgeryShort = Narbe (Brust-OP, kurz)
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Brustnarbe (OP)
+marking-ScarTopSurgeryShort = Brustnarbe (OP, kurz)
 
-marking-ScarTopSurgeryLong-scar_top_surgery_long = Brust-OP Narbe
-marking-ScarTopSurgeryLong = Top Surgery Scar (lang)
+marking-ScarTopSurgeryLong-scar_top_surgery_long = Brustnarbe (OP)
+marking-ScarTopSurgeryLong = Brustnarbe (OP, lang)
 
 marking-ScarChest-scar_chest = Brustnarbe
 marking-ScarChest = Brustnarbe
@@ -24,11 +24,11 @@ marking-ScarChest = Brustnarbe
 marking-ScarNeck-scar_neck = Halsnarbe
 marking-ScarNeck = Halsnarbe
 
-marking-ScarChestBullets-scar_chest_bullets = Bullet Holes Narbe
-marking-ScarChestBullets = Brustnarbe (Bullets)
+marking-ScarChestBullets-scar_chest_bullets = Brustnarbe (Einschüsse)
+marking-ScarChestBullets = Brustnarbe (Einschüsse)
 
-marking-ScarStomachBullets-scar_stomach_bullets = Bullet Holes Narbe
-marking-ScarStomachBullets = Magennarbe (Bullets)
+marking-ScarStomachBullets-scar_stomach_bullets = Bauchnarbe (Einschüsse)
+marking-ScarStomachBullets = Bauchnarbe (Einschüsse)
 
 marking-ScarFace1-scar_face_1 = Gesichtsnarbe
 marking-ScarFace1 = Gesichtsnarbe (groß)

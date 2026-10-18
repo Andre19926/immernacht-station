@@ -23,11 +23,11 @@ marking-GauzeShoulder = Mull-Schulterschlinge
 marking-GauzeStomach-gauze_abdomen = Mull-Bauchverband
 marking-GauzeStomach = Mull-Bauchverband
 
-marking-GauzeUpperArmRight-gauze_upperarm_r = Mull-Unterarmwickel (rechts)
-marking-GauzeUpperArmRight = Mull-Unterarmwickel (rechts)
+marking-GauzeUpperArmRight-gauze_upperarm_r = Mull-Oberarmwickel (rechts)
+marking-GauzeUpperArmRight = Mull-Oberarmwickel (rechts)
 
-marking-GauzeLowerArmRight-gauze_lowerarm_r = Mull-Handgelenkwickel (rechts)
-marking-GauzeLowerArmRight = Mull-Handgelenkwickel (rechts)
+marking-GauzeLowerArmRight-gauze_lowerarm_r = Mull-Unterarmwickel (rechts)
+marking-GauzeLowerArmRight = Mull-Unterarmwickel (rechts)
 
 marking-GauzeLeftArm-gauze_leftarm = Mull-Armwickel (links)
 marking-GauzeLeftArm = Mull-Armwickel (links)
@@ -71,42 +71,42 @@ marking-GauzeLizardLefteyePatch = Echsen-Mull-Augenklappe (links)
 marking-GauzeLizardRighteyePatch-gauze_lizard_righteye = Echsen-Mull-Augenklappe (rechts)
 marking-GauzeLizardRighteyePatch = Echsen-Mull-Augenklappe (rechts)
 
-marking-GauzeMothStomach-gauze_moth_abdomen = Insektoiden-Mull-Bauchverband
-marking-GauzeMothStomach = Insektoiden-Mull-Bauchverband
+marking-GauzeMothStomach-gauze_moth_abdomen = Mottenmensch-Mull-Bauchverband
+marking-GauzeMothStomach = Mottenmensch-Mull-Bauchverband
 
-marking-GauzeMothShoulder-gauze_moth_shoulder = Insektoiden-Mull-Schulterschlinge
-marking-GauzeMothShoulder = Insektoiden-Mull-Schulterschlinge
+marking-GauzeMothShoulder-gauze_moth_shoulder = Mottenmensch-Mull-Schulterschlinge
+marking-GauzeMothShoulder = Mottenmensch-Mull-Schulterschlinge
 
-marking-GauzeMothBlindfold-gauze_moth_blindfold = Insektoiden-Mull-Augenbinde
-marking-GauzeMothBlindfold = Insektoiden-Mull-Augenbinde
+marking-GauzeMothBlindfold-gauze_moth_blindfold = Mottenmensch-Mull-Augenbinde
+marking-GauzeMothBlindfold = Mottenmensch-Mull-Augenbinde
 
-marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Insektoiden-Mull-Augenklappe (links)
-marking-GauzeMothLeftEyePatch = Insektoiden-Mull-Augenklappe (links)
+marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Mottenmensch-Mull-Augenklappe (links)
+marking-GauzeMothLeftEyePatch = Mottenmensch-Mull-Augenklappe (links)
 
-marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Insektoiden-Mull-Augenpolster (links)
-marking-GauzeMothLeftEyePad = Insektoiden-Mull-Augenpolster (links)
+marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Mottenmensch-Mull-Augenpolster (links)
+marking-GauzeMothLeftEyePad = Mottenmensch-Mull-Augenpolster (links)
 
-marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Insektoiden-Mull-Augenklappe (rechts)
-marking-GauzeMothRightEyePatch = Insektoiden-Mull-Augenklappe (rechts)
+marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Mottenmensch-Mull-Augenklappe (rechts)
+marking-GauzeMothRightEyePatch = Mottenmensch-Mull-Augenklappe (rechts)
 
-marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Insektoiden-Mull-Augenpolster (rechts)
-marking-GauzeMothRightEyePad = Insektoiden-Mull-Augenpolster (rechts)
+marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Mottenmensch-Mull-Augenpolster (rechts)
+marking-GauzeMothRightEyePad = Mottenmensch-Mull-Augenpolster (rechts)
 
-marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Insektoiden-Mull-Unterarmwickel (rechts)
-marking-GauzeMothUpperArmRight = Insektoiden-Mull-Unterarmwickel (rechts)
+marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Mottenmensch-Mull-Oberarmwickel (rechts)
+marking-GauzeMothUpperArmRight = Mottenmensch-Mull-Oberarmwickel (rechts)
 
-marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Insektoiden-Mull-Unterarmwickel (links)
-marking-GauzeMothUpperArmLeft = Insektoiden-Mull-Unterarmwickel (links)
+marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Mottenmensch-Mull-Oberarmwickel (links)
+marking-GauzeMothUpperArmLeft = Mottenmensch-Mull-Oberarmwickel (links)
 
-marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Insektoiden-Mull-Oberschenkelwickel (rechts)
-marking-GauzeMothUpperLegRight = Insektoiden-Mull-Oberschenkelwickel (rechts)
+marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Mottenmensch-Mull-Oberschenkelwickel (rechts)
+marking-GauzeMothUpperLegRight = Mottenmensch-Mull-Oberschenkelwickel (rechts)
 
-marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Insektoiden-Mull-Oberschenkelwickel (links)
-marking-GauzeMothUpperLegLeft = Insektoiden-Mull-Oberschenkelwickel (links)
+marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Mottenmensch-Mull-Oberschenkelwickel (links)
+marking-GauzeMothUpperLegLeft = Mottenmensch-Mull-Oberschenkelwickel (links)
 
-marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Insektoiden-Mull-Schienbeinwickel (rechts)
-marking-GauzeMothLowerLegRight = Insektoiden-Mull-Schienbeinwickel (rechts)
+marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Mottenmensch-Mull-Schienbeinwickel (rechts)
+marking-GauzeMothLowerLegRight = Mottenmensch-Mull-Schienbeinwickel (rechts)
 
-marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insektoiden-Mull-Schienbeinwickel (links)
-marking-GauzeMothLowerLegLeft = Insektoiden-Mull-Schienbeinwickel (links)
+marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Mottenmensch-Mull-Schienbeinwickel (links)
+marking-GauzeMothLowerLegLeft = Mottenmensch-Mull-Schienbeinwickel (links)
 
