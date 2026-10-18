@@ -1,4 +1,4 @@
-ent-ChaplainUndeterminedBible = Bluespace-Schriftfeuer
+ent-ChaplainUndeterminedBible = Bluespace-Schriftrolle
     .desc = Obwohl ich durch das Tal des Schattens des Todes gehe, fürchte ich nichts Böses, denn du bist bei mir.
 
 ent-Bible = Bibel
@@ -31,7 +31,7 @@ ent-BibleNarsie = Tom von Nar'sie
 ent-BibleNanoTrasen = Codex nanotrasimus
     .desc = Ein bekanntes Buch mit den heiligen Arbeitsabläufen.
 
-ent-BibleHonk = Die Freude der Honkmother
+ent-BibleHonk = Die Freude der Honkmutter
     .desc = Oh große und glorreiche Mutter, Herrin der Wunder, Matrone der Maske und der Frömmigkeit, gesegnet sei sie unter uns Narren.
 
 ent-BibleRatvar = Tafel von Ratvar

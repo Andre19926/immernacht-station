@@ -4,5 +4,5 @@ ent-MobDebugCounter = Fehlerzähler
 ent-MobDebugRandomCounter = Debug-Zufallszähler
     .desc = Er kann randomisieren
 
-ent-MobDebugRandomLess = Debug random weniger
+ent-MobDebugRandomLess = Debug-Zufall (weniger)
     .desc = Er kann verringern

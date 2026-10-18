@@ -49,7 +49,7 @@ ent-DrinkHotCoco = Heiße Schokolade
 ent-DrinkHotCoffee = Kaffee
     .desc = Kaffee ist ein aufgebrühtes Getränk aus gerösteten Samen der Kaffeepflanze, gemeinhin Kaffeebohnen genannt.
 
-ent-DrinkCafeLatte = Cafe Latte
+ent-DrinkCafeLatte = Café Latte
     .desc = Ein schönes, starkes, leckeres Getränk zum Lesen.
 
 ent-DrinkTeacup = Tee

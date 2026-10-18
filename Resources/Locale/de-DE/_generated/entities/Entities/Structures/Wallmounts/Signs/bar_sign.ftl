@@ -21,10 +21,10 @@ ent-BarSignOfficerBeersky = Offizier Beersky
 ent-BarSignRobustaCafe = Robusta Cafe
     .desc = Inhaber des Rekords für die „tödlichsten Kneipenschlägereien“, seit 5 Jahren ungeschlagen.
 
-ent-BarSignTheAleNath = Der Ale Nath
+ent-BarSignTheAleNath = Das Ale Nath
     .desc = In Ordnung, Kumpel. Ich glaube, du hattest genug. Zeit für ein Taxi.
 
-ent-BarSignTheBirdCage = Der Bird Cage
+ent-BarSignTheBirdCage = Der Vogelkäfig
     .desc = Caw Caw!
 
 ent-BarSignTheCoderbus = Der Coderbus
@@ -48,7 +48,7 @@ ent-BarSignTheLooseGoose = Die lose Gans
 ent-BarSignTheNet = Das Netz
     .desc = Du scheinst darin stundenlang festzusitzen.
 
-ent-BarSignTheOuterSpess = Die äußere Spess
+ent-BarSignTheOuterSpess = Das äußere Spess
     .desc = Diese Bar befindet sich nicht wirklich im Weltraum.
 
 ent-BarSignTheSingulo = Der Singulo

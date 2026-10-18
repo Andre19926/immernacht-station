@@ -1,4 +1,4 @@
-ent-TeslaCoil = Tesla Coil
+ent-TeslaCoil = Teslaspule
     .desc = Eine Maschine, die Blitze in elektrischen Strom umwandelt.
 
 ent-TeslaGroundingRod = Erdungsstab

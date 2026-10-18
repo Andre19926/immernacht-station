@@ -70,7 +70,7 @@ ent-VendingMachineDiscount = Discount-Dan's-Automat
 ent-VendingMachineEngivend = Engi-Vend
     .desc = Verkauf von Ersatzwerkzeug. Was? Hast du eine witzige Beschreibung erwartet?
 
-ent-VendingMachineMedicalBase = NanoMed Zivilist
+ent-VendingMachineMedicalBase = NanoMed Zivil
     .desc = Es ist ein Medikamentenspender. Nur natürliche Chemikalien!
 
 ent-VendingMachineMedical = NanoMed Plus

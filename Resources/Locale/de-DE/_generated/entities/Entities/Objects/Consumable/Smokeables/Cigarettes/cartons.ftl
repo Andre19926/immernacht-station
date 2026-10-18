@@ -1,10 +1,10 @@
-ent-CigCartonGreen = Spessman-Rauchkarton
+ent-CigCartonGreen = Spessman-Zigarettenstange
     .desc = Ein Karton mit 6 Packungen Spessman's Smokes.
 
-ent-CigCartonRed = DromedaryCo Karton
+ent-CigCartonRed = DromedaryCo-Zigarettenstange
     .desc = Ein Karton mit 6 Packungen Dromedarycos.
 
-ent-CigCartonBlue = AcmeCo-Karton
+ent-CigCartonBlue = AcmeCo-Zigarettenstange
     .desc = Ein Karton mit 6 Packungen AcmeCo.
 
 ent-CigCartonBlack = Nomadenkarton

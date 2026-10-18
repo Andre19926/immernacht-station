@@ -22,7 +22,7 @@ ent-MailVoyageAdvertisementSpam = Begleite uns auf der Jungfernreise!
 ent-MailScienceSpiderClanSpam = Müde von der Wissenschaft in die Luft?
     .desc = Befolge diese einfachen Schritte, um sicherzustellen, dass es nie wieder passiert!
 
-ent-MailAllAccessSpam = FREI ALLE AXCESS!!!
+ent-MailAllAccessSpam = FREIER AXXESS FÜR ALLE!!!
     .desc = Wolltest du schon immer freien Zugang?!
 
 ent-MailCentcommRetributionSpam = HINWEIS VON NANOTRASN!!

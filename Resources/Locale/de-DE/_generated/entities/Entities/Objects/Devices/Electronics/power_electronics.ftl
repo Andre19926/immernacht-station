@@ -10,5 +10,5 @@ ent-WallmountGeneratorElectronics = Wandmontage-Generatorelektronik
 ent-WallmountGeneratorAPUElectronics = APU-Elektronik
     .desc = Schaltung zum Bau einer Wand-APU.
 
-ent-SolarTrackerElectronics = Solar Tracker Elektronik
+ent-SolarTrackerElectronics = Solartracker-Elektronik
     .desc = Fortschrittliche Platine zur Verfolgung des nächsten Sterns.

@@ -1,4 +1,4 @@
-ent-TreasureDatadiskEncrypted = Verschlüsselte DataDisk
+ent-TreasureDatadiskEncrypted = Verschlüsselte Datendiskette
     .desc = Eine alte Datenplatte. Jemand Schlaueres als du könnte sie entschlüsseln und etwas Saftiges lernen. Du kannst sie nur verkaufen.
 
 ent-TreasureHardDiskDrive = Festplattenlaufwerk

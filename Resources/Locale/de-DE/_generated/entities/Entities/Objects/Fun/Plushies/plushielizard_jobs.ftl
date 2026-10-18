@@ -7,10 +7,10 @@ ent-PlushieLizardJobBartender = Barkeeper-Echse Plüschtier
 ent-PlushieLizardJobBotanist = Botanische Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Botaniker ähnelt. Es gibt stachelige Stücke an seinen Füßen und es riecht schwach nach Pflanzendünger.
 
-ent-PlushieLizardJobBoxer = Boxer-Echse Plüschtier
+ent-PlushieLizardJobBoxer = Boxer-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Boxer ähnelt. Die Fäden an seinen Handschuhen beginnen sich zu lösen.
 
-ent-PlushieLizardJobCaptain = Kapitän Lizard Plüschtier
+ent-PlushieLizardJobCaptain = Kapitän-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie dem Kapitän ähnelt. Es gibt Teile von Kuchen auf seinem Gesicht.
 
 ent-PlushieLizardJobCargotechnician = Frachttechniker-Echse Plüschtier
@@ -25,19 +25,19 @@ ent-PlushieLizardJobChef = Koch-Lizarde Plüschtier
 ent-PlushieLizardJobChemist = Chemiker-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Chemiker ähnelt. Teile des Plüschtiers sind mit Chemikalien gefärbt.
 
-ent-PlushieLizardJobChiefengineer = Chefingenieur Lizard Plüschtier
+ent-PlushieLizardJobChiefengineer = Chefingenieur-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie dem Chefingenieur ähnelt. Es ist mit Metallspäne und Schweißspritzer bedeckt.
 
 ent-PlushieLizardJobChiefmedicalofficer = Chefarzt-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Chefarzt ähnelt. Der Schwanz des Plüschtiers wurde wieder und wieder genäht, wahrscheinlich von einer chirurgischen Operation.
 
-ent-PlushieLizardJobClown = Clown-Echse Plüschtier
+ent-PlushieLizardJobClown = Clown-Echsen-Plüschtier
     .desc = Ein Kuschelspielzeug, das einem Clown ähnelt. Seine Nase quietscht, wenn du es drückst.
 
 ent-PlushieLizardJobDetective = Detektiv-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Detektiv ähnelt. Scheint bereit für ein Geheimnis.
 
-ent-PlushieLizardJobHeadofpersonnel = Leiterin Personal lizard Plüschtier
+ent-PlushieLizardJobHeadofpersonnel = Personalchef-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Personalchef ähnelt. Während es von außen begeistert scheint, ist es wahrscheinlich genauso gelangweilt wie du.
 
 ent-PlushieLizardJobHeadofsecurity = Sicherheitschefin Plüschtier
@@ -46,7 +46,7 @@ ent-PlushieLizardJobHeadofsecurity = Sicherheitschefin Plüschtier
 ent-PlushieLizardJobJanitor = Hausmeister-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Hausmeister ähnelt. Es riecht schwach nach Reinigungsmitteln.
 
-ent-PlushieLizardJobLawyer = Rechtsanwalt Lizard Plüschtier
+ent-PlushieLizardJobLawyer = Anwalt-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Anwalt ähnelt. Seine Anwaltsnadel hängt kaum von Stunden des Zappelns.
 
 ent-PlushieLizardJobLibrarian = Bibliothekar-Echse Plüschtier
@@ -58,7 +58,7 @@ ent-PlushieLizardJobMedicaldoctor = Arzt Echse Plüschtier
 ent-PlushieLizardJobMedicalintern = Medizinische Internierte Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als medizinischer Praktikant ähnelt. Es riecht schwach nach Antiseptikum.
 
-ent-PlushieLizardJobMime = Mime Echse Plüschtier
+ent-PlushieLizardJobMime = Mime-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Mime ähnelt. Es starrt dich still an, seine Motive unbekannt.
 
 ent-PlushieLizardJobMusician = Musiker-Echse Plüschtier
@@ -76,16 +76,16 @@ ent-PlushieLizardJobPsychologist = Psychologin Echse Plüschtier
 ent-PlushieLizardJobQuartermaster = Quartiermeister-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie dem Quartiermeister ähnelt. Es ist mit klebrigen Rückständen bedeckt, die von Tausenden von Versandrechnungen zurückgelassen wurden.
 
-ent-PlushieLizardJobReporter = Reporterin Lizard Plüschtier
+ent-PlushieLizardJobReporter = Reporter-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Reporter ähnelt. Es riecht schwach nach Tinte.
 
 ent-PlushieLizardJobResearchassistant = Forschungsassistentin Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Forschungsassistentin ähnelt. Es riecht schwach nach verbranntem Papier.
 
-ent-PlushieLizardJobResearchdirector = Forschungsleiterin Lizard Plüschtier
+ent-PlushieLizardJobResearchdirector = Forschungsleiter-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse wie dem Forschungsdirektor ähnelt. Es gibt ein paar Brandspuren auf dem Plüschtier.
 
-ent-PlushieLizardJobSalvagespecialist = Salvage-Spezialistin Plüschtier
+ent-PlushieLizardJobSalvagespecialist = Salvage-Spezialist-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsen als Salvage-Spezialisten ähnelt. Es scheint, als ob es die Kälte des Weltraums für eine Weile gesehen hat.
 
 ent-PlushieLizardJobScientist = Wissenschaftler-Echse Plüschtier
@@ -94,7 +94,7 @@ ent-PlushieLizardJobScientist = Wissenschaftler-Echse Plüschtier
 ent-PlushieLizardJobSecuritycadet = Sicherheitskadetten-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Sicherheitskadett ähnelt. Scheint Stoßspuren über das Plüschtier zu haben.
 
-ent-PlushieLizardJobSecurityofficer = Sicherheitsbeauftragte Lizard Plüschtier
+ent-PlushieLizardJobSecurityofficer = Sicherheitsbeamter-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Sicherheitsbeamten ähnelt. Die Füllung wurde von einer Menge Stanzen gepolstert.
 
 ent-PlushieLizardJobServiceworker = Servicearbeiter Echse Plüschtier
@@ -103,10 +103,10 @@ ent-PlushieLizardJobServiceworker = Servicearbeiter Echse Plüschtier
 ent-PlushieLizardJobStationengineer = Stationsingenieur-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Stationsingenieur ähnelt. Es hat Ölflecken an seinen Händen.
 
-ent-PlushieLizardJobTechnicalassistant = Technischer Assistent Lizard Plüschtier
+ent-PlushieLizardJobTechnicalassistant = Technischer-Assistent-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als technischer Assistent ähnelt. Es riecht schwach nach verbrannten Drähten.
 
-ent-PlushieLizardJobWarden = Warden-Echse Plüschtier
+ent-PlushieLizardJobWarden = Warden-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Warden ähnelt. Riecht nach schwarzem Pulver und Pistolenöl.
 
 ent-PlushieLizardJobZookeeper = Zoowärter-Echse Plüschtier

@@ -58,7 +58,7 @@ ent-ClothingHeadHatHoodWinterCargo = Frachtwintermantelhaube
 ent-ClothingHeadHatHoodWinterCE = Wintermantelhaube des Chefingenieurs
     .desc = Eine Haube, die den Kopf warm halten soll.
 
-ent-ClothingHeadHatHoodWinterCentcom = CentComm Winter Mantelhaube
+ent-ClothingHeadHatHoodWinterCentcom = CentComm-Wintermantelkapuze
     .desc = Eine Haube, die den Kopf des CentComm-Kommandanten warm hält.
 
 ent-ClothingHeadHatHoodWinterChem = Chemische Wintermantelhaube

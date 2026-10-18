@@ -1,4 +1,4 @@
-ent-ActionBorgSwapModule = Swap-Modul
+ent-ActionBorgSwapModule = Modul wechseln
     .desc = Wähle dieses Modul aus, um die bereitgestellten Werkzeuge zu verwenden.
 
 ent-BorgModuleCable = Kabel-Cyborg-Modul

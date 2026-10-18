@@ -10,7 +10,7 @@ ent-ClothingUniformJumpskirtCargo = Frachttechniker-Arbeitskleidung (Rock)
 ent-ClothingUniformJumpskirtChiefEngineer = Chefingenieursuniform (Rock)
     .desc = Ein Uniformrock mit hoher Sichtbarkeit, verliehen an Ingenieure, die verrückt genug sind, den Rang des Chefingenieurs zu erreichen.
 
-ent-ClothingUniformJumpskirtChiefEngineerTurtle = Turtleneck des Chefingenieurs (Rock)
+ent-ClothingUniformJumpskirtChiefEngineerTurtle = Rollkragen des Chefingenieurs (Rock)
     .desc = Ein gelber Rollkragenpullover, speziell für die Arbeit unter den Bedingungen der Ingenieurabteilung entwickelt.
 
 ent-ClothingUniformJumpskirtChaplain = Kaplanuniform (Rock)
@@ -37,7 +37,7 @@ ent-ClothingUniformJumpskirtCMOTurtle = Chefarzt-Rollkragenuniform (Rock)
 ent-ClothingUniformJumpskirtDetective = Detektivuniform (Rock)
     .desc = Wer das trägt, meint es ernst.
 
-ent-ClothingUniformJumpskirtDetectiveGrey = Noir suitskit
+ent-ClothingUniformJumpskirtDetectiveGrey = Noir-Hosenanzug (Rock)
     .desc = Ein abgebrühter grauer Privatdetektivanzug samt Krawattenklammer.
 
 ent-ClothingUniformJumpskirtEngineering = Ingenieurs-Arbeitskleidung (Rock)
@@ -102,7 +102,7 @@ ent-ClothingUniformJumpskirtWarden = Warden-Uniform (Rock)
 ent-ClothingUniformJumpskirtLibrarian = Bibliothekaruniform (Rock)
     .desc = Ein gemütlicher grüner Pullover, passend für einen Bibliothekar.
 
-ent-ClothingUniformJumpskirtCurator = Sensible Rock
+ent-ClothingUniformJumpskirtCurator = Vernünftiger Rock
     .desc = Er ist vernünftig. Zu vernünftig ...
 
 ent-ClothingUniformJumpskirtPerformer = Künstleruniform (Rock)
@@ -192,7 +192,7 @@ ent-ClothingUniformJumpskirtOldDress = altes Kleid
 ent-ClothingUniformJumpskirtMusician = Rockmusiker
     .desc = Ein schicker Rock für musikalisch Veranlagte. Perfekt für jeden Lounge-Auftritt!
 
-ent-ClothingUniformJumpskirtPsychologist = Psychologe suitskirt
+ent-ClothingUniformJumpskirtPsychologist = Psychologen-Hosenanzug (Rock)
     .desc = Ich verliere nichts. Ich lege Dinge an Orten ab, die mir später entfallen.
 
 ent-ClothingUniformJumpskirtClown = Clownrock

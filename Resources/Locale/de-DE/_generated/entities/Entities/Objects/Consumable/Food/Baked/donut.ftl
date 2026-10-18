@@ -1,4 +1,4 @@
-ent-FoodDonutPlain = Plain Donut
+ent-FoodDonutPlain = Einfacher Donut
     .desc = Passt gut zu kräftigem Kaffee.
 
 ent-FoodDonutJellyPlain = Gelee-Donut
@@ -7,7 +7,7 @@ ent-FoodDonutJellyPlain = Gelee-Donut
 ent-FoodDonutHomer = Donut
     .desc = Passt gut zu kräftigem Kaffee.
 
-ent-FoodDonutChaos = Chaos Donut
+ent-FoodDonutChaos = Chaos-Donut
     .desc = Wie das Leben schmeckt es nie ganz gleich.
 
 ent-FoodDonutMeat = Fleischdonut
@@ -31,10 +31,10 @@ ent-FoodDonutChocolate = Schokoladen-Donut
 ent-FoodDonutBluePumpkin = Blauer Kürbis-Donut
     .desc = Passt hervorragend zu einer Tasse beruhigendem betrunkenem blauem Kürbis.
 
-ent-FoodDonutBungo = Bungo donut
+ent-FoodDonutBungo = Bungo-Donut
     .desc = Passt hervorragend zu einem Einmachglas Hippie-Freude.
 
-ent-FoodDonut = Matcha donut
+ent-FoodDonut = Matcha-Donut
     .desc = Das L-Theanin in diesem Donut wirkt entspannend, aber nicht euphorisierend. Passt gut zu einer Tasse Tee.
 
 ent-FoodDonutSweetpea = Süßerbsen-Donut
@@ -58,7 +58,7 @@ ent-FoodDonutJellyCaramel = Karamellgelee-Donut
 ent-FoodDonutJellyChocolate = Schokoladengelee-Donut
     .desc = Passt gut zu einem Glas warmer Milch.
 
-ent-FoodDonutJellyBluePumpkin = Blauer Kürbis, Gelee-Donut
+ent-FoodDonutJellyBluePumpkin = Blauer-Kürbis-Gelee-Donut
     .desc = Passt hervorragend zu einer Tasse beruhigendem betrunkenem blauem Kürbis.
 
 ent-FoodDonutJellyBungo = Bungogelee-Donut
@@ -67,7 +67,7 @@ ent-FoodDonutJellyBungo = Bungogelee-Donut
 ent-FoodDonutJelly = Matcha-Gelee-Donut
     .desc = Das L-Theanin in diesem Gelee-Donut wirkt entspannend, aber nicht euphorisierend. Passt gut zu einer Tasse Tee.
 
-ent-FoodDonutJellySweetpea = Gelee-Donut-Süßerbsen
+ent-FoodDonutJellySweetpea = Süßerbsen-Gelee-Donut
     .desc = Passt hervorragend zu einer Flasche Bastion Burbon!
 
 ent-FoodDonutJellyScurret = Gelee-Scurret-Donut

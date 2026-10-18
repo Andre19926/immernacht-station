@@ -55,7 +55,7 @@ ent-ClothingHeadHelmetHardsuitSyndieElite = Syndicate-Elite-Hardsuit-Helm
 ent-ClothingHeadHelmetHardsuitSyndieCommander = Syndicate-Hardsuit-Helm
     .desc = Eine aufgeblähte Version des blutroten Hardsuit-Helms, speziell für den Kommandanten eines Syndicate-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
 
-ent-ClothingHeadHelmetHardsuitCybersun = Cybersonne Juggernaut Helm
+ent-ClothingHeadHelmetHardsuitCybersun = Cybersun-Juggernaut-Helm
     .desc = Dieser Helm wurde in der Tau-Chromosphären-Anlage aus komprimierter roter Materie gefertigt.
 
 ent-ClothingHeadHelmetHardsuitWizard = Zauberer-Hardsuit-Helm
@@ -64,7 +64,7 @@ ent-ClothingHeadHelmetHardsuitWizard = Zauberer-Hardsuit-Helm
 ent-ClothingHeadHelmetHardsuitLing = Bio-Weltraumhelm
     .desc = Eine raumtaugliche Biomasse aus druck- und temperaturbeständigem Gewebe.
 
-ent-ClothingHeadHelmetHardsuitPirateEVA = Deep Space EVA Helm
+ent-ClothingHeadHelmetHardsuitPirateEVA = Deep-Space-EVA-Helm
     .desc = Ein EVA-Helm für den tiefen Weltraum, sehr schwer, bietet aber guten Schutz.
 
 ent-ClothingHeadHelmetHardsuitPirateCap = Piratenkapitän-Hardsuit-Helm

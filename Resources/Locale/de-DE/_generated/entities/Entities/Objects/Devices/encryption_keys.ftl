@@ -13,7 +13,7 @@ ent-EncryptionKeyStationMaster = Stationsmaster-Verschlüsselungsschlüssel
 ent-EncryptionKeyCommand = Befehlsverschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel für die Chefs der Crew.
 
-ent-EncryptionKeyEngineering = Engineering-Verschlüsselungsschlüssel
+ent-EncryptionKeyEngineering = Technik-Verschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel für Ingenieure.
 
 ent-EncryptionKeyMedical = medizinischer Verschlüsselungsschlüssel

@@ -10,7 +10,7 @@ ent-MobRatServant = Rattenbediensteter
 ent-ActionRatKingRaiseArmy = Hebung der Armee
     .desc = Gib etwas Hunger auf, um eine verbündete Ratte zu beschwören, die dich verteidigt.
 
-ent-ActionRatKingDomain = Die Domain von Rat King
+ent-ActionRatKingDomain = Domäne des Rattenkönigs
     .desc = Gib etwas Hunger auf, um eine Ammoniakwolke in die Luft freizusetzen.
 
 ent-ActionRatKingOrderStay = Aufenthalt

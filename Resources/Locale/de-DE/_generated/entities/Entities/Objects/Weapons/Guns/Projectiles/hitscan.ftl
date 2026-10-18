@@ -14,8 +14,8 @@ ent-XrayLaser = Röntgenimpulsstrahl
 
 ent-Pulse = Blauer Hochenergielaserstrahl
 
-ent-RedShuttleLaser = Shuttle Klasse Roter Laser
+ent-RedShuttleLaser = Roter Shuttle-Laser
 
 ent-DebugLaser = Debug-Laserstrahl
 
-ent-DebugLaserGib = Debug Gibbing Roche
+ent-DebugLaserGib = Debug-Gib-Laser

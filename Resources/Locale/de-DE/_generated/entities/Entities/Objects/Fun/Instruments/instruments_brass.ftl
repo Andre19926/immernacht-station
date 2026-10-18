@@ -1,7 +1,7 @@
 ent-TrumpetInstrument = Trompete
     .desc = Das Lieblingsinstrument von Jazzmusikern und egozentrischen Mittelschülern.
 
-ent-TromboneInstrument = Trombone
+ent-TromboneInstrument = Posaune
     .desc = Das Lieblingsinstrument aller: die Posaune.
 
 ent-FrenchHornInstrument = Französisches Horn

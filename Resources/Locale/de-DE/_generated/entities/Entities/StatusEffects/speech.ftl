@@ -4,6 +4,6 @@ ent-StatusEffectSlurred = verwaschen
 
 ent-StatusEffectScrambled = verkrampft
 
-ent-StatusEffectOwO = Owoaccent
+ent-StatusEffectOwO = OwO-Akzent
 
 ent-StatusEffectBark = Barkakcent

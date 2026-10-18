@@ -42,7 +42,7 @@ ent-FoodBoxDonkpocketBerry = Schachtel mit Donktaschen mit Beerengeschmack
 ent-FoodBoxDonkpocketHonk = Schachtel mit Donktaschen mit Bananengeschmack
     .desc = Anleitung: In der Mikrowelle erwärmen. Das Produkt kühlt ab, wenn es nicht innerhalb von sieben Minuten gegessen wird.
 
-ent-FoodBoxDonkpocketDink = Kiste mit Dink-Taschen
+ent-FoodBoxDonkpocketDink = Schachtel mit Dink-Taschen
     .desc = Netto null Kohlenhydrate! Kein Aufwärmen nötig!
 
 ent-FoodBoxDonkpocketMoth = Kiste von Mottentaschen
@@ -66,7 +66,7 @@ ent-HappyHonkCluwne = Happy-Honk-Menü (Cluwne)
 ent-FoodMealHappyHonkClown = Happy-Honk-Menü (Clown)
     .desc = Das Spielzeug ist genießbarer als das Essen.
 
-ent-FoodMealHappyHonkBigBite = Happy Honk Big Bite Mahlzeit
+ent-FoodMealHappyHonkBigBite = Happy-Honk-Big-Bite-Menü
     .desc = Jemand hat gutes Geld bezahlt, um diese Fast-Food-Mahlzeit so verschicken zu lassen. Sie riecht irgendwie frisch.
 
 ent-FoodBoxCloth = Schachtel mit Stoff der Marke FlutterSoft

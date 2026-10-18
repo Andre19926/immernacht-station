@@ -40,7 +40,7 @@ ent-BorgDropper = Hydraulikpipette
 ent-Syringe = Spritze
     .desc = Dient dazu, Mobs Blutproben zu entnehmen oder ihnen Reagenzien zu injizieren.
 
-ent-SyringeBluespace = bluespace Spritze
+ent-SyringeBluespace = Bluespace-Spritze
     .desc = Injektion mittels fortschrittlicher Bluespace-Technologie.
 
 ent-SyringeCryostasis = Cryostase Spritze

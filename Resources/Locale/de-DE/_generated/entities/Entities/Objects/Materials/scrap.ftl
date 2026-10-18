@@ -28,7 +28,7 @@ ent-ScrapCloset = Schranktür
 ent-ScrapFaxMachine = Faxgerät
     .desc = Das unglückliche Ergebnis davon, dass zu viel ASCII-Kunst an CentComm geschickt wurde.
 
-ent-ScrapFireExtinguisher = Split-Feuerlöscher
+ent-ScrapFireExtinguisher = Zersplitterter Feuerlöscher
     .desc = Der große Schlampenfleck in der Mitte macht dem vorherigen Benutzer Sorgen.
 
 ent-ScrapFirelock1 = Brandschutztür
@@ -52,25 +52,25 @@ ent-ScrapMedkit = Schnappschüssel Medkit
 ent-ScrapMopBucket = Halber Wischbecher
     .desc = Tider sterben. Hausmeister überleben.
 
-ent-ScrapPAI = Personal-KI-Gerät
+ent-ScrapPAI = Persönliches KI-Gerät (Schrott)
     .desc = Ein Kumpel! Bist du noch da? Hallo? Kumpel???
 
-ent-ScrapPAIGold = vergoldetes Personal KI Gerät
+ent-ScrapPAIGold = Vergoldetes Persönliches KI-Gerät (Schrott)
     .desc = Wow! Was für ein Jahrhundertfund! Das wäre ein Vermögen wert ... wenn es in gutem Zustand wäre.
 
 ent-ScrapTube = zerbrochenes Probenröhrchen
     .desc = Eine Glasröhre mit einer seltenen Probe. Oder sie hat zumindest eine enthalten. Jetzt ist nicht mehr viel drin.
 
-ent-ScrapGeneratorPlasmaLeaking = Austretender P.A.C.M.A.N.-Generator
+ent-ScrapGeneratorPlasmaLeaking = Undichter P.A.C.M.A.N.-Generator
     .desc = Ein alt aussehender P.A.C.M.A.N.-Generator, dessen Plasmatanks undicht geworden sind.
 
-ent-ScrapGeneratorPlasma = alter P.A.C.M.A.N. Generator
+ent-ScrapGeneratorPlasma = Alter P.A.C.M.A.N.-Generator
     .desc = Ein alter P.A.C.M.A.N.-Generator. Er ist in sehr schlechtem Zustand und nicht funktionsfähig.
 
-ent-ScrapGeneratorUraniumLeaking = undichter S.U.P.E.R.P.A.C.M.A.N. Generator
+ent-ScrapGeneratorUraniumLeaking = Undichter S.U.P.E.R.P.A.C.M.A.N.-Generator
     .desc = Ein S.U.P.E.R.P.A.C.M.A.N.-Generator, der einen katastrophalen Ausfall hatte. Uran tritt aus.
 
-ent-ScrapGeneratorUranium = S.U.P.E.R.P.A.C.M.A.N. Generator zerstört
+ent-ScrapGeneratorUranium = Zerstörter S.U.P.E.R.P.A.C.M.A.N.-Generator
     .desc = Ein S.U.P.E.R.P.A.C.M.A.N.-Generator, der einen katastrophalen Ausfall hatte.
 
 ent-ScrapGeneratorFrame = Generatorrahmen

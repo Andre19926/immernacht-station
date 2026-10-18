@@ -1,7 +1,7 @@
-ent-SnapPop = Snap Pop
+ent-SnapPop = Knallerbse
     .desc = Wirf es auf den Boden und hör es KNALLEN!
 
-ent-SnapPopBox = Snap Pop Box
+ent-SnapPopBox = Knallerbsen-Schachtel
     .desc = Enthält Knallerbsen für ein paar Minuten Knallspaß!
 
 ent-PlasticBanana = Bananen
@@ -13,10 +13,10 @@ ent-CrazyGlue = verrückter Kleber
 ent-CrazyLube = Verrücktes Gleitmittel
     .desc = Eine Flasche superrutschiges verrücktes Gleitmittel, hergestellt von Honk! Co.
 
-ent-MrChips = mr Chips
+ent-MrChips = Mr. Chips
     .desc = Es ist ein Dummy, Dummkopf!
 
-ent-MrDips = mr Dips
+ent-MrDips = Mr. Dips
     .desc = Es ist ein Dummy, Dummkopf!
 
 ent-Error = Fehler

@@ -1,8 +1,8 @@
 ent-SignalTimerElectronics = Signalzeitgeberelektronik
     .desc = Eine Elektronikplatine für Zeitschaltkreise. Sieht aus, als könntest du den Platinentyp mit einem Schraubendreher ändern.
 
-ent-ScreenTimerElectronics = Bildschirm Timer Elektronik
+ent-ScreenTimerElectronics = Bildschirmtimer-Elektronik
     .desc = Eine Elektronikplatine für Zeitschaltkreise. Sieht aus, als könntest du den Platinentyp mit einem Schraubendreher ändern.
 
-ent-BrigTimerElectronics = Brig-Timer Elektronik
+ent-BrigTimerElectronics = Brigtimer-Elektronik
     .desc = Eine Elektronikplatine für Zeitschaltkreise. Sieht aus, als könntest du den Platinentyp mit einem Schraubendreher ändern.

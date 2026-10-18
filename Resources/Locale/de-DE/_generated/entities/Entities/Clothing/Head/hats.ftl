@@ -51,7 +51,7 @@ ent-ClothingHeadHatCaptain = Kapitänshelm
 ent-ClothingHeadHatCardborg = Cardborghelm
     .desc = Ein Hut aus einer Schachtel.
 
-ent-ClothingHeadHatCentcom = Markenname CentComm
+ent-ClothingHeadHatCentcom = CentComm-Markenmütze
     .desc = Es fühlt sich gut an, der Chef des Königs zu sein.
 
 ent-ClothingHeadHatChef = Kochhut
@@ -60,7 +60,7 @@ ent-ClothingHeadHatChef = Kochhut
 ent-ClothingHeadHatFedoraBrown = Brauner Fedora
     .desc = Ein brauner Fedora.
 
-ent-ClothingHeadHatFedoraGrey = graue Fedora
+ent-ClothingHeadHatFedoraGrey = Grauer Fedora
     .desc = Ein grauer Fedora.
 
 ent-ClothingHeadHatFez = Fez
@@ -105,7 +105,7 @@ ent-ClothingHeadHatSurgcapGreen = Grüne chirurgische Kappe
 ent-ClothingHeadHatSurgcapPurple = Violette Operationskappe
     .desc = Eine lila Chirurgenhaube, getragen bei Operationen. Hält die Haare davon ab, deine Organe zu kitzeln.
 
-ent-ClothingHeadHatTophat = Tophat
+ent-ClothingHeadHatTophat = Zylinder
     .desc = Ein stilvoller schwarzer Zylinder.
 
 ent-ClothingHeadHatUshanka = Uschanka
@@ -129,7 +129,7 @@ ent-ClothingHeadHatWizardFake = Falscher Zaubererhut
 ent-ClothingHeadHatWizard = Zauberhand
     .desc = Ein seltsam aussehender blauer Hut, der sicherlich einem mächtigen Magier gehört.
 
-ent-ClothingHeadHatXmasCrown = xmas Krone
+ent-ClothingHeadHatXmasCrown = Weihnachtskrone
 
 ent-ClothingHeadHatTrucker = Truckerhut
     .desc = Früher Chuck, dieser Hut ist jetzt deiner.
@@ -161,7 +161,7 @@ ent-ClothingHeadNurseHat = Krankenschwesternhut
 ent-ClothingHeadRastaHat = Rastahut
     .desc = Hier am Strand, Alter.
 
-ent-ClothingHeadSafari = Safari-Hafen
+ent-ClothingHeadSafari = Safarihut
     .desc = Hält dir die Sonne aus den Augen. Macht dich zum Ziel der Einheimischen.
 
 ent-ClothingHeadHatJester = Justerhut
@@ -179,7 +179,7 @@ ent-ClothingHeadHatPirateTricord = Piraterie
 ent-ClothingHeadHatWatermelon = Wassermelone Helm
     .desc = Eine achtlos zurechtgeschnittene Wassermelonenhälfte, innen ausgehöhlt, damit man sie als Helm tragen kann. Sie kann Schläge auf den Kopf abmildern.
 
-ent-ClothingHeadHatHolyWatermelon = Wassermelone halo
+ent-ClothingHeadHatHolyWatermelon = Wassermelonen-Heiligenschein
     .desc = Heiliger Strohsack.
 
 ent-ClothingHeadHatSyndie = Syndicate-Hut
@@ -191,16 +191,16 @@ ent-ClothingHeadHatSyndieMAA = Waffenmeister-Hut
 ent-ClothingHeadHatTacticalMaidHeadband = taktisches Dienstmädchen-Kopfband
     .desc = Ein rotes Stirnband – tu nicht so, als wärst du Rambo, und schnapp dir keine Maschinengewehre.
 
-ent-ClothingHeadHatHetmanHat = Hetman-Haft
+ent-ClothingHeadHatHetmanHat = Hetman-Hut
     .desc = Aus der Saporoger Sitsch, mit Liebe.
 
-ent-ClothingHeadHatMagician = Der Tophat des Magiers
+ent-ClothingHeadHatMagician = Zylinder des Magiers
     .desc = Eine Zaubererbande.
 
 ent-ClothingHeadHatCapcap = Kapitänsmütze
     .desc = Eine großartige, stilvolle Kappe des Kapitäns. Zeigt der Station, wer das Sagen hat.
 
-ent-ClothingHeadHatCentcomcap = Obergrenze für CentComm
+ent-ClothingHeadHatCentcomcap = CentComm-Schirmmütze
     .desc = Eine extravagante, stilvolle Kappe der CentComm-Beamten. Zeigt dem Kapitän, wer das Sagen hat.
 
 ent-ClothingHeadHatGladiator = Gladiatorhelm
@@ -218,13 +218,13 @@ ent-ClothingHeadHatPartyGreen = Grüner Partyhut
 ent-ClothingHeadHatPartyBlue = blauer Partyhut
     .desc = Verbreite Freude!
 
-ent-ClothingHeadHatPartyWaterCup = Water Cup Party Hut
+ent-ClothingHeadHatPartyWaterCup = Wasserbecher-Partyhut
     .desc = Nicht so erfüllend, wie du gehofft hattest ...
 
-ent-ClothingHeadHatGreyFlatcap = grauer Flatcap
+ent-ClothingHeadHatGreyFlatcap = Graue Schiebermütze
     .desc = Mode für die Arbeiterklasse und den alten Jenkins. In der Krempe sind Glassplitter versteckt.
 
-ent-ClothingHeadHatBrownFlatcap = Brauner Flatcap
+ent-ClothingHeadHatBrownFlatcap = Braune Schiebermütze
     .desc = Dummer Clown! Du hast mich schlecht aussehen lassen! In der Krempe sind Glassplitter versteckt.
 
 ent-ClothingHeadHatCowboyBrown = Brauner Cowboyhut

@@ -16,7 +16,7 @@ ent-MedicalRecordsComputerCircuitboard = Krankenakten Computerplatine
 ent-CriminalRecordsComputerCircuitboard = Strafregister Computerplatine
     .desc = Eine Computerplatine für einen Strafregister-Computer.
 
-ent-StationRecordsComputerCircuitboard = Station Aufzeichnungen Computerplatine
+ent-StationRecordsComputerCircuitboard = Stationsakten-Computerplatine
     .desc = Eine Computerplatine für einen Stationsakten-Computer.
 
 ent-CargoRequestComputerCircuitboard = Frachtanfrage Computerplatine
@@ -34,7 +34,7 @@ ent-CargoRequestScienceComputerCircuitboard = Wissenschafts-Anforderungscomputer
 ent-CargoRequestSecurityComputerCircuitboard = Sicherheits-Anforderungscomputer Computerplatine
     .desc = Eine Computerplatine für einen Sicherheits-Anforderungscomputer.
 
-ent-CargoRequestServiceComputerCircuitboard = Service-Anforderungscomputer Computerplatine
+ent-CargoRequestServiceComputerCircuitboard = Service-Anforderungscomputer-Platine
     .desc = Eine Computerplatine für einen Service-Anforderungscomputer.
 
 ent-FundingAllocationComputerCircuitboard = Mittelzuweisung Computerplatine
@@ -43,13 +43,13 @@ ent-FundingAllocationComputerCircuitboard = Mittelzuweisung Computerplatine
 ent-CargoSaleComputerCircuitboard = Frachtverkauf Computerplatine
     .desc = Eine Computerplatine für einen Frachtverkaufs-Computer.
 
-ent-CargoBountyComputerCircuitboard = Fracht Bounty Computerplatine
+ent-CargoBountyComputerCircuitboard = Fracht-Kopfgeld-Computerplatine
     .desc = Eine Computerplatine für einen Fracht-Kopfgeld-Computer.
 
 ent-SalvageJobBoardComputerCircuitboard = Salvage-Auftragstafel Computerplatine
     .desc = Eine Computerplatine für einen Bergungsaufträge-Computer.
 
-ent-SalvageExpeditionsComputerCircuitboard = Salvage Expeditionen Computerplatine
+ent-SalvageExpeditionsComputerCircuitboard = Salvage-Expeditionen-Computerplatine
     .desc = Eine Computerplatine für einen Bergungsexpeditions-Computer.
 
 ent-CargoShuttleConsoleCircuitboard = Frachtshuttle-Konsole
@@ -73,7 +73,7 @@ ent-ResearchComputerCircuitboard = R&D Computerplatine
 ent-AnalysisComputerCircuitboard = Analyse Computerplatine
     .desc = Eine Computerplatine für eine Analysekonsole.
 
-ent-TechDiskComputerCircuitboard = Tech-Disc-Anschlussplatte
+ent-TechDiskComputerCircuitboard = Techdisk-Anschlussplatine
     .desc = Eine Computerplatine für ein Technologie-Disk-Terminal.
 
 ent-CrewMonitoringComputerCircuitboard = Crewüberwachung Computerplatine
@@ -91,7 +91,7 @@ ent-CommsComputerCircuitboard = Kommunikation Computerplatine
 ent-SyndicateCommsComputerCircuitboard = Syndicate-Kommunikation Computerplatine
     .desc = Eine Computerplatine für eine Syndicate-Kommunikationskonsole.
 
-ent-WizardCommsComputerCircuitboard = Wizard-Kommunikation Computerplatine
+ent-WizardCommsComputerCircuitboard = Zauberer-Kommunikation-Computerplatine
     .desc = Eine Computerplatine für eine Zauberer-Kommunikationskonsole.
 
 ent-CentcommCommsComputerCircuitboard = zentrale Führungskommunikation Computerplatine

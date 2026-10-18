@@ -31,7 +31,7 @@ ent-CrateEngineeringJetpack = Jetpackkiste
 ent-CrateEngineeringMiniJetpack = Mini Jetpack Kiste
     .desc = Zwei Mini-Jetpacks für alle, die eine zusätzliche Herausforderung wollen.
 
-ent-CrateAirlockKit = Luftschleuse-Kit
+ent-CrateAirlockKit = Luftschleusen-Kit
     .desc = Ein Bausatz zum Bau von 6 Luftschleusen, enthält keine Werkzeuge.
 
 ent-CrateEvaKit = EVA-Kit
@@ -49,7 +49,7 @@ ent-CrateParticleDecelerators = Partikelverzögerungsbehälter
 ent-CrateEngineeringSpaceHeater = Raumheizer-Kiste
     .desc = Enthält eine Raumheizung zur Klimatisierung.
 
-ent-CrateTechBoardRandom = Überschuss-Boards
+ent-CrateTechBoardRandom = Überschuss-Platinen
     .desc = Überschüssige Platinen von irgendwoher.
 
 ent-CrateRPD = RPD-Kiste

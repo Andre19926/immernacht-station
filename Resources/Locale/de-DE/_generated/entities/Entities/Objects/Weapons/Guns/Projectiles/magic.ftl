@@ -25,7 +25,7 @@ ent-ProjectileHealingBolt = Heilungsbolzen
 ent-BulletInstakillMagic = magischer Bleizylinder
     .desc = Das kommt dir bekannt vor.
 
-ent-ProjectilePolyboltCluwne = cluwne polybolt CAS-Nr.
+ent-ProjectilePolyboltCluwne = Cluwne-Polybolzen
 
 ent-ProjectileIcicle = Eiszapfen
 

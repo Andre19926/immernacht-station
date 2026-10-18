@@ -4,7 +4,7 @@ ent-ClothingBeltSheath = Säbelschale
 ent-ClothingBeltQuiver = Köcher
     .desc = Kann bis zu 15 Pfeile halten und passt eng um deine Taille.
 
-ent-ClothingBeltBandolier = Bandolier
+ent-ClothingBeltBandolier = Bandelier
     .desc = Ein Patronengurt für Schrotflintenmunition.
 
 ent-ClothingBeltWand = Stabgurt

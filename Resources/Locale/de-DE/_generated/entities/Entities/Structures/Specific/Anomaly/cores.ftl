@@ -28,7 +28,7 @@ ent-AnomalyCoreFlora = Flora Anomalie Kern
 ent-AnomalyCoreShadow = Schattenanomalienkern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
-ent-AnomalyCoreTech = Tech Anomalie Core
+ent-AnomalyCoreTech = Tech-Anomaliekern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreSanta = Santa Anomalie Kern
@@ -64,7 +64,7 @@ ent-AnomalyCoreFloraInert = Flora Anomalie Kern
 ent-AnomalyCoreShadowInert = Schattenanomalienkern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
-ent-AnomalyCoreTechInert = Tech Anomalie Core
+ent-AnomalyCoreTechInert = Tech-Anomaliekern
     .desc = Der Kern eines zerstörten, unbegreiflichen Objekts.
 
 ent-AnomalyCoreSantaInert = Santa Anomalie Kern

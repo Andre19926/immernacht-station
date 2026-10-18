@@ -10,7 +10,7 @@ ent-Telecrystal5 = Telekristall
 ent-Telecrystal10 = Telekristall
     .desc = Es scheint vor verdächtig verlockenden Energien zu pulsieren.
 
-ent-BaseUplinkRadio = Syndicate Uplink
+ent-BaseUplinkRadio = Syndicate-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
 ent-BaseUplinkRadio50TC = Syndicate Uplink
@@ -34,5 +34,5 @@ ent-BaseUplinkRadio350TC = Syndicate Uplink
 ent-BaseUplinkRadioDebug = Syndicate Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkContractor = Auftragnehmer Uplink
+ent-BaseUplinkContractor = Auftragnehmer-Uplink
     .desc = Ein Handterminal mit Zugriff auf den Gildenladen und das Kopfgeldbrett.

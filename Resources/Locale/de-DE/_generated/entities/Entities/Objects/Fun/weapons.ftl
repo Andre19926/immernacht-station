@@ -10,7 +10,7 @@ ent-RevolverCapGun = Zündplättchenpistole
 ent-RevolverCapGunFake = Zündplättchenpistole
     .desc = Sieht fast aus wie das echte Ding! Ab 8 Jahren.
 
-ent-WeaponStickyHand = klebrige Hand
+ent-WeaponStickyHand = Klebrige Hand
     .desc = Du sagst, du kommst weit. Du sagst, es ist ein Stück. Du zeigst es ihnen allen, und du klebst es ihnen an.
 
 ent-FoamBlade = Schaumstoffblatt

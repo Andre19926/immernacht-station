@@ -12,7 +12,7 @@ ent-SpawnMobLuminousPerson = Leuchtpersonen-Spawner
 
 ent-SpawnMobOreCrab = Erzkrabben-Spawner
 
-ent-SpawnMobSmallPurpleSnake = Kleine Purple-Snake-Spawner
+ent-SpawnMobSmallPurpleSnake = Kleine-Lila-Schlange-Spawner
 
 ent-SpawnMobWatcherLavaland = Lavaland-Beobachter-Spawner
 

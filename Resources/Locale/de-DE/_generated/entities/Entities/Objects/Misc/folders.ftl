@@ -81,7 +81,7 @@ ent-BoxFolderCentCom = Ordner CentComm
 ent-BoxFolderCentComThreePapers = Ordner CentComm
     .desc = CentComms erbärmlicher kleiner Haufen Geheimnisse!
 
-ent-BoxFolderClipboardEmpty = Clipboard
+ent-BoxFolderClipboardEmpty = Klemmbrett
     .desc = Die Waffe der Wahl für alle an der Front der Bürokratie.
 
 ent-BoxFolderClipboard = Clipboard
@@ -90,7 +90,7 @@ ent-BoxFolderClipboard = Clipboard
 ent-BoxFolderClipboardThreePapers = Clipboard
     .desc = Die Waffe der Wahl für alle an der Front der Bürokratie.
 
-ent-BoxFolderPlasticClipboardEmpty = Clipboard aus Kunststoff
+ent-BoxFolderPlasticClipboardEmpty = Klemmbrett aus Kunststoff
     .desc = Ein billiges Klemmbrett aus blauem Kunststoff. Für alle, die noch nicht bereit sind, die bürokratische Macht eines richtigen Holzklemmbretts auszuüben.
 
 ent-BoxFolderPlasticClipboard = Clipboard aus Kunststoff
@@ -99,7 +99,7 @@ ent-BoxFolderPlasticClipboard = Clipboard aus Kunststoff
 ent-BoxFolderPlasticClipboardThreePapers = Clipboard aus Kunststoff
     .desc = Ein billiges Klemmbrett aus blauem Kunststoff. Für alle, die noch nicht bereit sind, die bürokratische Macht eines richtigen Holzklemmbretts auszuüben.
 
-ent-BoxFolderCentComClipboardEmpty = CentComm Clipboard
+ent-BoxFolderCentComClipboardEmpty = CentComm-Klemmbrett
     .desc = Ein luxuriöses Klemmbrett mit grünem Samt. Oft getragen von CentComm-Beamten, selten tatsächlich benutzt.
 
 ent-BoxFolderCentComClipboard = CentComm Clipboard

@@ -1,4 +1,4 @@
-ent-ClothingNeckLGBTPin = LGBT Pin
+ent-ClothingNeckLGBTPin = LGBT-Anstecker
     .desc = Sei schwul und begehe Verbrechen.
 
 ent-ClothingNeckAllyPin = gerader Verbündeterstift
@@ -7,7 +7,7 @@ ent-ClothingNeckAllyPin = gerader Verbündeterstift
 ent-ClothingNeckAromanticPin = Aromantischer Stift
     .desc = Sei aro und begehe Verbrechen.
 
-ent-ClothingNeckAroacePin = Aroace Pin
+ent-ClothingNeckAroacePin = Aroace-Anstecker
     .desc = Sei aroace und begehe Verbrechen.
 
 ent-ClothingNeckAsexualPin = Asexuelle Pinsel
@@ -19,7 +19,7 @@ ent-ClothingNeckBisexualPin = Bisexuelle Pinsel
 ent-ClothingNeckGayPin = Gay Pin
     .desc = Sei schwul und begehe Verbrechen.
 
-ent-ClothingNeckIntersexPin = Intersex-Pin
+ent-ClothingNeckIntersexPin = Intersex-Anstecker
     .desc = Sei intersexuell und begehe Verbrechen.
 
 ent-ClothingNeckLesbianPin = Lesben Pin
@@ -36,13 +36,13 @@ ent-ClothingNeckPluralPin = mehrere Stifte
 ent-ClothingNeckOmnisexualPin = Omnisexueller Pinsel
     .desc = Sei omni und begehe Verbrechen.
 
-ent-ClothingNeckGenderqueerPin = Genderqueer Pin
+ent-ClothingNeckGenderqueerPin = Genderqueer-Anstecker
     .desc = Sei genderqueer und begehe Verbrechen.
 
-ent-ClothingNeckGenderfluidPin = Genderfluid Pin
+ent-ClothingNeckGenderfluidPin = Genderfluid-Anstecker
     .desc = Sei genderfluid und begehe Verbrechen.
 
-ent-ClothingNeckTransPin = Transgender Pin
+ent-ClothingNeckTransPin = Transgender-Anstecker
     .desc = Sei trans und begehe Verbrechen.
 
 ent-ClothingNeckAutismPin = neurodivergenter Pin

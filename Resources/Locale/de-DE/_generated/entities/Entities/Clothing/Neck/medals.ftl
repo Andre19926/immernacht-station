@@ -1,4 +1,4 @@
-ent-ClothingNeckBronzeheart = Bronzeheart Medaille
+ent-ClothingNeckBronzeheart = Bronzeherz-Medaille
     .desc = Verliehen an Crewkameraden für beispielhaften Mut angesichts der Gefahr.
 
 ent-ClothingNeckGoldmedal = Goldmedaille für Crewmanship

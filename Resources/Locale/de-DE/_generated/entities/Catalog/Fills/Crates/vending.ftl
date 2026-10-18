@@ -4,7 +4,7 @@ ent-CrateVendingMachineRestockBoozeFilled = Booze-O-Mat-Nachfüllkiste
 ent-CrateVendingMachineRestockChefvendFilled = ChefVend-Nachfüllkiste
     .desc = Enthält eine Restockbox für das ChefVend.
 
-ent-CrateVendingMachineRestockClothesFilled = clothing-Nachfüllkiste
+ent-CrateVendingMachineRestockClothesFilled = Kleidungs-Nachfüllkiste
     .desc = Enthält eine Aufstockbox für die Kleiderautomaten.
 
 ent-CrateVendingMachineRestockAutoDrobeFilled = AutoDrobe-Nachfüllkiste
@@ -61,7 +61,7 @@ ent-CrateVendingMachineRestockTankDispenserFilled = Tankspender-Nachfüllkiste
 ent-CrateVendingMachineRestockHappyHonkFilled = Happy Honk-Nachfüllkiste
     .desc = Enthält eine Restockbox für einen Happy Honk Dispenser.
 
-ent-CrateVendingMachineRestockGetmoreChocolateCorpFilled = Getmore Chocolate Corp-Nachfüllkiste
+ent-CrateVendingMachineRestockGetmoreChocolateCorpFilled = Getmore-Chocolate-Corp-Nachfüllkiste
     .desc = Enthält eine Aufstockbox für einen Getmore Chocolate Corp Dispenser.
 
 ent-CrateVendingMachineRestockChangFilled = Chang-Nachfüllkiste

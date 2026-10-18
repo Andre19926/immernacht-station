@@ -166,7 +166,7 @@ ent-FoodMeatLizardCutlet = rohes Echsenschnitzel
 ent-FoodMeatSpiderCutlet = rohes Spinnenschnitzel
     .desc = Ein Stück rohes Spinnenfleisch. Kafkaesk.
 
-ent-FoodMeatXenoCutlet = rohes Xeno-Schnitzel
+ent-FoodMeatXenoCutlet = Rohes Xeno-Schnitzel
     .desc = Ein Stück rohes Xeno-Fleisch, tropfend vor Säure.
 
 ent-FoodMeatTomatoCutlet = Rohes Killer-Tomatenschnitzel

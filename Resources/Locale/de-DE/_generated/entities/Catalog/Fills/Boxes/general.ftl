@@ -84,7 +84,7 @@ ent-BoxEncryptionKeyService = Dienstverschlüsselungsschlüssel
 ent-BoxEncryptionKeySyndie = Syndicate-Verschlüsselungsschlüsselbox
     .desc = Zwei Syndicate-Verschlüsselungsschlüssel zum Preis von einem. Miniaturisiert für bessere Handhabung.
 
-ent-BoxLeadLined = mit Blei ausgekleidete Box
+ent-BoxLeadLined = Bleiausgekleidete Box
     .desc = Diese Kiste unterbindet die Übertragung schädlicher Strahlung.
 
 ent-BoxCandle = Kerzenbehälter

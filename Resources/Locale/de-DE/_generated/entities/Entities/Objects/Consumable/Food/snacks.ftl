@@ -67,7 +67,7 @@ ent-FoodSnackMREBrownie = Brownie
 ent-FoodSnackMREBrownieOpen = Brownie
     .desc = Ein präzise gemischter Brownie, der stumpfen Traumata und harten Bedingungen standhält. Schmeckt scheußlich.
 
-ent-FoodSnackSwirlLollipop = swirl Lutscher
+ent-FoodSnackSwirlLollipop = Spiral-Lutscher
     .desc = Ein wirbelnder Kreis aus reinem, konzentriertem Zucker. Wer ist jetzt das größte Kind auf dem Spielplatz?
 
 ent-FoodPacketBoritosTrash = Boritbeutel
@@ -76,7 +76,7 @@ ent-FoodPacketBoritosTrash = Boritbeutel
 ent-FoodPacketCnDsTrash = C&Ds Bag
     .desc = Das ist Unsinn.
 
-ent-FoodPacketCheesieTrash = cheesie Honkers
+ent-FoodPacketCheesieTrash = Cheesie Honkers (leer)
     .desc = Das ist Unsinn.
 
 ent-FoodPacketChipsTrash = Chips
@@ -109,13 +109,13 @@ ent-FoodPacketSyndiTrash = Syndikuchenbox
 ent-FoodPacketCupRamenTrash = Leerbecherramen
     .desc = Das ist Unsinn.
 
-ent-FoodPacketChowMeinTrash = leere Chow-Mein-Box
+ent-FoodPacketChowMeinTrash = Leere Chow-Mein-Schachtel
     .desc = Das ist Unsinn.
 
 ent-FoodPacketDanDanTrash = leere Dan Dan Box
     .desc = Das ist Unsinn.
 
-ent-FoodCookieFortune = Cookie Vermögen
+ent-FoodCookieFortune = Glückskeks
     .desc = Das Glück sagt: Das Ende ist nah ... und es ist alles deine Schuld.
 
 ent-FoodPacketMRETrash = MRE-Umschlag

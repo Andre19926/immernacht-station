@@ -4,7 +4,7 @@ ent-BannerNanotrasen = Nanotrasenbanner
 ent-BannerCargo = Frachtbanner
     .desc = Ein Banner in den Farben der Frachtabteilung. Nicht. Cargonia.
 
-ent-BannerEngineering = technisches Banner
+ent-BannerEngineering = Technik-Banner
     .desc = Ein Banner in den Farben der Technikabteilung. Scrungularität.
 
 ent-BannerMedical = Medizinisches Banner
@@ -16,7 +16,7 @@ ent-BannerRevolution = Revolutionsbanner
 ent-BannerSyndicate = Syndicate-Banner
     .desc = Ein Banner, bei dem du laut Syndicate Hass auf NT empfinden sollst.
 
-ent-BannerScience = Wissenschaftliches Banner
+ent-BannerScience = Wissenschaftsbanner
     .desc = Ein Banner in den Farben der Wissenschaftsabteilung. Wo Wissenschaft keine Grenzen kennt und Vorschriften selten befolgt werden.
 
 ent-BannerSecurity = Sicherheitsbanner
@@ -25,10 +25,10 @@ ent-BannerSecurity = Sicherheitsbanner
 ent-BannerBlue = Blaues Banner
     .desc = Ein Banner in Blau. Dabudidabudai.
 
-ent-BannerRed = rotes Banner
+ent-BannerRed = Rotes Banner
     .desc = Ein Banner in Rot. Der Kantige.
 
-ent-BannerYellow = gelbes Banner
+ent-BannerYellow = Gelbes Banner
     .desc = Ein Banner in Gelb. Erinnert dich an Enten und Zitronenstände.
 
 ent-BannerGreen = Grünes Banner

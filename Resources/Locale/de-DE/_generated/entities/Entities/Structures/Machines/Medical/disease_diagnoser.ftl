@@ -1,4 +1,4 @@
-ent-DiseaseDiagnoser = Krankheit Diagnose Delta Extreme
+ent-DiseaseDiagnoser = Krankheitsdiagnose Delta Extreme
     .desc = Eine Maschine, die Krankheitsproben analysiert.
 
 ent-DiagnosisReportPaper = Krankheitsdiagnosebericht

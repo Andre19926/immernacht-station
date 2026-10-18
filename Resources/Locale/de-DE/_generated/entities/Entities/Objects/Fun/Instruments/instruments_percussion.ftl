@@ -13,5 +13,5 @@ ent-MicrophoneInstrument = Mikrofon
 ent-WoodblockInstrument = Holzblock
     .desc = Wenn du das oft genug hörst, bohrt es sich in deinen Verstand.
 
-ent-ReverseCymbalsInstrument = Reverse Becken
+ent-ReverseCymbalsInstrument = Umgekehrte Becken
     .desc = Ich glaube, du hältst es falsch herum?

@@ -7,7 +7,7 @@ ent-ClothingShoesClown = Clownschuhe
 ent-ClothingShoesClownBanana = Bananenclownschuhe
     .desc = Wenn Humor und Schuhe zu neuen Höhen der Absurdität verschmelzen.
 
-ent-ClothingShoesBling = Bling Clown Schuhe
+ent-ClothingShoesBling = Bling-Clownschuhe
     .desc = Hergestellt aus raffiniertem Bananium und glänzend wie das Fruchtfleisch einer frischen Bananenschale. Die machen ein auffälliges Statement.
 
 ent-ClothingShoesCult = Kultionsschuhe
@@ -16,7 +16,7 @@ ent-ClothingShoesCult = Kultionsschuhe
 ent-ClothingShoesGaloshes = Galoschen
     .desc = Spezielle rutschfeste Gummistiefel zur Verringerung von Hausmeister-Arbeitsunfällen; ein Schatz des Tiders.
 
-ent-ClothingShoesSpaceNinja = Space Ninja Schuhe
+ent-ClothingShoesSpaceNinja = Weltraum-Ninja-Schuhe
     .desc = Ein Paar nanoverstärkte Stiefel mit eingebauten magnetischen Saugnäpfen.
 
 ent-ClothingShoesSwat = SWAT-Stiefel

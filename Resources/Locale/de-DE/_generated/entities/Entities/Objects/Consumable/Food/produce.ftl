@@ -13,7 +13,7 @@ ent-Sugarcane = Zuckerrohr
 ent-Papercane = Papierrohrrolle
     .desc = Warum müssen wir überhaupt Papier anbauen?
 
-ent-FoodLaughinPeaPod = laughin' pea pod
+ent-FoodLaughinPeaPod = Lachende Erbsenschote
     .desc = Die Lieblingspflanze des Clowns.
 
 ent-Log = Logarithmus mit Turmkappe

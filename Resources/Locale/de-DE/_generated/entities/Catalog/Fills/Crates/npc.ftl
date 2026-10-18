@@ -19,7 +19,7 @@ ent-CrateNPCDuck = Kästchen
 ent-CrateNPCCorgi = Corgi-Kiste
     .desc = Eine Kiste mit einem einzelnen Corgi.
 
-ent-CrateNPCPuppyCorgi = Welpen Corgi Kiste
+ent-CrateNPCPuppyCorgi = Corgi-Welpen-Kiste
     .desc = Eine Kiste mit einem einzelnen Corgi-Welpen. Awww.
 
 ent-CrateNPCCow = Kuhkiste
@@ -37,7 +37,7 @@ ent-CrateNPCGorilla = Gorilla-Kiste
 ent-CrateNPCMonkeyCube = Affenwürfelkiste
     .desc = Eine Kiste mit einer Schachtel Affenwürfel.
 
-ent-CrateNPCKoboldCube = Kobold Cube Kiste
+ent-CrateNPCKoboldCube = Kobold-Würfel-Kiste
     .desc = Eine Kiste mit einer Schachtel Koboldwürfel.
 
 ent-CrateNPCMouse = Mäusekiste

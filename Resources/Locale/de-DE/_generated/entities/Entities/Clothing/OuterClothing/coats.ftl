@@ -4,7 +4,7 @@ ent-ClothingOuterCoatBomber = Bombenjacke
 ent-ClothingOuterCoatDetective = Detektivgraben
     .desc = Ein Mehrzweck-Trenchcoat aus dem 18. Jahrhundert. Wer so etwas trägt, meint es ernst.
 
-ent-ClothingOuterCoatDetectiveLoadoutGrey = Noir Trenchcoat
+ent-ClothingOuterCoatDetectiveLoadoutGrey = Noir-Trenchcoat
     .desc = Ah, dein treuer Mantel. Hier und da ein paar Risse, die ihm einen zeitgemäßeren Look verleihen. Oder zumindest hast du dir das eingeredet, als du erfahren hast, dass eine Reparatur dich 200 Spesos kosten würde.
 
 ent-ClothingOuterCoatDetectiveLoadout = Detektivgraben
@@ -13,7 +13,7 @@ ent-ClothingOuterCoatDetectiveLoadout = Detektivgraben
 ent-ClothingOuterCoatGentle = sanfte Beschichtung
     .desc = Ein sanfter Mantel für einen sanften Mann oder eine sanfte Frau.
 
-ent-ClothingOuterCoatHoSTrench = Sicherheitschef gepanzerter Trenchcoat
+ent-ClothingOuterCoatHoSTrench = Gepanzerter Trenchcoat des Sicherheitschefs
     .desc = Ein Greatcoat, mit einer Speziallegierung für zusätzlichen Schutz und Stil verstärkt, für alle mit beherrschender Präsenz.
 
 ent-ClothingOuterCoatJensen = Jensenmantel
@@ -78,10 +78,10 @@ ent-ClothingOuterCoatWarden = Gepanzerte Warden-Jacke
 ent-ClothingOuterDameDane = Yakuza-Mantel
     .desc = Freitag...
 
-ent-ClothingOuterClownPriest = Gewänder der Honkmother
+ent-ClothingOuterClownPriest = Gewänder der Honkmutter
     .desc = Für einen Clown von Stand. Und anscheinend auch für Mord.
 
-ent-ClothingOuterDogi = Samurai og.
+ent-ClothingOuterDogi = Samurai-Dogi
     .desc = Dogi ist eine Art traditioneller japanischer Kleidung. Der Dogi besteht aus schwerem, langlebigem Stoff, ist praktisch im Kampf und stilvoll im Aussehen. Auf dem Rücken ist er mit aufwendigen Mustern und Stickereien verziert.
 
 ent-ClothingOuterCoatParamedicWB = Sanitäter Windjacke
@@ -96,10 +96,10 @@ ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndicate-Kapitäns
 ent-ClothingOuterCoatAMG = Gepanzertes medizinisches Kleid
     .desc = Die Version des medizinischen Kittels mit Elementen einer kugelsicheren Weste sieht seltsam aus, aber dein Herz ist geschützt.
 
-ent-ClothingOuterCoatLabSeniorResearcher = Senior Researcher Laborcoat
+ent-ClothingOuterCoatLabSeniorResearcher = Laborkittel (Senior-Forscher)
     .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
 
-ent-ClothingOuterCoatLabSeniorResearcherOpened = Senior Researcher Laborcoat
+ent-ClothingOuterCoatLabSeniorResearcherOpened = Laborkittel (Senior-Forscher)
     .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat einen lila Kragen und Handgelenkverkleidungen.
 
 ent-ClothingOuterCoatLabSeniorPhysician = Oberarzt-Laborkittel
@@ -108,7 +108,7 @@ ent-ClothingOuterCoatLabSeniorPhysician = Oberarzt-Laborkittel
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = Oberarzt-Laborkittel (offen)
     .desc = Ein Kittel, der vor kleineren chemischen Verschüttungen schützt. Hat hellblaue Ärmel und eine orange Taille.
 
-ent-ClothingOuterCoatSpaceAsshole = Der Mantel des Space Arshole
+ent-ClothingOuterCoatSpaceAsshole = Mantel des Weltraum-Arschlochs
     .desc = Und da war er ...
 
 ent-ClothingOuterCoatExpensive = teurer Mantel

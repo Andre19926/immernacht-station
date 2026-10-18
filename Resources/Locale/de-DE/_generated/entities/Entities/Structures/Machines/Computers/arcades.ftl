@@ -1,4 +1,4 @@
-ent-SpaceVillainArcade = Space Schurken Arcade
+ent-SpaceVillainArcade = Weltraum-Schurken-Spielautomat
     .desc = Ein Arcade-Kabinett.
 
 ent-SpaceVillainArcadeFilled = Space Schurken Arcade

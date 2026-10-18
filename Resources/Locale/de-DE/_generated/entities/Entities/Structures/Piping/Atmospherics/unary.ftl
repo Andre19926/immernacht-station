@@ -22,10 +22,10 @@ ent-GasThermoMachineHeater = Heizung
 ent-GasThermoMachineHeaterEnabled = Heizung
     .desc = Erhitzt Gas in angeschlossenen Rohren.
 
-ent-GasThermoMachineHellfireFreezer = Hellfire Froster
+ent-GasThermoMachineHellfireFreezer = Hellfire-Froster
     .desc = Eine fortschrittliche Maschine, die Gas in angeschlossenen Rohren kühlt. Hat den Nebeneffekt, die Umgebung abzukühlen. Eiskalt!
 
-ent-GasThermoMachineHellfireHeater = Hellfire Heat
+ent-GasThermoMachineHellfireHeater = Hellfire-Heizer
     .desc = Eine fortschrittliche Maschine, die Gas in angeschlossenen Rohren erhitzt. Hat den Nebeneffekt, Wärme an die Umgebung abzugeben. Höllisch heiß!
 
 ent-BaseGasCondenser = Kondensator

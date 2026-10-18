@@ -49,7 +49,7 @@ ent-AirlockCentralCommand = Luftschleuse
 ent-AirlockHatch = luftdichte Luke
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
-ent-AirlockXenoborg = xenoborg Luftschleuse
+ent-AirlockXenoborg = Xenoborg-Luftschleuse
     .desc = Es öffnet sich, es schließt sich und vielleicht zerquetscht es dich.
 
 ent-AirlockHatchMaintenance = Wartungsluke

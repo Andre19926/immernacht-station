@@ -20,7 +20,7 @@ ent-WeaponForceGun = Kraftgewehr
 
 ent-WeaponGrapplingGun = Greifpistole
 
-ent-WeaponLauncherSingularityBuster = Singularitäts-Buster Raketenwerfer
+ent-WeaponLauncherSingularityBuster = Singularitätsbrecher-Raketenwerfer
     .desc = Ein experimenteller Raketenwerfer, der Raketen abfeuert, die eine Singularität oder Tesla zersetzen können.
 
 ent-WeaponTetherGunAdmin = Fesselpistole

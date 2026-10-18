@@ -1,7 +1,7 @@
 ent-FaxMachineBase = Langstrecken-Faxgerät
     .desc = Bluespace-Technik zur Anwendung von Bürokratie.
 
-ent-FaxMachineCentcom = CentComm Langstrecken-Faxgerät
+ent-FaxMachineCentcom = CentComm-Langstrecken-Faxgerät
     .desc = Bluespace-Technik zur Anwendung von Bürokratie.
 
 ent-FaxMachineSyndie = Syndicate-Faxgerät mit großer Reichweite

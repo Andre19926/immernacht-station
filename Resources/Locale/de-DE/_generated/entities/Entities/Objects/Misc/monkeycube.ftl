@@ -4,10 +4,10 @@ ent-MonkeyCubeBox = Affenwürfelbox
 ent-MonkeyCubeWrapped = Affenwürfel
     .desc = Auspacken, um einen Affenwürfel zu erhalten.
 
-ent-KoboldCubeBox = Kobold Cube Box
+ent-KoboldCubeBox = Kobold-Würfel-Box
     .desc = Kondensierte Kobolde in einem Würfel. Einfach Wasser hinzufügen!
 
-ent-VariantCubeBox = Variante Cube Box
+ent-VariantCubeBox = Variantenwürfel-Box
     .desc = Sowohl Koboldwürfel als auch Affenwürfel. Einfach Wasser hinzufügen!
 
 ent-KoboldCubeWrapped = Kobold-Würfel

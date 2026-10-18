@@ -7,5 +7,5 @@ ent-MobIfritGuardian = Ifrit
 ent-MobHoloClownGuardian = HoloClown
     .desc = Ein faszinierender Wirbel aus hartem Licht formt einen blau gefärbten Clown zweifelhafter Herkunft.
 
-ent-ActionToggleGuardian = Toggle Guardian
+ent-ActionToggleGuardian = Wächter umschalten
     .desc = Beschwört entweder den Wächter oder ruft ihn zurück in deinen Körper.

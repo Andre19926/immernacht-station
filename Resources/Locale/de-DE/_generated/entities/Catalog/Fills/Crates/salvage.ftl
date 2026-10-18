@@ -19,7 +19,7 @@ ent-CrateCrusher = Brecherkiste
 ent-CrateFulton = Fultonkiste
     .desc = Enthält ein Fulton Beacon und 8 Fultons.
 
-ent-CrateVoidJetpack = void Jetpack Kiste
+ent-CrateVoidJetpack = Leer-Jetpack-Kiste
     .desc = Enthält einen einzigen Void Jetpack.
 
 ent-CrateSalvageHardsuit = Bergungs-Hardsuit-Kiste
@@ -31,7 +31,7 @@ ent-CrateCrusherGlaive = Brecher-Glefenkiste
 ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Salvage-Umhang
     .desc = Enthält einen Mantel, der nur von den höchsten Rettern getragen werden kann. Wenn du es unverdient trägst, wird dies zu deinem Untergang führen.
 
-ent-CratePartsT3 = Tier 3 Teile Kiste
+ent-CratePartsT3 = Teile-Kiste (Stufe 3)
     .desc = Enthält 5 zufällige Tier-3-Teile für die Aufrüstung von Maschinen.
 
 ent-CratePartsT3T4 = Stufe 3/4 Teile Kiste

@@ -1,10 +1,10 @@
-ent-ClothingMaskBandBlack = Schwarze Bandana
+ent-ClothingMaskBandBlack = Schwarzes Bandana
     .desc = Ein schwarzes Bandana, damit du cool aussiehst.
 
 ent-ClothingMaskBandBlue = Blaubandana
     .desc = Ein blaues Bandana, damit du cool aussiehst.
 
-ent-ClothingMaskBandBotany = Botanik Bandana
+ent-ClothingMaskBandBotany = Botanik-Bandana
     .desc = Ein Botanik-Bandana, damit du cool aussiehst – aus natürlichen Fasern.
 
 ent-ClothingMaskBandGold = Goldbandana
@@ -22,7 +22,7 @@ ent-ClothingMaskBandRed = Rotbandana
 ent-ClothingMaskBandSkull = Schädelbandana
     .desc = Ein Bandana mit einem Schädel, damit du noch cooler aussiehst.
 
-ent-ClothingMaskBandMerc = Söldner Bandana
+ent-ClothingMaskBandMerc = Söldner-Bandana
     .desc = Schützt den Kopf vor Sonne, Insekten und anderen Gefahren des Pfades.
 
 ent-ClothingMaskBandBrown = Braunes Bandana

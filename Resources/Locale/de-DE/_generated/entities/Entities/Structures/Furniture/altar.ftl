@@ -1,7 +1,7 @@
 ent-AltarNanotrasen = Nanotrasenaltar
     .desc = Altar der Götter.
 
-ent-AltarChaos = Chaos Altar
+ent-AltarChaos = Chaosaltar
     .desc = Altar der Götter.
 
 ent-AltarDruid = Druidenaltar
@@ -10,13 +10,13 @@ ent-AltarDruid = Druidenaltar
 ent-AltarToolbox = Werkzeugkastenaltar
     .desc = Altar der Götter.
 
-ent-AltarSpaceChristian = weltraumchristlicher Altar
+ent-AltarSpaceChristian = Weltraumchristlicher Altar
     .desc = Altar der Götter.
 
 ent-AltarSatana = Satanischer Altar
     .desc = Altar der Götter.
 
-ent-AltarTechnology = Technologie Altar
+ent-AltarTechnology = Technologiealtar
     .desc = Altar der Götter.
 
 ent-AltarConvertFestival = Festaltar
@@ -43,7 +43,7 @@ ent-AltarConvertRed = Roter Altar
 ent-AltarConvertWhite = Weißer Altar
     .desc = Altar der Götter.
 
-ent-AltarConvertYellow = gelber Altar
+ent-AltarConvertYellow = Gelber Altar
     .desc = Altar der Götter.
 
 ent-AltarHeaven = Himmelsaltar

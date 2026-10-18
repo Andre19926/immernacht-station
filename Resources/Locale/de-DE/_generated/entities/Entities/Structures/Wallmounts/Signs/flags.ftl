@@ -1,7 +1,7 @@
 ent-BlankFlag = Blankoflagge
     .desc = Ein Stück weißes Tuch. Definitiv nicht die Flagge Frankreichs.
 
-ent-NTFlag = Nanotrasen Flag
+ent-NTFlag = Nanotrasen-Flagge
     .desc = Ruhm für NT! Moment, haben die wirklich eine Flagge für ein Unternehmen gemacht?
 
 ent-SyndieFlag = Flagge des Syndicate-S

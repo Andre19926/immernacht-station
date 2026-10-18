@@ -1,7 +1,7 @@
-ent-CrateFoodPizza = Notfall Pizza Lieferung
+ent-CrateFoodPizza = Notfall-Pizzalieferung
     .desc = Hilf mit, den Hunger auf der Station zu beenden, indem du Pizza an unterfinanzierte Abteilungen verteilst! Enthält 4 Pizzen.
 
-ent-CrateFoodPizzaLarge = Disaster Pizza Lieferung
+ent-CrateFoodPizzaLarge = Katastrophen-Pizzalieferung
     .desc = Falls alles andere gescheitert ist, tröste dich: Mehr Pizza löst alles. Enthält 16 Pizzen.
 
 ent-CrateFoodMRE = MRE-Kiste
@@ -31,5 +31,5 @@ ent-CrateFoodIceCream = Eiscremelieferung
 ent-CrateFoodSnowcone = Schneezapfenlieferung
     .desc = Ein Gefrierschrank voller erfrischender Slush-Becher für eine hart arbeitende Crew – oder auch eine faule! Enthält 16 Slush-Becher.
 
-ent-CrateFoodHappyHonkBigBite = Happy Honk Mahlzeit Lieferung
+ent-CrateFoodHappyHonkBigBite = Happy-Honk-Menülieferung
     .desc = Zwei voll beladene Happy-Honk-Big-Bite-Burger-Menüs, komplett mit käsigen Pommes, einer Flasche Space Cola, einem Stück Apfelkuchen und einem Spielzeug!

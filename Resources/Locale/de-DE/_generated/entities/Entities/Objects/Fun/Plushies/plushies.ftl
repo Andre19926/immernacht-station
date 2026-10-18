@@ -16,10 +16,10 @@ ent-PlushieHampter = Hampter Plüschtier
 ent-PlushieRGBee = RGBee Plüschtier
     .desc = Ein süßes Spielzeug, das einem Bienen-Plüschtier ähnelt, wenn man auf LSD ist.
 
-ent-PlushieNuke = nukie Plüschtier
+ent-PlushieNuke = Nukie-Plüschtier
     .desc = Ein Stofftier, das einem Syndicate-Kernarbeiter ähnelt. Auf dem Etikett steht, Agenten seien rein fiktiv.
 
-ent-PlushieRouny = rouny Plüschtier
+ent-PlushieRouny = Rouny-Plüschtier
 
 ent-PlushieLamp = Lampe Plüschtier
     .desc = Ein lichtspendender Freund!
@@ -66,7 +66,7 @@ ent-PlushieNar = nar'sie Plüschtier
 ent-PlushieCarp = Karpfen Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das dem monströsen Weltraumkarpfen ähnelt.
 
-ent-PlushieMagicarp = magicarp Plüschtier
+ent-PlushieMagicarp = Magikarp-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das dem äußerst seltenen Magicarp ähnelt.
 
 ent-PlushieRainbowCarp = Regenbogenkarpfen Plüschtier
@@ -87,10 +87,10 @@ ent-ToyMouse = Mausspielzeug
 ent-PlushieVox = vox Plüschtier
     .desc = SKREEEEEEEEEEEEEEEE!
 
-ent-PlushieAtmosian = atmosian Plüschtier
+ent-PlushieAtmosian = Atmosianer-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem tapferen Atmosianer ähnelt. Leider wird er diese Druckverluste nicht für dich beheben.
 
-ent-PlushieXeno = xeno Plüschtier
+ent-PlushieXeno = Xeno-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem furchterregenden Xenomorph ähnelt. Zum Glück ist es nur ein Spielzeug.
 
 ent-PlushiePenguin = Pinguin Plüschtier
@@ -105,4 +105,4 @@ ent-PlushieMoth = Motte Plüschtier
 ent-ToyIan = ian toy
     .desc = Kann nicht essen, ist aber genauso flauschig wie das echte Vorbild!
 
-ent-ToyAmongPequeno = unter Pequeño
+ent-ToyAmongPequeno = Among Pequeño

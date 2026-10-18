@@ -22,7 +22,7 @@ ent-CrateServiceSmokeables = rauchbare Kiste
 ent-CrateServiceTheatre = Theateraufführungen Kiste
     .desc = Enthält einen Mottenmantel, eine Friseurschere, eine Dienstmädchenuniform, Clown- und Mime-Attribute und andere Performance-Charme.
 
-ent-CrateServiceCustomSmokable = DIY Smokeables Kiste
+ent-CrateServiceCustomSmokable = Do-it-yourself-Rauchwaren-Kiste
     .desc = Möchtest du ein wenig kreativ mit dem, was du verwendest, um deine Lungen zu zerstören? Dann ist diese Kiste für dich! Hat alles, was du brauchst, um deine eigenen Zigaretten zu rollen.
 
 ent-CrateServiceBureaucracy = Bürokratie-Kiste

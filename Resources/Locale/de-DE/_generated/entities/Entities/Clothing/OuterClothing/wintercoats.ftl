@@ -19,7 +19,7 @@ ent-ClothingOuterWinterCargo = Frachtwintermantel
 ent-ClothingOuterWinterCE = Winterjacke des Chefingenieurs
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
-ent-ClothingOuterWinterCentcom = CentComm Wintermantel
+ent-ClothingOuterWinterCentcom = CentComm-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterChef = Gefriermantel des Kochs
@@ -31,13 +31,13 @@ ent-ClothingOuterWinterChem = Chemie Wintermantel
 ent-ClothingOuterWinterCMO = Chefarzt-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
-ent-ClothingOuterWinterClown = Clown Winterjacke
+ent-ClothingOuterWinterClown = Clown-Winterjacke
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterEngi = Technische Winterjacke
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
-ent-ClothingOuterWinterGen = Genetik Winter Wintermantel
+ent-ClothingOuterWinterGen = Genetik-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterHoP = Personalchef-Wintermantel
@@ -58,7 +58,7 @@ ent-ClothingOuterWinterJani = Winterjacke
 ent-ClothingOuterWinterMed = Medizinische Winterjacke
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
-ent-ClothingOuterWinterMime = Mime Wintermantel
+ent-ClothingOuterWinterMime = Mime-Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
 ent-ClothingOuterWinterMiner = Winterbergbau

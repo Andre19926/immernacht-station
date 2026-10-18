@@ -55,5 +55,5 @@ ent-CardStool = Kartonhocker
 ent-WoodenBench = Holzbank
     .desc = Einen Splitter eingefangen? Immerhin ist es umweltfreundlich.
 
-ent-ChairXeno = Xeno Stuhl
+ent-ChairXeno = Xeno-Stuhl
     .desc = Du sitzt darin. Entweder freiwillig oder unter Zwang.

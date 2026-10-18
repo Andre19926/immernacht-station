@@ -10,7 +10,7 @@ ent-VendingMachineRestockChefvend = ChefVend-Nachfüllbox
 ent-VendingMachineRestockCondimentStation = Gewürzstation-Nachfüllbox
     .desc = Füllt die Gewürzstation auf. Mmmm, kalte Sauce.
 
-ent-VendingMachineRestockClothes = wardrobe-Nachfüllbox
+ent-VendingMachineRestockClothes = Kleidungs-Nachfüllbox
     .desc = Zeit, deine Mode aufzuwerten! In den Nachfüllschacht eines beliebigen Kleidungsautomaten einlegen, um zu beginnen.
 
 ent-VendingMachineRestockCostumes = AutoDrobe-Nachfüllbox
@@ -22,7 +22,7 @@ ent-VendingMachineRestockDinnerware = Plasteel-Chef-Nachfüllbox
 ent-VendingMachineRestockDiscountDans = Discount Dan's-Nachfüllbox
     .desc = Eine Schachtel voller Salz und Stärke. Warum auf Qualität setzen, wenn man Quantität haben kann? Rabatt bei Dan's!
 
-ent-VendingMachineRestockDonut = Robust Donuts-Nachfüllbox
+ent-VendingMachineRestockDonut = Robust-Donuts-Nachfüllbox
     .desc = Eine Schachtel voller ringförmiger Büschel aus frittiertem Teig zum Auffüllen eines Automaten. Nur gemäß den Anweisungen von Robust Industries, LLC verwenden.
 
 ent-VendingMachineRestockEngineering = EngiVend-Nachfüllbox
@@ -46,7 +46,7 @@ ent-VendingMachineRestockNutriMax = NutriMax-Nachfüllbox
 ent-VendingMachineRestockPTech = PTech-Nachfüllbox
     .desc = Alle Bürokratie, die du bewältigen kannst, und mehr! In den PTech-Automaten einlegen, um zu beginnen.
 
-ent-VendingMachineRestockRobustSoftdrinks = beverage-Nachfüllbox
+ent-VendingMachineRestockRobustSoftdrinks = Softdrink-Nachfüllbox
     .desc = Ein kalter, klobiger Behälter voller aneinanderstoßender, kühler Zylinder. Nur nach Anweisung von Robust Industries, LLC verwenden.
 
 ent-VendingMachineRestockSecTech = SecTech-Nachfüllbox

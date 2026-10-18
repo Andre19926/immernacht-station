@@ -54,7 +54,7 @@ ent-SpawnPointStationEngineer = Stationstechniker
 
 ent-SpawnPointAtmos = Atmos-Spawnpunkt
 
-ent-SpawnPointChiefMedicalOfficer = Chiefmedicalofficer
+ent-SpawnPointChiefMedicalOfficer = Chefarzt
 
 ent-SpawnPointMedicalDoctor = Spawnpunkt: Arzt
 

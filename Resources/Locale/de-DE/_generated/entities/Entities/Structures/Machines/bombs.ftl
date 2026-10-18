@@ -7,5 +7,5 @@ ent-SyndicateBomb = Syndicate-Bombe
 ent-SyndicateBombFake = Syndicate-Bombe
     .desc = Eine Bombe für Syndicate-Agenten und andere Agenten gleichermaßen. Das echte Ding, kein Training mehr, mach mit!
 
-ent-DebugHardBomb = Debug Bombe
+ent-DebugHardBomb = Debug-Bombe
     .desc = Heilige Scheiße, das wird explodieren.

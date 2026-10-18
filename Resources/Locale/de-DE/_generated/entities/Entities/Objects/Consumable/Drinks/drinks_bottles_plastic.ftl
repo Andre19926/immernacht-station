@@ -25,7 +25,7 @@ ent-DrinkEnergyDrinkJug = Red-Bool-Krug
 ent-DrinkSugarJug = Zuckerkrug
     .desc = Manche Leute geben das in ihren Kaffee ...
 
-ent-DrinkLemonLimeJug = Smite Jug
+ent-DrinkLemonLimeJug = Smite-Krug
     .desc = Eine doppelte Zitrussensation.
 
 ent-DrinkMeadJug = Metkanister
@@ -49,7 +49,7 @@ ent-DrinkGreenTeaJug = Grüner Teekrug
 ent-DrinkIcedTeaJug = Eistee-Kanister
     .desc = Für den Fall, dass dir der normale Tee zu heiß ist. Buhu.
 
-ent-DrinkDrGibbJug = Dr. Gibb Jug
+ent-DrinkDrGibbJug = Dr.-Gibb-Krug
     .desc = 42 verschiedene Geschmacksrichtungen ... in einem Krug!
 
 ent-DrinkRootBeerJug = Wurzelbierkanne

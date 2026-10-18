@@ -18,7 +18,7 @@ ent-TubaInstrument = Tuba
 ent-HarpInstrument = Harfe
     .desc = Das Zupfen der Saiten schneidet in die Finger, aber immerhin ist die Musik schön.
 
-ent-TimpaniInstrument = Timpani
+ent-TimpaniInstrument = Pauken
     .desc = Es geht um BUMM BUMM BUMM BUMM!
 
 ent-TaikoInstrument = Taiko
@@ -30,8 +30,8 @@ ent-ContrabassInstrument = Kontrabass
 ent-MinimoogInstrument = Minimoog
     .desc = Das ist ein Minimoog, wie ein Weltraumklavier, nur spaciger!
 
-ent-TomDrumsInstrument = tom drums
+ent-TomDrumsInstrument = Tom-Toms
     .desc = Wo ist der Rest des Sets geblieben?
 
-ent-DawInstrument = Digital Audio Workstation
+ent-DawInstrument = Digitale Audio-Workstation
     .desc = Modernste Musiktechnologie, direkt aus den 90ern.

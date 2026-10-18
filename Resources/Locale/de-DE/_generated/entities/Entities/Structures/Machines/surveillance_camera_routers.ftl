@@ -1,7 +1,7 @@
 ent-SurveillanceCameraRouterConstructed = Kamerarouter
     .desc = Ein Überwachungskamera-Router. Er routet. Vielleicht.
 
-ent-SurveillanceCameraRouterEngineering = Engineering Kamera Router
+ent-SurveillanceCameraRouterEngineering = Technik-Kamerarouter
     .desc = Ein Überwachungskamera-Router. Er routet. Vielleicht.
 
 ent-SurveillanceCameraRouterSecurity = Sicherheitskamera-Router
@@ -31,5 +31,5 @@ ent-SurveillanceCameraWirelessRouterConstructed = Funkkamera-Router
 ent-SurveillanceCameraWirelessRouterEntertainment = Unterhaltungskamera-Router
     .desc = Ein drahtloser Überwachungskamera-Router. Er routet. Vielleicht.
 
-ent-SurveillanceCameraWirelessRouterXenoborg = Xenoborg Kamera drahtloser Router
+ent-SurveillanceCameraWirelessRouterXenoborg = Drahtloser Xenoborg-Kamerarouter
     .desc = Ein drahtloser Überwachungskamera-Router. Er routet. Vielleicht.

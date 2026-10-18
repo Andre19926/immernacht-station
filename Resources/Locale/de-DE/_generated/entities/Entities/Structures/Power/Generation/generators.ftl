@@ -10,7 +10,7 @@ ent-GeneratorBasic15kW = Generator
 ent-GeneratorWallmountBasic = Wandgenerator
     .desc = Ein hocheffizienter thermoelektrischer Generator, in einen Wandschrank gepackt.
 
-ent-GeneratorWallmountAPU = Shuttle APU
+ent-GeneratorWallmountAPU = Shuttle-APU
     .desc = Ein Hilfsaggregat für ein Shuttle – 6 kW.
 
 ent-GeneratorRTG = RTG

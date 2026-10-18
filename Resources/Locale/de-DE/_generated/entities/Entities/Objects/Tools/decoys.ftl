@@ -4,7 +4,7 @@ ent-BalloonOperative = betriebsbereiter Ballon
 ent-BalloonAgent = Korpsballon
     .desc = Bei näherer Betrachtung ist dieser Syndicate-Corpman tatsächlich ein Ballon.
 
-ent-BalloonElite = Elite operativer Ballon
+ent-BalloonElite = Elite-Agenten-Ballon
     .desc = Bei genauerer Betrachtung ist dieser Syndicate-Elite-Agent tatsächlich ein Ballon.
 
 ent-BalloonJuggernaut = Ballon

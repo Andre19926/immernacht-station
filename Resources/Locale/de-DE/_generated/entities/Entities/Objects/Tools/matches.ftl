@@ -7,7 +7,7 @@ ent-MatchstickSpent = Matching-Stick
 ent-Matchbox = Streichholzschachtel
     .desc = Eine kleine Schachtel „Almost But Not Quite“-Plasma-Premium-Streichhölzer.
 
-ent-GorlexMatchbox = Gorlex-Matchbox
+ent-GorlexMatchbox = Gorlex-Streichholzschachtel
     .desc = Eine pneumatische Streichholzschachtel im Stil der Ausrüstung der Gorlex-Marodeure. Enthält 24 Streichhölzer.
 
 ent-GorlexMatchstick = Matching-Stick

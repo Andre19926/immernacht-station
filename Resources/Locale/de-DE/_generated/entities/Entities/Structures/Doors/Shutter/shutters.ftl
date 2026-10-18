@@ -16,5 +16,5 @@ ent-ShuttersWindow = Fensterläden
 ent-ShuttersWindowOpen = Fensterläden
     .desc = Der beste (TM) Ort, um deine Freunde explodieren zu sehen!
 
-ent-ShuttersFrame = shutter frame
+ent-ShuttersFrame = Rolllädenrahmen
     .desc = Ein Rahmen zum Bau eines Rollladens.

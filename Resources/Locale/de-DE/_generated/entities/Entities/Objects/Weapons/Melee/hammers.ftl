@@ -4,5 +4,5 @@ ent-Sledgehammer = Vorschlaghammer
 ent-Mjollnir = Mjollnir
     .desc = Eine gottwürdige Waffe, die mit der Kraft eines Blitzes zuschlagen kann. Sie knistert vor kaum gebändigter Energie.
 
-ent-SingularityHammer = Singularität Hammer
+ent-SingularityHammer = Singularitätshammer
     .desc = Der Hammer, Höhepunkt der Nahkampftechnologie, nutzt die Kraft einer miniaturisierten Singularität, um vernichtende Schläge auszuteilen.

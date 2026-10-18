@@ -43,7 +43,7 @@ ent-ToyFigurineLawyer = Anwaltsfigur
 ent-ToyFigurineCargoTech = Frachttechniker-Figur
     .desc = Eine Figur, die einen reptiloiden Frachttechniker darstellt.
 
-ent-ToyFigurineSalvage = Salvage-Fachmann
+ent-ToyFigurineSalvage = Salvage-Spezialisten-Figur
     .desc = Eine Figur, die einen Bergungsspezialisten mit Überlebensmesser zeigt.
 
 ent-ToyFigurineQuartermaster = Quartiermeisterfigur
@@ -94,16 +94,16 @@ ent-ToyFigurineBotanist = Botanikerfigur
 ent-ToyFigurineJanitor = Hausmeisterfigur
     .desc = Eine Figur, die einen Hausmeister mit seinen Gummistiefeln darstellt.
 
-ent-ToyFigurineNukie = Syndicate operative Figur
+ent-ToyFigurineNukie = Syndicate-Agenten-Figur
     .desc = Eine Figur, die jemanden in einem blutroten Hardsuit zeigt, wie ihn ein Mitglied eines Atomagenten-Teams trägt.
 
-ent-ToyFigurineNukieElite = Elite-Syndicate operative Figur
+ent-ToyFigurineNukieElite = Elite-Syndicate-Agenten-Figur
     .desc = Eine Figur, die jemanden in einem elitären blutroten Hardsuit zeigt, wie ihn ein Mitglied eines Atomagenten-Teams trägt.
 
 ent-ToyFigurineNukieCommander = Syndicate operativer Kommandant
     .desc = Eine Figur, die jemanden in einem blutroten Hardsuit zeigt, wie ihn der Kommandant eines Atomagenten-Teams tragen könnte.
 
-ent-ToyFigurineFootsoldier = Syndicate Footsoldier Figur
+ent-ToyFigurineFootsoldier = Syndicate-Fußsoldaten-Figur
     .desc = Eine Figur, die das Outfit eines Syndicate-Fußsoldaten darstellt.
 
 ent-ToyFigurineWizard = Zaubererfigur
@@ -127,10 +127,10 @@ ent-ToyFigurineThief = Diebfigur
 ent-ToyNuke = Nuke-Spielzeug
     .desc = Ein Plastikmodell eines nuklearen Sprengkopfs. Uran nicht inbegriffen ... wahrscheinlich.
 
-ent-ToyFigurineSpaceDragon = Space Dragon Figur
+ent-ToyFigurineSpaceDragon = Weltraumdrachen-Figur
     .desc = Eine große Figur, die einen Weltraumdrachen darstellt, dessen rote Augen auf seine Beute gerichtet sind.
 
-ent-ToyFigurineQueen = Xeno-Queenfigur
+ent-ToyFigurineQueen = Xeno-Königin-Figur
     .desc = Eine große Figur, die eine Xeno-Königin zeigt, die zum Angriff bereit ist.
 
 ent-ToyFigurineRatKing = Rattenkönigsfigur

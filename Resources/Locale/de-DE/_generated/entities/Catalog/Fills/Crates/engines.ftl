@@ -31,7 +31,7 @@ ent-CrateEngineeringSolar = Solarmontagekasten
 ent-CrateEngineeringShuttle = Shuttle-Antriebskiste
     .desc = Eine Kiste mit allem, was man für den Shuttle-Antrieb braucht.
 
-ent-CrateEngineeringTeslaGenerator = Tesla Generatorkiste
+ent-CrateEngineeringTeslaGenerator = Tesla-Generatorkiste
     .desc = Ein Tesla-Generator. Gott schütze dich.
 
 ent-CrateEngineeringTeslaCoil = Tesla-Spule (Fangspule)

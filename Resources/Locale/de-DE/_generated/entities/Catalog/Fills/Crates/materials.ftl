@@ -37,7 +37,7 @@ ent-CrateMaterialPaper = Papierkiste
 ent-CrateMaterialRandom = Überschussmaterial
     .desc = Überschüssige Materialien von irgendwo.
 
-ent-CrateMaterialSilo = Material Silo Kiste
+ent-CrateMaterialSilo = Materialsilo-Kiste
     .desc = Ein Paket mit allen Materialien zum Bau eines Materialsilos.
 
 ent-CrateMaterialBasicResource = Grundplankiste

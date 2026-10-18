@@ -58,10 +58,10 @@ ent-TowelColorSilver = Silbertuch
 ent-TowelColorMime = stilles Handtuch
     .desc = Wenn du hier draußen überleben willst, musst du wissen, wo dein Handtuch ist.
 
-ent-TowelColorNT = NanoTrasen Markenhandtuch
+ent-TowelColorNT = NanoTrasen-Markenhandtuch
     .desc = Wenn du hier draußen überleben willst, musst du wissen, wo dein Handtuch ist.
 
-ent-TowelColorCentcom = Centcom Handtuch
+ent-TowelColorCentcom = CentComm-Handtuch
     .desc = Wenn du hier draußen überleben willst, musst du wissen, wo dein Handtuch ist.
 
 ent-TowelColorSyndicate = Syndicathandtuch

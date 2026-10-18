@@ -109,7 +109,7 @@ ent-SecurityPDA = Sicherheit-PDA
 ent-CentcomPDA = CentComm-PDA
     .desc = Hellgrünes Abzeichen der wandelnden Bürokratie.
 
-ent-AdminPDA = Admin PDA
+ent-AdminPDA = Admin-PDA
     .desc = Wenn du kein Administrator bist, gib diesen PDA bitte beim nächsten Administrator ab.
 
 ent-MusicianPDA = Musiker-PDA
@@ -133,7 +133,7 @@ ent-SyndiPDA = Syndicate-PDA
 ent-SyndiOperativePDA = Syndicate-Agenten-PDA
     .desc = Tod zu NT!
 
-ent-SyndiCorpsmanPDA = Syndicate-Corpsman-PDA
+ent-SyndiCorpsmanPDA = Syndicate-Sanitäter-PDA
     .desc = Kommandant ... ich muss kochen!
 
 ent-SyndiCommanderPDA = Konsortialkommandeur-PDA
@@ -175,16 +175,16 @@ ent-BrigmedicPDA = Brigmedo-PDA
 ent-CluwnePDA = Cluwne-PDA
     .desc = Verfluchter Cluwne-PDA.
 
-ent-SeniorEngineerPDA = Senior-Engineer-PDA
+ent-SeniorEngineerPDA = Senior-Ingenieur-PDA
     .desc = Scheint mehrfach auseinandergenommen und wieder zusammengesetzt worden zu sein.
 
-ent-SeniorResearcherPDA = Senior-Researcher-PDA
+ent-SeniorResearcherPDA = Senior-Forscher-PDA
     .desc = Sieht aus, als hätte er jahrelang chemische Verbrennungen und Explosionen überstanden.
 
 ent-SeniorPhysicianPDA = Oberarzt-PDA
     .desc = Riecht schwach nach Eisen und Chemikalien.
 
-ent-SeniorOfficerPDA = Senior-Officer-PDA
+ent-SeniorOfficerPDA = Senior-Offizier-PDA
     .desc = Geprügelt, zerschlagen und zerbrochen, aber kaum noch benutzbar.
 
 ent-SeniorCourierPDA = Senior-Kurier-PDA
@@ -192,7 +192,7 @@ ent-SeniorCourierPDA = Senior-Kurier-PDA
 
 ent-PiratePDA = Piraterie-PDA
 
-ent-SyndiAgentPDA = Syndicate-Corpsman-PDA
+ent-SyndiAgentPDA = Syndicate-Sanitäter-PDA
     .desc = Für die Tage, an denen die Heilung normaler Syndicate-Agenten nicht reicht: Versuch stattdessen, Atomagenten zu heilen!
 
 ent-ChameleonPDA = Fluggast-PDA

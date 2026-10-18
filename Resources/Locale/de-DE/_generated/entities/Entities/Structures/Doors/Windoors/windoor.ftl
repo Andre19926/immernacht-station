@@ -1,22 +1,22 @@
 ent-Windoor = Windoor
     .desc = Ein Fenster und eine Schiebetür in einem. Wow!
 
-ent-WindoorSecure = Sichere Windoor
+ent-WindoorSecure = Gesichertes Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Wow!
 
-ent-WindoorClockwork = Uhrwerk Windoor
+ent-WindoorClockwork = Uhrwerk-Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Wow!
 
 ent-WindoorPlasma = Plasma-Windoor
     .desc = Ein rosa Fenster *und* eine Schiebetür. Erstaunlich!
 
-ent-WindoorSecurePlasma = sicheres Plasma Windoor
+ent-WindoorSecurePlasma = Gesichertes Plasma-Windoor
     .desc = Ein robustes lila Fenster *und* eine Schiebetür. Spektakulär!
 
 ent-WindoorUranium = Uran-Windoor
     .desc = Es ist ein Fenster und eine Schiebetür. Hä? Oh, und es ist grün!
 
-ent-WindoorSecureUranium = sicheres Uran Windoor
+ent-WindoorSecureUranium = Gesichertes Uran-Windoor
     .desc = Ein robustes Fenster und eine Schiebetür in einem. Es ist so neongrün, dass es sogar nach Limetten schmecken könnte!
 
 ent-WindoorBarLocked = Windoor

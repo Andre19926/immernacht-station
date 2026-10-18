@@ -28,7 +28,7 @@ ent-EmpImplant = EMP-Implantat
 ent-ScramImplant = Scram-Implantat
     .desc = Dieses Implantat teleportiert den Benutzer bei Aktivierung zufällig in einem großen Radius.
 
-ent-DnaScramblerImplant = DNA Scrambler Implantat
+ent-DnaScramblerImplant = DNA-Scrambler-Implantat
     .desc = Mit diesem Implantat kann der Benutzer sein Aussehen und seinen Namen einmal zufällig ändern.
 
 ent-ChameleonControllerImplant = Chamäleon-Controllerimplantat
@@ -43,13 +43,13 @@ ent-MicroBombImplant = Mikrobombenimplantat
 ent-MacroBombImplant = Makrobombenimplantat
     .desc = Dieses Implantat erzeugt eine große Explosion beim Tod nach einem vorprogrammierten Countdown.
 
-ent-DeathAcidifierImplant = Death Acidifier Implantat
+ent-DeathAcidifierImplant = Todes-Säurebad-Implantat
     .desc = Dieses Implantat schmilzt den Benutzer und seine Ausrüstung nach dem Tod.
 
 ent-DeathRattleImplant = Todesröcheln-Implantat
     .desc = Dieses Implantat informiert den Syndicate-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.
 
-ent-FakeMindShieldImplant = Fake Mindshield Implantat
+ent-FakeMindShieldImplant = Gefälschtes Mindshield-Implantat
     .desc = Dieses Implantat ermöglicht dem Träger, ein gefälschtes Signal zu erzeugen, mit dem NT-Sicherheitsteams Personen mit Mindshield-Implantat identifizieren.
 
 ent-MindShieldImplant = Mindshield-Implantat

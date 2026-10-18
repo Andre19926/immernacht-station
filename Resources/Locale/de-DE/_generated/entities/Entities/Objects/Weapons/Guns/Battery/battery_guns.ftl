@@ -10,7 +10,7 @@ ent-WeaponMakeshiftLaser = Provisorische Laserpistole
 ent-WeaponTeslaGun = Tesla Gun
     .desc = Die Kraft des Urelements Blitz in deinen Händen.
 
-ent-WeaponLaserCarbine = Laser Karabiner
+ent-WeaponLaserCarbine = Laserkarabiner
     .desc = Von der Nanotrasen-Sicherheit bevorzugt, weil sie billig und einfach zu bedienen ist.
 
 ent-WeaponLaserCarbinePractice = Üben Laser Karabiner
@@ -73,8 +73,8 @@ ent-WeaponEnergyMagnum = Energy Magnum
 ent-WeaponTemperatureGun = Temperaturpistole
     .desc = Eine vielseitige Energiepistole, die Projektile abfeuert, die die Körperinnentemperatur verändern, ursprünglich zum Einsatz gegen Gegner in gepanzerten Hardsuits entwickelt. Stellt wahrscheinlich eine Art Kriegsverbrechen im Konzernraum dar.
 
-ent-WeaponLaserGunXenoborg = Xenoborg Laserpistole
+ent-WeaponLaserGunXenoborg = Xenoborg-Laserpistole
     .desc = Eine experimentelle Laserpistole mit selbstaufladender Kernbatterie.
 
-ent-WeaponLaserCannonXenoborg = Xenoborg Laserkanone
+ent-WeaponLaserCannonXenoborg = Xenoborg-Laserkanone
     .desc = Eine schwere, fortschrittliche Laserwaffe, die die Kapazität eines Karabiners gegen deutlich mehr Leistung eintauscht. Bekannt dafür, Verbrennungen dritten Grades selbst durch kugelsichere Rüstung zu verursachen.

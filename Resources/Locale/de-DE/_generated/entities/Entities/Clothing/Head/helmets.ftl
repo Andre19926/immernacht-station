@@ -22,7 +22,7 @@ ent-ClothingHeadHelmetJanitorBombSuit = Helm des Jagdbombenanzugs
 ent-ClothingHeadHelmetCult = Kulthelm
     .desc = Ein robuster, böse aussehender Kulthelm.
 
-ent-ClothingHeadHelmetSpaceNinja = Space Ninja Helm
+ent-ClothingHeadHelmetSpaceNinja = Weltraum-Ninja-Helm
     .desc = Was wie ein schlichtes schwarzes Kleidungsstück aussieht, ist in Wahrheit ein hochentwickelter Nanogewebe-Helm. Standardausgabe der Ninja-Ausrüstung.
 
 ent-ClothingHeadHelmetTemplar = Ritterhelm
@@ -37,7 +37,7 @@ ent-ClothingHeadHelmetWizardHelm = Zaubererhelm
 ent-ClothingHeadHelmetFire = Feuerhelm
     .desc = Der beste Freund des Atmos-Technikers. Bietet etwas Hitzebeständigkeit und sieht cool aus.
 
-ent-ClothingHeadHelmetAtmosFire = atmos Feuerhelm
+ent-ClothingHeadHelmetAtmosFire = Atmos-Feuerhelm
     .desc = Ein Atmos-Feuerhelm, der dich in jeder Lage kühl hält.
 
 ent-ClothingHeadHelmetLing = Chitinhelm
@@ -64,7 +64,7 @@ ent-ClothingHeadHelmetRaid = Syndicate-Helm
 ent-ClothingHeadHelmetBone = Knochenhelm
     .desc = Cool aussehender Helm aus dem Schädel deiner Feinde.
 
-ent-ClothingHeadHelmetPodWars = Ironclad II Helm
+ent-ClothingHeadHelmetPodWars = Ironclad-II-Helm
     .desc = Ein Ironclad-II-Helm, ein Relikt der Pod-Kriege.
 
 ent-ClothingHeadHelmetJustice = Justizchef
@@ -73,7 +73,7 @@ ent-ClothingHeadHelmetJustice = Justizchef
 ent-ClothingHeadHelmetJusticeEmpty = Justizchef
     .desc = Fortschrittliche Sicherheitsausrüstung. Schützt die Station vor Tunichtguten.
 
-ent-ActionToggleJusticeHelm = Toggle Justice Helm
+ent-ActionToggleJusticeHelm = Gerechtigkeitshelm umschalten
     .desc = Schaltet die Gerechtigkeit an und aus.
 
 ent-CardHelmet = Kartonhelm

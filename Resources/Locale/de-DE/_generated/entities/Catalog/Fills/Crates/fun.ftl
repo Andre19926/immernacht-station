@@ -7,7 +7,7 @@ ent-CrateFunPlushie = Plüschtierkiste
 ent-CrateFunLizardPlushieBulk = lose Echse Plüschtier-Kiste
     .desc = Ein Haufen weicher Echsen-Plüschtiere. Wirf sie herum und überleg dir dann, wie du NT diesen Kauf erklärst.
 
-ent-CrateFunSharkPlushieBulk = Bulk Soft Toy Hai Kiste
+ent-CrateFunSharkPlushieBulk = Hai-Kuscheltier-Großkiste
     .desc = Eine Kiste voller Flossenfreunde, jedermanns Liebling. Rawr!
 
 ent-CrateFunInstrumentsVariety = Sammlung von Sorteninstrumenten
@@ -22,7 +22,7 @@ ent-CrateFunInstrumentsString = Streichinstrumentenensemble
 ent-CrateFunInstrumentsWoodwind = Holzblasinstrumentenensemble
     .desc = Wenn Atmos gut in ihrem Job ist, spiel mit Luft Musik auf diesen Holzblasinstrumenten! Echtes Holz nicht bei jedem Stück garantiert.
 
-ent-CrateFunInstrumentsKeyedPercussion = Keyed / Percussion Instrument Ensemble Kiste
+ent-CrateFunInstrumentsKeyedPercussion = Tasten- und Schlaginstrumenten-Ensemble-Kiste
     .desc = Schlag ein paar Tasten an, mit Stöcken oder bloßen Händen, mit dieser Kiste aus Tasten- und Schlaginstrumenten.
 
 ent-CrateFunInstrumentsSpecial = Spezialinstrumentensammlerkiste
@@ -37,7 +37,7 @@ ent-CrateFunArtSupplies = Kunstbedarf
 ent-CrateFunBoardGames = Brettspielkiste
     .desc = Spieleabende verringern erwiesenermaßen je nach Spiel entweder die Langeweile oder steigern die mörderische Wut.
 
-ent-CrateFunSadTromboneImplants = Sad Trombone Implantate
+ent-CrateFunSadTromboneImplants = Traurige-Posaune-Implantate
     .desc = Der Tod war noch nie so lustig! Diese Implantate machen das Sterben ein bisschen fröhlicher.
 
 ent-CrateFunLightImplants = Lichtimplantate
@@ -49,7 +49,7 @@ ent-CrateFunParty = Partykiste
 ent-CrateFunWaterGuns = Wasserpistolenkiste
     .desc = Ein Sommer-Special mit einer Auswahl bunter Wasserpistolen. Wasser nicht inbegriffen.
 
-ent-CrateFunFoamGuns = Foam-Force-Kiste
+ent-CrateFunFoamGuns = Schaumwaffen-Kiste
     .desc = Enthält vier Foam-Force-Kampfsets™. Schaum oder nichts!
 
 ent-CrateFunBoxing = Boxkiste
@@ -64,11 +64,11 @@ ent-CrateFunToyBox = Spielzeugbox
 ent-CrateFunBikeHornImplants = Fahrradhornimplantate
     .desc = Tausend Hupen am Tag halten die Sicherheitsbeamten fern!
 
-ent-CrateFunMysteryFigurines = Mystery Figure Kiste
+ent-CrateFunMysteryFigurines = Mystery-Figuren-Kiste
     .desc = Eine Sammlung von 10 Überraschungsfiguren-Schachteln. Duplikate sind nicht erstattungsfähig.
 
 ent-CrateFunDartsSet = Dartbox-Einstellung
     .desc = Eine Kiste mit allem, was du für ein lustiges Dartspiel brauchst.
 
-ent-CrateFunScurret = hydratisierter Scurret
+ent-CrateFunScurret = Hydrierter Scurret
     .desc = Moment, was?

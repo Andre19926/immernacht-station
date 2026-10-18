@@ -13,7 +13,7 @@ ent-BlastDoorXeno = Xeno-Drucktür
 ent-BlastDoorXenoOpen = Xeno-Schnelltür
     .desc = Verlier keinen Arm!
 
-ent-BlastDoorXenoFrame = Xeno Blast Türrahmen
+ent-BlastDoorXenoFrame = Xeno-Drucktürrahmen
     .desc = Dieser sagt „BLAST DONGER“.
 
 ent-BlastDoorXenoborg = Xenoborg-Drucktür

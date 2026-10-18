@@ -49,7 +49,7 @@ ent-FoodCondimentBottleHotsauce = Hot-Sauce-Flasche
 ent-FoodCondimentBottleKetchup = Ketchupflasche
     .desc = Du fühlst dich jetzt schon amerikanischer.
 
-ent-FoodCondimentBottleBBQ = BBQ Sauce Flasche
+ent-FoodCondimentBottleBBQ = BBQ-Sauce-Flasche
     .desc = Handtücher nicht inbegriffen.
 
 ent-FoodShakerSalt = Salzstreuer

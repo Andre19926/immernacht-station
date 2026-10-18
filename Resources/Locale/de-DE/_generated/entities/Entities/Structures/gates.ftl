@@ -1,7 +1,7 @@
 ent-LogicEmptyCircuit = Leerlauf
     .desc = Irgendetwas scheint zu fehlen.
 
-ent-LogicGateOr = Logik-Gate
+ent-LogicGateOr = Logikgatter
     .desc = Ein Logikgatter mit zwei Eingängen und einem Ausgang. Techniker können seine Funktionsweise mit einem Schraubendreher ändern.
 
 ent-LogicGateAnd = Logik-Gate
@@ -28,5 +28,5 @@ ent-PowerSensor = Leistungssensor
 ent-MemoryCell = Speicherzelle
     .desc = Eine D-Latch-Schaltung, die ein Signal speichert, das je nach Eingang geändert werden kann, und Ports aktiviert.
 
-ent-RandomGate = Random Gate
+ent-RandomGate = Zufallsgatter
     .desc = Ein Logikgatter, das bei Eingangsänderungen ein Zufallssignal ausgibt.

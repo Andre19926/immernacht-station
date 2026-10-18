@@ -1,28 +1,28 @@
-ent-ClothingOuterApron = Apron
+ent-ClothingOuterApron = Schürze
     .desc = Eine schicke Schürze für eine stilvolle Person.
 
-ent-ClothingOuterApronBar = Apron
+ent-ClothingOuterApronBar = Schürze
     .desc = Eine dunklere Schürze für Barkeeper.
 
-ent-ClothingOuterApronBotanist = Apron
+ent-ClothingOuterApronBotanist = Schürze
     .desc = Eine dicke blaue Schürze, perfekt, um dein weiches Fleisch vor Verschüttungen, Erde und Dornen zu schützen.
 
-ent-ClothingOuterApronChef = Apron
+ent-ClothingOuterApronChef = Schürze
     .desc = Eine Kochjacke, wie sie ein erstklassiger Koch trägt.
 
 ent-ClothingOuterJacketChef = Kochjacke
     .desc = Eine Kochjacke, wie sie ein erstklassiger Koch trägt.
 
-ent-ClothingOuterHoodieBlack = Schwarzer Hoodie
+ent-ClothingOuterHoodieBlack = Schwarzer Kapuzenpullover
     .desc = Oh mein Gott, es ist ein schwarzer Hoodie!
 
-ent-ClothingOuterHoodieGrey = Hoodie
+ent-ClothingOuterHoodieGrey = Grauer Kapuzenpullover
     .desc = Ein grauer Hoodie.
 
-ent-ClothingOuterCardborg = Cardborg Kostüm
+ent-ClothingOuterCardborg = Pappborg-Kostüm
     .desc = Ein gewöhnlicher Karton mit seitlich eingeschnittenen Löchern.
 
-ent-ClothingOuterHoodieChaplain = Kaplan-Hoodie
+ent-ClothingOuterHoodieChaplain = Kaplan-Kapuzenpullover
     .desc = Ein schwarzer, strenger Kaplan-Hoodie.
 
 ent-ClothingOuterPonchoClassic = Klassischer Poncho
@@ -31,7 +31,7 @@ ent-ClothingOuterPonchoClassic = Klassischer Poncho
 ent-ClothingOuterRobesCult = Kultroben
     .desc = Ohne klassische blutrote Kultroben gibt es keinen Kult.
 
-ent-ClothingOuterRobesJudge = Richter Robes
+ent-ClothingOuterRobesJudge = Richterrobe
     .desc = Dieses Gewand gebietet Autorität.
 
 ent-ClothingOuterPoncho = Poncho
@@ -54,7 +54,7 @@ ent-ClothingOuterSkub = Skub-Anzug
 ent-ClothingOuterPlagueSuit = Pestarztanzug
     .desc = Ein schlechtes Omen.
 
-ent-ClothingOuterNunRobe = Nonne robe
+ent-ClothingOuterNunRobe = Nonnenhabit
     .desc = Maximale Frömmigkeit in diesem Sternensystem.
 
 ent-ClothingOuterGhostSheet = Geisterblatt

@@ -204,5 +204,5 @@ ent-MobReindeerBuck = Rentierkuchen
 ent-MobReindeerDoe = Rentierkuh
     .desc = Denkst du, es kann einen Schlitten ziehen?
 
-ent-MobCorgiSmart = Smart Corgi
+ent-MobCorgiSmart = Schlauer Corgi
     .desc = Ein ungewöhnlich intelligenter Hund.

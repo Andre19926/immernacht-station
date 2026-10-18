@@ -256,7 +256,7 @@ ent-ClothingUniformJumpsuitERTJanitor = Notfallteam-Hausmeisteruniform
 ent-ClothingUniformJumpsuitERTLeader = Einheit des ERT-Führers
     .desc = Ein spezieller Anzug für die besten Eliten von CentComm.
 
-ent-ClothingUniformJumpsuitERTMedic = ERT medizinische Uniform
+ent-ClothingUniformJumpsuitERTMedic = Medizinische ERT-Uniform
     .desc = Ein Spezialanzug für die Elite-Sanitäter unter CentComm.
 
 ent-ClothingUniformJumpsuitERTSecurity = ERT-Sicherheitseinheit
@@ -274,13 +274,13 @@ ent-ClothingUniformJumpsuitPirate = Seezunge
 ent-ClothingUniformJumpsuitCossack = Kosakenanzug
     .desc = Die gute alte Hose und Brigantine.
 
-ent-ClothingUniformJumpsuitHawaiBlack = Schwarzes Hawaii-Shirt
+ent-ClothingUniformJumpsuitHawaiBlack = Schwarzes Hawaiihemd
     .desc = Schwarz wie eine Sternennacht.
 
-ent-ClothingUniformJumpsuitHawaiBlue = Blaues Hawaii-Shirt
+ent-ClothingUniformJumpsuitHawaiBlue = Blaues Hawaiihemd
     .desc = Blau wie ein riesiger Ozean.
 
-ent-ClothingUniformJumpsuitHawaiRed = Rotes Hawaii-Shirt
+ent-ClothingUniformJumpsuitHawaiRed = Rotes Hawaiihemd
     .desc = Rot wie eine saftige Wassermelone.
 
 ent-ClothingUniformJumpsuitHawaiYellow = Gelbes Hawaiihemd
@@ -325,5 +325,5 @@ ent-ClothingUniformJumpsuitCasualRed = Uniform (leger, rot)
 ent-ClothingUniformJumpsuitCasualGreen = Uniform (leger, grün)
     .desc = Ein loses, abgetragenes grünes Hemd mit grauer Hose, perfekt für alle, die sich entspannen wollen.
 
-ent-ClothingUniformJumpsuitFamilyGuy = Bekannte Garbs
+ent-ClothingUniformJumpsuitFamilyGuy = Bekannte Klamotten
     .desc = Du erinnerst dich an die Zeit, als du etwas Lustiges getan hast.

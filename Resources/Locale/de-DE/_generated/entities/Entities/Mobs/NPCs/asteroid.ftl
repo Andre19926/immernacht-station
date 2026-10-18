@@ -16,7 +16,7 @@ ent-MobHivelord = Hivelord
 ent-MobHivelordBrood = Hivelordbrut
     .desc = Ein Fragment des ursprünglichen Hivelords, das sich hinter seinem Original versteckt. Eines allein ist keine große Bedrohung, aber ...
 
-ent-FoodHivelordRemains = Hivelord bleibt
+ent-FoodHivelordRemains = Überreste des Hivelords
     .desc = Alles, was von einem Hivelord übrig bleibt. Offenbar kann er damit Teile von sich abstoßen, ohne verletzt zu werden ... Die heilende Wirkung lässt bald nach, wenn man es nicht schnell verwendet. Denk lieber nicht darüber nach, was du da isst.
 
 ent-FoodHivelordRemainsInert = inerte Hivelordreste

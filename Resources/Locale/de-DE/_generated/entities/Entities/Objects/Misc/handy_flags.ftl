@@ -4,10 +4,10 @@ ent-BlankHandyFlag = Blanko-Handflagge
 ent-NTHandyFlag = Nanotrasen-Handflagge
     .desc = Ruhm für NT! Wartest du, sie haben wirklich eine Handheld-Flagge für ein Unternehmen gemacht?
 
-ent-SyndieHandyFlag = Syndicate-Handheld-Flagge
+ent-SyndieHandyFlag = Syndicate-Handflagge
     .desc = Für wahrhaft rebellische Patrioten. Tod NT!
 
-ent-LGBTQHandyFlag = LGBTQ Handheld Flag
+ent-LGBTQHandyFlag = LGBTQ-Handflagge
     .desc = Die „Be gay, do crime“-Handfahne.
 
 ent-PirateHandyFlag = Piratenhandflagge

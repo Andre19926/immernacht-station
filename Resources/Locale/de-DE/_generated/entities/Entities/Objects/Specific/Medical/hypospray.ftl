@@ -1,7 +1,7 @@
 ent-Hypospray = Hypospray
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten an Patienten.
 
-ent-SyndiHypo = Gorlex hypospray
+ent-SyndiHypo = Gorlex-Hypospray
     .desc = Ein steriler Injektor für die schnelle Verabreichung von Medikamenten. Von Cybersun per Reverse Engineering aus Nanotrasen-Designs nachgebaut und in begrenzten Mengen für die Leichen der Gorlex-Marodeure produziert.
 
 ent-BorgHypo = Cyborg-Hypo
@@ -13,10 +13,10 @@ ent-JetInjector = Strahlinjektor
 ent-AdvancedJetInjector = fortgeschrittener Strahlinjektor
     .desc = Ein makelloser, modischer, hochwertiger Injektor. Ermöglicht schnellere Injektion bei etwas größerer Kapazität.
 
-ent-AdminHypo = experimentelle Hypospray
+ent-AdminHypo = Experimentelles Hypospray
     .desc = Die ultimative Anwendung von Bluespace-Technologie und schneller chemischer Verabreichung.
 
-ent-ChemicalMedipen = Chemische Medipen
+ent-ChemicalMedipen = Chemischer Medipen
     .desc = Ein nicht nachfüllbarer Einweg-Medipen.
 
 ent-EmergencyMedipen = Notfallmedipen
@@ -43,7 +43,7 @@ ent-PyraAutoInjector = Pyrazin-Autoinjektor
 ent-AirlossAutoInjector = Airlos Autoinjektor
     .desc = Ein nicht nachfüllbarer Einweg-Medipen mit Kochsalzlösung und Dexalin Plus zur schnellen, einfachen Behandlung von Blutverlust und Ersticken.
 
-ent-SpaceMedipen = Umweltstabilisierung medipen
+ent-SpaceMedipen = Umweltstabilisierungs-Medipen
     .desc = Enthält eine Chemikalienmischung, die dich vorübergehend vor Niederdruckumgebungen schützt und deine Körpertemperatur stabilisiert.
 
 ent-Stimpack = Hyperzininjektor
@@ -52,7 +52,7 @@ ent-Stimpack = Hyperzininjektor
 ent-StimpackMini = Hyperzin-Mikroinjektor
     .desc = Ein chemischer Mikroinjektor mit einer kleinen Dosis reinem Hyperzin. Die Wirkung hält etwa 30 Sekunden an.
 
-ent-CombatMedipen = Kampf gegen Medipen
+ent-CombatMedipen = Kampf-Medipen
     .desc = Ein nicht nachfüllbarer Einweg-Medipen mit einem chemischen Cocktail, der die meisten Schadensarten behandelt.
 
 ent-Hypopen = Stift

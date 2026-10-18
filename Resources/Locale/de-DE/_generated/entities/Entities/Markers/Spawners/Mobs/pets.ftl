@@ -8,6 +8,6 @@ ent-SpawnMobCorgiMouse = Dev-Maus-Spawner
 
 ent-SpawnMobCrabAtmos = Tropico-Spawner
 
-ent-SpawnMobPollyParrot = Polly der Papagei-Spawner
+ent-SpawnMobPollyParrot = Papagei-Polly-Spawner
 
 ent-SpawnMobRaccoonMorticia = Waschbär-Morticia-Spawner

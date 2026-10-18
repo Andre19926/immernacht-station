@@ -1,4 +1,4 @@
-ent-FoodDonkpocket = Donk-pocket
+ent-FoodDonkpocket = Donk-Pocket
     .desc = Das Essen der Wahl für den erfahrenen Verräter.
 
 ent-FoodDonkpocketWarm = warme Donk-Tasche
@@ -28,7 +28,7 @@ ent-FoodDonkpocketPizza = Pizza-Pocket
 ent-FoodDonkpocketPizzaWarm = warme Pizzatasche
     .desc = Käsefüllung trifft im warmen Zustand genau den richtigen Punkt.
 
-ent-FoodDonkpocketHonk = Honk-pocket
+ent-FoodDonkpocketHonk = Honk-Pocket
     .desc = Die preisgekrönte Donk-Tasche, die die Herzen von Clowns und Menschen gleichermaßen erobert hat.
 
 ent-FoodDonkpocketHonkWarm = warme Honktasche

@@ -6,6 +6,6 @@ ent-StatusEffectDrowsiness = Schläfrigkeit
 
 ent-StatusEffectSeeingRainbow = Halluzinationen
 
-ent-StatusEffectWoozy = Woozy
+ent-StatusEffectWoozy = Benommen
 
 ent-StatusEffectDrunk = betrunken

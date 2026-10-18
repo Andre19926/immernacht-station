@@ -22,10 +22,10 @@ ent-GunSafeDisabler = Neutralisierer-Tresor
 ent-GunSafePistolMk58 = mk58 sicher
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeRifleLecter = Lecter sicher
+ent-GunSafeRifleLecter = Lecter-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeSubMachineGunDrozd = Drozd sicher
+ent-GunSafeSubMachineGunDrozd = Drozd-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeShotgunEnforcer = Vollstrecker sicher
@@ -37,5 +37,5 @@ ent-GunSafeShotgunKammerer = Kammermann sicher
 ent-GunSafeSubMachineGunWt550 = wt550 sicher
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeLaserCarbine = Laser sicher
+ent-GunSafeLaserCarbine = Laser-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.

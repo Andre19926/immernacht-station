@@ -1,4 +1,4 @@
-ent-XenoWardingTower = Xeno Warteturm
+ent-XenoWardingTower = Xeno-Wachturm
 
 ent-CarpStatue = Karpfenstatue
     .desc = Eine Statue eines der tapferen Karpfen, die uns dorthin gebracht haben, wo wir heute stehen. Aus echten Zähnen gefertigt!

@@ -16,10 +16,10 @@ ent-GuitarlessFretsInstrument = Gitarrenlose Bünde
 ent-BanjoInstrument = Banjo
     .desc = Das ist ein Instrument.
 
-ent-ViolinInstrument = Violin
+ent-ViolinInstrument = Geige
     .desc = Der Favorit musikalischer Virtuosen und Bluegrass-Bands.
 
-ent-ViolaInstrument = Viola
+ent-ViolaInstrument = Bratsche
     .desc = Wie eine Geige, nur schlimmer.
 
 ent-CelloInstrument = Cello

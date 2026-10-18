@@ -25,7 +25,7 @@ ent-FoodBakedBunHotX = Hotcross-Brötchen
 ent-FoodBakedBunMeat = Fleischbrötchen
     .desc = Hat das Potenzial, kein Hund zu sein.
 
-ent-FoodBakedCookie = Cookie
+ent-FoodBakedCookie = Keks
     .desc = Kochen!!!
 
 ent-FoodBakedCookieOatmeal = Haferflockenkeks

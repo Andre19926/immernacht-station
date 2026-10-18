@@ -4,10 +4,10 @@ ent-Holoprojector = holographischer Schildprojektor
 ent-HoloprojectorEmpty = holographischer Schildprojektor
     .desc = Ein praktischer holografischer Projektor, der ein Hausmeisterschild anzeigt.
 
-ent-HoloprojectorBorg = Holosign-Projektor
+ent-HoloprojectorBorg = Holoschild-Projektor
     .desc = Ein modifizierter holografischer Schildprojektor für Cyborgs. Lädt sich automatisch selbst auf.
 
-ent-HoloprojectorClownBorg = Holopeel-Projektor
+ent-HoloprojectorClownBorg = Holobananenschalen-Projektor
     .desc = Ein Holo-Schalenprojektor, der eine rutschige, harte Licht-Bananenschale erzeugt. Er lädt sich auf, damit der Spaß nie endet!
 
 ent-HolofanProjector = Holofan-Projektor

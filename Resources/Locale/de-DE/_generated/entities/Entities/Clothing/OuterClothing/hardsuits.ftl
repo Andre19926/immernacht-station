@@ -55,7 +55,7 @@ ent-ClothingOuterHardsuitSyndieElite = Syndicate-Elite-Hardsuit
 ent-ClothingOuterHardsuitSyndieCommander = Syndicate-Kommandanten-Hardsuit
     .desc = Eine aufgeblähte Version des blutroten Hardsuits, speziell für den Kommandanten eines Syndicate-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
 
-ent-ClothingOuterHardsuitJuggernaut = Cybersun Juggernaut Anzug
+ent-ClothingOuterHardsuitJuggernaut = Cybersun-Juggernaut-Anzug
     .desc = Ein Anzug aus der hochmodernen Forschungsabteilung von Cybersun, hyperresistent ausgelegt.
 
 ent-ClothingOuterHardsuitWizard = Zauberer-Hardsuit

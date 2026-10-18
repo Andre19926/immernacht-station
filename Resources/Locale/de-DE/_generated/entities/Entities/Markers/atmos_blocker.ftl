@@ -10,7 +10,7 @@ ent-AtmosFixNitrogenMarker = Atmos Fix Stickstoffmarker
 ent-AtmosFixPlasmaMarker = Atmos Fix Plasmamarker
     .desc = Plasma @ Gasminer-Druck, 20 °C
 
-ent-AtmosFixInstantPlasmaFireMarker = Atmos Fix Instant Plasmafire Marker
+ent-AtmosFixInstantPlasmaFireMarker = Atmos-Fix-Sofortplasmafeuer-Marker
     .desc = SOFORTIGES PLASMAFEUER
 
 ent-AtmosFixFreezerMarker = Atmos-Fix-Frühling

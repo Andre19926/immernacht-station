@@ -1,4 +1,4 @@
-ent-OffsetCane = Standard-Gehstock mit Krümmgriff
+ent-OffsetCane = Standard-Gehstock mit Krummgriff
     .desc = Ein einfacher Gehstock, wichtig, um sich fortzubewegen, wenn deine Beine der Aufgabe nicht gewachsen sind. Verleiht dir womöglich nicht die Weisheit der Alten.
 
 ent-OffsetCaneClown = Regenbogen-Gehstock

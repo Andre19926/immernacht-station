@@ -40,7 +40,7 @@ ent-FoodPiePumpkin = Kürbiskuchen
 ent-FoodPiePumpkinSlice = Kürbiskuchenstück
     .desc = Ein Stück Kuchen. Lecker!
 
-ent-FoodPieXeno = Xeno Piece
+ent-FoodPieXeno = Xeno-Kuchenstück
 
 ent-FoodPieXenoSlice = Stück Xeno Pie
     .desc = Ein Stück Kuchen. Lecker!
@@ -51,7 +51,7 @@ ent-FoodPieFrosty = frostiger Kuchen
 ent-FoodPieFrostySlice = Stück frostiger Kuchen
     .desc = Ein Stück Kuchen. Lecker!
 
-ent-FoodTartMime = Mime tart
+ent-FoodTartMime = Mime-Tortenstück
 
 ent-FoodTartMimeSlice = Mime Tart-Scheibe
     .desc = Ein Stück Kuchen. Lecker!

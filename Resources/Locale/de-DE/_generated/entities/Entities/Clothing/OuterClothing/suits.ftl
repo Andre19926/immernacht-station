@@ -7,7 +7,7 @@ ent-ClothingOuterSuitJanitorBomb = Schutzbombenanzug
 ent-ClothingOuterSuitFire = Feueranzug
     .desc = Ein Anzug, der vor gefährlichen Temperaturen schützt.
 
-ent-ClothingOuterSuitAtmosFire = Feueranzug atmos
+ent-ClothingOuterSuitAtmosFire = Atmos-Feueranzug
     .desc = Ein teurer Feueranzug, der selbst vor den tödlichsten Stationsbränden schützt. Er soll schützen, auch wenn der Träger in Flammen steht.
 
 ent-ClothingOuterSuitRad = Bestrahlungsanzug

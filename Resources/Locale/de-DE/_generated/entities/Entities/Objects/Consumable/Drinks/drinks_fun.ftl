@@ -10,5 +10,5 @@ ent-BottomlessLube = Bodenloses Gleitmittel-Becherglas
 ent-DrinkJarWhat = Glas mit etwas
     .desc = Du kannst nicht wirklich sagen, was das ist.
 
-ent-DrinkMopwataBottleRandom = leckere Mopwata
+ent-DrinkMopwataBottleRandom = Leckere Mopwata
     .desc = Eine neblig-braune Flasche mit einem verblassten Etikett, das einen Mopp zeigt. Sie ist voller düsterer ... Vintage-Ware.

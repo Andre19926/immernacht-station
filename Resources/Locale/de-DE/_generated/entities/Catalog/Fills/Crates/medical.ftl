@@ -28,7 +28,7 @@ ent-CrateEmergencyO2Kit = Notfall-O2-Kit
 ent-CrateEmergencyBruteKit = Notfall-Medkit gegen physische Schäden
     .desc = Kiste mit einem Behandlungsset für Schnittwunden.
 
-ent-CrateEmergencyAdvancedKit = Notfall-Advanced-Kit
+ent-CrateEmergencyAdvancedKit = Erweitertes Notfall-Kit
     .desc = Kiste mit einem fortschrittlichen Behandlungsset.
 
 ent-CrateEmergencyRadiationKit = Notstrahlungs-Kit

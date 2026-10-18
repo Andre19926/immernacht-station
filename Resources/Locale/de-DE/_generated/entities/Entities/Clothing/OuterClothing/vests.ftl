@@ -1,7 +1,7 @@
 ent-ClothingOuterVestWeb = Webweste
     .desc = Eine synthetische Rüstungsweste. Diese hier wurde mit Gurtband und ballistischen Platten aufgerüstet.
 
-ent-ClothingOuterVestWebElite = Elite-Webweste
+ent-ClothingOuterVestWebElite = Elite-Netzweste
     .desc = Eine synthetische Rüstungsweste. Diese hier wurde mit Gewebe und hitzebeständigen Fasern aufgerüstet.
 
 ent-ClothingOuterVestWebMerc = Söldnerweste

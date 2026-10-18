@@ -7,7 +7,7 @@ ent-BaseBulletPractice = Basiskugelübung
 ent-BaseBulletIncendiary = Basisgeschoss (Brand)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-BaseBulletAP = Basisgeschosspanzer-Piercing
+ent-BaseBulletAP = Basisgeschoss (panzerbrechend)
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-BaseBulletUranium = Grundgeschoss-Uran
@@ -34,7 +34,7 @@ ent-WatcherBolt = Wächterbolzen
 ent-BoltTempgunCold = Gefrierschutz
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
-ent-WatcherBoltMagmawing = Magmawing Watcher Bolzen
+ent-WatcherBoltMagmawing = Magmawing-Watcher-Bolzen
     .desc = Wenn du das sehen kannst, bist du wahrscheinlich tot!
 
 ent-WatcherBoltIcewing = Eisflügel-Wächterbolzen

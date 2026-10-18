@@ -2,9 +2,9 @@ ent-ReagentSpeedStatusEffect = Reagensdrehzahl
 
 ent-VomitingSlowdownStatusEffect = Erbrechen Verlangsamung
 
-ent-TaserSlowdownStatusEffect = Geschossen von Taser Slowdown
+ent-TaserSlowdownStatusEffect = Vom Taser verlangsamt
 
-ent-FlashSlowdownStatusEffect = Betroffen von Flash Slowdown
+ent-FlashSlowdownStatusEffect = Von Blendung verlangsamt
 
 ent-StatusEffectStaminaLow = Ausdauer niedrig
 

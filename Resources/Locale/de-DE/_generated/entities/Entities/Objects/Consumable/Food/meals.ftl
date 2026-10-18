@@ -13,7 +13,7 @@ ent-FoodMealFriesCarrot = Pommes frites
 ent-FoodMealNachos = Nachos
     .desc = Chips aus Space Mexico.
 
-ent-FoodMealNachosCheesy = cheesy Nachos
+ent-FoodMealNachosCheesy = Käsige Nachos
     .desc = Die köstliche Kombination aus Nachos und Schmelzkäse.
 
 ent-FoodMealNachosCuban = Kubanische Nachos
@@ -25,7 +25,7 @@ ent-FoodMealMint = Minze
 ent-FoodMealEggplantParm = Auberginenparmigiana
     .desc = Das einzig gute Rezept für Auberginen.
 
-ent-FoodMealPotatoYaki = yaki imo
+ent-FoodMealPotatoYaki = Yaki Imo
     .desc = Hergestellt mit gerösteten Süßkartoffeln!
 
 ent-FoodMealCubancarp = Kubanischer Karpfen
@@ -43,7 +43,7 @@ ent-FoodMealPigblanket = Schwein in einer Decke
 ent-FoodMealRibs = bbq-Rippen
     .desc = BBQ-Rippen in einer gesunden BBQ-Sauce. Das am wenigsten vegane Ding aller Zeiten.
 
-ent-FoodMealEggsbenedict = Eier benedict
+ent-FoodMealEggsbenedict = Eier Benedict
     .desc = Da ist nur ein Ei drauf, wie unhöflich.
 
 ent-FoodMealOmelette = Käse-Omelett
@@ -61,7 +61,7 @@ ent-FoodMealMemoryleek = Gedächtnislauge
 ent-DisgustingSweptSoup = Salzige süße Miso-Cola-Suppe
     .desc = Jesus Christus.
 
-ent-FoodMealQueso = queso
+ent-FoodMealQueso = Queso
     .desc = Ein klassischer Dip, mit dem man nichts falsch machen kann.
 
 ent-FoodMealSashimi = Sashimi

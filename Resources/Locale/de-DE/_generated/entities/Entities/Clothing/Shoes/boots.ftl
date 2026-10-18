@@ -1,4 +1,4 @@
-ent-ClothingShoesBootsWork = Workboots
+ent-ClothingShoesBootsWork = Arbeitsstiefel
     .desc = Technik-Schnürschuhe für die besonders Bodenständigen (Blue Collar).
 
 ent-ClothingShoesBootsJack = Jackstiefel

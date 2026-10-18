@@ -13,10 +13,10 @@ ent-SurvivalKnife = Überlebensmesser
 ent-KukriKnife = Kukri-Messer
     .desc = Profis haben Standards. Sei höflich. Sei effizient. Hab einen Plan, jeden zu töten, den du triffst.
 
-ent-BladedFlatcapGrey = grauer Flatcap
+ent-BladedFlatcapGrey = Graue Schiebermütze
     .desc = Mode für die Arbeiterklasse und den alten Mann Jenkins. Es hat Glassplitter in der Krempe versteckt.
 
-ent-BladedFlatcapBrown = Brauner Flatcap
+ent-BladedFlatcapBrown = Braune Schiebermütze
     .desc = Dummer Clown! Du hast mich schlecht aussehen lassen! Es hat Glassplitter in der Krempe versteckt.
 
 ent-Shiv = Schippe

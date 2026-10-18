@@ -1,7 +1,7 @@
 ent-PaintingEmpty = leerer Rahmen
     .desc = Ein leerer Rahmen, der darauf wartet, mit Kunst gefüllt zu werden.
 
-ent-PaintingMoony = Abstract Nr. 1
+ent-PaintingMoony = Abstrakt Nr. 1
     .desc = Ein imposantes abstraktes Gemälde. Es fühlt sich an, als würde es dich drängen, Gutes zu tun.
 
 ent-PaintingPersistenceOfMemory = Die Beharrlichkeit der Erinnerung
@@ -19,7 +19,7 @@ ent-PaintingTheScream = Der Schrei
 ent-PaintingTheGreatWave = Die Große Welle vor Kanagawa
     .desc = Dieses Gemälde zeigt eine majestätische Welle, die über mehrere kleine Fischerboote hereinbricht.
 
-ent-PaintingCafeTerraceAtNight = Cafe Terrasse bei Nacht
+ent-PaintingCafeTerraceAtNight = Café-Terrasse bei Nacht
     .desc = Dieses Gemälde zeigt eine lebhafte Nachtszene in einem Café.
 
 ent-PaintingNightHawks = Nachtfalken
@@ -43,7 +43,7 @@ ent-PaintingOlympia = Olympia
 ent-PaintingSaturn = Saturn verschlingt seinen Sohn
     .desc = Dieses Gemälde zeigt einen Riesen, der eine menschliche Leiche verschlingt. Er hat einen beängstigenden Blick in den Augen.
 
-ent-PaintingSleepingGypsy = Der schlafende Gypsy
+ent-PaintingSleepingGypsy = Die schlafende Wanderin
     .desc = Dieses Gemälde zeigt eine Romni, die zwischen ihren Habseligkeiten in der Wüste schläft. Hinter ihr steht ein Löwe.
 
 ent-PaintingRedBlueYellow = Komposition in Rot, Blau und Gelb
@@ -55,5 +55,5 @@ ent-PaintingAmogusTriptych = Amogus Triptychon (ohne Titel)
 ent-PaintingHelloWorld = Hello World
     .desc = Dieses Gemälde besteht aus vielen mehrfarbigen Quadraten, die in einem besonderen Muster angeordnet sind. Vielleicht bedeutet es etwas?
 
-ent-PaintingSadClown = Sad Clown
+ent-PaintingSadClown = Trauriger Clown
     .desc = Dieses Gemälde ist eine traurige Kundschaft! Es macht Freude.

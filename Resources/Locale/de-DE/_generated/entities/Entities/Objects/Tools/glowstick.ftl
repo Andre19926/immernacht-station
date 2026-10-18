@@ -19,7 +19,7 @@ ent-LightBehaviourTest2 = Farbzyklusprüfung
 
 ent-LightBehaviourTest3 = Mehrfachverhaltenslichtprüfung
 
-ent-LightBehaviourTest4 = Lichtausblendung im Test
+ent-LightBehaviourTest4 = Lichtausblendungs-Test
 
 ent-LightBehaviourTest5 = Prüfung des Lichtimpulsradius
 

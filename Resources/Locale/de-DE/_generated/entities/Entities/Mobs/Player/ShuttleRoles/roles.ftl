@@ -1,4 +1,4 @@
-ent-RandomHumanoidVisitorCaptain = Besuch der Captain Geisterrolle
+ent-RandomHumanoidVisitorCaptain = Besuchender Kapitän (Geisterrolle)
 
 ent-RandomHumanoidVisitorCE = Besuch der CE Geisterrolle
 
@@ -22,7 +22,7 @@ ent-RandomHumanoidVisitorWarden = Besuchender Warden (Geisterrolle)
 
 ent-RandomHumanoidVisitorCargoTechnician = Besuch der Geisterrolle des Frachttechnikers
 
-ent-RandomHumanoidVisitorSalvageSpecialist = Visiting Salvage Specialist Geisterrolle
+ent-RandomHumanoidVisitorSalvageSpecialist = Besuchender Salvage-Spezialist (Geisterrolle)
 
 ent-RandomHumanoidVisitorAtmosTech = Besuch der Geisterrolle des Atmos-Technikers
 
@@ -54,19 +54,19 @@ ent-RandomHumanoidVisitorBartender = Besuch der Barkeeper Geisterrolle
 
 ent-RandomHumanoidVisitorBotanist = Besuch der Botaniker-Geisterrolle
 
-ent-RandomHumanoidVisitorBoxer = Besuch der Boxer Geisterrolle
+ent-RandomHumanoidVisitorBoxer = Besuchender Boxer (Geisterrolle)
 
 ent-RandomHumanoidVisitorChaplain = Seelsorger Geisterrolle
 
-ent-RandomHumanoidVisitorChef = Gastspiel Chef Geisterrolle
+ent-RandomHumanoidVisitorChef = Besuchender Koch (Geisterrolle)
 
-ent-RandomHumanoidVisitorClown = Besuch der Clown Geisterrolle
+ent-RandomHumanoidVisitorClown = Besuchender Clown (Geisterrolle)
 
 ent-RandomHumanoidVisitorJanitor = Besuch bei Hausmeister Geisterrolle
 
 ent-RandomHumanoidVisitorLawyer = Jurist Geisterrolle
 
-ent-RandomHumanoidVisitorLawyerCentcom = Besuch bei centcom lawyer ghost role
+ent-RandomHumanoidVisitorLawyerCentcom = Besuchender CentComm-Anwalt (Geisterrolle)
 
 ent-RandomHumanoidVisitorLibrarian = Bibliothekarische Geisterrolle
 
@@ -76,17 +76,17 @@ ent-RandomHumanoidVisitorMusicianFancy = Besuche die Fantasiemusiker-Geisterroll
 
 ent-RandomHumanoidVisitorMusicianRelaxed = Besichtigung einer entspannten Musiker-Geisterrolle
 
-ent-RandomHumanoidVisitorMime = Besuch der Mime Geisterrolle
+ent-RandomHumanoidVisitorMime = Besuchender Mime (Geisterrolle)
 
-ent-RandomHumanoidVisitorReporter = Die Rolle des Reporters Ghost
+ent-RandomHumanoidVisitorReporter = Besuchender Reporter (Geisterrolle)
 
-ent-RandomHumanoidVisitorServiceWorker = Visiting Service Mitarbeiter Geisterrolle
+ent-RandomHumanoidVisitorServiceWorker = Besuchende Servicekraft (Geisterrolle)
 
 ent-RandomHumanoidVisitorZookeeper = Besuch der Zoowächter-Geisterrolle
 
 ent-RandomHumanoidClownTroupeBanana = Bananenclowntruppe
 
-ent-RandomHumanoidChallengeVictimCaptain = Katastrophenopfer Captain Geisterrolle
+ent-RandomHumanoidChallengeVictimCaptain = Katastrophenopfer: Kapitän (Geisterrolle)
 
 ent-RandomHumanoidChallengeVictimCE = Katastrophenopfer CE-Geisterrolle
 
@@ -100,18 +100,18 @@ ent-RandomHumanoidChallengeVictimRD = Katastrophenopfer RD Geisterrolle
 
 ent-RandomHumanoidChallengeVictimQM = Katastrophenopfer QM Geisterrolle
 
-ent-RandomHumanoidChallengeCargoTechnician = Disaster Frachttechniker Geisterrolle
+ent-RandomHumanoidChallengeCargoTechnician = Katastrophenopfer: Frachttechniker (Geisterrolle)
 
-ent-RandomHumanoidSyndieSoldierTeamLeader = Syndicate Team Leader Geisterrolle
+ent-RandomHumanoidSyndieSoldierTeamLeader = Syndicate-Teamleiter (Geisterrolle)
 
 ent-RandomHumanoidSyndieSoldier = Syndicate Soldaten Geisterrolle
 
-ent-RandomHumanoidSyndieVisitor = Syndie Disaster Opfer Geisterrolle
+ent-RandomHumanoidSyndieVisitor = Syndicate-Katastrophenopfer (Geisterrolle)
 
-ent-RandomHumanoidPirateScooner = Pirat Crewman Geisterrolle
+ent-RandomHumanoidPirateScooner = Pirat (Geisterrolle)
 
-ent-RandomHumanoidPirateCaptainScooner = Pirat Captain Geisterrolle
+ent-RandomHumanoidPirateCaptainScooner = Piratenkapitän (Geisterrolle)
 
-ent-RandomHumanoidVisitorBlackmarketeer = Blackmarketeer Geisterrolle
+ent-RandomHumanoidVisitorBlackmarketeer = Schwarzmarkthändler (Geisterrolle)
 
 ent-RandomHumanoidCossack = Kosaken-Geisterrolle

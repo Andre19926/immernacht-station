@@ -10,7 +10,7 @@ ent-FoodBreadBunTop = Oberes Brötchen
 ent-FoodBurgerJelly = Geleeburger
     .desc = Kulinarisches Vergnügen ...?
 
-ent-FoodBurgerAppendix = Anlage Burger
+ent-FoodBurgerAppendix = Blinddarm-Burger
     .desc = Schmeckt nach Blinddarmentzündung.
 
 ent-FoodBurgerBacon = Speckburger
@@ -22,7 +22,7 @@ ent-FoodBurgerBaseball = Baseballburger
 ent-FoodBurgerBear = Bär
     .desc = Am besten roh serviert.
 
-ent-FoodBurgerBig = Big Bite Burger
+ent-FoodBurgerBig = Big-Bite-Burger
     .desc = Vergiss den Big Mac. Das ist die Zukunft!
 
 ent-FoodBurgerBrain = Gehirnburger
@@ -52,7 +52,7 @@ ent-FoodBurgerCrazy = Verrückter Hamburger
 ent-FoodBurgerDuck = Entensandwich
     .desc = Ein Entensandwich. Nur ein kriminell Wahnsinniger würde es wagen, das Fleisch einer so entzückenden Kreatur zu essen.
 
-ent-FoodBurgerEmpowered = Empowered Burger
+ent-FoodBurgerEmpowered = Gestärkter Burger
     .desc = Es ist schockierend gut – jedenfalls wenn du von Elektrizität lebst.
 
 ent-FoodBurgerCarp = Filet-o-Carp-Burger
@@ -69,13 +69,13 @@ ent-FoodBurgerHuman = Menschlicher Burger
 ent-FoodBurgerMcguffin = McGuffin
     .desc = Eine billige, fettige Imitation von Eggs Benedict.
 
-ent-FoodBurgerMcrib = BBQ Rib Sandwich
+ent-FoodBurgerMcrib = BBQ-Rippchen-Sandwich
     .desc = Ein schwer zu fassender, rippenförmiger Burger, in der Galaxis nur begrenzt erhältlich. Nicht so gut, wie du ihn in Erinnerung hast.
 
-ent-FoodBurgerMime = Mime Burger
+ent-FoodBurgerMime = Mime-Burger
     .desc = Sein Geschmack spottet jeder Beschreibung.
 
-ent-FoodBurgerPlain = Plain Burger
+ent-FoodBurgerPlain = Einfacher Burger
     .desc = Ein langweiliger, trockener Burger.
 
 ent-FoodBurgerRat = Rattenburger
@@ -90,7 +90,7 @@ ent-FoodBurgerSoy = Soylentburger
 ent-FoodBurgerSpell = Zauberburger
     .desc = Das ist absolut Ei Nath.
 
-ent-FoodBurgerSuper = Super Biss Burger
+ent-FoodBurgerSuper = Super-Biss-Burger
     .desc = Das ist der Berg unter den Burgern. ESSEN!
 
 ent-FoodBurgerTofu = Tofuburger

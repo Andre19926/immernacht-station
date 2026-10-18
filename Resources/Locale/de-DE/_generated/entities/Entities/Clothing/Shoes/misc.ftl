@@ -18,7 +18,7 @@ ent-ClothingShoesDameDane = Yakuza-Schuhe
 ent-ClothingShoesSnakeskinBoots = Schlangenhautstiefel
     .desc = Stiefel aus einst wertvollem Schlangenleder; alle um dich herum wären neidisch gewesen.
 
-ent-ClothingShoesBootsSpeed = Speed-Stiefel
+ent-ClothingShoesBootsSpeed = Geschwindigkeitsstiefel
     .desc = Hightech-Stiefel aus Quantenfasern, die Strom in pure Geschwindigkeit umwandeln können!
 
 ent-ActionToggleSpeedBoots = Schnellstiefel umschalten

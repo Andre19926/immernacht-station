@@ -1,7 +1,7 @@
 ent-CarvedPumpkin = geschnitzter Kürbis
     .desc = Eine traditionelle gruselige Dekoration.
 
-ent-PumpkinLantern = jack o' lantern
+ent-PumpkinLantern = Kürbislaterne
     .desc = Ein geschnitzter Kürbis, der ein unheimliches Leuchten abgibt.
 
 ent-CarvedPumpkinSmall = geschnitzter Kürbis

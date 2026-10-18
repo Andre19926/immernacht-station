@@ -6,13 +6,13 @@ ent-ActionGhostShowRadar = Massenscanner-Oberfläche
 ent-ActionGhostBoo = Boo!
     .desc = Erschrecke deine Crewmitglieder aus Langeweile!
 
-ent-ActionToggleLighting = Toggle Lighting
+ent-ActionToggleLighting = Beleuchtung umschalten
     .desc = Schaltet die Lichtdarstellung um, damit du dunkle Bereiche besser erkennst.
 
-ent-ActionToggleFov = Toggle FoV
+ent-ActionToggleFov = Sichtfeld umschalten
     .desc = Schaltet das Sichtfeld um, um zu sehen, was die Spieler sehen.
 
-ent-ActionToggleGhosts = Toggle Ghosts
+ent-ActionToggleGhosts = Geister umschalten
     .desc = Schaltet die Sichtbarkeit anderer Geister um.
 
 ent-ActionToggleGhostHearing = Geisterhören umschalten

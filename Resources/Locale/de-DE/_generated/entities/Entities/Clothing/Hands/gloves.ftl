@@ -33,7 +33,7 @@ ent-ClothingHandsGlovesPowerglove = Elektrohandschuhe
 
 ent-ClothingHandsGlovesRobohands = Robohandschuhe
 
-ent-ClothingHandsGlovesSpaceNinja = Space Ninja Handschuhe
+ent-ClothingHandsGlovesSpaceNinja = Weltraum-Ninja-Handschuhe
     .desc = Diese schwarzen, nanoverstärkten Handschuhe isolieren gegen Strom und sind feuerbeständig.
 
 ent-ClothingHandsGlovesCombat = Kampfhandschuhe
@@ -57,7 +57,7 @@ ent-ClothingHandsGlovesMercFingerless = Söldnerhandschuhe ohne Finger
 ent-ThievingGloves = schwarze Handschuhe
     .desc = Gewöhnliche schwarze Handschuhe, die dich nicht vor dem Braten schützen.
 
-ent-ClothingHandsGlovesCluwne = cluwne Hände
+ent-ClothingHandsGlovesCluwne = Cluwne-Hände
     .desc = Ein verfluchtes Paar Cluwne-Hände.
 
 ent-ClothingHandsGlovesNorthStar = Handschuhe des Nordsterns

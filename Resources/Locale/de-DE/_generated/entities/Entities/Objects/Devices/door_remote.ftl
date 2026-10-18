@@ -28,5 +28,5 @@ ent-DoorRemoteEngineering = Technische Türfernbedienung
 ent-DoorRemoteAll = Super-Türfernbedienung
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.
 
-ent-DoorRemoteXenoborg = Xenoborg Türfernbedienung
+ent-DoorRemoteXenoborg = Xenoborg-Türfernbedienung
     .desc = Ein Gadget, das Türen aus der Ferne öffnen und verriegeln kann.

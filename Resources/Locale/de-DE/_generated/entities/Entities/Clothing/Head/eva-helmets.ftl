@@ -10,7 +10,7 @@ ent-ClothingHeadHelmetSyndicate = Syndicate EVA Helm
 ent-ClothingHeadHelmetCosmonaut = Kosmonautenhelm
     .desc = Altes Design, aber fortschrittliche Fertigung.
 
-ent-ClothingHeadHelmetVoidParamed = Paramed void Helm
+ent-ClothingHeadHelmetVoidParamed = Sanitäter-Leerhelm
     .desc = Ein leerer Helm für Sanitäter.
 
 ent-ClothingHeadHelmetAncient = NTSRA-Leerhelm

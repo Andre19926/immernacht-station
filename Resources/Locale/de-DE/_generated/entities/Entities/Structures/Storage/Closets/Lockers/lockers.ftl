@@ -34,7 +34,7 @@ ent-LockerAtmospherics = Atmos-Spind
 ent-LockerEngineer = Spind des Ingenieurs
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerEvacRepair = Notfall-Shuttle-Notfall Spind
+ent-LockerEvacRepair = Notfall-Shuttle-Notfallspind
     .desc = Notfälle bis ganz nach unten.
 
 ent-LockerFreezerBase = Gefriergeräte
@@ -118,13 +118,13 @@ ent-LockerEvidence = Beweisspind
 ent-LockerSyndicatePersonal = blutroter Spind
     .desc = Ein persönlicher Spind in blutrotem Design.
 
-ent-LockerBluespaceStation = Bluespace Spind
+ent-LockerBluespaceStation = Bluespace-Spind
     .desc = Fortschrittliche Spind-Technologie.
 
 ent-LockerClown = Clown-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerMime = Mime Spind
+ent-LockerMime = Mime-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerRepresentative = Vertreter Spind

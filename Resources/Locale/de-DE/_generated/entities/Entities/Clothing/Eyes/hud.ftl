@@ -16,7 +16,7 @@ ent-ClothingEyesHudBeer = Bierbrille
 ent-ClothingEyesHudFriedOnion = gebratene Zwiebelbrille
     .desc = Füller
 
-ent-ClothingEyesHudOnionBeer = Donnerstbrillen
+ent-ClothingEyesHudOnionBeer = Donnerstbrille
     .desc = Füller
 
 ent-ClothingEyesHudMedOnion = Medonion-HUD
@@ -40,10 +40,10 @@ ent-ClothingEyesHudSyndicate = Syndicate-Visier
 ent-ClothingEyesHudSyndicateAgent = Syndicate medizinisches Visier
     .desc = Das professionelle Head-up-Display des Syndicate-Agentenanitäters, entwickelt zur schnellen Diagnose des Status des Teams.
 
-ent-ClothingEyesGlassesHiddenSecurity = Sonnenbrillen
+ent-ClothingEyesGlassesHiddenSecurity = Sonnenbrille
     .desc = Eine schwarze Sonnenbrille.
 
-ent-ClothingEyesEyepatchHudMedical = Medizinische Hud Eyepatch
+ent-ClothingEyesEyepatchHudMedical = Medizinische HUD-Augenklappe
     .desc = Ein nach oben gerichtetes Display, das die Humanoiden in Sichtweite abbildet und Daten über ihren Gesundheitszustand liefert. Für echte Patrioten.
 
 ent-ClothingEyesEyepatchHudMedicalFlipped = Medizinische Hud Eyepatch
@@ -61,7 +61,7 @@ ent-ClothingEyesEyepatchHudBeer = Bierhud Augenklappe
 ent-ClothingEyesEyepatchHudBeerFlipped = Bierhud Augenklappe
     .desc = Eine Sun-HUD-Brille mit Geräten zum Scannen von Reagenzien und einem angeborenen Gespür für flüssige Viskosität in Bewegung. Für echte Patrioten.
 
-ent-ClothingEyesEyepatchHudDiag = Diagnostische Hud Eyepatch
+ent-ClothingEyesEyepatchHudDiag = Diagnose-HUD-Augenklappe
     .desc = Ein Head-up-Display, das die Integrität und den Status von Robotik und Exosuits analysieren kann. Hergestellt aus See-borg-ium.
 
 ent-ClothingEyesEyepatchHudDiagFlipped = Diagnostische Hud Eyepatch

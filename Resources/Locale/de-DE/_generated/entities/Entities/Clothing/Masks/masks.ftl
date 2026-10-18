@@ -52,7 +52,7 @@ ent-ClothingMaskMuzzle = Mündung
 ent-ClothingMaskPlague = Pestarztmaske
     .desc = Ein schlechtes Omen.
 
-ent-ClothingMaskCluwne = cluwne Gesicht und Haare
+ent-ClothingMaskCluwne = Cluwne-Gesicht und -Haare
     .desc = Gesicht und Haare verflucht.
 
 ent-ClothingMaskGasSwat = Gasmaske
@@ -94,16 +94,16 @@ ent-ClothingMaskNeckGaiter = Halsgarnitur
 ent-ClothingMaskNeckGaiterRed = Rote Hals-Gamasche
     .desc = Stilvolle Halsgamasche, die vielleicht vor dem kosmischen Wind schützt?
 
-ent-ClothingMaskSexyClown = Sexy Clown Maske
+ent-ClothingMaskSexyClown = Sexy-Clown-Maske
     .desc = Manche frechen Clowns finden, dass die Honkmother so aussieht.
 
-ent-ClothingMaskSexyMime = sexy Mime Maske
+ent-ClothingMaskSexyMime = Sexy-Mime-Maske
     .desc = Diese steinernen Wangen wollen einfach nur gerieben werden.
 
-ent-ClothingMaskSadMime = Sad Mime Maske
+ent-ClothingMaskSadMime = Traurige Mime-Maske
     .desc = Viele Leute denken, so sehe eine echte Pantomimenmaske aus.
 
-ent-ClothingMaskScaredMime = Angst Mime Maske
+ent-ClothingMaskScaredMime = Ängstliche Mime-Maske
     .desc = Sieht aus, als würde sie schreien, wäre sie keine Maske.
 
 ent-ClothingMaskMimeSecurity = Sicherheits-Mimenmaske

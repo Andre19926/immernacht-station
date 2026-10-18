@@ -1,7 +1,7 @@
 ent-ClothingBackpack = Rucksack
     .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
-ent-ClothingBackpackClown = Kichern von Honkerton
+ent-ClothingBackpackClown = Kicher-Rucksack von Honkerton
     .desc = Ein Rucksack von Honk! Co.
 
 ent-ClothingBackpackIan = Ians Rucksack
@@ -91,11 +91,11 @@ ent-ClothingBackpackElectropack = Elektropack
 ent-ClothingBackpackDebug = Wackpack
     .desc = Was zum Teufel ist das?
 
-ent-ClothingBackpackDebug2 = Big Wackpack
+ent-ClothingBackpackDebug2 = Großer Wackpack
     .desc = Was zum Teufel ist das?
 
-ent-ClothingBackpackDebug3 = Gay Wackpack
+ent-ClothingBackpackDebug3 = Schwuler Wackpack
     .desc = Was zum Teufel ist das?
 
-ent-ClothingBackpackDebug4 = Offset Wackpack
+ent-ClothingBackpackDebug4 = Versetzter Wackpack
     .desc = Was zum Teufel ist das?

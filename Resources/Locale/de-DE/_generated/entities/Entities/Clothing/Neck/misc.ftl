@@ -3,7 +3,7 @@ ent-ClothingNeckStethoscope = Stethoskop
 
 ent-ActionStethoscope = Höre mit Stethoskop
 
-ent-ClothingNeckBling = bling
+ent-ClothingNeckBling = Bling
     .desc = Es fühlt sich gut an, ein Gangster zu sein.
 
 ent-ClothingNeckLawyerbadge = Anwaltsabzeichen

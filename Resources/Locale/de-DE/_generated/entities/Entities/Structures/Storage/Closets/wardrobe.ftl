@@ -67,7 +67,7 @@ ent-WardrobeChemistry = Chemiegarderobe
 ent-WardrobeGenetics = Genetische Garderobe
     .desc = Ein Kleiderschrank voller stilvoller weißer Kleidung.
 
-ent-WardrobeVirology = Virologische Wardrobe
+ent-WardrobeVirology = Virologie-Kleiderschrank
     .desc = Ein Kleiderschrank voller stilvoller weißer Kleidung.
 
 ent-WardrobeScience = Wissenschaftsgarderobe

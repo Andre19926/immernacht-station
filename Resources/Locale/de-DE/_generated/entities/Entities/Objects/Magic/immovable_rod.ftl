@@ -21,18 +21,18 @@ ent-ImmovableRodMop = unbeweglicher Wischmopp
 
 ent-ImmovableRodShark = unbeweglicher Hai
 
-ent-ImmovableRodClown = unbeweglicher Clown
+ent-ImmovableRodClown = Unbewegliche Clown-Stange
     .desc = Von der Nachbarstation ein Sonnensystem weiter ausgestoßen. HONK!
 
 ent-ImmovableRodBanana = unbewegliche Bananen
     .desc = Wenigstens rutschst du nicht darauf aus.
 
-ent-ImmovableRodHammer = unbeweglicher Hammer
+ent-ImmovableRodHammer = Unbeweglicher Hammer
 
 ent-ImmovableRodThrongler = unbeweglicher Schlepper
     .desc = Wenn du es fängst, darfst du es behalten.
 
-ent-ImmovableRodGibstick = unbeweglicher Gibstick
+ent-ImmovableRodGibstick = Unbeweglicher Gibstick
     .desc = Was hast du erwartet?
 
 ent-ImmovableRodWeh = unbewegliche Weh

@@ -25,7 +25,7 @@ ent-ActionSlasherMassacre = Massaker
 ent-ActionSlasherSoulSteal = Seelenraub
     .desc = Entziehe einem Opfer die Seele. Muss auf ein kampfunfähiges lebendes Ziel (oder einen toten Körper) angewendet werden, um dessen Seele zu stehlen, deine Machete zu stärken und deine Gesundheit zu erhöhen.
 
-ent-ActionSlasherNightVision = Verbesserte Vision
+ent-ActionSlasherNightVision = Verbesserte Sicht
     .desc = Du siehst durch die Dunkelheit.
 
 ent-ActionSlasherRelentlessGrab = Gnadenloser Griff

@@ -1,2 +1,2 @@
-ent-ComputerTechnologyDiskTerminal = Tech Disk Terminal
+ent-ComputerTechnologyDiskTerminal = Techdisk-Terminal
     .desc = Ein Terminal zum Ausdrucken von Technologiedisketten.

@@ -1,10 +1,10 @@
 ent-PersonalAI = Personal-KI-Gerät
     .desc = Dein elektronischer Kumpel zum Spaßhaben!
 
-ent-SyndicatePersonalAI = Syndicate Personal KI Device
+ent-SyndicatePersonalAI = Syndicate-Persönliches-KI-Gerät
     .desc = Dein Syndicate-Kumpel zum Spaßhaben!
 
-ent-GoldenPersonalAI = Golden Personal Ai Gerät
+ent-GoldenPersonalAI = Goldenes Persönliches KI-Gerät
     .desc = Dein elektronischer Kumpel zum Spaßhaben! Goldene Sonderedition!
 
 ent-PotatoAI = Kartoffel künstliche Intelligenz
@@ -16,7 +16,7 @@ ent-ActionPAIOpenShop = Softwarekatalog
 ent-ActionPAIMassScanner = Massenscanner
     .desc = Zeigt eine Massenscanner-Oberfläche an.
 
-ent-ActionPAIPlayMidi = Spielen MIDI
+ent-ActionPAIPlayMidi = MIDI abspielen
     .desc = Öffne deine tragbare MIDI-Oberfläche, um deinen Besitzer zu beruhigen.
 
 ent-ActionPAIOpenMap = Offene Karte

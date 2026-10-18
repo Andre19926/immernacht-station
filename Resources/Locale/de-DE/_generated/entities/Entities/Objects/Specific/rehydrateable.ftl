@@ -25,7 +25,7 @@ ent-CockroachCube = Kakerlakenwürfel
 ent-SpaceCarpCube = Karpfenwürfel
     .desc = Einfach Wasser hinzufügen! Auf eigene Gefahr.
 
-ent-SpaceTickCube = Tick Cube
+ent-SpaceTickCube = Zeckenwürfel
     .desc = Einfach Wasser hinzufügen! Auf eigene Gefahr.
 
 ent-AbominationCube = Gräuelwürfel

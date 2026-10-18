@@ -7,5 +7,5 @@ ent-CrateChemistryS = Chemische Kiste (S)
 ent-CrateChemistryD = Chemische Kiste (D)
     .desc = Enthält Chemikalien aus dem D-Block der Elemente. Erfordert chemie zugang zu öffnen.
 
-ent-CratePlantBGone = Bulk Plant-B-Gone Kiste
+ent-CratePlantBGone = Plant-B-Gone-Großkiste
     .desc = Aus Monstano. "Unerwünschtes Unkraut, triff deine Celestial Roundup!"

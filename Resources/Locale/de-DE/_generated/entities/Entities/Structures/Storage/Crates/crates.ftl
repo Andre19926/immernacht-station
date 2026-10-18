@@ -37,7 +37,7 @@ ent-CrateWeb = Webkasten
 ent-CrateSecgear = Kästchen
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateEngineeringSecure = sichere Engineering-Kiste
+ent-CrateEngineeringSecure = Gesicherte Technik-Kiste
     .desc = Ein großer Container für Gegenstände.
 
 ent-CrateMedicalSecure = sichere medizinische Kiste
@@ -79,13 +79,13 @@ ent-CrateLivestock = Tierkasten
 ent-CrateRodentCage = Hamsterkäfig
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateLockBoxEngineering = Engineering-Schlossbox
+ent-CrateLockBoxEngineering = Technik-Tresorbox
     .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxMedical = Medizinische Lockbox
     .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
-ent-CrateLockBoxScience = Wissenschaft Lock Box
+ent-CrateLockBoxScience = Wissenschafts-Tresorbox
     .desc = Eine sichere Kassette. Die Erlöse aus dem Verkauf gehen zurück an die Abteilung. Denk daran: Die Fracht nimmt sich immer ihren Anteil.
 
 ent-CrateLockBoxSecurity = Sicherheitssperre
