@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-ion-storm-start-announcement = Ionensturm in der Nähe der Station entdeckt. Bitte überprüfe alle KI-gesteuerten Geräte auf Fehler.
+station-event-ion-storm-start-announcement = Ionensturm in der Nähe der Station entdeckt. Alle KI-gesteuerten Geräte sind auf Fehler zu überprüfen.
 
 ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={$length} chars="@@###$$&%!01"/][/font]
 

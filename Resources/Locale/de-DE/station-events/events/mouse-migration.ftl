@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-mouse-migration-announcement = Wir haben eine bevorstehende Migration von Nagetieren zur Station festgestellt. Bitte halte dich aus Wartungstunneln heraus und versuche, übermäßigen Kontakt zu vermeiden.
+station-event-mouse-migration-announcement = Eine bevorstehende Migration von Nagetieren zur Station wurde festgestellt. Wartungstunnel sind zu meiden, und übermäßiger Kontakt ist zu vermeiden.

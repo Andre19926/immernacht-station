@@ -38,7 +38,7 @@ traitor-no-one-ready = Keine Spieler bereit! Verräter kann nicht gestartet werd
 ## TraitorDeathMatch
 traitor-death-match-title = Verräter-Deathmatch
 traitor-death-match-description = Jeder ist ein Verräter. Alle wollen einander tot sehen.
-traitor-death-match-station-is-too-unsafe-announcement = Die Station ist zu unsicher, um fortzufahren. Du hast eine Minute Zeit.
+traitor-death-match-station-is-too-unsafe-announcement = Die Station ist zu unsicher, um fortzufahren. Es bleibt eine Minute Zeit.
 traitor-death-match-end-round-description-first-line = Die danach geborgenen PDAs ...
 traitor-death-match-end-round-description-entry = PDA von {$originalName}, mit {$tcBalance} TC
 

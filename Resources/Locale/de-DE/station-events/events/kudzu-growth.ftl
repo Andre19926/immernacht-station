@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-kudzu-growth-start-announcement = Achtung, Crew: Wir haben an Bord einen biologischen Eindringling vom Typ 2 festgestellt, der eine potenziell ernste Bedrohung für die Produktivität der Crew darstellt. Wir raten, ihn auszurotten.
+station-event-kudzu-growth-start-announcement = Achtung, Crew: An Bord wurde ein biologischer Eindringling vom Typ 2 festgestellt, der eine potenziell ernste Bedrohung für die Produktivität der Crew darstellt. Er ist auszurotten.

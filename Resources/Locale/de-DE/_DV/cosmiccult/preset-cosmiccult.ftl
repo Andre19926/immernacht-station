@@ -63,8 +63,8 @@ cosmiccult-summary-crewminor = Das Monument erreichte nicht die volle Macht.
 cosmiccult-summary-crewmajor = Alle kosmischen Kultisten wurden eliminiert.
 cosmiccult-summary-crewcomplete = Alle kosmischen Kultisten wurden dekonvertiert!
 
-cosmiccult-elimination-shuttle-call = Basierend auf Scans unserer Langstreckensensoren hat die Λ-CDM-Anomalie nachgelassen. Wir danken dir für deine Umsicht. Ein Notfall-Shuttle wurde automatisch zur Station für Dekontaminations- und Nachbesprechungsverfahren gerufen. ETA: {$time} {$units}.
-cosmiccult-elimination-announcement = Basierend auf Scans unserer Langstreckensensoren hat die Λ-CDM-Anomalie nachgelassen. Wir danken dir für deine Umsicht. Ein Notfall-Shuttle ist bereits angekommen. Kehre sicher zu CentComm für Dekontaminations- und Nachbesprechungsverfahren zurück.
+cosmiccult-elimination-shuttle-call = Basierend auf Scans unserer Langstreckensensoren hat die Λ-CDM-Anomalie nachgelassen. Vielen Dank für die Umsicht. Ein Notfall-Shuttle wurde automatisch zur Station für Dekontaminations- und Nachbesprechungsverfahren gerufen. ETA: {$time} {$units}.
+cosmiccult-elimination-announcement = Basierend auf Scans unserer Langstreckensensoren hat die Λ-CDM-Anomalie nachgelassen. Vielen Dank für die Umsicht. Ein Notfall-Shuttle ist bereits angekommen. Die Rückkehr zu CentComm für Dekontaminations- und Nachbesprechungsverfahren erfolgt auf sicherem Weg.
 
 
 ## BRIEFINGS
@@ -173,7 +173,7 @@ cosmiccult-announce-tier3-warning = Scanner erkennen einen abnormalen Anstieg vo
 cosmiccult-announce-pre-finale-progress = Kreisbögen noosphärischer Energie knistern über die stöhnende Struktur der Station. Das Ende rückt näher.
 cosmiccult-announce-pre-finale-warning = Kritische Zunahme von Λ-CDM erkannt! Wir beobachten die Situation. Warte auf weitere Anweisungen.
 
-cosmiccult-announce-finale-warning = Alle Stationscrewen. Die Λ-CDM-Anomalie wird überkritisch, Instrumente versagen; noosphärisch-realer Übergangsereignishorizont IMMINENT. Wenn du nicht bereits auf Gegenprotokoll bist, sofort sortie und intervenieren. Wiederholen: sofort eingreifen oder sterben.
+cosmiccult-announce-finale-warning = Alle Stationscrewen. Die Λ-CDM-Anomalie wird überkritisch, Instrumente versagen; noosphärisch-realer Übergangsereignishorizont IMMINENT. Wer nicht bereits nach dem Gegenprotokoll handelt, soll sofort ausrücken und eingreifen. Wiederholen: sofort eingreifen oder sterben.
 
 cosmiccult-announce-victory-summon = Ein Bruch der kosmischen Macht wird nach vorne gerufen.
 

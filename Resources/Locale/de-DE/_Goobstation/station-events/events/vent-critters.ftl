@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goob-station-event-vent-creatures-skibidi-start-announcement = Achtung. Hohe Skibidi-Rizz-Werte auf der Station entdeckt. Bitte beseitigt diese Kreaturen, bevor sich diese Station in Ohio verwandelt. Chat, ist das real?
+goob-station-event-vent-creatures-skibidi-start-announcement = Achtung. Hohe Skibidi-Rizz-Werte auf der Station entdeckt. Diese Kreaturen sind zu beseitigen, bevor sich die Station in Ohio verwandelt. Chat, ist das real?

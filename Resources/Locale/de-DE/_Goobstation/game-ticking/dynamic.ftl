@@ -59,7 +59,7 @@ dynamic-fax-threat-mid = Herzlichen Glückwunsch und vielen Dank für die Teilna
     Über eure Region des Weltraums ist wenig bekannt, und die Chance, dem Unbekannten zu begegnen, verspricht größeren Ruhm.
     Ihr seid angehalten, die Sicherheit nach Bedarf zu erhöhen, um das Eigentum von Nanotrasen zu schützen.
 
-dynamic-fax-threat-high = Im Rahmen eines verpflichtenden Sicherheitsprotokolls müssen wir euch informieren, dass eure Station wegen ihrer Umlaufbahn direkt hinter einem astronomischen Körper (von unserem nächsten Observatorium aus gesehen) nur noch eingeschränkt überwacht und unterstützt wird.
+dynamic-fax-threat-high = Im Rahmen eines verpflichtenden Sicherheitsprotokolls müssen wir mitteilen, dass die Station wegen ihrer Umlaufbahn direkt hinter einem astronomischen Körper (von unserem nächsten Observatorium aus gesehen) nur noch eingeschränkt überwacht und unterstützt wird.
     Es ist zu erwarten, dass eure extreme Lage und die verringerte Überwachung Sicherheitsrisiken mit sich bringen können.
     Vermeidet unnötige Risiken und versucht, eure Station heil zu halten.
 

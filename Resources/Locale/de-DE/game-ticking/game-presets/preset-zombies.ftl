@@ -24,7 +24,7 @@ zombie-infection-warning = Du spürst, dass der Zombie-Virus sich durchsetzt
 zombie-infection-underway = Dein Blut beginnt, dicker zu werden
 
 ## goob edit
-zombie-start-announcement = Bestätigter Ausbruch einer biologischen Gefahr der Stufe 7 an Bord der Station. Die Sicherheit kann euch nicht mehr schützen. Begebt euch in gesicherte Bereiche und verschanzt euch bis zur Evakuierung.
+zombie-start-announcement = Bestätigter Ausbruch einer biologischen Gefahr der Stufe 7 an Bord der Station. Die Sicherheit kann die Crew nicht mehr schützen. Alle sollen gesicherte Bereiche aufsuchen und sich bis zur Evakuierung verschanzen.
 ### Over
 zombie-alone = Du fühlst dich ganz allein.
 

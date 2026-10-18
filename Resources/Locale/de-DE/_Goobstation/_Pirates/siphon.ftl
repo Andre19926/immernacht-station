@@ -9,7 +9,7 @@ data-siphon-activated-announcement = Achtung! Datendiebstahlsignal erkannt! Die 
 
 pirate-siphon-deactivated-full = RESSOURCENKAPAZITÄT ERSCHÖPFT. Es können keine weiteren Ressourcen abgeschöpft werden. Der Mechanismus wurde gestoppt. Danke, dass Sie sich für Donk. Co. RS entschieden haben!
 pirate-siphon-deactivated-broken = KRITISCHER SCHADEN ERLITTEN. Erzwungene Ressourcenentsorgung steht bevor, bitte tritt vom Notfallentsorgungsmechanismus zurück.
-pirate-siphon-deactivated-announcement = Die Quelle des Datendiebstahl-Signals ist verloren gegangen! Bitte stellt sicher, dass die Stationssysteme im Normalbetrieb laufen, und lasst keine weiteren solchen Signale auf unseren Radaren auftauchen!
+pirate-siphon-deactivated-announcement = Die Quelle des Datendiebstahl-Signals ist verloren gegangen! Es ist sicherzustellen, dass die Stationssysteme im Normalbetrieb laufen und keine weiteren solchen Signale auf unseren Radaren auftauchen!
 
 pirate-siphon-examine = Der Siphon hat [color=yellow]{$num}[/color] / [color=yellow]{$max_num} Spesos[/color] gespeichert.
 

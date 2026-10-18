@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-station-event-vent-creatures-start-announcement = Achtung. Ein großer Zustrom unbekannter Lebensformen wurde innerhalb der Belüftungssysteme der Station entdeckt. Bitte sei diese Kreaturen los, bevor sie die Produktivität beeinträchtigen.
+station-event-vent-creatures-start-announcement = Achtung. Ein großer Zustrom unbekannter Lebensformen wurde in den Belüftungssystemen der Station entdeckt. Diese Kreaturen sind loszuwerden, bevor sie die Produktivität beeinträchtigen.

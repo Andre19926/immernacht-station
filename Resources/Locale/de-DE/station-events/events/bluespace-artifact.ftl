@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-bluespace-artifact-event-announcement = Unsere Messungen haben ein ankommendes Objekt fremden Ursprungs erfasst. Bitte informiere das Forschungsteam über { $sighting }.
+bluespace-artifact-event-announcement = Unsere Messungen haben ein ankommendes Objekt fremden Ursprungs erfasst. Das Forschungsteam ist über { $sighting } zu informieren.
 
 bluespace-artifact-sighting-1 = helle Lichtblitze
 bluespace-artifact-sighting-2 = seltsame Geräusche aus Wartungstunneln

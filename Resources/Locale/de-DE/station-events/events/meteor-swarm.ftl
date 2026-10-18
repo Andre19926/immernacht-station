@@ -7,11 +7,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 station-event-meteor-swarm-start-announcement = Meteore wurden auf Kollisionskurs mit der Station entdeckt.
-station-event-meteor-swarm-end-announcement = Der Meteorschwarm ist vorbei. Bitte kehrt zu euren Stationen zurück.
+station-event-meteor-swarm-end-announcement = Der Meteorschwarm ist vorbei. Alle können zu ihren Posten zurückkehren.
 
 station-event-space-dust-start-announcement = Die Station durchquert eine Trümmerwolke, es sind kleinere Schäden an Außenarmaturen und -einbauten zu erwarten.
-station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Bitte bleib ruhig und höre ihnen nicht zu.
-station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Warnung: Füttere sie nicht mit Weizen. Muh-ve weg von den Außenbereichen.
+station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Bitte ruhig bleiben und nicht auf sie hören.
+station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Warnung: Nicht mit Weizen füttern. Von den Außenbereichen fernbleiben (Muh-ve weg).
 station-event-meteor-clown-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. HONK! Lachgasspeicher sofort evakuieren.
 station-event-meteor-potato-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Hoher Stärkegehalt nachgewiesen.
-station-event-fun-swarm-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Bitte verfallt angemessen in Panik.
+station-event-fun-swarm-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Bitte in angemessene Panik verfallen.

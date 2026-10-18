@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cargo-gifts-event-announcement = Herzlichen Glückwunsch! { $sender } hat beschlossen, { $description } an die Station { $dest } zu senden. Halte in deiner nächsten Frachtsendung danach Ausschau.
+cargo-gifts-event-announcement = Herzlichen Glückwunsch! { $sender } hat beschlossen, { $description } an die Station { $dest } zu senden. Die nächste Frachtsendung sollte danach durchsucht werden.
 cargo-gift-default-description = Ein Bündel von Geschenken
 cargo-gift-default-sender = NanoTrasen
 cargo-gift-default-dest = Fracht Dept.
