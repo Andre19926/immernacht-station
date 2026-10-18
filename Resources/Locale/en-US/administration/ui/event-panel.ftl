@@ -7,6 +7,12 @@ event-panel-running-header = Running events ({$count})
 event-panel-running-empty = No event is currently running.
 event-panel-running-active = Active for {$time}
 event-panel-running-pending = Queued (not started yet)
+event-panel-running-header-hidden = Running events ({$count}) – {$hidden} technical rules hidden
+event-panel-running-by-admin = by {$admin}
+event-panel-running-by-system = by System
+event-panel-running-by-tooltip = Who started this event: an admin (event panel or addgamerule) or the system (game mode, event scheduler, dynamic, random event).
+event-panel-hide-technical = Hide technical rules
+event-panel-hide-technical-tooltip = Hides helper rules such as map variation passes (dirt, graffiti, rust, lights, etc.) in both lists.
 event-panel-end = End
 event-panel-end-tooltip = Ends this event immediately.
 

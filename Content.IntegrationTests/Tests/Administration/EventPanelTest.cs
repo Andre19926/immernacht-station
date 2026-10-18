@@ -39,11 +39,24 @@ public sealed class EventPanelTest
             Assert.That(catalog.Any(e => e.Category == EventPanelCategory.Danger));
             Assert.That(catalog.Any(e => e.Category == EventPanelCategory.Antagonist));
 
+            // Technische Regeln (Variation-Passes) müssen markiert sein, normale Events nicht.
+            Assert.That(catalog.Any(e => e.Technical && e.Id.Contains("VariationPass")));
+            Assert.That(catalog.Where(e => e.Category == EventPanelCategory.Harmless).Any(e => !e.Technical));
+
             var before = panel.GetRunning().Count;
             var harmless = catalog.First(e => e.Category == EventPanelCategory.Harmless);
             var ent = ticker.AddGameRule(harmless.Id);
             Assert.That(panel.GetRunning().Count, Is.EqualTo(before + 1));
             Assert.That(panel.GetRunning().Any(r => r.Entity == server.EntMan.GetNetEntity(ent)));
+
+            // Ohne Eintrag: "System"; mit Eintrag: Name des Admins.
+            Assert.That(panel.GetRunning().First(r => r.Entity == server.EntMan.GetNetEntity(ent)).Starter, Is.Null);
+            ticker.GameRuleStarters[ent] = "TestAdmin";
+            Assert.That(panel.GetRunning().First(r => r.Entity == server.EntMan.GetNetEntity(ent)).Starter, Is.EqualTo("TestAdmin"));
+
+            var technical = ticker.AddGameRule("BasicDecalDirtVariationPass");
+            Assert.That(panel.GetRunning().First(r => r.Entity == server.EntMan.GetNetEntity(technical)).Technical);
+            ticker.EndGameRule(technical);
             ticker.EndGameRule(ent);
             Assert.That(panel.GetRunning().Count, Is.EqualTo(before));
         });

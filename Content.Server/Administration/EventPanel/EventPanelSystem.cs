@@ -4,6 +4,7 @@ using System.Linq;
 using Content.Goobstation.Common.StationEvents.SecretPlus;
 using Content.Server.Administration.Logs;
 using Content.Server.Antag.Components;
+using Content.Server.GameTicking.Rules.Components;
 using Content.Server.Chat.Managers;
 using Content.Server.GameTicking;
 using Content.Server.StationEvents.Components;
@@ -12,6 +13,7 @@ using Content.Shared.Administration.EventPanel;
 using Content.Shared.Administration.Managers;
 using Content.Shared.Database;
 using Content.Shared.GameTicking.Components;
+using Content.Shared.Prototypes;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 
@@ -82,6 +84,7 @@ public sealed class EventPanelSystem : EntitySystem
         _chat.SendAdminAnnouncement(Loc.GetString("add-gamerule-admin", ("rule", msg.PrototypeId), ("admin", session)));
 
         var ent = _gameTicker.AddGameRule(msg.PrototypeId);
+        _gameTicker.GameRuleStarters[ent] = session.Name;
 
         // Wie addgamerule: Mitten in der Runde sofort starten, in der Lobby nur vormerken.
         if (_gameTicker.RunLevel == GameRunLevel.InRound)
@@ -113,6 +116,10 @@ public sealed class EventPanelSystem : EntitySystem
 
     public List<EventPanelRunning> GetRunning()
     {
+        // Einträge gelöschter Regeln aufräumen.
+        foreach (var dead in _gameTicker.GameRuleStarters.Keys.Where(k => !Exists(k)).ToList())
+            _gameTicker.GameRuleStarters.Remove(dead);
+
         var list = new List<EventPanelRunning>();
         foreach (var uid in _gameTicker.GetAddedGameRules())
         {
@@ -126,7 +133,9 @@ public sealed class EventPanelSystem : EntitySystem
                 id,
                 string.IsNullOrWhiteSpace(meta.EntityName) ? id : meta.EntityName,
                 active,
-                active ? rule.ActivatedAt : null));
+                active ? rule.ActivatedAt : null,
+                _gameTicker.GameRuleStarters.GetValueOrDefault(uid),
+                IsTechnical(uid)));
         }
 
         return list.OrderByDescending(r => r.Active).ThenBy(r => r.Name, StringComparer.CurrentCultureIgnoreCase).ToList();
@@ -148,11 +157,35 @@ public sealed class EventPanelSystem : EntitySystem
                 name,
                 Describe(proto, category),
                 category,
-                category is EventPanelCategory.Danger or EventPanelCategory.Antagonist or EventPanelCategory.Other));
+                category is EventPanelCategory.Danger or EventPanelCategory.Antagonist or EventPanelCategory.Other,
+                IsTechnical(proto)));
         }
 
         _catalog = list.OrderBy(e => e.Name, StringComparer.CurrentCultureIgnoreCase).ToList();
         return _catalog;
+    }
+
+    /// <summary>Map-Gen-/Variations-Passes und andere reine Hilfsregeln (laufende Entität).</summary>
+    private bool IsTechnical(EntityUid uid)
+    {
+        return HasComp<StationVariationPassRuleComponent>(uid)
+               || HasComp<RoundstartStationVariationRuleComponent>(uid)
+               || (MetaData(uid).EntityPrototype?.ID is { } id && IsTechnicalId(id));
+    }
+
+    /// <summary>Map-Gen-/Variations-Passes und andere reine Hilfsregeln (Prototyp).</summary>
+    private bool IsTechnical(EntityPrototype proto)
+    {
+        return proto.HasComponent<StationVariationPassRuleComponent>()
+               || proto.HasComponent<RoundstartStationVariationRuleComponent>()
+               || IsTechnicalId(proto.ID);
+    }
+
+    private static bool IsTechnicalId(string id)
+    {
+        return id.Contains("VariationPass", StringComparison.Ordinal)
+               || id.Contains("Variation", StringComparison.Ordinal)
+               || id.Contains("Decal", StringComparison.Ordinal);
     }
 
     private EventPanelCategory Categorize(EntityPrototype proto)

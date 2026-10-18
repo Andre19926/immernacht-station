@@ -35,10 +35,14 @@ public sealed record EventPanelEntry(
     string Name,
     string Description,
     EventPanelCategory Category,
-    bool NeedsConfirmation);
+    bool NeedsConfirmation,
+    bool Technical);
 
 /// <summary>
 ///     Ein aktuell hinzugefügtes bzw. laufendes Event (Spielregel-Entität).
+///     <c>Starter</c> ist der Name des Admins, der es gestartet hat (Panel oder addgamerule),
+///     <c>null</c> bedeutet "System" (Spielmodus, Event-Scheduler, Dynamic, Zufallsevent).
+///     <c>Technical</c> markiert Map-Gen-/Variations-Passes und ähnliche Hilfsregeln.
 /// </summary>
 [Serializable, NetSerializable]
 public sealed record EventPanelRunning(
@@ -46,7 +50,9 @@ public sealed record EventPanelRunning(
     string PrototypeId,
     string Name,
     bool Active,
-    TimeSpan? ActivatedAt);
+    TimeSpan? ActivatedAt,
+    string? Starter,
+    bool Technical);
 
 /// <summary>Client -> Server: Katalog und laufende Events anfordern.</summary>
 [Serializable, NetSerializable]

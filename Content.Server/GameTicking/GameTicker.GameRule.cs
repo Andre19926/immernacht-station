@@ -24,6 +24,12 @@ public sealed partial class GameTicker
     /// </summary>
     public override IReadOnlyList<(TimeSpan, string)> AllPreviousGameRules => _allPreviousGameRules;
 
+    /// <summary>
+    ///     Merkt sich, welcher Admin eine Spielregel gestartet hat (Event-Panel oder addgamerule).
+    ///     Regeln ohne Eintrag wurden vom System gestartet (Spielmodus, Scheduler, Dynamic, Zufallsevents).
+    /// </summary>
+    public readonly Dictionary<EntityUid, string> GameRuleStarters = new();
+
     private void InitializeGameRules()
     {
         // Add game rule command.
@@ -353,6 +359,9 @@ public sealed partial class GameTicker
                 _adminLogger.Add(LogType.EventStarted, $"Unknown tried to add game rule [{rule}] via command");
             }
             var ent = AddGameRule(rule);
+
+            if (shell.Player != null)
+                GameRuleStarters[ent] = shell.Player.Name;
 
             // Start rule if we're already in the middle of a round
             if(RunLevel == GameRunLevel.InRound)

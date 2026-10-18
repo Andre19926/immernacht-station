@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using System.Linq;
 using System.Numerics;
 using Content.Client.Administration.Systems;
 using Content.Shared.Administration.EventPanel;
@@ -42,6 +43,7 @@ public sealed class EventPanelTab : BoxContainer
     private bool _wasVisible;
     private HashSet<string> _favorites = new();
     private ConfirmWindow? _confirm;
+    private readonly CheckBox _hideTechnical;
 
     public EventPanelTab()
     {
@@ -50,7 +52,7 @@ public sealed class EventPanelTab : BoxContainer
 
         Orientation = LayoutOrientation.Vertical;
         Margin = new Thickness(4);
-        MinSize = new Vector2(620, 360);
+        MinSize = new Vector2(640, 520);
         VerticalExpand = true;
         HorizontalExpand = true;
 
@@ -62,7 +64,8 @@ public sealed class EventPanelTab : BoxContainer
             StyleClasses = { "LabelHeading" },
             Text = Loc.GetString("event-panel-running-header", ("count", 0)),
         };
-        AddChild(_runningHeader);
+        var top = new BoxContainer { Orientation = LayoutOrientation.Vertical, VerticalExpand = true, MinHeight = 90 };
+        top.AddChild(_runningHeader);
 
         _runningEmpty = new Label
         {
@@ -70,16 +73,16 @@ public sealed class EventPanelTab : BoxContainer
             Modulate = Color.Gray,
         };
         _runningList = new BoxContainer { Orientation = LayoutOrientation.Vertical, SeparationOverride = 2 };
-        AddChild(new ScrollContainer
+        top.AddChild(new ScrollContainer
         {
-            MinHeight = 80,
-            MaxHeight = 130,
+            VerticalExpand = true,
             HScrollEnabled = false,
             HorizontalExpand = true,
             Children = { _runningList },
         });
 
-        AddChild(new Control { MinHeight = 6 });
+        // Unterer Bereich (Suche, Filter, Katalog); wird per SplitContainer von der laufenden Liste getrennt.
+        var bottom = new BoxContainer { Orientation = LayoutOrientation.Vertical, VerticalExpand = true, MinHeight = 120 };
 
         // --- Suche + Filter ---------------------------------------------------
         _search = new LineEdit
@@ -90,7 +93,7 @@ public sealed class EventPanelTab : BoxContainer
         _search.OnTextChanged += _ => RebuildCatalog();
         var clear = new Button { Text = Loc.GetString("event-panel-search-clear") };
         clear.OnPressed += _ => _search.Clear();
-        AddChild(new BoxContainer
+        bottom.AddChild(new BoxContainer
         {
             Orientation = LayoutOrientation.Horizontal,
             Children = { _search, clear },
@@ -118,20 +121,45 @@ public sealed class EventPanelTab : BoxContainer
             filterRow.AddChild(button);
         }
 
-        AddChild(filterRow);
+        bottom.AddChild(filterRow);
+
+        _hideTechnical = new CheckBox
+        {
+            Text = Loc.GetString("event-panel-hide-technical"),
+            ToolTip = Loc.GetString("event-panel-hide-technical-tooltip"),
+            Pressed = true,
+        };
+        _hideTechnical.OnToggled += _ =>
+        {
+            RebuildRunning();
+            RebuildCatalog();
+        };
+        bottom.AddChild(_hideTechnical);
 
         // --- Katalog ----------------------------------------------------------
         _status = new Label { Modulate = Color.Gray, Text = Loc.GetString("event-panel-loading") };
-        AddChild(_status);
+        bottom.AddChild(_status);
 
         _catalogList = new BoxContainer { Orientation = LayoutOrientation.Vertical, SeparationOverride = 3 };
-        AddChild(new ScrollContainer
+        bottom.AddChild(new ScrollContainer
         {
             VerticalExpand = true,
             HorizontalExpand = true,
             HScrollEnabled = false,
             Children = { _catalogList },
         });
+
+        // Verschiebbarer Trenner: oben laufende Events, unten Katalog.
+        var split = new SplitContainer
+        {
+            Orientation = SplitContainer.SplitOrientation.Vertical,
+            VerticalExpand = true,
+            HorizontalExpand = true,
+        };
+        split.AddChild(top);
+        split.AddChild(bottom);
+        split.SetSplitFractionOnNextArrange(0.42f);
+        AddChild(split);
 
         _panel.CatalogUpdated += OnCatalogUpdated;
         _panel.RunningUpdated += RebuildRunning;
@@ -210,8 +238,12 @@ public sealed class EventPanelTab : BoxContainer
     private void RebuildRunning()
     {
         _runningList.RemoveAllChildren();
-        var running = _panel.Running;
-        _runningHeader.Text = Loc.GetString("event-panel-running-header", ("count", running.Count));
+        var all = _panel.Running;
+        var running = _hideTechnical.Pressed ? all.Where(r => !r.Technical).ToList() : all.ToList();
+        var hidden = all.Count - running.Count;
+        _runningHeader.Text = hidden > 0
+            ? Loc.GetString("event-panel-running-header-hidden", ("count", running.Count), ("hidden", hidden))
+            : Loc.GetString("event-panel-running-header", ("count", running.Count));
 
         if (running.Count == 0)
         {
@@ -244,11 +276,22 @@ public sealed class EventPanelTab : BoxContainer
                 state = Loc.GetString("event-panel-running-pending");
             }
 
+            var starter = new Label
+            {
+                Text = r.Starter is { } admin
+                    ? Loc.GetString("event-panel-running-by-admin", ("admin", admin))
+                    : Loc.GetString("event-panel-running-by-system"),
+                Modulate = r.Starter != null ? Color.FromHex("#f0c060") : Color.Gray,
+                MinWidth = 150,
+                ClipText = true,
+                ToolTip = Loc.GetString("event-panel-running-by-tooltip"),
+            };
+
             var stateLabel = new Label
             {
                 Text = state,
                 Modulate = r.Active ? Color.LightGreen : Color.Gold,
-                MinWidth = 150,
+                MinWidth = 140,
             };
 
             var end = new Button
@@ -261,6 +304,7 @@ public sealed class EventPanelTab : BoxContainer
             end.OnPressed += _ => _panel.EndEvent(entity);
 
             row.AddChild(name);
+            row.AddChild(starter);
             row.AddChild(stateLabel);
             row.AddChild(end);
             _runningList.AddChild(row);
@@ -290,6 +334,9 @@ public sealed class EventPanelTab : BoxContainer
             case Filter.Other when e.Category != EventPanelCategory.Other:
                 return false;
         }
+
+        if (_hideTechnical.Pressed && e.Technical)
+            return false;
 
         if (string.IsNullOrWhiteSpace(search))
             return true;

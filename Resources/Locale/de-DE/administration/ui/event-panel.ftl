@@ -7,6 +7,12 @@ event-panel-running-header = Laufende Events ({$count})
 event-panel-running-empty = Aktuell läuft kein Event.
 event-panel-running-active = Aktiv seit {$time}
 event-panel-running-pending = Vorgemerkt (noch nicht gestartet)
+event-panel-running-header-hidden = Laufende Events ({$count}) – {$hidden} technische Regeln ausgeblendet
+event-panel-running-by-admin = von {$admin}
+event-panel-running-by-system = von System
+event-panel-running-by-tooltip = Wer das Event gestartet hat: ein Admin (Event-Panel oder addgamerule) oder das System (Spielmodus, Event-Planer, Dynamic, Zufallsevent).
+event-panel-hide-technical = Technische Regeln ausblenden
+event-panel-hide-technical-tooltip = Blendet Hilfsregeln wie Karten-Variationen (Schmutz, Graffiti, Rost, Lichter usw.) in beiden Listen aus.
 event-panel-end = Beenden
 event-panel-end-tooltip = Beendet dieses Event sofort.
 
