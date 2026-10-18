@@ -1,4 +1,4 @@
-ent-CrateSalvageEquipment = Salvage-Gerätekasten
+ent-CrateSalvageEquipment = Bergungsgerätekasten
     .desc = Für die Wagemutigen.
 
 ent-CrateSalvageAssortedGoodies = Kiste
@@ -23,12 +23,12 @@ ent-CrateVoidJetpack = Leer-Jetpack-Kiste
     .desc = Enthält einen einzigen Void Jetpack.
 
 ent-CrateSalvageHardsuit = Bergungs-Hardsuit-Kiste
-    .desc = Enthält einen Salvage-Hardsuit, eine Atemmaske und einen Sauerstofftank.
+    .desc = Enthält einen Bergungshardsuit, eine Atemmaske und einen Sauerstofftank.
 
 ent-CrateCrusherGlaive = Brecher-Glefenkiste
     .desc = Enthält eine Brecherlaive für die Verwendung durch die Bergungsabteilung.
 
-ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Salvage-Umhang
+ent-CrateSupremeSalvagerCloak = Kiste mit Oberstem Bergungsumhang
     .desc = Enthält einen Mantel, der nur von den höchsten Rettern getragen werden kann. Wenn du es unverdient trägst, wird dies zu deinem Untergang führen.
 
 ent-CratePartsT3 = Teile-Kiste (Stufe 3)

@@ -1,7 +1,7 @@
 ent-ChronoIDCard = Futuristische ID-Karte
     .desc = Die Karte, die ursprünglich Zugriff auf alles in diesem Universum hatte.
 
-ent-HelldiverIDCard = Salvage-Taucher-ID-Karte
+ent-HelldiverIDCard = Bergungs-Taucher-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-HecuIDCard = HECU-ID-Karte

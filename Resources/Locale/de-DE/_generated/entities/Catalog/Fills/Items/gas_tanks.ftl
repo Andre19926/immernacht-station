@@ -16,7 +16,7 @@ ent-ExtendedEmergencyNitrogenTankFilled = erweiterter Notstickstofftank
 ent-DoubleEmergencyOxygenTankFilled = Doppelter Notfall-Sauerstofftank
     .desc = Ein hochwertiger Doppeltank für Notfälle. Er hält eine anständige Menge an Sauerstoff für seine geringe Größe. Er fasst 2,5 l Gas.
 
-ent-DoubleEmergencyNitrogenTankFilled = Doppelter Notstickstofftank
+ent-DoubleEmergencyNitrogenTankFilled = Doppelter Notfall-Stickstofftank
     .desc = Ein hochwertiger Doppeltank für Notfälle. Er hält eine anständige Menge an Stickstoff für seine geringe Größe. Er fasst 2,5 l Gas.
 
 ent-EmergencyFunnyOxygenTankFilled = Lustiger Notfall-Sauerstofftank

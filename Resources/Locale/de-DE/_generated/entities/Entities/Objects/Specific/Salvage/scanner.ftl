@@ -10,7 +10,7 @@ ent-MineralScannerEmpty = Mineralscanner
 ent-AdvancedMineralScannerUnpowered = Fortgeschrittener Mineralscanner
     .desc = Ein Scanner, der das umgebende Gestein auf nützliche Mineralien untersucht. Muss in deiner Hand oder Tasche sein, um zu funktionieren. Dieser hat eine erweiterte Reichweite.
 
-ent-AdvancedMineralScanner = Advanced Mineral Scanner
+ent-AdvancedMineralScanner = Fortgeschrittener Mineralscanner
     .desc = Ein Scanner, der das umgebende Gestein auf nützliche Mineralien untersucht. Muss in deiner Hand oder Tasche sein, um zu funktionieren. Dieser hat eine erweiterte Reichweite.
 
 ent-AdvancedMineralScannerEmpty = Advanced Mineral Scanner

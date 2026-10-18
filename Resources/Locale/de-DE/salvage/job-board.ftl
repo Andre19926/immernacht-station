@@ -9,8 +9,8 @@ job-board-ui-window-title = Auftragstafel
 job-board-ui-label-rank = [bold]Rang:[/bold]
 job-board-ui-label-items = Ziel: [color=red]{$item}[/color]
 
-job-board-label-text = [head=2]Salvage-Auftragslieferung[/head]
-    {"[italic]Nur für offizielle Salvage-Lieferungen außerhalb der Station.[/italic]"}
+job-board-label-text = [head=2]Bergungsauftragslieferung[/head]
+    {"[italic]Nur für offizielle Bergungslieferungen außerhalb der Station.[/italic]"}
 
     {"[bold]Ziel:[/bold]"} {$target}
     {"[bold]Belohnung:[/bold]"} ${$reward}
@@ -32,7 +32,7 @@ salv-job-board-name-BountyGoliathPlates = Goliath
 salv-job-board-name-BountyHivelordRemains = Hivelord
 salv-job-board-name-BountySalvageDiamond = Diamant
 
-bounty-description-tooth-space-carp = Wir brauchen von dir eine Probe einiger Weltraumkarpfen-Zähne. Du findest sie auf allerlei Salvage-Trümmern. Sei nur vorsichtig mit ihrem Biss.
+bounty-description-tooth-space-carp = Wir brauchen von dir eine Probe einiger Weltraumkarpfen-Zähne. Du findest sie auf allerlei Bergungstrümmern. Sei nur vorsichtig mit ihrem Biss.
 bounty-description-salvage-scrap = Wir erforschen die Auswirkungen des Weltraums auf Stationsmaterialien und brauchen einige Proben. Finde ein Stück alten Trümmerschrott und bring es uns.
 bounty-description-salvage-ore-gold = Wir erproben ein neues, experimentelles Verfahren zur Elektronikfertigung. Liefere uns eine große Menge unraffiniertes Golderz. Es kann aus jeder Quelle stammen.
 bounty-description-salvage-ore-silver = Wir untersuchen die Materialeigenschaften von Silber je nach Raffinationsmethode. Sende uns eine große Menge unraffiniertes Silbererz. Es kann aus jeder Quelle stammen.

@@ -16,7 +16,7 @@ ent-ClothingUniformSkirtMailCarrier = Postbotenuniform (Rock)
 ent-ClothingUniformJumpskirtCommandMaid = Kommandantinnenuniform
     .desc = Eine stilvolle Dienstmädchenuniform, speziell für Elite-Command-Maids entworfen. Verbindet Professionalität mit einem Hauch von Eleganz.
 
-ent-ClothingUniformJumpskirtSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung (Rock)
+ent-ClothingUniformJumpskirtSalvageSpecialist = Bergungsspezialisten-Arbeitskleidung (Rock)
     .desc = Ein schneidiger Uniformrock mit robuster Latzhose. Er ist sehr schmutzig.
 
 ent-ClothingUniformJumpskirtShaftMiner = Bergarbeiter-Arbeitskleidung (Rock)

@@ -49,7 +49,7 @@ ent-ClosetLegal = Rechtsschrank
 ent-WardrobeCargo = Frachtschränke
     .desc = Ein Schrank für Standard-Nanotrasen-Kleidung.
 
-ent-WardrobeSalvage = Salvage-Schrank
+ent-WardrobeSalvage = Bergungsschrank
     .desc = Vor allem nicht gerettet.
 
 ent-WardrobeEngineering = Maschinenschrank

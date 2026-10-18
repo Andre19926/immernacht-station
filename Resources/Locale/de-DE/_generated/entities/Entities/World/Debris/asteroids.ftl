@@ -6,10 +6,10 @@ ent-AsteroidDebrisLarge = Asteroidenrückstände groß
 
 ent-AsteroidDebrisLarger = Asteroidenrückstände größer
 
-ent-AsteroidSalvageSmall = Salvage-Asteroide klein
+ent-AsteroidSalvageSmall = Bergungsasteroid (klein)
 
-ent-AsteroidSalvageMedium = Salvage von Asteroidenmedium
+ent-AsteroidSalvageMedium = Bergungsasteroid (mittel)
 
-ent-AsteroidSalvageLarge = Salvage-Asteroide groß
+ent-AsteroidSalvageLarge = Bergungsasteroid (groß)
 
-ent-AsteroidSalvageHuge = Salvage Asteroid riesigen
+ent-AsteroidSalvageHuge = Bergungsasteroid (riesig)

@@ -46,10 +46,10 @@ ent-CargoSaleComputerCircuitboard = Frachtverkauf Computerplatine
 ent-CargoBountyComputerCircuitboard = Fracht-Kopfgeld-Computerplatine
     .desc = Eine Computerplatine für einen Fracht-Kopfgeld-Computer.
 
-ent-SalvageJobBoardComputerCircuitboard = Salvage-Auftragstafel Computerplatine
+ent-SalvageJobBoardComputerCircuitboard = Bergungsauftragstafel Computerplatine
     .desc = Eine Computerplatine für einen Bergungsaufträge-Computer.
 
-ent-SalvageExpeditionsComputerCircuitboard = Salvage-Expeditionen-Computerplatine
+ent-SalvageExpeditionsComputerCircuitboard = Bergungs-Expeditionen-Computerplatine
     .desc = Eine Computerplatine für einen Bergungsexpeditions-Computer.
 
 ent-CargoShuttleConsoleCircuitboard = Frachtshuttle-Konsole

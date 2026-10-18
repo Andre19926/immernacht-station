@@ -19,7 +19,7 @@ ent-ClothingUniformJumpsuitCaptain = Kapitänsuniform
 ent-ClothingUniformJumpsuitCargo = Frachttechniker-Arbeitskleidung
     .desc = Eine robuste Uniform, ausgestellt an Mitglieder der Frachtabteilung.
 
-ent-ClothingUniformJumpsuitSalvageSpecialist = Salvage-Spezialisten-Arbeitskleidung
+ent-ClothingUniformJumpsuitSalvageSpecialist = Bergungsspezialisten-Arbeitskleidung
     .desc = Eine schneidige Uniform mit robuster Latzhose. Sie ist sehr schmutzig.
 
 ent-ClothingUniformJumpsuitChiefEngineer = Chefingenieursuniform

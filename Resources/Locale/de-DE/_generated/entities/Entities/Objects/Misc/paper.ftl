@@ -22,7 +22,7 @@ ent-PaperNanoTaskItem = NanoAufgabenposition
 ent-PaperCargoBountyManifest = Kopfgeldmanifest
     .desc = Ein Papieretikett, das eine Kiste für ein Kopfgeld kennzeichnet. Der Verkauf einer so etikettierten Kiste erfüllt das Kopfgeld.
 
-ent-PaperSalvageJobLabel = Transportetikett für Salvage-Arbeiten
+ent-PaperSalvageJobLabel = Transportetikett für Bergungsarbeiten
     .desc = Ein Papieretikett, das eine Kiste als Sendung zur Erfüllung eines Bergungsauftrags kennzeichnet. Der Verkauf einer so etikettierten Kiste erfüllt den Auftrag.
 
 ent-PaperCNCSheet = Zeichenblatt

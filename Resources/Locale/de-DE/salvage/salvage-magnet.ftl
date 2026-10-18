@@ -13,11 +13,11 @@
 
 salvage-system-announcement-losing = Der Magnet ist nicht mehr in der Lage, die bergungsfähigen Trümmer zu halten. Geschätzte Zeit bis zum Verlust: {$timeLeft} Sekunden.
 salvage-system-announcement-spawn-debris-disintegrated = Trümmer zerfielen während des Orbitaltransfers.
-salvage-system-announcement-spawn-no-debris-available = Kein Schutt konnte durch den Salvage-Magneten geborgen werden.
+salvage-system-announcement-spawn-no-debris-available = Kein Schutt konnte durch den Bergungsmagneten geborgen werden.
 salvage-system-announcement-arrived = Ein Stück bergungsfähiger Trümmer wurde hineingezogen. Geschätzte Haltezeit: {$timeLeft} Sekunden.
 salvage-asteroid-name = Asteroid
 
-salvage-magnet-window-title = Salvage-Magnet
+salvage-magnet-window-title = Bergungsmagnet
 salvage-expedition-window-progression = Fortschritt
 
 salvage-magnet-resources = {$resource ->
@@ -54,7 +54,7 @@ dungeon-config-proto-SpindlyAsteroid = Asteroidenspirale
 dungeon-config-proto-SwissCheeseAsteroid = Asteroidenfragmente
 
 # Wrecks
-salvage-map-wreck = Salvage-Wrack
+salvage-map-wreck = Bergungswrack
 salvage-map-wreck-desc-size = Größe:
 salvage-map-wreck-size-small = [color=lime]Klein[/color]
 salvage-map-wreck-size-medium = [color=cornflowerblue]Mittel[/color]

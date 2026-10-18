@@ -57,9 +57,9 @@ borg-type-engineering-name = Technik
 borg-type-engineering-desc = Unterstütze die Technik beim Bau der Station, bei der Reparatur von Schäden und bei elektrischen oder atmosphärischen Problemen.
 borg-type-engineering-transponder = Technik-Cyborg
 
-borg-type-mining-name = Salvage
-borg-type-mining-desc = Schließe dich der Salvage an und hilf beim Abbau von Materialien, beim Plündern von Wracks und beim Abwehren feindlicher Wildtiere.
-borg-type-mining-transponder = Salvage-Cyborg
+borg-type-mining-name = Bergung
+borg-type-mining-desc = Schließe dich der Bergung an und hilf beim Abbau von Materialien, beim Plündern von Wracks und beim Abwehren feindlicher Wildtiere.
+borg-type-mining-transponder = Bergungscyborg
 
 borg-type-janitor-name = Hausmeister
 borg-type-janitor-desc = Halte die Station sauber und ordentlich, beseitige Verschmutzungen und sammle und entsorge den Müll, den faule Crewmitglieder herumliegen lassen.

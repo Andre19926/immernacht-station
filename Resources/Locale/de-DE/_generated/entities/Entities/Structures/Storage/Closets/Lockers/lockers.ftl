@@ -7,7 +7,7 @@ ent-LockerSteel = Gesicherter Schrank
 ent-LockerQuarterMaster = Quartiermeisterspind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerSalvageSpecialist = Spind des Salvage-Spezialisten
+ent-LockerSalvageSpecialist = Spind des Bergungsspezialisten
     .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
 
 ent-LockerShaftMiner = Wellenbergarbeiter-Spind

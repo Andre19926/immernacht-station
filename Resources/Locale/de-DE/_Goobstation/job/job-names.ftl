@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 job-name-futureagent = Zukünftiger Agent
-job-name-salvagediver = Salvage-Taucher
+job-name-salvagediver = Bergungstaucher
 job-name-ntr = Nanotrasen Vertreter
 job-name-bs = Blueshield
 job-name-bso = Blueshield-Offizier

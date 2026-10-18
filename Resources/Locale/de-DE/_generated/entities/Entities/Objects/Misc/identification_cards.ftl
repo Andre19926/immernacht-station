@@ -40,7 +40,7 @@ ent-ChemistIDCard = Chemiker-ID-Karte
 ent-CargoIDCard = Frachttechniker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SalvageIDCard = Salvage-ID-Karte
+ent-SalvageIDCard = Bergungs-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-QuartermasterIDCard = Quartiermeister-ID-Karte

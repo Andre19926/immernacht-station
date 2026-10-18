@@ -4,5 +4,5 @@ ent-Pickaxe = Spitzhacke
 ent-MiningDrill = Bergbaubohrer
     .desc = Leistungsstarkes Werkzeug, um schnell durch Fels zu bohren.
 
-ent-MiningDrillDiamond = Diamantspitze Bergbaubohrer
+ent-MiningDrillDiamond = Diamant-Bergbaubohrer
     .desc = Ein deutlich effizienterer Bergbaubohrer mit Diamantspitze.

@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 salvage-expedition-type = Mission
-salvage-expedition-window-title = Salvage-Expeditionen
+salvage-expedition-window-title = Bergungsexpeditionen
 salvage-expedition-window-difficulty = Schwierigkeit:
 salvage-expedition-window-details = Einzelheiten:
 salvage-expedition-window-hostiles = Feindseligkeiten:

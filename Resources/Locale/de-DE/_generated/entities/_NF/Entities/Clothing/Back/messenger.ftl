@@ -19,7 +19,7 @@ ent-ClothingBackpackMessengerEngineering = Technik-Kuriertasche
 ent-ClothingBackpackMessengerCargo = Fracht-Kuriertasche
     .desc = Eine robuste Tasche für viele Spesos.
 
-ent-ClothingBackpackMessengerSalvage = Salvage-Kuriertasche
+ent-ClothingBackpackMessengerSalvage = Bergungskuriertasche
     .desc = Eine robuste Tasche zum Verstauen von Lavaland-Beute.
 
 ent-ClothingBackpackMessengerMedical = Medizin-Kuriertasche

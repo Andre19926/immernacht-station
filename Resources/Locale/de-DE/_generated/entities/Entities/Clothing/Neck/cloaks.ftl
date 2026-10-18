@@ -36,7 +36,7 @@ ent-ClothingNeckCloakCapFormal = Offizieller Umhang des Kapitäns
 
 ent-ClothingNeckCloakAdmin = Weh-Umhang
 
-ent-ClothingNeckCloakSalvagerSupreme = Oberster Salvage-Umhang
+ent-ClothingNeckCloakSalvagerSupreme = Oberster Bergungsumhang
     .desc = Getragen von den erfahrensten Bergleuten, von jemandem, der den Weltraum beherrscht und den Bergbau-Asteroiden zu seiner Domäne gemacht hat. So etwas verteilt man nicht einfach so, weißt du?
 
 ent-ClothingNeckCloakTrans = Vampirmantel

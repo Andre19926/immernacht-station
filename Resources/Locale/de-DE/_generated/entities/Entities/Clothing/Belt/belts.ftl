@@ -22,7 +22,7 @@ ent-ClothingBeltSecurityWebbing = Sicherheitsträger
 ent-ClothingBeltMercWebbing = Söldnergewebe
     .desc = Ideal, um alles von Munition bis Waffen und Kampfausrüstung zu verstauen.
 
-ent-ClothingBeltSalvageWebbing = Salvage-Anlage
+ent-ClothingBeltSalvageWebbing = Bergungs-Tragweste
     .desc = Universelle Tragweste für die Arbeit im Weltraum.
 
 ent-ClothingBeltMilitaryWebbing = Brustkorb

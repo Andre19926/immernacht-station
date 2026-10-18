@@ -1,4 +1,4 @@
-ent-SurvivalMedipen = Survival Medipen
+ent-SurvivalMedipen = Überlebens-Medipen
     .desc = Ein Cocktail aus starken Heilchemikalien. Heilt langsam Schäden und stabilisiert die Körpertemperatur. Mehrfache Anwendung in kurzer Folge kann zur Überdosis führen.
 
 ent-LuxuryMedipen = Luxus-Medipen

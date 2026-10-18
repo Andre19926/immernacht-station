@@ -22,7 +22,7 @@ highlights-warden = Warden, "Ward", Sicherheit, Security, "Sec"
 
 # Cargo
 highlights-cargo-technician = Frachttechniker, Frachttechniker, "Fracht"
-highlights-salvage-specialist = Salvage-Spezialist, Salvage Specialist, Salvager, Salvage, "Salv", "Fracht", Miner
+highlights-salvage-specialist = Bergungsspezialist, Bergung, Salvage-Spezialist, Salvage Specialist, Salvager, Salvage, "Salv", "Fracht", Miner
 
 # Engineering
 highlights-atmospheric-technician = Atmos-Techniker, Atmos-Techniker, Techniker, "Atmos", "Engi"

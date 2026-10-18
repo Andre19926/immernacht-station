@@ -94,7 +94,7 @@ ent-ClothingUniformJumpsuitShaftMiner = Bergarbeiter-Arbeitskleidung
 ent-ClothingUniformOverallsCargo = Frachttechniker-Overall
     .desc = Ein robuster Overall. Er ist ein bisschen staubig.
 
-ent-ClothingUniformOverallsSalvageSpecialist = Salvage-Spezialisten-Overall
+ent-ClothingUniformOverallsSalvageSpecialist = Bergungsspezialisten-Overall
     .desc = Ein robuster Overall. Er ist sehr schmutzig.
 
 ent-ClothingUniformOverallsShaftMiner = Overalls des Schachtminenarbeiters

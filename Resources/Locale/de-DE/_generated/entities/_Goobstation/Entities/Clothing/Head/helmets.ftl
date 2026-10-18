@@ -1,4 +1,4 @@
-ent-ClothingHeadHelmetHelldiver = Salvage NT-01 taktischer Helm
+ent-ClothingHeadHelmetHelldiver = Taktischer Bergungshelm NT-01
     .desc = Dies ist der Nano-Schutzhelm, aus derselben Titanlegierung wie der Goliath-Helm.
 
 ent-ClothingHeadHelmetHEV = H.E.V. Helm

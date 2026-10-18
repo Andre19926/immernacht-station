@@ -94,10 +94,10 @@ ent-ComputerFundingAllocation = Finanzverteilungscomputer
 ent-ComputerCloningConsole = Klon-Konsole
     .desc = Das Herzstück des Klonsystems, der größten Errungenschaft der Medizin. Es hat viele Anschlüsse und Kabel.
 
-ent-ComputerSalvageJobBoard = Salvage-Auftragstafel
+ent-ComputerSalvageJobBoard = Bergungsauftragstafel
     .desc = Konsole für den Zugriff auf Bergungsaufträge, wenn du hart genug bist.
 
-ent-ComputerSalvageExpedition = Salvage-Expeditionscomputer
+ent-ComputerSalvageExpedition = Bergungsexpeditionscomputer
     .desc = Dient zur Annahme von Bergungsmissionen, wenn du hart genug bist.
 
 ent-ComputerSurveillanceCameraMonitor = Kameramonitor

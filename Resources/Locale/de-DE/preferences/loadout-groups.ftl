@@ -126,9 +126,9 @@ loadout-group-cargo-technician-outerclothing = Frachttechniker: Oberbekleidung
 loadout-group-cargo-technician-shoes = Frachttechniker: Schuhe
 loadout-group-cargo-technician-id = Frachttechniker: ID-Karte
 
-loadout-group-salvage-specialist-backpack = Salvage-Spezialist: Rucksack
-loadout-group-salvage-specialist-outerclothing = Salvage-Spezialist: Oberbekleidung
-loadout-group-salvage-specialist-shoes = Salvage-Spezialist: Schuhe
+loadout-group-salvage-specialist-backpack = Bergungsspezialist: Rucksack
+loadout-group-salvage-specialist-outerclothing = Bergungsspezialist: Oberbekleidung
+loadout-group-salvage-specialist-shoes = Bergungsspezialist: Schuhe
 
 # Engineering
 loadout-group-chief-engineer-head = Chefingenieur: Kopfbedeckung

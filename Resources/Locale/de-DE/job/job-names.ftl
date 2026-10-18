@@ -67,7 +67,7 @@ job-name-botanist = Botaniker
 job-name-bartender = Barkeeper
 ## goob edit - epic passengers
 job-name-passenger = Assistent
-job-name-salvagespec = Salvage-Spezialist
+job-name-salvagespec = Bergungsspezialist
 job-name-station-ai = Stations-KI
 job-name-qm = Quartiermeister
 job-name-cargotech = Frachttechniker
@@ -145,7 +145,7 @@ JobQuartermaster = Quartiermeister
 JobReporter = Reporter
 JobResearchAssistant = Forschungsassistent
 JobResearchDirector = Forschungsleiter
-JobSalvageSpecialist = Salvage-Spezialist
+JobSalvageSpecialist = Bergungsspezialist
 JobScientist = Wissenschaftler
 JobSecurityCadet = Sicherheitskadett
 JobSecurityClown = Sicherheits-Clown

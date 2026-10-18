@@ -1,4 +1,4 @@
-ent-ClothingNeckCloakHelldiver = Salvage-Umhang der reinen Loyalität
+ent-ClothingNeckCloakHelldiver = Bergungsumhang der reinen Loyalität
     .desc = Ein Zeichen der Dankbarkeit jener unendlichen Crew, deren reiche Existenz wir sichern wollen.
 
 ent-ClothingNeckCloakResonant = Resonanzkappe

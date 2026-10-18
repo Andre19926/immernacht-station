@@ -193,9 +193,9 @@ loadout-group-captain-shoes = Kapitän: Schuhe
 
 
 # Salvage Specialist
-loadout-group-salvage-envirohelm = Salvage-Spezialist: Umwelthelm
-loadout-group-salvage-envirosuit = Salvage-Spezialist: Umweltanzug
-loadout-group-salvage-envirogloves = Salvage-Spezialist: Umwelthandschuhe
+loadout-group-salvage-envirohelm = Bergungsspezialist: Umwelthelm
+loadout-group-salvage-envirosuit = Bergungsspezialist: Umweltanzug
+loadout-group-salvage-envirogloves = Bergungsspezialist: Umwelthandschuhe
 
 # Chemist
 loadout-group-chemist-envirohelm = Chemiker: Umwelthelm
@@ -230,5 +230,5 @@ loadout-group-plasma-tank = Plasmatank
 loadout-group-security-gloves = Sicherheit: Handschuhe
 
 # Salvage/Shaft Miner
-loadout-group-salvage-specialist-jumpsuit = Salvage-Spezialist: Uniform
+loadout-group-salvage-specialist-jumpsuit = Bergungsspezialist: Uniform
 loadout-group-shaft-miner-jumpsuit = Bergarbeiter: Uniform

@@ -1,1 +1,1 @@
-ent-SalvageShuttleMarker = Salvage-Shuttle-Markierung
+ent-SalvageShuttleMarker = Bergungs-Shuttle-Markierung

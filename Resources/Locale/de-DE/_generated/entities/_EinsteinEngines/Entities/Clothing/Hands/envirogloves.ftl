@@ -34,7 +34,7 @@ ent-ClothingHandsGlovesEnviroglovesEngineering = Technik-Umwelthandschuhe
 ent-ClothingHandsGlovesEnviroglovesAtmos = Atmos-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen, knochigen Hände.
 
-ent-ClothingHandsGlovesEnviroglovesSalvage = Salvage-Umwelthandschuhe
+ent-ClothingHandsGlovesEnviroglovesSalvage = Bergungs-Umwelthandschuhe
     .desc = Verdeckt diese skandalösen, knochigen Hände.
 
 ent-ClothingHandsGlovesEnviroglovesLeather = Botanik-Umwelthandschuhe

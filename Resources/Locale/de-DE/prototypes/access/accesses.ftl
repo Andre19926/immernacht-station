@@ -45,7 +45,7 @@ id-card-access-level-paramedic = Sanitäter
 
 id-card-access-level-quartermaster = Quartiermeister
 id-card-access-level-cargo = Fracht
-id-card-access-level-salvage = Salvage
+id-card-access-level-salvage = Bergung
 
 id-card-access-level-bar = Bar
 id-card-access-level-kitchen = Küche

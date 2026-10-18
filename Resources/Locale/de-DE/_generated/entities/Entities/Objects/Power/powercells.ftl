@@ -16,7 +16,7 @@ ent-PowerCellMedium = Kraftzelle mittlerer Kapazität
 ent-PowerCellMediumPrinted = Kraftzelle mittlerer Kapazität
     .desc = Eine wiederaufladbare Energiezelle. Die beliebte und zuverlässige Version.
 
-ent-PowerCellHigh = Energiezelle (groß)
+ent-PowerCellHigh = Hochleistungs-Energiezelle
     .desc = Eine wiederaufladbare Standard-Energiezelle. Diese Premiummarke speichert bis zu 50 % mehr Energie als die Konkurrenz.
 
 ent-PowerCellHighPrinted = Energiezelle (groß)

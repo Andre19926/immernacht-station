@@ -1,6 +1,6 @@
 ent-LostFrontierSalvagerSpawner = Verlorene-Grenze-Bergungs-Spawner
 
-ent-RandomHumanoidLostFrontierSalvager = Lost Salvager Geisterrolle
+ent-RandomHumanoidLostFrontierSalvager = Verlorener Bergungsarbeiter (Geisterrolle)
 
 ent-RandomHumanoidSpawnerERTChaplainNoReq = ERT-Diacon
 

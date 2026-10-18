@@ -46,7 +46,7 @@ ent-ClothingBackpackGenetics = Genetik-Rucksack
 ent-ClothingBackpackCargo = Fracht-Rucksack
     .desc = Ein robuster Rucksack, um die Beute der Ladung zu stehlen.
 
-ent-ClothingBackpackSalvage = Salvage-Beutel
+ent-ClothingBackpackSalvage = Bergungsbeutel
     .desc = Ein robuster Rucksack zum Verstauen deiner Beute.
 
 ent-ClothingBackpackMerc = Söldnerbeutel

@@ -1,4 +1,4 @@
-ent-FultonBeacon = Fultonbake
+ent-FultonBeacon = Fulton-Peilsender
     .desc = Ein Peilsender für Fulton-Extraktionen.
 
 ent-Fulton = Fulton

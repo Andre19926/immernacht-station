@@ -109,7 +109,7 @@ reagent-name-mechanotoxin = Mechanotoxin
 reagent-desc-mechanotoxin = Ein Neurotoxin, das manche Spinnenarten als Gift einsetzen. Beeinträchtigt die Bewegung, wenn es sich anreichert.
 
 reagent-name-toxintrash = Wiederaufbereitetes Material
-reagent-desc-toxintrash = Eine übel riechende Brühe, effizient aus Abfall gewonnen. Sie wandelt Salvage-Müll verlustfrei in Nahrung für Vox um, ist für alle anderen aber ein heftiges Gift.
+reagent-desc-toxintrash = Eine übel riechende Brühe, effizient aus Abfall gewonnen. Sie wandelt Bergungsmüll verlustfrei in Nahrung für Vox um, ist für alle anderen aber ein heftiges Gift.
 
 reagent-name-hemorrhinol = Hemorrhinol
 reagent-desc-hemorrhinol = Ein Toxin, das schwere Schäden an Blutgefäßen und schnelle Blutungen verursacht.

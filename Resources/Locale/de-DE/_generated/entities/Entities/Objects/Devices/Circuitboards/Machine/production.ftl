@@ -211,7 +211,7 @@ ent-SodaDispenserMachineCircuitboard = Limonadenspender Maschinenplatine
 ent-TelecomServerCircuitboard = Telekommunikationsserver Maschinenplatine
     .desc = Eine Maschinenplatine für einen Telekommunikationsserver.
 
-ent-SalvageMagnetMachineCircuitboard = Salvage-Magnet Maschinenplatine
+ent-SalvageMagnetMachineCircuitboard = Bergungsmagnet Maschinenplatine
     .desc = Eine Maschinenplatine für einen Bergungsmagneten.
 
 ent-MiniGravityGeneratorCircuitboard = Minigravitationsgenerator Maschinenplatine

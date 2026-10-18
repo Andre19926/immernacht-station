@@ -31,5 +31,5 @@ ent-ClothingNeckEnsembleNanotrasenRepresentative = Ensemble des Vertreters nanot
 ent-ClothingNeckEnsembleTrans = trans Ensemble
     .desc = Getragen von hochrangigen Vampiren der Transsilvanischen Gesellschaft der Vampire.
 
-ent-ClothingNeckEnsembleSalvager = Salvagers Ensemble
+ent-ClothingNeckEnsembleSalvager = Bergungsarbeiter-Ensemble
     .desc = Wer sagt, dass man keinen Stil haben kann, während man Kreaturen jenseits des menschlichen Verständnisses tötet?

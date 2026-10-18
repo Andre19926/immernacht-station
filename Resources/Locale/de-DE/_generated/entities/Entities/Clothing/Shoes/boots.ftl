@@ -1,10 +1,10 @@
 ent-ClothingShoesBootsWork = Arbeitsstiefel
     .desc = Technik-Schnürschuhe für die besonders Bodenständigen (Blue Collar).
 
-ent-ClothingShoesBootsJack = Jackstiefel
+ent-ClothingShoesBootsJack = Springerstiefel
     .desc = Sicherheits-Kampfstiefel nach Nanotrasen-Standard für Kampfszenarien oder Kampfsituationen. Immer und überall Kampf.
 
-ent-ClothingShoesBootsSalvage = Salvage-Stiefel
+ent-ClothingShoesBootsSalvage = Bergungsstiefel
     .desc = Stahlkappen-Bergungsstiefel für Bergungen in gefährlichen Umgebungen.
 
 ent-ClothingShoesBootsPerformer = Darstellerstiefel

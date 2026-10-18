@@ -43,7 +43,7 @@ ent-QuartermasterPDA = Quartiermeister-PDA
 ent-CargoPDA = Fracht-PDA
     .desc = PDA für die Jungs, die die Pizzen bestellen.
 
-ent-SalvagePDA = Salvage-PDA
+ent-SalvagePDA = Bergungs-PDA
     .desc = Riecht nach Asche.
 
 ent-BartenderPDA = Barkeeper-PDA

@@ -69,7 +69,7 @@ ent-ClothingUniformEnvirosuitResearchDirector = Forschungsleiter-Umweltanzug
 ent-ClothingUniformEnvirosuitRoboticist = Robotiker-Umweltanzug
     .desc = Ein Plasmaman-Umweltanzug für Robotiker.
 
-ent-ClothingUniformEnvirosuitSalvage = Salvage-Umweltanzug
+ent-ClothingUniformEnvirosuitSalvage = Bergungs-Umweltanzug
     .desc = Ein luftdichter Khaki-Anzug für Bergungseinsätze von Plasmamen.
 
 ent-ClothingUniformEnvirosuitScientist = Wissenschaft-Umweltanzug

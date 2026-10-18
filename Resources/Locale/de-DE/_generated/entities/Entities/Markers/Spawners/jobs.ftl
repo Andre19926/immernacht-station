@@ -8,7 +8,7 @@ ent-SpawnPointQuartermaster = Quartiermeister
 
 ent-SpawnPointCargoTechnician = Frachttechniker
 
-ent-SpawnPointSalvageSpecialist = salvagespezialist
+ent-SpawnPointSalvageSpecialist = Bergungsspezialist
 
 ent-SpawnPointPassenger = Fahrgast
 

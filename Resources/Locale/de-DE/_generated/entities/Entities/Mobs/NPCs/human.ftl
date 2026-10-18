@@ -1,7 +1,7 @@
 ent-MobCivilian = Zivil
     .desc = Ein elender Haufen Geheimnisse.
 
-ent-MobSalvager = Salvage
+ent-MobSalvager = Bergungsarbeiter
 
 ent-MobSpirate = Spirat
 

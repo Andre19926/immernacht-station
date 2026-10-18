@@ -4,7 +4,7 @@ ent-ChronoPDA = Futuristischer PDA
 ent-GmanPDA = Merkwürdiger PDA
     .desc = Dein Verstand kann das nicht ganz erfassen.
 
-ent-HelldiverPDA = Salvage-Taucher-PDA
+ent-HelldiverPDA = Bergungs-Taucher-PDA
     .desc = Riecht nach Insekten- und Androidenleiche.
 
 ent-HecuPDA = HECU-PDA

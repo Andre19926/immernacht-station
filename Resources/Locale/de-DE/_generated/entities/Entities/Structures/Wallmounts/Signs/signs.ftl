@@ -58,8 +58,8 @@ ent-SignDirectionalLibrary = Bibliotheksschild
 ent-SignDirectionalMed = Medizinisches Schild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die medizinische Abteilung ist.
 
-ent-SignDirectionalSalvage = Salvage-Schild
-    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Salvage-Abteilung geht.
+ent-SignDirectionalSalvage = Bergungsschild
+    .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Bergungsabteilung geht.
 
 ent-SignDirectionalSci = Wissenschaftsschild
     .desc = Ein Wegweiser, der zeigt, in welcher Richtung die Wissenschaftsabteilung geht.
@@ -244,7 +244,7 @@ ent-SignRND = Forschung und Entwicklung Schild
 ent-SignRobo = Robo-Schild
     .desc = Ein Schild zeigt das Robotiklabor an.
 
-ent-SignSalvage = Salvage-Schild
+ent-SignSalvage = Bergungsschild
     .desc = Ein Schild mit Angabe des Bergungsbereichs.
 
 ent-SignScience = Wissenschaftsschild

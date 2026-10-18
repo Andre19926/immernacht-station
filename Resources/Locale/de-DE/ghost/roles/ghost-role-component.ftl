@@ -149,8 +149,8 @@ ghost-role-information-rat-king-description = Du bist der Rattenkönig, deine In
 ghost-role-information-rat-servant-name = Rattendiener
 ghost-role-information-rat-servant-description = Du bist ein Rattendiener. Du musst den Befehlen deines Königs folgen.
 
-ghost-role-information-salvage-carp-name = Weltraumkarpfen im Salvage-Wrack
-ghost-role-information-salvage-carp-description = Verteidige die Beute im Salvage-Wrack!
+ghost-role-information-salvage-carp-name = Weltraumkarpfen im Bergungswrack
+ghost-role-information-salvage-carp-description = Verteidige die Beute im Bergungswrack!
 
 ghost-role-information-sentient-carp-name = Intelligenter Weltraumkarpfen
 ghost-role-information-sentient-carp-description = Hilf dem Drachen, die Station mit Karpfen zu überschwemmen!
@@ -316,8 +316,8 @@ ghost-role-information-derelict-janitor-cyborg-description = Du bist ein Hausmei
 ghost-role-information-derelict-medical-cyborg-name = Verlassener Sanitäter-Cyborg
 ghost-role-information-derelict-medical-cyborg-description = Du bist ein medizinischer Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Ionensturm-Belastung findest du dich in der Nähe einer Raumstation wieder.
 
-ghost-role-information-derelict-mining-cyborg-name = Verlassener Salvage-Cyborg
-ghost-role-information-derelict-mining-cyborg-description = Du bist ein Salvage-Cyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Ionensturm-Belastung findest du dich in der Nähe einer Raumstation wieder.
+ghost-role-information-derelict-mining-cyborg-name = Verlassener Bergungscyborg
+ghost-role-information-derelict-mining-cyborg-description = Du bist ein Bergungscyborg, der im Weltraum verloren gegangen ist. Nach Jahren der Ionensturm-Belastung findest du dich in der Nähe einer Raumstation wieder.
 
 ghost-role-information-derelict-syndicate-assault-cyborg-name = Verlassener Syndicate-Sturm-Cyborg
 ghost-role-information-derelict-syndicate-assault-cyborg-description = Du bist ein Syndicate-Sturm-Cyborg eines frühen Modells, der im Weltraum verloren gegangen ist. Nach Jahren der Ionensturm-Belastung findest du dich in der Nähe einer Raumstation wieder.

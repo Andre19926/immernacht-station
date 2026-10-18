@@ -85,8 +85,8 @@ ent-PlushieLizardJobResearchassistant = Forschungsassistentin Echse Plüschtier
 ent-PlushieLizardJobResearchdirector = Forschungsleiter-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse wie dem Forschungsdirektor ähnelt. Es gibt ein paar Brandspuren auf dem Plüschtier.
 
-ent-PlushieLizardJobSalvagespecialist = Salvage-Spezialist-Echsen-Plüschtier
-    .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsen als Salvage-Spezialisten ähnelt. Es scheint, als ob es die Kälte des Weltraums für eine Weile gesehen hat.
+ent-PlushieLizardJobSalvagespecialist = Bergungsspezialist-Echsen-Plüschtier
+    .desc = Ein entzückendes Stoffspielzeug, das einem Eidechsen als Bergungsspezialisten ähnelt. Es scheint, als ob es die Kälte des Weltraums für eine Weile gesehen hat.
 
 ent-PlushieLizardJobScientist = Wissenschaftler-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Wissenschaftler ähnelt. Es gibt ein paar Bissspuren auf dem Plüschtier, wahrscheinlich von einem neugierigen Affen.

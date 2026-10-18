@@ -22,7 +22,7 @@ ent-RandomHumanoidVisitorWarden = Besuchender Warden (Geisterrolle)
 
 ent-RandomHumanoidVisitorCargoTechnician = Besuch der Geisterrolle des Frachttechnikers
 
-ent-RandomHumanoidVisitorSalvageSpecialist = Besuchender Salvage-Spezialist (Geisterrolle)
+ent-RandomHumanoidVisitorSalvageSpecialist = Besuchender Bergungsspezialist (Geisterrolle)
 
 ent-RandomHumanoidVisitorAtmosTech = Besuch der Geisterrolle des Atmos-Technikers
 

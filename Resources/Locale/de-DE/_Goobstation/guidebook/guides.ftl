@@ -68,7 +68,7 @@ guide-entry-sop-punishments = Strafen
 guide-entry-sop-searches = Durchsuchungen
 # - Cargo
 guide-entry-sop-cargotech = Frachttechniker
-guide-entry-sop-salvage = Salvage-Spezialist
+guide-entry-sop-salvage = Bergungsspezialist
 guide-entry-sop-shaft-miner = Bergarbeiter
 # - Command
 guide-entry-sop-ntr = Nanotrasen-Vertreter

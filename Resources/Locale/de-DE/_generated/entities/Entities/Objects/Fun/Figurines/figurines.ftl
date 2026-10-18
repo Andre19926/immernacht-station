@@ -43,7 +43,7 @@ ent-ToyFigurineLawyer = Anwaltsfigur
 ent-ToyFigurineCargoTech = Frachttechniker-Figur
     .desc = Eine Figur, die einen reptiloiden Frachttechniker darstellt.
 
-ent-ToyFigurineSalvage = Salvage-Spezialisten-Figur
+ent-ToyFigurineSalvage = Bergungsspezialisten-Figur
     .desc = Eine Figur, die einen Bergungsspezialisten mit Überlebensmesser zeigt.
 
 ent-ToyFigurineQuartermaster = Quartiermeisterfigur

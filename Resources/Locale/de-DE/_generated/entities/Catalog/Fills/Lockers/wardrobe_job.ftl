@@ -34,7 +34,7 @@ ent-WardrobeSecurityFilled = Sicherheitsschrank
 ent-WardrobeCargoFilled = Frachtschränke
     .desc = Dieser Spind? Vielleicht 500 Spesos. Bruderschaft? Unbezahlbar.
 
-ent-WardrobeSalvageFilled = Salvage-Schrank
+ent-WardrobeSalvageFilled = Bergungsschrank
     .desc = Vor allem nicht gerettet.
 
 ent-WardrobeAtmosphericsFilled = Atmosphärengarderobe

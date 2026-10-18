@@ -70,7 +70,7 @@ ent-ClothingHeadEnvirohelmResearchDirector = Forschungsleiter-Umweltanzughelm
 ent-ClothingHeadEnvirohelmRoboticist = Robotiker-Umweltanzughelm
     .desc = Ein Plasmaman-Umwelthelm für Robotiker.
 
-ent-ClothingHeadEnvirohelmSalvage = Salvage-Umweltanzughelm
+ent-ClothingHeadEnvirohelmSalvage = Bergungs-Umwelthelm
     .desc = Ein khakifarbener Helm für Bergungstechniker unter den Plasmamen.
 
 ent-ClothingHeadEnvirohelmScientist = Wissenschaft-Umweltanzughelm

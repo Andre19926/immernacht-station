@@ -127,7 +127,7 @@ ent-VendingMachineGames = Guter sauberer Spaß
 ent-VendingMachineChang = Herr Chang
     .desc = Ein eigennütziger chinesischer Essensautomat für alle deine chinesischen Essensbedürfnisse.
 
-ent-VendingMachineSalvage = Salvage-Automat
+ent-VendingMachineSalvage = Bergungsautomat
     .desc = Der beste Freund eines Zwergs!
 
 ent-VendingMachineDonut = Monkin' Donuts

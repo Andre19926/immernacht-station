@@ -43,7 +43,7 @@ ent-ClothingBackpackDuffelHydroponics = Botanik-Seesack
 ent-ClothingBackpackDuffelCargo = Fracht-Seesack
     .desc = Eine große Seesack, um die kostbare Beute der Ladung zu stehlen.
 
-ent-ClothingBackpackDuffelSalvage = Salvage-Seesack
+ent-ClothingBackpackDuffelSalvage = Bergungsseesack
     .desc = Eine große Seesack für extra exotische Schätze.
 
 ent-ClothingBackpackDuffelSyndicate = Syndicate-Seesack

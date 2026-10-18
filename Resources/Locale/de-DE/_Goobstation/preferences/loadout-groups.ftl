@@ -48,7 +48,7 @@ loadout-group-security-neck = Sicherheit: Halsbekleidung
 
 loadout-group-captain-mask = Kapitän: Maske
 
-loadout-group-salvage-specialist-neck = Salvage-Spezialist: Halsbekleidung
+loadout-group-salvage-specialist-neck = Bergungsspezialist: Halsbekleidung
 
 loadout-group-chemist-head = Chemiker: Kopfbedeckung
 
