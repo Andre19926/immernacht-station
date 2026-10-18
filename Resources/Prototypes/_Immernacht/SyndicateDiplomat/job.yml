@@ -14,6 +14,10 @@
   requirements:
   - !type:OverallPlaytimeRequirement
     time: 5h
+  # Voraussetzung: Spielzeit als Syndikat-Agent (Tracker AntagSyndicateAgent). Zeit hier aendern.
+  - !type:RoleTimeRequirement
+    role: AntagSyndicateAgent
+    time: 50h
   startingGear: SyndicateDiplomatGear
   icon: "JobIconSyndicate"
   supervisors: job-supervisors-captain
