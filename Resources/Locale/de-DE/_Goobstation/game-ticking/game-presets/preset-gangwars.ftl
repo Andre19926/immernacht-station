@@ -89,7 +89,7 @@ gang-store-listing-propaint-name = Sprühfarbe
 gang-store-listing-propaint-desc = Eine Dose Gang Spray Farbe. Verwende es, um Territorium für deine Crew zu beanspruchen.
 
 gang-store-listing-clothes-bundle-name = Gang Kleidung Bundle
-gang-store-listing-clothes-bundle-desc = Ein Ersatzsatz von Gang-Threads: Schuhe, Jumpsuit, Jacke und ein auffälliger Top-Hut. Rep deine Farben Gebiet Vergünstigungen zu verdienen.
+gang-store-listing-clothes-bundle-desc = Ein Ersatzset Gang-Klamotten: Schuhe, Overall, Jacke und ein auffälliger Zylinder. Zeig deine Farben, um Gebietsvorteile zu verdienen.
 
 gangwar-crate-drop-announcement = Es heißt, eine Bandenkiste ist bei {$location} gelandet. Sie enthält besonders wertvolle Beute. Jede Bande auf der Station will sie. Hol sie dir.
 gangwar-duffelbag-drop-announcement = Es heißt, bei {$location} ist ein Seesack aufgeschlagen. Jede Bande will ihn. Hol ihn dir.
@@ -140,7 +140,7 @@ gang-objective-first-place-description = Stelle sicher, dass deine Gang am Ende 
 gang-objective-earn-points-title = Verdienst {$count} Gang-Punkte
 gang-objective-earn-points-description = Hilf deiner Gang, Punkte zu sammeln.
 
-gang-store-listing-tipoff-name = Tip Off
+gang-store-listing-tipoff-name = Hinweis
 gang-store-listing-tipoff-desc = Plane einen frühen Duffelbeutel mit Leckereien. Ein zufälliger Zivilist wird über NanoChat über den Drop-Standort informiert.
 
 gangwar-tipoff-nanochat-sender = Anonym

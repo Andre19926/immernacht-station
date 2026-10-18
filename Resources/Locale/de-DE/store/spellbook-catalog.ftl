@@ -19,7 +19,7 @@ spellbook-blink-desc =
     Erfordert die Robe und den Hut des Zauberers.
 
 spellbook-voidapplause-name = Leerer Beifall
-spellbook-voidapplause-desc = Tausch mit dem ziel, macht es nicht, dass du den boogie machen willst.
+spellbook-voidapplause-desc = Tausche mit dem Ziel den Platz – da bekommt man doch Lust, den Boogie zu tanzen, oder?
 
 spellbook-force-wall-name = Kraftwand
 spellbook-force-wall-desc =
@@ -57,7 +57,7 @@ spellbook-mind-swap-description =
 spellbook-slip-name = Rutschige Bahn
 spellbook-slip-desc = Erlerne die alten Wege des Hausmeisters und belege dein Ziel mit einem Fluch, rutschig zu sein.
 
-spellbook-item-recall-name = Artikel Rückruf
+spellbook-item-recall-name = Gegenstandsrückruf
 spellbook-item-recall-description = Markiere einen gehaltenen Gegenstand und rufe ihn jederzeit mit nur einem Fingerschnipsen zurück!
 
 # Goobstation?
@@ -69,15 +69,15 @@ spellbook-curse-of-byond-description = Verurteile dein Ziel zu einer Ewigkeit de
 
 # Equipment
 
-spellbook-wand-polymorph-door-name = Mitarbeiter von Door Creation
+spellbook-wand-polymorph-door-name = Stab der Türerschaffung
 spellbook-wand-polymorph-door-description =
     Ein bestimmtes Personal, das feste Wände in verzierte Türen formen kann. Nützlich, um sich in Abwesenheit anderer Transportmittel fortzubewegen. Funktioniert nicht auf Glas.
     Ladet sich automatisch alle 2 Sekunden auf.
 
-spellbook-wand-polymorph-carp-name = Wand von Carp Polymorph
-spellbook-wand-polymorph-carp-description = Denn wenn man schnell ein Karpfenfilet braucht und der Clown sa saftig aussieht.
+spellbook-wand-polymorph-carp-name = Stab der Karpfenverwandlung
+spellbook-wand-polymorph-carp-description = Denn manchmal braucht man schnell ein Karpfenfilet, und der Clown sieht so saftig aus.
 
-spellbook-wand-locker-name = Mitarbeiter des Schließfachs
+spellbook-wand-locker-name = Stab des Schließfachs
 spellbook-wand-locker-description =
     Schieße verfluchte Schließfächer auf deine Feinde und sperre sie weg!
     Ladet sich automatisch alle 4 Sekunden auf.
@@ -91,14 +91,14 @@ spellbook-event-summon-ghosts-description =
     Kann nicht zurückerstattet werden.
 
 spellbook-event-summon-guns-name = Waffen beschwören
-spellbook-event-summon-guns-description = AK47 für alle! Legt eine zufällige Waffe vor jedem. Disables Rückerstattungen beim Kauf!
+spellbook-event-summon-guns-description = AK47 für alle! Legt vor jeden eine zufällige Waffe. Deaktiviert Rückerstattungen beim Kauf!
 
 spellbook-event-summon-magic-name = Zauberei
-spellbook-event-summon-magic-description = Platziert einen zufälligen magischen Gegenstand vor allen. Nichts kann schief gehen! Disables Rückerstattungen beim Kauf!
+spellbook-event-summon-magic-description = Legt vor jeden einen zufälligen magischen Gegenstand. Was soll schon schiefgehen? Deaktiviert Rückerstattungen beim Kauf!
 
 # Upgrades
 spellbook-upgrade-fireball-name = Feuerball-Verbesserung
-spellbook-upgrade-fireball-description = Upgrades Fireball auf ein Maximum von Level 3!
+spellbook-upgrade-fireball-description = Verbessert Feuerball auf höchstens Stufe 3!
 
 spellbook-upgrade-jaunt-name = Ätherischer-Schritt-Verbesserung
-spellbook-upgrade-jaunt-description = Upgrades Jaunt auf maximal Level 3!
+spellbook-upgrade-jaunt-description = Verbessert Jaunt auf höchstens Stufe 3!

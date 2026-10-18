@@ -1,6 +1,6 @@
 # Components
 spray-painter-ammo-on-examine = Es hat {$charges} Ladungen.
-spray-painter-ammo-after-interact-full = Der Spray Painter ist voll!
+spray-painter-ammo-after-interact-full = Die Sprühdose ist voll!
 spray-painter-ammo-after-interact-refilled = Du füllst den Sprühlack nach.
 
 spray-painter-interact-no-charges = Es ist nicht genug Farbe übrig.
@@ -23,7 +23,7 @@ spray-painter-selected-style = Ausgewählter Stil:
 
 spray-painter-selected-decals = Ausgewähltes Abziehbild:
 spray-painter-use-custom-color = Verwende benutzerdefinierte Farbe
-spray-painter-use-snap-to-tile = Snap to Tile
+spray-painter-use-snap-to-tile = An Kachel ausrichten
 
 spray-painter-angle-rotation = Drehung:
 spray-painter-angle-rotation-90-sub = -90°

@@ -12,7 +12,7 @@ station-event-ion-storm-start-announcement = Ionensturm in der Nähe der Station
 
 ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={$length} chars="@@###$$&%!01"/][/font]
 
-ion-storm-you = DICH
+ion-storm-you = SIE
 ion-storm-the-station = DIE STATION
 ion-storm-the-crew = DIE CREW
 ion-storm-the-job = DAS {$job}

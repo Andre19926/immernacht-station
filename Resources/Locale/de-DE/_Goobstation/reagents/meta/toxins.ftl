@@ -32,5 +32,5 @@ reagent-desc-microplastics = Ein leicht giftiger Schadstoff, der in vielen Allta
 reagent-name-caffeine = Koffein
 reagent-desc-caffeine = Erhöht die Bewegungsgeschwindigkeit in niedrigen Dosen, verursacht aber Zittern, Brustschmerzen und verlangsamte Bewegung, wenn zu viel im Blutkreislauf vorhanden ist.
 
-reagent-name-junk-food = Junk Food
+reagent-name-junk-food = Junkfood
 reagent-desc-junk-food = Macht dich träge, wenn du zu viel davon isst.

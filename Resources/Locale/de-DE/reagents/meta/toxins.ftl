@@ -55,7 +55,7 @@ reagent-name-unstable-mutagen = instabiles Mutagen
 reagent-desc-unstable-mutagen = Verursacht Mutationen, wenn sie in lebende Menschen oder Pflanzen injiziert werden. Hohe Dosen können tödlich sein, besonders beim Menschen.
 
 reagent-name-heartbreaker-toxin = Herzbrechertoxin
-reagent-desc-heartbreaker-toxin = Eine halluzinogene Verbindung aus Mindbreaker-Toxin. Sie blockiert neurologische Signale an die Atemwege und verursacht Erstickung. Dexalin plus und Epinephrin filtern sie jedoch heraus.
+reagent-desc-heartbreaker-toxin = Eine halluzinogene Verbindung, abgeleitet vom Mindbreaker-Toxin. Sie blockiert neurologische Signale an die Atemwege und führt so zum Ersticken. Dexalin Plus und Epinephrin filtern sie jedoch heraus.
 
 reagent-name-lexorin = Lexorin
 reagent-desc-lexorin = Eine schnell wirkende Chemikalie, die Menschen schnell erstickt.

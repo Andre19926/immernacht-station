@@ -10,7 +10,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-analysis-console-menu-title = Broad-Spectrum Mark 3 Analysekonsole
+analysis-console-menu-title = Breitspektrum-Analysekonsole Mk. 3
 analysis-console-server-list-button = Server
 analysis-console-extract-button = Auszugspunkte
 
@@ -18,7 +18,7 @@ analysis-console-info-no-scanner = Kein Analysator angeschlossen! Bitte verbinde
 analysis-console-info-no-artifact = Kein Artefakt vorhanden! Platziere einen auf dem Pad, um Knoteninformationen anzuzeigen.
 analysis-console-info-ready = Systeme betriebsbereit. Scanbereit.
 
-analysis-console-no-node = Wähle Node to View
+analysis-console-no-node = Wähle einen Knoten zur Ansicht
 analysis-console-info-id = [font="Monospace" size=11]ID:[/font]
 analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/color][/font]
 analysis-console-info-class = [font="Monospace" size=11]Klasse:[/font]

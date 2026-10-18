@@ -48,7 +48,7 @@ alert-level-epsilon-announcement = CentComm hat die Alarmstufe Epsilon für die 
 alert-level-epsilon-instructions = Alle Verträge gelten als gekündigt.
 
 alert-level-omicron = Omikron
-alert-level-omicron-announcement = Stations-Override aktiviert. Wartet auf weitere Befehle von CentComm und bleibt in euren Abteilungen.
+alert-level-omicron-announcement = Stations-Override aktiviert. Wartet auf weitere Befehle des CentComm-Personals und bleibt in euren Abteilungen.
 alert-level-omicron-instructions = Warte auf weitere Befehle.
 
 ## DeltaV - Cosmic Cult

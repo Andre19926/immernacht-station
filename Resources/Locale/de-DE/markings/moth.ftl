@@ -30,7 +30,7 @@ marking-MothAntennasFeathery-feathery = Antennen
 marking-MothAntennasFeathery = Antennen (Feder)
 
 marking-MothAntennasFirewatch-firewatch = Antennen
-marking-MothAntennasFirewatch = Antennen (Feuerwache)
+marking-MothAntennasFirewatch = Antennen (Feuerwacht)
 
 marking-MothAntennasGray-gray = Antennen
 marking-MothAntennasGray = Antennen (Gray)
@@ -80,7 +80,7 @@ marking-MothWingsDbushy = Flügel (Dunkel & Buschig)
 
 marking-MothWingsDeathhead-deathhead_primary = Primär
 marking-MothWingsDeathhead-deathhead_secondary = Sekundär
-marking-MothWingsDeathhead = Wings (Todeskopf)
+marking-MothWingsDeathhead = Flügel (Totenkopf)
 
 marking-MothWingsFan-fan = Flügel
 marking-MothWingsFan = Flügel (Fan)

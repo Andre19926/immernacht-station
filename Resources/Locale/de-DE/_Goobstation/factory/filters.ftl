@@ -5,7 +5,7 @@ combined-filter-examine = Dieser Filter vergleicht seine Eingänge per [color=gr
 pressure-filter-examine = Dieser Filter ist auf zwischen [color=green]{$min}[/color] kPa und [color=green]{$max}[/color] kPa.
 
 label-filter-window-title = Bearbeiten Label Filter
-label-filter-placeholder = Label to match gegen
+label-filter-placeholder = Label zum Abgleichen
 
 name-filter-window-title = Bearbeiten Name Filter
 name-filter-mode-Contain = Enthalten

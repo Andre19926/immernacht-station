@@ -33,10 +33,10 @@ reagent-name-ketchup = Ketchup
 reagent-desc-ketchup = Hergestellt aus pürierten Tomaten und aromatisiert mit Gewürzen.
 
 reagent-name-ketchunaise = Ketchunaise
-reagent-desc-ketchunaise = Sogenannte russische Dressing, beliebt bei Space Americans.
+reagent-desc-ketchunaise = Sogenanntes Russisches Dressing, beliebt bei den Weltraum-Amerikanern.
 
 reagent-name-laughin-syrup = Lachssirup
-reagent-desc-laughin-syrup = Das Produkt von Juicing Laughin' Peas. Fizzy, und scheint den Geschmack zu ändern, basierend auf dem, was es verwendet wird!
+reagent-desc-laughin-syrup = Das Produkt aus entsafteten Lachenden Erbsen. Prickelnd und scheint je nach Verwendung den Geschmack zu ändern!
 
 reagent-name-mayo = Mayonnais
 reagent-desc-mayo = Cremige Sauce, hergestellt aus Öl, Ei und etwas (essbare) Säure.

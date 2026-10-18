@@ -9,6 +9,6 @@
 steal-target-groups-cargo-supermatter-sliver = Supermatterband
 steal-target-groups-weapon-lawbringer = DT-12 „Gesetzesbringer“
 steal-target-groups-rapid-syringe-gun = Schnellspritzenpistole
-steal-target-groups-executive-briefcase = Executive Briefcase
+steal-target-groups-executive-briefcase = Executive-Aktenkoffer
 steal-target-groups-gemini-projector = ax-32 "gemini" Holo-Projektor-Rig
 steal-target-groups-weapon-justice = DT-2 "Gerechtigkeit"

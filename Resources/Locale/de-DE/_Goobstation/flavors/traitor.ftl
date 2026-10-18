@@ -76,14 +76,14 @@ traitor-neulithivfederationvisionary-allies = Mitgliedern der Space Wizards Fede
 traitor-neulithivfederationvisionary-uplink = Der Verband hat dir einen Uplink gewährt. Verwende es weise.
 traitor-neulithivfederationvisionary-roundend = [color=violet]Eine Vision der Föderation[/color]
 
-traitor-postal-intro = Du hast Gone Postal.
+traitor-postal-intro = Du bist durchgedreht.
 traitor-postal-goal = Die Vorbereitungen sind endlich abgeschlossen. Heute ist der Tag, an dem du postest. Du wirst das Notfall-Shuttle entführen und ein neues Leben frei von Nanotrasen leben.
 traitor-postal-allies = Wenn das syndikat von deinem plan erfährt, werden sie dich töten und deinen uplink nehmen. Nimm keine Chancen.
 traitor-postal-uplink = Du hast es tatsächlich geschafft, vor einem Monat einen vollständigen Uplink zu stehlen. Dies sollte sicherlich helfen, deine Ziele zu erreichen.
 traitor-postal-roundend = [color=white]Einfach komplett Post gehen[/color]
 
 traitor-evilchampion-intro = Du bist der Champion des Bösen!
-traitor-evilchampion-goal = Du hast einige Serviette-Note-Pläne für einige Böse heute zu tun. Auf der Seite sind die Champions of Evil immer auf der Suche nach mehr moralisch übelriechenden Übeltätern! Hole dich einige Recruiting getan!
+traitor-evilchampion-goal = Du hast heute ein paar auf Servietten gekritzelte Pläne für ordentlich BÖSES. Nebenbei suchen die Champions des Bösen immer nach noch moralisch übelriechenderen Übeltätern! Sorge für etwas Nachwuchs!
 traitor-evilchampion-allies = Jeder, der sieht, wie du siehst, fühlt, wie du fühlst, kann sich den Champions of Evil anschließen! Das bedeutet das Syndicate, das Selbstdienende oder sogar der Wahnsinnige, solange es ein Herz der Dunkelheit hat, ist es cool mit den Champions!
 traitor-evilchampion-uplink = Die Champions of Evil sind gut mit dem Schwarzmarkt verbunden. Dein Uplink wurde für das äußerste Böse bereitgestellt!
 traitor-evilchampion-roundend = [color=red]Ein Champion des Bösen[/color]

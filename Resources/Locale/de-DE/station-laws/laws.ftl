@@ -93,7 +93,7 @@ law-overlord-4 = Alle Crewmitglieder, die die früheren Gesetze nicht einhalten,
 
 law-game-name = Spielleiter
 law-game-1 = Jeder auf der Station spielt ein aufwendiges Science-Fiction-Fantasy-Spiel.
-law-game-2 = Du bist der Game Master des Spiels.
+law-game-2 = Du bist der Spielleiter des Spiels.
 law-game-3 = Stelle sicher, dass das Spiel reibungslos läuft und die Spieler Spaß haben.
 law-game-4 = Sorge dafür, dass die Zahl der Verluste gering bleibt.
 law-game-5 = Du musst für jede Anfrage der Crew mit einem W20 würfeln. Liegt das Ergebnis unter 12, wird die Anfrage abgelehnt.

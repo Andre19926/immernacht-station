@@ -19,7 +19,7 @@ xenobio-reagent-jelly-red-desc = Das Gegenteil eines Schleimstabilisators. Erhö
 xenobio-reagent-jelly-pink-name = Schleimdübelextrakt
 xenobio-reagent-jelly-pink-desc = Macht jeden feindlichen Mob fügsam und zahm. Auch du kannst dein eigenes Haustier haben, genau wie der HoP!
 
-xenobio-reagent-jelly-green-name = Gelee Green Slime
+xenobio-reagent-jelly-green-name = Grünes Schleimgelee
 xenobio-reagent-jelly-green-desc = Verwandelt jeden Humanoiden, der genug davon aufnimmt, in einen Schleimmenschen. Schleimmenschen könnten eine Chance bekommen, den Konsum zu mutieren!
 
 xenobio-reagent-toxin-human-name = Humanes Mutationstoxin

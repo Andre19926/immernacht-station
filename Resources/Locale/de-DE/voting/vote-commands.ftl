@@ -18,7 +18,7 @@ cmd-createvote-arg-vote-type = <Abstimmungstyp>
 
 ## 'customvote' command
 
-cmd-customvote-desc = Erstellen einer Custom Vote
+cmd-customvote-desc = Erstellt eine eigene Abstimmung
 cmd-customvote-help = Verwendung: customvote <title> <option1> <option2> [option3...]
 cmd-customvote-on-finished-tie = Die Abstimmung '{$title}' ist beendet: Gleichstand zwischen {$ties}!
 cmd-customvote-on-finished-win = Die Abstimmung '{$title}' ist beendet: {$winner} gewinnt!

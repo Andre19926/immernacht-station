@@ -14,7 +14,7 @@ reagent-name-oxygen = Sauerstoff
 reagent-desc-oxygen = Ein oxidierendes, farbloses Gas.
 
 reagent-name-plasma = Plasma
-reagent-desc-plasma = Funky, space-magic pixie dust. Du solltest das wahrscheinlich nicht essen, aber wir beide wissen, dass du es sowieso tun wirst.
+reagent-desc-plasma = Schräger, weltraummagischer Feenstaub. Du solltest das wahrscheinlich nicht essen, aber wir beide wissen, dass du es trotzdem tun wirst.
 
 reagent-name-tritium = Tritium
 reagent-desc-tritium = Radioaktiver weltraummagischer Pixiestaub.

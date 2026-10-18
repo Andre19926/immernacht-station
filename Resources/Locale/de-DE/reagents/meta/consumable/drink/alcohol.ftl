@@ -45,7 +45,7 @@ reagent-name-coffeeliqueur = Kaffeelikör
 reagent-desc-coffeeliqueur = mit kaltgebrühtem Kaffee und Gewürzen aromatisiert.
 
 reagent-name-melon-liquor = Melonenlikör
-reagent-desc-melon-liquor = Eine relativ süße und fruchtige 46 Proof Liquor.
+reagent-desc-melon-liquor = Ein relativ süßer und fruchtiger Likör mit 46 Proof.
 
 reagent-name-n-t-cahors = NeoTheologie Cahors Wein
 reagent-desc-n-t-cahors = Angereicherter Dessertwein aus Cabernet sauvignon, Saperavi und anderen Trauben.
@@ -165,7 +165,7 @@ reagent-name-eggnog = Eierpunsch
 reagent-desc-eggnog = Nicht genug Eier.
 
 reagent-name-electric-shark = Elektrischer Hai
-reagent-desc-electric-shark = Fun Shark Fact: Selachianer machen 20% des Ingenieurpersonals von Raumstation 16 aus!
+reagent-desc-electric-shark = Haifisch-Fakt am Rande: Selachianer stellen 20 % des technischen Personals der Raumstation 16!
 
 reagent-name-erika-surprise = Erika Überraschung
 reagent-desc-erika-surprise = Die Überraschung ist, es ist grün!
@@ -180,7 +180,7 @@ reagent-name-gin-tonic = Gin und Tonic
 reagent-desc-gin-tonic = Ein klassischer, milder Cocktail.
 
 reagent-name-gildlager = Gildlager
-reagent-desc-gildlager = 100 Proof Zimt Schnaps, gemacht für alkoholische Teenager-Mädchen auf Spring Break.
+reagent-desc-gildlager = Zimtschnaps mit 100 Proof, gemacht für trinkfreudige Teenager-Mädchen im Frühlingsurlaub.
 
 reagent-name-grog = Grog
 reagent-desc-grog = Verwässerter Rum, Pirat genehmigt!
@@ -282,7 +282,7 @@ reagent-name-silencer = Schalldämpfer
 reagent-desc-silencer = Ein Drink von Mime Heaven.
 
 reagent-name-singulo = Singulo
-reagent-desc-singulo = Ein Blue Space Getränk!
+reagent-desc-singulo = Ein Blue-Space-Getränk!
 
 reagent-name-snow-white = Schneewittchen
 reagent-desc-snow-white = Eine kalte Erfrischung.

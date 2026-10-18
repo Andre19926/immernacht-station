@@ -1,6 +1,6 @@
 # base
 store-currency-nt-loyalty-point = NT Loyalitätspunkt
-store-preset-name-ntr = Executive Briefcase Store
+store-preset-name-ntr = Executive-Aktenkoffer-Laden
 
 ntr-scan-fail = FEHLER: Gegenstand vom Scan-Protokoll abgelehnt.
 ntr-scan-success = {$amount} Loyalitätspunkte erfolgreich gutgeschrieben.
@@ -78,7 +78,7 @@ ntr-executive-ert-jani-name = ERT-Hausmeister rufen
 ntr-executive-ert-jani-desc = Fordere eine Hausmeistereinheit des Notfallteams an. Spezialisiert auf Aufräumarbeiten nach der Krise und Reinigung. Lässt sich auf keine Bedrohungen ein.
 
 ntr-executive-cburn-name = CBURN rufen
-ntr-executive-cburn-desc = Fordere ein Containment-and-Biohazard-Urban-Response-Team an. Spezialisiert auf biologische Bedrohungen und virale Ausbrüche. Stör nicht ihre Quarantäneprotokolle.
+ntr-executive-cburn-desc = Fordere ein Eindämmungs- und Biogefahren-Einsatzteam für Stadtgebiete an. Spezialisiert auf biologische Bedrohungen und virale Ausbrüche. Stör nicht ihre Quarantäneprotokolle.
 
 # machine boards
 

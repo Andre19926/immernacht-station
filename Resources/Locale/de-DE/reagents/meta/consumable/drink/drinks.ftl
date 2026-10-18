@@ -19,7 +19,7 @@ reagent-name-coffee = Kaffee
 reagent-desc-coffee = Ein Getränk aus gebrühten Kaffeebohnen. Enthält eine moderate Menge an Koffein.
 
 reagent-name-cream = Sahne
-reagent-desc-cream = Der fettige, noch flüssige Teil der Milch. Warum mischst du das nicht mit Sum Scotch, oder?
+reagent-desc-cream = Der fettige, noch flüssige Teil der Milch. Warum mischst du das nicht mit etwas Scotch, hm?
 
 reagent-name-coconut-water = Kokoswasser
 reagent-desc-coconut-water = Ein Favorit von Überlebenden auf verlassenen Inseln.

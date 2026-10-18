@@ -1,6 +1,6 @@
 guide-entry-martial-arts = Kampf- und Kampfkunst
 
-guide-entry-cqc = Close Quarters Kampf
+guide-entry-cqc = Nahkampf (CQC)
 guide-entry-hell-rip = Höllenriss
 guide-entry-sleeping-carp = Schlafkarpfen
 guide-entry-krav-maga = Krav Maga

@@ -28,8 +28,8 @@ store-category-disruption = Störung
 store-category-implants = Implantate
 store-category-allies = Verbündete
 store-category-job = Job
-store-category-wearables = Tragbar
-store-category-contractor = Auftragnehmer
+store-category-wearables = Kleidung
+store-category-contractor = Auftragsarbeit
 store-category-pointless = sinnlos
 store-discounted-items = Rabatte
 
@@ -38,9 +38,9 @@ store-category-abilities = Fähigkeiten
 
 # Wizard
 store-caregory-spellbook-offensive = Offensivzauber
-store-caregory-spellbook-defensive = Defensive Zeichen
+store-caregory-spellbook-defensive = Defensivzauber
 store-caregory-spellbook-utility = Gebrauchszauber
-store-caregory-spellbook-equipment = Wizardausrüstung
+store-caregory-spellbook-equipment = Zaubererausrüstung
 store-caregory-spellbook-events = Ereigniszauber
 
 # Nukie Delivery

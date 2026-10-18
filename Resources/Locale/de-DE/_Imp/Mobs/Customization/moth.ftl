@@ -1,30 +1,30 @@
 # Chest
 
-marking-ChestChimeraFemaleMoth = Mottentruhe (Chimera)
+marking-ChestChimeraFemaleMoth = Mottenmensch-Brust (Chimäre)
 marking-ChestChimeraFemaleMoth-chimeraf = Chimäre
 
-marking-ChestChimeraMaleMoth = Mottentruhe (Chimera)
+marking-ChestChimeraMaleMoth = Mottenmensch-Brust (Chimäre)
 marking-ChestChimeraMaleMoth-chimeram = Chimäre
 
-marking-ChestTwistingLeftFemaleMoth = Narbe (verdrehte Narbe links)
+marking-ChestTwistingLeftFemaleMoth = Narbe (Verdrehte Narbe links)
 marking-ChestTwistingLeftFemaleMoth-twistingleftf = Verdrehte Narbe (links)
 
-marking-ChestTwistingLeftMaleMoth = Narbe (verdrehte Narbe links)
+marking-ChestTwistingLeftMaleMoth = Narbe (Verdrehte Narbe links)
 marking-ChestTwistingLeftMaleMoth-twistingleftm = Verdrehte Narbe (links)
 
-marking-ChestTwistingRightFemaleMoth = Scar (rechts verdreht)
+marking-ChestTwistingRightFemaleMoth = Narbe (Verdrehte Narbe rechts)
 marking-ChestTwistingRightFemaleMoth-twistingrightf = Verdrehte Narbe (rechts)
 
-marking-ChestTwistingRightMaleMoth = Scar (rechts verdreht)
+marking-ChestTwistingRightMaleMoth = Narbe (Verdrehte Narbe rechts)
 marking-ChestTwistingRightMaleMoth-twistingrightm = Verdrehte Narbe (rechts)
 
-marking-ChestStarMoth = Narbe (Star)
+marking-ChestStarMoth = Narbe (Stern)
 marking-ChestStarMoth-star = Stern Narbe
 
 marking-MothBodyClaw = Narbe (Klauen)
 marking-MothBodyClaw-claw = Krallennarben
 
-marking-MothChestGlow = Moth Biolumineszenz (Chest)
+marking-MothChestGlow = Mottenmensch-Biolumineszenz (Brust)
 marking-MothChestGlow-glow = Glühen
 
 marking-TorsoIncisionMoth = Narbe (Inzision)
@@ -38,28 +38,28 @@ marking-BadmoltMoth-badmolt = Schlechte Häutung
 marking-EyebagsMoth = Augen (Eyebags)
 marking-EyebagsMoth-eyebags = Augensäcke
 
-marking-HeadChimeraMoth = Mottenkopf (Chimera)
+marking-HeadChimeraMoth = Mottenmensch-Kopf (Chimäre)
 marking-HeadChimeraMoth-chimera = Chimäre
 
 marking-HeadTwistingMoth = Narbe (gedreht)
 marking-HeadTwistingMoth-twisting = Verdrehte Narbe
 
-marking-MothBurnLeft = Burn Scar (links)
+marking-MothBurnLeft = Brandnarbe (links)
 marking-MothBurnLeft-burnleft = Burn Scar (links)
 
-marking-MothBurnRight = Burn Scar (rechts)
+marking-MothBurnRight = Brandnarbe (rechts)
 marking-MothBurnRight-burnright = Burn Scar (rechts)
 
 marking-MothFaceClaw = Krallennarben (Gesicht)
 marking-MothFaceClaw-claw = Krallennarben (Gesicht)
 
-marking-MothHeadGlow = Moth Biolumineszenz (Kopf)
+marking-MothHeadGlow = Mottenmensch-Biolumineszenz (Kopf)
 marking-MothHeadGlow-glow = Glühen
 
 marking-MothSlashLeft = Narbe (Klaue links)
 marking-MothSlashLeft-slashleft = Krallennarben (links)
 
-marking-MothSlashRight = Narbe (Claw Right)
+marking-MothSlashRight = Narbe (Klaue rechts)
 marking-MothSlashRight-slashright = Krallennarben (rechts)
 
 # Snout
@@ -76,8 +76,8 @@ marking-MouthpartsSchistocerca = Mundteile (Schistocerca)
 
 # Eyes
 
-marking-HeterochromiaMoth = Augen (Heterophobie)
-marking-HeterochromiaMoth-heterochromia = Heterophobie
+marking-HeterochromiaMoth = Augen (Heterochromie)
+marking-HeterochromiaMoth-heterochromia = Heterochromie
 
 marking-MothBiggerEyes = Augen (groß)
 marking-MothBiggerEyes-bigger = Größere Augen
@@ -92,7 +92,7 @@ marking-TwistingArmRightMoth-twisting = Verdrehte Narbe (rechts)
 
 # LArm
 
-marking-ChimeraArmLeftMoth = Motten-Arm links (Chimäre)
+marking-ChimeraArmLeftMoth = Mottenmensch-Arm links (Chimäre)
 marking-ChimeraArmLeftMoth-chimera = Chimäre (Arm)
 
 marking-ProstheticArmLeftMoth = Prothese (linker Arm)
@@ -111,7 +111,7 @@ marking-LegTwistingRightMoth-twisting = Verdrehte Narbe (rechts)
 
 # LLeg
 
-marking-LegChimeraLeftMoth = Motte links bein (Chimera)
+marking-LegChimeraLeftMoth = Mottenmensch-Bein links (Chimäre)
 marking-LegChimeraLeftMoth-chimera = Chimäre (Bein)
 
 marking-LegProstheticLeftMoth = Prothese (linkes Bein)
@@ -126,7 +126,7 @@ marking-LegTwistingLeftMoth-twisting = Verdrehte Narbe (links)
 
 # LFoot
 
-marking-FootChimeraLeftMoth = Motte Linksfuß (Chimera)
+marking-FootChimeraLeftMoth = Mottenmensch-Fuß links (Chimäre)
 marking-FootChimeraLeftMoth-chimera = Chimäre (Fuß)
 
 marking-FootProstheticLeftMoth = Prothese (Linker Fuß)
@@ -139,7 +139,7 @@ marking-FootProstheticRightMoth-prosthetic = Prothese (Rechter Fuß)
 
 # LHand
 
-marking-HandChimeraLeftMoth = Motte linke Hand (Chimera)
+marking-HandChimeraLeftMoth = Mottenmensch-Hand links (Chimäre)
 marking-HandChimeraLeftMoth-chimera = Chimäre (Hand)
 
 marking-HandProstheticLeftMoth = Prothese (linke Hand)
@@ -173,10 +173,10 @@ marking-PlateSmallSpike = Kopf (Spike)
 marking-MothBeetleHorn1 = Käferhorn (Zacken)
 marking-MothBeetleHorn1-beetlehorn1 = Käferhorn (Zacken)
 
-marking-MothBeetleHorn2 = Käfer Horn (Lanze)
+marking-MothBeetleHorn2 = Käferhorn (Lanze)
 marking-MothBeetleHorn2-beetlehorn2 = Käfer Horn (Lanze)
 
-marking-MothGlowAntenna = Antennen (Feuerwehr)
+marking-MothGlowAntenna = Antennen (Leuchtend)
 marking-MothGlowAntenna-glowantenna = Antennen
 
 marking-AntennaCockroach = Antennen (Kakerlake)
@@ -221,7 +221,7 @@ marking-MothGlasswing-glasswing_primary_front = Inneres
 marking-MothGlasswing-glasswing_secondary_front = Äußeres
 marking-MothGlasswing-glasswing_tertiary_front = Streifen
 
-marking-MothRhinoBeetle = Whings (Nashornkäfer)
+marking-MothRhinoBeetle = Flügel (Nashornkäfer)
 marking-MothRhinoBeetle-rhinobeetle_neck = Hals
 marking-MothRhinoBeetle-rhinobeetle_primary_front = Gliederung
 marking-MothRhinoBeetle-rhinobeetle_secondary_front = Flügel

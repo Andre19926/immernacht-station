@@ -65,7 +65,7 @@ construction-graph-tag-medkit = Medkit
 construction-graph-tag-flower = Blüte
 construction-graph-tag-ambrosia = Ambrosia
 construction-graph-tag-rifle-stock = Gewehrbestand
-construction-graph-tag-match-stick = Matching-Stick
+construction-graph-tag-match-stick = Streichholz
 construction-graph-tag-potato = eine Kartoffel
 construction-graph-tag-wheat-bushel = Weizenbuscheln
 construction-graph-tag-corgi-hide = Korgihaut
@@ -78,7 +78,7 @@ construction-graph-tag-core-pinpointer-piece = Stück Kernpinpointer
 
 # toys
 construction-graph-tag-rubber-ducky = eine Gummiente
-construction-graph-tag-ghost = Ghost Soft Toy
+construction-graph-tag-ghost = Geister-Kuscheltier
 construction-graph-tag-ectoplasm = Ektoplasma
 construction-graph-tag-lizard-plushie = Echse plushie
 
@@ -118,7 +118,7 @@ construction-graph-tag-fire-alarm-electronics = Brandmeldeelektronik
 construction-graph-tag-mailing-unit-electronics = Posteinheit Elektronik
 construction-graph-tag-intercom-electronics = Intercom-Elektronik
 construction-graph-tag-solar-assembly-parts = Solaranlagenteile
-construction-graph-tag-solar-tracker-electronics = Solar Tracker Elektronik
+construction-graph-tag-solar-tracker-electronics = Solar-Tracker-Elektronik
 construction-graph-tag-station-map-electronics = Stationskartenelektronik
 construction-graph-tag-signal-timer-electronics = Signalzeitgeberelektronik
 construction-graph-tag-screen-timer-electronics = Bildschirm Timer Elektronik
@@ -129,7 +129,7 @@ construction-graph-tag-wallmount-substation-circuit-board = Wandmontage-Untersta
 construction-graph-tag-surveillance-camera-monitor-board = Überwachungskameramonitor
 construction-graph-tag-television-board = Fernsehgerät
 construction-graph-tag-freezer-electronics = Gefrierelektronik
-construction-graph-tag-turret-control-electronics = Sentry Revolver Control Panel Elektronik
+construction-graph-tag-turret-control-electronics = Elektronik des Wachgeschütz-Bedienfelds
 
 # crystals
 construction-graph-tag-cyan-crystal-shard = Cyankristallscherbe

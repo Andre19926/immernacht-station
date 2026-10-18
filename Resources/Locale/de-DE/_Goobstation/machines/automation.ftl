@@ -21,12 +21,12 @@ signal-port-description-output-machine = Ein Maschinenautomatisierungsschlitz zu
 signal-port-name-item-moved = Gegenstand bewegt
 signal-port-description-item-moved = Signalanschluss, der gepulst wird, nachdem ein Gegenstand von diesem Arm bewegt wurde.
 
-signal-port-name-automation-slot-filter = Artikel: Filter Slot
+signal-port-name-automation-slot-filter = Gegenstand: Filterfach
 signal-port-description-automation-slot-filter = Ein Automatisierungsschlitz für den Filter einer Automatisierungsmaschine.
 
 # Reagent Grinder
 
-signal-port-name-automation-slot-beaker = Artikel: Beaker Slot
+signal-port-name-automation-slot-beaker = Gegenstand: Becherglas-Fach
 signal-port-description-automation-slot-beaker = Ein Automatisierungsschlitz für den Becher einer Flüssigkeitsbehandlungsmaschine.
 
 signal-port-name-automation-slot-input = Position: Eingabepositionen
@@ -34,10 +34,10 @@ signal-port-description-automation-slot-input = Ein Automatisierungssteckplatz f
 
 # Flatpacker
 
-signal-port-name-automation-slot-board = Artikel: Board Slot
+signal-port-name-automation-slot-board = Gegenstand: Platinenfach
 signal-port-description-automation-slot-board = Ein Automatisierungssteckplatz für die Leiterplatte eines Flatpackers.
 
-signal-port-name-automation-slot-materials = Artikel: Materiallagerung
+signal-port-name-automation-slot-materials = Gegenstand: Materiallagerung
 signal-port-description-automation-slot-materials = Ein Automatisierungsschlitz zum Einlegen von Materialien in das Lager einer Maschine.
 
 # Disposal Unit
@@ -94,7 +94,7 @@ signal-port-description-automation-slot-tool = Ein Automatisierungssteckplatz f�
 
 # Autodoc
 
-signal-port-name-automation-slot-autodoc-hand = Artikel: Autodoc Hand
+signal-port-name-automation-slot-autodoc-hand = Gegenstand: Autodoc-Hand
 signal-port-description-automation-slot-autodoc-hand = Ein Automatisierungs-Slot für das vom Autodoc gehaltene Organ bzw. Teil, für die Anweisungen „Gegenstand ablegen“ / „Gegenstand greifen“.
 
 signal-port-name-alt-interact = Alt-Interaktionsmodus
@@ -107,7 +107,7 @@ signal-port-description-automation-slot-gas-tank = Ein Automatisierungsschlitz f
 
 # ChemMaster
 
-signal-port-name-automation-slot-bottles = Artikel: Bottles Slot
+signal-port-name-automation-slot-bottles = Gegenstand: Flaschenfach
 signal-port-description-automation-slot-bottles = Ein Automatisierungssteckplatz für eine ChemMaster-Pille oder Flüssigkeitsflasche.
 
 # Radiation Collector

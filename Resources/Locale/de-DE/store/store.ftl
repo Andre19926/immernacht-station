@@ -12,22 +12,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 store-ui-default-title = Lager
-store-ui-default-withdraw-text = Rücknahme
+store-ui-default-withdraw-text = Abheben
 store-ui-refund-text = Erstattung
 store-ui-balance-display = {$currency}: {$amount}
 store-ui-price-display = {$amount} {$currency}
-store-ui-discount-display-with-currency =  {$amount} ausgeschaltet {$currency}
+store-ui-discount-display-with-currency = {$amount} Rabatt auf {$currency}
 store-ui-discount-display = ({$amount} Rabatt!)
 store-ui-traitor-flavor = Copyright (C) NT -30643
-store-ui-traitor-warning = Operateure müssen ihre Uplinks nach dem Gebrauch sperren, um eine Erkennung zu vermeiden.
+store-ui-traitor-warning = Agenten müssen ihre Uplinks nach Gebrauch sperren, um nicht entdeckt zu werden.
 
-store-withdraw-button-ui = Rücknahme {$currency}
+store-withdraw-button-ui = {$currency} abheben
 store-ui-button-out-of-stock = {""} (Ausverkauft)
-store-not-account-owner = Dies {$store} ist nicht an dich gebunden!
+store-not-account-owner = Dieses Gerät ({$store}) ist nicht an dich gebunden!
 
 store-preset-name-uplink = Uplink
-store-preset-name-uplink-ghost = Kontrast Uplink
-store-preset-name-spellbook = Spellbuch
-store-preset-name-nukie-delivery = NukeOps Bluespace Lieferung
+store-preset-name-uplink-ghost = Contravend-Uplink
+store-preset-name-spellbook = Zauberbuch
+store-preset-name-nukie-delivery = Atomagenten-Bluespace-Lieferung
 store-preset-name-changeling = DNA-Speicher
-store-preset-name-spellbook-ghost = Gespenstische Spellshop
+store-preset-name-spellbook-ghost = Gespenstischer Zauberladen

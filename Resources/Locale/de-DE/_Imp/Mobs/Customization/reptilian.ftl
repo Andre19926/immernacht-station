@@ -16,22 +16,22 @@ marking-ScarTalons-talonscar = Narbe (Talonmark)
 
 # Snout
 
-marking-Fangs = Lizard Fang
-marking-Fangs-Fangs = Fische
+marking-Fangs = Echsen-Reißzahn
+marking-Fangs-Fangs = Reißzähne
 
 marking-LizardBeard = Echsen-Bart
 marking-LizardBeard-beard = Bart
 
-marking-LizardDroopySnout = Echsen-Schnauze (Droopy)
+marking-LizardDroopySnout = Echsen-Schnauze (Hängend)
 marking-LizardDroopySnout-droopy = Schnauze
 
 marking-LizardSnoutpiercings = Piercings
 marking-LizardSnoutpiercings-piercings1 = Piercings
 
-marking-LizardSnoutTall = Echsenschnauze (Groß)
+marking-LizardSnoutTall = Echsen-Schnauze (Groß)
 marking-LizardSnoutTall-tall = Schnauze
 
-marking-LizardUpperSnout = Echsenschnauze (Hohe Nasenlöcher)
+marking-LizardUpperSnout = Echsen-Schnauze (Hohe Nasenlöcher)
 marking-LizardUpperSnout-upper = Schnauze
 
 # Eyes
@@ -105,7 +105,7 @@ marking-LizardHornsKoboldEarspiercings-kobold_earspiercings = Piercings
 marking-LizardHornsNubby-nubby = Echsen-Hörner (Stummelig)
 marking-LizardHornsNubby = Echsen-Hörner (Stummelig)
 
-marking-LizardLittleHorns = Lizard Horns (Klein)
+marking-LizardLittleHorns = Echsen-Hörner (Klein)
 marking-LizardLittleHorns-small = Hörner
 
 

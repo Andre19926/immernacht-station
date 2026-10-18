@@ -6,8 +6,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # HEAD
-marking-LizardHeadGuilmon= Lizard, Guilmon
-marking-LizardHeadGuilmon-guilmon = Hauptverwaltung
+marking-LizardHeadGuilmon = Echsen-Kopf (Guilmon)
+marking-LizardHeadGuilmon-guilmon = Guilmon
 
 marking-LizardShoutEasternDragon= Echse, östlicher Drache (Schnauze)
 marking-LizardShoutEasternDragon-eastern_dragon = Äußeres
@@ -18,7 +18,7 @@ marking-LizardShoutEasternDragonUsiki-eastern_dragon = Äußeres
 marking-LizardShoutEasternDragonUsiki-eastern_dragon_overlay = Inneres
 marking-LizardShoutEasternDragonUsiki-eastern_dragon_usiki = Schnurrbart
 
-marking-LizardHeadCobraHood = Lizard, Kapuze mit Ohren (Cobra)
+marking-LizardHeadCobraHood = Echsen-Kopf, Kapuze mit Ohren (Kobra)
 marking-LizardHeadCobraHood-cobra_hood_with_ears = Äußeres
 marking-LizardHeadCobraHood-cobra_hood_with_ears_overlay = Inneres
 
@@ -55,27 +55,27 @@ marking-SnakeLargeTail-tail_snakelarge = Inneres
 marking-SnakeLargeTail-tail_snakelarge_overlay = Äußeres
 
 # SPINES
-marking-LizardChestSpinesAquatic = Echse, Brust, Stacheln (aquatisch)
+marking-LizardChestSpinesAquatic = Echsen-Brust, Stacheln (Aquatisch)
 marking-LizardChestSpinesAquatic-spines_aquatic = Stacheln
-marking-LizardChestSpinesAquaticWithoutTail = Lizard, Brust, Wirbelsäulen (Aquatisch, ohne Schwanz)
+marking-LizardChestSpinesAquaticWithoutTail = Echsen-Brust, Stacheln (Aquatisch, ohne Schwanz)
 marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Stacheln
 
-marking-LizardChestSpinesLong = Lizard, Brust, Wirbelsäulen (lang)
+marking-LizardChestSpinesLong = Echsen-Brust, Stacheln (Lang)
 marking-LizardChestSpinesLong-spines_long = Stacheln
-marking-LizardChestSpinesLongWithoutTail = Lizard, Brust, Wirbelsäulen (lang, ohne Schwanz)
+marking-LizardChestSpinesLongWithoutTail = Echsen-Brust, Stacheln (Lang, ohne Schwanz)
 marking-LizardChestSpinesLongWithoutTail-spines_long = Stacheln
 
-marking-LizardChestSpinesLongMembrane = Lizard, Brust, Wirbelsäulen (Long, Membrane)
+marking-LizardChestSpinesLongMembrane = Echsen-Brust, Stacheln (Lang, Membran)
 marking-LizardChestSpinesLongMembrane-spines_longmembrane = Stacheln
-marking-LizardChestSpinesLongMembraneWithoutTail = Lizard, Brust, Wirbelsäulen (Lang, Membran, ohne Schwanz)
+marking-LizardChestSpinesLongMembraneWithoutTail = Echsen-Brust, Stacheln (Lang, Membran, ohne Schwanz)
 marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = Stacheln
 
-marking-LizardChestSpinesShort = Lizard, Brust, Wirbelsäulen (Kurz)
+marking-LizardChestSpinesShort = Echsen-Brust, Stacheln (Kurz)
 marking-LizardChestSpinesShort-spines_short = Stacheln
-marking-LizardChestSpinesShortWithoutTail = Lizard, Brust, Wirbelsäulen (Kurz, ohne Schwanz)
+marking-LizardChestSpinesShortWithoutTail = Echsen-Brust, Stacheln (Kurz, ohne Schwanz)
 marking-LizardChestSpinesShortWithoutTail-spines_short = Stacheln
 
-marking-LizardChestSpinesShortMembrane = Lizard, Brust, Wirbelsäulen (Kurz, Membran)
+marking-LizardChestSpinesShortMembrane = Echsen-Brust, Stacheln (Kurz, Membran)
 marking-LizardChestSpinesShortMembrane-spines_short = Stacheln
-marking-LizardChestSpinesShortMembraneWithoutTail = Lizard, Brust, Wirbelsäulen (Kurzschluss, Membran, ohne Schwanz)
+marking-LizardChestSpinesShortMembraneWithoutTail = Echsen-Brust, Stacheln (Kurz, Membran, ohne Schwanz)
 marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Stacheln

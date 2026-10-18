@@ -12,5 +12,5 @@ mindcontrol-briefing-get = SIE SIND KONTROLLIERT
 mindcontrol-briefing-get-master = Gehorche {$master}
 
 ## uplink shop
-uplink-mindcontrol-implant-name = Mind-Control Implantat
+uplink-mindcontrol-implant-name = Gedankenkontroll-Implantat
 uplink-mindcontrol-implant-desc = Wenn alles, was du brauchst, ein Freund ist.

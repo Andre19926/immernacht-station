@@ -1,4 +1,4 @@
-entity-effect-status-effect-Stun = stunning
+entity-effect-status-effect-Stun = Betäubung
 entity-effect-status-effect-KnockedDown = Umwerfen
 entity-effect-status-effect-Jitter = Zittern
 entity-effect-status-effect-TemporaryBlindness = Blindheit

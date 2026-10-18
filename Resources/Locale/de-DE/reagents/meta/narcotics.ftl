@@ -25,7 +25,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-desoxyephedrine = Desoxyephedrin
-reagent-desc-desoxyephedrine = Eine effektivere Ephedrine, mit aktiveren Downsides. Benötigt weniger Dosen, um Narkolepse zu heilen. Explodiert, wenn du es auf 420K erhitzt!
+reagent-desc-desoxyephedrine = Ein wirksameres Ephedrin mit aktiveren Nachteilen. Braucht weniger Dosen, um Narkolepsie zu heilen. Explodiert, wenn du es auf 420 K erhitzt!
 
 reagent-name-ephedrine = Ephedrin
 reagent-desc-ephedrine = Eine koffeinhaltige Adrenalin-Stimulans-Chemikalie, die dich schneller und schwerer umwerfbar macht. Hilft bei Dosierungen über dreißig auch gegen Narkolepsie, auf Kosten schwerer Nervenbelastung.
@@ -52,7 +52,7 @@ reagent-name-space-drugs = Weltraum-Mirage
 reagent-desc-space-drugs = Eine illegale Verbindung, die eine Reihe von Effekten wie Gleichgewichtsverlust und visuelle Artefakte hervorruft.
 
 reagent-name-nocturine = Nocturin
-reagent-desc-nocturine = Ein hochwirksames Beruhigungsmittel und Hypnotikum, das vom Syndicate für Stealth-Operationen entwickelt wurde. One-Way-Ticket nach Honk-Shoo Stadt.
+reagent-desc-nocturine = Ein hochwirksames Beruhigungs- und Schlafmittel, vom Syndicate für Schleichoperationen entwickelt. Einfache Fahrt nach Honk-Schlummerstadt.
 
 reagent-name-mute-toxin = Mutentoxin
 reagent-desc-mute-toxin = Eine dicke Chemikalie, die die Stimmbänder beschichtet, so dass der Benutzer während der Metabolisierung nicht sprechen kann.

@@ -88,7 +88,7 @@ barsign-prototype-name-lv426 = LV-426
 barsign-prototype-description-lv426 = Trinken mit ausgefallenen Gesichtsmasken ist eindeutig wichtiger als zu Medbay zu gehen.
 
 ## The Wiggle Roomm
-barsign-prototype-name-wiggle-room = Der Wiggle Room
+barsign-prototype-name-wiggle-room = Das Wackelzimmer
 barsign-prototype-description-wiggle-room = MoMMIs haben Moves.
 
 ## The Lightbulb

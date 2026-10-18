@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-revenant-defile-name = Defile
+revenant-defile-name = Schänden
 revenant-defile-desc = Beschädigt die Umgebung, zerreißt Böden, beschädigt Fenster, öffnet Container und wirft Gegenstände. Wenn du es verwendest, bist du für kurze Zeit anfällig für Angriffe.
 
 revenant-overload-name = Überlastlichter
-revenant-overload-desc = Überlastet alle nahegelegenen lichter, wodurch die lichter pulsieren und gefährliche blitze aussenden. Wenn du es verwendest, bist du für lange Zeit anfällig für Angriffe.
+revenant-overload-desc = Überlastet alle nahen Lichter, sodass sie pulsieren und gefährliche Blitze aussenden. Nach der Anwendung bist du lange Zeit anfällig für Angriffe.
 
-revenant-blight-name = Feuer
+revenant-blight-name = Seuche
 revenant-blight-desc = Infiziert alle nahe gelegenen Organismen mit einer Infektionskrankheit, die toxische Ansammlung und Müdigkeit verursacht. Wenn du es verwendest, bist du für einen mittleren Zeitraum anfällig für Angriffe.
 
 revenant-malfunction-name = Fehlfunktion
-revenant-malfunction-desc = Macht nahe gelegene Elektronik nicht mehr richtig funktioniert. Wenn du es verwendest, bist du für lange Zeit anfällig für Angriffe.
+revenant-malfunction-desc = Lässt Elektronik in der Nähe nicht mehr richtig funktionieren. Nach der Anwendung bist du lange Zeit anfällig für Angriffe.

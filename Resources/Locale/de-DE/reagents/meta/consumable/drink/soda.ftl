@@ -34,7 +34,7 @@ reagent-name-lemon-lime = Smite
 reagent-desc-lemon-lime = Tangy Limette und Zitronen-Soda.
 
 reagent-name-lemon-lime-cranberry = Strafe-Cranberry
-reagent-desc-lemon-lime-cranberry = Tart Cranberry, Weihnachten und ein Hauch von Zitrone und Limette.
+reagent-desc-lemon-lime-cranberry = Herbe Cranberry, Weihnachten und ein Hauch von Zitrone und Limette.
 
 reagent-name-pwr-game = PWR-Spiel
 reagent-desc-pwr-game = Das einzige Getränk mit dem PWR, nach dem sich echte Spieler sehnen. Wenn ein Spieler über Gamerfuel spricht, ist es das, worauf er sich buchstäblich bezieht.

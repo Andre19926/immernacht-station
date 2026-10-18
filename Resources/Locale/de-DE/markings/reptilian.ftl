@@ -12,14 +12,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-LizardFrillsShort-frills_short = Echsen-Kragen (Kurz)
-marking-LizardFrillsShort = Echsen-Kragen (Kurz)
+marking-LizardFrillsShort-frills_short = Echsen-Fransen (Kurz)
+marking-LizardFrillsShort = Echsen-Fransen (Kurz)
 
-marking-LizardFrillsSimple-frills_simple = Echsenfransen (einfach)
-marking-LizardFrillsSimple = Echsenfransen (einfach)
+marking-LizardFrillsSimple-frills_simple = Echsen-Fransen (Einfach)
+marking-LizardFrillsSimple = Echsen-Fransen (Einfach)
 
-marking-LizardFrillsAquatic-frills_aquatic = Echsenfransen (Aquatisch)
-marking-LizardFrillsAquatic = Echsenfransen (Aquatisch)
+marking-LizardFrillsAquatic-frills_aquatic = Echsen-Fransen (Aquatisch)
+marking-LizardFrillsAquatic = Echsen-Fransen (Aquatisch)
 
 marking-LizardHornsAngler-horns_angler = Echsen-Hörner (Anglerfisch)
 marking-LizardHornsAngler = Echsen-Hörner (Anglerfisch)
@@ -33,8 +33,8 @@ marking-LizardHornsRam = Echsen-Hörner (Widder)
 marking-LizardHornsShort-horns_short = Echsen-Hörner (Kurz)
 marking-LizardHornsShort = Echsen-Hörner (Kurz)
 
-marking-LizardHornsSimple-horns_simple = Echsenhörner
-marking-LizardHornsSimple = Echsenhörner
+marking-LizardHornsSimple-horns_simple = Echsen-Hörner
+marking-LizardHornsSimple = Echsen-Hörner
 
 marking-LizardTailSmooth-tail_smooth_primary = Lizard Schwanz
 marking-LizardTailSmooth-tail_smooth_secondary = Unterton
@@ -79,24 +79,24 @@ marking-LizardRArmTiger = Echsen-Arm rechts (Tiger)
 marking-LizardRLegTiger-r_leg_tiger = Echsen-Bein rechts (Tiger)
 marking-LizardRLegTiger = Echsen-Bein rechts (Tiger)
 
-marking-LizardFrillsDivinity-frills_divinity = Echsenfransen (Göttlichkeit)
-marking-LizardFrillsDivinity = Echsenfransen (Göttlichkeit)
+marking-LizardFrillsDivinity-frills_divinity = Echsen-Fransen (Göttlichkeit)
+marking-LizardFrillsDivinity = Echsen-Fransen (Göttlichkeit)
 
-marking-LizardFrillsBig-frills_big = Echsenfransen (Groß)
-marking-LizardFrillsBig = Echsenfransen (Groß)
+marking-LizardFrillsBig-frills_big = Echsen-Fransen (Groß)
+marking-LizardFrillsBig = Echsen-Fransen (Groß)
 
-marking-LizardFrillsNeckfull-frills_neckfull = Echsen-Kragen (Halsvoll)
-marking-LizardFrillsNeckfull = Echsen-Kragen (Halsvoll)
+marking-LizardFrillsNeckfull-frills_neckfull = Echsen-Fransen (Halsvoll)
+marking-LizardFrillsNeckfull = Echsen-Fransen (Halsvoll)
 
 marking-LizardHornsDouble-horns_double = Echsen-Hörner (Doppelt)
 marking-LizardHornsDouble = Echsen-Hörner (Doppelt)
 
-marking-LizardFrillsAxolotl-frills_axolotl = Echsen-Kragen (Axolotl)
-marking-LizardFrillsAxolotl = Echsen-Kragen (Axolotl)
+marking-LizardFrillsAxolotl-frills_axolotl = Echsen-Fransen (Axolotl)
+marking-LizardFrillsAxolotl = Echsen-Fransen (Axolotl)
 
 marking-LizardFrillsHood-frills_hood_primary = Äußere Kapuze
 marking-LizardFrillsHood-frills_hood_secondary = Innere Kapuze
-marking-LizardFrillsHood = Echsen-Kragen (Kapuze)
+marking-LizardFrillsHood = Echsen-Fransen (Kapuze)
 
 marking-LizardHornsArgali-horns_argali = Echsen-Hörner (Argali)
 marking-LizardHornsArgali = Echsen-Hörner (Argali)
@@ -119,11 +119,11 @@ marking-LizardHornsKoboldEars = Echsen-Ohren (Kobold)
 marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Echsen-Ohren (Schlappkobold)
 marking-LizardHornsFloppyKoboldEars = Echsen-Ohren (Schlappkobold)
 
-marking-LizardChestUnderbelly-body_underbelly = Lizard Chest (Unterbelly)
-marking-LizardChestUnderbelly = Lizard Chest (Unterbelly)
+marking-LizardChestUnderbelly-body_underbelly = Echsen-Brust (Unterbauch)
+marking-LizardChestUnderbelly = Echsen-Brust (Unterbauch)
 
-marking-LizardChestBackspikes-body_backspikes = Lizard Back Spikes (Vier)
-marking-LizardChestBackspikes = Lizard Back Spikes (Vier)
+marking-LizardChestBackspikes-body_backspikes = Echsen-Rückenstacheln (Vier)
+marking-LizardChestBackspikes = Echsen-Rückenstacheln (Vier)
 
 marking-LizardChestFin-body_fin = Echsen-Flosse
 marking-LizardChestFin = Echsen-Flosse

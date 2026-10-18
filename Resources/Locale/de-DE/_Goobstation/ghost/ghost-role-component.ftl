@@ -72,7 +72,7 @@ ghost-role-information-plague-mouse-name = Pestmaus
 ghost-role-information-plague-mouse-description = Eine hungrige und schelmische Maus. Dieser trägt eine Krankheit und wird sie beim Biss verbreiten.
 
 ghost-role-information-trevor-name = Trevor
-ghost-role-information-trevor-description = Securities Trusted Battle Ross.
+ghost-role-information-trevor-description = Das vertraute Schlachtross der Sicherheit.
 
 # Half Life
 
@@ -101,7 +101,7 @@ ghost-role-cargo-bingle-desc = Diene dem Nanotrasen-Vertreter und seinen Interes
 # shuttle roles
 
 ghost-role-information-alien-tourist-name = Außerirdischer Tourist
-ghost-role-information-alien-tourist-description = Schaue dich in der Station um. Glorp auf Menschen. Lass dich von einem Trigger-happy Offizier erschossen.
+ghost-role-information-alien-tourist-description = Sieh dich auf der Station um. Glorpe Leute an. Lass dich von einem schießwütigen Beamten erschießen.
 
 # Conquest?
 
@@ -120,7 +120,7 @@ ghost-role-information-ancient-king-name = Der alte Xeno-König
 ghost-role-information-ancient-rogue-king-name = Der alte Rogue Xeno King
 
 ghost-role-information-ancient-xeno-description = Eine Kreatur, die als ausgestorben galt, und doch...
-ghost-role-information-ancient-rogue-king-description = Der einsame König, mit nur Rache in seinen Augen. Zeige ihnen keine Gnade!
+ghost-role-information-ancient-rogue-king-description = Der einsame König, mit nichts als Rache im Blick. Zeige ihnen keine Gnade!
 
 ghost-role-information-ancient-rogue-king-rules = Du verbeugst dich vor niemandem. Töte alles, was dir im Weg steht.
 
@@ -187,7 +187,7 @@ objective-issuer-self = [color=#7851A9]Für deine eigenen Interessen[/color]
 
 ghost-role-information-vox-raider-name = Vox-Plünderer
 ghost-role-information-vox-raider-description = Vox, die ihre Loyalität zum Shoal schwören. Es ist unklar, was ihre Absichten sind oder ob sie den Handel planen oder von der Station stehlen. Es ist immer am besten, Vorsicht zu walten, wenn sie auftauchen.
-vox-raider-role-greeting = Du bist ein [color=#7851A9]Vox Raider[/color], ein Vox, der seine Loyalität gegenüber dem Shoal geschworen hat, du bist damit beauftragt, Gegenstände von der Station zu stehlen oder für sie zu handeln, es spielt keine Rolle, für welche du dich entscheidest, alles, was zählt, ist, dass du alle Gegenstände erhältst, die du benötigst, um deine Ziele zu erreichen und "The Heist" abzuschließen, überprüfe dein Charakterblatt auf deine Ziele.
+vox-raider-role-greeting = Du bist ein [color=#7851A9]Vox-Plünderer[/color], ein Vox, der dem Schwarm die Treue geschworen hat. Du sollst Gegenstände von der Station stehlen oder dafür handeln, ganz wie du willst. Wichtig ist nur, dass du alle Gegenstände beschaffst, die du für deine Ziele brauchst, und „Den Coup“ abschließt. Deine Ziele findest du in deinem Charakterbogen.
 
 ghost-role-information-clown-goblin-name = Clown Goblin
 ghost-role-information-clown-goblin-description = Eine schreckliche Kreatur, geboren aus der Hölle.

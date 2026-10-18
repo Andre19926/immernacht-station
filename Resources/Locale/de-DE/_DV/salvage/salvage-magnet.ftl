@@ -6,4 +6,4 @@
 
 salvage-map-wreck-size-unknown = [color=purple]Nicht identifiziert[/color]
 
-salvage-magnet-mining-points-cost = Kosten: {$points} Mining Points
+salvage-magnet-mining-points-cost = Kosten: {$points} Bergbaupunkte

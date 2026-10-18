@@ -37,5 +37,5 @@ poll-control-seen-by = Gesehen von {$count} {$count ->
 }
 
 # Client Commands
-cmd-polls-desc = Öffnet das Community Polls Fenster.
+cmd-polls-desc = Öffnet das Fenster für Community-Umfragen.
 cmd-polls-help = Verwendung: polls

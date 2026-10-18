@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-happyhonk-1 = Honk! Honk! Warum nicht heute noch ein Happy Honk Meal bestellen?
+advertisement-happyhonk-1 = Honk! Honk! Warum nicht heute noch ein Happy-Honk-Menü bestellen?
 advertisement-happyhonk-2 = Clowns verdienen eine Umarmung. Wenn du einen siehst, zeig ihm deine Wertschätzung.
 advertisement-happyhonk-3 = Wenn du den Goldenen Honker findest, dann danke den Göttern – du bist ein echter Glückspilz.
 advertisement-happyhonk-4 = Happy Honk: ein Menü, ein Deal, mit Plastikspielzeug – da quiekst du vor Freude!

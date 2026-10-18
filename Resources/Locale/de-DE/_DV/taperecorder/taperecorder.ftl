@@ -18,7 +18,7 @@ tape-recorder-menu-stopped-button = Pause
 tape-recorder-menu-recording-button = Aufzeichnung
 tape-recorder-menu-playing-button = Wiedergabe
 tape-recorder-menu-rewinding-button = Rücklauf
-tape-recorder-menu-print-button = Print Record Transkript
+tape-recorder-menu-print-button = Transkript drucken
 tape-recorder-menu-cassette-label = Kassettenband: {$cassetteName}
 tape-recorder-menu-no-cassette-label = Kassettenband wird nicht eingefügt
 

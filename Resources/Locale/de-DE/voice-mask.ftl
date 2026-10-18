@@ -10,7 +10,7 @@
 
 voice-mask-default-name-override = Unbekannt
 
-voice-mask-name-change-window = Voice Mask Name Änderung
+voice-mask-name-change-window = Stimmmasken-Namensänderung
 voice-mask-name-change-info = Gib den Namen ein, den dich nachahmen möchten.
 voice-mask-name-change-speech-style = Sprachstil
 voice-mask-name-change-set = Set Name
