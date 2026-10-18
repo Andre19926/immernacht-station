@@ -24,8 +24,8 @@ cosmic-examine-text-injector-cult = [color=#4cabb3]Eine starke Dosis Stimulanzie
 
 ## GLYPH EXAMINES
 cosmic-examine-glyph-cultcount = {$COUNT ->
-    [1] [color=#4cabb3]Erfordert nur einen einzigen Kultisten zu aktivieren.[/color]
-    *[other] [color=#4cabb3]Erforderlich {$COUNT} Kultisten zu aktivieren.[/color]
+    [1] [color=#4cabb3]Zur Aktivierung ist nur ein einziger Kultist nötig.[/color]
+    *[other] [color=#4cabb3]Zur Aktivierung sind {$COUNT} Kultisten nötig.[/color]
 }
 
 cosmic-examine-glyph-truth = [color=#4cabb3]Die reine, unauslöschliche Wahrheit. Kann absolut jeden dazu bringen, sich unseren Reihen anzuschließen.[/color]

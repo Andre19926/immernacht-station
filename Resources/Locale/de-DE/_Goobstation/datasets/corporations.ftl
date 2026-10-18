@@ -1,5 +1,5 @@
 traitor-corporations-flavor-dataset-1 = ARC-Terrorist
-traitor-corporations-flavor-dataset-2 = Bee Liberation Front
+traitor-corporations-flavor-dataset-2 = Bienenbefreiungsfront
 traitor-corporations-flavor-dataset-3 = Cybersun Industries
 traitor-corporations-flavor-dataset-4 = Gorlex Marauders
 traitor-corporations-flavor-dataset-5 = Corporate Climber
@@ -8,5 +8,5 @@ traitor-corporations-flavor-dataset-7 = Rechtliche Probleme
 traitor-corporations-flavor-dataset-8 = MI13
 traitor-corporations-flavor-dataset-9 = Tigerkooperative
 traitor-corporations-flavor-dataset-10 = Waffle Corporation
-traitor-corporations-flavor-dataset-11 = Waffle Corporation Terrorist
+traitor-corporations-flavor-dataset-11 = Waffelkonzern-Terrorist
 traitor-corporations-flavor-dataset-12 = Neulithiv Federation Visionär

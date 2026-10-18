@@ -15,8 +15,8 @@
 thief-backpack-window-title = Räubersatz
 
 thief-backpack-window-description =
-    Im Inneren sind deine Werkzeuge des Handels, die sich auflösen, wenn du bereit bist.
-    Choose {$maxCount} different {$maxCount ->
+    Darin liegt dein Handwerkszeug; es löst sich auf, sobald du bereit bist.
+    Wähle {$maxCount} verschiedene {$maxCount ->
         [1] Satz
         *[other] Sätze
     } aus der Liste.

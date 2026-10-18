@@ -103,7 +103,7 @@ ghost-role-information-snoth-description = Ein bisschen Snoth, dem ein bisschen 
 
 ghost-role-information-giant-spider-name = Riesenspinne
 ghost-role-information-giant-spider-description = Die Bewohner dieser Station sehen mächtig lecker aus, und dein klebriges Netz ist perfekt, um sie zu fangen!
-ghost-role-information-giant-spider-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit allen anderen Riesenspinnen.
+ghost-role-information-giant-spider-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen Riesenspinnen.
 
 ghost-role-information-cognizine-description = Bewusst gemacht mit der Magie der Kognizine.
 
@@ -118,7 +118,7 @@ ghost-role-information-slimes-description = Ein gewöhnlicher Schleim ohne beson
 
 ghost-role-information-angry-slimes-name = Wütender Schleim
 ghost-role-information-angry-slimes-description = Jeder um dich herum irritiert deine Instinkte, zerstöre sie!
-ghost-role-information-angry-slimes-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit allen anderen wütenden Schleimen.
+ghost-role-information-angry-slimes-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen wütenden Schleimen.
 
 ghost-role-information-smile-name = Smile, der Schleim
 ghost-role-information-smile-description = Die süßeste Kreatur der Welt. Lächle Schleim!
@@ -128,7 +128,7 @@ ghost-role-information-punpun-description = Ein ehrenwertes mitglied der affenge
 
 ghost-role-information-xeno-name = Xeno
 ghost-role-information-xeno-description = Du bist ein Xeno, kooperierst mit deinem Bienenstock, um alle Crewmitglieder zu töten!
-ghost-role-information-xeno-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit allen anderen Xenos.
+ghost-role-information-xeno-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen Xenos.
 
 ghost-role-information-revenant-name = Revenant
 ghost-role-information-revenant-description = Du bist ein Revenant. Nutzt eure Kräfte, um Seelen zu ernten und Chaos auf die Crew loszulassen. Schalte neue Fähigkeiten mit der Essenz frei, die du erntest.
@@ -194,11 +194,11 @@ ghost-role-information-ifrit-description = Höre auf deinen Besitzer. Tanke kein
 
 ghost-role-information-space-dragon-name = Weltraumdrache
 ghost-role-information-space-dragon-description = Rufe 3 Karpfenrisse herbei und übernimm diesen Quadranten! Du hast zwischen den Rissen nur je 5 Minuten, bevor du verschwindest.
-ghost-role-information-space-dragon-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit all deinen herbeigerufenen Karpfen.
+ghost-role-information-space-dragon-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit all deinen herbeigerufenen Karpfen.
 ghost-role-information-space-dragon-summoned-carp-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit deinem Drachen und seinen Verbündeten.
 
 ghost-role-information-space-dragon-dungeon-description = Verteidige den Expeditionsdungeon mit deinen fischigen Kameraden!
-ghost-role-information-space-dragon-dungeon-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit allen Dungeon Mobs.
+ghost-role-information-space-dragon-dungeon-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen Dungeon Mobs.
 
 ghost-role-information-cluwne-name = Cluwne
 ghost-role-information-cluwne-description = Werde ein erbärmlicher Cluwne, dein einziges Ziel im Leben ist es, eine süße Befreiung von deinem Leiden zu finden (normalerweise, indem du zu Tode geprügelt wirst). Ein Cluwne ist kein Antagonist, kann sich aber verteidigen. Crewmitglieder dürfen Clownes frei ermorden.
@@ -243,7 +243,7 @@ ghost-role-information-centcom-official-name = CentComm offiziell
 ghost-role-information-centcom-official-description = Führe CentComm-bezogene Aufgaben durch, wie z. B. die Inspektion der Station, das Aufzeichnen von Leistungsbewertungen für Mitarbeiter und die Verwaltung des Faxgeräts.
 
 
-ghost-role-information-nukeop-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen nuklearen Agenten. Covert Syndicate Agenten sind nicht garantiert, dir zu helfen.
+ghost-role-information-nukeop-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit allen anderen Atomagenten. Verdeckte Syndicate-Agenten helfen dir nicht zwingend.
 
 ghost-role-information-loneop-name = Einzelkämpfer-Operative
 ghost-role-information-loneop-description = Du bist ein einsamer Atomaktivist. Zerstöre die Station!
@@ -259,11 +259,11 @@ ghost-role-information-hellspawn-description = Bringt den Tod denen, die dem gro
 
 ghost-role-information-Death-Squad-name = Death Squad Chirurg
 ghost-role-information-Death-Squad-description = Wir brauchen den Nanotrasen-Vertreter am Leben, um uns zu sagen, was passiert ist. Der Rest? Nun ... sie sind Zeugen.
-ghost-role-information-Death-Squad-rules = Deine Ziele sind einfach: [color=red][bold]Terminat[/bold][/color] Alle, die nicht mitarbeiter des central command sind. Executive Orders können dies ändern.
+ghost-role-information-Death-Squad-rules = Deine Ziele sind einfach: [color=red][bold]Eliminiere[/bold][/color] alle, die nicht zum Personal des Central Command gehören. Exekutivbefehle können das ändern.
 
 ghost-role-information-SyndiCat-name = SyndiCat
 ghost-role-information-SyndiCat-description = Du bist das treu ausgebildete Haustier von Atomarbeitern mit einer Mikrobombe. Diene deinem Herrn bis zum Tod!
-ghost-role-information-SyndiCat-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit dem Agenten, der dich gerufen hat.
+ghost-role-information-SyndiCat-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit dem Agenten, der dich gerufen hat.
 
 ghost-role-information-Cak-name = Cak
 ghost-role-information-Cak-description = Du bist das Lieblingskind des Kochs. Du bist eine lebende Kuchenkatze.
@@ -279,7 +279,7 @@ ghost-role-information-paradox-clone-description = Eine freak Raum-Zeit-Anomalie
 
 ghost-role-information-syndicate-reinforcement-name = Syndicate-Agent
 ghost-role-information-syndicate-reinforcement-description = Jemand braucht Verstärkung. Du, die erste Person, die das Syndicate finden könnte, wirst ihnen helfen.
-ghost-role-information-syndicate-reinforcement-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] Mit dem Agenten, der dich gerufen hat.
+ghost-role-information-syndicate-reinforcement-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] mit dem Agenten, der dich gerufen hat.
 
 ghost-role-information-syndicate-reinforcement-medic-name = Syndicate Medicate
 ghost-role-information-syndicate-reinforcement-medic-description = Jemand braucht Verstärkung. Deine Aufgabe ist es, den Agenten, der dich gerufen hat, am Leben zu halten.
@@ -386,7 +386,7 @@ ghost-role-information-pirate-irs-description = Beschlagnahme die wertvollen Ver
 ghost-role-information-pirate-irs-captain-name = Weltraumpiraten-Kapitän
 ghost-role-information-pirate-irs-captain-description = Lenke den Plünderungsprozess. Festnahme des Kapitäns wegen Steuerhinterziehung.
 
-ghost-role-information-pirate-irs-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] Mit den anderen Piraten.
+ghost-role-information-pirate-irs-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] mit den anderen Piraten.
 
 ghost-role-information-artifact-name = Sentient-Artefakt
 ghost-role-information-artifact-description = Stelle deine eldritch Launen. Aktiviere deine Knoten gewaltsam zum Guten oder zum Bösen.

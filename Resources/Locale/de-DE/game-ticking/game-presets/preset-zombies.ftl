@@ -31,8 +31,8 @@ zombie-alone = Du fühlst dich ganz allein.
 zombie-shuttle-call = Wir haben festgestellt, dass die Untoten die Station überholt haben. Versand eines Notfall-Shuttles, um das verbleibende Personal zu sammeln.
 
 zombie-round-end-initial-count = {$initialCount ->
-    [one] Es gab eine erste Infektion:
-    *[other] Es gab {$initialCount} Erstinfektion:
+    [one] Es gab einen Erstinfizierten:
+    *[other] Es gab {$initialCount} Erstinfizierte:
 }
 zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) war einer der ersten Infizierten.
 
@@ -43,7 +43,7 @@ zombie-round-end-amount-high = [color=crimson]{$percent}% der Crew wurden in Zom
 zombie-round-end-amount-all = [color=darkred]Die gesamte Crew wurde zu Zombies![/color]
 
 zombie-round-end-survivor-count = {$count ->
-    [one] Es gab nur noch einen Überlebenden:
-    *[other] Es gab nur {$count} Hinterbliebene:
+    [one] Es war nur noch ein Überlebender übrig:
+    *[other] Es waren nur noch {$count} Überlebende übrig:
 }
 zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) hat den Ausbruch überlebt.

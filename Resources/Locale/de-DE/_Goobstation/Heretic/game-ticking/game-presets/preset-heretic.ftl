@@ -65,4 +65,4 @@ ghostrole-stalker-desc = Teleportiere dich und sabotiere die Beleuchtung der Cre
 ghostrole-fire-shark-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbrennt eure Opfer.
 ghostrole-rustwalker-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Rost überall verteilen.
 ghostrole-stargazer-desc = Hilf deinem Beschwörer, überall Chaos anzurichten.
-ghostrole-ghoul-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] mit dem, der dich und andere ältere Wesen gerufen hat.
+ghostrole-ghoul-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] zusammen mit demjenigen, der dich beschworen hat, und anderen unheimlichen Wesen.

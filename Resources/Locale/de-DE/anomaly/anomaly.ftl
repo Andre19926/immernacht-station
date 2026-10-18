@@ -45,7 +45,7 @@ anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Art der Umwan
 anomaly-scanner-pulse-timer = Zeit bis zum nächsten Puls: [color=gray]{$time}[/color]
 
 anomaly-gorilla-core-slot-name = Anomaliekern
-anomaly-gorilla-charge-none = Es hat keine [bold]Anomaliekern[/bold] Innerhalb davon.
+anomaly-gorilla-charge-none = Darin befindet sich kein [bold]Anomaliekern[/bold].
 anomaly-gorilla-charge-limit = Es hat [color={$count ->
     [3]green
     [2]yellow

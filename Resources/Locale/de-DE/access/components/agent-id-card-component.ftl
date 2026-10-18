@@ -6,9 +6,9 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 agent-id-new = { $number ->
-    [0] Keine neuen Zugänge von {THE($card)}.
-    [one] Erhalte einen neuen Zugang von {THE($card)}.
-   *[other] gewonnen {$number} Neue Zugänge von {THE($card)}.
+    [0] Du hast keine neuen Zugänge von {THE($card)} erhalten.
+    [one] Du hast einen neuen Zugang von {THE($card)} erhalten.
+   *[other] Du hast {$number} neue Zugänge von {THE($card)} erhalten.
 }
 
 agent-id-card-current-name = Name:

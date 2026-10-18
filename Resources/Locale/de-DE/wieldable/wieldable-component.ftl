@@ -23,8 +23,8 @@ wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } hindert dich d
 
 wieldable-component-no-hands = Du hast nicht genug Hände!
 wieldable-component-not-enough-free-hands = {$number ->
-    [one] dich brauchen eine freie Hand zu schwingen { THE($item) }.
-    *[other] du brauchst { $number } freie Hände zu tragen { THE($item) }.
+    [one] Du brauchst eine freie Hand, um { THE($item) } mit beiden Händen zu führen.
+    *[other] Du brauchst { $number } freie Hände, um { THE($item) } mit beiden Händen zu führen.
 }
 wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } liegt nicht in deinen Händen!
 

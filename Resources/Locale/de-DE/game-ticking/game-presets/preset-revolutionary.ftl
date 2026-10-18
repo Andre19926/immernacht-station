@@ -58,12 +58,12 @@ rev-headrev-count = {$initialCount ->
     *[other] Es gab {$initialCount} Hauptrevolutionäre:
 }
 
-rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) converted {$count} {$count ->
+rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) hat {$count} {$count ->
     [one] Person
     *[other] Menschen
 }
 
-rev-headrev-name = [color=#5e9cff]{$name}[/color] converted {$count} {$count ->
+rev-headrev-name = [color=#5e9cff]{$name}[/color] hat {$count} {$count ->
     [one] Person
     *[other] Menschen
 }

@@ -47,8 +47,8 @@ gang-spray-can-empty = Die Sprühdose ist leer.
 gang-spray-can-clothing-painted = Du sprühst die Farbe deiner Gang darauf.
 gang-spray-can-points-earned = +{$points} Gang-Punkte!
 gang-spray-can-charges-remaining = {$charges ->
-    [one] Es hat [color=yellow]{$charges}[/color] links verwenden.
-    *[other] Es hat [color=yellow]{$charges}[/color] verwendet links.
+    [one] Noch [color=yellow]{$charges}[/color] Verwendung übrig.
+    *[other] Noch [color=yellow]{$charges}[/color] Verwendungen übrig.
 }
 
 gang-store-title = Gang-Laden
@@ -116,7 +116,7 @@ alerts-gang-bonus-name = Gebietsaufschlag
 alerts-gang-bonus-desc = Zeigt an, ob dein Gebietsbonus derzeit aktiv ist.
 
 gang-locker-examine-header = [color=#D2691E][bold]Bandenrangliste[/bold][/color]
-gang-locker-examine-gang-entry = {$rank}. [color=#{$color}][bold]{$name}[/bold][/color] - {$score} pts
+gang-locker-examine-gang-entry = {$rank}. [color=#{$color}][bold]{$name}[/bold][/color] – {$score} Pkt.
 gang-locker-examine-update-timer = [italic]Aktualisierung in {$seconds}s[/italic]
 gang-structure-revealed = Die Gangstruktur offenbart sich selbst.
 
@@ -128,7 +128,7 @@ gang-member-role-greeting =
 
 objective-issuer-gang = Boss
 
-gang-objective-recruit-title = Recruit {$count ->
+gang-objective-recruit-title = Rekrutiere {$count ->
     [one] {$count} Mitglied
     *[other] {$count} Mitglieder
 } zu deiner Gang

@@ -380,7 +380,7 @@ uplink-box-xenobio-desc = Schleime für deine Xenobiologie Bedürfnisse. Enthäl
 uplink-moduist-contractor-name = Auftragnehmer Modsuit
 uplink-moduist-contractor-desc = Dieser leichte Modsuit wurde speziell für The Guild gemacht! Hergestellt mit plastitanium für extreme haltbarkeit, aber leichtgewicht, kommt vollgepackt mit servos, um ihnen zu helfen, härtere, kritische schadenserkennung injektoren zu greifen, und eine eingebaute chamäleon-technologie. Um es ultraleicht zu halten, hat dieser Modsuit keine Speichermöglichkeiten.
 
-uplink-hardsuit-contractor-name = Bauunternehmer Hardsuit Bundle
+uplink-hardsuit-contractor-name = Auftragnehmer-Hardsuit-Bündel
 uplink-hardsuit-contractor-desc = Dieser leichte Hardsuit wurde speziell für The Guild gemacht! Kann leicht in Rucksäcke zusammengeklappt werden.
 
 uplink-webbing-contractor-name = Gurtband

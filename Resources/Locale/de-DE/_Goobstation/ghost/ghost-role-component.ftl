@@ -17,15 +17,15 @@ ghost-role-information-nukie-reinforcement-rules = Du bist ein [color=red][bold]
 
 ghost-role-information-SyndiRoach-name = SyndiRoach
 ghost-role-information-SyndiRoach-description = Du bist das treu ausgebildete Haustier von Atomarbeitern mit einer Mikrobombe. Diene deinem Herrn bis zum Tod!
-ghost-role-information-SyndiRoach-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] Mit dem Agenten, der dich gerufen hat.
+ghost-role-information-SyndiRoach-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] zusammen mit dem Agenten, der dich gerufen hat.
 
 ghost-role-information-skibidi-toilet-name = Skibidi Toilette
 ghost-role-information-skibidi-toilet-description = Lebendige Menschen mit deinem Skibidi ohio rizz.
-ghost-role-information-skibidi-toilet-rules = Du bist ein [color=red][bold]Antagonist[/bold][/color] mit dem Ziel, so viele Ohioaner wie möglich nicht zu leben.
+ghost-role-information-skibidi-toilet-rules = Du bist ein [color=red][bold]Antagonist[/bold][/color] mit dem Ziel, so viele Ohioaner wie möglich umzulegen.
 
 ghost-role-information-Hecu-name = HECU-Operator
 ghost-role-information-Hecu-description = Befolge alle Befehle, die dir von [color=yellow][bold]CentComm[/bold][/color] erteilt werden. Arbeite ansonsten mit der Sicherheit zusammen, um die Probleme der Station zu lösen.
-ghost-role-information-Hecu-rules = Du bist verpflichtet, befehle ihres vorgesetzten zu befolgen, du bist effektiv ihre. [color=#6495ed][bold]Vertraute[/bold][/color].
+ghost-role-information-Hecu-rules = Du bist verpflichtet, den Befehlen deines Vorgesetzten zu folgen; du bist praktisch sein [color=#6495ed][bold]Vertrauter[/bold][/color].
 
 ghost-role-information-lootbug-name = LootBug
 ghost-role-information-lootbug-description = Versuche, nicht von Tidern abgeschlachtet zu werden.
@@ -51,11 +51,11 @@ ghost-role-information-navy-captain-rules = Du bist keinen Regeln verpflichtet.
 
 ghost-role-information-special-operations-officer-name = Sondereinsatzkräfte
 ghost-role-information-special-operations-officer-description = Senden, kurze und direkte Notfallteams oder andere Nanotrasen Kräfte. Gib die Nuklearcodes frei oder nicht.
-ghost-role-information-special-operations-officer-rules = Bringe die Nanotrasen Vertreter in lebendig, der Rest sind nur Sicherheiten. [color=#yellow][bold]Marinekapitän[/bold][/color] Befehle können dies ändern.
+ghost-role-information-special-operations-officer-rules = Bringe den Nanotrasen-Vertreter lebend herein, der Rest ist nur Kollateralschaden. Befehle des [color=#yellow][bold]Marinekapitäns[/bold][/color] können das ändern.
 
 ghost-role-information-navy-officer-name = Marineoffizier
 ghost-role-information-navy-officer-description = Beantworte Faxe und Funkkommunikation, die an das CentComm gerichtet sind. Führe Untersuchungen an der Station und ihrer Crew durch.
-ghost-role-information-navy-officer-rules = Folge den Befehlen der [color=#yellow][bold]Marinekapitän[/bold][/color]In Ermangelung einer solchen, mache deine eigenen Urteile.
+ghost-role-information-navy-officer-rules = Befolge die Befehle des [color=#yellow][bold]Marinekapitäns[/bold][/color]. Ist keiner da, entscheide nach eigenem Ermessen.
 
 ghost-role-information-navy-officer-undercover-name = Undercover Navy Offizier
 ghost-role-information-navy-officer-undercover-description = Schließe deine zugewiesenen Aufgaben ab und beende die angegebenen Ziele. Viel Glück.
@@ -84,15 +84,15 @@ ghost-role-information-Gman-rules = Du bist keinen Regeln oder Grenzen verpflich
 
 ghost-role-information-bsd-name = Blueshield Stellvertreter
 ghost-role-information-bsd-description = Du wurdest von der NTR auf die Station gerufen. Gehorche ihr, schütze die Führung und befolge das Gesetz.
-ghost-role-information-bsd-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color], Führung schützen.
+ghost-role-information-bsd-rules = Befolge die Anweisungen des [color=yellow][bold]Nanotrasen-Vertreters[/bold][/color] und schütze die Führung.
 
 # interns
 ghost-role-intern-name = CentComm-Praktikant
 ghost-role-nerd-intern-name = CentComm-Nerd-Praktikant
 ghost-role-lead-intern-name = CentComm-Chefpraktikant
 ghost-role-intern-desc = Du bist ein CentComm Praktikant, du bist unterbezahlt, hungrig, mit einer großen Studentenschuld, die du auszahlen musst, aber du hast keine anderen Möglichkeiten, also hör besser zu!
-ghost-role-intern-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color] & CentComm, protect command, höre dem Lead Praktikanten zu.
-ghost-role-lead-intern-rules = Befolge die Anweisungen, die dir von der [color=yellow][bold]NanoTrasen Vertreter[/bold][/color] & CentComm, Protect Command, geben Befehle an andere Praktikanten.
+ghost-role-intern-rules = Befolge die Anweisungen des [color=yellow][bold]Nanotrasen-Vertreters[/bold][/color] und von CentComm, schütze die Führung und höre auf den Leitenden Praktikanten.
+ghost-role-lead-intern-rules = Befolge die Anweisungen des [color=yellow][bold]Nanotrasen-Vertreters[/bold][/color] und von CentComm, schütze die Führung und erteile den anderen Praktikanten Befehle.
 
 # cargo bingle
 ghost-role-cargo-bingle-name = Ladungsbinde
