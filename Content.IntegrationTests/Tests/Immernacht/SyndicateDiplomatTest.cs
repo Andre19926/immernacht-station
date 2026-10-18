@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
+using Content.Shared.Roles;
 using Content.Shared.Storage;
 using Content.Shared.Radio.Components;
 using Content.Shared.Store;
@@ -114,6 +115,42 @@ public sealed class SyndicateDiplomatTest
 
             Assert.That(protos.Count(p => p == "Paper"), Is.EqualTo(4));
             server.EntMan.DeleteEntity(briefcase);
+        });
+
+        await pair.CleanReturnAsync();
+    }
+
+    /// <summary>
+    /// Syndikat-Agenten-Spielzeit: Antag-Tracker sind gesetzt, die Anforderung des Diplomaten
+    /// (50h Syndikat-Agent) wird auch ohne Job-Tracker korrekt geprueft.
+    /// </summary>
+    [Test]
+    public async Task SyndicateAgentPlaytimeRequirement()
+    {
+        await using var pair = await PoolManager.GetServerClient();
+        var server = pair.Server;
+
+        await server.WaitAssertion(() =>
+        {
+            foreach (var antag in new[] { "Traitor", "TraitorSleeper", "Nukeops", "NukeopsMedic", "NukeopsCommander", "Contractor" })
+            {
+                var proto = server.ProtoMan.Index<AntagPrototype>(antag);
+                Assert.That(proto.PlayTimeTracker?.Id, Is.EqualTo("AntagSyndicateAgent"), antag);
+            }
+
+            var job = server.ProtoMan.Index<JobPrototype>("SyndicateDiplomat");
+            var req = job.Requirements?.OfType<RoleTimeRequirement>().Single(r => r.Role == "AntagSyndicateAgent");
+            Assert.That(req, Is.Not.Null);
+            Assert.That(req!.Time, Is.EqualTo(TimeSpan.FromHours(50)));
+
+            var none = new Dictionary<string, TimeSpan>();
+            var almost = new Dictionary<string, TimeSpan> { ["AntagSyndicateAgent"] = TimeSpan.FromHours(49) };
+            var enough = new Dictionary<string, TimeSpan> { ["AntagSyndicateAgent"] = TimeSpan.FromHours(50) };
+
+            Assert.That(req.Check(server.EntMan, server.ProtoMan, null, none, out var reason), Is.False);
+            Assert.That(reason, Is.Not.Null);
+            Assert.That(req.Check(server.EntMan, server.ProtoMan, null, almost, out _), Is.False);
+            Assert.That(req.Check(server.EntMan, server.ProtoMan, null, enough, out _), Is.True);
         });
 
         await pair.CleanReturnAsync();
