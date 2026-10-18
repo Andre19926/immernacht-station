@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shop-vendor-balance = Waage: {$points}
+shop-vendor-balance = Guthaben: {$points}
 shop-vendor-stack-suffix = x{$count}
 shop-vendor-flavor-left = Alle Zahlungen sind sicher
 shop-vendor-flavor-right = v1.2

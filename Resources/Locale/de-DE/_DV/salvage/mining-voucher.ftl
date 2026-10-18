@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mining-voucher-select-first = Wähle ein Kit, um zuerst einzulösen!
+mining-voucher-select-first = Wähle zuerst ein Kit zum Einlösen!
 mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} hat keinen Strom!
-mining-voucher-selected = Ausgewählt {$kit}!
+mining-voucher-selected = {$kit} ausgewählt!
 
-mining-voucher-extraction-name = Extrahieren und Rettung Kit
+mining-voucher-extraction-name = Extraktions- und Bergungsset
 mining-voucher-extraction-description =
     Enthält ein Fulton-Leuchtfeuer und 20 Fultons, mit denen du Mineralien senden kannst,
     Gegenstände und Leichen zu Hause, ohne das Mining-Shuttle nutzen zu müssen.
@@ -37,5 +37,5 @@ mining-voucher-combat-description =
     Enthält eine kinetische Machete und einen kinetischen Dolch. Machete hat überlegene Reichweite, so dass du
     kann aus der Ferne angreifst, und Dolch kann in Feinde geworfen werden, um einzubetten und kritischen Schaden zu verursachen.
 
-mining-voucher-medical-name = Medizinisches Kit
+mining-voucher-medical-name = Medizinisches Set
 mining-voucher-medical-description = Enthält je ein medizinisches Kit gegen physischen Schaden und gegen Verbrennungen, dazu einen Überlebens-Medipen.

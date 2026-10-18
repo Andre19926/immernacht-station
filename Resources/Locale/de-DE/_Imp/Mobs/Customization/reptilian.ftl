@@ -114,8 +114,8 @@ marking-LizardLittleHorns-small = Hörner
 marking-TailDropped = Tropfenschwanz
 marking-TailDropped-dropped = Tropfenschwanz
 
-marking-TailGecko = Gecko Schwanz
-marking-TailGecko-gecko1 = Gecko Schwanz
+marking-TailGecko = Geckoschwanz
+marking-TailGecko-gecko1 = Geckoschwanz
 marking-TailGecko-gecko2 = Flecken
 
 marking-TailSnailLizard = Schneckenschale

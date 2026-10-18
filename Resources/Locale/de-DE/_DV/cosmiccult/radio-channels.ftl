@@ -1,1 +1,1 @@
-chat-radio-cosmiccult = Astral Murmel
+chat-radio-cosmiccult = Astralgemurmel

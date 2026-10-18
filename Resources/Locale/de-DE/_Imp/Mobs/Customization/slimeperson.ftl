@@ -7,14 +7,14 @@ marking-fishbowl = Fischschale
 marking-fishbowl-fishbowl1 = Fisch
 marking-fishbowl-fishbowl2 = Fischblasen
 
-marking-SlimeBonechest = Schwimmender Ribcage
-marking-SlimeBonechest-bone = Schwimmender Ribcage
+marking-SlimeBonechest = Schwimmender Brustkorb
+marking-SlimeBonechest-bone = Schwimmender Brustkorb
 
 marking-SlimeCore = Kern
 marking-SlimeCore-core = Kern
 
-marking-SlimeCoreGlowing = Kern (Glowing)
-marking-SlimeCoreGlowing-core = Kern (Glowing)
+marking-SlimeCoreGlowing = Kern (leuchtend)
+marking-SlimeCoreGlowing-core = Kern (leuchtend)
 
 marking-SlimeLungs = Lungen
 marking-SlimeLungs-lungs = Lungen
@@ -54,14 +54,14 @@ marking-SlimeEyeglow-glow = Leuchtende Augen
 marking-SlimeEyesDroopy = Hängende Augen
 marking-SlimeEyesDroopy-droopy = Hängende Augen
 
-marking-SlimeEyesDroopyGlowing = Droopy leuchtende Augen
-marking-SlimeEyesDroopyGlowing-droopyglow = Droopy leuchtende Augen
+marking-SlimeEyesDroopyGlowing = Hängende leuchtende Augen
+marking-SlimeEyesDroopyGlowing-droopyglow = Hängende leuchtende Augen
 
 marking-SlimeEyesCyclops = Zyklopenaugen
 marking-SlimeEyesCyclops-cyclops = Zyklopenaugen
 
-marking-SlimeEyesCyclopsGlowing = Zyklopen leuchtendes Auge
-marking-SlimeEyesCyclopsGlowing-cyclopsglow = Zyklopen leuchtendes Auge
+marking-SlimeEyesCyclopsGlowing = Leuchtendes Zyklopenauge
+marking-SlimeEyesCyclopsGlowing-cyclopsglow = Leuchtendes Zyklopenauge
 
 # RArm
 

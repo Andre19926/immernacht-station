@@ -21,9 +21,9 @@ cosmiccult-vote-steward-briefing =
 
 cosmiccult-finale-autocall-briefing = Das Monument ist fertiggestellt! Versammelt euch, aktiviert sie und bereitet euch auf das Ende vor.
 cosmiccult-finale-ready = Ein schreckliches Licht strömt aus dem Monument hervor!
-cosmiccult-finale-speedup = Das Winken belebt! Energie strömt durch die Umgebung...
+cosmiccult-finale-speedup = Der Ruf wird drängender! Energie durchströmt die Umgebung ...
 
-cosmiccult-finale-degen = Du fühlst dich entwirrend!
+cosmiccult-finale-degen = Du spürst, wie du dich entwirrst!
 cosmiccult-finale-location = Scanner erkennen einen enormen Λ-CDM-Spike {$location}!
 cosmiccult-finale-cancel-begin = Die Willenskraft deines Geistes beginnt, das Ritual zu zerstören ...
 cosmiccult-finale-beckon-begin = Das Flüstern im Hinterkopf intensiviert sich...
@@ -39,7 +39,7 @@ cosmiccult-roundend-cultist-count = {$initialCount ->
     *[other] Es gab {$initialCount} [color=#4cabb3]Kosmische Kultisten[/color].
 }
 cosmiccult-roundend-entropy-count = Der Kult hat {$count} Entropie abgezapft.
-cosmiccult-roundend-cultpop-count = Kultisten erfunden {$count}% der Crew.
+cosmiccult-roundend-cultpop-count = Kultisten machten {$count} % der Crew aus.
 cosmiccult-roundend-monument-stage = {$stage ->
     [1] Ach, das Monument scheint verlassen.
     [2] Das Monument machte Fortschritte, doch die Vollendung blieb außer Reichweite.
@@ -112,7 +112,7 @@ cosmiccult-rift-beginabsorb = Der Riss beginnt mit dir zu verschmelzen...
 cosmiccult-rift-beginpurge = Deine Weihe beginnt, den bösartigen Riss zu beseitigen ...
 
 cosmiccult-rift-absorb = {$NAME} absorbiert den Riss und bösartiges Licht stärkt ihren Körper!
-cosmiccult-rift-purge = {$NAME} Säubert die bösartige Kluft von der Realität!
+cosmiccult-rift-purge = {$NAME} säubert die bösartige Kluft aus der Realität!
 
 
 ## CHANTRY
@@ -151,7 +151,7 @@ cosmiccult-ui-popup-confirm = Bestätigen
 objective-issuer-cosmiccult = [bold][color=#cae8e8]Das Unbekannte[/color][/bold]
 
 objective-cosmiccult-charactermenu = Du musst das Ende aller Dinge einläuten. Erledige deine Aufgaben, um den Fortschritt des Kults voranzutreiben.
-objective-cosmiccult-steward-charactermenu = Du musst den Kult leiten, um das Ende aller Dinge einzuleiten. Beaufsichtigen und sichern dich den Fortschritt des Kults.
+objective-cosmiccult-steward-charactermenu = Du musst den Kult leiten, um das Ende aller Dinge einzuleiten. Beaufsichtige und sichere den Fortschritt des Kults.
 
 objective-condition-conversion-title = KREDITKREW
 objective-condition-conversion-desc = Holt gemeinsam mindestens {$count} Crewmitglieder in die Falte.
@@ -165,7 +165,7 @@ objective-condition-victory-desc = Rufe das Unbekannte herbei und läute den let
 
 ## CHAT ANNOUNCEMENTS
 
-cosmiccult-radio-tier1-progress = Das Denkmal wird zur Station gelockt...
+cosmiccult-radio-tier1-progress = Das Monument wird zur Station gelockt ...
 
 cosmiccult-announce-tier3-progress = Eine beunruhigende Taubheit kribbelt in deinen Sinnen.
 cosmiccult-announce-tier3-warning = Scanner erkennen einen abnormalen Anstieg von Λ-CDM! Melde alle unnatürlichen Phänomene der Sicherheit oder Epistemik.

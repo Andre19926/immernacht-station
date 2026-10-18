@@ -35,11 +35,11 @@ marking-VoxTailStripes-tailstripes = Endstreifen
 
 # Head
 
-marking-ScarsVoxBigslashLeftHead = Big Schnitt (Links)
-marking-ScarsVoxBigslashLeftHead-bigslashleft = Big Schnitt (Links)
+marking-ScarsVoxBigslashLeftHead = Großer Schnitt (links)
+marking-ScarsVoxBigslashLeftHead-bigslashleft = Großer Schnitt (links)
 
-marking-ScarsVoxBigslashRightHead = Big Schnitt (rechts)
-marking-ScarsVoxBigslashRightHead-roadrashright = Big Schnitt (rechts)
+marking-ScarsVoxBigslashRightHead = Großer Schnitt (rechts)
+marking-ScarsVoxBigslashRightHead-roadrashright = Großer Schnitt (rechts)
 
 marking-ScarsVoxRoadrashLeftHead = Road Rash (Links)
 marking-ScarsVoxRoadrashLeftHead-roadrashleft = Road Rash (Links)

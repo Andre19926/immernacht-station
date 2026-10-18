@@ -32,7 +32,7 @@ interaction-MakeSleepOther-success-target-popup = {CAPITALIZE(THE($user))} verse
 interaction-MakeSleepOther-success-others-popup = {CAPITALIZE(THE($user))} versetzt {THE($target)} in den Schlaf.
 
 interaction-ShakeOther-name = Schütteln
-interaction-ShakeOther-description = Schütteln dich das Ziel.
+interaction-ShakeOther-description = Schüttle das Ziel.
 interaction-ShakeOther-fail-self-popup = Du schaffst es irgendwie nicht, {THE($target)} zu schütteln.
 interaction-ShakeOther-fail-target-popup = {CAPITALIZE(THE($user))} schafft es irgendwie nicht, dich zu schütteln.
 interaction-ShakeOther-success-self-popup = Du packst und schüttelst {THE($target)}.

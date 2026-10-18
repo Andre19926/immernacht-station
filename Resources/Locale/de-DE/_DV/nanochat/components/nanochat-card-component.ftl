@@ -12,5 +12,5 @@ nanochat-card-examine-no-number = Der NanoChat-Karte wurde noch keine Nummer zug
 nanochat-card-examine-number = Die NanoChat-Karte zeigt #{$number}.
 
 # Microwave interactions
-nanochat-card-microwave-erased = Die {$card} strahlt einen sanften Piepton aus, während seine gesamte Nachrichtengeschichte in den Äther verschwindet!
-nanochat-card-microwave-scrambled = Die {$card} Knistert, als seine Botschaften zerrissen werden!
+nanochat-card-microwave-erased = {$card} gibt einen leisen Piepton von sich, während der gesamte Nachrichtenverlauf im Äther verschwindet!
+nanochat-card-microwave-scrambled = {$card} knistert, als die Nachrichten zerrissen werden!

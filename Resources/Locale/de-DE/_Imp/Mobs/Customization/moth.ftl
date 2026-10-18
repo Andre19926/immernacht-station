@@ -45,10 +45,10 @@ marking-HeadTwistingMoth = Narbe (gedreht)
 marking-HeadTwistingMoth-twisting = Verdrehte Narbe
 
 marking-MothBurnLeft = Brandnarbe (links)
-marking-MothBurnLeft-burnleft = Burn Scar (links)
+marking-MothBurnLeft-burnleft = Brandnarbe (links)
 
 marking-MothBurnRight = Brandnarbe (rechts)
-marking-MothBurnRight-burnright = Burn Scar (rechts)
+marking-MothBurnRight-burnright = Brandnarbe (rechts)
 
 marking-MothFaceClaw = Krallennarben (Gesicht)
 marking-MothFaceClaw-claw = Krallennarben (Gesicht)

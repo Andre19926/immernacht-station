@@ -6,7 +6,7 @@
 
 drone-active = Eine Wartungsdrohne. Es scheint dir völlig egal zu sein.
 drone-dormant = Eine schlafende Wartungsdrohne. Wer weiß, wann er aufwacht?
-drone-activated = Die Drohne wirbelt zum Leben!
+drone-activated = Die Drohne erwacht zum Leben!
 drone-too-close = Achte auf deine Nähe zu {THE($being)}.
 drone-cant-use-nearby = Diese Handlung könnte {THE($being)} schaden. Deine Programmierung verhindert das.
 drone-cant-use = Diese Handlung könnte der Station oder ihren Bewohnern schaden. Deine Programmierung verhindert das.

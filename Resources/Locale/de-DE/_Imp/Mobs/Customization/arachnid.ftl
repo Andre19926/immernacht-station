@@ -27,16 +27,16 @@ marking-ArachnidEyesDefault = Augen
 marking-ArachnidEyesDefault-eyes = Augen (Standard)
 
 marking-ArachnidEyesJumper = Springeraugen
-marking-ArachnidEyesJumper-jumper1 = Äußeres Recht
-marking-ArachnidEyesJumper-jumper2 = Inneres Recht
-marking-ArachnidEyesJumper-jumper3 = Innere Linke
-marking-ArachnidEyesJumper-jumper4 = Linksaußen
+marking-ArachnidEyesJumper-jumper1 = Außen rechts
+marking-ArachnidEyesJumper-jumper2 = Innen rechts
+marking-ArachnidEyesJumper-jumper3 = Innen links
+marking-ArachnidEyesJumper-jumper4 = Außen links
 
 marking-ArachnidEyesJumperGlowing = Jumper leuchtende Augen
-marking-ArachnidEyesJumperGlowing-jumper1 = Äußeres Recht
-marking-ArachnidEyesJumperGlowing-jumper2 = Inneres Recht
-marking-ArachnidEyesJumperGlowing-jumper3 = Innere Linke
-marking-ArachnidEyesJumperGlowing-jumper4 = Linksaußen
+marking-ArachnidEyesJumperGlowing-jumper1 = Außen rechts
+marking-ArachnidEyesJumperGlowing-jumper2 = Innen rechts
+marking-ArachnidEyesJumperGlowing-jumper3 = Innen links
+marking-ArachnidEyesJumperGlowing-jumper4 = Außen links
 
 marking-ArachnidEyesRound = Rundaugen
 marking-ArachnidEyesRound-round1 = Inneres
@@ -53,7 +53,7 @@ marking-ArachnidEyesRoundGlowing-round4 = Seiten
 marking-SpiderEyesMulti = Mehrfarbige Augen
 marking-SpiderEyesMulti-multi1 = oben
 marking-SpiderEyesMulti-multi2 = Mitte oben
-marking-SpiderEyesMulti-multi3 = mittlerer Boden
+marking-SpiderEyesMulti-multi3 = Mitte unten
 marking-SpiderEyesMulti-multi4 = Boden
 
 marking-SpiderGlowEyes = Leuchtende Augen
@@ -102,7 +102,7 @@ marking-UndershirtBraStraplessA-strapless = Brabra
 marking-UndershirtDefaultA = Unterhemden
 marking-UndershirtDefaultA-undershirt = Unterhemden
 
-marking-UndershirtGrossSleevelessA = Tanktop (Grob)
+marking-UndershirtGrossSleevelessA = Tanktop (grob)
 marking-UndershirtGrossSleevelessA-grosssleeveless = Tankstelle
 
 marking-UndershirtNanotrasenA = Unterhemd (Nanotrasen)

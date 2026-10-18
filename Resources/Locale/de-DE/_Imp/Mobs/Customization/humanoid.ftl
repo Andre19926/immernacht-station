@@ -271,7 +271,7 @@ marking-HumanHairHalfUpShort = Halb hochgesteckt (Kurz)
 
 marking-HumanHairHalfUpLong = Halb hochgesteckt (lang)
 
-marking-HumanHairHalfUpUndercut = Half-Up (Unterschnitt)
+marking-HumanHairHalfUpUndercut = Halb hochgesteckt (Undercut)
 
 marking-HumanHairLowpigtails = Niedrige Zöpfe
 
@@ -281,7 +281,7 @@ marking-HumanHairMidPartLonger = Mittelteil (länger)
 
 marking-HumanHairMulletSideshave = Vokuhila (Seiten rasiert)
 
-marking-HumanHairSpikyPonytailLong = Pferdeschwanz (Spiky Long)
+marking-HumanHairSpikyPonytailLong = Pferdeschwanz (stachelig, lang)
 
 marking-HumanHairUndercutCurly = Undercut (Lockig)
 
@@ -297,7 +297,7 @@ marking-TichelSimple = Tichel (einfach)
 
 marking-HumanHairShaggy = Zottelig
 
-marking-HumanHairShaggyLonger = Shaggy (länger)
+marking-HumanHairShaggyLonger = Zottelig (länger)
 
 marking-HumanHairShaggyMessy = Zottelig (Unordentlich)
 
@@ -313,7 +313,7 @@ marking-HeadEarrings = Ohrringe (klein)
 marking-HeadEarrings-earrings1 = rechter Ohrring
 marking-HeadEarrings-earrings2 = linker Ohrring
 
-marking-HeadEarringsDrop = Ohrringe (Drop)
+marking-HeadEarringsDrop = Ohrringe (Tropfen)
 marking-HeadEarringsDrop-earringsdrop1 = rechter Ohrring
 marking-HeadEarringsDrop-earringsdrop2 = linker Ohrring
 
