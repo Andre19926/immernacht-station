@@ -203,4 +203,10 @@ public sealed partial class CCVars
     /// </summary>
     public static readonly CVarDef<bool> GameAdminJobTracking =
         CVarDef.Create("game.admin_job_tracking", false, CVar.SERVERONLY);
+
+    /// <summary>
+    ///     Komma-getrennte Liste der favorisierten Spielregel-IDs im Event-Panel (nur lokal beim Admin gespeichert).
+    /// </summary>
+    public static readonly CVarDef<string> AdminEventPanelFavorites =
+        CVarDef.Create("admin.event_panel_favorites", string.Empty, CVar.CLIENTONLY | CVar.ARCHIVE);
 }

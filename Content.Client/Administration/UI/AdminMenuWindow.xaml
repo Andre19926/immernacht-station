@@ -10,12 +10,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     xmlns:tabs="clr-namespace:Content.Client.Administration.UI.Tabs"
     xmlns:playerTab="clr-namespace:Content.Client.Administration.UI.Tabs.PlayerTab"
     xmlns:objectsTab="clr-namespace:Content.Client.Administration.UI.Tabs.ObjectsTab"
+    xmlns:eventPanel="clr-namespace:Content.Client.Administration.UI.EventPanel"
     xmlns:panic="clr-namespace:Content.Client.Administration.UI.Tabs.PanicBunkerTab">
     <TabContainer Name="MasterTabContainer">
         <adminTab:AdminTab />
         <adminbusTab:AdminbusTab />
         <atmosTab:AtmosTab />
         <tabs:RoundTab />
+        <eventPanel:EventPanelTab />
         <tabs:ServerTab />
         <panic:PanicBunkerTab Name="PanicBunkerControl" Access="Public" />
         <playerTab:PlayerTab Name="PlayerTabControl" Access="Public" />
