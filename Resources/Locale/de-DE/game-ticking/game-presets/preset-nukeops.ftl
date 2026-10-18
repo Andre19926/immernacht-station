@@ -17,7 +17,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nukeops-title = Atomkommando
+nukeops-title = Atomagenten
 nukeops-description = Atomagenten greifen die Station an. Verhindere, dass sie die Nuke scharf machen und zünden: Beschütze die Atomdiskette!
 
 nukeops-welcome = Du bist ein Atomagent. Dein Ziel ist es, {$station} zu sprengen, bis nur noch ein Trümmerhaufen übrig ist. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung gestellt. | Operation {$name} läuft! Tod für Nanotrasen!
@@ -44,11 +44,11 @@ nukeops-cond-allnukiesalive = Kein Atomagent ist gestorben.
 nukeops-list-start = Die Atomagenten waren:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Das Atomkommando kann nicht gestartet werden.
-nukeops-no-one-ready = Keine Spieler bereit! Das Atomkommando kann nicht gestartet werden.
+nukeops-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Der Atomagenten-Einsatz kann nicht gestartet werden.
+nukeops-no-one-ready = Keine Spieler bereit! Der Atomagenten-Einsatz kann nicht gestartet werden.
 
 nukeops-role-commander = Kommandant
 nukeops-role-agent = Sanitäter
-nukeops-role-operator = Operator
+nukeops-role-operator = Agent
 
 nukeops-roundend-name = ein Atomagent

@@ -50,7 +50,7 @@ uplink-hardsuit-cybersun-dreadnought-desc = Ein wahnsinnig robuster Kampf-Hardsu
 uplink-gondola-name = Gondelkiste
 uplink-gondola-desc = Kiste mit einer Gondel in Standardausführung.
 
-uplink-operative-radio-name = Nuklearer Teleporter
+uplink-operative-radio-name = Atomagenten-Teleporter
 uplink-operative-radio-desc = Ein Radio in Form eines Atomagenten von äußerst fragwürdiger Qualität. Kein Ausschalter. Kauf es, wenn du zum Feiern bereit bist. Er hat die Grundausrüstung eines Atomagenten.
 
 uplink-mobroach-microbomb-name = SyndiRoach-Teleporter

@@ -1,5 +1,5 @@
 loneop-welcome =
-    Du bist ein nuklearer Operative. Dein Ziel ist es, {$station} zu sprengen und dafür zu sorgen, dass nichts als ein Trümmerhaufen übrig bleibt. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung bereitgestellt, nur kein Team.
+    Du bist ein einzelner Atomagent. Dein Ziel ist es, {$station} zu sprengen und dafür zu sorgen, dass nichts als ein Trümmerhaufen übrig bleibt. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung bereitgestellt, nur kein Team.
     Operation {$name} läuft! Viel Glück!
 loneop-briefing = Deine Ziele sind einfach. Bring die Sprengladung ans Ziel und sorge dafür, dass sie detoniert. Mission beginnt.
 

@@ -66,7 +66,7 @@ ntr-executive-cassette-desc = Ein Kassettenspieler, um Melodien zu hören, währ
 # response teams
 
 ntr-executive-ert-sec-name = ERT-Sicherheit rufen
-ntr-executive-ert-sec-desc = Fordere eine Sicherheitseinheit des Notfallteams von Central Command an. Wird bei extremen Bedrohungen wie nuklearen Agenten oder Revolutionen entsandt. Missbrauch hat schwerwiegende Folgen.
+ntr-executive-ert-sec-desc = Fordere eine Sicherheitseinheit des Notfallteams von Central Command an. Wird bei extremen Bedrohungen wie Atomagenten oder Revolutionen entsandt. Missbrauch hat schwerwiegende Folgen.
 
 ntr-executive-ert-med-name = ERT-Medizin rufen
 ntr-executive-ert-med-desc = Fordere eine medizinische Einheit des Notfallteams an. Spezialisiert auf Massenunfälle und Erholung nach der Krise. Nicht für Kampfsituationen ausgerüstet.

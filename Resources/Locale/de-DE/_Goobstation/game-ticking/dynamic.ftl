@@ -20,7 +20,7 @@ dynamic-gamerule-heretic-title = [color=purple]Ketzer[/color]
 dynamic-gamerule-thief-title = [color=gray]Diebe[/color]
 dynamic-gamerule-revolutionary-title = [color=cyan]Revolutionäre[/color]
 dynamic-gamerule-zombies-title = [color=pink]Erstinfektion[/color]
-dynamic-gamerule-nukeops-title = [color=red]Nuklearer Notfall[/color]
+dynamic-gamerule-nukeops-title = [color=red]Atomagenten[/color]
 
 dynamic-gamerule-threat-perrule = {$num} Bedrohung.
 
