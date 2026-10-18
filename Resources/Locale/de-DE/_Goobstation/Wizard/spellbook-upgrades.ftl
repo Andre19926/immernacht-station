@@ -59,7 +59,7 @@ spellbook-upgrade-teleport-name = Teleportation-Verbesserung
 spellbook-upgrade-teleport-desc = Verbessert Teleportation auf maximal Stufe 3!
 
 spellbook-upgrade-the-traps-name = Die Fallen!-Verbesserung
-spellbook-upgrade-the-traps-desc = Verbessert Die Fallen! auf maximal Stufe 5!
+spellbook-upgrade-the-traps-desc = Verbessert Fallen auf höchstens Stufe 5!
 
 spellbook-upgrade-bees-name = Kleinere Bienenbeschwörung-Verbesserung
 spellbook-upgrade-bees-desc = Verbessert Kleinere Bienenbeschwörung auf maximal Stufe 3!

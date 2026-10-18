@@ -19,7 +19,7 @@ slasher-kit-billy = Billy
 slasher-kit-billy-desc = "Oh hey da"
 
 slasher-kit-cult = Kultist
-slasher-kit-cult-desc = Kommt mit einer speziellen Maske. Die eldritch Gottheiten beobachten mit großem Interesse.
+slasher-kit-cult-desc = Kommt mit einer speziellen Maske. Die unheimlichen Gottheiten beobachten mit großem Interesse.
 
 slasher-kit-maintenance = Instandhaltung
 slasher-kit-maintenance-desc = Kommt mit einer Mundharmonika. "Ich frage mich, wo ich das schon einmal gesehen habe?"

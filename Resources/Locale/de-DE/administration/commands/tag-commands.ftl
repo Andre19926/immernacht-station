@@ -14,6 +14,6 @@ removetag-command-description = Entfernt einen Tag von der angegebenen Entität
 removetag-command-help = Verwendung: removetag <entity uid> <tag>
 
 removetag-command-success = Entfernt {$tag} von {$target}.
-removetag-command-fail = konnte nicht entfernt werden {$tag} von {$target}.
+removetag-command-fail = {$tag} konnte nicht von {$target} entfernt werden.
 
 tag-command-arg-tag = Tag

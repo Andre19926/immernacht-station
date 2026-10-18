@@ -1,7 +1,7 @@
-ent-MagazineLightRifleBox = L6 SAW Magazinbox (.30 Gewehr)
+ent-MagazineLightRifleBox = L6 SAW Magazinschachtel (.30 Gewehr)
     .desc = Kiste mit einem 100-Schuss-Gürtel aus verbundenen .30-Gewehrpatronen, wie sie von leichten Maschinengewehren wie dem L6 verwendet werden.
 
-ent-MagazineLightRifleBoxEmpty = L6 SAW Magazinbox (.30 Gewehr beliebig)
+ent-MagazineLightRifleBoxEmpty = L6 SAW Magazinschachtel (.30 Gewehr beliebig)
     .desc = Kiste mit einem 100-Schuss-Gürtel aus verbundenen .30-Gewehrpatronen, wie sie von leichten Maschinengewehren wie dem L6 verwendet werden.
 
 ent-MagazineLightRifle = Magazin (.30 Gewehr)

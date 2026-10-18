@@ -7,7 +7,7 @@ ent-ChemicalSynthesisKit = Chemische Synthesekits
 ent-ThrowingKnivesKit = Wurfmessersatz
     .desc = Ein Satz aus 8 Syndicate-Wurfmessern, perfekt zum Versenken im Körper deiner Opfer.
 
-ent-BoxDeathRattleImplants = Deathratter-Implantatbox
+ent-BoxDeathRattleImplants = Todesröcheln-Implantatbox
     .desc = Sechs Todesröcheln-Implantate für die gesamte Truppe.
 
 ent-CombatBakeryKit = Kampfbäckerei

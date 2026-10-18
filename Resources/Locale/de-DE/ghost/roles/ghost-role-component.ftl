@@ -389,7 +389,7 @@ ghost-role-information-pirate-irs-captain-description = Lenke den Plünderungspr
 ghost-role-information-pirate-irs-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] mit den anderen Piraten.
 
 ghost-role-information-artifact-name = Sentient-Artefakt
-ghost-role-information-artifact-description = Stelle deine eldritch Launen. Aktiviere deine Knoten gewaltsam zum Guten oder zum Bösen.
+ghost-role-information-artifact-description = Setze deine unheimlichen Launen um. Aktiviere deine Knoten gewaltsam zum Guten oder zum Bösen.
 
 ghost-role-information-tomatokiller-name = Tomatenmörder
 ghost-role-information-tomatokiller-description = Diese kleine Tomate wird dem Botaniker für den Rest seines Lebens dienen ... das heißt, ein paar Minuten.

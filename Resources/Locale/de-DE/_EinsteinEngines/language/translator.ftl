@@ -2,7 +2,7 @@ translator-component-shutoff = {$translator} schaltet sich ab.
 translator-component-turnon = {$translator} schaltet sich ein.
 
 translator-implanter-refuse = {$implanter} hat keine Wirkung auf {$target}.
-translator-implanter-success = {$implanter} wurde erfolgreich in {$target} verabreicht.
+translator-implanter-success = {$implanter} wurde {$target} erfolgreich injiziert.
 translator-implanter-ready = Dieser Implantator scheint einsatzbereit zu sein.
 translator-implanter-used = Dieser Implantator scheint leer zu sein.
 

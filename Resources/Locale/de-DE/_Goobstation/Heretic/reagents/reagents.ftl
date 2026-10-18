@@ -3,11 +3,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-eldritch = eldritch Essenz
+reagent-name-eldritch = unheimliche Essenz
 reagent-desc-eldritch = Eine seltsame Flüssigkeit, die sich den Gesetzen der Physik widersetzt. Es belebt und heilt diejenigen, die über diese zerbrechliche Realität hinausblicken können, ist aber für die Verschlossenen unglaublich schädlich.
 
 reagent-comp-condition-heretic-or-ghoul = Ketzer oder Ghoul
 
-reagent-physical-desc-eldritch = Eldritch
+reagent-physical-desc-eldritch = unheimlich
 
 flavor-complex-eldritch = Ag'hsj'saje'sh

@@ -46,7 +46,7 @@ thief-backpack-category-tools-description =
 thief-backpack-category-chemistry-name = Anatomie-Kit
 thief-backpack-category-chemistry-description =
     Du hast die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
-    Umfasst: Storage Implanter, DNA Scrambler Implanter,
+    Umfasst: Lagerimplantator, DNA-Verwürfler-Implantator,
     Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife
 
 thief-backpack-category-syndie-name = Syndie-Set

@@ -10,5 +10,5 @@ nanite-mend-popup = Du spürst eine lebendige Wärme, die sich im ganzen Körper
 
 # BSO and nukie implant
 
-deathrattle-implant-dead-message = {$user} ist gestorben {$position}.
-deathrattle-implant-critical-message = {$user} Lebenszeichen kritisch, sofortige Hilfe erforderlich {$position}.
+deathrattle-implant-dead-message = {$user} ist {$position} gestorben.
+deathrattle-implant-critical-message = Lebenszeichen von {$user} kritisch, sofortige Hilfe erforderlich {$position}.

@@ -163,8 +163,8 @@ uplink-rifle-caseless-mag-desc = Ein Gewehrmagazin mit 30 Schuss, gefüllt mit h
 uplink-pistol-magazine-caseless-saphe-name = Pistolenmagazin (9.5mm SAP-HE)
 uplink-pistol-magazine-caseless-saphe-desc = 10 hülsenlose 9,5-mm-Magnum-Patronen, halbpanzerbrechend und hochexplosiv. Es ist genau das, wonach es klingt. Kompatibel mit der Cobra.
 
-uplink-l6-box-name = Magazinbox (.30 Gewehr)
-uplink-l6-box-desc = Magazinbox mit 100 Patronen. Kompatibel mit dem L6 SAW.
+uplink-l6-box-name = Magazinschachtel (.30 Gewehr)
+uplink-l6-box-desc = Magazinschachtel mit 100 Patronen. Kompatibel mit dem L6 SAW.
 
 uplink-shotgun-magazine-name = Schrotflintentrommel (12 Gauge Schrot)
 uplink-shotgun-magazine-desc = Schrotflintentrommel mit 8 Schrotpatronen. Kompatibel mit dem Bulldog.
@@ -178,8 +178,8 @@ uplink-high-caliber-magazine-desc = Schweres Gewehrmagazin mit 15 Patronen. Komp
 uplink-high-caliber-explosive-magazine-name = Gewehrmagazin (.50 HEI)
 uplink-high-caliber-explosive-magazine-desc = Schweres Gewehrmagazin mit 15 hochexplosiven Brandpatronen. Kompatibel mit dem Burner.
 
-uplink-high-caliber-box-name = .50 Munitionsbox
-uplink-high-caliber-box-desc = Eine Box mit 30,50 Kaliber Anti-Materialien-Runden.
+uplink-high-caliber-box-name = .50 Munitionsschachtel
+uplink-high-caliber-box-desc = Eine Schachtel mit 30 Patronen im Kaliber .50 für Antimaterialgewehre.
 
 uplink-highcap-pistol-mag-name = Hochkapazitäts-Pistolenmagazin (.35 Auto)
 uplink-highcap-pistol-mag-desc = Das Pistolenmagazin mit hoher Kapazität enthält 4 zusätzliche Kugeln für insgesamt 16 Patronen.
@@ -199,16 +199,16 @@ uplink-cartridge-G8-demolishing-desc = Diese Patrone feuert das Geschoss "The Sp
 uplink-cartridge-G8-hypercharged-name = G8-Hyperladungspatrone
 uplink-cartridge-G8-hypercharged-desc = Diese Patrone feuert das Geschoss "The Bolt of Zeus" ab, schockt alle auf ihrem Weg und erzeugt an ihrem Zielpunkt einen Energiewirbel, der bei Überladung eine massive Explosion auslöst. Verwendet von HE1S-G8.
 
-uplink-high-caliber-shotgun-box-name = 8-Gauge-Munitionsbox
+uplink-high-caliber-shotgun-box-name = 8-Gauge-Munitionsschachtel
 uplink-high-caliber-shotgun-box-desc = 16 Patronen 8 Gauge für die Kampfflinte.
 
-uplink-high-caliber-shotgun-box-slug-name = 8-Gauge-Slug-Box
+uplink-high-caliber-shotgun-box-slug-name = 8-Gauge-Slug-Schachtel
 uplink-high-caliber-shotgun-box-slug-desc = 16 Slug-Patronen 8 Gauge für die Kampfflinte.
 
-uplink-high-caliber-shotgun-box-flash-slug-name = 8-Gauge-Blendpatronen-Box
+uplink-high-caliber-shotgun-box-flash-slug-name = 8-Gauge-Blendpatronen-Schachtel
 uplink-high-caliber-shotgun-box-flash-slug-desc = 16 Blendpatronen 8 Gauge für die Kampfflinte. Wirkungslos gegen Blendschutz.
 
-uplink-high-caliber-shotgun-box-sarin-name = 8-Gauge-Sarin-Gaspatronen-Box
+uplink-high-caliber-shotgun-box-sarin-name = 8-Gauge-Sarin-Gaspatronen-Schachtel
 uplink-high-caliber-shotgun-box-sarin-desc = 16 Sarin-Patronen 8 Gauge für die Kampfflinte, die eine kleine plusförmige Sarin-Gaswolke freisetzen.
 
 uplink-estoc-ammo-name = Gewehrmagazin (.30 Gewehr)
@@ -241,7 +241,7 @@ uplink-mech-teleporter-assault-desc = Enthält einen leicht gepanzerten Cybersun
 
 # Chemicals
 
-uplink-lollypop-bundle-name = Donk-Co.-Lutscherbox
+uplink-lollypop-bundle-name = Donk-Co.-Lutscherschachtel
 uplink-lollypop-bundle-desc = Enthält 9 völlig zufällige Lollypops. Was könnten sie enthalten?
 
 uplink-lollypop-bundle-big-name = Donk-Co.-Süßigkeitenpaket
@@ -372,8 +372,8 @@ uplink-cddisksyndicate-desc = 102.9 Syndicate Radio
 uplink-cddisknumber-name = Nummer Station CD
 uplink-cddisknumber-desc = Rufe eine Drohung an, um die Station abzulenken... viel Glück beim Spielen der ganzen Sache.
 
-uplink-box-xenobio-name = Xenobiology Slimes Box
-uplink-box-xenobio-desc = Schleime für deine Xenobiologie Bedürfnisse. Enthält 9 zufällige T1-Schleime.
+uplink-box-xenobio-name = Xenobiologie-Schleimbox
+uplink-box-xenobio-desc = Schleime für deine xenobiologischen Bedürfnisse. Enthält 9 zufällige T1-Schleime.
 
 # Contractor
 

@@ -46,7 +46,7 @@ ent-MacroBombImplant = Makrobombenimplantat
 ent-DeathAcidifierImplant = Death Acidifier Implantat
     .desc = Dieses Implantat schmilzt den Benutzer und seine Ausrüstung nach dem Tod.
 
-ent-DeathRattleImplant = Todesratternimplantat
+ent-DeathRattleImplant = Todesröcheln-Implantat
     .desc = Dieses Implantat informiert den Syndicate-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.
 
 ent-FakeMindShieldImplant = Fake Mindshield Implantat
@@ -58,5 +58,5 @@ ent-MindShieldImplant = Mindshield-Implantat
 ent-RadioImplantCentcomm = Radioimplantat
     .desc = Dieses Implantat gewährt Zugriff auf den CentComm-Kanal ohne Headset. Nur für CentComm-Mitarbeiter autorisiert.
 
-ent-DeathRattleImplantCentcomm = Centcomm-Todesrasseln-Implantat
+ent-DeathRattleImplantCentcomm = CentComm-Todesröcheln-Implantat
     .desc = Dieses Implantat informiert den CentComm-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.

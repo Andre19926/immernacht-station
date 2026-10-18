@@ -14,7 +14,7 @@ selectable-set-no-russian-description =
     Denke daran, kein Russe.
     Enthält: schwarze Anwaltsklage, Brust-Rig, Syndicate-Sonnenbrille,
     Syndicate-Verschlüsselungsschlüssel, L6 SAW und
-    eine L6 SAW Magazinbox.
+    eine L6 SAW Magazinschachtel.
 
 selectable-set-syndicate-pirate-captain-name = Syndicate-Piratenkapitän-Paket
 selectable-set-syndicate-pirate-captain-description =

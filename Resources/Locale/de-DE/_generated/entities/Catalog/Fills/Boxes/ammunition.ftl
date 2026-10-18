@@ -1,4 +1,4 @@
-ent-BoxMagazine = Magazinbox
+ent-BoxMagazine = Magazinschachtel
     .desc = Eine Schachtel voller Magazine.
 
 ent-BoxMagazinePistolCaselessRifle = Schachtel mit 9,5-mm-HP-Magazinen

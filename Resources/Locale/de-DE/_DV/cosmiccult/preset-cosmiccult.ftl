@@ -154,9 +154,9 @@ objective-cosmiccult-charactermenu = Du musst das Ende aller Dinge einläuten. E
 objective-cosmiccult-steward-charactermenu = Du musst den Kult leiten, um das Ende aller Dinge einzuleiten. Beaufsichtigen und sichern dich den Fortschritt des Kults.
 
 objective-condition-conversion-title = KREDITKREW
-objective-condition-conversion-desc = Gemeinsam mindestens {$count} Crew in die Falte.
+objective-condition-conversion-desc = Holt gemeinsam mindestens {$count} Crewmitglieder in die Falte.
 objective-condition-entropy-title = SIPHONENENTROPIE
-objective-condition-entropy-desc = kollektiv mindestens siphon {$count} Entropie von der Crew.
+objective-condition-entropy-desc = Zapft gemeinsam mindestens {$count} Entropie von der Crew ab.
 objective-condition-culttier-title = DAS MONUMENT ERMÄCHTIGEN
 objective-condition-culttier-desc = Stelle sicher, dass das Monument zur vollen Macht gebracht wird.
 objective-condition-victory-title = VERWENDUNG

@@ -11,7 +11,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ent-SpawnPointGhostBlob = Blob-Spawn
-    .suffix = DEBUG, Ghost Role Spawner
+    .suffix = DEBUG, Geisterrollen-Spawner
     .desc = { ent-MarkerBase.desc }
 ent-MobBlobPod = Blob-Pod
     .desc = Ein gewöhnlicher Blob-Kämpfer.

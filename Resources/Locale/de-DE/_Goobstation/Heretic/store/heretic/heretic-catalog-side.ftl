@@ -34,22 +34,22 @@ knowledge-path-side-s3-armor-name = Ritual des Rüstungsschmieds
 knowledge-path-side-s3-armor-desc =
     Die Rostigen Hügel hießen den Schmied in ihrer Großzügigkeit willkommen. Und der Schmied erwiderte ihre Großzügigkeit in gleicher Weise.
 
-    Ermöglicht dir, einen Tisch und eine Gasmaske zu Eldritch-Rüstung zu transmutieren.
-    Die Eldritch-Rüstung bietet großen Schutz und dient bei aufgesetzter Kapuze zugleich als Fokus.
+    Ermöglicht dir, einen Tisch und eine Gasmaske zu unheimlicher Rüstung zu transmutieren.
+    Die unheimliche Rüstung bietet großen Schutz und dient bei aufgesetzter Kapuze zugleich als Fokus.
 
 knowledge-path-side-s3-flask-name = Ritual des Priesters
 knowledge-path-side-s3-flask-desc =
     Das ist ein altes Rezept. Die Eule flüsterte es mir zu. Vom Priester geschaffen – die Flüssigkeit, die beides war und nicht ist.
 
-    Ermöglicht dir, einen Wassertank und eine Glasscherbe in eine Eldritch-Flasche zu verwandeln.
-    Eldritch-Wasser kann für starke Heilung getrunken werden.
+    Ermöglicht dir, einen Wassertank und eine Glasscherbe in eine unheimliche Flasche zu verwandeln.
+    Unheimliches Wasser kann für starke Heilung getrunken werden.
 
 knowledge-path-side-s3-ashen-eyes-name = Aschenaugen
 knowledge-path-side-s3-ashen-eyes-desc =
     Durchdringende Augen führten sie durch das Banale. Weder Dunkelheit noch Schrecken konnten sie aufhalten.
 
-    Ermöglicht dir, ein Paar Augen, eine Fackel und eine Glasscherbe in ein Eldritch-Medaillon zu verwandeln.
-    Das Eldritch-Medaillon gewährt dir Wärmesicht, solange du es trägst, und dient auch als Fokus.
+    Ermöglicht dir, ein Paar Augen, eine Fackel und eine Glasscherbe in ein unheimliches Medaillon zu verwandeln.
+    Das unheimliche Medaillon gewährt dir Wärmesicht, solange du es trägst, und dient auch als Fokus.
 
 knowledge-path-side-s3-void-cloak-name = Leermantel
 knowledge-path-side-s3-void-cloak-desc =
@@ -122,11 +122,11 @@ knowledge-path-side-s8-cleave-desc =
     Gewährt dir Blutspalt, einen gezielten Flächenzauber, der bei jedem Betroffenen schwere Blutungen und Blutverlust verursacht.
 
 ## stage 9
-knowledge-path-side-s9-coin-name = Eldritch-Münze
+knowledge-path-side-s9-coin-name = Unheimliche Münze
 knowledge-path-side-s9-coin-desc =
     Der Mansus ist ein Ort aller Arten von Sünden. Doch der Gier kam eine besondere Rolle zu.
 
-    Transmutiere ein Plasmablech, einen Diamanten und Augen zu einer Eldritch-Münze.
+    Transmutiere ein Plasmablech, einen Diamanten und Augen zu einer unheimlichen Münze.
     Landet die Münze auf Kopf, öffnet sie nahe gelegene Luftschleusen; landet sie auf Zahl, verriegelt sie diese.
     Wird sie an einer Luftschleuse benutzt, wird die Münze verbraucht und die Luftschleuse dauerhaft geöffnet.
     Versucht ein Nicht-Ketzer, die Münze zu werfen oder zu benutzen, verursacht sie je nach Seite, auf der sie landet, physischen Schaden und/oder Verbrennungen.

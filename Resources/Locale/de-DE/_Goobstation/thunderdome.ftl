@@ -31,8 +31,8 @@ thunderdome-loadout-capo = Capoeira
 thunderdome-loadout-mosin = Kardaschew-Mosin
 
 # Weapon descriptions (tooltips)
-thunderdome-desc-shotgun = Pumpschrotflinte + 1 Box Buckshot, 1 Box Slugs
-thunderdome-desc-doublebarreled = Break-Aktion 2-Schuss + 2 Boxen Buckshot
+thunderdome-desc-shotgun = Pumpschrotflinte + 1 Schachtel Rehposten, 1 Schachtel Slugs
+thunderdome-desc-doublebarreled = Kipplaufwaffe, 2 Schuss + 2 Schachteln Rehposten
 thunderdome-desc-smg = SMG + 2 Ersatzmagazine
 thunderdome-desc-wt550 = Bestgefütterte SMG + 2 Ersatzmagazine
 thunderdome-desc-lecter = Gewehr + 2 Standardmagne, 1 Brandmagne

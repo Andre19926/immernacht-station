@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 rage-quit-notify = {$player} Wut hat den Server verlassen.
-rage-quit-notify-discord = rund {$round}@{$time}: {$player} Wut hat den Server verlassen.
+rage-quit-notify-discord = Runde {$round}@{$time}: {$player} hat vor Wut den Server verlassen.

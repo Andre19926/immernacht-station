@@ -35,7 +35,7 @@ ent-MobAncientLegs = ???
     .desc = Was zum Teufel ist das?
 
 ent-MobSkeletonGoonLesser = Schadskelett
-    .desc = Ein feindliches Skelett, das von einem Wraith beschworen wird.
+    .desc = Ein feindliches Skelett, das von einem Phantomgeist beschworen wird.
 
 ent-MobSkeletonGoonWraith = Schadskelett
     .desc = Ein feindliches Skelett, beschworen von einem Phantomgeist.

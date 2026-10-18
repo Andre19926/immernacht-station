@@ -43,7 +43,7 @@ knowledge-path-lock-s3-name = Bürde des Schlüsselhüters
 knowledge-path-lock-s3-desc =
     Der Hüter höhnte. Diese Plastikrechtecke sind eine Verhöhnung von Schlüsseln, und ich verfluche jede Tür, die nach ihnen verlangt.
 
-    Ermöglicht dir, mit deinem Mansus-Griff eine ID-Karte in eine Eldritch-Karte zu verwandeln.
+    Ermöglicht dir, mit deinem Mansus-Griff eine ID-Karte in eine unheimliche Karte zu verwandeln.
     Schlage damit auf zwei Luftschleusen, um ein Portalpaar zu erschaffen, das dich zwischen ihnen teleportiert; Nicht-Ketzer werden dagegen zufällig teleportiert.
     Jede Karte kann immer nur ein Portalpaar aufrechterhalten.
     Sie funktioniert auch als normale ID-Karte und sieht genauso aus.
@@ -90,4 +90,4 @@ knowledge-path-lock-s10-desc =
     Das Aufstiegsritual des Pfades des Schlosses.
     Bringe 3 Leichen, denen alle Organe im Rumpf fehlen, zu einer Transmutationsrune, um das Ritual abzuschließen.
     Nach Abschluss öffnest du einen Riss im Herzen des Labyrinths; an der Stelle des Rituals klafft ein Riss in der Wirklichkeit.
-    Aus diesem Riss strömen endlos Eldritch-Kreaturen, die an deine Anweisungen gebunden sind.
+    Aus diesem Riss strömen endlos unheimliche Kreaturen, die an deine Anweisungen gebunden sind.

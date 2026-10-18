@@ -11,7 +11,7 @@ cosmic-examine-text-chantry = [color=#4cabb3]Du bekommst das schreckliche Gefüh
 cosmic-examine-text-effigy = [color=#4cabb3]Es strahlt instabile anomale Energie aus![/color]
 cosmic-examine-text-god = [color=#4cabb3]Das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende ist das Ende[/color]
 cosmic-examine-text-subtle-mark = [color=#4cabb3]Anderswortlich schweben Energien in ihren Augen![/color]
-cosmic-examine-text-injector = [color=#4cabb3]du hast das Gefühl, dies in sich selbst zu injizieren, wäre deine letzte schlechte Idee.[/color]
+cosmic-examine-text-injector = [color=#4cabb3]Dir ist, als wäre es deine letzte schlechte Idee, dir das zu injizieren.[/color]
 
 ## CULTIST EXAMINES
 cosmic-examine-text-forthecult = [color=#4cabb3]Das ist unser Tun. So wie es sein sollte.[/color]

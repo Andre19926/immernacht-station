@@ -1,4 +1,4 @@
-lathe-recipe-BaseTranslatorImplanter-name = Translatorimplantat
+lathe-recipe-BaseTranslatorImplanter-name = Übersetzer-Implantator
 
 lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = Gemeinsames Translationsimplantat
 lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = Erweitertes Common-Translatorimplantat

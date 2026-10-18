@@ -24,7 +24,7 @@ mining-voucher-resonator-description =
 
 mining-voucher-survival-name = Überlebensset
 mining-voucher-survival-description =
-    Enthält ein Lavaland Death Rattle Implanter und eine Ersatzkapsel
+    Enthält einen Lavaland-Todesröcheln-Implantator und eine Ersatzkapsel
     damit zu gehen. Du stirbst heute nicht!
 
 mining-voucher-minebot-name = Minebot-Set

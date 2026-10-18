@@ -26,7 +26,7 @@ ent-BedsheetCosmos = Kosmos Bettlaken
     .desc = Geschaffen aus den Träumen derer, die über die Sterne staunen.
 
 ent-BedsheetCult = Kult Bettlaken
-    .desc = Du könntest von Nar'Sie träumen, wenn du damit schläfst. Es scheint eher zerfetzt und leuchtet von einer eldritch Präsenz.
+    .desc = Du könntest von Nar'Sie träumen, wenn du damit schläfst. Es scheint eher zerfetzt und leuchtet von einer unheimlichen Präsenz.
 
 ent-BedsheetGreen = Grünes Bettlaken
     .desc = Ein überraschend weiches Bettlaken.

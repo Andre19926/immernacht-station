@@ -133,7 +133,7 @@ uplink-gloves-north-star-name = Handschuhe des Nordsterns
 uplink-gloves-north-star-desc = Ein Paar Handschuhe, die deine Abklingzeit drastisch reduzieren und es dir ermöglichen, Menschen in einer Flut von Schlägen zu Tode zu schlagen.
 
 uplink-hushpup-name = Hushpupfer
-uplink-hushpup-desc = Eine kraftvolle schweigende Schrotflinte mit einer geringen Magazinkapazität. Kommt mit einer Ersatzbox mit Buckshot. Verwendet .50 Schrotflinte Munition.
+uplink-hushpup-desc = Eine kraftvolle schweigende Schrotflinte mit einer geringen Magazinkapazität. Kommt mit einer Ersatzschachtel Rehposten. Verwendet Schrotflintenmunition im Kaliber .50.
 
 # Explosives
 uplink-explosive-grenade-name = Sprenggranate
@@ -207,7 +207,7 @@ uplink-speedloader-magnu-desc = Revolver-Schnelllader mit 6 panzerbrechenden Pat
 uplink-mosin-ammo-name = Munitionskasten (.30 Gewehr)
 uplink-mosin-ammo-desc = Eine Schachtel mit 60 Patronen für das überschüssige Gewehr.
 
-uplink-sniper-ammo-name = Munitionsbox (.60 Antimateriel)
+uplink-sniper-ammo-name = Munitionsschachtel (.60 Antimateriel)
 uplink-sniper-ammo-desc = Eine Schachtel mit 10 Patronen für das Scharfschützengewehr von Hristov.
 
 # Utility
@@ -253,7 +253,7 @@ uplink-reinforcement-radio-cyborg-assault-name = Syndicate Angriff Cyborg Telepo
 uplink-reinforcement-radio-cyborg-assault-desc =  Eine schlanke, gemeine Tötungsmaschine mit Zugang zu einem Energy Sword, LMG, Cryptographic Sequencer und einem Pinpointer.
 
 uplink-stealth-box-name = Tarnkiste
-uplink-stealth-box-desc = Eine Box mit Stealth-Technologie. Neige unbemerkt herum, aber bewege dich nicht zu schnell oder du wirst offenbart werden!
+uplink-stealth-box-desc = Eine Kiste mit Tarntechnologie. Schleiche unbemerkt umher, aber bewege dich nicht zu schnell, sonst fliegst du auf!
 
 uplink-headset-name = Syndicate Over-Ear Headset
 uplink-headset-desc = Ein Headset, mit dem du mit anderen Syndicate-Mitarbeitern kommunizieren kannst. Hat 4 Slots für Verschlüsselungsschlüssel.
@@ -307,8 +307,8 @@ uplink-macro-bomb-implanter-desc = Injiziere dies und beim Tod werden dich eine 
 uplink-uplink-implanter-name = Uplink-Implantat
 uplink-uplink-implanter-desc = Bestelle heimlich Ausrüstung ohne die Notwendigkeit eines PDA. Schlucke Telekristalle, um den Uplink aufzufüllen.
 
-uplink-deathrattle-implant-name = Box mit Deathrattle-Implantaten
-uplink-deathrattle-implant-desc = Eine Kiste mit genug Deathrattle-Implantaten für den ganzen Trupp. Sendet eine Nachricht mit deiner Position an den Syndicate-Kanal, wenn du in einen kritischen Zustand gerätst oder stirbst.
+uplink-deathrattle-implant-name = Schachtel mit Todesröcheln-Implantaten
+uplink-deathrattle-implant-desc = Eine Schachtel mit genug Todesröcheln-Implantaten für den ganzen Trupp. Sendet eine Nachricht mit deiner Position an den Syndicate-Kanal, wenn du in einen kritischen Zustand gerätst oder stirbst.
 
 uplink-death-acidifier-implant-name = Death Acidifier Implantat
 uplink-death-acidifier-implant-desc = Schmilzt den Benutzer und seine Ausrüstung bei Gebrauch oder Tod vollständig.
@@ -342,7 +342,7 @@ uplink-meds-bundle-name = Interdyne-Medizinpaket
 uplink-meds-bundle-desc = Eine Auswahl an Autoinjektoren und erstklassigen medizinischen Geräten, die für jede mögliche Situation geeignet sind. Enthält einen Elite-Kompaktdefibrillator, der als Waffe verwendet werden kann.
 
 uplink-ammo-bundle-name = Munitionsbündel
-uplink-ammo-bundle-desc = Nachladen! Enthält 4 Magazine für die C-20r, 4 Trommeln für die Bulldogge, 3 Magazine für die Estoc DMR und 2 Munitionsboxen für die L6 SAW.
+uplink-ammo-bundle-desc = Nachladen! Enthält 4 Magazine für die C-20r, 4 Trommeln für die Bulldogge, 3 Magazine für die Estoc DMR und 2 Munitionsschachteln für die L6 SAW.
 
 uplink-sniper-bundle-name = Scharfschützen-Paket
 uplink-sniper-bundle-desc = Eine unauffällige Aktentasche, die einen Hristov, 15 Ersatzkugeln und eine bequeme Verkleidung enthält.
@@ -504,7 +504,7 @@ uplink-syndicate-segway-crate-name = Syndicate-Segway
 uplink-syndicate-segway-crate-desc = Sei ein Feind des Konzerns, mit Stil!
 
 uplink-syndicate-sponge-box-name = Syndicate-Schwammbox
-uplink-syndicate-sponge-box-desc = Eine Box mit 6 Syndicate-Chwämmen, die als Affenwürfel verkleidet sind, verwandeln sich nach dem Kontakt mit Wasser in eine Vielzahl wütender Wildtiere.
+uplink-syndicate-sponge-box-desc = Eine Schachtel mit 6 Syndicate-Schwämmen, die als Affenwürfel getarnt sind und sich bei Kontakt mit Wasser in eine Vielzahl wütender Wildtiere verwandeln.
 
 uplink-slipocalypse-clustersoap-name = Slipokalypse Clusterseife
 uplink-slipocalypse-clustersoap-desc = Streut kleine Stücke von Syndicate-Markenseife nach dem Werfen, diese Seifenstücke verdunsten nach 60 Sekunden.
@@ -582,8 +582,8 @@ uplink-business-card-desc = Eine Visitenkarte, die du jemandem geben kannst, um 
 uplink-fake-mindshield-name = Gefälschter Mindshield
 uplink-fake-mindshield-desc = Ein togglierbares Implantat, das in der Lage ist, die gleichen Übertragungen nachzuahmen, die ein echter Mindshield beim Einschalten auslöst, und das fähige Heads-up-Displays dazu bringt, zu denken, dass du einen Mindshield hast (Nanotrasen-Markenimplanter ist nicht vorgesehen.)
 
-uplink-contraband-lighter-name = Schmuggelfeuerzeug-Box
-uplink-contraband-lighter-desc = Eine Mystery Box enthält garantiert ein Syndicate-Feuerzeug. Kein Kraftstoff erforderlich
+uplink-contraband-lighter-name = Schmuggelfeuerzeug-Schachtel
+uplink-contraband-lighter-desc = Eine Überraschungsschachtel, die garantiert ein Syndicate-Feuerzeug enthält. Kein Kraftstoff erforderlich
 
 uplink-smuggler-satchel-name = Schmuggler-Umhängetasche
 uplink-smuggler-satchel-desc = Eine handliche, verdächtig aussehende Umhängetasche. Nur flach genug, um unter Bodenfliesen zu passen.

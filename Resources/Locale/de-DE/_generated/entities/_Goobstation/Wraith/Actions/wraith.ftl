@@ -2,7 +2,7 @@ ent-ActionToggleGhostHearingWraith = Geisterhören umschalten
     .desc = Wechsle zwischen dem Hören aller Nachrichten und dem Hören von nur Funk- und Nahnachrichten.
 
 ent-ActionHaunt = Spuken
-    .desc = Werde für 30 Sekunden körperlich. In dieser Zeit erhältst du zusätzliche Wraith-Punkte, abhängig von der Anzahl der Menschen in deiner Nähe. Benutze die Fähigkeit erneut, solange du körperlich bist, um in den Äther zurückzukehren.
+    .desc = Werde für 30 Sekunden körperlich. In dieser Zeit erhältst du zusätzliche Phantompunkte, abhängig von der Anzahl der Menschen in deiner Nähe. Benutze die Fähigkeit erneut, solange du körperlich bist, um in den Äther zurückzukehren.
 
 ent-ActionWraithWhisper = Ätherisches Flüstern
     .desc = Sende eine ätherische Botschaft an ein Lebewesen.

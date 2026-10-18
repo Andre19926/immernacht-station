@@ -64,7 +64,7 @@ heretic-ritual-side-armor = Ritual des Rüstungsschmieds
 heretic-ritual-side-water = Ritual des Priesters
 heretic-ritual-side-knife = Schneidmesser
 heretic-ritual-side-crucible = Schlund-Schmelztiegel
-heretic-ritual-side-coin = Eldritch-Münze
+heretic-ritual-side-coin = Unheimliche Münze
 
 ## ash path
 heretic-ritual-ash-blade = Geheimnis des Nachtwächters

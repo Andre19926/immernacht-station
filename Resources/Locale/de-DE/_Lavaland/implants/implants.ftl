@@ -1,1 +1,1 @@
-shop-listing-deathrattle-implant-lavaland = Lavaland Death Rattle Implantation
+shop-listing-deathrattle-implant-lavaland = Lavaland-Todesröcheln-Implantator
