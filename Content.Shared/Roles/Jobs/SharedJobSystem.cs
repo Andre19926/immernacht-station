@@ -58,6 +58,15 @@ public abstract partial class SharedJobSystem : EntitySystem
     }
 
     /// <summary>
+    /// Tries to get the job prototype for a <see cref="PlayTimeTrackerPrototype"/>.
+    /// Returns false for trackers that don't belong to a job (e.g. antag trackers).
+    /// </summary>
+    public bool TryGetJobPrototype(string trackerProto, [NotNullWhen(true)] out string? jobProto)
+    {
+        return _inverseTrackerLookup.TryGetValue(trackerProto, out jobProto);
+    }
+
+    /// <summary>
     /// Tries to get the first corresponding department for this job prototype.
     /// </summary>
     public bool TryGetDepartment(string jobProto, [NotNullWhen(true)] out DepartmentPrototype? departmentPrototype)

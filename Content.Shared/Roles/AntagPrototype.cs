@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared.Guidebook;
+using Content.Shared.Players.PlayTimeTracking;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
 
@@ -51,6 +52,13 @@ public sealed partial class AntagPrototype : IPrototype
     /// </summary>
     [DataField, Access(typeof(SharedRoleSystem), Other = AccessPermissions.None)]
     public HashSet<JobRequirement>? Requirements;
+
+    /// <summary>
+    ///     Optional play time tracker that counts the time a player spends in this antag role.
+    ///     Can be used in <see cref="RoleTimeRequirement"/>. Time is only counted from when the tracker was added.
+    /// </summary>
+    [DataField]
+    public ProtoId<PlayTimeTrackerPrototype>? PlayTimeTracker;
 
     /// <summary>
     /// Optional list of guides associated with this antag. If the guides are opened, the first entry in this list

@@ -45,13 +45,25 @@ public sealed partial class RoleTimeRequirement : JobRequirement
         if (!entManager.EntitySysManager.TryGetEntitySystem(out SharedJobSystem? jobSystem))
             return false;
 
-        var jobProto = jobSystem.GetJobPrototype(proto);
+        string roleName;
 
-        if (jobSystem.TryGetDepartment(jobProto, out var departmentProto))
-            departmentColor = departmentProto.Color;
+        if (jobSystem.TryGetJobPrototype(proto, out var jobProto))
+        {
+            if (jobSystem.TryGetDepartment(jobProto, out var departmentProto))
+                departmentColor = departmentProto.Color;
 
-        if (!protoManager.TryIndex<JobPrototype>(jobProto, out var indexedJob))
-            return false;
+            if (!protoManager.TryIndex<JobPrototype>(jobProto, out var indexedJob))
+                return false;
+
+            roleName = indexedJob.LocalizedName;
+        }
+        else
+        {
+            // Immernacht: tracker without a job, e.g. an antag tracker. Name comes from "play-time-tracker-<id>".
+            var locId = $"play-time-tracker-{proto}";
+            roleName = Loc.TryGetString(locId, out var locName) ? locName : proto;
+            departmentColor = AntagPrototype.GroupColor;
+        }
 
         if (!Inverted)
         {
@@ -61,7 +73,7 @@ public sealed partial class RoleTimeRequirement : JobRequirement
             reason = FormattedMessage.FromMarkupPermissive(Loc.GetString(
                 "role-timer-role-insufficient",
                 ("time", formattedRoleDiff),
-                ("job", indexedJob.LocalizedName),
+                ("job", roleName),
                 ("departmentColor", departmentColor.ToHex())));
             return false;
         }
@@ -71,7 +83,7 @@ public sealed partial class RoleTimeRequirement : JobRequirement
             reason = FormattedMessage.FromMarkupPermissive(Loc.GetString(
                 "role-timer-role-too-high",
                 ("time", formattedRoleDiff),
-                ("job", indexedJob.LocalizedName),
+                ("job", roleName),
                 ("departmentColor", departmentColor.ToHex())));
             return false;
         }
