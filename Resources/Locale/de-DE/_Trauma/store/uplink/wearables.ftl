@@ -1,4 +1,4 @@
-uplink-chameleon-armor-name = Chamäleon Panzerweste
+uplink-chameleon-armor-name = Chamäleon-Panzerweste
 uplink-chameleon-armor-desc = Eine Chamäleonweste, die moderaten Schutz gegen die meisten Formen der Sicherheitsbrutalität bietet. Beachte, dass der Schutz durch gründliche Untersuchung nachweisbar ist.
 
 uplink-slayer-coat-name = S.L.A.Y.E.R. Überzug

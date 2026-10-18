@@ -1,1 +1,1 @@
-objective-condition-teach-lesson-title = Lehren {$targetName}, {CAPITALIZE($job)} eine Lektion
+objective-condition-teach-lesson-title = Erteile {$targetName}, {CAPITALIZE($job)}, eine Lektion

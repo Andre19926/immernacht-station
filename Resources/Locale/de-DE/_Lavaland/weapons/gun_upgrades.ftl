@@ -7,15 +7,15 @@
 upgradeable-gun-popup-upgrade-limit = Maximale Kapazität für Upgrades überschritten!
 upgradeable-gun-slot-name = Befestigungsschlitz {$value}
 upgradeable-gun-total-remaining-capacity = Restkapazität insgesamt: {$value}
-gun-upgrade-capacity-cost = Erforderlich {$value} Kapazität.
+gun-upgrade-capacity-cost = Benötigt {$value} Kapazität.
 
 # Text that is shown when examining a gun with inserted upgrades
-gun-upgrade-inserted-examine-type-contains = Enthält a {$name} Upgrade.
-gun-upgrade-inserted-examine-type-attached = Hat eine beigefügte {$name} auf seiner Seite.
+gun-upgrade-inserted-examine-type-contains = Enthält ein Upgrade: {$name}.
+gun-upgrade-inserted-examine-type-attached = Hat seitlich ein {$name} angebracht.
 
 # Text that is shown when examining an upgrade
-gun-upgrade-examine-type-upgrade = Es ist ein {$name} Upgrade.
-gun-upgrade-examine-type-can-use = Kann als ein {$name} Upgrade.
+gun-upgrade-examine-type-upgrade = Es ist ein Upgrade: {$name}.
+gun-upgrade-examine-type-can-use = Kann als Upgrade verwendet werden: {$name}.
 
 gun-upgrade-damage-name = [color=#ec9b2d][bold]Schäden[/bold][/color]
 gun-upgrade-range-name = [color=#2decec][bold]Reichweite[/bold][/color]

@@ -13,15 +13,15 @@ xenomorphs-win-announcement =
 
     Ein Notfallshuttle ist unterwegs.
 
-xenomorphs-xenomajor = Major Xenomorph Sieg!
-xenomorphs-xenominor = Kleiner Xenomorph Sieg!
+xenomorphs-xenomajor = Großer Xenomorph-Sieg!
+xenomorphs-xenominor = Kleiner Xenomorph-Sieg!
 xenomorphs-neutral = Pattsituation!
-xenomorphs-crewminor = Kleiner Mannschaftssieg!
+xenomorphs-crewminor = Kleiner Sieg der Crew!
 xenomorphs-crewmajor = Entscheidender Sieg der Crew!
 
-xenomorphs-cond-nukeexplodedonstation = Die Crew zerstörte die Xenomorphs mit dem Sprengstoff der Kernspaltung.
-xenomorphs-cond-nukeactiveinstation = Die Crew ließ den bewaffneten Atomspaltungssprengstoff auf der Station liegen.
-xenomorphs-cond-xenotakeoverstation = Die Xenomorphs schafften es, die Station zu übernehmen.
-xenomorphs-cond-xenoinfiltratedoncentcom = Xenomorphs infiltrierten die CentComm-Station.
-xenomorphs-cond-allreproducexenodead = Die Crew eliminierte alle Xenomorphs, die sich fortpflanzen konnten.
+xenomorphs-cond-nukeexplodedonstation = Die Crew zerstörte die Xenomorphen mit dem Kernspaltungssprengsatz.
+xenomorphs-cond-nukeactiveinstation = Die Crew ließ den scharfen Kernspaltungssprengsatz auf der Station zurück.
+xenomorphs-cond-xenotakeoverstation = Die Xenomorphen haben es geschafft, die Station zu übernehmen.
+xenomorphs-cond-xenoinfiltratedoncentcom = Xenomorphen infiltrierten die CentComm-Station.
+xenomorphs-cond-allreproducexenodead = Die Crew eliminierte alle Xenomorphen, die sich fortpflanzen konnten.
 xenomorphs-cond-allcrewdead = Alle Crewmitglieder sind gestorben.

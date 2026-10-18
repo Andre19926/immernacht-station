@@ -21,7 +21,7 @@ marking-SynthAntennaSharp-antenna_sharp = Antenne
 marking-SynthAntennaSlash = Synthantenne (Schnitt)
 marking-SynthAntennaSlash-antenna_slash = Antenne
 
-marking-SynthAntennaThick = Synth-Antenne (dicke)
+marking-SynthAntennaThick = Synth-Antenne (dick)
 marking-SynthAntennaThick-antenna_thick = Antenne
 
 marking-SynthAntennaTwin = Synth-Antenne (Twin)
@@ -38,7 +38,7 @@ marking-SynthRArmLight-arm_light_r = Licht
 marking-SynthLArmStarPauldron = Sternen-Schulterplatte (links)
 marking-SynthLArmStarPauldron-star_pauldron_l = Schulterpanzer
 
-marking-SynthRArmStarPauldron = Star Pauldron (rechts)
+marking-SynthRArmStarPauldron = Sternen-Schulterplatte (rechts)
 marking-SynthRArmStarPauldron-star_pauldron_r = Schulterpanzer
 
 # Chest
@@ -57,7 +57,7 @@ marking-SynthChestStarCross-star_cross = Kreuz
 
 # Head
 
-marking-SynthJawComposite = Synth Jaw (Komposit)
+marking-SynthJawComposite = Synth-Kiefer (Verbund)
 marking-SynthJawComposite-jaw_composite = Verbundwerkstoff
 
 marking-SynthVisor = Synth-Visier (Fabrik)
@@ -75,7 +75,7 @@ marking-SynthVisorStarCross-visor_plate_star_cross = Platte
 marking-SynthCompositeHood = Verbundhaube
 marking-SynthCompositeHood-composite_hood = Verbundwerkstoff
 
-marking-SynthCompositeHoodLight = Composite Hood (Licht)
+marking-SynthCompositeHoodLight = Verbundkapuze (Licht)
 marking-SynthCompositeHoodLight-composite_hood_light = Licht
 
 marking-SynthSolarFans = Solarlüfter

@@ -3,12 +3,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rmc-ui-link-discord-account = Link Discord Konto
-rmc-ui-link-discord-account-text = Klicke auf den Button unten, um deinen Code zu kopieren.
+rmc-ui-link-discord-account = Discord-Konto verknüpfen
+rmc-ui-link-discord-account-text = Klicke auf die Schaltfläche unten, um deinen Code zu kopieren.
   Geh dann zum #account-linking-Kanal, um deine Konten zu verknüpfen.
 rmc-ui-link-discord-account-copy = Kopiercode
 rmc-ui-link-discord-account-copied = Kopiert!
-rmc-ui-link-discord-account-already-linked = [bold]Dein Account ist bereits verlinkt![/bold]
+rmc-ui-link-discord-account-already-linked = [bold]Dein Account ist bereits verknüpft![/bold]
 rmc-ui-link-discord-account-open-channel = Offener Kanal
 
 rmc-ui-patron-perks = Unterstützer-Vorteile
@@ -19,7 +19,7 @@ rmc-ui-lobby-message-description = Wird den Spielern angezeigt, bevor das Spiel 
   Wenn du dich nicht sicher bist, frage in AHELP! (F1)
 rmc-ui-shoutout = Shoutout am Rundenende
 rmc-ui-shoutout-nt-title = Name, der für den Nanotrasen-Shoutout am Rundenende verwendet wird.
-rmc-ui-shoutout-nt-description = Gezeigt am runden Ende als "Nanotrasen finanziert von:" dann deinen Namen.
+rmc-ui-shoutout-nt-description = Wird am Rundenende als „Nanotrasen finanziert von:“, gefolgt von deinem Namen, angezeigt.
 rmc-ui-shoutout-example = Beispiel:
 rmc-ui-shoutout-info = Jeder Name wird zufällig unter allen Patrons dieser Stufe ausgewählt.
   Achte darauf, dass die Namen, die du wählst, zum Charakter passen und nicht gegen die Regeln verstoßen.

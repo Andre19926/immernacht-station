@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 lavaland-planet-name-unknown = Unbekannter Planet
-lavaland-planet-name-lavaland = Lavaland Planet
+lavaland-planet-name-lavaland = Lavaland-Planet
 lavaland-planet-name-icemoon = Icemoon
 
 # GPS Signals
@@ -35,8 +35,8 @@ lavaland-ruin-slime = Schleimhöhle
 lavaland-ruin-hunt = Haus des Jägers
 lavaland-ruin-stash = Stash
 lavaland-ruin-cargo2 = Frachtrückstände
-lavaland-ruin-murder = Murderhöhle
-lavaland-ruin-crash = Flucht Pod Crash
+lavaland-ruin-murder = Mordhöhle
+lavaland-ruin-crash = Rettungskapsel-Absturz
 lavaland-ruin-desk = Stationsmüll
 lavaland-ruin-generator = Generatorfriedhof
 lavaland-ruin-mug = Becherfabrik

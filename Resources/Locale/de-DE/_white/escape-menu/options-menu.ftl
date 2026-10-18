@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ui-options-log-in-chat = Log-Aktionen im Chat
+ui-options-log-in-chat = Aktionen im Chat protokollieren
 
 ui-options-hud-theme-xenomorph = Xenomorph

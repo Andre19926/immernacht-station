@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 block-charge-status-charged = Die Schildanzeige zeigt an, dass sie geladen ist.
-block-charge-status-recharging = Die Schildanzeige zeigt an, dass ihre Aufladung.
+block-charge-status-recharging = Die Schildanzeige zeigt an, dass er gerade aufgeladen wird.
 block-attack-notice = {$user} hat den Angriff von {THE($blocked)} abgeblockt!
-block-charge-startup = Die {$entity}'s Schild Indikator leuchtet schwach ...
+block-charge-startup = Die Schildanzeige von {$entity} leuchtet schwach ...

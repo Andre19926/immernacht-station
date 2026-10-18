@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carry-verb = Beförderung
+carry-verb = Tragen
 
 carry-too-heavy = Du bist nicht stark genug.
 carry-started = {CAPITALIZE(THE($carrier))} versucht, dich hochzuheben!

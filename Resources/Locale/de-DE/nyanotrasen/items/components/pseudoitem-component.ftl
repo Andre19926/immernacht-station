@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-name-insert-self = Setze dir ein
+action-name-insert-self = Hineinsetzen
 action-name-insert-other = {THE($target)} einlegen

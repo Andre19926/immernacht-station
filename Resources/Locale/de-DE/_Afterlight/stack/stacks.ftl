@@ -1,1 +1,1 @@
-stack-synthbloodpack = Synthy Bloodpack
+stack-synthbloodpack = Synth-Blutbeutel

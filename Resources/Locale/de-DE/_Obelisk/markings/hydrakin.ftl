@@ -19,15 +19,15 @@ marking-HydrakinEarsFrilled = Frillierte Ohren
 marking-HydrakinProtoChest = Cyberkin
 
 marking-HydrakinProtoLeftArm = Cyberkin links
-marking-HydrakinProtoRightArm = Cyberkin Rechts
+marking-HydrakinProtoRightArm = Cyberkin rechts
 
 marking-HydrakinProtoLeftLeg = Cyberkin links
-marking-HydrakinProtoRightLeg = Cyberkin Rechts
+marking-HydrakinProtoRightLeg = Cyberkin rechts
 
 marking-HydrakinProtoVisor = Sicht
 marking-HydrakinProtoFace1 = Ringanzeige
 marking-HydrakinProtoFace2 = Seriöses Display
-marking-HydrakinProtoFace3 = Teufelliche Darstellung
+marking-HydrakinProtoFace3 = Teuflisches Display
 marking-HydrakinProtoFace4 = Trauriges Display
 marking-HydrakinProtoFace5 = Entspannungsanzeige
 
@@ -39,7 +39,7 @@ marking-HydrakinEnforcerLeftLeg = Vollstrecker links
 marking-HydrakinEnforcerRightLeg = Vollstreckerrecht
 
 marking-HydrakinHydraFaceMask = Hydra-Gesichtsplatte
-marking-HydrakinHydraSeerMarking = Hydra Seer Markierung
+marking-HydrakinHydraSeerMarking = Hydra-Seher-Markierung
 marking-HydrakinHydraMantleMaw = Mantelmaw
 marking-HydrakinHydraUnderbelly = Hydra Unterwelt
 marking-HydrakinHydraLeftArm = Hydra links
@@ -51,10 +51,10 @@ marking-HydrakinHydraSeerEars = Sehohren
 
 marking-HydrakinMysticHead = Mystischer Kopf
 marking-HydrakinMysticChest = Mystische Brust
-marking-HydrakinMysticLeftArm = Mystische Linke
-marking-HydrakinMysticRightArm = Mystisches Recht
-marking-HydrakinMysticLeftLeg = Mystische Linke
-marking-HydrakinMysticRightLeg = Mystisches Recht
+marking-HydrakinMysticLeftArm = Mystisch (links)
+marking-HydrakinMysticRightArm = Mystisch (rechts)
+marking-HydrakinMysticLeftLeg = Mystisch (links)
+marking-HydrakinMysticRightLeg = Mystisch (rechts)
 
 marking-HydrakinRebelHead = Rebellenkopf
 marking-HydrakinRebelChest = Rebellentruhe
@@ -65,7 +65,7 @@ marking-HydrakinRebelRightLeg = Rebellenrecht
 
 marking-HydrakinTribalHead = Stammesleiter
 marking-HydrakinTribalChest = Stammesbrust
-marking-HydrakinTribalLeftArm = Tribal (Links)
+marking-HydrakinTribalLeftArm = Tribal (links)
 marking-HydrakinTribalRightArm = Stammesrecht
-marking-HydrakinTribalLeftLeg = Tribal (Links)
+marking-HydrakinTribalLeftLeg = Tribal (links)
 marking-HydrakinTribalRightLeg = Stammesrecht

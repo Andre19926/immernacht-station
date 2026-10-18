@@ -34,7 +34,7 @@ selectable-set-syndicate-engineer-description =
     verdächtige Werkzeugkiste, Stromsenke, zwei Aufprall-Windelgranaten,
     zwei Sprenggranaten und vier Türme.
 
-selectable-set-syndicate-door-kicker-name = Syndicate Tür Kicker Bundle
+selectable-set-syndicate-door-kicker-name = Syndicate-Türtreter-Bündel
 selectable-set-syndicate-door-kicker-description =
     Lebe nach einem Ehrenkodex. Jetzt gesponsert vom Syndicate.
     Enthält: operativer Uniform, Kampfhandschuhe, Wärmesichtbrille,

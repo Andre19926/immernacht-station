@@ -11,10 +11,10 @@ miner-weapon-selector-pistols-description =
     2 Pistolen, die du doppelt wie aus dem mittleren Westen aussehen kannst.
     Deals anständige Menge an Schaden im Austausch für gute Reichweite.
 
-miner-weapon-selector-crusher-name = Crusher Axt
+miner-weapon-selector-crusher-name = Crusher-Axt
 miner-weapon-selector-crusher-description =
     Klassische Nahkampfwaffe zum Schneiden von Lavaland-Feinden.
-miner-weapon-selector-glaive-name = Crusher Glate
+miner-weapon-selector-glaive-name = Crusher-Glefe
 miner-weapon-selector-glaive-description =
     Eine Piercing-Waffe mit hoher Reichweite und Angriffsgeschwindigkeit
     Im Austausch für geringere Schäden. Toll, wenn du willst

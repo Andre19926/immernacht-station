@@ -1,8 +1,8 @@
-uplink-syndicate-access-config-name = Cybersun Konfigurator
+uplink-syndicate-access-config-name = Cybersun-Konfigurator
 uplink-syndicate-access-config-desc = Ein Zugriffskonfigurator im Cybersun-Design, kompatibel mit allen Nicht-NanoTrasen-IDs. Jetzt mit Schnellwechsel-Funktion!
 
-uplink-syndicate-remote-name = Syndicate Türfernbedienung
-uplink-syndicate-remote-desc = Eine Türfernbedienung der Marke Syndicate, diese funktioniert für Zugriffe von Syndicate Agent.
+uplink-syndicate-remote-name = Syndicate-Türfernbedienung
+uplink-syndicate-remote-desc = Eine Türfernbedienung der Marke Syndicate, die mit dem Zugriff „Syndicate-Agent“ funktioniert.
 
 uplink-shuttle-board-name = Syndicate-Shuttle-Konsolenplatine
 uplink-shuttle-board-desc = Eine Computer-Leiterplatte für eine Syndicate-Shuttle-Konsole.

@@ -13,11 +13,11 @@ marking-FelinidEarsCurled = Gerollte Ohren
 marking-FelinidEarsCurled-curled_outer = Äußeres Ohr
 marking-FelinidEarsCurled-curled_inner = Innenohr
 
-marking-FelinidEarsDroopy = Droopy Ohren
+marking-FelinidEarsDroopy = Hängeohren
 marking-FelinidEarsDroopy-droopy_outer = Äußeres Ohr
 marking-FelinidEarsDroopy-droopy_inner = Innenohr
 
-marking-FelinidEarsFuzzy = Fuzzy Ohren
+marking-FelinidEarsFuzzy = Flauschige Ohren
 marking-FelinidEarsFuzzy-basic_outer = Äußeres Ohr
 marking-FelinidEarsFuzzy-fuzzy_inner = Ohrfuzz
 
@@ -38,26 +38,26 @@ marking-FelinidEarsWide = Breite Ohren
 marking-FelinidEarsWide-wide_outer = Äußeres Ohr
 marking-FelinidEarsWide-wide_inner = Innenohr
 
-marking-FelinidTailBasic = Standard Katzen Schwanz
+marking-FelinidTailBasic = Standard-Katzenschwanz
 marking-FelinidTailBasic-basic_tail_tip = Schwanzspitze
-marking-FelinidTailBasic-basic_tail_stripes_even = Schwanzstreifen, sogar
+marking-FelinidTailBasic-basic_tail_stripes_even = Schwanzstreifen, gerade
 marking-FelinidTailBasic-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 
-marking-FelinidTailBasicWithBow = Basis Cat Schwanz mit Bow
+marking-FelinidTailBasicWithBow = Einfacher Katzenschwanz mit Schleife
 marking-FelinidTailBasicWithBow-basic_tail_tip = Schwanzspitze
-marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Schwanzstreifen, sogar
+marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Schwanzstreifen, gerade
 marking-FelinidTailBasicWithBow-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 marking-FelinidTailBasicWithBow-basic_bow = Bogen
 
-marking-FelinidTailBasicWithBell = Basis Cat Schwanz mit Bell
+marking-FelinidTailBasicWithBell = Einfacher Katzenschwanz mit Glöckchen
 marking-FelinidTailBasicWithBell-basic_tail_tip = Schwanzspitze
-marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Schwanzstreifen, sogar
+marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Schwanzstreifen, gerade
 marking-FelinidTailBasicWithBell-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 marking-FelinidTailBasicWithBell-basic_bell = Glocke
 
-marking-FelinidTailBasicWithBowAndBell = Basis Cat Schwanz mit Bow & Bell
+marking-FelinidTailBasicWithBowAndBell = Einfacher Katzenschwanz mit Schleife & Glöckchen
 marking-FelinidTailBasicWithBowAndBell-basic_tail_tip = Schwanzspitze
-marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Schwanzstreifen, sogar
+marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Schwanzstreifen, gerade
 marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 marking-FelinidTailBasicWithBowAndBell-basic_bow = Bogen
 marking-FelinidTailBasicWithBowAndBell-basic_bell = Glocke
