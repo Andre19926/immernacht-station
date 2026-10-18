@@ -106,7 +106,7 @@ reagent-name-stellibinin = Stellibinin
 reagent-desc-stellibinin = Ein natürliches Antitoxin mit besonderer Wirksamkeit gegen Amatoxin.
 
 reagent-name-synaptizine = Synaptizin
-reagent-desc-synaptizine = Eine giftige Chemikalie, die die Dauer von Betäubungen und Knockdowns halbiert.
+reagent-desc-synaptizine = Eine giftige Chemikalie, die die Dauer von Betäubungen und Niederstreckungen halbiert.
 
 reagent-name-tranexamic-acid = Tranexaminsäure
 reagent-desc-tranexamic-acid = Ein Blutgerinnungsmittel, das starke Blutungen verhindert. Verursacht bei Überdosis stärkere Blutungen. Meist in kleinen Dosen in Notfall-Medipens zu finden.
@@ -149,7 +149,7 @@ reagent-desc-lacerinol = Eine ziemlich unreaktive Chemikalie, die die Kollagensy
 
 reagent-name-puncturase = Punkturase
 reagent-name-puncturase-tranexamic = Punkturase und Tranexam
-reagent-desc-puncturase = Eine kohlensäurehaltige Chemikalie, die beim Wiederaufbau von Traumata hilft, die durch Piercing-Schäden verursacht werden, und eine geringe Menge an Gewebeschäden zurücklässt.
+reagent-desc-puncturase = Eine sprudelnde Chemikalie, die beim Heilen von Traumata durch Stichschäden hilft, hinterlässt aber eine geringe Menge Gewebeschäden.
 
 reagent-name-bruizine = Bruizin
 reagent-desc-bruizine = Ursprünglich als Hustenmittel entwickelt, stellt sich heraus, dass diese Chemikalie bei der Behandlung von physischem Trauma durch stumpfe Gewalt äußerst effektiv ist.

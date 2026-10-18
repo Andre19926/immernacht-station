@@ -13,13 +13,13 @@ reagent-name-nutriment = Nutrierung
 reagent-desc-nutriment = Alle Vitamine, Mineralien und Kohlenhydrate, die der Körper in reiner Form benötigt.
 
 reagent-name-glucose = Glucose
-reagent-desc-glucose = Ein einfacher Zucker in vielen Lebensmitteln gefunden.
+reagent-desc-glucose = Ein einfacher Zucker, der in vielen Lebensmitteln vorkommt.
 
 reagent-name-vitamin = Vitamin
-reagent-desc-vitamin = Gefunden in gesunden, vollständigen Mahlzeiten.
+reagent-desc-vitamin = In gesunden, vollständigen Mahlzeiten enthalten.
 
 reagent-name-protein = Protein
-reagent-desc-protein = Gefunden in bestimmten Mahlzeiten, gut für die körperliche Gesundheit.
+reagent-desc-protein = In bestimmten Mahlzeiten enthalten, gut für die körperliche Gesundheit.
 
 reagent-name-cocoapowder = Kakaopulver
 reagent-desc-cocoapowder = Aus den besten Kakaobohnensorten
@@ -28,4 +28,4 @@ reagent-name-butter = Butter
 reagent-desc-butter = Du kannst es glauben!
 
 reagent-name-pumpkin-flesh = Kürbisfleisch
-reagent-desc-pumpkin-flesh = Der breiige, süße Rest eines Kürbises.
+reagent-desc-pumpkin-flesh = Der breiige, süße Rest eines Kürbisses.

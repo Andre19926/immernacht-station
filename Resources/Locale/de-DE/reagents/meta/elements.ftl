@@ -55,7 +55,7 @@ reagent-name-potassium = Kalium
 reagent-desc-potassium = Ein weiches, glänzendes graues Metall. Reaktiver als Lithium.
 
 reagent-name-phosphorus = Phosphor
-reagent-desc-phosphorus = Ein reaktives Metall, das in der Pyrotechnik und Waffen verwendet wird.
+reagent-desc-phosphorus = Ein reaktives Metall, das in der Pyrotechnik und in Waffen verwendet wird.
 
 reagent-name-radium = Radium
 reagent-desc-radium = Ein radioaktives Metall, silbrig-weiß in reiner Form. Es leuchtet aufgrund seiner Radioaktivität und ist hochgiftig.

@@ -16,5 +16,5 @@ admin-announce-type-station = Station
 admin-announce-type-server = Server
 admin-announce-keep-open = Offen halten
 
-cmd-announceui-desc = Öffnet die Ankündigung UI.
+cmd-announceui-desc = Öffnet die Oberfläche für Ankündigungen.
 cmd-announceui-help = Verwendung: announceui

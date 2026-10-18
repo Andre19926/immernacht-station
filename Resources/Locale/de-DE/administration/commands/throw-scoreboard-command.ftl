@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-throw-scoreboard-command-description = Zeigt allen Spielern die Rundenanzeige am Rundenende, ohne die Runde zu beenden
+throw-scoreboard-command-description = Zeigt allen Spielern die Punktetafel am Rundenende, ohne die Runde zu beenden
 throw-scoreboard-command-help-text = Verwendung: throwscoreboard

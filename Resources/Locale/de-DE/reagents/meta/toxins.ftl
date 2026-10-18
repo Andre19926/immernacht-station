@@ -76,7 +76,7 @@ reagent-name-vent-crud = Entlüftungskrudel
 reagent-desc-vent-crud = Eine tiefschwarze Substanz, die sich in schlecht gewarteten Lüftungssystemen findet. Kann Lüftungshusten verursachen.
 
 reagent-name-romerol = Romerol
-reagent-desc-romerol = Ein jenseitiges Gebräu, das die Untoten zum Leben erwecken kann. Wenn sie unbehandelt sind, sind die Auswirkungen irreversibel und bringen ein gewisses Untergang auf die Station. Umgang mit Sorgfalt.
+reagent-desc-romerol = Ein jenseitiges Gebräu, das die Untoten zum Leben erwecken kann. Unbehandelt sind die Auswirkungen unumkehrbar und bringen der Station den sicheren Untergang. Mit Vorsicht behandeln.
 
 reagent-name-uncooked-animal-proteins = nicht gegarte tierische Proteine
 reagent-desc-uncooked-animal-proteins = Für den Magen weicherer Lebensformen ist es sehr riskant, das zu verdauen.
@@ -97,7 +97,7 @@ reagent-name-bungotoxin = Bungotoxin
 reagent-desc-bungotoxin = Ein mäßig langsam wirkendes Gift, das im Kern der Bungofrucht steckt.
 
 reagent-name-vestine = Vestin
-reagent-desc-vestine = Hat eine unerwünschte Reaktion im Körper, die starkes Jittering verursacht. Obwohl es allein nicht besonders nützlich ist, kann es zur Herstellung einer kleinen Vielzahl von Chemikalien verwendet werden.
+reagent-desc-vestine = Löst eine unerwünschte Reaktion im Körper aus, die starkes Zittern verursacht. Allein nicht besonders nützlich, lässt sich aber zur Herstellung einiger Chemikalien verwenden.
 
 reagent-name-tazinide = Tazinid
 reagent-desc-tazinide = Eine hochgefährliche metallische Mischung, die die meisten Bewegungen durch einen Elektrifizierungsstrom stören kann.

@@ -348,7 +348,7 @@ reagent-name-daiquiri = Daiquiri
 reagent-desc-daiquiri = Ein klassischer Rum-Cocktail, der auch in den kalten Bereichen des Weltraums beliebt bleibt.
 
 reagent-name-death-in-the-afternoon = Tod am Nachmittag
-reagent-desc-death-in-the-afternoon = Gieße einen Jigger-Absinth in ein Champagnerglas. Füge Eis-Champagner hinzu, bis er die richtige opaleszierende Milchigkeit erreicht. Trinke drei bis fünf davon langsam. Ernest Hemingway
+reagent-desc-death-in-the-afternoon = „Gieße einen Jigger Absinth in ein Champagnerglas. Füge eisgekühlten Champagner hinzu, bis er die richtige opaleszierende Milchigkeit erreicht. Trinke drei bis fünf davon langsam.“ – Ernest Hemingway
 
 reagent-name-empress-75 = Kaiserin 75
 reagent-desc-empress-75 = Eine verfeinerte Variante des Mimosa. Genau das, was Marie Antoinette vor der Revolution genippt haben könnte.

@@ -106,7 +106,7 @@ reagent-name-pilk = Pilk
 reagent-desc-pilk = Eine widerliche Mischung aus Milch und Cola.
 
 reagent-name-posca = Posca
-reagent-desc-posca = Das Getränk von einem vergessenen
+reagent-desc-posca = Das Getränk armer Krieger aus einer vergessenen Epoche.
 
 reagent-name-mopwata = Mopwata
 reagent-desc-mopwata = Schmutziges, abgestandenes Wischwasser.

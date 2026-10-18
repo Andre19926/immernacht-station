@@ -34,7 +34,7 @@ reagent-name-stimulants = Hyperzin
 reagent-desc-stimulants = Ein von Donk Co. entwickelter chemischer Cocktail, der es Agenten ermöglicht, sich schneller von Betäubungen zu erholen, sich schneller zu bewegen und eine kleine Heilung zu gewähren, wenn du mehr tot als lebendig bist.
 
 reagent-name-experimental-stimulants = Versuchsstimulanzien
-reagent-desc-experimental-stimulants = Eine Prototypversion von Hyperzine. Die Verwendung gewährt virtuelle Immunität gegen Betäubungswaffen, schnelle Geweberegeneration, extreme Laufgeschwindigkeit durch Verringerung der Milchsäurebildung und ein allgemeines Gefühl der Euphorie. Nebenwirkungen können extreme Antikoagulation, Tunnelsicht, extreme Toxinbildung im Blutkreislauf und schnellen Lebertod umfassen. Gib nicht an Tiere.
+reagent-desc-experimental-stimulants = Eine Prototypversion von Hyperzin. Die Verwendung gewährt praktisch Immunität gegen Betäubungswaffen, schnelle Geweberegeneration, extreme Laufgeschwindigkeit durch weniger Milchsäureansammlung und ein allgemeines Gefühl der Euphorie. Nebenwirkungen können extreme Blutgerinnungshemmung, Tunnelblick, starke Toxinansammlung im Blutkreislauf und raschen Leberausfall umfassen. Nicht an Tiere verabreichen.
 
 reagent-name-thc = THC
 reagent-desc-thc = Die wichtigste psychoaktive Verbindung in Cannabis.
@@ -67,4 +67,4 @@ reagent-name-happiness = Glückseligkeit
 reagent-desc-happiness = Erfüllt dich mit ekstatischer Taubheit und verursacht kleinere Hirnschäden. Sehr suchterzeugend. Eine Überdosis verursacht plötzliche Stimmungsschwankungen.
 
 reagent-name-nitrosyl-plasmide = Nitrosylplasmid
-reagent-desc-nitrosyl-plasmide = Ein starkes Stimulans, das Schläfrigkeit, Betäubung und Knockdowns verhindern kann.
+reagent-desc-nitrosyl-plasmide = Ein starkes Stimulans, das Schläfrigkeit, Betäubung und Niederstreckungen verhindern kann.

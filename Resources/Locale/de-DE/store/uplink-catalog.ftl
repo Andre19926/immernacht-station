@@ -279,7 +279,7 @@ uplink-syndicate-weapon-module-desc = Rüstet einen Cyborg mit einem Energiedolc
 uplink-syndicate-martyr-module-name = Märtyrer-Cyborg-Modul
 uplink-syndicate-martyr-module-desc = Verwandle deinen gehackten Borg-Freund mit nur diesem Modul in eine wandelnde Bombe. Stelle sicher, dass er deiner Sache treu ist, die Ergebnisse können variieren.
 
-uplink-singularity-beacon-name = Singularitätsbake
+uplink-singularity-beacon-name = Singularitätsleuchtfeuer
 uplink-singularity-beacon-desc = Ein Gerät, das Singularitäten anzieht. Es muss verankert und angetrieben werden. Singularitäten wachsen, wenn sie konsumiert werden.
 
 uplink-antimov-law-name = Antimov-Gesetzesschaltkreis
@@ -555,7 +555,7 @@ uplink-scarf-syndie-red-desc = Ein stilvoll gestreifter roter Syndicate-Schal. D
 uplink-scarf-syndie-green-name = Grüner Syndicate-Streifenschal
 uplink-scarf-syndie-green-desc = Ein stilvoll gestreifter grüner Syndicate-Schal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und Lust, etwas zu stehlen.
 
-uplink-syndicate-pai-name = Syndicate-Persönliche-KI-Gerät
+uplink-syndicate-pai-name = Persönliches KI-Gerät (Syndicate)
 uplink-syndicate-pai-desc = Eine Syndicate-Variante der pAI mit Zugang zum Syndicate-Funkkanal. Für ihre Nützlichkeit übernehmen wir keine Garantie.
 
 uplink-bribe-name = Lobbyisten-Paket
@@ -588,11 +588,11 @@ uplink-contraband-lighter-desc = Eine Überraschungsschachtel, die garantiert ei
 uplink-smuggler-satchel-name = Schmuggler-Umhängetasche
 uplink-smuggler-satchel-desc = Eine handliche, verdächtig aussehende Umhängetasche. Gerade flach genug, um unter Bodenfliesen zu passen.
 
-uplink-acolyte-armor-name = Acolyte Rüstung
-uplink-acolyte-armor-desc = Das muss jeder selbst respektierende Kultführer haben. Ein böse aussehendes Stück Rüstung, aus Knochen, und überraschend resistent gegen Schäden.
+uplink-acolyte-armor-name = Akolythen-Rüstung
+uplink-acolyte-armor-desc = Ein Muss für jeden Kultführer mit Selbstachtung. Ein böse aussehendes Rüstungsstück aus Knochen, das überraschend schadensresistent ist.
 
 uplink-briefcase-gun-name = Aktentaschenwaffe
-uplink-briefcase-gun-desc = Eine undeutliche Aktentasche mit einem sehr kompakten C-20K darin montiert. Vorsicht nicht der Griff den Griff zu fest!
+uplink-briefcase-gun-desc = Eine unscheinbare Aktentasche mit einer sehr kompakten C-20K im Inneren. Vorsicht, halte den Griff nicht zu fest!
 
-uplink-energycrossbow-name = Mini Energiearmbrust
-uplink-energycrossbow-desc = Die Go-to-Seitenwaffe eines jeden Agenten, der es vorzieht, dass sich seine Opfer nicht bewegen. Feuer regenerieren giftige Pfeile, die Opfer in einem Augenblick Böden.
+uplink-energycrossbow-name = Mini-Energiearmbrust
+uplink-energycrossbow-desc = Die bevorzugte Seitenwaffe jedes Agenten, dem es lieber ist, wenn sich seine Opfer nicht bewegen. Verschießt nachwachsende Giftpfeile, die Opfer augenblicklich zu Boden strecken.
