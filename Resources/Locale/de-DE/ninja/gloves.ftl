@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-gloves-on = Die Handschuhe schweben mit Macht!
-ninja-gloves-off = Die Handschuhe Power Down...
+ninja-gloves-on = Die Handschuhe laden sich mit Energie auf!
+ninja-gloves-off = Die Handschuhe fahren herunter ...
 ninja-gloves-not-wearing-suit = Du trägst keinen Ninja-Anzug
 ninja-gloves-examine-on = Alle Fähigkeiten sind aktiviert.
 ninja-gloves-examine-off = Langweilige alte Handschuhe...

@@ -1,6 +1,6 @@
-clumsy-vaulting-fail-forced-message = { CAPITALIZE($bonker) } stößt { $victim }s Kopf gegen { THE($bonkable) }!
-clumsy-vaulting-fail-message-user = Du stößt dir den Kopf an { THE($bonkable) } an!
-clumsy-vaulting-fail-message-others = { $victim } stößt sich den Kopf an { THE($bonkable) } an!
+clumsy-vaulting-fail-forced-message = { CAPITALIZE($bonker) } stößt den Kopf von { $victim } gegen { THE($bonkable) }!
+clumsy-vaulting-fail-message-user = Du stößt dir den Kopf an { THE($bonkable) }!
+clumsy-vaulting-fail-message-others = { $victim } stößt sich den Kopf an { THE($bonkable) }!
 
 clumsy-gun-fail-message = Die Waffe bläst dir ins Gesicht!
 

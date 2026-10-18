@@ -4,16 +4,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-containment-turned-on = Der Containment-Feldgenerator startet hoch.
-comp-containment-turned-off = Der Containment-Feldgenerator schaltet ab.
+comp-containment-turned-on = Der Eindämmungsfeldgenerator fährt hoch.
+comp-containment-turned-off = Der Eindämmungsfeldgenerator schaltet sich ab.
 
-comp-containment-on = Es ist umgeschaltet [color=green]am[/color], bereit, eine Verbindung zu erzeugen.
-comp-containment-off = Es ist umgeschaltet [color=red]ausgeschaltet[/color].
+comp-containment-on = Er ist [color=green]eingeschaltet[/color] und bereit, eine Verbindung herzustellen.
+comp-containment-off = Er ist [color=red]ausgeschaltet[/color].
 
-comp-containment-connected = Der Containment-Feldgenerator schießt ein Licht aus, während er eine Verbindung herstellt!
-comp-containment-disconnected = Das Containment-Feld-Generatorlicht verblasst und trennt die Verbindung.
+comp-containment-connected = Der Eindämmungsfeldgenerator leuchtet auf, während er eine Verbindung herstellt!
+comp-containment-disconnected = Das Licht des Eindämmungsfeldgenerators erlischt und die Verbindung wird getrennt.
 
 comp-containment-anchor-warning = Du kannst den Eindämmungsfeldgenerator nicht lösen, solange er eingeschaltet oder angeschlossen ist!
 comp-containment-toggle-warning = Du kannst den Generator nicht ausschalten, solange er angeschlossen ist.
 
-comp-field-vaporized = Die {$entity} trifft das Feld und verdampft in nichts!
+comp-field-vaporized = {$entity} trifft das Feld und verdampft zu nichts!

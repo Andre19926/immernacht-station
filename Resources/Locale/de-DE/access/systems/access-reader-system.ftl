@@ -5,7 +5,7 @@
 
 access-reader-unknown-id = Unbekannt
 access-reader-access-label = [color=yellow]{$access}[/color]
-access-reader-examination = Der Zugang ist in der Regel auf Personal mit {$access} Zugang.
-access-reader-examination-functionality-restricted = {$access} Für die Nutzung bestimmter Funktionen kann ein Zugriff erforderlich sein.
+access-reader-examination = Der Zutritt ist in der Regel auf Personal mit Zugang „{$access}“ beschränkt.
+access-reader-examination-functionality-restricted = Für die Nutzung bestimmter Funktionen kann Zugang „{$access}“ erforderlich sein.
 access-reader-access-settings-modified-message = [italic]Der Zugangsleser wurde so verändert, dass er Personal mit Zugang „{$access}“ akzeptiert.[/italic]
 access-reader-access-settings-removed-message = [italic]Die Einstellungen des Zugangslesers wurden gelöscht.[/italic]

@@ -12,24 +12,24 @@ replay-loading = Lädt ({$cur}/{$total})
 replay-loading-reading = Lesedateien
 replay-loading-processing = Verarbeitungsdateien
 replay-loading-spawning = Laichereinrichtungen
-replay-loading-initializing = Initialisierung von Entitäten
+replay-loading-initializing = Entitäten werden initialisiert
 replay-loading-starting= Gründungsgesellschaften
-replay-loading-failed = Fehlgeschlagen, Replay zu laden. Fehler:
+replay-loading-failed = Replay konnte nicht geladen werden. Fehler:
                         {$reason}
-replay-loading-retry = Versuche, mit mehr Ausnahmetoleranz zu laden - KÖNNEN KAUFEN!
+replay-loading-retry = Mit höherer Fehlertoleranz laden – KANN FEHLER VERURSACHEN!
 replay-loading-cancel = Abbrechen
 
 # Main Menu
 replay-menu-subtext = Replay-Client
-replay-menu-load = Ausgewählte Wiederholung laden
+replay-menu-load = Ausgewähltes Replay laden
 replay-menu-select = Wähle ein Replay
 replay-menu-open = Replay-Ordner öffnen
-replay-menu-none = Keine Wiederholungen gefunden.
+replay-menu-none = Keine Replays gefunden.
 
 # Main Menu Info Box
-replay-info-title = Angaben zur Wiedergabe
-replay-info-none-selected = Keine Wiederholung ausgewählt
-replay-info-invalid = [color=red]Ungültige Wiederholung ausgewählt[/color]
+replay-info-title = Replay-Details
+replay-info-none-selected = Kein Replay ausgewählt
+replay-info-invalid = [color=red]Ungültiges Replay ausgewählt[/color]
 replay-info-info = {"["}color=gray]Ausgewählt:[/color]  {$name} ({$file})
     {"["}color=gray]Zeit:[/color]   {$time}
     {"["}color=gray]Runden-ID:[/color]   {$roundId}

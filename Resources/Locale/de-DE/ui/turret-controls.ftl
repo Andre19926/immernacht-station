@@ -7,7 +7,7 @@ turret-controls-window-targeting-controls-label = Autorisiertes Personal
 # Status reports
 turret-controls-window-no-turrets = <! Keine verknüpften Geräte !>
 turret-controls-window-turret-status = » {$device} - Status: {$status}
-turret-controls-window-turret-disabled = ***FLUG ***
+turret-controls-window-turret-disabled = ***OFFLINE***
 turret-controls-window-turret-retracted = INAKTIV
 turret-controls-window-turret-retracting = WIRD DEAKTIVIERT
 turret-controls-window-turret-deployed = SUCHE LÄUFT...

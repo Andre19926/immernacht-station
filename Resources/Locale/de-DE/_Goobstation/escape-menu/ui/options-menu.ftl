@@ -7,7 +7,7 @@ ui-options-preferences = Präferenzen
 ui-options-function-resist-grab = Widerstandsgraben
 ui-options-coalesce-identical-messages = Identische Nachrichten im Chat zusammenfassen
 ui-options-detailed-examine = Detaillierter Untersuchungstext
-ui-options-auto-focus-search-on-build-menu = Fokussiere die Sucheingabe automatisch, wenn das Build-Menü geöffnet wird
+ui-options-auto-focus-search-on-build-menu = Fokussiere die Sucheingabe automatisch, wenn das Baumenü geöffnet wird
 ui-options-lock-action-bar-drag = Ziehe nur Aktionen in der Hotbar zu, während das Aktionsmenü geöffnet ist
 ui-options-inhand-interaction-particle-scale = Größe des Interaktionssymbols über dem Kopf
 

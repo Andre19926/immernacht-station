@@ -22,7 +22,7 @@ suit-sensor-component-unknown-job = Kein Job
 
 ## Examine
 
-suit-sensor-examine-off = Die Sensoren scheinen [color=darkred]deaktiviert[/color].
+suit-sensor-examine-off = Die Sensoren scheinen [color=darkred]deaktiviert[/color] zu sein.
 suit-sensor-examine-binary = Der Lebenssensor scheint aktiviert zu sein.
 suit-sensor-examine-vitals = Der Vitalwertsensor scheint aktiviert zu sein.
 suit-sensor-examine-cords = Vitalwert- und Ortungssensor scheinen aktiviert zu sein.

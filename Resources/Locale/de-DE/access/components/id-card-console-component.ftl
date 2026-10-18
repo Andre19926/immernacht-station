@@ -16,7 +16,7 @@ id-card-console-window-save-button = Speichern
 id-card-console-window-job-title-label = Jobtitel:
 id-card-console-window-eject-button = Auswerfen
 id-card-console-window-insert-button = Einlegen
-id-card-console-window-job-selection-label = Job Preset (Set-Abteilung und Job-Icon):
+id-card-console-window-job-selection-label = Job-Vorlage (legt Abteilung und Job-Symbol fest):
 id-card-console-window-select-all-button = Alle erteilen
 id-card-console-window-deselect-all-button = Alle entziehen
 

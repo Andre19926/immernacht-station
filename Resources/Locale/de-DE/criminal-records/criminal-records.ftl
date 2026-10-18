@@ -18,7 +18,7 @@ criminal-records-console-records-list-title = Crewmitglieder
 criminal-records-console-select-record-info = Wähle einen Eintrag.
 criminal-records-console-no-records = Keine Einträge gefunden!
 criminal-records-console-no-record-found = Für die ausgewählte Person wurde kein Datensatz gefunden.
-criminal-records-console-flavor-left = Verhaftet zuerst! Stelle später Fragen.
+criminal-records-console-flavor-left = Erst verhaften! Fragen kann man später stellen.
 criminal-records-console-flavor-right = v2.1
 criminal-records-console-show-all = Alle
 
@@ -49,7 +49,7 @@ criminal-records-console-reason-placeholder = Zum Beispiel: {$placeholder}
 
 criminal-records-console-crime-history = Vorstrafen
 criminal-records-history-placeholder = Verbrechen hier eintragen
-criminal-records-no-history = Der Rekord dieses Crewmitglieds ist makellos.
+criminal-records-no-history = Die Akte dieses Crewmitglieds ist makellos.
 criminal-records-add-history = Hinzufügen
 criminal-records-delete-history = Löschen
 
@@ -58,23 +58,23 @@ criminal-records-permission-denied = Zugriff verweigert
 ## Security channel notifications
 
 criminal-records-console-wanted = {$name} ({$job}) wurde von {$officer} zur Fahndung ausgeschrieben: {$reason}.
-criminal-records-console-not-wanted = {$officer} den gewünschten Status von {$name} ({$job}).
-criminal-records-console-suspected = {$officer} gekennzeichnet {$name} ({$job}) als verdächtig wegen: {$reason}
+criminal-records-console-not-wanted = {$officer} hat den Fahndungsstatus von {$name} ({$job}) aufgehoben.
+criminal-records-console-suspected = {$officer} hat {$name} ({$job}) als verdächtig markiert, wegen: {$reason}
 criminal-records-console-not-suspected = {$name} ({$job}) wurde von {$officer} vom Verdacht freigesprochen.
 criminal-records-console-detained = {$name} ({$job}) wurde von {$officer} festgenommen.
-criminal-records-console-released = {$name} ({$job}) freigegeben wurde durch {$officer}.
+criminal-records-console-released = {$name} ({$job}) wurde von {$officer} freigelassen.
 criminal-records-console-paroled = {$name} ({$job}) wurde von {$officer} auf Bewährung entlassen.
-criminal-records-console-not-parole = {$officer} Der Parole Status von {$name} ({$job}).
+criminal-records-console-not-parole = {$officer} hat den Bewährungsstatus von {$name} ({$job}) aufgehoben.
 criminal-records-console-hostile = {$name} ({$job}) wurde von {$officer} als feindselig markiert: {$reason}.
 criminal-records-console-not-hostile = {$name} ({$job}) wurde von {$officer} nicht mehr als feindselig markiert.
 criminal-records-console-eliminated = {$name} ({$job}) wurde von {$officer} als eliminiert markiert.
-criminal-records-console-not-eliminated = {$name} ({$job}) nicht mehr als eliminiert gekennzeichnet durch {$officer}.
-criminal-records-console-search = {$officer} gekennzeichnet {$name} ({$job}) für die Suche wegen: {$reason}
-criminal-records-console-not-search = {$officer} den Suchstatus von {$name} ({$job}).
-criminal-records-console-perma = {$name} ({$job}) wurde von {$officer} zu Perma verurteilt.
-criminal-records-console-not-perma = {$name} ({$job}) wurde von {$officer} aus Perma entlassen.
-criminal-records-console-dangerous = {$officer} gekennzeichnet {$name} ({$job}) als gefährlich wegen: {$reason}.
-criminal-records-console-not-dangerous = {$name} ({$job}) ist laut {$officer} keine Bedrohung mehr.
+criminal-records-console-not-eliminated = {$name} ({$job}) wurde von {$officer} nicht mehr als eliminiert markiert.
+criminal-records-console-search = {$officer} hat {$name} ({$job}) zur Durchsuchung markiert, wegen: {$reason}
+criminal-records-console-not-search = {$officer} hat den Durchsuchungsstatus von {$name} ({$job}) aufgehoben.
+criminal-records-console-perma = {$name} ({$job}) wurde von {$officer} zu lebenslanger Haft verurteilt.
+criminal-records-console-not-perma = {$name} ({$job}) wurde von {$officer} aus der lebenslangen Haft entlassen.
+criminal-records-console-dangerous = {$officer} hat {$name} ({$job}) als gefährlich markiert, wegen: {$reason}.
+criminal-records-console-not-dangerous = {$officer} stuft {$name} ({$job}) nicht mehr als Bedrohung ein.
 
 criminal-records-console-unknown-officer = <unbekannt>
 

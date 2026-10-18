@@ -8,5 +8,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-powersink-examine-drain-amount = Die Power Senke ist leer [color={$markupDrainColor}]{$amount} kW[/color].
+powersink-examine-drain-amount = Die Energiesenke entzieht derzeit [color={$markupDrainColor}]{$amount} kW[/color].
 powersink-imminent-explosion-announcement = Systemscans haben ein herrenloses stromfressendes Gerät erkannt, das instabil wird. Das Personal wird angewiesen, dieses Gerät umgehend zu finden und zu trennen, bevor die Station Schaden nimmt.

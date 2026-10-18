@@ -10,4 +10,4 @@
 
 cloning-pod-biomass = Es enthält derzeit [color=red]{$number}[/color] Biomasseeinheiten.
 
-cloning-pod-component-upgrade-emag-requirement = Die Karte zappt etwas im Klonen Pod.
+cloning-pod-component-upgrade-emag-requirement = Die Karte lässt im Klon-Pod etwas knistern.

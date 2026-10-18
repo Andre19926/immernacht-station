@@ -9,7 +9,7 @@
 # Foldable
 
 foldable-fold-fail = Du kannst {$object} hier nicht zusammenklappen.
-foldable-unfold-fail = Du kannst die {$object} hier.
+foldable-unfold-fail = Du kannst {$object} hier nicht aufklappen.
 
 foldable-deploy-fail = Du kannst {$object} hier nicht aufstellen.
 fold-verb = Zusammenfalten

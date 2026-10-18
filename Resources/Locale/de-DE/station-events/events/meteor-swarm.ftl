@@ -14,4 +14,4 @@ station-event-meteor-urist-start-announcement = Die Station kollidiert mit einem
 station-event-meteor-cow-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Warnung: Füttere sie nicht mit Weizen. Muh-ve weg von den Außenbereichen.
 station-event-meteor-clown-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. HONK! Lachgasspeicher sofort evakuieren.
 station-event-meteor-potato-start-announcement = Die Station kollidiert mit einem unbekannten Schwarm von Trümmern. Hoher Stärkegehalt nachgewiesen.
-station-event-fun-swarm-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Bitte gerät angemessen in Panik.
+station-event-fun-swarm-start-announcement = Die Station kollidiert mit einem unbekannten Trümmerschwarm. Bitte verfallt angemessen in Panik.

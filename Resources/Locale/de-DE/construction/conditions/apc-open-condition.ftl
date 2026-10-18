@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: MIT
 
 # APC
-construction-examine-condition-apc-open = Zuerst schraube den APC auf.
-construction-examine-condition-apc-close = Zuerst schraube den APC zu.
-construction-step-condition-apc-open = Das APC Elektronikpanel muss aufgeschraubt werden.
-construction-step-condition-apc-close = Die APC-Elektroniktafel muss zugeschraubt werden.
+construction-examine-condition-apc-open = Schraube zuerst den APC auf.
+construction-examine-condition-apc-close = Schraube zuerst den APC zu.
+construction-step-condition-apc-open = Das APC-Elektronikpanel muss aufgeschraubt sein.
+construction-step-condition-apc-close = Das APC-Elektronikpanel muss zugeschraubt sein.

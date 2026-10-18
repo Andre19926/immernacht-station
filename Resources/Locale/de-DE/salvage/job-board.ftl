@@ -32,16 +32,16 @@ salv-job-board-name-BountyGoliathPlates = Goliath
 salv-job-board-name-BountyHivelordRemains = Hivelord
 salv-job-board-name-BountySalvageDiamond = Diamant
 
-bounty-description-tooth-space-carp = Wir brauchen dich, um eine Probe von einigen Space Carp Zähne zu bekommen. Du kannst diese Typen auf allen Arten von Salvage-Müll finden. Sei vorsichtig mit ihrem Biss.
-bounty-description-salvage-scrap = Wir erforschen die Auswirkungen des Weltraums auf Stationsmaterialien, und wir brauchen einige Proben. Finde einen alten Müll aus Trümmern und bring ihn zu uns.
-bounty-description-salvage-ore-gold = Wir beschäftigen uns mit einem experimentellen neuen Elektronik-Herstellungsprozess. Liefern dich uns eine große Summe an unraffiniertem Golderz. Es kann aus jeder Quelle kommen.
-bounty-description-salvage-ore-silver = Wir untersuchen die materiellen Auswirkungen von Silber auf der Grundlage der Raffinationsmethoden. Sende uns eine große Menge an unraffiniertem Silbererz. Es kann aus jeder Quelle kommen.
+bounty-description-tooth-space-carp = Wir brauchen von dir eine Probe einiger Weltraumkarpfen-Zähne. Du findest sie auf allerlei Salvage-Trümmern. Sei nur vorsichtig mit ihrem Biss.
+bounty-description-salvage-scrap = Wir erforschen die Auswirkungen des Weltraums auf Stationsmaterialien und brauchen einige Proben. Finde ein Stück alten Trümmerschrott und bring es uns.
+bounty-description-salvage-ore-gold = Wir erproben ein neues, experimentelles Verfahren zur Elektronikfertigung. Liefere uns eine große Menge unraffiniertes Golderz. Es kann aus jeder Quelle stammen.
+bounty-description-salvage-ore-silver = Wir untersuchen die Materialeigenschaften von Silber je nach Raffinationsmethode. Sende uns eine große Menge unraffiniertes Silbererz. Es kann aus jeder Quelle stammen.
 
-bounty-description-tooth-sharkminnow = Wir brauchen dich, um eine Probe von einigen Sharkminnow Zähne zu bekommen. Diese Jungs sind ein bisschen unangenehmer als der kleinere Karpfen, den dich kennen. Achte darauf, dass sie dich nicht beißen lassen: Du wirst dein Blut aussaugen und heilen.
-bounty-description-salvage-ore-plasma = Wir brauchen eine Lieferung von Plasmaerz zur Forschungsstation. Bitte gib uns einige, damit wir unsere Tests fortsetzen können. Es kann aus jeder Quelle kommen.
+bounty-description-tooth-sharkminnow = Wir brauchen von dir eine Probe einiger Sharkminnow-Zähne. Diese Burschen sind ein ganzes Stück fieser als die kleineren Karpfen, die du kennst. Lass dich nicht beißen: Sie saugen dein Blut aus und heilen sich damit.
+bounty-description-salvage-ore-plasma = Wir brauchen eine Lieferung Plasmaerz für die Forschungsstation. Bitte gib uns etwas davon, damit wir unsere Tests fortsetzen können. Es kann aus jeder Quelle stammen.
 bounty-description-salvage-ore-uranium = Wir brauchen eine Probe Uranerz für unsere laufenden Experimente mit nuklearen Geräten. Beachte, dass das Uran zwar leicht leuchtet, dir aber wahrscheinlich nicht schadet. Es kann aus beliebiger Quelle stammen.
-bounty-description-salvage-ore-bananium = Wir haben ein laufendes Projekt, um die mystifizierende Clown-Genomsequenz zu entschlüsseln. Wir glauben, dass eine Probe von rohem Bananium uns helfen wird, dies zu erreichen. Beachte, dass dies nur von den seltensten Weltraum-Asteroiden kommt.
+bounty-description-salvage-ore-bananium = Wir arbeiten an einem laufenden Projekt, um die rätselhafte Genomsequenz der Clowns zu entschlüsseln. Wir glauben, dass uns eine Probe rohes Bananium dabei helfen wird. Beachte, dass es nur in den seltensten Tiefraum-Asteroiden vorkommt.
 
 bounty-description-remains = Wir brauchen von dir eine Probe von ein paar Hivelord-Kernen. Beachte, dass sich Hivelords unendlich vermehren können, wenn der Kern nicht zerstört wird. Pass auf, dass du nicht überwältigt wirst.
-bounty-description-plates = Wir brauchen ein paar Blätter Goliath verstecken. Diese Jungs sind ziemlich langsam, aber sei vorsichtig mit den Tentakeln: Du wirst dich packen und zu Boden ziehen. Du willst nicht wissen, was als nächstes passiert.
-bounty-description-diamond = Wir brauchen dich, um ein paar Diamanten für einige fortgeschrittene Herstellung zu erwerben. Diese können entweder im nahegelegenen Bergbau-Asteroiden gefunden oder aus der Basilisk-Kreatur herausgeschnitten werden. Wie auch immer dich es tun möchten, hole uns etwas.
+bounty-description-plates = Wir brauchen ein paar Platten Goliath-Haut. Diese Burschen sind ziemlich langsam, aber nimm dich vor den Tentakeln in Acht: Sie packen dich und ziehen dich zu Boden. Du willst nicht wissen, was dann passiert.
+bounty-description-diamond = Wir brauchen ein paar Diamanten für eine fortgeschrittene Fertigung. Sie lassen sich im nahegelegenen Bergbau-Asteroiden finden oder aus dem Basilisken herausschneiden. Wie du es angehst, ist dir überlassen – bring uns welche.

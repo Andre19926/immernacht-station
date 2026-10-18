@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-recharge-basic-entity-ammo-can-recharge = Es wird seine Munition in [color=yellow]{$seconds}[/color] Sekunden.
+recharge-basic-entity-ammo-can-recharge = Es lädt seine Munition in [color=yellow]{$seconds}[/color] Sekunden wieder auf.
 recharge-basic-entity-ammo-full = Es muss seine Munition noch nicht aufladen.

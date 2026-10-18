@@ -7,4 +7,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-other-traitor-alive-title = Mitverräter sicherstellen {$targetName}, {CAPITALIZE($job)} bleibt am Leben.
+objective-condition-other-traitor-alive-title = Stelle sicher, dass dein Mitverräter {$targetName}, {CAPITALIZE($job)}, am Leben bleibt.

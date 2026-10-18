@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-generator-failsafe = Die {$target} schüttelt, wenn das Containment ausfallsicher auslöst!
+comp-generator-failsafe = {$target} bebt, als die Eindämmungssicherung auslöst!
 comp-generator-failsafe-disabled = Etwas verpufft im Inneren von {$target}...

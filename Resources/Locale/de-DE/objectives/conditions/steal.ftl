@@ -14,14 +14,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-title-no-owner = Stehlen der {$itemName}.
-objective-condition-steal-title-alive-no-owner = Stehlen {$itemName}.
-objective-condition-steal-title = Stehlen der {$owner}'s {$itemName}.
+objective-condition-steal-title-no-owner = Stiehl {$itemName}.
+objective-condition-steal-title-alive-no-owner = Stiehl {$itemName}.
+objective-condition-steal-title = Stiehl {$itemName} von {$owner}.
 objective-condition-steal-description = Wir brauchen dich, um {$itemName} zu stehlen. Lass dich nicht erwischen.
 
 objective-condition-steal-station = Station
 objective-condition-steal-Ian = Personalchef-Korgi
 
-objective-condition-thief-description = Die {$itemName} Wäre eine tolle Ergänzung zu meiner Sammlung!
-objective-condition-thief-animal-description = Die {$itemName} wäre eine großartige Ergänzung zu meiner Sammlung! Am wichtigsten ist, lebendig.
-objective-condition-thief-multiply-description = Ich muss bekommen {$count} {MAKEPLURAL($itemName)} Und nimm sie mit mir.
+objective-condition-thief-description = {$itemName} wäre eine tolle Ergänzung für meine Sammlung!
+objective-condition-thief-animal-description = {$itemName} wäre eine großartige Ergänzung für meine Sammlung! Und zwar am besten lebendig.
+objective-condition-thief-multiply-description = Ich muss {$count} {MAKEPLURAL($itemName)} (beliebig) beschaffen und mitnehmen.

@@ -1,1 +1,1 @@
-inspect-mind-verb-get-data-text = Inspizieren Mind
+inspect-mind-verb-get-data-text = Geist untersuchen

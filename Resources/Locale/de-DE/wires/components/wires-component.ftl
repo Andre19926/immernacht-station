@@ -21,7 +21,7 @@ wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Du kannst keinen 
 ## UI
 
 wires-menu-name-label = Drähte
-wires-menu-dead-beef-text = Totes Rindfleisch
+wires-menu-dead-beef-text = TOTES-RINDFLEISCH
 wires-menu-help-popup =
     Klicke auf die Goldkontakte mit einem Multitool in der Hand, um ihren Draht zu pulsieren.
     Klicke auf die Drähte mit einem Paar Wirecutters in der Hand, um sie zu schneiden / zu reparieren.

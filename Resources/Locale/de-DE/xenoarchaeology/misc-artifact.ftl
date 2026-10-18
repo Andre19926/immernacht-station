@@ -10,7 +10,7 @@
 blink-artifact-popup = Das Artefakt verschwand in einem Augenblick!
 foam-artifact-popup = Seltsamer Schaum strömt aus dem Artefakt!
 
-shuffle-artifact-popup = Du fühlst dich sofort teleportieren!
+shuffle-artifact-popup = Du spürst, wie du dich plötzlich teleportierst!
 charge-artifact-popup = Du spürst, wie die Luft mit Elektrizität summt.
 
 activate-artifact-popup-self = Du aktivierst Knoten {$node}.

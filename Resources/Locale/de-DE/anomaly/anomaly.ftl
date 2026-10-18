@@ -9,10 +9,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-anomaly-component-contact-damage = Die Anomalie reißt von deiner Haut!
+anomaly-component-contact-damage = Die Anomalie versengt deine Haut!
 
 anomaly-vessel-component-anomaly-assigned = Anomalie dem Behälter zugewiesen.
-anomaly-vessel-component-not-assigned = Dieses Schiff ist keiner Anomalie zugeordnet. Versuche, einen Scanner darauf zu verwenden.
+anomaly-vessel-component-not-assigned = Dieses Gefäß ist keiner Anomalie zugeordnet. Versuche, einen Scanner darauf zu verwenden.
 anomaly-vessel-component-assigned = Dieses Schiff ist derzeit einer Anomalie zugeordnet.
 
 anomaly-particles-delta = Deltapartikel
@@ -61,8 +61,8 @@ anomaly-gorilla-charge-infinite = Es hat [color=gold]unendlich viele Ladungen[/c
 anomaly-sync-connected = Anomalie erfolgreich angebracht
 anomaly-sync-disconnected = Die Verbindung zur Anomalie ist verloren gegangen!
 anomaly-sync-no-anomaly = Keine Anomalie in Reichweite.
-anomaly-sync-examine-connected = Es ist [color=darkgreen]befestigt[/color] zu einer Anomalie.
-anomaly-sync-examine-not-connected = Es ist [color=darkred]nicht angebracht[/color] zu einer Anomalie.
+anomaly-sync-examine-connected = Es ist an einer Anomalie [color=darkgreen]befestigt[/color].
+anomaly-sync-examine-not-connected = Es ist an keiner Anomalie [color=darkred]angebracht[/color].
 anomaly-sync-connect-verb-text = Anomalie anbringen
 anomaly-sync-connect-verb-message = Eine nahe gelegene Anomalie an {THE($machine)} anschließen.
 anomaly-sync-disconnect-verb-text = Anomalie entfernen

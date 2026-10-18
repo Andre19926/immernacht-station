@@ -19,7 +19,7 @@
 nuke-component-cant-anchor-floor = Die Verankerungsbolzen verriegeln sich nicht im Boden!
 nuke-component-cant-anchor-toggle = Die nukleare Authentifizierungsscheibe ist erforderlich, um die Bodenschrauben umzuschalten!
 nuke-component-announcement-sender = Explosive Kernspaltung
-nuke-component-announcement-armed = Achtung! Der Selbstzerstörungsmechanismus der Station wurde eingesetzt {$location}. {$time} Sekunden bis zur Detonation. Wenn dies irrtümlich gemacht wurde, kann der Mechanismus immer noch entwaffnet werden.
+nuke-component-announcement-armed = Achtung! Der Selbstzerstörungsmechanismus der Station wurde {$location} aktiviert. {$time} Sekunden bis zur Detonation. Wurde dies irrtümlich ausgelöst, kann der Mechanismus noch entschärft werden.
 nuke-component-announcement-unarmed = Die Selbstzerstörung der Station wurde deaktiviert! Einen schönen Tag!
 nuke-component-announcement-send-codes = Achtung! Selbstzerstörungscodes wurden an bestimmte Faxgeräte gesendet.
 nuke-component-doafter-warning = Du fängst an, mit Drähten und Knöpfen herumzuspielen, um die Nuke zu entwaffnen. Das kann eine Weile dauern.
@@ -37,7 +37,7 @@ nuke-user-interface-eject-button = EJEKT
 nuke-user-interface-first-status-device-locked = VORRICHTUNG
 nuke-user-interface-first-status-input-code = INPUT-CODE
 nuke-user-interface-first-status-input-time = ANPUTZZEIT
-nuke-user-interface-first-status-device-ready = GERÄTBAR
+nuke-user-interface-first-status-device-ready = GERÄT BEREIT
 nuke-user-interface-first-status-device-armed = VORRICHTUNG
 nuke-user-interface-first-status-device-cooldown = DEAKTIVIERT
 nuke-user-interface-status-error = FEHLER
@@ -46,7 +46,7 @@ nuke-user-interface-status-error = FEHLER
 nuke-user-interface-second-status-await-disk = DISKETTE EINLEGEN
 nuke-user-interface-second-status-time = ZEIT: {$time}
 nuke-user-interface-second-status-current-code = Code: {$code}
-nuke-user-interface-second-status-cooldown-time = WART: {$time}
+nuke-user-interface-second-status-cooldown-time = WARTEN: {$time}
 
 ## Nuke labels
 nuke-label-nanotrasen = NT-{$serial}
@@ -64,5 +64,5 @@ nuke-codes-fax-paper-name = Nukleare Authentifizierungscodes
 nuke-slot-component-slot-name-disk = Scheibe
 
 ## Examine
-nuke-examine-armed = Hey uh, warum ist das [color=red]rotes Licht[/color] Blinzeln?
-nuke-examine-exploding = Ja... Ich denke, es ist zu spät Kumpel.
+nuke-examine-armed = Hey, äh, warum blinkt dieses [color=red]rote Licht[/color]?
+nuke-examine-exploding = Ja ... ich glaube, dafür ist es zu spät, Kumpel.

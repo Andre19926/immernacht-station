@@ -13,10 +13,10 @@ power-sensor-examine = Es prüft derzeit die {$output ->
     [true] Ausgangsleistung
     *[false] Eingangsleistung
 } des Netzes.
-power-sensor-voltage-examine = Es prüft die {$voltage} Stromnetz.
+power-sensor-voltage-examine = Es überwacht das {$voltage}-Stromnetz.
 
 power-sensor-switch = Prüft jetzt die {$output ->
     [true] Ausgangsleistung
     *[false] Eingangsleistung
 } des Netzes.
-power-sensor-voltage-switch = Schaltnetz an {$voltage}!
+power-sensor-voltage-switch = Netzwerk auf {$voltage} umgeschaltet!

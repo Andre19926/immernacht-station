@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-take-item-verb-text = Nehmen {$subject}
-place-item-verb-text = Ort {$subject}
+take-item-verb-text = {$subject} nehmen
+place-item-verb-text = {$subject} ablegen

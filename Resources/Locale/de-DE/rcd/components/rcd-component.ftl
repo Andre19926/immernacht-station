@@ -14,21 +14,21 @@
 ### UI
 
 rcd-component-examine-mode-details = Er ist derzeit auf den Modus „{$mode}“ eingestellt.
-rcd-component-examine-build-details = Es wird derzeit gebaut {MAKEPLURAL($name)}.
+rcd-component-examine-build-details = Es baut derzeit: {MAKEPLURAL($name)}.
 
 
 ### Interaction Messages
 
 # Mode change
 rcd-component-change-mode = Der RCD ist jetzt auf den Modus „{$mode}“ eingestellt.
-rcd-component-change-build-mode = Der RCD wird jetzt gebaut {MAKEPLURAL($name)}.
+rcd-component-change-build-mode = Der RCD baut jetzt: {MAKEPLURAL($name)}.
 
 # Ammo count
 rcd-component-no-ammo-message = Dem RCD gehen die Ladungen aus!
 rcd-component-insufficient-ammo-message = Der RCD hat nicht genug Ladungen übrig!
 
 # Deconstruction
-rcd-component-tile-indestructible-message = Diese ist nicht zu zerstören!
+rcd-component-tile-indestructible-message = Das ist nicht zerstörbar!
 rcd-component-deconstruct-target-not-on-whitelist-message = Du kannst das nicht dekonstruieren!
 rcd-component-nothing-to-deconstruct-message = Es gibt nichts zu dekonstruieren!
 rcd-component-tile-obstructed-message = Du kannst keine Kacheln abbauen, solange etwas darauf liegt!
@@ -42,7 +42,7 @@ rcd-component-cannot-build-on-empty-tile-message = Das kannst du nicht ohne Fund
 rcd-component-must-build-on-subfloor-message = Das kannst du nur auf freiliegendem Unterboden bauen!
 rcd-component-cannot-build-on-subfloor-message = Das kannst du nicht auf freiliegendem Unterboden bauen!
 rcd-component-cannot-build-on-occupied-tile-message = Du kannst hier nicht bauen, der Platz ist bereits belegt!
-rcd-component-cannot-build-identical-tile = Diese Kachel existiert bereits dort!
+rcd-component-cannot-build-identical-tile = Diese Kachel ist hier bereits vorhanden!
 rcd-component-cannot-build-identical-entity = Das gibt es dort schon!
 
 

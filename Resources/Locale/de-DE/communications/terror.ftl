@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-terror-dragon = Achtung Crew, es scheint, dass jemand auf ihrer station eine unerwartete kommunikation mit einem seltsamen menschen essenden fisch im nahen raum gemacht hat.
-terror-revenant = Aufmerksamkeit Crew, es scheint, dass jemand auf deiner Station eine unerwartete Kommunikation mit einer jenseitigen Energie im nahen Raum gemacht hat.
+terror-dragon = Achtung, Crew: Offenbar hat jemand auf eurer Station im nahen Raum eine unerwartete Kommunikation mit einem seltsamen menschenfressenden Fisch hergestellt.
+terror-revenant = Achtung, Crew: Offenbar hat jemand auf eurer Station im nahen Raum eine unerwartete Kommunikation mit einer jenseitigen Energie hergestellt.

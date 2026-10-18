@@ -7,8 +7,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 goodfeeling-artifact-1 = Du fühlst dich gut.
-goodfeeling-artifact-2 = Alles scheint in Ordnung zu gehen
-goodfeeling-artifact-3 = Du hast ein gutes Gefühl darüber
+goodfeeling-artifact-2 = Alles scheint in Ordnung zu sein.
+goodfeeling-artifact-3 = Du hast ein gutes Gefühl dabei.
 goodfeeling-artifact-4 = Deine Instinkte sagen dir, dass alles besser wird.
 goodfeeling-artifact-5 = Es liegt ein gutes Gefühl in der Luft.
 goodfeeling-artifact-6 = Etwas riecht ... gut.

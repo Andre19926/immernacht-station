@@ -13,8 +13,8 @@ custom-vote-webhook-option-cancelled = N/A
 
 votekick-webhook-name = Votekick gestartet
 votekick-webhook-description = Initiator: { $initiator }; Ziel: { $target }
-votekick-webhook-cancelled-admin-online = **Vote abgesagt wegen Admins online**
-votekick-webhook-cancelled-admin-target = **Vote abgesagt, weil das Ziel admin ist **
-votekick-webhook-cancelled-antag-target = **Vote abgesagt wegen Ziel ist antag**
+votekick-webhook-cancelled-admin-online = **Abstimmung abgebrochen, weil Admins online sind**
+votekick-webhook-cancelled-admin-target = **Abstimmung abgebrochen, weil das Ziel Admin ist**
+votekick-webhook-cancelled-antag-target = **Abstimmung abgebrochen, weil das Ziel Antagonist ist**
 
 votekick-ban-reason = „Votekick: {$reason}"

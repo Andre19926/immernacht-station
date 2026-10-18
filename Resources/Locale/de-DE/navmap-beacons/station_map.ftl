@@ -11,7 +11,7 @@ station-map-window-title = Stationskarte
 station-map-user-interface-flavor-left = Keine Panik
 station-map-user-interface-flavor-right = v1.42
 station-map-filter-placeholder = Suche nach Namen
-station-map-unknown-station = Unbekannter Station
+station-map-unknown-station = Unbekannte Station
 
 nav-beacon-window-title = Stationsbake
 nav-beacon-toggle-visible = Sichtbar

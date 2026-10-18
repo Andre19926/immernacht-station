@@ -7,5 +7,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emag-success = Das Gerät sendet einen Zap in {THE($target)}.
+emag-success = Das Gerät lässt in {THE($target)} etwas knistern.
 emag-no-charges = Keine Ladungen mehr!

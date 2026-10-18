@@ -11,7 +11,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ninja-no-power = Nicht genug Ladung im Akku!
-ninja-revealed = Du bist offenbart worden!
+ninja-revealed = Du wurdest enttarnt!
 ninja-suit-cooldown = Der Anzug braucht Zeit, um sich vom letzten Angriff zu erholen.
 ninja-cell-downgrade = Der Anzug akzeptiert nur eine neue Kraftzelle, die besser ist als die aktuelle!
 ninja-cell-too-large = Diese Stromquelle passt nicht in den Ninja-Anzug!

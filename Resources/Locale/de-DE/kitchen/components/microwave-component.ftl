@@ -17,7 +17,7 @@
 microwave-component-interact-using-no-power = Es hat keinen Strom!
 microwave-component-interact-using-broken = Es ist kaputt!
 microwave-component-interact-using-container-full = Behälter ist voll
-microwave-component-interact-using-transfer-success = Übertragen {$amount}u
+microwave-component-interact-using-transfer-success = {$amount}u übertragen
 microwave-component-interact-using-transfer-fail = Das wird nicht funktionieren!
 microwave-component-suicide-multi-head-others-message = {$victim} versucht, sich die Köpfe zu kochen!
 microwave-component-suicide-others-message = {$victim} versucht, sich den Kopf zu kochen!
@@ -29,7 +29,7 @@ microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } ist zu gr
 ## Bound UI
 
 microwave-bound-user-interface-instant-button = SOFORT
-microwave-bound-user-interface-cook-time-label = KOKZEIT: {$time}
+microwave-bound-user-interface-cook-time-label = KOCHZEIT: {$time}
 
 ## UI
 

@@ -6,13 +6,13 @@
 
 cmd-dungen-desc = Generiert einen prozeduralen Dungeon mit der angegebenen Voreinstellung, Position und Seed. Wird im Weltraum erscheinen, wenn die MapId nicht über MapGridComponent verfügt.
 cmd-dungen-help = dungen <MapId> <DungeonPreset> <PosX> <PosY> [seed]
-cmd-dungen-arg-count = Erfordert 4 Args.
-cmd-dungen-map-parse = Kann MapId nicht analysieren.
-cmd-dungen-mapgrid = MapGrid kann nicht gefunden werden.
-cmd-dungen-config = Du kannst keine Dungeon Config finden.
-cmd-dungen-pos = Position nicht analysieren können.
-cmd-dungen-seed = Kann Samen nicht analysieren.
-cmd-dungen-start = Dungeon mit Saatgut erzeugen {$seed}
+cmd-dungen-arg-count = Erfordert 4 Argumente.
+cmd-dungen-map-parse = MapId konnte nicht gelesen werden.
+cmd-dungen-mapgrid = MapGrid konnte nicht gefunden werden.
+cmd-dungen-config = Dungeon-Konfiguration nicht gefunden.
+cmd-dungen-pos = Position konnte nicht gelesen werden.
+cmd-dungen-seed = Seed konnte nicht gelesen werden.
+cmd-dungen-start = Dungeon mit Seed {$seed} wird erzeugt
 
 cmd-dungen-hint-map = Karte Id
 cmd-dungen-hint-config = Dungeon-Konfiguration

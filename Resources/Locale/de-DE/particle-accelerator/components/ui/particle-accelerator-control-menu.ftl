@@ -27,6 +27,6 @@ particle-accelerator-control-menu-draw-not-available = [font="Monospace"][color=
 particle-accelerator-control-menu-flavor-left = Bitte halte den Clown von dieser Konsole fern!
 particle-accelerator-control-menu-flavor-right = v 1.6
 
-particle-accelerator-radio-message-on = PA Strom wurde eingeschaltet.
-particle-accelerator-radio-message-off = PA Strom ausgeschaltet wurde.
-particle-accelerator-radio-message-num = PA-Stärke wurde auf Niveau gesetzt {$level}.
+particle-accelerator-radio-message-on = PA-Strom wurde eingeschaltet.
+particle-accelerator-radio-message-off = PA-Strom wurde ausgeschaltet.
+particle-accelerator-radio-message-num = PA-Stärke wurde auf Stufe {$level} gesetzt.

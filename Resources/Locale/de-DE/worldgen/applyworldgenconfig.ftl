@@ -5,5 +5,5 @@
 
 cmd-applyworldgenconfig-description = Wendet die gegebene Worldgen-Konfiguration auf eine Karte an und richtet sie auf Chunk Loading/etc ein.
 cmd-applyworldgenconfig-help = applyworldgenconfig <mapid> <prototype>
-cmd-applyworldgenconfig-prototype = Worldgen Config Prototyp
-cmd-applyworldgenconfig-success = Config erfolgreich angewendet. Führe diesen Befehl auf dieser Karte nicht erneut aus.
+cmd-applyworldgenconfig-prototype = Worldgen-Konfigurationsprototyp
+cmd-applyworldgenconfig-success = Konfiguration erfolgreich angewendet. Führe diesen Befehl auf dieser Karte nicht erneut aus.

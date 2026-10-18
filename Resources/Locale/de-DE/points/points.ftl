@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 point-scoreboard-winner = Der Sieger war [color=lime]{$player}![/color]
-point-scoreboard-header = [bold]Anzeiger[/bold]
+point-scoreboard-header = [bold]Punktetafel[/bold]
 point-scoreboard-list = {$place}. [bold][color=cyan]{$name}[/color][/bold] hat [color=yellow]{$points ->
     [one] {$points} Punkt
     *[other] {$points} Punkte

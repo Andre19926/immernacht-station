@@ -33,5 +33,5 @@ power-monitoring-window-show-lv-cable = Niederspannung
 
 power-monitoring-window-flavor-left = [user@nanotrasen] $run power_net_query
 power-monitoring-window-flavor-right = v1.3
-power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold]! WARNUNG - ROGUE KRAFTVERBRAUCHERGERÄT NACHWEISEN![/bold][/font][/color]
-power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]VORSICHT - ABNORMALE AKTIVITÄT IM KRAFTNETZ[/bold][/font][/color]
+power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold]! WARNUNG – UNBEKANNTER STROMVERBRAUCHER ERKANNT ![/bold][/font][/color]
+power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]VORSICHT – UNGEWÖHNLICHE AKTIVITÄT IM STROMNETZ[/bold][/font][/color]

@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dice-component-on-examine-message-part-1 = Ein Sterben mit [color=lightgray]{$sidesAmount}[/color] Seiten.
+dice-component-on-examine-message-part-1 = Ein Würfel mit [color=lightgray]{$sidesAmount}[/color] Seiten.
 dice-component-on-examine-message-part-2 = Es landet auf einem [color=white]{$currentSide}[/color].
 dice-component-on-roll-land = { CAPITALIZE(THE($die)) } landet auf {$currentSide}.

@@ -184,7 +184,7 @@ chat-speech-verb-parrot-2 = zwitschert
 chat-speech-verb-parrot-3 = tschirpt
 
 chat-speech-verb-cluwne-1 = kichert
-chat-speech-verb-cluwne-2 = gröhlt
+chat-speech-verb-cluwne-2 = grölt
 chat-speech-verb-cluwne-3 = lacht
 
 chat-speech-verb-name-ghost = Geist

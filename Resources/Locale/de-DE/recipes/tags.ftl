@@ -7,12 +7,12 @@ construction-graph-tag-clown-recorder = Clownschreiber
 construction-graph-tag-clown-bike-horn = Radhorn
 construction-graph-tag-clowne-horn = gebrochenes Fahrradhorn
 construction-graph-tag-happy-honk-meal = fröhliches Hupenmehl
-construction-graph-tag-woeful-cluwne-meal = wehmütiges Kluwenmehl
+construction-graph-tag-woeful-cluwne-meal = wehmütiges Cluwne-Mehl
 construction-graph-tag-boxhug = Eine Kiste mit Umarmungen
 
 # mime
 construction-graph-tag-suspenders = Hosenträger
-construction-graph-tag-mime-meal = Mime Edition Happy Honk Mahlzeit
+construction-graph-tag-mime-meal = Happy-Honk-Menü (Mime-Edition)
 
 # crayon
 construction-graph-tag-purple-crayon = Purpurstift
@@ -26,7 +26,7 @@ construction-graph-tag-eva-helmet = ein EVA-Helm
 
 # hud
 construction-graph-tag-security-hud = Sicherheitstrupp
-construction-graph-tag-medical-hud = Medizinischer Hud
+construction-graph-tag-medical-hud = Medizinisches HUD
 
 # security
 construction-graph-tag-sun-glasses = Sonnenbrillen
@@ -37,18 +37,18 @@ construction-graph-tag-manipulator = Modulares Maschinenteil
 construction-graph-tag-voice-trigger = Sprachauslöser
 construction-graph-tag-signal-trigger = Signalauslöser
 construction-graph-tag-proximity-sensor = Näherungssensor
-construction-graph-tag-glass-shard = a Glasscherbe
+construction-graph-tag-glass-shard = eine Glasscherbe
 construction-graph-tag-plasma-glass-shard = Plasmaglasscherbe
 construction-graph-tag-uranium-glass-shard = Uranglasscherbe
-construction-graph-tag-reinforced-glass-shard = einer verstärkten Glasscherbe
+construction-graph-tag-reinforced-glass-shard = eine verstärkte Glasscherbe
 construction-graph-tag-grey-flatcap = ein grauer Flatcap
 construction-graph-tag-brown-flatcap = ein brauner Flatcap
 construction-graph-tag-cuffs = Manschetten
 construction-graph-tag-payload = Nutzlast
 construction-graph-tag-empty-can = Eine leere Dose
-construction-graph-tag-igniter = einem Zünder
+construction-graph-tag-igniter = ein Zünder
 construction-graph-tag-modular-receiver = modularer Empfänger
-construction-graph-tag-power-cell-small = Leistungszelle klein
+construction-graph-tag-power-cell-small = Kleine Energiezelle
 construction-graph-tag-power-cell = Energiezelle
 construction-graph-tag-potato-battery = eine Kartoffelbatterie
 construction-graph-tag-super-compact-ai-chip = ein superkompakter KI-Chip
@@ -69,29 +69,29 @@ construction-graph-tag-match-stick = Streichholz
 construction-graph-tag-potato = eine Kartoffel
 construction-graph-tag-wheat-bushel = Weizenbuscheln
 construction-graph-tag-corgi-hide = Korgihaut
-construction-graph-tag-apron = einer Schürze
-construction-graph-tag-utility-belt = einem Versorgungsgurt
+construction-graph-tag-apron = eine Schürze
+construction-graph-tag-utility-belt = ein Universalgürtel
 soil-construction-graph-any-mushroom = Pilze
 construction-graph-tag-mop-basic = Mohn
 construction-graph-tag-paper = Büropapier
-construction-graph-tag-core-pinpointer-piece = Stück Kernpinpointer
+construction-graph-tag-core-pinpointer-piece = Kern-Pinpointer-Stück
 
 # toys
 construction-graph-tag-rubber-ducky = eine Gummiente
 construction-graph-tag-ghost = Geister-Kuscheltier
 construction-graph-tag-ectoplasm = Ektoplasma
-construction-graph-tag-lizard-plushie = Echse plushie
+construction-graph-tag-lizard-plushie = Echsen-Plüschtier
 
 # carpet
 construction-graph-tag-black-carpet = schwarzer Teppich
-construction-graph-tag-blue-carpet = Blauer Teppich
+construction-graph-tag-blue-carpet = blauer Teppich
 construction-graph-tag-cyan-carpet = Cyanteppich
-construction-graph-tag-green-carpet = Grüner Teppich
+construction-graph-tag-green-carpet = grüner Teppich
 construction-graph-tag-orange-carpet = Orangenteppich
 construction-graph-tag-pink-carpet = rosafarbener Teppich
 construction-graph-tag-purple-carpet = Purpurteppich
-construction-graph-tag-red-carpet = Roter Teppich
-construction-graph-tag-white-carpet = Weißer Teppich
+construction-graph-tag-red-carpet = roter Teppich
+construction-graph-tag-white-carpet = weißer Teppich
 
 # mechs
 construction-graph-tag-hamtr-central-control-module = HAMTR-Zentralsteuermodul
@@ -137,12 +137,12 @@ construction-graph-tag-blue-crystal-shard = blaue Kristallscherbe
 construction-graph-tag-pink-crystal-shard = rosa Kristallscherbe
 construction-graph-tag-orange-crystal-shard = orange Kristallscherbe
 construction-graph-tag-red-crystal-shard = rote Kristallscherbe
-construction-graph-tag-green-crystal-shard = Grüne Kristallschürze
+construction-graph-tag-green-crystal-shard = grüne Kristallscherbe
 construction-graph-tag-yellow-crystal-shard = gelbe Kristallscherbe
 construction-graph-tag-black-crystal-shard = schwarze Kristallscherbe
 
 # unknown
-construction-graph-tag-weapon-pistol-chimp-upgrade-kit = Pistole CHIMP Upgrade Kit
+construction-graph-tag-weapon-pistol-chimp-upgrade-kit = CHIMP-Upgrade-Kit für Pistolen
 construction-graph-tag-torch = Brenner
 
 # atmos

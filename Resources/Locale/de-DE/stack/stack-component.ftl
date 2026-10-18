@@ -24,17 +24,17 @@ comp-stack-status = Anzahl: [color=white]{$count}[/color]
 ### Interaction Messages
 
 # Shown when attempting to add to a stack that is full
-comp-stack-already-full = Stack ist schon voll.
+comp-stack-already-full = Der Stapel ist schon voll.
 
 # Shown when a stack becomes full
-comp-stack-becomes-full = Stack ist jetzt voll.
+comp-stack-becomes-full = Der Stapel ist jetzt voll.
 
 # Text related to splitting a stack
 comp-stack-split = Du teilst den Stapel.
 # Goobstation - Custom stack splitting dialog
 comp-stack-split-custom = Teilbetrag ...
 comp-stack-split-halve = Halbe
-comp-stack-split-too-small = Stack ist zu klein zum Splitten.
+comp-stack-split-too-small = Der Stapel ist zu klein zum Teilen.
 
 # Goobstation - Custom stack splitting dialog
 comp-stack-split-size = Max.: {$size}

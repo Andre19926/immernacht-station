@@ -1,4 +1,4 @@
-construction-graph-component-any-computer-circuit-board = jede Computerschaltung
+construction-graph-component-any-computer-circuit-board = beliebige Computerplatine
 construction-graph-component-door-electronics-circuit-board = Türelektronikschaltung
 construction-graph-component-flash = Blitz
 construction-graph-component-second-flash = zweiter Blitz

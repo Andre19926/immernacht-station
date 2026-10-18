@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-communication-interception = Achtung! Feind Kommunikation abgefangen. Sicherheitsniveau erhöht.
+station-event-communication-interception = Achtung! Feindliche Kommunikation abgefangen. Sicherheitsniveau erhöht.

@@ -25,4 +25,4 @@ genpop-locket-ui-button-done = Fertig
 
 genpop-locker-action-end-early = Strafe vorzeitig beenden
 genpop-locker-action-clear-id = ID löschen
-genpop-locker-action-reset-sentence = Satz zurücksetzen (){NATURALFIXED($percent, 0)}% serviert
+genpop-locker-action-reset-sentence = Strafe zurücksetzen ({NATURALFIXED($percent, 0)}% verbüßt)

@@ -5,8 +5,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 surveillance-camera-monitor-ui-window = Kameramonitor
-surveillance-camera-monitor-ui-refresh-cameras = Erfrischende Kameras
-surveillance-camera-monitor-ui-refresh-subnets = Erfrischende Subnetze
+surveillance-camera-monitor-ui-refresh-cameras = Kameras aktualisieren
+surveillance-camera-monitor-ui-refresh-subnets = Subnetze aktualisieren
 surveillance-camera-monitor-ui-disconnect = Trennung
 surveillance-camera-monitor-ui-status = {$status} {$address}
 surveillance-camera-monitor-ui-status-connecting = Anschluss:

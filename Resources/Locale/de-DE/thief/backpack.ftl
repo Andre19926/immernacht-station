@@ -12,7 +12,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-thief-backpack-window-title = Räubersatz
+thief-backpack-window-title = Diebes-Set
 
 thief-backpack-window-description =
     Darin liegt dein Handwerkszeug; es löst sich auf, sobald du bereit bist.
@@ -63,7 +63,7 @@ thief-backpack-category-sleeper-description =
     Umfasst: Schläfriger Lachgasbehälter, zwei Nocturinflaschen,
     Und ein Hypopen.
 
-thief-backpack-category-communicator-name = Kommunikator Kit
+thief-backpack-category-communicator-name = Kommunikator-Set
 thief-backpack-category-communicator-description =
     Geld ist Macht und Geheimnisse sind Geld. Verwende deine silberne Zunge
     und Reichtum, um die Station zu untergraben.

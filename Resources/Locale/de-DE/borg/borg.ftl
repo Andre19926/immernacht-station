@@ -51,7 +51,7 @@ borg-select-type-menu-guidebook = Guidebook
 
 borg-type-generic-name = Allgemein
 borg-type-generic-desc = Mädchen für alles, aber in nichts richtig gut. Erledige verschiedene Aufgaben auf der Station oder hilf der Wissenschaft, die dich gebaut hat.
-borg-type-generic-transponder = allgemeiner Cyborg
+borg-type-generic-transponder = Allzweck-Cyborg
 
 borg-type-engineering-name = Technik
 borg-type-engineering-desc = Unterstütze die Technik beim Bau der Station, bei der Reparatur von Schäden und bei elektrischen oder atmosphärischen Problemen.

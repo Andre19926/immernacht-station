@@ -10,8 +10,8 @@ cmd-mapping-server = Nur Spieler können diesen Befehl verwenden.
 cmd-mapping-error = Beim Erstellen der neuen Karte ist ein Fehler aufgetreten.
 cmd-mapping-try-grid = Die Datei konnte nicht als Karte geladen werden. Der Versuch, die Datei als Raster zu laden...
 cmd-mapping-success-load = Erstellte uninitialisierte Karte aus Datei {$path} mit ID {$mapId}.
-cmd-mapping-success-load-grid = Uninitialisiertes Raster aus Datei geladen {$path} auf eine neue Karte mit ID {$mapId}.
-cmd-mapping-success = Erstellen einer uninitialisierten Karte mit ID {$mapId}.
+cmd-mapping-success-load-grid = Uninitialisiertes Raster aus Datei {$path} auf eine neue Karte mit ID {$mapId} geladen.
+cmd-mapping-success = Uninitialisierte Karte mit ID {$mapId} erstellt.
 cmd-mapping-warning = WARNUNG: Der Server verwendet einen Debug Build. Du riskierst, deine Änderungen zu verlieren.
 
 
@@ -24,4 +24,4 @@ cmd-mapping-nullspace = Du kannst nicht in Karte 0 laden.
 cmd-hint-mapping-id = [MapID]
 cmd-mapping-hint-grid = [Grid]
 cmd-hint-mapping-path = [Path]
-cmd-mapping-exists = Karte {$mapId} bereits existiert.
+cmd-mapping-exists = Karte {$mapId} existiert bereits.

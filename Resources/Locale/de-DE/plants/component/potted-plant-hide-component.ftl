@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-potted-plant-hide-component-interact-hand-got-no-item-message = Du wurzelst in den Wurzeln herum.
+potted-plant-hide-component-interact-hand-got-no-item-message = Du wühlst zwischen den Wurzeln herum.

@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-examine-pinpointer-linked = Es ist Tracking: {$target}
+examine-pinpointer-linked = Es verfolgt: {$target}
 pinpointer-link-success = Pinpointer erfolgreich verknüpft

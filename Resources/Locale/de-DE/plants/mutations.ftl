@@ -4,4 +4,4 @@ mutation-plant-ligneous = Es ist holzig und braucht ein scharfes Werkzeug zum Er
 mutation-plant-scream = Diese Pflanze wirkt irgendwie nervös.
 mutation-plant-sentient = Es scheint seine Umgebung zu untersuchen.
 mutation-plant-slippery = Es ist glatt zur Berührung.
-mutation-plant-unviable = Es ist welkend und kränklich.
+mutation-plant-unviable = Es welkt und kränkelt.

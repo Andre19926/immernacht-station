@@ -19,7 +19,7 @@ zombie-role-rules = Du bist ein [color={role-type-team-antagonist-color}][bold]{
 
 zombie-permadeath = Diesmal bist du wirklich tot.
 
-zombification-resistance-coefficient-value = - [color=violet]Infektion[/color] Chance reduziert durch [color=lightblue]{$value}%[/color].
+zombification-resistance-coefficient-value = - Chance auf [color=violet]Infektion[/color] um [color=lightblue]{$value}%[/color] verringert.
 
 zombie-roleban-ghosted = Du wurdest zum Geist gemacht, weil du für die Rolle des Zombies gesperrt bist.
 

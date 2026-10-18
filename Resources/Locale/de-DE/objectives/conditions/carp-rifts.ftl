@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-carp-rifts-title = Offen {$count} Karpfenrisse
-objective-carp-rifts-description = Verwende die Rift-Aktion zum Öffnen {$count} Risse und sorgen dafür, dass sie nicht zerstört werden. Wenn du nach 5 Minuten keinen Riss öffnest, wirst du getötet.
+objective-carp-rifts-title = Öffne {$count} Karpfenrisse
+objective-carp-rifts-description = Verwende die Riss-Aktion, um {$count} Risse zu öffnen, und sorge dafür, dass sie nicht zerstört werden. Wenn du nach 5 Minuten keinen Riss öffnest, wirst du getötet.

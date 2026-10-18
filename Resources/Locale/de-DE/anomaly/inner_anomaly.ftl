@@ -6,15 +6,15 @@
 
 inner-anomaly-start-message-pyro = Du spürst die wahnsinnige Flamme in dir. Du bist zum Wirt einer pyroklastischen Anomalie geworden.
 inner-anomaly-start-message-shock = Blitze zucken an deinen Fingerspitzen! Du bist zum Wirt einer elektrischen Anomalie geworden.
-inner-anomaly-start-message-shadow = Es strömt eine undurchdringliche Dunkelheit aus dir heraus... Du wurdest zum Gastgeber einer Schattenanomalie.
-inner-anomaly-start-message-frost = Der eisige Frost bindet deine Knochen. Du wurdest der Gastgeber einer Eisanomalie.
-inner-anomaly-start-message-flora = Blätter und Blumen sprießen durch deine Haut! Du wurdest der Gastgeber einer floralen Anomalie.
+inner-anomaly-start-message-shadow = Es strömt eine undurchdringliche Dunkelheit aus dir heraus ... Du bist zum Wirt einer Schattenanomalie geworden.
+inner-anomaly-start-message-frost = Der eisige Frost bindet deine Knochen. Du bist zum Wirt einer Eisanomalie geworden.
+inner-anomaly-start-message-flora = Blätter und Blumen sprießen durch deine Haut! Du bist zum Wirt einer floralen Anomalie geworden.
 inner-anomaly-start-message-bluespace = Deine Gedanken rasen wie verrückt! Du bist zum Wirt einer Bluespace-Anomalie geworden.
-inner-anomaly-start-message-flesh = Dein Körper wächst hektisch. Du wurdest der Gastgeber einer Fleischanomalie.
-inner-anomaly-start-message-grav = Alles wurde unnatürlich schwer und leicht zugleich... Du wurdest zum Gastgeber einer Gravitationsanomalie.
+inner-anomaly-start-message-flesh = Dein Körper wächst hektisch. Du bist zum Wirt einer Fleischanomalie geworden.
+inner-anomaly-start-message-grav = Alles wird unnatürlich schwer und leicht zugleich ... Du bist zum Wirt einer Gravitationsanomalie geworden.
 inner-anomaly-start-message-tech = Dein Kopf brummt von der Menge an chaotischen Informationen! Du bist zum Wirt einer Technik-Anomalie geworden.
-inner-anomaly-start-message-rock = Die Kristalle wachsen durch deine Knochen! Du wurdest der Gastgeber einer Rock-Anomalie.
-inner-anomaly-start-message-santa = Du wirst besessen vom Weihnachtsgeist! Du wurdest der Gastgeber einer Weihnachtsanomalie.
+inner-anomaly-start-message-rock = Die Kristalle wachsen durch deine Knochen! Du bist zum Wirt einer Kristallanomalie geworden.
+inner-anomaly-start-message-santa = Du wirst vom Weihnachtsgeist besessen! Du bist zum Wirt einer Weihnachtsanomalie geworden.
 
 inner-anomaly-end-message = Die abnorme Aktivität in dir verschwindet spurlos.
 

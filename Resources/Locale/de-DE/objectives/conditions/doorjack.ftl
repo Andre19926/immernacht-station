@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-doorjack-title = Doorjacke {$count} Türen auf der Station.
-objective-condition-doorjack-description = Deine handschuhe können luftschleusen befeuern. Tu dies, um {$count} Türen auf der Station.
+objective-condition-doorjack-title = Knacke {$count} Türen auf der Station mit der Türhacker-Funktion.
+objective-condition-doorjack-description = Deine Handschuhe können Luftschleusen per Emag manipulieren. Tu dies bei {$count} Türen auf der Station.

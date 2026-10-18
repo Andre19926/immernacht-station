@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-kill-head-title = Tötung {$targetName}, {CAPITALIZE($job)}
+objective-condition-kill-head-title = Töte {$targetName}, {CAPITALIZE($job)}

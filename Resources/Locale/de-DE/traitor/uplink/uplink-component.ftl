@@ -15,7 +15,7 @@ uplink-user-interface-search-label = Suche
 
 # Withdraw UI
 
-uplink-user-interface-withdraw-button = Rücknahme TC
-uplink-user-interface-withdraw-title = Rücknahme TC
-uplink-user-interface-withdraw-withdraw-button = Rücknahme
+uplink-user-interface-withdraw-button = TC abheben
+uplink-user-interface-withdraw-title = TC abheben
+uplink-user-interface-withdraw-withdraw-button = Abheben
 uplink-user-interface-withdraw-cancel-button = Abbrechen

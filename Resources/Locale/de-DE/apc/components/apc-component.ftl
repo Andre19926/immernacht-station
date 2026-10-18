@@ -10,6 +10,6 @@
 # SPDX-License-Identifier: MIT
 
 apc-component-insufficient-access = Zugriff verweigert!
-apc-component-on-examine-panel-open = Die [color=lightgray]APC Elektronik Panel[/color] ist [color=red]offen[/color].
-apc-component-on-examine-panel-closed = Die [color=lightgray]APC Elektronik Panel[/color] ist [color=darkgreen]geschlossen[/color].
+apc-component-on-examine-panel-open = Das [color=lightgray]APC-Elektronikpanel[/color] ist [color=red]offen[/color].
+apc-component-on-examine-panel-closed = Das [color=lightgray]APC-Elektronikpanel[/color] ist [color=darkgreen]geschlossen[/color].
 apc-component-on-toggle-cancel = Es passiert nichts!

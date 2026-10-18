@@ -15,14 +15,14 @@ holopad-window-options = [color=darkgray][font size=10][italic]Bitte wähle eine
 holopad-window-no-calls-in-progress = Kein Holo-Anruf aktiv
 holopad-window-incoming-call = Eingehender Holo-Anruf von:
 holopad-window-relay-label = Ursprung:
-holopad-window-outgoing-call = Der Versuch, eine Verbindung herzustellen...
+holopad-window-outgoing-call = Verbindung wird hergestellt ...
 holopad-window-call-in-progress = Holo-Anruf aktiv
 holopad-window-call-ending = Verbindung wird getrennt ...
-holopad-window-call-rejected = Keine Verbindung herstellen können
+holopad-window-call-rejected = Verbindung konnte nicht hergestellt werden
 holopad-window-ai-request = Deine Anwesenheit wird verlangt von:
 holopad-window-emergency-broadcast-in-progress = [color=#cf2f2f][bold]Notfalldurchsage läuft[/bold][/color]
 holopad-window-controls-locked-out = Die Steuerung dieses Geräts wurde gesperrt an:
-holopad-window-controls-unlock-countdown = Es wird automatisch entsperren in: {$countdown}
+holopad-window-controls-unlock-countdown = Sie wird automatisch entsperrt in: {$countdown}
 
 # Buttons
 holopad-window-answer-call = Anruf annehmen

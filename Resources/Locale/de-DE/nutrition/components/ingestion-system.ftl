@@ -12,8 +12,8 @@ ingestion-remove-mask = Du musst zuerst {$entity} abnehmen.
 
 ## Failed Ingestion
 
-ingestion-you-cannot-ingest-any-more = Du kannst nicht {$verb} Mehr noch!
-ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} kann nicht {$verb} Mehr noch!
+ingestion-you-cannot-ingest-any-more = Du kannst nicht noch mehr {$verb}!
+ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} kann nicht noch mehr {$verb}!
 
 ingestion-cant-digest = Du kannst {THE($entity)} nicht verdauen!
 ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} kann {THE($entity)} nicht verdauen!

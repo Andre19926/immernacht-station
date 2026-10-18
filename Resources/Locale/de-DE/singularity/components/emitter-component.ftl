@@ -16,12 +16,12 @@
 comp-emitter-access-locked = Der Zugang zu {$target} ist gesperrt!
 
 # Shows when turning the emitter on/off
-comp-emitter-turned-on = Die {$target} sich einschaltet.
+comp-emitter-turned-on = {$target} schaltet sich ein.
 
-comp-emitter-turned-off = Die {$target} abschaltet.
+comp-emitter-turned-off = {$target} schaltet sich ab.
 
 # Shows if the user attempts to activate the emitter while it's un-anchored.
-comp-emitter-not-anchored = Die {$target} ist nicht am Boden verankert!
+comp-emitter-not-anchored = {$target} ist nicht am Boden verankert!
 
 emitter-component-current-type = Der aktuell ausgewählte Typ ist: [color=yellow]{$type}[/color].
 emitter-component-type-set = Typ eingestellt auf: {$type}

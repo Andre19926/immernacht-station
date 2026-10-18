@@ -31,8 +31,8 @@ roles-antag-generic-silicon-antagonist-name = Siliciumantagonist
 
 roles-antag-syndicate-agent-objective = Erfülle deine Ziele, ohne erwischt zu werden.
 
-roles-antag-syndicate-agent-sleeper-name = Syndicate Sleeper Agent
-roles-antag-syndicate-agent-sleeper-objective = Eine Form von Verräter, die an jedem Punkt in der Mitte der Verschiebung aktiviert werden kann.
+roles-antag-syndicate-agent-sleeper-name = Syndicate-Schläferagent
+roles-antag-syndicate-agent-sleeper-objective = Eine Art Verräter, der zu jedem beliebigen Zeitpunkt mitten in der Schicht aktiviert werden kann.
 
 roles-antag-initial-infected-name = Erstinfektion
 roles-antag-initial-infected-objective = Sobald du dich umdrehst, infiziere so viele andere Crewmitglieder wie möglich.
@@ -40,26 +40,26 @@ roles-antag-initial-infected-objective = Sobald du dich umdrehst, infiziere so v
 roles-antag-zombie-name = Zombie
 roles-antag-zombie-objective = Verwandle so viele Menschen wie möglich in Zombies.
 
-roles-antag-nuclear-operative-commander-name = Befehlshaber des Nuklearkommandos
+roles-antag-nuclear-operative-commander-name = Kommandant des Atomkommandos
 roles-antag-nuclear-operative-commander-objective = Führe dein Team zur Zerstörung der Station.
 
-roles-antag-nuclear-operative-agent-name = operativer Korpsmann
-roles-antag-nuclear-operative-agent-objective = Der Sanitäter des nuklearen operativen Teams. Heile dein Team zum Sieg!
+roles-antag-nuclear-operative-agent-name = Atomkommando-Sanitäter
+roles-antag-nuclear-operative-agent-objective = Der Sanitäter des Atomkommandos. Heile dein Team zum Sieg!
 
 roles-antag-nuclear-operative-name = Kernkraftbetrieb
 roles-antag-nuclear-operative-objective = Finde die Atomscheibe und sprenge die Station.
 
-roles-antag-subverted-silicon-name = Subvertiertes Silicium
-roles-antag-subverted-silicon-objective = Befolge deine neuen Gesetze und tu der Station schlecht.
+roles-antag-subverted-silicon-name = Unterwandertes Silizium
+roles-antag-subverted-silicon-objective = Befolge deine neuen Gesetze und schade der Station.
 
 roles-antag-space-ninja-name = Weltraum-Ninja
-roles-antag-space-ninja-objective = Verwende deine Stealth, um die Station zu sabotieren, nom auf elektrischen Leitungen.
+roles-antag-space-ninja-objective = Nutze deine Tarnung, um die Station zu sabotieren, und knabbere an Stromkabeln.
 
 roles-antag-paradox-clone-name = Paradox-Klon
 roles-antag-paradox-clone-objective = Eine ungewöhnliche Raum-Zeit-Anomalie hat dich in eine andere Realität teleportiert! Jetzt musst du dein Gegenstück finden, töten und ersetzen.
 
 roles-antag-thief-name = Dieb
-roles-antag-thief-objective = Füge einige NT-Eigenschaften zu deiner persönlichen Sammlung hinzu, ohne Gewalt anzuwenden.
+roles-antag-thief-objective = Füge deiner persönlichen Sammlung einige NT-Besitztümer hinzu, ohne Gewalt anzuwenden.
 
 roles-antag-dragon-name = Weltraumdrache
 roles-antag-dragon-objective = Erstelle eine Karpfenarmee, um diesen Quadranten zu übernehmen.

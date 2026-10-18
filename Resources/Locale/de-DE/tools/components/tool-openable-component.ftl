@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-openable-component-examine-closed = Die {$name} geschlossen ist.
+tool-openable-component-examine-closed = {$name} ist geschlossen.
 tool-openable-component-examine-opened = Die {$name} ist offen.
 
 tool-openable-component-verb-close = Schließen
 tool-openable-component-verb-open = Offen
-tool-openable-component-verb-cant-close = Du kannst den {$name} Damit.
+tool-openable-component-verb-cant-close = Damit kannst du {$name} nicht schließen.

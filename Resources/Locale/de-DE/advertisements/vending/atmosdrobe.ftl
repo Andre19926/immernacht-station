@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-atmosdrobe-1 = Hole dir deine entzündliche Kleidung hier!!!
+advertisement-atmosdrobe-1 = Hol dir deine unbrennbare Kleidung hier!!!
 advertisement-atmosdrobe-2 = Schützt dich vor Plasmabränden!
 advertisement-atmosdrobe-3 = Genieße deine No-Name-Technikkleidung!
 advertisement-atmosdrobe-4 = Deine Atmosphäre immer unter Kontrolle!

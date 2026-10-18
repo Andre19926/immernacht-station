@@ -21,11 +21,11 @@ id-card-access-level-command = Führung
 id-card-access-level-captain = Kapitän
 id-card-access-level-head-of-personnel = Personalchef
 id-card-access-level-cryogenics = Kryotechnik
-id-card-access-level-emergency-shuttle-repeal = E.Shuttle Aufhebung aller
+id-card-access-level-emergency-shuttle-repeal = Notfall-Shuttle: Rückruf aller
 
 id-card-access-level-head-of-security = Leiter der Sicherheitsabteilung
 id-card-access-level-security = Sicherheit
-id-card-access-level-armory = Rüstung
+id-card-access-level-armory = Waffenkammer
 id-card-access-level-brig = Brigling
 id-card-access-level-detective = Detektiv
 id-card-access-level-genpop-enter = Betritt Genpop

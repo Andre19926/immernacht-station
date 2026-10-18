@@ -10,7 +10,7 @@
 
 ## TabletopGameComponent
 tabletop-verb-play-game = Spielspiel
-tabletop-verb-dump-pieces = Muldenstücke
+tabletop-verb-dump-pieces = Muldenteile
 tabletop-default-board-name = Brettspiel
 tabletop-error-remove-non-hologram = Du kannst kein eingebautes Teil entfernen!
 tabletop-added-piece = Das Spielbrett schimmert hell!

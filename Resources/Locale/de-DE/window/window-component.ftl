@@ -22,5 +22,5 @@ comp-window-damaged-6 = [color=red]Es ist extrem gebrochen und am Rande des Zerb
 ### Interaction Messages
 
 # Shown when knocking on a window
-comp-window-knock = * Klopfschlag*
+comp-window-knock = *Klopf*
 

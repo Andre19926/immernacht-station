@@ -33,7 +33,7 @@ barsign-prototype-description-drunk-carp = Nicht trinken und schwimmen.
 
 ## Officer Beersky
 barsign-prototype-name-officer-beersky = Officer Beerskys
-barsign-prototype-description-officer-beersky = Mann isst einen dong, diese getränke sind großartig.
+barsign-prototype-description-officer-beersky = Mann, diese Getränke sind einfach großartig.
 
 ## The Outer Spess
 barsign-prototype-name-outer-spess = Das Äußere Spess
@@ -45,11 +45,11 @@ barsign-prototype-description-coderbus = Eine sehr umstrittene Bar, die für ihr
 
 ## Robusta Cafe
 barsign-prototype-name-robusta-cafe = Das Robusta Cafe
-barsign-prototype-description-robusta-cafe = Halter der "Tödlichsten Barkämpfe" Rekord 5 Jahre unangefochten.
+barsign-prototype-description-robusta-cafe = Halter des Rekords für die „tödlichsten Barkämpfe“, seit 5 Jahren unangefochten.
 
 ## Emergency Rum Party
 barsign-prototype-name-emergency-rum-party = Die Notfall-Rum-Party
-barsign-prototype-description-emergency-rum-party = Kürzlich nach einer langen Schließung relizenziert.
+barsign-prototype-description-emergency-rum-party = Kürzlich nach langer Schließung neu lizenziert.
 
 ## The Combo Cafe
 barsign-prototype-name-combo-cafe = Das Combo Cafe
@@ -61,7 +61,7 @@ barsign-prototype-description-ale-nath = In Ordnung, Kumpel. Ich glaube, du hatt
 
 ## The Net
 barsign-prototype-name-the-net = Das Netz
-barsign-prototype-description-the-net = Du scheinst nur stundenlang darin gefangen zu sein.
+barsign-prototype-description-the-net = Man bleibt stundenlang darin hängen.
 
 ## Maid Cafe
 barsign-prototype-name-maid-cafe = Maid-Café
@@ -73,7 +73,7 @@ barsign-prototype-description-maltese-falcon = Spiel es noch einmal, Sam.
 
 ## The Sun
 barsign-prototype-name-the-sun = Die Sonne
-barsign-prototype-description-the-sun = Ironisch hell für so einen schattigen Balken.
+barsign-prototype-description-the-sun = Ironisch hell für so eine schattige Bar.
 
 ## The Birdcage
 barsign-prototype-name-the-birdcage = Der Vogelkäfig
@@ -85,7 +85,7 @@ barsign-prototype-description-zocalo = Anteriormente ubicado en Spessmerica.
 
 ## LV426
 barsign-prototype-name-lv426 = LV-426
-barsign-prototype-description-lv426 = Trinken mit ausgefallenen Gesichtsmasken ist eindeutig wichtiger als zu Medbay zu gehen.
+barsign-prototype-description-lv426 = Mit ausgefallenen Gesichtsmasken zu trinken ist eindeutig wichtiger, als zur Medbay zu gehen.
 
 ## The Wiggle Roomm
 barsign-prototype-name-wiggle-room = Das Wackelzimmer
@@ -105,7 +105,7 @@ barsign-prototype-description-enginechange = Warte immer noch.
 
 ## 4 The Emprah
 barsign-prototype-name-emprah = 4 The Emprah
-barsign-prototype-description-emprah = Genießt von fanatikern, ketzern und hirngeschädigten gönnern gleichermaßen.
+barsign-prototype-description-emprah = Beliebt bei Fanatikern, Ketzern und hirngeschädigten Stammgästen gleichermaßen.
 
 ## Spacebucks
 barsign-prototype-name-spacebucks = Spacebucks
@@ -117,10 +117,10 @@ barsign-prototype-description-maltroach = Quiek!
 
 ## Whiskey Echoes
 barsign-prototype-name-whiskeyechoes = Whiskey-Echos
-barsign-prototype-description-whiskeyechoes = Eine Elite-Bar für Elite-Oper-Warte, dies ist eine Nanotrasen-Station. Warum ist dieses Zeichen in der Datenbank?
+barsign-prototype-description-whiskeyechoes = Eine Elite-Bar für Elite-Oper... Moment, das ist eine Nanotrasen-Station. Warum ist dieses Schild in der Datenbank?
 
 ## EmpBarSign
 barsign-prototype-description-empbarsign = Es ist etwas sehr falsch gelaufen.
 
 ## SignOff
-barsign-prototype-description-sign-off = Dieses Zeichen scheint nicht an zu sein.
+barsign-prototype-description-sign-off = Dieses Schild scheint nicht eingeschaltet zu sein.

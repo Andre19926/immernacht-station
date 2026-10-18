@@ -30,6 +30,6 @@ wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } liegt nicht in dei
 
 wieldable-component-requires = { CAPITALIZE(THE($item))} muss mit beiden Händen gehalten werden!
 
-gunwieldbonus-component-examine = Diese Waffe hat die Genauigkeit beim Ausführen verbessert.
+gunwieldbonus-component-examine = Diese Waffe ist genauer, wenn sie mit beiden Händen geführt wird.
 
-gunrequireswield-component-examine = Diese Waffe kann nur abgefeuert werden, wenn sie eingesetzt wird.
+gunrequireswield-component-examine = Diese Waffe kann nur abgefeuert werden, wenn sie mit beiden Händen geführt wird.

@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-warp-point-component-on-examine-success = Diese Standort-ID ist {$location}
+warp-point-component-on-examine-success = Die ID dieses Standorts lautet {$location}

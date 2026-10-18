@@ -13,7 +13,7 @@
 cmd-createvote-desc = Erzeugt eine Abstimmung
 cmd-createvote-help = Verwendung: createvote <'restart'|'preset'|'map'>
 cmd-createvote-cannot-call-vote-now = Du kannst gerade keine Abstimmung starten!
-cmd-createvote-invalid-vote-type = Art der ungültigen Abstimmung
+cmd-createvote-invalid-vote-type = Ungültige Abstimmungsart
 cmd-createvote-arg-vote-type = <Abstimmungstyp>
 
 ## 'customvote' command
@@ -27,25 +27,25 @@ cmd-customvote-arg-option-n = <Option{ $n }>
 
 ## 'vote' command
 
-cmd-vote-desc = Abstimmungen über eine aktive Abstimmung
+cmd-vote-desc = Stimmt bei einer aktiven Abstimmung ab
 cmd-vote-help = vote <voteId> <option>
 cmd-vote-cannot-call-vote-now = Du kannst gerade keine Abstimmung starten!
 cmd-vote-on-execute-error-must-be-player = Muss ein Spieler sein
-cmd-vote-on-execute-error-invalid-vote-id = ID der ungültigen Stimme
-cmd-vote-on-execute-error-invalid-vote-options = Ungültige Wahloptionen
+cmd-vote-on-execute-error-invalid-vote-id = Ungültige Abstimmungs-ID
+cmd-vote-on-execute-error-invalid-vote-options = Ungültige Abstimmungsoptionen
 cmd-vote-on-execute-error-invalid-vote = Ungültige Abstimmung
 cmd-vote-on-execute-error-invalid-option = Ungültige Option
 
 ## 'listvotes' command
 
-cmd-listvotes-desc = Listen der derzeit aktiven Stimmen
+cmd-listvotes-desc = Listet die derzeit aktiven Abstimmungen auf
 cmd-listvotes-help = Verwendung: listvotes
 
 ## 'cancelvote' command
 
-cmd-cancelvote-desc = Absagen einer aktiven Abstimmung
+cmd-cancelvote-desc = Bricht eine aktive Abstimmung ab
 cmd-cancelvote-help = Verwendung: cancelvote <id>
                       Dich können die ID vom Befehl listvotes erhalten.
-cmd-cancelvote-error-invalid-vote-id = ID der ungültigen Stimme
+cmd-cancelvote-error-invalid-vote-id = Ungültige Abstimmungs-ID
 cmd-cancelvote-error-missing-vote-id = Fehlende ID
 cmd-cancelvote-arg-id = <id>

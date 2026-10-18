@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-swap-teleporter-popup-link-create = Quantum Link etabliert!
-swap-teleporter-popup-link-fail-already = Quantum Link ist fehlgeschlagen! Link bereits auf dem Gerät vorhanden.
-swap-teleporter-popup-link-fail-already-other = Quantum Link ist gescheitert! Link bereits auf dem Sekundärgerät vorhanden.
-swap-teleporter-popup-link-destroyed = Quantum Link zerstört!
+swap-teleporter-popup-link-create = Quantenverbindung hergestellt!
+swap-teleporter-popup-link-fail-already = Quantenverbindung fehlgeschlagen! Auf dem Gerät ist bereits eine Verbindung vorhanden.
+swap-teleporter-popup-link-fail-already-other = Quantenverbindung fehlgeschlagen! Auf dem Sekundärgerät ist bereits eine Verbindung vorhanden.
+swap-teleporter-popup-link-destroyed = Quantenverbindung zerstört!
 swap-teleporter-popup-teleport-cancel-time = Es wird immer noch aufgeladen!
 swap-teleporter-popup-teleport-cancel-link = Es ist nicht mit einem anderen Gerät verbunden!
 swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} aktiviert sich, und du findest dich woanders wieder.

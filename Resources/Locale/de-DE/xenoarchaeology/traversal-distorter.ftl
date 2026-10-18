@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traversal-distorter-set-up = Traversal Bias auf up, in Richtung sicherer Knoten
+traversal-distorter-set-up = Traversal-Bias nach oben, zu sichereren Knoten
 traversal-distorter-set-down = Traversal-Bias nach unten, zu gefährlicheren Knoten
 
-traversal-distorter-desc-up = Die Traversal des betroffenen Artefakts begünstigt nun die Bewegung des Knotenbaums hin zu sichereren Knoten.
-traversal-distorter-desc-down = Die Traversal des betroffenen Artefakts begünstigt nun die Bewegung entlang des Knotenbaums in Richtung gefährlicherer Knoten.
+traversal-distorter-desc-up = Der Durchlauf des betroffenen Artefakts begünstigt nun die Bewegung entlang des Knotenbaums hin zu sichereren Knoten.
+traversal-distorter-desc-down = Der Durchlauf des betroffenen Artefakts begünstigt nun die Bewegung entlang des Knotenbaums hin zu gefährlicheren Knoten.

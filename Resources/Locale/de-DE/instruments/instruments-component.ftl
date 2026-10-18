@@ -13,7 +13,7 @@
 instrument-component-finger-cramps-light-message = Deine Finger fangen an, leicht zu verkrampfen!
 instrument-component-finger-cramps-serious-message = Deine Finger verkrampfen sich ernsthaft!
 instrument-component-finger-cramps-max-message = Deine Finger verkrampfen sich vom Spielen!
-instruments-component-menu-no-midi-support = MIDI-Unterstützung ist derzeit nicht
+instruments-component-menu-no-midi-support = MIDI-Unterstützung wird derzeit nicht
                                              auf deinem System verfügbar.
                                              Wenn unter Linux, musst du möglicherweise installieren
                                              FluidSynth oder ein Entwicklungspaket
@@ -36,14 +36,14 @@ instruments-component-channels-multi = {$channel} {$name} ({$other})
 
 
 # SwappableInstrumentComponent
-swappable-instrument-component-style-set = Stil auf „{$style}"
+swappable-instrument-component-style-set = Stil auf „{$style}“
 
 instruments-component-menu-midi-channel-acoustic-grand-piano = Akustisches Grand Piano
 instruments-component-menu-midi-channel-bright-acoustic-piano = Helles Akustikpiano
 instruments-component-menu-midi-channel-electric-grand-piano = Elektrisches Grand Piano
 instruments-component-menu-midi-channel-honky-tonk-piano = Honky-tonk-Klavier
 instruments-component-menu-midi-channel-rhodes-piano = Rhodos Klavier
-instruments-component-menu-midi-channel-chorused-piano = Gechorntes Klavier
+instruments-component-menu-midi-channel-chorused-piano = Chorus-Klavier
 instruments-component-menu-midi-channel-harpsichord = Cembalo
 instruments-component-menu-midi-channel-clavinet = Clavin
 instruments-component-menu-midi-channel-celesta = Celesta
@@ -71,8 +71,8 @@ instruments-component-menu-midi-channel-overdriven-guitar = Übersteuerte Gitarr
 instruments-component-menu-midi-channel-distortion-guitar = Verzerrte Gitarre
 instruments-component-menu-midi-channel-guitar-harmonics = Gitarrenharmonik
 instruments-component-menu-midi-channel-acoustic-bass = Akustikbass
-instruments-component-menu-midi-channel-fingered-electric-bass = E-Bass (gezupft)
-instruments-component-menu-midi-channel-plucked-electric-bass = E-Bass (gezupft)
+instruments-component-menu-midi-channel-fingered-electric-bass = E-Bass (Finger)
+instruments-component-menu-midi-channel-plucked-electric-bass = E-Bass (Plektrum)
 instruments-component-menu-midi-channel-fretless-bass = Fretless Bass
 instruments-component-menu-midi-channel-slap-bass1 = Slap-Bass 1
 instruments-component-menu-midi-channel-slap-bass2 = Slap-Bass 2
@@ -155,12 +155,12 @@ instruments-component-menu-midi-channel-agogo = Agogo
 instruments-component-menu-midi-channel-steel-drums = Steeldrums
 instruments-component-menu-midi-channel-woodblock = Holzblock
 instruments-component-menu-midi-channel-taiko-drum = Taiko-Trommel
-instruments-component-menu-midi-channel-melodic-tom = Melodische Tom
+instruments-component-menu-midi-channel-melodic-tom = Melodische Tom-Tom
 instruments-component-menu-midi-channel-synth-drum = Synthesizer-Trommel
 instruments-component-menu-midi-channel-reverse-cymbal = Umgekehrtes Becken
 instruments-component-menu-midi-channel-guitar-fret-noise = Bundgeräusch der Gitarre
 instruments-component-menu-midi-channel-breath-noise = Atemgeräusch
-instruments-component-menu-midi-channel-seashore = Meeresküste
+instruments-component-menu-midi-channel-seashore = Meeresbrandung
 instruments-component-menu-midi-channel-bird-tweet = Vogelgezwitscher
 instruments-component-menu-midi-channel-telephone-ring = Telefonklingeln
 instruments-component-menu-midi-channel-helicopter = Hubschrauber

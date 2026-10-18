@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-immovable-rod-start-announcement = Nicht identifiziertes Objekt mit hoher Geschwindigkeit befindet sich auf Kollisionskurs mit der Station. Auswirkungen unmittelbar bevorstehen.
+station-event-immovable-rod-start-announcement = Ein nicht identifiziertes Objekt mit hoher Geschwindigkeit befindet sich auf Kollisionskurs mit der Station. Der Einschlag steht unmittelbar bevor.

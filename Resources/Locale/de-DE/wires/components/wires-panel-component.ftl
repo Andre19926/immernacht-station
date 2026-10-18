@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-wires-panel-component-on-examine-open = Die [color=lightgray]Wartungstafel[/color] ist [color=red]offen[/color].
-wires-panel-component-on-examine-closed = Die [color=lightgray]Wartungstafel[/color] ist [color=darkgreen]geschlossen[/color].
+wires-panel-component-on-examine-open = Die [color=lightgray]Wartungsklappe[/color] ist [color=red]offen[/color].
+wires-panel-component-on-examine-closed = Die [color=lightgray]Wartungsklappe[/color] ist [color=darkgreen]geschlossen[/color].
 
 # wire colors
 

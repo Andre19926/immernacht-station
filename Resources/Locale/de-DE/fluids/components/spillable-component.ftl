@@ -9,7 +9,7 @@
 ## SpillTargetVerb
 
 spill-target-verb-get-data-text = Flüssigkeit ausschütten
-spill-target-verb-activate-cannot-drain-message = Du kannst nichts ausgießen {$owner}!
+spill-target-verb-activate-cannot-drain-message = Du kannst nichts aus {$owner} ausgießen!
 spill-target-verb-activate-is-empty-message = {$owner} ist leer!
 
 spill-melee-hit-attacker = Du verschüttest {$amount}u von {THE($spillable)} auf {THE($target)}!

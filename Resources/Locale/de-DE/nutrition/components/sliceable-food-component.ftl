@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sliceable-food-component-on-examine-remaining-slices-text = Es gibt {$remainingCount} Scheiben verbleiben.
+sliceable-food-component-on-examine-remaining-slices-text = Es sind noch {$remainingCount} Scheiben übrig.

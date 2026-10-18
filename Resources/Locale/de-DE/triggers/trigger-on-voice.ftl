@@ -3,7 +3,7 @@ trigger-on-voice-uninitialized = Auf dem Display steht: Uninitialisiert ...
 
 trigger-on-voice-record = Aufzeichnung
 trigger-on-voice-stop = Stopp
-trigger-on-voice-clear = Klare Aufzeichnung
+trigger-on-voice-clear = Aufzeichnung löschen
 trigger-on-voice-default = Zurücksetzen auf Standard
 
 trigger-on-voice-start-recording = Beginn der Aufzeichnung.

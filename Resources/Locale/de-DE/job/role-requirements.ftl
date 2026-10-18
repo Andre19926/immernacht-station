@@ -17,7 +17,7 @@ role-timer-department-too-high = Du hast [color=yellow]{$time}[/color] zu viel S
 role-timer-overall-insufficient = Dir fehlen noch [color=yellow]{$time}[/color] Gesamtspielzeit, um das freizuschalten.
 role-timer-overall-too-high = Du hast [color=yellow]{$time}[/color] zu viel Gesamtspielzeit, um das auszuwählen. (Versuchst du, eine Einsteigerrolle zu spielen?)
 role-timer-role-insufficient = Dir fehlen noch [color=yellow]{$time}[/color] Spielzeit als [color={$departmentColor}]{$job}[/color], um das freizuschalten.
-role-timer-role-too-high = Du hast[color=yellow] {$time}[/color] zu viel Spielzeit als [color={$departmentColor}]{$job}[/color], um das auszuwählen. (Versuchst du, eine Einsteigerrolle zu spielen?)
+role-timer-role-too-high = Du hast [color=yellow]{$time}[/color] zu viel Spielzeit als [color={$departmentColor}]{$job}[/color], um das auszuwählen. (Versuchst du, eine Einsteigerrolle zu spielen?)
 role-timer-age-too-old = Dein Charakter muss jünger als [color=yellow]{$age}[/color] sein, damit du das wählen kannst.
 role-timer-age-too-young = Dein Charakter muss älter als [color=yellow]{$age}[/color] sein, damit du das wählen kannst.
 role-timer-whitelisted-species = Dein Charakter muss eine der folgenden Spezies sein, damit du das wählen kannst:

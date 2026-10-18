@@ -7,5 +7,5 @@
 
 ## RecyclerComponent
 
-recycler-component-suicide-message-others = {$victim} Versuche zu recyceln {$victim}!
+recycler-component-suicide-message-others = {$victim} versucht, {$victim} zu recyceln!
 recycler-component-suicide-message = Du recycelst dich selbst!

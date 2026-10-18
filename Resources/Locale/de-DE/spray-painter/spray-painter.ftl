@@ -12,7 +12,7 @@ spray-painter-style-not-available = Kann den ausgewählten Stil nicht auf dieses
 spray-painter-verb-toggle-decals = Abziehbilder
 
 spray-painter-item-status-label = Aufkleber: {$mode}
-spray-painter-item-status-add = [color=green]Addition[/color]
+spray-painter-item-status-add = [color=green]Hinzufügen[/color]
 spray-painter-item-status-remove = [color=red]Entfernen[/color]
 spray-painter-item-status-off = [color=gray]Ausgeschaltet[/color]
 

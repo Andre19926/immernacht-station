@@ -9,7 +9,7 @@
 ## ConstructionSystem
 
 construction-system-construct-cannot-start-another-construction = Du kannst gerade keinen weiteren Bau beginnen!
-construction-system-construct-no-materials = Du hast nicht die Materialien, um das zu bauen!
+construction-system-construct-no-materials = Dir fehlen die Materialien, um das zu bauen!
 construction-system-already-building = Das baust du bereits!
 construction-system-inside-container = Du kannst nicht bauen, während du da bist!
 construction-system-cannot-start = Das kannst du nicht herstellen!

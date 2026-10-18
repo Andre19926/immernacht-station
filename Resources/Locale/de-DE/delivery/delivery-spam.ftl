@@ -221,7 +221,7 @@ delivery-spam-10 =  DIESE POST NICHT ÖFFNEN
                     ░░░░░░[color=#6EC543]████[/color]░░░░░░░░[color=#6EC543]████████[/color]░░░░░░░░
                     ░░░░░░░░░░░░░░░░░░░░[color=#6EC543]████[/color]░░░░░░░░░░
 
-delivery-spam-11 =  Hilf Mama und Papa!
+delivery-spam-11 = Hilf Mama und Papa!
 .desc =         Eltern brauchen finanzielle Unterstützung.
 .content =      [bold]Hallo Kind,[/bold]
                     hier schreiben dir deine Eltern: wir brauchen Geld! Unsere Steuern wurden geprüft und wir schulden der Regirung 100.000 $ in Spesos! bitte hilf uns! die wollen nur Geschenkkarten, also musst du uns 100 Bisa-Geschenkkarten über je 1000 Spesos schicken.

@@ -20,6 +20,6 @@ pointing-system-point-at-tile = Du zeigst auf {$tileName}.
 pointing-system-point-in-own-inventory-self = Du zeigst auf deine {$item}.
 pointing-system-point-in-own-inventory-others = {CAPITALIZE(THE($pointer))} zeigt auf {POSS-ADJ($pointer)} {$item}.
 pointing-system-point-in-other-inventory-self = Du zeigst auf {$item} von {THE($wearer)}.
-pointing-system-point-in-other-inventory-target = {CAPITALIZE(THE($pointer))} zeigt auf deine(n) {$item}.
+pointing-system-point-in-other-inventory-target = {CAPITALIZE(THE($pointer))} zeigt auf deinen Gegenstand: {$item}.
 pointing-system-point-in-other-inventory-others = {CAPITALIZE(THE($pointer))} zeigt auf {$item} von {THE($wearer)}.
 pointing-system-other-point-at-tile = {CAPITALIZE(THE($otherName))} zeigt auf {$tileName}.

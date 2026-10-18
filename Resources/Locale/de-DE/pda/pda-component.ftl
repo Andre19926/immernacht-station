@@ -37,7 +37,7 @@ pda-bound-user-interface-show-uplink-title = Uplink öffnen
 pda-bound-user-interface-show-uplink-description = Zugriff auf deinen Uplink
 
 pda-bound-user-interface-lock-uplink-title = Uplink sperren
-pda-bound-user-interface-lock-uplink-description = Verhindern dich, dass jemand ohne Code auf deinen Uplink zugreift
+pda-bound-user-interface-lock-uplink-description = Verhindere, dass jemand ohne Code auf deinen Uplink zugreift
 
 comp-pda-ui-menu-title = PDA
 
@@ -57,7 +57,7 @@ comp-pda-ui-eject-pen-button = Kugelschreiber
 
 comp-pda-ui-ringtone-button = Rington
 
-comp-pda-ui-ringtone-button-description = Ändern dich den Klingelton deines PDA
+comp-pda-ui-ringtone-button-description = Ändere den Klingelton deines PDA
 
 comp-pda-ui-toggle-flashlight-button = Taschenlampe
 

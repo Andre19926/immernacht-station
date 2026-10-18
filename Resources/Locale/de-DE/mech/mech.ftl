@@ -20,7 +20,7 @@ mech-equipment-select-none-popup = Nichts ausgewählt
 
 mech-ui-open-verb = Offenes Bedienfeld
 
-mech-menu-title = mech Kontrolltafel
+mech-menu-title = Mech-Kontrolltafel
 
 mech-integrity-display = Integrität: {$amount}%
 mech-energy-display = Energie: {$amount}%
@@ -31,4 +31,4 @@ mech-no-enter = Du kannst das nicht steuern.
 
 mech-eject-pilot-alert = {$user} zieht den Piloten aus dem {$item}!
 
-mech-construction-guide-string = Alle mech-teile müssen am gurt befestigt werden.
+mech-construction-guide-string = Alle Mech-Teile müssen am Gurtzeug befestigt werden.

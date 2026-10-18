@@ -6,7 +6,7 @@
 
 drain-component-empty-verb-using-is-empty-message = { CAPITALIZE(THE($object)) } ist leer!
 drain-component-empty-verb-target-is-full-message = { CAPITALIZE(THE($object)) } ist voll!
-drain-component-empty-verb-inhand = Leer {$object}
+drain-component-empty-verb-inhand = {$object} leeren
 drain-component-examine-hint-full = [color="blue"]Es ist bis zum Rand gefüllt. Vielleicht kann ein Kolben helfen?[/color]
 drain-component-examine-volume = [color="blue"]Restraum - {$volume}u.[/color]
 drain-component-unclog-fail = { CAPITALIZE(THE($object)) } ist immer noch voll.

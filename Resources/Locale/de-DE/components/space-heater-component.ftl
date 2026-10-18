@@ -22,4 +22,4 @@ comp-space-heater-ui-Medium-power-consumption = Mittel
 comp-space-heater-ui-High-power-consumption = Hoch
 
 comp-space-heater-device-name = Raumheizer
-comp-space-heater-unanchored = Die {$device} nicht verankert ist.
+comp-space-heater-unanchored = {$device} ist nicht verankert.

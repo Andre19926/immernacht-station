@@ -7,10 +7,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-linker-component-saved = Erfolgreich gespeicherter Link zum {$machine}!
-signal-linker-component-linked-port = Erfolgreich verknüpft {$machine1}:{$port1} bis {$machine2}:{$port2}!
-signal-linker-component-unlinked-port = Erfolgreich unlinked {$machine1}:{$port1} von {$machine2}:{$port2}!
-signal-linker-component-connection-refused = {$machine} lehnte die Verbindung ab!
+signal-linker-component-saved = Verknüpfung mit {$machine} erfolgreich gespeichert!
+signal-linker-component-linked-port = {$machine1}:{$port1} erfolgreich mit {$machine2}:{$port2} verknüpft!
+signal-linker-component-unlinked-port = {$machine1}:{$port1} erfolgreich von {$machine2}:{$port2} getrennt!
+signal-linker-component-connection-refused = {$machine} hat die Verbindung abgelehnt!
 signal-linker-component-max-connections-receiver = Maximale Verbindungen am Empfänger erreicht!
 signal-linker-component-max-connections-transmitter = Maximale Verbindungen auf dem Sender erreicht!
 
@@ -20,7 +20,7 @@ signal-linker-component-out-of-range = Die Verbindung liegt außerhalb der Reich
 
 # Verbs
 signal-linking-verb-text-link-default = Standard-Anschlüsse verknüpfen
-signal-linking-verb-success = Alle Standardanschlüsse {$machine} Links.
-signal-linking-verb-fail = Fehlgeschlagen, um alle Standard zu verbinden {$machine} Links.
+signal-linking-verb-success = Alle Standardverknüpfungen von {$machine} hergestellt.
+signal-linking-verb-fail = Nicht alle Standardverknüpfungen von {$machine} konnten hergestellt werden.
 signal-linking-verb-disabled-no-transmitter = Interagiere zuerst mit einem Sender und verknüpfe dann Standardports.
 signal-linking-verb-disabled-no-receiver = Interagiere zuerst mit einem Empfänger und verknüpfe dann Standardports.

@@ -15,13 +15,13 @@ network-configurator-device-saved = Erfolgreich gespeichertes Netzwerkgerät {$d
 network-configurator-device-failed = Das Netzwerkgerät {$device} konnte nicht gespeichert werden! Keine Adresse zugewiesen!
 network-configurator-too-many-devices = Zu viele Geräte auf diesem Gerät gespeichert!
 network-configurator-update-ok = Gerätespeicher aktualisiert.
-network-configurator-device-already-saved = Netzwerkeinrichtung: {$device} ist bereits gerettet.
+network-configurator-device-already-saved = Netzwerkgerät {$device} ist bereits gespeichert.
 network-configurator-device-access-denied = Zugriff verweigert!
-network-configurator-link-mode-started = Startverknüpfungsvorrichtung: {$device}
+network-configurator-link-mode-started = Verknüpfung gestartet mit Gerät: {$device}
 network-configurator-link-mode-stopped = Verknüpfung abgebrochen.
 network-configurator-mode-link = Verknüpfen
 network-configurator-mode-list = Liste
-network-configurator-switched-mode = Schaltmodus in: {$mode}
+network-configurator-switched-mode = Modus gewechselt zu: {$mode}
 
 # Verbs
 network-configurator-save-device = Gerät speichern
@@ -45,17 +45,17 @@ network-configurator-text-show = Anzeigen
 
 # tooltips
 network-configurator-tooltip-set = Setzt die Zielgeräteliste
-network-configurator-tooltip-add = Addiert zur Zielgeräteliste
+network-configurator-tooltip-add = Fügt der Zielgeräteliste hinzu
 network-configurator-tooltip-edit = Zielgeräteliste bearbeiten
 network-configurator-tooltip-clear = Zielgeräteliste leeren
-network-configurator-tooltip-copy = Kopieren der Geräteliste für das gehaltene Werkzeug
+network-configurator-tooltip-copy = Kopiert die Zielgeräteliste auf das gehaltene Werkzeug
 network-configurator-tooltip-show = Zeige eine holographische Visualisierung der Zielgeräteliste
 
 # examine
 network-configurator-examine-mode-link = [color=red]Link[/color]
 network-configurator-examine-mode-list = [color=green]Liste[/color]
 network-configurator-examine-current-mode = Aktueller Modus: {$mode}
-network-configurator-examine-switch-modes = Presse {$key} zum Umschalten
+network-configurator-examine-switch-modes = Drücke {$key}, um den Modus zu wechseln
 
 # item status
 network-configurator-item-status-label = Modus: {$mode}

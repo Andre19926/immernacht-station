@@ -81,22 +81,22 @@ signal-port-name-artifact-analyzer-receiver = Pad
 signal-port-description-artifact-analyzer-receiver = Artefaktanalysator-Signalempfänger
 
 signal-port-name-set-particle-delta = Partikeltyp setzen: Delta
-signal-port-description-set-particle-delta = Legt den Partikeltyp fest, den dieses Gerät auf Delta aussendet.
+signal-port-description-set-particle-delta = Legt den Partikeltyp fest, den dieses Gerät aussendet: Delta.
 
 signal-port-name-set-particle-epsilon = Partikeltyp setzen: Epsilon
-signal-port-description-set-particle-epsilon = Legt den Partikeltyp fest, den dieses Gerät an epsilon aussendet.
+signal-port-description-set-particle-epsilon = Legt den Partikeltyp fest, den dieses Gerät aussendet: Epsilon.
 
 signal-port-name-set-particle-zeta = Partikeltyp setzen: Zeta
-signal-port-description-set-particle-zeta = Legt den Partikeltyp fest, den dieses Gerät in Zeta emittiert.
+signal-port-description-set-particle-zeta = Legt den Partikeltyp fest, den dieses Gerät aussendet: Zeta.
 
 signal-port-name-set-particle-sigma = Partikeltyp setzen: Sigma
-signal-port-description-set-particle-sigma = Legt den Partikeltyp fest, den dieses Gerät in Sigma aussendet.
+signal-port-description-set-particle-sigma = Legt den Partikeltyp fest, den dieses Gerät aussendet: Sigma.
 
 signal-port-name-logic-input-a = Eingang A
 signal-port-description-logic-input-a = Erster Eingang eines Logikgatters.
 
 signal-port-name-logic-input-b = Eingang B
-signal-port-description-logic-input-b = zweiter Eingang eines Logikgatters.
+signal-port-description-logic-input-b = Zweiter Eingang eines Logikgatters.
 
 signal-port-name-logic-input = Eingang
 signal-port-description-logic-input = Der Eingang zum Flankendetektor kann kein Impulssignal sein.
@@ -104,7 +104,7 @@ signal-port-description-logic-input = Der Eingang zum Flankendetektor kann kein 
 signal-port-description-logic-memory-input = Signal zum Laden in die Speicherzelle, wenn aktiviert.
 
 signal-port-name-logic-enable = Aktivieren
-signal-port-description-logic-enable = Ladet das Eingangssignal nur bei HIGH in die Speicherzelle.
+signal-port-description-logic-enable = Lädt das Eingangssignal nur bei HIGH in die Speicherzelle.
 
 signal-port-name-logic-random-input = Eingangssignal
-signal-port-description-logic-random-input = Empfangt ein beliebiges Signal, um eine zufällige Ausgabe auszulösen.
+signal-port-description-logic-random-input = Empfängt ein beliebiges Signal, um eine zufällige Ausgabe auszulösen.

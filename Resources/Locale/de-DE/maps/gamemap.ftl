@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gamemap-could-not-use-map-error = Karte nicht geladen {$oldMap} Weil es nicht mehr förderfähig ist! Pflückung {$newMap} Stattdessen.
+gamemap-could-not-use-map-error = Karte {$oldMap} konnte nicht geladen werden, da sie nicht mehr zulässig ist! Stattdessen wird {$newMap} gewählt.

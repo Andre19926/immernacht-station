@@ -1,6 +1,6 @@
 stat-values-desc = Gibt alle Werte einer bestimmten Kategorie als Tabelle aus.
 stat-values-server = Kann nicht auf dem Server ausgeführt werden!
-stat-values-args = Ungültige Argumentanzahl, benötigt wird 1
+stat-values-args = Ungültige Argumentanzahl, erforderlich ist 1
 stat-values-invalid = {$arg} ist kein gültiger Wert!
 stat-cargo-values = Fracht-Verkaufspreise
 stat-cargo-id = ID

@@ -7,4 +7,4 @@ openable-component-verb-open = Offen
 openable-component-verb-close = Schließen
 
 openable-component-on-examine-is-opened = [color=yellow]geöffnet[/color]
-openable-component-try-use-closed = Offen {$owner} Erstens!
+openable-component-try-use-closed = Öffne zuerst {$owner}!

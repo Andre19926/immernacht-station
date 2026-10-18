@@ -7,7 +7,7 @@
 atmos-monitoring-window-title = Atmosphären-Netzwerkmonitor
 atmos-monitoring-window-station-name = [color=white][font size=14]{$stationName}[/font][/color]
 atmos-monitoring-window-unknown-location = Unbekannter Standort
-atmos-monitoring-window-label-gas-opening = Netzwerköffnung 
+atmos-monitoring-window-label-gas-opening = Netzöffnung
 atmos-monitoring-window-label-gas-scrubber = Luftwäscher
 atmos-monitoring-window-label-gas-flow-regulator = Durchflussregler
 atmos-monitoring-window-label-thermoregulator = Thermoregler

@@ -21,11 +21,11 @@
 ## Implanter Attempt Messages
 
 implanter-component-implanting-target = {$user} versucht, dich mit etwas zu implantieren!
-implanter-component-implant-failed = Die {$implant} kann nicht gegeben werden {$target}!
-implanter-draw-failed-permanent = Die {$implant} in {$target} kondensiert mit { OBJECT($target) } und kann nicht entfernt werden!
+implanter-component-implant-failed = {$implant} kann {$target} nicht eingesetzt werden!
+implanter-draw-failed-permanent = {$implant} in {$target} ist mit { OBJECT($target) } verschmolzen und kann nicht entfernt werden!
 implanter-draw-failed = Du hast versucht, ein Implantat zu entfernen, aber nichts gefunden.
 implanter-draw-failed-catastrophically = Der Implantator findet nichts und scheitert katastrophal, indem er genetisches Material in die Hand von {$user} schleust!
-implanter-component-implant-already = {$target} bereits hat die {$implant}!
+implanter-component-implant-already = {$target} hat bereits {$implant}!
 
 ## UI
 implanter-set-draw-verb = Implantat-Ziehen einstellen

@@ -18,7 +18,7 @@ toilet-component-suicide-head-message-others = {CAPITALIZE(THE($victim))} steckt
 toilet-component-suicide-head-message = Du steckst den Kopf in {THE($owner)} und spülst!
 toilet-component-suicide-message-others = {CAPITALIZE(THE($victim))} schlägt sich mit {THE($owner)} selbst!
 toilet-component-suicide-message = Du schlägst dir mit {THE($owner)} den Schädel ein!
-toilet-seat-close = Schließender Sitz
-toilet-seat-open = Offener Sitz
+toilet-seat-close = Sitz schließen
+toilet-seat-open = Sitz öffnen
 
 plunger-unblock = Du befreist {THE($target)} von der Verstopfung!

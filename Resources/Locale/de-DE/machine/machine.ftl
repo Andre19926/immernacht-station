@@ -13,11 +13,11 @@ machine-insert-item = {CAPITALIZE(THE($user))} hat {THE($item)} in {THE($machine
 
 machine-upgrade-examinable-verb-text = Upgrades
 machine-upgrade-examinable-verb-message = Zeigt die Maschinen-Upgrades an.
-machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht durch {$percent}%.
+machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht um {$percent}%.
 machine-upgrade-decreased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] vermindert um {$percent}%.
-machine-upgrade-increased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht durch {$difference}.
+machine-upgrade-increased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht um {$difference}.
 machine-upgrade-decreased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] vermindert um {$difference}.
-machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] nicht aktualisiert.
+machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] nicht verbessert.
 
 machine-part-name-capacitor = Kondensator
 machine-part-name-manipulator = Manipulator

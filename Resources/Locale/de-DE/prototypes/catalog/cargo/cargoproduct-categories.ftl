@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cargoproduct-category-name-armory = Rüstung
+cargoproduct-category-name-armory = Waffenkammer
 cargoproduct-category-name-atmospherics = Atmosphäre
 cargoproduct-category-name-cargo = Fracht
 cargoproduct-category-name-circuitboards = Leiterplatten

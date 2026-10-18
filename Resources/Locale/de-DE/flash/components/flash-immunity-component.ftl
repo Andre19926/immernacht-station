@@ -1,1 +1,1 @@
-flash-protection = Es bietet Schutz vor [color=lightblue]helle Blitze[/color].
+flash-protection = Es bietet Schutz vor [color=lightblue]hellen Blitzen[/color].

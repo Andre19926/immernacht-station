@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-research-title = Stehlen {$count} Technologien.
+objective-condition-steal-research-title = Stiehl {$count} Technologien.

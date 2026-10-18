@@ -91,6 +91,6 @@ card-sc-queen-spades = Dame Pik
 
 card-sc-joker = Joker
 
-container-sealed = Ein holographisches Sicherheitssiegel ist darauf. Beim Öffnen wird die Dichtung zerstreut.
-container-unsealed = Die daran befestigte Dichtung löst sich auf.
+container-sealed = Ein holographisches Sicherheitssiegel ist darauf. Beim Öffnen löst sich das Siegel auf.
+container-unsealed = Das daran befestigte Siegel löst sich auf.
 

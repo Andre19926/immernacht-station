@@ -8,6 +8,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 power-cell-component-examine-details = Der Ladeanzeiger liest [color=#5E7C16]{$currentCharge}[/color] %.
-power-cell-component-examine-details-no-battery = Es ist keine Power Cell eingesetzt.
-power-cell-no-battery = Keine Power Cell gefunden
+power-cell-component-examine-details-no-battery = Es ist keine Energiezelle eingesetzt.
+power-cell-no-battery = Keine Energiezelle gefunden
 power-cell-insufficient = Strommangel

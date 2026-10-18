@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-station-event-vent-clog-start-announcement = Das Scrubber-Netzwerk erlebt einen Rückschlag. Es kann zu einem Auswurf von Inhalten kommen.
+station-event-vent-clog-start-announcement = Das Scrubber-Netzwerk erlebt eine Rückstauwelle. Es kann zu einem Auswurf von Inhalten kommen.

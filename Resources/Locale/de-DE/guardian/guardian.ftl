@@ -17,7 +17,7 @@
 ## Guardian host specific
 
 guardian-created = Du fühlst dich ... heimgesucht.
-guardian-already-present-invalid-creation = Du lebst diese eindringliche Erfahrung NICHT wieder!
+guardian-already-present-invalid-creation = Du durchlebst diese Heimsuchung NICHT noch einmal!
 guardian-no-actions-invalid-creation = Du hast nicht die Möglichkeit, einen Wächter zu hosten!
 guardian-activator-empty-invalid-creation = Der Injektor ist verbraucht.
 guardian-activator-empty-examine = [color=#ba1919]Der Injektor ist verbraucht.[/color]
@@ -33,7 +33,7 @@ guardian-entity-taking-damage = Dein Wächter nimmt Schaden.
 
 ## Health warnings
 guardian-host-critical-warn = DEIN WIRT IST VERWUNDET!
-guardian-host-death-warn = DEINE FORM ERFOLGUNG DER NONEXISTENZ!
-guardian-death-warn = DEINE KÖRPER WIRD VON SUBATOMISCHEN SCHMERZEN ALS SIE DISINTEGRATEN GEFÄHRT!
+guardian-host-death-warn = DEINE FORM ERLIEGT DER NICHTEXISTENZ!
+guardian-death-warn = DEIN KÖRPER WIRD VON SUBATOMAREM SCHMERZ DURCHBOHRT, WÄHREND ER ZERFÄLLT!
 guardian-attack-host = Du kannst deinen Gastgeber nicht angreifen.
 

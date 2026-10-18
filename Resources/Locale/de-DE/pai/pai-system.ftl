@@ -12,8 +12,8 @@
 
 pai-system-pai-installed = Ein pAI ist installiert.
 pai-system-off = Es ist kein pAI installiert.
-pai-system-still-searching = Auf der Suche nach einem PAI.
-pai-system-searching = Auf der Suche nach einem PAI...
+pai-system-still-searching = Suche nach einer pAI läuft noch.
+pai-system-searching = Suche nach einer pAI ...
 
 pai-system-role-name = Personal KI
 pai-system-role-description = Sei jemandes elektronischer Kumpel!
@@ -33,5 +33,5 @@ pai-system-stopped-searching = Das Gerät stoppte die Suche nach einem pAI.
 pai-system-pai-name = pAI von { CAPITALIZE(THE($owner)) }
 pai-system-pai-name-raw = {$name}s pAI
 
-pai-system-brick-popup = Die Schaltkreise der pAI knallen und verpuffen laut!
-pai-system-scramble-popup = Die Stromkreise der pAI sind mit Strom überlastet!
+pai-system-brick-popup = Die Schaltkreise der pAI knallen laut und erlöschen!
+pai-system-scramble-popup = Die Schaltkreise der pAI sind mit Strom überlastet!

@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-katana-recalled = Deine Energie Katana teleportiert sich in deine Hand!
+ninja-katana-recalled = Dein Energie-Katana teleportiert sich in deine Hand!
 ninja-hands-full = Deine Hände sind voll!
 
 dash-ability-not-held = Du hältst dein Katana nicht!

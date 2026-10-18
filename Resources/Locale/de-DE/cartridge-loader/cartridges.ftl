@@ -25,7 +25,7 @@ crew-manifest-program-name = Crew-Manifest
 crew-manifest-cartridge-loading = Lädt ...
 
 net-probe-program-name = NetProbe
-net-probe-scan = Gescannt {$device}!
+net-probe-scan = {$device} gescannt!
 net-probe-label-name = Name
 net-probe-label-address = Adresse
 net-probe-label-frequency = Frequenz

@@ -20,6 +20,6 @@ comp-mind-ghosting-prevented = Du kannst jetzt nicht geistern.
 
 comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } völlig katatonisch. Die Belastungen des Lebens im Weltraum müssen zu viel für { OBJECT($ent) } gewesen sein. Eine Erholung ist ausgeschlossen.
 comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } tot.
-comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } ein leerer, abwesender Blick und erscheint völlig unempfänglich auf irgendetwas. { CAPITALIZE(SUBJECT($ent)) } Vielleicht bald aus ihm herausschnappen.
-comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } Die Seele ruht und kann bald zurückkehren.
-comp-mind-examined-dead-and-irrecoverable = { CAPITALIZE(POSS-ADJ($ent)) } Die Seele ist gegangen und hat sich bewegt. Jede Erholung ist unmöglich.
+comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } einen leeren, abwesenden Blick und scheint völlig unempfänglich für alles zu sein. { CAPITALIZE(SUBJECT($ent)) } kommt vielleicht bald wieder zu sich.
+comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } Seele ruht und kann bald zurückkehren.
+comp-mind-examined-dead-and-irrecoverable = { CAPITALIZE(POSS-ADJ($ent)) } Seele ist fortgegangen und weitergezogen. Eine Erholung ist ausgeschlossen.

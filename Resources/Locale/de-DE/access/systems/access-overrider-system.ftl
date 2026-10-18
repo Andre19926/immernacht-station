@@ -10,7 +10,7 @@ access-overrider-window-insert-button = Einlegen
 access-overrider-window-target-label = Angeschlossenes Gerät:
 access-overrider-window-no-target = Kein angeschlossenes Gerät
 access-overrider-window-missing-privileges = Der Zugriff auf dieses Gerät kann nicht geändert werden. Der eingefügten ID fehlen folgende Privilegien:
-access-overrider-window-missing-privileges-no-id = Der Zugriff auf dieses Gerät kann nicht geändert werden. Fehlen der folgenden Rechte:
+access-overrider-window-missing-privileges-no-id = Der Zugriff auf dieses Gerät kann nicht geändert werden. Es fehlen folgende Berechtigungen:
 access-overrider-cannot-modify-access = Du hast nicht genügend Privilegien, um dieses Gerät zu modifizieren!
 access-overrider-out-of-range = Das angeschlossene Gerät ist zu weit weg
 

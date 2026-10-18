@@ -13,12 +13,12 @@
 
 crayon-drawing-label = Zeichnung: [color={$color}]{$state}[/color] ({$charges}/{$capacity})
 crayon-interact-not-enough-left-text = Nicht mehr genug übrig.
-crayon-interact-used-up-text = Die {$owner} aufgebraucht.
+crayon-interact-used-up-text = {$owner} ist aufgebraucht.
 crayon-interact-invalid-location = Da kommst du nicht ran!
 
 ## UI
 crayon-window-title = Buntstift
-crayon-window-placeholder = Suche oder Warteschlange eine kommagetrennte Liste von Namen
+crayon-window-placeholder = Suche oder gib eine kommagetrennte Liste von Namen ein
 crayon-category-1-brushes = Pinsel
 crayon-category-2-alphanum = Zahlen und Buchstaben
 crayon-category-3-symbols = Symbole
