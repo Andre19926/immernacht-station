@@ -32,7 +32,7 @@ marking-ChitinidAntennasSpeed = Antennen (Geschwindigkeit)
 
 
 marking-ChitinidWingsDefault-default = Flügel
-marking-ChitinidWingsDefault = Tail (Standard)
+marking-ChitinidWingsDefault = Schwanz (Standard)
 
 marking-ChitinidWingsSmooth-smooth = Flügel
 marking-ChitinidWingsSmooth = Schwanz (glatt)
@@ -55,22 +55,22 @@ marking-ChitinidWingsFirefly = Schwanz (Feuer)
 
 
 marking-ChitinidChestCharred-charred_chest = Brust
-marking-ChitinidChestCharred = Chitinide (Charred)
+marking-ChitinidChestCharred = Chitinide (Verkohlt)
 
 marking-ChitinidHeadCharred-charred_head = Kopf
-marking-ChitinidHeadCharred = Chitinidenkopf (Charred)
+marking-ChitinidHeadCharred = Chitinidenkopf (Verkohlt)
 
 marking-ChitinidLLegCharred-charred_l_leg =  linkes Bein
-marking-ChitinidLLegCharred = Chitinid Linksbein (Charred)
+marking-ChitinidLLegCharred = Chitinid Linksbein (Verkohlt)
 
 marking-ChitinidRLegCharred-charred_r_leg = rechtes Bein
-marking-ChitinidRLegCharred = Chitiniden-Rechtes Bein (Charred)
+marking-ChitinidRLegCharred = Chitiniden-Rechtes Bein (Verkohlt)
 
 marking-ChitinidLArmCharred-charred_l_arm = linker Arm
-marking-ChitinidLArmCharred = Chitinid linker Arm (Charred)
+marking-ChitinidLArmCharred = Chitinid linker Arm (Verkohlt)
 
 marking-ChitinidRArmCharred-charred_r_arm = rechter Arm
-marking-ChitinidRArmCharred = Chitiniden-Rechter Arm (Charred)
+marking-ChitinidRArmCharred = Chitiniden-Rechter Arm (Verkohlt)
 
 
 
@@ -92,7 +92,7 @@ marking-ChitinidHeadStripes-stripes_head = Kopf
 marking-ChitinidHeadStripes = Chitinidenkopf (Streifen)
 
 marking-ChitinidLLegStripes-stripes_l_leg = linkes Bein
-marking-ChitinidLLegStripes = Chitinid Left Leg (Streifen)
+marking-ChitinidLLegStripes = Chitinid linkes Bein (Streifen)
 
 marking-ChitinidRLegStripes-stripes_r_leg = rechtes Bein
 marking-ChitinidRLegStripes = Chitinid Rechtsbein (Streifen)

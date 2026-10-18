@@ -12,7 +12,7 @@ marking-MothAntennasDefault-default = Antennen
 marking-MothAntennasDefault = Antennen (Standard)
 
 marking-MothAntennasCharred-charred = Antennen
-marking-MothAntennasCharred = Antennen (Charred)
+marking-MothAntennasCharred = Antennen (Verkohlt)
 
 marking-MothAntennasDbushy-dbushy = Antennen
 marking-MothAntennasDbushy = Antennen (Bushy)
@@ -72,7 +72,7 @@ marking-MothWingsDefault-default = Flügel
 marking-MothWingsDefault = Flügel (Standard)
 
 marking-MothWingsCharred-charred = Flügel
-marking-MothWingsCharred = Flügel (Charred)
+marking-MothWingsCharred = Flügel (Verkohlt)
 
 marking-MothWingsDbushy-dbushy_primary = Primär
 marking-MothWingsDbushy-dbushy_secondary = Sekundär
@@ -149,22 +149,22 @@ marking-MothWingsUnderwing = Flügel (Underwing)
 
 
 marking-MothChestCharred-charred_chest = Brust
-marking-MothChestCharred = Mottentruhe (Charred)
+marking-MothChestCharred = Mottentruhe (Verkohlt)
 
 marking-MothHeadCharred-charred_head = Kopf
-marking-MothHeadCharred = Mottenkopf (Charred)
+marking-MothHeadCharred = Mottenkopf (Verkohlt)
 
 marking-MothLLegCharred-charred_l_leg =  linkes Bein
-marking-MothLLegCharred = Moth Left Leg (Deutsche Übersetzung)
+marking-MothLLegCharred = Moth linkes Bein (Deutsche Übersetzung)
 
 marking-MothRLegCharred-charred_r_leg = rechtes Bein
-marking-MothRLegCharred = Moth Right Leg (Deutsche Ausgabe)
+marking-MothRLegCharred = Moth rechtes Bein (Deutsche Ausgabe)
 
 marking-MothLArmCharred-charred_l_arm = linker Arm
-marking-MothLArmCharred = Moth Left Arm (Deutsche Übersetzung)
+marking-MothLArmCharred = Moth linker Arm (Deutsche Übersetzung)
 
 marking-MothRArmCharred-charred_r_arm = rechter Arm
-marking-MothRArmCharred = Moth Right Arm (Deutsche Ausgabe)
+marking-MothRArmCharred = Moth rechter Arm (Deutsche Ausgabe)
 
 
 
@@ -175,16 +175,16 @@ marking-MothHeadDeathhead-deathhead_head = Kopf
 marking-MothHeadDeathhead = Moth Head (Todeskopf)
 
 marking-MothLLegDeathhead-deathhead_l_leg = linkes Bein
-marking-MothLLegDeathhead = Moth Left Leg (Todeskopf)
+marking-MothLLegDeathhead = Moth linkes Bein (Todeskopf)
 
 marking-MothRLegDeathhead-deathhead_r_leg = rechtes Bein
-marking-MothRLegDeathhead = Moth Right Leg (Todeskopf)
+marking-MothRLegDeathhead = Moth rechtes Bein (Todeskopf)
 
 marking-MothLArmDeathhead-deathhead_l_arm = linker Arm
-marking-MothLArmDeathhead = Moth Left Arm (Todeskopf)
+marking-MothLArmDeathhead = Moth linker Arm (Todeskopf)
 
 marking-MothRArmDeathhead-deathhead_r_arm = rechter Arm
-marking-MothRArmDeathhead = Moth Right Arm (Todeskopf)
+marking-MothRArmDeathhead = Moth rechter Arm (Todeskopf)
 
 
 
@@ -215,16 +215,16 @@ marking-MothHeadFirewatch-firewatch_head = Kopf
 marking-MothHeadFirewatch = Mottenkopf (Firewatch)
 
 marking-MothLLegFirewatch-firewatch_l_leg = linkes Bein
-marking-MothLLegFirewatch = Moth Left Leg (Deutsche Ausgabe)
+marking-MothLLegFirewatch = Moth linkes Bein (Deutsche Ausgabe)
 
 marking-MothRLegFirewatch-firewatch_r_leg = rechtes Bein
-marking-MothRLegFirewatch = Moth Right Leg (Deutsche Ausgabe)
+marking-MothRLegFirewatch = Moth rechtes Bein (Deutsche Ausgabe)
 
 marking-MothLArmFirewatch-firewatch_l_arm = linker Arm
-marking-MothLArmFirewatch = Moth Left Arm (Deutsche Ausgabe)
+marking-MothLArmFirewatch = Moth linker Arm (Deutsche Ausgabe)
 
 marking-MothRArmFirewatch-firewatch_r_arm = rechter Arm
-marking-MothRArmFirewatch = Moth Right Arm (Deutsche Ausgabe)
+marking-MothRArmFirewatch = Moth rechter Arm (Deutsche Ausgabe)
 
 
 
@@ -235,16 +235,16 @@ marking-MothHeadGothic-gothic_head = Kopf
 marking-MothHeadGothic = Mottenkopf (gotisch)
 
 marking-MothLLegGothic-gothic_l_leg = linkes Bein
-marking-MothLLegGothic = Moth Left Leg (Gotik)
+marking-MothLLegGothic = Moth linkes Bein (Gotik)
 
 marking-MothRLegGothic-gothic_r_leg = rechtes Bein
-marking-MothRLegGothic = Moth Right Leg (Gotik)
+marking-MothRLegGothic = Moth rechtes Bein (Gotik)
 
 marking-MothLArmGothic-gothic_l_arm = linker Arm
-marking-MothLArmGothic = Moth Left Arm (Gotik)
+marking-MothLArmGothic = Moth linker Arm (Gotik)
 
 marking-MothRArmGothic-gothic_r_arm = rechter Arm
-marking-MothRArmGothic = Moth Right Arm (Gotik)
+marking-MothRArmGothic = Moth rechter Arm (Gotik)
 
 
 
@@ -255,16 +255,16 @@ marking-MothHeadJungle-jungle_head = Kopf
 marking-MothHeadJungle = Mottenkopf (Dschungel)
 
 marking-MothLLegJungle-jungle_l_leg = linkes Bein
-marking-MothLLegJungle = Moth Left Leg (Dschungel)
+marking-MothLLegJungle = Moth linkes Bein (Dschungel)
 
 marking-MothRLegJungle-jungle_r_leg = rechtes Bein
-marking-MothRLegJungle = Moth Right Leg (Dschungel)
+marking-MothRLegJungle = Moth rechtes Bein (Dschungel)
 
 marking-MothLArmJungle-jungle_l_arm = linker Arm
-marking-MothLArmJungle = Moth Left Arm (Dschungel)
+marking-MothLArmJungle = Moth linker Arm (Dschungel)
 
 marking-MothRArmJungle-jungle_r_arm = rechter Arm
-marking-MothRArmJungle = Moth Right Arm (Dschungel)
+marking-MothRArmJungle = Moth rechter Arm (Dschungel)
 
 
 
@@ -298,13 +298,13 @@ marking-MothLLegOakworm-oakworm_l_leg = linkes Bein
 marking-MothLLegOakworm = Motte Linksbein (Oak Worm)
 
 marking-MothRLegOakworm-oakworm_r_leg = rechtes Bein
-marking-MothRLegOakworm = Moth Right Leg (Eichenwurm)
+marking-MothRLegOakworm = Moth rechtes Bein (Eichenwurm)
 
 marking-MothLArmOakworm-oakworm_l_arm = linker Arm
 marking-MothLArmOakworm = Motte linker Arm (Oak Worm)
 
 marking-MothRArmOakworm-oakworm_r_arm = rechter Arm
-marking-MothRArmOakworm = Moth Right Arm (Eichenwurm)
+marking-MothRArmOakworm = Moth rechter Arm (Eichenwurm)
 
 
 
@@ -315,16 +315,16 @@ marking-MothHeadPointy-pointy_head = Kopf
 marking-MothHeadPointy = Mottenkopf (Pointy)
 
 marking-MothLLegPointy-pointy_l_leg = linkes Bein
-marking-MothLLegPointy = Moth Left Leg (Deutsche Übersetzung)
+marking-MothLLegPointy = Moth linkes Bein (Deutsche Übersetzung)
 
 marking-MothRLegPointy-pointy_r_leg = rechtes Bein
-marking-MothRLegPointy = Moth Right Leg (Deutsche Übersetzung)
+marking-MothRLegPointy = Moth rechtes Bein (Deutsche Übersetzung)
 
 marking-MothLArmPointy-pointy_l_arm = linker Arm
-marking-MothLArmPointy = Moth Left Arm (Deutsche Übersetzung)
+marking-MothLArmPointy = Moth linker Arm (Deutsche Übersetzung)
 
 marking-MothRArmPointy-pointy_r_arm = rechter Arm
-marking-MothRArmPointy = Moth Right Arm (Deutsche Übersetzung)
+marking-MothRArmPointy = Moth rechter Arm (Deutsche Übersetzung)
 
 
 
@@ -335,16 +335,16 @@ marking-MothHeadRagged-ragged_head = Kopf
 marking-MothHeadRagged = Mottenkopf (Ragged)
 
 marking-MothLLegRagged-ragged_l_leg = linkes Bein
-marking-MothLLegRagged = Moth Left Leg (Ragged) Übersetzung
+marking-MothLLegRagged = Moth linkes Bein (Ragged) Übersetzung
 
 marking-MothRLegRagged-ragged_r_leg = rechtes Bein
-marking-MothRLegRagged = Moth Right Leg (Ragged) Übersetzung
+marking-MothRLegRagged = Moth rechtes Bein (Ragged) Übersetzung
 
 marking-MothLArmRagged-ragged_l_arm = linker Arm
-marking-MothLArmRagged = Moth Left Arm (vergewaltigt)
+marking-MothLArmRagged = Moth linker Arm (vergewaltigt)
 
 marking-MothRArmRagged-ragged_r_arm = rechter Arm
-marking-MothRArmRagged = Moth Right Arm (vergewaltigt)
+marking-MothRArmRagged = Moth rechter Arm (vergewaltigt)
 
 
 
@@ -355,16 +355,16 @@ marking-MothHeadRoyal-royal_head = Kopf
 marking-MothHeadRoyal = Mottenkopf (Royal)
 
 marking-MothLLegRoyal-royal_l_leg = linkes Bein
-marking-MothLLegRoyal = Moth Left Leg (Königlich)
+marking-MothLLegRoyal = Moth linkes Bein (Königlich)
 
 marking-MothRLegRoyal-royal_r_leg = rechtes Bein
-marking-MothRLegRoyal = Moth Right Leg (Königlich)
+marking-MothRLegRoyal = Moth rechtes Bein (Königlich)
 
 marking-MothLArmRoyal-royal_l_arm = linker Arm
-marking-MothLArmRoyal = Moth Left Arm (Königlich)
+marking-MothLArmRoyal = Moth linker Arm (Königlich)
 
 marking-MothRArmRoyal-royal_r_arm = rechter Arm
-marking-MothRArmRoyal = Moth Right Arm (Königlich)
+marking-MothRArmRoyal = Moth rechter Arm (Königlich)
 
 
 
@@ -375,16 +375,16 @@ marking-MothHeadWhitefly-whitefly_head = Kopf
 marking-MothHeadWhitefly = Moth Head (Weiße Fliege)
 
 marking-MothLLegWhitefly-whitefly_l_leg = linkes Bein
-marking-MothLLegWhitefly = Moth Left Leg (Weiße Fliege)
+marking-MothLLegWhitefly = Moth linkes Bein (Weiße Fliege)
 
 marking-MothRLegWhitefly-whitefly_r_leg = rechtes Bein
-marking-MothRLegWhitefly = Moth Right Leg (Weiße Fliege)
+marking-MothRLegWhitefly = Moth rechtes Bein (Weiße Fliege)
 
 marking-MothLArmWhitefly-whitefly_l_arm = linker Arm
-marking-MothLArmWhitefly = Moth Left Arm (Weiße Fliege)
+marking-MothLArmWhitefly = Moth linker Arm (Weiße Fliege)
 
 marking-MothRArmWhitefly-whitefly_r_arm = rechter Arm
-marking-MothRArmWhitefly = Moth Right Arm (Weiße Fliege)
+marking-MothRArmWhitefly = Moth rechter Arm (Weiße Fliege)
 
 
 
@@ -395,13 +395,13 @@ marking-MothHeadWitchwing-witchwing_head = Kopf
 marking-MothHeadWitchwing = Moth Head (Hexenflügel)
 
 marking-MothLLegWitchwing-witchwing_l_leg = linkes Bein
-marking-MothLLegWitchwing = Moth Left Leg (Hexenflügel)
+marking-MothLLegWitchwing = Moth linkes Bein (Hexenflügel)
 
 marking-MothRLegWitchwing-witchwing_r_leg = rechtes Bein
-marking-MothRLegWitchwing = Moth Right Leg (Hexenflügel)
+marking-MothRLegWitchwing = Moth rechtes Bein (Hexenflügel)
 
 marking-MothLArmWitchwing-witchwing_l_arm = linker Arm
-marking-MothLArmWitchwing = Moth Left Arm (Hexenflügel)
+marking-MothLArmWitchwing = Moth linker Arm (Hexenflügel)
 
 marking-MothRArmWitchwing-witchwing_r_arm = rechter Arm
-marking-MothRArmWitchwing = Moth Right Arm (Hexenflügel)
+marking-MothRArmWitchwing = Moth rechter Arm (Hexenflügel)

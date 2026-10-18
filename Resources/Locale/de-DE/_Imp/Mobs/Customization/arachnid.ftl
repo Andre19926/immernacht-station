@@ -93,10 +93,10 @@ marking-UndergarmentTopBinderA-binder = Binder
 marking-UndergarmentTopTanktopA = Tankstelle
 marking-UndergarmentTopTanktopA-tanktop = Tankstelle
 
-marking-UndershirtBraSportsA = Bra (Sport)
+marking-UndershirtBraSportsA = BH (Sport)
 marking-UndershirtBraSportsA-sports = Brabra
 
-marking-UndershirtBraStraplessA = Bra (bandlos)
+marking-UndershirtBraStraplessA = BH (bandlos)
 marking-UndershirtBraStraplessA-strapless = Brabra
 
 marking-UndershirtDefaultA = Unterhemden
@@ -140,7 +140,7 @@ marking-AbdomenBasic = Abdomen (Standard)
 marking-AbdomenBasic-abdomenbasic1 = Beine
 marking-AbdomenBasic-abdomenbasic2 = Abdomen
 
-marking-AbdomenWidow = Abdomen (Widow)
+marking-AbdomenWidow = Abdomen (Witwe)
 marking-AbdomenWidow-widow1 = Bauch und Arme
 marking-AbdomenWidow-widow2 = Kennzeichnung
 

@@ -100,7 +100,7 @@ marking-VulpHeadTigerFace-tiger_face = Tigerstreifen
 marking-VulpHeadTigerFace = Vulpkanin-Tigerstreifen (Gesicht)
 
 marking-VulpHeadSlash-slash = Schnitt
-marking-VulpHeadSlash = Vulpkanin-Slash
+marking-VulpHeadSlash = Vulpkanin-Schnitt
 
 
 marking-VulpTail-vulp = Vulpkaninschwanz (Basis)

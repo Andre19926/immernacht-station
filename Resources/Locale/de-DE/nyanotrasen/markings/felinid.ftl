@@ -43,19 +43,19 @@ marking-FelinidTailBasic-basic_tail_tip = Schwanzspitze
 marking-FelinidTailBasic-basic_tail_stripes_even = Schwanzstreifen, sogar
 marking-FelinidTailBasic-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 
-marking-FelinidTailBasicWithBow = Basic Cat Tail mit Bow
+marking-FelinidTailBasicWithBow = Basis Cat Schwanz mit Bow
 marking-FelinidTailBasicWithBow-basic_tail_tip = Schwanzspitze
 marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Schwanzstreifen, sogar
 marking-FelinidTailBasicWithBow-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 marking-FelinidTailBasicWithBow-basic_bow = Bogen
 
-marking-FelinidTailBasicWithBell = Basic Cat Tail mit Bell
+marking-FelinidTailBasicWithBell = Basis Cat Schwanz mit Bell
 marking-FelinidTailBasicWithBell-basic_tail_tip = Schwanzspitze
 marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Schwanzstreifen, sogar
 marking-FelinidTailBasicWithBell-basic_tail_stripes_odd = Schwanzstreifen, ungerade
 marking-FelinidTailBasicWithBell-basic_bell = Glocke
 
-marking-FelinidTailBasicWithBowAndBell = Basic Cat Tail mit Bow & Bell
+marking-FelinidTailBasicWithBowAndBell = Basis Cat Schwanz mit Bow & Bell
 marking-FelinidTailBasicWithBowAndBell-basic_tail_tip = Schwanzspitze
 marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Schwanzstreifen, sogar
 marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_odd = Schwanzstreifen, ungerade

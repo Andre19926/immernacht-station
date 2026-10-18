@@ -65,8 +65,8 @@ marking-SlimeEyesCyclopsGlowing-cyclopsglow = Zyklopen leuchtendes Auge
 
 # RArm
 
-marking-SlimeBonearmright = Floating Bones (Rechter Arm)
-marking-SlimeBonearmright-bone = Floating Bones (Rechter Arm)
+marking-SlimeBonearmright = Schwebende Knochen (Rechter Arm)
+marking-SlimeBonearmright-bone = Schwebende Knochen (Rechter Arm)
 
 # LArm
 
@@ -75,8 +75,8 @@ marking-SlimeBonearmleft-bone = Schwimmende Knochen (linker Arm)
 
 # RLeg
 
-marking-SlimeBonelegright = Floating Bones (Rechtes Bein)
-marking-SlimeBonelegright-bone = Floating Bones (Rechtes Bein)
+marking-SlimeBonelegright = Schwebende Knochen (Rechtes Bein)
+marking-SlimeBonelegright-bone = Schwebende Knochen (Rechtes Bein)
 
 # LLeg
 
@@ -94,8 +94,8 @@ marking-SlimeBonefootleft-bone = Schwimmende Knochen (linker Fuß)
 
 # RFoot
 
-marking-SlimeBonefootright = Floating Bones (Rechter Fuß)
-marking-SlimeBonefootright-bone = Floating Bones (Rechter Fuß)
+marking-SlimeBonefootright = Schwebende Knochen (Rechter Fuß)
+marking-SlimeBonefootright-bone = Schwebende Knochen (Rechter Fuß)
 
 # LHand
 
@@ -104,8 +104,8 @@ marking-SlimeBonehandleft-bone = Schwimmende Knochen (linke Hand)
 
 # RHand
 
-marking-SlimeBonehandright = Floating Bones (Rechte Hand)
-marking-SlimeBonehandright-bone = Floating Bones (Rechte Hand)
+marking-SlimeBonehandright = Schwebende Knochen (Rechte Hand)
+marking-SlimeBonehandright-bone = Schwebende Knochen (Rechte Hand)
 
 # FacialHair
 

@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-FelinidFluffyTail-Felinid_fluffy_tail_full = Fluffy Schwanz
+marking-FelinidFluffyTail-Felinid_fluffy_tail_full = Flauschiger Schwanz
 marking-FelinidFluffyTailRings-Felinid_fluffy_tail_full = Fluffiger Schwanz
 marking-FelinidFluffyTailRings-felinid_fluffy_tail_rings = Fluffy Schwanzringe
 marking-FelinidFluffyTail = Flauschiger Schwanz
-marking-FelinidFluffyTailRings = Fluffy Schwanz mit Ringen
+marking-FelinidFluffyTailRings = Flauschiger Schwanz mit Ringen
 marking-FelinidAlternativeTail = Alternativer wedelnder Schwanz
 marking-FelinidAlternativeTail-m_waggingtail_cat_FRONT = Alternative Wagging Schwanz

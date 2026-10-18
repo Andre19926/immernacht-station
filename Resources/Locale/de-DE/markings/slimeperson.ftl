@@ -7,26 +7,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-SlimeGradientLeftArm-gradient_l_arm = Schleimpiger linker Arm (Gradient)
-marking-SlimeGradientLeftArm = Schleimpiger linker Arm (Gradient)
+marking-SlimeGradientLeftArm-gradient_l_arm = Schleimpiger linker Arm (Verlauf)
+marking-SlimeGradientLeftArm = Schleimpiger linker Arm (Verlauf)
 
-marking-SlimeGradientRightArm-gradient_r_arm = Schleimpiger rechter Arm (Gradient)
-marking-SlimeGradientRightArm = Schleimpiger rechter Arm (Gradient)
+marking-SlimeGradientRightArm-gradient_r_arm = Schleimpiger rechter Arm (Verlauf)
+marking-SlimeGradientRightArm = Schleimpiger rechter Arm (Verlauf)
 
-marking-SlimeGradientLeftFoot-gradient_l_foot = Schleim linker Fuß (Gradient)
-marking-SlimeGradientLeftFoot = Schleim linker Fuß (Gradient)
+marking-SlimeGradientLeftFoot-gradient_l_foot = Schleim linker Fuß (Verlauf)
+marking-SlimeGradientLeftFoot = Schleim linker Fuß (Verlauf)
 
-marking-SlimeGradientRightFoot-gradient_r_foot = Schleimpiger rechter Fuß (Gradient)
-marking-SlimeGradientRightFoot = Schleimpiger rechter Fuß (Gradient)
+marking-SlimeGradientRightFoot-gradient_r_foot = Schleimpiger rechter Fuß (Verlauf)
+marking-SlimeGradientRightFoot = Schleimpiger rechter Fuß (Verlauf)
 
-marking-SlimeGradientLeftLeg-gradient_l_leg = Schleimpfendes linkes Bein (Gradient)
+marking-SlimeGradientLeftLeg-gradient_l_leg = Schleimpfendes linkes Bein (Verlauf)
 marking-SlimeGradientLeftLeg = Schleim: Linkes Bein (Farbverlauf)
 
 marking-SlimeGradientRightLeg-gradient_r_leg = Slime Rechtes Bein (Verlauf)
 marking-SlimeGradientRightLeg = Schleim: Rechtes Bein (Farbverlauf)
 
-marking-SlimeGradientLeftHand-gradient_l_hand = Schleim linke Hand (Gradient)
-marking-SlimeGradientLeftHand = Schleim linke Hand (Gradient)
+marking-SlimeGradientLeftHand-gradient_l_hand = Schleim linke Hand (Verlauf)
+marking-SlimeGradientLeftHand = Schleim linke Hand (Verlauf)
 
-marking-SlimeGradientRightHand-gradient_r_hand = Slime Rechte Hand (Gradient)
-marking-SlimeGradientRightHand = Slime Rechte Hand (Gradient)
+marking-SlimeGradientRightHand-gradient_r_hand = Slime Rechte Hand (Verlauf)
+marking-SlimeGradientRightHand = Slime Rechte Hand (Verlauf)

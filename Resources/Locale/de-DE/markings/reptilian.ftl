@@ -15,11 +15,11 @@
 marking-LizardFrillsShort-frills_short = Echsen-Kragen (Kurz)
 marking-LizardFrillsShort = Echsen-Kragen (Kurz)
 
-marking-LizardFrillsSimple-frills_simple = Lizard Frills (einfach)
-marking-LizardFrillsSimple = Lizard Frills (einfach)
+marking-LizardFrillsSimple-frills_simple = Echsenfransen (einfach)
+marking-LizardFrillsSimple = Echsenfransen (einfach)
 
-marking-LizardFrillsAquatic-frills_aquatic = Lizard Frills (Aquatisch)
-marking-LizardFrillsAquatic = Lizard Frills (Aquatisch)
+marking-LizardFrillsAquatic-frills_aquatic = Echsenfransen (Aquatisch)
+marking-LizardFrillsAquatic = Echsenfransen (Aquatisch)
 
 marking-LizardHornsAngler-horns_angler = Echsen-Hörner (Anglerfisch)
 marking-LizardHornsAngler = Echsen-Hörner (Anglerfisch)
@@ -40,8 +40,8 @@ marking-LizardTailSmooth-tail_smooth_primary = Lizard Schwanz
 marking-LizardTailSmooth-tail_smooth_secondary = Unterton
 marking-LizardTailSmooth = Lizard Schwanz (glatt)
 
-marking-LizardTailLarge-tail_large = Lizard Tail (Groß)
-marking-LizardTailLarge = Lizard Tail (Groß)
+marking-LizardTailLarge-tail_large = Lizard Schwanz (Groß)
+marking-LizardTailLarge = Lizard Schwanz (Groß)
 
 marking-LizardTailSpikes-tail_spikes = Echsen-Schwanz (Stachelig)
 marking-LizardTailSpikes = Echsen-Schwanz (Stachelig)
@@ -52,14 +52,14 @@ marking-LizardTailLTiger = Echsen-Schwanz (Helle Tigerstreifen)
 marking-LizardTailDTiger-tail_dtiger = Echsen-Schwanz (Dunkle Tigerstreifen)
 marking-LizardTailDTiger = Echsen-Schwanz (Dunkle Tigerstreifen)
 
-marking-LizardTailAquatic-tail_aquatic = Lizard Tail (Aquatisch)
-marking-LizardTailAquatic = Lizard Tail (Aquatisch)
+marking-LizardTailAquatic-tail_aquatic = Lizard Schwanz (Aquatisch)
+marking-LizardTailAquatic = Lizard Schwanz (Aquatisch)
 
-marking-LizardSnoutRound-snout_round = Lizard Snout (Runde)
-marking-LizardSnoutRound = Lizard Snout (Runde)
+marking-LizardSnoutRound-snout_round = Echsenschnauze (Runde)
+marking-LizardSnoutRound = Echsenschnauze (Runde)
 
-marking-LizardSnoutSharp-snout_sharp = Lizard Snout (Scharf)
-marking-LizardSnoutSharp = Lizard Snout (Scharf)
+marking-LizardSnoutSharp-snout_sharp = Echsenschnauze (Scharf)
+marking-LizardSnoutSharp = Echsenschnauze (Scharf)
 
 marking-LizardChestTiger-body_tiger = Echsen-Brust (Tiger)
 marking-LizardChestTiger = Echsen-Brust (Tiger)
@@ -79,11 +79,11 @@ marking-LizardRArmTiger = Echsen-Arm rechts (Tiger)
 marking-LizardRLegTiger-r_leg_tiger = Echsen-Bein rechts (Tiger)
 marking-LizardRLegTiger = Echsen-Bein rechts (Tiger)
 
-marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Göttlichkeit)
-marking-LizardFrillsDivinity = Lizard Frills (Göttlichkeit)
+marking-LizardFrillsDivinity-frills_divinity = Echsenfransen (Göttlichkeit)
+marking-LizardFrillsDivinity = Echsenfransen (Göttlichkeit)
 
-marking-LizardFrillsBig-frills_big = Lizard Frills (Groß)
-marking-LizardFrillsBig = Lizard Frills (Groß)
+marking-LizardFrillsBig-frills_big = Echsenfransen (Groß)
+marking-LizardFrillsBig = Echsenfransen (Groß)
 
 marking-LizardFrillsNeckfull-frills_neckfull = Echsen-Kragen (Halsvoll)
 marking-LizardFrillsNeckfull = Echsen-Kragen (Halsvoll)

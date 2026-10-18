@@ -24,10 +24,10 @@ marking-ChestNecklace = Halskette
 marking-ChestNecklace-necklace = Halskette
 
 marking-ChestTwistingLeft = Verdrehte Narbe (links)
-marking-ChestTwistingLeft-twistingleft = Twisted Scar (links)
+marking-ChestTwistingLeft-twistingleft = Verdrehte Narbe (links)
 
-marking-ChestTwistingRight = Twisted Scar (rechts)
-marking-ChestTwistingRight-twistingright = Twisted Scar (rechts)
+marking-ChestTwistingRight = Verdrehte Narbe (rechts)
+marking-ChestTwistingRight-twistingright = Verdrehte Narbe (rechts)
 
 marking-HumanoidAbs = Muskeln
 marking-HumanoidAbs-muscular = Muskeln
@@ -79,8 +79,8 @@ marking-EyebrowsUnibrow = Augenbrauen (Unibrow)
 marking-EyebrowsUnibrow-eyebrowsunibrow = Augenbrauen (Unibrow)
 
 marking-HeadHeavyTattoos = Starke Hals Tätowierungen
-marking-HeadHeavyTattoos-heavy1 = Heavy Neck Tattoos (Untere)
-marking-HeadHeavyTattoos-heavy2 = Heavy Neck Tattoos (Oben)
+marking-HeadHeavyTattoos-heavy1 = Schwere Nacken-Tattoos (Untere)
+marking-HeadHeavyTattoos-heavy2 = Schwere Nacken-Tattoos (Oben)
 
 marking-HeadTwisting = Verdrehte Narbe
 marking-HeadTwisting-twisting = Verdrehte Narbe
@@ -110,17 +110,17 @@ marking-HeadSeptum-septum = Septumring
 # RArm
 
 marking-ArmDollJointsTattooRight = Puppengelenke-Tattoo (Arm, rechts)
-marking-ArmDollJointsTattooRight-doll = Doll Joints Arm Tattoo (rechts)
+marking-ArmDollJointsTattooRight-doll = Puppengelenke-Armtattoo (rechts)
 
-marking-ArmHeavyTattoosRight = Heavy Arm Tattoos (rechts)
-marking-ArmHeavyTattoosRight-heavy1 = Heavy Arm Tattoos (Oben)
-marking-ArmHeavyTattoosRight-heavy2 = Heavy Arm Tattoos (Untere)
+marking-ArmHeavyTattoosRight = Schwere Arm-Tattoos (rechts)
+marking-ArmHeavyTattoosRight-heavy1 = Schwere Arm-Tattoos (Oben)
+marking-ArmHeavyTattoosRight-heavy2 = Schwere Arm-Tattoos (Untere)
 
 marking-ArmProstheticRight = Prothese (Rechter Arm)
 marking-ArmProstheticRight-prosthetic = Prothese (Rechter Arm)
 
-marking-ArmTwistingRight = Twisted Scar (Rechter Arm)
-marking-ArmTwistingRight-twisting = Twisted Scar (Rechter Arm)
+marking-ArmTwistingRight = Verdrehte Narbe (Rechter Arm)
+marking-ArmTwistingRight-twisting = Verdrehte Narbe (Rechter Arm)
 
 marking-TattooCode4 = Tattoo (Code QR rechter Arm)
 marking-TattooCode4-code4 = Tätowierung
@@ -135,18 +135,18 @@ marking-VitiligoArmR = Vitiligo (Rechter Arm)
 
 # LArm
 
-marking-ArmDollJointsTattooLeft = Doll Joints Arm Tattoo (Links)
-marking-ArmDollJointsTattooLeft-doll = Doll Joints Arm Tattoo (Links)
+marking-ArmDollJointsTattooLeft = Puppengelenke-Armtattoo (Links)
+marking-ArmDollJointsTattooLeft-doll = Puppengelenke-Armtattoo (Links)
 
-marking-ArmHeavyTattoosLeft = Heavy Arm Tattoos (links)
-marking-ArmHeavyTattoosLeft-heavy1 = Heavy Arm Tattoos (Oben)
-marking-ArmHeavyTattoosLeft-heavy2 = Heavy Arm Tattoos (Untere)
+marking-ArmHeavyTattoosLeft = Schwere Arm-Tattoos (links)
+marking-ArmHeavyTattoosLeft-heavy1 = Schwere Arm-Tattoos (Oben)
+marking-ArmHeavyTattoosLeft-heavy2 = Schwere Arm-Tattoos (Untere)
 
 marking-ArmProstheticLeft = Prothese (linker Arm)
 marking-ArmProstheticLeft-prosthetic = Prothese (linker Arm)
 
-marking-ArmTwistingLeft = Twisted Scar (linker Arm)
-marking-ArmTwistingLeft-twisting = Twisted Scar (linker Arm)
+marking-ArmTwistingLeft = Verdrehte Narbe (linker Arm)
+marking-ArmTwistingLeft-twisting = Verdrehte Narbe (linker Arm)
 
 marking-TattooHeartL = Tätowierung (Herz Linker Arm)
 marking-TattooHeartL-heart = Tätowierung
@@ -155,60 +155,60 @@ marking-VitiligoArmL = Vitiligo (linker Arm)
 
 # RLeg
 
-marking-LegDollJointsTattooRight = Doll Joints Leg Tattoo (rechts)
-marking-LegDollJointsTattooRight-doll = Doll Joints Leg Tattoo (rechts)
+marking-LegDollJointsTattooRight = Puppengelenke-Beintattoo (rechts)
+marking-LegDollJointsTattooRight-doll = Puppengelenke-Beintattoo (rechts)
 
-marking-LegHeavyTattoosRight = Heavy Leg Tattoos (rechts)
-marking-LegHeavyTattoosRight-heavy1 = Heavy Leg Tattoos (Oben)
-marking-LegHeavyTattoosRight-heavy2 = Heavy Leg Tattoos (Untere)
+marking-LegHeavyTattoosRight = Schwere Bein-Tattoos (rechts)
+marking-LegHeavyTattoosRight-heavy1 = Schwere Bein-Tattoos (Oben)
+marking-LegHeavyTattoosRight-heavy2 = Schwere Bein-Tattoos (Untere)
 
-marking-LegTwistingRight = Twisted Scar (Rechtes Bein)
-marking-LegTwistingRight-twisting = Twisted Scar (Rechtes Bein)
+marking-LegTwistingRight = Verdrehte Narbe (Rechtes Bein)
+marking-LegTwistingRight-twisting = Verdrehte Narbe (Rechtes Bein)
 
 marking-VitiligoLegR = Vitiligo (rechts)
 
 # LLeg
 
-marking-LegDollJointsTattooLeft = Doll Joints Leg Tattoo (Links)
-marking-LegDollJointsTattooLeft-doll = Doll Joints Leg Tattoo (Links)
+marking-LegDollJointsTattooLeft = Puppengelenke-Beintattoo (Links)
+marking-LegDollJointsTattooLeft-doll = Puppengelenke-Beintattoo (Links)
 
-marking-LegHeavyTattoosLeft = Heavy Leg Tattoos (Links)
-marking-LegHeavyTattoosLeft-heavy1 = Heavy Leg Tattoos (Oben)
-marking-LegHeavyTattoosLeft-heavy2 = Heavy Leg Tattoos (Untere)
+marking-LegHeavyTattoosLeft = Schwere Bein-Tattoos (Links)
+marking-LegHeavyTattoosLeft-heavy1 = Schwere Bein-Tattoos (Oben)
+marking-LegHeavyTattoosLeft-heavy2 = Schwere Bein-Tattoos (Untere)
 
-marking-LegTwistingLeft = Twisted Scar (linkes Bein)
-marking-LegTwistingLeft-twisting = Twisted Scar (linkes Bein)
+marking-LegTwistingLeft = Verdrehte Narbe (linkes Bein)
+marking-LegTwistingLeft-twisting = Verdrehte Narbe (linkes Bein)
 
 marking-VitiligoLegL = Vitiligo (links)
 
 # LFoot
 
-marking-FootDollJointsTattooLeft = Doll Joints Fuß Tattoo (Links)
-marking-FootDollJointsTattooLeft-doll = Doll Joints Fuß Tattoo (Links)
+marking-FootDollJointsTattooLeft = Puppengelenke Fuß Tattoo (Links)
+marking-FootDollJointsTattooLeft-doll = Puppengelenke Fuß Tattoo (Links)
 
-marking-FootHeavyTattoosLeft = Heavy Foot Tattoos (links)
+marking-FootHeavyTattoosLeft = Schwere Fuß-Tattoos (links)
 marking-FootHeavyTattoosLeft-heavy1 = Starke Fuß Tätowierungen (Innen)
-marking-FootHeavyTattoosLeft-heavy2 = Heavy Foot Tattoos (Außen)
+marking-FootHeavyTattoosLeft-heavy2 = Schwere Fuß-Tattoos (Außen)
 
 # RFoot
 
-marking-FootDollJointsTattooRight = Doll Joints Fuß Tattoo (rechts)
-marking-FootDollJointsTattooRight-doll = Doll Joints Fuß Tattoo (rechts)
+marking-FootDollJointsTattooRight = Puppengelenke Fuß Tattoo (rechts)
+marking-FootDollJointsTattooRight-doll = Puppengelenke Fuß Tattoo (rechts)
 
-marking-FootHeavyTattoosRight = Heavy Foot Tattoos (rechts)
+marking-FootHeavyTattoosRight = Schwere Fuß-Tattoos (rechts)
 marking-FootHeavyTattoosRight-heavy1 = Starke Fuß Tätowierungen (Innen)
-marking-FootHeavyTattoosRight-heavy2 = Heavy Foot Tattoos (Außen)
+marking-FootHeavyTattoosRight-heavy2 = Schwere Fuß-Tattoos (Außen)
 
 # LHand
 
 marking-HandBraceletLeft = Armband (links)
 marking-HandBraceletLeft-bracelet = Armband (links)
 
-marking-HandDollJointsTattooLeft = Doll Joints Hand Tattoo (Links)
-marking-HandDollJointsTattooLeft-doll = Doll Joints Hand Tattoo (Links)
+marking-HandDollJointsTattooLeft = Puppengelenke Hand Tattoo (Links)
+marking-HandDollJointsTattooLeft-doll = Puppengelenke Hand Tattoo (Links)
 
-marking-HandHeavyTattoosLeft = Heavy Hand Tattoos (Links)
-marking-HandHeavyTattoosLeft-heavy1 = Heavy Hand Tattoos (Äußeres)
+marking-HandHeavyTattoosLeft = Schwere Hand-Tattoos (Links)
+marking-HandHeavyTattoosLeft-heavy1 = Schwere Hand-Tattoos (Äußeres)
 marking-HandHeavyTattoosLeft-heavy2 = Starke Hand Tätowierungen (Innen)
 
 marking-HandProstheticLeft = Prothese (linke Hand)
@@ -218,8 +218,8 @@ marking-HandRingsLeft = Ringe (links)
 marking-HandRingsLeft-rings1 = linker Indexfinger
 marking-HandRingsLeft-rings2 = linker Ringfinger
 
-marking-HandTwistingLeft = Twisted Scar (linke Hand)
-marking-HandTwistingLeft-twisting = Twisted Scar (linke Hand)
+marking-HandTwistingLeft = Verdrehte Narbe (linke Hand)
+marking-HandTwistingLeft-twisting = Verdrehte Narbe (linke Hand)
 
 marking-VitiligoHandL = Vitiligo (linke Hand)
 
@@ -228,11 +228,11 @@ marking-VitiligoHandL = Vitiligo (linke Hand)
 marking-HandBraceletRight = Armband (rechts)
 marking-HandBraceletRight-bracelet = Armband (rechts)
 
-marking-HandDollJointsTattooRight = Doll Joints Hand Tattoo (rechts)
-marking-HandDollJointsTattooRight-doll = Doll Joints Hand Tattoo (rechts)
+marking-HandDollJointsTattooRight = Puppengelenke Hand Tattoo (rechts)
+marking-HandDollJointsTattooRight-doll = Puppengelenke Hand Tattoo (rechts)
 
-marking-HandHeavyTattoosRight = Heavy Hand Tattoos (rechts)
-marking-HandHeavyTattoosRight-heavy1 = Heavy Hand Tattoos (Äußeres)
+marking-HandHeavyTattoosRight = Schwere Hand-Tattoos (rechts)
+marking-HandHeavyTattoosRight-heavy1 = Schwere Hand-Tattoos (Äußeres)
 marking-HandHeavyTattoosRight-heavy2 = Starke Hand Tätowierungen (Innen)
 
 marking-HandProstheticRight = Prothese (rechte Hand)
@@ -242,8 +242,8 @@ marking-HandRingsRight = Ringe (rechts)
 marking-HandRingsRight-rings1 = rechter Indexfinger
 marking-HandRingsRight-rings2 = Rechter Ringfinger
 
-marking-HandTwistingRight = Twisted Scar (Rechte Hand)
-marking-HandTwistingRight-twisting = Twisted Scar (Rechte Hand)
+marking-HandTwistingRight = Verdrehte Narbe (Rechte Hand)
+marking-HandTwistingRight-twisting = Verdrehte Narbe (Rechte Hand)
 
 marking-VitiligoHandR = Vitiligo (Rechte Hand)
 

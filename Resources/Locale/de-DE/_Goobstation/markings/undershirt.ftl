@@ -23,7 +23,7 @@ marking-UndershirtBraClassic-classic = Brabra
 marking-UndershirtBraClassic = BH (klassisch)
 
 marking-UndershirtBraSports-sports = Brabra
-marking-UndershirtBraSports = Bra (Sport)
+marking-UndershirtBraSports = BH (Sport)
 
 marking-UndershirtBraStrapless-strapless = Brabra
-marking-UndershirtBraStrapless = Bra (bandlos)
+marking-UndershirtBraStrapless = BH (bandlos)

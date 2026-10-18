@@ -1,15 +1,15 @@
 # Chest
 
-marking-BadMoltChest = Narbe (Bad Molt)
-marking-BadMoltChest-badmolt = Narbe (Bad Molt)
+marking-BadMoltChest = Narbe (Schlechte Häutung)
+marking-BadMoltChest-badmolt = Narbe (Schlechte Häutung)
 
 # Head
 
-marking-BadMoltHead = Narbe (Bad Molt)
-marking-BadMoltHead-badmolt = Narbe (Bad Molt)
+marking-BadMoltHead = Narbe (Schlechte Häutung)
+marking-BadMoltHead-badmolt = Narbe (Schlechte Häutung)
 
-marking-ScarSlash = Narbe (Slash)
-marking-ScarSlash-snoutscar = Narbe (Slash)
+marking-ScarSlash = Narbe (Schnitt)
+marking-ScarSlash-snoutscar = Narbe (Schnitt)
 
 marking-ScarTalons = Narbe (Talonmark)
 marking-ScarTalons-talonscar = Narbe (Talonmark)
@@ -28,23 +28,23 @@ marking-LizardDroopySnout-droopy = Schnauze
 marking-LizardSnoutpiercings = Piercings
 marking-LizardSnoutpiercings-piercings1 = Piercings
 
-marking-LizardSnoutTall = Lizard Snout (Groß)
+marking-LizardSnoutTall = Echsenschnauze (Groß)
 marking-LizardSnoutTall-tall = Schnauze
 
-marking-LizardUpperSnout = Lizard Snout (Hohe Nasenlöcher)
+marking-LizardUpperSnout = Echsenschnauze (Hohe Nasenlöcher)
 marking-LizardUpperSnout-upper = Schnauze
 
 # Eyes
 
 # RArm
 
-marking-BadMoltRArm = Narbe (Bad Molt R)
-marking-BadMoltRArm-badmolt = Narbe (Bad Molt R)
+marking-BadMoltRArm = Narbe (Schlechte Häutung R)
+marking-BadMoltRArm-badmolt = Narbe (Schlechte Häutung R)
 
 # LArm
 
-marking-BadMoltLArm = Narbe (Bad Molt L)
-marking-BadMoltLArm-badmolt = Narbe (Bad Molt L)
+marking-BadMoltLArm = Narbe (Schlechte Häutung L)
+marking-BadMoltLArm-badmolt = Narbe (Schlechte Häutung L)
 
 # RLeg
 

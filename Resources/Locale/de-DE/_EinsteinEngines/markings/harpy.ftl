@@ -84,7 +84,7 @@ marking-HarpyTailHaven = Haven Schwanz (Weißschuppe)
 marking-HarpyTailHaven-haven_tone_1 = Äußere Federn
 marking-HarpyTailHaven-haven_tone_2 = Innere Federn
 
-marking-HarpyTailForkedLong = Long Forked Tail (Weißwaage)
+marking-HarpyTailForkedLong = Long Forked Schwanz (Weißwaage)
 marking-HarpyTailForkedLong-forked_long = Schwanz
 
 marking-HarpyTailSwallow = Schwalbenschwanz (Whitescale)

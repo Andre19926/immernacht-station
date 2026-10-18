@@ -35,7 +35,7 @@ ghost-gui-toggle-hearing-popup-on = Du hörst jetzt alle Nachrichten.
 ghost-gui-toggle-hearing-popup-off = Du hörst jetzt nur noch Funk und Nachrichten in der Nähe.
 
 ghost-target-window-title = Geister-Warp
-ghost-target-window-current-button = Warp: {$name}
+ghost-target-window-current-button = Hin zu: {$name}
 ghost-target-window-warp-to-most-followed = Zum meistverfolgten Ziel warpen
 
 ghost-roles-window-title = Geisterrollen

@@ -40,7 +40,7 @@ marking-TajaranEarsSeparateNear-inears_near = Inneres
 
 marking-TajaranTailAnim = Klassischer Schwanz (animiert)
 marking-TajaranTailAnim-tail_anim = Schwanz
-marking-TajaranTailAnimRings = Classic Tail (Animiert, Ringe)
+marking-TajaranTailAnimRings = Classic Schwanz (Animiert, Ringe)
 marking-TajaranTailAnimRings-tail_anim = Schwanz
 marking-TajaranTailAnimRings-tail_anim_rings = Ringe
 marking-TajaranTailRetro = Klassischer Schwanz

@@ -8,14 +8,14 @@
 marking-GauzeLefteyePatch-gauze_lefteye_2 = Augenklappe (links)
 marking-GauzeLefteyePatch = Augenklappe (links)
 
-marking-GauzeLefteyePad-gauze_lefteye_1 = Gauze eyepad (Links)
-marking-GauzeLefteyePad = Gauze eyepad (Links)
+marking-GauzeLefteyePad-gauze_lefteye_1 = Mull-Augenpolster (Links)
+marking-GauzeLefteyePad = Mull-Augenpolster (Links)
 
-marking-GauzeRighteyePatch-gauze_righteye_2 = Gauze Eyepatch (rechts)
-marking-GauzeRighteyePatch = Gauze Eyepatch (rechts)
+marking-GauzeRighteyePatch-gauze_righteye_2 = Mull-Augenklappe (rechts)
+marking-GauzeRighteyePatch = Mull-Augenklappe (rechts)
 
-marking-GauzeRighteyePad-gauze_righteye_1 = Gauze eyepad (rechts)
-marking-GauzeRighteyePad = Gauze eyepad (rechts)
+marking-GauzeRighteyePad-gauze_righteye_1 = Mull-Augenpolster (rechts)
+marking-GauzeRighteyePad = Mull-Augenpolster (rechts)
 
 marking-GauzeShoulder-gauze_shoulder = Mull Schulterschlinge
 marking-GauzeShoulder = Mull Schulterschlinge
@@ -23,53 +23,53 @@ marking-GauzeShoulder = Mull Schulterschlinge
 marking-GauzeStomach-gauze_abdomen = Mull Bauchverband
 marking-GauzeStomach = Mull Bauchverband
 
-marking-GauzeUpperArmRight-gauze_upperarm_r = Gauze Unterarmband (rechts)
-marking-GauzeUpperArmRight = Gauze Unterarmband (rechts)
+marking-GauzeUpperArmRight-gauze_upperarm_r = Mull-Oberarmband (rechts)
+marking-GauzeUpperArmRight = Mull-Oberarmband (rechts)
 
-marking-GauzeLowerArmRight-gauze_lowerarm_r = Gauze Wrist Wrap (rechts)
-marking-GauzeLowerArmRight = Gauze Wrist Wrap (rechts)
+marking-GauzeLowerArmRight-gauze_lowerarm_r = Mull-Handgelenkwickel (rechts)
+marking-GauzeLowerArmRight = Mull-Handgelenkwickel (rechts)
 
-marking-GauzeLeftArm-gauze_leftarm = Gauze Arm Wrap (links)
-marking-GauzeLeftArm = Gauze Arm Wrap (links)
+marking-GauzeLeftArm-gauze_leftarm = Mull-Armwickel (links)
+marking-GauzeLeftArm = Mull-Armwickel (links)
 
-marking-GauzeLowerLegLeft-gauze_lowerleg_l = Gauze Ankle Wrap (links)
-marking-GauzeLowerLegLeft = Gauze Ankle Wrap (links)
+marking-GauzeLowerLegLeft-gauze_lowerleg_l = Mull-Knöchelwickel (links)
+marking-GauzeLowerLegLeft = Mull-Knöchelwickel (links)
 
-marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Gauze Handwrap (links)
-marking-GauzeBoxerWrapLeft = Gauze Handwrap (links)
+marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Mull-Handwickel (links)
+marking-GauzeBoxerWrapLeft = Mull-Handwickel (links)
 
-marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Gauze Handwrap (rechts)
-marking-GauzeBoxerWrapRight = Gauze Handwrap (rechts)
+marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Mull-Handwickel (rechts)
+marking-GauzeBoxerWrapRight = Mull-Handwickel (rechts)
 
 marking-GauzeUpperLegLeft-gauze_upperleg_l = Oberschenkelband (links)
 marking-GauzeUpperLegLeft = Oberschenkelband (links)
 
-marking-GauzeLowerLegRight-gauze_lowerleg_r = Gauze Ankle Wrap (rechts)
-marking-GauzeLowerLegRight = Gauze Ankle Wrap (rechts)
+marking-GauzeLowerLegRight-gauze_lowerleg_r = Mull-Knöchelwickel (rechts)
+marking-GauzeLowerLegRight = Mull-Knöchelwickel (rechts)
 
-marking-GauzeUpperLegRight-gauze_upperleg_r = Gauze Thigh Wrap (rechts)
-marking-GauzeUpperLegRight = Gauze Thigh Wrap (rechts)
+marking-GauzeUpperLegRight-gauze_upperleg_r = Mull-Oberschenkelwickel (rechts)
+marking-GauzeUpperLegRight = Mull-Oberschenkelwickel (rechts)
 
 marking-GauzeBlindfold-gauze_blindfold = Mull Augenbinde
 marking-GauzeBlindfold = Mull Augenbinde
 
-marking-GauzeHead-gauze_head = Gaze Head Wrap
-marking-GauzeHead = Gaze Head Wrap
+marking-GauzeHead-gauze_head = Mull-Kopfwickel
+marking-GauzeHead = Mull-Kopfwickel
 
 marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Mull Augenbinde
 marking-GauzeLizardBlindfold = Mull Augenbinde
 
-marking-GauzeLizardFootRight-gauze_lizard_foot_r = Gauze Foot Wrap (rechts)
-marking-GauzeLizardFootRight = Gauze Foot Wrap (rechts)
+marking-GauzeLizardFootRight-gauze_lizard_foot_r = Mull-Fußwickel (rechts)
+marking-GauzeLizardFootRight = Mull-Fußwickel (rechts)
 
 marking-GauzeLizardFootLeft-gauze_lizard_foot_l = Gaze Foot Wrap (Links)
 marking-GauzeLizardFootLeft = Gaze Foot Wrap (Links)
 
-marking-GauzeLizardLefteyePatch-gauze_lizard_lefteye = Reptilien Gauze Eyepatch (Links)
-marking-GauzeLizardLefteyePatch = Reptilien Gauze Eyepatch (Links)
+marking-GauzeLizardLefteyePatch-gauze_lizard_lefteye = Reptilien Mull-Augenklappe (Links)
+marking-GauzeLizardLefteyePatch = Reptilien Mull-Augenklappe (Links)
 
 marking-GauzeLizardRighteyePatch-gauze_lizard_righteye = Reptilien-Gauze-Augenklappe (rechts)
-marking-GauzeLizardRighteyePatch = Reptilien Gauze Eyepatch (rechts)
+marking-GauzeLizardRighteyePatch = Reptilien Mull-Augenklappe (rechts)
 
 marking-GauzeMothStomach-gauze_moth_abdomen = Insektoide Magen-Wrap
 marking-GauzeMothStomach = Insektoide Magen-Wrap
@@ -80,33 +80,33 @@ marking-GauzeMothShoulder = Insektoide Schulterschlinge
 marking-GauzeMothBlindfold-gauze_moth_blindfold = Insektoid Blindfold
 marking-GauzeMothBlindfold = Insektoid Blindfold
 
-marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Insectoid Gauze Eyepatch (Links)
-marking-GauzeMothLeftEyePatch = Insectoid Gauze Eyepatch (Links)
+marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Insectoid Mull-Augenklappe (Links)
+marking-GauzeMothLeftEyePatch = Insectoid Mull-Augenklappe (Links)
 
-marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Insectoid Gauze eyepad (Links)
-marking-GauzeMothLeftEyePad = Insectoid Gauze eyepad (Links)
+marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Insectoid Mull-Augenpolster (Links)
+marking-GauzeMothLeftEyePad = Insectoid Mull-Augenpolster (Links)
 
-marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Insectoid Gauze Augenklappe (rechts)
-marking-GauzeMothRightEyePatch = Insectoid Gauze Augenklappe (rechts)
+marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Insectoid Mull-Augenklappe (rechts)
+marking-GauzeMothRightEyePatch = Insectoid Mull-Augenklappe (rechts)
 
-marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Insectoid Gauze Eyepad (rechts)
-marking-GauzeMothRightEyePad = Insectoid Gauze Eyepad (rechts)
+marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Insectoid Mull-Eyepad (rechts)
+marking-GauzeMothRightEyePad = Insectoid Mull-Eyepad (rechts)
 
-marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Insectoid Gauze Unterarmwickel (rechts)
-marking-GauzeMothUpperArmRight = Insectoid Gauze Unterarmwickel (rechts)
+marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Insectoid Mull-Unterarmwickel (rechts)
+marking-GauzeMothUpperArmRight = Insectoid Mull-Unterarmwickel (rechts)
 
-marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Insectoid Gauze Unterarmband (links)
-marking-GauzeMothUpperArmLeft = Insectoid Gauze Unterarmband (links)
+marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Insectoid Mull-Oberarmband (links)
+marking-GauzeMothUpperArmLeft = Insectoid Mull-Oberarmband (links)
 
-marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Insektoid Gauze Thigh Wrap (rechts)
-marking-GauzeMothUpperLegRight = Insectoid Insectoid Gauze Thigh Wrap (rechts)
+marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Insektoid Mull-Oberschenkelwickel (rechts)
+marking-GauzeMothUpperLegRight = Insectoid Insectoid Mull-Oberschenkelwickel (rechts)
 
-marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Insektoid Gauze Thigh Wrap (links)
-marking-GauzeMothUpperLegLeft = Insektoid Gauze Thigh Wrap (links)
+marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Insektoid Mull-Oberschenkelwickel (links)
+marking-GauzeMothUpperLegLeft = Insektoid Mull-Oberschenkelwickel (links)
 
-marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Insectoid Gauze Shin Wrap (rechts)
-marking-GauzeMothLowerLegRight = Insectoid Gauze Shin Wrap (rechts)
+marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Insectoid Mull-Shin Wrap (rechts)
+marking-GauzeMothLowerLegRight = Insectoid Mull-Shin Wrap (rechts)
 
-marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insectoid Gauze Shin Wrap (Links)
-marking-GauzeMothLowerLegLeft = Insectoid Gauze Shin Wrap (Links)
+marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insectoid Mull-Shin Wrap (Links)
+marking-GauzeMothLowerLegLeft = Insectoid Mull-Shin Wrap (Links)
 

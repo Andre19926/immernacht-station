@@ -11,7 +11,7 @@ spray-painter-style-not-available = Kann den ausgewählten Stil nicht auf dieses
 
 spray-painter-verb-toggle-decals = Abziehbilder
 
-spray-painter-item-status-label = Decals: {$mode}
+spray-painter-item-status-label = Aufkleber: {$mode}
 spray-painter-item-status-add = [color=green]Addition[/color]
 spray-painter-item-status-remove = [color=red]Entfernen[/color]
 spray-painter-item-status-off = [color=gray]Ausgeschaltet[/color]
@@ -46,7 +46,7 @@ spray-painter-tab-category-canisters = Kanister
 spray-painter-tab-category-crates = Kisten
 spray-painter-tab-category-lockers = Schließfächer
 spray-painter-tab-category-pipes = Rohrleitungen
-spray-painter-tab-category-decals = Decals
+spray-painter-tab-category-decals = Aufkleber
 
 # Groups (subtabs)
 spray-painter-tab-group-airlockstandard = Standard

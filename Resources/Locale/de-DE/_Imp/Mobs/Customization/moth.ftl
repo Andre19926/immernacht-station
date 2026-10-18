@@ -7,16 +7,16 @@ marking-ChestChimeraMaleMoth = Mottentruhe (Chimera)
 marking-ChestChimeraMaleMoth-chimeram = Chimäre
 
 marking-ChestTwistingLeftFemaleMoth = Narbe (verdrehte Narbe links)
-marking-ChestTwistingLeftFemaleMoth-twistingleftf = Twisted Scar (links)
+marking-ChestTwistingLeftFemaleMoth-twistingleftf = Verdrehte Narbe (links)
 
 marking-ChestTwistingLeftMaleMoth = Narbe (verdrehte Narbe links)
-marking-ChestTwistingLeftMaleMoth-twistingleftm = Twisted Scar (links)
+marking-ChestTwistingLeftMaleMoth-twistingleftm = Verdrehte Narbe (links)
 
 marking-ChestTwistingRightFemaleMoth = Scar (rechts verdreht)
-marking-ChestTwistingRightFemaleMoth-twistingrightf = Twisted Scar (rechts)
+marking-ChestTwistingRightFemaleMoth-twistingrightf = Verdrehte Narbe (rechts)
 
 marking-ChestTwistingRightMaleMoth = Scar (rechts verdreht)
-marking-ChestTwistingRightMaleMoth-twistingrightm = Twisted Scar (rechts)
+marking-ChestTwistingRightMaleMoth-twistingrightm = Verdrehte Narbe (rechts)
 
 marking-ChestStarMoth = Narbe (Star)
 marking-ChestStarMoth-star = Stern Narbe
@@ -32,7 +32,7 @@ marking-TorsoIncisionMoth-incision = Rumpfeinschnitt
 
 # Head
 
-marking-BadmoltMoth = Narbe (Bad Molt)
+marking-BadmoltMoth = Narbe (Schlechte Häutung)
 marking-BadmoltMoth-badmolt = Schlechte Häutung
 
 marking-EyebagsMoth = Augen (Eyebags)
@@ -88,7 +88,7 @@ marking-ProstheticArmRightMoth = Prothese (Rechter Arm)
 marking-ProstheticArmRightMoth-prosthetic = Prothese (Rechter Arm)
 
 marking-TwistingArmRightMoth = Narbe (verdrehter rechter Arm)
-marking-TwistingArmRightMoth-twisting = Twisted Scar (rechts)
+marking-TwistingArmRightMoth-twisting = Verdrehte Narbe (rechts)
 
 # LArm
 
@@ -99,7 +99,7 @@ marking-ProstheticArmLeftMoth = Prothese (linker Arm)
 marking-ProstheticArmLeftMoth-prosthetic = Prothese (linker Arm)
 
 marking-TwistingArmLeftMoth = Narbe (verdrehter linker Arm)
-marking-TwistingArmLeftMoth-twisting = Twisted Scar (linker Arm)
+marking-TwistingArmLeftMoth-twisting = Verdrehte Narbe (linker Arm)
 
 # RLeg
 
@@ -107,7 +107,7 @@ marking-LegProstheticRightMoth = Prothese (Rechtes Bein)
 marking-LegProstheticRightMoth-prosthetic = Prothese (Rechtes Bein)
 
 marking-LegTwistingRightMoth = Narbe (verdrehtes rechtes Bein)
-marking-LegTwistingRightMoth-twisting = Twisted Scar (rechts)
+marking-LegTwistingRightMoth-twisting = Verdrehte Narbe (rechts)
 
 # LLeg
 
@@ -118,7 +118,7 @@ marking-LegProstheticLeftMoth = Prothese (linkes Bein)
 marking-LegProstheticLeftMoth-prosthetic = Prothese (linkes Bein)
 
 marking-LegTwistingLeftMoth = Narbe (verdrehtes linkes Bein)
-marking-LegTwistingLeftMoth-twisting = Twisted Scar (links)
+marking-LegTwistingLeftMoth-twisting = Verdrehte Narbe (links)
 
 # UndergarmentBottom
 
@@ -146,7 +146,7 @@ marking-HandProstheticLeftMoth = Prothese (linke Hand)
 marking-HandProstheticLeftMoth-prosthetic = Prothese (linke Hand)
 
 marking-HandTwistingLeftMoth = Narbe (verdrehte linke Hand)
-marking-HandTwistingLeftMoth-twisting = Twisted Scar (linke Hand)
+marking-HandTwistingLeftMoth-twisting = Verdrehte Narbe (linke Hand)
 
 # RHand
 
@@ -154,7 +154,7 @@ marking-HandProstheticRightMoth = Prothese (rechte Hand)
 marking-HandProstheticRightMoth-prosthetic = Handprothese (rechts)
 
 marking-HandTwistingRightMoth = Narbe (verdrehte rechte Hand)
-marking-HandTwistingRightMoth-twisting = Twisted Scar (Rechte Hand)
+marking-HandTwistingRightMoth-twisting = Verdrehte Narbe (Rechte Hand)
 
 # FacialHair
 
@@ -170,8 +170,8 @@ marking-PlateSmallSpike = Kopf (Spike)
 
 # HeadTop
 
-marking-MothBeetleHorn1 = Beetle Horn (Zacken)
-marking-MothBeetleHorn1-beetlehorn1 = Beetle Horn (Zacken)
+marking-MothBeetleHorn1 = Käferhorn (Zacken)
+marking-MothBeetleHorn1-beetlehorn1 = Käferhorn (Zacken)
 
 marking-MothBeetleHorn2 = Käfer Horn (Lanze)
 marking-MothBeetleHorn2-beetlehorn2 = Käfer Horn (Lanze)

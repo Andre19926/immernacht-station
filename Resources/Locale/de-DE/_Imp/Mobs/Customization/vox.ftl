@@ -35,11 +35,11 @@ marking-VoxTailStripes-tailstripes = Endstreifen
 
 # Head
 
-marking-ScarsVoxBigslashLeftHead = Big Slash (Links)
-marking-ScarsVoxBigslashLeftHead-bigslashleft = Big Slash (Links)
+marking-ScarsVoxBigslashLeftHead = Big Schnitt (Links)
+marking-ScarsVoxBigslashLeftHead-bigslashleft = Big Schnitt (Links)
 
-marking-ScarsVoxBigslashRightHead = Big Slash (rechts)
-marking-ScarsVoxBigslashRightHead-roadrashright = Big Slash (rechts)
+marking-ScarsVoxBigslashRightHead = Big Schnitt (rechts)
+marking-ScarsVoxBigslashRightHead-roadrashright = Big Schnitt (rechts)
 
 marking-ScarsVoxRoadrashLeftHead = Road Rash (Links)
 marking-ScarsVoxRoadrashLeftHead-roadrashleft = Road Rash (Links)
@@ -50,8 +50,8 @@ marking-ScarsVoxRoadrashRightHead-roadrashright = Road Rash (rechts)
 marking-ScarsVoxSlashLeftHead = Schrägstrich (links)
 marking-ScarsVoxSlashLeftHead-slashleft = Schrägstrich (links)
 
-marking-ScarsVoxSlashRightHead = Slash (rechts)
-marking-ScarsVoxSlashRightHead-slashright = Slash (rechts)
+marking-ScarsVoxSlashRightHead = Schnitt (rechts)
+marking-ScarsVoxSlashRightHead-slashright = Schnitt (rechts)
 
 marking-VoxCheeks = Wangen
 marking-VoxCheeks-cheeks = Wangen
@@ -146,7 +146,7 @@ marking-VoxRFootScales = Fußwaage rechts
 
 # LHand
 
-marking-VoxHandGradientLHand = Gradient (linke Hand)
+marking-VoxHandGradientLHand = Verlauf (linke Hand)
 marking-VoxHandGradientLHand-gradient1 = Boden
 marking-VoxHandGradientLHand-gradient2 = Mitte
 marking-VoxHandGradientLHand-gradient3 = oben
@@ -158,7 +158,7 @@ marking-VoxLHandScales = Handwaage links
 
 # RHand
 
-marking-VoxHandGradientRHand = Gradient (rechte Hand)
+marking-VoxHandGradientRHand = Verlauf (rechte Hand)
 marking-VoxHandGradientRHand-gradient1 = Boden
 marking-VoxHandGradientRHand-gradient2 = Mitte
 marking-VoxHandGradientRHand-gradient3 = oben

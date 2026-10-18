@@ -14,7 +14,7 @@ alerts-stasis-desc = Du befindest dich in vorübergehender Stasis. Du kannst nic
 alerts-knocked-down-name = [color=yellow]Abgeschlagen[/color]
 alerts-knocked-down-desc = [color=yellow]Abgeschlagen[/color]Du kannst nicht aufstehen.
 
-alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
+alerts-modsuit-power-name = [color=yellow]Modsuit-Energie[/color]
 alerts-modsuit-power-desc = Zeigt die aktuelle Leistungsstufe deines Modsuits an. Niedriger Strom kann die Funktionalität des Anzugs beeinträchtigen.
 
 alerts-centered-name = mittig

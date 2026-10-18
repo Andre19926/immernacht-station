@@ -44,17 +44,17 @@ marking-EarringsBangleLeft-bangle_l = Armbandohrringe (links)
 marking-EarringsBangleRight = Armreifen Ohrringe (rechts)
 marking-EarringsBangleRight-bangle_r = Armreifen Ohrringe (rechts)
 
-marking-EarringsHoopBasicLeft = Hoop Ohrringe (links)
-marking-EarringsHoopBasicLeft-hoop_l = Hoop Ohrringe (links)
+marking-EarringsHoopBasicLeft = Creolen (links)
+marking-EarringsHoopBasicLeft-hoop_l = Creolen (links)
 
-marking-EarringsHoopBasicRight = Hoop Ohrringe (rechts)
-marking-EarringsHoopBasicRight-hoop_r = Hoop Ohrringe (rechts)
+marking-EarringsHoopBasicRight = Creolen (rechts)
+marking-EarringsHoopBasicRight-hoop_r = Creolen (rechts)
 
-marking-EarringsHoopMiniLeft = Mini Hoop Ohrringe (links)
-marking-EarringsHoopMiniLeft-hoop_mini_l = Mini Hoop Ohrringe (links)
+marking-EarringsHoopMiniLeft = Mini-Creolen (links)
+marking-EarringsHoopMiniLeft-hoop_mini_l = Mini-Creolen (links)
 
-marking-EarringsHoopMiniRight = Mini Hoop Ohrringe (rechts)
-marking-EarringsHoopMiniRight-hoop_mini_r = Mini Hoop Ohrringe (rechts)
+marking-EarringsHoopMiniRight = Mini-Creolen (rechts)
+marking-EarringsHoopMiniRight-hoop_mini_r = Mini-Creolen (rechts)
 
 marking-EarringsCrossBasicLeft = Kreuzohrringe (links)
 marking-EarringsCrossBasicLeft-cross_l = Kreuzohrringe (links)

@@ -2,9 +2,9 @@ marking-FeroxiEars = Ohren
 marking-FeroxiEars-feroxi-ears = Grundohren
 marking-FeroxiEars-feroxi-ears-inner = Innenohr
 
-marking-FeroxiTailAndDorsal = Schwanz und Dorsal
+marking-FeroxiTailAndDorsal = Schwanz und Rückenflosse
 marking-FeroxiTailAndDorsal-feroxi-tail = Basisschwanz
-marking-FeroxiTailAndDorsal-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
 
 marking-FeroxiSnout = Schnauze
 marking-FeroxiSnout-feroxi-snout = Basisschnauze
@@ -68,16 +68,16 @@ marking-FeroxiSnoutNurseCountershading-feroxi-snout = Basisschnauze
 marking-FeroxiSnoutNurseCountershading-feroxi-snout-countershading = Gegenschatten
 marking-FeroxiSnoutNurseCountershading-feroxi-snout-nurse = Barbeln
 
-marking-FeroxiTailBlitz = Striped Tail mit Fin Tips und Dorsal
+marking-FeroxiTailBlitz = Gestreifter Schwanz mit Flossenspitzen und Rückenflosse
 marking-FeroxiTailBlitz-feroxi-tail = Basisschwanz
 marking-FeroxiTailBlitz-feroxi-tail-stripes = Endstreifen
 marking-FeroxiTailBlitz-feroxi-tail-top-tip = Obere Schwanzflossenspitze
 marking-FeroxiTailBlitz-feroxi-tail-bottom-tip = Untere Schwanzflossenspitze
 marking-FeroxiTailBlitz-feroxi-tail-under = Unterschwanz
-marking-FeroxiTailBlitz-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiTailBlitz-feroxi-dorsal = Basis-Rückenflosse
 marking-FeroxiTailBlitz-feroxi-dorsal-stripes = Dorsalstreifen
 
-marking-FeroxiTailBlitzNoDorsal = Striped Tail mit Fin Tips
+marking-FeroxiTailBlitzNoDorsal = Gestreifter Schwanz mit Flossenspitzen
 marking-FeroxiTailBlitzNoDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiTailBlitzNoDorsal-feroxi-tail-stripes = Endstreifen
 marking-FeroxiTailBlitzNoDorsal-feroxi-tail-top-tip = Obere Schwanzflossenspitze
@@ -88,10 +88,10 @@ marking-FeroxiStripedTail = Streifenschwanz
 marking-FeroxiStripedTail-feroxi-tail = Basisschwanz
 marking-FeroxiStripedTail-feroxi-tail-stripes = Endstreifen
 
-marking-FeroxiStripedTailAndDorsal = Striped Tail mit Dorsal
+marking-FeroxiStripedTailAndDorsal = Gestreifter Schwanz mit Rückenflosse
 marking-FeroxiStripedTailAndDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiStripedTailAndDorsal-feroxi-tail-stripes = Endstreifen
-marking-FeroxiStripedTailAndDorsal-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiStripedTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
 marking-FeroxiStripedTailAndDorsal-feroxi-dorsal-stripes = Dorsalstreifen
 
 marking-FeroxiTail = Schwanz
@@ -101,93 +101,93 @@ marking-FeroxiTipTail = Schwanz mit Tipps
 marking-FeroxiTipTail-feroxi-tail = Basisschwanz
 marking-FeroxiTipTail-feroxi-tail-top-tip = Obere Schwanzflossenspitze
 marking-FeroxiTipTail-feroxi-tail-bottom-tip = Untere Schwanzflossenspitze
-marking-FeroxiTipTail-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
-marking-FeroxiTipTail-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiTipTail-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
+marking-FeroxiTipTail-feroxi-dorsal = Basis-Rückenflosse
 
-marking-FeroxiTipTailAndDorsal = Schwanz mit Tipps und Dorsal
+marking-FeroxiTipTailAndDorsal = Schwanz mit Tipps und Rückenflosse
 marking-FeroxiTipTailAndDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiTipTailAndDorsal-feroxi-tail-top-tip = Obere Schwanzflossenspitze
 marking-FeroxiTipTailAndDorsal-feroxi-tail-bottom-tip = Untere Schwanzflossenspitze
-marking-FeroxiTipTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
-marking-FeroxiTipTailAndDorsal-feroxi-dorsal = Basis-Dorsal
-marking-FeroxiTipTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiTipTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
+marking-FeroxiTipTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
+marking-FeroxiTipTailAndDorsal-feroxi-dorsal-tip = Rückenflossenspitze
 
 marking-FeroxiTwoToneTail = Zweitonschwanz
 marking-FeroxiTwoToneTail-feroxi-tail = Basisschwanz
 marking-FeroxiTwoToneTail-feroxi-tail-under = Unterschwanz
 
-marking-FeroxiTwoToneTailAndDorsal = Zwei Ton Schwanz und Dorsal
+marking-FeroxiTwoToneTailAndDorsal = Zwei Ton Schwanz und Rückenflosse
 marking-FeroxiTwoToneTailAndDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiTwoToneTailAndDorsal-feroxi-tail-under = Unterschwanz
-marking-FeroxiTwoToneTailAndDorsal-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiTwoToneTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
 
 marking-FeroxiStripeTwoToneTail = Zwei Tonschwanz mit Streifen
 marking-FeroxiStripeTwoToneTail-feroxi-tail = Basisschwanz
 marking-FeroxiStripeTwoToneTail-feroxi-tail-stripes = Endstreifen
 marking-FeroxiStripeTwoToneTail-feroxi-tail-under = Unterschwanz
 
-marking-FeroxiStripeTwoToneTailAndDorsal = Zwei Tonschwanz mit Streifen und Dorsal
+marking-FeroxiStripeTwoToneTailAndDorsal = Zwei Tonschwanz mit Streifen und Rückenflosse
 marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-stripes = Endstreifen
 marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-under = Unterschwanz
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
 marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal-stripes = Dorsalstreifen
 
-marking-FeroxiTipTwoToneTail = Zwei Ton Tail mit Tipps
+marking-FeroxiTipTwoToneTail = Zwei Ton Schwanz mit Tipps
 marking-FeroxiTipTwoToneTail-feroxi-tail = Basisschwanz
 marking-FeroxiTipTwoToneTail-feroxi-tail-top-tip = Obere Schwanzflossenspitze
 marking-FeroxiTipTwoToneTail-feroxi-tail-bottom-tip = Untere Schwanzflossenspitze
-marking-FeroxiTipTwoToneTail-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
+marking-FeroxiTipTwoToneTail-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
 marking-FeroxiTipTwoToneTail-feroxi-tail-under = Unterschwanz
 
-marking-FeroxiTipTwoToneTailAndDorsal = Zwei Ton Tail mit Tipps und Dorsal
+marking-FeroxiTipTwoToneTailAndDorsal = Zwei Ton Schwanz mit Tipps und Rückenflosse
 marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail = Basisschwanz
 marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-top-tip = Obere Schwanzflossenspitze
 marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-bottom-tip = Untere Schwanzflossenspitze
 marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-under = Unterschwanz
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal = Basis-Dorsal
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Rückenflossenspitze
 
-marking-FeroxiFullTipTail = Schwanz mit Full Fin Tip
+marking-FeroxiFullTipTail = Schwanz mit volle Flossenspitze
 marking-FeroxiFullTipTail-feroxi-tail = Basisschwanz
-marking-FeroxiFullTipTail-feroxi-tail-tip = Full Tail Fin Spitze
-marking-FeroxiFullTipTail-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
+marking-FeroxiFullTipTail-feroxi-tail-tip = Volle Schwanzflossenspitze
+marking-FeroxiFullTipTail-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
 
-marking-FeroxiFullTipTailAndDorsal = Schwanz mit Full Fin Tip und Dorsal
+marking-FeroxiFullTipTailAndDorsal = Schwanz mit volle Flossenspitze und Rückenflosse
 marking-FeroxiFullTipTailAndDorsal-feroxi-tail = Basisschwanz
-marking-FeroxiFullTipTailAndDorsal-feroxi-tail-tip = Full Tail Fin Spitze
-marking-FeroxiFullTipTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
-marking-FeroxiFullTipTailAndDorsal-feroxi-dorsal = Basis-Dorsal
-marking-FeroxiFullTipTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiFullTipTailAndDorsal-feroxi-tail-tip = Volle Schwanzflossenspitze
+marking-FeroxiFullTipTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
+marking-FeroxiFullTipTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
+marking-FeroxiFullTipTailAndDorsal-feroxi-dorsal-tip = Rückenflossenspitze
 
-marking-FeroxiTailBlitzFullTip = Striped Tail mit Full Fin Tip und Dorsal
+marking-FeroxiTailBlitzFullTip = Gestreifter Schwanz mit volle Flossenspitze und Rückenflosse
 marking-FeroxiTailBlitzFullTip-feroxi-tail = Basisschwanz
 marking-FeroxiTailBlitzFullTip-feroxi-tail-stripes = Endstreifen
-marking-FeroxiTailBlitzFullTip-feroxi-tail-tip = Full Tail Fin Spitze
+marking-FeroxiTailBlitzFullTip-feroxi-tail-tip = Volle Schwanzflossenspitze
 marking-FeroxiTailBlitzFullTip-feroxi-tail-under = Unterschwanz
-marking-FeroxiTailBlitzFullTip-feroxi-dorsal = Basis-Dorsal
+marking-FeroxiTailBlitzFullTip-feroxi-dorsal = Basis-Rückenflosse
 marking-FeroxiTailBlitzFullTip-feroxi-dorsal-stripes = Dorsalstreifen
 
-marking-FeroxiTailBlitzNoDorsalFullTip = Striped Tail mit Full Fin Tip
+marking-FeroxiTailBlitzNoDorsalFullTip = Gestreifter Schwanz mit volle Flossenspitze
 marking-FeroxiTailBlitzNoDorsalFullTip-feroxi-tail = Basisschwanz
 marking-FeroxiTailBlitzNoDorsalFullTip-feroxi-tail-stripes = Endstreifen
-marking-FeroxiTailBlitzNoDorsalFullTip-feroxi-tail-tip = Full Tail Fin Spitze
+marking-FeroxiTailBlitzNoDorsalFullTip-feroxi-tail-tip = Volle Schwanzflossenspitze
 marking-FeroxiTailBlitzNoDorsalFullTip-feroxi-tail-under = Unterschwanz
 
-marking-FeroxiFullTipTwoToneTail = Zwei Ton Tail mit Tipps
+marking-FeroxiFullTipTwoToneTail = Zwei Ton Schwanz mit Tipps
 marking-FeroxiFullTipTwoToneTail-feroxi-tail = Basisschwanz
-marking-FeroxiFullTipTwoToneTail-feroxi-tail-tip = Full Tail Fin Spitze
-marking-FeroxiFullTipTwoToneTail-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
+marking-FeroxiFullTipTwoToneTail-feroxi-tail-tip = Volle Schwanzflossenspitze
+marking-FeroxiFullTipTwoToneTail-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
 marking-FeroxiFullTipTwoToneTail-feroxi-tail-under = Unterschwanz
 
-marking-FeroxiFullTipTwoToneTailAndDorsal = Zwei Ton Tail mit Tipps und Dorsal
+marking-FeroxiFullTipTwoToneTailAndDorsal = Zwei Ton Schwanz mit Tipps und Rückenflosse
 marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail = Basisschwanz
-marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail-tip = Full Tail Fin Spitze
+marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail-tip = Volle Schwanzflossenspitze
 marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail-under = Unterschwanz
-marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-dorsal = Basis-Dorsal
-marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Dorsal Fin Tip
-marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-dorsal = Basis-Rückenflosse
+marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-tail-second-dorsal-tip = Sekundäre Rückenflossenspitze
+marking-FeroxiFullTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Rückenflossenspitze
 
 marking-FeroxiTorsoStripesBlitz = Kleine Unterarmstreifen
 marking-FeroxiTorsoStripesBlitz-feroxi-torso-stripes-blitz = Streifen

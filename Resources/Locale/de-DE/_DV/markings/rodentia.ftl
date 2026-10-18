@@ -60,11 +60,11 @@ marking-RodentiaHeadTopEarSmall-small = Außendurchmesser
 
 ## snout
 
-marking-RodentiaSnoutBat = Snout — Bat
+marking-RodentiaSnoutBat = Schnauze — Bat
 marking-RodentiaSnoutBat-bat = Schnauze
 marking-RodentiaSnoutBat-bat_nose = Nase
 
-marking-RodentiaSnoutBatCounter = Snout — Bat, Zweiton
+marking-RodentiaSnoutBatCounter = Schnauze — Bat, Zweiton
 marking-RodentiaSnoutBatCounter-bat = Schnauze
 marking-RodentiaSnoutBatCounter-bat_nose = Nase
 marking-RodentiaSnoutBatCounter-bat_overlay = Gegenschattierung
@@ -119,7 +119,7 @@ marking-RodentiaCheeksWhiskers-whiskers = Whisker
 
 marking-RodentiaTailDefault = Rodentia Schwanz
 
-marking-RodentiaTailBeaver = Tail - Biber
+marking-RodentiaTailBeaver = Schwanz - Biber
 marking-RodentiaTailBeaver-beaver = Schwanz
 
 marking-RodentiaTailHamster = Schwanz — Hamster
@@ -184,29 +184,29 @@ marking-RodentiaChestHoodedF-hooded_f = Muster
 
 # base parts
 
-marking-RodentiaHeadBasic = Kopf - Basic
+marking-RodentiaHeadBasic = Kopf - Basis
 marking-RodentiaHeadBasic-head_m = Kopf
 
-marking-RodentiaArmLeftBasic = Linker Arm - Basic
+marking-RodentiaArmLeftBasic = Linker Arm - Basis
 marking-RodentiaArmLeftBasic-l_arm = Arm
 
-marking-RodentiaArmRightBasic = rechter Arm - Basic
+marking-RodentiaArmRightBasic = rechter Arm - Basis
 marking-RodentiaArmRightBasic-r_arm = Arm
 
-marking-RodentiaLegLeftBasic = Linkes Bein - Basic
+marking-RodentiaLegLeftBasic = Linkes Bein - Basis
 marking-RodentiaLegLeftBasic-l_leg = Bein
 
-marking-RodentiaLegRightBasic = Rechtsbein - Basic
+marking-RodentiaLegRightBasic = Rechtsbein - Basis
 marking-RodentiaLegRightBasic-r_leg = Bein
 
-marking-RodentiaHandLeftBasic = Linke Hand - Basic
+marking-RodentiaHandLeftBasic = Linke Hand - Basis
 marking-RodentiaHandLeftBasic-l_hand = Handgriff
 
-marking-RodentiaHandRightBasic = Rechte Hand - Basic
+marking-RodentiaHandRightBasic = Rechte Hand - Basis
 marking-RodentiaHandRightBasic-r_hand = Handgriff
 
-marking-RodentiaFootLeftBasic = Linker Fuß - Basic
+marking-RodentiaFootLeftBasic = Linker Fuß - Basis
 marking-RodentiaFootLeftBasic-l_foot = Fuß
 
-marking-RodentiaFootRightBasic = Rechtsfuß - Basic
+marking-RodentiaFootRightBasic = Rechtsfuß - Basis
 marking-RodentiaFootRightBasic-r_foot = Fuß

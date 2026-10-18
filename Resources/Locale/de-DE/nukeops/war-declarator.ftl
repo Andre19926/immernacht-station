@@ -8,7 +8,7 @@
 
 war-declarator-not-working = Das Gerät macht Piepsgeräusche, aber nichts passiert ...
 war-declarator-ui-header = Kriegserklärung
-war-declarator-ui-war-button = DECLARE WAR!
+war-declarator-ui-war-button = KRIEG ERKLÄREN!
 war-declarator-ui-try-war-button = Versucht Krieg zu erklären
 war-declarator-conditions-small-crew = Es gibt nicht genug Atomaktivisten, um Krieg zu erklären!
 war-declarator-conditions-left-outpost = Shuttle verließ den Syndicate-Außenposten

@@ -1,6 +1,6 @@
 # Antennas
 
-marking-SynthAntenna = Synth Antenne (Fabrik)
+marking-SynthAntenna = Synth-Antenne (Fabrik)
 marking-SynthAntenna-antenna_synth = Antenne
 
 marking-SynthAntennaCurl = Synth-Antenne (Curl)
@@ -12,19 +12,19 @@ marking-SynthAntennaCurlSoft-antenna_curl_soft = Antenne
 marking-SynthAntennaLight = Synth-Antenne (Licht)
 marking-SynthAntennaLight-antenna_light = Licht
 
-marking-SynthAntennaMajestic = Synth Antenne (Majestätisch)
+marking-SynthAntennaMajestic = Synth-Antenne (Majestätisch)
 marking-SynthAntennaMajestic-antenna_majestic = Antenne
 
 marking-SynthAntennaSharp = Synthantenne (scharf)
 marking-SynthAntennaSharp-antenna_sharp = Antenne
 
-marking-SynthAntennaSlash = Synthantenne (Slash)
+marking-SynthAntennaSlash = Synthantenne (Schnitt)
 marking-SynthAntennaSlash-antenna_slash = Antenne
 
 marking-SynthAntennaThick = Synth-Antenne (dicke)
 marking-SynthAntennaThick-antenna_thick = Antenne
 
-marking-SynthAntennaTwin = Synth Antenne (Twin)
+marking-SynthAntennaTwin = Synth-Antenne (Twin)
 marking-SynthAntennaTwin-antenna_twin = Antenne
 
 # Arms
@@ -97,7 +97,7 @@ marking-SynthRLegLight-leg_light_r = Licht
 
 # Snout
 
-marking-SynthSnout = Synth Snout (Fabrik)
+marking-SynthSnout = Synth-Schnauze (Fabrik)
 marking-SynthSnout-nose = Nase
 marking-SynthSnout-chin = Verbundwerkstoff
 
@@ -107,11 +107,11 @@ marking-SynthSnoutBox-chin = Verbundwerkstoff
 
 # Tails
 
-marking-SynthTail = Synth Tail (Fabrik)
+marking-SynthTail = Synth-Schwanz (Fabrik)
 marking-SynthTail-factory = Schwanz
 marking-SynthTail-factory_composite = Verbundwerkstoff
 
-marking-SynthTailLarge = Synth Tail (Groß)
+marking-SynthTailLarge = Synth-Schwanz (Groß)
 marking-SynthTailLarge-large = Schwanz
 marking-SynthTailLarge-large_composite = Verbundwerkstoff
 
