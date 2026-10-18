@@ -1,4 +1,4 @@
-ent-LockerBoozeFilled = Alkohollagerung
+ent-LockerBoozeFilled = Alkohollager
     .desc = Hier hält der Barkeeper den Alkohol.
 
 ent-ClosetChefFilled = Küchenschrank
@@ -10,10 +10,10 @@ ent-ClosetJanitorFilled = Kleiderschrank
 ent-ClosetLegalFilled = Rechtsschrank
     .desc = Ein Schrank für Gerichtskleidung und -gegenstände.
 
-ent-LockerBotanistFilled = Botanikers Spind
+ent-LockerBotanistFilled = Botaniker-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerBotanistLoot = Botanikers Spind
+ent-LockerBotanistLoot = Botaniker-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-ClosetJanitorBombFilled = Kleiderschrank für Bombenanzüge

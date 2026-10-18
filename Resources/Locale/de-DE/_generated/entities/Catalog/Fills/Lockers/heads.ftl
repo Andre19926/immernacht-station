@@ -13,10 +13,10 @@ ent-LockerCaptainFilledHardsuit = Kapitänsspind
 ent-LockerHeadOfPersonnelFilled = Personalchef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerChiefEngineerFilled = Spind des Chefingenieurs
+ent-LockerChiefEngineerFilled = Chefingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerChiefEngineerFilledHardsuit = Spind des Chefingenieurs
+ent-LockerChiefEngineerFilledHardsuit = Chefingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChiefMedicalOfficerFilled = Chefarzt-Spind
@@ -25,10 +25,10 @@ ent-LockerChiefMedicalOfficerFilled = Chefarzt-Spind
 ent-LockerChiefMedicalOfficerFilledHardsuit = Chefarzt-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerResearchDirectorFilled = Spind des Forschungsdirektors
+ent-LockerResearchDirectorFilled = Forschungsleiter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerResearchDirectorFilledHardsuit = Spind des Forschungsdirektors
+ent-LockerResearchDirectorFilledHardsuit = Forschungsleiter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfSecurityFilled = Sicherheitschef-Spind
@@ -37,5 +37,5 @@ ent-LockerHeadOfSecurityFilled = Sicherheitschef-Spind
 ent-LockerHeadOfSecurityFilledHardsuit = Sicherheitschef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerFreezerVaultFilled = Gefriergeräte
+ent-LockerFreezerVaultFilled = Gefrierschrank
     .desc = Ein Standard-Nanotrasen-Schrank.

@@ -13,10 +13,10 @@ genpop-prisoner-id-examine-wait-perm = Du verbüßt eine dauerhafte Strafe wegen
 genpop-prisoner-id-examine-served = Du hast deine Strafe verbüßt für {$crime}.
 
 genpop-locker-name-default = Gefangenenschrank
-genpop-locker-desc-default = Es ist ein sicheres Schließfach für die persönlichen Gegenstände eines Insassen während seiner Zeit im Gefängnis.
+genpop-locker-desc-default = Dies ist ein sicherer Spind für die persönlichen Gegenstände eines Insassen während seiner Zeit im Gefängnis.
 
 genpop-locker-name-used = Gefangenenschrank ({$name})
-genpop-locker-desc-used = Es ist ein sicheres Schließfach für die persönlichen Gegenstände eines Insassen während seiner Zeit im Gefängnis. Es enthält die persönlichen Effekte von {$name}.
+genpop-locker-desc-used = Dies ist ein sicherer Spind für die persönlichen Gegenstände eines Insassen während seiner Zeit im Gefängnis. Er enthält die persönlichen Effekte von {$name}.
 
 genpop-locker-ui-label-name = [bold]Name des Häftlings:[/bold]
 genpop-locker-ui-label-sentence = [bold]Satzlänge in Minuten:[/bold] [color=gray](0 für Perma)[/color]

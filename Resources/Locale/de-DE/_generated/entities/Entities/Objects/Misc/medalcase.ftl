@@ -1,2 +1,2 @@
-ent-MedalCase = Medaillenfall
+ent-MedalCase = Medaillenetui
     .desc = Etui mit Medaillen.

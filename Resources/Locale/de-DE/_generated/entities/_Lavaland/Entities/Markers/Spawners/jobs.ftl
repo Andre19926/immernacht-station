@@ -1,1 +1,1 @@
-ent-SpawnPointShaftMiner = Schachtbergwerk
+ent-SpawnPointShaftMiner = Schachtbergarbeiter

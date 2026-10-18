@@ -77,7 +77,7 @@ spellbook-wand-polymorph-door-description =
 spellbook-wand-polymorph-carp-name = Stab der Karpfenverwandlung
 spellbook-wand-polymorph-carp-description = Denn manchmal braucht man schnell ein Karpfenfilet, und der Clown sieht so saftig aus.
 
-spellbook-wand-locker-name = Stab des Schließfachs
+spellbook-wand-locker-name = Stab des Spinds
 spellbook-wand-locker-description =
     Schieße verfluchte Schließfächer auf deine Feinde und sperre sie weg!
     Lädt sich alle 4 Sekunden automatisch auf.

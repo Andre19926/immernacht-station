@@ -1,3 +1,3 @@
 ent-UniqueMarkerBlueshieldLocker = Einzigartige Markierung: Blueshield-Spind
 
-ent-UniqueMarkerNanorepLocker = Nanorep Unique Marker Spind
+ent-UniqueMarkerNanorepLocker = Einzigartige Markierung: Nanotrasen-Vertreter-Spind

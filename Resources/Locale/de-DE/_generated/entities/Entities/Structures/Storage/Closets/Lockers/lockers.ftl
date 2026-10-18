@@ -1,4 +1,4 @@
-ent-LockerBooze = Alkohollagerung
+ent-LockerBooze = Alkohollager
     .desc = Hier hält der Barkeeper den Alkohol.
 
 ent-LockerSteel = Gesicherter Schrank
@@ -7,10 +7,10 @@ ent-LockerSteel = Gesicherter Schrank
 ent-LockerQuarterMaster = Quartiermeisterspind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerSalvageSpecialist = Spind des Bergungsspezialisten
+ent-LockerSalvageSpecialist = Bergungsspezialisten-Spind
     .desc = Enthält nützliche Ausrüstung für die Weltraumforschung.
 
-ent-LockerShaftMiner = Wellenbergarbeiter-Spind
+ent-LockerShaftMiner = Schachtbergarbeiter-Spind
     .desc = Enthält nützliche Ausrüstung für die Erforschung des Planeten.
 
 ent-LockerCaptain = Kapitänsspind
@@ -19,40 +19,40 @@ ent-LockerCaptain = Kapitänsspind
 ent-LockerHeadOfPersonnel = Personalchef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerChiefEngineer = Spind des Chefingenieurs
+ent-LockerChiefEngineer = Chefingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerElectricalSupplies = Stromversorgung Spind
+ent-LockerElectricalSupplies = Elektrozubehör-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerWeldingSupplies = Schweißzubehör Spindel
+ent-LockerWeldingSupplies = Schweißzubehör-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerAtmospherics = Atmos-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerEngineer = Spind des Ingenieurs
+ent-LockerEngineer = Ingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerEvacRepair = Notfall-Shuttle-Notfallspind
     .desc = Notfälle bis ganz nach unten.
 
-ent-LockerFreezerBase = Gefriergeräte
+ent-LockerFreezerBase = Gefrierschrank
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerFreezer = Gefriergeräte
+ent-LockerFreezer = Gefrierschrank
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerBotanist = Botanikers Spind
+ent-LockerBotanist = Botaniker-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerMedicine = Medizinspind
     .desc = Bis zum Rand mit medizinischem Krempel gefüllt.
 
-ent-LockerMedical = Spind des Arztes
+ent-LockerMedical = Arzt-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerParamedic = Sanitäter Spind
+ent-LockerParamedic = Sanitäter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerChemistry = Chemie-Spind
@@ -61,10 +61,10 @@ ent-LockerChemistry = Chemie-Spind
 ent-LockerChiefMedicalOfficer = Chefarzt-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerResearchDirector = Spind des Forschungsdirektors
+ent-LockerResearchDirector = Forschungsleiter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerScientist = Spind des Wissenschaftlers
+ent-LockerScientist = Wissenschaftler-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerHeadOfSecurity = Sicherheitschef-Spind
@@ -73,16 +73,16 @@ ent-LockerHeadOfSecurity = Sicherheitschef-Spind
 ent-LockerWarden = Warden-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerBrigmedic = Gefängnissanitäter Spind
+ent-LockerBrigmedic = Gefängnissanitäter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerSecurity = Spind des Sicherheitsbeamten
+ent-LockerSecurity = Sicherheitsbeamten-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafe = Waffe sicher
+ent-GunSafe = Waffentresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeBaseSecure = Waffe sicher
+ent-GunSafeBaseSecure = Waffentresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerPrisoner = Gefangenenschrank
@@ -109,13 +109,13 @@ ent-LockerPrisoner7 = Gefangenenschrank
 ent-LockerPrisoner8 = Gefangenenschrank
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
-ent-LockerDetective = Detektivkabinett
+ent-LockerDetective = Detektivschrank
     .desc = Normalerweise kalt und leer … wie dein Herz.
 
 ent-LockerEvidence = Beweisspind
     .desc = Zur Aufbewahrung von Beuteln mit Patronenhülsen und Häftlingsgegenständen.
 
-ent-LockerSyndicatePersonal = blutroter Spind
+ent-LockerSyndicatePersonal = Blutroter Spind
     .desc = Ein persönlicher Spind in blutrotem Design.
 
 ent-LockerBluespaceStation = Bluespace-Spind
@@ -127,5 +127,5 @@ ent-LockerClown = Clown-Spind
 ent-LockerMime = Mime-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerRepresentative = Vertreter Spind
+ent-LockerRepresentative = Vertreter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.

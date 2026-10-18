@@ -40,13 +40,13 @@ ent-ClosetWallMixed = Mischwandschrank
 ent-ClosetWallAtmospherics = atmosphärischer Wandschrank
     .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
-ent-LockerWallMedical = Medizinische Wand Spind
+ent-LockerWallMedical = Medizin-Wandspind
     .desc = Ein Standard-Nanotrasen-Schrank, jetzt für die Wand.
 
-ent-LockerWallEvacRepair = Notfall-Shuttle-Notwand
+ent-LockerWallEvacRepair = Notfall-Shuttle-Notfall-Wandspind
     .desc = Notfälle bis ganz nach unten.
 
-ent-LockerWallBasePrisoner = Wandschrank für Gefangene
+ent-LockerWallBasePrisoner = Gefangenen-Wandschrank
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
 ent-LockerWallPrisoner2 = Wandschrank für Gefangene
@@ -70,5 +70,5 @@ ent-LockerWallPrisoner7 = Wandschrank für Gefangene
 ent-LockerWallPrisoner8 = Wandschrank für Gefangene
     .desc = Ein sicherer Spind für die persönlichen Sachen eines Häftlings während seiner Haftzeit.
 
-ent-LockerWallSyndicate = Blutrote Wand Spind
+ent-LockerWallSyndicate = Blutroter Wandspind
     .desc = Ein Wandschrank in blutrotem Design.

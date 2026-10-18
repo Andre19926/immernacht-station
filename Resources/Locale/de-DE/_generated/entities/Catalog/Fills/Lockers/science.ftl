@@ -1,2 +1,2 @@
-ent-LockerScienceFilled = Spind des Wissenschaftlers
+ent-LockerScienceFilled = Wissenschaftler-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.

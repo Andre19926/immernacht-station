@@ -4,13 +4,13 @@ ent-LockerWardenFilledHardsuit = Warden-Spind
 ent-LockerWardenFilled = Warden-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerSecurityFilled = Spind des Sicherheitsbeamten
+ent-LockerSecurityFilled = Sicherheitsbeamten-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerBrigmedicFilled = Gefängnissanitäter Spind
+ent-LockerBrigmedicFilled = Gefängnissanitäter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerDetectiveFilled = Detektivkabinett
+ent-LockerDetectiveFilled = Detektivschrank
     .desc = Normalerweise kalt und leer … wie dein Herz.
 
 ent-ClosetBombFilled = EOD-Schrank
@@ -19,7 +19,7 @@ ent-ClosetBombFilled = EOD-Schrank
 ent-GunSafeDisabler = Neutralisierer-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafePistolMk58 = mk58 sicher
+ent-GunSafePistolMk58 = Mk58-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeRifleLecter = Lecter-Tresor
@@ -28,13 +28,13 @@ ent-GunSafeRifleLecter = Lecter-Tresor
 ent-GunSafeSubMachineGunDrozd = Drozd-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeShotgunEnforcer = Vollstrecker sicher
+ent-GunSafeShotgunEnforcer = Vollstrecker-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeShotgunKammerer = Kammermann sicher
+ent-GunSafeShotgunKammerer = Kammermann-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-GunSafeSubMachineGunWt550 = wt550 sicher
+ent-GunSafeSubMachineGunWt550 = Wt550-Tresor
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-GunSafeLaserCarbine = Laser-Tresor

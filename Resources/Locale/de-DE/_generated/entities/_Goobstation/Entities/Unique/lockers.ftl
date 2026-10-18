@@ -1,4 +1,4 @@
-ent-UniqueLockerNanorepFilled = Nanotrasen Vertreter Spind
+ent-UniqueLockerNanorepFilled = Nanotrasen-Vertreter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-UniqueLockerBlueshieldOfficerFilled = Blueshield-Spind

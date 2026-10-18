@@ -340,7 +340,7 @@ figurines-space-dragon-4 = Wage es nicht, Sushi zu machen.
 figurines-space-dragon-5 = Diese Station ist nicht groß genug für uns beide.
 
 figurines-skeleton-1 = ACK ACK!
-figurines-skeleton-2 = Ugh, das Schließfach war eng!
+figurines-skeleton-2 = Ugh, der Spind war eng!
 figurines-skeleton-3 = Du wirst eine schlechte Zeit haben.
 figurines-skeleton-4 = Hast du Milch?
 figurines-skeleton-5 = Ich habe einen Knochen mit dir zu rupfen!
@@ -355,7 +355,7 @@ figurines-wizard-1 = EI NATH!!
 figurines-wizard-2 = ONI'SOMA!!
 figurines-wizard-3 = Skidaddle skadoodle!
 figurines-wizard-4 = Echte Zauberer unterstützen Transrechte.
-figurines-wizard-5 = Welcher von euch NERDS ist bereit, in ein Schließfach geschoben zu werden?
+figurines-wizard-5 = Welcher von euch NERDS ist bereit, in einen Spind geschoben zu werden?
 figurines-wizard-6 = Ich bin nicht der Zauberer! Ich bin der Kapitän! Ich habe Mind-Swapped!
 figurines-wizard-7 = Jetzt siehst du mich, jetzt nicht!
 figurines-wizard-8 = Waffen sind für Verlierer, die Menschen nicht mit ihrem Verstand explodieren können.

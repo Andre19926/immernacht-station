@@ -1,7 +1,7 @@
-ent-LockerSyndicatePersonalFilled = blutroter Spind
+ent-LockerSyndicatePersonalFilled = Blutroter Spind
     .desc = Ein persönlicher Schrank für Einsatzausrüstung.
 
-ent-LockerSyndicateWallFilled = Blutrote Wand Spind
+ent-LockerSyndicateWallFilled = Blutroter Wandspind
     .desc = Ein persönlicher Schrank für Einsatzausrüstung.
 
 ent-ClosetEmergencyFilledRandom = Notschrank

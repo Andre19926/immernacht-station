@@ -6,13 +6,13 @@ roles-antag-gang-objective = Steh hinter deinem Anführer, verteidige dein Revie
 
 gang-leader-role-greeting = Du bist Bandenchef. Deine Bosse sind nicht begeistert: Deine jüngsten Misserfolge haben dich aufs Abstellgleis gebracht. Das ist deine letzte Chance. Schlag hart zu, rekrutiere, wen du kannst, und zeig allen, wer hier das Sagen hat.
 
-gang-leader-action-summon-locker-name = Gang-Schließfach beschwören
-gang-leader-action-summon-locker-desc = Beschwöre dein Bandenschließfach an deinen Standort. Falls es bereits platziert ist, wird es stattdessen verschoben.
+gang-leader-action-summon-locker-name = Gang-Spind beschwören
+gang-leader-action-summon-locker-desc = Beschwöre dein Bandenspind an deinen Standort. Falls er bereits platziert ist, wird er stattdessen verschoben.
 
 gang-member-action-toggle-overlay-name = Revieranzeige umschalten
 gang-member-action-toggle-overlay-desc = Zeige oder verstecke die Territoriumsüberlagerung.
 
-gang-leader-locker-summoned = Dein Schließfach ist auf dem Weg!
+gang-leader-locker-summoned = Dein Spind ist auf dem Weg!
 
 gang-leader-member-accepted = Deine Gang-Einladung wurde angenommen.
 gang-leader-member-denied = Deine Gang-Einladung wurde abgelehnt.
@@ -52,7 +52,7 @@ gang-spray-can-charges-remaining = {$charges ->
 }
 
 gang-store-title = Gang-Laden
-gang-store-in-use = Jemand anderes benutzt bereits das Schließfach!
+gang-store-in-use = Jemand anderes benutzt bereits den Spind!
 
 store-currency-display-gangpoint = Gangpunkte
 
@@ -99,7 +99,7 @@ gangwar-duffelbag-drop-unknown-location = ein unbekannter Ort
 gang-store-listing-light-armor-vest-name = Leichte Rüstungsweste
 gang-store-listing-light-armor-vest-desc = Eine gepanzerte Weste vom Typ I. Nicht auffällig, aber es wird dich in einem Kampf länger atmen lassen.
 
-gang-crate-no-locker-nearby = Du musst in der Nähe eines Bandenschließfachs sein, um dies zu öffnen.
+gang-crate-no-locker-nearby = Du musst in der Nähe eines Bandenspinds sein, um dies zu öffnen.
 gang-crate-reward-popup = Deine Bande hat die Kiste gesichert! +{$points} Gang-Punkte!
 
 gang-duffel-bag-untrapped = Du schneidest deine Hand auf die Tasche der Falle!

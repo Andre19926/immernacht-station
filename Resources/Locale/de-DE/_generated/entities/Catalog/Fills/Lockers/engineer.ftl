@@ -1,10 +1,10 @@
 ent-ClosetToolFilled = Werkzeugschrank
     .desc = Ein Schrank für Werkzeuge.
 
-ent-LockerElectricalSuppliesFilled = Stromversorgung Spind
+ent-LockerElectricalSuppliesFilled = Elektrozubehör-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerWeldingSuppliesFilled = Schweißzubehör Spindel
+ent-LockerWeldingSuppliesFilled = Schweißzubehör-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerAtmosphericsFilledHardsuit = Atmos-Spind
@@ -13,17 +13,17 @@ ent-LockerAtmosphericsFilledHardsuit = Atmos-Spind
 ent-LockerAtmosphericsFilled = Atmos-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerEngineerFilledHardsuit = Spind des Ingenieurs
+ent-LockerEngineerFilledHardsuit = Ingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerEngineerFilled = Spind des Ingenieurs
+ent-LockerEngineerFilled = Ingenieur-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-ClosetRadiationSuitFilled = Strahlenanzug Schrank
     .desc = Bequemer als eine Strahlenvergiftung.
 
-ent-LockerEvacRepairFilled = Notfall-Shuttle-Notfall Spind
+ent-LockerEvacRepairFilled = Notfall-Shuttle-Notfallspind
     .desc = Notfälle bis ganz nach unten.
 
-ent-LockerWallEvacRepairFilled = Notfall-Shuttle-Notwand
+ent-LockerWallEvacRepairFilled = Notfall-Shuttle-Notfall-Wandspind
     .desc = Notfälle bis ganz nach unten.

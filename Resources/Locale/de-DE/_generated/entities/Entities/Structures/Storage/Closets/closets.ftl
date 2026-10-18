@@ -37,7 +37,7 @@ ent-ClosetL3Janitor = Stufe 3 Schließschrank für Biogefährdungsgeräte
 ent-ClosetMaintenance = Wartungsschrank
     .desc = Ein Schrank.
 
-ent-LockerSyndicate = Blutroter Schrank
+ent-LockerSyndicate = Blutroter Spind
     .desc = Ein Schrank in blutrotem Design.
 
 ent-ClosetBluespace = Verdächtiger Schrank

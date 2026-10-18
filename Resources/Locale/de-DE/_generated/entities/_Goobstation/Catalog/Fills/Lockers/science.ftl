@@ -1,2 +1,2 @@
-ent-LockerScienceFilledXenobiology = Spind des Wissenschaftlers
+ent-LockerScienceFilledXenobiology = Wissenschaftler-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
