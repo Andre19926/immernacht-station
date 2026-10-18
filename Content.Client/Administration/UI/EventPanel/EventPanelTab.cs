@@ -9,6 +9,7 @@ using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
 using Robust.Shared.Configuration;
+using Robust.Shared.Input;
 using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 
@@ -49,7 +50,6 @@ public sealed class EventPanelTab : BoxContainer
     private enum SortColumn { Event, Since, Starter }
     private SortColumn _sortColumn = SortColumn.Since;
     private bool _sortDescending = true;
-    private readonly Dictionary<SortColumn, Button> _sortButtons = new();
 
     public EventPanelTab()
     {
@@ -246,23 +246,31 @@ public sealed class EventPanelTab : BoxContainer
     private const float SinceColumnWidth = 140f;
     private const float StarterColumnWidth = 150f;
 
+    private const string ArrowUp = "↑";
+    private const string ArrowDown = "↓";
+
+    private readonly Dictionary<SortColumn, Label> _sortLabels = new();
+
+    // Tabellenkopf wie in der Spielerliste: Labels mit Hintergrund, Klick sortiert, erneuter Klick dreht um.
     private Control BuildSortHeader()
     {
         var header = new BoxContainer { Orientation = LayoutOrientation.Horizontal, SeparationOverride = 6 };
 
-        Button Make(SortColumn col, string locKey, float width, bool expand)
+        void Make(SortColumn col, float width, bool expand)
         {
-            var b = new Button
+            var l = new Label
             {
                 ToolTip = Loc.GetString("event-panel-sort-tooltip"),
                 ClipText = true,
                 HorizontalExpand = expand,
                 MinWidth = width,
-                StyleClasses = { "OpenBoth" },
+                MouseFilter = MouseFilterMode.Pass,
             };
-            b.Label.HorizontalAlignment = HAlignment.Left;
-            b.OnPressed += _ =>
+            l.OnKeyBindDown += args =>
             {
+                if (args.Function != EngineKeyFunctions.UIClick)
+                    return;
+
                 if (_sortColumn == col)
                     _sortDescending = !_sortDescending;
                 else
@@ -274,23 +282,28 @@ public sealed class EventPanelTab : BoxContainer
 
                 UpdateSortHeader();
                 RebuildRunning();
+                args.Handle();
             };
-            _sortButtons[col] = b;
-            header.AddChild(b);
-            return b;
+            _sortLabels[col] = l;
+            header.AddChild(l);
         }
 
-        Make(SortColumn.Event, "event-panel-column-event", 0, true);
-        Make(SortColumn.Since, "event-panel-column-since", SinceColumnWidth, false);
-        Make(SortColumn.Starter, "event-panel-column-starter", StarterColumnWidth, false);
+        Make(SortColumn.Event, 0, true);
+        Make(SortColumn.Since, SinceColumnWidth, false);
+        Make(SortColumn.Starter, StarterColumnWidth, false);
         header.AddChild(new Control { MinWidth = EndColumnWidth });
         UpdateSortHeader();
-        return header;
+
+        return new PanelContainer
+        {
+            PanelOverride = new Robust.Client.Graphics.StyleBoxFlat { BackgroundColor = Color.FromHex("#35353c") },
+            Children = { header },
+        };
     }
 
     private void UpdateSortHeader()
     {
-        foreach (var (col, b) in _sortButtons)
+        foreach (var (col, l) in _sortLabels)
         {
             var key = col switch
             {
@@ -300,8 +313,8 @@ public sealed class EventPanelTab : BoxContainer
             };
             var text = Loc.GetString(key);
             if (col == _sortColumn)
-                text += _sortDescending ? " ▼" : " ▲";
-            b.Text = text;
+                text += $" {(_sortDescending ? ArrowDown : ArrowUp)}";
+            l.Text = text;
         }
     }
 
