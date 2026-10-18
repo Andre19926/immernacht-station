@@ -14,7 +14,7 @@ armor-examine-modify-delayed-knockdown-delay =
     - { $deltasign ->
           [1] [color=green]Erhöht[/color]
           *[-1] [color=red]Senkt[/color]
-      } die Verzögerung des verzögerten Niederschlags von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
+      } die Verzögerung der verzögerten Niederstreckung von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
           [1] Sekunde
           *[other] Sekunden
       }[/color].
@@ -23,7 +23,7 @@ armor-examine-modify-delayed-knockdown-time =
     - { $deltasign ->
           [1] [color=red]Erhöht[/color]
           *[-1] [color=green]Senkt[/color]
-      } die Dauer des verzögerten Niederschlags von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
+      } die Dauer der verzögerten Niederstreckung von Betäubungsstäben um [color=lightblue]{NATURALFIXED($amount, 2)} { $amount ->
           [1] Sekunde
           *[other] Sekunden
       }[/color].

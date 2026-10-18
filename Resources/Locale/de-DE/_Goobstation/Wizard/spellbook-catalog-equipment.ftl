@@ -104,7 +104,7 @@ spellbook-hammer-mjollnir-description =
 
 spellbook-hammer-singularity-name = Singularitätshammer
 spellbook-hammer-singularity-description =
-    Ein Hammer, der ein intensiv starkes Gravitationsfeld erzeugt, an der er einschlägt, und zieht alles in der Nähe zum Aufprallpunkt.
+    Ein Hammer, der dort, wo er einschlägt, ein intensives Gravitationsfeld erzeugt und alles in der Nähe zum Aufprallpunkt zieht.
 
 spellbook-crate-of-enchanting-name = Die Kiste der Verzauberung
 spellbook-crate-of-enchanting-description =

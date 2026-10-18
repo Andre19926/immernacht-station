@@ -3,43 +3,43 @@
 selectable-set-syndicate-lawyer-name = Syndicate-Anwalt-Paket
 selectable-set-syndicate-lawyer-description =
     Das Gesetz ist diesmal auf deiner Seite.
-    Enthält: rote Anwaltsklage, Syndicate-Sonnenbrille,
-    Rechtsanwaltsabzeichen, Rechtsanwalt PDA, Chamäleon Headset, Chamäleon
-    Rucksack, Syndicate-Verschlüsselungsschlüssel, Anwaltsstempel,
-    Cybersun Pen, Space Law Book, Syndicate-Rohr, Syndicate-Stempel,
-    Dna Scrambler Implantat und Cobra mit vier Magazinen.
+    Enthält: roter Anwaltsanzug, Syndicate-Sonnenbrille,
+    Anwaltsabzeichen, Anwalts-PDA, Chamäleon-Headset, Chamäleon-Rucksack,
+    Syndicate-Verschlüsselungsschlüssel, Anwaltsstempel, Cybersun-Stift,
+    Space-Law-Buch, Syndicate-Gehstock, Syndicate-Stempel,
+    DNA-Verwürfler-Implantat und Cobra mit vier Magazinen.
 
 selectable-set-syndicate-no-russian-name = Syndicate-Terroristen-Paket
 selectable-set-no-russian-description =
-    Denke daran, kein Russe.
-    Enthält: schwarze Anwaltsklage, Brust-Rig, Syndicate-Sonnenbrille,
+    Denk daran: No Russian.
+    Enthält: schwarzer Anwaltsanzug, Brust-Rig, Syndicate-Sonnenbrille,
     Syndicate-Verschlüsselungsschlüssel, L6 SAW und
-    eine L6 SAW Magazinschachtel.
+    eine Magazinschachtel für die L6 SAW.
 
 selectable-set-syndicate-pirate-captain-name = Syndicate-Piratenkapitän-Paket
 selectable-set-syndicate-pirate-captain-description =
-    Yo ho, yo ho, Das Leben eines Piraten für mich!
-    Enthält: Piratenschlamm, Piratenhut, Piratenkapitän Mantel,
-    Syndicate-Magboots, Erkundungsgasmaske, Hardsuit des Piratenkapitäns,
-    eyepatch, Over-Ear-Headset des Freelancers, Piraten-PDA,
-    Syndicate-Verschlüsselungsschlüssel, Piratenrevolver, zwei Speedloader,
-    Piratenkanonen, zwei Kanonenkugeln, zwei Traubenschüsse,
-    zwei Glasshot, Energy Cutlass und ein Mikrobombenimplantat.
+    Yo-ho, yo-ho, ein Piratenleben für mich!
+    Enthält: Piratenklamotten, Piratenhut, Umhang des Piratenkapitäns,
+    Syndicate-Magstiefel, Forschergasmaske, Hardsuit des Piratenkapitäns,
+    Augenklappe, Over-Ear-Headset des Freelancers, Piraten-PDA,
+    Syndicate-Verschlüsselungsschlüssel, Piratenrevolver, zwei Schnelllader,
+    Piratenkanone, zwei Kanonenkugeln, zwei Kartätschenladungen,
+    zwei Glasschrotladungen, Energie-Entermesser und ein Mikrobombenimplantat.
 
 selectable-set-syndicate-engineer-name = Syndicate-Ingenieur-Paket
 selectable-set-syndicate-engineer-description =
     Dieses Bündel wurde entwickelt, um maximalen Schaden zu verursachen.
-    Enthält: Syndicate-Reparaturanzug, Workboots, HV-Weste,
-    gepanzerter Hardhat, Syndicate-Verschlüsselungsschlüssel, akustische Gitarre,
-    verdächtige Werkzeugkiste, Stromsenke, zwei Aufprall-Windelgranaten,
-    zwei Sprenggranaten und vier Türme.
+    Enthält: Syndicate-Reparaturanzug, Arbeitsstiefel, Warnweste,
+    gepanzerter Schutzhelm, Syndicate-Verschlüsselungsschlüssel, Akustikgitarre,
+    verdächtige Werkzeugkiste, Stromsenke, zwei EMP-Aufprallgranaten,
+    zwei Sprenggranaten und vier Geschütztürme.
 
 selectable-set-syndicate-door-kicker-name = Syndicate-Türtreter-Bündel
 selectable-set-syndicate-door-kicker-description =
     Lebe nach einem Ehrenkodex. Jetzt gesponsert vom Syndicate.
-    Enthält: operativer Uniform, Kampfhandschuhe, Wärmesichtbrille,
-    Syndicate operativer PDA, Webweste, Brustkorb, Syndicate-Gasmaske,
-    Syndicate Kiefer des Todes, "bojevic" Kampfflinte, Shell-Box,
+    Enthält: Operativen-Overall, Kampfhandschuhe, Wärmesichtbrille,
+    Syndicate-Operativen-PDA, Webweste, Brustkorb, Syndicate-Gasmaske,
+    Syndicate-Todesschere, Kampfflinte „Bojevic“, Schachtel mit Schrotpatronen,
     Syndicate-Verschlüsselungsschlüssel und zwei C-4.
 
 selectable-set-syndicate-tunnel-clown-name = Tunnelclown-Paket

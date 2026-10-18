@@ -30,7 +30,7 @@ supermatter-delam-cascade =
     KRISTALL-DELAMINATION STEHT BEVOR! Harmonische Frequenzgrenzen überschritten, das Unfall-Destabilisierungsfeld konnte nicht aktiviert werden!
 
 supermatter-delam-cancel =
-    Kristalline Hyperstruktur kehrt zu sicheren Betriebsparametern zurück Failsafe wurde ausgeschaltet. Integrität: {$integrity}%.
+    Kristalline Hyperstruktur kehrt zu sicheren Betriebsparametern zurück. Failsafe wurde ausgeschaltet. Integrität: {$integrity}%.
 
 supermatter-seconds-before-delam =
     Geschätzte Zeit vor Delamination: {$seconds} Sekunden.

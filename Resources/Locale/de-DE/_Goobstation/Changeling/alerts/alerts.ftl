@@ -17,7 +17,7 @@ alerts-changeling-fleshmend-desc = Physischer Schaden wird schnell geheilt! Verb
 
 alerts-changeling-adrenaline-name = Adrenalinreserven
 alerts-changeling-adrenaline-desc =
-    Betäubungen, Niederschläge und die meisten Methoden zur Handlungsunfähigkeit haben keine Wirkung!
+    Betäubungen, Niederstreckungen und die meisten Methoden zur Handlungsunfähigkeit haben keine Wirkung!
 
 alerts-changeling-panacea-name = Anatomisches Allheilmittel
 alerts-changeling-panacea-desc =

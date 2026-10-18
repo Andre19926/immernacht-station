@@ -130,7 +130,7 @@ cosmiccult-ui-converted-text-1 = Du wurdest zum Kosmischen Kultisten bekehrt.
 cosmiccult-ui-converted-text-2 =
     Hilf dem Kult bei seinen Zielen und wahre dabei seine Geheimhaltung.
     Arbeite mit den Plänen deiner Mitkultisten zusammen.
-    Arbeite mit den Plänen deiner Mitkultisten zusammen.
+    {""}
 
 cosmiccult-ui-roundstart-text-1 =
     Du bist ein kosmischer Kultist!

@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 collective-mind-dragon = Fishmind
-collective-mind-lingmind = Hivemind
+collective-mind-lingmind = Schwarmgeist
 collective-mind-tidemind = Tidemind
 collective-mind-blobmind = Blobmind
 collective-mind-mansus-link = Mansus-Verbindung
@@ -15,4 +15,4 @@ collective-mind-dronemind = Dronemind
 collective-mind-empathy = Empathie
 collective-mind-bingle = Binglemind
 collective-mind-shadow-mind = Shadowmind
-collective-mind-xeno = Hivemind
+collective-mind-xeno = Schwarmgeist

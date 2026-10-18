@@ -33,7 +33,7 @@ ent-StrongBlobTile = Starke Blob-Kachel
     .desc = Eine verstärkte Version der normalen Kachel. Sie lässt keine Luft durch und schützt vor physischem Schaden.
 ent-ReflectiveBlobTile = Reflektierende Blob-Kachel
     .desc = Sie reflektiert Laser, schützt aber nicht so gut vor physischem Schaden.
-    .desc = Sie reflektiert Laser, schützt aber nicht so gut vor physischem Schaden.
+    .desc = { "" }
 objective-issuer-blob = Blob
 
 

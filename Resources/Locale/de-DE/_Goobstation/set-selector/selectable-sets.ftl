@@ -2,13 +2,13 @@
 
 selectable-set-thief-anatomy-name = Anatomie-Set
 selectable-set-thief-anatomy-description =
-    Du hast die höchste körperliche Leistungsfähigkeit erreicht ... mit ein wenig Hilfe.
+    Du hast deine körperliche Höchstleistung erreicht ... mit ein wenig Hilfe.
     Enthält: Lagerimplantator, DNA-Verwürfler-Implantator, einen Lutscher,
     eine Ephedrinflasche, Spritze, leeren Shaker und Omega-Seife.
 
 selectable-set-thief-breacher-name = Einbrecher-Set
 selectable-set-thief-breacher-description =
-    Was ist das für ein Geräusch? Ein kleines C4 klopft an die Tür.
+    Was ist das für ein Geräusch? Ein kleines C4, das an ihre Tür klopft.
     Kein Hindernis kann dich aufhalten!
     Enthält: Zwei C4, ein Multitool, einen Fernsignalgeber, Rettungsschere,
     einen fortschrittlichen Schweißer, Technikerbrille und Isolierhandschuhe.
@@ -30,7 +30,7 @@ selectable-set-thief-syndie-description =
 selectable-set-thief-sleeper-name = Schläfer-Set
 selectable-set-thief-sleeper-description =
     Bis wir die Augen für immer schließen, verwende deine illegalen Rezepte,
-    um andere schlafen zu legen.
+    um andere schlafen zu lassen.
     Enthält: Einen Behälter mit Schlaf-Lachgas, zwei Nocturinflaschen
     und einen Hypopen.
 
@@ -45,7 +45,7 @@ selectable-set-thief-smuggler-name = Schmuggler-Set
 selectable-set-thief-smuggler-description =
     Jeder Dieb braucht irgendwo einen Ort, um seine Ware im Dunkeln zu verstauen.
     Vergiss nicht, deinen Fulton zu verknüpfen.
-    Enthält: Fulton-Bake, 10 Fulton, 3 Rauchgranaten
+    Enthält: Fulton-Leuchtfeuer, 10 Fultons, 3 Rauchgranaten
     und eine unsichtbare Kiste, um wertvolle Beute zu verbergen.
 
 # Syndicate
@@ -55,7 +55,7 @@ selectable-set-syndicate-spy-description =
     Erfülle deine Ziele unbemerkt mit dieser Zusammenstellung heimlicher Gegenstände.
     Enthält: Chamäleon-Diebeshandschuhe, Chamäleon-Set, Stimmmaske,
     Agentenausweis, Hypopen mit Nocturinflasche, Kamera-Störer,
-    Stealth-Box, Syndicate-Kiefer des Lebens und einen Syndicate-Verschlüsselungsschlüssel.
+    Stealth-Box, Syndicate-Rettungsschere und einen Syndicate-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-hitman-name = Auftragskiller-Paket
 selectable-set-syndicate-hitman-description = Finde und beseitige deine Ziele leise und effektiv mit diesem Paket.

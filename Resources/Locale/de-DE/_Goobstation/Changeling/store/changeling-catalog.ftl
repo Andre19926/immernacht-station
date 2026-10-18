@@ -16,7 +16,7 @@ evolutionmenu-combat-armblade-desc =
 
 evolutionmenu-combat-armhammer-name = Armhammer
 evolutionmenu-combat-armhammer-desc =
-    Forme einen deiner Arme zu einem grotesken Hammer aus Knochen und Fleisch um, der deine Gegner zerschmettert, niederschlägt und davonschleudert. Schlägt nur bei einem leichten Angriff nieder.
+    Forme einen deiner Arme zu einem grotesken Hammer aus Knochen und Fleisch um, der deine Gegner zerschmettert, niederstreckt und davonschleudert. Streckt nur bei einem leichten Angriff nieder.
     Kostet 15 Chemikalien.
 
 evolutionmenu-combat-armclaw-name = Armklaue
@@ -137,7 +137,7 @@ evolutionmenu-utility-eyesight-desc =
 evolutionmenu-utility-biodegrade-name = Bioabbau
 evolutionmenu-utility-biodegrade-desc =
     Erbrich eine ätzende Substanz auf alle Fesseln, die du trägst, und befreie dich so.
-    Wenn du die Fähigkeit benutzt, während du gepackt wirst, spuckst du dem Angreifer Säure ins Gesicht, blendest ihn und schlägst ihn nieder.
+    Wenn du die Fähigkeit benutzt, während du gepackt wirst, spuckst du dem Angreifer Säure ins Gesicht, blendest ihn und streckst ihn nieder.
     Kostet 30 Chemikalien.
 
 evolutionmenu-utility-chameleon-name = Chamäleonhaut

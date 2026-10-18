@@ -12,7 +12,7 @@ uplink-thermal-vision-desc = Du ermöglichst es dir, Lebewesen unabhängig von H
 
 uplink-betrayal-knife-name = Verratmesser
 uplink-betrayal-knife-desc =
-    Das Verratmesser ermöglicht es dem Benutzer, eine kurze Strecke zu blinzeln und Menschen in einem kleinen Radius um die Blinzelposition zu schlagen.
+    Das Verrätermesser ermöglicht es dem Benutzer, eine kurze Strecke zu blinzeln und Menschen in einem kleinen Radius um die Blinzelposition zu schlagen.
     Verursacht erheblichen Schaden, wenn das Ziel liegt oder sich von dir entfernt.
     Verwende es in deiner Hand, um den Blink-Modus umzuschalten.
 

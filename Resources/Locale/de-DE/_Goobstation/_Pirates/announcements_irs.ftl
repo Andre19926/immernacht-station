@@ -16,10 +16,10 @@ pirates-announcement-irs-arrival =
     Dies ist das Steuerkonfliktlösungsteam, bereite dich darauf vor, dass deine Vermögenswerte liquidiert und mit Steuerbetrug belastet werden!
 
 pirates-announcement-irs-paid =
-    Zahlung erhalten, Wir grüßen dich für gesetzestreue Steuer zahlenden Bürger!
+    Zahlung erhalten. Wir grüßen dich als gesetzestreuen, steuerzahlenden Bürger!
 
 pirates-announcement-irs-cancelled =
-    Wir verstehen, ich schicke ein Team zu deiner Station, um die Angelegenheit zu lösen.
+    Verstanden, wir schicken ein Team zu deiner Station, um die Angelegenheit zu klären.
 
 pirates-announcement-irs-notenough =
-    Du hast deine Steuern falsch eingereicht, ein Team wurde geschickt, um bei der Liquidation von Vermögenswerten zu helfen und du wegst Steuerbetrugs zu verhaften.
+    Du hast deine Steuern falsch eingereicht. Ein Team wurde geschickt, um bei der Liquidation deiner Vermögenswerte zu helfen und dich wegen Steuerbetrugs zu verhaften.

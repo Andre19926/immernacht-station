@@ -126,7 +126,7 @@ ghost-role-information-ancient-rogue-king-rules = Du verbeugst dich vor niemande
 
 ghost-role-information-rules-default-xeno = Du bist ein [color={role-type-team-antagonist-color}][bold]Xenomorph[/bold][/color].
                                             Dein Ziel ist es, deine Königin zu schützen und deinen Bienenstock zu erweitern.
-                                            Erreiche dies, indem du deine Queen-Crew-Mitglieder zum Befall bringst.
+                                            Erreiche dies, indem du Crewmitglieder befällst.
 
 # Token Roles
 
@@ -198,9 +198,9 @@ ghost-role-information-santa-description = Verbreite Weihnachtsjubel rund um die
 ghost-role-information-slasher-token = Der Slasher (Token)
 
 ghost-role-information-sentientanimal-rules = Du bist ein [color={role-type-sentient-animal-color}][bold]{role-type-sentient-animal-name}[/bold][/color]. Du bist ein neutrales Tier, das in Selbstverteidigung handeln kann, aber sonst nicht versuchen, der Crew zu schaden.
-                                              Du erinnerst dich an nichts von deinem früheren Leben und du erinnerst dich an nichts, was du als Geist gelernt hast.
-                                              Du darfst dich an das Wissen über das Spiel im Allgemeinen erinnern, wie z. B. Kochen, Verwenden von Objekten usw., du bist jedoch nicht in fortgeschrittenen Rollen vertraut.
-                                              Du bist absolut [color=red]NICHT[/color] erlaubt, sich beispielsweise an den Namen, das Aussehen usw. Deines vorherigen Charakters zu erinnern.
+                                              Du erinnerst dich an nichts aus deinem früheren Leben und an nichts, was du als Geist gelernt hast.
+                                              Du darfst dich an allgemeines Spielwissen erinnern, etwa Kochen oder den Umgang mit Objekten, in fortgeschrittenen Rollen bist du jedoch nicht bewandert.
+                                              Es ist dir absolut [color=red]NICHT[/color] erlaubt, dich zum Beispiel an Namen, Aussehen usw. deines vorherigen Charakters zu erinnern.
 
 ghost-role-information-contractor-name = Konsortialunternehmer
 ghost-role-information-contractor-token = Syndicate-Auftragnehmer (Token)

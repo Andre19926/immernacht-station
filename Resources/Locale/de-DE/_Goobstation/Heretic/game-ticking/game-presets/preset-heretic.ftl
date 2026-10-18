@@ -30,7 +30,7 @@ heretic-role-greeting =
 
 heretic-role-greeting-short =
     Du bist der Ketzer!
-    Um das letzte Ritual und Aufstieg zu lernen, musst du deine Aufgaben erfüllen.
+    Um das letzte Ritual zu erlernen und aufzusteigen, musst du deine Aufgaben erfüllen.
 
 ## ghoul
 heretic-ghoul-greeting =

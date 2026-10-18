@@ -44,7 +44,7 @@ spellbook-semi-random-desc =
 
 spellbook-event-dimension-shift-name = Dimensionsverschiebung
 spellbook-event-dimension-shift-desc =
-    Verschiebe die Dimensionen der Zielstation, wodurch die Weltraumatmosphäre für humanoide Wesen sicher, aber dennoch nicht atmungsaktiv ist. Nützlich, wenn du Angst vor dem Weltraum hast, aber dies verhindert auch, dass die Crew daran stirbt.
+    Verschiebe die Dimensionen der Zielstation, sodass die Weltraumatmosphäre für Humanoide zwar ungefährlich, aber dennoch nicht atembar ist. Nützlich, wenn du Angst vor dem Weltraum hast, aber dies verhindert auch, dass die Crew daran stirbt.
     Dieser Zauber tritt sofort in Kraft, sobald du ihn kaufst.
     Kann nicht zurückerstattet werden.
 spellbook-event-global-tile-toggle-name = Globale Kachelbewegung
@@ -66,8 +66,8 @@ spellbook-apprentice-desc = Ein magischer Vertrag, der einen Zauberlehrling in d
 spellbook-magical-lamp-name = Magische Lampe
 spellbook-magical-lamp-desc =
     Eine magische goldene Lampe, die einen persönlichen Wächter an deinen Körper binden kann. Der Wächter fügt dir einen Teil des Schadens zu.
-    Es wäre ratsam, zu vermeiden, diese mit etwas zu kaufen, das dazu führen kann, dass du Körper mit anderen austauschst.
-    Nachdem du den Wächter gehostet hast, kannst du deine Spezies nicht im Zauberer-Spiegel ändern.
+    Kaufe sie am besten nicht zusammen mit etwas, das dazu führen kann, dass du Körper mit anderen tauschst.
+    Nachdem du den Wächter beherbergt hast, kannst du deine Spezies nicht mehr im Zauberer-Spiegel ändern.
     Kann nur einmal gekauft werden.
     Kann nicht zurückerstattet werden.
 

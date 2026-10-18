@@ -123,8 +123,8 @@ gang-structure-revealed = Die Gangstruktur offenbart sich selbst.
 gang-member-role-greeting =
     Du wurdest in die Herde gebracht.
     Dein Anführer hat für dich verbürgt, also lass sie es nicht bereuen.
-    Erweitern dich deinen Rasen, beobachte den Rücken deiner Bande und hilf, die Kontrolle über diese Station zu übernehmen.
-    Rivalische Banden sind bereits da draußen. Gib ihnen keinen Zoll.
+    Erweitere deinen Rasen, beobachte den Rücken deiner Bande und hilf, die Kontrolle über diese Station zu übernehmen.
+    Rivalisierende Banden sind bereits da draußen. Gib ihnen keinen Fußbreit.
 
 objective-issuer-gang = Boss
 

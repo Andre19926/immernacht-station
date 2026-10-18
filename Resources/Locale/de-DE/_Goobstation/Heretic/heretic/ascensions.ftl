@@ -8,34 +8,34 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 heretic-ascension-ash =
-    Die Watch ist tot. Der Nachtwächter brannte damit, doch sein Feuer brennt immer weiter.
-    Ich stehe unter den Verkohlten. Der erste von vielen, der heller leuchten wird als alle Sterne am Himmel.
-    FÜR DIE KUNST UND ZURÜCKZEICHNUNG ZUCHT MEINER ASCENSION!
+    Die Wache ist tot. Der Nachtwächter verbrannte mit ihr, doch sein Feuer brennt immer weiter.
+    Ich stehe unter den Verkohlten. Der Erste von vielen, der heller leuchten wird als alle Sterne am Himmel.
+    DENN STAUB BIST DU, UND ZU STAUB WIRST DU WIEDER WERDEN. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-blade =
-    Ich reiße durch Ketten aus Staub und Licht. Der Mond wächst hier, unter den Auserwählten.
-    Die Schlange ist enthauptet. Ihr Gift ist fort. Zerrissen von Sichelklingen aus Silber.
-    Ein Sturm aus Stahl bin ich, CHAMPION OF THE TORN AND PURE. BEZEUGT MEINEN AUFSTIEG!
+    Ich reiße durch Ketten aus Staub und Licht. Der Mond nimmt hier zu, unter den Auserwählten.
+    Die Schlange ist enthauptet. Ihr Gift ist fort. Zerfetzt von Sichelklingen aus Silber.
+    Ein Sturm aus Stahl bin ich, KÄMPFER DER ZERRISSENEN UND REINEN. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-lock =
-    Die Stewards... Ich höre sie jetzt. Meine Freunde am vernebelten Himmel.
-    Ein Labyrinth wollte uns jetzt zerbrochen enthalten. gelöst. Eine Leitschnur führte durch.
-    Wir können nicht eingegrenzt werden. Wir können nicht weggesperrt werden. ZUCHT UNSERER ASCENSION!
+    Die Verwalter ... Ich höre sie jetzt. Meine Freunde am vernebelten Himmel.
+    Ein Labyrinth, das uns einschließen sollte, ist nun zerbrochen. Gelöst. Ein Leitfaden führte hindurch.
+    Wir können nicht eingegrenzt werden. WIR KÖNNEN NICHT WEGGESPERRT WERDEN. BEZEUGT UNSEREN AUFSTIEG!
 
 heretic-ascension-flesh =
     Der Himmel bot Ideale und Träume. Ich wünschte mir mehr als das.
     Mehr als blinde Versprechen einer besseren Zukunft. Mehr als Flucht aus einer sterbenden Welt.
-    Der Marschall führt meine Armee an. Der Himmel kann bluten, und ich werde ihn von seiner Essenz abziehen. ZUCHT MEINER ASCENSION!
+    Der Marschall führt meine Armee an. DER HIMMEL KANN BLUTEN, UND ICH WERDE IHM SEINE ESSENZ ENTZIEHEN. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-void =
-    Die Welt fällt in Dunkelheit. Ich stehe in einem leeren Flugzeug; kleine Eisflocken fallen vom Himmel.
-    Der Aristokrat steht vor mir und winkt. Wir werden den Flüstern der sterbenden Realität einen Walzer spielen,
-    Wie die Welt vor unseren Augen zerstört wird. Die Leere wird alles zu nichts zurückbringen. ZUCHT MEINER ASCENSION!
+    Die Welt fällt in Dunkelheit. Ich stehe auf einer leeren Ebene; kleine Eisflocken fallen vom Himmel.
+    Der Aristokrat steht vor mir und winkt mich heran. Wir werden zum Flüstern der sterbenden Realität einen Walzer tanzen,
+    während die Welt vor unseren Augen zerstört wird. Die Leere wird alles zu Nichts zurückführen. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-rust =
     Lass mich dir eine Geschichte erzählen.
-    Es gibt Hügel vor uns, drapiert in Rost. Rost, der deine Hitze verrottet. Mund ausgetrocknet, Seele schwach, deine Zunge beginnt zu bluten.
-    Ich bin Verfall inkarniert. UNVERWENDBAR ALS STEINSTER; WIRKLICH ALS WASSER. ZUCHT MEINER ASCENSION!
+    Es gibt Hügel vor uns, drapiert in Rost. Rost, der deine Wärme zerfrisst. Mund ausgetrocknet, Seele schwach, deine Zunge beginnt zu bluten.
+    Ich bin der Verfall in Person. UNAUSWEICHLICH WIE EIN STERBENDER STERN; UNERSCHÜTTERLICH WIE DIE GEWÄSSER. BEZEUGT MEINEN AUFSTIEG!
 
 heretic-ascension-cosmos =
     Das Biest streckte seine Hand aus, ich ergriff sie und es zog mich zu sich. Sein Körper ragte hoch auf, doch er wirkte so klein und schwach nach all den Geschichten, die sich in meinem Kopf angesammelt hatten.

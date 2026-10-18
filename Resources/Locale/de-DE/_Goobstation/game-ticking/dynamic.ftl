@@ -67,5 +67,5 @@ dynamic-fax-threat-max =
     Deine Station befindet sich irgendwie in der Mitte des feindlichen Territoriums, im klaren Blick auf jeden Feind des Konzerns.
     Deine Überlebenswahrscheinlichkeit ist gering, und die Zerstörung der Station wird erwartet und fast unvermeidlich.
     Sichere jedes sensible Material und neutralisiere jeden Feind, dem du begegnen wirst.
-    Es ist wichtig, dass du zumindest versuchst, die Station zu erhalten
+    Es ist wichtig, dass du zumindest versuchst, die Station zu erhalten.
     Viel Glück.

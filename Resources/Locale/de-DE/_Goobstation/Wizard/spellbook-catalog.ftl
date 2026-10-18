@@ -87,7 +87,7 @@ spellbook-lightning-bolt-desc =
 
 spellbook-homing-toolbox-name = Zielsuchende Werkzeugkiste
 spellbook-homing-toolbox-desc =
-    Dieser Zauber beschwört und wirft eine magische zielsuchende Werkzeugkiste auf deinen Gegner, die ihn beim Treffer niederschlägt.
+    Dieser Zauber beschwört und wirft eine magische zielsuchende Werkzeugkiste auf deinen Gegner, die ihn beim Treffer niederstreckt.
     Wenn du diesen Zauber lernst, erhältst du kostenlos ein Tider-Zauberer-Paket!
     Erfordert nicht die Robe und den Hut des Zauberers.
 
@@ -188,6 +188,6 @@ spellbook-smite-desc =
 
 spellbook-rathen-name = Rathens Geheimnis
 spellbook-rathen-desc =
-    Beschwört eine mächtige Schockwelle um dich herum, die alle niederschlägt und sie zwingt, ihren Blinddarm auszuscheiden.
+    Beschwört eine mächtige Schockwelle um dich herum, die alle niederstreckt und sie zwingt, ihren Blinddarm auszuscheiden.
     Hat ein Opfer seinen Blinddarm bereits verloren, erleidet es stattdessen 10 physischen Schaden, mit hoher Chance, dass ihm weitere äußere Gliedmaßen abgerissen werden.
     Erfordert die Robe und den Hut des Zauberers.
