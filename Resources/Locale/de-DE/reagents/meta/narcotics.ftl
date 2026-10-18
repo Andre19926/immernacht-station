@@ -52,7 +52,7 @@ reagent-name-space-drugs = Weltraum-Mirage
 reagent-desc-space-drugs = Eine illegale Verbindung, die eine Reihe von Effekten wie Gleichgewichtsverlust und visuelle Artefakte hervorruft.
 
 reagent-name-nocturine = Nocturin
-reagent-desc-nocturine = Ein hochwirksames Beruhigungs- und Schlafmittel, vom Syndicate für Schleichoperationen entwickelt. Einfache Fahrt nach Honk-Schlummerstadt.
+reagent-desc-nocturine = Ein hochwirksames Beruhigungs- und Schlafmittel, vom Syndikat für Schleichoperationen entwickelt. Einfache Fahrt nach Honk-Schlummerstadt.
 
 reagent-name-mute-toxin = Mutentoxin
 reagent-desc-mute-toxin = Eine dicke Chemikalie, die die Stimmbänder beschichtet, so dass der Benutzer während der Metabolisierung nicht sprechen kann.

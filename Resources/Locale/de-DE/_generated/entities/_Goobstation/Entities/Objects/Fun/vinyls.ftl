@@ -379,7 +379,7 @@ ent-VinylSleeveWelcomeSS13 = Willkommen bei SS13 Plattenhülle
     .desc = Schade, dass sie diesen Ort gesprengt haben.
 
 ent-VinylSleevePeace = Frieden Plattenhülle
-    .desc = Das Artwork zeigt die Ereignisse auf Raumstation 12, wo ein Kapitän und ein Syndicate-Aufständischer sich am Weihnachtstag auf einen Waffenstillstand einigten.
+    .desc = Das Artwork zeigt die Ereignisse auf Raumstation 12, wo ein Kapitän und ein Syndikat-Aufständischer sich am Weihnachtstag auf einen Waffenstillstand einigten.
 
 ent-VinylSleeveJapan = japan Plattenhülle
     .desc = Ein Stücknhülle, perfekt zur Aufbewahrung deiner Schallplatten.

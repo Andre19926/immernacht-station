@@ -4,9 +4,9 @@ ent-MobHumanSyndicateAgent = Syndicatagent
 
 ent-MobHumanSyndicateAgentMedic = Syndicat-Medicat
 
-ent-MobHumanSyndicateAgentSpy = Syndicate-Pionage
+ent-MobHumanSyndicateAgentSpy = Syndikat-Pionage
 
-ent-MobHumanSyndicateAgentThief = Syndicate-Dieb
+ent-MobHumanSyndicateAgentThief = Syndikat-Dieb
 
 ent-MobHumanSyndicateAgentNukeops = Syndicatagent
 

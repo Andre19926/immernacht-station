@@ -1,4 +1,4 @@
-ent-BorgChassisDerelictSyndicateAssault = Verfallener Syndicate-Angriffs-Cyborg
+ent-BorgChassisDerelictSyndicateAssault = Verfallener Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist in einem Zustand des großen Verfalls.
 
 ent-BorgChassisUrist = Urist McBorg

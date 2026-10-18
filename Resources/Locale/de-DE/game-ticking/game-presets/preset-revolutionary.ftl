@@ -17,7 +17,7 @@
 roles-antag-rev-head-name = Revolutionsführer
 roles-antag-rev-head-objective = Dein Ziel ist es, die Station zu übernehmen, indem du Leute für deine Sache gewinnst und alle Mitglieder der Führung ausschaltest.
 
-head-rev-role-greeting = Du bist Revolutionsführer. Deine Aufgabe: die gesamte Führung durch Tod, Exil oder Haft von der Station zu entfernen. Das Syndicate hat dir ein Manifest gestellt, das die Crew überzeugt. Vorsicht: Bei Sicherheit und Führung wirkt es nicht, sie sind unerschütterlich loyal. Viva la revolución!
+head-rev-role-greeting = Du bist Revolutionsführer. Deine Aufgabe: die gesamte Führung durch Tod, Exil oder Haft von der Station zu entfernen. Das Syndikat hat dir ein Manifest gestellt, das die Crew überzeugt. Vorsicht: Bei Sicherheit und Führung wirkt es nicht, sie sind unerschütterlich loyal. Viva la revolución!
 
 head-rev-briefing = Werde alle Abteilungsleiter los, um die Station zu übernehmen.
 

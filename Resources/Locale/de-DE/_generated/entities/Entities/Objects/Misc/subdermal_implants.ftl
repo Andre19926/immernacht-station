@@ -17,10 +17,10 @@ ent-FreedomImplant = Freiheitsimplantat
     .desc = Mit diesem Implantat kann sich der Benutzer bis zu dreimal aus Handschellen befreien, bevor es seine Funktion einstellt.
 
 ent-RadioImplant = Radioimplantat
-    .desc = Dieses Implantat gewährt Zugriff auf den Syndicate-Kanal ohne Headset.
+    .desc = Dieses Implantat gewährt Zugriff auf den Syndikat-Kanal ohne Headset.
 
 ent-UplinkImplant = Uplink-Implantat
-    .desc = Mit diesem Implantat kann der Benutzer nach Belieben auf einen versteckten Syndicate-Uplink zugreifen.
+    .desc = Mit diesem Implantat kann der Benutzer nach Belieben auf einen versteckten Syndikat-Uplink zugreifen.
 
 ent-EmpImplant = EMP-Implantat
     .desc = Dieses Implantat erzeugt einen elektromagnetischen Impuls, wenn es aktiviert wird.
@@ -47,7 +47,7 @@ ent-DeathAcidifierImplant = Todes-Säurebad-Implantat
     .desc = Dieses Implantat schmilzt den Benutzer und seine Ausrüstung nach dem Tod.
 
 ent-DeathRattleImplant = Todesröcheln-Implantat
-    .desc = Dieses Implantat informiert den Syndicate-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.
+    .desc = Dieses Implantat informiert den Syndikat-Funkkanal, wenn der Benutzer in einen kritischen Zustand gerät oder stirbt.
 
 ent-FakeMindShieldImplant = Gefälschtes Mindshield-Implantat
     .desc = Dieses Implantat ermöglicht dem Träger, ein gefälschtes Signal zu erzeugen, mit dem NT-Sicherheitsteams Personen mit Mindshield-Implantat identifizieren.

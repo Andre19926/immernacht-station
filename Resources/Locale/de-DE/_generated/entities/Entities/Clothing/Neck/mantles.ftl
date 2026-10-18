@@ -14,7 +14,7 @@ ent-ClothingNeckMantleHOP = Personalchef-Mantel
     .desc = Ein guter Personalchef weiß, dass Papierkram nur die halbe Arbeit ist ... Den Hund zu streicheln und modisch auszusehen ist die andere Hälfte.
 
 ent-ClothingNeckMantleHOS = Mantel des Sicherheitschefs
-    .desc = Schusswechsel mit Syndicate-Agenten sind für diesen Sicherheitschef nur ein weiterer Dienstag. Dieser Mantel ist ein Symbol der Hingabe an die Station.
+    .desc = Schusswechsel mit Syndikat-Agenten sind für diesen Sicherheitschef nur ein weiterer Dienstag. Dieser Mantel ist ein Symbol der Hingabe an die Station.
 
 ent-ClothingNeckMantleRD = Mantel des Forschungsleiters
     .desc = Denn wenn lange Tage im Büro aus Sprengstoff, Giftgas, Mordrobotern und frischer Pizza aus der Fracht bestehen, hält dich dieser Mantel bequem.

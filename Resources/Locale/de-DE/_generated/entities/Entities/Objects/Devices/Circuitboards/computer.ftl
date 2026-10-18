@@ -88,8 +88,8 @@ ent-BodyScannerComputerCircuitboard = Bodyscanner Computerplatine
 ent-CommsComputerCircuitboard = Kommunikation Computerplatine
     .desc = Eine Computerplatine für eine Kommunikationskonsole.
 
-ent-SyndicateCommsComputerCircuitboard = Syndicate-Kommunikation Computerplatine
-    .desc = Eine Computerplatine für eine Syndicate-Kommunikationskonsole.
+ent-SyndicateCommsComputerCircuitboard = Syndikat-Kommunikation Computerplatine
+    .desc = Eine Computerplatine für eine Syndikat-Kommunikationskonsole.
 
 ent-WizardCommsComputerCircuitboard = Zauberer-Kommunikation-Computerplatine
     .desc = Eine Computerplatine für eine Zauberer-Kommunikationskonsole.
@@ -114,8 +114,8 @@ ent-ParticleAcceleratorComputerCircuitboard = PA-Steuerbox Computerplatine
 ent-ShuttleConsoleCircuitboard = Shuttlekonsole
     .desc = Eine Computerplatine für eine Shuttle-Konsole.
 
-ent-SyndicateShuttleConsoleCircuitboard = Syndicate-Shuttle-Konsole (Platine)
-    .desc = Eine Computerplatine für eine Syndicate-Agentenhuttle-Konsole.
+ent-SyndicateShuttleConsoleCircuitboard = Syndikat-Shuttle-Konsole (Platine)
+    .desc = Eine Computerplatine für eine Syndikat-Agentenhuttle-Konsole.
 
 ent-CloningConsoleComputerCircuitboard = Klonkonsole Computerplatine
     .desc = Eine Computerplatine für eine Klonkonsole.
@@ -123,7 +123,7 @@ ent-CloningConsoleComputerCircuitboard = Klonkonsole Computerplatine
 ent-ComputerIFFCircuitboard = IFF-Konsole (Platine)
     .desc = Ermöglicht es dir, die IFF-Eigenschaften dieses Schiffes zu steuern.
 
-ent-ComputerIFFSyndicateCircuitboard = Syndicate-IFF-Konsole (Platine)
+ent-ComputerIFFSyndicateCircuitboard = Syndikat-IFF-Konsole (Platine)
     .desc = Ermöglicht es dir, die IFF- und Tarneigenschaften dieses Schiffes zu steuern.
 
 ent-ComputerMassMediaCircuitboard = Nachrichten-Konsole (Platine)

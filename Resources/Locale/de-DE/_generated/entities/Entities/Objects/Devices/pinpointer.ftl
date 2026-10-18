@@ -1,7 +1,7 @@
 ent-PinpointerNuclear = Pinpointer
     .desc = Ein Handortungsgerät. Normalerweise ist es weitaus leistungsfähiger, doch dieses wurde so konfiguriert, dass es bestimmte Signale blockiert. Aufrecht halten, um die Genauigkeit zu bewahren.
 
-ent-PinpointerSyndicateNuclear = Syndicate-Pinpointer
+ent-PinpointerSyndicateNuclear = Syndikat-Pinpointer
     .desc = Produziert speziell für nukleare operative Missionen, hole dich diese Scheibe!
 
 ent-PinpointerUniversal = Universal-Pinpointer

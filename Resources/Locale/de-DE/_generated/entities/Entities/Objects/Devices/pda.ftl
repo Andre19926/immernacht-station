@@ -127,13 +127,13 @@ ent-ClearPDA = Klarer PDA
 ent-VisitorPDA = Klarer PDA
     .desc = 99 und 44/100 Prozent reiner Kunststoff.
 
-ent-SyndiPDA = Syndicate-PDA
+ent-SyndiPDA = Syndikat-PDA
     .desc = Ok, Zeit, ein produktives Mitglied von ... oh cool, ich bin ein böser Kerl, Zeit, Leute zu töten.
 
-ent-SyndiOperativePDA = Syndicate-Agenten-PDA
+ent-SyndiOperativePDA = Syndikat-Agenten-PDA
     .desc = Tod zu NT!
 
-ent-SyndiCorpsmanPDA = Syndicate-Sanitäter-PDA
+ent-SyndiCorpsmanPDA = Syndikat-Sanitäter-PDA
     .desc = Kommandant ... ich muss kochen!
 
 ent-SyndiCommanderPDA = Konsortialkommandeur-PDA
@@ -192,8 +192,8 @@ ent-SeniorCourierPDA = Senior-Kurier-PDA
 
 ent-PiratePDA = Piraterie-PDA
 
-ent-SyndiAgentPDA = Syndicate-Sanitäter-PDA
-    .desc = Für die Tage, an denen die Heilung normaler Syndicate-Agenten nicht reicht: Versuch stattdessen, Atomagenten zu heilen!
+ent-SyndiAgentPDA = Syndikat-Sanitäter-PDA
+    .desc = Für die Tage, an denen die Heilung normaler Syndikat-Agenten nicht reicht: Versuch stattdessen, Atomagenten zu heilen!
 
 ent-ChameleonPDA = Fluggast-PDA
     .desc = Warum ist es nicht grau?

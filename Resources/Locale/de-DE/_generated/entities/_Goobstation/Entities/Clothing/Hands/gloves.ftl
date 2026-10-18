@@ -37,8 +37,8 @@ ent-ClothingHandsKnuckleDusters = Schädelstäube
 ent-ClothingHandsKnuckleDustersBrass = Knöchelstauber aus Messing
     .desc = Messing-Schlagringe. So wie sie früher gemacht wurden und trotzdem genauso hart zuschlagen.
 
-ent-ClothingHandsKnuckleDustersSyndicate = Syndicate-Knöchelstäube
-    .desc = Plastitanium-Schlagringe mit dem Syndicate-Logo. Ein echter Mann schlägt damit jemanden tot.
+ent-ClothingHandsKnuckleDustersSyndicate = Syndikat-Knöchelstäube
+    .desc = Plastitanium-Schlagringe mit dem Syndikat-Logo. Ein echter Mann schlägt damit jemanden tot.
 
 ent-ClothingHandsKnuckleDustersQM = Quartiermeister-Knuckleduster
     .desc = Geschmiedet von den feinsten Handwerkern auf Wunsch des Quartiermeisters, ist dieser harte und dichte Knöchelstauber so konzipiert, dass er knochenzerkleinernde Schläge liefert und die inneren Organe des unglücklichen Opfers beschädigt.
@@ -47,4 +47,4 @@ ent-ClothingHandsKnuckleBoneCrushers = Knochenbrecher
     .desc = Von den Göttern gesegnet, um alle zu brechen, die nicht gehorchen.
 
 ent-ClothingHandsGlovesGuerrilla = Guerillahandschuhe
-    .desc = Hochwertige Syndicate-Kampfhandschuhe, gut für den Griff und zur Aufnahme von Stromschlägen. Scheinen mit Telekristallen betrieben zu werden.
+    .desc = Hochwertige Syndikat-Kampfhandschuhe, gut für den Griff und zur Aufnahme von Stromschlägen. Scheinen mit Telekristallen betrieben zu werden.

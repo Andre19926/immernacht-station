@@ -81,8 +81,8 @@ ent-BoxEncryptionKeySecurity = Sicherheitsverschlüsselungsschlüssel
 ent-BoxEncryptionKeyService = Dienstverschlüsselungsschlüssel
     .desc = Eine Kiste mit Ersatz-Verschlüsselungsschlüsseln.
 
-ent-BoxEncryptionKeySyndie = Syndicate-Verschlüsselungsschlüsselbox
-    .desc = Zwei Syndicate-Verschlüsselungsschlüssel zum Preis von einem. Miniaturisiert für bessere Handhabung.
+ent-BoxEncryptionKeySyndie = Syndikat-Verschlüsselungsschlüsselbox
+    .desc = Zwei Syndikat-Verschlüsselungsschlüssel zum Preis von einem. Miniaturisiert für bessere Handhabung.
 
 ent-BoxLeadLined = Bleiausgekleidete Box
     .desc = Diese Kiste unterbindet die Übertragung schädlicher Strahlung.

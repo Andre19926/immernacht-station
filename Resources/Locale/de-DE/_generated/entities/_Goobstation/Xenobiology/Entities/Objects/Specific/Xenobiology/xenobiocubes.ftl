@@ -7,7 +7,7 @@ ent-SlimeCubeBoxSyndie = Syndicat Slime Cube Box
 ent-SlimeCubeWrapped = Schleimwürfel umwickelt
     .desc = Pack dies aus, um einen Schleim-Pubus zu erhalten.
 
-ent-SlimeCubeWrappedSyndie = Syndicate-Schleimwürfel umwickelt
+ent-SlimeCubeWrappedSyndie = Syndikat-Schleimwürfel umwickelt
     .desc = Pack dies aus, um einen Schleim-Pubus zu erhalten.
 
 ent-SlimeCube = Schleimwürfel

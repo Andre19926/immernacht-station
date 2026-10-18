@@ -4,7 +4,7 @@ ent-ClothingHeadHelmetEVA = EVA Helm
 ent-ClothingHeadHelmetEVALarge = EVA Helm
     .desc = Ein alter, aber bewährter Helm für Außenbordeinsätze.
 
-ent-ClothingHeadHelmetSyndicate = Syndicate EVA Helm
+ent-ClothingHeadHelmetSyndicate = Syndikat-EVA Helm
     .desc = Ein schlichter, stilvoller EVA-Helm. Entwickelt für maximale, bescheidene Coolness.
 
 ent-ClothingHeadHelmetCosmonaut = Kosmonautenhelm

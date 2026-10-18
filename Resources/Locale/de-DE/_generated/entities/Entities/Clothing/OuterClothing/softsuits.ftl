@@ -1,7 +1,7 @@
 ent-ClothingOuterHardsuitEVA = EVA-Anzug
     .desc = Ein leichter Raumanzug, der den Träger im Notfall grundlegend vor dem Vakuum des Weltraums schützt.
 
-ent-ClothingOuterEVASuitSyndicate = Syndicate EVA-Anzug
+ent-ClothingOuterEVASuitSyndicate = Syndikat-EVA-Anzug
     .desc = Auf der Rückseite steht ein Schild: „Absolut kein Eigentum eines feindlichen Konzerns, ehrlich!“
 
 ent-ClothingOuterSuitEmergency = EVA-Notfallanzug

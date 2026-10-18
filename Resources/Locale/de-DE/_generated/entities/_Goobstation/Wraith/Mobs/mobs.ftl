@@ -82,5 +82,5 @@ ent-MobBrullbarWraith = Brullbär
 ent-MobBGunbotWraith = Gunbot
     .desc = Ein Sicherheitsroboter, mit dem irgendetwas nicht stimmt.
 
-ent-MobNukebotWraith = Syndicate-Gunbot
-    .desc = Ein älteres Modell des Syndicate-Angriffsborgs, spezialisiert auf den Nahkampf.
+ent-MobNukebotWraith = Syndikat-Gunbot
+    .desc = Ein älteres Modell des Syndikat-Angriffsborgs, spezialisiert auf den Nahkampf.

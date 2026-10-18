@@ -1,4 +1,4 @@
-custom-lawboard-ui-title = Experimentelles Syndicate Lawboard
+custom-lawboard-ui-title = Experimentelles Syndikat-Lawboard
 
 custom-lawboard-up-arrow = ↑
 custom-lawboard-down-arrow = ↓

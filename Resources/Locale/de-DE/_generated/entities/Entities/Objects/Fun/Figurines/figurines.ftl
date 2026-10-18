@@ -94,17 +94,17 @@ ent-ToyFigurineBotanist = Botanikerfigur
 ent-ToyFigurineJanitor = Hausmeisterfigur
     .desc = Eine Figur, die einen Hausmeister mit seinen Gummistiefeln darstellt.
 
-ent-ToyFigurineNukie = Syndicate-Agenten-Figur
+ent-ToyFigurineNukie = Syndikat-Agenten-Figur
     .desc = Eine Figur, die jemanden in einem blutroten Hardsuit zeigt, wie ihn ein Mitglied eines Atomagenten-Teams trägt.
 
-ent-ToyFigurineNukieElite = Elite-Syndicate-Agenten-Figur
+ent-ToyFigurineNukieElite = Elite-Syndikat-Agenten-Figur
     .desc = Eine Figur, die jemanden in einem elitären blutroten Hardsuit zeigt, wie ihn ein Mitglied eines Atomagenten-Teams trägt.
 
-ent-ToyFigurineNukieCommander = Syndicate operativer Kommandant
+ent-ToyFigurineNukieCommander = Operativer Kommandant des Syndikats
     .desc = Eine Figur, die jemanden in einem blutroten Hardsuit zeigt, wie ihn der Kommandant eines Atomagenten-Teams tragen könnte.
 
-ent-ToyFigurineFootsoldier = Syndicate-Fußsoldaten-Figur
-    .desc = Eine Figur, die das Outfit eines Syndicate-Fußsoldaten darstellt.
+ent-ToyFigurineFootsoldier = Syndikat-Fußsoldaten-Figur
+    .desc = Eine Figur, die das Outfit eines Syndikat-Fußsoldaten darstellt.
 
 ent-ToyFigurineWizard = Zaubererfigur
     .desc = Eine Figur, die jemanden mit langem, seidigem Bart in einem Zaubererkostüm zeigt. Hexenmeister wären gern so.

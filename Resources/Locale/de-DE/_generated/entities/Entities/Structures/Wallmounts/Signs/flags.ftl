@@ -4,7 +4,7 @@ ent-BlankFlag = Blankoflagge
 ent-NTFlag = Nanotrasen-Flagge
     .desc = Ruhm für NT! Moment, haben die wirklich eine Flagge für ein Unternehmen gemacht?
 
-ent-SyndieFlag = Flagge des Syndicate-S
+ent-SyndieFlag = Flagge des Syndikat-S
     .desc = Riecht blutig. Tod NT!
 
 ent-LGBTQFlag = LGBTQ Flagge

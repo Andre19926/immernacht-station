@@ -34,11 +34,11 @@ ent-ClothingEyesHudMultiversal = Multiversal-HUD
 ent-ClothingEyesHudOmni = Omni-HUD
     .desc = Füller
 
-ent-ClothingEyesHudSyndicate = Syndicate-Visier
-    .desc = Das professionelle Head-up-Display des Syndicate-Agenten, entwickelt zur besseren Erkennung von Humanoiden und deren anschließender Eliminierung.
+ent-ClothingEyesHudSyndicate = Syndikat-Visier
+    .desc = Das professionelle Head-up-Display des Syndikat-Agenten, entwickelt zur besseren Erkennung von Humanoiden und deren anschließender Eliminierung.
 
-ent-ClothingEyesHudSyndicateAgent = Medizinisches Syndicate-Visier
-    .desc = Das professionelle Head-up-Display des Syndicate-Agentenanitäters, entwickelt zur schnellen Diagnose des Status des Teams.
+ent-ClothingEyesHudSyndicateAgent = Medizinisches Syndikat-Visier
+    .desc = Das professionelle Head-up-Display des Syndikat-Agentenanitäters, entwickelt zur schnellen Diagnose des Status des Teams.
 
 ent-ClothingEyesGlassesHiddenSecurity = Sonnenbrille
     .desc = Eine schwarze Sonnenbrille.

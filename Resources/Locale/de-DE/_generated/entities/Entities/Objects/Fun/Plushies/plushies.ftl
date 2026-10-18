@@ -17,7 +17,7 @@ ent-PlushieRGBee = RGBee Plüschtier
     .desc = Ein süßes Spielzeug, das einem Bienen-Plüschtier ähnelt, wenn man auf LSD ist.
 
 ent-PlushieNuke = Nukie-Plüschtier
-    .desc = Ein Stofftier, das einem Syndicate-Kernarbeiter ähnelt. Auf dem Etikett steht, Agenten seien rein fiktiv.
+    .desc = Ein Stofftier, das einem Syndikat-Kernarbeiter ähnelt. Auf dem Etikett steht, Agenten seien rein fiktiv.
 
 ent-PlushieRouny = Rouny-Plüschtier
 

@@ -13,7 +13,7 @@ ent-WeaponEnergyRevolver = EG-4 Equalizer
 ent-WeaponDisablerAdvanced = Fortgeschrittener Neutralisierer
     .desc = Eine Selbstverteidigungswaffe für Konzernmanager mit Geld zu verbrennen. Schlank, robust und zu deiner Bequemlichkeit selbstaufladend.
 
-ent-WeaponDisablerSyndicate = Syndicate-Neutralisierer
+ent-WeaponDisablerSyndicate = Syndikat-Neutralisierer
     .desc = Ein schlanker Neutralisierer, entwickelt aus einem nachgebauten Nanotrasen-Prototyp. Ihm fehlt die Durchschlagskraft, das gleicht er jedoch mit einer selbstaufladenden Zelle aus.
 
 ent-WeaponPulseCarbineAdvanced = Advanced Puls Carbine

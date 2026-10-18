@@ -96,7 +96,7 @@ job-name-geneticist = Genetiker
 job-name-no-id = Keine ID
 job-name-prisoner = Gefangener
 job-name-roboticist = Robotiker
-job-name-syndicate = Syndicate
+job-name-syndicate = Syndikat
 job-name-unknown = Unbekannt
 job-name-zombie = Zombie
 

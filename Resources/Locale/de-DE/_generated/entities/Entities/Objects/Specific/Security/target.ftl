@@ -2,7 +2,7 @@ ent-TargetHuman = menschliches Ziel
     .desc = Eine Zielscheibe. Diese stellt einen Menschen dar.
 
 ent-TargetSyndicate = Konsortialziel
-    .desc = Eine Zielscheibe. Diese stellt einen Syndicate-Agenten dar.
+    .desc = Eine Zielscheibe. Diese stellt einen Syndikat-Agenten dar.
 
 ent-TargetClown = Clownziel
     .desc = Eine Zielscheibe. Diese stellt einen Clown dar.

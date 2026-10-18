@@ -4,8 +4,8 @@ ent-MailRobustToolsSpam = Robuster Werkzeugkasten - Sonderangebot!
 ent-MailNanotrasenSpam = Gründe für Nanotrasen!
     .desc = Eine Werbung für Nanotrasen.
 
-ent-MailSyndicateSpam = Gründe, sich für das Syndicate zu entscheiden!
-    .desc = Eine Werbung für das Syndicate.
+ent-MailSyndicateSpam = Gründe, sich für das Syndikat zu entscheiden!
+    .desc = Eine Werbung für das Syndikat.
 
 ent-MailAlternativeDimensionSpam = Schicke Verstärkungen!
     .desc = Eine offizielle Mitteilung aus ... einer alternativen Zeitlinie?

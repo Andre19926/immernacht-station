@@ -11,7 +11,7 @@ ent-SingulothKnightTeslaObjective = Entferne alle Teslas von der Station
     .desc = So es wahr ist und diese Station einen Tesla besitzt, sollst du ihn mit allen Mitteln zerstören und seine Schöpfer für den Affront gegen Lord Singuloth hinrichten!
 
 ent-DarkLordDuelObjective = Ein episches Duell!
-    .desc = Die anderen Syndicate-Agenten nehmen dich nicht ernst. Beweise ihnen das Gegenteil, indem du ein Duell gegen einen würdigen Gegner gewinnst!
+    .desc = Die anderen Syndikat-Agenten nehmen dich nicht ernst. Beweise ihnen das Gegenteil, indem du ein Duell gegen einen würdigen Gegner gewinnst!
 
 ent-ChosenOneKillDarkLordObjective = Töte den Dunklen Lord
     .desc = Nanotrasen hat dich zu dieser Station geschickt, um einen Dunklen Lord zu töten. Lass sie nicht im Stich!

@@ -13,7 +13,7 @@ ent-ClothingUniformJumpsuitNanotrasenRepresentative = Nanotrasen-Repräsentanten
 ent-ClothingUniformJumpsuitNanotrasenRepresentativeFancy = Phantastische Nanotrasen Vertreteranzug
     .desc = Ein schicker schwarzer Anzug, getragen von Beamten, mit mehr goldenen Fäden als gewöhnlich.
 
-ent-ClothingUniformJumpsuitCasualSyndicate = Casual Syndicate-Uniform
+ent-ClothingUniformJumpsuitCasualSyndicate = Casual Syndikat-Uniform
     .desc = Kurze Ärmel, kurzes Temperament.
 
 ent-ClothingUniformJumpsuitCasualCentcom = casual centcom-Uniform

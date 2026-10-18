@@ -49,11 +49,11 @@ ent-ClothingOuterHardsuitSyndie = Blutroter Hardsuit
 ent-ClothingOuterHardsuitSyndieMedic = Blutroter Sanitäter-Hardsuit
     .desc = Ein schwer gepanzerter, agiler und fortschrittlicher Hardsuit, speziell für medizinische Einsätze im Feld entwickelt.
 
-ent-ClothingOuterHardsuitSyndieElite = Syndicate-Elite-Hardsuit
+ent-ClothingOuterHardsuitSyndieElite = Syndikat-Elite-Hardsuit
     .desc = Eine Elite-Version des blutroten Hardsuits mit verbesserter Beweglichkeit und Brandschutz. Eigentum der Gorlex Marauders.
 
-ent-ClothingOuterHardsuitSyndieCommander = Syndicate-Kommandanten-Hardsuit
-    .desc = Eine aufgeblähte Version des blutroten Hardsuits, speziell für den Kommandanten eines Syndicate-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
+ent-ClothingOuterHardsuitSyndieCommander = Syndikat-Kommandanten-Hardsuit
+    .desc = Eine aufgeblähte Version des blutroten Hardsuits, speziell für den Kommandanten eines Syndikat-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
 
 ent-ClothingOuterHardsuitJuggernaut = Cybersun-Juggernaut-Anzug
     .desc = Ein Anzug aus der hochmodernen Forschungsabteilung von Cybersun, hyperresistent ausgelegt.

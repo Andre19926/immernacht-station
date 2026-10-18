@@ -282,7 +282,7 @@ figurines-AI-7 = { law-nutimov-4 }
 
 figurines-footsoldier-1 = Ich bin ein böser Junge. Weniger Jungen jeden Tag, mehr Böses jeden Tag.
 figurines-footsoldier-2 = Wen wirst du wählen? Die oder uns? Uns oder die?
-figurines-footsoldier-3 = Ruhm dem Syndicate!
+figurines-footsoldier-3 = Ruhm dem Syndikat!
 figurines-footsoldier-4 = Nieder mit Nanotrasen!
 figurines-footsoldier-5 = Ich würde lieber sterben, als Nanotrasen beizutreten.
 
@@ -302,7 +302,7 @@ figurines-nukie-5 = Kommandant ...? ... Das ist ein Ballon...
 
 figurines-nukie-commander-1 = GET DAT FUKKEN DISK!
 figurines-nukie-commander-2 = Fuckin' flukies.
-figurines-nukie-commander-3 = Das Syndicate schickt seine Grüße.
+figurines-nukie-commander-3 = Das Syndikat schickt seine Grüße.
 figurines-nukie-commander-4 = Scheitern ist keine Option.
 figurines-nukie-commander-5 = Whoops.
 

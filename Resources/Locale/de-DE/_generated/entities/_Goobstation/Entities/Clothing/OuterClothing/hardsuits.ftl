@@ -11,7 +11,7 @@ ent-ClothingOuterHardsuitCybersunStealth = Cybersun-Stealth-Hardsuit
     .desc = Ein Hardsuit mit photoreaktiver Beschichtung für hinterhältige Operationen; die Abschirmung funktioniert nicht, solange du dich bewegst! Der Helm wird benötigt, um das Stealth-Feld zu beenden.
 
 ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun Dreadnought Anzug
-    .desc = Das Syndicate legt seine Herrlichkeit auf deine Schultern – enttäusche es nicht.
+    .desc = Das Syndikat legt seine Herrlichkeit auf deine Schultern – enttäusche es nicht.
 
 ent-ClothingOuterVoidsuitSecurity = Sicherheits-Hardsuit
     .desc = Ein leichter Hardsuit mit eingebautem Plattenträger, der mäßigen Schutz bietet und dabei beweglich bleibt.

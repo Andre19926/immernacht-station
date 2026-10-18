@@ -66,8 +66,8 @@ delivery-spam-2 =   Gründe, sich für Nanotrasen zu entscheiden!
                         {"[bold]NUMMER DREI[/bold]"}
                         IHR LOGO IST SCHRECKLICH! SIE HALTEN SICH MIT IHREM LOGO FÜR COOL! OOH, SCHAU MICH AN, ICH BIN SO COOL! OOH, EINE SCHLANGE, DIE AUCH EIN S IST! WIE KREATIV! MEIN DREIJÄHRIGER SOHN KÖNNTE EIN BESSERES LOGO ZEICHNEN!
 
-delivery-spam-3 =   Gründe, sich für das Syndicate zu entscheiden!
-    .desc =         Eine Werbung für das Syndicate.
+delivery-spam-3 =   Gründe, sich für das Syndikat zu entscheiden!
+    .desc =         Eine Werbung für das Syndikat.
     .content =      {-delivery-header-syndicate}
 
                         {"[head=2]DIE DREI BESTEN GRÜNDE, WARUM NANOTRASEN INKOMPETENT IST[/head]"}

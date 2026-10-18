@@ -28,25 +28,25 @@ ent-CentcommStypticStimulatorImplanter = CentComm-Blutstiller-Implantator
 ent-PacifismImplanter = Pazifismus-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
-ent-SmokeImplanter = Syndicate-Rauch-Implantator
+ent-SmokeImplanter = Syndikat-Rauch-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-JaunterImplanter = Syndicate-Jaunter-Implantator
+ent-JaunterImplanter = Syndikat-Jaunter-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-NutrimentImplanter = Syndicate-Nährstoff-Implantator
+ent-NutrimentImplanter = Syndikat-Nährstoff-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-StypticStimulatorImplanter = Syndicate-Blutstiller-Implantator
+ent-StypticStimulatorImplanter = Syndikat-Blutstiller-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-KravMagaImplanter = Syndicate-Krav-Maga-Implantator
+ent-KravMagaImplanter = Syndikat-Krav-Maga-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-ClumsyImplanter = Syndicate-Tollpatsch-Implantator
+ent-ClumsyImplanter = Syndikat-Tollpatsch-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-BinaryImplanter = Syndicate-Binär-Implantator
+ent-BinaryImplanter = Syndikat-Binär-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-VaporizeImplanter = CentComm-Verdampfungs-Implantator
@@ -73,7 +73,7 @@ ent-AntagImplanterSpaceNinja = Antag-Implantator
 ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
     .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
 
-ent-RedspaceLifelineImplanter = Syndicate-Redspace-Lebensader-Implantator
+ent-RedspaceLifelineImplanter = Syndikat-Redspace-Lebensader-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-TelepathyImplanter = Telepathie-Implantator

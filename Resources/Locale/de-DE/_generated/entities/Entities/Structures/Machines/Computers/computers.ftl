@@ -10,8 +10,8 @@ ent-ComputerEmergencyShuttle = Notfall-Shuttle-Konsole
 ent-ComputerShuttle = Shuttlekonsole
     .desc = Dient zur Steuerung eines Shuttles.
 
-ent-ComputerShuttleSyndie = Syndicate-Shuttle-Konsole
-    .desc = Wird verwendet, um ein Syndicate-Agentenhuttle zu steuern.
+ent-ComputerShuttleSyndie = Syndikat-Shuttle-Konsole
+    .desc = Wird verwendet, um ein Syndikat-Agentenhuttle zu steuern.
 
 ent-ComputerShuttleCargo = Frachtshuttle-Konsole
     .desc = Wird verwendet, um das Frachtshuttle zu steuern.
@@ -52,7 +52,7 @@ ent-computerBodyScanner = Bodyscanner-Computer
 ent-ComputerComms = Kommunikationscomputer
     .desc = Ein Computer, um stationsweite Durchsagen über die Tastatur zu machen, die passende Alarmstufe einzustellen und das Notfallshuttle zu rufen.
 
-ent-SyndicateComputerComms = Syndicate-Kommunikationscomputer
+ent-SyndicateComputerComms = Syndikat-Kommunikationscomputer
     .desc = Ein Computer, der sich aus der Ferne in die Kommunikationssysteme der Station hacken kann. Wenn du ihn für eine Durchsage nutzt, wird die Station auf deine Anwesenheit aufmerksam.
 
 ent-WizardComputerComms = Zauberer-Kommunikationscomputer
@@ -130,7 +130,7 @@ ent-StationAiUploadComputer = KI-Upload-Konsole
 ent-StationAiFixerComputer = KI-Wiederherstellungskonsole
     .desc = Dient zur Reparatur beschädigter künstlicher Intelligenzen.
 
-ent-ComputerNukieDelivery = Syndicate-Lieferungscomputer
+ent-ComputerNukieDelivery = Syndikat-Lieferungscomputer
 
 ent-ComputerSupermatter = Supermaterie-Monitorkonsole
     .desc = Dient zur Überwachung des Zustands von Supermaterie-Kristallen.

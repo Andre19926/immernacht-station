@@ -73,8 +73,8 @@ ent-BedsheetBrigmedic = Brigmeds Bettlaken
 ent-BedsheetRed = rotes Bettzeug
     .desc = Ein überraschend weiches Bettlaken.
 
-ent-BedsheetSyndie = Syndicate Bettlaken
-    .desc = Sie trägt ein Syndicate-Emblem und hat eine Aura des Bösen.
+ent-BedsheetSyndie = Syndikat-Bettlaken
+    .desc = Sie trägt ein Syndikat-Emblem und hat eine Aura des Bösen.
 
 ent-BedsheetUSA = USA Bettlaken
     .desc = Ein überraschend weiches Bettlaken.

@@ -114,9 +114,9 @@ ent-NTVisitorSpawner20 = NanoTrasen-Besucher-Spawner
 
 ent-NTVisitorSpawner10 = NanoTrasen-Besucher-Spawner
 
-ent-SyndieSoldierTeamLeaderSpawner = Syndicate-Teamleiter-Spawner
+ent-SyndieSoldierTeamLeaderSpawner = Syndikat-Teamleiter-Spawner
 
-ent-SyndieSoldierSpawner = Syndicate-Soldaten-Spawner
+ent-SyndieSoldierSpawner = Syndikat-Soldaten-Spawner
 
 ent-SyndieVisitorSpawner = Syndie-Katastrophenopfer-Spawner
 

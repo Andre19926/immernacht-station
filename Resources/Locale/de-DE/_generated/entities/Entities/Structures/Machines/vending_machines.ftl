@@ -179,7 +179,7 @@ ent-VendingMachineSciDrobe = SciDrobe
     .desc = Ein einfacher Automat, der gut geschnittene Wissenschaftskleidung ausgibt. Unterstützt von den Weltraumkubanern.
 
 ent-VendingMachineSyndieDrobe = SyndieDrobe
-    .desc = Eine vom Syndicate codierte Garderobenmaschine mit Elite-Outfits für verschiedene Operationen.
+    .desc = Eine vom Syndikat codierte Garderobenmaschine mit Elite-Outfits für verschiedene Operationen.
 
 ent-VendingMachineRoboDrobe = RoboDrobe
     .desc = Ein Automat, der Kleidung ausgibt, die nur Robotikern bekannt ist.

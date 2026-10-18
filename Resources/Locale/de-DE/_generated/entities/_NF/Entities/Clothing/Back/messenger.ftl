@@ -55,5 +55,5 @@ ent-ClothingBackpackMessengerBrigmedic = Gefängnissanitäter-Kuriertasche
 ent-ClothingBackpackMessengerHolding = Bluespace-Kuriertasche
     .desc = Eine Umhängetasche, die sich in eine lokalisierte Bluespace-Tasche öffnet.
 
-ent-ClothingBackpackMessengerSyndicate = Syndicate-Kuriertasche
+ent-ClothingBackpackMessengerSyndicate = Syndikat-Kuriertasche
     .desc = Eine robuste Tasche für zusätzliche Patronen und Sprengstoffe.

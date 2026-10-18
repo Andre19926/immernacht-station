@@ -9,4 +9,4 @@ station-beacon-ruin-hunter-shelter = Jägersignal
 station-beacon-ruin-small-outpost = Kleiner Außenposten
 station-beacon-ruin-rouge-ai = Unbekanntes Labor
 station-beacon-ruin-snow-biodome = Schnee-Biodom
-station-beacon-ruin-syndicate = Syndicate-Ignal
+station-beacon-ruin-syndicate = Syndikat-Ignal

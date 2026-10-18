@@ -70,7 +70,7 @@ ent-CrateContrabandStorageSecure = Schmuggellager
 ent-CrateCommandSecure = Führungskiste
     .desc = Ein großer Container für Gegenstände.
 
-ent-CrateSyndicateSecure = sichere Syndicate-Kiste
+ent-CrateSyndicateSecure = sichere Syndikat-Kiste
     .desc = Eine dunkle Stahlkiste mit roten Bändern und einem auf der Vorderseite geprägten Buchstaben S.
 
 ent-CrateLivestock = Tierkasten
@@ -109,7 +109,7 @@ ent-CrateWoodenGrave = Grab
 ent-CrateStoneGrave = Grab
     .desc = Jemand ist hier gestorben ...
 
-ent-CrateSyndicate = Syndicate-Kiste
+ent-CrateSyndicate = Syndikat-Kiste
     .desc = Eine dunkle Stahlkiste mit roten Bändern und einem auf der Vorderseite geprägten Buchstaben S.
 
 ent-CrateTrashCart = Müllwagen

@@ -19,13 +19,13 @@ ent-BorgChassisMedical = Medizinischer Cyborg
 ent-BorgChassisService = Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.
 
-ent-BorgChassisSyndicateAssault = Syndicate-Angriffs-Cyborg
+ent-BorgChassisSyndicateAssault = Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module.
 
-ent-BorgChassisSyndicateMedical = Syndicate-Sanitäter-Cyborg
+ent-BorgChassisSyndicateMedical = Syndikat-Sanitäter-Cyborg
     .desc = Ein Kampfsanitäter-Cyborg. Hat begrenztes offensives Potenzial, macht das aber mit seinen Unterstützungsfähigkeiten mehr als wett.
 
-ent-BorgChassisSyndicateSaboteur = Syndicate-Saboteur-Cyborg
+ent-BorgChassisSyndicateSaboteur = Syndikat-Saboteur-Cyborg
     .desc = Ein stromlinienförmiger Ingenieur-Cyborg mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn als Nanotrasen-Cyborg durchgehen.
 
 ent-BorgChassisDerelict = Verfallener Cyborg
@@ -43,5 +43,5 @@ ent-MedicalBorgChassisDerelict = Verfallener medizinischer Cyborg
 ent-MiningBorgChassisDerelict = Verfallener Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hier hat die falsche Seite eines Gabonit-Brockens gesehen.
 
-ent-SyndicateAssaultBorgChassisDerelict = Verfallener Syndicate-Angriffs-Cyborg
+ent-SyndicateAssaultBorgChassisDerelict = Verfallener Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist eher rostorange als blutrot.

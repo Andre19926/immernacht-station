@@ -22,11 +22,11 @@ ent-ClothingNeckScarfStripedOrange = Oranger Streifenschal
 ent-ClothingNeckScarfStripedPurple = Violetter Streifenschal
     .desc = Ein stilvoll gestreifter lila Schal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die einer kalten Brise am Hals einfach nicht gewachsen sind.
 
-ent-ClothingNeckScarfStripedSyndieGreen = Grüner Syndicate-Streifenschal
-    .desc = Ein stilvoll gestreifter grüner Syndicate-Agentenchal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die Lust haben, etwas zu stehlen.
+ent-ClothingNeckScarfStripedSyndieGreen = Grüner Syndikat-Streifenschal
+    .desc = Ein stilvoll gestreifter grüner Syndikat-Agentenchal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die Lust haben, etwas zu stehlen.
 
-ent-ClothingNeckScarfStripedSyndieRed = Roter Syndicate-Streifenschal
-    .desc = Ein stilvoll gestreifter roter Syndicate-Agentenchal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die Lust haben, etwas zu stehlen.
+ent-ClothingNeckScarfStripedSyndieRed = Roter Syndikat-Streifenschal
+    .desc = Ein stilvoll gestreifter roter Syndikat-Agentenchal. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die Lust haben, etwas zu stehlen.
 
 ent-ClothingNeckScarfStripedCentcom = Gestreifter CentComm-Schal
     .desc = Ein stilvoll gestreifter Schal in CentComm-Farben. Das perfekte Winteraccessoire für alle mit ausgeprägtem Modegespür und alle, die Papierkram in der Kälte erledigen müssen.

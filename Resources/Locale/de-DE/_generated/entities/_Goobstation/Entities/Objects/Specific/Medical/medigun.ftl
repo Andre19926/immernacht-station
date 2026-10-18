@@ -4,8 +4,8 @@ ent-MedicalBeamGun = Medizinische Strahlpistole
 ent-MedicalBeamGunBattery = Medizinische Strahlpistole
     .desc = Liefert flüchtige medizinische Naniten in einem gebündelten Strahl. Der Über-Modus heilt den Patienten deutlich stärker, lässt ihn aber ersticken. Kreuze nicht die Strahlen!
 
-ent-MedicalBeamGunSyndicate = Syndicate medizinische Strahlpistole
+ent-MedicalBeamGunSyndicate = Medizinische Syndikat-Strahlpistole
     .desc = Liefert flüchtige medizinische Naniten in einem gebündelten Strahl. Der Über-Modus heilt den Patienten deutlich stärker, lässt ihn aber ersticken. Kreuze nicht die Strahlen!
 
-ent-MedicalBeamGunSyndicateBattery = Syndicate medizinische Strahlpistole
+ent-MedicalBeamGunSyndicateBattery = Medizinische Syndikat-Strahlpistole
     .desc = Liefert flüchtige medizinische Naniten in einem gebündelten Strahl. Der Über-Modus heilt den Patienten deutlich stärker, lässt ihn aber ersticken. Kreuze nicht die Strahlen!

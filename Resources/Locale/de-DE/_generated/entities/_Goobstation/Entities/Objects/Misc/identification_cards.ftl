@@ -41,7 +41,7 @@ ent-GmanIDCard = Mysteriöse ID-Karte
     .desc = Die Karte, die ursprünglich Zugriff auf alles in diesem Universum hatte.
 
 ent-HighCommandIDCard = High-Command-ID-Karte
-    .desc = Eine besonders extravagante Syndicate-ID-Karte. Mit eingebautem Access Breaker, um fast jede Tür zu öffnen.
+    .desc = Eine besonders extravagante Syndikat-ID-Karte. Mit eingebautem Access Breaker, um fast jede Tür zu öffnen.
 
 ent-SecurityClownIDCard = Sicherheitsclown-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.

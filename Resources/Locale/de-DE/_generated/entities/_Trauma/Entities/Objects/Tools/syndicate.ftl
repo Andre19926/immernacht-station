@@ -1,4 +1,4 @@
-ent-AccessConfiguratorSyndicate = Syndicate Access Konfigurator
+ent-AccessConfiguratorSyndicate = Syndikat-Access Konfigurator
     .desc = Ein Cybersun-Zugangskonfigurator, kompatibel mit allen Nicht-NanoTrasen-IDs. Jetzt mit Schnellwechsel-Funktion!
 
 ent-NetworkConfiguratorSignallerAdvanced = fortgeschrittene Fernmelder

@@ -20,7 +20,7 @@ ent-StorageImplanter = Speicher-Implantator
 ent-FreedomImplanter = Freiheits-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
-ent-RadioImplanter = Syndicate-Funk-Implantator
+ent-RadioImplanter = Syndikat-Funk-Implantator
     .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
 
 ent-UplinkImplanter = Uplink-Implantator

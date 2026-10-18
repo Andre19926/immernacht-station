@@ -5,9 +5,9 @@ ent-MobSalvager = Bergungsarbeiter
 
 ent-MobSpirate = Spirat
 
-ent-MobSyndicateFootsoldier = Syndicate Footsoldier
+ent-MobSyndicateFootsoldier = Syndikat-Footsoldier
 
-ent-MobSyndicateFootsoldierPilot = Syndicate-Shuttlepilot
+ent-MobSyndicateFootsoldierPilot = Syndikat-Shuttlepilot
 
 ent-SalvageHumanCorpse = nicht identifiziert Leiche
     .desc = Ich glaube, sie sind tot.

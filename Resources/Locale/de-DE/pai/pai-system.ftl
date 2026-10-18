@@ -18,8 +18,8 @@ pai-system-searching = Suche nach einer pAI ...
 pai-system-role-name = Personal KI
 pai-system-role-description = Sei jemandes elektronischer Kumpel!
                               (Erinnerungen *nicht* enthalten.)
-pai-system-role-name-syndicate = Syndicate Personal KI
-pai-system-role-description-syndicate = Sei jemandes Syndicate-Freund!
+pai-system-role-name-syndicate = Syndikat Personal KI
+pai-system-role-description-syndicate = Sei jemandes Syndikat-Freund!
                                         (Erinnerungen *nicht* enthalten.)
 pai-system-role-name-potato = Kartoffel Künstliche Intelligenz
 pai-system-role-description-potato = Es ist ein Spielzeug für Kinder. Und jetzt lebst du darin.

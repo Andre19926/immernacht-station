@@ -36,8 +36,8 @@ contraband-examine-text-Major =
 
 contraband-examine-text-GrandTheft =
     { $type ->
-        *[item] [color=red]Dieser Gegenstand ist ein höchst wertvolles Ziel für Syndicate-Agenten![/color]
-        [reagent] [color=red]Dieses Reagenz ist ein höchst wertvolles Ziel für Syndicate-Agenten![/color]
+        *[item] [color=red]Dieser Gegenstand ist ein höchst wertvolles Ziel für Syndikat-Agenten![/color]
+        [reagent] [color=red]Dieses Reagenz ist ein höchst wertvolles Ziel für Syndikat-Agenten![/color]
     }
 
 contraband-examine-text-Highly-Illegal =
@@ -48,8 +48,8 @@ contraband-examine-text-Highly-Illegal =
 
 contraband-examine-text-Syndicate =
     { $type ->
-        *[item] [color=crimson]Dieser Gegenstand ist hochgradig illegale Syndicate-Schmuggelware![/color]
-        [reagent] [color=crimson]Dieses Reagenz ist hochgradig illegale Syndicate-Schmuggelware![/color]
+        *[item] [color=crimson]Dieser Gegenstand ist hochgradig illegale Syndikat-Schmuggelware![/color]
+        [reagent] [color=crimson]Dieses Reagenz ist hochgradig illegale Syndikat-Schmuggelware![/color]
     }
 
 contraband-examine-text-Magical =

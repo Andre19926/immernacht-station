@@ -4,8 +4,8 @@ ent-ExGrenade = Sprenggranaten
 ent-GrenadeFlashBang = Flashbang
     .desc = Eeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
-ent-SyndieMiniBomb = Syndicate Minibombe
-    .desc = Ein von Syndicate-Technikern hergestellter Sprengstoff, mit dem Zerstörung verbreitet und Chaos gestiftet wird.
+ent-SyndieMiniBomb = Syndikat-Minibombe
+    .desc = Ein von Syndikat-Technikern hergestellter Sprengstoff, mit dem Zerstörung verbreitet und Chaos gestiftet wird.
 
 ent-SelfDestructSeq = Selbstzerstörung
     .desc = Geh zu deinen eigenen Bedingungen!
@@ -31,5 +31,5 @@ ent-HolyHandGrenade = Heilige Handgranate
 ent-GrenadeDummy = Trickgranaten
     .desc = Die ganze Granate ohne den Knall.
 
-ent-SyndieTrickyBomb = Syndicate trickybomb
-    .desc = Ein von Syndicate-Technikern hergestellter Sprengstoff, der sich hervorragend als Ablenkung eignet.
+ent-SyndieTrickyBomb = Syndikat-Trickybomb
+    .desc = Ein von Syndikat-Technikern hergestellter Sprengstoff, der sich hervorragend als Ablenkung eignet.

@@ -76,7 +76,7 @@ ent-MindRoleTraitor = Rolle des Verräters
 ent-MindRoleTraitorSleeper = Rolle des Schläferagenten
     .desc = Mind-Rollen-Entität
 
-ent-MindRoleTraitorReinforcement = Rolle der Syndicate-Verstärkung
+ent-MindRoleTraitorReinforcement = Rolle der Syndikat-Verstärkung
     .desc = Mind-Rollen-Entität
 
 ent-MindRoleMothershipCore = Mutterschiff Kernrolle

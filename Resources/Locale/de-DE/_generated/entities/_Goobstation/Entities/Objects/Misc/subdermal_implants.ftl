@@ -10,7 +10,7 @@ ent-PacifismImplant = Pazifismus-Implantat
 ent-SmokeImplant = Rauchimplantat
     .desc = Dieses Implantat setzt bei Aktivierung Rauchwolken frei.
 
-ent-SyndicateJaunterImplant = Syndicate Jaunter Implantat
+ent-SyndicateJaunterImplant = Syndikat-Jaunter Implantat
     .desc = Dieses Implantat ermöglicht es dem Benutzer, mit einer Zielperson die Position zu tauschen. Lädt sich mit der Zeit wieder auf.
 
 ent-KravMagaImplant = Krav-Maga-Implantat
@@ -65,4 +65,4 @@ ent-XenoCompatibilityImplant = Xeno-Kompatibilität Implantat
     .desc = Ermöglicht es einem Subjekt, Xeno-Organe transplantiert zu bekommen.
 
 ent-RedspaceLifelineImplant = Redspace Lifeline Implantat
-    .desc = Teleportiert bei Aktivierung den Körper des Trägers zum Syndicate High Command. Du wirst nicht zurückkehren können.
+    .desc = Teleportiert bei Aktivierung den Körper des Trägers zum Oberkommando des Syndikats. Du wirst nicht zurückkehren können.

@@ -37,11 +37,11 @@ ent-DiplomatPDA = PDA des Diplomaten
 ent-InspectorPDA = PDA des Auditors
     .desc = Der Teufel steckt im Detail.
 
-ent-SyndiPDANukie = Syndicate-PDA
+ent-SyndiPDANukie = Syndikat-PDA
     .desc = Ok, Zeit, ein produktives Mitglied von ... oh cool, ich bin ein böser Kerl, Zeit, Leute zu töten.
 
 ent-HighCommandPDA = Hochkommandant-PDA
-    .desc = Ein gewöhnlicher Syndicate-PDA, geschmückt mit vergoldeten Symbolen. Sein Besitzer ist eindeutig höheren Ranges.
+    .desc = Ein gewöhnlicher Syndikat-PDA, geschmückt mit vergoldeten Symbolen. Sein Besitzer ist eindeutig höheren Ranges.
 
 ent-VirologistPDA = Virologie-PDA
     .desc = Du bist dir nicht sicher, ob das Berühren sicher ist.

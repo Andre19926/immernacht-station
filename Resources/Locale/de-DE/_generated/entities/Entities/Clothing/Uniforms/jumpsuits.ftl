@@ -184,13 +184,13 @@ ent-ClothingUniformJumpsuitLawyerPurple = Purpuranzug
 ent-ClothingUniformJumpsuitLawyerGood = Anwaltsuniform (gut)
     .desc = Ein kitschiger Anzug, perfekt für einen kriminellen Anwalt!
 
-ent-ClothingUniformJumpsuitPyjamaSyndicateBlack = Schwarzes Syndicate pyjamas
+ent-ClothingUniformJumpsuitPyjamaSyndicateBlack = Schwarzes Syndikat-Pyjamas
     .desc = Für diese langen Nächte in der Dauerhaft.
 
-ent-ClothingUniformJumpsuitPyjamaSyndicatePink = Rosa Syndicate Pyjamas
+ent-ClothingUniformJumpsuitPyjamaSyndicatePink = Rosa Syndikat-Pyjamas
     .desc = Für diese langen Nächte in der Dauerhaft.
 
-ent-ClothingUniformJumpsuitPyjamaSyndicateRed = Roter Syndicate-Pyjama
+ent-ClothingUniformJumpsuitPyjamaSyndicateRed = Roter Syndikat-Pyjama
     .desc = Für diese langen Nächte in der Dauerhaft.
 
 ent-ClothingUniformJumpsuitNanotrasen = Nanotrasen-Uniform
@@ -206,7 +206,7 @@ ent-ClothingUniformJumpsuitHosFormal = Formelle Sicherheitschefsuniform
     .desc = Ein Anzug für besondere Anlässe.
 
 ent-ClothingUniformJumpsuitOperative = Agentenuniform
-    .desc = Uniform für Elite-Syndicate-Agenten bei taktischen Operationen im Weltraum.
+    .desc = Uniform für Elite-Syndikat-Agenten bei taktischen Operationen im Weltraum.
 
 ent-ClothingUniformJumpsuitTacticool = Tacticooluniform
     .desc = Uniform für unterdurchschnittliche LARPer-Agenten, die im Weltraum taktisch Isolierhandschuhe stehlen.
@@ -286,8 +286,8 @@ ent-ClothingUniformJumpsuitHawaiRed = Rotes Hawaiihemd
 ent-ClothingUniformJumpsuitHawaiYellow = Gelbes Hawaiihemd
     .desc = Gelb wie eine helle Sonne.
 
-ent-ClothingUniformJumpsuitSyndieFormal = Formelle Syndicate-Uniform
-    .desc = Die Uniform des Syndicate-Agenten ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
+ent-ClothingUniformJumpsuitSyndieFormal = Formelle Syndikat-Uniform
+    .desc = Die Uniform des Syndikat-Agenten ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
 
 ent-ClothingUniformJumpsuitFlannel = Flanelluniform
     .desc = Riecht, als hätte jemand gegrillt.

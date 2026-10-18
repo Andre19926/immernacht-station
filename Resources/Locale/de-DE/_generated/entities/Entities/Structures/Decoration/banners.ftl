@@ -13,8 +13,8 @@ ent-BannerMedical = Medizinisches Banner
 ent-BannerRevolution = Revolutionsbanner
     .desc = Ein Banner mit Revolutionsmotiv. Viva!
 
-ent-BannerSyndicate = Syndicate-Banner
-    .desc = Ein Banner, bei dem du laut Syndicate Hass auf NT empfinden sollst.
+ent-BannerSyndicate = Syndikat-Banner
+    .desc = Ein Banner, bei dem du laut Syndikat Hass auf NT empfinden sollst.
 
 ent-BannerScience = Wissenschaftsbanner
     .desc = Ein Banner in den Farben der Wissenschaftsabteilung. Wo Wissenschaft keine Grenzen kennt und Vorschriften selten befolgt werden.

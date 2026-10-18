@@ -11,7 +11,7 @@ ent-CigPackBlack = Nomads (Schachtel)
     .desc = Nomads sind extra stark, wenn dein Leben extra hart ist.
 
 ent-CigPackSyndicate = Interdyne Herbals (Schachtel)
-    .desc = Elite-Zigaretten für Elite-Syndicate-Agenten. Mit Medizin versetzt, falls du mehr tun musst, als deine Nerven zu beruhigen.
+    .desc = Elite-Zigaretten für Elite-Syndikat-Agenten. Mit Medizin versetzt, falls du mehr tun musst, als deine Nerven zu beruhigen.
 
 ent-CigPackMixed = Dans getränkte Raucher
     .desc = Dan hat mit NT-Chemie zusammengearbeitet, um überschüssige Chemikalien zu entsorgen. VIEL SPASS.

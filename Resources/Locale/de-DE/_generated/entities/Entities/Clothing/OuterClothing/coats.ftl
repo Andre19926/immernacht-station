@@ -87,11 +87,11 @@ ent-ClothingOuterDogi = Samurai-Dogi
 ent-ClothingOuterCoatParamedicWB = Sanitäter Windjacke
     .desc = Die treue Windjacke eines Sanitäters, gegen den ganzen Weltraumwind.
 
-ent-ClothingOuterCoatSyndieCap = Syndicate-Mantel
-    .desc = Der Mantel des Syndicate-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern.
+ent-ClothingOuterCoatSyndieCap = Syndikat-Mantel
+    .desc = Der Mantel des Syndikat-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern.
 
-ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndicate-Kapitäns
-    .desc = Der gepanzerte Mantel des Syndicate-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern.
+ent-ClothingOuterCoatSyndieCapArmored = Panzermantel des Syndikat-Kapitäns
+    .desc = Der gepanzerte Mantel des Syndikat-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern.
 
 ent-ClothingOuterCoatAMG = Gepanzertes medizinisches Kleid
     .desc = Die Version des medizinischen Kittels mit Elementen einer kugelsicheren Weste sieht seltsam aus, aber dein Herz ist geschützt.

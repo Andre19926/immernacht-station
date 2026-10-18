@@ -44,6 +44,6 @@ comms-console-announcement-unknown-sender = Unbekannt
 # Comms console variant titles
 comms-console-announcement-title-station = Kommunikationskonsole
 comms-console-announcement-title-centcom = CentComm
-comms-console-announcement-title-nukie = Syndicate-Atomagent
+comms-console-announcement-title-nukie = Syndikat-Atomagent
 comms-console-announcement-title-station-ai = Stations-KI
 comms-console-announcement-title-wizard = Zauberer

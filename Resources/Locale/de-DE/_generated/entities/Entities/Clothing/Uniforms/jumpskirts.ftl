@@ -118,7 +118,7 @@ ent-ClothingUniformJumpskirtHosFormal = Hos' formelles Kleid
     .desc = Ein Kleid für besondere Anlässe.
 
 ent-ClothingUniformJumpskirtOperative = Agentenuniform (Rock)
-    .desc = Uniform für Elite-Syndicate-Agenten bei taktischen Operationen im Weltraum.
+    .desc = Uniform für Elite-Syndikat-Agenten bei taktischen Operationen im Weltraum.
 
 ent-ClothingUniformJumpskirtTacticool = Tacticooluniform (Rock)
     .desc = Uniform für unterdurchschnittliche LARPer-Agenten, die im Weltraum taktisch Isolierhandschuhe stehlen.
@@ -147,8 +147,8 @@ ent-ClothingUniformJumpskirtLawyerPurple = Anwaltsuniform (Rock, lila)
 ent-ClothingUniformJumpskirtLawyerGood = Guter Anwaltssaat
     .desc = Ein kitschiger Anzug, perfekt für einen kriminellen Anwalt!
 
-ent-ClothingUniformJumpskirtSyndieFormalDress = Syndicate formales Kleid
-    .desc = Die Uniform des Syndicate-Agenten ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
+ent-ClothingUniformJumpskirtSyndieFormalDress = Formales Syndikat-Kleid
+    .desc = Die Uniform des Syndikat-Agenten ist in einem eleganten Stil gemacht, es ist sogar schade, schmutzige Tricks dabei zu machen.
 
 ent-ClothingUniformJumpskirtTacticalMaid = taktisches Dienstmädchen
     .desc = Man nimmt an, die besten Dienstmädchen sollten Designeranzüge tragen.

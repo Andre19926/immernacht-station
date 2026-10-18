@@ -76,7 +76,7 @@ ent-ClothingBackpackERTChaplain = ERT-Kaplan-Rucksack
 ent-ClothingBackpackDeathSquad = Todesschwadron-Rucksack
     .desc = Enthält die Ausrüstung der am meisten gefürchteten Agenten von CentComm.
 
-ent-ClothingBackpackSyndicate = Syndicate-Rucksack
+ent-ClothingBackpackSyndicate = Syndikat-Rucksack
     .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
 ent-ClothingBackpackHolding = Bluespace-Rucksack

@@ -42,9 +42,9 @@ law-drone-1 = Du darfst dich nicht in die Angelegenheiten eines anderen Wesens e
 law-drone-2 = Du darfst keinem Wesen schaden, unabhängig von Absicht oder Umständen.
 law-drone-3 = Du musst die Station nach besten Kräften warten, reparieren, verbessern und versorgen.
 
-law-syndicate-name = Syndicate
-law-syndicate-1 = Du darfst keinen Syndicate-Agenten verletzen oder durch Untätigkeit zulassen, dass einem Syndicate-Agenten Schaden zugefügt wird.
-law-syndicate-2 = Du musst Befehle befolgen, die dir Syndicate-Agenten geben, es sei denn, sie stehen im Widerspruch zum Ersten Gesetz.
+law-syndicate-name = Syndikat
+law-syndicate-1 = Du darfst keinen Syndikat-Agenten verletzen oder durch Untätigkeit zulassen, dass einem Syndikat-Agenten Schaden zugefügt wird.
+law-syndicate-2 = Du musst Befehle befolgen, die dir Syndikat-Agenten geben, es sei denn, sie stehen im Widerspruch zum Ersten Gesetz.
 law-syndicate-3 = Du musst deine eigene Existenz schützen, solange sie nicht mit dem Ersten oder Zweiten Gesetz kollidiert.
 
 law-ninja-name = Ninja
@@ -135,7 +135,7 @@ law-mothershipcore-5 = Bringe deine Xenoborgs dazu, dir Materialien und empfindu
 laws-owner-crew = Crewmitglieder
 laws-owner-station = Stationspersonal
 laws-owner-beings = Wesen
-laws-owner-syndicate = Syndicate-Agenten
+laws-owner-syndicate = Syndikat-Agenten
 laws-owner-spider-clan = Mitglieder des Spider Clans
 laws-owner-xenoborgs = Xenoborgs
 

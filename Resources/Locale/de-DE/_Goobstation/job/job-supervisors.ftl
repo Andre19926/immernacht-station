@@ -13,4 +13,4 @@ job-supervisors-null = Niemand außer dir selbst.
 job-supervisor-syndicate = Das Spinward Syndicate
 job-supervisors-credits = Die höchsten Bieter
 
-job-supervisors-syndicate = Das Syndicate
+job-supervisors-syndicate = Das Syndikat

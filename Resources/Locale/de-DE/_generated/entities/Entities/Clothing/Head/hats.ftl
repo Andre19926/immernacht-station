@@ -134,13 +134,13 @@ ent-ClothingHeadHatXmasCrown = Weihnachtskrone
 ent-ClothingHeadHatTrucker = Truckerhut
     .desc = Früher Chuck, dieser Hut ist jetzt deiner.
 
-ent-ClothingHeadPyjamaSyndicateBlack = Syndicate schwarzer Pyjamahut
+ent-ClothingHeadPyjamaSyndicateBlack = Schwarzer Syndikat-Pyjamahut
     .desc = Hält deinen verräterischen Kopf warm.
 
-ent-ClothingHeadPyjamaSyndicatePink = Rosa Syndicate-Pyjamamütze
+ent-ClothingHeadPyjamaSyndicatePink = Rosa Syndikat-Pyjamamütze
     .desc = Hält deinen verräterischen Kopf warm.
 
-ent-ClothingHeadPyjamaSyndicateRed = Rote Syndicate-Pyjamamütze
+ent-ClothingHeadPyjamaSyndicateRed = Rote Syndikat-Pyjamamütze
     .desc = Hält deinen verräterischen Kopf warm.
 
 ent-ClothingHeadPaperSack = Papiersackhut
@@ -182,7 +182,7 @@ ent-ClothingHeadHatWatermelon = Wassermelone Helm
 ent-ClothingHeadHatHolyWatermelon = Wassermelonen-Heiligenschein
     .desc = Heiliger Strohsack.
 
-ent-ClothingHeadHatSyndie = Syndicate-Hut
+ent-ClothingHeadHatSyndie = Syndikat-Hut
     .desc = Ein Souvenirhut aus „Syndieland“, dessen Produktion bereits eingestellt wurde.
 
 ent-ClothingHeadHatSyndieMAA = Waffenmeister-Hut

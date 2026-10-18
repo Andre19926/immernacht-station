@@ -1,7 +1,7 @@
 ent-VehicleSecway = Secway
     .desc = Die Zukunft des Transports. Populär gemacht von St. James, dem Schutzpatron der Sicherheitsbeamten und Forenmoderatoren.
 
-ent-VehicleSyndicateSegway = Syndicate Segway
+ent-VehicleSyndicateSegway = Syndikat-Segway
     .desc = Sei ein Feind des Konzerns – mit Stil.
 
 ent-VehicleATV = ATV

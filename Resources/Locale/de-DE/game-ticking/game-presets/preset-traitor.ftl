@@ -25,7 +25,7 @@
 traitor-round-end-codewords = Die Codewörter waren: [color=White]{$codewords}[/color]
 traitor-round-end-agent-name = ein Verräter
 
-objective-issuer-syndicate = [color=crimson]Das Syndicate[/color]
+objective-issuer-syndicate = [color=crimson]Das Syndikat[/color]
 objective-issuer-unknown = Unbekannt
 
 # Shown at the end of a round of Traitor
@@ -46,7 +46,7 @@ traitor-death-match-end-round-description-entry = PDA von {$originalName}, mit {
 
 # TraitorRole
 traitor-role-greeting = 
-    Du bist ein Agent, entsandt vom [color = darkred]Syndicate[/color] im Namen von {$corporation}.
+    Du bist ein Agent, entsandt vom [color = darkred]Syndikat[/color] im Namen von {$corporation}.
     Deine Ziele und Codewörter stehen im Charaktermenü.
     Kaufe mit deinem Uplink die Werkzeuge, die du für diese Mission brauchst.
     Tod für Nanotrasen!

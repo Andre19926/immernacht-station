@@ -46,13 +46,13 @@ ent-ClothingBackpackDuffelCargo = Fracht-Seesack
 ent-ClothingBackpackDuffelSalvage = Bergungsseesack
     .desc = Eine große Seesack für extra exotische Schätze.
 
-ent-ClothingBackpackDuffelSyndicate = Syndicate-Seesack
+ent-ClothingBackpackDuffelSyndicate = Syndikat-Seesack
     .desc = Ein großer Seesack zur Aufnahme verschiedener Verrätergüter.
 
-ent-ClothingBackpackDuffelSyndicateAmmo = Syndicate-Seesack
+ent-ClothingBackpackDuffelSyndicateAmmo = Syndikat-Seesack
     .desc = Ein großer Seesack zur Aufnahme verschiedener Verrätergüter.
 
-ent-ClothingBackpackDuffelSyndicateMedical = Syndicate-Seesack
+ent-ClothingBackpackDuffelSyndicateMedical = Syndikat-Seesack
     .desc = Ein großer Seesack zur Aufnahme verschiedener Verrätergüter.
 
 ent-ClothingBackpackDuffelHolding = Bluespace-Seesack

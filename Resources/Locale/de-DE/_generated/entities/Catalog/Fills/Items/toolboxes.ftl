@@ -17,7 +17,7 @@ ent-ToolboxMechanicalFilledAllTools = mechanischer Werkzeugkasten
     .desc = Ein blauer Werkzeugkasten mit mechanischen Werkzeugen.
 
 ent-ToolboxSyndicateFilled = verdächtiger Werkzeugkasten
-    .desc = Ein finster aussehender Werkzeugkasten voller Elite-Syndicate-Werkzeuge.
+    .desc = Ein finster aussehender Werkzeugkasten voller Elite-Syndikat-Werkzeuge.
 
 ent-ToolboxGoldFilled = goldener Werkzeugkasten
     .desc = Ein massiver goldener Werkzeugkasten. Dafür würde ein Rapper töten.

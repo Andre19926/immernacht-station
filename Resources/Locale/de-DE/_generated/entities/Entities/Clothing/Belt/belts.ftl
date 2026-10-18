@@ -13,7 +13,7 @@ ent-ClothingBeltWand = Stabgurt
 ent-ClothingBeltHolster = Schulterholster
     .desc = Ein Holster, um eine Pistole und Munition zu tragen. WARNUNG: Nur Badasses.
 
-ent-ClothingBeltSyndieHolster = Syndicate-Schulterholster
+ent-ClothingBeltSyndieHolster = Syndikat-Schulterholster
     .desc = Ein tiefes Schulterholster, das viele Arten ballistischer Waffen aufnehmen kann.
 
 ent-ClothingBeltSecurityWebbing = Sicherheitsträger
@@ -26,7 +26,7 @@ ent-ClothingBeltSalvageWebbing = Bergungs-Tragweste
     .desc = Universelle Tragweste für die Arbeit im Weltraum.
 
 ent-ClothingBeltMilitaryWebbing = Brustkorb
-    .desc = Eine Reihe von taktischen Gurten getragen von Syndicate Boarding Parteien.
+    .desc = Eine Reihe von taktischen Gurten getragen von Enterkommandos des Syndikats.
 
 ent-ClothingBeltMilitaryWebbingMed = Medizinischer Brustkorb
     .desc = Eine Reihe von taktischen Gurten von Gorlex Marauder Sanitäter getragen.

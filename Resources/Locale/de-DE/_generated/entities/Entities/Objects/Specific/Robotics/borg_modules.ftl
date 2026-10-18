@@ -91,7 +91,7 @@ ent-BorgModuleSyndicateWeapon = Waffen-Cyborg-Modul
     .desc = Ein Stück Technik, das Cyborgs neue Fähigkeiten verleiht.
 
 ent-BorgModuleOperative = Agenten-Cyborg-Modul
-    .desc = Ein Modul mit einem Paar Syndicate-Lebensbacken, einem Emag, einem Zugangsknacker und einem Syndicate-Pinpointer.
+    .desc = Ein Modul mit einem Paar Syndikat-Lebensbacken, einem Emag, einem Zugangsknacker und einem Syndikat-Pinpointer.
 
 ent-BorgModuleEsword = Energieschwert-Cyborg-Modul
     .desc = Ein Waffenmodul mit einem Energieschwert.

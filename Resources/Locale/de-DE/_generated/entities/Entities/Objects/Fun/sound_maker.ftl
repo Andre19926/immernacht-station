@@ -20,7 +20,7 @@ ent-SecurityWhistle = Pfeife
     .desc = Der Klang davon macht Angst.
 
 ent-SyndicateWhistle = Trenchpfeifen
-    .desc = Eine Pfeife, mit der Syndicate-Kommandanten Aufmerksamkeit erregten. Avanti!
+    .desc = Eine Pfeife, mit der Syndikat-Kommandanten Aufmerksamkeit erregten. Avanti!
 
 ent-ToyRubberDuck = Gummiente
     .desc = Nicht von Meeresströmungen getragen.

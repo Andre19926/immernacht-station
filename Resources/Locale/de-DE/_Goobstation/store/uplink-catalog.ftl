@@ -43,7 +43,7 @@ uplink-hardsuit-cybersun-stealth-desc = Per Reverse Engineering aus Technologie 
 
 # Cybersun Dreadnought suit
 uplink-hardsuit-cybersun-dreadnought-name = Cybersun-Dreadnought-Anzug
-uplink-hardsuit-cybersun-dreadnought-desc = Ein wahnsinnig robuster Kampf-Hardsuit mit Hyper-Bluespace-verstärktem Plastik, der den Träger in eine fast undurchdringliche Mauer verwandelt. Allerdings ziehen ihn nur die absolut wahnsinnigen Syndikatsanhänger an. Wegen seines Gewichts sitzt er so fest, dass der Träger aufgespießt wird und ihn nicht ablegen kann, ohne sich die Haut vollständig abzureißen. Das Syndicate schickt seine Grüße.
+uplink-hardsuit-cybersun-dreadnought-desc = Ein wahnsinnig robuster Kampf-Hardsuit mit Hyper-Bluespace-verstärktem Plastik, der den Träger in eine fast undurchdringliche Mauer verwandelt. Allerdings ziehen ihn nur die absolut wahnsinnigen Syndikatsanhänger an. Wegen seines Gewichts sitzt er so fest, dass der Träger aufgespießt wird und ihn nicht ablegen kann, ohne sich die Haut vollständig abzureißen. Das Syndikat schickt seine Grüße.
 
 # Misc
 
@@ -62,7 +62,7 @@ uplink-signaller-desc = Ein Gerät, das Signale über beliebige Entfernung ausl�
 # bang bang pew pew eat it up i gota go
 
 uplink-miniature-energy-crossbow-name = Miniatur-Energiearmbrust
-uplink-miniature-energy-crossbow-desc = Die Energiearmbrust des Syndicates: klein, lautlos und tödlich.
+uplink-miniature-energy-crossbow-desc = Die Energiearmbrust des Syndikats: klein, lautlos und tödlich.
 
 uplink-hardlight-bow-name = Hartlichtbogen
 uplink-hardlight-bow-desc = Dieser Faltbogen kann eine Vielzahl von Pfeiltypen erzeugen, die den Bedürfnissen des Benutzers entsprechen.
@@ -96,7 +96,7 @@ uplink-adv-mimery-desc = Die klassische zweiteilige Serie, mit der du deine Mime
 # Weapons
 
 uplink-contractor-baton-name = Auftragnehmer-Schlagstock
-uplink-contractor-baton-desc = Ein kompakter, spezialisierter Stab, der den Syndicate-Auftragnehmern zugewiesen wurde. Wendet leichte elektrische Schläge auf Ziele an. Diese Stöße können auch die inneren Schaltkreise der meisten Roboter stören und sie kurz betäuben.
+uplink-contractor-baton-desc = Ein kompakter, spezialisierter Stab, der den Syndikat-Auftragnehmern zugewiesen wurde. Wendet leichte elektrische Schläge auf Ziele an. Diese Stöße können auch die inneren Schaltkreise der meisten Roboter stören und sie kurz betäuben.
 
 uplink-weapon-burner-name = Brenner
 uplink-weapon-burner-desc = Ein vollautomatisches Anti-Material-Gewehr, das .50er-Geschosse auf große Distanz schleudert, solange du es schultern kannst. Nutzt .50-Antimaterial-Magazine.
@@ -122,7 +122,7 @@ uplink-m90-desc = Ein robustes Sturmgewehr, das seine Genauigkeit über extreme 
 uplink-estoc-name = Estoc
 uplink-estoc-desc = Ein Feuerstoß-Gewehr, das mit einer teuren Tritiumoptik ausgestattet ist. Nutzt .20 Gewehrmagazinen.
 
-uplink-syndicate-disabler-name = Syndicate-Neutralisierer
+uplink-syndicate-disabler-name = Syndikat-Neutralisierer
 uplink-syndicate-disabler-desc = Ein schlanker Neutralisierer, entwickelt aus einem per Reverse Engineering nachgebauten NanoTrasen-Prototyp. Ihm fehlt zwar die Durchschlagskraft, das gleicht er aber mit einer selbstaufladenden Zelle aus.
 
 uplink-dualetta-bundle-name = Dualetta-Paket
@@ -131,10 +131,10 @@ uplink-dualetta-bundle-desc = Kommt mit 2 Dualetta-Pistolen, 2 Maschinenpistolen
 uplink-anaconda-name = Anaconda
 uplink-anaconda-desc = Eine sperrige Handkanone mit einem in den Griff eingebauten Munitionsdrucker. Druckt mit der Zeit Munition für sich selbst.
 
-uplink-bulk-mosin-name = Syndicate-Gewehr-Großkiste
+uplink-bulk-mosin-name = Syndikat-Gewehr-Großkiste
 uplink-bulk-mosin-desc = 10 Gewehre aus dem 4. Weltkrieg, um dich, deine Freunde und deine Katze zu bewaffnen. Spare 40 % Versandkosten durch Mengenkauf.
 
-uplink-whimsy-bundle-name = Syndicate-Freude-und-Laune-Paket
+uplink-whimsy-bundle-name = Syndikat-Freude-und-Laune-Paket
 uplink-whimsy-bundle-desc = Verbreitest du gern Freude und gute Laune? Donk Co. hat die Lösung für dich! Enthält eine Axt in LIMITIERTER AUFLAGE und genug Süßigkeiten, um einen Mann zu töten.
 
 uplink-m7s-name = M7S-Unterdrücker
@@ -303,7 +303,7 @@ uplink-autosurgeon-jumpstarter-heart-desc = Ersetzt das Herz des Benutzers durch
 
 # Wearables
 
-uplink-helmet-swat-name = Syndicate-SWAT-Helm
+uplink-helmet-swat-name = Syndikat-SWAT-Helm
 uplink-helmet-swat-desc = Robuster Helm, der guten Schutz bietet und auch Flashbang-Sounds in gewissem Maße unterdrückt.
 
 uplink-reverse-bear-trap-name = Umgekehrte Bärenfalle
@@ -346,13 +346,13 @@ uplink-dimension-pot-name = Dimensionstopf
 uplink-dimension-pot-desc = Ein Portal zu deiner eigenen Taschendimension, getarnt als Topfpflanze, denn Verstauen allein reicht nicht.
 
 uplink-pizza-bomb-name = Niederträchtige Pizzabombe
-uplink-pizza-bomb-desc = Ursprünglich von Terroristen entwickelt, wird sie jetzt vom Syndicate zur Beseitigung hochwertiger Ziele eingesetzt. Nicht vor der Explosion öffnen.
+uplink-pizza-bomb-desc = Ursprünglich von Terroristen entwickelt, wird sie jetzt vom Syndikat zur Beseitigung hochwertiger Ziele eingesetzt. Nicht vor der Explosion öffnen.
 
 uplink-pizza-party-crate-name = Pizzaparty-Kiste
 uplink-pizza-party-crate-desc = Eine Kiste in Form einer Katastrophen-Pizzalieferung. Gefüllt mit Pizzen und Pizzabomben für die explosivste Pizzaparty aller Zeiten. Leider kannst du dich nicht erinnern, was was ist.
 
 uplink-undetermined-bundle-name = Unbestimmte Paketkiste
-uplink-undetermined-bundle-desc = Diese Kiste enthält drei zufällige Bündel, von denen du eines auswählen kannst. Enthält garantiert einen Syndicate-Verschlüsselungsschlüssel.
+uplink-undetermined-bundle-desc = Diese Kiste enthält drei zufällige Bündel, von denen du eines auswählen kannst. Enthält garantiert einen Syndikat-Verschlüsselungsschlüssel.
 
 uplink-energy-pickaxe-name = Energiespitzhacke
 uplink-energy-pickaxe-desc = Ein holographisches Bergbauwerkzeug mit Klingen aus hartem Licht, das auch als tödliche Nahkampfwaffe dient. Fels und Stein!
@@ -361,13 +361,13 @@ uplink-bloodred-cassette-name = Blutroter Kassettenspieler
 uplink-bloodred-cassette-desc = Geliefert von den egoistischsten Modedesignern von Cybersun: ein tragbarer Musikplayer!
 
 uplink-syndiedrobe-name = Syndiedrobe
-uplink-syndiedrobe-desc = Ein Verkaufsautomat mit Syndicate-Markenkleidung. Einfach, scharf und unverkennbar rot-schwarz, bietet es Agenten eine Möglichkeit, sich mit Syndicate-Stil zu kleiden.
+uplink-syndiedrobe-desc = Ein Verkaufsautomat mit Syndikat-Markenkleidung. Einfach, scharf und unverkennbar rot-schwarz, bietet es Agenten eine Möglichkeit, sich mit Syndikat-Stil zu kleiden.
 
-uplink-customboard-name = Individuelle Syndicate-Gesetzesplatine
+uplink-customboard-name = Individuelle Syndikat-Gesetzesplatine
 uplink-customboard-desc = Eine modifizierte Gesetzestafel, mit der der Benutzer die Gesetze in alles ändern kann, was er will. Kommt mit Antimov vorinstalliert.
 
-uplink-cddisksyndicate-name = Syndicate-Werbe-CD
-uplink-cddisksyndicate-desc = 102.9 Syndicate Radio
+uplink-cddisksyndicate-name = Syndikat-Werbe-CD
+uplink-cddisksyndicate-desc = 102.9 Syndikat-Radio
 
 uplink-cddisknumber-name = Nummer Station CD
 uplink-cddisknumber-desc = Rufe eine Drohung an, um die Station abzulenken... viel Glück beim Spielen der ganzen Sache.

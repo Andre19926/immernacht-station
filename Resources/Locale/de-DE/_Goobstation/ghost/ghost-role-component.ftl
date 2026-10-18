@@ -42,7 +42,7 @@ ghost-role-information-huborg-description = Du bist ein widerlicher Gräuel eine
 ghost-role-information-c4-name = Zusammensetzung C-4
 ghost-role-information-c4-description = Unterstütze deinen Benutzer bei der Bombardierung von Dingen.
 
-ghost-role-information-derelict-cyborg-syndicate-name = Verlassener Syndicate-Cyborg
+ghost-role-information-derelict-cyborg-syndicate-name = Verlassener Syndikat-Cyborg
 ghost-role-information-derelict-cyborg-syndicate-description = Du gingst bei einem Angriff auf eine Station verloren. Nach Jahren unter Ionenstürmen findest du dich in der Nähe einer Raumstation wieder.
 
 ghost-role-information-navy-captain-name = Marinekapitän
@@ -167,17 +167,17 @@ Singuloth-Knight-role-greeting = Du bist ein [color=#880808]Singuloth-Ritter[/co
 objective-issuer-lord-singuloth = [color=#320022]Lord Singuloth[/color]
 
 ghost-role-information-dark-lord-name = Dunkler Lord
-ghost-role-information-dark-lord-description = Ein Syndicate-Agent im Stil eines Sith-Lords. Nutze deine Blitzkräfte und dein Energieschwert, um deine Ziele zu erreichen!
-dark-lord-role-greeting = Du bist ein [color=#880808]Dunkler Lord[/color], vom Syndicate zu dieser Station geschickt, um die Drecksarbeit zu erledigen. Deine Ziele findest du auf deinem Charakterblatt.
+ghost-role-information-dark-lord-description = Ein Syndikat-Agent im Stil eines Sith-Lords. Nutze deine Blitzkräfte und dein Energieschwert, um deine Ziele zu erreichen!
+dark-lord-role-greeting = Du bist ein [color=#880808]Dunkler Lord[/color], vom Syndikat zu dieser Station geschickt, um die Drecksarbeit zu erledigen. Deine Ziele findest du auf deinem Charakterblatt.
 
 ghost-role-information-chosen-one-name = Der Auserwählte
 ghost-role-information-chosen-one-description = Ein spezieller Agent, der von Nanotrasen zur Station geschickt wurde, um einen dunklen Lord zu besiegen.
-chosen-one-role-greeting = Du bist der [color=#0087FF]Auserwählte[/color]. Du wurdest zu dieser Station geschickt, um einen vom Syndicate gesandten Dunklen Lord zu besiegen. Prüfe dein Charakterblatt für deine Ziele.
+chosen-one-role-greeting = Du bist der [color=#0087FF]Auserwählte[/color]. Du wurdest zu dieser Station geschickt, um einen vom Syndikat gesandten Dunklen Lord zu besiegen. Prüfe dein Charakterblatt für deine Ziele.
 objective-condition-dark-lord-kill-title = Stelle sicher, dass der Dunkle Lord {$targetName} stirbt.
 
 ghost-role-information-mime-Assassin-name = Mime-Assassine
 ghost-role-information-mime-Assassin-description = Ein Attentäter in Mime-Kleidung, der stille Tötungen bevorzugt. Sein Name? Nun, er kann ihn dir wahrscheinlich nicht verraten – aber genau das macht ihn so gut!
-mime-Assassin-role-greeting = Du bist ein [color=#880808]Mime Assassin[/color]. Du wurdest vom Syndicate zu dieser Station geschickt, um einige Führungsmitglieder zu töten, die aus dem Weg geräumt werden müssen. Das Syndicate hat dir einige Werkzeuge gestellt, um die Arbeit in aller Stille zu erledigen … Deine Ziele findest du auf deinem Charakterblatt – und lass dich nicht erwischen.
+mime-Assassin-role-greeting = Du bist ein [color=#880808]Mime Assassin[/color]. Du wurdest vom Syndikat zu dieser Station geschickt, um einige Führungsmitglieder zu töten, die aus dem Weg geräumt werden müssen. Das Syndikat hat dir einige Werkzeuge gestellt, um die Arbeit in aller Stille zu erledigen … Deine Ziele findest du auf deinem Charakterblatt – und lass dich nicht erwischen.
 
 ghost-role-information-dark-priest-name = Dunkler Priester
 ghost-role-information-dark-priest-description = Ein Agent der dunklen Götter, geschickt, um jemanden zu töten, jemanden zu beschützen und jemanden als Lehrling anzuwerben, der ihr Interesse geweckt hat. Trägt den „Segen des Schnitters“.
@@ -203,6 +203,6 @@ ghost-role-information-sentientanimal-rules = Du bist ein [color={role-type-sent
                                               Es ist dir absolut [color=red]NICHT[/color] erlaubt, dich zum Beispiel an Namen, Aussehen usw. deines vorherigen Charakters zu erinnern.
 
 ghost-role-information-contractor-name = Konsortialunternehmer
-ghost-role-information-contractor-token = Syndicate-Auftragnehmer (Token)
+ghost-role-information-contractor-token = Syndikat-Auftragnehmer (Token)
 ghost-role-information-contractor-description = GET DA... Tider...?
-contractor-role-greeting = Du bist ein [color=#611b2b]Syndicate-Auftragnehmer[/color], ein Kopfgeldjäger. Deine Aufgabe ist es, Ziele von der Station zu holen, tot oder lebendig.
+contractor-role-greeting = Du bist ein [color=#611b2b]Syndikat-Auftragnehmer[/color], ein Kopfgeldjäger. Deine Aufgabe ist es, Ziele von der Station zu holen, tot oder lebendig.

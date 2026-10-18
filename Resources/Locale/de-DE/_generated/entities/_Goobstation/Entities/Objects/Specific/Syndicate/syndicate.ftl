@@ -1,2 +1,2 @@
-ent-LoneOpsUplink350TC = Syndicate Uplink
+ent-LoneOpsUplink350TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …

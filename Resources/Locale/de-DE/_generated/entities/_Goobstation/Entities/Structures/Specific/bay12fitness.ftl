@@ -14,7 +14,7 @@ ent-FitnessPunchingBagCaptain = Stanzbeutel
     .desc = Eine Sporttasche mit aufgedrucktem Kapitän.
 
 ent-FitnessPunchingBagSyndicate = Stanzbeutel
-    .desc = Eine Sporttasche mit aufgedrucktem Syndicate-Agenten.
+    .desc = Eine Sporttasche mit aufgedrucktem Syndikat-Agenten.
 
 ent-FitnessPunchingBagWizard = Stanzbeutel
     .desc = Eine Sporttasche mit aufgedrucktem Zauberer.

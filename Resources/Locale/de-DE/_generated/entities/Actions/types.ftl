@@ -20,7 +20,7 @@ ent-ActionActivateFreedomImplant = Befreien
     .desc = Die Aktivierung deines Freiheitsimplantats befreit dich von allen Handfesseln.
 
 ent-ActionOpenUplinkImplant = Uplink öffnen
-    .desc = Öffnet den Syndicate-Uplink, der unter deiner Haut eingebettet ist
+    .desc = Öffnet den Syndikat-Uplink, der unter deiner Haut eingebettet ist
 
 ent-ActionActivateEmpImplant = EMP aktivieren
     .desc = Löst einen kleinen EMP-Puls um dich herum aus

@@ -20,11 +20,11 @@
 nukeops-title = Atomagenten
 nukeops-description = Atomagenten greifen die Station an. Verhindere, dass sie die Nuke scharf machen und zünden: Beschütze die Atomdiskette!
 
-nukeops-welcome = Du bist ein Atomagent. Dein Ziel ist es, {$station} zu sprengen, bis nur noch ein Trümmerhaufen übrig ist. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung gestellt. | Operation {$name} läuft! Tod für Nanotrasen!
+nukeops-welcome = Du bist ein Atomagent. Dein Ziel ist es, {$station} zu sprengen, bis nur noch ein Trümmerhaufen übrig ist. Deine Auftraggeber, das Syndikat, haben dir die nötige Ausrüstung gestellt. | Operation {$name} läuft! Tod für Nanotrasen!
 nukeops-briefing = Deine Ziele sind einfach: Liefere die Bombe ab und verschwinde, bevor sie hochgeht. Mission beginnt.
 
-nukeops-opsmajor = [color=crimson]Großer Sieg für das Syndicate![/color]
-nukeops-opsminor = [color=crimson]Kleiner Sieg für das Syndicate![/color]
+nukeops-opsmajor = [color=crimson]Großer Sieg für das Syndikat![/color]
+nukeops-opsminor = [color=crimson]Kleiner Sieg für das Syndikat![/color]
 nukeops-neutral = [color=yellow]Neutrales Ergebnis![/color]
 nukeops-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
 nukeops-crewmajor = [color=green]Großer Sieg für die Crew![/color]

@@ -1,10 +1,10 @@
 ent-ClothingBackpackDuffelSurgeryFilled = Chirurgie-Seesack
     .desc = Ein großer Seesack für zusätzliche medizinische Vorräte – dieser scheint für chirurgische Werkzeuge ausgelegt zu sein.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedical = Syndicate-Chirurgie-Seesack
+ent-ClothingBackpackDuffelSyndicateFilledMedical = Syndikat-Chirurgie-Seesack
     .desc = Ein großer Seesack mit einem vollständigen Satz chirurgischer Werkzeuge.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedicine = Syndicate-Medizin-Seesack
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = Syndikat-Medizin-Seesack
     .desc = Ein großer Seesack mit unverzichtbaren medizinischen Reagenzien.
 
 ent-ClothingBackpackDuffelSyndicateFilledShotgun = Bulldog-Bündel
@@ -37,28 +37,28 @@ ent-ClothingBackpackDuffelSyndicateCostumeClown = Clown-Seesack
 ent-ClothingBackpackDuffelSyndicateCarpSuit = Karpfenanzug-Seesack
     .desc = Enthält einen Karpfenanzug und ein paar Freunde zum Spielen.
 
-ent-ClothingBackpackDuffelSyndicatePyjamaBundle = Syndicate-Pyjama-Seesack
-    .desc = Enthält 3 Paar Syndicate-Pyjamas und 4 Plüschtiere für den ultimativen Schlafanzugabend.
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = Syndikat-Pyjama-Seesack
+    .desc = Enthält 3 Paar Syndikat-Pyjamas und 4 Plüschtiere für den ultimativen Schlafanzugabend.
 
-ent-ClothingBackpackDuffelSyndicateC4tBundle = Syndicate-C-4-Bündel
+ent-ClothingBackpackDuffelSyndicateC4tBundle = Syndikat-C-4-Bündel
     .desc = Enthält viele C-4-Ladungen.
 
 ent-ClothingBackpackChameleonFill = Rucksack
     .desc = Du trägst das auf dem Rücken und steckst Gegenstände hinein.
 
-ent-ClothingBackpackDuffelSyndicateEVABundle = Syndicate-EVA-Bündel
-    .desc = Enthält den von Syndicate zugelassenen EVA-Anzug.
+ent-ClothingBackpackDuffelSyndicateEVABundle = Syndikat-EVA-Bündel
+    .desc = Enthält den vom Syndikat zugelassenen EVA-Anzug.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitBundle = Syndicate-Hardsuit-Bündel
-    .desc = Enthält den charakteristischen blutroten Hardsuit des Syndicate-Agenten.
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = Syndikat-Hardsuit-Bündel
+    .desc = Enthält den charakteristischen blutroten Hardsuit des Syndikat-Agenten.
 
-ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = Syndicate-Elite-Hardsuit-Bündel
-    .desc = Enthält den Elite-Hardsuit des Syndicate-Agenten, der mit etwas mehr Zeug kommt.
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = Syndikat-Elite-Hardsuit-Bündel
+    .desc = Enthält den Elite-Hardsuit des Syndikat-Agenten, der mit etwas mehr Zeug kommt.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = Syndicate-Voidsuit-Zubehörbündel
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = Syndikat-Voidsuit-Zubehörbündel
     .desc = Enthält Dinge, die du beim Kauf eines Voidsuits unbedingt haben willst.
 
-ent-ClothingBackpackDuffelZombieBundle = Syndicate-Zombie-Bündel
+ent-ClothingBackpackDuffelZombieBundle = Syndikat-Zombie-Bündel
     .desc = Ein Komplettset, um die Untoten auf einer Station zu entfesseln.
 
 ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = Medizinisches Bündel

@@ -115,43 +115,43 @@ ent-FoodSnackLollypopWrappedMysteryNeutral = verpackt Mystery Lutscher
 ent-FoodSnackLollypopWrappedMysteryEvil = verpackt Mystery Lutscher
     .desc = Ein geheimnisvoller Lutscher. Dieser gibt dir ein ungutes Gefühl.
 
-ent-FoodSnackLollypopWrappedSyndicate = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedSyndicate = gewickelter Syndikat-Lutscher
     .desc = Hergestellt von Donk Co und perfekt für die diskrete Lagerung von Chemikalien.
 
 ent-FoodSnackLollypopSyndicate = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedLexorin = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedLexorin = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Lexorin. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopLexorin = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedRomerol = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedRomerol = gewickelter Syndikat-Lutscher
     .desc = Lutscher mit Romerol. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopRomerol = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedNocturine = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedNocturine = gewickelter Syndikat-Lutscher
     .desc = Ein mit Nocturin gefüllter Lutscher. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopNocturine = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedHyperzine = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedHyperzine = gewickelter Syndikat-Lutscher
     .desc = Ein mit Hyperzin gefüllter Lutscher. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopHyperzine = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedSynaptizine = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedSynaptizine = gewickelter Syndikat-Lutscher
     .desc = Synaptizin-Lutscher. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopSynaptizine = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedCarpoToxin = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedCarpoToxin = gewickelter Syndikat-Lutscher
     .desc = Wer zum Teufel ist Audrey White?
 
 ent-FoodSnackLollypopCarpoToxin = Lutscher
@@ -163,31 +163,31 @@ ent-FoodSnackLollypopWrappedFentanyl = eingewickelter Fentanyl-Lutscher
 ent-FoodSnackLollypopFentanyl = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedPhlogiston = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedPhlogiston = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Phlogiston. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopPhlogiston = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedCyanide = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedCyanide = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Cyanid. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopCyanide = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedTirizene = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedTirizene = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Tirizen. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopTirizene = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedAnacea = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedAnacea = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Anacea. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopAnacea = Lutscher
     .desc = Ein ganz gewöhnlicher alter Lutscher. Bei diesem hast du ein schlechtes Gefühl.
 
-ent-FoodSnackLollypopWrappedPotassiumBomb = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedPotassiumBomb = gewickelter Syndikat-Lutscher
     .desc = Ein explosiver Lutscher. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopPotassiumBomb = Lutscher
@@ -211,7 +211,7 @@ ent-FoodSnackLollypopWrappedCarpEvil = gewickelter Karpfen Lutscher
 ent-FoodSnackLollypopCarpEvil = Carp Lutscher
     .desc = Wer zum Teufel ist Aubrey White?
 
-ent-FoodSnackLollypopWrappedMouseBites = gewickeltes Syndicate Lutscher
+ent-FoodSnackLollypopWrappedMouseBites = gewickelter Syndikat-Lutscher
     .desc = Ein Lutscher mit Mausgift. Wirkt völlig gewöhnlich, wenn er ausgepackt ist.
 
 ent-FoodSnackLollypopMouseBites = mousebites Lutscher
@@ -229,7 +229,7 @@ ent-FoodPacketLollypopTrash = Lutscherstab
 ent-FoodSnackLollypopTrash = Lutscherhülle
     .desc = Das ist Unsinn.
 
-ent-FoodSnackLollypopTrashSyndicate = Syndicate Lutscher Wrapper
+ent-FoodSnackLollypopTrashSyndicate = Syndikat-Lutscher Wrapper
     .desc = Jemand war frech ...
 
 ent-FoodSnackLollypopTrashNanotrasen = Nanotrasen Lutscher Wrapper

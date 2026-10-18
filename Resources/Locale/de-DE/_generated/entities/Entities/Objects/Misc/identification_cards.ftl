@@ -136,16 +136,16 @@ ent-NukieAgentIDCard = Agenten-ID-Karte
 ent-AtmosIDCard = Atmos-Techniker-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndicateIDCard = Syndicate-ID-Karte
+ent-SyndicateIDCard = Syndikat-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiOperativeIDCard = Syndicate-Agenten-ID-Karte
+ent-SyndiOperativeIDCard = Syndikat-Agenten-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiCorpsmanIDCard = Syndicate-Sanitäter-ID-Karte
+ent-SyndiCorpsmanIDCard = Syndikat-Sanitäter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-SyndiCommanderIDCard = Syndicate-Anführer-ID-Karte
+ent-SyndiCommanderIDCard = Syndikat-Anführer-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-PirateIDCard = Piraten-ID-Karte

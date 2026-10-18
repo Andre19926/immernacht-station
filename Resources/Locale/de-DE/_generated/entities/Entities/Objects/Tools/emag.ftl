@@ -1,5 +1,5 @@
 ent-EmagUnlimited = kryptographische Sequenzer
-    .desc = Die All-in-One Hacking-Lösung. Freund eines jeden Syndicate-Agenten. Die Ikone EMAG.
+    .desc = Die All-in-One Hacking-Lösung. Freund eines jeden Syndikat-Agenten. Die Ikone EMAG.
 
 ent-Emag = kryptographische Sequenzer
-    .desc = Die All-in-One Hacking-Lösung. Freund eines jeden Syndicate-Agenten. Die Ikone EMAG.
+    .desc = Die All-in-One Hacking-Lösung. Freund eines jeden Syndikat-Agenten. Die Ikone EMAG.

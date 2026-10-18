@@ -10,28 +10,28 @@ ent-Telecrystal5 = Telekristall
 ent-Telecrystal10 = Telekristall
     .desc = Es scheint vor verdächtig verlockenden Energien zu pulsieren.
 
-ent-BaseUplinkRadio = Syndicate-Uplink
+ent-BaseUplinkRadio = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio50TC = Syndicate Uplink
+ent-BaseUplinkRadio50TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio50TCNukeOps = Syndicate Uplink
+ent-BaseUplinkRadio50TCNukeOps = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio100TC = Syndicate Uplink
+ent-BaseUplinkRadio100TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio125TC = Syndicate Uplink
+ent-BaseUplinkRadio125TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio200TC = Syndicate Uplink
+ent-BaseUplinkRadio200TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio350TC = Syndicate Uplink
+ent-BaseUplinkRadio350TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadioDebug = Syndicate Uplink
+ent-BaseUplinkRadioDebug = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
 ent-BaseUplinkContractor = Auftragnehmer-Uplink

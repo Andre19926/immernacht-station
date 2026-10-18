@@ -11,7 +11,7 @@ ent-SoapSyndie = Seife
     .desc = Ein unzuverlässiges Stück Seife. Es riecht nach Angst.
 
 ent-SoapletSyndie = Seifen
-    .desc = Ein kleines Stück Syndicate-Seife.
+    .desc = Ein kleines Stück Syndikat-Seife.
 
 ent-SoapHomemade = Seife
     .desc = Ein selbstgemachtes Stück Seife. Riecht nach ... naja ...

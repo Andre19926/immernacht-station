@@ -40,7 +40,7 @@ ent-ClothingShoesBootsWinterSci = Wissenschaft Winterstiefel
 ent-ClothingShoesBootsWinterSec = Winterstiefel
     .desc = Flauschige Stiefel helfen, selbst die kältesten Winter zu überstehen.
 
-ent-ClothingShoesBootsWinterSyndicate = Winterstiefel des Syndicate-S
+ent-ClothingShoesBootsWinterSyndicate = Winterstiefel des Syndikat-S
     .desc = Langlebige schwere Stiefel, sehen aus wie Merchandise aus „Syndieland“.
 
 ent-ClothingShoesBootsWinterWeb = Web-Winterstiefel

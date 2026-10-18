@@ -14,7 +14,7 @@ ent-ToolboxArtistic = Künstlerischer Werkzeugkasten
     .desc = Ein Werkzeugkasten, in der Regel mit Künstlerbedarf bestückt.
 
 ent-ToolboxSyndicate = verdächtiger Werkzeugkasten
-    .desc = Ein finster aussehender Werkzeugkasten voller Elite-Syndicate-Werkzeuge.
+    .desc = Ein finster aussehender Werkzeugkasten voller Elite-Syndikat-Werkzeuge.
 
 ent-ToolboxGolden = goldener Werkzeugkasten
     .desc = Ein massiver goldener Werkzeugkasten. Dafür würde ein Rapper töten.

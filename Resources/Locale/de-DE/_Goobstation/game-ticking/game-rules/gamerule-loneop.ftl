@@ -1,10 +1,10 @@
 loneop-welcome =
-    Du bist ein einzelner Atomagent. Dein Ziel ist es, {$station} zu sprengen und dafür zu sorgen, dass nichts als ein Trümmerhaufen übrig bleibt. Deine Auftraggeber, das Syndicate, haben dir die nötige Ausrüstung bereitgestellt, nur kein Team.
+    Du bist ein einzelner Atomagent. Dein Ziel ist es, {$station} zu sprengen und dafür zu sorgen, dass nichts als ein Trümmerhaufen übrig bleibt. Deine Auftraggeber, das Syndikat, haben dir die nötige Ausrüstung bereitgestellt, nur kein Team.
     Operation {$name} läuft! Viel Glück!
 loneop-briefing = Deine Ziele sind einfach. Bring die Sprengladung ans Ziel und sorge dafür, dass sie detoniert. Mission beginnt.
 
-loneop-opsmajor = [color=crimson]Großer Sieg für das Syndicate![/color]
-loneop-opsminor = [color=crimson]Kleiner Sieg für das Syndicate![/color]
+loneop-opsmajor = [color=crimson]Großer Sieg für das Syndikat![/color]
+loneop-opsminor = [color=crimson]Kleiner Sieg für das Syndikat![/color]
 loneop-neutral = [color=yellow]Neutrales Ergebnis![/color]
 loneop-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
 loneop-crewmajor = [color=green]Großer Sieg für die Crew![/color]

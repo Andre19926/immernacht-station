@@ -16,5 +16,5 @@ uplink-betrayal-knife-desc =
     Verursacht erheblichen Schaden, wenn das Ziel liegt oder sich von dir entfernt.
     Verwende es in deiner Hand, um den Blink-Modus umzuschalten.
 
-uplink-experimental-syndicate-teleporter-name = Experimenteller Syndicate Teleporter
+uplink-experimental-syndicate-teleporter-name = Experimenteller Syndikat-Teleporter
 uplink-experimental-syndicate-teleporter-desc = Ein Selbstladegerät, das den Benutzer vorwärts teleportiert. Im Falle der Teleportation in eine Wand, verwendet Notfall-Teleportation. Oder gibt dem benutzer, wenn es keine gebühren mehr gibt.

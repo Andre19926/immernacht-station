@@ -6,10 +6,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 traitorling-title = Verräterling
-traitorling-description = Achtung. Bekannte feindliche Signale und seltsame Lebenszeichen entdeckt. Syndicate-Agenten und Wechselbälger an Bord bestätigt.
+traitorling-description = Achtung. Bekannte feindliche Signale und seltsame Lebenszeichen entdeckt. Syndikat-Agenten und Wechselbälger an Bord bestätigt.
 
 revtraitor-title = Revolutionäre Verräter
-revtraitor-description = Eine Revolution wurde vom Syndicate angezettelt, aber nicht jeder Agent hat den Hinweis bekommen ...
+revtraitor-description = Eine Revolution wurde vom Syndikat angezettelt, aber nicht jeder Agent hat den Hinweis bekommen ...
 
 revling-title = Revolutionäre Wechselbälger
-revling-description = Eine Revolution wurde vom Syndicate angezettelt, und opportunistische Wechselbälger sind gekommen, um sich am Gemetzel zu laben.
+revling-description = Eine Revolution wurde vom Syndikat angezettelt, und opportunistische Wechselbälger sind gekommen, um sich am Gemetzel zu laben.

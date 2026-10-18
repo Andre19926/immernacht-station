@@ -16,7 +16,7 @@ ent-ClothingOuterArmorCaptainCarapace = Kapitänspanzer
 ent-ClothingOuterArmorCentcommCarapace = CentComm-Panzerschale
     .desc = Ein gepanzerter Brustpanzer, der Schutz bei maximaler Beweglichkeit bietet. Wird nur an CentComm-Beamte und -Agenten ausgegeben.
 
-ent-ClothingOuterArmorRaid = Syndicate-Raid-Anzug
+ent-ClothingOuterArmorRaid = Syndikat-Raid-Anzug
     .desc = Ein etwas flexibler, gut gepanzerter Anzug mit leistungsstarker schultermontierter Taschenlampe in der ikonischen blutroten Farbgebung der Gorlex Marauders. Er schützt seinen Träger nicht vor dem Weltraum.
 
 ent-ClothingOuterArmorRiot = Krawallanzug

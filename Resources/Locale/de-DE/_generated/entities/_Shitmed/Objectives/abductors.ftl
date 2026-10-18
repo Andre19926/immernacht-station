@@ -56,7 +56,7 @@ ent-AbductorVictimWeaknessOfMyFlesh = Das Fleisch verrottet.
     .desc = Dein Fleisch verrottet an deinem Körper. Stelle dich dem Unvermeidlichen und ersetze deine verdorbenen Gliedmaßen durch völlig neue.
 
 ent-AbductorVictimInstructor = Vertrag baut Tabaksdaten zupp.stöße
-    .desc = Du bist ein militärischer Ausbilder. Du musst dafür sorgen, dass die Crew für den Krieg gegen das Syndicate in Topform ist!
+    .desc = Du bist ein militärischer Ausbilder. Du musst dafür sorgen, dass die Crew für den Krieg gegen das Syndikat in Topform ist!
 
 ent-AbductorVictimActor = Actionfilm.
     .desc = Du bist in einem Actionfilm. Du musst so viele kitschige One-Liner wie möglich bringen.

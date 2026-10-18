@@ -13,7 +13,7 @@ ent-PosterContrabandFunPolice = Spaßpolizei
 ent-PosterContrabandRealExomorph = Echt! Exomorph
     .desc = Ein konspiratives Poster über gefährliche außerirdische Lebensformen.
 
-ent-PosterContrabandSyndicateRecruitment = Syndicate-Rekrutierung
+ent-PosterContrabandSyndicateRecruitment = Syndikat-Rekrutierung
     .desc = Sieh die Galaxis! Korrupte Megakonzerne! Tritt noch heute bei!
 
 ent-PosterContrabandSmoke = Rauch
@@ -79,8 +79,8 @@ ent-PosterContrabandRevolver = Revolver
 ent-PosterContrabandDDayPromo = D-Day-Promo
     .desc = Ein Werbeposter für ein paar Rapper.
 
-ent-PosterContrabandSyndicatePistol = Syndicate-Pistole
-    .desc = Ein Poster, das Syndicate-Pistolen als „verdammt stilvoll“ anpreist. Es ist mit verblassten Gang-Tags übersät.
+ent-PosterContrabandSyndicatePistol = Syndikat-Pistole
+    .desc = Ein Poster, das Syndikat-Pistolen als „verdammt stilvoll“ anpreist. Es ist mit verblassten Gang-Tags übersät.
 
 ent-PosterContrabandEnergySwords = Energieschwerter
     .desc = Alle Farben des blutigen Mordregenbogens.
@@ -130,7 +130,7 @@ ent-PosterContrabandMaskedMen = Maskierte Männer
 ent-PosterContrabandUnreadableAnnouncement = Unlesbare Ankündigung
     .desc = Ein Poster, das etwas ankündigt. Merkwürdigerweise hat man vergessen, es lesbar zu machen.
 
-ent-PosterContrabandFreeSyndicateEncryptionKey = Kostenloser Syndicate-Verschlüsselungsschlüssel
+ent-PosterContrabandFreeSyndicateEncryptionKey = Kostenloser Syndikat-Verschlüsselungsschlüssel
     .desc = Ein Poster über Verräter, die um mehr betteln.
 
 ent-PosterContrabandBountyHunters = Kopfgeldjäger
@@ -158,10 +158,10 @@ ent-PosterContrabandRise = Erhebt euch
     .desc = Ein Poster mit einem grauen Mann, der ein Brecheisen mit dem Wort „Rise“ hält.
 
 ent-PosterContrabandRevolt = Revolte
-    .desc = Revolutionäre Propaganda, hergestellt vom Syndicate.
+    .desc = Revolutionäre Propaganda, hergestellt vom Syndikat.
 
 ent-PosterContrabandMoth = Syndie-Motte – Atomeinsatz
-    .desc = Ein vom Syndicate in Auftrag gegebenes Poster, auf dem die Syndie-Motte™ dem Betrachter rät, die nukleare Authentifizierungsdisk ungesichert zu lassen. „Frieden war nie eine Option!“ Kein guter Mitarbeiter würde auf diesen Unsinn hören.
+    .desc = Ein vom Syndikat in Auftrag gegebenes Poster, auf dem die Syndie-Motte™ dem Betrachter rät, die nukleare Authentifizierungsdisk ungesichert zu lassen. „Frieden war nie eine Option!“ Kein guter Mitarbeiter würde auf diesen Unsinn hören.
 
 ent-PosterContrabandCybersun600 = Cybersun: 600 Jahre Gedenkposter
     .desc = Ein künstlerisches Poster zum Gedenken an 600 Jahre ununterbrochenen Geschäfts von Cybersun Industries.

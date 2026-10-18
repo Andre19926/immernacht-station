@@ -8,8 +8,8 @@ borg-type-janitor = [color= #a747c0]Hausmeister-Cyborgs[/color]
 borg-type-medical = [color= #5995ba]Medizin-Cyborgs[/color]
 borg-type-service = [color= #508242]Service-Cyborgs[/color]
 
-borg-type-syndicate = [color= #962023]Syndicate-Cyborgs[/color]
-borg-type-syndicate-assault = [color= #680a0d]Syndicate-Angriffscyborgs[/color]
+borg-type-syndicate = [color= #962023]Syndikat-Cyborgs[/color]
+borg-type-syndicate-assault = [color= #680a0d]Syndikat-Angriffscyborgs[/color]
 
 xenoborg-type-all = [color= #3d94ff]jeder Xenoborg[/color]
 xenoborg-type-engi = [color= #edd45b]Technik-Xenoborgs[/color]

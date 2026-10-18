@@ -1,8 +1,8 @@
 ent-PersonalAI = Personal-KI-Gerät
     .desc = Dein elektronischer Kumpel zum Spaßhaben!
 
-ent-SyndicatePersonalAI = Syndicate-Persönliches-KI-Gerät
-    .desc = Dein Syndicate-Kumpel zum Spaßhaben!
+ent-SyndicatePersonalAI = Syndikat-Persönliches-KI-Gerät
+    .desc = Dein Syndikat-Kumpel zum Spaßhaben!
 
 ent-GoldenPersonalAI = Goldenes Persönliches KI-Gerät
     .desc = Dein elektronischer Kumpel zum Spaßhaben! Goldene Sonderedition!

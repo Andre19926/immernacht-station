@@ -290,7 +290,7 @@ reagent-desc-snow-white = Eine kalte Erfrischung.
 reagent-name-sui-dream = Sui Dream
 reagent-desc-sui-dream = "Besteht aus: weißer Limonade, Blauem Curaçao und Melonenlikör."
 
-reagent-name-syndicate-bomb = Syndicate-Bombe
+reagent-name-syndicate-bomb = Syndikat-Bombe
 reagent-desc-syndicate-bomb = Jemand hat uns die Bombe aufgesetzt!
 
 reagent-name-tequila-sunrise = Tequila-Sonnenaufgang

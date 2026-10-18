@@ -61,7 +61,7 @@ id-card-access-level-maintenance = Instandhaltung
 id-card-access-level-external = Außen
 
 id-card-access-level-nuclear-operative = Kernbetriebsmittel
-id-card-access-level-syndicate-agent = Syndicate-Agent
+id-card-access-level-syndicate-agent = Syndikat-Agent
 
 id-card-access-level-central-command = CentComm
 

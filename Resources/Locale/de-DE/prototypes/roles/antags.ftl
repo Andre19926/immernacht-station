@@ -31,7 +31,7 @@ roles-antag-generic-silicon-antagonist-name = Silizium-Antagonist
 
 roles-antag-syndicate-agent-objective = Erfülle deine Ziele, ohne erwischt zu werden.
 
-roles-antag-syndicate-agent-sleeper-name = Syndicate-Schläferagent
+roles-antag-syndicate-agent-sleeper-name = Syndikat-Schläferagent
 roles-antag-syndicate-agent-sleeper-objective = Eine Art Verräter, der zu jedem beliebigen Zeitpunkt mitten in der Schicht aktiviert werden kann.
 
 roles-antag-initial-infected-name = Erstinfizierter

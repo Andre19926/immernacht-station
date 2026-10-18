@@ -49,11 +49,11 @@ ent-ClothingHeadHelmetHardsuitSyndie = Blutroter Hardsuit-Helm
 ent-ClothingHeadHelmetHardsuitSyndieMedic = Blutroter Sanitäter-Hardsuit-Helm
     .desc = Ein fortschrittlicher roter Hardsuit-Helm, speziell für medizinische Einsätze im Feld entwickelt.
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = Syndicate-Elite-Hardsuit-Helm
+ent-ClothingHeadHelmetHardsuitSyndieElite = Syndikat-Elite-Hardsuit-Helm
     .desc = Eine Elite-Version des blutroten Hardsuit-Helms mit verbesserter Panzerung und Feuerschutz. Eigentum der Gorlex Marauders.
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = Syndicate-Hardsuit-Helm
-    .desc = Eine aufgeblähte Version des blutroten Hardsuit-Helms, speziell für den Kommandanten eines Syndicate-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
+ent-ClothingHeadHelmetHardsuitSyndieCommander = Syndikat-Hardsuit-Helm
+    .desc = Eine aufgeblähte Version des blutroten Hardsuit-Helms, speziell für den Kommandanten eines Syndikat-Trupps gebaut. Die Panzerung für tödliche Feuergefechte an vorderster Front ist deutlich verbessert.
 
 ent-ClothingHeadHelmetHardsuitCybersun = Cybersun-Juggernaut-Helm
     .desc = Dieser Helm wurde in der Tau-Chromosphären-Anlage aus komprimierter roter Materie gefertigt.

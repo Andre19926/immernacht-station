@@ -16,7 +16,7 @@ ent-PinpointerStationGoob = Stationspinpointer
 ent-PinpointerThief = diebischer Pinpointer
     .desc = Ein Handortungsgerät, das alles Wertvolle anvisieren kann, einschließlich risikoreicher Gegenstände und stiehlbarer Strukturen, während sie ausgeschaltet sind. Halte aufrecht, um Genauigkeit zu behalten.
 
-ent-PinpointerSyndicateNuclearFission = Syndicate Nuke Pinpointer
+ent-PinpointerSyndicateNuclearFission = Syndikat-Nuke Pinpointer
     .desc = Produziert speziell für nukleare operative Missionen, hole dich diese Nuke!
 
 ent-PinpointerContractor = Auftragnehmer Pinpointer

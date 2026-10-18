@@ -76,5 +76,5 @@ ent-JVNECdDiskJNE = CD-Diskette (June & Eels Show)
 ent-JVNECdDiskNumber = CD-Diskette (Zahlen)
     .desc = Rund um den Maulbeerstrauch jagte der Affe das Wiesel ...
 
-ent-JVNECdDiskSyndicate = CD-Disk (Syndicate)
-    .desc = 102,9 Syndicate Radio
+ent-JVNECdDiskSyndicate = CD-Disk (Syndikat)
+    .desc = 102,9 Syndikat-Radio

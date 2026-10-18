@@ -24,7 +24,7 @@ selectable-set-thief-syndie-name = Syndie-Set
 selectable-set-thief-syndie-description =
     Kleinkram aus einer unrühmlichen Vergangenheit oder von einem nachlässigen Agenten gestohlen?
     Du hast einige Verbindungen geknüpft. Whiskey, Echo...
-    Enthält: Einen Emag, Zugangsbrecher, Interdyne-Zigaretten, ein Syndicate-Codewort,
+    Enthält: Einen Emag, Zugangsbrecher, Interdyne-Zigaretten, ein Syndikat-Codewort,
     einen Funkstörsender, eine neuartige Feuerzeugschachtel und einige seltsame rote Kristalle.
 
 selectable-set-thief-sleeper-name = Schläfer-Set
@@ -55,19 +55,19 @@ selectable-set-syndicate-spy-description =
     Erfülle deine Ziele unbemerkt mit dieser Zusammenstellung heimlicher Gegenstände.
     Enthält: Chamäleon-Diebeshandschuhe, Chamäleon-Set, Stimmmaske,
     Agentenausweis, Hypopen mit Nocturinflasche, Kamera-Störer,
-    Stealth-Box, Syndicate-Rettungsschere und einen Syndicate-Verschlüsselungsschlüssel.
+    Stealth-Box, Syndikat-Rettungsschere und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-hitman-name = Auftragskiller-Paket
 selectable-set-syndicate-hitman-description = Finde und beseitige deine Ziele leise und effektiv mit diesem Paket.
     Enthält: Cobra-Pistole mit 3 Ersatzmagazinen, CQC-Handbuch,
     eine spezielle unsichtbare Panzerweste, Interdyne-Kräuterpäckchen,
-    Kampf-Medkit, einen stilvollen Look und einen Syndicate-Verschlüsselungsschlüssel.
+    Kampf-Medkit, einen stilvollen Look und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-implants-name = Cyberpsychose-Bündel
 selectable-set-syndicate-implants-description =
     Ein paar Implantate, damit du Optionen hast, wenn du unweigerlich verhaftet wirst.
     Enthält: Nährstoffpumpe, Scram, Freiheit, Rauch,
-    Krav-Maga- und Syndicate-Funkimplantate, Sandevistan
+    Krav-Maga- und Syndikat-Funkimplantate, Sandevistan
     und gepaarte Mantisklingen als Autochirurgen und eine coole Jacke.
 
 selectable-set-syndicate-hacker-name = Hacker-Paket
@@ -75,23 +75,23 @@ selectable-set-syndicate-hacker-description =
     Ein Bündel mit allem, was du brauchst, um die Station selbst zu hacken und zu stören,
     die Stations-KI, ihre Cyborgs und das Sicherheitsteam. HACK THE PLANET!
     Enthält: Eine eigene Gesetzesplatine, Authentifizierungs-Disruptor, EMAG,
-    Funkstörsender, gefüllten Werkzeugkasten, experimentellen Syndicate-Teleporter,
-    Kühle Brille, binären Decoder-Implantator und einen Syndicate-Verschlüsselungsschlüssel.
+    Funkstörsender, gefüllten Werkzeugkasten, experimentellen Syndikat-Teleporter,
+    Kühle Brille, binären Decoder-Implantator und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-desword-name = Dunkler-Lord-Paket
 selectable-set-syndicate-desword-description = Verwandle deine Wut in Hass und deinen Hass in Leiden mit diesem Laserschwert.
     Enthält: doppelklingiges Energieschwert, Hyperzin-Mikroinjektor-Set, Klebstofftube,
-    die komplette Kleidung für ein ordentliches Cosplay und einen Syndicate-Verschlüsselungsschlüssel.
+    die komplette Kleidung für ein ordentliches Cosplay und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-grenadier-name = Grenadier-Bündel
 selectable-set-syndicate-grenadier-description =
     Ein paar Sprengstoffe, damit du dich aus jeder Situation heraussprengen kannst.
-    Enthält: Syndicate-Verschlüsselungsschlüssel, Bombenanzug, Grenadiergürtel,
+    Enthält: Syndikat-Verschlüsselungsschlüssel, Bombenanzug, Grenadiergürtel,
     explosionsgeschützten Rucksack und so viele Granaten, dass du beim Lesen der Liste einschläfst.
 
 selectable-set-syndicate-fluclear-name = Flucleares-Agenten-Bündel
 selectable-set-syndicate-fluclear-description =
-    Bekenne deine Treue zum Syndicate mit diesem Bündel und hol dir die verdammte Disk!
+    Bekenne deine Treue zum Syndikat mit diesem Bündel und hol dir die verdammte Disk!
     Enthält: C-20R-SMG, 3 Ersatzmagazine, Energieschild, Jetpack,
     einen blutroten Hardsuit und einige grundlegende Ausrüstungsgegenstände für Atomagenten.
 
@@ -99,18 +99,18 @@ selectable-set-syndicate-friendship-name = Freundschaftsbündel
 selectable-set-syndicate-friendship-description =
     Freundschaft ist Magie! Such dir mit diesem Bündel ein paar Freunde!
     Enthält: einen Bekehrungsstab und Handschellen für dich, 4 Gedankenkontroll-Implantate
-    und Mosin-Gewehre für deine Freunde sowie 5 Syndicate-Verschlüsselungsschlüssel für euch alle.
+    und Mosin-Gewehre für deine Freunde sowie 5 Syndikat-Verschlüsselungsschlüssel für euch alle.
 
 selectable-set-syndicate-carp-name = Karpfenbündel
 selectable-set-syndicate-carp-description =
     Grr. Rrr. Grr. Grrow? KOWABUNGA!
     Enthält: eine Schriftrolle vom Weg des schlafenden Karpfens, 10 dehydrierte Karpfen
-    (die Hälfte davon Holo), einen Karpfen-Hardsuit und einen Syndicate-Verschlüsselungsschlüssel.
+    (die Hälfte davon Holo), einen Karpfen-Hardsuit und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-western-name = Western-Paket
 selectable-set-syndicate-western-description =
     Zünde die Western-Holo-Zigarre an, kipp den Hut und lass die Musik spielen.
-    Enthält: Western-Holo-Zigarre, Syndicate-Verschlüsselungsschlüssel,
+    Enthält: Western-Holo-Zigarre, Syndikat-Verschlüsselungsschlüssel,
     Resonanzanzug, Sonnenbrille, klassischen Poncho,
     Cowboyhut und -stiefel, zwei Python-Revolver, sechs AP-Schnelllader
     und zwei fortgeschrittene Kampf-Medipens.
@@ -119,13 +119,13 @@ selectable-set-syndicate-sus-name = Sus-Bündel
 selectable-set-syndicate-sus-description =
     Wenn der Verräter sus ist. Der Verräter bist natürlich du.
     Enthält: einen fortgeschrittenen Schlangenmenschen-Overall, Verrätermesser, Miniatur-
-    Energiearmbrust, Stealth-Anzug und einen Syndicate-Verschlüsselungsschlüssel.
+    Energiearmbrust, Stealth-Anzug und einen Syndikat-Verschlüsselungsschlüssel.
 
 selectable-set-syndicate-builder-name = Baumeister-Bündel
 selectable-set-syndicate-builder-description =
     Es macht mehr Spaß, die Station herunterzufahren, als sie zu bauen. Aber es ist nicht so effektiv.
     Enthält: 2 ballistische Einweg-Geschütztürme, ein Telekristall-Miner-Flachpack,
-    einige Werkzeuge und Materialien für den Einstieg und einen Syndicate-Verschlüsselungsschlüssel.
+    einige Werkzeuge und Materialien für den Einstieg und einen Syndikat-Verschlüsselungsschlüssel.
 
 # Blueshield
 

@@ -16,5 +16,5 @@ ent-PlayerBorgMedical = Medizinischer Cyborg
 ent-PlayerBorgService = Service-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.
 
-ent-PlayerBorgSyndicateMedicalBattery = Syndicate-Sanitäter-Cyborg
+ent-PlayerBorgSyndicateMedicalBattery = Syndikat-Sanitäter-Cyborg
     .desc = Ein Kampfsanitäter-Cyborg. Hat begrenztes offensives Potenzial, macht das aber mit seinen Unterstützungsfähigkeiten mehr als wett.

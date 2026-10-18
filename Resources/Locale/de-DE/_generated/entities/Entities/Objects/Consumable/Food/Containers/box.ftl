@@ -57,7 +57,7 @@ ent-HappyHonkMime = Happy-Honk-Menü (Mime)
 ent-HappyHonkNukie = Robustes Nukie-Menü
     .desc = Eine verdächtige Mahlzeit mit potenziell explosiver Überraschung.
 
-ent-HappyHonkNukieSnacks = Syndicate-Snackbox
+ent-HappyHonkNukieSnacks = Syndikat-Snackbox
     .desc = Eine verdächtige Mahlzeit mit potenziell explosiver Überraschung.
 
 ent-HappyHonkCluwne = Happy-Honk-Menü (Cluwne)

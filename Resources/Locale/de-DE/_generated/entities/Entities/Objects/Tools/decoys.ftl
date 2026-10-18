@@ -1,14 +1,14 @@
 ent-BalloonOperative = betriebsbereiter Ballon
-    .desc = Bei näherer Betrachtung ist dieser Syndicate-Agent tatsächlich ein Ballon.
+    .desc = Bei näherer Betrachtung ist dieser Syndikat-Agent tatsächlich ein Ballon.
 
 ent-BalloonAgent = Korpsballon
-    .desc = Bei näherer Betrachtung ist dieser Syndicate-Corpman tatsächlich ein Ballon.
+    .desc = Bei näherer Betrachtung ist dieser Syndikat-Corpman tatsächlich ein Ballon.
 
 ent-BalloonElite = Elite-Agenten-Ballon
-    .desc = Bei genauerer Betrachtung ist dieser Syndicate-Elite-Agent tatsächlich ein Ballon.
+    .desc = Bei genauerer Betrachtung ist dieser Syndikat-Elite-Agent tatsächlich ein Ballon.
 
 ent-BalloonJuggernaut = Ballon
-    .desc = Bei näherer Betrachtung ist dieser Syndicate-Juggernaut tatsächlich ein Ballon.
+    .desc = Bei näherer Betrachtung ist dieser Syndikat-Juggernaut tatsächlich ein Ballon.
 
 ent-BalloonCommander = Kommandantballon
-    .desc = Bei näherer Betrachtung ist dieser Syndicate-Kommandant tatsächlich ein Ballon.
+    .desc = Bei näherer Betrachtung ist dieser Syndikat-Kommandant tatsächlich ein Ballon.

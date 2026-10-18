@@ -14,13 +14,13 @@ ent-EnergyCutlass = Energie-Scheibe
     .desc = Eine exotische Energiewaffe.
 
 ent-EnergySwordDouble = Doppelblatt-Energieschwert
-    .desc = Praktikanten des Syndicate-Kommandos fanden eine Klinge am Energieschwert nicht genug. Dieses hier lässt sich in Taschen verstauen.
+    .desc = Praktikanten des Syndikat-Kommandos fanden eine Klinge am Energieschwert nicht genug. Dieses hier lässt sich in Taschen verstauen.
 
 ent-CyborgEnergySword = Energieschwert
-    .desc = Ein sehr lautes und gefährliches Schwert mit einem Strahl aus reinem, konzentriertem Plasma. Speziell für Syndicate-Cyborgs entwickelt.
+    .desc = Ein sehr lautes und gefährliches Schwert mit einem Strahl aus reinem, konzentriertem Plasma. Speziell für Syndikat-Cyborgs entwickelt.
 
 ent-CyborgEnergySwordDouble = Doppelblatt-Energieschwert
-    .desc = Praktikanten des Syndicate-Kommandos fanden eine Klinge am Energieschwert nicht genug. Speziell für Syndicate-Cyborgs entwickelt.
+    .desc = Praktikanten des Syndikat-Kommandos fanden eine Klinge am Energieschwert nicht genug. Speziell für Syndikat-Cyborgs entwickelt.
 
 ent-EnergyDaggerLoudBlue = Energiedolch
     .desc = Ein nicht ganz so lauter und gefährlicher Dolch mit einem Strahl aus reinem, konzentriertem Plasma. Dieser ist völlig unscheinbar.

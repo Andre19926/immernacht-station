@@ -4,26 +4,26 @@ ent-AutosurgeonRightSpeedLeg = Autochirurg (rechtes S.P.E.E.D-Bein)
 ent-AutosurgeonLeftSpeedLeg = Autochirurg (linkes S.P.E.E.D-Bein)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonRightMantisBlade = Syndicate-Autochirurg (rechte Mantisklinge)
+ent-AutosurgeonRightMantisBlade = Syndikat-Autochirurg (rechte Mantisklinge)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonLeftMantisBlade = Syndicate-Autochirurg (linke Mantisklinge)
+ent-AutosurgeonLeftMantisBlade = Syndikat-Autochirurg (linke Mantisklinge)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonSandevistan = Syndicate-Autochirurg (Sandevistan)
+ent-AutosurgeonSandevistan = Syndikat-Autochirurg (Sandevistan)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonStatvekaSandevistan = Syndicate-Autochirurg (statveka sandevistan)
+ent-AutosurgeonStatvekaSandevistan = Syndikat-Autochirurg (statveka sandevistan)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonSmartLink = Syndicate-Autochirurg (Smartlink-Arms)
+ent-AutosurgeonSmartLink = Syndikat-Autochirurg (Smartlink-Arms)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonRecoilAbsorber = Syndicate-Autochirurg (rückstoßabsorbierende Arme)
+ent-AutosurgeonRecoilAbsorber = Syndikat-Autochirurg (rückstoßabsorbierende Arme)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonBerserker = Syndicate-Autochirurg (Berserker-Herz)
+ent-AutosurgeonBerserker = Syndikat-Autochirurg (Berserker-Herz)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.
 
-ent-AutosurgeonJumpstarter = Syndicate-Autochirurg (Jumpstarter-Herz)
+ent-AutosurgeonJumpstarter = Syndikat-Autochirurg (Jumpstarter-Herz)
     .desc = Ein Einweg-Autochirurg, um deine Körperteile durch kybernetische Implantate zu ersetzen oder aufzurüsten. Reiß diese Station auseinander und mach sie zu einem Teil von dir.

@@ -37,7 +37,7 @@ ent-RubberStampRd = Stempel des Forschungsdirektors
 ent-RubberStampTrader = Stempel des Händlers
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampSyndicate = Syndicate Stempel
+ent-RubberStampSyndicate = Syndikat-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampWarden = Warden-Stempel

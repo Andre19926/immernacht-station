@@ -41,7 +41,7 @@ ent-EncryptionKeyBinary = Binärer Übersetzerschlüssel
     .desc = Ein Verschlüsselungsschlüssel, der die binären Signale der Siliziumwesen übersetzt.
 
 ent-EncryptionKeyBinarySyndicate = Binärer Übersetzerschlüssel
-    .desc = Ein Syndicate-Verschlüsselungsschlüssel, der die binären Signale der Siliziumwesen übersetzt.
+    .desc = Ein Syndikat-Verschlüsselungsschlüssel, der die binären Signale der Siliziumwesen übersetzt.
 
 ent-EncryptionKeyFreelance = Freelancer-Verschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel für Freelancer, die vielleicht einer Gruppierung angehören, vielleicht auch nicht. Er sieht abgenutzt aus.

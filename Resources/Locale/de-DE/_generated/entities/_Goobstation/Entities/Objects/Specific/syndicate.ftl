@@ -25,8 +25,8 @@ ent-Telecrystal250 = Telekristall
 ent-Telecrystal500 = Telekristall
     .desc = Es scheint vor verdächtig verlockenden Energien zu pulsieren.
 
-ent-BaseUplinkRadio225TC = Syndicate Uplink
+ent-BaseUplinkRadio225TC = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …
 
-ent-BaseUplinkRadio225TCMedic = Syndicate Uplink
+ent-BaseUplinkRadio225TCMedic = Syndikat-Uplink
     .desc = Verdächtig aussehendes altes Radio …

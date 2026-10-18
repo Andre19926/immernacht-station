@@ -137,7 +137,7 @@ achievement-lavaland-tourist-name = Lavaland-Tourist
 achievement-lavaland-tourist-desc = Herrliches Wetter, wenn man Asche mag.
 
 achievement-mission-complete-name = MISSION ERFÜLLT
-achievement-mission-complete-desc = Das Syndicate wäre stolz.
+achievement-mission-complete-desc = Das Syndikat wäre stolz.
 achievement-expendable-name = Entbehrlich
 achievement-expendable-desc = Die Toten wissen nur eins: Lebendig ist besser.
 achievement-many-names-many-faces-name = Viele Namen, viele Gesichter

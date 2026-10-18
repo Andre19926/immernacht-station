@@ -37,11 +37,11 @@ ent-NukeCodePaper = Nukleare Authentifizierungscodes
 ent-NukeCodePaperStation = Nukleare Authentifizierungscodes
     .desc = Ein Stück weißes Papier.
 
-ent-TraitorCodePaper = Syndicate-Codewort
-    .desc = Ein durchgesickertes Codewort, mit dem du womöglich Kontakt zum Syndicate aufnehmen kannst.
+ent-TraitorCodePaper = Syndikat-Codewort
+    .desc = Ein durchgesickertes Codewort, mit dem du womöglich Kontakt zum Syndikat aufnehmen kannst.
 
-ent-AllTraitorCodesPaper = Syndicate-Codewort-Register
-    .desc = Ein Verzeichnis aller aktiven Syndicate-Codewörter.
+ent-AllTraitorCodesPaper = Syndikat-Codewort-Register
+    .desc = Ein Verzeichnis aller aktiven Syndikat-Codewörter.
 
 ent-Envelope = Hülle
     .desc = Ein kleiner Umschlag, der neugierige Augen von deinen sensiblen Dokumenten fernhält.

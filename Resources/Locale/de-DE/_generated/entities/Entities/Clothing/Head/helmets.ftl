@@ -58,8 +58,8 @@ ent-ClothingHeadHelmetERTEngineer = Helm von ERT-Ingenieuren
 ent-ClothingHeadHelmetERTJanitor = ERT Hausmeisterhelm
     .desc = Ein Atmos-Einsatzhelm, der von Hausmeistermitgliedern des Nanotrasen Notfallteams getragen wird. Hat dunkelviolette Akzente.
 
-ent-ClothingHeadHelmetRaid = Syndicate-Helm
-    .desc = Ein gepanzerter Helm für den Syndicate-Überfallanzug. Sehr stilvoll.
+ent-ClothingHeadHelmetRaid = Syndikat-Helm
+    .desc = Ein gepanzerter Helm für den Syndikat-Überfallanzug. Sehr stilvoll.
 
 ent-ClothingHeadHelmetBone = Knochenhelm
     .desc = Cool aussehender Helm aus dem Schädel deiner Feinde.

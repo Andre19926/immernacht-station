@@ -102,11 +102,11 @@ ent-RandomHumanoidChallengeVictimQM = Katastrophenopfer QM Geisterrolle
 
 ent-RandomHumanoidChallengeCargoTechnician = Katastrophenopfer: Frachttechniker (Geisterrolle)
 
-ent-RandomHumanoidSyndieSoldierTeamLeader = Syndicate-Teamleiter (Geisterrolle)
+ent-RandomHumanoidSyndieSoldierTeamLeader = Syndikat-Teamleiter (Geisterrolle)
 
-ent-RandomHumanoidSyndieSoldier = Syndicate Soldaten Geisterrolle
+ent-RandomHumanoidSyndieSoldier = Syndikat-Soldaten Geisterrolle
 
-ent-RandomHumanoidSyndieVisitor = Syndicate-Katastrophenopfer (Geisterrolle)
+ent-RandomHumanoidSyndieVisitor = Syndikat-Katastrophenopfer (Geisterrolle)
 
 ent-RandomHumanoidPirateScooner = Pirat (Geisterrolle)
 

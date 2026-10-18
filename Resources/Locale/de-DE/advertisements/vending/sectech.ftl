@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-sectech-1 = Spalte Syndicate-Schädel!
+advertisement-sectech-1 = Spalte Syndikat-Schädel!
 advertisement-sectech-2 = Schlag ein paar Köpfe rein!
 advertisement-sectech-3 = Denk dran: Schaden ist gut!
 advertisement-sectech-4 = Deine Waffen sind genau hier.

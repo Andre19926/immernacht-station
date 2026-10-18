@@ -22,19 +22,19 @@ ent-StationAiHoloLocal = KI-Hologramm
 ent-PlayerBorgBattery = Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der den Betrieb der Station unterstützt. Sie lieben es, wenn man sie bittet, ihre Gesetze immer wieder aufzusagen.
 
-ent-PlayerBorgSyndicateAssaultBattery = Syndicate-Angriffs-Cyborg
+ent-PlayerBorgSyndicateAssaultBattery = Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module.
 
-ent-PlayerBorgSyndicateAssaultGhostRole = Syndicate-Angriffs-Cyborg
+ent-PlayerBorgSyndicateAssaultGhostRole = Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module.
 
-ent-PlayerBorgSyndicateSaboteurBattery = Syndicate-Saboteur-Cyborg
+ent-PlayerBorgSyndicateSaboteurBattery = Syndikat-Saboteur-Cyborg
     .desc = Ein stromlinienförmiger Ingenieur-Cyborg mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn als Nanotrasen-Cyborg durchgehen.
 
-ent-PlayerBorgSyndicateSaboteurGhostRole = Syndicate-Saboteur-Cyborg
+ent-PlayerBorgSyndicateSaboteurGhostRole = Syndikat-Saboteur-Cyborg
     .desc = Ein stromlinienförmiger Ingenieur-Cyborg mit verdeckten Modulen. Sein Chamäleon-Projektor lässt ihn als Nanotrasen-Cyborg durchgehen.
 
-ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = Syndicate-Invasions-Cyborg-Spawner
+ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = Syndikat-Invasions-Cyborg-Spawner
 
 ent-PlayerEngineeringBorgDerelict = Verfallener Ingenieur-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Ingenieurabteilung unterstützt. Seine Oberfläche ist von Splittern seltsamer Kristalle durchsetzt.
@@ -66,8 +66,8 @@ ent-PlayerMiningBorgDerelict = Verfallener Bergungs-Cyborg
 ent-PlayerMiningBorgDerelictGhostRole = Verfallener Bergungs-Cyborg
     .desc = Ein Mensch-Maschine-Hybrid, der die Frachtabteilung unterstützt. Dieser hier hat die falsche Seite eines Gabonit-Brockens gesehen.
 
-ent-PlayerSyndicateAssaultBorgDerelict = Verfallener Syndicate-Angriffs-Cyborg
+ent-PlayerSyndicateAssaultBorgDerelict = Verfallener Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist eher rostorange als blutrot.
 
-ent-PlayerBorgSyndicateDerelictGhostRole = Verfallener Syndicate-Angriffs-Cyborg
+ent-PlayerBorgSyndicateDerelictGhostRole = Verfallener Syndikat-Angriffs-Cyborg
     .desc = Eine schlanke, fiese Tötungsmaschine mit Zugriff auf eine Vielzahl tödlicher Module. Dieser ist eher rostorange als blutrot.

@@ -31,7 +31,7 @@ ent-ClothingBeltMilitaryWebbingFilledERT = ERT Brustkorb
 ent-ChemBagFilled = Chemiebeutel
     .desc = Eine Tasche zur Aufbewahrung chemischer Produkte wie Pillen, Pillendosen, Flaschen und Spritzen.
 
-ent-ClothingBeltChemBagSyndiFilled = Syndicate Medical Pouch
+ent-ClothingBeltChemBagSyndiFilled = Syndikat-Medical Pouch
     .desc = Ein robuster Beutel für medizinischen Bedarf, getragen von Agenten der Gorlex-Marodeure. Riecht nach Desoxyephedrin.
 
 ent-ClothingBeltHolsterFilledBlueshield = Schulterholster

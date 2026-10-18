@@ -29,7 +29,7 @@ ent-ClothingBeltSheathFilled = Säbelschale
     .desc = Eine verzierte Hülle, die dazu bestimmt ist, die Klinge eines Offiziers zu halten.
 
 ent-ClothingBeltMilitaryWebbingGrenadeFilled = Grenadierkiste
-    .desc = Eine Reihe von taktischen Gurten getragen von Syndicate Boarding Parteien.
+    .desc = Eine Reihe von taktischen Gurten getragen von Enterkommandos des Syndikats.
 
 ent-ClothingBeltMilitaryWebbingMedFilled = Medizinischer Brustkorb
     .desc = Eine Reihe von taktischen Gurten von Gorlex Marauder Sanitäter getragen.

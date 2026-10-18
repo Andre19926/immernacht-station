@@ -41,7 +41,7 @@ chat-radio-science = Wissenschaft
 chat-radio-security = Sicherheit
 chat-radio-service = Service
 chat-radio-supply = Fracht
-chat-radio-syndicate = Syndicate
+chat-radio-syndicate = Syndikat
 chat-radio-freelance = Freelancer
 
 # not headset but whatever

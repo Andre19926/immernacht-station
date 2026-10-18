@@ -53,7 +53,7 @@ thief-backpack-category-syndie-name = Syndie-Set
 thief-backpack-category-syndie-description =
     Krimskrams aus einer verleugneten Vergangenheit – oder von einem nachlässigen Agenten geklaut?
     Du hast einige Verbindungen geknüpft. Whiskey, Echo ...
-    Enthält: einen Emag, einen Zugangsbrecher, Interdyne-Zigaretten, ein Syndicate-Codewort,
+    Enthält: einen Emag, einen Zugangsbrecher, Interdyne-Zigaretten, ein Syndikat-Codewort,
     einen Funkstörsender, ein Feuerzeug und einige seltsame rote Kristalle.
 
 thief-backpack-category-sleeper-name = Schläfer-Set

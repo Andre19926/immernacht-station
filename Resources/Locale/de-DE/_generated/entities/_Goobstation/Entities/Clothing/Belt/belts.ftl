@@ -10,7 +10,7 @@ ent-ClothingBeltSecurityWebbingMedical = ERT-Sanitäter-Brustgurt
 ent-ClothingBeltCorporateJudo = Konzern-Judogürtel
     .desc = Bringt dem Träger das Nanotrasen-Unternehmens-Judo bei.
 
-ent-ClothingBeltChemBagSyndi = Syndicate Medical Pouch
+ent-ClothingBeltChemBagSyndi = Syndikat-Medical Pouch
     .desc = Ein robuster Beutel für medizinischen Bedarf, getragen von Agenten der Gorlex-Marodeure. Riecht nach Desoxyephedrin.
 
 ent-ClothingBeltSheathHeadOfSecurity = Leiter der Sicherheitshülle
