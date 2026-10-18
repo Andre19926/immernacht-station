@@ -188,10 +188,73 @@ public sealed class EventPanelSystem : EntitySystem
                || id.Contains("Decal", StringComparison.Ordinal);
     }
 
+    /// <summary>Regeln, die Gruppen/Antagonisten/Ghost-Rollen spawnen, ohne AntagSelection zu benutzen (Komponentennamen).</summary>
+    private static readonly string[] AntagComponentNames =
+    {
+        "AntagSelection", "AntagSpawner", "AntagRandomSpawn", "AntagLoadProfileRule", "AntagObjectives",
+        "ActivePirateRule", "PendingPirateRule", "NukeopsRule", "ZombieRule", "XenomorphsRule", "XenoborgsRule",
+        "BlobRule", "BlobSpawnRule", "DragonRule", "ParadoxCloneRule", "SurvivorRule", "TraitorRule",
+        "ThiefRule", "WizardRule", "RevolutionaryRule", "HereticRule", "ChangelingRule", "ShadowlingRule",
+        "CosmicCultRule", "DevilRule", "GangwarRule", "AbductorVictimRule",
+    };
+
+    /// <summary>Komponenten, die Angriffe/Zerstörung/feindliche Mobs auslösen.</summary>
+    private static readonly string[] DangerComponentNames =
+    {
+        "MeteorSwarm", "ImmovableRodRule", "MobReplacementRule", "AnomalySpawnRule", "BluespaceArtifactRule",
+        "IonStormRule", "MassHallucinationsRule", "SolarFlareRule", "PowerGridCheckRule", "VentClogRule",
+        "RandomMultipleSpawnRule",
+    };
+
+    /// <summary>Prototyp-ID-Muster für Trupps/Angriffe (ERT, CBURN, HECU, Todesschwadron, Piraten, Raids, Zombies, Revenant …).</summary>
+    private static readonly string[] AntagIdPatterns =
+    {
+        "SpawnERT", "SpawnCBURN", "SpawnDeathsquad", "SpawnHECU", "Pirate", "Raider", "Raid", "Nukeops", "Zombie",
+        "Revenant", "Xeno", "Abductor", "Ninja", "Wizard", "Dragon", "Blob", "Deathsquad", "Syndicate",
+    };
+
+    private static readonly string[] DangerIdPatterns = { "Meteor", "Rift", "Swarm", "Mimic" };
+
+    private static bool HasAny(EntityPrototype proto, string[] names)
+    {
+        foreach (var n in names)
+        {
+            if (proto.Components.ContainsKey(n))
+                return true;
+        }
+
+        return false;
+    }
+
+    private static bool IdContains(string id, string[] patterns)
+    {
+        foreach (var p in patterns)
+        {
+            if (id.Contains(p, StringComparison.OrdinalIgnoreCase))
+                return true;
+        }
+
+        return false;
+    }
+
     private EventPanelCategory Categorize(EntityPrototype proto)
     {
-        if (proto.TryGetComponent<AntagSelectionComponent>(out _, EntityManager.ComponentFactory))
+        if (proto.TryGetComponent<AntagSelectionComponent>(out _, EntityManager.ComponentFactory)
+            || HasAny(proto, AntagComponentNames)
+            // Karten-/Trupp-Spawns (ERT, CBURN, HECU, Todesschwadron …) laden Maps mit Ghost-Rollen.
+            || ((proto.Components.ContainsKey("LoadMapRule") || proto.Components.ContainsKey("RuleGrids"))
+                && !proto.ID.StartsWith("UnknownShuttle", StringComparison.Ordinal)
+                && IdContains(proto.ID, AntagIdPatterns))
+            || (!IsTechnicalId(proto.ID) && IdContains(proto.ID, new[] { "Pirate", "Revenant", "Zombie", "Deathsquad", "CBURN", "HECU", "SpawnERT" })))
+        {
             return EventPanelCategory.Antagonist;
+        }
+
+        if (HasAny(proto, DangerComponentNames) || (proto.Components.ContainsKey("GameRule") && IdContains(proto.ID, DangerIdPatterns) && !IsTechnicalId(proto.ID)))
+        {
+            // Auch wenn der StationEvent-Typ Neutral/Maintenance ist: feindliche Regeln sind Gefahr.
+            return EventPanelCategory.Danger;
+        }
 
         if (!proto.TryGetComponent<StationEventComponent>(out var ev, EntityManager.ComponentFactory))
             return EventPanelCategory.Other;

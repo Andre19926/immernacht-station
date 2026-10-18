@@ -39,6 +39,18 @@ public sealed class EventPanelTest
             Assert.That(catalog.Any(e => e.Category == EventPanelCategory.Danger));
             Assert.That(catalog.Any(e => e.Category == EventPanelCategory.Antagonist));
 
+            // Gruppenspawns/Trupps/Angriffe dürfen nie Harmlos/Spaß sein und brauchen Bestätigung.
+            foreach (var id in new[] { "SpawnDeathsquad", "SpawnCBURN", "SpawnHECU", "SpawnERTSecurity", "SpawnERTMedical", "PiratesSpawn", "SpacePirates", "Nukeops", "LoneOpsSpawn", "ZombieOutbreak", "BlobSpawn", "GameRuleMeteorSwarmLarge", "ImmovableRodSpawn", "MalignRiftSpawn", "MimicVendorRule" })
+            {
+                var e = catalog.FirstOrDefault(c => c.Id == id);
+                Assert.That(e, Is.Not.Null, id);
+                Assert.That(e!.Category, Is.AnyOf(EventPanelCategory.Antagonist, EventPanelCategory.Danger), id);
+                Assert.That(e.NeedsConfirmation, Is.True, id);
+            }
+
+            foreach (var e in catalog)
+                TestContext.Out.WriteLine($"CAT {e.Category} {e.Id}");
+
             // Technische Regeln (Variation-Passes) müssen markiert sein, normale Events nicht.
             Assert.That(catalog.Any(e => e.Technical && e.Id.Contains("VariationPass")));
             Assert.That(catalog.Where(e => e.Category == EventPanelCategory.Harmless).Any(e => !e.Technical));

@@ -45,6 +45,12 @@ public sealed class EventPanelTab : BoxContainer
     private ConfirmWindow? _confirm;
     private readonly CheckBox _hideTechnical;
 
+    // Sortierung der Liste laufender Events (bleibt beim Refresh erhalten).
+    private enum SortColumn { Event, Since, Starter }
+    private SortColumn _sortColumn = SortColumn.Since;
+    private bool _sortDescending = true;
+    private readonly Dictionary<SortColumn, Button> _sortButtons = new();
+
     public EventPanelTab()
     {
         IoCManager.InjectDependencies(this);
@@ -66,6 +72,7 @@ public sealed class EventPanelTab : BoxContainer
         };
         var top = new BoxContainer { Orientation = LayoutOrientation.Vertical, VerticalExpand = true, MinHeight = 90 };
         top.AddChild(_runningHeader);
+        top.AddChild(BuildSortHeader());
 
         _runningEmpty = new Label
         {
@@ -235,6 +242,98 @@ public sealed class EventPanelTab : BoxContainer
 
     // ------------------------------------------------------------------ Laufende Events
 
+    private const float EndColumnWidth = 80f;
+    private const float SinceColumnWidth = 140f;
+    private const float StarterColumnWidth = 150f;
+
+    private Control BuildSortHeader()
+    {
+        var header = new BoxContainer { Orientation = LayoutOrientation.Horizontal, SeparationOverride = 6 };
+
+        Button Make(SortColumn col, string locKey, float width, bool expand)
+        {
+            var b = new Button
+            {
+                ToolTip = Loc.GetString("event-panel-sort-tooltip"),
+                ClipText = true,
+                HorizontalExpand = expand,
+                MinWidth = width,
+                StyleClasses = { "OpenBoth" },
+            };
+            b.Label.HorizontalAlignment = HAlignment.Left;
+            b.OnPressed += _ =>
+            {
+                if (_sortColumn == col)
+                    _sortDescending = !_sortDescending;
+                else
+                {
+                    _sortColumn = col;
+                    // Zeit: längste zuerst; Namen: A–Z.
+                    _sortDescending = col == SortColumn.Since;
+                }
+
+                UpdateSortHeader();
+                RebuildRunning();
+            };
+            _sortButtons[col] = b;
+            header.AddChild(b);
+            return b;
+        }
+
+        Make(SortColumn.Event, "event-panel-column-event", 0, true);
+        Make(SortColumn.Since, "event-panel-column-since", SinceColumnWidth, false);
+        Make(SortColumn.Starter, "event-panel-column-starter", StarterColumnWidth, false);
+        header.AddChild(new Control { MinWidth = EndColumnWidth });
+        UpdateSortHeader();
+        return header;
+    }
+
+    private void UpdateSortHeader()
+    {
+        foreach (var (col, b) in _sortButtons)
+        {
+            var key = col switch
+            {
+                SortColumn.Event => "event-panel-column-event",
+                SortColumn.Since => "event-panel-column-since",
+                _ => "event-panel-column-starter",
+            };
+            var text = Loc.GetString(key);
+            if (col == _sortColumn)
+                text += _sortDescending ? " ▼" : " ▲";
+            b.Text = text;
+        }
+    }
+
+    private IEnumerable<EventPanelRunning> SortRunning(List<EventPanelRunning> list)
+    {
+        var cmp = StringComparer.CurrentCultureIgnoreCase;
+        var system = Loc.GetString("event-panel-column-system");
+
+        // Laufzeit in Sekunden; vorgemerkte (nicht gestartete) Regeln zählen als 0.
+        double Elapsed(EventPanelRunning r) =>
+            r.Active && r.ActivatedAt is { } at ? Math.Max(0, (_timing.CurTime - at).TotalSeconds) : -1;
+
+        IOrderedEnumerable<EventPanelRunning> ordered;
+        switch (_sortColumn)
+        {
+            case SortColumn.Event:
+                ordered = _sortDescending ? list.OrderByDescending(r => r.Name, cmp) : list.OrderBy(r => r.Name, cmp);
+                break;
+            case SortColumn.Starter:
+                ordered = _sortDescending
+                    ? list.OrderByDescending(r => r.Starter ?? system, cmp)
+                    : list.OrderBy(r => r.Starter ?? system, cmp);
+                break;
+            default:
+                ordered = _sortDescending ? list.OrderByDescending(Elapsed) : list.OrderBy(Elapsed);
+                break;
+        }
+
+        // Stabile Zweitsortierung nach Name.
+        return ordered.ThenBy(r => r.Name, cmp);
+    }
+
     private void RebuildRunning()
     {
         _runningList.RemoveAllChildren();
@@ -251,7 +350,7 @@ public sealed class EventPanelTab : BoxContainer
             return;
         }
 
-        foreach (var r in running)
+        foreach (var r in SortRunning(running))
         {
             var row = new BoxContainer { Orientation = LayoutOrientation.Horizontal, SeparationOverride = 6 };
 
@@ -282,7 +381,7 @@ public sealed class EventPanelTab : BoxContainer
                     ? Loc.GetString("event-panel-running-by-admin", ("admin", admin))
                     : Loc.GetString("event-panel-running-by-system"),
                 Modulate = r.Starter != null ? Color.FromHex("#f0c060") : Color.Gray,
-                MinWidth = 150,
+                MinWidth = StarterColumnWidth,
                 ClipText = true,
                 ToolTip = Loc.GetString("event-panel-running-by-tooltip"),
             };
@@ -291,7 +390,7 @@ public sealed class EventPanelTab : BoxContainer
             {
                 Text = state,
                 Modulate = r.Active ? Color.LightGreen : Color.Gold,
-                MinWidth = 140,
+                MinWidth = SinceColumnWidth,
             };
 
             var end = new Button
@@ -299,13 +398,14 @@ public sealed class EventPanelTab : BoxContainer
                 Text = Loc.GetString("event-panel-end"),
                 ToolTip = Loc.GetString("event-panel-end-tooltip"),
                 ModulateSelfOverride = Color.FromHex("#e07070"),
+                MinWidth = EndColumnWidth,
             };
             var entity = r.Entity;
             end.OnPressed += _ => _panel.EndEvent(entity);
 
             row.AddChild(name);
-            row.AddChild(starter);
             row.AddChild(stateLabel);
+            row.AddChild(starter);
             row.AddChild(end);
             _runningList.AddChild(row);
         }

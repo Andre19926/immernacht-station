@@ -59,3 +59,9 @@ event-panel-type-HostilesSpawn = Feindliche Wesen
 event-panel-type-FriendlySpawn = Freundliche Wesen
 event-panel-type-FreeStuff = Geschenke
 event-panel-type-FreeStuffUseful = Nützliche Geschenke
+
+event-panel-column-event = Event
+event-panel-column-since = Aktiv seit
+event-panel-column-starter = Gestartet von
+event-panel-column-system = System
+event-panel-sort-tooltip = Klicken zum Sortieren (aufsteigend/absteigend).

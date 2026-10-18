@@ -59,3 +59,9 @@ event-panel-type-HostilesSpawn = Hostile creatures
 event-panel-type-FriendlySpawn = Friendly creatures
 event-panel-type-FreeStuff = Free stuff
 event-panel-type-FreeStuffUseful = Useful free stuff
+
+event-panel-column-event = Event
+event-panel-column-since = Active since
+event-panel-column-starter = Started by
+event-panel-column-system = System
+event-panel-sort-tooltip = Click to sort (ascending/descending).
