@@ -1,4 +1,4 @@
-station-proximity-far-from-station = Du fühlst, dass etwas kommt, du solltest zurück zur Station gehen.
+station-proximity-far-from-station = Du spürst, dass etwas naht – du solltest zur Station zurückkehren.
 
 petting-success-leviathan = Gegen jeden gesunden Menschenverstand streichelst du den Weltraum-Leviathan. Irgendwie.
 petting-failure-leviathan = Was.

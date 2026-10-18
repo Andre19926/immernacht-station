@@ -4,10 +4,10 @@ marking-MakeupLips = Lippen
 marking-MakeupBlush-blush = Erröten
 marking-MakeupBlush = Rouge
 
-marking-MakeupNailPolishLeft-nail_polish_l = Links Nagelpolnisch
+marking-MakeupNailPolishLeft-nail_polish_l = Nagellack (links)
 marking-MakeupNailPolishLeft = Nagellack (links)
 
-marking-MakeupNailPolishRight-nail_polish_r = Rechter Nagelpolnisch
+marking-MakeupNailPolishRight-nail_polish_r = Nagellack (rechts)
 marking-MakeupNailPolishRight = Nagellack (rechts)
 
 marking-MakeupMothBlush-moth_blush = Motten-Rouge

@@ -21,7 +21,7 @@ reagent-name-blood = Blut
 reagent-desc-blood = Ich hoffe, das ist Ketchup.
 
 reagent-name-insect-blood = Insektenblut
-reagent-desc-insect-blood = Okay, das ist wirklich grob. Sieht fast ... lebendig aus?
+reagent-desc-insect-blood = Okay, das ist wirklich eklig. Sieht fast ... lebendig aus?
 
 reagent-name-slime = Schleim
 reagent-desc-slime = Du dachtest zuerst, das wäre Blut mit Farbverlauf – ein Irrtum.
@@ -36,7 +36,7 @@ reagent-name-ammonia-blood = anaerobes Blut
 reagent-desc-ammonia-blood = Nichts anderes in der gesamten Galaxie riecht so entsetzlich.
 
 reagent-name-zombie-blood = Zombieblut
-reagent-desc-zombie-blood = Ich würde nicht raten zu essen. Kann verwendet werden, um eine Impfung gegen die Infektion zu schaffen.
+reagent-desc-zombie-blood = Ich würde davon abraten, das zu essen. Kann zur Herstellung eines Impfstoffs gegen die Infektion verwendet werden.
 
 reagent-name-ichor = Ichor
 reagent-desc-ichor = Eine extrem starke regenerative Chemikalie, perfektioniert durch die Entwicklung der Weltraumfauna. Produziert im Verdauungssystem des Drachen, wird es aufgrund der gigantischen Bemühungen, nach ihm zu jagen, als exotische Ware angesehen.

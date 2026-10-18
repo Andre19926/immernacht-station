@@ -1,6 +1,6 @@
-slime-action-latch-success = Die {$slime} Verrastungen am {$target}!
+slime-action-latch-success = {$slime} saugt sich an {$target} fest!
 
-slime-latch-attempt = Die {$slime} versucht, sich an der {$ent}!
+slime-latch-attempt = {$slime} versucht, sich an {$ent} festzusaugen!
 
 slime-latch-fail-target-dead = Du willst {$ent} nicht verschlingen, es ist tot!
 

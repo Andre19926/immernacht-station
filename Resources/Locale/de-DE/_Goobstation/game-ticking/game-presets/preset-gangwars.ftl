@@ -1,5 +1,5 @@
 roles-antag-gang-leader-name = Bandenchef
-roles-antag-gang-leader-objective = Beweise, dass du immer noch hast, was es braucht. Beanspruche Territorium, sammeln dich Punkte und vernichte jede rivalisierende Gang, die dir im Weg steht.
+roles-antag-gang-leader-objective = Beweise, dass du immer noch hast, was es braucht. Beanspruche Territorium, sammle Punkte und vernichte jede rivalisierende Gang, die dir im Weg steht.
 
 roles-antag-gang-name = Gangmitglied
 roles-antag-gang-objective = Steh hinter deinem Anführer, verteidige dein Revier und hilf deiner Gang, die Station zu beherrschen, bevor es die Rivalen tun.
@@ -7,7 +7,7 @@ roles-antag-gang-objective = Steh hinter deinem Anführer, verteidige dein Revie
 gang-leader-role-greeting = Du bist Bandenchef. Deine Bosse sind nicht begeistert: Deine jüngsten Misserfolge haben dich aufs Abstellgleis gebracht. Das ist deine letzte Chance. Schlag hart zu, rekrutiere, wen du kannst, und zeig allen, wer hier das Sagen hat.
 
 gang-leader-action-summon-locker-name = Gang-Schließfach beschwören
-gang-leader-action-summon-locker-desc = Beschwören sie ihr bandenschließfach zu ihrem standort. Wenn bereits platziert, verschiebe es stattdessen.
+gang-leader-action-summon-locker-desc = Beschwöre dein Bandenschließfach an deinen Standort. Falls es bereits platziert ist, wird es stattdessen verschoben.
 
 gang-member-action-toggle-overlay-name = Revieranzeige umschalten
 gang-member-action-toggle-overlay-desc = Zeige oder verstecke die Territoriumsüberlagerung.
@@ -17,7 +17,7 @@ gang-leader-locker-summoned = Dein Schließfach ist auf dem Weg!
 gang-leader-member-accepted = Deine Gang-Einladung wurde angenommen.
 gang-leader-member-denied = Deine Gang-Einladung wurde abgelehnt.
 gang-invite-target-already-member = Diese Person ist bereits in einer Gang.
-gang-invite-sent = {$name} wurde eingeladen! Warten auf ihre Antwort.
+gang-invite-sent = {$name} wurde eingeladen! Warte auf die Antwort.
 gang-invite-already-outgoing = Du hast bereits eine ausgehende Einladung!
 gang-invite-target-invalid = Diese Person kann sich keiner Gang anschließen!
 
@@ -80,15 +80,15 @@ gang-store-listing-machete-name = Gangstermachete
 gang-store-listing-machete-desc = Sehr effektiv beim Abschneiden von Gliedmaßen.
 
 gang-store-listing-throwingknife-name = Messer werfen
-gang-store-listing-throwingknife-desc = Ein ausgewogenes Messer zum Werfen. Gut zum Abholen von Feinden aus Reichweite.
+gang-store-listing-throwingknife-desc = Ein ausgewogenes Messer zum Werfen. Gut, um Feinde aus der Distanz zu erledigen.
 
 gang-store-listing-baseballbat-name = Baseballschläger
 gang-store-listing-baseballbat-desc = Zieh ihm eins über, am besten ins Gesicht.
 
 gang-store-listing-propaint-name = Sprühfarbe
-gang-store-listing-propaint-desc = Eine Dose Gang Spray Farbe. Verwende es, um Territorium für deine Crew zu beanspruchen.
+gang-store-listing-propaint-desc = Eine Dose Gang-Sprühfarbe. Verwende sie, um Territorium für deine Crew zu beanspruchen.
 
-gang-store-listing-clothes-bundle-name = Gang Kleidung Bundle
+gang-store-listing-clothes-bundle-name = Gang-Kleidungsbündel
 gang-store-listing-clothes-bundle-desc = Ein Ersatzset Gang-Klamotten: Schuhe, Overall, Jacke und ein auffälliger Zylinder. Zeig deine Farben, um Gebietsvorteile zu verdienen.
 
 gangwar-crate-drop-announcement = Es heißt, eine Bandenkiste ist bei {$location} gelandet. Sie enthält besonders wertvolle Beute. Jede Bande auf der Station will sie. Hol sie dir.
@@ -99,8 +99,8 @@ gangwar-duffelbag-drop-unknown-location = ein unbekannter Ort
 gang-store-listing-light-armor-vest-name = Leichte Rüstungsweste
 gang-store-listing-light-armor-vest-desc = Eine gepanzerte Weste vom Typ I. Nicht auffällig, aber es wird dich in einem Kampf länger atmen lassen.
 
-gang-crate-no-locker-nearby = Du musst in der nähe eines bandenschließfachs sein, um dies zu öffnen.
-gang-crate-reward-popup = Deine Bande hat die Kiste gesichert! +{$points} Gangpunkte!
+gang-crate-no-locker-nearby = Du musst in der Nähe eines Bandenschließfachs sein, um dies zu öffnen.
+gang-crate-reward-popup = Deine Bande hat die Kiste gesichert! +{$points} Gang-Punkte!
 
 gang-duffel-bag-untrapped = Du schneidest deine Hand auf die Tasche der Falle!
 gang-duffel-bag-untrapping = Du fängst an, die Falle zu entwaffnen.
@@ -134,14 +134,14 @@ gang-objective-recruit-title = Rekrutiere {$count ->
 } zu deiner Gang
 gang-objective-recruit-description = Nutze deine Angebotsaktion, um loyale Soldaten in die Herde zu bringen.
 
-gang-objective-first-place-title = Sei auf dem ersten Platz
+gang-objective-first-place-title = Belege den ersten Platz
 gang-objective-first-place-description = Stelle sicher, dass deine Gang am Ende der Runde an erster Stelle steht.
 
-gang-objective-earn-points-title = Verdienst {$count} Gang-Punkte
+gang-objective-earn-points-title = Verdiene {$count} Gang-Punkte
 gang-objective-earn-points-description = Hilf deiner Gang, Punkte zu sammeln.
 
 gang-store-listing-tipoff-name = Hinweis
-gang-store-listing-tipoff-desc = Plane einen frühen Duffelbeutel mit Leckereien. Ein zufälliger Zivilist wird über NanoChat über den Drop-Standort informiert.
+gang-store-listing-tipoff-desc = Plane einen frühen Abwurf eines Seesacks mit Leckereien. Ein zufälliger Zivilist wird über NanoChat über den Abwurfort informiert.
 
 gangwar-tipoff-nanochat-sender = Anonym
 gangwar-tipoff-nanochat-message = Frag nicht, woher ich das weiß, aber in der Nähe von {$location} liegt ein Seesack versteckt. Schnapp ihn dir, bevor die Banden es tun. Du hast {$seconds} Sekunden, bevor es sich herumspricht.

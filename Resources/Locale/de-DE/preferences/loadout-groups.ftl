@@ -56,7 +56,7 @@ loadout-group-hop-backpack = Personalchef: Rucksack
 loadout-group-hop-outerclothing = Personalchef: Oberbekleidung
 
 # Civilian
-loadout-group-passenger-jumpsuit = Assistent: Uniform ok
+loadout-group-passenger-jumpsuit = Assistent: Uniform
 loadout-group-passenger-mask = Assistent: Maske
 loadout-group-passenger-gloves = Assistent: Handschuhe
 loadout-group-passenger-outerclothing = Assistent: Oberbekleidung

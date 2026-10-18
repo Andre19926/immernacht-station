@@ -41,9 +41,9 @@ rev-briefing = Hilf deinen Revolutionsführern, jeden Abteilungsleiter zu bekehr
 rev-title = Revolutionäre
 rev-description = Revolutionäre, die unter der Crew verborgen sind, versuchen, andere zu ihrer Sache zu bekehren und die Führung zu stürzen.
 
-rev-not-enough-ready-players = Nicht genug Spieler haben sich auf das Spiel vorbereitet. Es gab {$readyPlayersCount} Spieler bereiten sich aus {$minimumPlayers} benötigt. Ich kann keine Revolutionäre starten.
-rev-no-one-ready = Keine Spieler bereit! Ich kann keine Revolutionäre starten.
-rev-no-heads = Es gab keine Hauptrevolutionäre, die ausgewählt werden sollten. Ich kann keine Revolutionäre starten.
+rev-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Die Revolution kann nicht gestartet werden.
+rev-no-one-ready = Keine Spieler bereit! Die Revolution kann nicht gestartet werden.
+rev-no-heads = Es konnten keine Revolutionsführer ausgewählt werden. Die Revolution kann nicht gestartet werden.
 
 rev-won = Die Hauptrevolutionäre überlebten und eroberten erfolgreich die Kontrolle über die Station.
 

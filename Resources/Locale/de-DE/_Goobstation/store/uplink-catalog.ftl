@@ -223,10 +223,10 @@ uplink-sarin-gas-grenade-name = Sarin-Gasgranaten
 uplink-sarin-gas-grenade-desc = Ein brutales Nervengas, das betäubt, blind macht und jeden vergiftet, der unglücklich genug ist, einen Hauch davon abzubekommen, und jeden verbrennt, der keinen Voidsuit trägt, sodass er sich am Boden windet und darum bittet, dass es endet.
 
 uplink-M172LAW-name = M172 Leichte Antistrukturwaffe
-uplink-M172LAW-desc = Ein Einweg-Raketenwerfer mit einem einzigen Schuss zum Herausnehmen einzelner Wände / Maschinen mit minimalem Kollateralschaden. kann bequem in deinem Rucksack aufbewahrt werden.
+uplink-M172LAW-desc = Ein Einweg-Raketenwerfer mit nur einem Schuss, um einzelne Wände oder Maschinen mit minimalem Kollateralschaden auszuschalten. Passt bequem in deinen Rucksack.
 
 uplink-RPOA-name = RPO-A „Shmel
-uplink-RPOA-desc = Ein Einweg-Thermoraketenwerfer mit einem einzigen Schuss, der Feinden und Geiseln in einem weiten Radius Feuer versetzt. kann in deinem Rucksack aufbewahrt werden.
+uplink-RPOA-desc = Ein Einweg-Thermobarraketenwerfer mit nur einem Schuss, der Feinde und Geiseln in einem weiten Radius in Brand setzt. Passt in deinen Rucksack.
 
 uplink-ExplosivePayloadBlueprint-name = Explosive Nutzlast Blueprint
 uplink-ExplosivePayloadBlueprint-desc = Eine Blaupause, mit der ein einzelner Lathe explosive Nutzlasten drucken kann. Das ist ein illegales und gefährliches Gerät, das in Granaten verwendet werden kann.
@@ -284,7 +284,7 @@ uplink-autosurgeon-sandevistan-name = Sandevistan-Autochirurg
 uplink-autosurgeon-sandevistan-desc = Ersetzt das Herz des Benutzers durch Sandevistan, ein synthetisches Organ, das die Geschwindigkeit des Benutzers auf Kosten seiner Ausdauer drastisch erhöht. Erfordert zu viel Feinabstimmung für einen Menschen; kommt mit einem Einweg-Autochirurgen für die Installation.
 
 uplink-autosurgeon-statveka-sandevistan-name = Statveka Sandevistan Autochirurg
-uplink-autosurgeon-statveka-sandevistan-desc = Ersetzt das Herz des Benutzers durch eine Statveka Sandevistan, ein synthetisches Organ, das die Geschwindigkeit und den Reflex des Benutzers auf Kosten seiner Ausdauer drastisch erhöht. Im Gegensatz zu ihrem normalen Gegenstück verlangsamt sie scheinbar die Zeit in der Nähe des Benutzers. kommt mit einem Einweg-Autochirurgen für die Installation.
+uplink-autosurgeon-statveka-sandevistan-desc = Ersetzt das Herz des Benutzers durch einen Statveka-Sandevistan, ein synthetisches Organ, das Geschwindigkeit und Reflexe des Benutzers auf Kosten seiner Ausdauer drastisch erhöht. Anders als sein normales Gegenstück verlangsamt dieses scheinbar die Zeit in der Nähe des Benutzers. Wird mit einem Einweg-Autochirurgen zur Installation geliefert.
 
 uplink-davids-jacket-name = Edgerunner-Jacke
 uplink-davids-jacket-desc = Eine Jacke für alle, die besonders daran interessiert sind, ihren Körper zu verbessern – genau wie du.

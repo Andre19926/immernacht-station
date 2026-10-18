@@ -2,12 +2,12 @@ gps-window-title = GLOBALES POSITIONSSYSTEM
 gps-window-name-label = Bezeichnung
 
 gps-window-gps-position-label = GPS-Koordinaten
-gps-window-tracked-position-label = Verfolgte Coords
+gps-window-tracked-position-label = Verfolgte Koordinaten
 gps-window-position-none = N/A
 
 gps-window-clear-tracking-button = Leeren
 
-gps-window-visibility-on = Sichtbarkeit: am
+gps-window-visibility-on = Sichtbarkeit: an
 gps-window-visibility-off = Sichtbarkeit: ausgeschaltet
 
 gps-window-visibility-tooltip = Kontrolliert die Sichtbarkeit dieses GPS auf anderen Radaren.

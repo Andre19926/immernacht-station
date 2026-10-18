@@ -9,7 +9,7 @@ traitorling-title = Verräterling
 traitorling-description = Achtung. Bekannte feindliche Signale und seltsame Lebenszeichen entdeckt. Syndicate-Agenten und Wechselbälger an Bord bestätigt.
 
 revtraitor-title = Revolutionäre Verräter
-revtraitor-description = Eine Revolution wurde von einem Mitglied des Syndicate-S provoziert, aber nicht jeder Agent bekam den Hinweis ...
+revtraitor-description = Eine Revolution wurde vom Syndicate angezettelt, aber nicht jeder Agent hat den Hinweis bekommen ...
 
-revling-title = Revolutionäre Changelings
-revling-description = Eine Revolution wurde vom Syndicate provoziert, und opportunistische Wechselmänner sind gekommen, um das Gemetzel zu schlemmen.
+revling-title = Revolutionäre Wechselbälger
+revling-description = Eine Revolution wurde vom Syndicate angezettelt, und opportunistische Wechselbälger sind gekommen, um sich am Gemetzel zu laben.

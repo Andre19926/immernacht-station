@@ -64,9 +64,9 @@ shell-target-entity-does-not-have-message = Ziel-Entität hat kein „{$missing}
 shell-timespan-minutes-must-be-correct = {$span} ist keine gültige Minutenspanne.
 shell-argument-must-be-prototype = Argumentation {$index} muss ein {LOC($prototypeName)}!
 shell-argument-number-must-be-between = Argumentation {$index} muss eine Zahl zwischen {$lower} und {$upper}!
-shell-argument-station-id-invalid = Argumentation {$index} Es muss eine gültige Stations-ID sein!
+shell-argument-station-id-invalid = Argument {$index} muss eine gültige Stations-ID sein!
 shell-argument-map-id-invalid = Argumentation {$index} Muss eine gültige Map ID sein!
-shell-argument-number-invalid = Argumentation {$index} Es muss eine gültige Nummer sein!
+shell-argument-number-invalid = Argument {$index} muss eine gültige Zahl sein!
 
 # Hints
 shell-argument-username-hint = <Benutzername>

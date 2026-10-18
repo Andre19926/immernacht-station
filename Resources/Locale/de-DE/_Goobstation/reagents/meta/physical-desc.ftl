@@ -13,5 +13,5 @@ reagent-physical-desc-stasizium = statisch
 reagent-physical-desc-sigma = Sigma
 reagent-physical-desc-ling = Lebend
 reagent-physical-desc-comforting = beruhigend
-reagent-physical-desc-alien = Ausländer
+reagent-physical-desc-alien = fremdartig
 reagent-physical-desc-bitter = bitter

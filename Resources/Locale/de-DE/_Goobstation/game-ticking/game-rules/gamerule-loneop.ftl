@@ -15,8 +15,8 @@ loneop-cond-nukeactiveinstation = Die Nuke wurde bewaffnet auf der Station gelas
 loneop-cond-nukeactiveatcentcom = Der einsame Agent lieferte die Nuke an das CentComm! Heilige Scheiße!
 loneop-cond-nukediskoncentcom = Die Crew entkam mit der nuklearen Authentifizierungsscheibe.
 loneop-cond-nukedisknotoncentcom = Die Crew ließ die nukleare Authentifizierungsscheibe zurück.
-loneop-cond-nukiesabandoned = Die Atomarbeiter wurden aufgegeben.
-loneop-cond-allnukiesdead = Der einsame Aktivist starb.
+loneop-cond-nukiesabandoned = Die Atomagenten wurden im Stich gelassen.
+loneop-cond-allnukiesdead = Der einsame Agent starb.
 loneop-cond-allnukiesalive = Der einsame Agent überlebte.
 
 loneop-list-start = Die einsamen Agenten waren:

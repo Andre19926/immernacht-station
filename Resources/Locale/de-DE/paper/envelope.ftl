@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 envelope-verb-seal = Siegel
-envelope-verb-tear = Tränen
+envelope-verb-tear = Zerreißen
 
 envelope-letter-slot = Schreiben
 

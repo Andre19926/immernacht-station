@@ -10,5 +10,5 @@ amnestizine-effect-distracted = Huh? Wo bist du? Wer bist du?
 amnestizine-effect-leave = Du hast das Gefühl, du solltest hier raus.
 amnestizine-effect-peaceful = Du fühlst ein seltsames Gefühl des Friedens...
 amnestizine-effect-soul = Du hast das Gefühl, dass deine Seele angestarrt wird.
-amnestizine-effect-widen = Du spürst, wie sich deine Vision fast sofort erweitert.
+amnestizine-effect-widen = Du spürst, wie sich dein Sichtfeld fast augenblicklich erweitert.
 amnestizine-effect-listen = Du solltest auf deine Vorgesetzten hören.

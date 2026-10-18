@@ -5,7 +5,7 @@ xenoborgs-welcome = Du bist ein Xenoborg. Beschütze den Mutterschiffkern und hi
 
 mothership-welcome = Du bist der Kern des Mutterschiffs. Führe die Xenoborgs, damit sie dir Materialien und empfindungsfähige Gehirne bringen, sodass du die Xenoborg-Armee vergrößern und alles kohlenstoffbasierte Leben in Silizium verwandeln kannst.
 
-xenoborg-shuttle-call = Wir haben festgestellt, dass Xenoborgs die Station überholt haben. Versand eines Notfall-Shuttles, um das verbleibende Personal zu sammeln.
+xenoborg-shuttle-call = Wir haben festgestellt, dass Xenoborgs die Station überrannt haben. Ein Notfall-Shuttle wird entsandt, um das verbleibende Personal abzuholen.
 
 xenoborgs-borgsmajor = [color=deepskyblue]Großer Sieg für die Xenoborgs![/color]
 xenoborgs-borgsminor = [color=deepskyblue]Kleiner Sieg für die Xenoborgs![/color]
@@ -21,6 +21,6 @@ xenoborg-number-crew-alive-end = Anzahl lebender Crewmitglieder: {$count}
 
 xenoborg-max-number = Die höchste Anzahl von Xenoborgs war: {$count}
 
-xenoborgs-list-start = Das Startteam von xenoborg war:
+xenoborgs-list-start = Das Startteam der Xenoborgs war:
 xenoborgs-list = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
 

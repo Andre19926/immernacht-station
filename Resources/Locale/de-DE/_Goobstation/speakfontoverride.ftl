@@ -1,3 +1,3 @@
 speakfontoverride-toggle = Modulation umschalten
-speakfontoverride-enabled = Modulation ermöglicht
+speakfontoverride-enabled = Modulation aktiviert
 speakfontoverride-disabled = Modulation deaktiviert

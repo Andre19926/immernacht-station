@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mindshield-implant-effect-removed = Du fühlst einen qualvollen Schmerz, wenn sich deine Perspektive ändert und sich deine Vision fast sofort erweitert.
+mindshield-implant-effect-removed = Du spürst einen qualvollen Schmerz, als sich deine Perspektive verschiebt und sich dein Sichtfeld fast augenblicklich erweitert.
 nanite-mend-popup = Du spürst eine lebendige Wärme, die sich im ganzen Körper ausbreitet.
 
 # BSO and nukie implant
 
-deathrattle-implant-dead-message = {$user} ist {$position} gestorben.
-deathrattle-implant-critical-message = Lebenszeichen von {$user} kritisch, sofortige Hilfe erforderlich {$position}.
+deathrattle-implant-dead-message = {$user} ist bei {$position} gestorben.
+deathrattle-implant-critical-message = Lebenszeichen von {$user} kritisch, sofortige Hilfe bei {$position} erforderlich.

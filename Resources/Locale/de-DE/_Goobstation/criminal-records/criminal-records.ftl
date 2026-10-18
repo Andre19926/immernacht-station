@@ -1,5 +1,5 @@
-criminal-verb-name = Gewünschter Status
-criminal-verb-UI-name = Gesuchtes Menü
+criminal-verb-name = Fahndungsstatus
+criminal-verb-UI-name = Fahndungsmenü
 criminal-job-error = Kein Job in Strafregistern entdeckt
 criminal-name-error = Kein Name in Strafregistern entdeckt
 

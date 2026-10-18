@@ -2,16 +2,16 @@ marking-UndershirtDefault-undershirt = Unterhemden
 marking-UndershirtDefault = Unterhemd (Standard)
 
 marking-UndershirtRolled-rolled_undershirt = Unterhemden
-marking-UndershirtRolled = Unterhemd (Rolled)
+marking-UndershirtRolled = Unterhemd (hochgerollt)
 
 marking-UndershirtSleeveless-sleeveless = Tankstelle
 marking-UndershirtSleeveless = Tanktop (ärmellos)
 
 marking-UndershirtGrossSleeveless-gross_sleeveless = Tankstelle
-marking-UndershirtGrossSleeveless = Tanktop (Grob)
+marking-UndershirtGrossSleeveless = Tanktop (grob)
 
 marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Tankstelle
-marking-UndershirtRolledSleeveless = Tanktop (Gerollt)
+marking-UndershirtRolledSleeveless = Tanktop (gerollt)
 
 marking-UndershirtNanotrasen-nanotrasen = Unterhemden
 marking-UndershirtNanotrasen = Unterhemd (Nanotrasen)

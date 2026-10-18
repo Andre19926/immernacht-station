@@ -51,7 +51,7 @@ reagent-name-soysauce = Sojasauce
 reagent-desc-soysauce = Ein salziges Soja-basiertes Aroma.
 
 reagent-name-table-salt = Tafelsalz
-reagent-desc-table-salt = Allgemein bekannt als Salz, wird Natriumchlorid oft verwendet, um Essen zu würzen oder Bohrer sofort zu töten.
+reagent-desc-table-salt = Allgemein bekannt als Salz; Natriumchlorid wird oft verwendet, um Essen zu würzen oder Gehirnbohrer sofort zu töten.
 
 reagent-name-syrup = Sirup
 reagent-desc-syrup = Leckerer Sirup aus Baumsaft, irgendwie klebriger als Klebstoff.

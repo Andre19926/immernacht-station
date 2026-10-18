@@ -1,2 +1,2 @@
-item-added-gamerule = Du hast etwas gerufen, indem du diesen Artikel verwendet hast
-item-already-added-gamerule = Du hast schon etwas herbei gerufen
+item-added-gamerule = Du hast mit diesem Gegenstand etwas gerufen
+item-already-added-gamerule = Du hast bereits etwas herbeigerufen

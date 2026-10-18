@@ -34,7 +34,7 @@ reagent-name-fluorine = Fluor
 reagent-desc-fluorine = Hochgiftiges blassgelbes Gas. Extrem reaktiv.
 
 reagent-name-gold = Gold
-reagent-desc-gold = Gold ist ein dichtes, weiches, glänzendes Metall und das formbarste und duktiles Metall, das bekannt ist.
+reagent-desc-gold = Gold ist ein dichtes, weiches, glänzendes Metall und das formbarste und dehnbarste Metall, das bekannt ist.
 
 reagent-name-hydrogen = Wasserstoff
 reagent-desc-hydrogen = Ein leichtes, brennbares Gas.

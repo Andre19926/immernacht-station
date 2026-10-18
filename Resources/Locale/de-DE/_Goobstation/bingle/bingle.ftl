@@ -24,4 +24,4 @@ ghost-role-information-bingle-rules = Du bist ein [color=red][bold]Teamantagonis
 
 bingle-upgrade-success = Du fühlst dich stärker
 bingle-pit-grow =  Die Grube wird größer
-bingle-pit-end-of-round = Das Binglepit in der Nähe {$location} wuchs auf Niveau [color=teal]{$level}[/color] und gesammelt [color=teal]{$points}[/color] Bingle-Punkte
+bingle-pit-end-of-round = Die Binglegrube in der Nähe von {$location} ist auf Stufe [color=teal]{$level}[/color] gewachsen und hat [color=teal]{$points}[/color] Bingle-Punkte gesammelt

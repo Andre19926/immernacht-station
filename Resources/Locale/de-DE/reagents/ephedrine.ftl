@@ -6,4 +6,4 @@
 ### Messages that pop up when metabolizing ephedrine.
 
 ephedrine-effect-tight-pain = Du fühlst einen engen Schmerz in deiner Brust.
-ephedrine-effect-heart-pounds = Dein Herz schlägt!
+ephedrine-effect-heart-pounds = Dein Herz rast!

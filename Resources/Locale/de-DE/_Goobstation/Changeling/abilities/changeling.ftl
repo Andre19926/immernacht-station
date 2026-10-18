@@ -80,7 +80,7 @@ changeling-passive-active = Bereits aktiv!
 changeling-action-fail-onfire = Unsere Zellen winden sich vor Qualen und führen die Aktion nicht aus!
 changeling-action-fail-lesserform = Diese Aktion ist in einer kleineren Form nicht möglich!
 changeling-action-fail-absorbed = Wir müssen {$number} weitere Organismen absorbieren, um sie zu nutzen!
-changeling-action-fail-not-changeling = Bruh. Du solltest diese Aktion nicht haben. Melde das als Bug.
+changeling-action-fail-not-changeling = Das solltest du nicht haben. Melde das als Fehler.
 
 changeling-fleshmend = Wir beginnen, unsere Wunden zu versiegeln und tote Zellen zu regenerieren.
 changeling-panacea = Wir beginnen, unsere Zellstruktur und unser Immunsystem zu rekonstruieren.
@@ -101,6 +101,6 @@ changeling-voidadapt-onfire = Unsere Anpassungen sind zu schmerzhaft, solange wi
 
 changeling-hivemind-start = Wir stimmen unsere Gehirnwellen auf die Frequenz des Schwarmgeists ab.
 
-changeling-lastresort-activate = DER AKTUELLE KÖRPER GEHT VERLOREN! Benutze es erneut zur Bestätigung.
+changeling-lastresort-activate = DER AKTUELLE KÖRPER GEHT VERLOREN! Benutze die Fähigkeit erneut zur Bestätigung.
 
 changeling-rejuvenate = Eine seltsame Energie pulsiert durch unseren Körper, verjüngt unsere Zellen und stellt unsere Chemikalien wieder her!

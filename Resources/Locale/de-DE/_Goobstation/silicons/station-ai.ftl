@@ -1,9 +1,9 @@
 station-ai-hologram-scurret = Äußeres Aussehen
-station-ai-hologram-kobold = Kobold Aussehen
-station-ai-hologram-monkey = Aussehen des Affen
-station-ai-hologram-horror = Entsetzendes Aussehen
-station-ai-hologram-queen = Königin Aussehen
-station-ai-hologram-performer = Aussehen der Darsteller
+station-ai-hologram-kobold = Kobold-Aussehen
+station-ai-hologram-monkey = Affen-Aussehen
+station-ai-hologram-horror = Entsetzliches Aussehen
+station-ai-hologram-queen = Königinnen-Aussehen
+station-ai-hologram-performer = Darsteller-Aussehen
 
 station-ai-icon-blank = Leere Schale
 station-ai-icon-bingle = Bingle

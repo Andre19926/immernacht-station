@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ipc-overheat-popup = {$name}'s Stromkreise heruntergefahren von Überhitzung!
+ipc-overheat-popup = Die Stromkreise von {$name} wurden wegen Überhitzung heruntergefahren!

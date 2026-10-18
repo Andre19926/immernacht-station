@@ -73,14 +73,14 @@ traitor-wafflecorporationterrorist-roundend = [color=red]Ein Terrorist der Waffl
 traitor-neulithivfederationvisionary-intro = Du bist ein Neulithiv Federation Visionär.
 traitor-neulithivfederationvisionary-goal = Die Space Wizards Federation will, dass wir beweisen, dass wir gut mit ihr zusammenarbeiten können. Zieh so viel Aufmerksamkeit wie möglich auf dich, während du deine Aufgabe trotzdem erledigst.
 traitor-neulithivfederationvisionary-allies = Mitgliedern der Space Wizards Federation und anderen Visionären kann man vertrauen. Es ist deine Entscheidung, ob du anderen Syndicate-Mitgliedern vertrauen möchtest.
-traitor-neulithivfederationvisionary-uplink = Der Verband hat dir einen Uplink gewährt. Verwende es weise.
+traitor-neulithivfederationvisionary-uplink = Der Verband hat dir einen Uplink gewährt. Verwende ihn weise.
 traitor-neulithivfederationvisionary-roundend = [color=violet]Eine Vision der Föderation[/color]
 
 traitor-postal-intro = Du bist durchgedreht.
-traitor-postal-goal = Die Vorbereitungen sind endlich abgeschlossen. Heute ist der Tag, an dem du postest. Du wirst das Notfall-Shuttle entführen und ein neues Leben frei von Nanotrasen leben.
-traitor-postal-allies = Wenn das syndikat von deinem plan erfährt, werden sie dich töten und deinen uplink nehmen. Nimm keine Chancen.
+traitor-postal-goal = Die Vorbereitungen sind endlich abgeschlossen. Heute ist der Tag, an dem du durchdrehst. Du wirst das Notfall-Shuttle entführen und ein neues Leben frei von Nanotrasen leben.
+traitor-postal-allies = Wenn das Syndicate von deinem Plan erfährt, wird es dich töten und deinen Uplink nehmen. Geh keine Risiken ein.
 traitor-postal-uplink = Du hast es tatsächlich geschafft, vor einem Monat einen vollständigen Uplink zu stehlen. Dies sollte sicherlich helfen, deine Ziele zu erreichen.
-traitor-postal-roundend = [color=white]Einfach komplett Post gehen[/color]
+traitor-postal-roundend = [color=white]Einfach komplett ausrasten[/color]
 
 traitor-evilchampion-intro = Du bist der Champion des Bösen!
 traitor-evilchampion-goal = Du hast heute ein paar auf Servietten gekritzelte Pläne für ordentlich BÖSES. Nebenbei suchen die Champions des Bösen immer nach noch moralisch übelriechenderen Übeltätern! Sorge für etwas Nachwuchs!

@@ -18,7 +18,7 @@ antag-pirate-briefing-short =
 
 pirate-roundend-append = Die Piratencrew plünderte die Station ihrer Wertsachen im Wert von insgesamt [color=yellow]{$num}[/color] Credits!
 
-pirate-roundend-append-siphon = [color=green]Die Piratencrew schaffte es zu siphonieren[/color] [color=yellow]{$num}[/color] [color=green]Credits von der Station![/color]
+pirate-roundend-append-siphon = [color=green]Die Piratencrew hat es geschafft, [/color] [color=yellow]{$num}[/color] [color=green]Credits von der Station abzuzapfen![/color]
 
 pirate-roundend-append-lose = [color=red]Die Piratenbesatzung hat ihre Datenbank verloren![/color]
 

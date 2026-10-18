@@ -6,10 +6,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 store-heretic-path-ash = Aschepfad
-store-heretic-path-lock = Pfad von Lock
-store-heretic-path-flesh = Der Weg des Fleisches
-store-heretic-path-void = Der Weg der Leere
-store-heretic-path-rust = Rustiger Pfad
+store-heretic-path-lock = Pfad des Schlosses
+store-heretic-path-flesh = Pfad des Fleisches
+store-heretic-path-void = Pfad der Leere
+store-heretic-path-rust = Pfad des Rostes
 store-heretic-path-blade = Pfad der Klinge
-store-heretic-path-cosmos = Der Weg des Kosmos
+store-heretic-path-cosmos = Pfad des Kosmos
 store-heretic-path-side = Nebenwissen

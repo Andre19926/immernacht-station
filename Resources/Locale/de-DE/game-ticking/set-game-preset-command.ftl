@@ -17,5 +17,5 @@ set-game-preset-preset-error = Spielmodus „{$preset}“ nicht gefunden
 set-game-preset-decoy-error = Wenn Argument 3 angegeben wird, muss es ein gültiger Spielmodus sein. Spielmodus „{$preset}“ nicht gefunden
 
 # set-game-preset-preset-set = Set game preset to "{$preset}"
-set-game-preset-preset-set-finite = Setze das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Rundungen.
-set-game-preset-preset-set-finite-with-decoy = Setze das Spiel voreingestellt auf ""{$preset}„für den nächsten {$rounds} Runden, mit {$decoy} In der Lobby.
+set-game-preset-preset-set-finite = Spielmodus „{$preset}“ für die nächsten {$rounds} Runden festgelegt.
+set-game-preset-preset-set-finite-with-decoy = Spielmodus „{$preset}“ für die nächsten {$rounds} Runden festgelegt; in der Lobby wird {$decoy} angezeigt.

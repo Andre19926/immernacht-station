@@ -8,14 +8,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 dynamic-roundend-totalthreat = Bedrohungspunkte insgesamt: {$points}.
-dynamic-roundend-points-roundstart = Roundstart Budget: {$points}.
-dynamic-roundend-points-midround = Midround Budget: {$points}.
+dynamic-roundend-points-roundstart = Budget zu Rundenbeginn: {$points}.
+dynamic-roundend-points-midround = Budget während der Runde: {$points}.
 
-dynamic-roundend-gamerules-title = Ausgeführte Gamerules:
+dynamic-roundend-gamerules-title = Ausgeführte Spielregeln:
 
-dynamic-gamerule-unknown-title = Unbekannte Gamerule
+dynamic-gamerule-unknown-title = Unbekannte Spielregel
 dynamic-gamerule-traitor-title = [color=crimson]Verräter[/color]
-dynamic-gamerule-changeling-title = [color=yellow]Wechselbetriebe[/color]
+dynamic-gamerule-changeling-title = [color=yellow]Wechselbälger[/color]
 dynamic-gamerule-heretic-title = [color=purple]Ketzer[/color]
 dynamic-gamerule-thief-title = [color=gray]Diebe[/color]
 dynamic-gamerule-revolutionary-title = [color=cyan]Revolutionäre[/color]
@@ -24,13 +24,13 @@ dynamic-gamerule-nukeops-title = [color=red]Nuklearer Notfall[/color]
 
 dynamic-gamerule-threat-perrule = {$num} Bedrohung.
 
-dynamic-gamerule-skeleton-title = Schrank Skeleton Spawn
+dynamic-gamerule-skeleton-title = Schrankskelett-Erscheinen
 dynamic-gamerule-ninja-title = Weltraum-Ninja-Erscheinen
-dynamic-gamerule-loneop-title = Einzelkämpfer-Operative-Erscheinen
+dynamic-gamerule-loneop-title = Erscheinen eines Einzelagenten
 dynamic-gamerule-dragon-title = Weltraumdrache-Erscheinen
 dynamic-gamerule-spiders-title = Spinnenbefall
-dynamic-gamerule-xenos-title = Xenobiologie Ausbruch
-dynamic-gamerule-revenant-title = Wiederkäuer
+dynamic-gamerule-xenos-title = Xenobiologie-Ausbruch
+dynamic-gamerule-revenant-title = Wiedergänger-Erscheinen
 dynamic-gamerule-ratking-title = Rattenmigration
 
 dynamic-gamerule-midround-traitor-title = Schläferagenten (Verräter)

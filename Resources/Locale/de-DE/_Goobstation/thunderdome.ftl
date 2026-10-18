@@ -35,9 +35,9 @@ thunderdome-desc-shotgun = Pumpschrotflinte + 1 Schachtel Rehposten, 1 Schachtel
 thunderdome-desc-doublebarreled = Kipplaufwaffe, 2 Schuss + 2 Schachteln Rehposten
 thunderdome-desc-smg = SMG + 2 Ersatzmagazine
 thunderdome-desc-wt550 = Bestgefütterte SMG + 2 Ersatzmagazine
-thunderdome-desc-lecter = Gewehr + 2 Standardmagne, 1 Brandmagne
+thunderdome-desc-lecter = Gewehr + 2 Standardmagazine, 1 Brandmagazin
 thunderdome-desc-akms = Sturmgewehr + 2 Reservemagazine
-thunderdome-desc-python = AP-beladener Revolver + 1 AP-Speedloader
+thunderdome-desc-python = Revolver mit panzerbrechender Munition + 1 AP-Schnelllader
 thunderdome-desc-inspector = Revolver + 2 Speedloader
 thunderdome-desc-hristov = Scharfschütze gegen Material + 2 Reservemagazine
 thunderdome-desc-esword = Energieschwert + 2 Hyperzininjektoren
@@ -48,9 +48,9 @@ thunderdome-desc-mosin = Kardashev-Mosin + 2 Reservemagazine + Ushanka + ein Wod
 thunderdome-streak-3 = {$player} ist auf einem Killing Spree!
 thunderdome-streak-4 = {$player} dominiert!
 thunderdome-streak-5 = {$player} hat einen Mega Kill!
-thunderdome-streak-6 = {$player} Es ist unaufhaltsam!
+thunderdome-streak-6 = {$player} ist unaufhaltsam!
 thunderdome-streak-7 = {$player} ist unfassbar krass drauf!
-thunderdome-streak-8 = {$player} Ein Monster Kill!
+thunderdome-streak-8 = {$player} hat einen Monster Kill!
 thunderdome-streak-9 = {$player} ist GODLIKE!
 thunderdome-streak-12 = {$player} ist ÜBER GÖTTLICH!
 
@@ -61,6 +61,6 @@ thunderdome-revival-accept = Zurück zum Körper
 thunderdome-revival-decline = Bleib in der Arena
 
 # Chat / messages
-thunderdome-join = {$player} Er ist in den Thunderdome eingetreten!
-thunderdome-leave = {$player} Er hat den Thunderdome verlassen.
-thunderdome-leave-01 = {$user} verschwindet, weil er des Tötens müde geworden ist.
+thunderdome-join = {$player} ist dem Thunderdome beigetreten!
+thunderdome-leave = {$player} hat den Thunderdome verlassen.
+thunderdome-leave-01 = {$user} verschwindet, weil die Person des Tötens müde geworden ist.

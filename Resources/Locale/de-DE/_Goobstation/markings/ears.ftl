@@ -3,4 +3,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 marking-dogEars = Hundeohren
-marking-dogEarsWag = Hundeohren (Wagging)
+marking-dogEarsWag = Hundeohren (wedelnd)

@@ -15,10 +15,10 @@ reagent-name-napalm = Napalm
 reagent-desc-napalm = Es ist nur ein wenig brennbar.
 
 reagent-name-phlogiston = Phlogiston
-reagent-desc-phlogiston = Er fängt dich in Brand und lässt dich entzünden.
+reagent-desc-phlogiston = Es setzt dich in Brand und lässt dich entflammen.
 
 reagent-name-chlorine-trifluoride = Chlortrifluorid
-reagent-desc-chlorine-trifluoride = Du willst diese scheiße wirklich nicht in deine nähe bringen.
+reagent-desc-chlorine-trifluoride = Du willst dieses Zeug wirklich nicht in deine Nähe bringen.
 
 reagent-name-foaming-agent = Schaummittel
 reagent-desc-foaming-agent = Macht Schaum, wie er in Metallschaumgranaten benötigt wird.

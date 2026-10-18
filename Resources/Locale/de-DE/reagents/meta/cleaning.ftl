@@ -15,7 +15,7 @@ reagent-name-space-cleaner = Raumreiniger
 reagent-desc-space-cleaner = Reinigt fast jede Oberfläche von fast allem, was sie verschmutzen kann. Der Hausmeister freut sich bestimmt über Nachschub.
 
 reagent-name-soap = Seife
-reagent-desc-soap = Ich würde meinen Mund damit nicht aufräumen, wenn ich du wäre.
+reagent-desc-soap = Ich würde mir damit nicht den Mund auswaschen, wenn ich du wäre.
 
 reagent-name-space-lube = Raumgleitmittel
 reagent-desc-space-lube = Weltraum-Gleitmittel ist ein Hochleistungsschmierstoff für die Wartung äußerst komplexer mechanischer Geräte (und ganz bestimmt nicht dafür gedacht, Leute ausrutschen zu lassen).

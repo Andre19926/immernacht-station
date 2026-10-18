@@ -1,7 +1,7 @@
 devil-contract-contractee = Vertragsnehmer
 devil-contract-contractor = Auftragnehmer
 
-devil-contract-early-sign-failed = Der Auftragnehmer muss warten, bis der Auftragnehmer zuerst unterschreibt!
+devil-contract-early-sign-failed = Der Teufel muss warten, bis der Vertragspartner zuerst unterschreibt!
 devil-contract-no-soul-sign-failed = Du hast keine Seele zu verkaufen!
 devil-sign-invalid-user = Du hast nicht die Macht, diesen Vertrag zu erfüllen!
 devil-contract-mind-shielded-failed = Eine Stimme kommt von deinem NanotrasenTM Mindshield. "Schöner Versuch."
@@ -15,17 +15,17 @@ burn-contract-popup-fail = Du kannst keinen Vertrag während eines Deals verbren
 contract-victim-signed = Eine Kälte läuft über deine Wirbelsäule, während du den Stift hebst ...
 contract-devil-signed = Die Vertragsimpulse mit dunkler Energie...
 contract-soul-added = Du gewinnst eine andere Seele in deinem Besitz...
-contract-uneven-odds = Diese Chancen sind nicht fair. Du brauchst {$number} Mehr Vertragsgewicht.
+contract-uneven-odds = Diese Chancen sind nicht fair. Du brauchst {$number} mehr Vertragsgewicht.
 devil-contract-examined = Dieser Vertrag hat ein Gewicht von: {$weight}.
 
-devil-deal-time-ran-out = Deine Vision wird schwarz, während deine Muskeln dich versagen. Du hast keine Zeit mehr.
+devil-deal-time-ran-out = Deine Sicht wird schwarz, während deine Muskeln versagen. Du hast keine Zeit mehr.
 
 revival-contract-accepted = Du fühlst deine Verbindung zu deinem Körper stärken...
 revival-contract-rejected = Du lehnst das unheilige Angebot ab.
-revival-contract-expired = Mal nach oben.
-revival-contract-prompt = {$offerer} Angebote, um dein Leben für einen Preis wiederherzustellen... Akzeptierst du das?
-revival-contract-use-success = Du bietest {$target} Ein Deal, den kein Mensch ablehnen könnte...
-revival-contract-use-failed = Du kannst nicht anbieten {$target} diesen Deal.
+revival-contract-expired = Die Zeit ist um.
+revival-contract-prompt = {$offerer} bietet an, dein Leben gegen einen Preis wiederherzustellen ... Akzeptierst du?
+revival-contract-use-success = Du machst {$target} ein Angebot, das kein Mensch ablehnen könnte ...
+revival-contract-use-failed = Du kannst {$target} diesen Deal nicht anbieten.
 
 revival-contract-prompt-reject = Angebot ablehnen
 revival-contract-prompt-accept = Angebot annehmen

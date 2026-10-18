@@ -19,7 +19,7 @@ reagent-name-juice-berry = Beerensaft
 reagent-desc-juice-berry = Eine köstliche Mischung aus verschiedenen Arten von Beeren.
 
 reagent-name-juice-blue-pumpkin = Blauer Kürbissaft
-reagent-desc-juice-blue-pumpkin = Der Saft eines blauen Kürbises. Geruch wie Poolwasser.
+reagent-desc-juice-blue-pumpkin = Der Saft eines Blaukürbisses. Riecht wie Poolwasser.
 
 reagent-name-juice-bungo = Bungosaft
 reagent-desc-juice-bungo = Der Saft einer Bungofrucht. Exotisch!
@@ -40,7 +40,7 @@ reagent-name-juice-lime = Limettensaft
 reagent-desc-juice-lime = Der süß-saure Saft von Limetten.
 
 reagent-name-juice-orange = Orangensaft
-reagent-desc-juice-orange = Beide köstlich und reich an Vitamin C. Was brauchst du noch?
+reagent-desc-juice-orange = Beides köstlich und reich an Vitamin C. Was brauchst du noch mehr?
 
 reagent-name-juice-pineapple = Ananassaft
 reagent-desc-juice-pineapple = Der köstliche Saft einer Ananas.

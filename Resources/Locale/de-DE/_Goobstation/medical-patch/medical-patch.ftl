@@ -9,7 +9,7 @@
 goobstation-medicalpatch-bounty-desc = Es gibt einen medizinischen Notfall. Sende einige Patches, um uns hier zu helfen
 goobstation-medicalpatch-bounty-name = Medizinische Patches
 
-goobstation-medicalpatch-sticy-trystick = Beginn der Platzierung Patch
+goobstation-medicalpatch-sticy-trystick = Platzierung des Patches beginnt
 goobstation-medicalpatch-sticy-trystick-success = Patch platziert
 goobstation-medicalpatch-sticy-tryremove = Starte das Entfernen des Patches
 goobstation-medicalpatch-sticy-tryremove-success = Patch entfernt

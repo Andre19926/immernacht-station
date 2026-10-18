@@ -41,7 +41,7 @@ server-currency-get-command-help = Verwendung: balance:get <player>
 
 server-currency-command-completion-1 = Benutzername
 server-currency-command-completion-2 = Wert
-server-currency-command-error-1 = Unfähig, einen Spieler mit diesem Namen zu finden.
+server-currency-command-error-1 = Es konnte kein Spieler mit diesem Namen gefunden werden.
 server-currency-command-error-2 = Der Wert muss eine ganze Zahl sein.
 server-currency-command-return = {$player} hat {$balance}.
 
@@ -52,14 +52,14 @@ gs-balanceui-confirm = Bestätigen
 
 gs-balanceui-gift-label = Übertragung:
 gs-balanceui-gift-player = Spieler
-gs-balanceui-gift-player-tooltip = Gib den Namen des Spielers ein, an den dich das Geld senden möchten
+gs-balanceui-gift-player-tooltip = Gib den Namen des Spielers ein, an den du das Geld senden möchtest
 gs-balanceui-gift-value = Wert
 gs-balanceui-gift-value-tooltip = Geldbetrag zu übertragen
 
 gs-balanceui-shop-label = Token-Shop
 gs-balanceui-shop-empty = Ausverkauft!
 gs-balanceui-shop-buy = Kaufen
-gs-balanceui-shop-footer = ⚠ Hilf, dein Token zu verwenden. Nur 1 Gebrauch pro Tag.
+gs-balanceui-shop-footer = ⚠ Schreibe ein Ahelp, um dein Token zu verwenden. Nur 1 Verwendung pro Tag.
 
 gs-balanceui-shop-token-label = Tokens
 gs-balanceui-shop-tittle-label = Titel

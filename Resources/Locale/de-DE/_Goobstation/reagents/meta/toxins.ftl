@@ -6,31 +6,31 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-triclor = Trigon
-reagent-desc-triclor = Repliziert sich bei Kontakt mit Blut und bewirkt, dass sich der Metabolisierer ständig erbricht und schnell den Magen und mehr entleert. Hat eine relativ niedrige Potenz und benötigt hohe Dosen, um zu töten. Unwirksam in Spurenmengen.
+reagent-desc-triclor = Vermehrt sich bei Kontakt mit Blut und lässt den Metabolisierer ständig erbrechen, wodurch sich Magen und mehr schnell leeren. Hat eine relativ niedrige Potenz und braucht hohe Dosen zum Töten. Wirkungslos in Spurenmengen.
 
 reagent-name-cyanide = Cyanid
-reagent-desc-cyanide = Einfach zu machen Toxin, und mit tödlichem Potenzial bei durchschnittlichen Dosen. Ständige Atembeschwerden werden jedoch jedes potenzielle Opfer schnell alarmieren.
+reagent-desc-cyanide = Einfach herzustellendes Toxin mit tödlichem Potenzial bei durchschnittlichen Dosen. Die anhaltenden Atembeschwerden werden jedoch jedes potenzielle Opfer schnell alarmieren.
 
 reagent-name-anacea = Anacea
-reagent-desc-anacea = Spült schnell die meisten Medikamente aus dem Blutkreislauf und ist damit ein unschätzbarer Bestandteil jeder Giftmischung. Starke Anti-Gift-Medikamente können diesen Prozess erheblich verlangsamen.
+reagent-desc-anacea = Spült die meisten Medikamente schnell aus dem Blutkreislauf und ist damit ein unschätzbarer Bestandteil jeder Giftmischung. Starke Gegengifte können diesen Prozess erheblich verlangsamen.
 
 reagent-name-pendetide = Pendetid
-reagent-desc-pendetide = Während es größtenteils neutral ist, verstärkt es alle vorhandenen Strahlungsschäden. Zusätzlich spült Medikamente aus dem Blutkreislauf, was die Heilung erschwert.
+reagent-desc-pendetide = Größtenteils neutral, verstärkt aber vorhandene Strahlungsschäden. Spült zusätzlich Medikamente aus dem Blutkreislauf, was die Heilung erschwert.
 
 reagent-name-aluite = Aluit
-reagent-desc-aluite = Nicht reaktives Molekül, das sich bei niedrigen Temperaturen an andere Chemikalien bindet, um sie zu transportieren und ihre Wirksamkeit zu steigern. Platzt im Blutkreislauf auf; Überdosierungen verursachen Organrisse.
+reagent-desc-aluite = Nicht reaktives Molekül, das sich bei niedrigen Temperaturen an andere Chemikalien bindet, um sie zu transportieren und ihre Wirksamkeit zu steigern. Platzt im Blutkreislauf auf; Überdosen verursachen Organrisse.
 
 reagent-name-sarin = Sarin
-reagent-desc-sarin = Ein brutales Neurotoxin, das bei Kontakt mit der Haut unangenehme ätzende Verbrennungen erzeugt. Giftig beim Einatmen und verursacht Lähmung.
+reagent-desc-sarin = Ein brutales Neurotoxin, das bei Hautkontakt unangenehme Ätzverbrennungen verursacht. Giftig beim Einatmen und lähmend.
 
 reagent-name-nevcottapowder = Nevcottapulver
-reagent-desc-nevcottapowder = Ein hochgiftiges Pulver, das aus dem Mahlen der Rinde des Nevcotta-Baums entsteht. Wird bei der Schaffung einer klassifizierten Chemikalie verwendet.
+reagent-desc-nevcottapowder = Ein hochgiftiges Pulver, das beim Mahlen der Rinde des Nevcotta-Baums entsteht. Wird zur Herstellung einer als geheim eingestuften Chemikalie verwendet.
 
 reagent-name-microplastics = Mikroplastik
-reagent-desc-microplastics = Ein leicht giftiger Schadstoff, der in vielen Alltagsgegenständen gefunden wird. Seine toxischen Wirkungen scheinen Vox nicht zu beeinflussen.
+reagent-desc-microplastics = Ein leicht giftiger Schadstoff, der in vielen Alltagsgegenständen vorkommt. Seine toxische Wirkung scheint Vox nicht zu beeinträchtigen.
 
 reagent-name-caffeine = Koffein
-reagent-desc-caffeine = Erhöht die Bewegungsgeschwindigkeit in niedrigen Dosen, verursacht aber Zittern, Brustschmerzen und verlangsamte Bewegung, wenn zu viel im Blutkreislauf vorhanden ist.
+reagent-desc-caffeine = Erhöht in niedrigen Dosen die Bewegungsgeschwindigkeit, verursacht aber Zittern, Brustschmerzen und verlangsamte Bewegung, wenn sich zu viel davon im Blutkreislauf befindet.
 
 reagent-name-junk-food = Junkfood
 reagent-desc-junk-food = Macht dich träge, wenn du zu viel davon isst.

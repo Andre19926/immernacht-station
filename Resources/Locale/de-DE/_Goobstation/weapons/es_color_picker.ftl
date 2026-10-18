@@ -1,4 +1,4 @@
-escolorpicker-menu-title = Advanced Color Picker
+escolorpicker-menu-title = Erweiterte Farbauswahl
 escolorpicker-color-pick = Wähle eine Farbe:
 escolorpicker-confirm = Bestätigen
 escolorpicker-menu-flavor-left-syndicate = Erstellt in Zusammenarbeit mit «CyberSun» LLC.

@@ -18,7 +18,7 @@ trait-wheelchair-bound-desc = Du kannst dich ohne Rollstuhl nicht fortbewegen. R
 trait-bogan-name = Bogan-Akzent
 trait-bogan-desc = Das hast du von einem Fabelwesen gelernt.
 
-poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} Die Augen sind unscharf. Es scheint nicht wie {SUBJECT($target)} Ich kann dich ohne Brille sehr gut sehen.[/color]
+poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} Augen sind unscharf. Es scheint, als könnte {SUBJECT($target)} ohne Brille nicht gut sehen.[/color]
 
 trait-medieval-accent-name = Mittelalterlicher Akzent
 trait-medieval-accent-desc = Hört, hört! Eure Art zu sprechen, wahrlich gar absonderlich!

@@ -3,4 +3,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 marking-dogTail = Hundeschwanz
-marking-dogTailWag = Hundeschwanz (Wagging)
+marking-dogTailWag = Hundeschwanz (wedelnd)

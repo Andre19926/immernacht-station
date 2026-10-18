@@ -18,10 +18,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-absinthe = Absinth
-reagent-desc-absinthe = Ein Anis-aromatisierter Spiritus, abgeleitet von Botanicals.
+reagent-desc-absinthe = Ein anisaromatisierter Spiritus, aus Pflanzenextrakten gewonnen.
 
 reagent-name-ale = Ale
-reagent-desc-ale = Ein dunkles alchoalkoholisches Getränk aus gemälzter Gerste und Hefe.
+reagent-desc-ale = Ein dunkles alkoholisches Getränk aus gemälzter Gerste und Hefe.
 
 reagent-name-beer = Bier
 reagent-desc-beer = Ein alkoholisches Getränk aus gemälztem Getreide, Hopfen, Hefe und Wasser.
@@ -36,13 +36,13 @@ reagent-name-dead-rum = Deadrum
 reagent-desc-dead-rum = Destilliertes alkoholisches Getränk aus Salzwasser.
 
 reagent-name-ethanol = Ethanol
-reagent-desc-ethanol = Ein einfacher Alkohol, macht dich betrunken, wenn du konsumiert wirst, brennbar.
+reagent-desc-ethanol = Ein einfacher Alkohol, der dich betrunken macht, wenn du ihn trinkst. Brennbar.
 
 reagent-name-gin = Gin
 reagent-desc-gin = Ein destilliertes alkoholisches Getränk, das seinen vorherrschenden Geschmack aus Wacholderbeeren bezieht.
 
 reagent-name-coffeeliqueur = Kaffeelikör
-reagent-desc-coffeeliqueur = mit kaltgebrühtem Kaffee und Gewürzen aromatisiert.
+reagent-desc-coffeeliqueur = Mit kaltgebrühtem Kaffee und Gewürzen aromatisiert.
 
 reagent-name-melon-liquor = Melonenlikör
 reagent-desc-melon-liquor = Ein relativ süßer und fruchtiger Likör mit 46 Proof.
@@ -57,13 +57,13 @@ reagent-name-rum = Rum
 reagent-desc-rum = Ein destillierter alkoholischer Drink aus Nebenprodukten des Zuckerrohrs.
 
 reagent-name-sake = Sake
-reagent-desc-sake = Alkoholisches Getränk durch Gärung von Reis, der poliert wurde.
+reagent-desc-sake = Alkoholisches Getränk aus vergorenem, poliertem Reis.
 
 reagent-name-tequila = Tequila
-reagent-desc-tequila = Ein starker und mild gewürzter, mexikanischer produzierter Spiritus.
+reagent-desc-tequila = Ein starker, mild gewürzter Spiritus aus mexikanischer Produktion.
 
 reagent-name-vermouth = Wermut
-reagent-desc-vermouth = Aromatisierter, mit verschiedenen Botaniken aromatisierter Weißwein.
+reagent-desc-vermouth = Mit verschiedenen Kräutern und Pflanzenstoffen aromatisierter Weißwein.
 
 reagent-name-vodka = Wodka
 reagent-desc-vodka = Klares destilliertes alkoholisches Getränk, das aus Polen und Russland stammt.
@@ -72,13 +72,13 @@ reagent-name-whiskey = Whiskey
 reagent-desc-whiskey = Eine Art destilliertes alkoholisches Getränk aus fermentierter Getreidemaische.
 
 reagent-name-wine = Wein
-reagent-desc-wine = Ein Premium-alkoholisches Getränk aus destilliertem Traubensaft.
+reagent-desc-wine = Ein hochwertiger Branntwein aus destilliertem Traubensaft.
 
 reagent-name-champagne = Champagner
 reagent-desc-champagne = Ein Premiumschaumwein
 
 reagent-name-acid-spit = Säurespucke
-reagent-desc-acid-spit = Ein Getränk für gewagt, kann tödlich sein, wenn es falsch zubereitet wird!
+reagent-desc-acid-spit = Ein Getränk für Wagemutige, das tödlich sein kann, wenn es falsch zubereitet wird!
 
 reagent-name-alien-brain-hemorrhage = Alien-Gehirnblutung
 reagent-desc-alien-brain-hemorrhage = Vielleicht möchtest du das bei Med überprüfen lassen.
@@ -132,13 +132,13 @@ reagent-name-brave-bull = Brave Bull
 reagent-desc-brave-bull = Es ist genauso wirksam wie angetrunkener Mut!
 
 reagent-name-bronx = Bronx
-reagent-desc-bronx = Der orangefarbene Cousin der Manhattan und Martini.
+reagent-desc-bronx = Der orangefarbene Cousin von Manhattan und Martini.
 
 reagent-name-coconut-rum = Kokosrum
 reagent-desc-coconut-rum = Rum mit Kokosnuss für dieses tropische Gefühl.
 
 reagent-name-cosmopolitan = Cosmopolitan
-reagent-desc-cosmopolitan = Selbst in den schlimmsten Situationen schlägt nichts einen frischen Kosmopoliten.
+reagent-desc-cosmopolitan = Nichts geht über einen frischen Cosmopolitan – selbst in den schlimmsten Situationen.
 
 reagent-name-crush-depth = Zerquetschtiefe
 reagent-desc-crush-depth = Ein stygisches Getränk, das auf den Abgrund zurückgeht. Dunkel und kalt, es dient als Erinnerung daran, dass die älteste Emotion Angst ist, und die stärkste Art von Angst ist die des Unbekannten.
@@ -174,7 +174,7 @@ reagent-name-gargle-blaster = Pangalaktischer Gargle Blaster
 reagent-desc-gargle-blaster = Whoah, dieses Zeug sieht volatil aus!
 
 reagent-name-gin-fizz = Gin fizz
-reagent-desc-gin-fizz = Erfrischend Zitrone, köstlich trocken.
+reagent-desc-gin-fizz = Erfrischend zitronig, köstlich trocken.
 
 reagent-name-gin-tonic = Gin und Tonic
 reagent-desc-gin-tonic = Ein klassischer, milder Cocktail.
@@ -183,13 +183,13 @@ reagent-name-gildlager = Gildlager
 reagent-desc-gildlager = Zimtschnaps mit 100 Proof, gemacht für trinkfreudige Teenager-Mädchen im Frühlingsurlaub.
 
 reagent-name-grog = Grog
-reagent-desc-grog = Verwässerter Rum, Pirat genehmigt!
+reagent-desc-grog = Verwässerter Rum – piratengenehmigt!
 
 reagent-name-hippies-delight = Hippie-Freude
 reagent-desc-hippies-delight = Du bekommst es einfach nicht, maaaan.
 
 reagent-name-hooch = Hooch
-reagent-desc-hooch = Entweder jemandes Versagen bei der Cocktailherstellung oder Versuch in der Alchoholproduktion. Willst du das wirklich trinken?
+reagent-desc-hooch = Entweder jemandes Versagen beim Cocktailmixen oder ein Versuch in der Alkoholproduktion. Willst du das wirklich trinken?
 
 reagent-name-iced-beer = Eisbier
 reagent-desc-iced-beer = Ein Bier, das so kalt ist, dass die Luft um es herum gefriert.
@@ -207,7 +207,7 @@ reagent-name-jack-rose = Jack Rose
 reagent-desc-jack-rose = Übermäßig rot.
 
 reagent-name-jungle-bird = Dschungelvogel
-reagent-desc-jungle-bird = Trotz des Namens ist es bei Voxes nicht besonders beliebt.
+reagent-desc-jungle-bird = Trotz des Namens ist es bei Vox nicht besonders beliebt.
 
 reagent-name-kalimotxo = Kalimotxo
 reagent-desc-kalimotxo = Ein hochklassiger Cuba Libre, für den anspruchsvollen Alkoholiker.
@@ -216,16 +216,16 @@ reagent-name-tortuga = Tortuga
 reagent-desc-tortuga = Perfekt für Piraten, die als designierter Fahrer ausgewählt wurden. Yarr!
 
 reagent-name-long-island-iced-tea = Long Island Eistee
-reagent-desc-long-island-iced-tea = Der Schnapsschrank, zusammengebracht in einer köstlichen Mischung. Bestimmt nur für alkoholische Frauen mittleren Alters.
+reagent-desc-long-island-iced-tea = Der ganze Schnapsschrank in einer köstlichen Mischung. Nur für alkoholsüchtige Frauen mittleren Alters bestimmt.
 
 reagent-name-manhattan = Manhattan
-reagent-desc-manhattan = Das Undercover-Getränk des Detektivs der Wahl. Er konnte Gin nie verdauen...
+reagent-desc-manhattan = Das Undercover-Getränk der Wahl für Detektive. Er hat Gin nie vertragen ...
 
 reagent-name-manhattan-project = Manhattan-Projekt
-reagent-desc-manhattan-project = Ein Wissenschaftler-Getränk der Wahl, für das Nachdenken über Möglichkeiten, um das Schiff zu sprengen.
+reagent-desc-manhattan-project = Das Getränk der Wahl für Wissenschaftler, die darüber nachdenken, wie sie das Schiff in die Luft jagen können.
 
 reagent-name-manly-dorf = Manly Dorf
-reagent-desc-manly-dorf = Bier und Ale, zusammengebracht in einer köstlichen Mischung. Bestimmt nur für dicke Zwerge.
+reagent-desc-manly-dorf = Bier und Ale in einer köstlichen Mischung. Nur für stämmige Zwerge bestimmt.
 
 reagent-name-margarita = Margarita
 reagent-desc-margarita = Auf den Felsen mit Salz am Rand. Arriba~!
@@ -234,7 +234,7 @@ reagent-name-the-martinez = The Martinez
 reagent-desc-the-martinez = Die Edgerunner-Legende. An einen Drink erinnert, an einen Betrunkenen vergessen.
 
 reagent-name-martini = Klassischer Martini
-reagent-desc-martini = Vermouth mit Gin. Nicht ganz, wie 007 es genossen hat, aber immer noch köstlich.
+reagent-desc-martini = Wermut mit Gin. Nicht ganz so, wie 007 ihn genoss, aber trotzdem köstlich.
 
 reagent-name-mead = Met
 reagent-desc-mead = Ein Wikingergetränk, wenn auch ein billiges.
@@ -255,7 +255,7 @@ reagent-name-painkiller = Schmerzmittel
 reagent-desc-painkiller = Eine Heilung für das, was dich krank macht.
 
 reagent-name-patron = Patrón
-reagent-desc-patron = Tequila mit silber darin, ein favorit von alkoholischen frauen in der clubszene.
+reagent-desc-patron = Tequila mit Silber darin, ein Favorit alkoholsüchtiger Frauen in der Clubszene.
 
 reagent-name-pina-colada = Piña Colada
 reagent-desc-pina-colada = Um sich im Regen zu verlieren.
@@ -267,13 +267,13 @@ reagent-name-red-mead = Roter Met
 reagent-desc-red-mead = Das wahre Wikingergetränk! Obwohl es eine seltsame rote Farbe hat.
 
 reagent-name-rewriter = Rewriter
-reagent-desc-rewriter = Das Geheimnis des Heiligtums des Bibliothekar...
+reagent-desc-rewriter = Das Geheimnis im Heiligtum des Bibliothekars ...
 
 reagent-name-sbiten = Sbiten
-reagent-desc-sbiten = Ein würziger Wodka! Könnte ein bisschen heiß für die kleinen jungs sein.
+reagent-desc-sbiten = Ein würziger Wodka! Könnte für die kleinen Jungs ein bisschen zu scharf sein.
 
 reagent-name-screwdriver-cocktail = Schraubendreher
-reagent-desc-screwdriver-cocktail = Wodka, gemischt mit schlichtem ol' Orangensaft. Das Ergebnis ist erstaunlich lecker.
+reagent-desc-screwdriver-cocktail = Wodka, gemischt mit ganz normalem Orangensaft. Das Ergebnis ist erstaunlich lecker.
 
 reagent-name-cogchamp = Cogchamp
 reagent-desc-cogchamp = Nicht einmal Ratvars vier Generäle konnten dem standhalten! Qevax Jryy!
@@ -282,19 +282,19 @@ reagent-name-silencer = Schalldämpfer
 reagent-desc-silencer = Ein Drink aus dem Pantomimenhimmel.
 
 reagent-name-singulo = Singulo
-reagent-desc-singulo = Ein Blue-Space-Getränk!
+reagent-desc-singulo = Ein Bluespace-Getränk!
 
 reagent-name-snow-white = Schneewittchen
 reagent-desc-snow-white = Eine kalte Erfrischung.
 
 reagent-name-sui-dream = Sui Dream
-reagent-desc-sui-dream = "Besteht aus: Weißes Soda, blauer Curaçao, Melonenlauge."
+reagent-desc-sui-dream = "Besteht aus: weißer Limonade, Blauem Curaçao und Melonenlikör."
 
 reagent-name-syndicate-bomb = Syndicate-Bombe
 reagent-desc-syndicate-bomb = Jemand hat uns die Bombe aufgesetzt!
 
 reagent-name-tequila-sunrise = Tequila-Sonnenaufgang
-reagent-desc-tequila-sunrise = Tequila und Orangensaft. Ähnlich wie ein Schraubenzieher, nur Mexikaner.
+reagent-desc-tequila-sunrise = Tequila und Orangensaft. Ähnlich wie ein Screwdriver, nur mexikanisch.
 
 reagent-name-three-mile-island = Three Mile Island Eistee
 reagent-desc-three-mile-island = "Geschaffen für eine Frau, stark genug für einen Mann."
@@ -306,7 +306,7 @@ reagent-name-vampiro = Vampiro
 reagent-desc-vampiro = Beliebt in Mexiko und Siebenbürgen.
 
 reagent-name-vodka-martini = Wodka Martini
-reagent-desc-vodka-martini = Wodka statt Gin. Nicht ganz, wie 007 es genossen hat, aber immer noch köstlich.
+reagent-desc-vodka-martini = Wodka statt Gin. Nicht ganz so, wie 007 ihn genoss, aber trotzdem köstlich.
 
 reagent-name-vodka-tonic = Wodka Tonic
 reagent-desc-vodka-tonic = Denn wenn ein Gin Tonic nicht russisch genug ist.
@@ -336,7 +336,7 @@ reagent-name-budget-insuls = Haushaltsinsuls
 reagent-desc-budget-insuls = Das bevorzugte Getränk eines Tiders.
 
 reagent-name-watermelon-wakeup = Wassermelonen-Wakeup
-reagent-desc-watermelon-wakeup = Wenn du wach sein willst, wird dies es tun ... Auch süß.
+reagent-desc-watermelon-wakeup = Wenn du wach bleiben willst, hilft dir dieses Getränk dabei ... Außerdem süß.
 
 reagent-name-rubberneck = Rubberneck
 reagent-desc-rubberneck = Ein beliebtes Getränk unter denen, die sich an eine rein synthetische Diät halten.
@@ -360,7 +360,7 @@ reagent-name-mayojito = Mayojito
 reagent-desc-mayojito = Ein Affront gegen Gott und den Menschen. Trinke es nicht.
 
 reagent-name-mimeosa = Mimeosa
-reagent-desc-mimeosa = Es hat einen orangenen Tang so sauer, dass man es einfach nicht beschreiben kann.
+reagent-desc-mimeosa = Es hat einen orangigen Biss, so sauer, dass man ihn nicht beschreiben kann.
 
 reagent-name-mimosa = Mimosa
 reagent-desc-mimosa = Perfekt für einen lebhaften Brunch mit den Mädchen.
@@ -369,7 +369,7 @@ reagent-name-moscow-mule = Moscow mule
 reagent-desc-moscow-mule = Ein überraschend starkes und erfrischendes Mixgetränk, serviert in einer ikonischen Kupfertasse.
 
 reagent-name-the-sun-also-rises = Die Sonne geht auch auf
-reagent-desc-the-sun-also-rises = Ein starker Cocktail gemischt in eine trübe Mischung. Ein geheimer Favorit von gefolterten Autoren.
+reagent-desc-the-sun-also-rises = Ein starker Cocktail, zu einer trüben Mischung verrührt. Ein heimlicher Favorit gequälter Schriftsteller.
 
 reagent-name-whiskey-sour = Whiskey Sour
 reagent-desc-whiskey-sour = Was ist die geheime Zutat? Eier. Es sind Eier.
@@ -378,4 +378,4 @@ reagent-name-zombiecocktail = Zombie
 reagent-desc-zombiecocktail = Es kommt in deinen Kopf. Deine he-eyeh-ead.
 
 reagent-name-bacchus-blessing = Bacchus' Segen
-reagent-desc-bacchus-blessing = Du hast nicht gedacht, dass es möglich ist, dass eine Flüssigkeit so total empörend ist. Bist du dir dessen sicher...?
+reagent-desc-bacchus-blessing = Du hättest nicht gedacht, dass eine Flüssigkeit so ungeheuerlich sein kann. Bist du dir da sicher ...?

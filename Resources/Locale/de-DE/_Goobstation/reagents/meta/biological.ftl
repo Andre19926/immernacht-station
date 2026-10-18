@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-alien-blood = fremdes Blut
-reagent-desc-alien-blood = Die Kreatur, aus der diese blutete, ist nicht von dieser Galaxie. Vielleicht ist es Traubengeschmack.
+reagent-desc-alien-blood = Das Wesen, dem dieses Blut entstammt, ist nicht von dieser Galaxie. Vielleicht schmeckt es nach Traube.

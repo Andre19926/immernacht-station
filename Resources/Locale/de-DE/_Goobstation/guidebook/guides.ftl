@@ -47,9 +47,9 @@ guide-entry-sop-gammaalert = Gamma-Alarm
 guide-entry-sop-violetalert = Violetter Alarm
 guide-entry-sop-omicronalert = Omikronalarm
 # - Standard Procedures
-guide-entry-sop-demoting = Entlassung/Entlassung
+guide-entry-sop-demoting = Entlassung/Degradierung
 guide-entry-sop-evacuation = Frühe Evakuierung
-guide-entry-sop-hiring = Vermietung/Transfer
+guide-entry-sop-hiring = Einstellung/Versetzung
 guide-entry-sop-succession = Befehlskette
 # - Emergencies
 guide-entry-sop-confirmedrevs = Revolution
@@ -63,7 +63,7 @@ guide-entry-sop-zombieoutbreak = Zombie-Ausbruch
 guide-entry-sop-emergencyresponseteam = Notfalleinsatzteam
 # - Legal
 guide-entry-sop-execution = Hinrichtungen
-guide-entry-sop-permabrig = Ständige Brigade
+guide-entry-sop-permabrig = Dauerarrest
 guide-entry-sop-punishments = Strafen
 guide-entry-sop-searches = Durchsuchungen
 # - Cargo
@@ -92,7 +92,7 @@ guide-entry-sop-scientist = Wissenschaftler
 # - Security
 guide-entry-sop-brigmedic = Gefängnissanitäter
 guide-entry-sop-detective = Detektiv
-guide-entry-sop-officercadet = Offizier/Kader
+guide-entry-sop-officercadet = Offizier/Kadett
 guide-entry-sop-warden = Leiter
 # - Service
 guide-entry-sop-bartender = Barkeeper

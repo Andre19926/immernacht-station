@@ -15,8 +15,8 @@ zombie-description = Die Untoten sind auf die Station losgelassen! Arbeitet mit 
 zombieteors-title = Zombieteors
 zombieteors-description = Die Untoten sind mitten in einem katastrophalen Meteoritenschauer auf die Station losgelassen! Haltet zusammen und überlebt!
 
-zombie-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es gab {$readyPlayersCount} Spieler bereiten sich aus {$minimumPlayers} benötigt. Zombies kann man nicht starten.
-zombie-no-one-ready = Keine Spieler bereit! Zombies kann man nicht starten.
+zombie-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Der Zombie-Modus kann nicht gestartet werden.
+zombie-no-one-ready = Keine Spieler bereit! Der Zombie-Modus kann nicht gestartet werden.
 
 zombie-patientzero-role-greeting = Du bist Erstinfizierter. Besorge Vorräte und bereite dich auf deine Verwandlung vor. Dein Ziel ist es, die Station zu überrennen und so viele wie möglich zu infizieren.
 zombie-healing = Du spürst ein Rühren in deinem Fleisch
@@ -28,7 +28,7 @@ zombie-start-announcement = Bestätigter Ausbruch einer biologischen Gefahr der 
 ### Over
 zombie-alone = Du fühlst dich ganz allein.
 
-zombie-shuttle-call = Wir haben festgestellt, dass die Untoten die Station überholt haben. Versand eines Notfall-Shuttles, um das verbleibende Personal zu sammeln.
+zombie-shuttle-call = Wir haben festgestellt, dass die Untoten die Station überrannt haben. Ein Notfall-Shuttle wird entsandt, um das verbleibende Personal abzuholen.
 
 zombie-round-end-initial-count = {$initialCount ->
     [one] Es gab einen Erstinfizierten:

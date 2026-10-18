@@ -4,7 +4,7 @@ self-extinguisher-examine-cooldown-ready = Der Selbstlöscher ist bereit, benutz
 self-extinguisher-examine-cooldown-recharging = Der Selbstverlöschende lädt sich auf für [color=teal]{$cooldown}[/color] Sekunden.
 self-extinguisher-examine-no-charges = Der Selbstverlöschende lädt sich auf für [color=teal]{$cooldown}[/color] Sekunden.
 
-self-extinguisher-no-charges = Die {$item} Es gibt keine Anklagen mehr!
+self-extinguisher-no-charges = Der {$item} hat keine Ladungen mehr!
 self-extinguisher-on-cooldown = Der Feuerlöscher von {$item} lädt gerade auf!
 self-extinguisher-not-on-fire-self = Du brennst nicht!
 self-extinguisher-not-on-fire-other = {$target} {CONJUGATE-BE($target)} Nicht in Flammen!

@@ -29,7 +29,7 @@ reagent-name-acetic-anhydride = Essigsäureanhydrid
 reagent-desc-acetic-anhydride = Eine farblose Flüssigkeit, die nach Essig riecht. Verwendung bei der Herstellung von Sprengstoffen.
 
 reagent-name-ammonium-nitrate-fuel-oil = Ammoniumnitrat-Heizöl
-reagent-desc-ammonium-nitrate-fuel-oil = Ein abwesend weißer, kristalliner Feststoff, gemischt mit Brennstoff, der oft als Strahlmittel verwendet wird. Explodiert bei 576K.
+reagent-desc-ammonium-nitrate-fuel-oil = Ein gebrochen weißer, kristalliner Feststoff, vermischt mit Treibstoff, der oft als Sprengmittel verwendet wird. Explodiert bei 576 K.
 
 reagent-name-octogen = Octogen
 reagent-desc-octogen = Ein weißes, undurchsichtiges Pulver mit einer Detonationsgeschwindigkeit, die der Wiedereintrittsgeschwindigkeit ähnelt. Auch bekannt als HMX. Explodiert bei 553K.

@@ -1,10 +1,10 @@
 signal-port-name-powered = angetrieben
 signal-port-description-powered = Dieser Port wird mit HIGH oder LOW aufgerufen, je nachdem, ob die Maschine ein- oder ausgeschaltet ist.
 
-signal-port-name-plumbing-input = Sanitär: Input
+signal-port-name-plumbing-input = Sanitär: Eingang
 signal-port-description-plumbing-input = Ein Sanitärautomatisierungsschlitz zum Pumpen von Flüssigkeiten.
 
-signal-port-name-plumbing-output = Sanitäranlagen: Output
+signal-port-name-plumbing-output = Sanitär: Ausgang
 signal-port-description-plumbing-output = Ein Sanitärautomatisierungsschlitz, um Flüssigkeiten herauszupumpen.
 
 signal-port-name-plumbing-dispenser = Sanitär: Spender
@@ -12,10 +12,10 @@ signal-port-description-plumbing-dispenser = Ein Sanitärautomatisierungsschlitz
 
 # Robotic Arm
 
-signal-port-name-input-machine = Artikel: Eingabemaschine
+signal-port-name-input-machine = Gegenstand: Eingabemaschine
 signal-port-description-input-machine = Ein Maschinenautomatisierungsschlitz, um Gegenstände herauszunehmen, anstatt sie vom Boden zu nehmen.
 
-signal-port-name-output-machine = Artikel: Ausgabemaschine
+signal-port-name-output-machine = Gegenstand: Ausgabemaschine
 signal-port-description-output-machine = Ein Maschinenautomatisierungsschlitz zum Einfügen von Gegenständen, anstatt sie auf den Boden zu legen.
 
 signal-port-name-item-moved = Gegenstand bewegt

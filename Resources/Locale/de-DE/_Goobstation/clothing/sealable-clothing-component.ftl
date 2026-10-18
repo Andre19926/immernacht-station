@@ -6,22 +6,22 @@
 
 sealable-clothing-equipment-not-toggled = Setze zuerst alle Teile ein!
 sealable-clothing-equipment-seal-failed = Siegelung ist fehlgeschlagen!
-sealable-clothing-seal-verb = Toggle Dichtungen
+sealable-clothing-seal-verb = Dichtungen umschalten
 
-sealable-clothing-seal-up = Die {$partName} ist dicht
-sealable-clothing-seal-up-helmet =  Die {$partName} Zischen, wenn es sich schließt
-sealable-clothing-seal-up-gauntlets = Die {$partName} Strumpft um deine Finger und Handgelenke
-sealable-clothing-seal-up-chestplate = Die {$partName} Ballen fest um die Brust
-sealable-clothing-seal-up-boots = Die {$partName} Dichtungen um deine Füße
+sealable-clothing-seal-up = {$partName} ist dicht
+sealable-clothing-seal-up-helmet = {$partName} zischt beim Schließen
+sealable-clothing-seal-up-gauntlets = {$partName} zieht sich fest um deine Finger und Handgelenke
+sealable-clothing-seal-up-chestplate = {$partName} presst sich fest um deine Brust
+sealable-clothing-seal-up-boots = {$partName} dichtet um deine Füße ab
 
-sealable-clothing-seal-down = Die {$partName} Entsiegelung
-sealable-clothing-seal-down-helmet = Die {$partName} Zischen offen
-sealable-clothing-seal-down-gauntlets = Die {$partName} Werden dich lose um deine Finger
-sealable-clothing-seal-down-chestplate = Die {$partName} Löst deine Brust frei
+sealable-clothing-seal-down = {$partName} wird entsiegelt
+sealable-clothing-seal-down-helmet = {$partName} zischt auf
+sealable-clothing-seal-down-gauntlets = {$partName} lockert sich um deine Finger
+sealable-clothing-seal-down-chestplate = {$partName} gibt deine Brust frei
 sealable-clothing-seal-down-boots= Die {$partName} entspannt seinen Griff auf den Beinen
 
-sealable-clothing-sealed-process-toggle-fail = Suit ist bereits geschlossen!
-sealable-clothing-unsealed-process-toggle-fail = Suit startet bereits!
+sealable-clothing-sealed-process-toggle-fail = Der Anzug ist bereits verschlossen!
+sealable-clothing-unsealed-process-toggle-fail = Der Anzug fährt bereits hoch!
 sealable-clothing-sealed-toggle-fail = Deaktiviere zuerst den Anzug!
 sealable-clothing-seal-was-broken = Das Siegel im Anzug bricht!
 

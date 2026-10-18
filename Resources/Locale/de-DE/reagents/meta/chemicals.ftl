@@ -41,7 +41,7 @@ reagent-name-sodium-polyacrylate = Natriumpolyacrylat
 reagent-desc-sodium-polyacrylate = Ein superabsorbierendes Polymer mit verschiedenen industriellen Anwendungen.
 
 reagent-name-cellulose = Zellstofffasern
-reagent-desc-cellulose = Ein Kristallin-Polydextrose-Polymer, Pflanzen schwören auf dieses Zeug.
+reagent-desc-cellulose = Ein kristallines Polydextrose-Polymer – Pflanzen schwören auf das Zeug.
 
 reagent-name-rororium = Rororium
 reagent-desc-rororium = Eine seltsame Substanz, die die Kerne der Hivelords füllt, die den Bergbau-Asteroiden durchstreifen. Es wird angenommen, dass es die Quelle ihrer regenerativen Kräfte ist.

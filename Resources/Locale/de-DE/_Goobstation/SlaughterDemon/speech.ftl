@@ -44,9 +44,9 @@ accent-demonic-words-15 = Wizard
 accent-demonic-words-replace-15 = Schleuderschnecke
 
 accent-demonic-suffix-1 = Du wurdest zum Bluten geboren.
-accent-demonic-suffix-2 = FLESH IST WEAK.
-accent-demonic-suffix-3 = RIP UND TEAR.
-accent-demonic-suffix-4 = DIE SCHREIBUNG.
+accent-demonic-suffix-2 = FLEISCH IST SCHWACH.
+accent-demonic-suffix-3 = RIP AND TEAR.
+accent-demonic-suffix-4 = DIE SCHRIFT.
 accent-demonic-suffix-5 = Ich höre dein Herz.
 accent-demonic-suffix-6 = Biete deine Knochen an.
 accent-demonic-suffix-7 = Blut wird dich ertrinken.

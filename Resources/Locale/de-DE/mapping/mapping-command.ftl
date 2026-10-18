@@ -19,7 +19,7 @@ cmd-mapping-warning = WARNUNG: Der Server verwendet einen Debug Build. Du riskie
 # I CBF making this PR depend on that one.
 cmd-mapping-failure-integer = {$arg} ist keine gültige Ganzzahl.
 cmd-mapping-failure-float = {$arg} ist kein gültiger Float.
-cmd-mapping-failure-bool = {$arg} Es ist kein gültiger bool.
+cmd-mapping-failure-bool = {$arg} ist kein gültiger Bool-Wert.
 cmd-mapping-nullspace = Du kannst nicht in Karte 0 laden.
 cmd-hint-mapping-id = [MapID]
 cmd-mapping-hint-grid = [Grid]

@@ -15,16 +15,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-carpetium = Carpetium
-reagent-desc-carpetium = Eine mystische Chemikalie, die normalerweise vom Clownplaneten ausgelagert wird und alles abdeckt, was sie im Teppich berührt. Irgendwie filtert Carpotoxin aus dem Blutstrom heraus.
+reagent-desc-carpetium = Eine mystische Chemikalie, meist vom Clownplaneten ausgelagert, die alles, was sie berührt, mit Teppich überzieht. Filtert irgendwie Carpotoxin aus dem Blutkreislauf.
 
 reagent-name-fiber = Faser
 reagent-desc-fiber = Ein Rohstoff, der normalerweise aus Wolle oder anderen Gewebeprodukten gewonnen wird.
 
 reagent-name-buzzochloric-bees = Buzzochlor-Bienen
-reagent-desc-buzzochloric-bees = Bienen. Oh Gott, es sind LIQUID BEES NO-
+reagent-desc-buzzochloric-bees = Bienen. Oh Gott, es sind FLÜSSIGE BIENEN NEIN-
 
 reagent-name-ground-bee = Gemahlene Biene
-reagent-desc-ground-bee = Bienengrund. Brutto.
+reagent-desc-ground-bee = Bienensatz. Eklig.
 
 reagent-name-saxoite = Saxoit
 reagent-desc-saxoite = Riecht nach Jazz.
@@ -33,7 +33,7 @@ reagent-name-licoxide = Licoxid
 reagent-desc-licoxide = Eine synthetische Batteriesäure. Es sieht ... elektrisierend aus.
 
 reagent-name-razorium = Razorium
-reagent-desc-razorium = Eine seltsame, nicht-newtonianische Chemikalie. Es wird produziert, wenn zwei widersprüchliche rohe Medikamente kombiniert werden. Wenn Kraft auf sie ausgeübt wird, verhärtet sie sich vorübergehend und schafft Millionen von winzigen, scharfen Kanten. Sehr schmerzhaft.
+reagent-desc-razorium = Eine seltsame, nicht-newtonsche Chemikalie. Sie entsteht, wenn zwei gegensätzliche Wundmedikamente kombiniert werden. Wirkt Kraft auf sie ein, verhärtet sie sich vorübergehend und bildet Millionen winziger, scharfer Kanten. Sehr schmerzhaft.
 
 reagent-name-fresium = Fresium
 reagent-desc-fresium = Eine mysteriöse Verbindung, die die Schwingung von Atomen und Molekülen verlangsamt ... irgendwie. In Laienbegriffen macht es die Dinge kalt ... WIRKLICH kalt. Kann lang anhaltende Bewegungsprobleme verursachen, wenn sie eingenommen werden.
@@ -42,7 +42,7 @@ reagent-name-laughter = Lachen
 reagent-desc-laughter = Einige sagen, dass dies die beste Medizin ist, aber neuere Studien haben bewiesen, dass dies unwahr ist.
 
 reagent-name-weh = Weh-Saft
-reagent-desc-weh = Reine Essenz von Echse Plüsch. Macht dich weh!
+reagent-desc-weh = Reine Essenz von Echsenplüsch. Macht dich Weh!
 
 reagent-name-hew = Hew-Saft
 reagent-desc-hew = Reine Essenz von umgekehrtem Echsenplüsch. Macht dich Hew!

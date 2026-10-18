@@ -1,1 +1,1 @@
-comp-light-replacer-recycle-progress = Es ist {$num}% des Weges zu einer neuen Lichtröhre.
+comp-light-replacer-recycle-progress = Zu {$num} % auf dem Weg zur nächsten Lichtröhre.

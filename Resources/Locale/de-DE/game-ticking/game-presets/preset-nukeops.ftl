@@ -29,23 +29,23 @@ nukeops-neutral = [color=yellow]Neutrales Ergebnis![/color]
 nukeops-crewminor = [color=green]Kleiner Sieg für die Crew![/color]
 nukeops-crewmajor = [color=green]Großer Sieg für die Crew![/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = Die Atomaktivisten schafften es, die Station zu sprengen.
+nukeops-cond-nukeexplodedoncorrectstation = Die Atomagenten schafften es, die Station zu sprengen.
 nukeops-cond-nukeexplodedonnukieoutpost = Der Außenposten der Atomagenten wurde von einer Atomexplosion zerstört!
 nukeops-cond-nukeexplodedonincorrectlocation = Die Nuke detonierte außerhalb der Station.
 nukeops-cond-nukeactiveinstation = Die Nuke wurde bewaffnet auf der Station gelassen.
 nukeops-cond-nukeactiveatcentcom = Die Nuke wurde bewaffnet und an das CentComm geliefert!
 nukeops-cond-nukediskoncentcom = Die Crew entkam mit der nuklearen Authentifizierungsscheibe.
 nukeops-cond-nukedisknotoncentcom = Die Crew ließ die nukleare Authentifizierungsscheibe zurück.
-nukeops-cond-nukiesabandoned = Die Atomaktivisten wurden aufgegeben.
-nukeops-cond-allnukiesdead = Alle Atomarbeiter sind gestorben.
+nukeops-cond-nukiesabandoned = Die Atomagenten wurden zurückgelassen.
+nukeops-cond-allnukiesdead = Alle Atomagenten sind gestorben.
 nukeops-cond-somenukiesalive = Einige Atomagenten sind gestorben.
 nukeops-cond-allnukiesalive = Kein Atomagent ist gestorben.
 
 nukeops-list-start = Die Atomagenten waren:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Nukeops kann nicht gestartet werden.
-nukeops-no-one-ready = Keine Spieler bereit! Ich kann Nukeops nicht starten.
+nukeops-not-enough-ready-players = Nicht genug Spieler bereit! Es sind {$readyPlayersCount} von {$minimumPlayers} nötigen Spielern bereit. Das Atomkommando kann nicht gestartet werden.
+nukeops-no-one-ready = Keine Spieler bereit! Das Atomkommando kann nicht gestartet werden.
 
 nukeops-role-commander = Kommandant
 nukeops-role-agent = Sanitäter

@@ -5,4 +5,4 @@ ui-config-menu-crafting = Handwerksmenü
 ui-config-menu-language = Sprachmenü
 ui-config-menu-admin = Admin-Menü
 ui-config-menu-ahelp = Hilfe
-ui-config-menu-sandbox = Sandbox Menü
+ui-config-menu-sandbox = Sandbox-Menü

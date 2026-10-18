@@ -2,7 +2,7 @@ cmd-addinternalresource-desc = Stellt Typ und Komponente einer internen Ressourc
 cmd-addinternalresource-help = addinternalresource <EntityUid> <InternalResourcePrototype>
 
 cmd-addinternalresource-invalid-args = Erwartet genau 2 Argumente.
-cmd-addinternalresource-type-not-found = Kann keinen passenden internen Ressourcenprototyp finden {$type}.
+cmd-addinternalresource-type-not-found = Kein passender interner Ressourcen-Prototyp gefunden: {$type}.
 cmd-addinternalresource-adding-failed = Die interne Ressource konnte der Entity nicht hinzugefügt werden.
 
 cmd-addinternalresource-player-completion = <EntityUid>

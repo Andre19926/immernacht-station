@@ -1,1 +1,1 @@
-cleaning-tool-scrubbing-start = {$user} beginnt am Boden zu schrubben
+cleaning-tool-scrubbing-start = {$user} beginnt, den Boden zu schrubben

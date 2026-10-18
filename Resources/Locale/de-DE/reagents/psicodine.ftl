@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: MIT
 
 psicodine-effect-fearless = Du fühlst dich total furchtlos!
-psicodine-effect-anxieties-wash-away = Alle deine Ängste wegwaschen!
+psicodine-effect-anxieties-wash-away = Alle deine Ängste werden weggespült!
 psicodine-effect-at-peace = Du fühlst dich vollkommen in Frieden.

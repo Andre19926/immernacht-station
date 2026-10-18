@@ -5,10 +5,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-milk-choco = Schokoladenmilch
-reagent-desc-milk-choco = Ein Milchgetränk mit Schokolade aromatisiert.
+reagent-desc-milk-choco = Ein mit Schokolade aromatisiertes Milchgetränk.
 
 reagent-name-tramadol = Tramadol
-reagent-desc-tramadol = Ein starkes Kampfschmerzmittel. Nimm nicht mit Alkohol.
+reagent-desc-tramadol = Ein starkes Kampfschmerzmittel. Nicht mit Alkohol einnehmen.
 
 reagent-name-oxycodone = Oxycodon
-reagent-desc-oxycodone = Ein sehr starkes Schmerzmittel, das im Wesentlichen alle Schmerzen betäubt, aber eine brutale Überdosis hat. Nimm nicht mit Alkohol.
+reagent-desc-oxycodone = Ein sehr starkes Schmerzmittel, das im Wesentlichen alle Schmerzen betäubt, aber eine brutale Überdosis hat. Nicht mit Alkohol einnehmen.

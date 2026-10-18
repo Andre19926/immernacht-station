@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-traitor-target-alive-title = Gewährleistung {$targetName}, {CAPITALIZE($job)} Bleibt sicher vor anderen Agenten.
+objective-condition-traitor-target-alive-title = Sorge dafür, dass {$targetName}, {CAPITALIZE($job)}, vor anderen Agenten sicher bleibt.

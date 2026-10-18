@@ -10,5 +10,5 @@
 
 cmd-setoutfit-desc = Legt das Outfit der angegebenen Entität fest. Die Entität muss die Komponente {$requiredComponent} haben.
 cmd-setoutfit-help = Verwendung: setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
-cmd-setoutfit-is-not-player-error = Dieser Befehl erfordert, dass beide Argumente von der Serverkonsole aus funktionieren.
+cmd-setoutfit-is-not-player-error = Von der Serverkonsole aus erfordert dieser Befehl beide Argumente.
 cmd-setoutfit-invalid-outfit-id-error = Ungültige Outfit-ID.

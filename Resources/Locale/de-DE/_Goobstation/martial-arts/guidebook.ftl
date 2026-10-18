@@ -1,4 +1,4 @@
-guide-entry-martial-arts = Kampf- und Kampfkunst
+guide-entry-martial-arts = Kampf und Kampfkünste
 
 guide-entry-cqc = Nahkampf (CQC)
 guide-entry-hell-rip = Höllenriss

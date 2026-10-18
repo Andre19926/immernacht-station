@@ -50,4 +50,4 @@ reagent-name-capsaicin-oil = Capsaicinöl
 reagent-desc-capsaicin-oil = Capsaicinöl ist der Inhaltsstoff, der in verschiedenen Chilisorten steckt.
 
 reagent-name-frost-oil = Frostöl
-reagent-desc-frost-oil = Frost Öl ist die Zutat, die in kalten Paprika gefunden wird, einer seltenen Pfeffermutation.
+reagent-desc-frost-oil = Frostöl ist der Inhaltsstoff, der in Frostchilis steckt, einer seltenen Chilimutation.

@@ -61,10 +61,10 @@ reagent-name-norepinephric-acid = Noradrenalinsäure
 reagent-desc-norepinephric-acid = Eine glatte Chemikalie, die die optischen Rezeptoren blockiert und den Benutzer während der Metabolisierung blind macht.
 
 reagent-name-tear-gas = Tränengas
-reagent-desc-tear-gas = Eine Chemikalie, die schwere Irritationen und Weinen verursacht, die üblicherweise bei der Bekämpfung von Unruhen verwendet wird.
+reagent-desc-tear-gas = Eine Chemikalie, die schwere Reizungen und Tränenfluss verursacht und üblicherweise zur Bekämpfung von Unruhen eingesetzt wird.
 
 reagent-name-happiness = Glückseligkeit
-reagent-desc-happiness = Füllt dich mit ekstatischer Taubheit und verursacht kleinere Hirnschäden. Sehr süchtig machend. Wenn eine Überdosierung plötzliche Stimmungsschwankungen verursacht.
+reagent-desc-happiness = Erfüllt dich mit ekstatischer Taubheit und verursacht kleinere Hirnschäden. Sehr suchterzeugend. Eine Überdosis verursacht plötzliche Stimmungsschwankungen.
 
 reagent-name-nitrosyl-plasmide = Nitrosylplasmid
 reagent-desc-nitrosyl-plasmide = Ein starkes Stimulans, das Schläfrigkeit, Betäubung und Knockdowns verhindern kann.

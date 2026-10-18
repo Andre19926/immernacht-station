@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-beacon-centcomm-office = Centcomm Büro
+station-beacon-centcomm-office = CentComm-Büro
 
 station-beacon-radio-station = Radiostation

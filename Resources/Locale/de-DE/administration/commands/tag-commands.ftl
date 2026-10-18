@@ -7,8 +7,8 @@
 addtag-command-description = Fügt der angegebenen Entität einen Tag hinzu
 addtag-command-help = Verwendung: addtag <entity uid> <tag>
 
-addtag-command-success = Zugesetzt {$tag} bis {$target}.
-addtag-command-fail = Konnte nicht hinzufügen {$tag} bis {$target}.
+addtag-command-success = {$tag} zu {$target} hinzugefügt.
+addtag-command-fail = {$tag} konnte nicht zu {$target} hinzugefügt werden.
 
 removetag-command-description = Entfernt einen Tag von der angegebenen Entität
 removetag-command-help = Verwendung: removetag <entity uid> <tag>

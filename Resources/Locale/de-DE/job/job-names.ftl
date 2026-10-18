@@ -93,7 +93,7 @@ job-name-party-maker = Partymacher
 # these are required for the agent ID job icon tooltips
 # I am keeping them for roleplaying opportunities
 job-name-geneticist = Genetiker
-job-name-no-id = No ID
+job-name-no-id = Keine ID
 job-name-prisoner = Gefangener
 job-name-roboticist = Robotiker
 job-name-syndicate = Syndicate

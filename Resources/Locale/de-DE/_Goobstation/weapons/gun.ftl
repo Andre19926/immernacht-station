@@ -8,13 +8,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # EnergyGunComponent
-energygun-examine-fire-mode = Aufgesetzt auf {$mode} Bolzen.
+energygun-examine-fire-mode = Auf {$mode}-Bolzen umgestellt.
 
 # Hardlight Bow
 ammo-selector-examine-mode = Aktueller Modus: {$mode}
 mode-select-verb-text = Zündmodus auswählen
-mode-selected = Ausgewählt {$mode}
+mode-selected = {$mode} ausgewählt
 
 # RequiresDualWieldComponent
-dual-wield-component-requires = Das fühlt sich nicht cool genug an, du musst doppelt ausüben.
-gun-requires-dual-wield-component-examine = Diese Waffe muss mit einer anderen ihrer Art doppelt geführt werden, um abgefeuert zu werden.
+dual-wield-component-requires = Das fühlt sich nicht cool genug an – du musst zwei davon führen.
+gun-requires-dual-wield-component-examine = Diese Waffe muss zusammen mit einer weiteren ihrer Art beidhändig geführt werden, um zu feuern.

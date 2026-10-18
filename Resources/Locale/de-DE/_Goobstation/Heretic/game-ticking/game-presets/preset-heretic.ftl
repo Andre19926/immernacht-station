@@ -12,7 +12,7 @@ heretic-roundend-name = ein Ketzer
 roundend-prepend-heretic-ascension-success = {$name}, [color=green] ist aufgestiegen![/color]
 roundend-prepend-heretic-ascension-fail = {$name}, [color=red] ist gescheitert![/color]
 roundend-prepend-heretic-ascension-fail-owls = {$name}, [color=red] hat ihren Aufstieg aufgegeben und ist somit gescheitert![/color]
-roundend-prepend-heretic-knowledge-named = [color=white]{$name}[/color] recherchiert hat insgesamt [color=purple]{$number}[/color] Wissen.
+roundend-prepend-heretic-knowledge-named = [color=white]{$name}[/color] hat insgesamt [color=purple]{$number}[/color] Wissen erforscht.
 
 heretic-gamemode-title = Ketzer
 heretic-gamemode-description =
@@ -62,7 +62,7 @@ ghostrole-ghoul-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen.
 ghostrole-flesh-mimic-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Sei dir bewusst, dass du mit der Zeit stirbst.
 ghostrole-prophet-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbinde andere Gläubige mit dem Mansus Link. Heile passiv Ketzer und unheimliche Kreaturen.
 ghostrole-stalker-desc = Teleportiere dich und sabotiere die Beleuchtung der Crew.
-ghostrole-fire-shark-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbrennt eure Opfer.
-ghostrole-rustwalker-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Rost überall verteilen.
+ghostrole-fire-shark-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbrenne deine Opfer.
+ghostrole-rustwalker-desc = Hilf deinem Beschwörer, den Aufstieg zu erreichen. Verbreite überall Rost.
 ghostrole-stargazer-desc = Hilf deinem Beschwörer, überall Chaos anzurichten.
 ghostrole-ghoul-rules = Du bist ein [color=red][bold]Teamantagonist[/bold][/color] zusammen mit demjenigen, der dich beschworen hat, und anderen unheimlichen Wesen.

@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-phlogiston-plasma-created = Die Mischung bläst, und Plasma steigt aus ihm!
+phlogiston-plasma-created = Die Mischung sprudelt, und Plasma steigt daraus auf!

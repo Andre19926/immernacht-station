@@ -15,20 +15,20 @@ marking-YowieFurChest-yowie_fur_chest = Brustfell
 marking-YowieFurGroin = Yowie-Leistenfell
 marking-YowieFurGroin-yowie_fur_groin = Leistengegend
 
-marking-YowieFurArmRight = Yowie rechter Arm
-marking-YowieFurArmRight-yowie_fur_arm_right = Yowie rechter Arm
+marking-YowieFurArmRight = Yowie-Fell rechter Arm
+marking-YowieFurArmRight-yowie_fur_arm_right = Yowie-Fell rechter Arm
 
-marking-YowieFurArmLeft = Yowie linkes Armfell
-marking-YowieFurArmLeft-yowie_fur_arm_left = Yowie linkes Armfell
+marking-YowieFurArmLeft = Yowie-Fell linker Arm
+marking-YowieFurArmLeft-yowie_fur_arm_left = Yowie-Fell linker Arm
 
 marking-YowieFurLegRight = Rechtsbeinfell
 marking-YowieFurLegRight-yowie_fur_leg_right = Rechtsbeinfell
 
-marking-YowieFurLegLeft = Yowie linkes Bein
-marking-YowieFurLegLeft-yowie_fur_leg_left = Yowie linkes Bein
+marking-YowieFurLegLeft = Yowie-Fell linkes Bein
+marking-YowieFurLegLeft-yowie_fur_leg_left = Yowie-Fell linkes Bein
 
-marking-YowieFurFeetRight = Rechtsfußfell
-marking-YowieFurFeetRight-yowie_fur_feet_right = Rechtsfußfell
+marking-YowieFurFeetRight = Yowie-Fell rechter Fuß
+marking-YowieFurFeetRight-yowie_fur_feet_right = Yowie-Fell rechter Fuß
 
-marking-YowieFurFeetLeft = Yowie linkes Fußfell
-marking-YowieFurFeetLeft-yowie_fur_feet_left = Yowie linkes Fußfell
+marking-YowieFurFeetLeft = Yowie-Fell linker Fuß
+marking-YowieFurFeetLeft-yowie_fur_feet_left = Yowie-Fell linker Fuß

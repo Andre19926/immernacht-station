@@ -1,7 +1,7 @@
 disease-swab-unclean = Dieser Tupfer sieht unrein aus.
-disease-swab-cant-swab = Du kannst nicht abtupfen {$target}.
+disease-swab-cant-swab = Du kannst von {$target} keinen Abstrich nehmen.
 disease-swab-swabbed = Du nimmst eine Probe von {$target}.
-disease-swab-swabbed-by = {$user} Tupfer dich.
+disease-swab-swabbed-by = {$user} nimmt einen Abstrich von dir.
 disease-swab-yourself = selbst
 
 disease-analyzer-report-title = Krankheitsanalysebericht

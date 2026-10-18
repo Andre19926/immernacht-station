@@ -15,7 +15,7 @@ reagent-popup-tranquility = Du fühlst dich seltsam ruhig...
 
 reagent-name-binglejuice = Binselsaft
 reagent-desc-binglejuice = Bing bong.
-reagent-popup-binglejuice = Der Gedanke muss dir irgendwann in den Sinn gekommen sein. Der Gedanke, dass du zu tief eingetaucht bist. Der Gedanke, dass dies eine Einbahnfahrt wäre. Anstatt also das Unvermeidliche zu bekämpfen, warum nicht umarmen? Einfach hinlegen und ausruhen. Es gibt Schönheit in dieser Dunkelheit, die genutzt werden kann, um etwas Neues einzuleiten.
+reagent-popup-binglejuice = Der Gedanke muss dir irgendwann gekommen sein. Der Gedanke, dass du zu tief eingetaucht bist. Der Gedanke, dass dies eine Einbahnstraße ist. Also warum das Unvermeidliche bekämpfen, statt es zu umarmen? Leg dich einfach hin und ruh dich aus. In dieser Dunkelheit liegt eine Schönheit, die sich nutzen lässt, um etwas Neues einzuleiten.
 
 reagent-name-carpolin = Carpolin
 reagent-desc-carpolin = Verursacht, dass sich der Metabolisierer in eine überlegene Lebensform verwandelt.
@@ -26,11 +26,11 @@ reagent-popup-carpolin = Du fühlst dich... seltsam.
 # LICENSED UNDER THE MIT LICENSE
 # SEE README.MD AND LICENSE.TXT IN THE ROOT OF THIS REPOSITORY FOR MORE INFORMATION
 reagent-name-profanol = Profanol
-reagent-desc-profanol = Eine chemische Verbindung, die dafür bekannt ist, dass Menschen zwanghaft schwören. Ein Ruiner unzähliger Familientreffen und Beerdigungen.
+reagent-desc-profanol = Eine chemische Verbindung, die Menschen zwanghaft fluchen lässt. Ruiniert unzählige Familientreffen und Beerdigungen.
 # END OF MIT-LICENSED CODE
 
 reagent-name-copium = Copium
-reagent-desc-copium = Denn wenn du einen Stimmungsschub brauchst.
+reagent-desc-copium = Für den Fall, dass du einen Stimmungsschub brauchst.
 reagent-popup-copium-1 = Du fühlst dich sehr robust.
 reagent-popup-copium-2 = Du hast das Gefühl, dass du bald eine Gehaltserhöhung bekommst.
 reagent-popup-copium-3 = Du liegst nie falsch.

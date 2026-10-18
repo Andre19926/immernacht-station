@@ -11,9 +11,9 @@
 ### Messages that can be utilized by multiple reagents.
 
 generic-reagent-effect-burning-insides = Du spürst, wie dein Inneres brennt!
-generic-reagent-effect-burning-eyes = Dort beginnen die Augen leicht zu brennen.
+generic-reagent-effect-burning-eyes = Deine Augen beginnen leicht zu brennen.
 generic-reagent-effect-burning-eyes-a-bit = Deine Augen brennen ein wenig.
-generic-reagent-effect-tearing-up = Deine Augen fangen an zu zerreißen.
+generic-reagent-effect-tearing-up = Deine Augen fangen an zu tränen.
 generic-reagent-effect-nauseous = Dir ist übel.
 generic-reagent-effect-parched = Du fühlst dich ausgedörrt.
 generic-reagent-effect-thirsty = Du spürst Durst.

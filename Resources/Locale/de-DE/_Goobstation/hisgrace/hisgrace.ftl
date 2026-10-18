@@ -1,5 +1,5 @@
 hisgrace-attack-popup = Seine Gnade schlägt auf {$target}!
-hisgrace-devour = Seine Gnade verschlingt {$target} Ganz!
+hisgrace-devour = Seine Gnade verschlingt {$target} ganz!
 
 hisgrace-use-start = Seine Gnade greift deine Seele an...
 hisgrace-hunger-increased = Seine Gnade hungert...

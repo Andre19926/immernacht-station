@@ -34,7 +34,7 @@ reagent-name-tea-powder = Teepulver
 reagent-desc-tea-powder = Fein gemahlene Teeblätter, die zur Herstellung von Tee verwendet werden.
 
 reagent-name-green-tea = Grüner Tee
-reagent-desc-green-tea = Lecker grüner Tee.
+reagent-desc-green-tea = Leckerer grüner Tee.
 
 reagent-name-grenadine = Grenadin
 reagent-desc-grenadine = Nicht kirscharomatisiert!
@@ -64,7 +64,7 @@ reagent-name-milk-oat = Hafermilch
 reagent-desc-milk-oat = Überraschend lecker.
 
 reagent-name-milk-soy = Sojamilch
-reagent-desc-milk-soy = Verbraucher Favorit.
+reagent-desc-milk-soy = Verbraucherliebling.
 
 reagent-name-milk-spoiled = verdorbene Milch
 reagent-desc-milk-spoiled = Diese Milch ist ranzig geworden.
@@ -79,7 +79,7 @@ reagent-name-hot-cocoa = Heißer Kakao
 reagent-desc-hot-cocoa = Riecht wie die Ferien!
 
 reagent-name-soda-water = Sodawasser
-reagent-desc-soda-water = Ein Container mit Club Soda. Warum nicht einen Scotch und Soda machen?
+reagent-desc-soda-water = Ein Behälter mit Sodawasser. Warum nicht einen Scotch Soda mixen?
 
 reagent-name-soy-latte = Soja-Latte
 reagent-desc-soy-latte = Ein Kaffeegetränk aus Espresso und gedämpfter Sojamilch.
@@ -109,7 +109,7 @@ reagent-name-posca = Posca
 reagent-desc-posca = Das Getränk von einem vergessenen
 
 reagent-name-mopwata = Mopwata
-reagent-desc-mopwata = Schmutziges, stagnierendes Moppwasser.
+reagent-desc-mopwata = Schmutziges, abgestandenes Wischwasser.
 
 reagent-name-orange-lime-soda = Zitrus-Fahrradschuppen
-reagent-desc-orange-lime-soda = Das Soda sollte orange sein! Nein, es sollte Zitronenkalk sein!
+reagent-desc-orange-lime-soda = Die Limo sollte orange sein! Nein, Zitrone-Limette!

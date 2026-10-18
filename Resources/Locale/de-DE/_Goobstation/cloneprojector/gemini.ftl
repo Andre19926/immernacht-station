@@ -5,7 +5,7 @@ clone-projector-examined-status = { $cloneStatus ->
 clone-projector-examined-health = {$cloneHealth} % Integrität
 
 gemini-projector-clone-created = Ein Schwarm Naniten erscheint aus dem Projektor von {$user}.
-gemini-projector-clone-retrieved = Die {$target} dematerialisiert.
+gemini-projector-clone-retrieved = {$target} löst sich auf.
 
 gemini-projector-clone-flavor-text = [color=cyan]Es besteht aus einem Schwarm Nanomaschinen.[/color]
 gemini-projector-clone-name-suffix = — Gemini
@@ -21,9 +21,9 @@ gemini-projector-reboot-verb = Persönlichkeit neu kalibrieren
 gemini-projector-reboot-verb-text = Rekalibriere die Persönlichkeit des aktuellen Klons und gib ihm einen brandneuen Geist. Das kann nicht rückgängig gemacht werden.
 
 ghost-role-information-gemini-clone-name = Gemini-Hologramm
-ghost-role-information-gemini-clone-description = Unterstütze den Forschungsdirektor bei allen seinen Aufgaben. Vielleicht brennen eine Stadt oder zwei, wenn sie wollen.
+ghost-role-information-gemini-clone-description = Unterstütze den Forschungsdirektor bei allen seinen Aufgaben. Wenn er es will, darf auch mal die eine oder andere Stadt brennen.
 
 ghost-role-information-monozygotic-clone-name = Monozygotes Hologramm
-ghost-role-information-monozygotic-clone-description = Unterstütze das CentComm bei allen ihren Aufgaben.
+ghost-role-information-monozygotic-clone-description = Unterstütze CentComm bei allen seinen Aufgaben.
 
 monozygotic-projector-clone-name-suffix = - Zygote

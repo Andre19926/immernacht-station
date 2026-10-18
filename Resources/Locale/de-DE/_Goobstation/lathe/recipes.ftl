@@ -1,6 +1,6 @@
 lathe-recipe-BaseTranslatorImplanter-name = Übersetzer-Implantator
 
-lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = Gemeinsames Übersetzerimplantat
+lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = Common-Übersetzerimplantat
 lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = Erweitertes Common-Übersetzerimplantat
 lathe-recipe-BubblishTranslatorImplanter-subname = Bubblish-Übersetzerimplantat
 lathe-recipe-NekomimeticTranslatorImplanter-subname = Nekomimetic-Übersetzerimplantat

@@ -1,2 +1,2 @@
 reagent-name-synth-blood = Synthieblut
-reagent-desc-synth-blood = Dunkles Fulleren-reiches Blut, das von Synths verwendet wird, um Reparatur-Naniten durch ihre Körper zu bewegen.
+reagent-desc-synth-blood = Dunkles, fullerenreiches Blut, mit dem Synths Reparatur-Nanniten durch ihren Körper bewegen.

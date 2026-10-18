@@ -20,5 +20,5 @@ sanguine-strike-examine = [color=#c41515]Diese Waffe wird durch Blutmagie gestä
 scrying-orb-verb-message = Betritt das Reich der Toten
 scrying-orb-verb-text = Kugel aktivieren
 
-wizard-mirror-guardian-change-species-fail = Du kannst deine Spezies nicht ändern, nachdem du den Wächter gehostet hast!
+wizard-mirror-guardian-change-species-fail = Du kannst deine Spezies nicht ändern, nachdem du einen Wächter beherbergt hast!
 wizard-mirror-blood-crawl-change-species-fail = Du kannst deine Spezies nicht ändern, nachdem du ein dämonisches Herz benutzt hast!

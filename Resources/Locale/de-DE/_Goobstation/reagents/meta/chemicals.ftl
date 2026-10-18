@@ -16,4 +16,4 @@ reagent-name-blackpowder = Schwarzpulver
 reagent-desc-blackpowder = Ein primitiver, aber mächtiger Explosivstoff. Explodiert beim Erhitzen auf 474K!
 
 reagent-name-cryostylane = Cryostylan
-reagent-desc-cryostylane = Eine nützliche Chemikalie verbraucht Sauerstoff oder Jod, um die Lösung abzukühlen, in der sie sich befindet.
+reagent-desc-cryostylane = Eine nützliche Chemikalie, die Sauerstoff oder Jod verbraucht, um die Lösung, in der sie sich befindet, abzukühlen.

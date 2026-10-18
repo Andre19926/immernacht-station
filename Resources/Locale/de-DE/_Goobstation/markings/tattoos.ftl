@@ -1,5 +1,5 @@
-marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = Brust Tattoo (Nanotrasen)
-marking-TattooNanotrasenChest = Brust Tattoo (Nanotrasen)
+marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = Brusttattoo (Nanotrasen)
+marking-TattooNanotrasenChest = Brusttattoo (Nanotrasen)
 
 marking-TattooLoops-tattoo_loops = Schleifen
 marking-TattooLoops = Schleifen

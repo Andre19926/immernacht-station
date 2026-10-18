@@ -11,4 +11,4 @@ steal-target-groups-weapon-lawbringer = DT-12 „Gesetzesbringer“
 steal-target-groups-rapid-syringe-gun = Schnellspritzenpistole
 steal-target-groups-executive-briefcase = Executive-Aktenkoffer
 steal-target-groups-gemini-projector = Holo-Projektor-Rig ax-32 „Gemini“
-steal-target-groups-weapon-justice = DT-2 "Gerechtigkeit"
+steal-target-groups-weapon-justice = DT-2 „Gerechtigkeit“

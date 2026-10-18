@@ -1,49 +1,49 @@
-marking-WristBraceletRight = rechtes Armband
-marking-WristBraceletRight-bracelet_r = rechtes Armband
+marking-WristBraceletRight = Armband (rechts)
+marking-WristBraceletRight-bracelet_r = Armband (rechts)
 
-marking-WristBraceletLeft = linkes Armband
-marking-WristBraceletLeft-bracelet_l = linkes Armband
+marking-WristBraceletLeft = Armband (links)
+marking-WristBraceletLeft-bracelet_l = Armband (links)
 
-marking-WristBraceletArmRight = rechtes Armband
-marking-WristBraceletArmRight-bracelet_arm_r = rechtes Armband
+marking-WristBraceletArmRight = Armband am rechten Arm
+marking-WristBraceletArmRight-bracelet_arm_r = Armband am rechten Arm
 
 marking-WristBraceletArmLeft = Armband am linken Arm
-marking-WristBraceletArmLeft-bracelet_arm_l = Armband am linken Armband
+marking-WristBraceletArmLeft-bracelet_arm_l = Armband am linken Arm
 
-marking-WristWatchRight = rechte Uhr
-marking-WristWatchRight-watch_r = rechte Uhr
+marking-WristWatchRight = Armbanduhr (rechts)
+marking-WristWatchRight-watch_r = Armbanduhr (rechts)
 
-marking-WristWatchLeft = Linke Uhr
-marking-WristWatchLeft-watch_l = Linke Uhr
+marking-WristWatchLeft = Armbanduhr (links)
+marking-WristWatchLeft-watch_l = Armbanduhr (links)
 
-marking-WristWatchSilverRight = Rechte Silber Uhr
-marking-WristWatchSilverRight-watch_silver_r = Rechte Silber Uhr
+marking-WristWatchSilverRight = Silberne Armbanduhr (rechts)
+marking-WristWatchSilverRight-watch_silver_r = Silberne Armbanduhr (rechts)
 
 marking-WristWatchSilverLeft = Silberne Armbanduhr (links)
-marking-WristWatchSilverLeft-watch_silver_l = Links Silber Uhr
+marking-WristWatchSilverLeft-watch_silver_l = Silberne Armbanduhr (links)
 
 marking-WristWatchGoldRight = Goldene Armbanduhr (rechts)
-marking-WristWatchGoldRight-watch_gold_r = Richtige Golduhr
+marking-WristWatchGoldRight-watch_gold_r = Goldene Armbanduhr (rechts)
 
 marking-WristWatchGoldLeft = Goldene Armbanduhr (links)
-marking-WristWatchGoldLeft-watch_gold_l = Left Gold Uhr
+marking-WristWatchGoldLeft-watch_gold_l = Goldene Armbanduhr (links)
 
-marking-WristWatchHoloRight = Rechte Holographische Uhr
-marking-WristWatchHoloRight-watch_holo_r = Rechte Holographische Uhr
+marking-WristWatchHoloRight = Holografische Armbanduhr (rechts)
+marking-WristWatchHoloRight-watch_holo_r = Holografische Armbanduhr (rechts)
 
-marking-WristWatchHoloLeft = Linke Holographische Uhr
-marking-WristWatchHoloLeft-watch_holo_l = Linke Holographische Uhr
+marking-WristWatchHoloLeft = Holografische Armbanduhr (links)
+marking-WristWatchHoloLeft-watch_holo_l = Holografische Armbanduhr (links)
 
-marking-WristWatchLeatherRight = Rechte Lederuhr
-marking-WristWatchLeatherRight-watch_leather_r = Rechte Lederuhr
+marking-WristWatchLeatherRight = Lederarmbanduhr (rechts)
+marking-WristWatchLeatherRight-watch_leather_r = Lederarmbanduhr (rechts)
 
-marking-WristWatchLeatherLeft = Linke Lederuhr
-marking-WristWatchLeatherLeft-watch_leather_l = Linke Lederuhr
+marking-WristWatchLeatherLeft = Lederarmbanduhr (links)
+marking-WristWatchLeatherLeft-watch_leather_l = Lederarmbanduhr (links)
 
 marking-WristWatchColorableRight = Armbanduhr (färbbar, rechts)
 marking-WristWatchColorableRight-watch_colorable_r_tone_1 = Gurtband
 marking-WristWatchColorableRight-watch_colorable_r_tone_2 = Zifferblatt
 
-marking-WristWatchColorableLeft = Left Watch (farbenfroh)
+marking-WristWatchColorableLeft = Armbanduhr (färbbar, links)
 marking-WristWatchColorableLeft-watch_colorable_l_tone_1 = Gurtband
 marking-WristWatchColorableLeft-watch_colorable_l_tone_2 = Zifferblatt

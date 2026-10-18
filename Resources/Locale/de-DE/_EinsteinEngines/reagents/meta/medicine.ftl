@@ -1,2 +1,2 @@
 reagent-name-artiplates = Artiplatten
-reagent-desc-artiplates = Eine hochentwickelte Form von künstlichem Blut, die sich schnell ausdehnt, wenn sie in den Blutkreislauf eingeführt wird. Aufgrund seiner expansiven Eigenschaften kann es in großen Dosen zu schweren inneren Blutungen führen.
+reagent-desc-artiplates = Eine hochentwickelte Form von künstlichem Blut, die sich im Blutkreislauf schnell ausdehnt. Aufgrund dieser Eigenschaft kann es in hohen Dosen schwere innere Blutungen verursachen.

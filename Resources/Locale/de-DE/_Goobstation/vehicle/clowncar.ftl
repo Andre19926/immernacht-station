@@ -6,6 +6,6 @@
 
 clowncar-thank-no-driver = Danke für die Fahrt
 clowncar-thank-driver = Danke, {$driver}, du bist ein guter Fahrer
-clowncar-quiet-in-the-back = Ruhig wieder da!
+clowncar-quiet-in-the-back = Ruhe da hinten!
 uplink-clowncar-name = Clownauto
-uplink-clowncar-desc = Von Honk Co. das perfekte Hit and Run Tool. Versicherung nicht inbegriffen
+uplink-clowncar-desc = Von Honk Co.: das perfekte Werkzeug für Fahrerflucht. Versicherung nicht inbegriffen

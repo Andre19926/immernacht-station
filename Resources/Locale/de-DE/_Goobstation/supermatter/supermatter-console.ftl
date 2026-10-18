@@ -1,7 +1,7 @@
 supermatter-console-window-title = Supermatter-Überwachungskonsole
 supermatter-console-window-station-name = [color=white][font size=14]{$stationName}[/font][/color]
 supermatter-console-window-unknown-location = Unbekannter Standort
-supermatter-console-window-no-supermatters = [font size=16][color=white]Keine Supermaterie entdeckt[/font]
+supermatter-console-window-no-supermatters = [font size=16][color=white]Kein Supermatter-Kristall entdeckt[/font]
 
 supermatter-console-window-label-sm = {CAPITALIZE($name)}
 
@@ -40,5 +40,5 @@ supermatter-console-window-label-absorption-bar = {$absorption}%
 supermatter-console-window-label-gas = Unbekanntes Gas
 supermatter-console-window-label-gas-bar = {$gas}%
 
-supermatter-console-window-flavor-left = ⚠ Nähern dich nicht dem Kristall
+supermatter-console-window-flavor-left = ⚠ Nähere dich nicht dem Kristall
 supermatter-console-window-flavor-right = v1.1

@@ -39,7 +39,7 @@ reagent-name-dylovene = Dylovene
 reagent-desc-dylovene = Ein Breitband-Antitoxin, das Toxinschäden in Organismen behandelt. Überdosierung führt zu Erbrechen, Schwindel und Schmerzen.
 
 reagent-name-diphenhydramine = Diphenhydramin
-reagent-desc-diphenhydramine = Schnell spült den Körper von Histamin, reduziert Jitteriness, verursacht Schläfrigkeit und behandelt Giftschäden. Oft in Schlafmitteln enthalten.
+reagent-desc-diphenhydramine = Spült Histamin schnell aus dem Körper, verringert Zittrigkeit, macht schläfrig und behandelt Giftschäden. Oft in Schlafmitteln enthalten.
 
 reagent-name-arithrazine = Arithrazin
 reagent-desc-arithrazine = Ein leicht instabiles Medikament für schwerste Fälle von Strahlenvergiftung. Belastet den Körper leicht.
@@ -97,7 +97,7 @@ reagent-name-ambuzol-plus = Ambuzol plus
 reagent-desc-ambuzol-plus = Weiter entwickelt mit Omnizin, impft das Leben gegen die Infektion.
 
 reagent-name-pulped-banana-peel = Bananenschalenbrei
-reagent-desc-pulped-banana-peel = Gepulste Bananenschalen haben eine gewisse Wirksamkeit gegen Blutungen.
+reagent-desc-pulped-banana-peel = Pürierte Bananenschalen wirken in gewissem Maße gegen Blutungen.
 
 reagent-name-siderlac = Siderlac
 reagent-desc-siderlac = Eine starke anti-kaustische Medizin aus Pflanzen abgeleitet.
@@ -130,7 +130,7 @@ reagent-name-ethylredoxrazine = Ethylredoxrazin
 reagent-desc-ethylredoxrazine = Neutralisiert die Wirkung von Alkohol im Blutkreislauf. Obwohl es häufig benötigt wird, wird es selten angefordert.
 
 reagent-name-cognizine = Cognizin
-reagent-desc-cognizine = Eine mysteriöse Chemikalie, die in der Lage ist, jede nicht fühlende Kreatur fühlend zu machen.
+reagent-desc-cognizine = Eine mysteriöse Chemikalie, die jede nicht empfindungsfähige Kreatur empfindungsfähig machen kann.
 
 reagent-name-ethyloxyephedrine = Ethyloxyephedrin
 reagent-desc-ethyloxyephedrine = Eine leicht instabile Medizin aus Desoxyephedrin, die hauptsächlich zur Bekämpfung der Narkolepsie eingesetzt wird.
@@ -142,7 +142,7 @@ reagent-name-sigynate = Sigynat
 reagent-desc-sigynate = Ein dicker rosa Sirup, der Säuren neutralisiert und Säureverletzungen lindert. Schmeckt süß!
 
 reagent-name-saline = Kochsalzlösung
-reagent-desc-saline = Eine Mischung aus Salz und Wasser. Häufig verwendet, um Dehydration oder geringe flüssige Anwesenheit im Blut zu behandeln.
+reagent-desc-saline = Eine Mischung aus Salz und Wasser. Wird häufig zur Behandlung von Dehydrierung oder niedrigem Blutvolumen verwendet.
 
 reagent-name-lacerinol = Lacerinol
 reagent-desc-lacerinol = Eine ziemlich unreaktive Chemikalie, die die Kollagensynthese auf ein unglaubliches Niveau bringt und das Trauma heilt.
@@ -162,7 +162,7 @@ reagent-name-pyrazine-dermaline = Pyrazin und Dermalin
 reagent-desc-pyrazine = Heilt Verbrennungen wirksam von den heißesten Feuern. Verursacht massive innere Blutungen bei Überdosierung.
 
 reagent-name-insuzine = Insuzin
-reagent-desc-insuzine = Repariert schnell totes Gewebe, das durch Stromschlag verursacht wird, kühlt dich jedoch leicht ab. Er friert den Patienten bei Überdosierung vollständig ein.
+reagent-desc-insuzine = Repariert schnell totes Gewebe, das durch Stromschlag verursacht wurde, kühlt dich aber leicht ab. Friert den Patienten bei Überdosierung vollständig ein.
 
 reagent-name-opporozidone = Opporozidon
 reagent-desc-opporozidone= Ein schwer zu synthetisierendes kryogenes Medikament, das verwendet wird, um verrottendes Gewebe und Hirnsubstanz zu regenerieren.
@@ -171,22 +171,22 @@ reagent-name-arcryox = Arcryox
 reagent-desc-arcryox = Eine widerlich blaue kryogene Chemikalie, die extreme Wunden sogar an den Toten heilen kann. Es hat jedoch Schwierigkeiten, Patienten zu stabilisieren.
 
 reagent-name-necrosol = Nekrosol
-reagent-desc-necrosol = Eine nekrotische Substanz, die gefrorene Leichen heilen kann. Es kann Pflanzen behandeln und verjüngen, wenn es in kleinen Dosen angewendet wird.
+reagent-desc-necrosol = Eine nekrotische Substanz, die offenbar gefrorene Leichen heilen kann. In kleinen Dosen kann sie Pflanzen behandeln und verjüngen.
 
 reagent-name-aloxadone = Aloxadon
 reagent-desc-aloxadone = Eine kryogene Chemikalie. Wird verwendet, um schwere Verbrennungen und Erfrierungen durch Regeneration des betroffenen Gewebes zu behandeln. Funktioniert unabhängig davon, ob der Patient lebt oder tot ist.
 
 reagent-name-mannitol = Mannitol
-reagent-desc-mannitol = Gehirnschäden effizient wiederherstellen.
+reagent-desc-mannitol = Stellt Gehirnschäden effizient wieder her.
 
 reagent-name-psicodine = Psicodin
 reagent-desc-psicodine = Unterdrückt Angst und andere verschiedene Formen der psychischen Belastung. Überdosierung verursacht Halluzinationen und kleinere Toxinschäden.
 
 reagent-name-potassium-iodide = Kaliumiodid
-reagent-desc-potassium-iodide = Wird die schädlichen Auswirkungen der Strahlung um 90% reduzieren. Nur prophylaktische Verwendung.
+reagent-desc-potassium-iodide = Verringert die schädlichen Auswirkungen von Strahlung um 90 %. Nur zur vorbeugenden Anwendung.
 
 reagent-name-haloperidol = Haloperidol
-reagent-desc-haloperidol = Entfernt die meisten stimulierenden und halluzinogenen Drogen. Reduziert arzneiliche Effekte und Jitteriness. Verursacht Schläfrigkeit.
+reagent-desc-haloperidol = Entfernt die meisten stimulierenden und halluzinogenen Drogen. Verringert Medikamentenwirkungen und Zittrigkeit. Macht schläfrig.
 
 reagent-name-warfarin = Warfarin
-reagent-desc-warfarin = Häufig als Antikoagulans Medikamente verwendet. Verursacht, dass Blut Schwierigkeiten hat, Gerinnsel zu bilden. Kann bei Überdosierung innere Blutungen verursachen.
+reagent-desc-warfarin = Wird häufig in gerinnungshemmenden Medikamenten verwendet. Erschwert die Blutgerinnung. Kann bei Überdosierung innere Blutungen verursachen.

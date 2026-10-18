@@ -25,11 +25,11 @@ poll-control-no-end-time = Keine Endzeit
 poll-control-options = Optionen:
 
 # Poll Commands
-poll-command-create-success = Poll erfolgreich erstellt!
+poll-command-create-success = Umfrage erfolgreich erstellt!
 poll-command-create-fail = Es ist nicht gelungen, eine Umfrage zu erstellen.
-poll-command-close-success = Pollen {$id} wurde geschlossen.
+poll-command-close-success = Umfrage {$id} wurde geschlossen.
 poll-command-list-no-polls = Keine aktiven Umfragen.
-poll-command-info-not-found = Pollen {$id} nicht gefunden.
+poll-command-info-not-found = Umfrage {$id} nicht gefunden.
 
 poll-control-seen-by = Gesehen von {$count} {$count ->
     [one] Spieler

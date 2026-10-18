@@ -8,9 +8,9 @@
 
 objective-issuer-heretic = [color=#8e24aa]Der Mansus[/color]
 
-objective-condition-knowledge-title = Forschung mindestens {$count} Wissen aus dem Mansus.
-objective-condition-sacrifice-title = Opfern mindestens {$count} Crewmitglieder.
-objective-condition-sacrifice-head-title = Opfern mindestens {$count} Stabschef.
+objective-condition-knowledge-title = Erforsche mindestens {$count} Wissen aus dem Mansus.
+objective-condition-sacrifice-title = Opfere mindestens {$count} Crewmitglieder.
+objective-condition-sacrifice-head-title = Opfere mindestens {$count} Abteilungsleiter.
 
 objective-condition-description-ascend = Ich muss das tun, um aufzusteigen!
 
