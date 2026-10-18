@@ -73,7 +73,7 @@ ent-MindRoleThief = Diebsrolle
 ent-MindRoleTraitor = Rolle des Verräters
     .desc = Mind-Rollen-Entität
 
-ent-MindRoleTraitorSleeper = Sleeper Agent Rolle
+ent-MindRoleTraitorSleeper = Rolle des Schläferagenten
     .desc = Mind-Rollen-Entität
 
 ent-MindRoleTraitorReinforcement = Rolle der Syndicate-Verstärkung

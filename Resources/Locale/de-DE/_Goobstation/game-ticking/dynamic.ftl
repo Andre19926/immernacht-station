@@ -35,7 +35,7 @@ dynamic-gamerule-ratking-title = Rattenmigration
 
 dynamic-gamerule-midround-traitor-title = Schläferagenten (Verräter)
 dynamic-gamerule-midround-changeling-title = Genomerwachen (Wechselbälger)
-dynamic-gamerule-midround-heretic-title = Plötzliche Beleuchtung (Häretiker)
+dynamic-gamerule-midround-heretic-title = Plötzliche Beleuchtung (Ketzer)
 dynamic-gamerule-midround-revolutionary-title = Provokateure (Revolutionäre)
 dynamic-gamerule-midround-zombies-title = Romerol-Ausbruch (Zombies)
 dynamic-gamerule-midround-blob-title = Blob-Erscheinen (Blob)

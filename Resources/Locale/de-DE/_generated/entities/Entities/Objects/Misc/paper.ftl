@@ -40,7 +40,7 @@ ent-NukeCodePaperStation = Nukleare Authentifizierungscodes
 ent-TraitorCodePaper = Syndicate-Codewort
     .desc = Ein durchgesickertes Codewort, mit dem du womöglich Kontakt zum Syndicate aufnehmen kannst.
 
-ent-AllTraitorCodesPaper = Syndicate Codewords Registry
+ent-AllTraitorCodesPaper = Syndicate-Codewort-Register
     .desc = Ein Verzeichnis aller aktiven Syndicate-Codewörter.
 
 ent-Envelope = Hülle

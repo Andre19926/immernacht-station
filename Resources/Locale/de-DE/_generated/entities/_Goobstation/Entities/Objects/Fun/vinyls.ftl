@@ -103,7 +103,7 @@ ent-VinylDiskRunningOut = Schallplatte: Running Out (Cover)
 ent-VinylDiskJourney = Schallplatte: Reise
     .desc = Eine Schallplatte mit Musik.
 
-ent-VinylDiskTraitorousIntent = Schallplatte: Traitorische Absicht
+ent-VinylDiskTraitorousIntent = Schallplatte: Verräterische Absicht
     .desc = Eine Schallplatte mit Musik.
 
 ent-VinylDiskViolet = Schallplatte: Violett

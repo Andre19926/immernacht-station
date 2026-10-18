@@ -32,8 +32,8 @@ objective-issuer-unknown = Unbekannt
 
 traitor-title = Verräter
 traitor-description = Es gibt Verräter unter uns...
-traitor-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es gab {$readyPlayersCount} Spieler bereiten sich aus {$minimumPlayers} benötigt. Kann Traitor nicht starten.
-traitor-no-one-ready = Keine Spieler bereit! Kann Traitor nicht starten.
+traitor-not-enough-ready-players = Nicht genug Spieler bereit für das Spiel! Es sind {$readyPlayersCount} Spieler bereit, benötigt werden {$minimumPlayers}.
+traitor-no-one-ready = Keine Spieler bereit! Verräter kann nicht gestartet werden.
 
 ## TraitorDeathMatch
 traitor-death-match-title = Verräter-Deathmatch
