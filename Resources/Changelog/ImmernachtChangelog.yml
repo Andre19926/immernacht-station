@@ -10,7 +10,7 @@ Entries:
   - type: Tweak
     message: Zu lange Beschriftungen in Menüs und Buttons wurden gekürzt, damit nichts mehr abgeschnitten wird.
   id: 1
-  time: '2026-10-172026-10-18T14:13:008:46:00.0000000+02:00'
+  time: '2026-10-17T18:46:00.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Tweak
@@ -32,7 +32,7 @@ Entries:
   - type: Tweak
     message: Alarmstufen-, Evakuierungs- und Ereignisansagen sind im Satzbau geglättet und neutral formuliert.
   id: 3
-  time: '2026-10-182026-10-18T14:13:003:30:00.0000000+02:00'
+  time: '2026-10-18T13:30:00.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Tweak
@@ -48,13 +48,13 @@ Entries:
   - type: Add
     message: Neues Event-Panel im Admin-Menü. Events lassen sich suchen und filtern, starten und beenden.
   id: 5
-  time: '2026-10-182026-10-18T14:13:004:20:00.0000000+02:00'
+  time: '2026-10-18T14:13:33.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Fix
     message: Wandanzeigen zeigten nur noch "Error" an. Umlaute werden im Anzeigefont jetzt auf Grundbuchstaben abgebildet, der Shuttle-Timer funktioniert wieder.
   id: 6
-  time: '2026-10-182026-10-18T14:13:004:38:00.0000000+02:00'
+  time: '2026-10-18T14:38:00.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Tweak
@@ -62,7 +62,7 @@ Entries:
   - type: Tweak
     message: Die Liste laufender Events ist größer und lässt sich in der Höhe verschieben. Technische Regeln können ausgeblendet werden.
   id: 7
-  time: '2026-10-182026-10-18T14:13:004:51:00.0000000+02:00'
+  time: '2026-10-18T14:51:00.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Tweak
@@ -72,7 +72,7 @@ Entries:
   - type: Fix
     message: Das Fenster für Geisterrollen zeigte rohe Markup-Tags an. Das ist behoben.
   id: 8
-  time: '2026-10-182026-10-18T14:13:004:51:30.0000000+02:00'
+  time: '2026-10-18T14:51:30.0000000+02:00'
 - author: Andre19926
   changes:
   - type: Tweak
@@ -80,4 +80,4 @@ Entries:
   - type: Fix
     message: Event-Panel stuft Trupps (zum Beispiel Todesschwadron) und Angriffe jetzt in der richtigen Farbkategorie ein.
   id: 9
-  time: '2026-10-182026-10-18T14:13:005:00:00.0000000+02:00'
+  time: '2026-10-18T15:00:00.0000000+02:00'
