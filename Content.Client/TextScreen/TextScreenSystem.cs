@@ -347,9 +347,24 @@ public sealed class TextScreenSystem : VisualizerSystem<TextScreenVisualsCompone
         if (CharStatePairs.TryGetValue(character.Value, out var value))
             return value;
 
-        // Or else it checks if its a normal letter or digit
-        if (char.IsLetterOrDigit(character.Value))
-            return character.Value.ToString().ToLower();
+        // Der Anzeigefont (text.rsi) kennt nur a-z und 0-9. Deutsche Umlaute/ß werden auf den Grundbuchstaben
+        // abgebildet, sonst fehlt der Layer-State und die Anzeige zeigt "Error".
+        var c = char.ToLowerInvariant(character.Value);
+        switch (c)
+        {
+            case 'ä':
+                return "a";
+            case 'ö':
+                return "o";
+            case 'ü':
+                return "u";
+            case 'ß':
+                return "s";
+        }
+
+        // Or else it checks if its a normal (ASCII) letter or digit; everything else is left blank.
+        if (c is >= 'a' and <= 'z' or >= '0' and <= '9')
+            return c.ToString();
 
         return null;
     }
