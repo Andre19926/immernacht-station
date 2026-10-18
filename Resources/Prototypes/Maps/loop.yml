@@ -66,6 +66,7 @@
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]
             Reporter: [ 1, 1 ]
+            SyndicateDiplomat: [ 1, 1 ] # Immernacht
             RadioHost: [ 1, 1 ]
             #silicon
             StationAi: [ 1, 1 ]

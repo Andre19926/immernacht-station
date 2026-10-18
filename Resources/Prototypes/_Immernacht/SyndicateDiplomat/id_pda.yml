@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: IDCardStandard
+  id: SyndicateDiplomatIDCard
+  name: syndicate diplomat ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: syndi
+  - type: PresetIdCard
+    job: SyndicateDiplomat
+
+- type: entity
+  parent: BasePDA
+  id: SyndicateDiplomatPDA
+  name: syndicate diplomat PDA
+  description: An official PDA of the Syndicate diplomatic corps. Smells faintly of cigarette smoke and lobbying.
+  components:
+  - type: Pda
+    id: SyndicateDiplomatIDCard
+    penSlot:
+      startingItem: LuxuryPen
+      priority: -1
+      whitelist:
+        tags:
+        - Write
+  - type: Appearance
+    appearanceDataInit:
+      enum.PdaVisuals.PdaType:
+        !type:String
+        pda-syndi
+  - type: PdaBorderColor
+    borderColor: "#891417"
+  - type: Icon
+    state: pda-syndi
