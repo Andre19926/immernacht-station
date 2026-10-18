@@ -1,0 +1,83 @@
+Name: Immernacht
+Order: -2
+Entries:
+- author: Andre19926
+  changes:
+  - type: Add
+    message: Vollständige deutsche Übersetzung des Spiels (Oberfläche, Entitätsnamen und -beschreibungen, Meldungen, Rollen, Uplink- und Shop-Kataloge, Ansagen). Sprache auf Deutsch (de-DE) umstellen.
+  - type: Tweak
+    message: Einheitliche Begriffe im ganzen Spiel, zum Beispiel Syndikat, Atomagenten, Spind, Bergung, Radio, Brille, Botanik, Umhängetasche und Verräter.
+  - type: Tweak
+    message: Zu lange Beschriftungen in Menüs und Buttons wurden gekürzt, damit nichts mehr abgeschnitten wird.
+  id: 1
+  time: '2026-10-172026-10-18T14:13:008:46:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Übersetzung von Gegenstandsbeschreibungen (Kleidung, Waffen, Essen, Getränke, Medizin, Möbel, Automaten, Cyborg-Module und mehr) überarbeitet, auch für die Goobstation-Inhalte.
+  - type: Fix
+    message: Holprige oder kaputte maschinelle Übersetzungen in Popups, Systemmeldungen, NTR-Dokumenten, Ionensturm-Gesetzen und Geisterrollen-Regeln bereinigt.
+  - type: Tweak
+    message: Antagonisten- und Rollennamen überarbeitet, zum Beispiel Verräter, Phantomgeist, Wechselbalg und unheimlich statt Eldritch.
+  id: 2
+  time: '2026-10-18T03:10:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Funkgerät und Funk heißen jetzt durchgehend Radio.
+  - type: Tweak
+    message: Salvage heißt jetzt durchgehend Bergung, inklusive Bergungsautomat und seinem Katalog.
+  - type: Tweak
+    message: Locker heißt jetzt einheitlich Spind.
+  - type: Tweak
+    message: Alarmstufen-, Evakuierungs- und Ereignisansagen sind im Satzbau geglättet und neutral formuliert.
+  id: 3
+  time: '2026-10-182026-10-18T14:13:003:30:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Brillen heißen einheitlich Brille (zum Beispiel Jensen-Brille, Jamja-Brille).
+  - type: Tweak
+    message: Atomkommando und Nuklear heißen jetzt einheitlich Atomagent(en), auch im Modustitel, in Meldungen, im Uplink und bei der Lieferung.
+  - type: Tweak
+    message: Syndicate heißt jetzt durchgehend Syndikat (Fraktion, Zusammensetzungen und Grammatik angepasst).
+  id: 4
+  time: '2026-10-18T14:13:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Add
+    message: Neues Event-Panel im Admin-Menü. Events lassen sich suchen und filtern, starten und beenden.
+  id: 5
+  time: '2026-10-182026-10-18T14:13:004:20:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Fix
+    message: Wandanzeigen zeigten nur noch "Error" an. Umlaute werden im Anzeigefont jetzt auf Grundbuchstaben abgebildet, der Shuttle-Timer funktioniert wieder.
+  id: 6
+  time: '2026-10-182026-10-18T14:13:004:38:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Event-Panel zeigt jetzt, wer ein Event gestartet hat (Admin oder System).
+  - type: Tweak
+    message: Die Liste laufender Events ist größer und lässt sich in der Höhe verschieben. Technische Regeln können ausgeblendet werden.
+  id: 7
+  time: '2026-10-182026-10-18T14:13:004:51:00.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Die Rollenbeschreibung des Todesschwadrons ist härter und passt jetzt besser zur Rolle.
+  - type: Fix
+    message: Ansagen sprechen vom "Sicherheitspersonal" statt von "der Sicherheit" und sind neutral formuliert.
+  - type: Fix
+    message: Das Fenster für Geisterrollen zeigte rohe Markup-Tags an. Das ist behoben.
+  id: 8
+  time: '2026-10-182026-10-18T14:13:004:51:30.0000000+02:00'
+- author: Andre19926
+  changes:
+  - type: Tweak
+    message: Event-Panel, Spaltenköpfe Event, Aktiv seit und Gestartet von sind jetzt anklickbar und sortieren die laufenden Events.
+  - type: Fix
+    message: Event-Panel stuft Trupps (zum Beispiel Todesschwadron) und Angriffe jetzt in der richtigen Farbkategorie ein.
+  id: 9
+  time: '2026-10-182026-10-18T14:13:005:00:00.0000000+02:00'
