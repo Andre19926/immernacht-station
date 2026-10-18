@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-deathsquad-enroute = Alle Verträge mit der Crew wurden aufgelöst. Die Sicherheit hat die Waffen niederzulegen, und die ehemalige Crew muss sich Nanotrasen ergeben. Wer das verweigert, wird mit dem Tod bestraft. Die Führung soll sich zuerst friedlich ergeben, um der ehemaligen Crew ein Beispiel zu geben.
+station-event-deathsquad-enroute = Alle Verträge mit der Crew wurden aufgelöst. Das Sicherheitspersonal hat die Waffen niederzulegen, und die ehemalige Crew muss sich Nanotrasen ergeben. Wer das verweigert, wird mit dem Tod bestraft. Die Führung soll sich zuerst friedlich ergeben, um der ehemaligen Crew ein Beispiel zu geben.
 station-event-emergencyresponseteam-generic-enroute = Reise des Notfallteams. Ruhm für Nanotrasen.
 station-event-cburn-enroute = Eine biologische Bedrohung oder ein Virus hat es für notwendig erachtet, ein CBURN-ERT einzusetzen. Der Crew wird dringend empfohlen, sich selbst und andere unter Quarantäne zu stellen, der medizinischen Abteilung wird empfohlen, ihre Türen zu verriegeln, es sei denn, das Führungspersonal oder die Mitglieder des ERT haben etwas anderes gesagt. Crewmitgliedern und Hausmeistern wird empfohlen, Bio-Anzüge, Schutzmasken und Handschuhe zu tragen, um das Risiko einer Ausbreitung von Viren zu verhindern.
 station-event-emergencyresponseteam-engineering-enroute = Ein strukturelles Problem, das auf der Station nicht leicht eingedämmt werden kann, wurde uns zur Kenntnis gebracht. Ein Engineering ERT wurde eingesetzt, um dieses Problem zu lösen, Engineering ERT Mitglieder sind jetzt offiziell über dem Chefingenieur und Kapitän, wenn sie sich mit dem strukturellen Problem befassen.

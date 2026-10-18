@@ -305,7 +305,7 @@ ent-PosterLegitJustAWeekAway = Nur eine Woche entfernt...
     .desc = Ein Poster, das ein lange überfälliges Projekt ankündigt und weiterhin behauptet, es sei „nur noch eine Woche entfernt ...“
 
 ent-PosterLegitSecWatch = Sicherheit sieht dich
-    .desc = Ein Poster, das dich daran erinnert, dass die Sicherheit jeden deiner Schritte beobachtet.
+    .desc = Ein Poster, das dich daran erinnert, dass das Sicherheitspersonal jeden deiner Schritte beobachtet.
 
 ent-PosterLegitAnatomyPoster = Anatomie eines Spessman
     .desc = Ein Poster, das all die Kleinteile zeigt, die dich zu dir machen!

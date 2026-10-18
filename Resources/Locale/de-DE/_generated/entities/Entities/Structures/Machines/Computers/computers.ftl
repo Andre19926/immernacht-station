@@ -29,7 +29,7 @@ ent-ComputerMedicalRecords = Krankenakten-Computer
     .desc = Hiermit lassen sich medizinische Aufzeichnungen einsehen.
 
 ent-ComputerCriminalRecords = Strafregister
-    .desc = Hiermit lassen sich Strafregister einsehen. Nur die Sicherheit kann sie ändern.
+    .desc = Hiermit lassen sich Strafregister einsehen. Nur das Sicherheitspersonal kann sie ändern.
 
 ent-ComputerStationRecords = Stationsakten-Computer
     .desc = Hiermit lassen sich Stationsaufzeichnungen einsehen.

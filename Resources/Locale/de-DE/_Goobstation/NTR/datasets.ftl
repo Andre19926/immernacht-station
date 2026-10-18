@@ -110,13 +110,13 @@ ntr-document-funny-service4-15 = du das alles gelesen hast und anerkennst, dass 
 # funny verbs SECURITY 1 (Corporate wants you to check some stuff before stamping this document, make sure that)
 ntr-document-funny-sec1-1 = der Sicherheitschef das hier tatsächlich komplett liest,
 ntr-document-funny-sec1-2 = mindestens ein Kadett zum Sicherheitsbeamten befördert wurde,
-ntr-document-funny-sec1-3 = die Sicherheit jemanden erfolgreich mit dem Schlagstock an den Rand des Todes geprügelt hat,
+ntr-document-funny-sec1-3 = das Sicherheitspersonal jemanden erfolgreich mit dem Schlagstock an den Rand des Todes geprügelt hat,
 ntr-document-funny-sec1-4 = der Warden in der Brig ist,
 ntr-document-funny-sec1-5 = die Bingles ihre Bigling-Bongles binglen,
 ntr-document-funny-sec1-6 = keine aktiven Bedrohungen auf der Station existieren,
 ntr-document-funny-sec1-7 = dieser eine Sicherheitskadett bei Bewusstsein ist, und zwar um jeden Preis,
 ntr-document-funny-sec1-8 = mindestens eine Person in der Sicherheit Judo beherrscht,
-ntr-document-funny-sec1-9 = die Sicherheit im Dienst nicht in der Bar trinkt,
+ntr-document-funny-sec1-9 = das Sicherheitspersonal im Dienst nicht in der Bar trinkt,
 ntr-document-funny-sec1-10 = alle in der Sicherheit George Orwells „1984“ gelesen haben,
 ntr-document-funny-sec1-11 = die Waffenkammer ordnungsgemäß vor Tidern gesichert ist,
 ntr-document-funny-sec1-12 = die KI mit der Sicherheit zusammenarbeitet, um gesuchte Personen zu fangen,
@@ -131,18 +131,18 @@ ntr-document-funny-sec2-3 = erfolgreich und ordnungsgemäß.
 ntr-document-funny-sec2-4 = und falls nicht, sorge dafür, dass sie es mit Gewalt sind.
 
 # funny verbs SECURITY 3
-ntr-document-funny-sec3-1 = Aufgrund jüngster „Auslegungen“ der Konzernrichtlinien wurde die Sicherheit daran erinnert, dass ihre Aufgabe darin besteht, die Station zu schützen und sie nicht in ihren persönlichen Actionfilm zu verwandeln. Dazu gehören: dramatische Zeitlupenverhaftungen, Verstärkung anfordern, weil jemand ausgerutscht ist, und die Brig als persönliche Männerhöhle zu nutzen.
-ntr-document-funny-sec3-2 = Mit der Kenntnisnahme dieses Dokuments akzeptierst du, dass die Sicherheit [italic]nicht[/italic] über dem Gesetz steht und [italic]auch kein[/italic] geheimer Fight Club mit zusätzlichen Schritten ist. Weitere Vorfälle führen zu verpflichtender Nachschulung, möglicherweise zur sofortigen Degradierung und zur Einführung einer stationsweiten Regel, die die Sicherheit verpflichtet, vor jeder Festnahme „bitte, bitte“ zu sagen.
+ntr-document-funny-sec3-1 = Aufgrund jüngster „Auslegungen“ der Konzernrichtlinien wurde das Sicherheitspersonal daran erinnert, dass seine Aufgabe darin besteht, die Station zu schützen und sie nicht in seinen persönlichen Actionfilm zu verwandeln. Dazu gehören: dramatische Zeitlupenverhaftungen, Verstärkung anfordern, weil jemand ausgerutscht ist, und die Brig als persönliche Männerhöhle zu nutzen.
+ntr-document-funny-sec3-2 = Mit der Kenntnisnahme dieses Dokuments akzeptierst du, dass das Sicherheitspersonal [italic]nicht[/italic] über dem Gesetz steht und [italic]auch kein[/italic] geheimer Fight Club mit zusätzlichen Schritten ist. Weitere Vorfälle führen zu verpflichtender Nachschulung, möglicherweise zur sofortigen Degradierung und zur Einführung einer stationsweiten Regel, die das Sicherheitspersonal verpflichtet, vor jeder Festnahme „bitte, bitte“ zu sagen.
 
 # funny verbs SECURITY 4
-ntr-document-funny-sec4-1 = Wenn die Sicherheit weiterhin Probleme mit Schlagstöcken statt mit Worten löst, werden alle Betäubungsstäbe durch [bold]höfliche Vorschlagsstäbe[/bold] ersetzt.
+ntr-document-funny-sec4-1 = Wenn das Sicherheitspersonal weiterhin Probleme mit Schlagstöcken statt mit Worten löst, werden alle Betäubungsstäbe durch [bold]höfliche Vorschlagsstäbe[/bold] ersetzt.
 ntr-document-funny-sec4-2 = Jeder Beamte, der sich selbst als [bold]„Das Gesetz“[/bold] bezeichnet, muss seinen Namen rechtlich in [bold]„Das Gesetz“[/bold] ändern, um Verwechslungen bei Silikonen zu vermeiden.
-ntr-document-funny-sec4-3 = Wenn die KI jedes Mal [bold]„Verdächtige Aktivität“[/bold] meldet, sobald die Sicherheit eine Bar betritt, müssen sich die Beamten [bold]verpflichtenden Nüchternheitstests[/bold] unterziehen.
+ntr-document-funny-sec4-3 = Wenn die KI jedes Mal [bold]„Verdächtige Aktivität“[/bold] meldet, sobald das Sicherheitspersonal eine Bar betritt, müssen sich die Beamten [bold]verpflichtenden Nüchternheitstests[/bold] unterziehen.
 ntr-document-funny-sec4-4 = Beamte, die darauf bestehen, Unschuldige zu verhaften, werden für eine Woche zum [bold]Clownsdienst[/bold] versetzt.
-ntr-document-funny-sec4-5 = Wenn die Sicherheit weiterhin [bold]Blendgranaten als Gesprächseinstieg benutzt[/bold], werden alle Blendgranaten durch [bold]Partyknaller[/bold] aus der Fracht ersetzt.
+ntr-document-funny-sec4-5 = Wenn das Sicherheitspersonal weiterhin [bold]Blendgranaten als Gesprächseinstieg benutzt[/bold], werden alle Blendgranaten durch [bold]Partyknaller[/bold] aus der Fracht ersetzt.
 ntr-document-funny-sec4-6 = Jeder Beamte, der dabei erwischt wird, [bold]mit seiner Abschussbilanz zu prahlen[/bold], wird mit einem Schalldämpfer belohnt, damit er um Himmels willen den Mund hält.
 ntr-document-funny-sec4-7 = Infolgedessen darf der Warden mit Zustimmung des Kapitäns öffentliche Boxkämpfe [bold]in der Brig[/bold] veranstalten.
-ntr-document-funny-sec4-8 = Wenn die Sicherheit weiterhin ohne triftigen Grund Leute in der Wartung durchsucht, hält die Station einen [bold]umgekehrten Prozess ab, bei dem die Crew stattdessen über die Sicherheit richtet.[/bold]
+ntr-document-funny-sec4-8 = Wenn das Sicherheitspersonal weiterhin ohne triftigen Grund Leute in der Wartung durchsucht, hält die Station einen [bold]umgekehrten Prozess ab, bei dem die Crew stattdessen über das Sicherheitspersonal richtet.[/bold]
 
 # CARGO
 

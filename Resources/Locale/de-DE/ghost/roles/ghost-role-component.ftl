@@ -258,7 +258,7 @@ ghost-role-information-hellspawn-description = Bringe den Tod zu denen, die dem 
 # Goob Station - Deathsquad Revamp
 
 ghost-role-information-Death-Squad-name = Todesschwadron-Agent
-ghost-role-information-Death-Squad-description = Wir brauchen den Nanotrasen-Vertreter am Leben, um uns zu sagen, was passiert ist. Der Rest? Nun ... sie sind Zeugen.
+ghost-role-information-Death-Squad-description = Wir brauchen den Nanotrasen-Vertreter am Leben, damit er uns berichtet, was passiert ist. Alle anderen sind Zeugen, und Zeugen hinterlassen wir keine.
 ghost-role-information-Death-Squad-rules = Deine Ziele sind einfach: [color=red][bold]Eliminiere[/bold][/color] alle, die nicht zum Personal des Central Command gehören. Exekutivbefehle können das ändern.
 
 ghost-role-information-SyndiCat-name = SyndiCat

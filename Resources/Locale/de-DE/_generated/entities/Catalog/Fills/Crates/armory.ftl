@@ -8,7 +8,7 @@ ent-CrateTrackingImplants = Tracking-Implantate
     .desc = Enthält eine Handvoll Tracking-Implantate. Gut für Gefangene, die du freilassen, aber im Blick behalten willst.
 
 ent-CrateTrainingBombs = Trainingsbomben
-    .desc = Enthält drei Trainingsbomben mit geringer Sprengkraft, mit denen die Sicherheit Entschärfen und sichere Kampfmittelbeseitigung lernt. EOD-Anzug nicht enthalten. Zum Öffnen ist Waffenkammer-Zugang erforderlich.
+    .desc = Enthält drei Trainingsbomben mit geringer Sprengkraft, mit denen das Sicherheitspersonal Entschärfen und sichere Kampfmittelbeseitigung lernt. EOD-Anzug nicht enthalten. Zum Öffnen ist Waffenkammer-Zugang erforderlich.
 
 ent-CrateArmoryLaser = Laserkiste
     .desc = Enthält drei Standard-Lasergewehre. Zum Öffnen ist Waffenkammer-Zugang erforderlich.

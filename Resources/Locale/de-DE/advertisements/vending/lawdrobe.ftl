@@ -10,9 +10,9 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 advertisement-lawdrobe-1 = EINSPRUCH! Hol dir den Rechtsstaat selbst!
-advertisement-lawdrobe-2 = Nerv die Sicherheit, bis sie sich an deine Regeln hält!
+advertisement-lawdrobe-2 = Nerv das Sicherheitspersonal, bis es sich an deine Regeln hält!
 advertisement-lawdrobe-3 = Ein neuer Fall? Hol sie aus dem Knast!
-advertisement-lawdrobe-4 = Ein Donut am Tag hält die Sicherheit fern!
+advertisement-lawdrobe-4 = Ein Donut am Tag hält das Sicherheitspersonal fern!
 advertisement-lawdrobe-5 = Niemand steht über dem Gesetz!
 advertisement-lawdrobe-6 = Nein, Officer, ich stimme einer Durchsuchung nicht zu!
 advertisement-lawdrobe-7 = Das Spritzen von Weltraumdrogen hinterlässt keine Beweise!

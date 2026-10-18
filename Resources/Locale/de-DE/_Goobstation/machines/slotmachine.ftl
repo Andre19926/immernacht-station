@@ -13,7 +13,7 @@ slotmachine-win-godpot = FEHLER: INTEGER-ÜBERLAUF, GIBT „GODPOT“ AUS
 
 slotmachine-win-qm-minor = Herzlichen Glückwunsch, du hast 100.000 Spesos gewonnen
 slotmachine-win-qm-jackpot = Herzlichen Glückwunsch, du hast 1.000.000 SPESOS gewonnen, JACKPOT!!
-slotmachine-win-qm-throngler = Wenn die Sicherheit versucht, dir das wegzunehmen, erinnere sie daran, dass sie sterblich sind.
+slotmachine-win-qm-throngler = Wenn Sicherheitskräfte versuchen, dir das wegzunehmen, erinnere sie daran, dass sie sterblich sind.
 
 wires-board-name-slot-machine = Spielautomat
 

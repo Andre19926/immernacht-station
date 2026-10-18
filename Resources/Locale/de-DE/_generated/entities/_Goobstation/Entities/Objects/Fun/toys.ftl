@@ -8,7 +8,7 @@ ent-PlushieDurk = Durk Plüschtier
     .desc = Ein süßes Stoffspielzeug, das einem bestimmten Atmos-Techniker ähnelt. Beim Halten hast du das Gefühl, ein großer Bruch im Universum nähere sich.
 
 ent-FoamWonderprod = Toy Wonderprod
-    .desc = Hiermit bringt dich die Sicherheit um.
+    .desc = Hiermit bringt dich das Sicherheitspersonal um.
 
 ent-PlushieBingle = Bingle Plüschtier (lebensgroß)
     .desc = Ein süßes Stoffspielzeug, das einem blauen Alien ähnelt. Du verspürst einen seltsamen Zwang, „Bingle“ zu sagen.

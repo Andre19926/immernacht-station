@@ -17,4 +17,4 @@ ent-Claymore = Claymore
     .desc = Eine alte Kriegsklinge.
 
 ent-Throngler = Tonnage
-    .desc = Wenn die Sicherheit es wagt, es dir abzunehmen, erinnere sie daran, dass sie tatsächlich sterblich sind.
+    .desc = Wenn Sicherheitskräfte es wagen, es dir abzunehmen, erinnere sie daran, dass sie tatsächlich sterblich sind.

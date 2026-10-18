@@ -42,7 +42,7 @@ tips-dataset-28 = Antiunruhe-Panzerung ist gegen Gegner ohne Schusswaffen deutli
 tips-dataset-29 = Als Geist kannst du über das Verbmenü jede Entität im Spiel automatisch umkreisen und ihr folgen.
 tips-dataset-30 = Als Verräter kann es sein, dass du den Auftrag bekommst, andere Verräter zu jagen, und selbst von anderen gejagt wirst.
 tips-dataset-31 = Als Verräter kannst du mit dem Syndikat-Verschlüsselungsschlüssel über einen sicheren Kanal mit allen anderen Verrätern kommunizieren, die ihn gekauft haben.
-tips-dataset-32 = Als Verräter kann das Abhören wichtiger Kommunikationskanäle wie Sicherheit oder Technik wertvolle Informationen liefern. Das gilt aber auch umgekehrt – die Sicherheit kann Syndikat-Kommunikation ebenfalls abhören!
+tips-dataset-32 = Als Verräter kann das Abhören wichtiger Kommunikationskanäle wie Sicherheit oder Technik wertvolle Informationen liefern. Das gilt aber auch umgekehrt – das Sicherheitspersonal kann Syndikat-Kommunikation ebenfalls abhören!
 # Goobstation - Telecrystal rework
 tips-dataset-33 = Als Verräter ist die Syndikat-Werkzeugkiste äußerst vielseitig. Für nur 10 Telekristalle bekommst du einen kompletten Werkzeugsatz für Notfälle, isolierte Kampfhandschuhe und eine Syndikat-Gasmaske.
 tips-dataset-34 = Als Verräter solltest du die Netzweste nie unterschätzen. Sie schützt nicht im Weltraum, ist aber billig und bietet kräftigen Schutz gegen schießwütige Gegner.
