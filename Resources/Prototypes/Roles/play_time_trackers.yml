@@ -4,6 +4,10 @@
 - type: playTimeTracker
   id: Overall
 
+# Antags (Immernacht): Zeit als Syndikat-Agent (Verraeter, Schlaefer, Atomoperative, Kontraktor). Zaehlt erst ab Einbau.
+- type: playTimeTracker
+  id: AntagSyndicateAgent
+
 # Jobs
 - type: playTimeTracker
   id: JobAtmosphericTechnician

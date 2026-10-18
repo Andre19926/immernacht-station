@@ -81,3 +81,6 @@ syndicate-diplomat-paper-favor = FAVOR CONTRACT
     Interest applies.
     Signature, Syndicate envoy: ________
     Signature, recipient: ________
+
+# Play time tracker: Syndicate agent (traitor, sleeper, nuclear operatives, contractor)
+play-time-tracker-AntagSyndicateAgent = Syndicate Agent

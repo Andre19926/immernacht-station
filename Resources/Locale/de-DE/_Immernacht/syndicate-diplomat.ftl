@@ -112,3 +112,6 @@ ent-SyndicateDiplomatPDA = Syndikat-Diplomaten-PDA
 ent-SyndicateDiplomatUplink = Diplomatenkurier
     .desc = Ein diskretes Kurierterminal des diplomatischen Korps des Syndikats. Tauscht Gefallen gegen Lebensart, Geschenke und Bürobedarf.
 ent-SpawnPointSyndicateDiplomat = Syndikat-Diplomat
+
+# Spielzeit-Tracker: Syndikat-Agent (Verräter, Schläfer, Atomoperative, Kontraktor)
+play-time-tracker-AntagSyndicateAgent = Syndikat-Agent
