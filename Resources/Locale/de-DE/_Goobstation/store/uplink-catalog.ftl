@@ -51,7 +51,7 @@ uplink-gondola-name = Gondelkiste
 uplink-gondola-desc = Kiste mit einer Gondel in Standardausführung.
 
 uplink-operative-radio-name = Nuklearer Teleporter
-uplink-operative-radio-desc = Ein Funkgerät in Form eines Atomagenten von äußerst fragwürdiger Qualität. Kein Ausschalter. Kauf es, wenn du zum Feiern bereit bist. Er hat die Grundausrüstung eines Atomagenten.
+uplink-operative-radio-desc = Ein Radio in Form eines Atomagenten von äußerst fragwürdiger Qualität. Kein Ausschalter. Kauf es, wenn du zum Feiern bereit bist. Er hat die Grundausrüstung eines Atomagenten.
 
 uplink-mobroach-microbomb-name = SyndiRoach-Teleporter
 uplink-mobroach-microbomb-desc = Rufe eine handliche Mottenschabe mit einem Mikrobombenimplantat herbei. Explodiert, wenn sie schwer verletzt wird.

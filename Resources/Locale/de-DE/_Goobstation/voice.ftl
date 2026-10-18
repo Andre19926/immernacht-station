@@ -38,7 +38,7 @@ voice-guide-radio =
 
     Mit dem Funk-Button im Chat wählst du deinen Kanal. Steht er auf Lokal, nutzt [bold]{$radio}[/bold] den ersten Kanal deines Headsets. Im selben Menü kannst du Kanäle stummschalten, die dich nicht interessieren, und die Funklautstärke senken.
 
-    Bei Sprachaktivierung bleibst du mit einem gewählten Kanal bei jedem Sprechen im Funk, stelle ihn also wieder auf Lokal, wenn du fertig bist. Handfunkgeräte und Gegensprechanlagen mit eingeschaltetem Mikrofon nehmen dich ebenfalls auf, wenn du in ihrer Nähe sprichst.
+    Bei Sprachaktivierung bleibst du mit einem gewählten Kanal bei jedem Sprechen im Funk, stelle ihn also wieder auf Lokal, wenn du fertig bist. Handradios und Gegensprechanlagen mit eingeschaltetem Mikrofon nehmen dich ebenfalls auf, wenn du in ihrer Nähe sprichst.
 voice-guide-station-title = Rund um die Station
 voice-guide-station =
     Telefone und Holopads nehmen jeden in der Nähe auf. Mit Megafonen wirst du aus mehreren Kacheln Entfernung gehört. Mit Zugang kannst du über eine Kommunikationskonsole an die ganze Station senden.

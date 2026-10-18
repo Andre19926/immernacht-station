@@ -16,13 +16,13 @@ ent-VinylPlayerCircuitboard = Vinylplayer Maschinenplatine
 ent-TapeDeckCircuitboard = Banddeck Maschinenplatine
     .desc = Eine Maschinenplatine für ein Banddeck.
 
-ent-StationRadioServerCircuitboard = Stationsfunkserver Maschinenplatine
+ent-StationRadioServerCircuitboard = Stationsradio-Server Maschinenplatine
     .desc = Eine Maschinenplatine für einen Stationsfunk-Server.
 
-ent-StationRadioRigCircuitboard = Stationsfunkanlage Maschinenplatine
+ent-StationRadioRigCircuitboard = Stationsradio-Anlage Maschinenplatine
     .desc = Eine Maschinenplatine für ein Stationsfunk-Rig.
 
-ent-StationRadioCircuitboard = Stationsfunk Maschinenplatine
+ent-StationRadioCircuitboard = Stationsradio-Empfänger Maschinenplatine
     .desc = Eine Maschinenplatine für einen Stationsfunk-Empfänger.
 
 ent-VirologyServerMachineCircuitboard = Virologie-Server Maschinenplatine

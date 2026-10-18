@@ -23,4 +23,4 @@ ent-CrateHolySupplies = Heilige Versorgungskiste
     .desc = Enthält eine Bibel und 2 Krüge Weihwasser für religiöse Bedürfnisse.
 
 ent-CrateCargoWalkieTalkie = Handheld-Radiokiste
-    .desc = Enthält 5 Handfunkgeräte.
+    .desc = Enthält 5 Handradios.

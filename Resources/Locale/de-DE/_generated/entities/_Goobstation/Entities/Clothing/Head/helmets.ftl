@@ -37,7 +37,7 @@ ent-ClothingHeadHatHelmetMonk = Die Augenbinde des Mönchs
     .desc = Für Menschen, die unnötige Gefühle ablegen wollen.
 
 ent-ClothingHeadHatHelmetBishop = Bischof Mitre
-    .desc = Ein opulenter Hut, der als Funkgerät zu Gott dient. Oder als Blitzableiter, je nachdem, wen du fragst.
+    .desc = Ein opulenter Hut, der als Radio zu Gott dient. Oder als Blitzableiter, je nachdem, wen du fragst.
 
 ent-ClothingHeadHatHelmetDragon = Drachenschädel
     .desc = Cooler Schädel.

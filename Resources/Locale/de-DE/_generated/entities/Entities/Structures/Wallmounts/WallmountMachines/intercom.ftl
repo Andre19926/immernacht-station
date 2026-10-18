@@ -1,38 +1,38 @@
 ent-IntercomAssembly = Gegensprechanlage
     .desc = Ein Intercom. Scheint im Moment nicht sehr hilfreich zu sein.
 
-ent-IntercomConstructed = Sprechfunk
+ent-IntercomConstructed = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-Intercom = Sprechfunk
+ent-Intercom = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomCommon = Sprechfunk
+ent-IntercomCommon = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomCommand = Sprechfunk
+ent-IntercomCommand = Gegensprechanlage
     .desc = Ein Intercom. Es wurde mit Metall verstärkt.
 
-ent-IntercomEngineering = Sprechfunk
+ent-IntercomEngineering = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomMedical = Sprechfunk
+ent-IntercomMedical = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomScience = Sprechfunk
+ent-IntercomScience = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomSecurity = Sprechfunk
+ent-IntercomSecurity = Gegensprechanlage
     .desc = Ein Intercom. Es wurde mit Metall von Sicherheitshelmen verstärkt, sodass es verdammt schwer aufzubekommen ist.
 
-ent-IntercomService = Sprechfunk
+ent-IntercomService = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomSupply = Sprechfunk
+ent-IntercomSupply = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomAll = Sprechfunk
+ent-IntercomAll = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.
 
-ent-IntercomFreelance = Sprechfunk
+ent-IntercomFreelance = Gegensprechanlage
     .desc = Ein Intercom. Für den Fall, dass die Station etwas wissen muss.

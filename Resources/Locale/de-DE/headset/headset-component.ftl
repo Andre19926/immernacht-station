@@ -45,7 +45,7 @@ chat-radio-syndicate = Syndicate
 chat-radio-freelance = Freelancer
 
 # not headset but whatever
-chat-radio-handheld = Handfunkgerät
+chat-radio-handheld = Handradio
 chat-radio-binary = Binär
 chat-radio-xenoborg = Xenoborg
 chat-radio-mothership = Mutterschiff

@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-handheld-radio-component-on-use = Das Funkgerät ist jetzt {$radioState}.
+handheld-radio-component-on-use = Das Radio ist jetzt {$radioState}.
 handheld-radio-component-on-examine = Es sendet auf der Frequenz {$frequency}.
 handheld-radio-component-on-state = eingeschaltet
 handheld-radio-component-off-state = ausgeschaltet

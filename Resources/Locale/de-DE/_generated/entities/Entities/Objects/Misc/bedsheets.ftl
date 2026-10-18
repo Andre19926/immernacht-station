@@ -35,7 +35,7 @@ ent-BedsheetGrey = graues Bettlaken
     .desc = Ein überraschend weiches Bettlaken.
 
 ent-BedsheetHOP = Bettlaken des HOP
-    .desc = Es ist mit einem Schlüsselemblem verziert. Für die seltenen Momente, in denen du dich ausruhen und mit Ian kuscheln kannst, ohne dass jemand übers Funkgerät nach dir schreit.
+    .desc = Es ist mit einem Schlüsselemblem verziert. Für die seltenen Momente, in denen du dich ausruhen und mit Ian kuscheln kannst, ohne dass jemand übers Radio nach dir schreit.
 
 ent-BedsheetHOS = Bettlaken von HOS
     .desc = Es ist mit einem Schildemblem verziert. Das Verbrechen schläft nicht, du schon, aber du bist trotzdem DAS GESETZ!

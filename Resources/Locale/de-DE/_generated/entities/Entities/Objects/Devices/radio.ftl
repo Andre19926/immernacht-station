@@ -1,5 +1,5 @@
-ent-RadioHandheld = Handfunk
-    .desc = Ein praktisches Handfunkgerät.
+ent-RadioHandheld = Handradio
+    .desc = Ein praktisches Handradio.
 
-ent-RadioHandheldSecurity = Sicherheitsfunk
-    .desc = Ein praktisches Sicherheitsfunkgerät.
+ent-RadioHandheldSecurity = Sicherheitsradio
+    .desc = Ein praktisches Sicherheitsradio.
