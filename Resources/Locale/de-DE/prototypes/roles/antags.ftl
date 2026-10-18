@@ -25,31 +25,31 @@ roles-antag-generic-solo-antagonist-name = Solo-Antagonist
 
 roles-antag-generic-free-agent-name = Freier Agent
 
-roles-antag-generic-team-antagonist-name = Teamantagonist
+roles-antag-generic-team-antagonist-name = Team-Antagonist
 
-roles-antag-generic-silicon-antagonist-name = Siliciumantagonist
+roles-antag-generic-silicon-antagonist-name = Silizium-Antagonist
 
 roles-antag-syndicate-agent-objective = Erfülle deine Ziele, ohne erwischt zu werden.
 
 roles-antag-syndicate-agent-sleeper-name = Syndicate-Schläferagent
 roles-antag-syndicate-agent-sleeper-objective = Eine Art Verräter, der zu jedem beliebigen Zeitpunkt mitten in der Schicht aktiviert werden kann.
 
-roles-antag-initial-infected-name = Erstinfektion
+roles-antag-initial-infected-name = Erstinfizierter
 roles-antag-initial-infected-objective = Sobald du dich umdrehst, infiziere so viele andere Crewmitglieder wie möglich.
 
 roles-antag-zombie-name = Zombie
 roles-antag-zombie-objective = Verwandle so viele Menschen wie möglich in Zombies.
 
-roles-antag-nuclear-operative-commander-name = Kommandant des Atomkommandos
+roles-antag-nuclear-operative-commander-name = Atomagent-Kommandant
 roles-antag-nuclear-operative-commander-objective = Führe dein Team zur Zerstörung der Station.
 
-roles-antag-nuclear-operative-agent-name = Atomkommando-Sanitäter
-roles-antag-nuclear-operative-agent-objective = Der Sanitäter des Atomkommandos. Heile dein Team zum Sieg!
+roles-antag-nuclear-operative-agent-name = Atomagent-Sanitäter
+roles-antag-nuclear-operative-agent-objective = Der Sanitäter der Atomagenten. Heile dein Team zum Sieg!
 
-roles-antag-nuclear-operative-name = Kernkraftbetrieb
+roles-antag-nuclear-operative-name = Atomagent
 roles-antag-nuclear-operative-objective = Finde die Atomscheibe und sprenge die Station.
 
-roles-antag-subverted-silicon-name = Unterwandertes Silizium
+roles-antag-subverted-silicon-name = Unterwanderte Siliziumeinheit
 roles-antag-subverted-silicon-objective = Befolge deine neuen Gesetze und schade der Station.
 
 roles-antag-space-ninja-name = Weltraum-Ninja

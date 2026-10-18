@@ -15,6 +15,6 @@ roles-antag-shadowling-name = Schattenwesen
 roles-antag-shadowling-description = Unterwirf die Crew, steige auf und werde einem Gott gleich.
 roles-antag-shadowling-objective = Aufstieg.
 
-roles-antag-thrall-name = Hals
-roles-antag-thrall-description = Arbeitet mit eurem Schattenwesen, um ihren Aufstieg sicherzustellen.
+roles-antag-thrall-name = Thrall
+roles-antag-thrall-description = Arbeitet mit eurem Schattenwesen, um seinen Aufstieg sicherzustellen.
 roles-antag-thrall-objective = Hilf deinem Schattenwesen beim Aufstieg.

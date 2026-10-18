@@ -1,7 +1,7 @@
-ent-ClothingEyesHudChrono = futuristisches Visier
+ent-ClothingEyesHudChrono = Futuristisches Visier
     .desc = Ein Visier aus der Zukunft, das fast alles anzeigen kann.
 
-ent-ClothingEyesHudChronoUnremoveable = futuristisches Visier
+ent-ClothingEyesHudChronoUnremoveable = Futuristisches Visier
     .desc = Ein Visier aus der Zukunft, das fast alles anzeigen kann.
 
 ent-ClothingEyesHudDiagnosticMedical = Meddiag-HUD

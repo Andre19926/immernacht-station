@@ -13,10 +13,10 @@ ent-ClothingEyesGlassesMeson = Mesonenbrille
 ent-ClothingEyesGlasses = Brille
     .desc = Bei näherer Betrachtung stellst du fest, dass diese Linsen tatsächlich aus Kunststoff bestehen.
 
-ent-ClothingEyesGlassesJensen = Jensengläser
+ent-ClothingEyesGlassesJensen = Jensen-Brille
     .desc = Eine gelb getönte Faltbrille. Du hast nie danach gefragt.
 
-ent-ClothingEyesGlassesJamjar = Jamja-Gläser
+ent-ClothingEyesGlassesJamjar = Jamja-Brille
     .desc = Diese Retro-Brille erinnert dich an eine einfachere Zeit.
 
 ent-ClothingEyesGlassesOutlawGlasses = Outlaw-Brille

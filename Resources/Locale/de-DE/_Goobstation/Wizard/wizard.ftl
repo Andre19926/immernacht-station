@@ -7,7 +7,7 @@
 roles-antag-wizard-name = Zauberer
 roles-antag-wizard-description = Verursache Chaos und Zerstörung auf der Station.
 
-roles-antag-apprentice-name = Lehrling
+roles-antag-apprentice-name = Zauberlehrling
 roles-antag-apprentice-description = Hilf dem Zauberer, der dich gerufen hat, und halte ihn am Leben.
 
 wizard-roundend-name = Zauberer

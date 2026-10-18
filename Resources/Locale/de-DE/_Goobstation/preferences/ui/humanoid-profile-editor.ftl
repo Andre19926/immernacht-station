@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 humanoid-profile-editor-borgname-label = Bevorzugter Cyborg-/KI-Name:
-humanoid-profile-editor-antag-roll-before-jobs = Beachte: Alle Gegenspieler außer Erstinfizierten und Schläferagenten werden vor den Berufen ausgelost.
+humanoid-profile-editor-antag-roll-before-jobs = Hinweis: Alle Gegenspieler außer Erstinfizierten und Schläferagenten werden bereits vor der Berufsverteilung ausgelost.
