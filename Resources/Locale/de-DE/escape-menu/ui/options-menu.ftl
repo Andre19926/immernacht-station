@@ -288,9 +288,9 @@ ui-options-function-show-debug-monitors = Debug-Anzeigen einblenden
 ui-options-function-inspect-entity = Entität untersuchen
 ui-options-function-inspect-entity-tooltip = Öffnet ein ViewVariables-Fenster für die Entität, über der sich dein Mauszeiger gerade befindet.
 ui-options-function-inspect-server-component = Server-Komponente untersuchen
-ui-options-function-inspect-server-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Server-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
+ui-options-function-inspect-server-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Server-Komponente, die per „quickinspect“-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
 ui-options-function-inspect-client-component = Client-Komponente untersuchen
-ui-options-function-inspect-client-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Client-Komponente, die per „quickinspect"-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
+ui-options-function-inspect-client-component-tooltip = Öffnet ein ViewVariables-Fenster mit der Client-Komponente, die per „quickinspect“-Befehl festgelegt wurde, für die Entität unter deinem Mauszeiger.
 ui-options-function-hide-ui = UI ausblenden
 
 ui-options-function-hotbar1 = Hotbar-Slot 1

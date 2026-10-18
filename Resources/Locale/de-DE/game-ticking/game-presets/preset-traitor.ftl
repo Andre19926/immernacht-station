@@ -55,10 +55,10 @@ traitor-role-codewords =
     {$codewords}.[/color]
     Codewörter können in regelmäßigen Gesprächen verwendet werden, um sich diskret gegenüber anderen Verrätern zu identifizieren.
 traitor-role-uplink-code =
-    Setze deinen Klingelton auf die Noten [color = lightgray]{$code}[/color] um deinen Uplink zu sperren oder zu entsperren.
-    Denke daran, es danach zu sperren, oder die Crew der Station wird es auch leicht öffnen!
+    Setze deinen Klingelton auf die Noten [color = lightgray]{$code}[/color], um deinen Uplink zu sperren oder zu entsperren.
+    Denke daran, ihn danach wieder zu sperren, sonst kann die Crew der Station ihn leicht öffnen!
 traitor-role-uplink-implant =
-    Dein Uplink-Implantat wurde aktiviert, greife von deiner Hotbar darauf zu.
+    Dein Uplink-Implantat wurde aktiviert. Greife über deine Hotbar darauf zu.
     Der Uplink ist sicher, es sei denn, jemand entfernt ihn aus deinem Körper.
 
 # don't need all the flavour text for character menu

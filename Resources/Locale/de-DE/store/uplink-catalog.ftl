@@ -212,12 +212,12 @@ uplink-sniper-ammo-desc = Eine Schachtel mit 10 Patronen für das Scharfschütze
 
 # Utility
 uplink-holopara-kit-name = Holoparasit-Kit
-uplink-holopara-kit-desc = Stolz und Freude von Cybersun. Enthält einen Injektor, der einen fühlenden metaphysischen Wächter aus hartem Licht beherbergt, der sich im Körper des Benutzers befindet, wenn er nicht aktiv ist.
-    Der Wächter kann schnell schlagen und ist immun gegen gefährliche Umgebungen, während er resistent gegen direkte Traumata ist, teilt aber den Schaden, den er nimmt, mit dem Benutzer. Kann nicht von Wechselstuben benutzt werden.
+uplink-holopara-kit-desc = Der Stolz und die Freude von Cybersun. Enthält einen Injektor mit einem fühlenden metaphysischen Wächter aus hartem Licht, der im Körper des Benutzers wohnt, solange er nicht aktiv ist.
+    Der Wächter kann schnell zuschlagen und ist immun gegen gefährliche Umgebungen sowie widerstandsfähig gegen direkte Traumata, teilt aber jeden Schaden, den er nimmt, mit dem Benutzer. Kann nicht von Wechselbälgern benutzt werden.
 
 uplink-holoclown-kit-name = Holoclown-Set
-uplink-holoclown-kit-desc = Ein Joint Venture zwischen Cybersun und Honk.co. Enthält einen Injektor, der einen fühlenden metaphysischen Clown aus hartem Licht beherbergt, der sich im Körper des Benutzers befindet, wenn er nicht aktiv ist.
-    Das holoclown hat taschen, um dinge zu speichern, eine leichte hand, mit der es die umgebung manipulieren kann und ist immun gegen gefährliche umgebungen, während es resistent gegen direkte traumata ist, aber teilt den schaden, den es nimmt, mit dem benutzer.
+uplink-holoclown-kit-desc = Ein Joint Venture zwischen Cybersun und Honk.co. Enthält einen Injektor mit einem fühlenden metaphysischen Clown aus hartem Licht, der im Körper des Benutzers wohnt, solange er nicht aktiv ist.
+    Der Holoclown hat Taschen zum Verstauen von Dingen und eine Hand aus hartem Licht, mit der er die Umgebung manipulieren kann. Er ist immun gegen gefährliche Umgebungen und widerstandsfähig gegen direkte Traumata, teilt aber jeden Schaden, den er nimmt, mit dem Benutzer.
 
 uplink-holster-name = Schulterholster
 uplink-holster-desc = Ein tiefes Schulterholster, das viele Arten ballistischer Waffen aufnehmen kann.

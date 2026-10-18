@@ -220,26 +220,26 @@ entity-effect-guidebook-knockdown =
         [update]{ $chance ->
         [1] Verursacht
         *[other] verursachen
-    } Niederschlag für mindestens {NATURALFIXED($time, 3)} Sekunden ohne Kumulierung
+    } Niederstreckung für mindestens {NATURALFIXED($time, 3)} Sekunden ohne Kumulierung
         [add]   { $chance ->
         [1] Verursacht
         *[other] verursachen
-    } Niederschlag für mindestens {NATURALFIXED($time, 3)} Sekunden mit Kumulierung
+    } Niederstreckung für mindestens {NATURALFIXED($time, 3)} Sekunden mit Kumulierung
         *[set]  { $chance ->
         [1] Verursacht
         *[other] verursachen
-    } Niederschlag für mindestens {NATURALFIXED($time, 3)} Sekunden ohne Kumulierung
+    } Niederstreckung für mindestens {NATURALFIXED($time, 3)} Sekunden ohne Kumulierung
         [remove]{ $chance ->
         [1] Entfernt
         *[other] entfernen
-    } {NATURALFIXED($time, 3)} Sekunden Niederschlag
+    } {NATURALFIXED($time, 3)} Sekunden Niederstreckung
     }
 
 entity-effect-guidebook-set-solution-temperature-effect =
     { $chance ->
         [1] Setzt
         *[other] setzen
-    } die Temperatur der Lösung auf genau {NATURALFIXED($temperature, 2)}k
+    } die Temperatur der Lösung auf genau {NATURALFIXED($temperature, 2)} K
 
 entity-effect-guidebook-adjust-solution-temperature-effect =
     { $chance ->
@@ -256,8 +256,8 @@ entity-effect-guidebook-adjust-solution-temperature-effect =
                 [1] zu
                 *[-1] von
            } der Lösung, bis sie { $deltasign ->
-                [1] höchstens {NATURALFIXED($maxtemp, 2)}k
-                *[-1] mindestens {NATURALFIXED($mintemp, 2)}k
+                [1] höchstens {NATURALFIXED($maxtemp, 2)} K
+                *[-1] mindestens {NATURALFIXED($mintemp, 2)} K
             } erreicht
 
 entity-effect-guidebook-adjust-reagent-reagent =

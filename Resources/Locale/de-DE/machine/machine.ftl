@@ -11,7 +11,7 @@
 
 machine-insert-item = {CAPITALIZE(THE($user))} hat {THE($item)} in {THE($machine)} eingelegt.
 
-machine-upgrade-examinable-verb-text = Upgrades
+machine-upgrade-examinable-verb-text = Verbesserungen
 machine-upgrade-examinable-verb-message = Zeigt die Maschinen-Upgrades an.
 machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] erhöht um {$percent}%.
 machine-upgrade-decreased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] vermindert um {$percent}%.

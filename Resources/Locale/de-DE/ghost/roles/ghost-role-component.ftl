@@ -350,17 +350,17 @@ ghost-role-information-command-description = Du bist ein Mitglied der Führung, 
 
 ghost-role-information-lost-challenge-commander-name = Kommandant für Landurlaub
 ghost-role-information-lost-challenge-commander-description = Du bist ein Führungsmitglied eines anderen Raumschiffs, dem zusammen mit einem deiner Frachttechniker Landurlaub gewährt wurde.
-ghost-role-information-lost-challenge-commander-rules = Du bist nicht feindselig gegenüber der Station, tu, was du musst, um dein eigenes Überleben zu sichern.
-                                     Du erinnerst dich an nichts von deinem früheren Leben und du erinnerst dich an nichts, was du als Geist gelernt hast.
-                                     Du darfst dich an das Wissen über das Spiel im Allgemeinen erinnern, z. B. wie man kocht, wie man Objekte benutzt usw.
-                                     Du bist absolut [color=red]NICHT[/color] erlaubt, sich beispielsweise an den Namen, das Aussehen usw. Deines vorherigen Charakters zu erinnern.
+ghost-role-information-lost-challenge-commander-rules = Du bist der Station gegenüber nicht feindselig. Tu, was du musst, um dein eigenes Überleben zu sichern.
+                                     Du erinnerst dich an nichts aus deinem früheren Leben und auch nicht an das, was du als Geist erfahren hast.
+                                     Allgemeines Spielwissen darfst du behalten, zum Beispiel wie man kocht oder wie man Gegenstände benutzt.
+                                     Du darfst dich auf [color=red]KEINEN[/color] Fall an Namen, Aussehen usw. deines früheren Charakters erinnern oder sie nennen.
 
 ghost-role-information-lost-challenge-cargo-technican-name = Frachtführer
 ghost-role-information-lost-challenge-cargo-technican-description = Du bist ein Frachttechniker, dem zusammen mit einem deiner kommandierenden Offiziere Landurlaub gewährt wurde.
-ghost-role-information-lost-challenge-cargo-technican-rules = Du bist nicht feindselig gegenüber der Station, tu, was du musst, um dein eigenes Überleben zu sichern.
-                                     Du erinnerst dich an nichts von deinem früheren Leben und du erinnerst dich an nichts, was du als Geist gelernt hast.
-                                     Du darfst dich an das Wissen über das Spiel im Allgemeinen erinnern, z. B. wie man kocht, wie man Objekte benutzt usw.
-                                     Du bist absolut [color=red]NICHT[/color] erlaubt, sich beispielsweise an den Namen, das Aussehen usw. Deines vorherigen Charakters zu erinnern.
+ghost-role-information-lost-challenge-cargo-technican-rules = Du bist der Station gegenüber nicht feindselig. Tu, was du musst, um dein eigenes Überleben zu sichern.
+                                     Du erinnerst dich an nichts aus deinem früheren Leben und auch nicht an das, was du als Geist erfahren hast.
+                                     Allgemeines Spielwissen darfst du behalten, zum Beispiel wie man kocht oder wie man Gegenstände benutzt.
+                                     Du darfst dich auf [color=red]KEINEN[/color] Fall an Namen, Aussehen usw. deines früheren Charakters erinnern oder sie nennen.
 
 ghost-role-information-disaster-victim-name = Katastrophenopfer
 ghost-role-information-disaster-victim-description = Du wurdest in einer Fluchtkapsel von einer anderen Station gerettet, die ein schreckliches Schicksal erlitt. Vielleicht wirst du gefunden und gerettet.
@@ -396,7 +396,7 @@ ghost-role-information-tomatokiller-description = Diese kleine Tomate wird dem B
 
 ghost-role-information-gingerbread-name = Lebkuchen
 ghost-role-information-gingerbread-description = Ein Wesen von reinem Urlaubsgeist.
-                                     Verbreiten Melasse Güte und allen guten Mut.
+                                     Verbreitet Lebkuchen-Güte und allgemeine Festtagsfreude.
 
 ghost-role-information-mothership-core-name = Mutterschiff Kernschiff
 ghost-role-information-mothership-core-desc = Du bist der Kern des Xenoborg-Mutterschiffs. Hilf ihnen bei der Vermehrung, indem du jedes Gehirn, das sie dir bringen, zum Cyborg machst.

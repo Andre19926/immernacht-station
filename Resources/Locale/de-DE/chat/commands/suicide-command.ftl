@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 suicide-command-description = Begeht Selbstmord
-suicide-command-help-text = Der Befehl „suicide" bietet dir einen schnellen Ausweg aus der Runde, ohne die Rolle zu verlassen.
+suicide-command-help-text = Der Befehl „suicide“ bietet dir einen schnellen Ausweg aus der Runde, ohne die Rolle zu verlassen.
                             Die Methode ist unterschiedlich: Zuerst wird versucht, den Gegenstand in deiner aktiven Hand zu benutzen.
                             Schlägt das fehl, wird ein Objekt in der Umgebung benutzt.
                             Wenn beides nicht klappt, stirbst du, indem du dir auf die Zunge beißt.

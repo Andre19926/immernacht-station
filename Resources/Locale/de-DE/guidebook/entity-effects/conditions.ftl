@@ -51,7 +51,7 @@ entity-condition-guidebook-reagent-threshold =
         [2147483648] Es gibt mindestens {NATURALFIXED($min, 2)}u von {$reagent}
         *[other] { $min ->
                     [0] Es gibt höchstens {NATURALFIXED($max, 2)}u von {$reagent}
-                    *[other] Da ist zwischen {NATURALFIXED($min, 2)}u und {NATURALFIXED($max, 2)}u von {$reagent}
+                    *[other] Es gibt zwischen {NATURALFIXED($min, 2)}u und {NATURALFIXED($max, 2)}u von {$reagent}
                  }
     }
 
@@ -61,19 +61,19 @@ entity-condition-guidebook-job-condition = der Job des Ziels ist { $job }
 
 entity-condition-guidebook-solution-temperature =
     die Temperatur der Lösung ist { $max ->
-            [2147483648] mindestens {NATURALFIXED($min, 2)}k
+            [2147483648] mindestens {NATURALFIXED($min, 2)} K
             *[other] { $min ->
-                        [0] höchstens {NATURALFIXED($max, 2)}k
-                        *[other] zwischen {NATURALFIXED($min, 2)}k und {NATURALFIXED($max, 2)}k
+                        [0] höchstens {NATURALFIXED($max, 2)} K
+                        *[other] zwischen {NATURALFIXED($min, 2)} K und {NATURALFIXED($max, 2)} K
                      }
     }
 
 entity-condition-guidebook-body-temperature =
     die Körpertemperatur ist { $max ->
-            [2147483648] mindestens {NATURALFIXED($min, 2)}k
+            [2147483648] mindestens {NATURALFIXED($min, 2)} K
             *[other] { $min ->
-                        [0] höchstens {NATURALFIXED($max, 2)}k
-                        *[other] zwischen {NATURALFIXED($min, 2)}k und {NATURALFIXED($max, 2)}k
+                        [0] höchstens {NATURALFIXED($max, 2)} K
+                        *[other] zwischen {NATURALFIXED($min, 2)} K und {NATURALFIXED($max, 2)} K
                      }
     }
 
@@ -97,7 +97,7 @@ entity-condition-guidebook-blood-reagent-threshold =
         [2147483648] Es gibt mindestens {NATURALFIXED($min, 2)}u von {$reagent}
         *[other] { $min ->
                     [0] Es gibt höchstens {NATURALFIXED($max, 2)}u von {$reagent}
-                    *[other] Da ist zwischen {NATURALFIXED($min, 2)}u und {NATURALFIXED($max, 2)}u von {$reagent}
+                    *[other] Es gibt zwischen {NATURALFIXED($min, 2)}u und {NATURALFIXED($max, 2)}u von {$reagent}
                  }
     }
 # Goobstation?

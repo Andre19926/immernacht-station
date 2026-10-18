@@ -13,11 +13,11 @@
 instrument-component-finger-cramps-light-message = Deine Finger fangen an, leicht zu verkrampfen!
 instrument-component-finger-cramps-serious-message = Deine Finger verkrampfen sich ernsthaft!
 instrument-component-finger-cramps-max-message = Deine Finger verkrampfen sich vom Spielen!
-instruments-component-menu-no-midi-support = MIDI-Unterstützung wird derzeit nicht
-                                             auf deinem System verfügbar.
-                                             Wenn unter Linux, musst du möglicherweise installieren
+instruments-component-menu-no-midi-support = MIDI-Unterstützung ist auf deinem System
+                                             derzeit nicht verfügbar.
+                                             Unter Linux musst du möglicherweise
                                              FluidSynth oder ein Entwicklungspaket
-                                             für FluidSynth.
+                                             für FluidSynth installieren.
 instruments-component-menu-input-button = MIDI-Input
 instruments-component-menu-band-button = Band beitreten
 instruments-component-menu-play-button = MIDI abspielen

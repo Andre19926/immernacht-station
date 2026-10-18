@@ -16,6 +16,6 @@ cable-multitool-system-statistics = Dein Multitool zeigt eine Liste von Statisti
                                     Von Batterien: { POWERWATTS($supplyb) }
                                     Theoretische Versorgung: { POWERWATTS($supplym) }
                                     Idealer Konsum: { POWERWATTS($consumption) }
-                                    Input Storage: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
-                                    Output Storage: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
+                                    Eingangsspeicher: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
+                                    Ausgangsspeicher: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
 

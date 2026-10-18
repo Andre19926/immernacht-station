@@ -17,4 +17,4 @@ votekick-webhook-cancelled-admin-online = **Abstimmung abgebrochen, weil Admins 
 votekick-webhook-cancelled-admin-target = **Abstimmung abgebrochen, weil das Ziel Admin ist**
 votekick-webhook-cancelled-antag-target = **Abstimmung abgebrochen, weil das Ziel Antagonist ist**
 
-votekick-ban-reason = „Votekick: {$reason}"
+votekick-ban-reason = „Votekick: {$reason}“

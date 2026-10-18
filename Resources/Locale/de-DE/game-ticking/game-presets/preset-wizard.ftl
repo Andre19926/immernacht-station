@@ -26,7 +26,7 @@ survivor-round-end-alive-count =
 survivor-round-end-alive-on-shuttle-count =
 {
     $aliveCount ->
-        [one] [color=green]{$aliveCount}[/color] Überlebende schafften es lebendig.
+        [one] [color=green]{$aliveCount}[/color] Überlebender schaffte es lebendig.
         *[other] [color=green]{$aliveCount}[/color] Überlebende schafften es lebendig.
 }
 

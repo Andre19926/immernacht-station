@@ -34,45 +34,45 @@ thief-backpack-category-chameleon-description =
     Du bist jeder und niemand; du bist ein Meister der Verkleidung.
     Beinhaltet: Ein vollständiges Set Chamäleon-Kleidung,
     einen Chamäleon-Projektor und eine Agenten-ID.
-    Verkleidet wie jeder und alles.
+    Verkleide dich als jeden und alles.
 
 thief-backpack-category-tools-name = Einbrecher-Set
 thief-backpack-category-tools-description =
-    Was ist das für ein Sound? Ein lil 'C4 klopfen' an ihrer Tür.
+    Was ist das für ein Geräusch? Ein kleines C4, das an ihre Tür klopft.
     Kein Hindernis kann dich aufhalten!
-    Enthält: Zwei C4, ein Multitool, Fernsignalgeber, Kiefer des Lebens,
-    fortschrittliche Schweißer, technische Brillen und isolierte Handschuhe.
+    Enthält: Zwei C4, ein Multitool, Fernsignalgeber, Rettungsschere,
+    fortschrittlicher Schweißer, Technikbrillen und isolierte Handschuhe.
 
 thief-backpack-category-chemistry-name = Anatomie-Kit
 thief-backpack-category-chemistry-description =
-    Du hast die höchste körperliche Leistung erreicht ... mit ein wenig Hilfe.
+    Du hast deine körperliche Höchstleistung erreicht ... mit ein wenig Hilfe.
     Umfasst: Lagerimplantator, DNA-Verwürfler-Implantator,
-    Ephedrinflasche, Spritze, leerer Schüttler und Omega-Seife
+    Ephedrinflasche, Spritze, leerer Shaker und Omega-Seife
 
 thief-backpack-category-syndie-name = Syndie-Set
 thief-backpack-category-syndie-description =
-    Krimskrams aus einer verleugneten Vergangenheit oder von einem nachlässigen Agenten geklaut?
-    Du hast einige Verbindungen hergestellt. Whiskey, Echo...
-    Enthält: einen Emag, einen Zugangsknacker, Interdyne-Zigaretten, ein Syndicate-Codewort,
+    Krimskrams aus einer verleugneten Vergangenheit – oder von einem nachlässigen Agenten geklaut?
+    Du hast einige Verbindungen geknüpft. Whiskey, Echo ...
+    Enthält: einen Emag, einen Zugangsbrecher, Interdyne-Zigaretten, ein Syndicate-Codewort,
     einen Funkstörsender, ein Feuerzeug und einige seltsame rote Kristalle.
 
 thief-backpack-category-sleeper-name = Schläfer-Set
 thief-backpack-category-sleeper-description =
-    Bis wir unsere Augen für immer schließen, verwende deine illegalen Rezepte
+    Bis wir die Augen für immer schließen, nutze deine illegalen Rezepte,
     um andere schlafen zu lassen.
-    Umfasst: Schläfriger Lachgasbehälter, zwei Nocturinflaschen,
-    Und ein Hypopen.
+    Enthält: Schläfrigen Lachgastank, zwei Nocturin-Flaschen
+    und einen Hypopen.
 
 thief-backpack-category-communicator-name = Kommunikator-Set
 thief-backpack-category-communicator-description =
-    Geld ist Macht und Geheimnisse sind Geld. Verwende deine silberne Zunge
-    und Reichtum, um die Station zu untergraben.
-    Enthält: Hauptschlüssel für alle Senderkanäle, einen CyberSun-Stift,
-    Stimmmaskenimplantator und 20k spesos in einer aktentasche.
+    Geld ist Macht, und Geheimnisse sind Geld. Nutze deine silberne Zunge
+    und deinen Reichtum, um die Station zu unterwandern.
+    Enthält: Hauptschlüssel für alle Stationskanäle, einen CyberSun-Stift,
+    Stimmmaskenimplantator und 20k Spesos in einer Aktentasche.
 
 thief-backpack-category-smuggler-name = Schmugglerkit
 thief-backpack-category-smuggler-description =
-    Alle Diebe brauchen irgendwo, um ihre Waren im Dunkeln zu verstauen.
+    Alle Diebe brauchen irgendwo einen Ort, um ihre Beute im Dunkeln zu verstauen.
     Vergiss nicht, deinen Fulton zu verknüpfen.
-    Dazu gehören: Fulton-Bake, 10 Fulton, 3 Rauchgranaten,
+    Enthält: Fulton-Leuchtfeuer, 10 Fultons, 3 Rauchgranaten
     und eine unsichtbare Kiste, um wertvolle Beute zu verbergen.

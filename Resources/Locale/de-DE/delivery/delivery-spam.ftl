@@ -224,7 +224,7 @@ delivery-spam-10 =  DIESE POST NICHT ÖFFNEN
 delivery-spam-11 = Hilf Mama und Papa!
 .desc =         Eltern brauchen finanzielle Unterstützung.
 .content =      [bold]Hallo Kind,[/bold]
-                    hier schreiben dir deine Eltern: wir brauchen Geld! Unsere Steuern wurden geprüft und wir schulden der Regirung 100.000 $ in Spesos! bitte hilf uns! die wollen nur Geschenkkarten, also musst du uns 100 Bisa-Geschenkkarten über je 1000 Spesos schicken.
+                    hier schreiben dir deine Eltern: Wir brauchen Geld! Unsere Steuern wurden geprüft und wir schulden der Regierung 100.000 $ in Spesos! Bitte hilf uns! Die wollen nur Geschenkkarten, also musst du uns 100 Bisa-Geschenkkarten über je 1000 Spesos schicken.
 
                     bitte schick sie an:
                     50192 Spess Lane

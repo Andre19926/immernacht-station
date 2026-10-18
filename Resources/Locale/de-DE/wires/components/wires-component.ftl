@@ -24,7 +24,7 @@ wires-menu-name-label = Drähte
 wires-menu-dead-beef-text = TOTES-RINDFLEISCH
 wires-menu-help-popup =
     Klicke auf die Goldkontakte mit einem Multitool in der Hand, um ihren Draht zu pulsieren.
-    Klicke auf die Drähte mit einem Paar Wirecutters in der Hand, um sie zu schneiden / zu reparieren.
+    Klicke mit einem Drahtschneider in der Hand auf die Drähte, um sie zu durchtrennen bzw. zu reparieren.
 
-    Die Lichter an der Spitze zeigen den Zustand der Maschine, das Durcheinanderlegen mit Drähten wird ihnen wahrscheinlich etwas antun.
-    Drahtlayouts sind in jeder Runde unterschiedlich, aber konsistent zwischen Maschinen des gleichen Typs.
+    Die Lichter oben zeigen den Zustand der Maschine an; wenn du an den Drähten herumspielst, hat das vermutlich Auswirkungen darauf.
+    Die Drahtbelegungen sind in jeder Runde anders, aber bei Maschinen desselben Typs gleich.

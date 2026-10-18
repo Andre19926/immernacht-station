@@ -55,9 +55,9 @@ nano-task-ui-heading-high-priority-tasks =
     }
 nano-task-ui-heading-medium-priority-tasks =
     { $amount ->
-        [zero] Keine mittleren Prioritätsaufgaben
-        [one] 1 Mittlere Prioritätsaufgabe
-       *[other] {$amount} Mittlere prioritäre Aufgaben
+        [zero] Keine Aufgaben mit mittlerer Priorität
+        [one] 1 Aufgabe mit mittlerer Priorität
+       *[other] {$amount} Aufgaben mit mittlerer Priorität
     }
 nano-task-ui-heading-low-priority-tasks =
     { $amount ->
@@ -102,19 +102,19 @@ wanted-list-unknown-reason-label = unbekannter Grund
 wanted-list-initiator-label = [color=darkgray]Auslöser:[/color] [color=white]{$initiator}[/color]
 wanted-list-unknown-initiator-label = unbekannter Initiator
 
-wanted-list-status-label = [color=darkgray]status:[/color] {$status ->
+wanted-list-status-label = [color=darkgray]Status:[/color] {$status ->
         [suspected] [color=yellow]Verdacht[/color]
-        [wanted] [color=red]gewollt[/color]
-        [detained] [color=#b18644]Inhaftiert[/color]
+        [wanted] [color=red]gesucht[/color]
+        [detained] [color=#b18644]in Gewahrsam[/color]
         [paroled] [color=green]auf Bewährung[/color]
-        [discharged] [color=green]entladen[/color]
-        [hostile] [color=darkred]Feindschaft[/color]
-        [eliminated] [color=gray]Ausscheiden[/color]
-        [search] [color=#33cccc]Suche[/color]
+        [discharged] [color=green]entlassen[/color]
+        [hostile] [color=darkred]feindlich[/color]
+        [eliminated] [color=gray]ausgeschaltet[/color]
+        [search] [color=#33cccc]gesucht (Fahndung)[/color]
         [perma] [color=#343434]Perma[/color]
         [dangerous] [color=red]gefährlich[/color]
-        [demote] [color=red]Demot[/color]
-        *[other] nicht
+        [demote] [color=red]Degradierung[/color]
+        *[other] keiner
     }
 
 wanted-list-history-table-time-col = Zeit

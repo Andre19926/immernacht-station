@@ -54,8 +54,8 @@ rev-stalemate = Sowohl die Führung als auch die Hauptrevolutionäre sind alle g
 rev-reverse-stalemate = Sowohl die Führung als auch die Hauptrevolutionäre überlebten.
 
 rev-headrev-count = {$initialCount ->
-    [one] Es gab einen revolutionären Kopf:
-    *[other] Es gab {$initialCount} Hauptrevolutionäre:
+    [one] Es gab einen Revolutionsführer:
+    *[other] Es gab {$initialCount} Revolutionsführer:
 }
 
 rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) hat {$count} {$count ->
@@ -72,7 +72,7 @@ rev-headrev-name = [color=#5e9cff]{$name}[/color] hat {$count} {$count ->
 
 rev-deconverted-title = Bekehrung aufgehoben!
 rev-deconverted-text =
-    Als die letzte Headrev neutralisiert wurde, ist die Revolution vorbei.
+    Als der letzte Revolutionsführer neutralisiert wurde, war die Revolution vorbei.
 
     Du bist kein Revolutionär mehr, also sei nett.
 rev-deconverted-confirm = Bestätigen
