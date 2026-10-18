@@ -1,0 +1,71 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Rot/schwarze Diplomaten-Garderobe. Die Sprites der formellen Syndikat-Uniformen
+# werden wiederverwendet, die Variante hier ist aber kein Schmuggelgut, damit die
+# Sicherheit den offenen Gesandten nicht allein wegen seiner Kleidung filzt.
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitSyndicateDiplomat
+  name: syndicate diplomat suit
+  description: A tailored red-and-black suit worn by official envoys of the Syndicate. Impeccably neutral, mostly.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/syndieformal.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/syndieformal.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtSyndicateDiplomat
+  name: syndicate diplomat skirt
+  description: A tailored red-and-black suit skirt worn by official envoys of the Syndicate. Impeccably neutral, mostly.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi
+
+- type: loadout
+  id: SyndicateDiplomatJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatFormalSuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSyndieFormal
+
+- type: loadout
+  id: SyndicateDiplomatFormalDress
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSyndieFormalDress
+
+- type: loadoutGroup
+  id: SyndicateDiplomatJumpsuit
+  name: loadout-group-syndicate-diplomat-jumpsuit
+  loadouts:
+  - SyndicateDiplomatJumpsuit
+  - SyndicateDiplomatJumpskirt
+  - SyndicateDiplomatFormalSuit
+  - SyndicateDiplomatFormalDress
+
+- type: roleLoadout
+  id: JobSyndicateDiplomat
+  groups:
+  - GroupTankHarness
+  - SyndicateDiplomatJumpsuit
+  - CommonBackpack
+  - Glasses
+  - Survival
+  - Trinkets
+  - Animals
+  - GroupSpeciesBreathTool
+  - AssistantEnvirohelm
+  - AssistantEnvirosuit
+  - AssistantEnvirogloves
