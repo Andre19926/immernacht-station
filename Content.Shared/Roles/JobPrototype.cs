@@ -121,6 +121,13 @@ namespace Content.Shared.Roles
         public EntProtoId? JobEntity = null;
 
         /// <summary>
+        /// Roundstart spawn when this job has no own <c>SpawnPoint</c> on the map.
+        /// Latejoin ignores this and still uses arrivals / latejoin markers.
+        /// </summary>
+        [DataField]
+        public ProtoId<JobPrototype>? FallbackSpawnJob { get; private set; }
+
+        /// <summary>
         /// Entity to use as a preview in the lobby/character editor.
         /// Same restrictions as <see cref="JobEntity"/> apply.
         /// </summary>

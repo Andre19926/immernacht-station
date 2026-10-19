@@ -23,6 +23,8 @@
   supervisors: job-supervisors-captain
   canBeAntag: false
   joinNotifyCrew: true # Ankunftstext fuer die Crew
+  # Kein eigener Marker auf den Maps: zum Rundenstart an den Passagier-Spawnpunkten.
+  fallbackSpawnJob: Passenger
   goobcoins: 10
   access:
   - Service

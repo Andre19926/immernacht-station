@@ -19,6 +19,7 @@
           availableJobs:
           #Service
             Passenger: [ -1, -1 ]
+            SyndicateDiplomat: [ 1, 1 ] # Immernacht
             ServiceWorker: [ 1, 2 ]
             RadioHost: [ 1, 1 ]
             Reporter: [ 0, 1 ]
