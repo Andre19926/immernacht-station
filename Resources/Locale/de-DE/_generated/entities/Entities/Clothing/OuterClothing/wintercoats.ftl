@@ -91,13 +91,13 @@ ent-ClothingOuterWinterWarden = Gepanzerter Warden-Wintermantel
 ent-ClothingOuterWinterWardenUnarmored = Warden-Wintermantel
     .desc = Ein robuster, warmer Mantel, aber kein gepanzerter.
 
-ent-ClothingOuterWinterSyndieCap = Wintermantel des Syndikat-S
+ent-ClothingOuterWinterSyndieCap = Syndikat-Wintermantel
     .desc = Der Wintermantel des Syndikat-Agenten besteht aus langlebigem Stoff mit vergoldeten Mustern und grober Wolle.
 
 ent-ClothingOuterWinterSyndieCapArmored = Gepanzerter Wintermantel des Syndikat-Kapitäns
     .desc = Der gepanzerte Wintermantel des Syndikat-Agenten besteht aus dauerhaftem Stoff mit vergoldeten Mustern und grober Wolle.
 
-ent-ClothingOuterWinterSyndie = Wintermantel des Syndikat-S
+ent-ClothingOuterWinterSyndie = Syndieland-Wintermantel
     .desc = Isolierter Wintermantel, sieht aus wie Merchandise aus „Syndieland“.
 
 ent-ClothingOuterWinterMusician = Wintermantel des Musikers
