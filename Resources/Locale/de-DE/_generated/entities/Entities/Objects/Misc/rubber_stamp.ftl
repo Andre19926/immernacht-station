@@ -1,22 +1,22 @@
-ent-RubberStampCaptain = Kapitänsstempel
+ent-RubberStampCaptain = Kapitän-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampCentcom = CentComm-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampChaplain = Seelsorgestempel
+ent-RubberStampChaplain = Kaplan-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampLawyer = Anwaltsstempel
+ent-RubberStampLawyer = Anwalt-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampClown = Clown-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampCE = Stempel des Chefingenieurs
+ent-RubberStampCE = Chefingenieur-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampCMO = Stempel des Chefarztes
+ent-RubberStampCMO = Chefarzt-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampHop = Personalchef-Stempel
@@ -28,13 +28,13 @@ ent-RubberStampHos = Sicherheitschef-Stempel
 ent-RubberStampMime = Mime-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampQm = Quartiermeisterstempel
+ent-RubberStampQm = Quartiermeister-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampRd = Stempel des Forschungsdirektors
+ent-RubberStampRd = Forschungsleiter-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampTrader = Stempel des Händlers
+ent-RubberStampTrader = Händler-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampSyndicate = Syndikat-Stempel
@@ -43,20 +43,20 @@ ent-RubberStampSyndicate = Syndikat-Stempel
 ent-RubberStampWarden = Warden-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampApproved = GENEHMIGTER Stempel
+ent-RubberStampApproved = Genehmigungsstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampDenied = VERNEIDUNG VON STAMM
+ent-RubberStampDenied = Ablehnungsstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampDetective = Detektivstempel
+ent-RubberStampDetective = Detektiv-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampGreytide = Greytide-Stempel
     .desc = Ein Stempel für wichtige Dokumente. Allein sein Anblick lässt die Flut über dich hereinbrechen ...
 
-ent-RubberStampPsychologist = Stempel des Psychologen
+ent-RubberStampPsychologist = Psychologe-Stempel
     .desc = Ein Stempel für wichtige Dokumente. Verschreibe diese Behandlungen!
 
-ent-RubberStampWizard = Zaubererstempel
-    .desc = Ein chaotischer Zaubererstempel, um unchaotischen Papierkram zu bedienen – wie ironisch.
+ent-RubberStampWizard = Zauberer-Stempel
+    .desc = Ein chaotischer Zauberer-Stempel, um unchaotischen Papierkram zu bedienen – wie ironisch.
