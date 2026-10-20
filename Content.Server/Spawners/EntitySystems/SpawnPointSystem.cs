@@ -3,7 +3,9 @@
 using Content.Server.GameTicking;
 using Content.Server.Spawners.Components;
 using Content.Server.Station.Systems;
+using Content.Shared.Roles;
 using Robust.Shared.Map;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 
 namespace Content.Server.Spawners.EntitySystems;
@@ -11,6 +13,7 @@ namespace Content.Server.Spawners.EntitySystems;
 public sealed class SpawnPointSystem : EntitySystem
 {
     [Dependency] private readonly GameTicker _gameTicker = default!;
+    [Dependency] private readonly IPrototypeManager _prototypeManager = default!;
     [Dependency] private readonly IRobustRandom _random = default!;
     [Dependency] private readonly StationSystem _stationSystem = default!;
     [Dependency] private readonly StationSpawningSystem _stationSpawning = default!;
@@ -28,6 +31,11 @@ public sealed class SpawnPointSystem : EntitySystem
         // TODO: Cache all this if it ends up important.
         var points = EntityQueryEnumerator<SpawnPointComponent, TransformComponent>();
         var possiblePositions = new List<EntityCoordinates>();
+        var fallbackPositions = new List<EntityCoordinates>();
+
+        ProtoId<JobPrototype>? fallbackJob = null;
+        if (_prototypeManager.Resolve(args.Job, out var jobProto))
+            fallbackJob = jobProto.FallbackSpawnJob;
 
         while (points.MoveNext(out var uid, out var spawnPoint, out var xform))
         {
@@ -45,7 +53,17 @@ public sealed class SpawnPointSystem : EntitySystem
             {
                 possiblePositions.Add(xform.Coordinates);
             }
+            else if (_gameTicker.RunLevel != GameRunLevel.InRound &&
+                     fallbackJob != null &&
+                     spawnPoint.SpawnType == SpawnPointType.Job &&
+                     spawnPoint.Job == fallbackJob)
+            {
+                fallbackPositions.Add(xform.Coordinates);
+            }
         }
+
+        if (possiblePositions.Count == 0 && fallbackPositions.Count > 0)
+            possiblePositions = fallbackPositions;
 
         if (possiblePositions.Count == 0)
         {

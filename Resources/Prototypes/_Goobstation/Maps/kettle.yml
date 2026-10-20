@@ -62,6 +62,7 @@
             CargoTechnician: [ 3, 3 ]
             #civillian
             Passenger: [ -1, -1 ]
+            SyndicateDiplomat: [ 1, 1 ] # Immernacht
             Clown: [ 1, 2 ]
             Mime: [ 1, 2 ]
             Musician: [ 1, 2 ]
