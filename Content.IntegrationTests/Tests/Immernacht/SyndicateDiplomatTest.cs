@@ -217,8 +217,8 @@ public sealed class SyndicateDiplomatTest
                 {
                     var loadout = server.ProtoMan.Index<LoadoutPrototype>(loadoutId);
                     Assert.That(loadout.Effects, Is.Empty, $"{loadoutId} ist nicht frei wählbar");
-                    Assert.That(loadout.Equipment.Keys, Is.EquivalentTo(new[] { slot }), loadoutId);
-                    Assert.That(pieces, Does.Contain(loadout.Equipment[slot].Id), loadoutId);
+                    Assert.That(loadout.Equipment.Keys, Is.EquivalentTo(new[] { slot }), loadoutId.Id);
+                    Assert.That(pieces, Does.Contain(loadout.Equipment[slot].Id), loadoutId.Id);
                 }
             }
 
@@ -226,17 +226,29 @@ public sealed class SyndicateDiplomatTest
             {
                 var proto = server.ProtoMan.Index<EntityPrototype>(id);
                 Assert.That(proto.Components.ContainsKey("Contraband"), Is.False, id);
-                Assert.That(proto.Components.ContainsKey("Armor"), Is.False, id);
                 Assert.That(proto.Components.ContainsKey("ScannableForPoints"), Is.False, id);
                 Assert.That(proto.Components.ContainsKey("PressureProtection"), Is.False, id);
                 Assert.That(proto.Components.ContainsKey("SecretStash"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("ExplosionResistance"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("StaminaResistance"), Is.False, id);
 
                 var ent = server.EntMan.SpawnEntity(id, testMap.GridCoords);
                 Assert.That(server.EntMan.HasComponent<ContrabandComponent>(ent), Is.False, id);
-                Assert.That(server.EntMan.HasComponent<ArmorComponent>(ent), Is.False, id);
                 Assert.That(server.EntMan.HasComponent<ScannableForPointsComponent>(ent), Is.False, id);
                 Assert.That(server.EntMan.HasComponent<PressureProtectionComponent>(ent), Is.False, id);
                 Assert.That(server.EntMan.HasComponent<SecretStashComponent>(ent), Is.False, id);
+
+                // Jedes Kleidungsstück erbt die leere Armor-Komponente von Clothing.
+                // Koeffizienten unter 1 oder Trauma-Abzüge wären echter Schutz.
+                if (server.EntMan.TryGetComponent<ArmorComponent>(ent, out var armor))
+                {
+                    foreach (var (type, coefficient) in armor.Modifiers.Coefficients)
+                        Assert.That(coefficient, Is.GreaterThanOrEqualTo(1f), $"{id} {type}");
+                    foreach (var (type, flat) in armor.Modifiers.FlatReduction)
+                        Assert.That(flat, Is.LessThanOrEqualTo(0f), $"{id} {type}");
+                    foreach (var (type, deduction) in armor.TraumaDeductions)
+                        Assert.That(deduction == 0, Is.True, $"{id} {type}");
+                }
 
                 if (id is "ClothingOuterWinterSyndicateDiplomat" or "ClothingOuterWinterGildedSyndicateDiplomat")
                 {
