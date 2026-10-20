@@ -103,3 +103,4 @@ guide-entry-sop-janitor = Hausmeister
 guide-entry-sop-librarian = Bibliothekar
 guide-entry-sop-mime = Mime
 guide-entry-sop-reporter = Reporter
+guide-entry-sop-syndicate-diplomat = Syndikat-Diplomat

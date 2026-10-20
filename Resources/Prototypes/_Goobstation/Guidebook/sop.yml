@@ -154,6 +154,7 @@
   - LibrarianSOP
   - MimeSOP
   - ReporterSOP
+  - SyndicateDiplomatSOP # Immernacht
 
 # Alert Levels SOP Entries
 - type: guideEntry
@@ -415,6 +416,12 @@
   id: BartenderSOP
   name: guide-entry-sop-bartender
   text: "/ServerInfo/_Goobstation/Guidebook/SoP/Jobs/Service/BartenderSOP.xml"
+
+# Immernacht - Syndikat-Diplomat
+- type: guideEntry
+  id: SyndicateDiplomatSOP
+  name: guide-entry-sop-syndicate-diplomat
+  text: "/ServerInfo/_Immernacht/Guidebook/SyndicateDiplomatSOP.xml"
 
 - type: guideEntry
   id: BotanistSOP

@@ -25,6 +25,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Durchsuchungen
 
   - Eine Personendurchsuchung ist eine Beschlagnahme der Gegenstände im Rucksack, in den Händen, im Mantel, am Gürtel, in den Taschen und auf dem Hut einer Person. Wenn bei einer Durchsuchung Schmuggelware gefunden wird, kann der Offizier entscheiden, die Durchsuchung zu einer Ingewahrsamnahme auszuweiten oder einfach die eingeschränkten Gegenstände zu konfiszieren. Nach Abschluss der Durchsuchung sind alle legalen Gegenstände an die Person zurückzugeben.
+  - Dienstkleidung, Ausweis, Siegel, Aktenkoffer, Headset und Diplomatenkurier eines [textlink="Syndikat-Diplomaten" link="SyndicateDiplomat"] sind keine Schmuggelware. Durchsuchung und Festnahme brauchen denselben Anlass wie bei jedem anderen Crewmitglied. Siehe [textlink="R17" link="RuleR17"].
 
   - Ein Crewmitglied darf eine Durchsuchung ohne Durchsuchungsbefehl (Warrant) legal ablehnen, solange die Alarmstufe grün ist. Es ist zu beachten, dass bei Alarmstufe Blau oder höher alle Personendurchsuchungen legal sind und keinen Durchsuchungsbefehl mehr erfordern.
 
