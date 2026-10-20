@@ -90,3 +90,11 @@ Entries:
         „Syndieland-Wintermantel“.
   id: 11
   time: '2026-10-20T00:04:53.0000000+00:00'
+- author: Andre19926
+  changes:
+    - type: Add
+      message: >-
+        Der Syndikat-Diplomat hat einen Guidebook-Eintrag, eine eigene
+        Rollenspielregel und eine Service-SOP.
+  id: 12
+  time: '2026-10-20T10:22:00.0000000+00:00'
