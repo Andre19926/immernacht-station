@@ -241,7 +241,7 @@ public sealed class PartStatusSystem : EntitySystem
 
             message.AddText("    " + Loc.GetString(locString,
                 ("possessive", possessive),
-                ("part", partStatus.PartName),
+                ("part", Content.Shared._Shitmed.BodyPartNames.Localize(partStatus.PartName)),
                 ("status", statusDescription)));
 
             message.PushNewline();

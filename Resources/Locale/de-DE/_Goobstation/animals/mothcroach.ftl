@@ -1,0 +1,10 @@
+ent-MobMothroachMustard = Senf-Mottenschabe
+    .desc = Ein herrliches Ergebnis davon, dass Köche der Welt Fleisch mit Soße gekreuzt haben.
+ent-MobMothroachLeopard = Leoparden-Mottenschabe
+    .desc = Ein charmantes Ergebnis zahlreicher Versuche, Insekten mit Raubtieren zu kreuzen.
+ent-MobMothroachCecropia = Cecropia-Mottenschabe
+    .desc = Ein charmantes Ergebnis zahlreicher Versuche, eine Gattung der Nesselfamilie mit Kakerlaken zu kreuzen.
+ent-MobMothroachLunar = Mond-Mottenschabe
+    .desc = Jemand hat die Motte im Mondlicht zurückgelassen.
+ent-FoodBurgerMustard = Mottenschabenburger
+    .desc = Die letzte Lampe, die sie sah, war die in der Mikrowelle.

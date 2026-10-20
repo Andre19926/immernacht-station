@@ -1,0 +1,5 @@
+game-ticker-get-ingame-info-text = Die aktuelle Runde ist: [color=white]#{$roundId}[/color]
+                                   Die aktuelle Spielerzahl ist: [color=white]{$playerCount}[/color]
+                                   Die aktuelle Karte ist: [color=white]{$mapName}[/color]
+                                   Der aktuelle Spielmodus ist: [color=white]{$gmTitle}[/color]
+                                   >[color=yellow]{$desc}[/color]

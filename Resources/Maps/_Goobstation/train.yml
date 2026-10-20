@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 09/03/2025 14:26:57
-  entityCount: 17842
+  entityCount: 17843
 maps:
 - 1
 grids:
@@ -92239,6 +92239,13 @@ entities:
     components:
     - type: Transform
       pos: 4.5,-285.5
+      parent: 2
+- proto: SpawnPointSyndicateDiplomat
+  entities:
+  - uid: 17843
+    components:
+    - type: Transform
+      pos: -7.5,-119.5
       parent: 2
 - proto: SpawnPointReporter
   entities:

@@ -1,0 +1,2 @@
+language-XenoHivemind-name = Schwarmgeist
+language-XenoHivemind-description = Dies ist keine Sprache im herkömmlichen Sinne, sondern eine Symphonie von Geistern, die mit einem psionischen Feld durch den Bienenstock in Resonanz sind. Es ist ein Fluss von Empfindungen, Bildern, Emotionen und Instinkten, die von einem Xenomorph zum anderen übertragen werden und ein einheitliches kollektives Bewusstsein bilden.

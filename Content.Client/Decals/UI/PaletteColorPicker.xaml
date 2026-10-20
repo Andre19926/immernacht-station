@@ -9,7 +9,7 @@ SPDX-License-Identifier: MIT
     <BoxContainer Orientation="Vertical">
         <ItemList Name="PaletteList" VerticalExpand="True" Access="Public"/>
         <BoxContainer Orientation="Horizontal">
-            <Label Text="Palette"/>
+            <Label Text="{Loc palette-color-picker-label}"/>
             <OptionButton Name="Palettes"/>
         </BoxContainer>
     </BoxContainer>

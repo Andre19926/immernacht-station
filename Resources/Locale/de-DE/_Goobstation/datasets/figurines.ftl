@@ -1,0 +1,22 @@
+figurines-devil-1 = Willst du einem armen Sünder nicht die Hand schütteln?
+figurines-devil-2 = Natürlich kannst du mir vertrauen! Unterschreib einfach diesen Vertrag!
+figurines-devil-3 = Der Kaplan ist ein Betrüger, vertraust du ihm nicht!
+figurines-devil-4 = Hast du schon von der nächsten großen Investment-Krypto gehört? Sie heißt „Goobcoin“ und geht zum Mond!
+figurines-devil-5 = Auftragnehmer? Auftragnehmer? Es ist wirklich dasselbe.
+figurines-devil-6 = CHAPLAIN!! I'M CREW!! I'M CREW!!!
+figurines-devil-7 = Hey! Wohin gehst du mit meinem Codex? Gib ihn zurück!
+figurines-devil-8 = Was? Nein, "Stärke" wird dich stärker machen, vertrau mir einfach!
+figurines-devil-9 = Ich sagte, ich wollte deine "Seele", nicht "Sole". Nimm die Schuhe zurück!
+figurines-devil-10 = Keine Schlampen? Ich kann dabei helfen.
+figurines-devil-11 = Wahrer Name? Darum musst du dir keine Sorgen machen.
+
+figurines-brigmedic-1 = Denkt daran, Team: Ich bin das Einzige, was euch vom sofortigen Tod trennt!
+figurines-brigmedic-2 = Die Heilung ist nicht so lohnend wie die Verletzung.
+figurines-brigmedic-3 = Komm herüber. Ich verspreche dir, dass ich dich heilen werde!
+figurines-brigmedic-4 = Es ist kein Kriegsverbrechen, wenn man Spaß hat.
+figurines-brigmedic-5 = Ups! Das war keine Medizin!
+figurines-brigmedic-6 = Ugh, ich glaube nicht, dass wir genug Leichensäcke mitgebracht haben.
+figurines-brigmedic-7 = Ja, diese grün leuchtende Chemikalie ist völlig nur Pentensäure.
+figurines-brigmedic-8 = Bleib am Leben, ich habe nicht alle meine Medikamente für nichts verschwendet.
+figurines-brigmedic-9 = Genfer Konvention? Mehr wie Geneva Suggestion!
+figurines-brigmedic-10 = Das nennst du eine Wunde? Ich habe von nur einer Kugel schon Schlimmeres gesehen!

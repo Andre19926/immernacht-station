@@ -1,0 +1,13 @@
+medical-item-cant-use-rebell = Du kannst { $target } nicht helfen. Die Blutung ist zu stark …
+cant-heal-damage-container-rebell = Du kannst { $target } mit { $used } nicht helfen.
+rebell-medical-item-stop-bleeding-fully = Du hast die Blutung vollständig gestoppt.
+rebell-medical-item-stop-bleeding-partially = Du hast die Blutung teilweise gestoppt.
+missing-body-part = Der Körperteil fehlt.
+puts-on-a-tourniquet = { CAPITALIZE($user) } legt an: { $part } – eine Aderpresse.
+takes-off-a-tourniquet = { CAPITALIZE($user) } nimmt die Aderpresse ab: { $part }.
+take-off-tourniquet = Aderpresse abnehmen: { $part }
+already-tourniqueted = Eine zweite Aderpresse wäre fatal.
+cant-tourniquet = Hier lässt sich keine Aderpresse anlegen …
+no-wounds-tourniquet = Es gibt keine Wunden, die man abbinden könnte.
+cant-put-tourniquet-here = Hier kannst du keine Aderpresse anlegen.
+medical-item-requires-surgery-rebell = Du hast alles getan, was du konntest. { $target } muss operiert werden.

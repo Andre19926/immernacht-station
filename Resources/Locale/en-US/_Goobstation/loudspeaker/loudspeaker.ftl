@@ -3,3 +3,5 @@ loudspeaker-examine-generic = This has loudspeaker functionality.
 
 loudspeaker-toggle = Toggle loudspeaker
 loudspeaker-toggle-popup = Loudspeaker toggled {$state}.
+loudspeaker-state-on = on
+loudspeaker-state-off = off

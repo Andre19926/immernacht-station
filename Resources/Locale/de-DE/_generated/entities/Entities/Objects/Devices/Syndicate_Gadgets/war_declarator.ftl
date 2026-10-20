@@ -1,0 +1,2 @@
+ent-NukeOpsDeclarationOfWar = Kriegserklärung
+    .desc = Sende dem Ziel eine Kriegserklärung. Dadurch verzögert sich die Abfahrt deines Shuttles, während sich die Station auf deinen Angriff vorbereitet. Ein derart dreister Schritt erregt die Aufmerksamkeit mächtiger Gönner im Syndikat, die dein Team mit einer riesigen Menge an Bonus-Telekristallen versorgen. Muss zu Beginn der Mission verwendet werden, sonst verlieren deine Gönner das Interesse.

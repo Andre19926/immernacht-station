@@ -1,0 +1,204 @@
+ent-XenoArtifactEffectUniversalIntercom = Einmaleffekt
+    .desc = Erlangt die Fähigkeit eines Fernkommunikationsgeräts
+
+ent-XenoArtifactBecomeRandomInstrument = Einmaleffekt
+    .desc = Erlangt die Fähigkeit des Musikinstruments
+
+ent-XenoArtifactStorage = Einmaleffekt
+    .desc = Erlangt die Fähigkeit zur versteckten Speicherung
+
+ent-XenoArtifactPhasing = Einmaleffekt
+    .desc = Wird phasenverschoben
+
+ent-XenoArtifactWandering = Einmaleffekt
+    .desc = Beginnt sich sporadisch zu bewegen
+
+ent-XenoArtifactSolutionStorage = Einmaleffekt
+    .desc = Erlangt die Fähigkeit eines Behälters für chemische Lösungen
+
+ent-XenoArtifactSpeedUp = Einmaleffekt
+    .desc = Verbessert die Bewegungsgeschwindigkeit des Halters
+
+ent-XenoArtifactDrill = Einmaleffekt
+    .desc = Erlangt die Fähigkeit des Bohrers
+
+ent-XenoArtifactGenerateEnergy = Einmaleffekt
+    .desc = Stromerzeuger
+
+ent-XenoArtifactGun = Einmaleffekt
+    .desc = Erlangt die Fähigkeit der Waffe
+
+ent-XenoArtifactGhost = Einmaleffekt
+    .desc = Wird empfindungsfähig
+
+ent-XenoArtifactOmnitool = Einmaleffekt
+    .desc = Erlangt die Fähigkeit eines Omnitools
+
+ent-XenoArtifactEffectBadFeeling = Wirkung
+    .desc = Sendet unterschwellige Nachricht
+
+ent-XenoArtifactEffectGoodFeeling = Wirkung
+    .desc = Sendet unterschwellige Nachricht
+
+ent-XenoArtifactEffectJunkSpawn = Wirkung
+    .desc = Recyclebarer Müll
+
+ent-XenoArtifactEffectLightFlicker = Wirkung
+    .desc = Kleine elektromagnetische Störungen
+
+ent-XenoArtifactPotassiumWave = Wirkung
+    .desc = Produziert Kalium
+
+ent-XenoArtifactFloraSpawn = Wirkung
+    .desc = Erzeugt Pflanzen
+
+ent-XenoArtifactChemicalPuddle = Wirkung
+    .desc = Erzeugt eine Pfütze chemischer Mischung
+
+ent-XenoArtifactThrowThingsAround = Wirkung
+    .desc = Kleine Implosion
+
+ent-XenoArtifactColdWave = Wirkung
+    .desc = Kühlt Umgebungsgas ab
+
+ent-XenoArtifactHeatWave = Wirkung
+    .desc = Erhitzt das umgebende Gas stark
+
+ent-XenoArtifactFoamMild = Wirkung
+    .desc = Produziert chemischen Schaum
+
+ent-XenoArtifactRandomInstrumentSpawn = Wirkung
+    .desc = Erzeugt Musikinstrument
+
+ent-XenoArtifactMonkeySpawn = Wirkung
+    .desc = Erschafft Primaten
+
+ent-XenoArtifactRadioactive = Einmaleffekt
+    .desc = Wird leicht radioaktiv
+
+ent-XenoArtifactChargeBattery = Wirkung
+    .desc = Batterien aufladen
+
+ent-XenoArtifactKnock = Wirkung
+    .desc = Leichte elektromagnetische Störungen
+
+ent-XenoArtifactMagnet = Einmaleffekt
+    .desc = Erzeugt kleinen Gravitationsbrunnen
+
+ent-XenoArtifactMagnetNegative = Einmaleffekt
+    .desc = Erzeugt kleinen Gravitationsbrunnen
+
+ent-XenoArtifactStealth = Einmaleffekt
+    .desc = Erzeugt Lichtinterferenzen
+
+ent-XenoArtifactRareMaterialSpawn = Wirkung
+    .desc = Erzeugt seltene Materialien
+
+ent-XenoArtifactRareMaterialSpawnSilver = Wirkung
+    .desc = Erzeugt seltene Materialien
+
+ent-XenoArtifactRareMaterialSpawnPlasma = Wirkung
+    .desc = Erzeugt Plasma
+
+ent-XenoArtifactRareMaterialSpawnGold = Wirkung
+    .desc = Erzeugt Gold
+
+ent-XenoArtifactRareMaterialSpawnUranium = Wirkung
+    .desc = Erzeugt Uran
+
+ent-XenoArtifactAngryCarpSpawn = Wirkung
+    .desc = Erzeugt feindliche Karpfen
+
+ent-XenoArtifactFaunaSpawn = Wirkung
+    .desc = Erzeugt freundliche Fauna
+
+ent-XenoArtifactHostileFaunaSpawn = Wirkung
+    .desc = Erzeugt feindliche Fauna
+
+ent-XenoArtifactCashSpawn = Wirkung
+    .desc = Erzeugt Geld
+
+ent-XenoArtifactShatterWindows = Wirkung
+    .desc = Zerbricht Fenster
+
+ent-XenoArtifactFoamGood = Wirkung
+    .desc = Erzeugt eine Welle von hilfreichem Schaum
+
+ent-XenoArtifactFoamDangerous = Wirkung
+    .desc = Erzeugt eine Welle von schädlichem Schaum
+
+ent-XenoArtifactPuddleRare = Wirkung
+    .desc = Erzeugt eine Pfütze hilfreicher Chemikalien
+
+ent-XenoArtifactAnomalySpawn = Einmaleffekt
+    .desc = Erzeugt Anomalien
+
+ent-XenoArtifactIgnite = Wirkung
+    .desc = Pyrokinese
+
+ent-XenoArtifactTeleport = Wirkung
+
+ent-XenoArtifactEmp = Wirkung
+    .desc = Gefährliche elektromagnetische Störungen
+
+ent-XenoArtifactPolyMonkey = Wirkung
+    .desc = Verwandelt Fleisch vorübergehend in Fell
+
+ent-XenoArtifactPolyLizard = Wirkung
+    .desc = Verwandelt Fleisch vorübergehend in Schuppen
+
+ent-XenoArtifactPolyLuminous = Wirkung
+    .desc = Verwandelt Fleisch vorübergehend in Licht
+
+ent-XenoArtifactRadioactiveStrong = Einmaleffekt
+    .desc = Wird stark radioaktiv
+
+ent-XenoArtifactMaterialSpawnGlass = Wirkung
+    .desc = Erzeugt Glas
+
+ent-XenoArtifactMaterialSpawnSteel = Wirkung
+    .desc = Erzeugt Stahl
+
+ent-XenoArtifactMaterialSpawnPlastic = Wirkung
+    .desc = Erzeugt Plastik
+
+ent-XenoArtifactPortal = Wirkung
+    .desc = Erzeugt kurzlebiges Bluespace-Portal
+
+ent-XenoArtifactArtifactSpawn = Wirkung
+    .desc = Erzeugt ein Artefakt
+
+ent-XenoArtifactShuffle = Wirkung
+    .desc = Lässt fühlende Wesen die Plätze tauschen
+
+ent-XenoArtifactHealAll = Wirkung
+    .desc = Wunderheilung
+
+ent-XenoArtifactTesla = Einmaleffekt
+    .desc = Massenvernichtung
+
+ent-XenoArtifactSingularity = Einmaleffekt
+    .desc = Unmittelbarer Untergang
+
+ent-XenoArtifactExplosionScary = Einmaleffekt
+    .desc = Kernreaktion im kleinen Maßstab
+
+ent-XenoArtifactBoom = Einmaleffekt
+
+ent-XenoArtifactEffectCreationGasPlasma = Wirkung
+    .desc = Verdrängt Plasma
+
+ent-XenoArtifactEffectCreationGasTritium = Wirkung
+    .desc = Verdrängt Tritium
+
+ent-XenoArtifactEffectCreationGasAmmonia = Wirkung
+    .desc = Verdrängt Ammoniak
+
+ent-XenoArtifactEffectCreationGasFrezon = Wirkung
+    .desc = Verdrängt Frezon
+
+ent-XenoArtifactEffectCreationGasNitrousOxide = Wirkung
+    .desc = Vertreibt Lachgas
+
+ent-XenoArtifactEffectCreationGasCarbonDioxide = Wirkung
+    .desc = Vertreibt Kohlendioxid

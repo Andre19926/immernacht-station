@@ -1,0 +1,1 @@
+consume-on-salt-line-component-not-enough-salt-message = Nicht genug Salz, um eine Salzlinie zu schaffen!

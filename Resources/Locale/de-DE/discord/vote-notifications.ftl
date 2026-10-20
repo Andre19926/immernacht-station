@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2024 SlamBamActionman <83650252+SlamBamActionman@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 Winkarst <74284083+Winkarst-cpu@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+custom-vote-webhook-name = Eigene Abstimmung gestartet
+custom-vote-webhook-footer = Server: { $serverName }, Runde: { $roundId } { $runLevel }
+custom-vote-webhook-cancelled = **Abstimmung abgebrochen**
+custom-vote-webhook-option-pending = TBD
+custom-vote-webhook-option-cancelled = N/A
+
+votekick-webhook-name = Votekick gestartet
+votekick-webhook-description = Initiator: { $initiator }; Ziel: { $target }
+votekick-webhook-cancelled-admin-online = **Abstimmung abgebrochen, weil Admins online sind**
+votekick-webhook-cancelled-admin-target = **Abstimmung abgebrochen, weil das Ziel Admin ist**
+votekick-webhook-cancelled-antag-target = **Abstimmung abgebrochen, weil das Ziel Antagonist ist**
+
+votekick-ban-reason = „Votekick: {$reason}“

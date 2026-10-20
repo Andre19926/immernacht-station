@@ -1,0 +1,12 @@
+phantom-pain-line-1 = Berühr mich nicht. Ich habe Phantomschmerzen.
+phantom-pain-line-2 = Ich rufe die Admins, wenn du mich nochmal schlägst, ich habe Phantomschmerzen.
+phantom-pain-line-3 = Au. Au. Das tut wirklich weh, ich habe Phantomschmerzen
+phantom-pain-line-4 = Kannst du bitte aufhören? Meine Phantomschmerzen spielen verrückt.
+phantom-pain-line-5 = Ich habe buchstäblich Phantomschmerzen in diesem Arm.
+phantom-pain-line-6 = Ich ahelpe das übrigens, Phantomschmerzen sind kein Witz.
+phantom-pain-line-7 = Hey, ooc, schlag mich nicht dort. Phantomschmerzen. Danke.
+phantom-pain-line-8 = Jedes Mal, wenn du mich triffst, flammt mein Phantomschmerz auf, bitte hör auf.
+phantom-pain-line-9 = Ich metagame nicht, ich habe nur Phantomschmerzen.
+phantom-pain-line-10 = STOPP. PHANTOMSCHMERZEN.
+phantom-pain-line-11 = Ich habe eine Erkrankung (Phantomschmerzen), bitte respektiere das.
+phantom-pain-line-12 = Das ist das dritte Mal. Ich zähle. Phantomschmerzen.

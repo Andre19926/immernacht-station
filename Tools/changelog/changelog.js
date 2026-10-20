@@ -156,12 +156,26 @@ function writeChangelog(entry) {
 
     data.Entries.push(entry);
 
-    // Write updated changelogs file
+    // Write updated changelogs file. Name and Order stay as they are in the
+    // target file. CHANGELOG_NAME / CHANGELOG_ORDER override them; a new file
+    // still starts as Gooblog / -1.
     fs.writeFileSync(
         `../../${process.env.CHANGELOG_DIR}`,
-        "Name: Gooblog\nOrder: -1\nEntries:\n" + // IF YOU ARE A FORK, CHANGE THIS!!!!!!!!!!!!
+        changelogHeader(data) +
             yaml.dump(data.Entries, { indent: 2 }).replace(/^---/, "")
     );
+}
+
+function changelogHeader(data) {
+    const name = process.env.CHANGELOG_NAME || data.Name || "Gooblog";
+    const order = process.env.CHANGELOG_ORDER !== undefined && process.env.CHANGELOG_ORDER !== ""
+        ? process.env.CHANGELOG_ORDER
+        : (data.Order !== undefined && data.Order !== null ? data.Order : -1);
+
+    let header = `Name: ${name}\nOrder: ${order}\n`;
+    if (data.AdminOnly === true)
+        header += "AdminOnly: true\n";
+    return header + "Entries:\n";
 }
 
 // Run main

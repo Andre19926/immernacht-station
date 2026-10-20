@@ -1,0 +1,17 @@
+stack-black-wood-tile = schwarze Holzkachel
+stack-dark-wood-tile = dunkle Holzkachel
+stack-light-wood-tile = leichte Holzkacheln
+stack-red-wood-tile = rote Holzkachel
+stack-black-large-wood-tile = große schwarze Holzkachel
+stack-dark-large-wood-tile = große dunkle Holzkachel
+stack-light-large-wood-tile = Große leichte Holzkachel
+stack-red-large-wood-tile = Große rote Holzkachel
+stack-black-parquet-wood-tile = Schwarzholzparkettkacheln
+stack-dark-parquet-wood-tile = dunkle Holzparkettziegel
+stack-light-parquet-wood-tile = Leichtholzparkettziegel
+stack-red-parquet-wood-tile = rote Holzparkettziegel
+stack-chess-wood-tile = Holzschachziegel
+stack-black-chess-wood-tile = Schachsteine aus schwarzem Holz
+stack-dark-chess-wood-tile = dunkle Holzschachsteine
+stack-light-chess-wood-tile = leichte Holzschachsteine
+stack-red-chess-wood-tile = Schachsteine aus rotem Holz

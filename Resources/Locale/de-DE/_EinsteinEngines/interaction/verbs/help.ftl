@@ -1,0 +1,40 @@
+interaction-HelpUp-name = Hilf 
+interaction-HelpUp-description = Hilf der Person aufzustehen.
+interaction-HelpUp-delayed-self-popup = Du versuchst, {THE($target)} beim Aufstehen zu helfen ...
+interaction-HelpUp-delayed-target-popup = {CAPITALIZE(THE($user))} versucht, dir beim Aufstehen zu helfen ...
+interaction-HelpUp-delayed-others-popup = {CAPITALIZE(THE($user))} versucht, {THE($target)} beim Aufstehen zu helfen ...
+interaction-HelpUp-success-self-popup = Du hilfst {THE($target)} beim Aufstehen.
+interaction-HelpUp-success-target-popup = {CAPITALIZE(THE($user))} hilft dir auf.
+interaction-HelpUp-success-others-popup = {CAPITALIZE(THE($user))} hilft {THE($target)} auf.
+interaction-HelpUp-fail-self-popup = Es gelingt dir nicht, {THE($target)} beim Aufstehen zu helfen.
+interaction-HelpUp-fail-target-popup = {CAPITALIZE(THE($user))} schafft es nicht, dir aufzuhelfen.
+
+interaction-ForceDown-name = Kraft nach unten
+interaction-ForceDown-description = Zwinge die Person, sich auf den Boden zu legen.
+interaction-ForceDown-delayed-self-popup = Du versuchst, {THE($target)} zu Boden zu drücken ...
+interaction-ForceDown-delayed-target-popup = {CAPITALIZE(THE($user))} versucht, dich zu Boden zu drücken ...
+interaction-ForceDown-delayed-others-popup = {CAPITALIZE(THE($user))} versucht, {THE($target)} zu Boden zu drücken ...
+interaction-ForceDown-success-self-popup = Du zwingst {THE($target)} dazu, sich hinzulegen.
+interaction-ForceDown-success-target-popup = {CAPITALIZE(THE($user))} zwingt dich, dich hinzulegen.
+interaction-ForceDown-success-others-popup = {CAPITALIZE(THE($user))} zwingt {THE($target)}, sich hinzulegen.
+interaction-ForceDown-fail-self-popup = Es gelingt dir nicht, {THE($target)} zu Boden zu drücken.
+interaction-ForceDown-fail-target-popup = {CAPITALIZE(THE($user))} schafft es nicht, dich zu Boden zu drücken.
+
+interaction-MakeSleepOther-name = Schlaf machen
+interaction-MakeSleepOther-description = Setze das Ziel in den Schlaf.
+interaction-MakeSleepOther-delayed-self-popup = Du versuchst, {THE($target)} in den Schlaf zu versetzen ...
+interaction-MakeSleepOther-delayed-target-popup = {CAPITALIZE(THE($user))} versucht, dich in den Schlaf zu versetzen ...
+interaction-MakeSleepOther-delayed-others-popup = {CAPITALIZE(THE($user))} versucht, {THE($target)} in den Schlaf zu versetzen ...
+interaction-MakeSleepOther-fail-self-popup = Du schaffst es nicht, {THE($target)} einzuschläfern.
+interaction-MakeSleepOther-fail-target-popup = {THE($user)} schafft es nicht, dich einzuschläfern.
+interaction-MakeSleepOther-success-self-popup = Du versetzt {THE($target)} in den Schlaf.
+interaction-MakeSleepOther-success-target-popup = {CAPITALIZE(THE($user))} versetzt dich in den Schlaf.
+interaction-MakeSleepOther-success-others-popup = {CAPITALIZE(THE($user))} versetzt {THE($target)} in den Schlaf.
+
+interaction-ShakeOther-name = Schütteln
+interaction-ShakeOther-description = Schüttle das Ziel.
+interaction-ShakeOther-fail-self-popup = Du schaffst es irgendwie nicht, {THE($target)} zu schütteln.
+interaction-ShakeOther-fail-target-popup = {CAPITALIZE(THE($user))} schafft es irgendwie nicht, dich zu schütteln.
+interaction-ShakeOther-success-self-popup = Du packst und schüttelst {THE($target)}.
+interaction-ShakeOther-success-target-popup = {THE($user)} packt und schüttelt dich.
+interaction-ShakeOther-success-others-popup = {CAPITALIZE(THE($user))} packt und schüttelt {THE($target)}.

@@ -1,0 +1,14 @@
+cmd-atvrange-desc = Setzt den Atmos-Debug-Bereich (als zwei Floats, Anfang [red] und Ende [blue])
+cmd-atvrange-help = Verwendung: {$command} <start> <end>
+cmd-atvrange-error-start = Ungültiger Float START
+cmd-atvrange-error-end = Ungültiger Float END
+cmd-atvrange-error-zero = Die Skala darf nicht null sein, da dies im AtmosDebugOverlay zu einer Division durch null führen würde.
+cmd-atvmode-desc = Setzt den Atmos-Debug-Modus. Die Skala wird dabei automatisch zurückgesetzt.
+cmd-atvmode-help = Verwendung: {$command} <TotalMoles/GasMoles/Temperature> [<gas ID (for GasMoles)>]
+cmd-atvmode-error-invalid = Ungültiger Modus
+cmd-atvmode-error-target-gas = Für diesen Modus muss ein Zielgas angegeben werden.
+cmd-atvmode-error-out-of-range = Gas-ID nicht lesbar oder außerhalb des Bereichs.
+cmd-atvmode-error-info = Für diesen Modus sind keine weiteren Angaben nötig.
+cmd-atvcbm-desc = Wechselt von Rot/Grün/Blau zu Graustufen
+cmd-atvcbm-help = Verwendung: {$command} <true/false>
+cmd-atvcbm-error = Ungültiges Flag

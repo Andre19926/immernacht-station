@@ -1,0 +1,202 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Eigener Uplink fuer den Syndikat-Diplomaten.
+# - Eigene Waehrung ("Gefallen"), nicht mit Telekristallen kompatibel.
+# - Eigene Kategorien, keine Waffen/Sprengstoffe/Implantate.
+# - Startguthaben 30 Gefallen.
+
+- type: currency
+  id: DiplomaticFavor
+  displayName: store-currency-display-diplomatic-favor
+  canWithdraw: false
+
+- type: storeCategory
+  id: DiplomatLifestyle
+  name: store-category-diplomat-lifestyle
+  priority: 0
+
+- type: storeCategory
+  id: DiplomatGifts
+  name: store-category-diplomat-gifts
+  priority: 1
+
+- type: storeCategory
+  id: DiplomatOffice
+  name: store-category-diplomat-office
+  priority: 2
+
+- type: storeCategory
+  id: DiplomatSafety
+  name: store-category-diplomat-safety
+  priority: 3
+
+- type: entity
+  id: StorePresetDiplomat
+  abstract: true
+  components:
+  - type: Store
+    name: store-preset-name-diplomat
+    categories:
+    - DiplomatLifestyle
+    - DiplomatGifts
+    - DiplomatOffice
+    - DiplomatSafety
+    currencyWhitelist:
+    - DiplomaticFavor
+    balance:
+      DiplomaticFavor: 30
+
+- type: entity
+  parent: [ BaseItem, StorePresetDiplomat ]
+  id: SyndicateDiplomatUplink
+  name: diplomatic courier
+  description: A discreet courier terminal of the Syndicate diplomatic corps. Trades favors for lifestyle goods, gifts and office supplies.
+  components:
+  - type: Sprite
+    sprite: Objects/Devices/communication.rsi
+    layers:
+    - state: radio
+  - type: Item
+    sprite: Objects/Devices/communication.rsi
+    heldPrefix: radio
+  - type: UserInterface
+    interfaces:
+      enum.StoreUiKey.Key:
+        type: StoreBoundUserInterface
+  - type: ActivatableUI
+    key: enum.StoreUiKey.Key
+  # Kein Schmuggelgut: der Gesandte traegt sein Terminal offen.
+
+# --- Lifestyle ---
+- type: listing
+  id: DiplomatCigarettes
+  name: diplomat-listing-cigarettes-name
+  description: diplomat-listing-cigarettes-desc
+  productEntity: CigPackSyndicate
+  cost:
+    DiplomaticFavor: 6
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatCigars
+  name: diplomat-listing-cigars-name
+  description: diplomat-listing-cigars-desc
+  productEntity: CigarGoldCase
+  cost:
+    DiplomaticFavor: 8
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatLighter
+  name: diplomat-listing-lighter-name
+  description: diplomat-listing-lighter-desc
+  productEntity: FlippoLighter
+  cost:
+    DiplomaticFavor: 2
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatSnack
+  name: diplomat-listing-snack-name
+  description: diplomat-listing-snack-desc
+  productEntity: FoodSnackSyndi
+  cost:
+    DiplomaticFavor: 2
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatCognac
+  name: diplomat-listing-cognac-name
+  description: diplomat-listing-cognac-desc
+  productEntity: DrinkBottleCognac
+  cost:
+    DiplomaticFavor: 4
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatChampagne
+  name: diplomat-listing-champagne-name
+  description: diplomat-listing-champagne-desc
+  productEntity: DrinkChampagneBottleFull
+  cost:
+    DiplomaticFavor: 4
+  categories:
+  - DiplomatLifestyle
+
+- type: listing
+  id: DiplomatWine
+  name: diplomat-listing-wine-name
+  description: diplomat-listing-wine-desc
+  productEntity: DrinkWineBottleFull
+  cost:
+    DiplomaticFavor: 3
+  categories:
+  - DiplomatLifestyle
+
+# --- Gefaelligkeiten / Geschenke ---
+- type: listing
+  id: DiplomatPlushie
+  name: diplomat-listing-plushie-name
+  description: diplomat-listing-plushie-desc
+  productEntity: PlushieNuke
+  cost:
+    DiplomaticFavor: 3
+  categories:
+  - DiplomatGifts
+
+- type: listing
+  id: DiplomatEnvelope
+  name: diplomat-listing-envelope-name
+  description: diplomat-listing-envelope-desc
+  productEntity: SpaceCash500
+  cost:
+    DiplomaticFavor: 8
+  categories:
+  - DiplomatGifts
+
+# --- Buero ---
+- type: listing
+  id: DiplomatPaperBin
+  name: diplomat-listing-paperbin-name
+  description: diplomat-listing-paperbin-desc
+  productEntity: PaperBin10
+  cost:
+    DiplomaticFavor: 2
+  categories:
+  - DiplomatOffice
+
+- type: listing
+  id: DiplomatFolder
+  name: diplomat-listing-folder-name
+  description: diplomat-listing-folder-desc
+  productEntity: BoxFolderBlackEmpty
+  cost:
+    DiplomaticFavor: 1
+  categories:
+  - DiplomatOffice
+
+- type: listing
+  id: DiplomatStamp
+  name: diplomat-listing-stamp-name
+  description: diplomat-listing-stamp-desc
+  productEntity: RubberStampSyndicateDiplomat
+  cost:
+    DiplomaticFavor: 2
+  categories:
+  - DiplomatOffice
+
+# --- Selbstschutz (einzige Option, keine Waffe) ---
+- type: listing
+  id: DiplomatFlash
+  name: diplomat-listing-flash-name
+  description: diplomat-listing-flash-desc
+  productEntity: Flash
+  cost:
+    DiplomaticFavor: 10
+  categories:
+  - DiplomatSafety

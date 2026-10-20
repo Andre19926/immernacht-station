@@ -1,0 +1,1 @@
+ent-SpawnPointGhostHastur = Geisterrollen-Spawnpunkt

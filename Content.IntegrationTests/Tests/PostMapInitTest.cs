@@ -559,15 +559,25 @@ namespace Content.IntegrationTests.Tests
 
                     var spawnPoints = entManager.EntityQuery<SpawnPointComponent>()
                         .Where(x => x.SpawnType == SpawnPointType.Job && x.Job != null)
-                        .Select(x => x.Job.Value);
+                        .Select(x => x.Job!.Value)
+                        .ToHashSet();
 
-                    jobs.ExceptWith(spawnPoints);
-
-                    spawnPoints = entManager.EntityQuery<ContainerSpawnPointComponent>()
+                    spawnPoints.UnionWith(entManager.EntityQuery<ContainerSpawnPointComponent>()
                         .Where(x => x.SpawnType is SpawnPointType.Job or SpawnPointType.Unset && x.Job != null)
-                        .Select(x => x.Job.Value);
+                        .Select(x => x.Job!.Value));
 
                     jobs.ExceptWith(spawnPoints);
+
+                    // Jobs may name another job's markers instead of painting their own (FallbackSpawnJob).
+                    foreach (var jobId in jobs.ToArray())
+                    {
+                        if (protoManager.TryIndex(jobId, out JobPrototype? job) &&
+                            job.FallbackSpawnJob is { } fallback &&
+                            spawnPoints.Contains(fallback))
+                        {
+                            jobs.Remove(jobId);
+                        }
+                    }
 
                     Assert.That(jobs,
                         Is.Empty,

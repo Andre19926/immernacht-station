@@ -1,0 +1,1 @@
+ent-SpawnPointCosmicColossus = Geisterrollen-Spawnpunkt

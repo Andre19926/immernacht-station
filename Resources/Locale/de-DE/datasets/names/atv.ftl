@@ -1,0 +1,16 @@
+descriptions-atv-dataset-1 = All-Tile Fahrzeug.
+descriptions-atv-dataset-2 = Ant-Thwarting Fahrzeug.
+descriptions-atv-dataset-3 = Jederzeit Gemüse.
+descriptions-atv-dataset-4 = Eigentlich zwei Fahrzeuge.
+descriptions-atv-dataset-5 = Eine beliebige Variable.
+descriptions-atv-dataset-6 = Assisted-Trauma-Fahrzeug.
+descriptions-atv-dataset-7 = Algorithmus-übertragener Virus.
+descriptions-atv-dataset-8 = Alkohol-Kleinkind-Vakanz.
+descriptions-atv-dataset-9 = Asshole-Tearing Vulkan.
+descriptions-atv-dataset-10 = A-Tele Vision.
+descriptions-atv-dataset-11 = Ungeschickter Vagabond.
+descriptions-atv-dataset-12 = Kunst-Tragedy Volunteer.
+descriptions-atv-dataset-13 = Automatic-Taco Vacancy.
+descriptions-atv-dataset-14 = Eine andere schreckliche Ansicht.
+descriptions-atv-dataset-15 = All-The Virgins.
+descriptions-atv-dataset-16 = A-Schreckliches Fahrzeug.

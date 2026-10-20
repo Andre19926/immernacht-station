@@ -1,0 +1,64 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Syndikat-Diplomat: offener Gesandter des Syndikats auf der Station.
+# Kein Antagonist, keine Waffen, Buero-Zugang. Untersteht dem Kapitaen.
+
+- type: playTimeTracker
+  id: JobSyndicateDiplomat
+
+- type: job
+  id: SyndicateDiplomat
+  name: job-name-syndicate-diplomat
+  description: job-description-syndicate-diplomat
+  playTimeTracker: JobSyndicateDiplomat
+  requirements:
+  - !type:OverallPlaytimeRequirement
+    time: 5h
+  # Voraussetzung: Spielzeit als Syndikat-Agent (Tracker AntagSyndicateAgent). Zeit hier aendern.
+  - !type:RoleTimeRequirement
+    role: AntagSyndicateAgent
+    time: 50h
+  startingGear: SyndicateDiplomatGear
+  icon: "JobIconSyndicate"
+  supervisors: job-supervisors-captain
+  canBeAntag: false
+  joinNotifyCrew: true # Ankunftstext fuer die Crew
+  # Kein eigener Marker auf den Maps: zum Rundenstart an den Passagier-Spawnpunkten.
+  fallbackSpawnJob: Passenger
+  goobcoins: 10
+  access:
+  - Service
+  - Bar
+  - Theatre
+
+- type: startingGear
+  id: SyndicateDiplomatGear
+  equipment:
+    shoes: ClothingShoesBootsLaceup
+    id: SyndicateDiplomatPDA
+    ears: ClothingHeadsetSyndicateDiplomat
+    pocket1: SyndicateDiplomatUplink
+  inhand:
+  - BriefcaseSyndicateDiplomatFilled
+
+- type: chameleonOutfit
+  id: SyndicateDiplomatChameleonOutfit
+  job: SyndicateDiplomat
+  equipment:
+    head: ClothingHeadHatBowlerHat
+    eyes: ClothingEyesGlassesCheapSunglasses
+    mask: ClothingMaskBreath
+    neck: ClothingNeckTieRed
+    gloves: ClothingHandsGlovesColorBlack
+
+- type: entity
+  id: SpawnPointSyndicateDiplomat
+  parent: SpawnPointJobBase
+  name: syndicate diplomat
+  components:
+  - type: SpawnPoint
+    job_id: SyndicateDiplomat
+  - type: Sprite
+    layers:
+    - state: green
+    - state: lawyer

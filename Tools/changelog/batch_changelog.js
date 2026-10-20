@@ -169,9 +169,21 @@ function writeChangelog(newEntries) {
 
     fs.writeFileSync(
         path,
-        "Name: Gooblog\nOrder: -1\nEntries:\n" +
+        changelogHeader(data) +
             yaml.dump(data.Entries, { indent: 2 }).replace(/^---/, "")
     );
+}
+
+function changelogHeader(data) {
+    const name = process.env.CHANGELOG_NAME || data.Name || "Gooblog";
+    const order = process.env.CHANGELOG_ORDER !== undefined && process.env.CHANGELOG_ORDER !== ""
+        ? process.env.CHANGELOG_ORDER
+        : (data.Order !== undefined && data.Order !== null ? data.Order : -1);
+
+    let header = `Name: ${name}\nOrder: ${order}\n`;
+    if (data.AdminOnly === true)
+        header += "AdminOnly: true\n";
+    return header + "Entries:\n";
 }
 
 main().catch((err) => {

@@ -1,0 +1,20 @@
+lathe-recipe-BaseTranslatorImplanter-name = Übersetzer-Implantator
+
+lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = Common-Übersetzerimplantat
+lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = Erweitertes Common-Übersetzerimplantat
+lathe-recipe-BubblishTranslatorImplanter-subname = Bubblish-Übersetzerimplantat
+lathe-recipe-NekomimeticTranslatorImplanter-subname = Nekomimetic-Übersetzerimplantat
+lathe-recipe-DraconicTranslatorImplanter-subname = Sinta'Unathi-Übersetzerimplantat
+lathe-recipe-CanilunztTranslatorImplanter-subname = Canilunzt-Übersetzerimplantat
+lathe-recipe-SolCommonTranslatorImplanter-subname = Sol-Common-Übersetzerimplantat
+lathe-recipe-ChittinTranslatorImplanter-subname = Chittin-Übersetzerimplantat
+lathe-recipe-RootSpeakTranslatorImplanter-subname = Rootspeak-Übersetzerimplantat
+lathe-recipe-MofficTranslatorImplanter-subname = Moffic-Übersetzerimplantat
+lathe-recipe-ValyrianStandardTranslatorImplanter-subname = Valyrian-Standard-Übersetzerimplantat
+lathe-recipe-SiikMaasTranslatorImplanter-subname = Siik'maas-Übersetzerimplantat
+lathe-recipe-MarishTranslatorImplanter-subname = Marisch-Übersetzerimplantat
+lathe-recipe-SchechiTranslatorImplanter-subname = Schechi-Übersetzerimplantat
+lathe-recipe-NewKinPidginTranslatorImplanter-subname = Ka'rakk-Übersetzerimplantat
+lathe-recipe-ChevalTranslatorImplanter-subname = Cheval-Übersetzerimplantat
+lathe-recipe-YowKriolTranslatorImplanter-subname = Yow-Kriol-Übersetzerimplantat
+lathe-recipe-SignTranslatorImplanter-subname = Gebärdensprachen-Übersetzerimplantat

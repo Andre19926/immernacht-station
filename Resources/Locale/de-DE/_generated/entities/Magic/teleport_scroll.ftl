@@ -1,0 +1,1 @@
+ent-WizardTeleportScroll = Teleport-Schriftrolle

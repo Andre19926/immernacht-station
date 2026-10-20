@@ -1,0 +1,17 @@
+names-regal-rat-title-dataset-1 = König
+names-regal-rat-title-dataset-2 = Herr
+names-regal-rat-title-dataset-3 = Prinz
+names-regal-rat-title-dataset-4 = Kaiser
+names-regal-rat-title-dataset-5 = Höchstbetrag
+names-regal-rat-title-dataset-6 = Overlord
+names-regal-rat-title-dataset-7 = Kapitän
+names-regal-rat-title-dataset-8 = Shogun
+names-regal-rat-title-dataset-9 = Bojar
+names-regal-rat-title-dataset-10 = Tsar
+names-regal-rat-title-dataset-11 = Fan #vs
+names-regal-rat-title-dataset-12 = Genuss
+names-regal-rat-title-dataset-13 = Präsident
+names-regal-rat-title-dataset-14 = Bürgermeister
+names-regal-rat-title-dataset-15 = Boss
+names-regal-rat-title-dataset-16 = Prophet
+names-regal-rat-title-dataset-17 = Käse

@@ -1,0 +1,1 @@
+ent-HandPlaceholder = unbekanntes Werkzeug

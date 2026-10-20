@@ -1,0 +1,72 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Stempel: gleiche Optik/Farbe wie der Syndikat-Stempel, aber kein Schmuggelgut.
+- type: entity
+  name: diplomatic seal stamp
+  parent: RubberStampBase
+  id: RubberStampSyndicateDiplomat
+  description: The official seal of a Syndicate envoy. Makes any treaty look very binding.
+  categories: [ DoNotMap ]
+  components:
+  - type: Stamp
+    stampedName: stamp-component-stamped-name-syndicate
+    stampedColor: "#850000"
+    stampState: "paper_stamp-syndicate"
+    stampLargeIcon: "large_stamp-syndicate"
+  - type: Sprite
+    state: stamp-syndicate
+
+# Vertragsvorlagen
+- type: entity
+  parent: Paper
+  id: PaperSyndicateDiplomatTradeAgreement
+  name: trade agreement (template)
+  description: A blank trade agreement template with Syndicate letterhead.
+  components:
+  - type: Paper
+    content: syndicate-diplomat-paper-trade
+
+- type: entity
+  parent: Paper
+  id: PaperSyndicateDiplomatNonAggression
+  name: non-aggression pact (template)
+  description: A blank non-aggression pact template. Valid for as long as both sides feel like it.
+  components:
+  - type: Paper
+    content: syndicate-diplomat-paper-nonaggression
+
+- type: entity
+  parent: Paper
+  id: PaperSyndicateDiplomatFavor
+  name: favor contract (template)
+  description: A blank favor contract template. Favors are tradable. Interest applies.
+  components:
+  - type: Paper
+    content: syndicate-diplomat-paper-favor
+
+# Aktenkoffer
+- type: entity
+  parent: BriefcaseBrown
+  id: BriefcaseSyndicateDiplomat
+  name: diplomatic briefcase
+  suffix: Empty
+  description: A sturdy briefcase with a discreet red Syndicate crest. Official envoys only.
+
+- type: entity
+  parent: BriefcaseSyndicateDiplomat
+  id: BriefcaseSyndicateDiplomatFilled
+  suffix: Filled
+  components:
+  - type: EntityTableContainerFill
+    containers:
+      storagebase: !type:AllSelector
+        children:
+        - id: RubberStampSyndicateDiplomat
+        - id: RubberStampApproved
+        - id: RubberStampDenied
+        - id: LuxuryPen
+        - id: PaperSyndicateDiplomatTradeAgreement
+        - id: PaperSyndicateDiplomatNonAggression
+        - id: PaperSyndicateDiplomatFavor
+        - id: Paper
+          amount: 4

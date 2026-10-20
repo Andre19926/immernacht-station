@@ -1,0 +1,38 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Kanaele: Common (Station), Service (Stationsdienst) und Syndicate (Syndikat).
+# Bewusst KEIN Command/Security/Engineering etc. - der Diplomat soll nicht mitlauschen.
+
+- type: entity
+  parent: [ EncryptionKey ]
+  id: EncryptionKeySyndicateDiplomat
+  name: diplomatic encryption key
+  description: An encryption key for station-wide and Syndicate channels, issued to official envoys.
+  components:
+  - type: EncryptionKey
+    channels:
+    - Common
+    - Service
+    - Syndicate
+    defaultChannel: Common
+  - type: Sprite
+    layers:
+    - state: crypt_red
+    - state: synd_label
+
+- type: entity
+  parent: ClothingHeadsetAlt
+  id: ClothingHeadsetSyndicateDiplomat
+  name: diplomatic over-ear headset
+  description: A blood-red over-ear headset for official Syndicate envoys. Tuned to the station channels and the Syndicate channel.
+  components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeySyndicateDiplomat
+  - type: EncryptionKeyHolder
+    keySlots: 4
+  - type: Sprite
+    sprite: Clothing/Ears/Headsets/syndicate.rsi
+  - type: Clothing
+    sprite: Clothing/Ears/Headsets/syndicate.rsi

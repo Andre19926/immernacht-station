@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: 2022 Fishfish458 <47410468+Fishfish458@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 fishfish458 <fishfish458>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
+advertisement-goodcleanfun-1 = Flieh in eine Fantasiewelt!
+advertisement-goodcleanfun-2 = Füttere deine Spielsucht!
+advertisement-goodcleanfun-3 = Ruiniere deine Freundschaften!
+advertisement-goodcleanfun-4 = Würfle auf Initiative!
+advertisement-goodcleanfun-5 = Elfen und Zwerge!
+advertisement-goodcleanfun-6 = Paranoide Computer!
+advertisement-goodcleanfun-7 = Garantiert nicht satanisch!
+advertisement-goodcleanfun-8 = Spaß für alle Ewigkeit!
+advertisement-goodcleanfun-9 = Katakomben und Karpfen!
+advertisement-goodcleanfun-10 = Spiel mit Freunden!
+thankyou-goodcleanfun-1 = Viel Spaß!
+thankyou-goodcleanfun-2 = Jetzt spielst du mit Power!
+thankyou-goodcleanfun-3 = Auf geht's, zocken!
+thankyou-goodcleanfun-4 = Fang an, deine Charakterbögen auszufüllen!

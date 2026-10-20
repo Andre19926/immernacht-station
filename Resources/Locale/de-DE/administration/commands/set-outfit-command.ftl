@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Kara <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Brandon Hu <103440971+Brandon-Huu@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+cmd-setoutfit-desc = Legt das Outfit der angegebenen Entität fest. Die Entität muss die Komponente {$requiredComponent} haben.
+cmd-setoutfit-help = Verwendung: setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
+cmd-setoutfit-is-not-player-error = Von der Serverkonsole aus erfordert dieser Befehl beide Argumente.
+cmd-setoutfit-invalid-outfit-id-error = Ungültige Outfit-ID.

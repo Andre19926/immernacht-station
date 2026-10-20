@@ -1,0 +1,38 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Syndikat-Veteran (Immernacht): rein kosmetische Passagier-Loadouts,
+# freigeschaltet durch Spielzeit als Syndikat-Agent (Tracker AntagSyndicateAgent).
+# Keine Werte, keine Ruestung: alle Items sind auch im Kleiderautomaten/Lathe erhaeltlich.
+
+- type: loadoutEffectGroup
+  id: SyndicateVeteran
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:RoleTimeRequirement
+      role: AntagSyndicateAgent
+      time: 25h # Immernacht: leicht aenderbar
+
+- type: loadout
+  id: SyndicateVeteranSuit
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SyndicateVeteran
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSyndieFormal
+
+- type: loadout
+  id: SyndicateVeteranDress
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SyndicateVeteran
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSyndieFormalDress
+
+- type: loadout
+  id: SyndicateVeteranScarf
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SyndicateVeteran
+  equipment:
+    neck: ClothingNeckScarfStripedSyndieRed

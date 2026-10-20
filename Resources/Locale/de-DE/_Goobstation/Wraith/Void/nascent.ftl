@@ -1,0 +1,3 @@
+ghost-role-information-nascent-name = Entstehender Kokon
+ghost-role-information-nascent-description = Du bist nur ein Kokon, vom Phantomgeist aus der Leere gerufen. Wähle eine von drei Kreaturen, zu der du werden willst: den Skelettkommandanten, der andere Diener um sich scharen und kleinere Skelette beschwören kann; den Leerenhund, der sich tarnen und aus den Schatten hervorspringen kann; oder den Leerenstachler, eine Kreatur mit Tentakelhaken und einem Gift, das Schläfrigkeit verursacht.
+ghost-role-information-nascent-rules = Du bist ein Geschöpf aus der Leere, vom Phantomgeist gerufen. Befolge seine Befehle und richte so viel Chaos an, wie du kannst.

@@ -1,0 +1,80 @@
+ent-RevsFastDrawImplanter = Schnellzieh-Implantator
+    .desc = Eine Spritze mit Werkzeugen zur schnellen Implantatentfernung. Auf ihrem Körper sind kleine goldene Sterne.
+
+ent-BluespaceLifelineImplanter = CentComm-Bluespace-Lebensader-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CommandTrackingImplanter = CentComm-Führungs-Tracking-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommFreedomImplanter = CentComm-Freiheits-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommStorageImplanter = CentComm-Speicher-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommMindShieldImplanter = CentComm-Mindshield-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommNutrimentImplanter = CentComm-Nährstoff-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommSpaceproofImplanter = CentComm-Vakuumschutz-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-CentcommStypticStimulatorImplanter = CentComm-Blutstiller-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-PacifismImplanter = Pazifismus-Implantator
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
+
+ent-SmokeImplanter = Syndikat-Rauch-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-JaunterImplanter = Syndikat-Jaunter-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-NutrimentImplanter = Syndikat-Nährstoff-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-StypticStimulatorImplanter = Syndikat-Blutstiller-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-KravMagaImplanter = Syndikat-Krav-Maga-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-ClumsyImplanter = Syndikat-Tollpatsch-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-BinaryImplanter = Syndikat-Binär-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-VaporizeImplanter = CentComm-Verdampfungs-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-ShiftImplanter = CentComm-Shift-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-BlinkImplanter = CentComm-Blink-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-StopTimeImplanter = CentComm-Zeitstopp-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-NaniteMenderImplanter = CentComm-Nanitenheiler-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-AntagImplanterChangeling = Antag-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-AntagImplanterSpaceNinja = Antag-Implantator
+    .desc = Eine kompakte Einwegspritze, ausschließlich für die Injektion subdermaler Implantate entwickelt. Die Einführnadel ist mit einem Schmerzmittel beschichtet.
+
+ent-XenoCompatibilityImplanter = Xeno-Kompatibilitäts-Implantator
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.
+
+ent-RedspaceLifelineImplanter = Syndikat-Redspace-Lebensader-Implantator
+    .desc = Eine kompakte Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate gedacht ist. Schrubbe sie unbedingt mit Seife ab, um die verbliebenen Bakterien zu entfernen.
+
+ent-TelepathyImplanter = Telepathie-Implantator
+    .desc = Eine Einwegspritze, die ausschließlich zum Injizieren subdermaler Implantate entwickelt wurde.

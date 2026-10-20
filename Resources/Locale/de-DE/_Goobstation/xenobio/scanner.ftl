@@ -1,0 +1,9 @@
+slime-scanner-examine-slime-description = Es ist ein [color={$color}]{$name}[/color].
+
+slime-scanner-examine-slime-mutations = Die Mutationswahrscheinlichkeit bei der Mitose beträgt [color=yellow]{$chance}%[/color]. Mögliche Mutationen sind:
+
+slime-scanner-examine-slime-extracts = Wenn du ihn jetzt mahlen würdest, ergäbe das [color=yellow]{$num}[/color] Auszüge.
+
+slime-scanner-examine-extract = Studien haben bewiesen, dass dieser Extrakt mit den folgenden Reagenzien heftig zu reagieren scheint: {$reagents}
+
+slime-scanner-examine-extract-unreactive = [color=red]Dieser Extrakt ist verdorrt und liefert keine Reaktionen mehr.[/color]

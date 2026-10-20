@@ -104,7 +104,7 @@ public sealed class WindowSheetlet<T> : Sheetlet<T>
             // Title
             E<Label>()
                 .Class("FancyWindowTitle") // TODO: hardcoding class name
-                .Font(ResCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13)) // TODO: hardcoding font
+                .Font(ResCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSans/NotoSans-Regular.ttf" }, 13)) // TODO: hardcoding font; Boxfont hat keine Umlaute, Noto Sans als Fallback
                 .FontColor(sheet.HighlightPalette.Text),
 
             // Help Button

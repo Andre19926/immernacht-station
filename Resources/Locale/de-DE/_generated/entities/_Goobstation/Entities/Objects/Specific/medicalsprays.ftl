@@ -1,0 +1,3 @@
+ent-SprayBottleStypticPowder = Styptische Pulversprühflasche
+
+ent-SprayBottleSilverSulfadiazine = Silbersulfadiazin-Sprühflasche

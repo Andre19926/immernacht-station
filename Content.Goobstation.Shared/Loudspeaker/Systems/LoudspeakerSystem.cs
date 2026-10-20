@@ -107,7 +107,7 @@ public sealed partial class LoudSpeakerSystem : EntitySystem
 
     private void OnExamined(Entity<LoudspeakerComponent> ent, ref ExaminedEvent args)
     {
-        var state = ent.Comp.IsActive ? "on" : "off";
+        var state = Loc.GetString(ent.Comp.IsActive ? "loudspeaker-state-on" : "loudspeaker-state-off");
 
         var message = ent.Comp.CanToggle
             ? Loc.GetString("loudspeaker-examine-toggleable", ("state", state))
@@ -152,7 +152,7 @@ public sealed partial class LoudSpeakerSystem : EntitySystem
 
     private void ToggleLoudspeakerEffect(EntityUid user, Entity<LoudspeakerComponent> loudspeaker)
     {
-        var state = !loudspeaker.Comp.IsActive ? "on" : "off";
+        var state = Loc.GetString(!loudspeaker.Comp.IsActive ? "loudspeaker-state-on" : "loudspeaker-state-off");
 
         _audio.PlayPredicted(loudspeaker.Comp.ToggleSound, user, user);
         _popup.PopupClient(Loc.GetString("loudspeaker-toggle-popup", ("state", state)), user, user);

@@ -66,6 +66,7 @@
             RadioHost: [ 1, 1 ]
             ServiceWorker: [ 3, 4 ]
             Passenger: [ -1, -1 ]
+            SyndicateDiplomat: [ 1, 1 ] # Immernacht
             # silicon
             StationAi: [ 1, 1 ]
             Borg: [ 2, 3 ]

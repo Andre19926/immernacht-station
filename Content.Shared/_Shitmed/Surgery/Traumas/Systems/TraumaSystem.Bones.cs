@@ -47,7 +47,7 @@ public partial class TraumaSystem
             ? bodyComp.PartType.ToString().ToLower()
             : bodyComp.ParentSlot.Value.Id;
 
-        _popup.PopupClient(Loc.GetString($"popup-trauma-BoneDamage-{args.NewSeverity.ToString()}", ("part", part)),
+        _popup.PopupClient(Loc.GetString($"popup-trauma-BoneDamage-{args.NewSeverity.ToString()}", ("part", Content.Shared._Shitmed.BodyPartNames.Localize(part))),
             bodyComp.Body.Value,
             PopupType.SmallCaution);
 

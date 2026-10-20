@@ -1,0 +1,10 @@
+names-tider-last-1 = Tide
+names-tider-last-2 = Crawler
+names-tider-last-3 = König
+names-tider-last-4 = Toolbox
+names-tider-last-5 = Unterbrecher
+names-tider-last-6 = Stehlen
+names-tider-last-7 = Schraubenschlüssel
+names-tider-last-8 = Brechstange
+names-tider-last-9 = Splitter
+names-tider-last-10 = Gurt

@@ -1,0 +1,1 @@
+ent-MobHumanLoneNuclearOperativeSuitCommander = Kommandant für einsame operative Anstellung

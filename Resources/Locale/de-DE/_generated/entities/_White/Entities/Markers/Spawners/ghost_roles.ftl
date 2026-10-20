@@ -1,0 +1,1 @@
+ent-SpawnPointGhostXenomorph = Geisterrollen-Spawnpunkt

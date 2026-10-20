@@ -1,0 +1,3 @@
+humanoid-profile-editor-height-label = Körpergröße: {$height} cm
+humanoid-profile-editor-width-label = Breite: {$width}cm
+humanoid-profile-editor-weight-label = Gewicht: {$weight} kg

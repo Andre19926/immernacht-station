@@ -1,0 +1,21 @@
+# Traitor Uplink Loadout Group
+loadout-group-traitor-uplink = Uplink
+
+# PDA Uplink Option
+loadout-traitor-uplink-pda-name = PDA-Uplink
+loadout-traitor-uplink-pda-desc = Dein Uplink wird in deinem PDA versteckt. Gib den Code auf dem Klingelton deines PDA ein, um darauf zuzugreifen.
+
+# Pen Uplink Option
+loadout-traitor-uplink-pen-name = Stift-Uplink
+loadout-traitor-uplink-pen-desc = Dein Uplink wird in einem Stift versteckt. Drehe den Stift auf deinen Code, um ihn zu entsperren. Sperrt automatisch, wenn er geschlossen wird.
+
+# Implant Uplink Option
+loadout-traitor-uplink-implant-name = Subdermales Implantat
+loadout-traitor-uplink-implant-desc = Dein Uplink wird unter deiner Haut implantiert. Kostet 10 TC. Aktiviere ihn über dein Aktionsmenü.
+
+ent-LoadoutDummyTraitorPda = PDA-Uplink
+    .desc = Dein Uplink wird in deinem PDA versteckt. Gib den Code auf dem Klingelton deines PDA ein, um darauf zuzugreifen.
+ent-LoadoutDummyTraitorPen = Stift-Uplink
+    .desc = Dein Uplink wird in einem Stift versteckt. Drehe den Stift auf deinen Code, um ihn zu entsperren. Sperrt automatisch, wenn er geschlossen wird.
+ent-LoadoutDummyTraitorImplant = Subdermales Implantat
+    .desc = Dein Uplink wird unter deiner Haut implantiert. Kostet 10 TC. Aktiviere ihn über dein Aktionsmenü.

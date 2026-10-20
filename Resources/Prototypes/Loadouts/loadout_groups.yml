@@ -291,6 +291,8 @@
   - ContractorJumpsuitTac
   - BlackMJAlt
  # goob changes end
+  - SyndicateVeteranSuit # Immernacht
+  - SyndicateVeteranDress # Immernacht
 
 - type: loadoutGroup
   id: PassengerFace
@@ -322,6 +324,7 @@
   loadouts:
   - Mantle
   - OldNeckWrap # EE
+  - SyndicateVeteranScarf # Immernacht
 
 - type: loadoutGroup
   id: PassengerOuterClothing
