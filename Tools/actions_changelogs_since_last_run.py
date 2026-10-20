@@ -32,7 +32,7 @@ DISCORD_SPLIT_LIMIT = 2000
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 DISCORD_MAX_RETRIES = 10
 
-CHANGELOG_FILE = "Resources/Changelog/GoobChangelog.yml"
+CHANGELOG_FILE = os.environ.get("CHANGELOG_FILE", "Resources/Changelog/ImmernachtChangelog.yml")
 PUBLISHED_TAG = os.environ.get("CHANGELOG_PUBLISHED_TAG", "changelog-published")
 
 TYPES_TO_EMOJI = {"Fix": "🐛", "Add": "🆕", "Remove": "❌", "Tweak": "⚒️"}
