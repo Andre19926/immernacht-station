@@ -7,11 +7,11 @@
 surveillance-camera-monitor-ui-window = Kameramonitor
 surveillance-camera-monitor-ui-refresh-cameras = Kameras aktualisieren
 surveillance-camera-monitor-ui-refresh-subnets = Subnetze aktualisieren
-surveillance-camera-monitor-ui-disconnect = Trennung
+surveillance-camera-monitor-ui-disconnect = Verbindung trennen
 surveillance-camera-monitor-ui-status = {$status} {$address}
 surveillance-camera-monitor-ui-status-connecting = Anschluss:
 surveillance-camera-monitor-ui-status-connected = Verbunden:
-surveillance-camera-monitor-ui-status-disconnected = Trennung
+surveillance-camera-monitor-ui-status-disconnected = Getrennt:
 surveillance-camera-monitor-ui-no-subnets = Keine Subnetze
 
 surveillance-camera-setup = Einrichtung

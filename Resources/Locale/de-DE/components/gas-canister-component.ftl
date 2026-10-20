@@ -12,7 +12,7 @@ comp-gas-canister-ui-canister-pressure = Kanisterdruck:
 
 comp-gas-canister-ui-port-status = Anschlussstatus:
 comp-gas-canister-ui-port-connected = Verbunden
-comp-gas-canister-ui-port-disconnected = Trennung
+comp-gas-canister-ui-port-disconnected = Getrennt
 
 comp-gas-canister-ui-holding-tank-status = Status des eingesetzten Tanks
 comp-gas-canister-ui-holding-tank-label = Tankbeschriftung:
