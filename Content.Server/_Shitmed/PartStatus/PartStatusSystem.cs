@@ -200,7 +200,16 @@ public sealed class PartStatusSystem : EntitySystem
             titlestring += "-styleless";
         }
 
-        message.AddText(Loc.GetString(titlestring, ("entity", Identity.Name(entity, EntityManager))));
+        // Immernacht: the locale strings carry markup. AddText makes ToMarkup() escape every '['.
+        var entityName = Identity.Name(entity, EntityManager);
+        if (styling)
+        {
+            message.AddMarkupPermissive(Loc.GetString(titlestring, ("entity", FormattedMessage.EscapeText(entityName))));
+        }
+        else
+        {
+            message.AddText(Loc.GetString(titlestring, ("entity", entityName)));
+        }
         message.PushNewline();
         AddLine(message);
         CreateBodyPartMessage(partStatusSet, entity == examiner, ref message, !styling);
@@ -239,10 +248,22 @@ public sealed class PartStatusSystem : EntitySystem
                 locString += "-styleless";
             }
 
-            message.AddText("    " + Loc.GetString(locString,
-                ("possessive", possessive),
-                ("part", Content.Shared._Shitmed.BodyPartNames.Localize(partStatus.PartName)),
-                ("status", statusDescription)));
+            var partName = Content.Shared._Shitmed.BodyPartNames.Localize(partStatus.PartName);
+            if (styleless)
+            {
+                message.AddText("    " + Loc.GetString(locString,
+                    ("possessive", possessive),
+                    ("part", partName),
+                    ("status", statusDescription)));
+            }
+            else
+            {
+                // Immernacht: same path as the title, for self and other examines.
+                message.AddMarkupPermissive("    " + Loc.GetString(locString,
+                    ("possessive", FormattedMessage.EscapeText(possessive)),
+                    ("part", FormattedMessage.EscapeText(partName)),
+                    ("status", FormattedMessage.EscapeText(statusDescription))));
+            }
 
             message.PushNewline();
         }

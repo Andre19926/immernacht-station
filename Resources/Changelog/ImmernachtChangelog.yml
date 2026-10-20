@@ -98,3 +98,9 @@ Entries:
         Rollenspielregel und eine Service-SOP.
   id: 12
   time: '2026-10-20T10:22:00.0000000+00:00'
+- author: Andre19926
+  changes:
+    - type: Fix
+      message: Die Untersuchung auf Verletzungen erscheint im Chat wieder formatiert.
+  id: 13
+  time: '2026-10-20T12:59:00.0000000+00:00'
