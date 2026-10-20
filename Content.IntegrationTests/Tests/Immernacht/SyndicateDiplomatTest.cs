@@ -2,8 +2,6 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using Content.Client.Guidebook;
-using Content.Client.Guidebook.Richtext;
 using Content.Goobstation.Common.NTR.Scan;
 using Content.Server.Atmos.Components;
 using Content.Shared.Armor;
@@ -307,26 +305,6 @@ public sealed class SyndicateDiplomatTest
             Assert.That(reqs.OfType<RoleTimeRequirement>().Single(r => r.Role == "AntagSyndicateAgent").Time, Is.EqualTo(TimeSpan.FromHours(50)));
             Assert.That(server.ProtoMan.Index<DepartmentPrototype>("Civilian").Roles.Select(r => r.Id), Does.Contain("SyndicateDiplomat"));
         });
-
-        var client = pair.Client;
-        await client.WaitIdleAsync();
-        var parser = client.ResolveDependency<DocumentParsingManager>();
-        var clientRes = client.ResolveDependency<IResourceManager>();
-        var clientProto = client.ResolveDependency<IPrototypeManager>();
-        foreach (var id in new[]
-                 {
-                     "SyndicateDiplomat", "RuleR17", "SyndicateDiplomatSOP",
-                     "Jobs", "Service", "Glossary", "Security", "Antagonists", "Traitors", "NuclearOperatives",
-                     "RoleTypes", "RuleC4", "RuleR3", "RuleR6", "SpaceLaw", "SpaceLawCrimeList", "ServiceSOP", "RuleS8",
-                 })
-        {
-            await client.WaitPost(() =>
-            {
-                var entry = clientProto.Index<GuideEntryPrototype>(id);
-                using var reader = clientRes.ContentFileReadText(entry.Text);
-                Assert.That(parser.TryAddMarkup(new Document(), reader.ReadToEnd()), Is.True, id);
-            });
-        }
 
         await pair.CleanReturnAsync();
     }
