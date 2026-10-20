@@ -112,7 +112,7 @@ ent-ClothingHeadHatHoodWinterSec = Schutzhaube
 ent-ClothingHeadHatHoodWinterSyndie = Syndikat-Mantelhaube
     .desc = Eine Haube, die den Kopf warm halten soll.
 
-ent-ClothingHeadHatHoodWinterWarden = Warden-Winterkapuze
+ent-ClothingHeadHatHoodWinterWarden = Wärter-Winterkapuze
     .desc = Eine Haube, die den Kopf warm halten soll.
 
 ent-ClothingHeadHatHoodWinterWeb = Webcoat-Haube

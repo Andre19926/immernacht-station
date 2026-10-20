@@ -106,8 +106,8 @@ ent-PlushieLizardJobStationengineer = Stationsingenieur-Echse Plüschtier
 ent-PlushieLizardJobTechnicalassistant = Technischer-Assistent-Echsen-Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einer Echse als technischer Assistent ähnelt. Es riecht schwach nach verbrannten Drähten.
 
-ent-PlushieLizardJobWarden = Warden-Echsen-Plüschtier
-    .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Warden ähnelt. Riecht nach schwarzem Pulver und Pistolenöl.
+ent-PlushieLizardJobWarden = Wärter-Echsen-Plüschtier
+    .desc = Ein entzückendes Stoffspielzeug, das einer Echse als Wärter ähnelt. Riecht nach schwarzem Pulver und Pistolenöl.
 
 ent-PlushieLizardJobZookeeper = Zoowärter-Echse Plüschtier
     .desc = Ein entzückendes Stoffspielzeug, das einem Echsenmenschen wie einem Zoowärter ähnelt. Es hat einige Gorilla-Fell daran geklebt.

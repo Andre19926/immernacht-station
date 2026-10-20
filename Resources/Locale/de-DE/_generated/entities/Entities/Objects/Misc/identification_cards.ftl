@@ -22,7 +22,7 @@ ent-CaptainIDCard = Kapitäns-ID-Karte
 ent-SecurityIDCard = Sicherheits-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
-ent-WardenIDCard = Warden-ID-Karte
+ent-WardenIDCard = Wärter-ID-Karte
     .desc = Eine Karte, die für den Zugang zu verschiedenen Bereichen an Bord der Station erforderlich ist.
 
 ent-EngineeringIDCard = Ingenieurs-ID-Karte

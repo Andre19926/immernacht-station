@@ -111,7 +111,7 @@ ntr-document-funny-service4-15 = du das alles gelesen hast und anerkennst, dass 
 ntr-document-funny-sec1-1 = der Sicherheitschef das hier tatsächlich komplett liest,
 ntr-document-funny-sec1-2 = mindestens ein Kadett zum Sicherheitsbeamten befördert wurde,
 ntr-document-funny-sec1-3 = das Sicherheitspersonal jemanden erfolgreich mit dem Schlagstock an den Rand des Todes geprügelt hat,
-ntr-document-funny-sec1-4 = der Warden in der Brig ist,
+ntr-document-funny-sec1-4 = der Wärter in der Brig ist,
 ntr-document-funny-sec1-5 = die Bingles ihre Bigling-Bongles binglen,
 ntr-document-funny-sec1-6 = keine aktiven Bedrohungen auf der Station existieren,
 ntr-document-funny-sec1-7 = dieser eine Sicherheitskadett bei Bewusstsein ist, und zwar um jeden Preis,
@@ -141,7 +141,7 @@ ntr-document-funny-sec4-3 = Wenn die KI jedes Mal [bold]„Verdächtige Aktivit�
 ntr-document-funny-sec4-4 = Beamte, die darauf bestehen, Unschuldige zu verhaften, werden für eine Woche zum [bold]Clownsdienst[/bold] versetzt.
 ntr-document-funny-sec4-5 = Wenn das Sicherheitspersonal weiterhin [bold]Blendgranaten als Gesprächseinstieg benutzt[/bold], werden alle Blendgranaten durch [bold]Partyknaller[/bold] aus der Fracht ersetzt.
 ntr-document-funny-sec4-6 = Jeder Beamte, der dabei erwischt wird, [bold]mit seiner Abschussbilanz zu prahlen[/bold], wird mit einem Schalldämpfer belohnt, damit er um Himmels willen den Mund hält.
-ntr-document-funny-sec4-7 = Infolgedessen darf der Warden mit Zustimmung des Kapitäns öffentliche Boxkämpfe [bold]in der Brig[/bold] veranstalten.
+ntr-document-funny-sec4-7 = Infolgedessen darf der Wärter mit Zustimmung des Kapitäns öffentliche Boxkämpfe [bold]in der Brig[/bold] veranstalten.
 ntr-document-funny-sec4-8 = Wenn das Sicherheitspersonal weiterhin ohne triftigen Grund Leute in der Wartung durchsucht, hält die Station einen [bold]umgekehrten Prozess ab, bei dem die Crew stattdessen über das Sicherheitspersonal richtet.[/bold]
 
 # CARGO

@@ -66,7 +66,7 @@ ent-SpawnPointScientist = Wissenschaftler
 
 ent-SpawnPointHeadOfSecurity = Sicherheit
 
-ent-SpawnPointWarden = Warden
+ent-SpawnPointWarden = Wärter
 
 ent-SpawnPointSecurityOfficer = Sicherheitsbeamter
 

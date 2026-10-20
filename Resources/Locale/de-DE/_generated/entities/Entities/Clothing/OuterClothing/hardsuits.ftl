@@ -22,7 +22,7 @@ ent-ClothingOuterHardsuitSecurity = Sicherheits-Hardsuit
 ent-ClothingOuterHardsuitBrigmedic = Gefängnissanitäter-Hardsuit
     .desc = Spezieller Hardsuit des Schutzengels des Brigs. Die medizinische Version des Sicherheits-Hardsuits.
 
-ent-ClothingOuterHardsuitWarden = Warden-Hardsuit
+ent-ClothingOuterHardsuitWarden = Wärter-Hardsuit
     .desc = Ein spezialisierter Aufruhranzug für den Einsatz in Niederdruckumgebungen.
 
 ent-ClothingOuterHardsuitCap = Kapitänsparade-Hardsuit

@@ -7,7 +7,7 @@ ent-ClothingHeadsetChronolegioneer = Futuristisches Over-Ear-Headset
 ent-ClothingHeadsetChronolegioneerUnremoveable = Futuristisches Over-Ear-Headset
     .desc = Ein Headset aus der Zukunft, das die meisten Stationsfrequenzen empfangen kann.
 
-ent-ClothingHeadsetAltWarden = Warden-Over-Ear-Headset
+ent-ClothingHeadsetAltWarden = Wärter-Over-Ear-Headset
     .desc = Ein verbessertes, modulares Headset, das eine schnelle Kommunikation mit dem Führungspersonal ermöglicht.
 
 ent-ClothingHeadsetDeathsquad = Deathsquad-Over-Ear-Headset

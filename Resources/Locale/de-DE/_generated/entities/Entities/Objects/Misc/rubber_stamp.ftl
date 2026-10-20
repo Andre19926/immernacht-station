@@ -1,4 +1,4 @@
-ent-RubberStampCaptain = Kapitän-Stempel
+ent-RubberStampCaptain = Kapitänsstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampCentcom = CentComm-Stempel
@@ -7,7 +7,7 @@ ent-RubberStampCentcom = CentComm-Stempel
 ent-RubberStampChaplain = Kaplan-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampLawyer = Anwalt-Stempel
+ent-RubberStampLawyer = Anwaltsstempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampClown = Clown-Stempel
@@ -40,7 +40,7 @@ ent-RubberStampTrader = Händler-Stempel
 ent-RubberStampSyndicate = Syndikat-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
-ent-RubberStampWarden = Warden-Stempel
+ent-RubberStampWarden = Wärter-Stempel
     .desc = Ein Stempel für wichtige Dokumente.
 
 ent-RubberStampApproved = Genehmigungsstempel
@@ -55,7 +55,7 @@ ent-RubberStampDetective = Detektiv-Stempel
 ent-RubberStampGreytide = Greytide-Stempel
     .desc = Ein Stempel für wichtige Dokumente. Allein sein Anblick lässt die Flut über dich hereinbrechen ...
 
-ent-RubberStampPsychologist = Psychologe-Stempel
+ent-RubberStampPsychologist = Psychologen-Stempel
     .desc = Ein Stempel für wichtige Dokumente. Verschreibe diese Behandlungen!
 
 ent-RubberStampWizard = Zauberer-Stempel

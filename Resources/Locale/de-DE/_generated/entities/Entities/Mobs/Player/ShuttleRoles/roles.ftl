@@ -18,7 +18,7 @@ ent-RandomHumanoidVisitorSecurityOfficer = Besuch der Geisterrolle des Sicherhei
 
 ent-RandomHumanoidVisitorDetective = Besuch Detektivrolle
 
-ent-RandomHumanoidVisitorWarden = Besuchender Warden (Geisterrolle)
+ent-RandomHumanoidVisitorWarden = Besuchender Wärter (Geisterrolle)
 
 ent-RandomHumanoidVisitorCargoTechnician = Besuch der Geisterrolle des Frachttechnikers
 

@@ -72,8 +72,8 @@ ent-ClothingOuterCoatRDOpened = Forschungsleiter-Laborkittel
 
 ent-ClothingOuterCoatPirate = Piratengarnelen
 
-ent-ClothingOuterCoatWarden = Gepanzerte Warden-Jacke
-    .desc = Eine robuste, utilitaristische Jacke, die entworfen wurde, um einen Warden vor Brig-gebundenen Bedrohungen zu schützen.
+ent-ClothingOuterCoatWarden = Gepanzerte Wärter-Jacke
+    .desc = Eine robuste, utilitaristische Jacke, die entworfen wurde, um einen Wärter vor Brig-gebundenen Bedrohungen zu schützen.
 
 ent-ClothingOuterDameDane = Yakuza-Mantel
     .desc = Freitag...

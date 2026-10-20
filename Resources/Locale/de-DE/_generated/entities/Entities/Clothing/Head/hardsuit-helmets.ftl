@@ -22,7 +22,7 @@ ent-ClothingHeadHelmetHardsuitSecurity = Sicherheits-Hardsuit-Helm
 ent-ClothingHeadHelmetHardsuitBrigmedic = Gefängnissanitäter-Hardsuit-Helm
     .desc = Der leichte Helm des Gefängnissanitäter-Hardsuits. Schützt vor Viren und Clowns.
 
-ent-ClothingHeadHelmetHardsuitWarden = Warden-Hardsuit-Helm
+ent-ClothingHeadHelmetHardsuitWarden = Wärter-Hardsuit-Helm
     .desc = Ein modifizierter Bereitschaftshelm. Seltsam bequem.
 
 ent-ClothingHeadHelmetHardsuitCap = Kapitäns-Hardsuit-Helm

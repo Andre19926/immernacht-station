@@ -28,8 +28,8 @@ ent-ToyFigurineCaptain = Kapitänsfigur
 ent-ToyFigurineHeadOfSecurity = Leiter der Sicherheitsfigur
     .desc = Eine Figur, die den glorreichen Leiter der Sicherheitsabteilung darstellt.
 
-ent-ToyFigurineWarden = Warden-Figur
-    .desc = Eine Figur, die einen Warden zeigt, der jederzeit bereit ist, jemanden einzusperren.
+ent-ToyFigurineWarden = Wärter-Figur
+    .desc = Eine Figur, die einen Wärter zeigt, der jederzeit bereit ist, jemanden einzusperren.
 
 ent-ToyFigurineDetective = Detektivfigur
     .desc = Eine Figur, die einen Detektiv zeigt, der seinen ikonischen Trenchcoat trägt.

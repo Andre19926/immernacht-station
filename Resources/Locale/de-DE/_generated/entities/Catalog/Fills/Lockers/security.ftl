@@ -1,7 +1,7 @@
-ent-LockerWardenFilledHardsuit = Warden-Spind
+ent-LockerWardenFilledHardsuit = Wärter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerWardenFilled = Warden-Spind
+ent-LockerWardenFilled = Wärter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerSecurityFilled = Sicherheitsbeamten-Spind

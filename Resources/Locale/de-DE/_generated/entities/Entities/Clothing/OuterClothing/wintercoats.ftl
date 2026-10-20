@@ -85,10 +85,10 @@ ent-ClothingOuterWinterSec = Sicherheitswintermantel
 ent-ClothingOuterWinterViro = Virologie Wintermantel
     .desc = Eine schwere Jacke aus „synthetischem“ Tierfell.
 
-ent-ClothingOuterWinterWarden = Gepanzerter Warden-Wintermantel
-    .desc = Ein robuster, zweckmäßiger Wintermantel, der einen Warden vor allen Gefahren im Brig und Unterkühlung schützen soll.
+ent-ClothingOuterWinterWarden = Gepanzerter Wärter-Wintermantel
+    .desc = Ein robuster, zweckmäßiger Wintermantel, der einen Wärter vor allen Gefahren im Brig und Unterkühlung schützen soll.
 
-ent-ClothingOuterWinterWardenUnarmored = Warden-Wintermantel
+ent-ClothingOuterWinterWardenUnarmored = Wärter-Wintermantel
     .desc = Ein robuster, warmer Mantel, aber kein gepanzerter.
 
 ent-ClothingOuterWinterSyndieCap = Syndikat-Wintermantel

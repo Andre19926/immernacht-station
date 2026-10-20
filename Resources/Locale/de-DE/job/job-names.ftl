@@ -30,7 +30,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-name-warden = Warden
+job-name-warden = Wärter
 job-name-security = Sicherheitsbeamter
 job-name-cadet = Sicherheitskadett
 job-name-hos = Sicherheitschef
@@ -155,4 +155,4 @@ JobStationAi = Stations-KI
 JobStationEngineer = Stationsingenieur
 JobTechnicalAssistant = Technischer Assistent
 JobVisitor = Besucher
-JobWarden = Warden
+JobWarden = Wärter

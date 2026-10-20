@@ -31,7 +31,7 @@ accent-demonic-words-replace-10 = Verblendeter Tyrann
 accent-demonic-words-11 = Hosen
 accent-demonic-words-replace-11 = verherrlichte Krankenschwester
 
-accent-demonic-words-12 = Leiter
+accent-demonic-words-12 = Wärter
 accent-demonic-words-replace-12 = Knasthund
 
 accent-demonic-words-13 = Offizier

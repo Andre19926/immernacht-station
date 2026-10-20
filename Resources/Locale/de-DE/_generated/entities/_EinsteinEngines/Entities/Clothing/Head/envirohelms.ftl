@@ -88,8 +88,8 @@ ent-ClothingHeadEnvirohelmSecGrey = Umweltanzughelm (grau (Sicherheit))
 ent-ClothingHeadEnvirohelmVirology = Virologie-Umweltanzughelm
     .desc = Der Helm der sichersten Leute auf der Station, die völlig immun gegen die Monstrositäten sind, die sie erzeugen.
 
-ent-ClothingHeadEnvirohelmWarden = Warden-Umweltanzughelm
-    .desc = Ein Plasmaman-Containment-Helm für den Warden. Zwei weiße Streifen unterscheiden ihn von anderen Sicherheitsmitgliedern.
+ent-ClothingHeadEnvirohelmWarden = Wärter-Umweltanzughelm
+    .desc = Ein Plasmaman-Containment-Helm für den Wärter. Zwei weiße Streifen unterscheiden ihn von anderen Sicherheitsmitgliedern.
 
 ent-ClothingHeadEnvirohelmOperative = Agenten-Umweltanzughelm
     .desc = Wer das trägt, ist badass und verdient mindestens ein flüchtiges respektvolles Nicken.

@@ -18,7 +18,7 @@ highlights-research-director = Forschungsleiter, Forschungsdirektor, "RD", Wisse
 highlights-detective = Detektiv, "Det", Sicherheit, "Sec"
 highlights-security-cadet = Sicherheitskadett, Secoff, Kadett, Sicherheit, "Sec"
 highlights-security-officer = Sicherheitsbeamter, Security Officer, Secoff, Officer, Sicherheit, Security, "Sec"
-highlights-warden = Warden, "Ward", Sicherheit, Security, "Sec"
+highlights-warden = Wärter, Warden, "Ward", Sicherheit, Security, "Sec"
 
 # Cargo
 highlights-cargo-technician = Frachttechniker, Frachttechniker, "Fracht"

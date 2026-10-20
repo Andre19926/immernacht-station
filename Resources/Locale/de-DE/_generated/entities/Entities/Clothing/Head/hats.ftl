@@ -27,8 +27,8 @@ ent-ClothingHeadHatBeretQM = Quartiermeister-Barett
 ent-ClothingHeadHatBeretHoS = Barett des Sicherheitschefs
     .desc = Eine schwarze Baskenmütze mit Rangabzeichen eines Kommandanten. Für Offiziere, die mehr auf Stil als auf Sicherheit setzen.
 
-ent-ClothingHeadHatBeretWarden = Warden-Barett
-    .desc = Eine Baskenmütze in Konzernblau mit Rangabzeichen des Wardens. Für Offiziere, die mehr auf Stil als auf Sicherheit setzen.
+ent-ClothingHeadHatBeretWarden = Wärter-Barett
+    .desc = Eine Baskenmütze in Konzernblau mit Rangabzeichen des Wärters. Für Offiziere, die mehr auf Stil als auf Sicherheit setzen.
 
 ent-ClothingHeadHatBeretSeniorPhysician = Oberarzt-Barett
     .desc = In den Farben der Medizin und Chemie – Ärzte sind der Stolz dieser Abteilung!
@@ -117,7 +117,7 @@ ent-ClothingHeadHatCanadaBeanie = Beanie
 ent-ClothingHeadHatVioletwizard = Violetter Zauberer
     .desc = Ein seltsam aussehender violetter Hut, der sicherlich einem mächtigen Zauberer gehört.
 
-ent-ClothingHeadHatWarden = Warden-Mütze
+ent-ClothingHeadHatWarden = Wärtermütze
     .desc = Dieser Hut betont, dass du das Gesetz bist.
 
 ent-ClothingHeadHatWitch = Hexenhut

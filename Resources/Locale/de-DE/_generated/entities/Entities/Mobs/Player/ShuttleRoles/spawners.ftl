@@ -22,7 +22,7 @@ ent-VisitorSecurityOfficerSpawner = Sicherheitsbeamter-Besucher-Spawner
 
 ent-VisitorDetective = Detektiv-Besucher-Spawner
 
-ent-VisitorWarden = Warden-Besucher-Spawner
+ent-VisitorWarden = Wärter-Besucher-Spawner
 
 ent-VisitingCargonianSpawner = Frachter-Besucher-Spawner
 

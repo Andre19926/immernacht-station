@@ -70,7 +70,7 @@ ent-LockerScientist = Wissenschaftler-Spind
 ent-LockerHeadOfSecurity = Sicherheitschef-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
-ent-LockerWarden = Warden-Spind
+ent-LockerWarden = Wärter-Spind
     .desc = Ein Standard-Nanotrasen-Schrank.
 
 ent-LockerBrigmedic = Gefängnissanitäter-Spind

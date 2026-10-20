@@ -90,10 +90,10 @@ loadout-group-detective-envirosuit = Detektiv: Umweltanzug
 loadout-group-detective-envirogloves = Detektiv: Umwelthandschuhe
 loadout-group-detective-gloves = Detektiv: Handschuhe
 
-# Warden
-loadout-group-warden-envirohelm = Warden: Umwelthelm
-loadout-group-warden-envirosuit = Warden: Umweltanzug
-loadout-group-warden-envirogloves = Warden: Umwelthandschuhe
+# Wärter
+loadout-group-warden-envirohelm = Wärter: Umwelthelm
+loadout-group-warden-envirosuit = Wärter: Umweltanzug
+loadout-group-warden-envirogloves = Wärter: Umwelthandschuhe
 
 # Head of Personnel
 loadout-group-hop-envirohelm = Personalchef: Umwelthelm

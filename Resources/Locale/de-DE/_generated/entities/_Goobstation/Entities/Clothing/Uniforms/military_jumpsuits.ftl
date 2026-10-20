@@ -22,7 +22,7 @@ ent-ClothingUniformJumpsuitMilitaryHoS = Sicherheitschefsuniform (Militär)
 ent-ClothingUniformJumpsuitMilitaryNTR = Nanotrasen-Repräsentantenanzug (Militär, NTR)
     .desc = Ein schwarzer Anzug, getragen von Beamten.
 
-ent-ClothingUniformJumpsuitMilitaryWarden = Warden-Uniform (Militär)
+ent-ClothingUniformJumpsuitMilitaryWarden = Wärter-Uniform (Militär)
     .desc = Ein formeller Sicherheitsanzug für Offiziere mit Nanotrasen-Gürtelschnalle.
 
 ent-ClothingUniformJumpsuitMilitaryBrigmedic = Gefängnissanitäteruniform (Militär)

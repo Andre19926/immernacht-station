@@ -93,7 +93,7 @@ guide-entry-sop-scientist = Wissenschaftler
 guide-entry-sop-brigmedic = Gefängnissanitäter
 guide-entry-sop-detective = Detektiv
 guide-entry-sop-officercadet = Offizier/Kadett
-guide-entry-sop-warden = Leiter
+guide-entry-sop-warden = Wärter
 # - Service
 guide-entry-sop-bartender = Barkeeper
 guide-entry-sop-botanist = Botaniker

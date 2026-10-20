@@ -176,9 +176,9 @@ loadout-group-head-of-security-jumpsuit = Sicherheitschef: Uniform
 loadout-group-head-of-security-neck = Sicherheitschef: Halsbekleidung
 loadout-group-head-of-security-outerclothing = Sicherheitschef: Oberbekleidung
 
-loadout-group-warden-head = Warden: Kopfbedeckung
-loadout-group-warden-jumpsuit = Warden: Uniform
-loadout-group-warden-outerclothing = Warden: Oberbekleidung
+loadout-group-warden-head = Wärter: Kopfbedeckung
+loadout-group-warden-jumpsuit = Wärter: Uniform
+loadout-group-warden-outerclothing = Wärter: Oberbekleidung
 
 loadout-group-security-head = Sicherheit: Kopfbedeckung
 loadout-group-security-jumpsuit = Sicherheit: Uniform

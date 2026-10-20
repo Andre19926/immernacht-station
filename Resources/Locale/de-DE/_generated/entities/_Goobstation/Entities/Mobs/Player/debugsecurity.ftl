@@ -18,7 +18,7 @@ ent-MobHumanSecurityOfficerBasicArmorHelmet = Sicherheitsoffizier-Grundrüstung
 
 ent-MobHumanHos = Leiter der Sicherheitsabteilung
 
-ent-MobHumanWarden = Warden
+ent-MobHumanWarden = Wärter
 
 ent-MobHumanSecurityBase = Sicherheitsbasis
 

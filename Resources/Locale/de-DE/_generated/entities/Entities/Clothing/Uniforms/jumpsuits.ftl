@@ -157,7 +157,7 @@ ent-ClothingUniformJumpsuitSecGrey = Uniform (grau (Sicherheit))
 ent-ClothingUniformSecurityTrooper = Soldatenuniform
     .desc = Eine formelle Uniform für die Nanotrasen-Truppen, kommt normalerweise mit einem Auto.
 
-ent-ClothingUniformJumpsuitWarden = Warden-Uniform
+ent-ClothingUniformJumpsuitWarden = Wärter-Uniform
     .desc = Ein formeller Sicherheitsanzug für Offiziere mit Nanotrasen-Gürtelschnalle.
 
 ent-ClothingUniformOveralls = Overall

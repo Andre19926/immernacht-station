@@ -10,7 +10,7 @@ ent-ClothingOuterDavidsJacket = EMT Jacke
 ent-ClothingOuterDavidsJacketValid = Edgerunnerjacke
     .desc = Du bist am Limit. Zeig ihnen, dass du es drauf hast.
 
-ent-ClothingOuterCoatWardenBlue = Blaue Warden-Jacke
+ent-ClothingOuterCoatWardenBlue = Blaue Wärter-Jacke
     .desc = Eine robuste, utilitaristische Jacke für diejenigen, die mit der Brig vertraut sind.
 
 ent-ClothingOuterCoatRDPurple = experimenteller Laborkittel des Forschungsleiters

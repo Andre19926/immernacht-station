@@ -87,8 +87,8 @@ ent-ClothingUniformEnvirosuitSecGrey = Umweltanzug (grau (Sicherheit))
 ent-ClothingUniformEnvirosuitVirology = Virologie-Umweltanzug
     .desc = Der Anzug der sichersten Leute auf der Station, die völlig immun gegen die Monstrositäten sind, die sie erzeugen.
 
-ent-ClothingUniformEnvirosuitWarden = Warden-Umweltanzug
-    .desc = Ein Plasmaman-Containment-Anzug für den Warden. Weiße Streifen unterscheiden ihn von anderen Sicherheitsmitgliedern.
+ent-ClothingUniformEnvirosuitWarden = Wärter-Umweltanzug
+    .desc = Ein Plasmaman-Containment-Anzug für den Wärter. Weiße Streifen unterscheiden ihn von anderen Sicherheitsmitgliedern.
 
 ent-ClothingUniformEnvirosuitOperative = Agenten-Umweltanzug
     .desc = Ein unheimlich aussehender Umweltanzug für die Elite der knochigen Agenten.

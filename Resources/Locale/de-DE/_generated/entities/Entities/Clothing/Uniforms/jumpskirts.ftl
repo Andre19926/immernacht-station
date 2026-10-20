@@ -96,7 +96,7 @@ ent-ClothingUniformJumpskirtRoboticist = Robotiker-Arbeitskleidung (Rock)
 ent-ClothingUniformJumpskirtSec = Sicherheitsuniform (Rock)
     .desc = Ein Uniformrock aus starkem Material, das einen robusten Schutz bietet.
 
-ent-ClothingUniformJumpskirtWarden = Warden-Uniform (Rock)
+ent-ClothingUniformJumpskirtWarden = Wärter-Uniform (Rock)
     .desc = Ein formeller Sicherheitsanzug für Offiziere mit Nanotrasen-Gürtelschnalle.
 
 ent-ClothingUniformJumpskirtLibrarian = Bibliothekaruniform (Rock)

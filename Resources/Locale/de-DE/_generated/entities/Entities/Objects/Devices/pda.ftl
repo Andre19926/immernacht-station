@@ -100,7 +100,7 @@ ent-SciencePDA = Wissenschaft-PDA
 ent-HoSPDA = Leiter der Sicherheits-PDA
     .desc = Wer auch immer diesen PDA trägt, ist das Gesetz.
 
-ent-WardenPDA = Warden-PDA
+ent-WardenPDA = Wärter-PDA
     .desc = Das Betriebssystem scheint gejailbreakt worden zu sein.
 
 ent-SecurityPDA = Sicherheit-PDA
