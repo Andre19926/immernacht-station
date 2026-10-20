@@ -12,7 +12,6 @@ import subprocess
 from typing import Iterable
 
 PUBLISH_TOKEN = os.environ["PUBLISH_TOKEN"]
-VERSION = os.environ["GITHUB_SHA"]
 
 RELEASE_DIR = "release"
 
@@ -20,25 +19,47 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://cdn.immernachtrp.de/"
+ROBUST_CDN_URL = os.environ.get("ROBUST_CDN_URL", "https://cdn.immernachtrp.de/")
 FORK_ID = "immernacht-station"
 
+def get_version() -> str:
+    if version := os.environ.get("PUBLISH_VERSION"):
+        return version
+    if version := os.environ.get("GITHUB_SHA"):
+        return version
+
+    proc = subprocess.run(
+        ["git", "rev-parse", "HEAD"],
+        stdout=subprocess.PIPE,
+        check=True,
+        encoding="UTF-8",
+    )
+    return proc.stdout.strip()
+
+
 def main():
+    version = get_version()
     session = requests.Session()
     session.headers = {
         "Authorization": f"Bearer {PUBLISH_TOKEN}",
     }
 
-    print(f"Starting publish on Robust.Cdn for version {VERSION}")
+    print(f"Starting publish on Robust.Cdn for version {version}")
 
     data = {
-        "version": VERSION,
+        "version": version,
         "engineVersion": get_engine_version(),
     }
     headers = {
         "Content-Type": "application/json"
     }
     resp = session.post(f"{ROBUST_CDN_URL}fork/{FORK_ID}/publish/start", json=data, headers=headers)
+    # Dieselbe Version noch einmal zu veröffentlichen ist kein Fehler.
+    # Der tägliche Cron trifft oft den schon veröffentlichten Commit.
+    if resp.status_code == 409 and "already exists" in resp.text.lower():
+        print(f"Version {version} ist bereits veröffentlicht, Upload übersprungen.")
+        return
+
     resp.raise_for_status()
     print("Publish successfully started, adding files...")
 
@@ -48,7 +69,7 @@ def main():
             headers = {
                 "Content-Type": "application/octet-stream",
                 "Robust-Cdn-Publish-File": os.path.basename(file),
-                "Robust-Cdn-Publish-Version": VERSION
+                "Robust-Cdn-Publish-Version": version
             }
             resp = session.post(f"{ROBUST_CDN_URL}fork/{FORK_ID}/publish/file", data=f, headers=headers)
 
@@ -57,7 +78,7 @@ def main():
     print("Successfully pushed files, finishing publish...")
 
     data = {
-        "version": VERSION
+        "version": version
     }
     headers = {
         "Content-Type": "application/json"

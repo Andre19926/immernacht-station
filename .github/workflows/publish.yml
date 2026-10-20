@@ -5,6 +5,8 @@ name: Publish
 on:
   workflow_dispatch:
   schedule:
+    # schedule feuert nur auf dem Default-Branch (master).
+    # Veröffentlicht wird trotzdem translation-de, der Publish-Branch.
     - cron: '17 10 * * *'
 
 concurrency:
@@ -12,8 +14,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  ref:
+    name: Publish-Ref
+    runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.pick.outputs.sha }}
+    steps:
+    - name: Zu veröffentlichenden Commit bestimmen
+      id: pick
+      run: |
+        if [ "${{ github.event_name }}" = "schedule" ]; then
+          sha=$(git ls-remote "https://github.com/${{ github.repository }}.git" refs/heads/translation-de | cut -f1)
+        else
+          sha="${{ github.sha }}"
+        fi
+        if [ -z "$sha" ]; then
+          echo "Kein Commit für den Publish gefunden." >&2
+          exit 1
+        fi
+        echo "sha=$sha" >> "$GITHUB_OUTPUT"
+        echo "Publish-Commit: $sha"
+
   package:
     name: Package (${{ matrix.target.name }})
+    needs: ref
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -34,6 +58,7 @@ jobs:
 
     - uses: actions/checkout@v4.2.2
       with:
+        ref: ${{ needs.ref.outputs.sha }}
         submodules: 'recursive'
 
     - name: Setup .NET Core
@@ -60,7 +85,7 @@ jobs:
         if-no-files-found: error
 
   publish:
-    needs: package
+    needs: [ref, package]
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -70,6 +95,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4.2.2
+      with:
+        ref: ${{ needs.ref.outputs.sha }}
 
     - name: Setup engine submodule
       run: git submodule update --init RobustToolbox
@@ -90,6 +117,7 @@ jobs:
       run: Tools/publish_multi_request.py
       env:
         PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
+        PUBLISH_VERSION: ${{ needs.ref.outputs.sha }}
         GITHUB_REPOSITORY: ${{ vars.GITHUB_REPOSITORY }}
 
     - name: Publish changelog (Discord)
