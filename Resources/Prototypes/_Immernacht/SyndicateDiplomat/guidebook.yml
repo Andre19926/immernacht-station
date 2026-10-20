@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Guidebook-Eintrag des Syndikat-Diplomaten.
+# Eingehängt unter Service (Zivilisten/Dienst), nicht unter Antagonisten.
+
+- type: guideEntry
+  id: SyndicateDiplomat
+  name: guide-entry-syndicate-diplomat
+  text: "/ServerInfo/_Immernacht/Guidebook/SyndicateDiplomat.xml"
+  filterEnabled: True

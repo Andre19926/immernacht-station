@@ -114,6 +114,7 @@ guide-entry-salvage = Bergung
 guide-entry-survival = Überleben
 guide-entry-janitorial = Hausmeister
 guide-entry-bartender = Barkeeper
+guide-entry-syndicate-diplomat = Syndikat-Diplomat
 guide-entry-chef = Koch
 guide-entry-medical = Medizin
 guide-entry-medicaldoctor = Arzt

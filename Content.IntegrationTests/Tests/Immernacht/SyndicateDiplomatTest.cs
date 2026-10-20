@@ -2,17 +2,21 @@
 
 using System.Collections.Generic;
 using System.Linq;
+using Content.Client.Guidebook;
+using Content.Client.Guidebook.Richtext;
 using Content.Goobstation.Common.NTR.Scan;
 using Content.Server.Atmos.Components;
 using Content.Shared.Armor;
 using Content.Shared.Contraband;
 using Content.Shared.Preferences.Loadouts;
+using Content.Shared.Guidebook;
 using Content.Shared.Roles;
 using Content.Shared.Storage;
 using Content.Shared.Storage.Components;
 using Content.Shared.Radio.Components;
 using Content.Shared.Store;
 using Content.Shared.Store.Components;
+using Robust.Shared.ContentPack;
 using Robust.Shared.Containers;
 using Robust.Shared.GameObjects;
 using Robust.Shared.Prototypes;
@@ -263,6 +267,66 @@ public sealed class SyndicateDiplomatTest
                 server.EntMan.DeleteEntity(ent);
             }
         });
+
+        await pair.CleanReturnAsync();
+    }
+
+    /// <summary>
+    /// Guidebook, Regel und SOP haengen am Diplomaten. Er bleibt aus dem Antagonisten-Baum,
+    /// die Spielzeit bleibt 5h gesamt und 50h Syndikat-Agent.
+    /// </summary>
+    [Test]
+    public async Task GuidebookRuleAndPlaytimeStayWired()
+    {
+        await using var pair = await PoolManager.GetServerClient();
+        var server = pair.Server;
+
+        await server.WaitAssertion(() =>
+        {
+            var res = server.ResolveDependency<IResourceManager>();
+            var diplomat = server.ProtoMan.Index<GuideEntryPrototype>("SyndicateDiplomat");
+            var rule = server.ProtoMan.Index<GuideEntryPrototype>("RuleR17");
+            var sop = server.ProtoMan.Index<GuideEntryPrototype>("SyndicateDiplomatSOP");
+
+            Assert.That(res.ContentFileExists(diplomat.Text), Is.True, diplomat.Text.ToString());
+            Assert.That(res.ContentFileExists(rule.Text), Is.True, rule.Text.ToString());
+            Assert.That(res.ContentFileExists(sop.Text), Is.True, sop.Text.ToString());
+            Assert.That(diplomat.Name, Is.EqualTo("guide-entry-syndicate-diplomat"));
+            Assert.That(rule.RuleEntry, Is.True);
+            Assert.That(rule.Name, Is.EqualTo("guide-entry-rules-r17"));
+
+            Assert.That(server.ProtoMan.Index<GuideEntryPrototype>("Service").Children.Select(c => c.Id), Does.Contain("SyndicateDiplomat"));
+            Assert.That(server.ProtoMan.Index<GuideEntryPrototype>("RoleplayRules").Children.Select(c => c.Id), Does.Contain("RuleR17"));
+            Assert.That(server.ProtoMan.Index<GuideEntryPrototype>("ServiceSOP").Children.Select(c => c.Id), Does.Contain("SyndicateDiplomatSOP"));
+            Assert.That(server.ProtoMan.Index<GuideEntryPrototype>("Antagonists").Children.Select(c => c.Id), Does.Not.Contain("SyndicateDiplomat"));
+
+            var job = server.ProtoMan.Index<JobPrototype>("SyndicateDiplomat");
+            Assert.That(job.CanBeAntag, Is.False);
+            var reqs = server.EntMan.System<SharedRoleSystem>().GetRoleRequirements(job);
+            Assert.That(reqs!.OfType<OverallPlaytimeRequirement>().Single().Time, Is.EqualTo(TimeSpan.FromHours(5)));
+            Assert.That(reqs.OfType<RoleTimeRequirement>().Single(r => r.Role == "AntagSyndicateAgent").Time, Is.EqualTo(TimeSpan.FromHours(50)));
+            Assert.That(server.ProtoMan.Index<DepartmentPrototype>("Civilian").Roles.Select(r => r.Id), Does.Contain("SyndicateDiplomat"));
+        });
+
+        var client = pair.Client;
+        await client.WaitIdleAsync();
+        var parser = client.ResolveDependency<DocumentParsingManager>();
+        var clientRes = client.ResolveDependency<IResourceManager>();
+        var clientProto = client.ResolveDependency<IPrototypeManager>();
+        foreach (var id in new[]
+                 {
+                     "SyndicateDiplomat", "RuleR17", "SyndicateDiplomatSOP",
+                     "Jobs", "Service", "Glossary", "Security", "Antagonists", "Traitors", "NuclearOperatives",
+                     "RoleTypes", "RuleC4", "RuleR3", "RuleR6", "SpaceLaw", "SpaceLawCrimeList", "ServiceSOP", "RuleS8",
+                 })
+        {
+            await client.WaitPost(() =>
+            {
+                var entry = clientProto.Index<GuideEntryPrototype>(id);
+                using var reader = clientRes.ContentFileReadText(entry.Text);
+                Assert.That(parser.TryAddMarkup(new Document(), reader.ReadToEnd()), Is.True, id);
+            });
+        }
 
         await pair.CleanReturnAsync();
     }

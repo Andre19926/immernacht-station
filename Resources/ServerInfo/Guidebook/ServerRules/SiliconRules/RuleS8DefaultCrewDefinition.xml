@@ -20,6 +20,6 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Eine unsichtbare Person, die aufgrund ihrer Unsichtbarkeit kein Symbol hat
 
   Symbole, die keine Job-Symbole sind:
-  - Leeres graues Quadrat, wie auf Syndikat-IDs
+  - Leeres graues Quadrat, wie auf Syndikat-IDs. Das Job-Symbol des [textlink="Syndikat-Diplomaten" link="SyndicateDiplomat"] ist davon getrennt. Er zählt zur Crew.
   - Ein Fragezeichen, das das Fehlen einer ID anzeigt
 </Document>
