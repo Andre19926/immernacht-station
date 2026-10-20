@@ -7,6 +7,9 @@ JobSyndicateDiplomat = Syndikat-Diplomat
 
 # Loadout
 loadout-group-syndicate-diplomat-jumpsuit = Syndikat-Diplomat: Uniform
+loadout-group-syndicate-diplomat-head = Syndikat-Diplomat: Kopfbedeckung
+loadout-group-syndicate-diplomat-outer = Syndikat-Diplomat: Oberbekleidung
+loadout-group-syndicate-diplomat-neck = Syndikat-Diplomat: Hals
 
 # Uplink
 store-preset-name-diplomat = Diplomatenkurier
@@ -87,6 +90,34 @@ ent-ClothingUniformJumpsuitSyndicateDiplomat = Syndikat-Diplomatenanzug
     .desc = Ein maßgeschneiderter rot-schwarzer Anzug für offizielle Gesandte des Syndikats. Makellos neutral, meistens.
 ent-ClothingUniformJumpskirtSyndicateDiplomat = Syndikat-Diplomatenrock
     .desc = Ein maßgeschneidertes rot-schwarzes Kostüm mit Rock für offizielle Gesandte des Syndikats. Makellos neutral, meistens.
+ent-ClothingHeadHatSyndicateDiplomat = Syndikat-Diplomatenhut
+    .desc = Eine rote Souvenirmütze des diplomatischen Korps, nicht aus dem Geschenkeladen. Auf dem Etikett steht „offizieller Gesandter“.
+ent-ClothingHeadHatBeretSyndicateDiplomat = Syndikat-Diplomatenbarett
+    .desc = Ein blutrotes Barett für Gesandte, die ihre Autorität lieber schräg tragen.
+ent-ClothingHeadHatTophatSyndicateDiplomat = Diplomaten-Zylinder
+    .desc = Ein schwarzer Zylinder für Verträge, Trinksprüche und höflich vorgetragene Drohungen.
+ent-ClothingHeadHatFezSyndicateDiplomat = Diplomaten-Fez
+    .desc = Ein roter Fez. Irgendwo zwischen Staatsbesuch und sehr selbstbewusstem Urlaub.
+ent-ClothingHeadHatBowlerSyndicateDiplomat = Diplomaten-Bowlerhut
+    .desc = Ein ruhiger schwarzer Bowlerhut. Wer den trägt, hat den Vertrag schon gelesen.
+ent-ClothingHeadHatHoodWinterSyndicateDiplomat = Syndikat-Diplomatenkapuze
+    .desc = Die Kapuze eines Gesandten-Wintermantels. Hält den Wind ab und die Sicherheitskontrolle ruhig.
+ent-ClothingOuterCoatSyndicateDiplomat = Syndikat-Diplomatenmantel
+    .desc = Der vergoldete Mantel des Syndikats, ausgegeben an Gesandte statt an Kapitäne. Alles Gold, kein Schmuggelstempel.
+ent-ClothingOuterWinterSyndicateDiplomat = Syndikat-Wintermantel
+    .desc = Ein Syndieland-Wintermantel, das Touristenschild abgetrennt, ein diplomatisches Wappen eingenäht. Warm, laut und formal legal.
+ent-ClothingOuterWinterGildedSyndicateDiplomat = Vergoldeter Syndikat-Wintermantel
+    .desc = Fester Stoff, vergoldete Muster und grobe Wolle, geschnitten für einen Gesandten, der die kalte Schicht bleiben will.
+ent-ClothingOuterCoatEveningSyndicateDiplomat = Dunkler Abendmantel
+    .desc = Ein dunkler, scharf geschnittener Abendmantel. Für Empfänge und für den Abgang danach.
+ent-ClothingOuterCoatReceptionSyndicateDiplomat = Heller Empfangsmantel
+    .desc = Ein heller, sanfter Übermantel. Darunter wirkt der rote Anzug wie eine Absicht.
+ent-ClothingNeckPonchoSyndicateDiplomat = Syndikat-Poncho
+    .desc = Ein schwarz-roter Kaltwetterponcho in den Farben des Syndikats. Kratzig, offiziell und kein Schmuggelgut.
+ent-ClothingNeckScarfSyndicateDiplomat = Rotgestreifter Syndikat-Schal
+    .desc = Ein rotgestreifter Schal in Syndikat-Farben, am Hals getragen wie eine Schärpe. Mode, kein Schmuggelversteck.
+ent-ClothingNeckTieSyndicateDiplomat = Diplomatenkrawatte
+    .desc = Eine neoseidene Klippkrawatte in Syndikat-Rot. Für den Punkt am Ende des Anzugs.
 ent-EncryptionKeySyndicateDiplomat = Diplomatischer Verschlüsselungsschlüssel
     .desc = Ein Verschlüsselungsschlüssel für die Stationskanäle und den Syndikat-Kanal, ausgegeben an offizielle Gesandte.
 ent-ClothingHeadsetSyndicateDiplomat = Diplomaten-Over-Ear-Headset
