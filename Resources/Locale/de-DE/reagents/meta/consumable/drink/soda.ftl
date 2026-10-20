@@ -57,7 +57,7 @@ reagent-desc-space-mountain-wind = Fährt durch dich hindurch wie ein Sonnenwind
 reagent-name-space-up = Space-Up
 reagent-desc-space-up = Schmeckt wie ein Rumpfbruch im Mund.
 
-reagent-name-starkist = Spezi
+reagent-name-starkist = Orangenlimo
 reagent-desc-starkist = Ein süßes, aromatisches Erfrischungsgetränk.
 
 reagent-name-fourteen-loko = Vierzehn Loko

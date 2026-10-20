@@ -31,7 +31,7 @@ ent-DrinkSpaceUpCan = Space-Up-Dose
 ent-DrinkSolDryCan = Sol-Dry-Dose
     .desc = Süße Ingwerlimonade aus dem Weltraum!
 
-ent-DrinkStarkistCan = Spezi-Dose
+ent-DrinkStarkistCan = Orangenlimo-Dose
     .desc = Der Geschmack eines Sterns in flüssiger Form. Und ein bisschen Thunfisch ...?
 
 ent-DrinkTonicWaterCan = Tonic-Water-Dose
