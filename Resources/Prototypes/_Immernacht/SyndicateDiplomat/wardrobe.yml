@@ -1,0 +1,259 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Garderobe des Syndikat-Diplomaten: Hüte, Mäntel, Poncho.
+# Offizieller Gesandter. Keine Rüstung, kein Weltraumschutz, keine versteckten Taschen.
+#
+# Contraband und Armor lassen sich mit !Remove nicht von einem parent streichen.
+# Die Engine wertet !Remove nur bei Partial-Prototypen (gleiche ID) aus, nicht bei
+# parent-Vererbung. Stücke, deren Original Schmuggelgut oder eine Armor-Komponente
+# trägt, erben deshalb die Kleidungsbasis des Originals und übernehmen dessen Sprite.
+# Saubere Originale (kein Contraband, keine Armor) sind direkt der parent.
+
+# --- Kopf ---
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatSyndicateDiplomat
+  name: syndicate diplomat cap
+  description: A red souvenir cap from the diplomatic corps, not the gift shop. The tag reads "official envoy".
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/syndiecap.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/syndiecap.rsi
+
+- type: entity
+  parent: ClothingHeadHatBeret
+  id: ClothingHeadHatBeretSyndicateDiplomat
+  name: syndicate diplomat beret
+  description: A blood-red beret for envoys who prefer their authority worn at a slight angle.
+
+- type: entity
+  parent: ClothingHeadHatTophat
+  id: ClothingHeadHatTophatSyndicateDiplomat
+  name: diplomat top hat
+  description: A black top hat for treaties, toasts and terribly polite threats.
+
+- type: entity
+  parent: ClothingHeadHatFez
+  id: ClothingHeadHatFezSyndicateDiplomat
+  name: diplomat fez
+  description: A red fez. Somewhere between a state visit and a very confident vacation.
+
+- type: entity
+  parent: ClothingHeadHatBowlerHat
+  id: ClothingHeadHatBowlerSyndicateDiplomat
+  name: diplomat bowler
+  description: A quiet black bowler. Whoever wears this has already read the contract.
+
+# --- Oberbekleidung ---
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatSyndicateDiplomat
+  name: syndicate diplomat coat
+  description: The Syndicate's gilded coat, issued to envoys rather than captains. All the gold, none of the contraband stamp.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecap.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatHoodWinterSyndicateDiplomat
+  name: syndicate diplomat hood
+  description: The hood of an envoy's winter coat. Keeps the wind off, and the security scan quiet.
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hoods/Coat/hoodsyndicate.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hoods/Coat/hoodsyndicate.rsi
+    equipSound: /Audio/Effects/rustle1.ogg
+    unequipSound: /Audio/Effects/rustle2.ogg
+    quickEquip: false
+  - type: TemperatureProtection
+    heatingCoefficient: 1.05
+    coolingCoefficient: 0.7
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - HeadTop
+    - HeadSide
+
+- type: entity
+  parent: ClothingOuterStorageToggleableBase
+  id: ClothingOuterWinterSyndicateDiplomat
+  name: syndicate diplomat winter coat
+  description: A Syndieland winter coat with the tourist tag cut out and a diplomatic crest sewn in. Warm, loud and formally legal.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/wintercoatsyndie.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/wintercoatsyndie.rsi
+  - type: ToggleableClothing
+    clothingPrototypes:
+      head: ClothingHeadHatHoodWinterSyndicateDiplomat
+  - type: TemperatureProtection
+    heatingCoefficient: 1.1
+    coolingCoefficient: 0.1
+  - type: Item
+    size: Normal
+
+- type: entity
+  parent: ClothingOuterStorageToggleableBase
+  id: ClothingOuterWinterGildedSyndicateDiplomat
+  name: gilded syndicate diplomat winter coat
+  description: Durable cloth, gilded patterns and coarse wool, cut for an envoy who intends to stay through the cold shift.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecap.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecap.rsi
+  - type: ToggleableClothing
+    clothingPrototypes:
+      head: ClothingHeadHatHoodWinterSyndicateDiplomat
+  - type: TemperatureProtection
+    heatingCoefficient: 1.1
+    coolingCoefficient: 0.1
+  - type: Item
+    size: Normal
+
+- type: entity
+  parent: ClothingOuterDameDane
+  id: ClothingOuterCoatEveningSyndicateDiplomat
+  name: diplomat evening coat
+  description: A dark, sharply cut evening coat. For receptions, and for leaving them.
+
+- type: entity
+  parent: ClothingOuterCoatGentle
+  id: ClothingOuterCoatReceptionSyndicateDiplomat
+  name: diplomat reception coat
+  description: A pale, gentle overcoat. It makes the red suit underneath look like a deliberate choice.
+
+# --- Hals ---
+
+- type: entity
+  parent: ClothingNeckPonchoSyndicate
+  id: ClothingNeckPonchoSyndicateDiplomat
+  name: syndicate diplomat poncho
+  description: A black-and-red cold-weather poncho in the Syndicate's colors. Itchy, official, and not contraband.
+
+- type: entity
+  parent: ClothingScarfBase
+  id: ClothingNeckScarfSyndicateDiplomat
+  name: syndicate diplomat scarf
+  description: A red-striped scarf in Syndicate colors, worn at the throat like a sash. Fashion, not a smuggling hole.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Scarfs/syndiered.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/Scarfs/syndiered.rsi
+
+- type: entity
+  parent: ClothingNeckTieRed
+  id: ClothingNeckTieSyndicateDiplomat
+  name: diplomat tie
+  description: A neosilk clip-on in Syndicate red. For when the suit needs a full stop.
+
+# --- Loadout ---
+
+- type: loadout
+  id: SyndicateDiplomatHeadCap
+  equipment:
+    head: ClothingHeadHatSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatHeadBeret
+  equipment:
+    head: ClothingHeadHatBeretSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatHeadTophat
+  equipment:
+    head: ClothingHeadHatTophatSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatHeadFez
+  equipment:
+    head: ClothingHeadHatFezSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatHeadBowler
+  equipment:
+    head: ClothingHeadHatBowlerSyndicateDiplomat
+
+- type: loadoutGroup
+  id: SyndicateDiplomatHead
+  name: loadout-group-syndicate-diplomat-head
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - SyndicateDiplomatHeadCap
+  - SyndicateDiplomatHeadBeret
+  - SyndicateDiplomatHeadTophat
+  - SyndicateDiplomatHeadFez
+  - SyndicateDiplomatHeadBowler
+
+- type: loadout
+  id: SyndicateDiplomatOuterCoat
+  equipment:
+    outerClothing: ClothingOuterCoatSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatOuterWinter
+  equipment:
+    outerClothing: ClothingOuterWinterSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatOuterWinterGilded
+  equipment:
+    outerClothing: ClothingOuterWinterGildedSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatOuterEvening
+  equipment:
+    outerClothing: ClothingOuterCoatEveningSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatOuterReception
+  equipment:
+    outerClothing: ClothingOuterCoatReceptionSyndicateDiplomat
+
+- type: loadoutGroup
+  id: SyndicateDiplomatOuter
+  name: loadout-group-syndicate-diplomat-outer
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - SyndicateDiplomatOuterCoat
+  - SyndicateDiplomatOuterWinter
+  - SyndicateDiplomatOuterWinterGilded
+  - SyndicateDiplomatOuterEvening
+  - SyndicateDiplomatOuterReception
+
+- type: loadout
+  id: SyndicateDiplomatNeckPoncho
+  equipment:
+    neck: ClothingNeckPonchoSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatNeckScarf
+  equipment:
+    neck: ClothingNeckScarfSyndicateDiplomat
+
+- type: loadout
+  id: SyndicateDiplomatNeckTie
+  equipment:
+    neck: ClothingNeckTieSyndicateDiplomat
+
+- type: loadoutGroup
+  id: SyndicateDiplomatNeck
+  name: loadout-group-syndicate-diplomat-neck
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - SyndicateDiplomatNeckPoncho
+  - SyndicateDiplomatNeckScarf
+  - SyndicateDiplomatNeckTie

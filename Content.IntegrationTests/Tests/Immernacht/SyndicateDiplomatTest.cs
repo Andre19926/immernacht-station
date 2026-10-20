@@ -2,11 +2,18 @@
 
 using System.Collections.Generic;
 using System.Linq;
+using Content.Goobstation.Common.NTR.Scan;
+using Content.Server.Atmos.Components;
+using Content.Shared.Armor;
+using Content.Shared.Contraband;
+using Content.Shared.Preferences.Loadouts;
 using Content.Shared.Roles;
 using Content.Shared.Storage;
+using Content.Shared.Storage.Components;
 using Content.Shared.Radio.Components;
 using Content.Shared.Store;
 using Content.Shared.Store.Components;
+using Robust.Shared.Containers;
 using Robust.Shared.GameObjects;
 using Robust.Shared.Prototypes;
 
@@ -153,6 +160,96 @@ public sealed class SyndicateDiplomatTest
             Assert.That(reason, Is.Not.Null);
             Assert.That(req.Check(server.EntMan, server.ProtoMan, null, almost, out _), Is.False);
             Assert.That(req.Check(server.EntMan, server.ProtoMan, null, enough, out _), Is.True);
+        });
+
+        await pair.CleanReturnAsync();
+    }
+
+    /// <summary>
+    /// Garderobe: optional, ein Stück pro Slot, ohne Schmuggelmarkierung, Rüstung oder Weltraumschutz.
+    /// </summary>
+    [Test]
+    public async Task WardrobeHasNoContrabandOrArmor()
+    {
+        await using var pair = await PoolManager.GetServerClient(new PoolSettings { Dirty = true });
+        var server = pair.Server;
+        var testMap = await pair.CreateTestMap();
+
+        var pieces = new[]
+        {
+            "ClothingHeadHatSyndicateDiplomat",
+            "ClothingHeadHatBeretSyndicateDiplomat",
+            "ClothingHeadHatTophatSyndicateDiplomat",
+            "ClothingHeadHatFezSyndicateDiplomat",
+            "ClothingHeadHatBowlerSyndicateDiplomat",
+            "ClothingHeadHatHoodWinterSyndicateDiplomat",
+            "ClothingOuterCoatSyndicateDiplomat",
+            "ClothingOuterWinterSyndicateDiplomat",
+            "ClothingOuterWinterGildedSyndicateDiplomat",
+            "ClothingOuterCoatEveningSyndicateDiplomat",
+            "ClothingOuterCoatReceptionSyndicateDiplomat",
+            "ClothingNeckPonchoSyndicateDiplomat",
+            "ClothingNeckScarfSyndicateDiplomat",
+            "ClothingNeckTieSyndicateDiplomat",
+        };
+
+        await server.WaitAssertion(() =>
+        {
+            var role = server.ProtoMan.Index<RoleLoadoutPrototype>("JobSyndicateDiplomat");
+            var groupIds = role.Groups.Select(g => g.Id).ToList();
+            Assert.That(groupIds, Does.Contain("SyndicateDiplomatHead"));
+            Assert.That(groupIds, Does.Contain("SyndicateDiplomatOuter"));
+            Assert.That(groupIds, Does.Contain("SyndicateDiplomatNeck"));
+
+            foreach (var (groupId, slot) in new[]
+                     {
+                         ("SyndicateDiplomatHead", "head"),
+                         ("SyndicateDiplomatOuter", "outerClothing"),
+                         ("SyndicateDiplomatNeck", "neck"),
+                     })
+            {
+                var group = server.ProtoMan.Index<LoadoutGroupPrototype>(groupId);
+                Assert.That(group.MinLimit, Is.EqualTo(0), groupId);
+                Assert.That(group.MaxLimit, Is.EqualTo(1), groupId);
+                Assert.That(group.Loadouts, Is.Not.Empty, groupId);
+
+                foreach (var loadoutId in group.Loadouts)
+                {
+                    var loadout = server.ProtoMan.Index<LoadoutPrototype>(loadoutId);
+                    Assert.That(loadout.Effects, Is.Empty, $"{loadoutId} ist nicht frei wählbar");
+                    Assert.That(loadout.Equipment.Keys, Is.EquivalentTo(new[] { slot }), loadoutId);
+                    Assert.That(pieces, Does.Contain(loadout.Equipment[slot].Id), loadoutId);
+                }
+            }
+
+            foreach (var id in pieces)
+            {
+                var proto = server.ProtoMan.Index<EntityPrototype>(id);
+                Assert.That(proto.Components.ContainsKey("Contraband"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("Armor"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("ScannableForPoints"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("PressureProtection"), Is.False, id);
+                Assert.That(proto.Components.ContainsKey("SecretStash"), Is.False, id);
+
+                var ent = server.EntMan.SpawnEntity(id, testMap.GridCoords);
+                Assert.That(server.EntMan.HasComponent<ContrabandComponent>(ent), Is.False, id);
+                Assert.That(server.EntMan.HasComponent<ArmorComponent>(ent), Is.False, id);
+                Assert.That(server.EntMan.HasComponent<ScannableForPointsComponent>(ent), Is.False, id);
+                Assert.That(server.EntMan.HasComponent<PressureProtectionComponent>(ent), Is.False, id);
+                Assert.That(server.EntMan.HasComponent<SecretStashComponent>(ent), Is.False, id);
+
+                if (id is "ClothingOuterWinterSyndicateDiplomat" or "ClothingOuterWinterGildedSyndicateDiplomat")
+                {
+                    var containers = server.EntMan.System<SharedContainerSystem>();
+                    Assert.That(containers.TryGetContainer(ent, "toggleable-clothing", out var hoods), Is.True, id);
+                    var hoodIds = hoods.ContainedEntities
+                        .Select(e => server.EntMan.GetComponent<MetaDataComponent>(e).EntityPrototype?.ID)
+                        .ToList();
+                    Assert.That(hoodIds, Is.EquivalentTo(new[] { "ClothingHeadHatHoodWinterSyndicateDiplomat" }), id);
+                }
+
+                server.EntMan.DeleteEntity(ent);
+            }
         });
 
         await pair.CleanReturnAsync();

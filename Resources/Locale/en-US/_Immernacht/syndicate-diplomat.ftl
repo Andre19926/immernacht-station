@@ -7,6 +7,9 @@ JobSyndicateDiplomat = Syndicate Diplomat
 
 # Loadout
 loadout-group-syndicate-diplomat-jumpsuit = Syndicate diplomat jumpsuit
+loadout-group-syndicate-diplomat-head = Syndicate diplomat headwear
+loadout-group-syndicate-diplomat-outer = Syndicate diplomat outerwear
+loadout-group-syndicate-diplomat-neck = Syndicate diplomat neck
 
 # Uplink
 store-preset-name-diplomat = Diplomatic Courier
@@ -81,6 +84,36 @@ syndicate-diplomat-paper-favor = FAVOR CONTRACT
     Interest applies.
     Signature, Syndicate envoy: ________
     Signature, recipient: ________
+
+# Entities
+ent-ClothingHeadHatSyndicateDiplomat = syndicate diplomat cap
+    .desc = A red souvenir cap from the diplomatic corps, not the gift shop. The tag reads "official envoy".
+ent-ClothingHeadHatBeretSyndicateDiplomat = syndicate diplomat beret
+    .desc = A blood-red beret for envoys who prefer their authority worn at a slight angle.
+ent-ClothingHeadHatTophatSyndicateDiplomat = diplomat top hat
+    .desc = A black top hat for treaties, toasts and terribly polite threats.
+ent-ClothingHeadHatFezSyndicateDiplomat = diplomat fez
+    .desc = A red fez. Somewhere between a state visit and a very confident vacation.
+ent-ClothingHeadHatBowlerSyndicateDiplomat = diplomat bowler
+    .desc = A quiet black bowler. Whoever wears this has already read the contract.
+ent-ClothingHeadHatHoodWinterSyndicateDiplomat = syndicate diplomat hood
+    .desc = The hood of an envoy's winter coat. Keeps the wind off, and the security scan quiet.
+ent-ClothingOuterCoatSyndicateDiplomat = syndicate diplomat coat
+    .desc = The Syndicate's gilded coat, issued to envoys rather than captains. All the gold, none of the contraband stamp.
+ent-ClothingOuterWinterSyndicateDiplomat = syndicate diplomat winter coat
+    .desc = A Syndieland winter coat with the tourist tag cut out and a diplomatic crest sewn in. Warm, loud and formally legal.
+ent-ClothingOuterWinterGildedSyndicateDiplomat = gilded syndicate diplomat winter coat
+    .desc = Durable cloth, gilded patterns and coarse wool, cut for an envoy who intends to stay through the cold shift.
+ent-ClothingOuterCoatEveningSyndicateDiplomat = diplomat evening coat
+    .desc = A dark, sharply cut evening coat. For receptions, and for leaving them.
+ent-ClothingOuterCoatReceptionSyndicateDiplomat = diplomat reception coat
+    .desc = A pale, gentle overcoat. It makes the red suit underneath look like a deliberate choice.
+ent-ClothingNeckPonchoSyndicateDiplomat = syndicate diplomat poncho
+    .desc = A black-and-red cold-weather poncho in the Syndicate's colors. Itchy, official, and not contraband.
+ent-ClothingNeckScarfSyndicateDiplomat = syndicate diplomat scarf
+    .desc = A red-striped scarf in Syndicate colors, worn at the throat like a sash. Fashion, not a smuggling hole.
+ent-ClothingNeckTieSyndicateDiplomat = diplomat tie
+    .desc = A neosilk clip-on in Syndicate red. For when the suit needs a full stop.
 
 # Play time tracker: Syndicate agent (traitor, sleeper, nuclear operatives, contractor)
 play-time-tracker-AntagSyndicateAgent = Syndicate Agent

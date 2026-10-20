@@ -59,7 +59,10 @@
   id: JobSyndicateDiplomat
   groups:
   - GroupTankHarness
+  - SyndicateDiplomatHead
+  - SyndicateDiplomatNeck
   - SyndicateDiplomatJumpsuit
+  - SyndicateDiplomatOuter
   - CommonBackpack
   - Glasses
   - Survival
