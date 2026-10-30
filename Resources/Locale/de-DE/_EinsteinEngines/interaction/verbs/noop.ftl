@@ -1,20 +1,20 @@
-interaction-LookAt-name = Stern
-interaction-LookAt-description = Starre in die Leere und sieh zu, wie sie zurückblickt.
+interaction-LookAt-name = Anstarren
+interaction-LookAt-description = Starre in die Leere und sieh, wie sie zurückstarrt.
 interaction-LookAt-success-self-popup = Du starrst {THE($target)} an.
 interaction-LookAt-success-target-popup = Du spürst, wie {THE($user)} dich anstarrt ...
 interaction-LookAt-success-others-popup = {CAPITALIZE(THE($user))} starrt {THE($target)} an.
 
-interaction-Hug-name = Wanze
-interaction-Hug-description = Eine Umarmung am Tag hält die psychologischen Schrecken jenseits deines Verständnisses.
+interaction-Hug-name = Umarmen
+interaction-Hug-description = Eine Umarmung am Tag hält die psychologischen Schrecken jenseits deines Verständnisses fern.
 interaction-Hug-success-self-popup = Du umarmst {THE($target)}.
 interaction-Hug-success-target-popup = {CAPITALIZE(THE($user))} umarmt dich.
 interaction-Hug-success-others-popup = {CAPITALIZE(THE($user))} umarmt {THE($target)}.
 
 interaction-KnockOn-name = Klopfen
 interaction-KnockOn-description = Klopf auf das Ziel, um Aufmerksamkeit zu erregen.
-interaction-KnockOn-success-self-popup = Du tippst {THE($target)} an.
-interaction-KnockOn-success-target-popup = {CAPITALIZE(THE($user))} tippt dich an.
-interaction-KnockOn-success-others-popup = {CAPITALIZE(THE($user))} tippt {THE($target)} an.
+interaction-KnockOn-success-self-popup = Du klopfst an {THE($target)}.
+interaction-KnockOn-success-target-popup = {CAPITALIZE(THE($user))} klopft an dich.
+interaction-KnockOn-success-others-popup = {CAPITALIZE(THE($user))} klopft an {THE($target)}.
 
 # The below includes conditionals for if the user is holding an item
 interaction-WaveAt-name = Winken
