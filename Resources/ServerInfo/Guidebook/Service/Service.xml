@@ -7,7 +7,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 [color=#9fed58]Dienstleistung[/color] hält die Station sauber, effizient und vernünftig, damit alle anderen Abteilungen ihre Arbeit besser erledigen und ihr Personal zufrieden halten können. Sie erledigen auch am Ende den größten Teil des Papierkrams auf der Station.
 
 ## Personal
-Das Personal der [color=#9fed58]Dienstleistungsabteilung[/color] besteht aus Dienstleistungsarbeitern (Service Workers), Köchen (Chefs), Botanikern (Botanists), Barkeepers (Bartenders), Hausmeistern (Janitors), Kaplänen (Chaplains), Clowns, Mimen (Mimes), Musikern (Musicians), Anwälten (Lawyers), Bibliothekaren (Librarians) und Passagieren. Die Dienstleistungsabteilung wird vom Personalleiter (Head of Personnel) geleitet.
+Das Personal der [color=#9fed58]Dienstleistungsabteilung[/color] besteht aus Dienstleistungsarbeitern (Service Workers), Köchen (Chefs), Botanikern (Botanists), Barkeepers (Bartenders), Hausmeistern (Janitors), Kaplänen (Chaplains), Clowns, Mimen (Mimes), Musikern (Musicians), Anwälten (Lawyers), Bibliothekaren (Librarians), Passagieren und dem [textlink="Syndikat-Diplomaten" link="SyndicateDiplomat"]. Die Dienstleistungsabteilung wird vom Personalleiter (Head of Personnel) geleitet. Der Diplomat untersteht dabei dem Captain und leitet nichts.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Koch (Chef)"/>

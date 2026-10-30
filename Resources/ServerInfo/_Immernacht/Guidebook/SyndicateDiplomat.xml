@@ -1,0 +1,63 @@
+<!--
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Syndikat-Diplomat
+
+<Box>
+[color=#999999][italic]„Das Syndikat schickt nicht nur Leute, die im Dunkeln arbeiten. Manchmal schickt es jemanden, den man auf dem Flur grüßen kann.“[/italic][/color]
+</Box>
+
+Das diplomatische Korps des [color=#ff0000]Syndikats[/color] stellt auf Stationen von Nanotrasen einen offenen Gesandten ab. Ihr seid dieser Posten. Kein Schläfer, kein Atomagent, kein Angestellter der Firma. Ein Mensch mit Aktenkoffer, der Verträge anbietet, solange beide Seiten Lust darauf haben.
+
+## Wer euch schickt
+Hinter den Agenten und den Einsatzteams steht dasselbe Syndikat, das Nanotrasen die Stationen streitig macht. Die verdeckten Leute bleiben verdeckt. Für alles, was einen Namen, einen Stempel und einen Zeugen verträgt, gibt es das Korps. Ihr kommt mit Ansage an Bord. Die Crew erfährt, dass ihr da seid.
+
+Nanotrasen duldet den Posten, weil ein Gesandter mit Ausweis leichter zu beobachten ist als ein Uplink in einer Jackentasche, und weil ein unterschriebener Handel manchmal billiger ist als ein Loch im Rumpf. Das ist keine Freundschaft. Es ist eine Vereinbarung, die bis zum nächsten Alarm hält.
+
+## An Bord
+Ihr untersteht dem [color=#1b67a5]Captain[/color]. Ihr gehört nicht zur Befehlskette, leitet keine Abteilung und seid kein Vorgesetzter. Zugang habt ihr zu Dienst, Bar und Theater, also dorthin, wo man redet, trinkt und unterschreibt.
+
+Mit der Crew teilt ihr den normalen Schichtalltag. Smalltalk, Geschenke, Gefälligkeiten, ein Pakt, der beide Seiten eine Weile in Ruhe lässt. Wer euch den Rücken kehrt, weil der Anzug rot ist, darf das. Wer euch angreift, nur weil ihr das Syndikat vertretet, braucht denselben Grund wie gegen jeden anderen Gast, der nichts getan hat.
+
+Agenten und Atomteams arbeiten nicht für euch, und ihr arbeitet nicht für sie. Ein Verräter, der euch „Führung“ nennt, lügt. Ein Gesandter, der einen Einsatz deckt, hat den Posten verlassen.
+
+## Was ihr dürft
+- Verhandeln, die Vorlagen ausfüllen, siegeln und Gefälligkeiten tauschen.
+- Den Diplomatenkurier offen benutzen. Er rechnet in Gefallen, nicht in Telekristallen, und führt Lebensart, Geschenke, Bürobedarf und einen Handblitz.
+- Rot und schwarz tragen. Dienstkleidung, Ausweis, Stempel, Koffer, Headset und Kurier sind keine Schmuggelware.
+- Den Syndikat-Kanal hören und dort als Gesandter sprechen.
+
+## Was ihr nicht dürft
+- Angreifen, sabotieren, stehlen, erpressen oder die Station in Gefahr bringen. Ihr seid kein Antagonist, und die Rolle kann euch auch keiner geben.
+- Kanal, Kurier oder Verträge an Agenten und Atomteams weiterreichen. Ihr seid nicht ihr Führungsoffizier, und sie sind nicht eure Eskorte.
+- Befehle erteilen, Zugänge einsammeln oder euch zu Sicherheit oder Kommando erklären.
+- Den Handblitz für etwas anderes als Selbstschutz benutzen. Er blendet. Er ist kein Werkzeug für Raub oder Entführung.
+- Echte Syndikat-Schmuggelware anschaffen. EMAGs, Hartsuits, Waffen und Telekristall-Uplinks bleiben verboten, auch an euch.
+
+## Ausrüstung
+<Box>
+<GuideEntityEmbed Entity="ClothingUniformJumpsuitSyndicateDiplomat" Caption="Anzug"/>
+<GuideEntityEmbed Entity="ClothingHeadHatSyndicateDiplomat" Caption="Hut"/>
+<GuideEntityEmbed Entity="ClothingOuterCoatSyndicateDiplomat" Caption="Mantel"/>
+<GuideEntityEmbed Entity="ClothingNeckTieSyndicateDiplomat" Caption="Krawatte"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="BriefcaseSyndicateDiplomatFilled" Caption="Aktenkoffer"/>
+<GuideEntityEmbed Entity="RubberStampSyndicateDiplomat" Caption="Siegel"/>
+<GuideEntityEmbed Entity="SyndicateDiplomatUplink" Caption="Kurier"/>
+<GuideEntityEmbed Entity="ClothingHeadsetSyndicateDiplomat" Caption="Headset"/>
+</Box>
+
+Im Koffer liegen Siegel, Genehmigt- und Abgelehnt-Stempel, ein Stift und drei Vorlagen: Handelsabkommen, Nichtangriffspakt, Gefälligkeitsvertrag. Es fallen Zinsen an. Der Kurier startet mit 30 Gefallen. Das Headset hängt an Allgemein, Dienst und Syndikat, an keinem Kommando- und keinem Sicherheitskanal.
+
+Ihr startet an den Passagierpunkten. Einen eigenen Marker auf der Karte gibt es nicht.
+
+## Voraussetzung
+Fünf Stunden Gesamtspielzeit und fünfzig Stunden auf dem Tracker Syndikat-Agent. Diese Zeit sammelt sich als Verräter, Schläfer, Atomagent und Kontraktor. Die Anforderung steht am Job.
+
+Verhalten und der Umgang durch die Sicherheit stehen unter [textlink="R17" link="RuleR17"]. Die Richtlinie für die Schicht steht in der [textlink="SOP" link="SyndicateDiplomatSOP"].
+
+Verdeckte Arbeit ist ein anderer Posten: [textlink="Verräter" link="Traitors"], [textlink="Atomagenten" link="NuclearOperatives"].
+</Document>
