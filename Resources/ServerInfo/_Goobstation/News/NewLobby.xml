@@ -1,36 +1,36 @@
 <Document>
-  # New Lobby Design!!
+  # Neues Lobby-Design!!
 
-  After adding voice chat to Goob, I realized we had quite a few popups that would all stack on top of each other. So of course I went straight into building a news system to replace them.
+  Nachdem ich den Sprachchat hier hinzugefügt hatte, fiel mir auf, dass wir ziemlich viele Popups hatten, die sich alle übereinander stapelten. Also habe ich natürlich sofort ein News-System gebaut, das sie ersetzt.
 
-  Instantly, I ran into a problem, the old lobby was so fucking cluttered that I couldn't reasonably fit it in anywhere.
+  Sofort hatte ich ein Problem: Die alte Lobby war so verdammt vollgestopft, dass ich es nirgends vernünftig unterbringen konnte.
 
-  So I started cleaning up the lobby, and before I knew it I'd redesigned the entire thing. Halfway through, I started styling it like hull plating, cuz it's cool.
+  Also fing ich an, die Lobby aufzuräumen, und ehe ich mich versah, hatte ich das ganze Ding neu entworfen. Auf halbem Weg fing ich an, es wie Rumpfpanzerung zu stylen, weil das cool ist.
 
-  Then I figured the character customization screen should probably match the lobby, and went...
+  Dann dachte ich, der Charaktereditor sollte wohl zur Lobby passen, und dachte mir …
 
-  [bold]man.[/bold]
-  [italic]this shit sucks too.[/italic]
+  [bold]Alter.[/bold]
+  [italic]das ist auch scheiße.[/italic]
 
-  Picking markings and hair from a dropdown is so fucking bad. You have no clue what anything looks like until you click it, and slowly going through the list to find the one you want is [bold]ASS[/bold].
+  Körpermerkmale und Haare aus einem Dropdown zu wählen ist so verdammt schlecht. Du hast keine Ahnung, wie etwas aussieht, bis du es anklickst, und die Liste langsam durchzugehen, um das Richtige zu finden, ist [bold]BESCHISSEN[/bold].
 
-  Fuck it, we making a new character customization screen too.
+  Egal, wir bauen auch einen neuen Charaktereditor.
 
-  ## What's new
+  ## Was ist neu
 
   ### Lobby
-  - A news feed with pinned posts (ur reading it right now)
-  - Chat and News tabs
-  - Round info and ready status moved into the bottom side panel and made [italic]fancy[/italic]
-  - Links and the menu moved into dropdowns instead of a wall of buttons at the top
+  - Ein News-Feed mit angehefteten Beiträgen (du liest ihn gerade)
+  - Reiter für Chat und Neuigkeiten
+  - Rundeninfo und Bereit-Status in die untere Seitenleiste verschoben und [italic]schick[/italic] gemacht
+  - Links und das Menü in Dropdowns statt einer Wand aus Knöpfen oben
 
-  ### Character customization
-  - Hair, markings, and species all now have preview tiles instead of dropdowns.
-  - Skin and eye color swatches, and an age slider
-  - Ability to hide jobs you can't play yet
-  - A trait points bar
+  ### Charaktereditor
+  - Haare, Körpermerkmale und Spezies haben jetzt Vorschaukacheln statt Dropdowns.
+  - Farbfelder für Haut und Augen und ein Altersschieber
+  - Möglichkeit, Berufe auszublenden, die du noch nicht spielen kannst
+  - Eine Leiste für Eigenschaftspunkte
 
-  Here's what the new bits look like, (you can press them :-] ).
+  So sehen die neuen Teile aus (du kannst sie drücken :-] ).
 
   <NewsPanel Margin="4">
     <Box Orientation="Vertical">
@@ -54,15 +54,15 @@
 
   <ColorBox Color="#262a2e" OutlineColor="#4d535a" Margin="4">
     <Box Orientation="Vertical" Margin="8">
-      The sprites are by our glorious leader, [bold]@Rouge2t7[/bold] on Discord.
+      Die Sprites sind von unserem glorreichen Anführer, [bold]@Rouge2t7[/bold] auf Discord.
     </Box>
   </ColorBox>
 
-  It's not quite finished yet
+  Es ist noch nicht ganz fertig
 
-  (need to replace the JOIN and SAVE buttons and the NT metal panel, maybe change up the seven segement to be real pixel art, etc.)
+  (die Knöpfe für Beitreten und Speichern und die NT-Metallplatte müssen noch ersetzt werden, vielleicht die Sieben-Segment-Anzeige zu echtem Pixelart machen usw.)
 
-  but I wanted to get it out so you guys can start giving feedback on it. Hope you like it!
+  aber ich wollte es rausbringen, damit ihr Feedback geben könnt. Hoffentlich gefällt's euch!
 
   <InfoLinkButton Link="Discord" Text="news-new-lobby-feedback"/>
 

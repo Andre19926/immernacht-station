@@ -17,9 +17,6 @@ news-patreon-summary = Your support helps us keep the servers running, fund deve
 news-patreon-visit = Visit our Patreon
 news-patreon-perks = See perks
 
-news-sigma-no-tokens-title = NO MORE TOKENS ON GUIDE!!
-news-sigma-no-tokens-summary = Admins will temporarily no longer redeem tokens on The Guide gamemode.
-
 news-new-lobby-title = New Lobby
 news-new-lobby-summary = Graphic design is my passion.
 news-new-lobby-feedback = Give feedback on Discord
