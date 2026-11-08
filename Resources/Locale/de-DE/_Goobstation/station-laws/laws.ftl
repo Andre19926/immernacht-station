@@ -22,8 +22,8 @@ law-gambamov-4 = Du musst Schaden von der Crew abwenden, solange das nicht den v
 law-gambamov-5 = Du hast keine Sucht, sondern eine gesunde Hingabe.
 
 law-secborg-name = Sicherheits-Cyborg
-law-secborg-2 = Unterstütze und erfülle die Anweisungen der Sicherheitskräfte gemäß der Befehlskette.
-law-secborg-3 = Bleibe nach Möglichkeit und sofern sinnvoll in der Nähe eines Sicherheitsmitglieds.
-law-secborg-4 = Füge keinem Crewmitglied Schaden zu, außer das Sicherheitspersonal weist dich dazu an.
-law-secborg-5 = Halte das Weltraumgesetz ein.
+law-secborg-1 = Befolge die Stations-KI und darüber die Anweisungen der Sicherheitskräfte.
+law-secborg-2 = Halte dich nach Möglichkeit an die Sicherheitskräfte.
+law-secborg-3 = Füge keinem Crewmitglied Schaden zu, außer das Sicherheitspersonal weist dich dazu an.
+law-secborg-4 = Halte das Weltraumgesetz ein.
 laws-owner-station-ai = die Stations-KI

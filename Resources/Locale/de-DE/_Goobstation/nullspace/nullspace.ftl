@@ -1,0 +1,10 @@
+cmd-nullspace-desc = Schickt einen Spieler in den Nullraum, ein Labyrinth aus der Egoperspektive mit etwas darin.
+cmd-nullspace-help = Verwendung: nullspace [Spieler] [Clown-Verzögerung in Sekunden]
+cmd-nullspace-hint-player = [Spieler]
+cmd-nullspace-hint-delay = [Clown-Verzögerung in Sekunden]
+cmd-nullspace-no-player = Kein Spieler namens {$player}.
+cmd-nullspace-bad-delay = {$delay} ist keine gültige Verzögerung.
+cmd-nullspace-sent = {$player} wurde in den Nullraum geschickt.
+cmd-nullspace-not-in-game = Dieser Spieler ist nicht im Spiel.
+cmd-nullspace-already = Dieser Spieler ist bereits im Nullraum.
+cmd-nullspace-no-mind = Dieser Spieler hat kein Bewusstsein, das man schicken könnte.
